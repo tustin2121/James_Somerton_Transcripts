@@ -1,0 +1,15 @@
+exclude: [*]
+include: [index.md, docs, css]
+defaults:
+    -
+        scope:
+            path: "" # all files on the site
+        values:
+            layout: "default"
+    -
+        scope:
+            path: "docs"
+        values:
+            layout: "transcript"
+kramdown:
+    parse_block_html: true
