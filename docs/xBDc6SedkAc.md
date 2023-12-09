@@ -1,21 +1,19 @@
 ---
 cite:
-	rwrb_movie: "Red, White, and Royal Blue"
+	rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
-
-
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
 	<comment>Prior to this video being released, he was having trouble getting a sponsorship from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released it with a squarespace ad.</comment>
 </compare>
 
+Visual: "[Disclaimer]"
+
 <compare>
 <james>
-
-Visual: [Disclaimer]
 
 I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
 
@@ -43,20 +41,57 @@ To smooth out ruffled feathers and placate the media's appetite for scandal, Ale
 <from></from>
 </compare>
 
-<compare>
-<cite>{{ cite.rwrb_movie }}</cite>
-<clip>Alex: What three words would I use to describe Henry? White, blonde, and British.</clip>
+<compare><cite>{{ page.cite.rwrb_movie }}</cite>
+	<clip>Alex: What three words would I use to describe Henry? White, blonde, and British.</clip>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
 
-During one such contrived rendezvous, after a security breach lands them both locked in a cramped broom closet, Alex's guard crumbles. He divulges the root of his resentment stemming from a slight he felt from Henry during one of his initial forays into the international stage. This heartfelt confession, laced with vulnerability, moves Henry.Recognizing the weight of the misunderstanding, he extends a genuine gesture of reconciliation. Late night texts replace terse exchanges, humor replaces hostility, and slowly they start to build a bond, peppered with light-hearted jabs and shared inside jokes.
+During one such contrived rendezvous, after a security breach lands them both locked in a cramped broom closet, Alex's guard crumbles. He divulges the root of his resentment stemming from a slight he felt from Henry during one of his initial forays into the international stage. This heartfelt confession, laced with vulnerability, moves Henry. 
+
+Recognizing the weight of the misunderstanding, he extends a genuine gesture of reconciliation. Late night texts replace terse exchanges, humor replaces hostility, and slowly they start to build a bond, peppered with light-hearted jabs and shared inside jokes. However relationships are rarely linear. 
+
+At the extravagant New Year celebration hosted by Alex, emotions bubble to the surface. When the clock strikes midnight, a buoyant Alex loses loses himself in the festivities. This... does not sit well with the Prince. Henry's sudden and unexplained departure hints at unspoken sentiments. 
+
+Driven by an overwhelming fear of maybe losing Henry, Alex seeks him out in the serene White House Gardens. Confusion leads to a kiss from the prince, who like any man, then spends the next several weeks ignoring Alex's texts and phone calls.
+A normal gay experience, yes. 
+
+Weeks later at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a "Friends with Benefits" relationship, although they keep their involvement secret. Duty and responsibilities, however, have their own demands. The electoral battlefield beckons and Alex finds himself in Texas, championing his mother's campaign. 
+
+Because this *is* a romantic fantasy, the idea of Texas voting for a Democratic president is actually possible. He later travels to Brooklyn to speak at the Democratic National Convention, where Henry unexpectedly visits him. This leads to these "friends with benefits" becoming something closer than just friends.
+
+Alex even comes out to his mother as bisexual. She's very supportive maybe (even... *too* supportive when she starts recommending that he go on prep) but advises him to think about his relationship carefully. A public relationship between the first son and the Prince of England could change their lives forever. 
+
+Their story however is far from a fairy tale ending. Henry visits Alex at the scenic Claremont Vacation House near Austin Texas. Out on the lake, just when Alex is on the cusp of sharing his deepest feelings with with Henry, the panicked Prince throws himself into the lake and soon leaves, escaping to England. 
+
+But love, with its tenacity, spurs Alex on. He pursues Henry across the ocean seeking answers. Drenched from the English rain, Alex demands to know why Henry has basically abandoned him. Henry admits that he loves Alex, just as Alex loves him, but explains that his Royal position makes a gay relationship impossible for him. But Alex, with those eyelashes of his, manages to convince Henry that their relationship is worth fighting for, and the the two reconcile and commit to being together. 
+
+Yet destiny has more challenges waiting in the wings. Their intimate emails and texts, a window to their evolving love story, are maliciously exposed by a spurned ex of Alex's, creating a media maelstrom. Alex uses this as an opportunity to come out publicly and own his sexuality and his love for Henry, giving a moving speech that makes him the figurehead for queer America. 
+
+But things don't go so well for Henry whose family has all but sequestered him away from the public at large. But thanks to some deft maneuvering on the part of allies on both sides, Alex and Henry reunite in London, and prepare to confront the king of England about Henry being allowed to be his own man. A terse confrontation follows, but is interrupted by the sounds in the streets. The public have come to support Henry, despite what his family may want. And going against the wishes of the crown, Henry chooses Alex. 
+
+The climax of the story coincides with the US elections. Polls are tight and Alex's family is preparing for bad news. The only thing keeping Alex together is Henry by his side. 
+
+As his mother prepares a concession speech, news comes from Texas. In the most *fairy tale moment since Cinderella's fairy godmother turned a pumpkin into a carriage*, Texas goes blue, securing a second term for president Claremont. Alex's tireless efforts, combined with Henry's unwavering support, mark a dual victory, one political and one personal. The movie ends as they celebrate away from the media glare in the tranquil surroundings of Alex's childhood home in Austin.
 
 </james>
 <from></from>
 </compare>
+
+<compare>
+<cite></cite>
+<james>
+
+
+
+</james>
+<from></from>
+</compare>
+
+&lt;Sponsor Insert&gt;
+<!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
 <compare>
 <cite></cite>
@@ -77,74 +112,8 @@ During one such contrived rendezvous, after a security breach lands them both lo
 <!--
 
 
- however
-relationships are rarely linear at the extravagant New Year celebration hosted
-by Alex emotions bubble to the surface when the clock strikes midnight a buoyant
-Alex loses loses himself in the festivities this does not sit well with the
-Prince Henry's sudden and unexplained departure hints at unspoken sentiments
-driven by an overwhelming fear of maybe losing Henry Alex seeks him out in the
-Serene White House Gardens confusion leads to a kiss from the prince who like
-any man then spends the next several weeks ignoring Alex's texts and phone calls
-a normal gay experience yes weeks later at a presidential dinner Alex reunites
-with Henry and the pair end up hooking up the PA enter into a Friends with
-Benefits relationship although they keep their involvement secret Duty and
-responsibilities however have their own demands the Electoral Battlefield
-beckons and Alex finds himself in Texas championing his mother's campaign
-because this is a romantic fantasy the idea of Texas voting for a Democratic
-president is actually possible he later travels to Brooklyn to speak at the
-Democratic National Convention where Henry unexpectedly visits him this leads to
-these friends with benefits becoming something closer cler than just friends
-Alex even comes out to his mother as bisexual she's very supportive maybe even
-too supportive when she starts recommending that he go on prep but advises him
-to think about his relationship carefully a public relationship between the
-first son and the prince of England could change their lives forever their story
-however is far from a fairy tale ending Henry visits Alex at the scene at
-Claremont Vacation House near Austin Texas out on the lake just when Alex is on
-the cusp of sharing his deepest feelings with with Henry the panicked Prince
-throws himself into the lake and soon leaves escaping to England but love with
-its tenacity Spurs Alex on he pursues Henry across the ocean seeking answers
-drenched from the English rain Alex demands to know why Henry has basically
-abandoned him Henry admits that he loves Alex just as Alex loves him but
-explains that his Royal position makes a gay relationship impossible for him but
-Alex with those eyelashes of his manages to convince Henry that their
-relationship is worth fighting for and the the two reconcile and commit to being
-together yet Destiny has more challenges waiting in the wings their intimate
-emails and texts a window to their evolving Love Story are maliciously exposed
-by a spurned x of Alex's creating a media melstrom Alex uses this as an
-opportunity to come out publicly and own his sexuality and his love for Henry
-giving a moving speech that makes him the figurehead for queer America but
-things don't go so well for Henry whose family has all but sequestered him away
-from the public at large but thanks to some deaf maneuvering on the part of
-allies on both sides Alex and Henry reunite in London and prepare to confront
-the king of England about Henry being allowed to be his own man a tur
-confrontation follows but is interrupted by the sounds in the streets the public
-have come to support Henry despite what his family may want and going against
-the wishes of the crown Henry chooses Alex the climax of the story coincides
-with the US elections polls are tight and Alex's family is preparing for bad
-news the only thing keeping Alex together is is Henry by his side as his mother
-prepares a concession speech news comes from Texas in the most fairy tale
-moments since Cinderella's fairy godmother turned a pumpkin into a carriage
-Texas goes blue securing a second term for president Claremont Alex's tireless
-efforts combined with Henry's unwavering support Mark a dual Victory one
-political and one personal the movie ends as they celebrate away from the media
-glare in the Tranquil surroundings of Alex's childhood home in Austin this video
-is brought to you by Squarespace Squarespace is an all-in-one web design and
-hosting platform that makes it easy for you to create a website and Market your
-brand with industry-leading website templates that are easy to customize you
-don't need any design experience to show the world your best digital self
-Squarespace also makes it easy to keep in touch with your audience or customers
-with their expertly designed email templates that are just as easy to customize
-as their websites you can follow up with customers or just keep your audience in
-the loop with your latest updates that's why we're launching a newsletter with
-certain social media sites going the way of the dodo we wanted a way to keep in
-touch with our amazing subscribers and Squarespace gives us the perfect way to
-do that in fact you can sign up for our newsletter right now which will include
-links to new videos progress updates for Telos pictures as well as reviews
-articles and so much more you can sign up for free at our Squarespace website
-jameson.com you can head to squarespace.com right now for a free trial and when
-you're ready to launch your site go to Squarespace / James that's j m s to save
-10% off of your first purchase of a website or domain start showing the world
-how amazing you are today with Squarespace so red white and royal blue might
+
+so red white and royal blue might
 read like The Ultimate wh if scenario but strip away the international diplomacy
 and Royal trappings and you got yourself a pretty straightforward romance two
 guys falling for each other when they least expect it groundbreaking now if
