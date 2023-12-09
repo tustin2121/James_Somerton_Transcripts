@@ -10,5 +10,7 @@ defaults:
             path: "docs"
         values:
             layout: "transcript"
+readme_index:
+    enabled: true
 kramdown:
     parse_block_html: true

@@ -1,5 +1,3 @@
----
----
 # James Somerton Transcripts
 
 Project creator TerraJRiley:

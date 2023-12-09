@@ -1,36 +1,6 @@
 ---
 ---
-<style>
-	compare {
-		display: grid;
-		grid: auto-flow / 1fr 1fr;
-		grid-template-areas: "s s" "j f";
-		column-gap: 4px;
-		row-gap: 4px;
-		margin-block: 1em;
-	}
-	compare james, compare from, compare cite, compare comment {
-		display: block;
-		border: white 1px solid;
-		padding: 4px;
-	}
-	compare james::before, compare from::before, compare comment::before {
-		display: block;
-		font-size: x-small;
-		color: grey;
-		border-bottom: grey 1px solid;
-	}
-	compare cite    { grid-area: s; border-color: gray; }
-	compare james   { grid-area: j; border-color: orange; }
-	compare from    { grid-area: f; border-color: green; }
-	compare comment { grid-area: f; border-color: gray; font-size: smaller; }
-	compare james::before   { content: 'James:'; }
-	compare from::before    { content: 'Source:'; }
-	compare comment::before { content: 'Comment:'; }
-</style>
-
-<h2>transcript for</h2>
-<h1>Gay Happiness and Mainstream Media</h1>
+<h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
 
 <compare>
