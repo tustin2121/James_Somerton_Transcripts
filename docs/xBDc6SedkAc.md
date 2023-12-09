@@ -13,18 +13,20 @@ Also known as "The Agony / Anguish of Happy Gay Media".
 </compare>
 
 <compare>
-<james markdown="1">
+<james>
+
 Visual: [Disclaimer]
 
 I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
 
 So let's hit the ground running and talk about *Red, White, and Royal Blue*, the recently released movie, based on the book by Casey McQuiston.
+
 </james>
 </compare>
 
 <compare>
 <cite></cite>
-<james markdown="1">
+<james>
 
 In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of Prince Phillip, the eldest grandson of England's Monarch. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
 
@@ -48,7 +50,7 @@ To smooth out ruffled feathers and placate the media's appetite for scandal, Ale
 
 <compare>
 <cite></cite>
-<james markdown="1">
+<james>
 
 During one such contrived rendezvous, after a security breach lands them both locked in a cramped broom closet, Alex's guard crumbles. He divulges the root of his resentment stemming from a slight he felt from Henry during one of his initial forays into the international stage. This heartfelt confession, laced with vulnerability, moves Henry.Recognizing the weight of the misunderstanding, he extends a genuine gesture of reconciliation. Late night texts replace terse exchanges, humor replaces hostility, and slowly they start to build a bond, peppered with light-hearted jabs and shared inside jokes.
 

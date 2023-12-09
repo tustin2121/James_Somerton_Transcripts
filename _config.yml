@@ -1,4 +1,5 @@
 exclude: [Archive]
+markdown: GFM
 defaults:
     -
         scope:
