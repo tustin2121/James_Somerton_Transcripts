@@ -3,14 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
-	<link rel="stylesheet" href="/css/markdown-github.css" type="text/css" />
-	<link rel="stylesheet" href="/css/transcript.css" type="text/css" />
+	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/markdown-github.css" type="text/css" />
+	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/transcript.css" type="text/css" />
 	
 	<title>{{ full_title }}</title>
 	<meta property="og:title" content="{{ full_title }}" />
 	<meta property="og:description" content="{{ content | strip_html | string_with_newlines | truncatewords: 24 }}" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	<meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 	<meta property="og:locale" content="en_US" />
 	<style>
 		
