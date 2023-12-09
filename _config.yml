@@ -1,5 +1,4 @@
-exclude: [*]
-include: [index.md, docs, css]
+exclude: [Archive]
 defaults:
     -
         scope:
