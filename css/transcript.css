@@ -14,12 +14,23 @@ compare {
 	row-gap: 4px;
 	margin-block: 1em;
 }
-compare james, compare from, compare cite, compare comment {
+
+compare james, 
+compare clip, 
+compare from, 
+compare cite, 
+compare comment 
+{
 	display: block;
 	border: white 1px solid;
 	padding: 4px;
 }
-compare james::before, compare from::before, compare comment::before {
+
+compare james::before, 
+compare clip::before, 
+compare from::before, 
+compare comment::before 
+{
 	display: block;
 	font-size: x-small;
 	color: grey;
@@ -27,8 +38,10 @@ compare james::before, compare from::before, compare comment::before {
 }
 compare cite    { grid-area: s; border-color: gray; }
 compare james   { grid-area: j; border-color: orange; }
+compare clip    { grid-area: j; border-color: gray; }
 compare from    { grid-area: f; border-color: green; }
 compare comment { grid-area: f; border-color: gray; font-size: smaller; }
 compare james::before   { content: 'James:'; }
+compare clip::before   { content: 'Video Clip:'; }
 compare from::before    { content: 'Source:'; }
 compare comment::before { content: 'Comment:'; }

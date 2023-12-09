@@ -1,7 +1,11 @@
 ---
+cite:
+	rwrb_movie: "Red, White, and Royal Blue"
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
+
+
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
@@ -20,6 +24,8 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 </james>
 </compare>
 
+{::options parse_block_html="true" /}
+
 <compare>
 <cite></cite>
 <james>
@@ -29,6 +35,41 @@ In the heart of the city of London, The Majestic Wedding Bells echo, announcing 
 Among the swirl of dignitaries and celebrities is an individual who
 attracts attention like a moth to a flame: Alex Claremont Diaz. He isn't just any attendee; he's the dynamic son of Ellen Claremont, a trailblazer who shattered glass ceilings by becoming the first woman to become the president of the United States.
 
+However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and Prince Henry, the younger sibling of the groom. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake,providing juicy content for the eager tabloids on both sides of the pond. 
+
+The repercussions are immediate, with the impending reelection campaign of President Claremont, the scandal is ill timed, threatening to put a dent in her electoral armor. Damage control is of the essence. 
+
+To smooth out ruffled feathers and placate the media's appetite for scandal, Alex and Henry are thrust into a meticulously orchestrated PR campaign. This facade aimed at showcasing their renewed friendship has them attending events, posing for pictures, and offering sound bites about their brotherly bond.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite>{{ cite.rwrb_movie }}</cite>
+<clip>Alex: What three words would I use to describe Henry? White, blonde, and British.</clip>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+During one such contrived rendezvous, after a security breach lands them both locked in a cramped broom closet, Alex's guard crumbles. He divulges the root of his resentment stemming from a slight he felt from Henry during one of his initial forays into the international stage. This heartfelt confession, laced with vulnerability, moves Henry.Recognizing the weight of the misunderstanding, he extends a genuine gesture of reconciliation. Late night texts replace terse exchanges, humor replaces hostility, and slowly they start to build a bond, peppered with light-hearted jabs and shared inside jokes.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 </james>
 <from></from>
 </compare>
@@ -38,31 +79,7 @@ attracts attention like a moth to a flame: Alex Claremont Diaz. He isn't just an
 <!--
 
 
-
-
-
-However this evening amidst the sparkling chandeliers of the Grand
-Ballroom something is a miss the air thickens with tension and hush Whispers
-Traverse the room at the heart of these murmur are Alex and Prince Henry the
-younger sibling of the groom their contentious relationship is the stuff of
-social media Legend the simmering animosity between them reaches its Crescendo
-when a relatively minor misunderstanding leads to them swimming and wedding cake
-providing juicy content for the eager tabloids on both sides of the pond the
-repercussions are immediate with the impending reelection campaign of President
-Claremont the Scandal is ill timed threatening to put a dent in her electoral
-armor damage control is of the essence to smooth out ruffled feathers and plate
-the media's appetite for Scandal Alex and Henry are thrust into a meticulously
-orchestrated PR campaign this facade aimed at showcasing their renewed
-friendship has them attending events posing for pictures and offering sound
-bites about their brotherly Bond what three words would I use to describe Henry
-white blonde and British during one such contrived rendevu after a security
-breach lands them both locked in a cramped broom closet Alex's guard crumbles he
-divulges the root of his resentment stemming from a slate he felt from Henry
-during one of his initial forays into the international stage this heartfelt
-confession laced with vulnerability moves Henry recognizing the weight of the
-misunderstanding he extends a genuine gesture of reconciliation late night texts
-replace tur exchanges humor replaces hostility and slowly they start to build a
-bond peppered with light-hearted Jabs and shared inside jokes however
+ however
 relationships are rarely linear at the extravagant New Year celebration hosted
 by Alex emotions bubble to the surface when the clock strikes midnight a buoyant
 Alex loses loses himself in the festivities this does not sit well with the
