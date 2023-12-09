@@ -1,19 +1,77 @@
-this video is brought to you by Squarespace I want to be absolutely clear
-upfront so that you can be very assured where my intentions are going forward I
-do not dislike any of the media that we're talking about in this video in fact I
-loved most of it on the page and the screen I'm not coming for any of the
-creators this time but we do need to talk about this because there is clearly an
-issue here and it's becoming a problem but the issue doesn't really have a clear
-Target to blame so let's hit the ground running and talk about red white and
-royal blue the recently released movie based on the book by Casey mcquiston in
-the heart of the city of London The Majestic Wedding Bells Echo announcing the
-matrimony of Prince Phillip the eldest grandson of England's Monarch the
-historic streets lined with iconic landmarks Buzz with anticipation and
-excitement among the swirl of dignitaries and celebrities is an individual who
-attracts attention like a moth to a flame Alex Claremont Diaz he isn't just any
-attendee he's the dynamic son of Ellen Claremont a Trailblazer who shattered
-glass ceilings by becoming the first woman to become the president of the United
-States however this evening amidst the sparkling chandeliers of the Grand
+---
+---
+<style>
+	compare {
+		display: grid;
+		grid: auto-flow / 1fr 1fr;
+		grid-template-areas: "s s" "j f";
+		column-gap: 4px;
+		row-gap: 4px;
+		margin-block: 1em;
+	}
+	compare james, compare from, compare cite, compare comment {
+		display: block;
+		border: white 1px solid;
+		padding: 4px;
+	}
+	compare james::before, compare from::before, compare comment::before {
+		display: block;
+		font-size: x-small;
+		color: grey;
+		border-bottom: grey 1px solid;
+	}
+	compare cite    { grid-area: s; border-color: gray; }
+	compare james   { grid-area: j; border-color: orange; }
+	compare from    { grid-area: f; border-color: green; }
+	compare comment { grid-area: f; border-color: gray; font-size: smaller; }
+	compare james::before   { content: 'James:'; }
+	compare from::before    { content: 'Source:'; }
+	compare comment::before { content: 'Comment:'; }
+</style>
+
+<h2>transcript for</h2>
+<h1>Gay Happiness and Mainstream Media</h1>
+Also known as "The Agony / Anguish of Happy Gay Media".
+
+<compare>
+	<james>This video is brought to you by SquareSpace / Lilo</james>
+	<comment>Prior to this video being released, he was having trouble getting a sponsorship from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released it with a squarespace ad.</comment>
+</compare>
+
+<compare>
+<james>
+
+Visual: [Disclaimer]
+
+I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
+
+So let's hit the ground running and talk about *Red, White, and Royal Blue*, the recently released movie, based on the book by Casey McQuiston.
+
+</james>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of Prince Phillip, the eldest grandson of England's Monarch. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
+
+Among the swirl of dignitaries and celebrities is an individual who
+attracts attention like a moth to a flame: Alex Claremont Diaz. He isn't just any attendee; he's the dynamic son of Ellen Claremont, a trailblazer who shattered glass ceilings by becoming the first woman to become the president of the United States.
+
+</james>
+<from></from>
+</compare>
+
+
+
+<!--
+
+
+
+
+
+However this evening amidst the sparkling chandeliers of the Grand
 Ballroom something is a miss the air thickens with tension and hush Whispers
 Traverse the room at the heart of these murmur are Alex and Prince Henry the
 younger sibling of the groom their contentious relationship is the stuff of
@@ -602,3 +660,4 @@ go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you
 are [Music] breaking down my walls never found love with no e you stitching up
 my scars forever just the start you no now you're breaking down my walls I've
 never found love it no love love it no love [Music] [Music] it [Music] n n
+-->
