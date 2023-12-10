@@ -10,7 +10,8 @@ This video is also known as "Sandman and Queering the Fantastical"
 
 You can view the archive of this video [on the Internet Archive](https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4).
 
-Transcribed by [/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub)), formatted by Tustin2121.
+Transcribed by [/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub)).  
+Formatted by Tustin2121.
 
 {% include transcript-header.html %}
 
@@ -749,15 +750,47 @@ The secret to representation at its core is not to represent. If representation 
 
 Even if it’s fantasy (especially if it’s fantasy) because if your protagonists are jousting on griffins, or discovering ancient aliens under the ice caps, the reader needs something *human* to grab onto. They really can only truly imagine something incredible the more they can imagine a real person doing it. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 I highlighted the queer element of *American Gods* very deliberately. It was a queer reference to a matter of a pansexual deity that is very heavily supported by documented historical reality. Given the current day cultural climate of this world, that reality is selectively forgotten. We are disinclined to portray, or even remember, that because it does not align with our present day perspective of the world. Gaiman’s positive portrayal of queer people begins with this, he forces others to remember what they willfully forget.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 It seems to be part of the quintessential queer experience: if others like me had existed then, others like me must exist now. Gaiman works to spell out a fantastical realm of dreams where reality waffles and imagination runs wild. All things are possible because the only rules that exist in this place are the rules you bring to it. We spend one-third of our lives in this world of dreams. Why wouldn’t we want to spend it all there?
 
 Surely we can imagine a world where all the dour, grand challenges of our lives and society become petty grievances that can be ignored. We can be anything, do anything, so much more than the limitations of our own world, where we must share the dream of a sleeping God. Our realities are at odds with others and an absolute truth for one is not an absolute truth for all. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 However, there is a pivotal weakness to the dreaming and a pivotal limitation to Dream’s powers, though vast they may seem. Dreams are lonely places. When we sleep we are solitary, save for the odd ghost drifting through. Through our dreams we confront the possibility of what the world could be, the world as we would make it, if we could, the world as we would most fear it to become.Dreams cannot be our reality because dreams are meant to reflect reality, and we can look at them as idle entertainment, or we could think of it like slipping into a different existence in a change room just to see how it looks.
 
 Though the advantage of dreams is that we can make them real... in a fashion. We can take what we like, and work to make it true. We can ward off what we fear, we can explore the fringes of our imagination in a way our waking minds would dismiss as idle fantasy. The extent of the world we want to create doesn’t need to end in dreams, dreams are a mirror that can reflect the future.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 For all that we create our dreams without thinking, it’s still possible, though challenging, to create our reality. Though it is easier to create a world we all dream of together. Having a dream is not teasing a reality that could never be; it becomes an obligation to make it come true.
 
