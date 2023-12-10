@@ -5,9 +5,12 @@ todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayis
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
 
+Auto-transcribed by YouTube, cleaned up by Tustin2121.
+
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
-	<comment>Prior to this video being released, he was having trouble getting a sponsorship from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released it with a squarespace ad.</comment>
+	<comment>Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad.</comment>
+	<cite>Tustin2121, former patron of James</cite>
 </compare>
 
 Visual: "[Disclaimer]"
@@ -80,7 +83,7 @@ As his mother prepares a concession speech, news comes from Texas. In the most *
 <from></from>
 </compare>
 
-&lt;Sponsor Insert&gt;
+&lt;Sponsor Read&gt;
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
 ## Chapter 1: Missionary Suppression
@@ -222,6 +225,20 @@ people, "you'll be accepted if you're less like the characters in *Red, White, a
 </compare>
 
 ## Chapter 2: Cute and Caged
+
+<compare>
+<cite></cite>
+<james>
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+</james>
+<from></from>
+</compare>
 
 <compare>
 <cite></cite>
