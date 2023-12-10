@@ -110,7 +110,7 @@ Statuses:
 | 2023‑10‑08 | <font color=""    > Auto       | [BXFC8_tjokw](docs/BXFC8_tjokw.md) | [A1][A1] | Religion and Anime!
 | 2023‑10‑13 | <font color=""    > Auto       | [6rHOEWFBDg0](docs/6rHOEWFBDg0.md) | [A1][A1] | Vampires, and the Gays That Love Them
 | 2023‑10‑29 | <font color=""    > Script     | [AlyJl0ddcPs](docs/AlyJl0ddcPs.md) | [A1][A1] | The Gay Horror Manga You Should Be Reading[^hikaru]
-| 2023‑11‑13 | <font color=""    > In Progress| [xBDc6SedkAc](docs/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media[^happy]
+| 2023‑11‑13 | <font color="gree"> Complete   | [xBDc6SedkAc](docs/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media[^happy]
 | 2023‑11‑23 | <font color=""    > Auto       | [p5KpIROXhZw](docs/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^str]
 
 [^1]: Transcript with no uploaded video
