@@ -2,6 +2,7 @@
 rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
 barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
 todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
+tustin_eyewitness: "Tustin2121, former patron of James"
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
@@ -11,7 +12,7 @@ Auto-transcribed by YouTube, cleaned up by Tustin2121.
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
 	<comment>Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad.</comment>
-	<cite>Tustin2121, former patron of James</cite>
+	<cite>{{ page.tustin_eyewitness }}</cite>
 </compare>
 
 Visual: "[Disclaimer]"
@@ -395,6 +396,40 @@ Weirdly gay bases are reversed from the straight ones: the Home Run System is a 
 <compare>
 <cite></cite>
 <james>
+
+Now there's nothing wrong with depicting gay people not having sex. If we want our queerness defined based on internal merits, rather than owing public validation to having someone's hand to hold, then this is paramount. Subsequently, aro/ace isn't the only expression of asexuality. You can be gay and ace at the same time. Developing sexuality doesn't mean that we need to see the characters doing it.  But people in the heat of budding sexuality are bound to experiment a bit. It would be something that they would talk about; confirmation through dialogue. It doesn't have to follow *Elite*'s footsteps. But, just like being gay or trans, not everyone who self-identifies as asexual now always knew that about themselves.
+
+</james>
+<from></from>
+</compare>
+
+## Chapter 4: Trauma and FOMO
+
+<compare>
+<cite></cite>
+<james>
+
+Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. T hose who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
+it's great! It's good. It's fine.
+
+Given society's push to present sex as pleasurable, many start by trying it out and then spend... maybe even years trying to figure out why it's not working for them. Keep in mind that "asexual" doesn't always mean "no sex drive". Ace, like everything else in sexuality, is not only a spectrum but a matrix. This is pertinent as *Heartstopper*'s author, Alice Oseman, self-identifies as asexual themself. Which likely means that as per the Stan Lee rule of "write the stuff you wish you could read", they want romantic drama that *isn't* just focused around sex. And that should be that. It should be abundantly okay for this kind of media to exist, just as it should be abundantly okay for *Young Royals* and *Elite* to exist!
+
+</james>
+<from></from>
+</compare>
+
+[^broccoli]: Fact checked, true: https://www.bbc.com/news/health-50387126
+
+<compare>
+<cite></cite>
+<james>
+
+There is a compelling case for queer media to portray the more innocent aspects of life. Stories of friendship, adventure, coming of age, familial bonds, and the quotidian joys and struggles that make up the human experience. These stories matter because they reinforce the idea that we queers are not defined *solely* by our sexuality. By diversifying the types of stories told within LGBT media, we affirm that queer people lead rich complex lives that
+are worth depicting in all their facets, not just in relationship to their sexual identity. 
+
+Portraying a range of stories from the queer perspective also dismantles the misconception that our narratives are inherently adult or explicit. It challenges the strawman fallacy that the presence of queer characters in themes just makes something inappropriate for young audiences, hopefully creating a space for even more conservative parents to let their kids watch this media, and feel a little bit less alone in the world. *Heartstopper*
+fills this role *perfectly*. 
+
 </james>
 <from></from>
 </compare>
@@ -402,6 +437,11 @@ Weirdly gay bases are reversed from the straight ones: the Home Run System is a 
 <compare>
 <cite></cite>
 <james>
+
+But we also have to accept that not every queer story should be so innocent. When it comes to drag queens and gay performers, especially those who tour, they encounter an astronomical number of gay and queer people, especially among other performers. They get to know each other quite well, including stories of their teenage years. 
+
+And this includes my own discussions with queer people. Seriously it's one of those like "wait everyone else was having sex"? It seems that in high school for a lot of gays, they took the opportunity to dive deep into experimentation. *Heartstopper* is a direct contradiction of what many had either experienced directly or by proxy. And so it *feels* like it's trying to develop a puritanical objective for young gay men.
+
 </james>
 <from></from>
 </compare>
@@ -409,275 +449,361 @@ Weirdly gay bases are reversed from the straight ones: the Home Run System is a 
 <compare>
 <cite></cite>
 <james>
+
+Alternately (and this is touching on the hand-holding part of *Heartstopper*) is that for gays of a certain generation (and by that I mean neither too old nor too young) being confronted by *Heartstopper* under the assumption that it is meant to mimic reality... is triggering. Believe me, a lot of gays would have *loved* to instantly find a high school boyfriend with whom they felt comfortable enough to explore emotional intimacy and hold hands. The gay home run, as it were. 
+
 </james>
 <from></from>
 </compare>
 
+<compare>
+<cite></cite>
+<james>
 
+However, this generation, who are in their late 20s and early 40s now... (my generation), may have very well *wanted* this experience. But we came of age when being out and gay as a teenager wasn't trendy (if you don't mind my flippancy). For myself and others we were the only out gay in school, and so seeing something like *Heartstopper* may feel like a culture is telling us that 'we were doing it wrong'. 
 
-<!--
+Alternately, for those who didn't even *know* that they were gay as a teenager, let alone come out, *Heartstopper* is a reminder of what could have been. Again, again, again-- This is a community. Yes, even the cis gay men who have undergone complex trauma that we, as a society, still do not recognize as trauma. 
 
+</james>
+<from></from>
+</compare>
 
+<compare>
+<cite></cite>
+<james>
 
+For all that even the staunchest allies do to make coming out easier today, we still have to come out in a society which is grandfathered in a myriad of cultural attitudes that are incompatible with queerness. Which create natural obstacles for us. We exist in an operating system that is not designed for us. The trauma comes with society placing the burden of integration on *us*. Society does not truly acknowledge this as trauma, because social understanding of queer trauma is related to bigotry, and not the complex constructed from watching your straight cis friends be able to live out a number of life experiences as they see fit. Whereas the queer individual having, been raised under the assumption that they are straight and/or cis, must make concessions and compromises based on how soon or late they shift into their queerness. Combined with media that dictates queer experiences, they are going to be across the board feelings of "I lived my life the wrong way".
 
+You are dealing with this group of people when you develop queer media. We're a tough crowd. And, rest assured, it's not *all* our fault. With the amount of complex trauma residing in this group, it makes perfect sense that a piece of media meant to uplift and inspire the lgbtqia will have the inverse unintended effect of telling many of these people that they messed up. And that missing out on all those experiences is their fault. 
 
+</james>
+<from></from>
+</compare>
 
-Now there's nothing wrong with depicting gay people not having sex if we
-want our queerness defined based on internal merits rather than owing public
-validation to having someone's hand to hold then this is Paramount subsequently
-AO Ace isn't the only expression of asexuality you can be gay and Ace at the
-same time developing sexuality doesn't mean that we need to see the characters
-doing it but but people in the heat of budding sexuality are bound to experiment
-a bit it would be something that they would talk about like confirmation through
-dialogue it doesn't have to follow Elite's footsteps but just like being gay or
-trans not everyone who self-identifies as a sexual now always knew that about
-themselves sex is like broccoli to know you don't like broccoli you first kind
-of have to eat broccoli there's even a chemical in broccoli that you can only
-taste if you have a very specific active Gene those who have it find broccoli to
-be rancid they physiologically cannot enjoy this vegetable for everyone else
-it's great it's good it's fine given society's push to present sex as
-pleasurable many start by trying it out and then spend maybe even years trying
-to figure out why it's not working for them keep in mind that asexual doesn't
-always mean no sex drive Ace like everything else in sexuality is not only a
-spectrum but a matrix this is pertinent as heartstopper author Alice Osman
-self-identifies as asexual thems which likely means that as per the Stanley rule
-of write the stuff you wish you could read they want romantic drama that isn't
-just focused around sex and that should be that it should be abundantly okay for
-this kind of media to exist just as it should be abundantly okay for young
-Royals and Elite to exist there is a compelling case for queer media to portray
-the more innocent aspects of life story of friendship Adventure Coming of Age
-familial bonds and the quotidian Joys and struggles that make up the human
-experience these stories matter because they reinforce the idea that we queers
-are not defined solely by our sexuality by diversifying the types of stories
-told within LGBT media we affirm that queer people lead Rich complex lives that
-are worth depicting in all their facets not just in relationship to their sexual
-identity portraying a range of stories from the queer perspective also
-dismantles the misconception that our narratives are inherently adult or
-explicit it challenges the strawman fallacy that the presence of queer
-characters in themes just makes something inappropriate for young audiences
-hopefully creating a space for even more conservative parents to let their kids
-watch this media and feel a little bit less alone in the world heartstopper
-fills this role perfectly but we also have to accept that not every queer story
-should be so innocent when it comes to drag queens and gay performers especially
-those who tour they encounter an astronomical number of gay and queer people
-especially among other performers they get to know each other quite well
-including stories of their teenage years and this includes my own discussions
-with queer people seriously it's one of those like wait everyone else was having
-sex it seems that in high school for a lot of gays they took the opportunity to
-dive deep into experimentation heartstopper is a direct contradiction of what
-many had either experienced directly or by proxy and so it feels like it's
-trying to develop a puritanical objective for young gay men alternately and this
-is touching on the handholding part of Heart Stopper is that for gays of a
-certain generation and by that I mean neither too old nor too young being
-confronted by heartstopper under the assumption that it is meant to mimic
-reality is triggering believe me a lot of gays would have loved to instantly
-find a high school boyfriend with whom they felt comfortable enough to explore
-emotional intimacy and hold hands the gay home run as it were however this
-generation who are in their late 20s and early 40s now my generation may have
-very well wanted this experience but we came of age when being out and gay as a
-teenager wasn't trending if you don't mind my flippancy for myself and others we
-were the only out gay in school and so seeing something like heartstopper may
-feel like a culture is telling us that we were doing it wrong alternately for
-those who didn't even know that they were gay as a teenager let alone come out
-heartstopper is a reminder of what could have been again again again this is a
-community yes even the CIS gay men who have undergone complex trauma that we as
-a society still do not recognize as trauma for all that even the staunchest
-Allies do to make coming out easier today we still have to come out in a society
-which is grandfathered in a myriad of cultural attitudes that are incompatible
-with queerness which create natural obstacles for us we exist in an operating
-system that is not designed for us the trauma comes with Society placing the
-burden of integration on us Society does not truly acknowledge this as trauma
-because social understanding of queer trauma is related to bigotry and not the
-complex constructed from watching your straight CIS friends be able to live out
-a number of Life Experiences as they see fit whereas the queer individual having
-been raised under the assumption that they are straight Andor CIS must make
-concessions and compromises based on how soon or late they shift into their
-queerness combined with media that dictates queer experiences they are going to
-be across theboard feelings of I lived my life the wrong way you are dealing
-with this group of people when you develop queer media we're a tough crowd and
-rest assured it's not all our fault with the amount of com Lex trauma residing
-in this group it makes perfect sense that a piece of media meant to uplift and
-Inspire the lgbtqia will have the inverse unintended effect of telling many of
-these people that they messed up and that missing out on all those experiences
-is their fault and no you can't go back and fix it like I came out when I was 12
-and I haven't had an actual boyfriend my whole life many gay people cope with
-this by telling themselves that their teenage fantasies were simply impossible
-media instances that refute this without explanation may very well feel like
-direct personal criticism for having trauma trauma trauma trauma generational
-trauma trauma trauma this is what trauma looks like these are the feelings that
-Heart Stopper digs up in some people so it makes perfect sense why the criticism
-would be so focused on presenting sexuality in a show that is neither focused on
-it nor is it required it makes sense perhaps but it is irrational even though
-trauma itself is valid there is an onus on the individual to respect their own
-trauma without pushing it out into the world but that's just Heart Stopper what
-of the opposite an inability to consume media that is sexual because it presents
-those same sensations of queer fomo perhaps this is why some gay people are
-uncomfortable with seeing gay sex in their streaming movies not because they're
-squeamish about dicks and butts but because it's hearkening to a painful
-reminder of what they feel like this movie is telling them they missed out on
-and I'm sorry for how polarizing this video is I know it must seem like I'm
-jumping around a lot if I'm not settling on a clear critical Target it's because
-I'm not trying to Target anyone when in fact I'm trying to defend media's
-ability to exist as a Creator's Vision but also defend why queer people have
-such a dodgy relationship with media featuring queer people nobody's really in
-the wrong here except of course Millennia of puritanical imperialism and
-postcolonial patriarchal values that have resulted in us feeling like we're
-overdue for a little dignity and autonomy in regards to queer resistance around
-media I see two issues the first being that queer people including gay men have
-been so underrepresented for so long and Tabo predominantly represented by
-depictions that moralize US based on hedonistic etiquette we feel an obligation
-to watch queer media where we are featured in the hopes that it will break the
-representation glass ceiling this is particularly more true for wide relase
-high-profile examples of queer media this is why Bros Got rave reviews from
-mainstream critics while Fire Island was mostly ignored it's also a very erratic
-circumstance of media criticism where red white and royal blue was targeted for
-its sexiness but Bros upon release was hailed as the Advent of queer acceptance
-among mainstream critics even though it had a lot more sex among a lot more
-people and was not nearly as good we're shooting ourselves in the foot by
-following Trends highly promoted queerness is queerness that has been bespoke to
-have as much appeal to straight audiences as possible think Brokeback Mountain
-would that have been as successful had it not starred two heart throbs that
-women wet their panties over and who simultaneously came across as Butch enough
-for straight guys to feel comfortable with the problem in practice is that this
-obligation implores us to watch media we simply may not be interested in either
-outside of our preferred genre gen or featuring casting that we don't like or
-something which may contain triggering elements that we don't even know are
-triggers simply because we don't consider existing in a society that does not
-accommodate our identities as cptsd trauma the second issue is as per an
-unawareness of said complex trauma we are unable to compartmentalize a negative
-reaction to Media as a trauma response in which case we try to intellectualize
-by interpreting this media as making a normative argument about all of gay
-people so like to quote an incredibly problematic white man dude sometimes a
-cigar is just a cigar heartstopper is just trying to be heartstopper not every
-artist or author is out there trying to make a fictional Manifesto out to
-reflect and shape the world I don't think this is limited exclusively to queer
-people but we seem to take every instance of queer representation as a Manifesto
-we treat these media as if each one is actively trying to set a universal
-precedent for the state of modern queerness sometimes this is true like with
-Barbie which was a movie about Womanhood the interaction between wom and the
-idea of woman and where men may fit into this idea at which point you are
-allowed to disagree with the premises and conclusions of the movie you're also
-allowed to disagree with some finer points and some nitpicky elements of the
-conclusion but overall enjoy the movie or appreciate that it exists slightly
-disagree does not need to mean burn it in a fire this is probably the clearest
-problem that exists Within leftist spaces today that is a fallacy of composition
-it's not intellectual and it's certainly not sexy you know who does that the
-alt-right Disney made this movie about a strong female character so the entire
-company now has a woke agenda apparently and so on and so forth the difference
-being that those on the right at the very least generally agree on who to hate
-we're letting them divide us we have a reluctance to let queer media be
-fantasies instead as we're starved for visibility we look at each one as the
-media that might make or break our personal autonomy heartstopper is a fantasy
-red white and royal blue is a fantasy young Royals is a fantasy because for all
-that heartstopper may be seen as an early indicator of a total failure of queer
-writs it's certainly an outlier next to a larger body of work that includes the
-aention media and many others heartstopper might be popular but red white and
-royal blue is the most watched Amazon Prime movie in the history of the Sur the
-issue is not with heartstopper but a fear of living in a population that leans
-toward that as the only acceptable manifestation of queer expressions of
-affection which is not an issue with the media but rather the way we seem to
-expect these instances of representation to apply to the whole of queerness and
-that rather than finding red white and royal blue wanting for not being able to
-present the multitudinous range of queerness we can observe these pieces of
-media as being pieces of a growing whole which seems to be leaning to Greater
-inclusivity as it grows this feels like a popularity contest where the largest
-fandom gets to decide what is and is not an acceptable expression of queer
-specifically gay love and the people who have the smaller Voice next to a large
-fandom of teenage girls are gay people the fear is rooted in a sensation of not
-having control over our own depictions that are projected to queer people
-because it's these fictional examples that are held up as Arch types for real
-people to be compared to one must acknowledge the historic invisibility of gay
-narratives within the mainstream media landscape the journey from non-existence
-to the peripheries and at long last to have media with as diverse portrayals as
-heartstopper young Royals red white and royal blue not to mention more adult
-focused media has been a sopian task for the gay community this Travers has been
-marred by periods of grotesque caricature and an almost vois Safari ISM that
-othered and fetishized gay relationships casting them in a light that shimmered
-with Scandal rather than substance and these types of portrayals are far from
-Gone especially in other parts of the world but that's a different video sign up
-for the patreon to get us there yet as the pendulum swung towards inclusivity a
-new critique arose from the old prejudices the claim that gay media is too
-sexualized conceal the age-old detraction of the gays themselves are too sexual
-in some sense this reflects a societal discomfort with the candid portrayal of
-homosexual Love and Desire it is as if the very Act of two men or two women
-expressing their sexuality must be shrouded in a chased Veil lest the onlooker
-be confronted with the unvarnished truth of affection and maybe even have to
-rethink their own inner feelings moreover this assessment often stems from a
-myopic view of gay media taking as its evidence a narrow selection of works that
-are intentionally provocative or which challenge societal Norms around sex and
-sexuality to paint the entirety of gay media with such a broad brush is to
-ignore the rich tapestry of stories that span the spectrum of experience from
-the platonic and the familial to the romantic and yes even the sexual to deny
-the sexual component of gay relationships in media is to deny a fundamental
-aspect of human connection regardless of orientation sexuality after all is a
-potent element of The Human Condition and its representation in art and
-storytelling has long been a conduit for deeper understanding a mirror
-reflecting the complexities of love lust and longing heteronormative narratives
-have long enjoyed the privileged of unabashed sexual expression without inviting
-the same level of scrutiny in contrast gay media often faces a double-edged
-sword a clamoring for representation on one hand and a prudish recoil at the
-manifestation of that representation on the other there exists an unspoken rule
-it seems that gay characters must not only be present but must also comport
-themselves in a manner palatable to the heterosexual majority their sexuality
-expressed with a modesty that is seldom demanded of The Straits is it not then a
-form of cultural suppression to dictate the terms of representation to confine
-the narratives of a community to the narrow confines of what is deemed
-acceptable by those who wield the loudest voices gay media in its Essence is a
-rebellion against such constraints a declaration that love in its Myriad forms
-will no longer be relegated to the Shadows perhaps there are naturally going to
-be various push back consequences when dealing with a large group of people who
-have been jerked around let on and outright lied to for decades knowing our
-history can establish a context for why we Face the struggles we do but also
-offer us insight into what methods work to create change and what methods don't
-spoiler alert for gay rights being loud obnoxious and altogether ungrateful and
-shoving our sexuality in people's faces has tended to be a more successful route
-than working within the system and making friends for marriage equality we
-stopped asking politicians to help us and started demanding equality by hiring
-High Price Lawyers and taking people States and whole countries to court for
-being gay in the military we tried it the nice way and we got don't ass on tell
-so then we started marching and had our gay millionaires threatened to stop
-donating to democratic politicians if they didn't repeal the thing and when it
-came to AIDS we did absolutely everything that every privileged person says
-you're not supposed to do if you want people to like you because asking politely
-got us ignored even those of us who knew Ronald Reagan but I digress the
-Hallmark of an oppressor is to divorce a community from its own history it makes
-it easier for controlling powers to dictate what that history was or simply lie
-about a political body's involvement in systemic institutional and social
-discrimination the diversity of relationships and experiences within the lgbtq
-community should be shown not all gay men have the same experiences nor do all
-lesbians bisexual people trans people or queer people in general and let's not
-forget the representation of asexuals and A- Romantics who are often completely
-overlooked in media the inclusion of diverse relationships and sexual Dynamics
-is important whether it be runchy sex in a bath house or holding your high
-school boyfriend's hand visibility in all forms of media including media
-directed at younger people like heartstopper is incredibly important there's a
-growing resistance to including queer characters in movies shows and books
-directed at a ya or younger audience based on the misconception that their
-presence inherently involves adult themes however children's media is an ideal
-space to introduce the concept of diverse families and friendships teaching
-acceptance and understanding at a young age finally we must recognize the queer
-representation is not the end goal but part of a broader movement towards
-inclusion and equality it's a means for storytelling that reflects the world as
-it is in all its diversity and at its best it can influence perceptions and
-Foster empathy it's not just about seeing oneself on screen it's about everyone
-seeing the multifaceted World We Share learning from it and finding the
-universal human experiences that connect us all your experiences are not erased
-because Charlie and Nick can hold hands your trauma is not invalid because
-Society doesn't recognize it you don't have to live up to the fairy tale that
-Alex and Henry's story is told in no matter what you feel there is no wrong way
-to be queer there are no rules saying if you didn't meet your boyfriend in high
-school then you did things wrong you didn't miss out on your story maybe you're
-just starting it and no matter what anyone says your story has a place in this
-world so don't let anyone stop you from telling it this video was brought to you
-by our amazing patrons like the ones you see on screen right now if you'd like
-to help us keep making queer content on YouTube you can sign up for our patreon
-at the link in the description thanks for watching I don't who's or right
-youneed and I love it you bring on my to light I used to be Jed in my patience
-some people who walked in and out of my life but you is so different this time
-thoughts of the future of you caliz now you breaking Downs I've never found love
-with no ego you stitching up my scars forever just the start yeah you we go know
-go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you
-are [Music] breaking down my walls never found love with no e you stitching up
-my scars forever just the start you no now you're breaking down my walls I've
-never found love it no love love it no love [Music] [Music] it [Music] n n
--->
+<compare>
+	<cite>{{ page.tustin_eyewitness }}</cite>
+	<james>And, no, you can't go back and fix it. Like I came out when I was 12 and I haven't had an actual boyfriend my whole life.</james>
+	<comment>James has repeated this personal anecdote on stream, so it may be genuine.</comment>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Many gay people cope with this by telling themselves that their teenage fantasies were simply impossible. Media instances that refute this without explanation may very well feel like direct personal criticism... for having trauma.
+
+\[Meme montage]: Jamie Lee Curtis saying "Trauma" repeatedly.
+<!-- trauma trauma trauma generational trauma trauma trauma this is what trauma looks like -->
+
+These are the feelings that *Heartstopper* digs up in some people. So it makes perfect sense *why* the criticism would be so focused on presenting sexuality in a show that is neither focused on it nor is it required. It makes sense perhaps. But it is irrational. Even though trauma itself is valid, there is an onus on the individual to respect their own trauma without pushing it out into the world. 
+
+But that's just *Heartstopper*. What of the opposite? An inability to consume media that *is* sexual because it presents those *same* sensations of queer FOMO. Perhaps this is why some gay people are uncomfortable with seeing gay sex in their streaming movies. Not because they're squeamish about dicks and butts, but because it's hearkening to a painful reminder of what *they* feel like this movie is telling them they missed out on.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+And I'm sorry for how polarizing this video is. I know it must seem like I'm jumping around a lot. If I'm not settling on a clear critical target it's because I'm not trying to target anyone. When in fact I'm trying to defend media's ability to exist as a creator's vision. But also defend why queer people have such a dodgy relationship with media featuring queer people. Nobody's really in
+the wrong here. 
+
+...Except of course Millennia of puritanical imperialism and postcolonial patriarchal values that have resulted in us feeling like we're overdue for a little dignity and autonomy!
+
+</james>
+<from></from>
+</compare>
+
+## Chapter 5: Real Life and Fantasy
+
+<compare>
+<cite></cite>
+<james>
+
+In regards to queer resistance around media, I see two issues. The first being that queer people, including gay men, have been so underrepresented for so long (and, to boot, predominantly represented by depictions that moralize us based on hegemonistic etiquette), we feel an obligation to watch queer media where we are featured in the hopes that it will break the representation glass ceiling. 
+
+This is particularly more true for wide release, high-profile examples of queer media. This is why *Bros* got rave reviews from mainstream critics while *Fire Island* was mostly ignored. It's also a very erratic circumstance of media criticism where *Red, White, and Royal Blue* was targeted for its sexiness, but Bros upon release was hailed as the advent of queer acceptance among mainstream critics! Even though it had a lot more sex among a lot more
+people! And was not nearly as good.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+We're shooting ourselves in the foot by following trends. Highly promoted queerness is queerness that has been bespoke to have as much appeal to straight audiences as possible. 
+
+Think Brokeback Mountain: would that have been as successful had it not starred two heart throbs that women wet their panties over and who simultaneously came across as butch enough for straight guys to feel comfortable with? 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+The problem in practice is that this obligation *implores us* to watch media we simply may not be interested in. Either outside of our preferred genres or featuring casting that we don't like. Or
+something which may contain triggering elements that we don't even know are triggers simply because we don't consider existing in a society that does not accommodate our identities as CPTSD!
+
+\[Meme]: Another clip of Jamie Lee Curtis saying "Trauma".
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+The second issue is, as per an unawareness of said complex trauma, we are unable to compartmentalize a negative reaction to media as a trauma response. In which case we try to intellectualize by interpreting this media as making a normative argument about all of gay people. 
+
+So like to quote an incredibly problematic white man: "dude sometimes a cigar is just a cigar". 
+
+*Heartstopper* is just trying to be *Heartstopper*. Not every
+artist or author is out there trying to make a fictional manifesto out to reflect and shape the world. I don't think this is limited exclusively to queer people, but we seem to take every instance of queer representation *as* a manifesto. We treat these media as if each one is actively trying to set a universal precedent for the state of modern queerness.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Sometimes this is true, like with Barbie, which was a movie about Womanhood,the interaction between woman and the idea of woman, and where men may fit into this idea. At which point you are allowed to disagree with the premises and conclusions of the movie. You're also allowed to disagree with some finer points and some nitpicky elements of the conclusion, but overall enjoy the movie or appreciate that it exists. "Slightly disagree" does not need to mean "burn it in a fire".
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+This is probably the clearest problem that exists within leftist spaces today. That is a fallacy of composition. It's not intellectual. And it's *certainly* not sexy. 
+
+You know who does that? The alt-right! "Disney made *this movie* about a strong female character so the entire company now has a woke agenda" apparently, and so on and so forth.
+
+The difference being that those on the right at the very least generally agree on who to hate. *We're letting them divide us.* 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+We have a reluctance to let queer media be fantasies. Instead, as we're starved for visibility, we look at each one as the media that might make or break our personal autonomy.
+
+*Heartstopper* is a fantasy.
+*Red, White, and Royal Blue* is a fantasy.
+*Young Royals* is a fantasy.
+
+Because for all that *Heartstopper* may be *seen* as an early indicator of a total failure of queer rights...
+
+\[On screen]: "IT ISN'T"
+
+...it's certainly an outlier next to a larger body of work that includes the aforementioned media and many others. *Heartstopper* might be popular but *Red, White, and Royal Blue* is the most watched Amazon Prime movie in the history of the service. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+The issue is not with *Heartstopper*, but a fear of living in a population that leans toward *that* as the only acceptable manifestation of queer expressions of affection. Which is not an issue with the media but rather the way we seem to expect these instances of representation to apply to the whole of queerness. And
+that rather than finding *Red, White, and Royal Blue* wanting for not being able to present the multitudinous range of queerness, we can observe these pieces of media as being pieces of a *growing whole*, which seems to be leaning to greater inclusivity as it grows.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+This feels like a popularity contest where the largest fandom gets to decide what is and is not an acceptable expression of queer, specifically gay love. And the people who have the smaller voice (next to a large fandom of teenage girls) are gay people. 
+
+The fear is rooted in a sensation of not having control over our own depictions that are projected to queer people. Because it's these fictional examples that are held up as archetypes... for real
+people to be compared to. 
+
+</james>
+<from></from>
+</compare>
+
+## Chapter 6: Inclusive Invisibility
+
+<compare>
+<cite></cite>
+<james>
+
+One must acknowledge the historic invisibility of gay narratives within the mainstream media landscape. The journey from non-existence to the peripheries and at long last to have media with as diverse portrayals as *Heartstopper*, *Young Royals*, *Red, White, and Royal Blue*, not to mention more adult focused media... has been a sisyphean task for the gay community.
+
+This traversal has been marred by periods of grotesque caricature and an almost voyeuristic safarism that othered and fetishized gay relationships, casting them in a light that shimmered with scandal rather than substance. And these types of portrayals are far from gone, especially in other parts of the world. 
+
+But... that's a different video; sign up for the patreon to get us there!
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Yet as the pendulum swung towards inclusivity, a new critique arose from the old prejudices: the claim that gay media is too sexualized, concealing the age-old detraction of the "gays themselves are too sexual". In some sense this reflects a societal discomfort with the candid portrayal of homosexual love and desire. It is as if the very act of two men or two women expressing their sexuality must be shrouded in a chaste veil, lest the onlooker be confronted with the unvarnished truth of affection. And maybe even have to rethink their own inner feelings.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Moreover, this assessment often stems from a myopic view of gay media, taking as its evidence a narrow selection of works that are intentionally provocative, or which challenge societal norms around sex and sexuality. To paint the *entirety* of gay media with such a broad brush is to ignore the rich tapestry of stories that span the spectrum of experience, from the platonic and the familial, to the romantic and, yes, even the sexual. To deny the sexual component of gay relationships in media is to deny a fundamental aspect of human connection, regardless of orientation. Sexuality, after all, is a
+potent element of The Human Condition, and its representation in art and storytelling has long been a conduit for deeper understanding; a mirror reflecting the complexities of love, lust, and longing.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Heteronormative narratives have long enjoyed the privilege of unabashed sexual expression without inviting the same level of scrutiny. In contrast gay media often faces a double-edged sword: a clamoring for representation on one hand and a prudish recoil at the manifestation of that representation on the other. There exists an unspoken rule, it seems, that gay characters must not only be present but must also comport themselves in a manner palatable to the heterosexual majority. Their sexuality expressed with a modesty that is seldom demanded of The Straights. 
+
+Is it not, then, a form of cultural suppression to dictate the terms of representation to confine the narratives of a community to the narrow confines of what is deemed acceptable by those who wield the loudest voices? Gay media in its essence is a rebellion against such constraints. A declaration that love in its myriad forms will no longer be relegated to the shadows. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Perhaps there are naturally going to *be* various push back consequences when dealing with a large group of people who have been jerked around, lead on, and outright lied to for decades. Knowing our history can establish a context for why we face the struggles we do. But also offer us insight into what methods work to create change and what methods don't. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Spoiler alert: for gay rights, being loud obnoxious and altogether ungrateful and shoving our sexuality in people's faces has tended to be a more successful route than "working within the system" and making friends.
+
+For marriage equality we stopped asking politicians to help us and started demanding equality by hiring high priced lawyers and taking people, states, and whole countries to court. For being gay in the military, we tried it the nice way and we got "Don't Ask, Don't Tell". So then we started marching and had our gay millionaires threatened to stop donating to Democratic politicians if they didn't repeal the thing! 
+
+And when it came to AIDS, we did absolutely everything that every privileged person says you're *not* supposed to do if you want people to like you. Because asking politely got us ignored *even* those of us who *knew Ronald F---ing Reagan!* But I digress.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+The hallmark of an oppressor is to divorce a community from its own history. It makes it easier for controlling powers to dictate what that history was. Or simply lie about a political body's involvement in systemic institutional and social discrimination. The diversity of relationships and experiences within the LGBTQ community should be shown. Not all gay men have the same experiences nor do all lesbians, bisexual people, trans people, or queer people in general.And let's not forget the representation of asexuals and aromantics, who are often completely overlooked in media! The inclusion of diverse relationships and sexual dynamics *is* important, whether it be runchy sex in a bath house or holding your high school boyfriend's hand. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Visibility in all forms of media, including media directed at younger people like *Heartstopper*, is incredibly important. There's a growing resistance to including queer characters in movies, shows, and books directed at a YA or younger audience... based on the misconception that their presence (inherently) involves adult themes.
+
+However children's media is an ideal space to introduce the concept of diverse families and friendships, teaching acceptance and understanding at a young age. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Finally, we must recognize that queer representation is not the end goal but part of a broader movement towards inclusion and equality. It's a means for storytelling that reflects the world as it is, in all its diversity. And at its best, it can influence perceptions and foster empathy. It's not just about seeing oneself on screen. It's about everyone seeing the multifaceted world we share. Learning from it and finding the universal human experiences that connect us all.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+Your experiences are not erased because Charlie and Nick can hold hands. Your trauma is not invalid because society doesn't recognize it. You don't have to live up to the fairy tale that Alex and Henry's story is told in. No matter what you feel there is no wrong way to be queer. There are no rules saying "if you didn't meet your boyfriend in high school then you did things wrong". You didn't miss out on your story. Maybe you're just starting it.
+
+And no matter what anyone says... your story has a place in this
+world. So don't let anyone stop you from telling it.
+
+</james>
+<from></from>
+</compare>
+
+&lt; Patreon plug &gt;
+<!-- this video was brought to you by our amazing patrons like the ones you see on screen right now if you'd like to help us keep making queer content on YouTube you can sign up for our patreon at the link in the description thanks for watching I don't who's or right youneed and I love it you bring on my to light I used to be Jed in my patience some people who walked in and out of my life but you is so different this time thoughts of the future of you caliz now you breaking Downs I've never found love with no ego you stitching up my scars forever just the start yeah you we go know go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you are [Music] breaking down my walls never found love with no e you stitching up my scars forever just the start you no now you're breaking down my walls I've never found love it no love love it no love [Music] [Music] it [Music] n n -->
+
+Patreon names roll over the song [No Ego (feat. Supermans Feinde)](https://artlist.io/royalty-free-music/song/no-ego-feat-supermans-feinde/87332) by [Third Dimension](https://artlist.io/royalty-free-music/artist/third-dimension/1240).
+
+<div class="lyrics">
+I'm putting away my pride<br/>
+I don't care who's wrong or right<br/>
+oh, somehow you got me so magnetized<br/>
+and I love it<br/>
+<br/>
+You bring all my dark to light, light<br/>
+I used to be jaded, testing my patience<br/>
+Some people who walked in and out of my life<br/>
+but you are so different<br/>
+this time I'm all in it<br/>
+thoughts of the future with you crystalized<br/>
+<br/>
+now you're breaking down my walls<br/>
+I've never found love with no ego<br/>
+you're stitching up my scars<br/>
+forever's just the start yeah<br/>
+<br/>
+you ego no ego, no no no no<br/>
+no ego, no no no no<br/>
+you're breaking down my walls<br/>
+I've never found love with no ego<br/>
+<br/>
+no ego<br/>
+<br/>
+got me going back to the basics, basics<br/>
+just being around choose my favorite, oh oh<br/>
+stitching me together it's like I'm nausea<br/>
+Me and you are never fading, never<br/>
+<br/>
+now you're breaking down my walls<br/>
+I've never found love with no ego<br/>
+you're stitching up my scars, my scars<br/>
+forever's just the start yeah<br/>
+<br/>
+you ego no ego, no no no no<br/>
+no ego, no no no no<br/>
+now you're breaking down my walls<br/>
+I've never found love with no ego<br/>
+<br/>
+love with no ego<br/>
+love with<br/>
+<br/>
+love with no ego<br/>
+</div>
