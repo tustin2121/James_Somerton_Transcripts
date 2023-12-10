@@ -226,6 +226,107 @@ people, "you'll be accepted if you're less like the characters in *Red, White, a
 <compare>
 <cite></cite>
 <james>
+
+Let's take a closer look at *Heartstopper* for a moment. This series skips the usual over-the-top drama and instead captures the sweet sometimes clumsy moments of teen love. It centers around two characters: Charlie Spring (played by Joe Locke) and Nick Nelson (played by Kit Connor). Their story takes place in a typical English high school and unfolds slowly and gently with each episode moving the story forward toward a satisfying emotional climax. The story carefully takes us through their personal journeys, the difficulties they face with bullying, and the joy of finding someone who truly understands them. All without becoming overly sad or dramatic. The show has a light touch that perfectly captures how straights have been telling us first love feels for centuries.
+
+The show gives us a real look at Charlie as he deals with his sexuality and the need to be accepted. He's not just a stereotype he's a fully developed character going through the ups and downs of first love in a very real way. As for Nick the show does a good job of showing his journey of understanding that he's bisexual. It talks about the confusion and moments of clarity that come with figuring out who you are. The series handles these complex topics with a gentle touch that's both admirable and sweet. 
+
+*Heartstopper* also shows the diverse experience of different people in the queer community. Each character has a different story, reminding us that everyone's journey is unique. But there's still a common hope and strength that they all share. The show is also notable (or maybe notorious) for not focusing too much on the sexual aspects of Nick and Charlie's relationship. This makes *Heartstopper* a strong argument against the idea that gay stories are inherently too focused on sex and therefore unsafe for kids or young people to watch. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+But while creating a story focused on the sweet and cute over the hot and bothered has attracted an audience that might not usually watch a show about queer characters, it's also seemed to alienate a large swath of the queer community. There's been a rather... weird reaction to the second season of the show in particular. 
+
+For instance drag queens Trixie and Katya have a YouTube series where they review Netflix shows and movies called "Queens who Like to Watch". When they reviewed the first season, among high fan demand and even higher personal hesitation, it seemed the only point of contention was that Trixie seem to be irritated by the cute depiction of gay people that can often have us feeling exploited and patronized while Katya liked how cute it was. 
+
+Fast forward to season 2 and even Katya was over the cuteness and wanted to see something a bit more grown up. Or at least see the
+character's relationships advance beyond hugging, even if it was offscreen. The first season was cute, but ask anyone who's been married for more than 10 years knows *cute things* about your significant others start to get annoying real quick. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+"Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. We were either neutered
+and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)
+
+Many creators lean toward this over the years as a way to show gay representation without pissing off the straights too much. So I can understand why some people in the gay community (especially men my
+age who grew up with the trope of the 'sexless gay best friend' like Trixie) would be irritated by it even now when there *is* pretty mainstream gay movies and shows that *do* show the sex stuff, like *Young Royals* and *Elite*. But like I said Katya's opinions seem to shift between the two seasons. Our Queens who Watch looked at this story about a collection of various queer 15- and 16-year-olds, and they spent the duration of their video railing it because... well, nobody was getting railed. 
+
+Out of context, I found this reaction a little bit cringy and, truthfully, the only time I really saw Trixie and Katya miss a mark. Heartstopper isn't a show about sex, so why should it be all about sex? They didn't want to *see* the characters having sex, they just wanted to know that it *was* happening or building up to happening, because that seemed more realistic to them and their experiences. 
+
+</james>
+<from></from>
+</compare>
+
+Visual on screen: \[Disclaimer]
+
+<compare>
+<cite></cite>
+<james>
+
+To be clear, gay people do not want to see these characters having sex. But gay people *do* want to know that gay sexuality is allowed to exist. Media that divorces sexuality from identity is to some annoying at best and triggering at worst. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james>
+
+Not to paint Trixie and Katya in a bad light; they're hardly alone. In fact they're not even the first to have this reaction. There was a slew of gay men and queer people in general who held nothing but contempt for *Heartstopper* from the word go, and not even necessarily for the aforementioned reasons.
+
+There were many who felt that *Heartstopper* was simply too edgeless and seemed to be presenting a purity mandate projected at the entire queer community, not unlike the messaging projected at women in general.
+
+</james>
+<from></from>
+<cite>[citation needed]</cite>
+</compare>
+
+## Chapter 3: Straight Interrupted
+
+<compare>
+<cite></cite>
+<james>
+
+There is a trend among discourse among women about the allotted role of a woman in the patriarchal power structure. Men typically want
+women to be sexually experienced, but they also seem to allocate a role for women that holds them to a particular sexual purity. It's a double standard for sure.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<clip></clip>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 </james>
 <from></from>
 </compare>
@@ -235,77 +336,12 @@ people, "you'll be accepted if you're less like the characters in *Red, White, a
 <!--
 
 
-let's take a closer look
-at heartstopper for a moment this series skips the usual over-the-top drama and
-instead captures the sweet sometimes clumsy moments of teen love it centers
-around two characters Charlie spring played by Joe lock and Nick Nelson played
-by kit con their story takes place in a typical English high school and unfolds
-slowly and gently with each episode moving the story forward toward a satisfying
-emotional climax the story carefully takes us through their personal Journeys
-the difficulties they face with bullying and the joy of finding someone who
-truly understands them all without becoming overly sad or dramatic the show has
-a light touch that perfectly captures how Straits have been telling us first
-love feels for centuries the show gives us a real look at Charlie as he deals
-with his sexuality and the need to be accepted he's not just a stereotype he's a
-fully developed character going through the ups and downs of first love in a
-very real way as for Nick the show does a good job of showing his journey of
-understanding that he's bisexual it talks about the confusion and moments of
-clarity that come with figuring out who you are the series handles these complex
-topics with a gentle touch that's both admirable and sweet Heart Stopper also
-shows the diverse experience of different people in the queer Community each
-character has a different story reminding us that everyone's journey is unique
-but there's still a common hope and strength that they all share the show is
-also notable or maybe notorious for not focusing too much on the sexual aspects
-of Nick and Charlie's relationship this makes heartstopper a strong argument
-against the idea that gay stories are inherently too focused on sex and
-therefore unsafe for kids or young people to watch but while creating a story
-focused on the sweet and cute over the hot and bothered has attracted an
-audience that might not usually watch a show about queer characters it's also
-seemed to alienate a large swath of the queer Community there's been a rather
-weird reaction to the second season of the show in particular for instance drag
-queens Trixie and Kata have a YouTube series where they review Netflix shows and
-movies called Queens who like to watch when they reviewed the first season among
-High fan demand and even higher personal hesitation it seemed the only point of
-contention was that Trixie seem to be irritated by the cute depiction of gay
-people that can often have a was feeling exploited and patronized while katata
-liked how cute it was fast forward to season 2 and even katata was over the
-cuteness and wanted to see something a bit more grown up or at least see the
-character's relationships Advance Beyond hugging even if it was offscreen the
-first season was cute but ask anyone who's been married for more than 10 years
-those cute things about your significant others start to get annoying real quick
-cute wasn't cutting it anymore gay people were cute when I was growing up in the
-same way way that a Geral or a guinea pig would be cute caged fond over taken
-out to play with but ignored when no longer novel and at the time probably dead
-within 2 years it felt patronizing to be reduced to this we were either neutered
-and cute such as in teen Focus TV shows or sexually active and eventually dead
-such as in movies like Brokeback Mountain tell me the puritanical moralization
-of sexual values doesn't exist anymore many creators lean toward this over the
-years as a way to show gay representation without pissing off the Straits too
-much so I can understand why some people in the gay community especially men my
-age who grew up with the Trope of the sexist gay best friend like Trixie would
-be irritated by it even now when there is pretty mainstream gay movies and shows
-that do show the sex stuff like young Royals and Elite but like I said ki's
-opinions seem to shift between the two seasons our Queens who watch looked at
-this story about a collection of various queer 15 and 16year olds and they spent
-the duration of their video railing it because well nobody was getting railed at
-a context I found this reaction a little bit cringy and truthfully the only time
-I really saw Trixie and caught him miss a Mark heartstopper isn't a show about
-sex so why should it be all about sex they didn't want to see the characters
-having sex they just wanted to know that it was happening or building up to
-happening because that seemed more realistic to them and their experiences to be
-clear gay people do not want to see these characters having sex but gay people
-do want to know that gay sexuality is allowed to exist media that divorces
-sexuality from from identity is to some annoying at best and triggering at worst
-not to paint Trixie and katcha in a bad light they're hardly alone in fact
-they're not even the first to have this reaction there was a slew of gay men and
-queer people in general who held nothing but contempt for heartstopper from the
-word go and not even necessarily for the aformentioned reasons there were many
-who felt that heartstopper was simply too edgeless and seemed to be presenting a
-purity mandate projected at the entire queer Community not unlike the messaging
-jeed at women in general there is a trend among discourse among women about the
-allotted role of a woman in the patriarchal power structure men typically want
-women to be sexually experienced but they also seem to allocate a role for women
-that holds them to a particular sexual Purity it's a double standard for sure we
+
+
+
+
+
+ we
 have to to be a boss but you can't be mean you have to lead but you can't squash
 other people's ideas you're supposed to love being a mother but don't talk about
 your kids all the damn time the Madonna horror complex exists for a reason you
