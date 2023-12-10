@@ -14,9 +14,7 @@ You can view the archive of this video [on the Internet Archive](https://archive
 Auto-transcribed by YouTube, downloaded by [TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts).  
 Formatted by Tustin2121.
 
-{% include "compare-example" %}
-
-
+{% include transcript-header.html %}
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
