@@ -1,6 +1,7 @@
 ---
 cite:
 	rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
+	todd_factcheck: ""
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
@@ -80,25 +81,147 @@ As his mother prepares a concession speech, news comes from Texas. In the most *
 <from></from>
 </compare>
 
-<compare>
-<cite></cite>
-<james>
-
-
-
-</james>
-<from></from>
-</compare>
-
 &lt;Sponsor Insert&gt;
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
+## Chapter 1: Missionary Suppression
+
 <compare>
 <cite></cite>
 <james>
+
+So *Red, White, and Royal Blue* might read like the ultimate what if scenario. But strip away the international diplomacy and royal trappings and you got yourself a pretty straightforward romance: two guys falling for each other when they least expect it. 
+
+[Cutaway gag]: Groundbreaking
+
+Now if you're familiar with the romance genre, you'll know that it's not exactly bursting at the seams with gay love stories that don't take a tragic turn. And mainstream romcoms... well, they've historically stuck to the script of snowflakes and sanitized kisses, with the steamier stuff being left implied (if it's acknowledged at all). Explicitly sexual gay romcoms are like unicorns: mythically rare and to some potentially unsettling. 
+
+In this narrative Alex and Henry's all consuming infatuation anchors the plot. They're the kind of "in too deep" that has them gambling everything on a chance at happiness. And sure with Alex's mom in full campaign mode and Henry sporting a crown (usually metaphorically), their romance isn't exactly publicity friendly. But the fireworks happen offstage. 
+
+Their text messages a master class in building sexual tension. And their together moments? Well, let's just say they're explosive in the "clutch your pearls" kind of way (especially in the book). They make up for lost time, as it were. 
+
+The story kind of saunters into this liminal space. It's not pure handholding puppy love like in *Heartstopper*, but it's also not quite at the level of pay-per-view eroticism that you'd find in *Elite*. It's sweet, sure, endearing even, to the most cynical of us. But it also packs enough heat to make you want to crack open a window.
+
 </james>
 <from></from>
 </compare>
+
+<compare><cite>{{ page.cite.rwrb_movie }}</cite>
+<clip>
+
+Henry: My full name is "Henry George Edward James Hanover Stewart Fox"
+
+Alex: *[whistles]* And I thought "Alexander Gabriel Claremont-Diaz" was a mouthful.
+
+Henry: *[shy]* He is.
+
+</clip>
+</compare>
+
+<compare>
+<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<james>
+
+And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
+
+The twist? Some of these naysayers were gay men. It's a bit of a "the call is coming from inside of the house" moment when queer people themselves openly admit to being comfortable watching straight sex in movies, but are turned away by the sight of boys kissing. Especially due to how relatively tame *Red, White, and
+Royal Blue*'s sex was, compared to other gay media released in recent memory.
+
+</james>
+<comment>
+
+Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
+
+["I'm A Queer Man. So Why Are Queer Sex Scenes Making Me So Uncomfortable?"](https://www.huffingtonpost.co.uk/entry/im-a-queer-man-so-why-are-queer-sex-scenes-making-me-so-uncomfortable_uk_64e38a13e4b0400efa5890d3) By Ian Kumamoto, Guest Writer for the Huffington Post UK (Aug 21st, 2023).
+
+But this piece specifically is about the author interrogating his own discomfort with the sex scenes. The writer is aware this is his own hangup, and is not a "naysayer".
+
+Todd could not find anything but a negative review on the BBC, which just thought it was 'cutsey and flat', and not "excessively sexy".
+
+</comment>
+</compare>
+
+<compare>
+<cite>{{ page.cite.todd_factcheck }} (22:55)</cite>
+<james>
+
+The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
+
+As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
+
+</james>
+<comment>
+
+Todd looked for evidence of this, and found the following two articles:
+
+[Straight people SHOCKED to learn gays can have missionary sex after seeing “Red, White & Royal Blue”](https://www.queerty.com/straight-people-shocked-to-learn-gays-can-have-missionary-sex-too-after-seeing-red-white-royal-blue-20230814) By Alex Reimer (Aug 14, 2023)
+
+['Red, White & Royal Blue' Is Teaching Straights That Gays Can Do Missionary](https://www.out.com/film/red-white-royal-blue-missionary) by Mey Rude (Aug 15, 2023)
+
+Both articles cited exactly [one tweet](https://twitter.com/HunterPippinPHL/status/1690365326045708289) that asks "Gay guys can do missionary?" And this person was not offended, just confused and enlightened. Also, she's not even straight.
+
+</comment>
+</compare>
+
+<compare>
+<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<james>
+
+There's a strong undercurrent of hypocrisy here, particularly as queer folk of... literally every shade of the rainbow are accused of corrupting the youth. Never mind that it was perfectly acceptable for virtually every American Teen Movie to focus with laser precision on rooting for teenagers to bone each other. The *American Pie* franchise owes its whole success to this. For which audiences agree that the heterosexual events in American Pie are... normal.
+
+But when it's gay, it's sexualization, echoing a sentiment quietly expressed in culture: straight is normal, and everything else that is outside of normal must be scrutinized for how it may corrupt 'the normal'. Which is the *most* irrational thought process presented in this essay. 
+
+And I will note just in case YouTube makes me cut the footage of *said scene*, the main sex scene in *Red White and Royal Blue* entirely focuses on faces. It's all about the emotional intimacy between two people and less about the raw sex, which isn't even *raw*, by the way, because they make a point of using a condom. Which a lot of gay viewers laughed at because we're in the age of prep. But two things: one) Prince Henry probably couldn't go on prep without it causing a scandal, and two) there are STDs other than HIV, guys. This is why syphilis is resurging and why we're getting antibiotic resistant strains of Gonorrhea now. Wrap 👏 it 👏 up! 👏 In any case...
+
+According to what I've gathered, the majority of viewers who were... *offended* were hetrosexual women who were *apparently* exposed to gay content for the first time in their *lives* via Heartstopper. Wwhich huge props to Heartstopper, by the way, for opening people's minds to the concept that boy kissing is all right. But when that's their *only* exposure, I can understand how "legs-up anal penetration" may leave them surprised. 
+
+</james>
+<comment></comment>
+</compare>
+
+<compare>
+<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<james>
+
+However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
+
+</james>
+<comment>
+
+It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
+
+It is *technically* possible, but as of yet, no single tweet has been dug up that makes this true.
+
+</comment>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+So why is it that they were perfectly fine with Nick and Charlie kissing up a storm on Heartstopper, writing fanfiction about it and creating *countless* fan edits on Tik Tok, but basically formed a covenant the minute Alex pushed Henry's knees up to his chest? I'd like to see the reaction to... well, any episode of *Queer as Folk*. 
+
+Now was this just because they've never been exposed to the idea of gay sex before? Were they homophobic? Were they secret PragerU plants, out to kill the movie? Were they sex negative in general? Or...? Have we as a society simply conditioned a large swath of the populace to think of gays as completely nonsexual objects? Something that plenty of people like having around but keep at a distance just far enough away to not have to know too much about it.
+
+They know that men have sex with men, and women have sex
+with women, but they're really icked out by the idea of knowing the ins and outs and tops and bottoms of it all. (Good thing Henry didn't eat any *beans* before the scene or that could have brought up even more uncomfortable questions.)
+
+The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
+
+Through a latent process of judging gayness in media the straight audience can pass a stamp of approval or condemn certain media. And in the process we can perhaps perceive the hetero hegemony as dictating how, or how not, to be gay. And simply by how overwhelmingly large the straight audience is, their dictation of what good gay representation is drowns out what gay men describe as good gay representation.
+
+This is the fear anyway. 
+
+And though I believe it is irrational, the fear comes from a very real very valid place. Especially as a conservative wave once again washes across America and sections of Europe, which tries to insist that queer sex should be pushed back into the closet, or should simply cease to exist altogether. Which is how they also feel about various queer people. 
+
+Political gay fears seem to be realized through the mass audience's reaction to gay characters in media. In conjunction with criticisms against relatively tame gay sex in one movie, the celebration of *sexless* queer characters in another piece of queer media seems to echo a 1950s abstinence mandate that says to modern young queer
+people, "you'll be accepted if you're less like the characters in *Red, White, and Royal Blue*, and more like the characters in *Heartstopper*." 
+
+</james>
+<from></from>
+</compare>
+
+## Chapter 2: Cute and Caged
 
 <compare>
 <cite></cite>
@@ -112,112 +235,7 @@ As his mother prepares a concession speech, news comes from Texas. In the most *
 <!--
 
 
-
-so red white and royal blue might
-read like The Ultimate wh if scenario but strip away the international diplomacy
-and Royal trappings and you got yourself a pretty straightforward romance two
-guys falling for each other when they least expect it groundbreaking now if
-you're familiar with the romance genre you'll know that it's not exactly
-bursting at the seams with gay love stories that don't take a tragic turn and
-mainstream romcoms well they've historically stuck to the script of snowflakes
-and sanitized kisses with the steamier stuff being left implied if it's
-acknowledged at all explicitly sexual gay romcoms are like unicorns mythically
-rare and to some potentially unsettling in this narrative Alex and Henry's all
-consuming infatuation anchors the plot they're the kind of into to deep that has
-them gambling everything on a chance at happiness and sure with Alex's mom in
-full campaign mode and Henry sporting a crown usually metaphorically their
-romance isn't exactly publicity friendly but the fireworks happen offstage their
-text messages a master class in building sexual tension and they together
-moments well let's just say they're explosive in the clutcher pearls kind of way
-especially in the book they make up for lost time as it were the story kind of
-saunters into this this Lial space it's not pure handholding puppy love like in
-heartstopper but it's also not quite at the level of pay-per-view eroticism that
-you'd find an elite it's sweet sure endearing even to the most cynical of us but
-it also packs enough heat to make you want to crack open a window my full name
-is Henry George Edward James Hanover Stewart Fox and I thought Alexander Gabriel
-Claremont Diaz was a mouthful he is and yeah it got heat of the not so great
-kind uh we're talking about think pieces from places like The Huffington Post
-and the BBC getting their knickers in a Twist over the movie's excessive
-sexiness The Twist some of these naysayers were gay men it's a bit of a the call
-is coming from inside of the house moment when queer people themselves openly
-admit to being comfortable watching straight sex in movies but are turned away
-by the sight of boys kissing especially due to how relatively tame red white and
-Royal Blue's sex was compared to other game media released in recent memory the
-bulk of criticism however was found on social media where straight people seemed
-to be confused and shocked that gay men had sex at all the references and the
-one particular sex scene which seemed like a Rubik's Cube to some straight
-viewers were too much for an audience that had been raised on the sexless gay
-best friend sidekick character it's almost as if someone asked do gay characters
-have sexual encounters how do they do this when they're both facing each other
-what kind of Witchcraft is this as a result they rushed to the internet first to
-investigate how the missionary position could possibly work with gays and then
-to express their dissatisfaction with the situation there's a strong
-undercurrent of hypocrisy here particularly as queer folk of literally every
-shade of the rainbow are accused of corrupting the youth never mind that it was
-perfectly acceptable for virtually every American Teen Movie to focus with laser
-Precision on rooting for teenagers to Bone each other the American piie
-franchise owes its whole success to this for which audiences agree that the
-heterosexual events in American Pi are normal but when it's gay it's
-sexualization echoing a sentiment quietly expressed in culture straight is
-normal and everything else that is outside of normal must be scrutinized for how
-it may corrupt the normal which is the most irrational thought process presented
-in this essay and I will note just in case YouTube makes me cut the footage of
-said scene the main sex scene in red white and royal blue entirely focuses on
-faces it's all about the emotional intimacy between two people and less about
-the raw sex which isn't even raw by the way because they make a point of using a
-condom which a lot of gay viewers laughed at because we're in the age of prep
-but two things one Prince Henry probably couldn't go on prep without it causing
-a scandal and two there are STDs other than HIV guys this is why syphilis is
-resurging and why we're getting antibiotic resistant strains of Gonorrhea now
-wrap it up in any case according to what I've gathered the majority of viewers
-who were offended were heterosexual women who were apparently exposed to gay
-content for the first time in their lives be a Heart Stopper which huge props to
-Heart Stopper by the way for opening people's minds to the concept that boy
-kissing is all right but when that's their only exposure I can understand how
-legs up anal penetration may leave them surprised however they were so taken
-aback that they criticized the film for having an excessive amount of sexual
-content which once more is one scene and in both a physical and figurative sense
-it's not quite as steem me as the sex scene that took place between Rose and
-Jack and the car in Titanic they were shut down online pretty quickly by a huge
-swath of fans made up mostly of women but to my delightful surprise a lot of gay
-men as well who told them to pipe down and accept that sex exists thank you but
-for a few days this very very vocal minority were making it seem like Alex and
-Henry having sex in the most basic position known to humankind while using a
-condom and even to my recollection being under the bed sheets was compared on a
-onetoone basis as as the third day of a meth orgy so why is it that they were
-perfectly fine with Nick and Charlie kissing up a storm on heartstopper writing
-fanfiction about it and creating countless fan edits on Tik Tok but basically
-formed a covenant the minute Alex pushed Henry's knees up to his chest I'd like
-to see the reaction to well any episode of que's folk now was this just because
-they've never been exposed to the idea of gay sex before were they homophobic
-were they secret prageru plants out to kill the movie were they sex negative in
-general or have we as a society simply conditioned a large swath of the populace
-to think of gays as completely nonsexual objects something that plenty of people
-like having around but keep at a distance just far enough away to not have to
-know too much about it they know that men have sex with men and women have sex
-with women but they're really I outb by the idea of knowing the ins and outs and
-tops and bottoms of it all good thing Henry didn't eat any beans before the
-scene or that could have brought up even more uncomfortable questions the
-controversy about the sex in red white and royal blue while quickly suppressed
-seems to paint an ill- fated Omen about the condition of gay men and possibly by
-extension all of queerness and the ability to be open about sex lives especially
-in the same comfort that straight creators depict straight sex through a latent
-process of judging gayness in media the straight audience can pass a stamp of
-approval or condemn certain media and in the process we can perhaps perceive the
-hetero hegemony as dictating how or how not to be gay and simply by how
-overwhelmingly large the straight audience is their dictation of what good gay
-representation is drowns out what gay men describe as good gay representation
-this is the fear anyway and though I believe it is irrational the fear comes
-from a very real very valid place especially as a conservative wave once again
-washes Across America and sections of Europe which tries to insist that queer
-sex should be pushed back into the closet or should simply cease to exist
-altogether which is how they also feel about various queer people political gay
-fears seem to be realized through the mass audien's reaction to gay characters
-in media in conjunction with criticisms against relatively tame gay sex in one
-movie the celebration of sexless queer characters in another piece of queer
-media seems to Echo a 1950s abstinence mandate that says to Modern young queer
-people you'll be accepted if you're less like the characters in red white and
-royal blue and more like the characters in heartstopper let's take a closer look
+let's take a closer look
 at heartstopper for a moment this series skips the usual over-the-top drama and
 instead captures the sweet sometimes clumsy moments of teen love it centers
 around two characters Charlie spring played by Joe lock and Nick Nelson played
