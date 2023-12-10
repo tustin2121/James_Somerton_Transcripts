@@ -4,10 +4,20 @@ barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Fil
 todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
 tustin_eyewitness: "Tustin2121, former patron of James"
 ---
-<h1>"Gay Happiness and Mainstream Media"</h1>
-Also known as "The Agony / Anguish of Happy Gay Media".
+<h1>"Gay Happiness and Mainstream Media" Transcript</h1>
+This video is also known as "The Agony / Anguish of Happy Gay Media".
 
 Auto-transcribed by YouTube, cleaned up by Tustin2121.
+
+----
+
+<compare>
+<james>(Video transcript is on the left)</james>
+<from>(Fact-checking commentary or found plagiarized content is on the right for comparison)</from>
+<cite>APA-style citations are inserted here.</cite>
+</compare>
+
+---
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
@@ -15,10 +25,10 @@ Auto-transcribed by YouTube, cleaned up by Tustin2121.
 	<cite>{{ page.tustin_eyewitness }}</cite>
 </compare>
 
-Visual: "[Disclaimer]"
-
 <compare>
 <james>
+
+On Screen: "[Disclaimer]"
 
 I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
 
@@ -34,9 +44,17 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of Prince Phillip, the eldest grandson of England's Monarch. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
 
 Among the swirl of dignitaries and celebrities is an individual who
-attracts attention like a moth to a flame: Alex Claremont Diaz. He isn't just any attendee; he's the dynamic son of Ellen Claremont, a trailblazer who shattered glass ceilings by becoming the first woman to become the president of the United States.
+attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's the dynamic son of Ellen Claremont, a trailblazer who shattered glass ceilings by becoming the first woman to become the president of the United States.
 
 However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and Prince Henry, the younger sibling of the groom. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake,providing juicy content for the eager tabloids on both sides of the pond. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 The repercussions are immediate, with the impending reelection campaign of President Claremont, the scandal is ill timed, threatening to put a dent in her electoral armor. Damage control is of the essence. 
 
@@ -63,6 +81,14 @@ At the extravagant New Year celebration hosted by Alex, emotions bubble to the s
 Driven by an overwhelming fear of maybe losing Henry, Alex seeks him out in the serene White House Gardens. Confusion leads to a kiss from the prince, who like any man, then spends the next several weeks ignoring Alex's texts and phone calls.
 A normal gay experience, yes. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 Weeks later at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a "Friends with Benefits" relationship, although they keep their involvement secret. Duty and responsibilities, however, have their own demands. The electoral battlefield beckons and Alex finds himself in Texas, championing his mother's campaign. 
 
 Because this *is* a romantic fantasy, the idea of Texas voting for a Democratic president is actually possible. He later travels to Brooklyn to speak at the Democratic National Convention, where Henry unexpectedly visits him. This leads to these "friends with benefits" becoming something closer than just friends.
@@ -71,11 +97,27 @@ Alex even comes out to his mother as bisexual. She's very supportive maybe (even
 
 Their story however is far from a fairy tale ending. Henry visits Alex at the scenic Claremont Vacation House near Austin Texas. Out on the lake, just when Alex is on the cusp of sharing his deepest feelings with with Henry, the panicked Prince throws himself into the lake and soon leaves, escaping to England. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 But love, with its tenacity, spurs Alex on. He pursues Henry across the ocean seeking answers. Drenched from the English rain, Alex demands to know why Henry has basically abandoned him. Henry admits that he loves Alex, just as Alex loves him, but explains that his Royal position makes a gay relationship impossible for him. But Alex, with those eyelashes of his, manages to convince Henry that their relationship is worth fighting for, and the the two reconcile and commit to being together. 
 
 Yet destiny has more challenges waiting in the wings. Their intimate emails and texts, a window to their evolving love story, are maliciously exposed by a spurned ex of Alex's, creating a media maelstrom. Alex uses this as an opportunity to come out publicly and own his sexuality and his love for Henry, giving a moving speech that makes him the figurehead for queer America. 
 
 But things don't go so well for Henry whose family has all but sequestered him away from the public at large. But thanks to some deft maneuvering on the part of allies on both sides, Alex and Henry reunite in London, and prepare to confront the king of England about Henry being allowed to be his own man. A terse confrontation follows, but is interrupted by the sounds in the streets. The public have come to support Henry, despite what his family may want. And going against the wishes of the crown, Henry chooses Alex. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 The climax of the story coincides with the US elections. Polls are tight and Alex's family is preparing for bad news. The only thing keeping Alex together is Henry by his side. 
 
@@ -99,6 +141,14 @@ So *Red, White, and Royal Blue* might read like the ultimate what if scenario. B
 \[Cutaway gag]: Groundbreaking
 
 Now if you're familiar with the romance genre, you'll know that it's not exactly bursting at the seams with gay love stories that don't take a tragic turn. And mainstream romcoms... well, they've historically stuck to the script of snowflakes and sanitized kisses, with the steamier stuff being left implied (if it's acknowledged at all). Explicitly sexual gay romcoms are like unicorns: mythically rare and to some potentially unsettling. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 In this narrative Alex and Henry's all consuming infatuation anchors the plot. They're the kind of "in too deep" that has them gambling everything on a chance at happiness. And sure with Alex's mom in full campaign mode and Henry sporting a crown (usually metaphorically), their romance isn't exactly publicity friendly. But the fireworks happen offstage. 
 
@@ -176,12 +226,20 @@ There's a strong undercurrent of hypocrisy here, particularly as queer folk of..
 
 But when it's gay, it's sexualization, echoing a sentiment quietly expressed in culture: straight is normal, and everything else that is outside of normal must be scrutinized for how it may corrupt 'the normal'. Which is the *most* irrational thought process presented in this essay. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 And I will note just in case YouTube makes me cut the footage of *said scene*, the main sex scene in *Red White and Royal Blue* entirely focuses on faces. It's all about the emotional intimacy between two people and less about the raw sex, which isn't even *raw*, by the way, because they make a point of using a condom. Which a lot of gay viewers laughed at because we're in the age of prep. But two things: one) Prince Henry probably couldn't go on prep without it causing a scandal, and two) there are STDs other than HIV, guys. This is why syphilis is resurging and why we're getting antibiotic resistant strains of Gonorrhea now. Wrap 👏 it 👏 up! 👏 In any case...
 
 According to what I've gathered, the majority of viewers who were... *offended* were hetrosexual women who were *apparently* exposed to gay content for the first time in their *lives* via Heartstopper. Wwhich huge props to Heartstopper, by the way, for opening people's minds to the concept that boy kissing is all right. But when that's their *only* exposure, I can understand how "legs-up anal penetration" may leave them surprised. 
 
 </james>
-<comment></comment>
+<from></from>
 </compare>
 
 <compare>
@@ -208,14 +266,38 @@ So why is it that they were perfectly fine with Nick and Charlie kissing up a st
 
 Now was this just because they've never been exposed to the idea of gay sex before? Were they homophobic? Were they secret PragerU plants, out to kill the movie? Were they sex negative in general? Or...? Have we as a society simply conditioned a large swath of the populace to think of gays as completely nonsexual objects? Something that plenty of people like having around but keep at a distance just far enough away to not have to know too much about it.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 They know that men have sex with men, and women have sex
 with women, but they're really icked out by the idea of knowing the ins and outs and tops and bottoms of it all. (Good thing Henry didn't eat any *beans* before the scene or that could have brought up even more uncomfortable questions.)
 
 The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
 Through a latent process of judging gayness in media the straight audience can pass a stamp of approval or condemn certain media. And in the process we can perhaps perceive the hetero hegemony as dictating how, or how not, to be gay. And simply by how overwhelmingly large the straight audience is, their dictation of what good gay representation is drowns out what gay men describe as good gay representation.
 
 This is the fear anyway. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 And though I believe it is irrational, the fear comes from a very real very valid place. Especially as a conservative wave once again washes across America and sections of Europe, which tries to insist that queer sex should be pushed back into the closet, or should simply cease to exist altogether. Which is how they also feel about various queer people. 
 
@@ -233,6 +315,14 @@ people, "you'll be accepted if you're less like the characters in *Red, White, a
 <james>
 
 Let's take a closer look at *Heartstopper* for a moment. This series skips the usual over-the-top drama and instead captures the sweet sometimes clumsy moments of teen love. It centers around two characters: Charlie Spring (played by Joe Locke) and Nick Nelson (played by Kit Connor). Their story takes place in a typical English high school and unfolds slowly and gently with each episode moving the story forward toward a satisfying emotional climax. The story carefully takes us through their personal journeys, the difficulties they face with bullying, and the joy of finding someone who truly understands them. All without becoming overly sad or dramatic. The show has a light touch that perfectly captures how straights have been telling us first love feels for centuries.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
 
 The show gives us a real look at Charlie as he deals with his sexuality and the need to be accepted. He's not just a stereotype he's a fully developed character going through the ups and downs of first love in a very real way. As for Nick the show does a good job of showing his journey of understanding that he's bisexual. It talks about the confusion and moments of clarity that come with figuring out who you are. The series handles these complex topics with a gentle touch that's both admirable and sweet. 
 
@@ -757,53 +847,53 @@ world. So don't let anyone stop you from telling it.
 <from></from>
 </compare>
 
-&lt; Patreon plug &gt;
+&lt;Patreon plug&gt;
 <!-- this video was brought to you by our amazing patrons like the ones you see on screen right now if you'd like to help us keep making queer content on YouTube you can sign up for our patreon at the link in the description thanks for watching I don't who's or right youneed and I love it you bring on my to light I used to be Jed in my patience some people who walked in and out of my life but you is so different this time thoughts of the future of you caliz now you breaking Downs I've never found love with no ego you stitching up my scars forever just the start yeah you we go know go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you are [Music] breaking down my walls never found love with no e you stitching up my scars forever just the start you no now you're breaking down my walls I've never found love it no love love it no love [Music] [Music] it [Music] n n -->
 
 Patreon names roll over the song [No Ego (feat. Supermans Feinde)](https://artlist.io/royalty-free-music/song/no-ego-feat-supermans-feinde/87332) by [Third Dimension](https://artlist.io/royalty-free-music/artist/third-dimension/1240).
 
 <div class="lyrics">
-I'm putting away my pride<br/>
-I don't care who's wrong or right<br/>
-oh, somehow you got me so magnetized<br/>
-and I love it<br/>
-<br/>
-You bring all my dark to light, light<br/>
-I used to be jaded, testing my patience<br/>
-Some people who walked in and out of my life<br/>
-but you are so different<br/>
-this time I'm all in it<br/>
-thoughts of the future with you crystalized<br/>
-<br/>
-now you're breaking down my walls<br/>
-I've never found love with no ego<br/>
-you're stitching up my scars<br/>
-forever's just the start yeah<br/>
-<br/>
-you ego no ego, no no no no<br/>
-no ego, no no no no<br/>
-you're breaking down my walls<br/>
-I've never found love with no ego<br/>
-<br/>
-no ego<br/>
-<br/>
-got me going back to the basics, basics<br/>
-just being around choose my favorite, oh oh<br/>
-stitching me together it's like I'm nausea<br/>
-Me and you are never fading, never<br/>
-<br/>
-now you're breaking down my walls<br/>
-I've never found love with no ego<br/>
-you're stitching up my scars, my scars<br/>
-forever's just the start yeah<br/>
-<br/>
-you ego no ego, no no no no<br/>
-no ego, no no no no<br/>
-now you're breaking down my walls<br/>
-I've never found love with no ego<br/>
-<br/>
-love with no ego<br/>
-love with<br/>
-<br/>
-love with no ego<br/>
+I'm putting away my pride
+I don't care who's wrong or right
+oh, somehow you got me so magnetized
+and I love it
+&nbsp;
+You bring all my dark to light, light
+I used to be jaded, testing my patience
+Some people who walked in and out of my life
+but you are so different
+this time I'm all in it
+thoughts of the future with you crystalized
+&nbsp;
+now you're breaking down my walls
+I've never found love with no ego
+you're stitching up my scars
+forever's just the start yeah
+&nbsp;
+you ego no ego, no no no no
+no ego, no no no no
+you're breaking down my walls
+I've never found love with no ego
+&nbsp;
+no ego
+&nbsp;
+got me going back to the basics, basics
+just being around choose my favorite, oh oh
+stitching me together it's like I'm nausea
+Me and you are never fading, never
+&nbsp;
+now you're breaking down my walls
+I've never found love with no ego
+you're stitching up my scars, my scars
+forever's just the start yeah
+&nbsp;
+you ego no ego, no no no no
+no ego, no no no no
+now you're breaking down my walls
+I've never found love with no ego
+&nbsp;
+love with no ego
+love with
+&nbsp;
+love with no ego
 </div>

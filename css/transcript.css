@@ -64,3 +64,17 @@ compare james::before   { content: 'James:'; }
 compare clip::before   { content: 'Video Clip:'; }
 compare from::before    { content: 'Source:'; }
 compare comment::before { content: 'Comment:'; }
+
+.lyrics {
+    margin-inline: auto;
+    width: max-content;
+    min-width: 600px;
+    font-family: serif;
+    white-space: pre;
+}
+@media (max-width: 600px) {
+	.lyrics {
+		width: 100%;
+		min-width: 0;
+	}
+}
