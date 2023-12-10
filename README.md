@@ -6,13 +6,15 @@ Project creator TerraJRiley:
 See the [Transcript Index](docs/INDEX.md). Or [go to the webpage](https://tustin2121.github.io/James_Somerton_Transcripts) to see the formatted versions. Feel free to pull request [on the repo](https://github.com/tustin2121/James_Somerton_Transcripts).
 
 ## Contributors:
-- Project creator: TerraJRiley
+- Project creator: [TerraJRiley](https://github.com/TerraJRiley)
 - Contributors: 
-	- Tustin2121
+	- [Tustin2121](https://github.com/tustin2121)
+	- [/u/DHLawrence_sGhost](https://www.reddit.com/u/DHLawrence_sGhost)
 - Video archives:
 	- https://archive.org/details/james-somerton-youtube-2023-12-03
 	- https://archive.org/details/james-somerton-public-records
 	- https://archive.org/details/james-somerton-videos-backup
+	- https://www.youtube.com/@JamesSomertonArchive/videos
 
 # Transcript Index
 
@@ -112,7 +114,7 @@ Statuses:
 | 2023‑10‑13 | <font color=""    > Auto       | [6rHOEWFBDg0](docs/6rHOEWFBDg0.md) | [A1][A1] | Vampires, and the Gays That Love Them
 | 2023‑10‑29 | <font color=""    > Script     | [AlyJl0ddcPs](docs/AlyJl0ddcPs.md) | [A1][A1] | The Gay Horror Manga You Should Be Reading[^hikaru]
 | 2023‑11‑13 | <font color="cyan"> Finished   | [xBDc6SedkAc](docs/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media[^happy]
-| 2023‑11‑23 | <font color=""    > Auto       | [p5KpIROXhZw](docs/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^str]
+| 2023‑11‑23 | <font color="cyan"> Finished   | [p5KpIROXhZw](docs/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^str]
 
 [^1]: Transcript with no uploaded video
 [^2]: Transcript had unusual line break characters prior to cleanup

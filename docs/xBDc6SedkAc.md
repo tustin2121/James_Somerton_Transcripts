@@ -1,31 +1,22 @@
 ---
 title: "Gay Happiness and Mainstream Media"
 description: "aka 'The Agony / Anguish of Happy Gay Media', a video on sexuality in happy gay media."
+
 rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
 barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
-todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
 tustin_eyewitness: "Tustin2121, former patron of James"
 ---
-<h1>"Gay Happiness and Mainstream Media" Transcript</h1>
+# "Gay Happiness and Mainstream Media" Transcript
 This video is also known as "The Agony / Anguish of Happy Gay Media".
 
 You can view the archive of this video [on the Internet Archive](https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4).
 
-Auto-transcribed by YouTube, formatted by Tustin2121.
+Auto-transcribed by YouTube, downloaded by [TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts).  
+Formatted by Tustin2121.
 
-----
+{% include "compare-example" %}
 
-<compare>
-<james>(Video transcript is on the left)</james>
-<from>(Fact-checking commentary or found plagiarized content is on the right for comparison)</from>
-<cite>APA-style citations are inserted here.</cite>
-</compare>
 
----
-
-&nbsp;
-
-&nbsp;
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
