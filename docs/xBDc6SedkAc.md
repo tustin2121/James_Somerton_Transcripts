@@ -1,5 +1,6 @@
 ---
-rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film].    Amazon Studios, Berlanti-Schechter Films."
+rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
+barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
 todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
@@ -309,13 +310,35 @@ women to be sexually experienced, but they also seem to allocate a role for wome
 </compare>
 
 <compare>
-<cite></cite>
-<clip></clip>
+<cite>{{ page.barbie_movie }}</cite>
+<clip>Gloria: We have to to be a boss but you can't be mean. You have to lead but you can't squash other people's ideas. You're supposed to *love* being a mother but don't talk about your kids all the damn time.</clip>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
+
+The Madonna horror complex exists for a reason. You marry the nice girl, not the one who'll give you a blowjob in a movie theater. This bothered Alanis Morissette so severely that she made one of the greatest songs of all time because of it!
+
+Suffice to say, women have made it clear that they don't like having the parameters of their sexual qualifications gauged by a group outside of women. And I get it. That's kinda annoying. Because on top of doing what you want to do, there is a looming social decorum of what society not only expects you to do, but will penalize you for not doing. All the while (on the example of sexuality) there are other groups of people who can do all the kinds of sexuality things that they want without any kind of repercussion. 
+
+*Heartstopper* seems to trigger these fears for some gay men. There is a perception that the show is presenting an argument that the typical normal healthy gay teenage relationship *should* only be as physical as hugging and a couple of kisses. For which, this is compounded through several other high-profile instances of gay media, specifically one which made waves in 2018, but that I will not explicitly mention **for reasons**: if you know, you know.[^simon]
+
+</james>
+<from></from>
+</compare>
+
+[^simon]: He's talking about *Love, Simon*. He's being cagey because the author of the book called him out for calling her a straight women when she is openly bisexual, and James didn't like that.
+
+<compare>
+<cite></cite>
+<james>
+
+Even though I *highly doubt* that developing a normative argument that gay men need to hold themselves to a willful self-directed abstinence program to be considered valid by society at large was Alice Oseman's objective. To be clear, I do not under any circumstances believe that Alice Oseman is trying to re-closet queer sexuality. Sex is omitted from their work as per their license as a
+creator, but they do not shame sex in their work.
+
+Outside of Oseman, there is a fear of an external party dictating what is and is not acceptable sexual behavior among queer people. This fear *wouldn't* be valid were it not for a small army of people who are currently trying to insist that any queer visibility exists to indoctrinate and corrupt the youth of today. Media that so much as slightly leans towards that sentiment (even if only perceived) triggers this whole cascade of hasty generalizations. 
+
 </james>
 <from></from>
 </compare>
@@ -323,6 +346,48 @@ women to be sexually experienced, but they also seem to allocate a role for wome
 <compare>
 <cite></cite>
 <james>
+
+In our post-Disney-acquisition-of-Star-Wars-World, we've started to conflate the creation, creator, and attitudes of a fandom. We crossed
+those three wires a lot. And we perceive that the way a fandom is interacting with a particular example of media as being the intended meaning of said media. Or even the values of the creator themselves. 
+
+Take for instance the recent event of Zach Snyder hiring a transgender writer to write the prequel comic book for his upcoming movie, *Rebel Moon*. A portion of his fan base (made up of red pill basement dwellers) were **horrified** to learn that he in fact isn't a horrible person like them. (These are also the people who think Homelander is the good guy.)
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+So just because there are some people holding up Nick and Charlie as the archetype of how gay boys ought to express their affection does not mean that this is what the media is intending. My willingness to afford the benefit of the doubt to a large swath of gays, including Trixie and Katya, is that they don't want to directly observe the sex lives of these characters. But rather comes from an annoyance for a condition of gay acceptance being to follow not only the purity standards of straight people, but specifically the purity standards that are imposed on straight women. This may even betray a thought pattern in society (even from our allies) that indicates that society at large still does not view gay men as actual men.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+External factions that dictate what our sex lives ought to be are based on the model of what straight people deem to be acceptable. When in reality, queer psychosexual development happens quite differently. Especially in adolescence, during a formative age of communication skills, gender is a cultural barrier between girls and boys. This fluid line of same gender communication facilitates a greater opening for interpersonal exploration. At an earlier age this changes the way queer people approach sex. 
+
+This leads to a general comfort towards sexuality in queer circles, and also why it's troubling to see sex-negative sentiments arising from inside the community. Even if a queer person is a late bloomer, so to speak, they are conditioned by a communal culture that was shaped by early bloomers, and thus tend to slip into the way of thinking regardless. And it's also why the same jokes about the sex lives of gay men do not apply to gay women, and vice versa. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<cite></cite>
+<james>
+
+The result is a set of sexual expectations that are almost completely inverted from heteronormative expectations. For instance, second base for straight people is apparently coping a feel over clothing; second base for gay men (according to patterns) is anal penetration. 
+
+Weirdly gay bases are reversed from the straight ones: the Home Run System is a gauge used to measure physical intimacy and commitment. Where straight people tend to view sex as a reward for enduring a slow escalation of physicality, gay people start with oral on base one, and eventually come around to "home base", which is holding hands in public. And it's highly coveted. 
+
+'Gay men only want one thing, and it's disgusting.' While second base for lesbians is reportedly a U-Haul.
+
 </james>
 <from></from>
 </compare>
@@ -357,77 +422,7 @@ women to be sexually experienced, but they also seem to allocate a role for wome
 
 
 
-
- we
-have to to be a boss but you can't be mean you have to lead but you can't squash
-other people's ideas you're supposed to love being a mother but don't talk about
-your kids all the damn time the Madonna horror complex exists for a reason you
-marry the nice girl not the one who'll give you a in a movie theater this
-bothered alenis Moret so severely that she made one of the greatest songs of all
-time because of it suffice to say women have made it clear that they don't like
-having the parameters of their sexual qualifications gauged by a group outside
-of women and I get it that's an annoying because on top of doing what you want
-to do there is a looming social decorum of what Society not only expects you to
-do but will penalize you for not doing all the while on the example of sexuality
-there are other groups of people who can do all the kinds of sexuality things
-that they want without any kind of repercussion heartstopper seems to trigger
-these fears for some gay men there is a perception that the show is presenting
-an argument that the typical normal healthy gay teenage relationship should only
-be as physical as hugging and a couple of kisses for which this is compounded
-through several other high-profile instances of gay media specifically one which
-made waves in 2018 but that I will not explicitly mention for reasons if you
-know you know even though I highly doubt that developing a normative argument
-that gay men need to hold themselves to a willful self-directed abstinence
-program to be considered valid by Society at large was Alice osan's objective to
-be clear I do not under any circumstances believe that Alice Osan is trying to
-reaet queer sexuality sex is omitted from their work as per their license as a
-Creator but they do not shame sex in their work outside of Oman there is a fear
-of an external party dictating what is and is not acceptable sexual behavior
-among queer people this fear wouldn't be valid were it not for a small army of
-people who are currently trying to insist that any queer visibility exists to
-indoctrinate and corrupt the youth of today media that so much as slightly leans
-towards that sentiment even if only perceived triggers this whole Cascade of
-hasty generalizations in our post Disney acquisition of Star Wars World we've
-started to conflate the creation Creator and attitudes of a fandom we crossed
-those three wires a lot and we perceive that the way a phandom is interacting
-with a particular example of media as being the intended meaning of said Media
-or even the values of the Creator themselves take for instance the recent event
-of Zach Snider hiring a transgender writer to write the prequel comic book for
-his upcoming movie Rebel Moon a portion of his fan base made up of red pill
-basement dwellers were horrified to learn that he in fact isn't a horrible
-person like them these are also the people who think homelander is the good guy
-so just because there are some people holding up Nick and Charlie as the
-archetype of how gay boys ought to express their affection does not mean that
-this is what the media is intending my willingness to afford the benefit of the
-doubt to aler swath of gays including Trixie and Kata is that they don't want to
-directly observe the sex lives of these characters but rather comes from an
-annoyance for a condition of gay acceptance being to follow not only the Purity
-standards of straight people but specifically the Purity standards that are
-imposed on straight women this may even betray a thought pattern in society even
-from our allies that indicates that Society at large still does not view gay men
-as actual men external factions that dictate what our sex lives ought to be are
-based on the model of what straight people deem to be acceptable when in reality
-queer psychosexual development happens quite differently especially in
-adolescence during a formative age of communication skills gender is a cultural
-barrier between girls and boys this fluid line of same gender communication
-facilitates a greater opening for interpersonal exploration at an earlier age
-this changes the way queer people approach sex this leads to a general Comfort
-towards sexuality in queer circles and also why it's troubling to see sex
-negative sentiments arising from inside the community even if a queer person is
-a late bloomer so to speak they are conditioned by a communal culture that was
-shaped by early bloomers and thus tend to slip into the way of thinking
-regardless and it's also why the same jokes about the sex lives of gay men do
-not apply to gay women and vice versa the result is a set of sexual expectations
-that are almost completely inverted from heteronormative expectations for
-instance second base for straight people is apparently coping a feel over
-clothing second base for gay men is according to patterns is anal penetration
-weirdly gay bases are reversed from the straight ones the Home Run system is a
-gauge used to measure physical intimacy and commitment where straight people
-tend to view sex as a reward for enduring a slow escalation of physicality gay
-people start with oral on base one and eventually come around to home base which
-is holding hands in public and it's highly coveted gay men only want one thing
-and it's disgusting gusting while second base for lesbians is reportedly a
-U-Haul now there's nothing wrong with depicting gay people not having sex if we
+Now there's nothing wrong with depicting gay people not having sex if we
 want our queerness defined based on internal merits rather than owing public
 validation to having someone's hand to hold then this is Paramount subsequently
 AO Ace isn't the only expression of asexuality you can be gay and Ace at the
