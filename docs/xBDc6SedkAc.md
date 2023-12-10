@@ -7,7 +7,9 @@ tustin_eyewitness: "Tustin2121, former patron of James"
 <h1>"Gay Happiness and Mainstream Media" Transcript</h1>
 This video is also known as "The Agony / Anguish of Happy Gay Media".
 
-Auto-transcribed by YouTube, cleaned up by Tustin2121.
+You can view the archive of this video [on the Internet Archive](https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4).
+
+Auto-transcribed by YouTube, formatted by Tustin2121.
 
 ----
 
@@ -18,6 +20,10 @@ Auto-transcribed by YouTube, cleaned up by Tustin2121.
 </compare>
 
 ---
+
+&nbsp;
+
+&nbsp;
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
