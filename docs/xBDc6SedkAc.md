@@ -1,7 +1,6 @@
 ---
-cite:
-	rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
-	todd_factcheck: ""
+rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film].    Amazon Studios, Berlanti-Schechter Films."
+todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
 ---
 <h1>"Gay Happiness and Mainstream Media"</h1>
 Also known as "The Agony / Anguish of Happy Gay Media".
@@ -42,7 +41,7 @@ To smooth out ruffled feathers and placate the media's appetite for scandal, Ale
 <from></from>
 </compare>
 
-<compare><cite>{{ page.cite.rwrb_movie }}</cite>
+<compare><cite>{{ page.rwrb_movie }}</cite>
 	<clip>Alex: What three words would I use to describe Henry? White, blonde, and British.</clip>
 </compare>
 
@@ -92,7 +91,7 @@ As his mother prepares a concession speech, news comes from Texas. In the most *
 
 So *Red, White, and Royal Blue* might read like the ultimate what if scenario. But strip away the international diplomacy and royal trappings and you got yourself a pretty straightforward romance: two guys falling for each other when they least expect it. 
 
-[Cutaway gag]: Groundbreaking
+\[Cutaway gag]: Groundbreaking
 
 Now if you're familiar with the romance genre, you'll know that it's not exactly bursting at the seams with gay love stories that don't take a tragic turn. And mainstream romcoms... well, they've historically stuck to the script of snowflakes and sanitized kisses, with the steamier stuff being left implied (if it's acknowledged at all). Explicitly sexual gay romcoms are like unicorns: mythically rare and to some potentially unsettling. 
 
@@ -106,7 +105,8 @@ The story kind of saunters into this liminal space. It's not pure handholding pu
 <from></from>
 </compare>
 
-<compare><cite>{{ page.cite.rwrb_movie }}</cite>
+<compare>
+<cite>{{ page.rwrb_movie }}</cite>
 <clip>
 
 Henry: My full name is "Henry George Edward James Hanover Stewart Fox"
@@ -119,7 +119,7 @@ Henry: *[shy]* He is.
 </compare>
 
 <compare>
-<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.todd_factcheck }} (18:35)</cite>
 <james>
 
 And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
@@ -142,7 +142,7 @@ Todd could not find anything but a negative review on the BBC, which just though
 </compare>
 
 <compare>
-<cite>{{ page.cite.todd_factcheck }} (22:55)</cite>
+<cite>{{ page.todd_factcheck }} (22:55)</cite>
 <james>
 
 The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
@@ -164,7 +164,7 @@ Both articles cited exactly [one tweet](https://twitter.com/HunterPippinPHL/stat
 </compare>
 
 <compare>
-<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.todd_factcheck }} (18:35)</cite>
 <james>
 
 There's a strong undercurrent of hypocrisy here, particularly as queer folk of... literally every shade of the rainbow are accused of corrupting the youth. Never mind that it was perfectly acceptable for virtually every American Teen Movie to focus with laser precision on rooting for teenagers to bone each other. The *American Pie* franchise owes its whole success to this. For which audiences agree that the heterosexual events in American Pie are... normal.
@@ -180,7 +180,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 </compare>
 
 <compare>
-<cite>{{ page.cite.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.todd_factcheck }} (18:35)</cite>
 <james>
 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
