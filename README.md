@@ -27,13 +27,14 @@ Statuses:
 - <font color="cyan">Finished</font> = Transcript is complete, attributions needed.
 - <font color="gree">Complete</font> = Transcript has been fully reviewed and things attributed
 
+James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
+
 <!-- Note, use of non-breaking hyphen "‑" in release date. -->
 
 | Release Date | Status | Video ID | Video | Title |
 |:------------:|:------:|:---|:----|:------|
-| ????‑??‑?? | <font color="red" > Missing    | [00000000010](docs/00000000010.md) |  | The History of Gay Panic
-| ????‑??‑?? | <font color="red" > Missing    | [00000000011](docs/00000000011.md) | [yt][yt] | CODEBREAKERS: Queer film theory and why it matters
-| ????‑??‑?? | <font color="red" > Missing    | [00000000012](docs/00000000012.md) | [yt][yt] | Unrequited: The History of Queer Baiting
+| ????‑??‑?? | <font color="red" > Missing    | [GayPanicDef](docs/GayPanicDef.md) |  | The History of Gay Panic
+| 2020‑07‑01 | <font color="red" > Missing    | [Unrequited1](docs/Unrequited1.md) | [yt][yt] | Unrequited: The History of Queer Baiting
 | ????‑??‑?? | <font color=""    > Auto[^1]   | [00000000001](docs/00000000001.md) |  | PSA: Taking A Break From Marvel Movies
 | 2013‑11‑20 | <font color=""    > Auto       | [crZd-xmhobE](docs/crZd-xmhobE.md) | [yt][yt] [A1][A1] [A3][A3] | Geek Theory - Episode #1 "The Marvel Issue"
 | 2013‑11‑24 | <font color=""    > Auto       | [lTcm9ExjvOI](docs/lTcm9ExjvOI.md) | [yt][yt] [A1][A1] [A3][A3] | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
@@ -45,18 +46,20 @@ Statuses:
 | 2017‑07‑01 | <font color=""    > Auto       | [4YWslnyUxcs](docs/4YWslnyUxcs.md) | [A1][A1] | The Stonewall Film Effect - Gay Geek Theory (Video essay)
 | 2018‑06‑30 | <font color=""    > Auto       | [we9bGN5_jM0](docs/we9bGN5_jM0.md) | [A1][A1] | Harry Potter and The Closet Under The Stairs - Queer themes in Harry Potter (Video essay)
 | 2018‑10‑22 | <font color=""    > Auto       | [4zPCM14-SCQ](docs/4zPCM14-SCQ.md) | [A1][A1] | Monsters in the Closet - A History of LGBT Representation in Horror Cinema (Video essay)
-| 2020‑08‑30 | <font color=""    > Auto       | [UfpkP6s_g_4](docs/UfpkP6s_g_4.md) | [A1][A1] | Making It Big： The History of Gay Adult Film (Documentary)
-| 2020‑09‑10 | <font color=""    > Auto       | [Qvu84kjtGvE](docs/Qvu84kjtGvE.md) | [A1][A1] [A3][A3] | Evil Queens： A Gay Look at Disney History (Video essay)
-| 2020‑10‑04 | <font color="red" > Missing    | [00000000200](docs/00000000200.md) |  | Deep Cuts: Society and Queer Horror[^hbomb]
+| 2020‑08‑30 | <font color=""    > Auto       | [UfpkP6s_g_4](docs/UfpkP6s_g_4.md) | [A1][A1] | Making It Big：The History of Gay Adult Film (Documentary)
+| 2020‑09‑10 | <font color=""    > Auto       | [Qvu84kjtGvE](docs/Qvu84kjtGvE.md) | [A1][A1] [A3][A3] | Evil Queens: A Queer Look at Disney History <aka>Evil Queens：A Gay Look at Disney History (Video essay)</aka> <aka>Evil Queens: Disney's Queer Cold War</aka>
+| 2020‑10‑04 | <font color="red" > Missing    | [DeepCuts000](docs/DeepCuts000.md) |  | Deep Cuts: Society and Queer Horror[^hbomb]
+| 2020‑12‑04 | <font color="red" > Missing    | [CODEBREAKER](docs/CODEBREAKER.md) | [yt][yt] | CODEBREAKERS: Queer film theory (and why it matters) <aka>Queering Cinema (by any means necessary)</aka>
+| 2021‑01‑11 | <font color="red" > Missing    | [PnkTriangle](docs/PnkTriangle.md) |  | Pink Triangles: The History of the Gay Holocaust[^pink]
 | 2021‑02‑11 | <font color=""    > Auto       | [SHFUAlDFdYY](docs/SHFUAlDFdYY.md) | [A1][A1] | The Scarlet Witch and Marvel’s Gay Power Couple
 | 2021‑04‑01 | <font color=""    > Auto       | [ujmgqNyZ190](docs/ujmgqNyZ190.md) | [A1][A1] [A2][A2] | “Killing Stalking” and The Romancing of Abuse
 | 2021‑05‑12 | <font color=""    > Script[^2] | [xLuNGhQPDHM](docs/xLuNGhQPDHM.md) | [A1][A1] | An Over-Emotional Look at Why JK Rowling is Bad
-| 2021‑06‑14 | <font color=""    > Script[^2] | [QxRveV0x2-o](docs/QxRveV0x2-o.md) | [A1][A1] | For The Love of Gay Nuance
-| 2021‑07‑31 | <font color=""    > Script[^2] | [xsrV2LXP0bY](docs/xsrV2LXP0bY.md) | [A1][A1] [A3][A3] | The Sadism of Class
-| 2021‑08‑31 | <font color=""    > Script     | [cMde5YLG6-w](docs/cMde5YLG6-w.md) | [yt][yt] [A1][A1] [A3][A3] | Disney's Gay Cultural Appropriation ｜ James Somerton
-| 2021‑09‑13 | <font color=""    > Script     | [S-_NcmyntN0](docs/S-_NcmyntN0.md) | [A1][A1] [A3][A3] | Disney's War Against Gay kids ｜ James Somerton
-| 2021‑10‑04 | <font color=""    > Script     | [ZDgWHNDdwoU](docs/ZDgWHNDdwoU.md) | [A1][A1] | The Gay Appeal of Toxic Love
-| 2021‑11‑05 | <font color="red" > Missing    | [TQNKEkrPEfI](docs/TQNKEkrPEfI.md) | [A1][A1] | Video Games and the Choice to be Gay
+| 2021‑06‑14 | <font color=""    > Script[^2] | [QxRveV0x2-o](docs/QxRveV0x2-o.md) | [A1][A1] | Yuri On Ice - How Gay is Gay Enough?<aka>For The Love of Gay Nuance</aka>
+| 2021‑07‑31 | <font color=""    > Script[^2] | [xsrV2LXP0bY](docs/xsrV2LXP0bY.md) | [A1][A1] [A3][A3] | "Painter of the Night" and the Sadism of Class" <aka>The Sadism of Class</aka>
+| 2021‑08‑31 | <font color=""    > Script     | [cMde5YLG6-w](docs/cMde5YLG6-w.md) | [yt][yt] [A1][A1] [A3][A3] | Disney's Gay Cultural Appropriation ｜ James Somerton <aka>No Gays At Disney</aka>
+| 2021‑09‑13 | <font color=""    > Script     | [S-_NcmyntN0](docs/S-_NcmyntN0.md) | [A1][A1] [A3][A3] | Disney's War on Gay Kids <aka>Disney's War Against Gay kids ｜ James Somerton</aka> <aka>Why does society hate gay kids?</aka>
+| 2021‑10‑04 | <font color=""    > Script     | [ZDgWHNDdwoU](docs/ZDgWHNDdwoU.md) | [A1][A1] | "Hannibal" and the Appeal of Toxic Love <aka>The Gay Appeal of Toxic Love</aka> <aka>Fear Coded</aka>
+| 2021‑11‑05 | <font color="red" > Missing    | [TQNKEkrPEfI](docs/TQNKEkrPEfI.md) | [A1][A1] | Video Games and the Choice to be Gay <aka>The GAYming Agenda</aka>
 | 2021‑11‑18 | <font color=""    > Script     | [zIsQ502N0fg](docs/zIsQ502N0fg.md) | [A1][A1] | Hollywood's (Gay) China Problem ｜ James Somerton
 | 2022‑01‑08 | <font color=""    > Script     | [J-aYcSQ0DWQ](docs/J-aYcSQ0DWQ.md) | [yt][yt] [A1][A1] | The Necessity of Gay Crime ｜ James Somerton
 | 2022‑02‑10 | <font color=""    > Script     | [UiDcQnavKPI](docs/UiDcQnavKPI.md) | [A1][A1] [A3][A3] | SHIPPING - The Good, The Bad, and the Thirsty
@@ -67,12 +70,12 @@ Statuses:
 | 2022‑04‑17 | <font color=""    > Script     | [iI5ytm_bFl8](docs/iI5ytm_bFl8.md) | [A1][A1] | The Secret Crimes of a Dying Franchise
 | 2022‑04‑23 | <font color=""    > Script     | [QuiEKdTmj2M](docs/QuiEKdTmj2M.md) | [A1][A1] | Heartstopper and Queer Optimism
 | 2022‑05‑08 | <font color=""    > Auto       | [rg92PER6xvE](docs/rg92PER6xvE.md) | [A1][A1] [A3][A3] | Nintendo's Queer Relationship With Gender
-| 2022‑06‑09 | <font color=""    > Auto       | [Hk-a3qaxh7Q](docs/Hk-a3qaxh7Q.md) | [A1][A1] [A3][A3] | How a Gay Show Changed TV... and Was Forgotten
+| 2022‑06‑09 | <font color=""    > Auto       | [Hk-a3qaxh7Q](docs/Hk-a3qaxh7Q.md) | [A1][A1] [A3][A3] | How a Gay Show Changed TV... and Was Forgotten <aka>The Hit Gay Show We Forgot</aka>
 | 2022‑06‑14 | <font color=""    > Auto       | [Tk9wh5rBmW0](docs/Tk9wh5rBmW0.md) | [A1][A1] [A3][A3] | The Queer Sensibilities of Cinema
 | 2022‑07‑16 | <font color=""    > Auto       | [c9BmsQSOD6c](docs/c9BmsQSOD6c.md) | [A1][A1] | Nostalgia, and Remembering The Bad Times
 | 2022‑08‑13 | <font color=""    > Auto       | [n41RAyav_d8](docs/n41RAyav_d8.md) | [A1][A1] [A3][A3] | How Disney Tore Down The Owl House
 | 2022‑08‑26 | <font color=""    > Auto       | [J1Qhuu9iJ-s](docs/J1Qhuu9iJ-s.md) | [A1][A1] [A3][A3] | Ranking "The Best" Gay Movies Of All Time
-| 2022‑09‑19 | <font color=""    > Auto       | [KXGpVm09GCM](docs/KXGpVm09GCM.md) | [A1][A1] [A3][A3] | Reclaiming the "Q" Word
+| 2022‑09‑19 | <font color=""    > Auto       | [KXGpVm09GCM](docs/KXGpVm09GCM.md) | [A1][A1] [A3][A3] | Reclaiming the "Q" Word <aka>In Defense of "Queer"</aka>
 | 2022‑09‑26 | <font color=""    > Script     | [vV3659CQV38](docs/vV3659CQV38.md) | [A1][A1] [A3][A3] | The Diversity of "The Rings of Power"
 | 2022‑10‑04 | <font color=""    > Auto       | [eVfNd2nfqHU](docs/eVfNd2nfqHU.md) | [A1][A1] [A3][A3] | The Issues With "Bros" (Special Podcast Episode)
 | 2022‑10‑09 | <font color=""    > Auto       | [s8Iv9xzW87I](docs/s8Iv9xzW87I.md) | [A1][A1] [A3][A3] | Queer Representation in Modern Horror
@@ -83,7 +86,7 @@ Statuses:
 | 2022‑11‑16 | <font color=""    > Auto       | [7a4DTkoejG8](docs/7a4DTkoejG8.md) | [A1][A1] [A3][A3] | The Queer Erasure of Asexuality (A Discussion)
 | 2022‑12‑01 | <font color=""    > Auto       | [1BHKm-qcfvM](docs/1BHKm-qcfvM.md) | [A1][A1] [A3][A3] | The Gay Body Image Crisis
 | 2022‑12‑16 | <font color=""    > Auto       | [bOXpv0llE4g](docs/bOXpv0llE4g.md) | [A1][A1] | Best Of Queer Media 2022
-| 2023‑01‑01 | <font color=""    > Auto       | [VoHYZUj43K4](docs/VoHYZUj43K4.md) | [yt][yt] [A1][A1] | The Important Non-Meaning of Attack on Titan
+| 2023‑01‑01 | <font color=""    > Auto       | [VoHYZUj43K4](docs/VoHYZUj43K4.md) | [yt][yt] [A1][A1] | "Attack on Titan" and the Death of Media Literacy <aka>The Important Non-Meaning of Attack on Titan</aka> <aka>"Attack on Titan" and the End of Media Literacy</aka>
 | 2023‑01‑14 | <font color=""    > Auto       | [fE4I6WhPryc](docs/fE4I6WhPryc.md) | [A1][A1] | Why Bad Gays Are Good
 | 2023‑01‑24 | <font color=""    > Auto       | [E9vDpCeTK5w](docs/E9vDpCeTK5w.md) | [A1][A1] | The Queer Joy of Everything Everywhere All At Once
 | 2023‑02‑01 | <font color=""    > Auto       | [9YzMQEBRszY](docs/9YzMQEBRszY.md) | [A1][A1] | The Death of Queer Privacy
@@ -109,20 +112,19 @@ Statuses:
 | 2023‑08‑12 | <font color=""    > Auto       | [mu9Fjb66UAY](docs/mu9Fjb66UAY.md) | [A1][A1] | The Barbie to Evangelion Pipeline
 | 2023‑09‑02 | <font color=""    > Auto       | [PZRn1_fY0zo](docs/PZRn1_fY0zo.md) | [A1][A1] | Coming This Fall
 | 2023‑09‑14 | <font color=""    > Auto       | [0Vijus_c-aY](docs/0Vijus_c-aY.md) | [A1][A1] | The Campy Queer Sensibilities of Barbie
-| 2023‑10‑07 | <font color=""    > Auto       | [-Uoqmxlcusg](docs/-Uoqmxlcusg.md) | [A1][A1] | The Magic Realism of Revolutionary Girl Utena[^utena]
+| 2023‑10‑07 | <font color=""    > Auto       | [-Uoqmxlcusg](docs/-Uoqmxlcusg.md) | [A1][A1] | The Magic Realism of Revolutionary Girl Utena <aka>The Real Revolution of Utena</aka>
 | 2023‑10‑08 | <font color=""    > Auto       | [BXFC8_tjokw](docs/BXFC8_tjokw.md) | [A1][A1] | Religion and Anime!
 | 2023‑10‑13 | <font color=""    > Auto       | [6rHOEWFBDg0](docs/6rHOEWFBDg0.md) | [A1][A1] | Vampires, and the Gays That Love Them
-| 2023‑10‑29 | <font color=""    > Script     | [AlyJl0ddcPs](docs/AlyJl0ddcPs.md) | [A1][A1] | The Gay Horror Manga You Should Be Reading[^hikaru]
-| 2023‑11‑13 | <font color="cyan"> Finished   | [xBDc6SedkAc](docs/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media[^happy]
-| 2023‑11‑23 | <font color="cyan"> Finished   | [p5KpIROXhZw](docs/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^str]
+| 2023‑10‑29 | <font color=""    > Script     | [AlyJl0ddcPs](docs/AlyJl0ddcPs.md) | [A1][A1] | The Gay Horror Manga You Should Be Reading[^hikaru] <aka>The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga</aka>
+| 2023‑11‑13 | <font color="cyan"> Finished   | [xBDc6SedkAc](docs/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media <aka>The Agony / Anguish of Happy Gay Media</aka>
+| 2023‑11‑23 | <font color="cyan"> Finished   | [p5KpIROXhZw](docs/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^gaiman] <aka>Sandman and Queering the Fantastical</aka> <aka>Neil Gaiman - A straight author with amazing queer characters</aka>
 
 [^1]: Transcript with no uploaded video
 [^2]: Transcript had unusual line break characters prior to cleanup
+[^pink]: This video was age gated immediately upon upload and was moved to Vimeo instead.
 [^hbomb]: This is the video with the infamous motion graphic in HBomberGuy's video. This video was taken down a mere hour after the Plagiarism video went up.
-[^utena]: Also known as "The Real Revolution of Utena"
-[^happy]: Also known as "The Agony / Anguish of Happy Gay Media"
-[^hikaru]: Also known as "The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga", with [this auto-generated transcript](docs/AlyJl0ddcPX.md)
-[^str]: Also known as "Neil Gaiman - A straight author with amazing queer characters" and as "Sandman and Queering the Fantastical", with [this auto-generated transcript](docs/p5KpIROXhZX.md)
+[^hikaru]: Alternate [auto-generated transcript](docs/AlyJl0ddcPX.md)
+[^gaiman]: Alternate [auto-generated transcript](docs/p5KpIROXhZX.md).
 
 [yt]: https://www.youtube.com/@JamesSomertonArchive/videos
 [A1]: https://archive.org/details/james-somerton-youtube-2023-12-03
