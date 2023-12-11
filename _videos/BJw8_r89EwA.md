@@ -1,4 +1,20 @@
+---
+date: 2022-03-20
+title: The Tragedy of Being Rich #｜ James Somerton
+status: Script
+aka: !!seq
+  - "Let Them Eat Cake (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^short-advert]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Hey everyone!
 
 Before we start the video I just

@@ -1,3 +1,18 @@
+---
+date: 2022-10-04
+title: The Issues With "Bros" (Special Podcast Episode)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone and welcome to episode 17 of the padreon which I'm actually going
 to release as a special public episode um so it's not just for patrons this one
 the next episode will go back to being patreon exclusive but this one I wanted

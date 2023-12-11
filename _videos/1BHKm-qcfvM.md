@@ -1,3 +1,19 @@
+---
+date: 2022-12-01
+title: The Gay Body Image Crisis
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 why are queer men hyper focused on body image it may involve a social philosophy
 called objectification which is the act of treating persons as objects or things
 dehumanizing them and making them sexual objects instead of real people gay men

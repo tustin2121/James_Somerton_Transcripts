@@ -1,3 +1,18 @@
+---
+date: 2022-05-08
+title: Nintendo's Queer Relationship With Gender
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description nintendo is a

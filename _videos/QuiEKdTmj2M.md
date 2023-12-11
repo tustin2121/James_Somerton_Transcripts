@@ -1,4 +1,18 @@
+---
+date: 2022-04-23
+title: Heartstopper and Queer Optimism
+status: Script
+aka: !!seq
+  - "It's So Cute! (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 This video is brought to you by my patrons. If you’d like to support my channel
 and
 

@@ -1,3 +1,21 @@
+---
+date: 2022-10-21
+title: The Troubling Thirst for Jeffrey Dahmer
+status: Auto
+aka: !!seq
+  - "The Hunger, The Thirst (Thumbnail)"
+topics: !!seq
+  - "Dahmer"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 we all like True Crime if the glut of True Crime series is any indication it's
 very suddenly become one of the most engaging forms of contemporary
 entertainment and there's no sign of it stopping from streaming to YouTube to

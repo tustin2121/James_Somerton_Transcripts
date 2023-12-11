@@ -1,3 +1,17 @@
+---
+date: 2023-04-26
+title: The Glass Ceiling of Gay Success (A Discussion)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Squarespace hello everyone and welcome to gays
 Behaving Badly the podcast YouTube show that Neil Patrick Harris will absolutely
 never come on my name is James you okay over there hi I'm Nick I'm I'm Nick

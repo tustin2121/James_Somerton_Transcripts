@@ -1,4 +1,18 @@
+---
+date: 2023-04-20
+title: The Queer Dystopia of the LGB Movement
+status: Script
+aka: !!seq
+  - "The LGB Dystopia (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE
 
 No. 6 is a manga that began in 2011 and concluded in 2016, contained in a neat

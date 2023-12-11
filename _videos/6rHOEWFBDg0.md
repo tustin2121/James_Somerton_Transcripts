@@ -3,10 +3,12 @@ date: 2023-10-13
 title: Vampires, and the Gays That Love Them
 status: Auto
 aka: !!seq
+  - "Blood Sucking Queers (Thumbnail)"
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
+notes: [^hbomb-min]
 
 cite:
   clips: !!map

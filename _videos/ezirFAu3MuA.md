@@ -1,3 +1,17 @@
+---
+date: 2022-11-05
+title: The Harmful Drive for Queer Perfection
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it
 and yet has there ever been anything so coveted that is so vaguely defined what

@@ -1,3 +1,17 @@
+---
+date: 2023-01-24
+title: The Queer Joy of Everything Everywhere All At Once
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by our patrons for as little as a dollar a month
 you can gain Early Access to new videos see behind the scenes content listen to
 our Patron exclusive podcast the patreon and much more for 2023 we're developing

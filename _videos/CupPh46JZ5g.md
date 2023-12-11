@@ -1,3 +1,21 @@
+---
+date: 2023-06-27
+title: Broadway, Living, and Gay Hope
+status: Auto
+aka: !!seq
+  - Broadway, AIDS, and Gay Suffering
+  - "Angels Don't Pay Rent In America (Thumbnail)"
+topics: !!seq
+  - "Angels in America"
+  - "RENT"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Squarespace in 1996 the musical theater world
 was changed Forever by a small Off-Broadway musical gaining the attention of
 critics and fans alike rent was promptly moved to a proper Broadway Theater

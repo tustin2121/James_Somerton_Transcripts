@@ -1,3 +1,17 @@
+---
+date: 2014-08-12
+title: "Geek Theory #4: The Fantastic Five!"
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 now the guardians of the galaxy a little-known property if ever there was one
 has become a worldwide box office smash for marvel i decided to have a look at
 some of the other lesser-known marvel characters who i'd like to see take the

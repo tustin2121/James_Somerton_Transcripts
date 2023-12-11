@@ -1,3 +1,18 @@
+---
+date: 2022-11-16 
+title: The Queer Erasure of Asexuality (A Discussion)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone and welcome to gays Behaving Badly a new feature on the channel
 that we're gonna try out for a bit and if you like it let us know in the
 comments my name is James I'm Nick and Gay's Behaving Badly is basically a

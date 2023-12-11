@@ -9,8 +9,9 @@ topics: !!seq
   - "Utena"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
 description: "a video essay on <xyz>."
-notes: [^short-advert]
+notes: [^short-advert][^unreleased]
 
 cite:
   clips: !!map

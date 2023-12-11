@@ -1,3 +1,19 @@
+---
+date: 2013-11-20
+title: "Geek Theory - Episode #1 "The Marvel Issue""
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://www.youtube.com/watch?v=xHPd2xtG5xQ"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 the marvel cinematic universe has been an incredibly interesting experiment by
 disney and marvel studios it's creating new interest in the comics has almost
 single-handedly turned superhero movies into hollywood's new giant cash cow and

@@ -1,3 +1,17 @@
+---
+date: 2014-08-27
+title: "Film Theory #1: Is The Blockbuster Dying"
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 foreign so the Hollywood Summer movie season is drawing to a close and the
 prevailing message of the summer seems to be according to Industry professionals
 at least that people are getting tired of the summer blockbuster with a few

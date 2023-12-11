@@ -1,4 +1,22 @@
+---
+date: 2021-10-04
+title: "Hannibal" and the Appeal of Toxic Love
+status: Script
+aka: !!seq
+  - "The Gay Appeal of Toxic Love"
+  - "Fear Coded (Thumbnail)"
+  - "Toxic Gay Love (Thumbnail)"
+topics: !!seq
+  - "Hannibal"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Horror has always been an inherently traditionalistic
 
 genre, since fear is an inherently traditional, conservative emotion, and horror

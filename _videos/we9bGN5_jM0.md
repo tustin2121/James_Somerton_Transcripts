@@ -1,3 +1,18 @@
+---
+date: 2018-06-30
+title: Harry Potter and The Closet Under The Stairs - Queer themes in Harry Potter (Video essay)
+status: Auto
+aka: !!seq
+topics: !!seq
+  - "Harry Potter"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 it could be said that I'm a bit of a Harry Potter fan I jumped onto the series
 when I was 12 just after coming out yes I came out that young which was also
 just after the release of Goblet of Fire I devoured the first four books between

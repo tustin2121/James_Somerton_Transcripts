@@ -1,3 +1,19 @@
+---
+date: 2023-04-29
+title: How Spoilers Are Ruining Everything
+status: Auto
+aka: !!seq
+  - "Spoiled Culture (Thumbnail)"
+topics: !!seq
+  - "The Last of Us"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Squarespace The Last of Us TV show on HBO was
 one of the most anticipated TV shows of recent years based on the hit video game
 of the same name The Last of Us follows the story of Joel and Ellie two

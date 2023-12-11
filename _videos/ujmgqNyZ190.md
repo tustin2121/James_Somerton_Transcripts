@@ -4,6 +4,7 @@ title: !!str “Killing Stalking” and The Romancing of Abuse
 status: Auto
 aka: !!seq
   - "Killing Stalking and the Love of a Bad Boy (Short)"
+  - "Romance is DEAD (Thumbnail)"
 topics: !!seq
   - "Killing Stalking"
 links: !!seq

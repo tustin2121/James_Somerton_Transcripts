@@ -1,3 +1,17 @@
+---
+date: 2023-02-01
+title: The Death of Queer Privacy
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Atlas VPN I've been noticing something over the
 last few months years that's been bothering me but I haven't spoken that much
 about it I wonder if you my dear viewers have noticed the same thing that being

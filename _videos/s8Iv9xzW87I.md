@@ -1,3 +1,20 @@
+---
+date: 2022-10-09
+title: Queer Representation in Modern Horror
+status: Auto
+aka: !!seq
+  - "Fear The Queer (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 at the 1984 Democratic National Convention Bobby Campbell a prominent AIDS
 activist argued for a presidential candidate who would actually address the AIDS
 crisis unlike the Reagan Administration whose mandate regarding the growing

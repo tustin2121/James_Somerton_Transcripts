@@ -1,4 +1,18 @@
+---
+date: 2022-04-10
+title: The Brilliance of Our Flag Means Death
+status: Script
+aka: !!seq
+  - "Our Closets Mean Death (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Pirates are a bit of a mystery, in their personal 
 
 lives. Which is probably why they maintain such

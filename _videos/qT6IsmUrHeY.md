@@ -1,3 +1,17 @@
+---
+date: 2023-03-22
+title: The Role of Adult Media in Gay Identity (A Conversation)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by atlasvpn hi everyone welcome to the second
 episode of gays Behaving Badly my name is James I'm Nick and there will be a
 Chiron under your name giving all your information stuff and I assume a Chiron

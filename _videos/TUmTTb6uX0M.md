@@ -1,4 +1,20 @@
+---
+date: 2022-02-25
+title: How Wanda Became An Accidental Gay Icon
+status: Script
+aka: !!seq
+  - "Why Gays Stan Wanda (Thumbnail)"
+topics: !!seq
+  - "Wandavision"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Hi everyone. Before we get started with the video I just
 
 want to thank everyone who signed up for the Telos Pictures IndieGoGo campaign.

@@ -1,3 +1,17 @@
+---
+date: 2021-02-11
+title: The Scarlet Witch and Marvel’s Gay Power Couple
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone my name is james and today i'm going to explain to you how marvel
 comics accidentally created a gay power couple and despite their best efforts to
 avoid it how disney might be giving us our first big screen gay superheroes

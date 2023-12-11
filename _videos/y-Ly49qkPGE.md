@@ -1,3 +1,18 @@
+---
+date: 2022-11-01
+title: The Outing of Kit Connor (Special Podcast Episode)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone and welcome to episode 21 of the padreon my name is James and
 this week um I think this episode may be another episode that goes out live on
 to um my YouTube channel because this is something that I feel like needs to be

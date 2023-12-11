@@ -4,6 +4,7 @@ title: Gay Happiness and Mainstream Media
 status: Finished
 aka: !!seq
   - "The Agony / Anguish of Happy Gay Media"
+  - "The Gay Agony of Happy Endings (Thumbnail)"
 topics: !!seq
   - "Red, White, and Royal Blue"
   - "Heartstopper"
@@ -12,6 +13,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media.webm"
 description: "a video on sexuality in happy gay media."
+notes: [^hbomb-min]
 
 cite:
   clips:

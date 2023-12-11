@@ -1,3 +1,18 @@
+---
+date: 2022-08-26
+title: Ranking "The Best" Gay Movies Of All Time
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone and welcome to my tier ranking of the uh it was gonna be 50 but i
 added two more so 52 best with big ass quotes lgbtq movies ever made i created
 this list by going through about 16 or 17 best queer movies ever made lists

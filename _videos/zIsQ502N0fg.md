@@ -1,4 +1,18 @@
+---
+date: 2021-11-18
+title: Hollywood's (Gay) China Problem #｜ James Somerton
+status: Script
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Doing videos about gay representation in movies
 
 and TV on a regular basis for about a year and half now, I’ve gotten a lot — and

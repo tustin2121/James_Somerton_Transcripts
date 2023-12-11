@@ -9,12 +9,15 @@ aka: !!seq
   - "Where The 'Bury Your Gays' Trope Came From"
   - "When Hollywood Came Out of the Closet"
   - "America v. Homosexuality"
+  - "The Queer History of Hollywood (Thumbnail)"
+  - "Opening Hollywood's Closet (Thumbnail)"
+  - "Dying to be Gay (Thumbnail)"
 topics: !!seq
   - "<media>"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
 description: "a video essay on <xyz>."
-notes: [^multipart]
+notes: [^multipart][^hbomb-min]
 
 cite:
   clips: !!map
@@ -23,22 +26,27 @@ cite:
 
 # Transcript of "How Hollywood was Born Gay"
 Originally released 2023-02-15
+notes: [^hbomb-min]
 [-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) (Status: Script)
 
 # Transcript of "Hollywood's Golden Age (of Queer Coding)"
 Originally released 2023-03-15
+notes: [^hbomb-min]
 [SdtbQhAKFSI](_videos/SdtbQhAKFSI.md) (Status: Auto)
 
 # Transcript of "America v. Homosexuality"
 Originally released 2023-04-15
+notes: [^hbomb-min]
 [iJ3M_DhPlI0](_videos/iJ3M_DhPlI0.md) (Status: Auto)
 
 # Transcript of "Where The "Bury Your Gays" Trope Came From"
 Originally released 2023-05-11
+notes: [^hbomb-min]
 [UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) (Status: Auto)
 
 # Transcript of "When Hollywood Came Out of the Closet"
 Originally released 2023-05-18
+notes: [^hbomb-min]
 [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) (Status: Auto)
 
 

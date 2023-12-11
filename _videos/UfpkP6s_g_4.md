@@ -1,3 +1,19 @@
+---
+date: 2020-08-30
+title: Making It Big：The History of Gay Adult Film (Documentary)
+status: Auto
+aka: !!seq
+topics: !!seq
+  - "Gay Porn"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hardcore porn both of the straight and gay varieties entered mainstream american
 culture in the 1970s as the sexual revolutions swept away many of the cultural
 and moral inhibitions that had been keeping the country's proverbial knees

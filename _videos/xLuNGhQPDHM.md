@@ -3,12 +3,13 @@ date: 2021-05-12
 title: An Over-Emotional Look at Why JK Rowling is Bad
 status: Script
 aka: !!seq
+  - "Confession of a Harry Potter Fan Boy (Thumbnail)"
 topics: !!seq
   - "Harry Potter"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
-notes: [^odd-linebreaks]
+notes: [^odd-linebreaks][^hbomb-min]
 
 cite:
   clips: !!map

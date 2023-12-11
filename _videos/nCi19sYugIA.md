@@ -1,3 +1,17 @@
+---
+date: 2022-11-10
+title: The Traumatic Camp of "Mommie Dearest"
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Susan Sontag in her essay notes on Camp often cited as the quintessential
 document on Camp culture remarks in association between gays and camp and as she
 was writing in the 1960s she was highlighting a very retroactive depiction from

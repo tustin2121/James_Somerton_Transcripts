@@ -1,4 +1,19 @@
+---
+date: 2022-01-08
+title: The Necessity of Gay Crime #｜ James Somerton 
+status: Script
+aka: !!seq
+  - "Be Gay, Do Crime (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 I grew up poor, though I didn’t know it. 
 
 My parents worked very hard to shield me

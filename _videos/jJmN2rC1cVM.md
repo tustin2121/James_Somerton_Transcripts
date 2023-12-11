@@ -1,4 +1,18 @@
+---
+date: 2023-03-01
+title: The Real Hogwarts Legacy
+status: Script
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 For anyone who has followed my channel for
 
 any amount of time, and certainly anyone who follows me on Twitter or watches my

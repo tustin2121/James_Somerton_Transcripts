@@ -1,4 +1,20 @@
+---
+date: 2021-08-31
+title: Disney's Gay Cultural Appropriation # ｜ James Somerton
+status: Auto
+aka: !!seq
+  - "No Gays At Disney"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Disney's+Gay+Cultural+Appropriation+_+James+Somerton.mp4"
+  - "https://www.youtube.com/watch?v=o9rlnC_EUAE"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Whenever I think I’ve dropped the mic on
 
 Disney, something like the summer of 2021 happens. Where do we start? With the

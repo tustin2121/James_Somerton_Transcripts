@@ -1,3 +1,23 @@
+---
+date: 2023-01-01
+title: !!str "Attack on Titan" and the Death of Media Literacy
+status: Auto
+aka: !!seq
+  - "The Important Non-Meaning of Attack on Titan"
+  - !!str "Attack on Titan" and the End of Media Literacy
+  - "Beyond The Wall (Thumbnail)"
+topics: !!seq
+  - "Attack on Titan"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 since it premiered in 2013 the attack on Titan anime has been called the
 greatest anime ever produced the most overrated anime ever produced and the most
 dangerous anime ever produced but which opinion is right maybe just maybe

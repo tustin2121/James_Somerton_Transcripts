@@ -72,14 +72,20 @@ topics: !!seq
   - "<media>"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records"
+  - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
   plagiarized: !!map
 ---
+notes: [^hbomb-min]
 {% endcomment %}
 
+[^vimeo]: This video was exclusive to Vimeo for age-gating reasons.
+[^unreleased]: This video was not yet released to the public before the plagiarism video came out.
+[^hbomb-min]: This video is one of the (minimum) 26 HBomberGuy said were confirmed to have plagiarism in his video.
 [^multipart]: This video is a compilation of multiple previously released videos.
 [^odd-linebreaks]: Transcript had unusual line break characters prior to cleanup
 [^short-advert]: Had a short that advertised the early release of this video on his patreon.

@@ -1,4 +1,19 @@
+---
+date: 2022-04-17
+title: The Secret Crimes of a Dying Franchise
+status: Script
+aka: !!seq
+  - "Let Is Die (Thumbnail)"
+topics: !!seq
+  - "<media>"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Hey everyone! Before we start the video I just want to give
 
 a BIG thanks to the literal thousands of people who have signed up for my

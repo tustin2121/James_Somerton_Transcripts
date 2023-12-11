@@ -1,3 +1,17 @@
+---
+date: 2023-06-06
+title: The Problem With Pride #｜ James Somerton
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Squarespace hello everyone and welcome to gays
 Behaving Badly the YouTube show where we pretend George Santos doesn't exist
 because that's the only way we can get through the day my name is James I'm Nick

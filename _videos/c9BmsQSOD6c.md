@@ -1,3 +1,20 @@
+---
+date: 2022-07-16
+title: Nostalgia, and Remembering The Bad Times
+status: Auto
+aka: !!seq
+  - "The Dark Times of Nostalgia (Thumbnail"
+topics: !!seq
+  - "<media>"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description nostalgia has

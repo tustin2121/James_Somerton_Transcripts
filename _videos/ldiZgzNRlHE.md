@@ -1,3 +1,19 @@
+---
+date: 2014-01-20
+title: Days of Marvel Future - Geek Theory Episode 3
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://www.youtube.com/watch?v=_99Gj5aGIyY"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 you so far the Marvel Cinematic Universe has been broken up into phases phase
 one was the creation of the Avengers phase 2 has been the aftermath and some
 further world building and will culminate with the Avengers 2 age of Ultron and

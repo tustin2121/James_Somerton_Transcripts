@@ -1,4 +1,19 @@
+---
+date: 2022-03-05
+title: Disney's Silence on Gay Youth
+status: Script
+aka: !!seq
+  - "Silence of the Mouse"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://www.youtube.com/watch?v=J2t3ibyMNVg"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Hey everyone. Before we start the video I 
 
 just wanted to thank everyone who’s donated

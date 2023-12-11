@@ -1,4 +1,20 @@
+---
+date: 2022-02-10
+title: SHIPPING - The Good, The Bad, and the Thirsty
+status: Script
+aka: !!seq
+  - "NOW KISS (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^odd-linebreaks]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 I never knew I was into shipping as 
 
 much as I apparently am until I, well,
@@ -169,7 +185,7 @@ book Thor? And like… given that they’re all based 
 on characters who were already in public domain… See — Jack Kirby got around this problem by
 making all the Eternals’ names slightly 
 
-different than their modern spellings. ————— ETERNALS   — Thena: “It’s 
+different than their modern spellings. ————— ETERNALS — Thena: “It’s 
 
 just ‘Thena.’ Drop the A.” ————— But in the antiquated world, they didn’t 
 

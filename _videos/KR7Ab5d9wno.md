@@ -1,3 +1,18 @@
+---
+date: 2023-04-07
+title: Sex, Violence, Showgirls, and The American Way
+status: Auto
+aka: !!seq
+  - "Sex & Satire"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 the rags to riches story is a classic narrative Trope that has captured the
 hearts of audiences for Generations one of the most enduring and popular
 variations of this tale is the story of a nobody becoming a star this narrative

@@ -4,6 +4,7 @@ title: Yuri On Ice - How Gay is Gay Enough?
 status: Script
 aka: !!seq
   - "For The Love of Gay Nuance"
+  - "Inexplicit Gay Love (Thumbnail)"
 topics: !!seq
   - "Yuri On Ice"
 links: !!seq

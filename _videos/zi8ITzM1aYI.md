@@ -1,3 +1,19 @@
+---
+date: 2014-04-04
+title: "Geek Movie Review! Captain America: The Winter Solider"
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://www.youtube.com/watch?v=EWxaciY2EqA"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 coming up on the Drop Zone cap do you do anything fun Saturday night well all
 the guys in my barbershop quartet are dead so no not really you know if you ask
 Kristen out from statistics you'd probably say yes that's why I don't ask too

@@ -1,3 +1,21 @@
+---
+date: 2022-06-09
+title: How a Gay Show Changed TV... and Was Forgotten
+status: Auto
+aka: !!seq
+  - "The Hit Gay Show We Forgot"
+  - "No Apologies (Thumbnail)"
+topics: !!seq
+  - "<media>"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description it's january

@@ -1,3 +1,17 @@
+---
+date: 2017-07-01
+title: The Stonewall Film Effect - Gay Geek Theory (Video essay)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone my name is James and welcome to gay geek theory today I would
 like to talk about something that I'm calling the Stonewall effect or maybe the
 Stonewall film effect as someone who has gone to film school worked in the film

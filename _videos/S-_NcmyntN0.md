@@ -1,4 +1,20 @@
+---
+date: 2021-09-13
+title: Disney's War on Gay Kids
+status: Script
+aka: !!seq
+  - Disney's War Against Gay Kids #｜ James Somerton
+  - "Why does society hate gay kids?"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Good afternoon everyone. One of the first questions we’re asked when
 
 we come out is “How did you know you were gay?” I… don’t know what most people

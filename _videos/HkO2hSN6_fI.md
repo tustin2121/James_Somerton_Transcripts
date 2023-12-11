@@ -1,3 +1,17 @@
+---
+date: 2023-04-05
+title: The Gays and Dating Apps (A Conversation)
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hello everyone and welcome to gays Behaving Badly the show where we talk about
 stuff the Pete booty judge doesn't want us to talk about my name is James I'm
 Nick so what are we talking about today today we are talking about dating apps

@@ -1,3 +1,21 @@
+---
+date: 2020-09-10
+title: "Evil Queens: A Queer Look at Disney History"
+status: Auto
+aka: !!seq
+  - "Evil Queens：A Gay Look at Disney History (Video essay)"
+  - "Evil Queens: Disney's Queer Cold War (Thumbnail)"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^hbomb-min]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob
 Iger announced Disney's latest World conquering Venture Disney plus a Digital
 streaming service dub a Netflix Killer by many in the media that would make

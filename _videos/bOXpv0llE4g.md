@@ -1,3 +1,17 @@
+---
+date: 2022-12-16
+title: Best Of Queer Media 2022
+status: Auto
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 hey everyone 2022 was really a year but one thing that I was shocked by was how
 much amazing media with queer themes and characters actually came out this year
 so I decided to do a top eight queer movies or TV shows of the year and I'm

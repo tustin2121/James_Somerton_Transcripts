@@ -1,3 +1,19 @@
+---
+date: 2022-09-19
+title: Reclaiming the "Q" Word
+status: Auto
+aka: !!seq
+  - !!str In Defense of "Queer"
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 foreign [Music] so I've noticed that a lot of people in the comments take issue
 with my use of the word queer in respect to the whole Squad of CIS hetero
 hegemony resistance some people have told me to just use LGBT others have said

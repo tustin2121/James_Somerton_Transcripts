@@ -1,3 +1,18 @@
+---
+date: 2023-01-14
+title: Why Bad Gays Are Good
+status: Auto
+aka: !!seq
+topics: !!seq
+  - "Hell of a Boss"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 cars is a Disney Pixar animated film released in 2006 and was the seventh film
 released by Pixar Animation Studios this film followed a string of emotionally
 evocative and intellectually stimulating films just two movies after the

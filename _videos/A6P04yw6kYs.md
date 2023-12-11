@@ -1,4 +1,20 @@
+---
+date: 2023-05-27
+title: The Dangers of Blissful Ignorance
+status: Script
+aka: !!seq
+  - The Str8 to Fascist Pipeline #| James Somerton
+  - "The Song & Dance of Fascism (Thumbnail)"
+topics: !!seq
+  - "Cabaret"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 This video is brought to you by SquareSpace. Cabaret is a film that serves as a
 stark reminder
 
