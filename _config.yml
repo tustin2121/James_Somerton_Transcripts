@@ -15,3 +15,11 @@ defaults:
             hbomb_factcheck: "Hbomberguy. <em>Plagiarism and You(Tube)</em> [Video]. YouTube. https://www.youtube.com/watch?v=yDp3cB5fHXQ"
 readme_index:
     enabled: true
+collections:
+    videos:
+        output: true
+        permalink: /:collection/:name
+        layout: transcript
+        todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
+        hbomb_factcheck: "Hbomberguy. <em>Plagiarism and You(Tube)</em> [Video]. YouTube. https://www.youtube.com/watch?v=yDp3cB5fHXQ"
+```
