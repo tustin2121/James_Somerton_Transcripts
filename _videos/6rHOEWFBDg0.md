@@ -1,3 +1,17 @@
+---
+date: 2023-10-13
+title: "Vampires, and the Gays That Love Them"
+status: "Auto"
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 this video is brought to you by Squarespace there has arguably never been a
 human civilization in history that did not exist under the threat of vampires in
 a universal context they represent our fears of not only death but unrest in

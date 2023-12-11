@@ -1,14 +1,14 @@
 ---
-date: 2023‑11‑23
+date: 2023-11-23
 title: "Neil Gaiman & Queering Fantasy"
 status: "Finished"
-aka:
+aka: !!seq
   - "Sandman and Queering the Fantastical"
   - "Neil Gaiman - A straight author with amazing queer characters"
-topics:
+topics: !!seq
   - "Sandman"
   - "Good Omens"
-links:
+links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4"
 description: "a video essay on how to do good representation of queer people in media."
 
@@ -16,6 +16,7 @@ cite:
   clips:
     good_omens_tv: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation."
     silence_lambs_movie: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions."
+  plagiarized: !!map
 ---
 # "Neil Gaiman & Queering Fantasy" Transcript
 This video is also known as "Sandman and Queering the Fantastical"

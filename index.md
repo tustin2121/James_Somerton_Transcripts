@@ -37,6 +37,7 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 <div class="video-card">
 	<div class="title"><a href="{{ video.url }}">{{ video.title }}</div>
 	<div class="date">Released {{ video.date | date_to_string }}</div>
+	{% if video.aka %}
 	<div class="aka">{{ video.aka }}</div>
 	<div class="topics">{{ video.topics | array_to_sentence_string: "" }}</div>
 	{% case video.status %}
@@ -46,7 +47,7 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 			<div class="status ready">{{ video.status }}</div>
 		{% when "Complete" %}
 			<div class="status complete">{{ video.status }}</div>
-		{% ekse %}
+		{% else %}
 			<div class="status">Script</div>
 	{% endcase %}
 	<div class="vidlinks">
@@ -54,6 +55,7 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 			<a href="{{ link }}">V{{ forloop.index }}</a>{% unless forloop.last %} | {% endunless -%}
 		{%- endfor -%}
 	</div>
+	{% endif %}
 </div>
 {% endfor %}
 </div>
@@ -64,12 +66,16 @@ Template for new videos
 date: 2023‑11‑23
 title: "<title>"
 status: "Missing"
-aka:
+aka: !!seq
   - "<title>"
-topics:
+topics: !!seq
   - "<media>"
-links:
-  - "https://archive.org/details/james-somerton-public-records/video+name.mp4"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
 ---
 {% endcomment %}

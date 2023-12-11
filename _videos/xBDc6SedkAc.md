@@ -1,22 +1,23 @@
 ---
-date: 2023‑11‑13
+date: 2023-11-13
 title: "Gay Happiness and Mainstream Media"
 status: "Finished"
-aka:
+aka: !!seq
   - "The Agony / Anguish of Happy Gay Media"
-topics:
+topics: !!seq
   - "Red, White, and Royal Blue"
   - "Heartstopper"
   - "Young Royals"
-links:
+links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media."webm
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media.webm"
 description: "a video on sexuality in happy gay media."
 
 cite:
   clips:
     rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
     barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
+  plagiarized: !!map
   tustin_eyewitness: "Tustin2121, former patron of James"
 ---
 # "Gay Happiness and Mainstream Media" Transcript

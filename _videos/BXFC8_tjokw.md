@@ -1,3 +1,17 @@
+---
+date: 2023-11-23
+title: "Religion and Anime!"
+status: "Auto"
+aka: !!seq
+topics: !!seq
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 surface level reading of Dos is that he is either a god a reflection of a god a
 prince who died ages ago or a collection of household insects given material
 form by anthy depending on the version of your story now yes if you want to you
