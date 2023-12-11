@@ -57,3 +57,19 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 </div>
 {% endfor %}
 </div>
+
+{% comment %}
+Template for new videos
+---
+date: 2023‑11‑23
+title: "<title>"
+status: "Missing"
+aka:
+  - "<title>"
+topics:
+  - "<media>"
+links:
+  - "https://archive.org/details/james-somerton-public-records/video+name.mp4"
+description: "a video essay on <xyz>."
+---
+{% endcomment %}

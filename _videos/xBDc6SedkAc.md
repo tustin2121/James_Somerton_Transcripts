@@ -1,10 +1,23 @@
 ---
+date: 2023‑11‑13
 title: "Gay Happiness and Mainstream Media"
-description: "aka 'The Agony / Anguish of Happy Gay Media', a video on sexuality in happy gay media."
+status: "Finished"
+aka:
+  - "The Agony / Anguish of Happy Gay Media"
+topics:
+  - "Red, White, and Royal Blue"
+  - "Heartstopper"
+  - "Young Royals"
+links:
+  - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media."webm
+description: "a video on sexuality in happy gay media."
 
-rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
-barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
-tustin_eyewitness: "Tustin2121, former patron of James"
+cite:
+  clips:
+    rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
+    barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
+  tustin_eyewitness: "Tustin2121, former patron of James"
 ---
 # "Gay Happiness and Mainstream Media" Transcript
 This video is also known as "The Agony / Anguish of Happy Gay Media".
@@ -19,7 +32,7 @@ Formatted by Tustin2121.
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>
 	<comment>Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad.</comment>
-	<cite>{{ page.tustin_eyewitness }}</cite>
+	<cite>{{ page.cite.tustin_eyewitness }}</cite>
 </compare>
 
 <compare>
@@ -61,7 +74,7 @@ To smooth out ruffled feathers and placate the media's appetite for scandal, Ale
 <from></from>
 </compare>
 
-<compare><cite>{{ page.rwrb_movie }}</cite>
+<compare><cite>{{ page.cite.clips.rwrb_movie }}</cite>
 	<clip>Alex: What three words would I use to describe Henry? White, blonde, and British.</clip>
 </compare>
 
@@ -158,7 +171,7 @@ The story kind of saunters into this liminal space. It's not pure handholding pu
 </compare>
 
 <compare>
-<cite>{{ page.rwrb_movie }}</cite>
+<cite>{{ page.cite.clips.rwrb_movie }}</cite>
 <clip>
 
 Henry: My full name is "Henry George Edward James Hanover Stewart Fox"
@@ -171,7 +184,7 @@ Henry: *[shy]* He is.
 </compare>
 
 <compare>
-<cite>{{ page.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
 <james>
 
 And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
@@ -194,7 +207,7 @@ Todd could not find anything but a negative review on the BBC, which just though
 </compare>
 
 <compare>
-<cite>{{ page.todd_factcheck }} (22:55)</cite>
+<cite>{{ page.yt.todd_factcheck }} (22:55)</cite>
 <james>
 
 The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
@@ -216,7 +229,7 @@ Both articles cited exactly [one tweet](https://twitter.com/HunterPippinPHL/stat
 </compare>
 
 <compare>
-<cite>{{ page.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
 <james>
 
 There's a strong undercurrent of hypocrisy here, particularly as queer folk of... literally every shade of the rainbow are accused of corrupting the youth. Never mind that it was perfectly acceptable for virtually every American Teen Movie to focus with laser precision on rooting for teenagers to bone each other. The *American Pie* franchise owes its whole success to this. For which audiences agree that the heterosexual events in American Pie are... normal.
@@ -240,7 +253,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 </compare>
 
 <compare>
-<cite>{{ page.todd_factcheck }} (18:35)</cite>
+<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
 <james>
 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
@@ -398,7 +411,7 @@ women to be sexually experienced, but they also seem to allocate a role for wome
 </compare>
 
 <compare>
-<cite>{{ page.barbie_movie }}</cite>
+<cite>{{ page.cite.clip.barbie_movie }}</cite>
 <clip>Gloria: We have to to be a boss but you can't be mean. You have to lead but you can't squash other people's ideas. You're supposed to *love* being a mother but don't talk about your kids all the damn time.</clip>
 </compare>
 
@@ -568,7 +581,7 @@ You are dealing with this group of people when you develop queer media. We're a 
 </compare>
 
 <compare>
-	<cite>{{ page.tustin_eyewitness }}</cite>
+	<cite>{{ page.cite.tustin_eyewitness }}</cite>
 	<james>And, no, you can't go back and fix it. Like I came out when I was 12 and I haven't had an actual boyfriend my whole life.</james>
 	<comment>James has repeated this personal anecdote on stream, so it may be genuine.</comment>
 </compare>

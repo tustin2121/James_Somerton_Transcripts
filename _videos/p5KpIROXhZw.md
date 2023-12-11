@@ -1,9 +1,21 @@
 ---
+date: 2023‑11‑23
 title: "Neil Gaiman & Queering Fantasy"
-description: "aka 'Sandman and Queering the Fantastical', a video essay on how to do good representation of queer people in media."
+status: "Finished"
+aka:
+  - "Sandman and Queering the Fantastical"
+  - "Neil Gaiman - A straight author with amazing queer characters"
+topics:
+  - "Sandman"
+  - "Good Omens"
+links:
+  - "https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4"
+description: "a video essay on how to do good representation of queer people in media."
 
-good_omens_tv: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation."
-silence_lambs_movie: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions."
+cite:
+  clips:
+    good_omens_tv: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation."
+    silence_lambs_movie: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions."
 ---
 # "Neil Gaiman & Queering Fantasy" Transcript
 This video is also known as "Sandman and Queering the Fantastical"
@@ -122,7 +134,7 @@ The narrator describes that most people who encounter Aziraphale may describe hi
 </compare>
 
 <compare>
-<cite>{{ page.good_omens_tv }}</cite>
+<cite>{{ page.cite.clips.good_omens_tv }}</cite>
 <clip>
 
 Woman: You're a good lad.
@@ -147,7 +159,7 @@ Factor in that both Aziraphale and Crowley have a very ambiguous set of gender m
 </compare>
 
 <compare>
-<cite>{{ page.good_omens_tv }}</cite>
+<cite>{{ page.cite.clips.good_omens_tv }}</cite>
 <clip>
 
 Angel 1: Humans are weird and that's how it works.
@@ -170,7 +182,7 @@ But again in terms of gender nonconformity, the gender of one person is not rele
 </compare>
 
 <compare>
-<cite>{{ page.good_omens_tv }}</cite>
+<cite>{{ page.cite.clips.good_omens_tv }}</cite>
 <clip>
 
 Angel 1: You know how God likes sevens.
@@ -215,7 +227,7 @@ This is secondary only to the romance between Aziraphale and Crowley, which is s
 </compare>
 
 <compare>
-<cite>{{ page.good_omens_tv }}</cite>
+<cite>{{ page.cite.clips.good_omens_tv }}</cite>
 <clip>
 
 Crowley: You idiot. We could have been... us.
@@ -514,7 +526,7 @@ And this is part of the consequences of being part of a community that has been 
 </compare>
 
 <compare>
-<cite>{{ page.hbomb_factcheck }} (2:46:18)</cite>
+<cite>{{ page.yt.hbomb_factcheck }} (2:46:18)</cite>
 <james>
 
 Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
@@ -646,7 +658,7 @@ I would contrast *that* with something like Ace Ventura, which is actively malic
 </compare>
 
 <compare>
-<cite>{{ page.silence_lambs_movie }}</cite>
+<cite>{{ page.cite.clips.silence_lambs_movie }}</cite>
 <clip>
 
 Hannibal: Billy is not a real Transexual. But he thinks he is, he tries to be. He’s tried to be a lot of things I expect.

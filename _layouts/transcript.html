@@ -6,10 +6,15 @@
 	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/markdown-github.css" type="text/css" />
 	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/transcript.css" type="text/css" />
 	
+	{%- capture ogdesc -%}
+		{%- if page.aka -%}aka '{{ page.aka | first }}'{%- endif -%}
+		{%- if page.aka and page.description -%}, {% endif -%}
+		{%- if page.description -%}{{ page.description }}{%- endif -%}
+	{%- endcapture -%}
 	<title>{{ page.title }} | Transcript</title>
 	<meta property="og:title" content="{{ page.title }} | Transcript" />
 	<!-- <meta property="og:description" content="{{ content | strip_html | string_with_newlines | truncatewords: 24 }}" /> -->
-	<meta property="og:description" content="{{ page.description }}" />
+	<meta property="og:description" content="{{ ogdesc }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 	<meta property="og:locale" content="en_US" />
