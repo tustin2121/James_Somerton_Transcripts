@@ -1,4 +1,22 @@
+---
+date: 2021-07-31
+title: !!str "Painter of the Night" and the Sadism of Class"
+status: Script
+aka: !!seq
+  - "The Sadism of Class"
+  - "The Real Burden of Being Rich (Short)"
+topics: !!seq
+  - "Painter of the Night"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes: [^odd-linebreaks][^short-advert]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 SO, Back to the increasingly popular world
 
 of Korean Manhwa we go! After the Killing Stalking video came out

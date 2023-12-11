@@ -1,7 +1,7 @@
 ---
 date: 2023-11-13
-title: "Gay Happiness and Mainstream Media"
-status: "Finished"
+title: Gay Happiness and Mainstream Media
+status: Finished
 aka: !!seq
   - "The Agony / Anguish of Happy Gay Media"
 topics: !!seq

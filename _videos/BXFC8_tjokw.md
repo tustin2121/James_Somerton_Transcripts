@@ -1,7 +1,7 @@
 ---
 date: 2023-11-23
-title: "Religion and Anime!"
-status: "Auto"
+title: Religion and Anime!
+status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq

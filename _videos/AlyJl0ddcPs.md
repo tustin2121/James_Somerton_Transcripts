@@ -1,14 +1,15 @@
 ---
 date: 2023-10-29
-title: "The Gay Horror Manga You Should Be Reading[^hikaru]"
-status: "Script"
+title: The Gay Horror Manga You Should Be Reading[^hikaru]
+status: Script
 aka: !!seq
-  - "The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga"
+  - "The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga (Short)"
 topics: !!seq
   - "The Summer Hikaru Died"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
+notes: [^short-advert]
 
 cite:
   clips: !!map

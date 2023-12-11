@@ -1,3 +1,20 @@
+---
+date: 2021-04-01
+title: !!str “Killing Stalking” and The Romancing of Abuse
+status: Auto
+aka: !!seq
+  - "Killing Stalking and the Love of a Bad Boy (Short)"
+topics: !!seq
+  - "Killing Stalking"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^short-advert]
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 i just wanted to drop a content warning here as both physical and psychological
 abuse are discussed in this video i also wanted to thank chaos opus studio who
 composed the score in this video they're also an animal welfare charity that

@@ -1,4 +1,20 @@
+---
+date: 2021-06-14
+title: Yuri On Ice - How Gay is Gay Enough?
+status: Script
+aka: !!seq
+  - "For The Love of Gay Nuance"
+topics: !!seq
+  - "Yuri On Ice"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^odd-linebreaks]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Yuri on Ice is a 2016 anime about Yuri Katsukai,
 
 a 24 year old figure skater from Japan whose pretty much convinced that he’s past his

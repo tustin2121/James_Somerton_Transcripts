@@ -29,13 +29,12 @@ Statuses:
 
 James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
 
-<!-- Note, use of non-breaking hyphen "-" in release date. -->
+<!-- Note, use of non-breaking hyphen "‑" in release date. -->
 
 | Release Date | Status | Video ID | Video | Title |
 |:------------:|:------:|:---|:----|:------|
 | ????-??-?? | <font color="red" > Missing    | [GayPanicDef](_videos/GayPanicDef.md) |  | The History of Gay Panic
 | 2020-07-01 | <font color="red" > Missing    | [Unrequited1](_videos/Unrequited1.md) | [yt][yt] | Unrequited: The History of Queer Baiting
-| ????-??-?? | <font color=""    > Auto[^1]   | [00000000001](_videos/00000000001.md) |  | PSA: Taking A Break From Marvel Movies
 | 2013-11-20 | <font color=""    > Auto       | [crZd-xmhobE](_videos/crZd-xmhobE.md) | [yt][yt] [A1][A1] [A3][A3] | Geek Theory - Episode #1 "The Marvel Issue"
 | 2013-11-24 | <font color=""    > Auto       | [lTcm9ExjvOI](_videos/lTcm9ExjvOI.md) | [yt][yt] [A1][A1] [A3][A3] | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
 | 2014-01-20 | <font color=""    > Auto       | [ldiZgzNRlHE](_videos/ldiZgzNRlHE.md) | [yt][yt] [A1][A1] [A3][A3] | Days of Marvel Future - Geek Theory Episode 3
@@ -52,10 +51,10 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 | 2020-12-04 | <font color="red" > Missing    | [CODEBREAKER](_videos/CODEBREAKER.md) | [yt][yt] | CODEBREAKERS: Queer film theory (and why it matters) <aka>Queering Cinema (by any means necessary)</aka>
 | 2021-01-11 | <font color="red" > Missing    | [PnkTriangle](_videos/PnkTriangle.md) |  | Pink Triangles: The History of the Gay Holocaust[^pink]
 | 2021-02-11 | <font color=""    > Auto       | [SHFUAlDFdYY](_videos/SHFUAlDFdYY.md) | [A1][A1] | The Scarlet Witch and Marvel’s Gay Power Couple
-| 2021-04-01 | <font color=""    > Auto       | [ujmgqNyZ190](_videos/ujmgqNyZ190.md) | [A1][A1] [A2][A2] | “Killing Stalking” and The Romancing of Abuse
-| 2021-05-12 | <font color=""    > Script[^2] | [xLuNGhQPDHM](_videos/xLuNGhQPDHM.md) | [A1][A1] | An Over-Emotional Look at Why JK Rowling is Bad
-| 2021-06-14 | <font color=""    > Script[^2] | [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | [A1][A1] | Yuri On Ice - How Gay is Gay Enough?<aka>For The Love of Gay Nuance</aka>
-| 2021-07-31 | <font color=""    > Script[^2] | [xsrV2LXP0bY](_videos/xsrV2LXP0bY.md) | [A1][A1] [A3][A3] | "Painter of the Night" and the Sadism of Class" <aka>The Sadism of Class</aka>
+<!-- | 2021-04-01 | <font color=""    > Auto       | [ujmgqNyZ190](_videos/ujmgqNyZ190.md) | [A1][A1] [A2][A2] | “Killing Stalking” and The Romancing of Abuse -->
+<!-- | 2021-05-12 | <font color=""    > Script[^2] | [xLuNGhQPDHM](_videos/xLuNGhQPDHM.md) | [A1][A1] | An Over-Emotional Look at Why JK Rowling is Bad -->
+<!-- | 2021-06-14 | <font color=""    > Script[^2] | [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | [A1][A1] | Yuri On Ice - How Gay is Gay Enough?<aka>For The Love of Gay Nuance</aka> -->
+<!-- | 2021-07-31 | <font color=""    > Script[^2] | [xsrV2LXP0bY](_videos/xsrV2LXP0bY.md) | [A1][A1] [A3][A3] | "Painter of the Night" and the Sadism of Class" <aka>The Sadism of Class</aka> -->
 | 2021-08-31 | <font color=""    > Script     | [cMde5YLG6-w](_videos/cMde5YLG6-w.md) | [yt][yt] [A1][A1] [A3][A3] | Disney's Gay Cultural Appropriation ｜ James Somerton <aka>No Gays At Disney</aka>
 | 2021-09-13 | <font color=""    > Script     | [S-_NcmyntN0](_videos/S-_NcmyntN0.md) | [A1][A1] [A3][A3] | Disney's War on Gay Kids <aka>Disney's War Against Gay kids ｜ James Somerton</aka> <aka>Why does society hate gay kids?</aka>
 | 2021-10-04 | <font color=""    > Script     | [ZDgWHNDdwoU](_videos/ZDgWHNDdwoU.md) | [A1][A1] | "Hannibal" and the Appeal of Toxic Love <aka>The Gay Appeal of Toxic Love</aka> <aka>Fear Coded</aka>
@@ -90,34 +89,31 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 | 2023-01-14 | <font color=""    > Auto       | [fE4I6WhPryc](_videos/fE4I6WhPryc.md) | [A1][A1] | Why Bad Gays Are Good
 | 2023-01-24 | <font color=""    > Auto       | [E9vDpCeTK5w](_videos/E9vDpCeTK5w.md) | [A1][A1] | The Queer Joy of Everything Everywhere All At Once
 | 2023-02-01 | <font color=""    > Auto       | [9YzMQEBRszY](_videos/9YzMQEBRszY.md) | [A1][A1] | The Death of Queer Privacy
-| 2023-02-15 | <font color=""    > Script     | [-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) | [A1][A1] | How Hollywood was Born Gay
+<!-- | 2023-02-15 | <font color=""    > Script     | [-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) | [A1][A1] | How Hollywood was Born Gay -->
 | 2023-03-01 | <font color=""    > Script     | [jJmN2rC1cVM](_videos/jJmN2rC1cVM.md) | [A1][A1] | The Real Hogwarts Legacy
-| 2023-03-15 | <font color=""    > Auto       | [SdtbQhAKFSI](_videos/SdtbQhAKFSI.md) | [A1][A1] | Hollywood's Golden Age (of Queer Coding)
+<!-- | 2023-03-15 | <font color=""    > Auto       | [SdtbQhAKFSI](_videos/SdtbQhAKFSI.md) | [A1][A1] | Hollywood's Golden Age (of Queer Coding) -->
 | 2023-03-22 | <font color=""    > Auto       | [qT6IsmUrHeY](_videos/qT6IsmUrHeY.md) | [A1][A1] | The Role of Adult Media in Gay Identity (A Conversation)
 | 2023-04-05 | <font color=""    > Auto       | [HkO2hSN6_fI](_videos/HkO2hSN6_fI.md) | [A1][A1] | The Gays and Dating Apps (A Conversation)
 | 2023-04-07 | <font color=""    > Auto       | [KR7Ab5d9wno](_videos/KR7Ab5d9wno.md) | [A1][A1] | Sex, Violence, Showgirls, and The American Way
-| 2023-04-15 | <font color=""    > Auto       | [iJ3M_DhPlI0](_videos/iJ3M_DhPlI0.md) | [A1][A1] | America v. Homosexuality
+<!-- | 2023-04-15 | <font color=""    > Auto       | [iJ3M_DhPlI0](_videos/iJ3M_DhPlI0.md) | [A1][A1] | America v. Homosexuality -->
 | 2023-04-20 | <font color=""    > Script     | [F5ab1X2CFq8](_videos/F5ab1X2CFq8.md) | [A1][A1] | The Queer Dystopia of the LGB Movement
 | 2023-04-26 | <font color=""    > Auto       | [M5-SZckaMtc](_videos/M5-SZckaMtc.md) | [A1][A1] | The Glass Ceiling of Gay Success (A Discussion)
 | 2023-04-29 | <font color=""    > Auto       | [KarOvBQCyKE](_videos/KarOvBQCyKE.md) | [A1][A1] | How Spoilers Are Ruining Everything
-| 2023-05-11 | <font color=""    > Auto       | [UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) | [A1][A1] | Where The "Bury Your Gays" Trope Came From
-| 2023-05-18 | <font color=""    > Auto       | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | [A1][A1] | When Hollywood Came Out of the Closet
+<!-- | 2023-05-11 | <font color=""    > Auto       | [UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) | [A1][A1] | Where The "Bury Your Gays" Trope Came From -->
+<!-- | 2023-05-18 | <font color=""    > Auto       | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | [A1][A1] | When Hollywood Came Out of the Closet -->
 | 2023-05-27 | <font color=""    > Script     | [A6P04yw6kYs](_videos/A6P04yw6kYs.md) | [A1][A1] | The Dangers of Blissful Ignorance
 | 2023-06-06 | <font color=""    > Auto       | [-ogPYycNAo8](_videos/-ogPYycNAo8.md) | [A1][A1] | The Problem With Pride ｜ James Somerton
 | 2023-06-27 | <font color=""    > Auto       | [CupPh46JZ5g](_videos/CupPh46JZ5g.md) | [A1][A1] | Broadway, Living, and Gay Hope
-| 2023-07-13 | <font color=""    > Auto       | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | [A1][A1] | The History of Gay Hollywood
-| 2023-07-14 | <font color="red" > Incomplete | [-ik6O_8DrMk](_videos/-ik6O_8DrMk.md) | [A1][A1] | Fistory!
-| 2023-08-09 | <font color=""    > Auto       | [OiFmQ4NurBI](_videos/OiFmQ4NurBI.md) | [A1][A1] | Killing Stalking and the Love of a Bad Boy
-| 2023-08-09 | <font color=""    > Auto       | [VNvH3a6Aenw](_videos/VNvH3a6Aenw.md) | [A1][A1] | The Real Burden of Being Rich
-| 2023-08-12 | <font color=""    > Auto       | [mu9Fjb66UAY](_videos/mu9Fjb66UAY.md) | [A1][A1] | The Barbie to Evangelion Pipeline
-| 2023-09-02 | <font color=""    > Auto       | [PZRn1_fY0zo](_videos/PZRn1_fY0zo.md) | [A1][A1] | Coming This Fall
-| 2023-09-14 | <font color=""    > Auto       | [0Vijus_c-aY](_videos/0Vijus_c-aY.md) | [A1][A1] | The Campy Queer Sensibilities of Barbie
-| 2023-10-07 | <font color=""    > Auto       | [-Uoqmxlcusg](_videos/-Uoqmxlcusg.md) | [A1][A1] | The Magic Realism of Revolutionary Girl Utena <aka>The Real Revolution of Utena</aka>
-| 2023-10-08 | <font color=""    > Auto       | [BXFC8_tjokw](_videos/BXFC8_tjokw.md) | [A1][A1] | Religion and Anime!
+<!-- | 2023-07-13 | <font color=""    > Auto       | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | [A1][A1] | The History of Gay Hollywood -->
+<!-- | 2023-09-14 | <font color=""    > Auto       | [0Vijus_c-aY](_videos/0Vijus_c-aY.md) | [A1][A1] | The Campy Queer Sensibilities of Barbie -->
+<!-- | 2023-10-07 | <font color=""    > Auto       | [-Uoqmxlcusg](_videos/-Uoqmxlcusg.md) | [A1][A1] | The Magic Realism of Revolutionary Girl Utena <aka>The Real Revolution of Utena</aka> -->
+<!-- | 2023-10-08 | <font color=""    > Auto       | [BXFC8_tjokw](_videos/BXFC8_tjokw.md) | [A1][A1] | Religion and Anime! -->
 <!-- | 2023-10-13 | <font color=""    > Auto       | [6rHOEWFBDg0](_videos/6rHOEWFBDg0.md) | [A1][A1] | Vampires, and the Gays That Love Them -->
 <!-- | 2023-10-29 | <font color=""    > Script     | [AlyJl0ddcPs](_videos/AlyJl0ddcPs.md) | [A1][A1] | The Gay Horror Manga You Should Be Reading[^hikaru] <aka>The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga</aka> -->
 <!-- | 2023-11-13 | <font color="cyan"> Finished   | [xBDc6SedkAc](_videos/xBDc6SedkAc.md) | [A1][A1] | Gay Happiness and Mainstream Media <aka>The Agony / Anguish of Happy Gay Media</aka> -->
 <!-- | 2023-11-23 | <font color="cyan"> Finished   | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | [A1][A1] | Neil Gaiman & Queering Fantasy[^gaiman] <aka>Sandman and Queering the Fantastical</aka> <aka>Neil Gaiman - A straight author with amazing queer characters</aka> -->
+
+<!-- | 2023-09-15 | <font color=""    > Auto[^1]   | [00000000001](_videos/00000000001.md) |  | PSA: Taking A Break From Marvel Movies (Short advertising a marvel video) -->
 
 [^1]: Transcript with no uploaded video
 [^2]: Transcript had unusual line break characters prior to cleanup

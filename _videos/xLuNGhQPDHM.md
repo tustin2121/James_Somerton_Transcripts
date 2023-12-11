@@ -1,4 +1,19 @@
+---
+date: 2021-05-12
+title: An Over-Emotional Look at Why JK Rowling is Bad
+status: Script
+aka: !!seq
+topics: !!seq
+  - "Harry Potter"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^odd-linebreaks]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 “Ms. Rowling of Edinburgh Scotland was proud
 
 to say that she was a TERF, thank you very much”. *Sigh* PART ONE: The

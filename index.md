@@ -31,7 +31,6 @@ Statuses:
 
 James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
 
-{% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}
 <div class="video-list">
 {% for video in site.videos %}
 <div class="video-card">
@@ -60,14 +59,15 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 {% endfor %}
 </div>
 
+{% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}
 {% comment %}
 Template for new videos
 ---
 date: 2023‑11‑23
-title: "<title>"
-status: "Missing"
+title: title
+status: Auto
 aka: !!seq
-  - "<title>"
+  - "title"
 topics: !!seq
   - "<media>"
 links: !!seq
@@ -79,3 +79,7 @@ cite:
   plagiarized: !!map
 ---
 {% endcomment %}
+
+[^multipart]: This video is a compilation of multiple previously released videos.
+[^odd-linebreaks]: Transcript had unusual line break characters prior to cleanup
+[^short-advert]: Had a short that advertised the early release of this video on his patreon.

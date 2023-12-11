@@ -1,4 +1,21 @@
+---
+date: 2023-10-07
+title: The Real Revolution of Utena
+status: Auto
+aka: !!seq
+  - "The Magic Realism of Revolutionary Girl Utena (Short)"
+  - "Religion and Anime! (Short)"
+topics: !!seq
+  - "Utena"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+description: "a video essay on <xyz>."
+notes: [^short-advert]
 
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
 Intro
 
 this is what happened more or less the magical girl Trope of anime hit a fever

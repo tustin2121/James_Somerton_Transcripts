@@ -1,16 +1,17 @@
 ---
 date: 2023-11-23
-title: "Neil Gaiman & Queering Fantasy"
-status: "Finished"
+title: Neil Gaiman & Queering Fantasy
+status: Finished
 aka: !!seq
   - "Sandman and Queering the Fantastical"
-  - "Neil Gaiman - A straight author with amazing queer characters"
+  - "Neil Gaiman - A straight author with amazing queer characters (Short)"
 topics: !!seq
   - "Sandman"
   - "Good Omens"
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4"
 description: "a video essay on how to do good representation of queer people in media."
+notes: [^short-advert]
 
 cite:
   clips:

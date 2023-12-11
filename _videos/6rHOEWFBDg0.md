@@ -1,7 +1,7 @@
 ---
 date: 2023-10-13
-title: "Vampires, and the Gays That Love Them"
-status: "Auto"
+title: Vampires, and the Gays That Love Them
+status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
