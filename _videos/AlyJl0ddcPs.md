@@ -3,8 +3,8 @@ date: 2023-10-29
 title: The Gay Horror Manga You Should Be Reading[^hikaru]
 status: Script
 aka: !!seq
-  - "The Gay Horror Manga You should Be Reading - The Summer Hikaru Died #horrorstories #manga (Short)"
   - "Monsters will be Boys (Thumbnail)"
+  - "The Summer Hikaru Died #horrorstories #manga (Short)" # Prepend the title to this. It was too long for the UI
 topics: !!seq
   - "The Summer Hikaru Died"
 links: !!seq

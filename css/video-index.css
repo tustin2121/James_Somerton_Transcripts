@@ -59,4 +59,6 @@
 .video-list .video-card > .aka p,
 .video-list .video-card > .topics p {
 	margin: 0;
+	padding-left: 1em;
+    text-indent: -1em;
 }
