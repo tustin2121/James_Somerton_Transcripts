@@ -41,6 +41,7 @@
 }
 .video-card > .plagiarized {
 	grid-area: plag;
+	text-align: center;
 	background-color: purple;
 }
 .video-card > .topics {

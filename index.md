@@ -21,6 +21,23 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
 
 # Transcript Index
 
+<div class="video-list">
+  <div class="video-card">
+    <div class="title"><a href>Video Card Example (Links to Transcript)</a></div>
+    <div class="date">Release Date</div>
+    <div class="topics"><p>Topics</p><p>&amp; Media</p><p>Discussed</p></div>
+    <div class="aka">
+      <p>Alternate titles to videos, since James renamed videos a lot</p>
+      <p>(Even outside trying to cover up all the plagiarism he did)</p>
+      <p>Also includes words in (Thumbnail)s</p>
+    </div>
+    <div class="status">Transcript Status</div>
+    <div class="plagiarized"># Sources Plagiarized</div>
+    <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+  </div>
+</div>
+
+
 Statuses: 
 - <span class="status alert">Missing</span> = Transcript is missing though video archive exists
 - <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
