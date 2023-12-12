@@ -15,6 +15,10 @@ links: !!seq
 description: "a video on sexuality in happy gay media."
 notes: [^hbomb-min]
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  formatting: Tustin2121
+
 cite:
   clips:
     rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
@@ -22,15 +26,6 @@ cite:
   plagiarized: !!map
   tustin_eyewitness: "Tustin2121, former patron of James"
 ---
-# "Gay Happiness and Mainstream Media" Transcript
-This video is also known as "The Agony / Anguish of Happy Gay Media".
-
-You can view the archive of this video [on the Internet Archive](https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4).
-
-Auto-transcribed by YouTube, downloaded by [TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts).  
-Formatted by Tustin2121.
-
-{% include transcript-header.html %}
 
 <compare>
 	<james>This video is brought to you by SquareSpace / Lilo</james>

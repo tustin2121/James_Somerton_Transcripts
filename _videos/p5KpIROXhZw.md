@@ -13,21 +13,16 @@ links: !!seq
 description: "a video essay on how to do good representation of queer people in media."
 notes: [^short-advert]
 
+contributors:
+  trascription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"
+  formatting: Tustin2121
+
 cite:
   clips:
     good_omens_tv: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation."
     silence_lambs_movie: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions."
   plagiarized: !!map
 ---
-# "Neil Gaiman & Queering Fantasy" Transcript
-This video is also known as "Sandman and Queering the Fantastical"
-
-You can view the archive of this video [on the Internet Archive](https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4).
-
-Transcribed by [/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub)).  
-Formatted by Tustin2121.
-
-{% include transcript-header.html %}
 
 <compare>
 	<james>This video is brought to you by SquareSpace</james>

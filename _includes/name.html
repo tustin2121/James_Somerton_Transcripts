@@ -1,0 +1,2 @@
+{%- comment %} Expected: name parameter {% endcomment -%}
+{{ include.name | join: ", " | markdownify | remove: '<p>' | remove: '</p>' | strip }}

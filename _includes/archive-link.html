@@ -1,0 +1,37 @@
+{%- comment %} 
+	Expected:
+		- `link`, containing the archive link 
+		- `short`, whether to use the short form
+{% endcomment -%}
+{%- assign parts = include.link | split: "/" -%}
+{%- if parts[2] == "archive.org" -%}
+	{%- if include.short -%}
+		{%- if parts[4] == "james-somerton-youtube-2023-12-03" -%}
+			{%- comment %} https://archive.org/details/james-somerton-youtube-2023-12-03/ {% endcomment -%}
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">IA1</a>
+		{%- elsif parts[4] == "james-somerton-public-records" -%}
+			{%- comment %} https://archive.org/details/james-somerton-public-records/ {% endcomment -%}
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">PR</a>
+		{%- elsif parts[4] == "james-somerton-videos-backup" -%}
+			{%- comment %} https://archive.org/details/james-somerton-videos-backup/ {% endcomment -%}
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">VB</a>
+		{%- else -%}
+			{%- comment %} unidentified internet archive link {% endcomment -%}
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">IA</a>
+		{%- endif -%}
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on the Internet Archive</a>
+	{%- endif -%}
+{%- elsif parts[2] == "youtube.com" or parts[2] == "www.youtube.com" or parts[2] == "youtu.be" -%}
+	{%- if include.short -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">YT</a>
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on YouTube</a>
+	{%- endif -%}
+{%- else -%}
+	{%- if include.short -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">Vid</a>
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here</a>
+	{%- endif -%}
+{%- endif -%}

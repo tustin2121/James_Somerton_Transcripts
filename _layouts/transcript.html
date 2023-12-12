@@ -3,8 +3,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
-	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/markdown-github.css" type="text/css" />
-	<link rel="stylesheet" href="{{ site.github.baseurl }}/css/transcript.css" type="text/css" />
+	<link rel="stylesheet" href="{{ "/css/markdown-github.css" | relative_url }}" type="text/css" />
+	<link rel="stylesheet" href="{{ "/css/transcript.css" | relative_url }}" type="text/css" />
+	<link rel="stylesheet" href="{{ "/css/video-card.css" | relative_url }}" type="text/css" />
 	
 	{%- capture ogdesc -%}
 		{%- if page.aka -%}aka '{{ page.aka | first }}'{%- endif -%}
@@ -26,6 +27,71 @@
 	<div class="wrapper">
 		<div class="markdown-body">
 			<div class="content">
+				<h1>"{{ page.title }}" Transcript</h1>
+				<div class="video-list">
+					{% include video-card.html video=page %}
+				</div>
+				
+				{%  comment  %}
+				{% if page.aka.size -%}
+					<p>This video is also known as 
+					{%- for name in page.aka -%}
+						{%- if forloop.length > 1 and forloop.last == true %}and {% endif -%}
+						"{{ name }}"
+						{%- if forloop.length > 2 and forloop.last == false %}, {% endif -%}
+					{%- endfor -%}
+					</p>
+				{%- endif %}
+				{% endcomment %}
+				
+				{% if page.links.size > 0 -%}
+					<p>You can view the archive of this video 
+					{% for link in page.links -%}
+						{%- if forloop.length > 1 and forloop.last == true %} or {% endif -%}
+						{% include archive-link.html link=link short=false %}
+						{%- if forloop.length > 2 and forloop.last == false %}, {% endif -%}
+					{%- endfor -%}
+					</p>
+				{%- else -%}
+					<p>No known public archives of this video exist at this time.</p>
+				{%- endif %}
+				
+				{% if page.contributors %} 
+					<p>
+					{% if page.contributors.trascription %}
+						Transcribed by {% include name.html name=page.contributors.trascription -%}.<br/>
+					{% elsif page.contributors.downloaded %}
+						Auto-transcribed by YouTube, downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
+					{% endif %}
+					{% if page.contributors.formatting %}
+						Formatted by {% include name.html name=page.contributors.formatting -%}.<br/>
+					{% endif %}
+					{% if page.contributors.factcheck %}
+						Fact-checked by {% include name.html name=page.contributors.factcheck -%}.<br/>
+					{% endif %}
+					{% if page.contributors.citation %}
+						Citations by {% include name.html name=page.contributors.citation -%}.<br/>
+					{% endif %}
+					</p>
+				{% endif %}
+				
+				{% if page.cite.plagiarized.size > 0 %}
+					<p>
+						It is proven that this video has been plagerized from {{ page.cite.plagiarized.size }} sources.
+						See below for details.
+					</p>
+				{% endif %}
+				
+				<hr />
+				<compare>
+					<james>(Video transcript is on the left)</james>
+					<from>(Fact-checking commentary or found plagiarized content is on the right for comparison)</from>
+					<cite>APA-style citations are inserted here.</cite>
+				</compare>
+				<hr />
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				
 				{{ content }}
 			</div>
 		</div>

@@ -14,6 +14,9 @@ compare {
 	row-gap: 4px;
 	margin-block: 1em;
 }
+.video-list .video-card {
+	margin-inline: auto;
+}
 
 compare james, 
 compare clip, 

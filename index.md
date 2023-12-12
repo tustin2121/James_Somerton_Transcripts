@@ -1,4 +1,5 @@
 ---
+layout: vidindex
 ---
 # James Somerton Transcripts
 
@@ -21,54 +22,18 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
 # Transcript Index
 
 Statuses: 
-- <span color="red">Incomplete</span> = Transcript is incomplete
-- Script = Transcript is raw transcript data uploaded from a script, not yet properly formatted
-- Auto = Transcript is raw auto-transcript, not yet properly formatted
-- <span color="red">Missing</span> = Transcript is missing though video archive exists
-- In Progress = Transcript has some work done
-- <span color="cyan">Finished</span> = Transcript is complete, attributions needed.
-- <span color="gree">Complete</span> = Transcript has been fully reviewed and things attributed
+- <span class="status alert">Missing</span> = Transcript is missing though video archive exists
+- <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
+- <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
+- <span class="status">In Progress</span> = Transcript has some work done
+- <span class="status ready">Finished</span> = Transcript is complete, attributions needed.
+- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things attributed
 
 James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
 
 <div class="video-list">
 {% for video in site.videos %}
-<div class="video-card">
-	<div class="title"><a href="{{ video.url }}">{{ video.title }}</a>{{ video.notes }}</div>
-	<div class="date">{{ video.date | date_to_string }}</div>
-	{%- if video.aka -%}
-		<div class="aka">
-			{%- for aka in video.aka -%}
-				<p>{{ aka }}</p>
-			{%- endfor -%}
-		</div>
-	{%- endif -%}
-	{%- if video.topics -%}
-		<div class="topics">
-			{%- for topic in video.topics -%}
-				<p>{{ topic }}</p>
-			{%- endfor -%}
-		</div>
-	{%- endif -%}
-	{%- case video.status -%}
-		{%- when "Incomplete", "Missing" -%}
-			<div class="status alert">{{ video.status }}</div>
-		{%- when "Finished" -%}
-			<div class="status ready">{{ video.status }}</div>
-		{%- when "Complete" -%}
-			<div class="status complete">{{ video.status }}</div>
-		{%- else -%}
-			<div class="status">{{ video.status }}</div>
-	{%- endcase -%}
-	<div class="vidlinks">
-		{%- for link in video.links -%}
-			<a href="{{ link }}">V{{ forloop.index }}</a>{% unless forloop.last %} | {% endunless -%}
-		{%- endfor -%}
-	</div>
-	{%- if video.cite.plagiarized && video.cite.plagiarized.length > 0 -%}
-		<div class="plagiarized">{{ video.cite.plagiarized.length }}</div>
-	{%- endif -%}
-</div>
+{%- include video-card.html video=video -%}
 {% endfor %}
 </div>
 
