@@ -58,7 +58,8 @@ cite:
   clips: !!map
   plagiarized: !!map
 ---
-notes: [^hbomb-min]
+notes:
+  - hbomb
 {% endcomment %}
 
 [^vimeo]: This video was exclusive to Vimeo for age-gating reasons.

@@ -1,6 +1,10 @@
 {% comment %} Expected: video parameter {% endcomment %}
 <div class="video-card">
-	<div class="title"><a href="{{ include.video.url }}">{{ include.video.title }}</a>{{ include.video.notes }}</div>
+	<div class="title">
+		<a href="{{ include.video.url }}">{{ include.video.title }}</a>
+		{% comment %} {{ include.video.notes }} {% endcomment %}
+		{%- include notes.html notes=include.video.notes -%}
+	</div>
 	<div class="date">{{ include.video.date | date_to_string }}</div>
 	{%- if include.video.aka -%}
 		<div class="aka">

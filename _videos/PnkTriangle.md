@@ -7,7 +7,9 @@ aka: !!seq
 topics: !!seq
 links: !!seq
 description: "a video essay on <xyz>."
-notes: "[^vimeo][^hbomb-min]"
+notes: 
+  - hbomb
+  - vimeo
 
 cite:
   clips: !!map

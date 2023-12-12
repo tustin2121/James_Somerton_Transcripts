@@ -11,7 +11,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4"
 description: "a video essay on how to do good representation of queer people in media."
-notes: [^short-advert]
+notes:
+  - short-advert
 
 contributors:
   trascription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"

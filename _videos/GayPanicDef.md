@@ -1,5 +1,5 @@
 ---
-date: 2023-11-23
+date: 2018-05-29
 title: The History of Gay Panic
 status: Missing
 aka: !!seq
@@ -11,7 +11,9 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
-notes: "[^hbomb-min][^vimeo]"
+notes: 
+  - hbomb
+  - vimeo
 
 cite:
   clips: !!map

@@ -9,7 +9,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
 description: "a video essay on <xyz>."
-notes: "[^hbomb][^hbomb-min]"
+notes: 
+  - hbomb
 
 cite:
   clips: !!map

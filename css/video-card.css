@@ -55,3 +55,9 @@
 	padding-left: 1em;
     text-indent: -1em;
 }
+.video-card .title a:first-child {
+    margin-inline-end: 5px;
+}
+.video-card .note {
+    margin-inline: 4px;
+}

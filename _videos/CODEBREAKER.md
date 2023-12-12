@@ -10,7 +10,8 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
 description: "a video essay on <xyz>."
-notes: [^hbomb-min]
+notes:
+  - hbomb
 
 cite:
   clips: !!map

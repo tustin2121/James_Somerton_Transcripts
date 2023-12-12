@@ -1,8 +1,9 @@
 ---
 date: 2018-06-30
-title: Harry Potter and The Closet Under The Stairs - Queer themes in Harry Potter (Video essay)
+title: Harry Potter and The Closet Under The Stairs #- Queer themes in Harry Potter (Video essay)
 status: Auto
 aka: !!seq
+  - "Queer themes in Harry Potter (Video essay)" # for ui length
 topics: !!seq
   - "Harry Potter"
 links: !!seq
