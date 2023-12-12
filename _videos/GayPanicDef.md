@@ -11,7 +11,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
-notes: [^hbomb-min][^vimeo]
+notes: "[^hbomb-min][^vimeo]"
 
 cite:
   clips: !!map

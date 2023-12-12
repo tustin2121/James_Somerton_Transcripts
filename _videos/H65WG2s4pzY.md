@@ -1,6 +1,6 @@
 ---
 date: 2014-05-22
-title: !!str "Geek Review: X-men "Days of Future Past""
+title: 'Geek Review: X-men "Days of Future Past"'
 status: Missing
 aka: !!seq
 topics: !!seq

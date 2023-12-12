@@ -1,6 +1,6 @@
 ---
 date: 2013-11-24
-title: "Geek Theory - Episode #2 "The DC Cinematic Black Hole""
+title: 'Geek Theory - Episode #2 "The DC Cinematic Black Hole"'
 status: Auto
 aka: !!seq
 topics: !!seq

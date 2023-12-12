@@ -1,10 +1,10 @@
 ---
 date: 2023-01-01
-title: !!str "Attack on Titan" and the Death of Media Literacy
+title: '"Attack on Titan" and the Death of Media Literacy'
 status: Auto
 aka: !!seq
   - "The Important Non-Meaning of Attack on Titan"
-  - !!str "Attack on Titan" and the End of Media Literacy
+  - '"Attack on Titan" and the End of Media Literacy'
   - "Beyond The Wall (Thumbnail)"
 topics: !!seq
   - "Attack on Titan"
@@ -12,7 +12,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
-notes: [^hbomb-min]
+notes: "[^hbomb-min]"
 
 cite:
   clips: !!map

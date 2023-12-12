@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
-notes: [^odd-linebreaks][^hbomb-min]
+notes: "[^odd-linebreaks][^hbomb-min]"
 
 cite:
   clips: !!map

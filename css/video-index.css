@@ -1,0 +1,62 @@
+.content > * {
+	margin-inline: auto !important;
+	width: fit-content;
+}
+.markdown-body blockquote {
+	max-width: 46rem;
+}
+
+.video-list .video-card {
+	max-width: 1000px;
+	background-color: var(--color-canvas-subtle);
+	margin: 6px;
+	padding: 2px 8px;
+	display: grid;
+	box-shadow: 3px 3px 4px 0px black;
+	grid: auto-flow / auto 1fr auto auto;
+	grid-template-areas:
+		"date  title title links"
+		"stat  aka   topic topic"
+		"plag  aka   topic topic";
+}
+.video-list .video-card > div {
+	padding: 2px 6px;
+}
+.video-list .video-card > .title {
+	grid-area: title;
+}
+.video-list .video-card > .vidlinks {
+	grid-area: links;
+}
+.video-list .video-card > .date {
+	grid-area: date;
+	font-family: monospace;
+	font-size: small;
+	align-self: center;
+}
+.video-list .video-card > .status {
+	grid-area: stat;
+	text-align: center;
+}
+.video-list .video-card > .status.alert { color: var(--color-danger-fg); }
+.video-list .video-card > .status.ready { color: var(--color-prettylights-syntax-markup-list); }
+.video-list .video-card > .status.complete { color: var(--color-prettylights-syntax-entity-tag); }
+.video-list .video-card > .aka {
+	grid-area: aka;
+	color: grey;
+	font-size: smaller;
+}
+.video-list .video-card > .plagiarized {
+	grid-area: plag;
+	background-color: purple;
+}
+.video-list .video-card > .topics {
+	grid-area: topic;
+	color: var(--color-prettylights-syntax-variable);
+    font-size: smaller;
+    text-align: right;
+}
+.video-list .video-card > .aka p,
+.video-list .video-card > .topics p {
+	margin: 0;
+}
