@@ -1,6 +1,6 @@
 ---
 date: 2023-10-29
-title: The Gay Horror Manga You Should Be Reading[^hikaru]
+title: The Gay Horror Manga You Should Be Reading
 status: Script
 aka: !!seq
   - "Monsters will be Boys (Thumbnail)"

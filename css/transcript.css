@@ -14,8 +14,10 @@ compare {
 	row-gap: 4px;
 	margin-block: 1em;
 }
-.video-list .video-card {
+.video-list {
 	margin-inline: auto;
+	width: fit-content;
+	min-width: 70%;
 }
 
 compare james, 
