@@ -3,6 +3,7 @@ date: 2022-10-09
 title: Queer Representation in Modern Horror
 status: Auto
 aka: !!seq
+  - "The Queerness of Modern Horror Cinema"
   - "Fear The Queer (Thumbnail)"
 topics: !!seq
 links: !!seq

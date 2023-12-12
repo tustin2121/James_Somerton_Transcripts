@@ -3,9 +3,10 @@ date: 2022-04-17
 title: The Secret Crimes of a Dying Franchise
 status: Script
 aka: !!seq
-  - "Let Is Die (Thumbnail)"
+  - "Let It Die (Thumbnail)"
 topics: !!seq
-  - "<media>"
+  - "The Secrets of Dumbledore"
+  - "The Crimes of Grindlewald"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."

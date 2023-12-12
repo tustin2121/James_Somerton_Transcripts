@@ -7,6 +7,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+notes:
+  - podcast
 
 cite:
   clips: !!map

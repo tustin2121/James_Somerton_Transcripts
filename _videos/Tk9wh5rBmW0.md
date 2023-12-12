@@ -3,17 +3,39 @@ date: 2022-06-14
 title: The Queer Sensibilities of Cinema
 status: Auto
 aka: !!seq
+  - "How The Gays Stole Cinema"
+  - "The Mainstreaming of Camp"
+  - "The Beauty of Camp"
   - "Camp (Thumbnail)"
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
+notes:
+  - multipart
+  - behind-scenes
 
 cite:
   clips: !!map
   plagiarized: !!map
 ---
+
+# Transcript of "How The Gays Stole Cinema"
+
+
+# Transcript of "The Mainstreaming of Camp"
+
+
+# Transcript of the extra chapters
+These include sections on:
+- The Adventures of Priscilla, Queen of the Desert
+- To Wong, Foo, Thanks for Everything, Julia Newmar
+- But I'm a Cheerleader
+
+
+
+
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description i would like

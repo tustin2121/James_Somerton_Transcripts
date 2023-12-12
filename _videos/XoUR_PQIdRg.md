@@ -3,8 +3,10 @@ date: 2022-04-10
 title: The Brilliance of Our Flag Means Death
 status: Script
 aka: !!seq
+  - "Coming Out In A Culture Of Lies"
   - "Our Closets Mean Death (Thumbnail)"
 topics: !!seq
+  - "Our Flag Means Death"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."

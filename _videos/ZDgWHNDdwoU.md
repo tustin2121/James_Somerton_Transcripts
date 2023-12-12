@@ -13,6 +13,7 @@ links: !!seq
 description: "a video essay on <xyz>."
 notes: 
   - hbomb
+  - commentary
 
 cite:
   clips: !!map

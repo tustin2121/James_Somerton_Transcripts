@@ -3,6 +3,7 @@ date: 2022-02-25
 title: How Wanda Became An Accidental Gay Icon
 status: Script
 aka: !!seq
+  - "The Scarlet Witch and Shared Queer Trauma"
   - "Why Gays Stan Wanda (Thumbnail)"
 topics: !!seq
   - "Wandavision"

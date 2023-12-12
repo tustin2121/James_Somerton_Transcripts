@@ -3,6 +3,7 @@ date: 2022-02-10
 title: SHIPPING - The Good, The Bad, and the Thirsty
 status: Script
 aka: !!seq
+  - "Shipping: A Nuanced Argument"
   - "NOW KISS (Thumbnail)"
 topics: !!seq
 links: !!seq

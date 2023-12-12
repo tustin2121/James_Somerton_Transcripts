@@ -3,6 +3,7 @@ date: 2023-09-14
 title: The Campy Queer Sensibilities of Barbie
 status: Auto
 aka: !!seq
+  - The Campy Depth of Barbie
   - "Deep Pink (Thumbnail)"
 topics: !!seq
 links: !!seq

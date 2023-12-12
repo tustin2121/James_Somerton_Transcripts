@@ -9,7 +9,9 @@ aka: !!seq
   - "Where The 'Bury Your Gays' Trope Came From"
   - "When Hollywood Came Out of the Closet"
   - "America v. Homosexuality"
+  - "The Birth of Gay Hollywood (Thumbnail)"
   - "The Queer History of Hollywood (Thumbnail)"
+  - "The Lavender Menace (Thumbnail)"
   - "Opening Hollywood's Closet (Thumbnail)"
   - "Dying to be Gay (Thumbnail)"
 topics: !!seq

@@ -3,7 +3,7 @@ date: 2022-03-05
 title: Disney's Silence on Gay Youth
 status: Script
 aka: !!seq
-  - "Silence of the Mouse"
+  - "The Silence of the Mouse"
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"

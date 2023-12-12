@@ -1,3 +1,48 @@
+---
+date: 2018-10-22
+title: Monsters in the Closet - A History of LGBT Representation in Horror Cinema (Video essay)
+status: Auto
+aka: !!seq
+  - "title"
+topics: !!seq
+  - "<media>"
+links: !!seq
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records"
+  - "https://archive.org/details/james-somerton-videos-backup"
+description: "a video essay on <xyz>."
+notes:
+  - hbomb
+  - multipart
+  - commentary
+
+cite:
+  clips: !!map
+  plagiarized: !!map
+---
+
+# Transcript of "Monsters in the Closet: The Modern Ganymede"
+Originally released between 2017-07-01 and 2018-05-28
+
+# Transcript of "Monsters in the Closet: America's New Nightmare"
+Originally released 2018-05-28
+
+# Transcript of "Monsters in the Closet: Killer Queens"
+Originally released 2018-06-09
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 you're sitting in a PAC theater the lights go down and you can hear a whisper of
 anticipation ripple through the crowd but then it goes silent before the movie
 even begins you're already on edge or maybe you're sitting alone at night in bed

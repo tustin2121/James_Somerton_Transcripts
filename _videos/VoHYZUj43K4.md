@@ -5,6 +5,7 @@ status: Auto
 aka: !!seq
   - "The Important Non-Meaning of Attack on Titan"
   - '"Attack on Titan" and the End of Media Literacy'
+  - "You're Wrong About Attack On Titan (Thumbnail)"
   - "Beyond The Wall (Thumbnail)"
 topics: !!seq
   - "Attack on Titan"

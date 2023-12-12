@@ -3,6 +3,7 @@ date: 2020-08-30
 title: Making It Big：The History of Gay Adult Film (Documentary)
 status: Auto
 aka: !!seq
+  - "Making It Big：The History of Gay Adult Cinema"
 topics: !!seq
   - "Gay Porn"
 links: !!seq

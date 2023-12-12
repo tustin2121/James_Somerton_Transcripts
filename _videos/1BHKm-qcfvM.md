@@ -3,7 +3,9 @@ date: 2022-12-01
 title: The Gay Body Image Crisis
 status: Auto
 aka: !!seq
+  - "How Fascism Created The Gay Body Image Crisis"
 topics: !!seq
+  - Nazis
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"

@@ -3,6 +3,8 @@ date: 2023-04-07
 title: Sex, Violence, Showgirls, and The American Way
 status: Auto
 aka: !!seq
+  - 'Good "Bad" Media and the Death of Satire'
+  - "Culture and the death of Satire (Thumbnail)"
   - "Sex & Satire"
 topics: !!seq
 links: !!seq

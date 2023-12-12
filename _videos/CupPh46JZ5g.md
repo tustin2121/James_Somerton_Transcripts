@@ -3,11 +3,13 @@ date: 2023-06-27
 title: Broadway, Living, and Gay Hope
 status: Auto
 aka: !!seq
+  - Why Straight Creators Fail Queer Stories
   - Broadway, AIDS, and Gay Suffering
+  - "Best Intentions (Thumbnail)"
   - "Angels Don't Pay Rent In America (Thumbnail)"
 topics: !!seq
-  - "Angels in America"
   - "RENT"
+  - "Angels in America"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."

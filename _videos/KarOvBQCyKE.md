@@ -3,6 +3,7 @@ date: 2023-04-29
 title: How Spoilers Are Ruining Everything
 status: Auto
 aka: !!seq
+  - "How To Stop Caring And Learn To Love Spoilers"
   - "Spoiled Culture (Thumbnail)"
 topics: !!seq
   - "The Last of Us"

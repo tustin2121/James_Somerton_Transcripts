@@ -3,7 +3,10 @@ date: 2023-01-24
 title: The Queer Joy of Everything Everywhere All At Once
 status: Auto
 aka: !!seq
+  - "The Wonderful Queer Villainy of 'Everything Everywhere All At Once' (Working Title)"
+  - "The Queer Nihilism of Joy"
 topics: !!seq
+  - Everything Everywhere All At Once
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."

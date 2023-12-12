@@ -3,14 +3,23 @@ date: 2022-07-16
 title: Nostalgia, and Remembering The Bad Times
 status: Auto
 aka: !!seq
-  - "The Dark Times of Nostalgia (Thumbnail"
+  - "The Strange Dangers of Nostalgia"
+  - "Nostalgia Danger (Thumbnail)"
+  - "The Dark Times of Nostalgia (Thumbnail)"
 topics: !!seq
-  - "<media>"
+  - Stranger Things
+  - Star Wars
+  - Downtown Abbey
+  - Austin Powers
+  - Grease
+  - Ayn Rand
+  - The Sound of Music
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
 notes:
   - hbomb
+  - commentary
 
 cite:
   clips: !!map

@@ -4,6 +4,7 @@ title: Neil Gaiman & Queering Fantasy
 status: Finished
 aka: !!seq
   - "Sandman and Queering the Fantastical"
+  - 'The Fantastical Queerness of "The Sandman" and "Good Omens" (Working title)'
   - "Neil Gaiman - A straight author with amazing queer characters (Short)"
 topics: !!seq
   - "Sandman"

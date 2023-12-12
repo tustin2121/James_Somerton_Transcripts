@@ -3,10 +3,13 @@ date: 2023-10-07
 title: The Real Revolution of Utena
 status: Auto
 aka: !!seq
+  - "The Sapphic Beauty of Warrior Women (Working Title)"
   - "The Magic Realism of Revolutionary Girl Utena (Short)"
   - "Religion and Anime! (Short)"
 topics: !!seq
-  - "Utena"
+  - Revolutionary Girl Utena
+  - Sailor Moon
+  - Xena
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"

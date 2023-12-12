@@ -4,6 +4,7 @@ title: The Dangers of Blissful Ignorance
 status: Script
 aka: !!seq
   - The Str8 to Fascist Pipeline #| James Somerton
+  - The Subtle Art of Fascist Pageantry
   - "The Song & Dance of Fascism (Thumbnail)"
 topics: !!seq
   - "Cabaret"
