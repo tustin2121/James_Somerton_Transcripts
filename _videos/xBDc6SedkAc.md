@@ -183,7 +183,7 @@ Henry: *[shy]* He is.
 </compare>
 
 <compare>
-<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
+<cite>{{ site.yt.todd_factcheck }} (18:35)</cite>
 <james>
 
 And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
@@ -206,7 +206,7 @@ Todd could not find anything but a negative review on the BBC, which just though
 </compare>
 
 <compare>
-<cite>{{ page.yt.todd_factcheck }} (22:55)</cite>
+<cite>{{ site.yt.todd_factcheck }} (22:55)</cite>
 <james>
 
 The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
@@ -228,7 +228,7 @@ Both articles cited exactly [one tweet](https://twitter.com/HunterPippinPHL/stat
 </compare>
 
 <compare>
-<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
+<cite></cite>
 <james>
 
 There's a strong undercurrent of hypocrisy here, particularly as queer folk of... literally every shade of the rainbow are accused of corrupting the youth. Never mind that it was perfectly acceptable for virtually every American Teen Movie to focus with laser precision on rooting for teenagers to bone each other. The *American Pie* franchise owes its whole success to this. For which audiences agree that the heterosexual events in American Pie are... normal.
@@ -243,16 +243,16 @@ But when it's gay, it's sexualization, echoing a sentiment quietly expressed in 
 <cite></cite>
 <james>
 
-And I will note just in case YouTube makes me cut the footage of *said scene*, the main sex scene in *Red White and Royal Blue* entirely focuses on faces. It's all about the emotional intimacy between two people and less about the raw sex, which isn't even *raw*, by the way, because they make a point of using a condom. Which a lot of gay viewers laughed at because we're in the age of prep. But two things: one) Prince Henry probably couldn't go on prep without it causing a scandal, and two) there are STDs other than HIV, guys. This is why syphilis is resurging and why we're getting antibiotic resistant strains of Gonorrhea now. Wrap 👏 it 👏 up! 👏 In any case...
+And I will note just in case YouTube makes me cut the footage of *said scene*, the main sex scene in *Red, White, and Royal Blue* entirely focuses on faces. It's all about the emotional intimacy between two people and less about the raw sex, which isn't even *raw*, by the way, because they make a point of using a condom. Which a lot of gay viewers laughed at because we're in the age of prep. But two things: one) Prince Henry probably couldn't go on prep without it causing a scandal, and two) there are STDs other than HIV, guys. This is why syphilis is resurging and why we're getting antibiotic resistant strains of Gonorrhea now. Wrap 👏 it 👏 up! 👏 In any case...
 
-According to what I've gathered, the majority of viewers who were... *offended* were hetrosexual women who were *apparently* exposed to gay content for the first time in their *lives* via Heartstopper. Wwhich huge props to Heartstopper, by the way, for opening people's minds to the concept that boy kissing is all right. But when that's their *only* exposure, I can understand how "legs-up anal penetration" may leave them surprised. 
+According to what I've gathered, the majority of viewers who were... *offended* were hetrosexual women who were *apparently* exposed to gay content for the first time in their *lives* via *Heartstopper*. Which huge props to *Heartstopper*, by the way, for opening people's minds to the concept that boy kissing is all right. But when that's their *only* exposure, I can understand how "legs-up anal penetration" may leave them surprised. 
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<cite>{{ page.yt.todd_factcheck }} (18:35)</cite>
+<cite>{{ site.yt.todd_factcheck }} (18:35)</cite>
 <james>
 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
@@ -372,11 +372,11 @@ Out of context, I found this reaction a little bit cringy and, truthfully, the o
 <from></from>
 </compare>
 
-Visual on screen: \[Disclaimer]
-
 <compare>
 <cite></cite>
 <james>
+
+Visual on screen: \[Disclaimer]
 
 To be clear, gay people do not want to see these characters having sex. But gay people *do* want to know that gay sexuality is allowed to exist. Media that divorces sexuality from identity is to some annoying at best and triggering at worst. 
 
@@ -508,7 +508,7 @@ Now there's nothing wrong with depicting gay people not having sex. If we want o
 <cite></cite>
 <james>
 
-Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. T hose who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
+Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
 it's great! It's good. It's fine.
 
 Given society's push to present sex as pleasurable, many start by trying it out and then spend... maybe even years trying to figure out why it's not working for them. Keep in mind that "asexual" doesn't always mean "no sex drive". Ace, like everything else in sexuality, is not only a spectrum but a matrix. This is pertinent as *Heartstopper*'s author, Alice Oseman, self-identifies as asexual themself. Which likely means that as per the Stan Lee rule of "write the stuff you wish you could read", they want romantic drama that *isn't* just focused around sex. And that should be that. It should be abundantly okay for this kind of media to exist, just as it should be abundantly okay for *Young Royals* and *Elite* to exist!

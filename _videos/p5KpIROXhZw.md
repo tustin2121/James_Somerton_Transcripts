@@ -525,7 +525,7 @@ And this is part of the consequences of being part of a community that has been 
 </compare>
 
 <compare>
-<cite>{{ page.yt.hbomb_factcheck }} (2:46:18)</cite>
+<cite>{{ site.yt.hbomb_factcheck }} (2:46:18)</cite>
 <james>
 
 Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
