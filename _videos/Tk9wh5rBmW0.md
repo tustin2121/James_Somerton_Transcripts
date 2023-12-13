@@ -16,6 +16,11 @@ notes:
   - multipart
   - behind-scenes
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/uGrand_Pineapple_4223](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2vdhh)"
+
 cite:
   clips: !!map
   plagiarized: !!map

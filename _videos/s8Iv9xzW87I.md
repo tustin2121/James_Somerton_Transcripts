@@ -13,6 +13,11 @@ description: "a video essay on <xyz>."
 notes:
   - hbomb
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/francistimestwo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcaaf2k)"
+
 cite:
   clips: !!map
   plagiarized: !!map

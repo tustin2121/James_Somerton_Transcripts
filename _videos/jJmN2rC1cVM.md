@@ -10,6 +10,12 @@ description: "a video essay on <xyz>."
 notes:
   - hbomb
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[Mick Abrahamson](https://twitter.com/DaNanoBiologist/status/1731357701127405861)"
+    - "[/u/vakama95](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2z5rx)"
+
 cite:
   clips: !!map
   plagiarized: !!map

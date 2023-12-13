@@ -10,6 +10,12 @@ links: !!seq
   - "https://www.youtube.com/watch?v=J2t3ibyMNVg"
 description: "a video essay on <xyz>."
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
+
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -900,3 +906,16 @@ actually goes to doing something to help instead
 of just feeding donations to hateful politicians 
 
 who will give you your goddamn tax breaks. Do something. Do something.
+
+----------------
+
+{% comment %}
+
+Plagiarism, more James Somerton specifically Disney's Silence On Gay Youth
+From 7:26 - 10:03 He is plagiarizing from this Hollywood Reporter article. https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/
+From 12:34- 15:18 He reads from this NPR article, if the source literally didn't say "Perez told NPR" I'm not convinced he would have mentioned what the source for the quote was. https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas#:~:text=Greg%20Abbott%20doubled%20down%20with,those%20who%20don't%20report.
+From 15:25-16:16 He reads from an MSNBC article https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-students-stage-school-walkouts-dont-say-gay-bill-rcna18600
+From 16:17-17:04 Back to plagiarizing the Hollywood Reporter article linked above.
+From 17:08-20:00: He copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article. https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/
+
+%{ endcomment %}

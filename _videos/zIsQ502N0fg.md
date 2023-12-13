@@ -10,6 +10,13 @@ description: "a video essay on <xyz>."
 notes:
   - hbomb
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/glitter408](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvpdib)"
+    - "[/u/theogays](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2whl0)"
+    - "[/u/Drew_Espinosa](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcp6olj)"
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -1251,3 +1258,41 @@ we were still there. And when this anti-queer Chinese government
 
 sees its last days, we will still be there. We’ve always been here. We’re always
 going to be here. Remember that.
+
+
+-----
+
+{% comment %}
+
+Last night, I clicked a random part of that video and googled what he was saying
+
+16:58- 17:45 is from this vice article "Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love" by Viola Zhou and Koh Ewe
+
+----
+
+Todd In The Shadows, in his debunking-Somerton video, did do the research for both of these. The first one seems to be a real thing:
+
+- Chinese movie studios committing ticket fraud to beat each other's records or the records of western studios, by buying up tickets themselves: https://www.indiewire.com/features/general/china-box-office-fraud-mpaa-phony-ticket-sales-film-industry-1201847763/
+
+- The Chinese government doing the same thing (buying tickets for nobody) for a specific propaganda film : https://www.hollywoodreporter.com/news/general-news/china-film-execs-claim-terminator-820874/
+
+But it was never a case of just reporting whatever ticket sales they wanted as Somerton claimed, nor does it seem to have been a case of giving you a ticket to one movie while ringing up a ticket to a different movie. The ticket sales numbers were inflated because somebody spent money to buy a fresh ticket for an empty seat. And the reason people could tell something was wonky was because there is a LOT of publically available data on ticket sales per theater, number of screenings per theater, etc.
+
+The second one is also discussed by Todd and turns out to be pretty wrong. It's easy to look up the actual trade agreement from 2012 that governs ticket sale revenue sharing: https://www.state.gov/12-425
+
+As Todd explains by citing a book (https://www.amazon.com/Red-Carpet-Hollywood-Cultural-Supremacy-ebook/dp/B0943FL2PY) the share used to be 13%. So it's gone UP, not down. There doesn't seem to be any reason to think this is renegotiated multiple times a year as Somerton claims.
+
+----
+
+People in the comments have already pointed out the Vice article that was plagiarized, but what's also immediately obvious is that somerton has no idea what footage he's using. Most of this is nitpicky but hey, my encyclopedic knowledge of BL dramas has to come in handy someday right?
+
+At 16:47 he talks about non-Japanese fans (specifically Chinese fans) finally getting to read translated Japanese BL novels... but all the clips he shows are from Thai BL dramas based on Thai BL novels? He doesn't even mention Thailand until the 30 minute mark.
+
+Still at 16:47 - It's pretty obvious that the Thai BL clips he used were stolen from an AMV somewhere, and I'll link it when I find it, but if you need proof... At 17:02 there's a millisecond of the original KinnPorsche filmania trailer. That nine-minute trailer was made before the show switched production companies and at the time of Somerton's video, that trailer had been deleted from YouTube. The full trailer is pretty difficult to find... but clips of it are everywhere because AMV makers went absolutely bananas when that trailer dropped. There were AMVs with more views than the trailer itself at the time. Though the trailer was deleted, these AMVs live on. The quality of the KinnPorsche clip is abysmal compared to the others in the compilation so it wasn't downloaded before the trailer was deleted — it was stolen from an AMV.
+
+At 35:41 he talks about Thai and Taiwanese BLs, but shows a clip from My Sweet Dear, which is a Korean BL drama.
+
+At 35:53 he says that Taiwan and Thailand are the biggest producers of BL, but at the time of that video, the Philippines was making over 50 BL shows a year (compared to only 14 Taiwanese in 2021). I think even Korea had overtaken Taiwan in sheer volume at that point but I'd have to double check the numbers on MyDramaList.
+
+
+{% endcomment %}

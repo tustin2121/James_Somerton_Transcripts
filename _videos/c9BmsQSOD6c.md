@@ -21,6 +21,11 @@ notes:
   - hbomb
   - commentary
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[Todd in the Shadows](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc12hss) (also [here](https://twitter.com/shadowtodd/status/1731823192820560368))"
+
 cite:
   clips: !!map
   plagiarized: !!map

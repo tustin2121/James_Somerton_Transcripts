@@ -11,6 +11,13 @@ description: "a video essay on <xyz>."
 notes:
   - hbomb
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/fairguinevere](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxm4lg)"
+    - "[/u/catie_cat_3183](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbzhm8u)"
+    - "[/u/maddrgnqueen](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbx03xz)"
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -637,3 +644,16 @@ some gay gay it's going to be [Music] [Applause] [Music] [Applause] oh [Music] a
 [Music] [Applause] [Music] [Applause] [Music] [Applause] a [Music] [Applause]
 [Music] [Applause] [Music] [Applause] [Music] [Applause] yeah [Music] [Applause]
 [Music] [Applause] [Music]
+
+-----
+
+{% comment %}
+I genuinely don't know how possible it is to catch this man's plagarism in its entirety — I skipped to a random time in his vampire video, and came across a sentence lifted wholesale from a 2017 PHD thesis.
+
+https://youtu.be/6rHOEWFBDg0?si=vKpglzFxkpX40Vsl&t=1476
+
+https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses
+
+> The female vampire is the ultimate predator and challenger of the patriarchal system because of her desirability, her threat to penetrate her male victims, and her threat to eat her children. But Carmilla works differently than the female vampires of Dracula. Carmilla does not desire men. When the vampire is a lesbian, she becomes “the destroyer of other women and undermines heteronormative masculine power” (Hobson 11). Carmilla performs this function by corrupting the bonds of friendship she forms with the protagonist Laura.
+
+{% endcomment %}

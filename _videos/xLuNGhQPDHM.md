@@ -1,8 +1,9 @@
 ---
 date: 2021-05-12
-title: An Over-Emotional Look at Why JK Rowling is Bad
+title: An Overly-Emotional Look at Why JK Rowling is Bad
 status: Script
 aka: !!seq
+  - An Overemotional Look at Why JK Rowling is Bad
   - "Confession of a Harry Potter Fan Boy (Thumbnail)"
 topics: !!seq
   - "Harry Potter"
@@ -12,6 +13,12 @@ description: "a video essay on <xyz>."
 notes: 
   - odd-linebreaks
   - hbomb
+
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
+    - "[Katelyn Burns](https://twitter.com/transscribe/status/1731395381584400417)"
 
 cite:
   clips: !!map

@@ -11,6 +11,13 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbx67oj)"
+    - "[/u/Acrobatic-Builder-60 & /u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbwy0g5)"
+    - "[/u/seanathon223](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2mz1j)"
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -1491,3 +1498,64 @@ isn’t being queer the right way. We’re all
 on the same boat, and we sink or sail 
 
 together. And I think it’s better if we sail. Under as many flags as we damn well please.
+
+
+
+
+------
+
+{% comment %}
+
+20:17 - "Coming out isn’t like flicking a switch or moving to a new city..."
+
+This whole passage is from https://www.gq.com/story/how-to-come-out-later-in-life
+
+22:37 - "Outing yourself late in life can be complicated after having lived through times when being openly gay could get you fired, arrested, put in an institution or given shock treatment. "
+
+This line is lifted from https://www.salon.com/2010/03/15/us_gay_seniors/
+
+22:52 - " It's snarled in a lifetime of trudging along through society's views of normalcy and the resulting fear of being ostracized..."
+
+This is the very next line, which is lifted from https://www.cbsnews.com/news/coming-out-of-the-closet-in-retirement/
+
+27:24 - "In the early 1990s a study was conducted by doctors at UCLA..."
+
+He doesn't cite this study because obviously he doesn't cite anything ever. I did find the study and found that this section is basically just lifted from it. The study is Cole, S. W., Kemeny, M. E., Taylor, S. E., & Visscher, B. R. (1996). Elevated physical health risk among gay men who conceal their homosexual identity. Health Psychology, 15(4), 243–251. Which you can find here https://cancer-network.org/wp-content/uploads/2017/02/Elevated_Physical_Health_Risk_Among_Gay_Men_Who_Conceal.pdf
+
+31:27 - the entire Oscar Wilde tangent
+
+This whole thing is directly lifted from the work of historian Douglas O. Linder http://law2.umkc.edu/faculty/projects/ftrials/wilde/wildeaccount.html
+
+Will edit this comment and add to it as I find more
+
+EDIT 2: I'm now looking at Somerton's vid "Heartstopper and Queer Optimism" which was also not marked by hbomb as having found plagiarism.
+
+I found the plagiarism!!
+
+12:08 - "At a public hearing in Dade County, Florida, parents were enraged..."
+
+This entire section is ripped from an NBC article by Jillian Eugenios https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215
+
+-----------
+
+Here is some plagiarized content I just found looking through James Somerton's video on Our Flag Means Death: "The Brilliance of Our Flag Means Death". In part three of the video he steals writing from at least two existing articles I found through a pretty quick google search (this was not as thorough as it could have been and there may be more stolen content in this video, I just don't have that much time to spend on this right now).
+
+1.) He directly steals the beginning of Nick Levine's article "Coming Out Later in Life: A How-To Guide" at 20:16. (Ironically in the very next line of Levine's article he mentions that Love Simon is a good piece of gay representation in mainstream culture lol).
+
+https://www.gq.com/story/how-to-come-out-later-in-life
+
+
+
+2.) He also directly steals a section of Matt Sedensky's article "Gay seniors come out late, start second lifetime" at 22:40.
+
+https://www.seattletimes.com/nation-world/gay-seniors-come-out-late-start-second-lifetime/
+
+
+
+My theory on this video is that most of it was written by Nick Herrgott and the small section James did write (probably section three) had portions taken from a bunch of articles he found and stitched together without much thought. There's also this weird moment at the beginning of section 3 where he mentions finding a book about queer discovery being an issue in marriages that he found during his "research", but then decided not to use because of it's biphobia. I don't know if this is a part of the plagiarism, but what is he talking about here? Why did he mention that source if he ended up not using it? And also why not mention what the source is if it is biphobic? Is he just throwing in little stories about his "research" on his video to prove that he really does put effort into his content? Anyways, there are some very weird details in this video that leads me to think there is more plagiarism maybe? But at the very least these two pieces are definitely stolen, clear as day.
+
+
+
+
+
+{% endcomment %}

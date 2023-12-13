@@ -10,6 +10,12 @@ links: !!seq
   - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
 description: "a video essay on <xyz>."
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
+    - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -1729,3 +1735,15 @@ And if the law does not reflect what 
 we need, maybe it’s even essential. So be gay. Do crime. And have 
 
 a good time while you do it.
+
+
+
+
+
+------
+
+{% comment %}
+
+29:47-32:08 of The Necessity of Gay Crime (one of the videos where no plagiarism was found) is plagiarized from this article by Bridget Keown. Catch 30:51, where Somerton uses an awkward cut to skip mentioning that both the figures being discussed are "Black and poor"
+
+{% endcomment %}

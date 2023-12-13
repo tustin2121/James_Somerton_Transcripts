@@ -15,6 +15,10 @@ notes:
   - hbomb
   - commentary
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[@kermitlesbian / Radhika Mohan](https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha)"
 cite:
   clips: !!map
   plagiarized: !!map
@@ -1592,3 +1596,13 @@ strength there. Because sometimes, after everything and everyone
 
 has been stripped from us, sometimes being queer means being the last one
 standing.
+
+
+-----
+
+{% comment %}
+
+Maybe someone else has already posted this, but another youtuber, Radhika Mohan, accused Somerton in 2022 of plagiarising from her video "why do we root for destructive love?" (since renamed to "Destructive Love: Parallels between Hannibal and Killing Eve" and her channel is now named Radha) in his video "the gay appeal of toxic love" though when I looked for this video on youtube it seems to have been taken down ( https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha?source=share ) and has said she's now got a career in tv writing and linked her kofi for ppl to compensate her for the theft of her content. Really sucks to steal from someone actually pursuing a career as a writer when he could have boosted her video instead and potentially helped her get more exposure when she was starting out.
+
+
+{% endcomment %}

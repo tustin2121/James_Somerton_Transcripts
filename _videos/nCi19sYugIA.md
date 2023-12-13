@@ -8,6 +8,13 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[Be Kind Rewind](https://twitter.com/bkrewind/status/1731341792254075259)"
+
+
+
 cite:
   clips: !!map
   plagiarized: !!map

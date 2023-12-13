@@ -9,6 +9,12 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on <xyz>."
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[@vaspider](https://www.tumblr.com/vaspider/725020819984629760/honestly-yes-and-thats-part-of-the-reason-im)"
+    - "[/u/badwolf_910](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvq8br)"
+
 cite:
   clips: !!map
   plagiarized: !!map
