@@ -1,7 +1,7 @@
 ---
 date: 2023-10-07
 title: The Real Revolution of Utena
-status: Auto
+status: In Progress
 aka: !!seq
   - "The Sapphic Beauty of Warrior Women (Working Title)"
   - "The Magic Realism of Revolutionary Girl Utena (Short)"
@@ -18,169 +18,207 @@ notes:
   - short-advert
   - unreleased
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  formatting: Tustin2121
+  #factcheck: "[deus-and-the-machina.tumblr.com](https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you) (Direct [link to doc](https://docs.google.com/document/d/1I0zksTwwQJSg7vBvI63rmWg9t1Sckc-T9W03IFYFY_A/edit))"
+
 cite:
   clips: !!map
   plagiarized: !!map
+    wikipedia:
+      utena_article: "Wikipedia. (n.d.). Revolutionary Girl Utena. Retrieved December 12th, 2023, from https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena"
 ---
-Intro
 
-this is what happened more or less the magical girl Trope of anime hit a fever
-pitch in the 1990s with the
 
-international phenomenon of Sailor Moon which typified the style both in homage
+<compare>
+<cite></cite>
+<james>
 
-and parody these tropes have been recreated by artists ever since and have also
-become an entire genre in their own
+On Screen: "Health Warning: Flashing lights in some scenes. Because anime."
 
-right whether it's newer magical girls like P maim Madoka Maga the westernized
-magical girls like the cast of Shira and
+This is what happened, more or less. The magical girl trope of anime hit a fever pitch in the 1990s with the international phenomenon of Sailor Moon, which typified the style. Both in homage and parody, these tropes have been recreated by artists ever since and have also become an entire genre in their own right.
 
-the princesses of power or the genderbent magical boys of cute high Earth
-Defense Club the Trope has been a
+Whether it's newer magical girls like *Puella Magi Madoka Magica*, the westernized magical girls like the cast of *Shira and the Princesses of Power*, or the genderbent magical boys of *Cute High Earth Defense Club*, the trope has been a staple of animation for decades. 
 
-staple of animation for decades but none to my knowledge have been more
-discussed
+</james>
+<from></from>
+</compare>
 
-and dissected than the 1997 series revolutionary girl utena created by
+<compare>
+<james>
 
-bapas a production group formed by director ikuhara kunihiko saoo hasaa
+But none, to my knowledge, have been more discussed and dissected than the 1997 series *Revolutionary Girl Utena*, <mark>created by Be-Papas, a production group formed by director Ikuhara Kunihiko, Saito Chiho, Hasegawa Shinya, Enokido Yōji and Oguro Yūichirō.</mark>
 
-enokido Yoji and uro yiro so let's dive into into the mesmerizing world of
-Kara's creative Journey you see back in
+</james>
+<from>
 
-the 9s iohara graced toi animation with his presence during the production of
-the Beloved Sailor Moon series he
+***Revolutionary Girl Utena*** (Japanese: 少女革命ウテナ, Hepburn: Shōjo Kakumei Utena) is a Japanese anime television series <mark>created by Be-Papas, a production group formed by director Kunihiko Ikuhara and composed of himself, Chiho Saito, Shinya Hasegawa, Yōji Enokido and Yūichirō Oguro.</mark>
 
-co-directed the second season Sailor Moon R alongside sat yichi and took the
-helm as the sole director for both the
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-animated film Sailor Moon R the movie and the third season Sailor Moon s but
-Yahara grew Restless in the confines of
+<compare>
+<cite></cite>
+<james>
 
-adapting existing Works longing for some creative control thus after the
-conclusion of Sailor Moon s in 1995 he
+So let's dive into into the mesmerizing world of Ikuhara's creative journey.
 
-set forth on a quest to birth an original series in this endeavor he assembled
-the illustrious bapas a
+You see, back in the 90's Ikuhara graced Toei Animation with his presence during the production of the beloved <mark>*Sailor Moon* series. He co-directed the second season, *Sailor Moon R* alongside Sato Junichi and took the helm as the *sole* director for both the animated film *Sailor Moon R: The Movie* and the third season *Sailor Moon S*.</mark>
 
-Consortium of creative talents from anime and manga you see bapas had quite
+But Ikuhara grew restless in the confines of adapting existing works, longing for some creative control. Thus after <mark>the conclusion of *Sailor Moon S* in 1995</mark>, he set forth on a quest to birth an original series. <mark>In this endeavor he assembled the illustrious Be-Papas, a consortium of creative talents from anime and manga.</mark>
 
-the history together hasawa and enokido had previously joined forces with ukara
+You see Be-Papas had quite the history together. <mark>Hasegawa and Enokido had previously joined forces with Ikuhara on Sailor Moon where Enokido penned many episodes featuring the iconic Sailor Uranus and Sailor Neptune.</mark> Be-Papas had also lent their talents to the esoteric *Neon Genesis Evangelion*. As for Saito, <mark>she was a seasoned manga artist who had not yet ventured into the realm of anime.</mark>
 
-on Sailor Moon where enokido penned many episodes featuring the iconic Sailor
+</james>
+<from>
+<h2 style="margin:0;"> Development</h2>
+<h3 style="margin:0;">Context</h3>
 
-Uranus and Sailor Neptune Bap Papas had also lent their talents to the esoteric
-Neon Genesis Evangelion as for syo she
+Kunihiko Ikuhara was a director at Toei Animation on the television anime series Sailor Moon in the 1990s, co-directing its second season <mark>*Sailor Moon R* with Junichi Sato and serving as sole director of both the animated film *Sailor Moon R: The Movie* and the series' third season *Sailor Moon S*.</mark><sup>[19]</sup> Frustrated by the lack of creative control in producing a series adapted from an existing work, Ikuhara departed Toei following <mark>the conclusion of *Sailor Moon S* in 1995</mark> to create an original series.<sup>[20]</sup> <mark>To this end, Ikuhara assembled Be-Papas, a group of creative professionals from the anime and manga industry.</mark> Its membership consisted of Ikuhara, manga artist Chiho Saito, animator and character designer Shinya Hasegawa, scriptwriter Yōji Enokido, and planner Yūichirō Oguro.<sup>[21]</sup>
 
-was a seasoned manga artist who had not yet ventured into the realm of anime now
+Several of the members of Be-Papas had previously worked together: <mark>Hasegawa and Enokido had previously worked with Ikuhara on Sailor Moon, where Enokido wrote many of the episodes featuring Sailor Uranus and Sailor Neptune;</mark><sup>[7]</sup> Hasegawa and Enokido had also both worked on the anime series Neon Genesis Evangelion.<sup>[10]</sup> <mark>Saito was an established manga artist who had not previously worked with the members of Be-Papas, or in anime;</mark> Ikuhara decided to base the visuals of the series on her artwork and recruited her to Be-Papas after seeing an illustration from her manga series Magnolia Waltz on the cover of a magazine.<sup>[10][22]</sup>
 
-initially iohara envisioned utena as a mainstream showjoe series hoping to ride
-the coales of Sailor Moon's commercial
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-success in fact they began with a concept titled revolutionary girl utena kiss
-featuring a group of valiant female
+<compare>
+<cite></cite>
+<james>
 
-warriors known as the Neo elanar Eleganza Extravaganza battling the enigmatic
-end
+Now initially <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> <mark>series, hoping to ride the coattails of Sailor Moon's commercial success</mark>. In fact, <mark>they began with a concept titled "Revolutionary Girl Utena Kiss", featuring a group of valiant female warriors known as the Neo Elegansar!</mark>
 
-of the world but as the creativity flowed they settled on a different path a
-romantic action show starring a pretty
+\[meme cutaway]: "Eleganza Extravaganza!"
 
-girl who wears boys clothes the school setting was a Cornerstone of anime but
-other elements like the duels and the
+<mark>Battling the enigmatic "end of the world"</mark>. But as the creativity flowed, they settled on a different path: <mark>a romantic action show starring a pretty girl who wears boys clothes</mark>. The school setting was a cornerstone of anime. But <mark>other elements like the duels and the mysterious Rose Bride were yet to enter the plot</mark>.
 
-Mysterious Rose rde were yet to enter the plot as bapas commenced their
-six-month planning phase after syo's
+</james>
+<from>
+<h3 style="margin:0;">Planning</h3>
 
-arrival they delved into the nitty-gritty of the story World building and the
-intricate process of translating
+Initially, <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> (girls' anime and manga) <mark>series aimed at capitalizing on the commercial success of Sailor Moon</mark>; Saito characterized the earliest discussions on Utena as focused on creating a series "that people will like and [will] be profitable".<sup>[22]</sup> The earliest concepts for Utena deviated significantly from what became the final series: <mark>an initial pitch to project financers was titled Revolutionary Girl Utena Kiss, and focused on a group of female warriors called the "Neo Elegansar"</mark> <mark>who battled "the end of the world"</mark>.<sup>[23][d]</sup> Per Oguro, a basic series concept of "<mark>a romantic action show starring a pretty girl who wears boys' clothes</mark>" that had a "Takarazuka style" was eventually settled on.<sup>[3]</sup> A school setting was also determined in this early concept phase, though <mark>other concepts such as the duels and the "Rose Bride" would not be formulated until later in development</mark>.<sup>[3]</sup>
 
-syo's visual style into anime in parallel Sao embarked on creating a manga
-adaptation of aenna while still
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-contributing her expertise to the anime's development now a fascinating tidbit
-here is that while lutena
+<compare>
+<cite></cite>
+<james>
 
-inevitably carries Echoes of Princess Knight and the rose of versailes to shjo
-manga series known for their
+As Be-Papas commenced their <mark>six-month planning phase after Saito's arrival</mark>, they delved into the nitty-gritty of the story, world building, and the intricate process of <mark>translating Saito's visual style into anime</mark>. In parallel Saito embarked on creating a manga adaptation of Utena while still contributing her expertise to the anime's development. 
 
-crossdressing sword fighting heroins ikuhara was persistently apprehensive
+Now a fascinating tidbit here is that while <mark>Utena inevitably carries echoes of *Princess Knight* and *The Rose of Versailes* -- two Shōjo manga series known for their crossdressing, sword-fighting heroines --</mark> Ikuhara was persistently apprehensive about <mark>being seen merely as a parody of these iconic works.</mark> Saito on the other hand was brought in to be <mark>Be-Papas primarily because the team wanted a female perspective to avoid unintentionally parodying Shōjo manga</mark>.
 
-about being seen merely as a parody of these iconic works sitto on the other
-hand was brought in to be Papas
+(Shōjo manga is manga that's aimed at young girls, by the way.) 
 
-primarily because the team wanted a female perspective to avoid unintentionally
-parodying Shojo manga
+</james>
+<from>
 
-Shojo manga is manga that's aimed at Young Girls by the way fast forward to 1996
-with syo's manga adaptation of
+Although the concept for Utena originated from Ikuhara, the series as a whole was developed collectively by Be-Papas.<sup>[21]</sup> The group entered a <mark>six-month planning period after Saito joined Be-Papas</mark>,<sup>[22]</sup> which focused on fleshing out the story and setting, as well as <mark>determining how Saito's visual style could best be imported into anime</mark>.<sup>[3]</sup> Saito also began to contemporaneously write and illustrate a manga adaptation of Utena while contributing to the development of the anime series.<sup>[21]</sup>
 
-utena underway negotiations for the broadcast of the utena anime were finally
-sealed and production began in
+Utena draws inspiration from several sources – *Animage* described the series as "influenced by [Ikuhara's] idiosyncrasies"<sup>[21]</sup> – including the Takarazuka Revue,<sup>[9]</sup> the artwork of Jun'ichi Nakahara,<sup>[25]</sup> Hermann Hesse's novel Demian,<sup>[8]</sup> and the experimental theater of Shūji Terayama.<sup>[25]</sup> Saito cited the manga series *Kaze to Ki no Uta*<sup>[26]</sup> and the 1973 film adaptation of *The Three Musketeers*<sup>[7]</sup> as among the influences that informed her contributions to Utena. Ikuhara has stated that although he "wouldn't be able to avoid it being said" that <mark>Utena was influenced by *Princess Knight* and *The Rose of Versailles* – two shōjo manga series famous for their cross-dressing, sword-fighting heroines –</mark> throughout the development of Utena, he was possessed of an "immense fear" that the series would <mark>be seen merely as a parody of those works.</mark><sup>[9]</sup> Saito stated that she was hired to join the otherwise all-male <mark>Be-Papas in part because they were concerned that without a female perspective they would create a parody of shōjo manga</mark>, which was not their intention.<sup>[26]</sup>
 
-Earnest bapas took the Reigns of production with the esteemed JC staff handling
-animation duties but here's
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-where the story takes a Twist iohara vision for utena underwent a profound
+<compare>
+<cite></cite>
+<james>
 
-transformation once the series commenced production no longer content with
-aiming for Mass Market success he decided to
+Fast forward to 1996m with Saito's manga adaptation of Utena, underway negotiations for the broadcast of the Utena anime were finally sealed, and production began in earnest. Be-Papas took the reigns of production, with the esteemed JC Staff handling animation duties.
 
-infuse the series with a unique non-commercial identity this shift saw
+But here's where the story takes a twist: <mark>Ikuhara's vision for Utena underwent a profound transformation once the series commenced production</mark>. No longer content with aiming for mass market success, he decided to infuse the series with a unique *non-commercial* identity.
 
-the incorporation of avangard elements such as theatrical inspired layouts
-Shadow plays that offer commentary on
+This shift saw the <mark>incorporation of avantgarde elements such as theatrical inspired layouts, shadow plays that offer commentary on each episode's events, and the experimental choral compositions of J. A. Seazer</mark>.
 
-each episode's events and the experimental Coral compositions of Ja Cesar as
-production Advanced tensions
+</james>
+<from>
+<h3 style="margin:0;">Production</h3>
 
-simmered within bopus the series veered away from its original commercial
-trajectory creating what agoro described
+Shortly after Saito's manga adaptation of Utena began serialization in 1996, negotiations for the broadcast of the Utena television anime were settled, and production began.<sup>[3]</sup> Be-Papas served as the primary production staff for Utena, with animation production completed by the animation studio J.C.Staff.<sup>[21]</sup>
 
-as a tug-of-war between Sao and ukara Sao ardently championed the initial
+<mark>Ikuhara's ambitions for Utena shifted dramatically after the series commenced production</mark>. Believing that the series required "a unique individuality"<sup>[3]</sup> if it was to find an audience, he abandoned his previous goal of a mass-market hit in favor of more non-commercial aspirations.<sup>[8][27]</sup> To this end, he began to <mark>incorporate a variety of avant-garde elements into the series, such as theatrical-inspired layouts, a recurring shadow play segment that allegorically comments on the events of each episode, and the experimental choral music of composer J. A. Seazer</mark>.<sup>[3]</sup>
 
-romantic concept for Anna over ikuhara increasingly esoteric Vision they even
-reached a point where they didn't speak
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-to each other for 3 months straight sao's concern you see was not ideological
-but pragmatic she believed
+<compare>
+<cite></cite>
+<james>
 
-the mainstream shjo audience might not Embrace anything other than a traditional
-male female romance iohara
+As production advanced, tensions simmered within Be-Papas. <mark>The series veered away from its original commercial trajectory</mark> creating what <mark>Oguro described as a "tug-of-war" between Saito and Ikuhara</mark>. <mark>Saito ardently championed the initial romantic concept</mark> for Utena, over <mark>Ikuhara's increasingly esoteric vision</mark>.
 
-however kept the full extent of his intended same-sex romance between utena and
-anthy Under Wraps throughout most of
+They even reached <mark>a point where they didn't speak to each other for 3 months straight</mark>. Saito's concern, you see, was not ideological but pragmatic: she believed the <mark>mainstream shōjo audience</mark> might not embrace <mark>anything other than a traditional male-female romance</mark>. 
 
-the production ultimately syto supported the way the series handled the
-relationship between the characters
+Ikuhara, however, kept the full extent of his intended same-sex romance between Utena and Anthy under wraps throughout most of the production. <mark>Ultimately Saito supported</mark> the way the series handled the <mark>relationship between the characters</mark>. Nothing succeeds like success.
 
-nothing succeeds like success since then revolutionary girl lutena has garnered
-A Chorus of Praise both at home in Japan
+</james>
+<from>
 
-and across the International stage for all that Sailor Moon takes the Lion Share
-of public discussion utena's
+Enokido characterized the production of Utena as marked by "an agreeable sense of tension" between the members of Be-Papas.<sup>[7]</sup> <mark>As the direction of the series shifted away from its original commercial focus</mark>, production became what <mark>Oguro described as a "tug-of-war" between Saito and Ikuhara</mark>, as <mark>Saito advocated for the original romantic concept</mark> for the series over <mark>Ikuhara's new, more esoteric vision</mark>.<sup>[3]</sup> Ikuhara and Saito particularly quarreled over whether the series should depict the relationship between Utena and Anthy as a romance, and at <mark>one point during production did not speak to each other for a period of three months</mark>.<sup>[28]</sup> Saito was initially opposed, not out of an ideological opposition to depicting a same-sex romance, but because she believed the <mark>mainstream shōjo audience</mark> the series was ostensibly attempting to court would respond poorly to <mark>anything other than a male-female romance</mark>.<sup>[29]</sup> Ikuhara would conceal the extent to which he intended to present Utena and Anthy's relationship as a romance from Saito throughout production;<sup>[22]</sup> <mark>Saito ultimately expressed support</mark> for how the series presented the <mark>relationship between the characters</mark>.<sup>[28]</sup>
 
-influence can be felt in the development of anime to this very day in 1997 the
-series won the coveted animation Kobe
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-award for the best television category and as the years rolled on in 2017 NHK
+<compare>
+<cite></cite>
+<james>
 
-the network behind utena conducted a national poll to determine the 100 greatest
-anime in commemoration of the H
+Since then, *Revolutionary Girl Utena* has garnered a chorus of <mark>praise, both at home in Japan and across the international stage.</mark> For all that *Sailor Moon* takes the lion's share of public discussion, Utena's influence can be felt in the development of anime to this very day.
 
-100th an iversary of the medium in which utena placed 19th utena has graced
+In 1997, the series won the coveted <mark>Animation Kobe award for the "Best Television" category</mark>. And as the years rolled on, <mark>in 2017, NHK</mark> (the network behind Utena) <mark>conducted a national poll to determine the one hundred greatest anime in commemoration of the 100th aniversary of the medium, in which Utena placed 19th.</mark>
 
-multiple best of lists with his presence anime Insider hailed it as one of the
-top 10 best anime ever writer Mike tulle
+Utena has graced multiple "best of" lists with his presence, <mark>*Anime Insider* hailed it as one of the top 10 best anime ever</mark>. <mark>Writer Mike Toole, in his review, declared the series to be "the most important anime of the 90s".</mark>
 
-in his review declared the series to be the most important anime of the 9s
-however with all this hype about
+</james>
+<from>
+<h2 style="margin:0;">Reception and influence</h2>
 
-it what is revolutionary girl utena actually about get comfortable
+*Revolutionary Girl Utena* has been the subject of <mark>both domestic and international praise</mark>, and has received many accolades. In 1997, the series won the <mark>Animation Kobe award in the "Best Television" category</mark>.<sup>[110]</sup> <mark>In 2017</mark>, Japanese broadcaster <mark>NHK</mark> <mark>conducted a national poll to determine the one hundred greatest anime in commemoration of the hundredth anniversary of the medium, in which Utena placed 30th.</mark><sup>[111]</sup> Utena was listed as <mark>one of the ten "best anime ever" by *Anime Insider*</mark><sup>[56]</sup> and ranked fourth on Paste's list of the best anime of all time.<sup>[112]</sup> *Anime News Network*'s ranking of the 100 greatest anime films of all time placed *Adolescence of Utena* in eighth; <mark>in his review, writer Mike Toole called the television series "the most important anime of the 1990s"</mark>.<sup>[113]</sup>
 
-because that's not an easy question to answer and things get [Music]
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
 
-Part 1
+<compare>
+<cite></cite>
+<james>
+
+However, with all this hype about it, what is Revolutionary Girl Utena actually about? Get comfortable, because that's not an easy question to answer... And things get weird.
+
+</james>
+<from></from>
+</compare>
+
+## 1. Anime, the Anime
+
+
+=== TODO ===
+
+
+<compare>
+<cite></cite>
+<james>
+
+</james>
+<from></from>
+</compare>
+
+
+
+
+
+
+
+
+
+
 
 weird revolutionary girl lutena is divided into three sagas the student
 

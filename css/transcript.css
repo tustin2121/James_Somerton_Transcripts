@@ -48,11 +48,11 @@ compare cite    {
     font-size: small;
     color: var(--color-fg-muted);
 }
-compare james   {
+compare james {
 	grid-area: j; 
 	border-color: orange;
 }
-compare clip    {
+compare clip {
 	grid-area: j; 
 	border-color: gray;
 }
@@ -69,6 +69,10 @@ compare james::before   { content: 'James:'; }
 compare clip::before   { content: 'Video Clip:'; }
 compare from::before    { content: 'Source:'; }
 compare comment::before { content: 'Comment:'; }
+
+
+compare james mark { background-color: var(--color-prettylights-syntax-markup-deleted-bg) !important; }
+compare from mark  { background-color: var(--color-prettylights-syntax-markup-inserted-bg) !important; }
 
 .lyrics {
     margin-inline: auto;
