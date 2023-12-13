@@ -10,12 +10,11 @@ aka: !!seq
   - "Religion and Anime! (Short)"
 topics: !!seq
   - Revolutionary Girl Utena
-  - Sailor Moon
-  - Xena
+  - Postmodernism
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
-description: "a video essay on <xyz>."
+description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 
   - short-advert
   - unreleased
