@@ -25,9 +25,10 @@ contributors:
 
 cite:
   clips: !!map
+    utena: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff."
   plagiarized: !!map
     wikipedia:
-      utena_article: "Wikipedia. (n.d.). Revolutionary Girl Utena. Retrieved December 12th, 2023, from https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena"
+      utena_article: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena"
 ---
 
 
@@ -190,7 +191,7 @@ Utena has graced multiple "best of" lists with his presence, <mark>*Anime Inside
 <cite></cite>
 <james>
 
-However, with all this hype about it, what is Revolutionary Girl Utena actually about? Get comfortable, because that's not an easy question to answer... And things get weird.
+However, with all this hype about it, what is *Revolutionary Girl Utena* actually about? Get comfortable, because that's not an easy question to answer... And things get weird.
 
 </james>
 <from></from>
@@ -203,210 +204,140 @@ However, with all this hype about it, what is Revolutionary Girl Utena actually 
 
 
 <compare>
+<james>
+
+<mark>*Revolutionary Girl Utena* is divided into three sagas: the "Student Council Saga", the "Black Rose Saga",</mark> and the climactic "Akio Ohtori Saga" (or the <mark>"Apocalypse Arc"</mark>, depending upon the release).
+
+</james>
+<from>
+
+<mark>*Revolutionary Girl Utena* is divided into three story arcs: the "Student Council Saga"</mark> (episodes 1–12), <mark>the "Black Rose Saga"</mark> (episodes 13–24), and <mark>the "Apocalypse Saga"</mark> (episodes 25–39).<sup>[4][5]</sup>
+
+
+</from>
+<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
+</compare>
+
+<compare>
 <cite></cite>
 <james>
+
+Utena Tenjou is a middle school student (and it's very *very* important to remember that she's a middle school student throughout the series and the movie). To say that she struggles to keep up good grades is unfair to her, because she doesn't really seem to care about that stuff... or anything that is in sports or her friends. She is, as we would describe, a tomboy and a subject of simultaneous jealousy, fascination, and desire from almost everyone in the school.
+
+As a child, utena lost both of her parents in an undescribed accident. She managed to pull herself together due to a (quote-unquote) *"chance"* encounter with an individual she described as a prince. He gave her a rose-engraved signet ring, with the promise that it would help them meet again in the future. 
+
+Though she admits her memory on this is a bit foggy. She doesn't even quite remember what her prince looked like. Probably not what this *Prince* was intending. Utena didn't fall madly in love with him, per se, though she has lived out her youth in anticipation of one day meeting him. Instead, she decides that she will one day also become a prince like him, to save the imperiled princesses of the world, just as the Rose Prince had once saved her.
+
+As an audience, you really don't have any idea how important this is until like the last *five* episodes, maybe even the last *two?* Until then, it simply seems to be a backstory that drives Utena to enroll in the prestigious and exclusive Ohtori Academy. There she is the source of wonder for the girls, a source of envy for all the boys, and a source of confusion for all the teachers. She acts and dresses like a boy and is noted for her fierce sense of justice and dignified nobility.
+
+Spying a shy and reclusive Anthy Himemiya being slapped by her boyfriend, she intervenes on what she believes is Anthy's behalf.
+
+\[meme cutaway]: Homer (slaps Moe with glove): "I challenge you to a duel!"
+
+Anthy is a piece in a very complicated game of chess that focuses around this school's enigmatic student council. This befits a beloved anime trope of the high school student council holding a position of political power that can rival a small government. Anthy has a secret double life as the "Rose Bride", and the student council is so interested in her because the Rose Bride is the key to unlocking a power that can revolutionize the world. The one who is engaged to the Rose Bride can access this power and bring about revolution,presumably to suit their own whims.
+
+The Rose Bride becomes engaged to whomever can best her current betrothed in a duel. Utena wins a duel with the student council vice president to stop him from hitting Anthy, so Utena becomes Anthy's new groom-to-be. (Just works like that!)
+
+And this makes sense compared to everything that follows it. (Don't worry it gets weirder.) 
+
+The key to these duels are the signet rings, which at present only members of the student council wear. The student council is... *not pleased* that they've lost their ability to shape the world of the future, and seek to get Anthy back from Utena. With the help, or perhaps at the whim, of a mysterious benefactor codenamed "end of the world". 
+
+(The Japanese version is more clearly translated to "apocalypse", I'm told, but was not used in English because of the apparent close ties to religious overtones.)
 
 </james>
 <from></from>
 </compare>
 
+<compare>
+<cite>{{ page.cite.clip.utena }}</cite>
+<clip>
 
+Added by James on screen: "Meanwhile, this was fine."
 
+Studen council president Touga Kiryuu: "Nanami, you like girls more than boys?"
 
+His sister Nanami: "Yes!"
 
+Touga: "Listen, Nanami, God created men and women for a reason. That reason being that they join in the best sort of way. No matter how good something may
+feel, going against God's plan is--"
 
+Nanami: "What are you implying, Big Brother?! You *know* you're the only one that I love!"
 
+[Yellow balloon floats by with a sound effect]
 
+</clip>
+</compare>
 
+<compare>
+<cite></cite>
+<james>
 
+Utena, through her close connection and apparent engagement to Anthy, works at coaching Anthy to think for herself. An unfortunate drawback of the Rose Bride is that the Rose Bride can only ever *do or feel* the way that she is instructed to *by* her betrothed. Even as her bridegroom, Utena tirelessly coaches Anthy to advocate for her own needs and her own feelings, and to do what she wants rather than what her magical-husband-person-to-be tells her.
 
-weird revolutionary girl lutena is divided into three sagas the student
+(I'm sure tops of all genders can identify with both the irony and endless struggle of trying to coax their bottoms into being less subservient.)
 
-council Saga the Black Rose Saga and The climactic akori Saga or the apocalypse
+In the first arc, we see the various reasons that the members of the student council would want to use the Power of Revolution. Her winning streak against all of them is brought to an end when the student council president Touga tricks Utena into believing that he is the Rose Prince from her childhood. Though after utena finds her courage again, she defeats him handedly.
 
-Arc depending upon the release uten atenu is a middle school student and it's
-very very important to remember
+The first arc is privy to a number of... oddities. Outside of the premise of dueling in the upside down floating Castle in the Sky where Eternity lies with the power to bring Revolution to the world, Touga's younger sister Nanami seems to have a bit of a... complex. Like a very strong fixation that by far exceeds... protective. (But don't worry it does get weirder.)
 
-that she's a middle school student throughout the series and the movie to say
-that she struggles to keep up good grades is UN fair to her because she
+\[Cutaway clip from Utena]
 
-doesn't really seem to care about that stuff or anything that is in sports or
-her friends she is as we would describe
+The first Arc does a lot of the heavy lifting in terms of establishing the rules of the world, and the themes running through the whole series. Subsequent plot arcs just get deeper and more unsettling. Truth be told, the second Arc doesn't really do much to elaborate on the plot, though it is important for establishing some guiding mechanics of this world as well as introducing some key players for the ongoing series.
 
-a tomboy and a subject of simultaneous jealousy Fascination and desire from
-almost everyone in the school as a child
+Through a plot divised to kill the Rose Bride and replace her, we see a recurrence of the same weapons the student council used to challenge Utena. We had seen the Sword of Dios, a powerful weapon and the key to the power of Revolution, being removed from Anthy's chest in her capacity as the Rose Bride. And this seems to be her primary role *as* the Rose Bride. Just as Anthy's body hosts the Sword of Dios initially, each student council member hosts their own blade.
 
-utena lost both of her parents in an undescribed accident she managed to pull
-herself together due to a quote unquote
+In the third Arc, however, Anthy no longer is host to the Sword of Dios. Instead she draws a blade from utena's body. (That's important. Keep that in mind. We get to it later.)
 
-chance encounter with an individual she described as a prince he gave her a rose
+The other primary element of the second Arc is introducing Anthy's brother
+Akio. And, hey, if you thought *Nanami and Touga's stuff* was a little weird...! We got a couple episodes in the second Arc with Akio and Anthy and like... *yeah,* they're, uh... yeah.
 
-engraved Signet ring with the promise that it would help them meet again in the
-future though she admits her memory
+</james>
+<from></from>
+</compare>
 
-on this is a bit foggy she doesn't even quite remember what her prince looked
-like probably not what this Prince was
+<compare>
+<cite>{{ page.cite.clip.utena }}</cite>
+<clip>
 
-intending utena didn't fall madly in love with him per se though she has lived
-out her youth in anticipation of
+Akio: "Anthy... come here..."
 
-one day meeting him instead she decides that she will one day also become a
+\[Anthy slowly turns to the camera]
 
-prince like him to save the imperil princesses of the world just as the rose
-Prince had once saved her as an audience
+</clip>
+</compare>
 
-you really don't have any idea how important this is until like the last five
-episodes maybe even the last two
+<compare>
+<cite></cite>
+<james>
 
-until then it simply seems to be a backstory that drives utena to enroll in the
-prestigious and exclusive otori
+I really don't want another content strike from YouTube (I already have one),
+so as graphic as this is, I am simply going to to *euphemize,* and refer to it as "domestic abuse".
 
-Academy there she is the source of Wonder for the girls a source of Envy for all
-the boys and a source of
+Akio is the principal villain of the series and was both "end of the world", as well as the Rose Prince who gave Utena her ring. Which, drawing a parallel to utena's duel with Touga, Akio's primary objective seems to be to feminize Utena and *groom* her. Because Utena is under the impression that she's basically promised herself to the prince from her childhood, she is magnetically drawn to him. 
 
-confusion for all the teachers she acts and dresses like a boy and is noted for
-her Fierce sense of justice and
+This naturally causes Anthy to... *fester* due to being so gaslit her whole life that she feels her only sense of value is to be of service to men, something that Utena is interrupting. And, the once-best-friends develop a *toxic* rivalry.
 
-dignified nobility spying a shy and reclusive anthy Hima being slapped by her
-boyfriend she intervenes on what she
+</james>
+<from></from>
+</compare>
 
-believes is anthy's behalf oh I challenge you to a duel anthy is a piece
+<compare>
+<cite>{{ page.cite.clip.utena }}</cite>
+<clip>
 
-in a very complicated game of chess that focuses around this school's enigmatic
-student council this befits a beloved
+Utena: "I put a lot of poison in your tea."
 
-anime Trope of the high school student council holding a position of political
-power that can rival a small government anthy has a secret double life as the
+Anthy: "You don't say!"
 
-rose bride and the student council is so interested in her because the rosebride
-is the key to unlocking a power that can
+</clip>
+</compare>
 
-revolutionize the world the one who is engaged to the rosebride can access this
-power and bring about Revolution
+<compare>
+<cite></cite>
+<james>
 
-presumably to suit their own whims the rose bride becomes engaged to whomever
-can best her current betroth in a duel
 
-utena wins a duel with the student council vice president to stop him from
-hitting anthy so utena becomes anthy's
-
-New Groom to be just works like that and this makes sense compared to everything
-
-that follows it don't worry it gets weirder the key to these duels are the
-Signet Rings which at present only
-
-members of the student council wear the student council is not pleased that
-they've lost their
-
-ability to shape the world of the future and seek to get anthy back from utena
-with the help or perhaps at the whim of
-
-a mysterious benefactor codenamed end of the world the Japanese version is more
-clearly translated to apocalypse I'm
-
-told but was not used in English because of the apparent close ties to religious
-overtones nomy you like girls more than
-
-boys yes listen nomy God created men and women for a reason reason that reason
-
-being that they join in the best sort of way no matter how good something may
-feel going against God's plan what are
-
-you implying Big Brother you know you're the only one that I
-
-love utena threw her close connection and apparent engagement to Ane works at
-coaching Ane to think for herself an
-
-unfortunate drawback of the rosebride is that the rosebride can only ever do or
-feel the way that she is instructed to
-
-by her betrothed even as her bridegroom utna tirelessly coaches anthy to
-advocate for her own needs and her own
-
-feelings and to do what she wants rather than what her magical husband person to
-be tells her I'm sure tops of all
-
-genders can identify with both the irony and endless struggle of trying to coax
-their bottoms into being less
-
-subservient in the first Arc we see the various reasons that the members of the
-student council would want to use the
-
-power of Revolution her winning streak against all of them is brought to an end
-when the student council president toga
-
-tricks utena into believing that he is the Rose Prince from her childhood though
-after utena finds her courage
-
-again she defeats him handedly the first Arc is privy to a number
-
-of oddities outside of the premise of dueling in the upside down floating Castle
-in the Sky where eternity lies
-
-with the power to bring Revolution to the world toa's younger sister nmy seems
-to have a bit of a complex like a very
-
-strong fixation that by far exceeds protective but don't worry it
-
-does get weirder the first Arc does a lot of the heavy lifting in terms of
-establishing
-
-the rules of the world and the themes running through the whole series
-subsequent plot arcs just get deeper and
-
-more unsettling truth be told the second Arc doesn't really do much to elaborate
-
-on the plot though it is important for establishing some guiding mechanics of
-this world as well as introducing some
-
-key players for the ongoing series through a plot divised to kill the rose bride
-and replace her we see a
-
-recurrence of the same weapons the student council used to challenge and Jenna
-we had seen the sword of dios a
-
-powerful weapon and the key to the power of Revolution being removed from
-anthy's chest in her capacity as the rosebride
-
-and this seems to be her primary role as the rosebride just as anthy's body
-hosts
-
-the sword of dios initially each student council member hosts their own blade in
-the third Arc however anony no longer is
-
-host to the sword of dios instead she draws a blade from utena's body that's
-important keep that in mind we get to it
-
-later the other primary element of the second Arc is introducing anthy's brother
-AIO and hey if you thought nomy
-
-and toga stuff was a little weird we got a couple episodes into the second Arc
-with AIO and Ane and like yeah they're
-
-uh yeah anthy come
-
-here I really don't want another content strike from YouTube I already have one
-so as graphic as this is I am simply
-
-going to to euphemize and refer to it as domestic abuse Akio is the principal
-villain of the series and was both end
-
-of the world as well as the rose prince who gave utena her ring which drawing a
-parallel to utena's duel with toga
-
-akio's primary objective seems to be to feminize utena and groom her because
-
-utena is under the impression that she's basically promised herself to the
-prince from her childhood she is magnetically
-
-drawn to him this naturally causes anthy to Fester due to being so gaslit her
-
-whole life that she feels her only sense of value is to be of service to men
-something that utena is interrupting and
-
-the once best friends develop a toxic rivalry I put a lot of poison in your
-
-tea you don't say as one does the girls appear to resolve their differences when
+as one does the girls appear to resolve their differences when
 
 utena rescues anthy from an unal living attempt and acknowledges that this is
 kind of completely up after a
