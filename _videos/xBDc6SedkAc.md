@@ -12,6 +12,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media.webm"
+  - "https://www.youtube.com/watch?v=BODX90z4R7E" # Todd in the Shadows upload, unlisted
 description: "a video on sexuality in happy gay media."
 notes:
   - hbomb
@@ -24,6 +25,10 @@ cite:
   clips:
     rwrb_movie: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films."
     barbie_movie: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films."
+  misinformation: !!map
+    think_pieces: "{{ site.yt.todd_factcheck }}"
+    missionary_tweets: "{{ site.yt.todd_factcheck }}"
+    sex_backlash: "{{ site.yt.todd_factcheck }}"
   plagiarized: !!map
   tustin_eyewitness: "Tustin2121, former patron of James"
 ---

@@ -6,11 +6,11 @@
 	padding: 2px 8px;
 	display: grid;
 	box-shadow: 3px 3px 4px 0px black;
-	grid: auto-flow / auto 1fr auto auto;
+	grid: auto-flow / auto auto 1fr auto auto;
 	grid-template-areas:
 		"date  title title links"
 		"stat  aka   topic topic"
-		"plag  aka   topic topic";
+		"score aka   topic topic";
 }
 .video-card > div {
 	padding: 2px 6px;
@@ -39,10 +39,24 @@
 	color: grey;
 	font-size: smaller;
 }
-.video-card > .plagiarized {
+.video-card > .score {
+	grid-area: score;
+	display: grid;
+	grid: auto / 1fr 1fr;
+	grid-template-areas:
+		"plag fake";
+}
+.video-card > .score > .plagiarized {
 	grid-area: plag;
 	text-align: center;
-	background-color: purple;
+	background-color: var(--color-prettylights-syntax-markup-plagiarized-bg);
+	color: var(--color-prettylights-syntax-markup-plagiarized-text)
+}
+.video-card > .score > .misinfo {
+	grid-area: fake;
+	text-align: center;
+	background-color: var(--color-prettylights-syntax-markup-deleted-bg);
+	color: var(--color-prettylights-syntax-markup-deleted-text)
 }
 .video-card > .topics {
 	grid-area: topic;

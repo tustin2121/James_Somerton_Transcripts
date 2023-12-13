@@ -76,9 +76,10 @@
 					</p>
 				{% endif %}
 				
-				{% if page.cite.plagiarized.size > 0 %}
+				{% if page.cite.plagiarized.size > 0 or page.cite.misinformation.size > 0 %}
 					<p>
-						It is proven that this video has been plagerized from {{ page.cite.plagiarized.size }} source(s).
+						{% if page.cite.plagiarized.size > 0 -%}It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s).{% endif %}
+						{% if page.cite.misinformation.size > 0 -%}This video has {{ page.cite.misinformation.size }} instance(s) of misinformation.{% endif %}
 						See below for details.
 					</p>
 				{% endif %}

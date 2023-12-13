@@ -32,7 +32,10 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
       <p>Also includes words in (Thumbnail)s</p>
     </div>
     <div class="status">Transcript Status</div>
-    <div class="plagiarized"># Sources Plagiarized</div>
+    <div class="score">
+      <div class="plagiarized" style="font-size: small"># Sources<br/>Plagiarized</div>
+      <div class="misinfo" style="font-size: small"># Things<br/>Made Up</div>
+    </div>
     <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
   </div>
 </div>

@@ -29,8 +29,7 @@ cite:
   clips: !!map
     utena: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff."
     lotr: "<em>Lord of the Rings</em>"
-  factcheck: !!map
-    thumbnail_tumblr: "re-mortal. (Dec 4, 2023). [Blog post]. "
+  misinformation: !!map
     deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
     thumbnail: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from http://gallery.minitokyo.net/view/93510"

@@ -36,7 +36,12 @@
 			{%- unless forloop.last %} | {% endunless -%}
 		{%- endfor -%}
 	</div>
-	{%- if include.video.cite.plagiarized and include.video.cite.plagiarized.size > 0 -%}
-		<div class="plagiarized">{{ include.video.cite.plagiarized.size }}</div>
-	{%- endif -%}
+	<div class="score">
+		{%- if include.video.cite.plagiarized and include.video.cite.plagiarized.size > 0 -%}
+			<div class="plagiarized">{{ include.video.cite.plagiarized.size }}</div>
+		{%- endif -%}
+		{%- if include.video.cite.misinformation and include.video.cite.misinformation.size > 0 -%}
+			<div class="misinfo">{{ include.video.cite.misinformation.size }}</div>
+		{%- endif -%}
+	</div>
 </div>
