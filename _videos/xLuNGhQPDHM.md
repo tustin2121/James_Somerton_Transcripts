@@ -385,8 +385,8 @@ Anti-trans members of the British press repeatedly and <mark>falsely claimed tha
 
 Now, I’ve never been sexually assaulted, but I do know a disturbing amount of women who have. I’ve been the one taking them to the hospital, the cops, or the counciling<sup class="add">[sic: counseling]</sup> sessions. And something I’ve discovered through all of this is… rapists don’t go through that much effort. <span class="add">There's not a lot of thinking behind it.</span> They just do it. It’s a power thing. Men who believe <span class="del">they’re</span><span class="add">they are</span> more powerful than women are not going to dress up as a woman in order to assault <span class="del">her</span><span class="add">them</span>. They’re too lazy for that, don’t give them that much credit. But I digress. 
 
-</from>
-<cite></cite>
+</james>
+<from></from>
 </compare>
 
 <compare>

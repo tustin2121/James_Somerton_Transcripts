@@ -26,10 +26,10 @@
 		--box-border-comment: gray;
 		--box-header-color: gray;
 		
-		--mark-stolen-text: #c9d1d9;
-		--mark-stolen-bg: #692800;
-		--mark-source-text: #c9d1d9;
-		--mark-source-bg: #033a16;
+		--mark-stolen-text: #24292f;
+		--mark-stolen-bg: #fbd0b6;
+		--mark-source-text: #24292f;
+		--mark-source-bg: #abf1c4;
 	}
 }
 
