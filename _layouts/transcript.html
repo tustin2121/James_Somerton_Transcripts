@@ -59,7 +59,10 @@
 				
 				{% if page.contributors %} 
 					<p>
-					{% if page.contributors.trascription %}
+					{% if page.contributors.transcription and page.contributors.downloaded %}
+						Transcribed by {% include name.html name=page.contributors.trascription -%}.<br/>
+						Transcript downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
+					{% elsif page.contributors.transcription %}
 						Transcribed by {% include name.html name=page.contributors.trascription -%}.<br/>
 					{% elsif page.contributors.downloaded %}
 						Auto-transcribed by YouTube, downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
@@ -86,7 +89,13 @@
 				
 				<hr />
 				<compare>
-					<james>(Video transcript is on the left)</james>
+					<james>
+						(Video transcript is on the left)
+						{%- if page.notes contains "script-diff" -%}
+							<br/>(This transcript was created from the original script uploaded as closed captioning. 
+							Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)
+						{%- endif -%}
+					</james>
 					<from>(Fact-checking commentary or found plagiarized content is on the right for comparison)</from>
 					<cite>APA-style citations are inserted here.</cite>
 				</compare>

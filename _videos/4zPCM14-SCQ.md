@@ -13,6 +13,8 @@ notes:
   - multipart
   - commentary
 
+# https://archive.org/details/monstersincloset0000bens
+
 cite:
   clips: !!map
   plagiarized: !!map

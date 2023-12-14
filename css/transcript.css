@@ -22,6 +22,7 @@ compare {
 
 compare james, 
 compare clip, 
+compare credits, 
 compare from, 
 compare cite, 
 compare comment 
@@ -33,6 +34,7 @@ compare comment
 
 compare james::before, 
 compare clip::before, 
+compare credits::before, 
 compare from::before, 
 compare comment::before 
 {
@@ -56,6 +58,10 @@ compare clip {
 	grid-area: j; 
 	border-color: gray;
 }
+compare credits {
+	grid-area: j; 
+	border-color: gray;
+}
 compare from    {
 	grid-area: f; 
 	border-color: green;
@@ -70,6 +76,33 @@ compare clip::before   { content: 'Video Clip:'; }
 compare from::before    { content: 'Source:'; }
 compare comment::before { content: 'Comment:'; }
 
+compare credits.opening::before   { content: 'Opening Credits:'; }
+compare credits.closing::before   { content: 'Closing Credits:'; }
+compare credits::before {
+	font-size: unset;
+	color: unset;
+}
+compare credits blockquote {
+	color: unset !important;
+    text-align: center;
+    background-color: var(--color-canvas-subtle);
+    border-inline: 0.25em solid var(--color-border-default);
+}
+
+compare blockquote {
+	color: unset !important;
+    background-color: var(--color-canvas-subtle);
+}
+
+span.add, sup.add {
+	background-color: var(--color-prettylights-syntax-markup-inserted-bg); 
+	color: var(--color-prettylights-syntax-markup-inserted-text);
+}
+span.del, sup.del {
+	background-color: var(--color-prettylights-syntax-markup-deleted-bg); 
+	color: var(--color-prettylights-syntax-markup-deleted-text);
+	text-decoration: line-through;
+}
 
 compare james mark { background-color: var(--color-prettylights-syntax-markup-deleted-bg) !important; }
 compare from mark  { background-color: var(--color-prettylights-syntax-markup-inserted-bg) !important; }

@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 notes:
   - hbomb
 
+# https://archive.org/details/biggerthanlifehi0000esco
+
 cite:
   clips: !!map
   plagiarized: !!map

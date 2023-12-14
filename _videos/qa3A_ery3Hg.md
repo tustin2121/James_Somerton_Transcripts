@@ -918,4 +918,4 @@ From 15:25-16:16 He reads from an MSNBC article https://www.nbcnews.com/nbc-out/
 From 16:17-17:04 Back to plagiarizing the Hollywood Reporter article linked above.
 From 17:08-20:00: He copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article. https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/
 
-%{ endcomment %}
+{% endcomment %}

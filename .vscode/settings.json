@@ -1,3 +1,9 @@
 {
-	"markdown.styles": ["css/transcript.css"]
+	"markdown.styles": [
+		"css/transcript.css"
+	],
+	"cSpell.words": [
+		"Herrgott",
+		"Somerton"
+	]
 }

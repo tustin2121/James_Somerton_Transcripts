@@ -1,20 +1,22 @@
 ---
 date: 2021-05-12
 title: An Overly-Emotional Look at Why JK Rowling is Bad
-status: Script
+status: Finished
 aka: !!seq
   - An Overemotional Look at Why JK Rowling is Bad
   - "Confession of a Harry Potter Fan Boy (Thumbnail)"
 topics: !!seq
   - "Harry Potter"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210512+xLuNGhQPDHM+An+Over-Emotional+Look+at+Why+JK+Rowling+is+Bad.webm"
 description: "a video essay on <xyz>."
 notes: 
   - odd-linebreaks
   - hbomb
+  - script-diff
 
 contributors:
+  transcription: "James Somerton (script used as closed captioning)"
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
@@ -24,1536 +26,996 @@ cite:
   clips: !!map
   plagiarized: !!map
 ---
-“Ms. Rowling of Edinburgh Scotland was proud
 
-to say that she was a TERF, thank you very much”. *Sigh* PART ONE: The
-Philosopher’s Denial So here we are. Honestly didn’t think I’d end up making
+<compare>
+<credits>
 
-this video. In fact I said in a few livestreams that I
+\[Intro screen:]
+> JAMES SOMERTON  
+Like  
+Share  
+Subscribe  
+Patreon  
 
-wouldn’t. But it’s just been nagging and nagging at
+</credits>
+</compare>
 
-me. I’d made my video about queer themes in
+<compare>
+<cite></cite>
+<james>
 
-Harry Potter back in 2018, the halcyon days of when you could give Joanne
-Rowling the
+“Ms. Rowling, of Edinburgh, Scotland, was proud to say that she was a TERF, thank you very much”. 
 
-benefit of the doubt. And boy did I ever give her the benefit of
+*[slams book shut]* 
 
-the doubt. And why wouldn’t I? She was a powerful female author who used
+*Sigh*
 
-her voice to raise money for charity and vocally support marginalized
-communities. Crimes of Grinldewald hadn’t even come out
+</james>
+<from></from>
+</compare>
 
-yet, so I was flying high on the potential for gay representation in the magical
-world. Then the movie came out. Then she started retweeting things. Then she
-wrote the essay. Then she wrote the book. And on and on. I don’t think I need to
-go into all the
 
-gory details of Rowling’s descent into TERFism. Contrapoints made a fantastic
-video doing
+<compare>
+<credits class="opening">
 
-that, so just go watch that if you want an actual trans person’s opinion. I’m
-just a cis guy holding a grudge. The TLDR version is that Rowling has spent
+\[over off-key rendition of Hedwig's Theme and footage of Lego Hogwarts:]
 
-the last several years positioning herself as TERF, (Trans Exclusionary Radical
-Feminist)
+> James Somerton Presents
 
-numero uno on the internet. She’s been very good at doing that thing
+> Written by  
+James Somerton  
+& Nick Herrgott
 
-we all associate with racists. You know. “I’m very good friends with trans
-people,
+> Produced By  
+[Four Patron Names]
 
-but…” “I’m not transphobic, but…” Now before some of ya’ll jump down my throat,
+> Executive Producer  
+[One Patron Name]
 
-no I’m not calling her racist. The way she codes certain characters of colour
+> Directed by  
+James Somerton
 
-in her books is… questionable, but she hasn’t done anything out and out racist,
-as far as
+\[Title]: 
 
-I know. Though her appropriation of native American
+> Confessions of a  
+HARRY POTTER  
+Fan Boy
 
-beliefs for Fantastic Beasts was… contentious. No, she’s instead, been laser
-focused on
+</credits>
+</compare>
 
-trans people. It’s much safer to be transphobic than racist
+## PART ONE: The Philosopher’s Denial
 
-these days anyway. People might give you dirty looks, or even
+<compare>
+<cite></cite>
+<james>
 
-stop talking to you if you’re too racist too publicly. At least in
-semi-civilized circles. Same for homophobia, really. Imagine if Rowling went
-full homophobe. She’d have no choice but to write under
+So here we are. Honestly didn’t think I’d end up making this video. In fact, I said in a few livestreams that I wouldn’t. But, it’s just been nagging and nagging at me. I’d made my video about [queer themes in Harry Potter back in 2018](we9bGN5_jM0.md), the halcyon days of when you could give Joanne
+Rowling the benefit of the doubt. 
 
-a psyudenum next time! But not so when it comes to trans people. Even a lot of
-people who support trans rights
+And boy did I ever give her the benefit of the doubt. And why wouldn’t I? She was a powerful female author who used her voice to raise money for charity and vocally support marginalized communities. *Crimes of Grinldewald* hadn’t even come out yet, so I was flying high on the potential for gay representation in the magical world. 
 
-aren’t willing to risk their social cache on defending them, especially to
-someone like
+Then the movie came out. Then she started retweeting things. Then she wrote the essay. Then she wrote the book. And on and on. *Sigh* I don’t think I need to go into all the gory details of Rowling’s descent into TERFism. [Contrapoints made a fantastic video](https://www.youtube.com/watch?v=7gDKbT_l2us) doing that, so just go watch that if you want an actual trans person’s opinion. I’m just a cis guy holding a grudge. 
 
-Rowling. Some celebrities, such as the younger cast
+</james>
+<from></from>
+</compare>
 
-of the Harry Potter movies did come out and declare “trans women are women”,
-which
+<compare>
+<cite></cite>
+<james>
 
-is good. Though the older actors all seem to be in
+The TL;DR version is that Rowling has spent the last several years positioning herself as TERF, (Trans Exclusionary Radical Feminist) numero uno on the internet. She’s been very good at doing that thing we all associate with racists. You know. “I’m very good friends with trans people, *but*…” “I’m not transphobic, *but*…” 
 
-lockstep with Rowling’s more… conservative point of view. Some of the actors of
-the Fantastic Beasts
+Now before some of ya’ll jump down my throat, no I’m not calling her racist. The way she codes certain characters of colour in her books is… questionable, but she hasn’t done anything out and out racist, as far as I know. (Though her appropriation of native American beliefs for Fantastic Beasts was… contentious.)
 
-movies even came out against her transphobia. But. It’s not like they left the
-movies. And before you say they couldn’t because
+No, she’s instead, been laser focused on trans people. It’s much safer to be transphobic than racist these days anyway. People might give you dirty looks, or even stop talking to you if you’re too racist too publicly. (At least in semi-civilized circles.) Same for homophobia, really. Imagine if Rowling went full homophobe. She’d have no choice but to write under a psyudenum <sup class="add">[sic: pseudonym]</sup> next time! 
 
-of contractual obligations… contracts between actors and studios have Morality
-clauses. That’s why Johnny Depp isn’t in Fantastic
+</james>
+<from></from>
+</compare>
 
-Beasts anymore. Studios can nullify contracts if an actor
+<compare>
+<cite></cite>
+<james>
 
-does something morally reprehensible (Murder, sexual assault, spousal abuse,
-etc), and actors
+But not so when it comes to trans people. Even a lot of people who support trans rights aren’t willing to risk their social cache on defending them, especially to someone like Rowling. Some celebrities, such as the younger cast of the Harry Potter movies did come out and declare “trans women are women”, which is good. Though the older actors all seem to be in lockstep with Rowling’s more… conservative point of view. <span class="add">(The ones who have spoken out, anyway.)</span>
 
-can nullify the contract if they believe producers of a film are committing acts
-that go against
+Some of the actors of the Fantastic Beasts movies even came out against her transphobia. But. It’s not like they left the movies. And before you say they couldn’t because of contractual obligations… contracts between actors and studios have Morality clauses. That’s why Johnny Depp isn’t in the Fantastic Beasts anymore. Studios can nullify contracts if an actor does something morally reprehensible (Murder, sexual assault, spousal abuse, etc), and actors can nullify the contract if they believe producers of a film are committing acts that go against their own morals. 
 
-their own morals. And since JK Rowling IS a producer on the
+And since JK Rowling IS a producer on the Fantastic Beasts movies, this leaves the actors wide open to drop the franchise like the steaming pile of mediocrity it is. But they haven’t so to hell with them. If box office numbers are any indication, the franchise isn’t long for this world anyway. 
 
-Fantastic Beasts movies, this leaves the actors wide open to drop the franchise
-like the steaming
+</james>
+<from></from>
+</compare>
 
-pile of mediocrity it is. But they haven’t so to hell with them. If box office
-numbers are any indication,
+<compare>
+<cite></cite>
+<james>
 
-the franchise isn’t long for this world anyway. And don’t start with the “Crimes
-of Grindlewald
+And don’t start with the <span class="add">(high pitched voice)</span>“Crimes of Grindlewald made 654 million dollars world wide, its a success”. No. That movie had a 200 million dollar production budget, plus over a hundred million in advertising spend. That’s three hundred million dollars spent. The studio only gets, roughly, 50% of the box office gross because theaters keep the other 50% (Chinese theaters keep around 70%), so Warner Bros made a profit of roughly 26 million dollars off that movie, if you’re being generous. A precipitous drop from the highs of the Harry Potter franchise. 
 
-made 654 million dollars world wide, its a success”. No. That movie had a 200
-million dollar production
+And since the next movie is going to be releasing into a world where people may or may not be comfortable going back to theatres, I can only imagine it will be making even less. How did this become a seminar on the minutea <sup class="add">[sic: minutiae]</sup> of the film industry? Back to Rowling. 
 
-budget, plus over a hundred million in advertising spend. That’s three hundred
-million dollars spent. The studio only gets , roughly, 50% of the
+</james>
+<from></from>
+</compare>
 
-box office gross because theaters keep the other 50% (Chinese theaters keep
-around 70%),
+<compare>
+<cite></cite>
+<james>
 
-so Warner Bros made a profit of roughly 26 million dollars off that movie, if
-you’re
+I can’t wrap my head around how all of this happened. Honestly. How this woman who wrote books that’s defined my adolescence, and the adolescences of queer people around the world, became so toxic? How did she, so quickly, go from being the author held up by millions as an example of wokeness… to this?
 
-being generous. A precipitous drop from the highs of the Harry
+<span class="add">Well,</span> It’s a long story. See I discovered the books in 2001, just before the first movie came out, and only about a year after I myself came out. Other than getting a rock off the back of the head and some *minor* brain damage, nobody really had a problem with my being gay. 
 
-Potter franchise. And since the next movie is going to be releasing
+But *my god* I was lonely. Not only was I gay in a small town but I was *fat* and gay in a small town. I knew that even if I did manage to find other gay people they probably wouldn’t want anything to do with me. So I escaped that shitty world for the magical one she created. 
 
-into a world where people may or may not be comfortable going back to theatres,
-I can
+</james>
+<from></from>
+</compare>
 
-only imagine it will be making even less. How did this become a seminar on the
-minutea
+<compare>
+<cite></cite>
+<james>
 
-of the film industry? Back to Rowling. I can’t wrap my head around how all of
-this
+Out of order, mind you. I started with Prisoner of Azkaban, then Chamber of Secrets, then Philosopher’s Stone, then Goblet of Fire. After that I read the books as they were released. I was one of the kids who made his parents drive him to a book store at midnight so he could buy the newest entry in the adventures of Harry, Hermione, and Ron. 
 
-happened. Honestly. How this woman who wrote books that’s defined
+I’m the one who started studying mythology because of the off-hand references that Rowling sprinkled throughout the books. I was at every preview screening of the movies, which was pretty hard to pull off living 40 minutes away from the nearest movie theatre. But I was there. Sometimes I was there all alone because my parents were busy and my friends weren’t into Harry Potter.
 
-my adolescence, and the adolescences of queer people around the world, became so
-toxic? How did she, so quickly, go from being the
+</james>
+<from></from>
+</compare>
 
-author held up by millions as an example of wokeness… to this? It’s a long
-story. See I discovered the books in 2001, just before
+<compare>
+<cite></cite>
+<james>
 
-the first movie came out, and only about a year after I myself came out. Other
-than getting a rock off the back of
+Growing up in a small town, I had next to no exposure to *anyone* who wasn’t white, straight, and catholic. I never even met a black person until I was sixteen. So I could have come *dangerously* close to becoming a close-minded bigot. I certainly wouldn’t have been the only one in the area. 
 
-the head and some minor brain damage, nobody really had a problem with my being
-gay. But my god I was lonely. Not only was I gay in a small town but I was
+But that didn’t happen. Instead I was open to new ideas, new people of different races and backgrounds. People who saw the world differently than me. Who had <span class="add">a</span> different lived experience<span class="del">s</span> than me. 
 
-fat and gay in a small town. I knew that even if I did manage to find other
+Because I got to escape to Hogwarts. Where being different didn’t mean you were bad. Where being weird meant you were special, not deviant. Where students of different races and nationalities came together to bring down a villain hellbent on destroying pluralism. Who wanted the world to be exactly as he saw it, and would kill anyone who stepped out of line. 
 
-gay people they probably wouldn’t want anything to do with me. So I escaped that
-shitty world for the magical
+</james>
+<from></from>
+</compare>
 
-one she created. Out of order, mind you. I started with Prisoner of Azkaban,
-then Chamber
+<compare>
+<cite></cite>
+<james>
 
-of Secrets, then Philosopher’s Stone, then Goblet of Fire. After that I read the
-books as they were released. I was one of the kids who made his parents
+So because of seven books and eight movies, I had my mind forced open to the fact that people who are different from me are not less than me. Something I appreciated when I got to film school and was surrounded by the types of people I’d only ever seen on tv and in movie up until then. And I thanked Rowling for that. She helped this lonely gay kid feel not so alone, that there was a group of people out there, somewhere, who would accept me. Who would welcome me in and make me feel like a part of something bigger than just my small town. 
 
-drive him to a book store at midnight so he could buy the newest entry in the
-adventures
+And I thanked her for that by spending as much money on Harry Potter merchandise as I could. I loved it all. Different house scarves. Lego. Collectors edition sets of the books and movies. Over-priced wands. I was even saving up to pay an *exorbitant* amount of money for tickets to see the Cursed Child play before I read it and realized it was horrible. But it wasn’t written by Rowling, so that explained everything! 
 
-of Harry, Hermione, and Ron. I’m the one who started studying mythology
+As far as I was concerned everything she touched was gold. And then… <span class="add">*(Sigh)*</span> things started to rust. 
 
-because of the off-hand references that Rowling sprinkled throughout the books.
-I was at every preview screening of the movies,
+</james>
+<from></from>
+</compare>
 
-which was pretty hard to pull off living 40 minutes away from the nearest movie
-theatre. But I was there. Sometimes I was there all alone because my
+## PART TWO: The Chamber of Anger
 
-parents were busy and my friends weren’t into Harry Potter. Growing up in a
-small town, I had next to
+<compare>
+<cite></cite>
+<james>
 
-no exposure to anyone who wasn’t white, straight, and catholic. I never even met
-a black person until I was
+First came *The Crimes of Grindlewald*. I don’t think I’ve ever given a movie so much leeway <span class="add">in my life</span>. Leading up to the release I, and many other people, were incredibly excited to finally get on screen confirmation of the relationship between Dumbledore and Grindlewald, something Rowling had confirmed after the release of the final Harry Potter book. 
 
-sixteen. So I could have come dangerously close to
+And then the director said we *wouldn’t* be getting it in this movie and then the movie came out and… well, we didn’t get it. But that was ok, I said. <span class="add">We'd...</span> We’d get it eventually. 
 
-becoming a close-minded bigot. I certainly wouldn’t have been the only
+</james>
+<from></from>
+</compare>
 
-one in the area. But that didn’t happen. Instead I was open to new ideas, new
-people
+<compare>
+<cite></cite>
+<james>
 
-of different races and backgrounds. People who saw the world differently than
+And I fought with so many people on the internet saying that “no no no, of course they weren’t going to have Dumbledore and Grindlewald making out in *this* movie. They’d save that until the finale! Movie 5. Because that way you’d be less likely to lose the family audience throughout the series.” <span class="add">Marketing brain at work.</span>
 
-me. Who had different lived experiences than me. Because I got to escape to
-Hogwarts. Where being different didn’t mean you were
+Nevermind that the script for *Crimes of Grindlewald* was a disaster that absolutely reeked of first draft sickness. But I defended the movie and Rowling online to no end. I spent hours figuring out how they could confirm the relationship between Grindlewald and Dumbledore in some physical way that could retain the PG-13 rating, and be easily removable for markets like China and Russia. I was invested in convincing other people that they were wrong to criticize her. That she was playing the game as best she could. 
 
-bad. Where being weird meant you were special,
+</james>
+<from></from>
+</compare>
 
-not deviant. Where students of different races and nationalities
+<compare>
+<cite></cite>
+<james>
 
-came together to bring down a villain hellbent on destroying pluralism. Who
-wanted the world to be exactly as he saw
+After it was a box office disappointment, I made the argument that it should go to a streaming service, like Netflix or the eventually announced HBO MAX. Since HBO MAX doesn’t exist in, well, anywhere outside the US, let alone in China and Russia, you wouldn’t have to worry about the movie being banned in countries with homophobic governments. And you wouldn’t have to worry about parents groups losing their shit about gay wizards because the HBO MAX subscription model had already locked them in for a year or more. And by the time it came up for renewal, they’d have forgotten about it and stayed subscribed for a DC show or a Game of Thrones show or something <span class="add">like that</span>.
 
-it, and would kill anyone who stepped out of line. So because of seven books and
-eight movies,
+But as I was busy defending her, and trying to figure out ways Warner <span class="del">Media</span><span class="add">Brothers</span> could make money, she’d been busy doing other things. Unfortunately, it wasn’t taking screenwriting classes. 
 
-I had my mind forced open to the fact that people who are different from me are
-not less
+</james>
+<from></from>
+</compare>
 
-than me. Something I appreciated when I got to film
+<compare>
+<cite></cite>
+<james>
 
-school and was surrounded by the types of people I’d only ever seen on tv and in
-movie
+JK Rowling had been busy on Twitter. Starting out simply by retweeting some transphobic tweets that her PR representatives deemed a “clumsy and middle-aged moment”. I bought the spin of course, because how on *earth* could the woman who helped ensure *I* didn’t grow up to be a bigot be, well, a bigot? Obviously it was a mistake. She hadn’t seen these people’s other, way more transphobic tweets. 
 
-up until then. And I thanked Rowling for that. She helped this lonely gay kid
-feel not so
+This happened right around the time that Lego started releasing Harry Potter sets, including a piece by piece recreation of Hogwarts <span class="add">that you can see behind me</span>. So, of course, I bought each set immediately upon release. All the while defending her to gay friends but, keeping quiet about her to my trans friends. 
 
-alone, that there was a group of people out there, somewhere, who would accept
-me. Who would welcome me in and make me feel like
+</james>
+<from></from>
+</compare>
 
-a part of something bigger than just my small town. And I thanked her for that
-by spending as
+<compare>
+<cite></cite>
+<james>
 
-much money on Harry Potter merchandise as I could. I loved it all. Different
-house scarves. Lego. Collectors edition sets of the books and movies.
-Over-priced wands. I was even saving up to pay an exorbitant
+Underneath my adoration for her I was starting to feel… embarrassed. But it was easy enough to just keep buying the merchandise, because the lego was being released during a time when Rowling had mostly disappeared from social media. Taking a self imposed break after the backlash that followed the initial retweets of transphobes. Only popping up once and a while with cryptic posts about upcoming projects, or confirming fan theories about Harry Potter that she never bothered to write into the books. 
 
-amount of money for tickets to see the Cursed Child play before I read it and
-realized it
+</james>
+<from></from>
+</compare>
 
-was horrible. But it wasn’t written by Rowling, so that
+<compare>
+<cite></cite>
+<james>
 
-explained everything! As far as I was concerned everything she touched
+And then came the tweets. They started relatively benign enough, with Rowling being frustrated over the term “People who menstruate”. A term that’s trying to be inclusive of certain trans men but <span class="del">just sounds…</span><span class="add">does sound a bit</span> off. In the right light it does sound a tad bit dehumanizing, so I could see why people would be put off by it.
 
-was gold. And then… things started to rust. PART TWO: The Chamber of Anger First
-came The Crimes of Grindlewald. I don’t think I’ve ever given a movie
+</james>
+<from></from>
+</compare>
 
-so much leeway. Leading up to the release I, and many other
+<compare>
+<cite></cite>
+<james>
 
-people, were incredibly excited to finally get on screen confirmation of the
-relationship
+Then she started retweeting loud and proud TERFS like Maya Forstater and the shit completely hit the fan. When some of her followers criticized the tweet as being off-color or even *possibly* transphobic Rowling responded by saying:
 
-between Dumbledore and Grindlewald, something Rowling had confirmed after the
-release of
+\[Visual: Tweet shown on-screen:]
+> “Dress however you please. Call yourself whatever you like. Sleep with any consenting adult who’ll have you. Live your best life in peace and security. But force women out of their jobs for stating that sex is real?” 
 
-the final Harry Potter book. And then the director said we wouldn’t be
+Later saying: 
 
-getting it in this movie and then the movie came out and… well, we didn’t get
-it. But that was ok, I said. We’d get it eventually. And I fought with so many
-people on the internet
+\[Visual: Tweet shown on-screen:]
+>“If sex isn’t real, there’s no same-sex attraction. If sex isn’t real, the lived reality of women globally is erased. I know and love trans people, but erasing the concept of sex removes the ability of many to meaningfully discuss their lives. It isn’t hate to speak the truth.” 
 
-saying that “no no no, of course they weren’t going to have Dumbledore and
-Grindlewald making
+</james>
+<from></from>
+</compare>
 
-out in this movie. They’d save that until the finale! Movie 5. Because that way
-you’d be less likely to
+<compare>
+<cite></cite>
+<james>
 
-lose the family audience throughout the series.” Nevermind that the script for
-Crimes of Grindlewald
+And out came the “If sex isn’t real” argument. This is something that TERFs love to do. Equate sex and gender. Either because their ignorant of the difference, too dumb to tell, or just assholes. 
 
-was a disaster that absolutely reeked of first draft sickness. But I defended
-the movie and Rowling online
+Essentially, sex is biological in nature. It’s determined on a chromosomal level. Masculine and feminine sexual characteristics are, for the most part, determined by this. I say "for the most part" because intersex people also exist, despite what TERFs <span class="del">will</span><span class="add">seem to be willing to</span> admit, and really ought to be included in the conversation. Not everyone in the whole wide world fits into the neat little binary of XX or XY chromosomes. 
 
-to no end. I spent hours figuring out how they could
+</james>
+<from></from>
+</compare>
 
-confirm the relationship between Grindlewald and Dumbledore in some physical way
-that could
+<compare>
+<cite></cite>
+<james>
 
-retain the PG-13 rating, and be easily removable for markets like China and
-Russia. I was invested in convincing other people
+So sex is biological. Immutable. Whereas gender is a social construct. Man and woman. Something that a lot of people think is innate in nature <span class="add">but isn't</span>. <span class="add">Even though</span><span class="add">Because for</span> for thousands of years there have been third genders recognized all over the world. Non-binary genders. In many places people who didn’t fit neatly into the male or female category were considered closer to god because of it. 
 
-that they were wrong to criticize her. That she was playing the game as best she
+But TERFs have a hard enough time wrapping their head around the idea of someone born into a feminine body <span class="add">can</span> transition<span class="del">ing</span>, binarily, into a masculine one. Or vice versa. Can you imagine their heads exploding at the concept of not having to be male or female? <span class="del">Wingardium Levi-o-shit!</span>
 
-could. After it was a box office disappointment,
+</james>
+<from></from>
+</compare>
 
-I made the argument that it should go to a streaming service, like Netflix or
-the eventually
+<compare>
+<cite></cite>
+<james>
 
-announced HBO MAX. Since HBO MAX doesn’t exist in, well, anywhere
+On top of that, she used the argument that “If sex isn’t real, there’s no same sex attraction”. The loudest dog whistle in the world to try and pit cisgender gays and lesbians against trans people. Almost threatening us that “If you let transgender<span class="add">s</span> be a thing, that completely delegitimizes everything you’ve fought for”. It doesn’t<span class="add">, by the way</span>. She was just trying to win over some <span class="add">not entirely intelligent</span> allies. 
 
-outside the US, let alone in China and Russia, you wouldn’t have to worry about
-the movie
+And then she doubled down, and tripled down, and quadrupled down until finally publishing a thousand page detective novel with a serial killer who dresses up like a woman in order to ubduct<sup class="add">[sic: abduct]</sup> and murder them. 
 
-being banned in countries with homophobic governments. And you wouldn’t have to
-worry about parents
+</james>
+<from></from>
+</compare>
 
-groups losing their shit about gay wizards because the HBO MAX subscription
-model had
+<compare>
+<cite></cite>
+<james>
 
-already locked them in for a year or more. And by the time it came up for
-renewal, they’d
+I mean I know she’s well known for pulling themes and creatures from mythology for Harry Potter, but did she have to pull out a lazy thriller trope that’s even older than she is? That was played out before the first Harry Potter book was published. *Silence of the Lambs* did this and is one of the best movies <span class="add">and books</span> ever made <span class="add">or written</span>. <span class="del">You’re not going to do better.</span> And you know you’re not going to do it better<span class="add">, right?</span> So why try? 
 
-have forgotten about it and stayed subscribed for a DC show or a Game of Thrones
-show or
+Could it be that you’re delusional enough to think that you can write a thriller that’s better than *Silence of the Lambs*? Or, maybe, are you doing it because you have an agenda? It’s the second one, btw. <span class="add">Just</span> In case I’m being too subtle.
 
-something. But as I was busy defending her, and trying
+</james>
+<from></from>
+</compare>
 
-to figure out ways Warner Media could make money, she’d been busy doing other
-things. Unfortunately, it wasn’t taking screenwriting
+## PART THREE: The Prisoner of Gender 
 
-classes. JK Rowling had been busy on Twitter. Starting out simply by retweeting
-some transphobic
+<compare>
+<cite></cite>
+<james>
 
-tweets that her PR representatives deemed a “clumsy and middle-aged moment”. I
-bought the spin of course, because how on
+But how did this happen? How did the woman who told an entire generation of kids that being their true selves is good, and the right thing… end up doing a 180 and completely disavowing a whole group of people <span class="add">that are</span> just trying to live their lives? 
 
-earth could the woman who helped ensure I didn’t grow up to be a bigot be, well,
-a
+I mean it came as a hell of a shock to me but it wasn’t all that shocking <span class="del">to people</span> who know what’s going on in current mainstream British feminism. An anti-trans strain of feminism has *always* simmered under the surface, but it’s really come to light over the last few years in <span class="del">England</span><span class="add">the U.K.</span>, especially after the proposed changes to the nation’s Gender Recognition Act.
 
-bigot? Obviously it was a mistake. She hadn’t seen these people’s other,
+</james>
+<from></from>
+</compare>
 
-way more transphobic tweets. This happened right around the time that Lego
+<compare>
+<cite></cite>
+<james>
 
-started releasing Harry Potter sets, including a piece by piece recreation of
-Hogwarts. So, of course, I bought each set immediately
+The Gender Recognition Act, a law put on the books in 2004, sets up the legal process for trans people to change their legal gender on their birth certificates. Because at the time that decision was not made by you, or your doctor, but by an anonymous group of beurocrats.<sup class="add">[sic: bureaucrats]</sup> 
 
-upon release. All the while defending her to gay friends
+In 2017, the government announced a possible reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned gender. But there was a hell of a lot of backlash from TERFs, people who generally hate trans people, and the very transphobic English press who had a habit of running stories with dead names. 
 
-but, keeping quiet about her to my trans friends. Underneath my adoration for
-her I was starting
+\[On screen]: "TERFs" "Assholes" "Rich Assholes"
 
-to feel… embarrassed. But it was easy enough to just keep buying
+</james>
+<from></from>
+</compare>
 
-the merchandise, because the lego was being released during a time when Rowling
-had mostly
+<compare>
+<cite></cite>
+<james>
 
-disappeared from social media. Taking a self imposed break after the backlash
+These reporters falsely claimed that allowing trans people to “self-ID” meant that <span class="del">a person</span><span class="add">people</span> could declare themselves a man on Monday and a woman on Friday, allowing rapists to gain access to women’s only spaces like bathrooms and changing rooms. 
 
-that followed the initial retweets of transphobes. Only popping up once and a
-while with cryptic
+Now, I’ve never been sexually assaulted, but I do know a disturbing amount of women who have. I’ve been the one taking them to the hospital, the cops, or the counciling<sup class="add">[sic: counseling]</sup> sessions. And something I’ve discovered through all of this is… rapists don’t go through that much effort. <span class="add">There's not a lot of thinking behind it.</span> They just do it. It’s a power thing. Men who believe <span class="del">they’re</span><span class="add">they are</span> more powerful than women are not going to dress up as a woman in order to assault <span class="del">her</span><span class="add">them</span>. They’re too lazy for that, don’t give them that much credit. But I digress. 
 
-posts about upcoming projects, or confirming fan theories about Harry Potter
-that she never
+</james>
+<from></from>
+</compare>
 
-bothered to write into the books. And then came the tweets. They started
-relatively benign enough, with
+<compare>
+<cite></cite>
+<james>
 
-Rowling being frustrated over the term “People who menstruate”. A term that’s
-trying to be inclusive of
+The campaign of lies in the press soon moved on to spread more lies, now about trans children. That kids were being forced to transition by ultra-woke parents and experimental doctors. As a result, a large proportion of mainstream British feminists started loudly proclaiming that it’s not possible to change biological sex. Always ALWAYS focusing on biology and not sociology.
 
-certain trans men but just sounds… off. In the right light it does sound a tad
-bit
+No one, to my knowledge, has claimed that a trans person can change their chromosomal sex. Only in a perfect world. BUT, one can change their gender, because that is simply how you are perceived by society. Lavern Cox may have an X and a Y chromosome, but if you’re lucky enough to see her walking down the street, you’re not thinking anything but woman. 
 
-dehumanizing, so I could see why people would be put off by it. Then she started
-retweeting loud and proud
+Meanwhile, in most mainstream North American feminist circles, speaking out against trans women and men is not considered feminism at all. It’s considered being a dick head. 
 
-TERFS like Maya Forstater and the shit completely hit the fan. When some of her
-followers criticized the
+</james>
+<from></from>
+</compare>
 
-tweet as being off-color or even possibly transphobic Rowling responded by
-saying: “Dress however you please. Call yourself whatever you like. Sleep with
-any consenting adult who’ll have
+<compare>
+<cite></cite>
+<james>
 
-you. Live your best life in peace and security. But force women out of their
-jobs for stating
+But trans-exclusionary radical feminist <span class="del">(TERF)</span> ideology has been helped along in the UK by false media campaigns lead by the likes of Rupert Murdoch, the Australian billionaire who birthed Fox News. Any opposition to gender-critical or TERF thought in the UK brings accusations of “silencing women”, leading to Australian TERF Sheila Jeffreys going before the UK Parliament in March of 2018 to declare that trans women <span class="add">are</span> “parasites,”. Charming.
 
-that sex is real?” Later saying: “If sex isn’t real, there’s no same-sex
+</james>
+<from></from>
+</compare>
 
-attraction. If sex isn’t real, the lived reality of
+<compare>
+<cite></cite>
+<james>
 
-women globally is erased. I know and love trans people, but erasing
+Vox.com reported that According to <span class="add">Erin Greensmith</span>, who studies the modern gender-critical movement, gender-critical feminism in the UK grew out of a toxic mix of historical imperialism, and any concept that looks at gender as anything but biologically determined. Those who rose to prominence in the movement did so through “Call out culture”, attacking trans men and women online. 
 
-the concept of sex removes the ability of many to meaningfully discuss their
-lives. It isn’t hate to speak the truth.” And out came the “If sex isn’t real”
+Declaring trans women to be male perverts, and trans men to be lost lesbian sisters. Nevermind that trans men can also be gay or bisexual. Another fact TERFS don’t like <span class="del">acknowledging</span><span class="add">to acknowledge</span>. 
 
-argument. This is something that TERFs love to do. Equate sex and gender. Either
-because their ignorant of the difference,
+</james>
+<from></from>
+</compare>
 
-too dumb to tell, or just assholes. Essentially, sex is biological in nature.
-It’s determined on a chromosomal level. Masculine and feminine sexual
-characteristics
+<compare>
+<cite></cite>
+<james>
 
-are, for the most part determined by this. I say for the most part because
-intersex people
+\[Visual: Quote scrolling on-screen:]
+> “Anti-trans feminists think they have science on their side,” Greensmith said. “It is bananas how ascientific their rhetoric is, and yet literally they say, ‘Biology isn’t bigotry.’ In fact, biology has been used as bigotry as long as biology has been a thing.” 
 
-also exist, despite what TERFs will admit, and really ought to be included in
-the conversation. Not everyone in the whole wide world fits
+</james>
+<from></from>
+</compare>
 
-into the neat little binary of XX or XY chromosomes. So sex is biological.
-Immutable. Whereas gender is a social construct. Man and woman. Something that a
-lot of people think is innate
+<compare>
+<cite></cite>
+<james>
 
-in nature. Even though for thousands of years there have
+Biology has been used to hold people down for thousands of years. Holding down women, people of color - You name a non-white-male group and biology has been used to bring the boot down on them at some point. And the biology narrative has only grown in the UK. 
 
-been third genders recognized all over the world. Non-binary genders. In many
-places people who didn’t fit neatly
+TERFism has become so prevalent there that many liberal pundits even blamed the conservative Tory victory in the last parliamentary election on trans people, saying that trans issues are just a hyper-woke product of a political left that has simply gone too far. BREXIT was even blamed on trans people. Donald Trump’s election win in 2016 was blamed on trans people! By British people! 
 
-into the male or female category were considered closer to god because of it.
-But TERFs have a hard enough time wrapping
+</james>
+<from></from>
+</compare>
 
-their head around the idea of someone born into a feminine body transitioning,
-binarily,
+<compare>
+<cite></cite>
+<james>
 
-into a masculine one. Or vice versa. Can you imagine their heads exploding at
-the
+So English feminists, of which JK Rowling considers herself a proud member, were already at a tipping point when Maya Forstater sued the Centre for Global Development, a non-profit think tank that decided not to renew her expiring contract when they discovered that she’d been spreading TERFY shit all over the internet. 
 
-concept of not having to be male or female? Wingardium Levi-o-shit! On top of
-that, she used the argument that
+After a hearing with a UK employment tribunal, Judge James Tayler (good name) ruled that Forstater’s gender-critical views did not represent a legally protected philosophical belief. He said: 
 
-“If sex isn’t real, there’s no same sex attraction”. The loudest dog whistle in
-the world to try
+</james>
+<from></from>
+</compare>
 
-and pit cisgender gays and lesbians against trans people. Almost threatening us
-that “If you let transgender
+<compare>
+<cite></cite>
+<james>
 
-be a thing, that completely delegitimizes everything you’ve fought for”. It
-doesn’t. She was just trying to win over some allies. And then she doubled down,
-and tripled down,
+\[Visual: Quote scrolling on-screen:]
+> “I consider that the Claimant’s view, in its absolutist nature, is incompatible with human dignity and [the] fundamental rights of others.” 
 
-and quadrupled down until finally publishing a thousand page detective novel
-with a serial
+</james>
+<from></from>
+</compare>
 
-killer who dresses up like a woman in order to ubduct and murder them. I mean I
-know she’s well known for pulling
+<compare>
+<cite></cite>
+<james>
 
-themes and creatures from mythology for Harry Potter, but did she have to pull
-out a lazy
+That’s when the “Dress however you please” tweet came out, and it’s just been downhill ever since. Including <span class="add">J.K. Rowling</span> publishing an overly long essay basically explaining why she thinks trans people aren’t valid. <span class="del">Mostly has to do with bathrooms, because of course it does.</span> 
 
-thriller trope that’s even older than she is? That was played out before the
-first Harry
+<span class="add">[Seemingly to Nick off to the side:] It is ironic that I'm saying that her thirty-five-hundred word essay is "overly long" when this one is ten-thousand words. Double standards!</span>
 
-Potter book was published. Silence of the Lambs did this and is one of
+</james>
+<from></from>
+</compare>
 
-the best movies ever made. You’re not going to do better. And you know you’re
-not going to do it better. So why try? Could it be that you’re delusional enough
+<compare>
+<cite></cite>
+<james>
 
-to think that you can write a thriller that’s better than Silence of the Lambs?
-Or, maybe, are you doing it because you have
+One person replied to her tweets, writing: 
 
-an agenda? It’s the second one, btw. In case I’m being too subtle. PART THREE:
-The Prisoner of Gender But how did this happen? How did the woman who told an
-entire generation
+\[Visual: Quote on-screen:]
+>“As a physician, I want people to know that sex exists on a bimodal biological spectrum just like gender exists on a bimodal sociological spectrum. While most identify as either female or male, there are intersex and trans individuals whose identities are just as valid and real.” 
 
-of kids that being their true selves is good, and the right thing… end up doing
-a 180
+</james>
+<from></from>
+</compare>
 
-and completely disavowing a whole group of people just trying to live their
-lives? I mean it came as a hell of a shock to me
+<compare>
+<cite></cite>
+<james>
 
-but it wasn’t all that shocking to people who know what’s going on in current
-mainstream
+Rowling proceeded to block them. And ever since then she has been more than happy to spout off about her ignorant beliefs whenever given the chance. Like in her 3600 word blog, “TERF Wars”. Oh she’s so funny. “TERF Wars” aha ha ha ha <span class="add">oh so clever...</span>
 
-British feminism. An anti-trans strain of feminism has always
+</james>
+<from></from>
+</compare>
 
-simmered under the surface, but it’s really come to light over the last few
-years in England,
+## PART FOUR: The Goblet of Bargaining 
 
-especially after the proposed changes to the nation’s Gender Recognition Act.
-The Gender Recognition Act, a law put on the
+<compare>
+<cite></cite>
+<james>
 
-books in 2004, sets up the legal process for trans people to change their legal
-gender
+In the blog, Rowling writes about her struggles with sexism and misogyny, adding that reading accounts of gender dysphoria in trans men had made her wonder: 
 
-on their birth certificates. Because at the time that decision was not
+\[Visual: Quote on-screen:]
+>“if I’d been born 30 years later, I too might have tried to transition”. 
 
-made by you, or your doctor, but by an anonymous group of beurocrats. In 2017,
-the government announced a possible
+</james>
+<from></from>
+</compare>
 
-reform that would let trans people make a legal declaration that they pledged to
-live
+<compare>
+<cite></cite>
+<james>
 
-the rest of their lives as their transitioned gender. But there was a hell of a
-lot of backlash
+Also writing:
 
-from TERFs, people who generally hate trans people, and the very transphobic
-English press
+\[Visual: Quote on-screen:]
+> “Many, myself included, believe we are watching a new kind of conversion therapy for young gay people, who are being set on a lifelong path of medicalization.” 
 
-who had a habit of running stories with dead names. These reporters falsely
-claimed that allowing
+Some readers took this as her actually comparing gender <span class="del">confirming</span><span class="add">confirmation</span> therapies to gay conversion therapy, which has been labeled <span class="add">as</span> torture by many <span class="add">in the</span> psychological profession<span class="del">al</span>s. You didn’t have to stretch very far to see the comparison. 
 
-trans people to “self-ID” meant that a person could declare themselves a man on
-Monday
+</james>
+<from></from>
+</compare>
 
-and a woman on Friday, allowing rapists to gain access to women’s only spaces
-like
+<compare>
+<cite></cite>
+<james>
 
-bathrooms and changing rooms. Now, I’ve never been sexually assaulted,
+Her response to this was: 
 
-but I do know a disturbing amount of women who have. I’ve been the one taking
-them to the hospital,
+\[Visual: Tweet shown on-screen:]
+> “I’ve ignored fake tweets attributed to me and RTed widely. I’ve ignored porn tweeted at children on a thread about their art. I’ve ignored death and rape threats. I’m not going to ignore this.” 
 
-the cops, or the counciling sessions. And something I’ve discovered through all
+Well at least she’s got her priorities straight. Then she signed an open letter condemning cancel culture. The billionaire author who lives in a castle and was about to have another book hit #1 on the New York Times Best Seller list… complaining about being cancelled. 
 
-of this is… rapists don’t go through that much effort. They just do it. It’s a
-power thing. Men who believe they’re more powerful than
+</james>
+<from></from>
+</compare>
 
-women are not going to dress up as a woman in order to assault her. They’re too
-lazy for that, don’t give
+<compare>
+<cite></cite>
+<james>
 
-them that much credit. But I digress. The campaign of lies in the press soon
-moved
+Warner Bros official statement regarding her repeated infractions was: 
 
-on to spread more lies, now about trans children. That kids were being forced to
-transition
+\[Visual: Quote scrolling on-screen:]
+> “The events in the last several weeks have firmed our resolve as a company to confront difficult societal issues. Warner Bros position on inclusiveness is well established, and fostering a diverse and inclusive culture has never been more important to our company and to the audiences around the world. We deeply value the work of our storytellers who give so much of themselves in sharing their creations with us all. We recognize our responsibility to foster empathy and advocate understand of all communities and all people, those we reach through our content.“
 
-by ultra-woke parents and experimental doctors. As a result, a large proportion
-of mainstream
+</james>
+<from></from>
+</compare>
 
-British feminists started loudly proclaiming that it’s not possible to change
-biological
+<compare>
+<cite></cite>
+<james>
 
-sex. Always ALWAYS focusing on biology and not
+Couldn’t use the word transgender once<span class="add">?</span><span class="del">, huh? I mean</span> they might have well said, “we believe in people” for how much sense and genuine emotion this statement had. But, Warner Bros hasn’t been known for making a lot of sense lately. <span class="add">So... it's their *brand*.</span>
 
-sociology. No one, to my knowledge, has claimed that
+There has been some backlash, mostly from queer inclusive groups. But the most interesting response has actually been from the fans. To a very large extent, fans of Harry Potter have been beside themselves… ourselves,,, with her actions. While some just wish she’d stop, and go back to the Rowling we thought we knew and loved… many are not afraid of letting her know how they feel on social media. 
 
-a trans person can change their chromosomal sex. Only in a perfect world. BUT,
-one can change their gender, because
+</james>
+<from></from>
+</compare>
 
-that is simply how you are perceived by society. Lavern Cox may have an X and a
-Y chromosome,
+<compare>
+<cite></cite>
+<james>
 
-but if you’re lucky enough to see her walking down the street, you’re not
-thinking anything
+And it’s gotten under her skin too. She threatened to sue some people for calling her a bigot on Twitter, and apparently hasn’t spoken to Emma Watson since the actress posted this photo of herself on Instagram with a shirt declaring “Trans rights are human rights”. 
 
-but woman. Meanwhile, in most mainstream North American
+The thing is though, Rowling is pretty insulated from most negativity toward her. She’s surrounded herself with fellow TERFs who agree with her. She’s fabulously wealthy. If she didn’t make one more single solitary penny for the rest of her life, her family could live in luxury for centuries. I mean she lives in a <span class="del">literal</span> castle. 
 
-feminist circles, speaking out against trans women and men is not considered
-feminism at
+</james>
+<from></from>
+</compare>
 
-all. It’s considered being a dick head. But trans-exclusionary radical feminist
-(TERF)
+<compare>
+<cite></cite>
+<james>
 
-ideology has been helped along in the UK by false media campaigns lead by the
-likes of
+So she couldn’t care less if people are angry with her about her opinion<span class="add">s</span> on trans people. She’s got money. She’s got influence. Her books are still #1 bestsellers, even when her name isn’t on them. 
 
-Rupert Murdoch, the Australian billionaire who birthed Fox News. Any opposition
-to gender-critical or TERF
+Funnily enough, book wise, she’s been careful with her name. The book about the cross dressing serial killer was published under her non-de-plum, Robert Galbraith, creating a *little* layer of insulation for her, at least among the uninformed. Her name, these days, only gets branded onto things that have to do with Wizards, but even that isn’t set in stone. 
 
-thought in the UK brings accusations of “silencing women”, leading to Australian
-TERF Sheila
+</james>
+<from></from>
+</compare>
 
-Jeffreys going before the UK Parliament in March of 2018 to declare that trans
-women
+<compare>
+<cite></cite>
+<james>
 
-“parasites,”. Charming. vox.com reported that According to , who studies
+When the first Fantastic Beasts movie came out the branding behind it was “JK Rowling’s Wizarding World”. But by the time the sequel hit theatres it was just “Wizarding World”. And that’s how it’s stayed ever since. 
 
-the modern gender-critical movement, gender-critical feminism in the UK grew out
-of a toxic mix
+Back in 2018 she’d already started in with the so called “Middle aged moments” by retweeting people calling trans women “men in dresses”. So I wouldn’t be surprised if Warner Bros, who own<span class="add">s</span> a massive stake in the Harry Potter brand, had a hand in removing her name from the series branding. Not because they’re so trans friendly, but because they didn’t want to risk it becoming a public relations issue. 
 
-of historical imperialism, and any concept that looks at gender as anything but
-biologically
+</james>
+<from></from>
+</compare>
 
-determined. Those who rose to prominence in the movement
+<compare>
+<cite></cite>
+<james>
 
-did so through “Call out culture”, attacking trans men and women online.
-Declaring trans women to be male perverts,
+And for the most part, it worked. People, even those in the queer community, still love Harry Potter. Despite Rowling. People have been able to separate the author from the creation so that they can continue to enjoy the world she created without supporting her personally. This was my take on things as late as last summer. To some extent I guess it still is. If I had completely disowned her creations I probably wouldn’t have a thousand dollars worth of Hogwarts lego <span class="add">behind me</span>. 
 
-and trans men to be lost lesbian sisters. Nevermind that trans men can also be
-gay or
+But the TERF wars article kind of broke me. I couldn’t pretend that supporting her creations wasn’t supporting her anymore. I started coming at this a bit differently than a lot of people, especially my fellow cis people. I’ve found that trans folks are far more willing to drop her and everything she’s created, which makes a lot of sense. She’s been using her vast influence to hurt the trans community for years now. 
 
-bisexual. Another fact TERFS don’t like acknowledging. “Anti-trans feminists
-think they have science
+But I also have some trans friends who have actually gotten tattoos of the deathly hallows or harry’s glasses just to *spite* her. Because they *love* the wizarding world. It helped them feel accepted at a time when they couldn’t even accept themselves and they’ll be damned if they’re going to let her take that <span class="del">away</span> from them. 
 
-on their side,” Greensmith said. “It is bananas how ascientific their rhetoric
+</james>
+<from></from>
+</compare>
 
-is, and yet literally they say, ‘Biology isn’t bigotry.’ In fact, biology has
-been used as bigotry
+<compare>
+<cite></cite>
+<james>
 
-as long as biology has been a thing.” Biology has been used to hold people down
+It’s a really weird situation<span class="add">...</span> all around. The way I’ve come to looking at it is… I can’t spend <span class="del">another dime</span><span class="add">any more money</span> on branded Harry Potter merchandise. Even though there’s some lego sets I ***desperately*** want. 
 
-for thousands of years. Holding down women, people of color - You
+<span class="del">But</span> plenty of people, even trans people, disagree with me on that. You see, things like lego and action figures and scarves and puzzles and video games… companies signed licenses for <span class="del">those</span><span class="add">these</span> things *long* before she went full TERF, at least publicly. 
 
-name a non-white-male group and biology has been used to bring the boot down on
-them at
+</james>
+<from></from>
+</compare>
 
-some point. And the biology narrative has only grown in
+<compare>
+<cite></cite>
+<james>
 
-the UK. TERFism has become so prevalent there that
+They could use the morality clause in their contracts to sever ties with her, but they’ve spent so much money on the products already that the projected loss of revenue would have their stockholders abandoning ship. One could argue that buying the merchandise though just reinforces companies willingness to work with transphobes. That they can work with TERFs and bigots because, when it comes to the trans community, it won’t mean any lost sales. 
 
-many liberal pundits even blamed the conservative Tory victory in the last
-parliamentary election
+But from another point of view, NOT buying Harry Potter stuff because she’s apparently a rabid bigot is really only hurting the companies producing the products. Because she already got paid<span class="add">. She got paid</span> when the contract<span class="add">s were</span><span class="del">was</span> signed. She doesn’t get royalties from sales, she gets an upfront licensing fee<span class="add">, and it's a big fee</span>. 
 
-on trans people, saying that trans issues are just a hyper-woke product of a
-political
+</james>
+<from></from>
+</compare>
 
-left that has simply gone too far. BREXIT was even blamed on trans people.
-Donald Trump’s election win in 2016 was
+<compare>
+<cite></cite>
+<james>
 
-blamed on trans people! By British people! So English feminists, of which JK
-Rowling
+Take for instance the upcoming *Hogwarts Legacy* video game from Avalanche Studios. They’re a great little studio that have made a lot of fun games over the years. Their bread and butter was actually doing video games for Disney, like the super fun *Disney Infinity* series, but they almost had to close <span class="add">down</span> when Disney shuttered Disney Interactive. 
 
-considers herself a proud member, were already at a tipping point when Maya
-Forstater sued
+The compan<span class="add">y</span><span class="del">ies</span> and its employees were pretty much left out to dry until they lucked out and got the chance to work on *Hogwarts Legacy* in 2017, saving the company from bankruptcy. A year *before* JK Rowling made the first “men in dresses” retweet. And Avalanche, to their credit, has made it VERY clear that Rowling has absolutely NO involvement with the game’s development. 
 
-the Centre for Global Development, a non-profit think tank that decided not to
-renew her expiring
+So, if you’re interested in the game, and <span class="add">if</span> you want to play it when it eventually gets released, is it fair to boycott it because of the rotten things Rowling has said? 
 
-contract when they discovered that she’d been spreading TERFY shit all over the
-internet. After a hearing with a UK employment tribunal,
+I don’t have the answer to that, but it’s a question worth asking. 
 
-Judge James Tayler (good name) ruled that Forstater’s gender-critical views did
-not
+</james>
+<from></from>
+</compare>
 
-represent a legally protected philosophical belief. He said: “I consider that
-the Claimant’s view,
+<compare>
+<cite></cite>
+<james>
 
-in its absolutist nature, is incompatible with human dignity and [the]
-fundamental rights
+Because there is a very valid argument that says the by buying Harry Potter merchandise, you’re not necessarily making her richer, since she’s already been paid for it, but that you’re continuing to make her *relevant*. And her being relevant to the cultural conversation gives her power and influence. A lot more power and influence than her just being rich. 
 
-of others.” That’s when the “Dress however you please”
+A lot of people make the argument that buying Wizarding World merch is putting more money in her pocket. A fair argument but… She’s already so rich that taking a few sales away from her will have a net zero effect on her life. But if *you* love Harry Potter, if it means something to you, removing it from your life entirely might actually have an effect on you. 
 
-tweet came out, and it’s just been downhill ever since. Including publishing an
-overly long essay
+Because for many of us, Harry Potter represents something more than just a book we read as kids or teens. It became a part of our identity because it exists in a very rarified place of cultural importance. Formative literature.
 
-basically explaining why she thinks trans people aren’t valid. Mostly has to do
-with bathrooms, because of
+</james>
+<from></from>
+</compare>
 
-course it does. One person replied to her tweets, writing:
+## PART FIVE: The Order of Foundations 
 
-“As a physician, I want people to know that sex exists on a bimodal biological
-spectrum
+<compare>
+<cite></cite>
+<james>
 
-just like gender exists on a bimodal sociological spectrum. While most identify
-as either female or male,
+<span class="del">Formative Bigotry</span> You may have noticed that this is a bit of a sore spot for me, and that given that I’m a self-identified Harry Potter fan or a… *recovering* Harry Potter fan. Or a… Harry Potter fan in *remission*? <span class="del">[Shrugs] Anyway,</span> this isn’t me blasting Rowling because I’m trying to hide the fact that I love the franchise in order to make it seem like I’m publicly distancing myself from her and it. 
 
-there are intersex and trans individuals whose identities are just as valid and
-real.” Rowling proceeded to block them. And ever since then she has been more
-than
+The point is that I’m getting so flustered over this not because I’m putting on airs, but because I've kind of taken it personally. <span class="del">how all of this has gone. Or rather, I feel kind of personally attacked. By Rowling. Like she went out of her way to whip me into a defensive frenzy to absolve her of any perceived wrongdoing. Specifically me. But then I have to ask myself.</span> 
 
-happy to spout off about her ignorant beliefs whenever given the chance. Like in
-her 3600 word blog, “TERF Wars”. Oh she’s so funny. “TERF Wars” aha ha ha ha
-PART FOUR: The Goblet of Bargaining In the blog, Rowling writes about her
-struggles
+Why is it that I, at the time, and others who — to this day — continue to defend Rowling against <span class="del">all</span> criticism? I mean I jumped ship when she said the quiet part loud<span class="del">ly</span> enough, even then I might have held out for longer than I should have. But why do people still defend her when she’s shown her true colours? 
 
-with sexism and misogyny, adding that reading accounts of gender dysphoria in
-trans men
+</james>
+<from></from>
+</compare>
 
-had made her wonder “if I’d been born 30 years later, I too might have tried to
+<compare>
+<cite></cite>
+<james>
 
-transition”. Also writing: “Many, myself included, believe
+And not even the turfy-kinda veneration of her gender <span class="del">critical</span><span class="add">political</span> beliefs, or people who dismiss the issue altogether, but why do so many people still continue to argue that she isn’t, in fact, transphobic? Why go through the mental gymnastics of explaining how her poorly-edited, gender-critical tirades are in fact *not only reasonable*, but in fact trans-inclusive? 
 
-we are watching a new kind of conversion therapy for young gay people, who are
-being set on
+<span class="add">Well,</span> She gives them a reason to, though. To this day JK Rowling continues to insist that she loves and respects trans people. But i think she feels that trans gender identity is this kind of<span class="add">...</span> variant of an assigned birth gender? Kinda like a trans-woman exists as a variant of man, and vice versa. 
 
-a lifelong path of medicalization.” Some readers took this as her actually
-comparing
+And she’s made it clear she’s willing to love and support <span class="del">that</span>. As long as trans women continue to identify as men, she’s on board for that. <span class="del">I can see her as one of those white women who insist that drag is cultural appropriation of women.</span> 
 
-gender confirming therapies to gay conversion therapy, which has been labeled
-torture by
+</james>
+<from></from>
+</compare>
 
-many psychological professionals. You didn’t have to stretch very far to see
+<compare>
+<cite></cite>
+<james>
 
-the comparison. Her response to this was: “I’ve ignored fake tweets attributed
-to
+The thing is, love and support is Rowling’s brand. That’s kind of the identifiable niche she carved out for herself, not only by making Hogwards<sup class="add">[sic: Hogwarts]</sup> visually diverse — if a little stereotypical to the point of ignorance — but the brazen theme of the books is diversity. And she kept that rolling through<span class="add">out</span> her correspondence with both the press and her audience. 
 
-me and RTed widely. I’ve ignored porn tweeted at children on
+I couldn't help but wonder... why is it that her fandom clung to this brand for <span class="del">as long as they did?</span><span class="add">so long?</span> And… is there anything she could do to stick the last nail in the coffin of her own career. 
 
-a thread about their art. I’ve ignored death and rape threats. I’m not going to
-ignore this.” Well at least she’s got her priorities straight. Then she signed
-an open letter condemning
+The thing with Rowling and Harry Potter is that these are children’s books. <span class="del">While at the same time it was accessible, it also didn’t talk down to it’s audience and laid out character intentions and feelings that were easy to understand for children but complex enough to keep older readers engaged. And this isn’t to absolve Rowling of wrongdoing because she wrote a good book. Yegch. That bothers me a lot. When people who don’t like Rowling stack on and act like the Harry Potter books are trash either because she’s trash or because the books are popular.</span>
 
-cancel culture. The billionaire author who lives in a castle
+</james>
+<from></from>
+</compare>
 
-and was about to have another book hit #1 on the New York Times Best Seller
-list…
+<compare>
+<cite></cite>
+<james>
 
-complaining about being cancelled. Warner Bros official statement regarding her
+But Harry Potter is also… well… kind of a special case as far as book series go. At the time, nothing like it had ever happened before. It STARTED as a children’s book… and then grew up with the audience. First, finding a niche in that young adult period, and then by book seven kind of even <span class="del">reached toward the New Adult genre.</span><span class="add">reaching into the adult market.</span> 
 
-repeated infractions was: Couldn’t use the word transgender once,
+Not only did these books generate a paradigm shift in the publishing industry, but they did so while managing to keep a group of children interested in a series well into their teens or even twenties. When it comes to serialized children’s literature, young readers who follow the series usually drop <span class="del">it</span><span class="add">off</span> as they grow out of the content. 
 
-huh? I mean they might have well said, “we believe
+<span class="del">It isn’t until the series comes to a completion that you get an audience who can read the entire backlog at once while they’re still young. So… if harry potter had stayed as child-focused as it started, then a lot of us probably would have cut and run before book five. Especially before book five.</span>
 
-in people” for how much sense and genuine emotion this statement had. But,
-Warner Bros hasn’t been known for making
+But Harry Potter grew up with us. And we got to see the complexity of the books unfold as our own lives were becoming more complex and independent. So not only was Harry Potter beloved to our childhood, but also our mid-and later teenage years — depending on how old you were when you <span class="add">first</span> started reading <span class="del">it</span>. And for those who had the opportunity to read the whole series at once, you could see a very<span class="del">…</span> realistic progression of a developing teenage<span class="add">d</span> identity. 
 
-a lot of sense lately. There has been some backlash, mostly from
+</james>
+<from></from>
+</compare>
 
-queer inclusive groups. But the most interesting response has actually
+<compare>
+<cite></cite>
+<james>
 
-been from the fans. To a very large extent, fans of Harry Potter
+So in either case, the books stick with you, and so you stick with the book from beginning to end. And in the process of being involved with a series for seven instalments, <span class="add">that’s</span><span class="add">there's</span> a lot of time and thought devoted to processing this media. <span class="del">Critically,</span> at a period in your life where you do not have a super developed capacity for critical thinking. 
 
-have been beside themselves… ourselves,,, with her actions. While some just wish
-she’d stop, and go
+At the same time that you are able to recognize the morals of the story, you cannot recognize the way that this narration is conditioning you to act a certain way. And these morals are so *very clearly* directed at cooperation, acceptance of the other, and the strength and importance of the individual existing within a community. We see those values and we like those values. 
 
-back to the Rowling we thought we knew and loved… many are not afraid of letting
-her
+So, until some of us are conditioned into Randian, personal-gain, kind of objectivist thinking, we do lean towards inclusion as an innate state of default. We don’t understand the social constructs of why person from Racist group A can’t interact with person from diverse group B. This kind of segregation, as many have <span class="del">re</span>marked, is learned behaviour. 
 
-know how they feel on social media. And it’s gotten under her skin too. She
-threatened to sue some people for calling
+</james>
+<from></from>
+</compare>
 
-her a bigot on Twitter, and apparently hasn’t spoken to Emma Watson since the
-actress posted
+<compare>
+<cite></cite>
+<james>
 
-this photo of herself on Instagram with a shirt declaring “Trans rights are
-human
+So the inclusive values in Harry Potter feel natural to us as children. And because most children don’t understand the history of the IRA, and the colonial occupation of Ireland, they aren’t going to be able to critically discern WHY it’s a little problematic that the ONLY <span class="add">real</span> Irish student at Hogwarts is constantly making things explode. 
 
-rights”. The thing is though, Rowling is pretty insulated
+Same thing with the goblins. We LEARN about the Holocaust and antisemitism and stereotypes around Jewish people <span class="add">later</span>. So we do not have the innate ability to think critically about the depiction of Goblins being *disturbingly close* to how the Nazis portrayed Jewish people in propaganda. Instead, we let this media shape us. Because a) we like it and b) it speaks to values that we internally hold as truths. 
 
-from most negativity toward her. She’s surrounded herself with fellow TERFs
+But we also do not have the ability to critically think in a way where we can accept media and separate the values we like from the values we dislike. It’s either all good, or all bad. And quite frankly, a lot of adults are not that well versed in critical thought either. 
 
-who agree with her. She’s fabulously wealthy. If she didn’t make one more single
-solitary
+So as we accept Harry Potter as a component of our formative development of values and worldview, it, essentially, becomes a component of our identities. And Harry Potter especially, because it was produced and presented to the public on the cusp of <span class="del">an</span><span class="add">a very... world-shaking</span> era. 
 
-penny for the rest of her life, her family could live in luxury for centuries. I
-mean she lives in a literal castle. So she couldn’t care less if people are
+</james>
+<from></from>
+</compare>
 
-angry with her about her opinion on trans people. She’s got money. She’s got
-influence. Her books are still #1 bestsellers, even when
+<compare>
+<cite></cite>
+<james>
 
-her name isn’t on them. Funnily enough, book wise, she’s been careful
+The year after *The Deathly Hallows* was released the stock market crashed. Many of us immediately started getting called lazy, expecting handouts, entitled, wanting a trophy for showing up. 
 
-with her name. The book about the cross dressing serial killer
+Before then We were told that if we just did what we loved, everything would work out. We were told that fulfilment was the most important part of getting a career. And that money wasn’t as important as happiness. 
 
-was published under her non-de-plum, Robert Galbraith, creating a little layer
-of insulation
+…And then we were told to take that job at starbucks, getting berated and verbally abused by customers, and we were told to be grateful we had anything at all. Our complaints about student debt fell on deaf ears from generations who, when they were younger, started out with ‘nothing’ and made something of themselves. 
 
-for her, at least among the uninformed. Her name, these days, only gets branded
-onto
+</james>
+<from></from>
+</compare>
 
-things that have to do with Wizards, but even that isn’t set in stone. When the
-first Fantastic Beasts movie came
+<compare>
+<cite></cite>
+<james>
 
-out the branding behind it was “JK Rowling’s Wizarding World”. But by the time
-the sequel hit theatres it
+In an age where they could get a family-supporting job with a high school diploma. In an age where you could work part time and put yourself through school, when minimum wage was high enough and tuition was low enough to do that. I for one, would have loved to start with ‘nothing’ rather than a heap of debt from a degree I couldn’t really use to get that fulfilment I was promised. 
 
-was just “Wizarding World”. And that’s how it’s stayed ever since. Back in 2018
-she’d already started in with
+Everything didn’t just ‘work out’ because we followed our dreams. In fact… we were told to… put our dreams on hold. Or that we should just make it a hobby. Or just… wait until retirement. <span class="del">Or just realize that everyone doesn’t get to be an astronaut and we should just settle for being a barista.</span>
 
-the so called “Middle aged moments” by retweeting people calling trans women
-“men
+Not speaking from personal experience, my parents were incredibly encouraging. But many of us who had degrees and jobs at starbucks had parents who thought that because we *didn’t* have a job in our field it just meant that we weren’t looking for them. So many of our role models turned their backs on us, and refused to listen to the reality of our situation. Because it didn’t match up with what it was like ‘when they were our age.’ 
 
-in dresses”. So I wouldn’t be surprised if Warner Bros,
+</james>
+<from></from>
+</compare>
 
-who own a massive stake in the Harry Potter brand, had a hand in removing her
-name from
+<compare>
+<cite></cite>
+<james>
 
-the series branding. Not because they’re so trans friendly, but
+And according to them, the world, apparently, was *incapable of change*. By the time our role models realized that… no… there isn’t just this trove of jobs out there, waiting for resumes dropped off to the manager with a wink and a handshake. By that time… we’d stopped caring what they thought. We pushed away from our role models who built up our expectations and did nothing to admit that maybe… this wasn’t our fault. 
 
-because they didn’t want to risk it becoming a public relations issue. And for
-the most part, it worked. People, even those in the queer community,
+…Except JK Rowling. Who, famously, came from poverty and obscurity, living in public housing, on social assistance, getting fired from jobs because she was working on her manuscript. Facing rejection, mental illness, abusive people, her own role models, who did not believe in her <span class="add">anymore</span> and in spite of all of it, she force fed their words back to them and founded a creative empire on a dream and a little creativity. She proved to us that our dreams were possible, while telling us that the problems we complained about were valid, and we had every right to be angry. And we had every right to keep dreaming. 
 
-still love Harry Potter. Despite Rowling. People have been able to separate the
-author
+</james>
+<from></from>
+</compare>
 
-from the creation so that they can continue to enjoy the world she created
-without supporting
+<compare>
+<cite></cite>
+<james>
 
-her personally. This was my take on things as late as last
+Harry Potter was formative to our values, and JK Rowling, now in the public eye, told us that we didn’t have to abandon those values to ‘fit in’ with what our once-mentors told us we had to be. What we had to sacrifice in order to succeed. Without realizing that success, by their standards, didn’t exist anymore, except for a <span class="add">very</span> few exceptions.
 
-summer. To some extent I guess it still is. If I had completely disowned her
-creations
+So, not only the books, but she *herself* was formative in how we held on to our identity through a crisis nobody believed was happening. And so no, people don’t want to admit she did anything wrong. To admit that she herself could turn into an icon of the kind of wrong-minded, bigoted, exclusionary, out-of-touch, ignorant, hateful, tone-deaf, and unwilling to learn and grow and develop and accept new things, new ways of thinking. To admit that she had become everything that would have told *her* she would never succeed, that we would never succeed… 
 
-I probably wouldn’t have a thousand dollars worth of Hogwarts lego. But the TERF
-wars article kind of broke me. I couldn’t pretend that supporting her creations
+</james>
+<from></from>
+</compare>
 
-wasn’t supporting her anymore. I started coming at this a bit differently
+<compare>
+<cite></cite>
+<james>
 
-than a lot of people, especially my fellow cis people. I’ve found that trans
-folks are far more
+I got to admit, I’m not sure how that works. Which is why we held on to Rowling for so long. Which is why *I* held on to that initial variant of Rowling, the one that cut through hatred and resistance <span class="del">so that</span><span class="add">to that...... *core* of why</span> people could flourish <span class="add">no matter who they were</span>. Because that was the Rowling that we accepted. 
 
-willing to drop her and everything she’s created, which makes a lot of sense.
-She’s been using her vast influence to hurt
+So the new version… <span class="add">that...</span> that must <span class="del">just</span> be a mistake. There must be a reason for that. Because these two versions are incompatible. 
 
-the trans community for years now. But I also have some trans friends who have
+It’s<span class="del">…</span> almost impossible to get someone to remove something that they consider to be part of their identity. <span class="add">And,</span> Not like it’s their fault, human beings are built to think that way. Our consciousness is designed to identify itself by things that feel familiar. The opposite is what? Cognitive dissonance? We HAVE to hold on to what we identify with. 
 
-actually gotten tattoos of the deathly hallows or harry’s glasses just to spite
-her. Because they love the wizarding world. It helped them feel accepted at a
-time when
+</james>
+<from></from>
+</compare>
 
-they couldn’t even accept themselves and they’ll be damned if they’re going to
+<compare>
+<cite></cite>
+<james>
 
-let her take that away from them. It’s a really weird situation all around. The
-way I’ve come to looking at it is… I can’t spend another dime on branded Harry
+And if that thing is some rags to riches British author... we have less agency in shaping ourselves than we think. And that’s especially true at younger ages because we don’t realize that this fun book we’re reading is actually shaping our entire <span class="del">identity</span><span class="add">self</span>. Which <span class="del">like</span>… really should scare the shit out of authors of Young Adult and Children’s literature. I mean you are developing a one-way line of communication direct with a small person’s subconscious. And… they WILL absorb all the subliminal messaging in there. Whether it’s intended to be there or not. And that can stay with them for their entire life. 
 
-Potter merchandise. Even though there’s some lego sets I desperately
+In the instance of Harry Potter, the value on the surface is so strongly associated with inclusion, we give it the benefit of the doubt. Because… we are biased creatures. And in many cases We aren’t aware of what those biases are. 
 
-want. But plenty of people, even trans people, disagree
+</james>
+<from></from>
+</compare>
 
-with me on that. You see, things like lego and action figures
+<compare>
+<cite></cite>
+<james>
 
-and scarves and puzzles and video games… companies signed licenses for those
-things
+For instance, it’s not likely that Tolkein deliberately intended to code the forces of Mordor as representatives of dark-skinned individuals. He was trying to establish a dichotomy between darkness and light, and didn’t understand, and did not live in an era where it was projected that skin colour ought to be treated sensitively. And because Tolkein never did something that was like… errantly hateful, most people can separate the surface value meaning from the problematic instances. 
 
-long before she went full TERF, at least publicly. They could use the morality
-clause in their
+And I thought, for a while, that I could do that with Harry Potter. You know, just kinda… remove Rowling’s gender politics and enjoy what was in the rest of the books. But now it just hangs off my back. Weighing down the love I have for her creation. And killing the admiration I had for her. 
 
-contracts to sever ties with her, but they’ve spent so much money on the
-products already
+</james>
+<from></from>
+</compare>
 
-that the projected loss of revenue would have their stockholders abandoning
-ship. One could argue that buying the merchandise
+## PART SIX: The Half-Depressed <span class="del">Prince</span><span class="add">YouTuber</span>
 
-though just reinforces companies willingness to work with transphobes. That they
-can work with TERFs and bigots because,
+<compare>
+<cite></cite>
+<james>
 
-when it comes to the trans community, it won’t mean any lost sales. But from
-another point of view, NOT buying
+Every September 1<span class="add">st</span>, people around the world celebrate the day that students go <span class="add">back</span> to Hogwarts, with many proclaiming on social media “It’s time to go home”. It’s almost reached religious levels of devotion, with some fans making the pilgrimage to Kings Cross Station, congregating at the little sign in between platforms nine and ten, and counting down to when the train leaves at 11:00am sharp. 
 
-Harry Potter stuff because she’s apparently a rabid bigot is really only hurting
-the companies
+Others opt to travel to Universal Studios, where they can wander around Diagon Alley, being fitted for their robes, receiving their very own wand, and then casting their gaze toward the reproduction of Hogwarts that looms high above the land. 
 
-producing the products. Because she already got paid when the contract
+I never really got to partake in any of that, mind you. I didn’t have the money to travel to London for September 1, or to go to Universal Studios and visit Diagon Alley. Not in time, anyway. Not before Rowling… did the things.
 
-was signed. She doesn’t get royalties from sales, she
+</james>
+<from></from>
+</compare>
 
-gets an upfront licensing fee. Take for instance the upcoming Hogwarts Legacy
+<compare>
+<cite></cite>
+<james>
 
-video game from Avalanche Studios. They’re a great little studio that have
+There’s even a head canon reason why fans of a certain generation, mine, never got their letters to go to Hogwarts. Because of Voldemort’s power grab in the seventh book, all documentation tracking muggles with magical powers was destroyed. And therefor, after 1997, no eleven year old without wizard parents got their letters. It’s a silly and fun way to let the magical idea of Hogwarts live on. That we actually *are* witches and wizards, we just didn’t get our letters because a mad fascist didn’t want us included. 
 
-made a lot of fun games over the years. Their bread and butter was actually
-doing
+</james>
+<from></from>
+</compare>
 
-video games for Disney, like the super fun Disney Infinity series, but they
-almost had
+<compare>
+<cite></cite>
+<james>
 
-to close when Disney shuttered Disney Interactive. The companies and its
-employees were pretty
+And In 2012, Harry Potter fans around the world cheered Britain’s then Prime Minister David Cameron’s declaration that May 2 would forevermore be known as International Harry Potter Day. Why May 2? <span class="add">Well,</span> The Battle of Hogwarts was fought on this date in 1998. The final conflict of the Second Wizarding War. 
 
-much left out to dry until they lucked out and got the chance to work on
-Hogwarts Legacy
+The Order of the Phoenix proved victorious, ending the most devastating battle of that war and resulting in numerous casualties, including Remus Lupin, Nymphadora Tonks, Lavender Brown, Colin Creavey, Severus Snape, and Fred Weasley. But most notably the defeat of Lord Voldemort, <span class="del">or Tom Riddle.</span> 
 
-in 2017, saving the company from bankruptcy. A year before JK Rowling made the
-first “men
+Every year brings different ways to commemorate and celebrate this day. There are anniversaries to recognize, characters to memorialize, places to see. In Cameron’s official statement announcing the new holiday he said:
 
-in dresses” retweet. And Avalanche, to their credit, has made it
+</james>
+<from></from>
+</compare>
 
-VERY clear that Rowling has absolutely NO involvement with the game’s
-development. So, if you’re interested in the game, and
+<compare>
+<cite></cite>
+<james>
 
-you want to play it when it eventually gets released, is it fair to boycott it
-because
+\[Visual: Quote scrolling on-screen:]
+> “In order to fully commemorate and immortalize her work, we have decided to officially declare May 2nd as an official international holiday, in honor of the date that protagonist Harry Potter conquered the main antagonist of the series, Lord Voldemort. We hope that children and adults alike will be reminded of Harry Potter’s strong and courageous character on this day, as well as of the true credit that Ms. Rowling has made to society.” 
 
-of the rotten things Rowling has said? I don’t have the answer to that, but it’s
+</james>
+<from></from>
+</compare>
 
-a question worth asking. Because there is a very valid argument that
+<compare>
+<cite></cite>
+<james>
 
-says the by buying Harry Potter merchandise, you’re not necessarily making her
-richer,
+In case you can’t tell, this is not the typical. This isn’t usually what people do after a book series has ended. It’s become something beyond its creator. JK Rowling gets the credits for all of this, in an official sense, being the creator. But she didn’t organize the pilgrimages to Kings Cross. She hasn’t been the one keeping the series alive with countless <span class="add">fan</span> theor<span class="del">y</span><span class="add">ies and</span> videos and head canon explanations across the internet. She just confirms them sometimes. 
 
-since she’s already been paid for it, but that you’re continuing to make her
-relevant. And her being relevant to the cultural conversation
+And when she comes up with her own, its about Wizards crapping on the ground and magicking it away with <span class="del">their</span><span class="add">a</span> wand. 
 
-gives her power and influence. A lot more power and influence than her just
+</james>
+<from></from>
+</compare>
 
-being rich. A lot of people make the argument that buying
+<compare>
+<cite></cite>
+<james>
 
-Wizarding World merch is putting more money in her pocket. A fair argument but…
-She’s already so rich that taking a few
+The fans are the people who have kept this brand alive since the books finished their run in 2007, the year I graduated from high school <span class="add">incidentally</span>, and the <span class="add">release of</span> final film <span class="del">was released</span> in 2011. Long before Rowling officially launched Pottermore in 2015, (everything before <span class="del">then was</span><span class="add">that had been</span> considered a beta), fans had been doing the hard work of keeping their favourite characters alive. 
 
-sales away from her will have a net zero effect on her life. But if you love
-Harry Potter, if it means
+Fans took ownership of the the characters. Fan fiction communities for Harry Potter had *always* been popular, but they *really* took off once the series had finished. People were telling their own stories in the world. Creating their own characters. <span class="add">And</span> Adding to the mythology. 
 
-something to you, removing it from your life entirely might actually have an
-effect on
+</james>
+<from></from>
+</compare>
 
-you. Because for many of us, Harry Potter represents
+<compare>
+<cite></cite>
+<james>
 
-something more than just a book we read as kids or teens. It became a part of
-our identity because it
+And a whole lot of <span class="del">the people behind those new stories</span><span class="add">those people</span> were queer and trans. People who understood that Rowling couldn’t <span class="add">actually</span> include people like us in the initial books because of the then existing UK law that said books with LGBT <span class="del">characters</span><span class="add">content</span> weren’t allowed in children’s libraries. So we assumed that was the only reason we weren’t there, and many of us created out own stories to fill in the gaps. Creating new characters to exist right alongside Harry, Ron, and Hermione. 
 
-exists in a very rarified place of cultural importance. Formative literature.
-PART FIVE: The Order of Foundations Formative Bigotry You may have noticed that
-this is a bit of
+And why wouldn’t we? In 2014 JK Rowling stated, very clearly, that gay, lesbian, bi, AND transgender students could, of course, attend Hogwarts. She even said that they may use magic to help deal with gender confirmation. She didn’t use those exact words of course, instead clinically stating that one could <span class="add">use magic to</span> change their genitals, but the meaning was still there. 
 
-a sore spot for me, and that given that I’m a self-identified Harry Potter fan
-or a…
+So It’s no wonder her being a TERF came like a punch to the gut to so many. And why so many people, myself very much included, preferred to ignore her slights on Twitter until it became impossible to do so. Until she went out of her way to remove that last shadow of a doubt that <span class="del">so many of us clung to</span><span class="add">we all *desperately* clung on to</span>. 
 
-recovering Harry Potter fan. Or a… Harry Potter fan in remission? [Shrugs]
-Anyway, this isn’t me blasting Rowling because
+</james>
+<from></from>
+</compare>
 
-I’m trying to hide the fact that I love the franchise in order to make it seem
-like
+<compare>
+<cite></cite>
+<james>
 
-I’m publicly distancing myself from her and it. The point is that I’m getting so
-flustered
+And it sucks. I hate it. I hate that I defended her. I hate that I ignored her growing transphobia. But most of all, I hate that I <span class="add">felt like I</span> had to. I hate that <span class="add">had</span> she put me and so many <span class="add">other</span> fans, gay, straight, bi, cis, trans, non-binary… That she put us in the position of HAVING to ignore her ignorant and potentially dangerous comments. Because she had helped us form our identities as accepting, loving, people. The ones who would help the first years at Hogwarts feel comfortable in their new home. No matter where they came from, what they looked like, or what dormitory they slept in. 
 
-over this not because I’m putting on airs, but because I've kind of taken it
-personally. how all of this has gone. Or rather, I feel kind of personally
-attacked. By Rowling. Like she went out of her way to whip me into
+Over the course of just a few short years Joanne Rowling went from being the most tolerant, accepting, loving professor at Hogwarts… to She Who Must Not Be Named. And while doing so she created her own hoard of TERFY death eaters to go along with her, leaving the rest of us heartbroken at the betrayal, and trying to figure out what to do next. Do we cut Harry Potter out of our lives? Or just it’s<sup class="add">[sic: its]</sup> creator? Do we have to let go of something that made us feel so happy and safe? Or can we just let go of her? Can there be Harry Potter without JK Rowling? 
 
-a defensive frenzy to absolve her of any perceived wrongdoing. Specifically me.
-But then I have to ask myself. Why is it that I, at the time, and others
+</james>
+<from></from>
+</compare>
 
-who — to this day — continue to defend Rowling against all criticism? I mean I
-jumped ship when she said the quiet
+## PART SEVEN: The Deathly Acceptance
+<span class="add"></span>
 
-part loudly enough, even then I might have held out for longer than I should
-have. But why do people still defend her when she’s
+<compare>
+<cite></cite>
+<james>
 
-shown her true colours? And not even the turfy-kinda veneration of
+<span class="del">(At desk with Harry Potter perch everywhere)</span> I’ve been asking myself that question at least once a week for the last year and a half. Can I still enjoy Harry Potter, even though JK Rowling is who, it turns out, she is. Can I still read the books? Watch the movies? Play <span class="del">a</span><span class="add">the</span> video game? Buy lego. Can I play with my wands? I have Slytherin and Ravenclaw scarves and this past winter, on the very rare occasion I got to leave the house, I felt like I couldn’t wear them. What about my Hogwarts backpack? Can I still use that without feeling like I’m promoting TERF ideology? 
 
-her gender critical beliefs, or people who dismiss the issue altogether, but why
-do so
+</james>
+<from></from>
+</compare>
 
-many people still continue to argue that she isn’t, in fact, transphobic? Why go
-through the mental gymnastics of explaining
+<compare>
+<cite></cite>
+<james>
 
-how her poorly-edited, gender-critical tirades are in fact not only reasonable,
-but in fact
+I know that for people for whom Harry Potter was just another book or movie, this probably sounds crazy. I feel like it would be akin to Marvel fans finding out that Stan Lee was secretly fighting against civil rights in America, or that George Lucas secretly financed the January 6th attack on the capital. It’s just so antithetical to the image we have of these people. 
 
-trans-inclusive? She gives them a reason to, though. To this day JK Rowling
-continues to insist
+But luckily, in reality, Stan Lee was a pretty progressive guy who loved adding diversity to <span class="del">the</span> Marvel Comics <span class="del">universe</span>. And George Lucas abhors fascism, in case the bad guys in Star Wars being space nazis was too subtle for you. 
 
-that she loves and respects trans people. But i think she feels that trans
-gender identity
+</james>
+<from></from>
+</compare>
 
-is this kind of variant of an assigned birth gender? Kinda like a trans-woman
-exists as a variant
+<compare>
+<cite></cite>
+<james>
 
-of man, and vice versa. And she’s made it clear she’s willing
+But how does someone deal with discovering that a person who helped them develop their identity is… bad? People who read Orson Scott Card books as a kid had to do it when they founds out he was actually a raging homophobe. HP Lovecraft was a virulent racist and anti-semite… but his world has <span class="add">actually</span> been adopted since his death, with countless Jewish writer and writers of color making his mythos safe for everyone. <span class="add">(Well, as safe as Lovecraftian literature can be.)</span> 
 
-to love and support that. As long as trans women continue to identify
+So it’s not a new phenomena. But certainly nothing like it has happened at this scale. No modern author has had the reach of JK Rowling. The cultural permeability. Harry Potter has sold over 500 million copies. *Harry Potter and the Philosopher’s Stone* is the bestselling single novel of all time. With the other six books in the series all landing within the top 20 bestselling books of all time. <span class="del">Rowling is the only author to have more than one book in that top twenty, and she’s got seven.</span>
 
-as men, she’s on board for that. I can see her as one of those white women
+</james>
+<from></from>
+</compare>
 
-who insist that drag is cultural appropriation of women. The thing is, love and
-support is Rowling’s
+<compare>
+<cite></cite>
+<james>
 
-brand. That’s kind of the identifiable niche she
+That has lead to a level of global cultural osmosis never before seen in literature. For some kids it was just another book they read, or movie they saw. But for many it changed how they looked at the world. It gave them a safe place to go when the real world was falling apart around them. There <span class="del">are</span><span class="add">were</span> reports of young Syrian refugees and South American migrants clutching onto copies of Harry Potter books as they flee from the horrors of war <span class="del">or</span><span class="add">and</span> destitution. Because although bombs fall around them, and gunshots ring throughout the night… Hogwarts makes them feel safe. 
 
-carved out for herself, not only by making Hogwards visually diverse — if a
-little
+And so I don’t think we can demand people give that up. As I’ve said already, I know more than a few trans people who have *increased* their love of Harry Potter to spite Rowling. To show her and the people who support her that they <span class="del">cannot take this</span><span class="add">can't take that</span> away from them. That Harry, and Hagrid, and Hermione, and Ron, and the other Weaselys, mean something to them. That Neville and Luna and Cho and Dean were their friends when, maybe, they had none. That Molly Weasly was a loving and accepting mother figure. That Professor McDonagall was a teacher they wish they’d had to talk to. 
 
-stereotypical to the point of ignorance — but the brazen theme of the books is
-diversity. And she kept that rolling through her correspondence
+</james>
+<from></from>
+</compare>
 
-with both the press and her audience. I couldn't help but wonder... why is it
-that
+<compare>
+<cite></cite>
+<james>
 
-her fandom clung to this brand for as long as they did? And… is there anything
-she could do to stick
+If you want to cut this out of your life because of the things Rowling has said, I do not blame you at all. With countries all over the world passing anti-trans laws, adding her voice to the mix has only fanned the flames of transphobia. But if you want to keep these characters and this world in your life to *spite* her, I support that too. 
 
-the last nail in the coffin of her own career. The thing with Rowling and Harry
-Potter is
+Because the minute those books hit the bookshelves they became just as much the fan’s property as her own. She might legally own them, but a brand is nothing without the <span class="del">fans</span><span class="add">fanbase</span>. There’s an entire generation of people who grew up escaping to Hogwarts. Who feel comfortable and safe within those walls… within the pages of the books… or the scenes of the movies. I’m one of them. 
 
-that these are children’s books. While at the same time it was accessible,
+</james>
+<from></from>
+</compare>
 
-it also didn’t talk down to it’s audience and laid out character intentions and
-feelings
+<compare>
+<cite></cite>
+<james>
 
-that were easy to understand for children but complex enough to keep older
-readers engaged. And this isn’t to absolve Rowling of wrongdoing
+And honestly, I’m not letting her have the power to take that away <span class="del">from me</span>. Will I spend anymore money on the brand? Probably not. But I’m not letting it go entirely. I accept that *she* is not who I thought she was. 
 
-because she wrote a good book. Yegch. That bothers me a lot. When people who
-don’t like Rowling stack
+But the beautiful thing about books is that, for the most part, they’re unchanging. Harry still comes from an abusive home, and finds his security in a chosen family. Hermione still fights for the rights of the oppressed, even though they’re different from her. Molly Weasely is still the mother figure that will hug you and care for you, no matter what. Sirius is still the godfather that will make you laugh, and put his life on the line for you. Dobby is still the devoted friend. McGonagall still the caring teacher. Hagrid still the father figure that will guide you through the dark. 
 
-on and act like the Harry Potter books are trash either because she’s trash or
-because
+They’re all still there within the pages and on the screen. Inside a worn paperback or old DVD <span class="del">you got as a kid or a teenager</span>. And on September 1, you can still return to Hogwarts without putting a single Knut, sickle, or galleon in Rowling’s pocket. Rowling did her job. She wrote the books. But They’re yours now. Always. 
 
-the books are popular. But Harry Potter is also… well… kind of
+</james>
+<from></from>
+</compare>
 
-a special case as far as book series go. At the time, nothing like it had ever
-happened
-
-before. It STARTED as a children’s book… and then
-
-grew up with the audience. First, finding a niche in that young adult
-
-period, and then by book seven kind of even reached toward the New Adult genre.
-not only did these books generate a paradigm
-
-shift in the publishing industry, but they did so while managing to keep a group
-of children
-
-interested in a series well into their teens or even twenties. When it comes to
-serialized children’s literature,
-
-young readers who follow the series usually drop it as they grow out of the
-content. It isn’t until the series comes to a completion
-
-that you get an audience who can read the entire backlog at once while they’re
-still
-
-young. So… if harry potter had stayed as child-focused
-
-as it started, then a lot of us probably would have cut and run before book
-five. Especially before book five. But Harry Potter grew up with us. And we got
-to see the complexity of the books
-
-unfold as our own lives were becoming more complex and independent. So not only
-was Harry Potter beloved to our
-
-childhood, but also our mid-and later teenage years — depending on how old you
-were when
-
-you started reading it. And for those who had the opportunity to read
-
-the whole series at once, you could see a very… realistic progression of a
-developing
-
-teenage identity. So in either case, the books stick with you,
-
-and so you stick with the book from beginning to end. And in the process of
-being involved with
-
-a series for seven instalments, that’s a lot of time and thought devoted to
-processing
-
-this media. Critically, at a period in your life where
-
-you do not have a super developed capacity for critical thinking. At the same
-time that you are able to recognize
-
-the morals of the story, you cannot recognize the way that this narration is
-conditioning
-
-you to act a certain way. And these morals are so very clearly directed
-
-at cooperation, acceptance of the other, and the strength and importance of the
-individual
-
-existing within a community. We see those values and we like those values. So,
-until some of us are conditioned into
-
-Randian, personal-gain, kind of objectivist thinking, we do lean towards
-inclusion as
-
-an innate state of default. We don’t understand the social constructs
-
-of why person from Racist group A can’t interact with person from diverse group
-B. This kind of segregation, as many have remarked,
-
-is learned behaviour. So the inclusive values in Harry Potter feel
-
-natural to us as children. And because most children don’t understand
-
-the history of the IRA, and the colonial occupation of Ireland, they aren’t
-going to be able
-
-to critically discern WHY it’s a little problematic that the ONLY Irish student
-at
-
-Hogwarts is constantly making things explode. Same thing with the goblins. We
-LEARN about the Holocaust and antisemitism
-
-and stereotypes around Jewish people. So we do not have the innate ability to
-think
-
-critically about the depiction of Goblins being disturbingly close to how the
-Nazis
-
-portrayed Jewish people in propaganda. Instead, we let this media shape us.
-Because a) we like it and b) it speaks to
-
-values that we internally hold as truths. But we also do not have the ability to
-critically
-
-think in a way where we can accept media and separate the values we like from
-the values
-
-we dislike. It’s either all good, or all bad. And quite frankly, a lot of adults
-are not
-
-that well versed in critical thought either. So as we accept Harry Potter as a
-component
-
-of our formative development of values and worldview, it, essentially, becomes a
-component
-
-of our identities. And Harry Potter especially, because it was
-
-produced and presented to the public on the cusp of an era. The year after the
-deathly hallows was released
-
-the stock market crashed. Many of us immediately started getting called
-
-lazy, expecting handouts, entitled, wanting a trophy for showing up. Before then
-We were told that if we just did
-
-what we loved, everything would work out. We were told that fulfilment was the
-most
-
-important part of getting a career. And that money wasn’t as important as
-happiness. …And then we were told to take that job
-
-at starbucks, getting berated and verbally abused by customers, and we were told
-to be
-
-grateful we had anything at all. Our complaints about student debt fell on
-
-deaf ears from generations who, when they were younger, started out with
-‘nothing’
-
-and made something of themselves. In an age where they could get a
-family-supporting
-
-job with a high school diploma. In an age where you could work part time and
-
-put yourself through school, when minimum wage was high enough and tuition was
-low enough
-
-to do that. I for one, would have loved to start with
-
-‘nothing’ rather than a heap of debt from a degree I couldn’t really use to get
-that
-
-fulfilment I was promised. Everything didn’t just ‘work out’ because
-
-we followed our dreams. In fact… we were told to… put our dreams
-
-on hold. Or that we should just make it a hobby. Or just… wait until retirement.
-Or just realize that everyone doesn’t get
-
-to be an astronaut and we should just settle for being a barista. Not speaking
-from personal experience, my
-
-parents were incredibly encouraging. But many of us who had degrees and jobs at
-
-starbucks had parents who thought that because we didn’t have a job in our field
-it just
-
-meant that we weren’t looking for them. So many of our role models turned their
-backs
-
-on us, and refused to listen to the reality of our situation. Because it didn’t
-match up with what it
-
-was like ‘when they were our age.’ And according to them, the world, apparently,
-
-was incapable of change. By the time our role models realized that…
-
-no… there isn’t just this trove of jobs out there, waiting for resumes dropped
-off
-
-to the manager with a wink and a handshake. By that time… we’d stopped caring
-what
-
-they thought. We pushed away from our role models who built
-
-up our expectations and did nothing to admit that maybe… this wasn’t our fault.
-…Except JK Rowling. Who, famously, came from poverty and obscurity,
-
-living in public housing, on social assistance, getting fired from jobs because
-she was working
-
-on her manuscript. Facing rejection, mental illness, abusive
-
-people, her own role models, who did not believe in her and in spite of all of
-it, she force
-
-fed their words back to them and founded a creative empire on a dream and a
-little creativity. She proved to us that our dreams were possible,
-
-while telling us that the problems we complained about were valid, and we had
-every right to
-
-be angry. And we had every right to keep dreaming. Harry Potter was formative to
-our values,
-
-and JK Rowling, now in the public eye, told us that we didn’t have to abandon
-those
-
-values to ‘fit in’ with what our once-mentors told us we had to be. What we had
-to sacrifice in order to succeed. Without realizing that success, by their
-standards,
-
-didn’t exist anymore, except for a few exceptions. So, not only the books, but
-she herself was
-
-formative in how we held on to our identity through a crisis nobody believed was
-happening. And so no, people don’t want to admit she
-
-did anything wrong. To admit that she herself could turn into
-
-an icon of the kind of wrong-minded, bigoted, exclusionary, out-of-touch,
-ignorant, hateful,
-
-tone-deaf, and unwilling to learn and grow and develop and accept new things,
-new ways
-
-of thinking. To admit that she had become everything that
-
-would have told her she would never succeed, that we would never succeed… I got
-to admit, I’m not sure how that works. Which is why we held on to Rowling for so
-
-long. Which is why I held on to that initial variant
-
-of Rowling, the one that cut through hatred and resistance so that people could
-flourish. Because that was the Rowling that we accepted. So the new version…
-that must just be a
-
-mistake. There must be a reason for that. Because these two versions are
-incompatible. It’s… almost impossible to get someone
-
-to remove something that they consider to be part of their identity. Not like
-it’s their fault, human beings
-
-are built to think that way. Our consciousness is designed to identify
-
-itself by things that feel familiar. The opposite is what? Cognitive dissonance?
-We HAVE to hold on to what we identify with. And if that thing is some rags to
-riches British
-
-author... we have less agency in shaping ourselves than we think. And that’s
-especially true at younger ages
-
-because we don’t realize that this fun book we’re reading is actually shaping
-our entire
-
-identity. Which like… really should scare the shit
-
-out of authors of Young Adult and Children’s literature. I mean you are
-developing a one-way line of
-
-communication direct with a small person’s subconscious. And… they WILL absorb
-all the subliminal
-
-messaging in there. Whether it’s intended to be there or not. And that can stay
-with them for their entire
-
-life. In the instance of Harry Potter, the value
-
-on the surface is so strongly associated with inclusion, we give it the benefit
-of the doubt. Because… we are biased creatures. And in many cases We aren’t
-aware of what
-
-those biases are. For instance, it’s not likely that Tolkein
-
-deliberately intended to code th forces of Mordor as representatives of
-dark-skinned
-
-individuals. He was trying to establish a dichotomy between
-
-darkness and light, and didn’t understand, and did not live in an era where it
-was projected
-
-that skin colour ought to be treated sensitively. And because Tolkein never did
-something that
-
-was like… errantly hateful, most people can separate the surface value meaning
-from
-
-the problematic instances. And I thought, for a while, that I could do
-
-that with Harry Potter. You know, just kinda… remove Rowling’s
-
-gender politics and enjoy what was in the rest of the books. But now it just
-hangs off my back. Weighing down the love I have for her creation. And killing
-the admiration I had for her. PART SIX: The Half-Depressed Prince Every
-September 1, people around the world
-
-celebrate the day that students go to Hogwarts, with many proclaiming on social
-media “It’s
-
-time to go home”. It’s almost reached religious levels of
-
-devotion, with some fans making the pilgrimage to Kings Cross Station,
-congregating at the
-
-little sign in between platforms nine and ten, and counting down to when the
-train leaves
-
-at 11:00am sharp. Others opt to travel to Universal Studios,
-
-where they can wander around Diagon Alley, being fitted for their robes,
-receiving their
-
-very own wand, and then casting their gaze toward the reproduction of Hogwarts
-that looms
-
-high above the land. I never really got to partake in any of that,
-
-mind you. I didn’t have the money to travel to London
-
-for September 1, or to go to Universal Studios and visit Diagon Alley. Not in
-time, anyway. Not before Rowling… did the things. There’s even a head canon
-reason why fans
-
-of a certain generation, mine, never got their letters to go to Hogwarts.
-Because of Voldemort’s power grab in the
-
-seventh book, all documentation tracking muggles with magical powers was
-destroyed. And therefor, after 1997, no eleven year old
-
-without wizard parents got their letters. It’s a silly and fun way to let the
-magical
-
-idea of Hogwarts live on. That we actually are witches and wizards,
-
-we just didn’t get our letters because a mad fascist didn’t want us included.
-And In 2012, Harry Potter fans around the
-
-world cheered Britain’s then Prime Minister David Cameron’s declaration that May
-2 would
-
-forevermore be known as International Harry Potter Day. Why May 2? The Battle of
-Hogwarts was fought on this
-
-date in 1998. The final conflict of the Second Wizarding
-
-War. The Order of the Phoenix proved victorious,
-
-ending the most devastating battle of that war and resulting in numerous
-casualties,
-
-including Remus Lupin, Nymphadora Tonks, Lavender Brown, Colin Creavey, Severus
-Snape, and Fred
-
-Weasley. But most notably the defeat of Lord Voldemort,
-
-or Tom Riddle. Every year brings different ways to commemorate
-
-and celebrate this day. There are anniversaries to recognize, characters
-
-to memorialize, places to see. In Cameron’s official statement announcing
-
-the new holiday he said “In order to fully commemorate and immortalize her work,
-we have
-
-decided to officially declare May 2nd as an official international holiday, in
-honor of
-
-the date that protagonist Harry Potter conquered the main antagonist of the
-series, Lord Voldemort. We hope that children and adults alike will
-
-be reminded of Harry Potter’s strong and courageous character on this day, as
-well
-
-as of the true credit that Ms. Rowling has made to society.” In case you can’t
-tell, this is not the
-
-typical. This isn’t usually what people do after
-
-a book series has ended. It’s become something beyond its creator. JK Rowling
-gets the credits for all of this,
-
-in an official sense, being the creator. But she didn’t organize the pilgrimages
-
-to Kings Cross. She hasn’t been the one keeping the series
-
-alive with countless theory videos and head canon explanations across the
-internet. She just confirms them sometimes. And when she comes up with her own,
-its about
-
-Wizards crapping on the ground and magicking it away with their wand. The fans
-are the people who have kept this
-
-brand alive since the books finished their run in 2007, the year I graduated
-from high
-
-school, and the final film was released in 2011. Long before Rowling officially
-launched Pottermore
-
-in 2015, (everything before then was considered a beta), fans had been doing the
-hard work
-
-of keeping their favourite characters alive. Fans took ownership of the the
-characters. Fan fiction communities for Harry Potter had
-
-always been popular, but they really took off once the series had finished.
-People were telling their own stories in the
-
-world. Creating their own characters. Adding to the mythology. And a whole lot
-of the people behind those
-
-new stories were queer and trans. People who understood that Rowling couldn’t
-
-include people like us in the initial books because of the then existing UK law
-that said
-
-books with LGBT characters weren’t allowed in children’s libraries. So we
-assumed that was the only reason we
-
-weren’t there, and many of us created out own stories to fill in the gaps.
-Creating new characters to exist right alongside
-
-Harry, Ron, and Hermione. And why wouldn’t we? In 2014 JK Rowling stated, very
-clearly, that
-
-gay, lesbian, bi, AND transgender students could, of course, attend Hogwarts.
-She even said that they may use magic to help
-
-deal with gender confirmation. She didn’t use those exact words of course,
-
-instead clinically stating that one could change their genitals, but the meaning
-was
-
-still there. So It’s no wonder her being a TERF came
-
-like a punch to the gut to so many. And why so many people, myself very much
-included,
-
-preferred to ignore her slights on Twitter until it became impossible to do so.
-Until she went out of her way to remove that
-
-last shadow of a doubt that so many of us clung to. And it sucks. I hate it. I
-hate that I defended her. I hate that I ignored her growing transphobia. But
-most of all, I hate that I had to. I hate that she put me and so many fans, gay,
-
-straight, bi, cis, trans, non-binary… That she put us in the position of HAVING
-
-to ignore her ignorant and potentially dangerous comments. Because she had
-helped us form our identities
-
-as accepting, loving, people. The ones who would help the first years at
-
-Hogwarts feel comfortable in their new home. No matter where they came from,
-what they
-
-looked like, or what dormitory they slept in. Over the course of just a few
-short years
-
-Joanne Rowling went from being the most tolerant, accepting, loving professor at
-Hogwarts…
-
-to She Who Must Not Be Named. And while doing so she created her own hoard
-
-of TERFY death eaters to go along with her, leaving the rest of us heartbroken
-at the
-
-betrayal, and trying to figure out what to do next. Do we cut Harry Potter out
-of our lives. Or just it’s creator? Do we have to let go of something that made
-
-us feel so happy and safe? Or can we just let go of her? Can there be Harry
-Potter without JK Rowling? PART SEVEN: The Deathly Acceptance (At desk with
-Harry Potter perch everywhere) I’ve been asking myself that question at
-
-least once a week for the last year and a half. Can I still enjoy Harry Potter,
-even though
-
-JK Rowling is who, it turns out, she is. Can I still read the books? Watch the
-movies? Play a video game? Buy lego. Can I play with my wands? I have Slytherin
-and Ravenclaw scarves and
-
-this past winter, on the very rare occasion I got to leave the house, I felt
-like I couldn’t
-
-wear them. What about my Hogwarts backpack? Can I still use that without feeling
-like
-
-I’m promoting TERF ideology? I know that for people for whom Harry Potter
-
-was just another book or movie, this probably sounds crazy. I feel like it would
-be akin to Marvel fans
-
-finding out that Stan Lee was secretly fighting against civil rights in America,
-or that George
-
-Lucas secretly financed the January 6th attack on the capital. It’s just so
-antithetical to the image we
-
-have of these people. But luckily, in reality, Stan Lee was a pretty
-
-progressive guy who loved adding diversity to the Marvel Comics universe. And
-George Lucas abhors fascism, in case the
-
-bad guys in Star Wars being space nazis was too subtle for you. But how does
-someone deal with discovering
-
-that a person who helped them develop their identity is… bad? People who read
-Orson Scott Card books as
-
-a kid had to do it when they founds out he was actually a raging homophobe. HP
-Lovecraft was a virulent racist and anti-semite…
-
-but his world has been adopted since his death, with countless Jewish writer and
-writers of
-
-color making his mythos safe for everyone. So it’s not a new phenomena. But
-certainly nothing like it has happened
-
-at this scale. No modern author has had the reach of JK Rowling. The cultural
-permeability. Harry Potter has sold over 500 million copies. Harry Potter and
-the Philosopher’s Stone
-
-is the bestselling single novel of all time. With the other six books in the
-series all
-
-landing within the top 20 bestselling books of all time. Rowling is the only
-author to have more than
-
-one book in that top twenty, and she’s got seven. That has lead to a level of
-global cultural
-
-osmosis never before seen in literature. For some kids it was just another book
-they
-
-read, or movie they saw. But for many it changed how they looked at
-
-the world. It gave them a safe place to go when the real
-
-world was falling apart around them. There are reports of young Syrian refugees
-
-and South American migrants clutching onto copies of Harry Potter books as they
-flee
-
-from the horrors of war or destitution. Because although bombs fall around them,
-and
-
-gunshots ring throughout the night… Hogwarts makes them feel safe. And so I
-don’t think we can demand people
-
-give that up. As I’ve said already, I know more than a
-
-few trans people who have increased their love of Harry Potter to spite Rowling.
-To show her and the people who support her
-
-that they cannot take this away from them. That Harry, and Hagrid, and Hermione,
-and
-
-Ron, and the other Weaselys, mean something to them. That Neville and Luna and
-Cho and Dean were
-
-their friends when, maybe, they had none. That Molly Weasly was a loving and
-accepting
-
-mother figure. That Professor McDonagall was a teacher they
-
-wish they’d had to talk to. If you want to cut this out of your life because
-
-of the things Rowling has said, I do not blame you at all. With countries all
-over the world passing
-
-anti-trans laws, adding her voice to the mix has only fanned the flames of
-transphobia. But if you want to keep these characters and
-
-this world in your life to spite her, I support that too. Because the minute
-those books hit the bookshelves
-
-they became just as much the fan’s property as her own. She might legally own
-them, but a brand is
-
-nothing without the fans. There’s an entire generation of people who
-
-grew up escaping to Hogwarts. Who feel comfortable and safe within those
-
-walls… within the pages of the books… or the scenes of the movies. I’m one of
-them. And honestly, I’m not letting her have the
-
-power to take that away from me. Will I spend anymore money on the brand?
-Probably not. But I’m not letting it go entirely. I accept that she is not who I
-thought she
-
-was. But the beautiful thing about books is that,
-
-for the most part, they’re unchanging. Harry still comes from an abusive home,
-and
-
-finds his security in a chosen family. Hermione still fights for the rights of
-the
-
-oppressed, even though they’re different from her. Molly Weasely is still the
-mother figure that
-
-will hug you and care for you, no matter what. Sirius is still the godfather
-that will make
-
-you laugh, and put his life on the line for you. Dobby is still the devoted
-friend. McGonagall still the caring teacher. Hagrid still the father figure that
-will guide
-
-you through the dark. They’re all still there within the pages
-
-and on the screen. Inside a worn paperback or old DVD you got
-
-as a kid or a teenager. And on September 1, you can still return to
-
-Hogwarts without putting a single Knut, sickle, or galleon in Rowling’s pocket.
-Rowling did her job. She wrote the books. But They’re yours now. Always.
+Patreon names roll over uplifting music.
