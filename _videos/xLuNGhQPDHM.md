@@ -28,7 +28,9 @@ cite:
   misinformation: !!map
     brexit_trans_fault: "vox_jkr_article"
   plagiarized: !!map
-    vox_jkr_article: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em> https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf"
+    vox_jkr_article: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf"
+    scotsman_article: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977"
+    potter_day_article: "(n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from https://nationaltoday.com/harry-potter-day/"
     # vox_terf_article: "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em> https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical"
 ---
 
@@ -534,20 +536,23 @@ And ever since then she has been more than happy to spout off about her ignorant
 ## PART FOUR: The Goblet of Bargaining 
 
 <compare>
-<cite></cite>
 <james>
 
-In the blog, Rowling writes about her struggles with sexism and misogyny, adding that reading accounts of gender dysphoria in trans men had made her wonder: 
+In the blog, <mark>Rowling writes about her struggles with sexism and misogyny, adding that reading accounts of gender dysphoria in trans men had made her wonder</mark>: 
 
 \[Visual: Quote on-screen:]
 >“if I’d been born 30 years later, I too might have tried to transition”. 
 
 </james>
-<from></from>
+<from>
+
+In the 3,600 word essay, <mark>Rowling writes about her struggles with sexism and misogyny, adding that reading accounts of gender dysphoira by trans men had made her wonder “if I’d been born 30 years later, I too might have tried to transition”.</mark>
+
+</from>
+<cite>{{ page.cite.plagiarism.scotsman_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Also writing:
@@ -557,14 +562,6 @@ Also writing:
 
 Some readers took this as her actually comparing gender <span class="del">confirming</span><span class="add">confirmation</span> therapies to gay conversion therapy, which has been labeled <span class="add">as</span> torture by many <span class="add">in the</span> psychological profession<span class="del">al</span>s. You didn’t have to stretch very far to see the comparison. 
 
-</james>
-<from></from>
-</compare>
-
-<compare>
-<cite></cite>
-<james>
-
 Her response to this was: 
 
 \[Visual: Tweet shown on-screen:]
@@ -573,11 +570,30 @@ Her response to this was:
 Well at least she’s got her priorities straight. Then she signed an open letter condemning cancel culture. The billionaire author who lives in a castle and was about to have another book hit #1 on the New York Times Best Seller list… complaining about being cancelled. 
 
 </james>
-<from></from>
+<from>
+<h4>Did she compare hormone treatment to gay conversion therapy?</h4>
+
+On 5 July, Rowling began a new Twitter thread to respond to a tweet that read: “Who had money on JK Rowling pivoting to supporting those who call people who take mental health medication “lazy”? I take daily medication to function, this sentiment is beyond offensive, it is actively harmful to millions.”
+
+In response, Rowling wrote: “<mark>I’ve ignored fake tweets attributed to me and RTed widely. I’ve ignored porn tweeted at children on a thread about their art. I’ve ignored death and rape threats. I’m not going to ignore this.</mark> 1/11.”
+
+In the thread, Rowling discussed her own mental health challenges and how she herself has taken anti-depressants in the past to help her.
+
+She went on to write: “<mark>Many, myself included, believe we are watching a new kind of conversion therapy for young gay people, who are being set on a lifelong path of medicalisation</mark> that may result in the loss of their fertility and/or full sexual function.”
+
+\[...]
+
+<h4>What did Rowling say about cancel culture?</h4>
+
+150 writers and academics, including Rowling, recently signed an open letter “condemning intolerant climate for free speech”.
+
+\[...]
+
+</from>
+<cite>{{ page.cite.plagiarism.scotsman_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Warner Bros official statement regarding her repeated infractions was: 
@@ -585,15 +601,24 @@ Warner Bros official statement regarding her repeated infractions was:
 \[Visual: Quote scrolling on-screen:]
 > “The events in the last several weeks have firmed our resolve as a company to confront difficult societal issues. Warner Bros position on inclusiveness is well established, and fostering a diverse and inclusive culture has never been more important to our company and to the audiences around the world. We deeply value the work of our storytellers who give so much of themselves in sharing their creations with us all. We recognize our responsibility to foster empathy and advocate understand of all communities and all people, those we reach through our content.“
 
+Couldn’t use the word transgender once<span class="add">?</span><span class="del">, huh? I mean</span> they might have well said, “we believe in people” for how much sense and genuine emotion this statement had. But, Warner Bros hasn’t been known for making a lot of sense lately. <span class="add">So... it's their *brand*.</span>
+
 </james>
-<from></from>
+<from>
+
+Warner Bros. also issued a statement in light of the controversy with Rowling.
+
+The statement read: “<mark>The events in the last several weeks have firmed our resolve as a company to confront difficult societal issues. Warner Bros.’ position on inclusiveness is well established, and fostering a diverse and inclusive culture has never been more important to our company and to our audiences around the world,</mark>” the company said in a statement.
+
+“<mark>We deeply value the work of our storytellers who give so much of themselves in sharing their creations with us all. We recognize our responsibility to foster empathy and advocate understanding of all communities and all people, particularly those we work with and those we reach through our content.</mark>”
+
+</from>
+<cite>{{ page.cite.plagiarism.scotsman_article }}</cite>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
-
-Couldn’t use the word transgender once<span class="add">?</span><span class="del">, huh? I mean</span> they might have well said, “we believe in people” for how much sense and genuine emotion this statement had. But, Warner Bros hasn’t been known for making a lot of sense lately. <span class="add">So... it's their *brand*.</span>
 
 There has been some backlash, mostly from queer inclusive groups. But the most interesting response has actually been from the fans. To a very large extent, fans of Harry Potter have been beside themselves… ourselves,,, with her actions. While some just wish she’d stop, and go back to the Rowling we thought we knew and loved… many are not afraid of letting her know how they feel on social media. 
 
@@ -912,28 +937,31 @@ There’s even a head canon reason why fans of a certain generation, mine, never
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
-And In 2012, Harry Potter fans around the world cheered Britain’s then Prime Minister David Cameron’s declaration that May 2 would forevermore be known as International Harry Potter Day. Why May 2? <span class="add">Well,</span> The Battle of Hogwarts was fought on this date in 1998. The final conflict of the Second Wizarding War. 
+And <mark>In 2012, Harry Potter fans around the world cheered Britain’s</mark> then <mark>Prime Minister David Cameron’s declaration that May 2 would forevermore be known as International Harry Potter Day.</mark> <mark>Why May 2? <span class="add">Well,</span> The Battle of Hogwarts was fought on this date in 1998. The final conflict of the Second Wizarding War</mark>. 
 
-The Order of the Phoenix proved victorious, ending the most devastating battle of that war and resulting in numerous casualties, including Remus Lupin, Nymphadora Tonks, Lavender Brown, Colin Creavey, Severus Snape, and Fred Weasley. But most notably the defeat of Lord Voldemort, <span class="del">or Tom Riddle.</span> 
+<mark>The Order of the Phoenix proved victorious, ending the most devastating battle of that war and resulting in numerous casualties</mark>, including Remus Lupin, Nymphadora Tonks, Lavender Brown, Colin Creavey, Severus Snape, and Fred Weasley. But <mark>most notably</mark> the defeat of <mark>Lord Voldemort</mark>, <span class="del">or Tom Riddle.</span> 
 
-Every year brings different ways to commemorate and celebrate this day. There are anniversaries to recognize, characters to memorialize, places to see. In Cameron’s official statement announcing the new holiday he said:
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<cite></cite>
-<james>
+<mark>Every year brings</mark> different <mark>ways to commemorate and celebrate this</mark> day. <mark>There are anniversaries to recognize, characters to</mark> memorialize, <mark>places to see</mark>. <mark>In Cameron’s official statement announcing the new holiday he said</mark>:
 
 \[Visual: Quote scrolling on-screen:]
 > “In order to fully commemorate and immortalize her work, we have decided to officially declare May 2nd as an official international holiday, in honor of the date that protagonist Harry Potter conquered the main antagonist of the series, Lord Voldemort. We hope that children and adults alike will be reminded of Harry Potter’s strong and courageous character on this day, as well as of the true credit that Ms. Rowling has made to society.” 
 
 </james>
-<from></from>
+<from>
+<h2>HISTORY OF HARRY POTTER DAY</h2>
+
+<mark>In 2012, Harry Potter fans around the world cheered Britain’s</mark> <mark>Prime Minister David Cameron’s declaration that May 2 would forevermore be known as International Harry Potter Day.</mark> Author J. K. Rowling’s literary series had a significant impact and holds the Guinness World Record as the highest-selling series by a single author at over 500 million copies sold.
+
+<mark>Why May 2? The Battle of Hogwarts was fought on this date in 1998. The final conflict of the Second Wizarding War</mark> took place at the Hogwarts School of Witchcraft and Wizardry. <mark>The Order of the Phoenix proved victorious, ending the most devastating battle of that war and resulting in numerous casualties</mark>, <mark>most notably</mark> <mark>Lord Voldemort</mark>.
+
+<mark>Every year brings</mark> extraordinary <mark>ways to commemorate and celebrate this</mark> enchanted day. <mark>There are anniversaries to recognize, characters to</mark> remember, <mark>places to see</mark>. Key locations throughout Europe that have ties to the movie offer events. The popularity of the entire franchise spawned a theme park, retail stores, an escape room, and merchandise related to everything Harry Potter.
+
+<mark>In Cameron’s official statement announcing the new holiday he said</mark> <mark>“In order to fully commemorate and immortalize her work, we have decided to officially declare May 2nd as an official international holiday, in honor of the date that protagonist Harry Potter conquered the main antagonist of the series, Lord Voldemort. We hope that children and adults alike will be reminded of Harry Potter’s strong and courageous character on this day, as well as of the true credit that Ms. Rowling has made to society.”</mark>
+
+</from>
+<cite>{{ page.cite.plagiarized.potter_day_article }}</cite>
 </compare>
 
 <compare>
