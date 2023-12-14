@@ -726,7 +726,7 @@ But Harry Potter grew up with us. And we got to see the complexity of the books 
 <cite></cite>
 <james>
 
-So in either case, the books stick with you, and so you stick with the book from beginning to end. And in the process of being involved with a series for seven instalments, <span class="add">that’s</span><span class="add">there's</span> a lot of time and thought devoted to processing this media. <span class="del">Critically,</span> at a period in your life where you do not have a super developed capacity for critical thinking. 
+So in either case, the books stick with you, and so you stick with the book from beginning to end. And in the process of being involved with a series for seven instalments, <span class="del">that’s</span><span class="add">there's</span> a lot of time and thought devoted to processing this media. <span class="del">Critically,</span> at a period in your life where you do not have a super developed capacity for critical thinking. 
 
 At the same time that you are able to recognize the morals of the story, you cannot recognize the way that this narration is conditioning you to act a certain way. And these morals are so *very clearly* directed at cooperation, acceptance of the other, and the strength and importance of the individual existing within a community. We see those values and we like those values. 
 
