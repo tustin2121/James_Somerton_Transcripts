@@ -60,10 +60,10 @@
 				{% if page.contributors %} 
 					<p>
 					{% if page.contributors.transcription and page.contributors.downloaded %}
-						Transcribed by {% include name.html name=page.contributors.trascription -%}.<br/>
+						Transcribed by {% include name.html name=page.contributors.transcription -%}.<br/>
 						Transcript downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
 					{% elsif page.contributors.transcription %}
-						Transcribed by {% include name.html name=page.contributors.trascription -%}.<br/>
+						Transcribed by {% include name.html name=page.contributors.transcription -%}.<br/>
 					{% elsif page.contributors.downloaded %}
 						Auto-transcribed by YouTube, downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
 					{% endif %}
