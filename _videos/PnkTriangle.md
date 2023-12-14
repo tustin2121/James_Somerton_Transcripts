@@ -6,6 +6,7 @@ aka: !!seq
   - "The Story of the Gay Holocaust (Thumbnail)"
 topics: !!seq
 links: !!seq
+  - "https://web.archive.org/web/20210425012726/https://www.youtube.com/watch?v=5OxH1rqBAgw"
 description: "a video essay on <xyz>."
 notes: 
   - hbomb

@@ -28,6 +28,12 @@
 	{%- else -%}
 		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on YouTube</a>
 	{%- endif -%}
+{%- elsif parts[2] == "web.archive.org" -%}
+	{%- if include.short -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">WB</a>
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on the Wayback Machine</a>
+	{%- endif -%}
 {%- else -%}
 	{%- if include.short -%}
 		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">Vid</a>
