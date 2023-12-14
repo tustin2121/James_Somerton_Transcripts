@@ -3,13 +3,13 @@ date: 2021-05-12
 title: An Overly-Emotional Look at Why JK Rowling is Bad
 status: Finished
 aka: !!seq
-  - An Overemotional Look at Why JK Rowling is Bad
   - "Confession of a Harry Potter Fan Boy (Thumbnail)"
+  - An Overemotional Look at Why JK Rowling is Bad
 topics: !!seq
   - "Harry Potter"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210512+xLuNGhQPDHM+An+Over-Emotional+Look+at+Why+JK+Rowling+is+Bad.webm"
-description: "a video essay on <xyz>."
+description: "a video essay about J.K. Rowling, how Harry Potter is uniquely situated as foundational media, and how we don't know how to feel about this."
 notes: 
   - odd-linebreaks
   - hbomb
