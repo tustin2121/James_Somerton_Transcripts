@@ -299,7 +299,7 @@ Essentially, sex is biological in nature. It’s determined on a chromosomal lev
 <cite></cite>
 <james>
 
-So sex is biological. Immutable. Whereas gender is a social construct. Man and woman. Something that a lot of people think is innate in nature <span class="add">but isn't</span>. <span class="add">Even though</span><span class="add">Because for</span> for thousands of years there have been third genders recognized all over the world. Non-binary genders. In many places people who didn’t fit neatly into the male or female category were considered closer to god because of it. 
+So sex is biological. Immutable. Whereas gender is a social construct. Man and woman. Something that a lot of people think is innate in nature <span class="add">but isn't</span>. <span class="del">Even though</span><span class="add">Because for</span> for thousands of years there have been third genders recognized all over the world. Non-binary genders. In many places people who didn’t fit neatly into the male or female category were considered closer to god because of it. 
 
 But TERFs have a hard enough time wrapping their head around the idea of someone born into a feminine body <span class="add">can</span> transition<span class="del">ing</span>, binarily, into a masculine one. Or vice versa. Can you imagine their heads exploding at the concept of not having to be male or female? <span class="del">Wingardium Levi-o-shit!</span>
 
@@ -909,7 +909,7 @@ And when she comes up with her own, its about Wizards crapping on the ground and
 <cite></cite>
 <james>
 
-The fans are the people who have kept this brand alive since the books finished their run in 2007, the year I graduated from high school <span class="add">incidentally</span>, and the <span class="add">release of</span> final film <span class="del">was released</span> in 2011. Long before Rowling officially launched Pottermore in 2015, (everything before <span class="del">then was</span><span class="add">that had been</span> considered a beta), fans had been doing the hard work of keeping their favourite characters alive. 
+The fans are the people who have kept this brand alive since the books finished their run in 2007, the year I graduated from high school <span class="add">incidentally</span>, and the <span class="add">release of the</span> final film <span class="del">was released</span> in 2011. Long before Rowling officially launched Pottermore in 2015, (everything before <span class="del">then was</span><span class="add">that had been</span> considered a beta), fans had been doing the hard work of keeping their favourite characters alive. 
 
 Fans took ownership of the the characters. Fan fiction communities for Harry Potter had *always* been popular, but they *really* took off once the series had finished. People were telling their own stories in the world. Creating their own characters. <span class="add">And</span> Adding to the mythology. 
 
