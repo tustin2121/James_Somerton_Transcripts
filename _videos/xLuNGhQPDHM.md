@@ -24,7 +24,12 @@ contributors:
 
 cite:
   clips: !!map
+    doc_tweet: "Gu, E. (Author). (2020, Jun 6) [Tweet] https://twitter.com/eugenegu/status/1269394929865777152"
+  misinformation: !!map
+    brexit_trans_fault: "vox_jkr_article"
   plagiarized: !!map
+    vox_jkr_article: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em> https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf"
+    # vox_terf_article: "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em> https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical"
 ---
 
 <compare>
@@ -51,7 +56,11 @@ Patreon
 *Sigh*
 
 </james>
-<from></from>
+<comment>
+
+This quote is a parody of the first line of The Philosopher's Stone: "Mr. and Mrs. Dursley, or number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+
+</comment>
 </compare>
 
 
@@ -299,7 +308,7 @@ Essentially, sex is biological in nature. It’s determined on a chromosomal lev
 <cite></cite>
 <james>
 
-So sex is biological. Immutable. Whereas gender is a social construct. Man and woman. Something that a lot of people think is innate in nature <span class="add">but isn't</span>. <span class="add">Even though</span><span class="add">Because for</span> for thousands of years there have been third genders recognized all over the world. Non-binary genders. In many places people who didn’t fit neatly into the male or female category were considered closer to god because of it. 
+So sex is biological. Immutable. Whereas gender is a social construct. Man and woman. Something that a lot of people think is innate in nature <span class="add">but isn't</span>. <span class="del">Even though</span><span class="add">Because for</span> for thousands of years there have been third genders recognized all over the world. Non-binary genders. In many places people who didn’t fit neatly into the male or female category were considered closer to god because of it. 
 
 But TERFs have a hard enough time wrapping their head around the idea of someone born into a feminine body <span class="add">can</span> transition<span class="del">ing</span>, binarily, into a masculine one. Or vice versa. Can you imagine their heads exploding at the concept of not having to be male or female? <span class="del">Wingardium Levi-o-shit!</span>
 
@@ -346,36 +355,55 @@ I mean it came as a hell of a shock to me but it wasn’t all that shocking <spa
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
-The Gender Recognition Act, a law put on the books in 2004, sets up the legal process for trans people to change their legal gender on their birth certificates. Because at the time that decision was not made by you, or your doctor, but by an anonymous group of beurocrats.<sup class="add">[sic: bureaucrats]</sup> 
+<mark>The Gender Recognition Act, a law put on the books in 2004,</mark> sets up <mark>the legal process for trans people to change their legal</mark> gender <mark>on their birth certificates</mark>. Because at the time that decision was not made by you, or your doctor, but <mark>by an anonymous group of beurocrats</mark>.<sup class="add">[sic: bureaucrats]</sup> 
 
-In 2017, the government announced a possible reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned gender. But there was a hell of a lot of backlash from TERFs, people who generally hate trans people, and the very transphobic English press who had a habit of running stories with dead names. 
+<mark>In 2017, the</mark> <mark>government announced</mark> a possible <mark>reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned gender</mark>. But there was a hell of a lot of backlash from TERFs, people who generally hate trans people, and the very transphobic English press who had a habit of running stories with dead names. 
 
 \[On screen]: "TERFs" "Assholes" "Rich Assholes"
 
+These reporters <mark>falsely claimed that</mark> allowing trans people to <mark>“self-ID” meant that <span class="del">a person</span></mark><span class="add">people</span><mark> could</mark> <mark>declare themselves a man on Monday and a woman on Friday, allowing</mark> rapists to gain <mark>access to women’s only spaces</mark> like bathrooms and changing rooms. 
+
 </james>
-<from></from>
+<from>
+<h3>The rise of trans-exclusionary radical feminists in the UK</h3>
+
+<mark>The Gender Recognition Act, which was signed into law in 2004,</mark> defines <mark>the legal process for trans people to change their legal</mark> sex <mark>on their birth certificates</mark>, which currently involves an expensive and highly intrusive investigation <mark>by an anonymous government board</mark> that has the final say over a trans person’s legal sex. <mark>In 2017, the</mark> UK government announced an inquiry into a proposed reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned genders. Opponents of the reforms seized the narrative, backed by a friendly press, distorting the proposal’s aims at so-called “self-ID.”
+
+Anti-trans members of the British press repeatedly and <mark>falsely claimed that</mark><mark> “self-ID” meant that a person could</mark> ostensibly <mark>declare themselves a man on Monday and a woman on Friday, allowing</mark> potential sex perverts to claim a female gender identity in order to <mark>access women’s spaces</mark> for nefarious purposes — a claim that research on the subject shows has essentially no merit.
+
+</from>
+<cite>{{ page.cite.plagiarized.vox_jkr_article }}</cite>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
-
-These reporters falsely claimed that allowing trans people to “self-ID” meant that <span class="del">a person</span><span class="add">people</span> could declare themselves a man on Monday and a woman on Friday, allowing rapists to gain access to women’s only spaces like bathrooms and changing rooms. 
 
 Now, I’ve never been sexually assaulted, but I do know a disturbing amount of women who have. I’ve been the one taking them to the hospital, the cops, or the counciling<sup class="add">[sic: counseling]</sup> sessions. And something I’ve discovered through all of this is… rapists don’t go through that much effort. <span class="add">There's not a lot of thinking behind it.</span> They just do it. It’s a power thing. Men who believe <span class="del">they’re</span><span class="add">they are</span> more powerful than women are not going to dress up as a woman in order to assault <span class="del">her</span><span class="add">them</span>. They’re too lazy for that, don’t give them that much credit. But I digress. 
 
+</from>
+<cite></cite>
+</compare>
+
+<compare>
+<james>
+
+<mark>The campaign of lies</mark> in the press <mark>soon moved on to spread</mark> more lies, now <mark>about trans children</mark>. That kids were being forced to transition by ultra-woke parents and experimental doctors. <mark>As a result, a large proportion of mainstream British feminists</mark> started loudly proclaiming <mark>that it’s not possible to change biological sex</mark>. Always ALWAYS focusing on biology and not sociology.
+
 </james>
-<from></from>
+<from>
+
+<mark>The disinformation campaign</mark> <mark>soon moved on to spread</mark> falsehoods <mark>about trans children</mark>, and other hot trans topics du jour. <mark>As a result, a large proportion of mainstream British feminists</mark>, who sometimes call themselves “gender critical,” have expressed potentially transphobic views like Rowling’s, saying <mark>that it’s not possible to change biological sex</mark>. Meanwhile, in most mainstream US feminist circles, speaking out against trans women is not considered feminism.
+
+</from>
+<cite>{{ page.cite.plagiarized.vox_jkr_article }}</cite>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
-
-The campaign of lies in the press soon moved on to spread more lies, now about trans children. That kids were being forced to transition by ultra-woke parents and experimental doctors. As a result, a large proportion of mainstream British feminists started loudly proclaiming that it’s not possible to change biological sex. Always ALWAYS focusing on biology and not sociology.
 
 No one, to my knowledge, has claimed that a trans person can change their chromosomal sex. Only in a perfect world. BUT, one can change their gender, because that is simply how you are perceived by society. Lavern Cox may have an X and a Y chromosome, but if you’re lucky enough to see her walking down the street, you’re not thinking anything but woman. 
 
@@ -386,36 +414,38 @@ Meanwhile, in most mainstream North American feminist circles, speaking out agai
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
-But trans-exclusionary radical feminist <span class="del">(TERF)</span> ideology has been helped along in the UK by false media campaigns lead by the likes of Rupert Murdoch, the Australian billionaire who birthed Fox News. Any opposition to gender-critical or TERF thought in the UK brings accusations of “silencing women”, leading to Australian TERF Sheila Jeffreys going before the UK Parliament in March of 2018 to declare that trans women <span class="add">are</span> “parasites,”. Charming.
+<mark>But trans-exclusionary radical feminist <span class="del">(TERF)</span> ideology has been helped along in the UK by</mark> false media campaigns lead by the likes <mark>of Rupert Murdoch</mark>, the Australian billionaire who birthed Fox News. <mark>Any</mark> <mark>opposition to gender-critical</mark> or TERF <mark>thought in the UK brings accusations of “silencing women”</mark>, leading to <mark>Australian TERF Sheila Jeffreys going before the UK Parliament in March of 2018 to declare that trans women <span class="add">are</span> “parasites,”</mark>. Charming.
 
 </james>
-<from></from>
+<from>
+
+<mark>But trans-exclusionary radical feminist (TERF) ideology has been helped along in the UK by</mark> media under the leadership <mark>of Rupert Murdoch</mark> and the Times of London for years. <mark>Any</mark> vague <mark>opposition to gender-critical</mark> <mark>thought in the UK brings accusations of “silencing women”</mark> and a splashy feature or op-ed in a British national newspaper. <mark>Australian radical feminist Sheila Jeffreys went before the UK Parliament in March 2018 and declared that trans women are “parasites,”</mark> language that sounds an awful lot like Donald Trump speaking about immigrants.
+
+</from>
+<cite>{{ page.cite.plagiarized.vox_jkr_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
-Vox.com reported that According to <span class="add">Erin Greensmith</span>, who studies the modern gender-critical movement, gender-critical feminism in the UK grew out of a toxic mix of historical imperialism, and any concept that looks at gender as anything but biologically determined. Those who rose to prominence in the movement did so through “Call out culture”, attacking trans men and women online. 
+Vox.com reported that <mark>According to <span class="add">Erin Greensmith</span>, who studies the modern gender-critical movement</mark>, <mark>gender-critical feminism in the UK grew out of a toxic mix of historical imperialism</mark>, and any concept that looks at gender as anything but biologically determined. <mark>Those who rose to prominence in the movement did so through</mark> “Call out culture”, attacking trans men and women online. 
 
 Declaring trans women to be male perverts, and trans men to be lost lesbian sisters. Nevermind that trans men can also be gay or bisexual. Another fact TERFS don’t like <span class="del">acknowledging</span><span class="add">to acknowledge</span>. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<cite></cite>
-<james>
 
 \[Visual: Quote scrolling on-screen:]
 > “Anti-trans feminists think they have science on their side,” Greensmith said. “It is bananas how ascientific their rhetoric is, and yet literally they say, ‘Biology isn’t bigotry.’ In fact, biology has been used as bigotry as long as biology has been a thing.” 
 
 </james>
-<from></from>
+<from>
+
+<mark>According to Heron Greenesmith, who studies the modern gender-critical movement</mark> as a senior research associate at the social-justice think tank Political Research Associates, <mark>gender-critical feminism in the UK grew out of a toxic mix of historical imperialism</mark> and the influence of the broader skeptical movement in the early aughts — which was hyperfocused on debunking “junk science” and any idea that considered sociological and historical influence and not just biology. <mark>Those who rose to prominence in the movement did so through</mark> a lot of “non-tolerant calling-out and attacking people,” Greenesmith said, much like gender-critical feminism. <mark>“Anti-trans feminists think they have science on their side</mark>. <mark>It is bananas how ascientific their rhetoric is, and yet literally they say, ‘Biology isn’t bigotry.’ In fact, biology has been used as bigotry as long as biology has been a thing</mark>.”[^double-dip]
+
+[^double-dip]: This paragraph is actually from *two* articles. Author Katelyn Burns did [an explainer on TERFs](https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical) four months prior to the [article on JKR](https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf), and she copied this paragraph from one into the other.
+
+</from>
+<cite>{{ page.cite.plagiarized.vox_jkr_article }}</cite>
 </compare>
 
 <compare>
@@ -424,33 +454,35 @@ Declaring trans women to be male perverts, and trans men to be lost lesbian sist
 
 Biology has been used to hold people down for thousands of years. Holding down women, people of color - You name a non-white-male group and biology has been used to bring the boot down on them at some point. And the biology narrative has only grown in the UK. 
 
-TERFism has become so prevalent there that many liberal pundits even blamed the conservative Tory victory in the last parliamentary election on trans people, saying that trans issues are just a hyper-woke product of a political left that has simply gone too far. BREXIT was even blamed on trans people. Donald Trump’s election win in 2016 was blamed on trans people! By British people! 
-
 </james>
 <from></from>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
-So English feminists, of which JK Rowling considers herself a proud member, were already at a tipping point when Maya Forstater sued the Centre for Global Development, a non-profit think tank that decided not to renew her expiring contract when they discovered that she’d been spreading TERFY shit all over the internet. 
+<mark>TERFism has become so prevalent there that many</mark> liberal <mark>pundits even blamed the</mark> conservative <mark>Tory victory in the last parliamentary election on trans people</mark>, saying <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> BREXIT was even blamed on trans people.[^brexit] Donald Trump’s election win in 2016 was blamed on trans people! By British people!<sup>[citation needed]</sup> 
 
-After a hearing with a UK employment tribunal, Judge James Tayler (good name) ruled that Forstater’s gender-critical views did not represent a legally protected philosophical belief. He said: 
+[^brexit]: The article he's copying from says that Brexit is the reason it's NOT the trans people's fault, so this is just flat out wrong.
 
-</james>
-<from></from>
-</compare>
+So English feminists, of which JK Rowling considers herself a proud member, were already at a tipping point when Maya <mark>Forstater sued the Centre for Global Development</mark>, a non-profit think tank that decided not to renew her expiring contract when they discovered that she’d been spreading TERFY shit all over the internet. 
 
-<compare>
-<cite></cite>
-<james>
+<mark>After a hearing with a UK employment tribunal, Judge James Tayler</mark> (good name) <mark>ruled that Forstater’s gender-critical views did not represent a legally protected philosophical belief</mark>. He said: 
 
 \[Visual: Quote scrolling on-screen:]
 > “I consider that the Claimant’s view, in its absolutist nature, is incompatible with human dignity and [the] fundamental rights of others.” 
 
 </james>
-<from></from>
+<from>
+
+<mark>TERFism has spread so far in the UK that many</mark> <mark>pundits even blamed the</mark> overwhelming <mark>Tory victory in last week’s election on trans people</mark>, claiming <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> The claim is a stretch, given that trans issues were not a significant issue in an election largely dominated by the looming prospect of Brexit and that many of the loudest anti-trans voices in the UK are in the Labour Party.
+
+Then came the ruling in the Forstater case on Wednesday. <mark>Forstater sued the Centre for Global Development</mark> in UK employment court, claiming her view that “sex is a biological fact, and is immutable” represented a deeply held and legally protected philosophical view. However, court documents from the case show that Forstater’s actions went much farther than merely stating her beliefs. Several fellow CGD coworkers expressed concern to management over her anti-trans tweets. In one case, Forstater repeatedly misgendered a nonbinary person on Twitter. She also told the court that she does not believe it’s possible to change your sex and refused to recognize the legal right for trans people to do so.
+
+<mark>After a hearing with a UK employment tribunal, Judge James Tayler</mark> ruled that Forstater’s gender-critical views did not represent a legally protected philosophical belief. “<mark>I consider that the Claimant’s view, in its absolutist nature, is incompatible with human dignity and [the] fundamental rights of others</mark>,” he wrote in his judgment.
+
+</from>
+<cite>{{ page.cite.plagiarized.vox_jkr_article }}</cite>
 </compare>
 
 <compare>
@@ -466,7 +498,6 @@ That’s when the “Dress however you please” tweet came out, and it’s just
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 One person replied to her tweets, writing: 
@@ -474,15 +505,27 @@ One person replied to her tweets, writing:
 \[Visual: Quote on-screen:]
 >“As a physician, I want people to know that sex exists on a bimodal biological spectrum just like gender exists on a bimodal sociological spectrum. While most identify as either female or male, there are intersex and trans individuals whose identities are just as valid and real.” 
 
+Rowling proceeded to block them. 
+
 </james>
-<from></from>
+<from>
+
+(Here's [the tweet](https://twitter.com/eugenegu/status/1269394929865777152) James is referencing)
+
+**Eugene Gu, MD**  
+@eugenegu
+
+> As a physician, I want people to know that sex exists on a bimodal biological spectrum just like gender exists on a bimodal sociological spectrum. While most identify as either female or male, there are intersex and trans individuals whose identities are just as valid and real.
+
+</from>
+<cite>{{ page.cite.clips.doc_tweet }}</cite>
 </compare>
 
 <compare>
 <cite></cite>
 <james>
 
-Rowling proceeded to block them. And ever since then she has been more than happy to spout off about her ignorant beliefs whenever given the chance. Like in her 3600 word blog, “TERF Wars”. Oh she’s so funny. “TERF Wars” aha ha ha ha <span class="add">oh so clever...</span>
+And ever since then she has been more than happy to spout off about her ignorant beliefs whenever given the chance. Like in her 3600 word blog, “TERF Wars”. Oh she’s so funny. “TERF Wars” aha ha ha ha <span class="add">oh so clever...</span>
 
 </james>
 <from></from>

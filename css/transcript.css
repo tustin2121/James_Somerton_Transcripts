@@ -1,3 +1,38 @@
+@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--box-border-cite: gray;
+		--box-border-james: orange;
+		--box-border-clip: gray;
+		--box-border-credits: gray;
+		--box-border-from: #00b500;
+		--box-border-comment: gray;
+		--box-header-color: gray;
+		
+		--mark-stolen-text: #c9d1d9;
+		--mark-stolen-bg: #692800;
+		--mark-source-text: #c9d1d9;
+		--mark-source-bg: #033a16;
+	}
+}
+@media (prefers-color-scheme: light) {
+	:root {
+		color-scheme: light;
+		--box-border-cite: gray;
+		--box-border-james: orange;
+		--box-border-clip: gray;
+		--box-border-credits: gray;
+		--box-border-from: green;
+		--box-border-comment: gray;
+		--box-header-color: gray;
+		
+		--mark-stolen-text: #c9d1d9;
+		--mark-stolen-bg: #692800;
+		--mark-source-text: #c9d1d9;
+		--mark-source-bg: #033a16;
+	}
+}
+
 body {
 	height: 100%;
 	background-color: var(--color-canvas-default);
@@ -40,35 +75,35 @@ compare comment::before
 {
 	display: block;
 	font-size: x-small;
-	color: grey;
-	border-bottom: grey 1px solid;
+	color: var(--box-header-color);
+	border-bottom: var(--box-header-color) 1px solid;
 }
 compare cite    {
 	grid-area: s; 
-	border-color: gray;
+	border-color: var(--box-border-cite);
     text-align: end;
     font-size: small;
     color: var(--color-fg-muted);
 }
 compare james {
 	grid-area: j; 
-	border-color: orange;
+	border-color: var(--box-border-james);
 }
 compare clip {
 	grid-area: j; 
-	border-color: gray;
+	border-color: var(--box-border-clip);
 }
 compare credits {
 	grid-area: j; 
-	border-color: gray;
+	border-color: var(--box-border-credits);
 }
 compare from    {
 	grid-area: f; 
-	border-color: green;
+	border-color: var(--box-border-from);
 }
 compare comment {
 	grid-area: f; 
-	border-color: gray; 
+	border-color: var(--box-border-comment); 
 	font-size: smaller;
 }
 compare james::before   { content: 'James:'; }
@@ -104,8 +139,43 @@ span.del, sup.del {
 	text-decoration: line-through;
 }
 
-compare james mark { background-color: var(--color-prettylights-syntax-markup-deleted-bg) !important; }
-compare from mark  { background-color: var(--color-prettylights-syntax-markup-inserted-bg) !important; }
+compare james mark {
+	background-color: var(--mark-stolen-bg) !important;
+	color: var(--mark-stolen-text) !important;
+}
+compare from mark  {
+	background-color: var(--mark-source-bg) !important;
+	color: var(--mark-source-text) !important;
+}
+
+compare from:empty {
+	filter: opacity(0.50);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+compare from:empty::before {
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    right: 4px;
+}
+compare from:empty::after {
+	content: 'No plagiarism found yet';
+	font-size: smaller;
+	color: var(--color-fg-muted);
+	align-self: center;
+}
+
+compare from h1,
+compare from h2,
+compare from h3,
+compare from h4,
+compare from h5,
+compare from h6 {
+	margin-block: 0;
+}
 
 .lyrics {
     margin-inline: auto;
