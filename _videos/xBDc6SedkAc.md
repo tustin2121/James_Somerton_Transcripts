@@ -34,7 +34,7 @@ cite:
 ---
 
 <compare>
-<james>This video is brought to you by SquareSpace / Lilo</james>
+<james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
 <comment>
 <div class="header"></div>
 
@@ -46,7 +46,7 @@ Prior to this video being released, James was complaining on discord about how h
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 On Screen: "[Disclaimer]"
 
@@ -58,7 +58,7 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of Prince Phillip, the eldest grandson of England's Monarch. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
 
@@ -72,7 +72,7 @@ However this evening amidst the sparkling chandeliers of the Grand Ballroom, som
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The repercussions are immediate, with the impending reelection campaign of President Claremont, the scandal is ill timed, threatening to put a dent in her electoral armor. Damage control is of the essence. 
 
@@ -91,7 +91,7 @@ Alex: What three words would I use to describe Henry? White, blonde, and British
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 During one such contrived rendezvous, after a security breach lands them both locked in a cramped broom closet, Alex's guard crumbles. He divulges the root of his resentment stemming from a slight he felt from Henry during one of his initial forays into the international stage. This heartfelt confession, laced with vulnerability, moves Henry. 
 
@@ -107,7 +107,7 @@ A normal gay experience, yes.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Weeks later at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a "Friends with Benefits" relationship, although they keep their involvement secret. Duty and responsibilities, however, have their own demands. The electoral battlefield beckons and Alex finds himself in Texas, championing his mother's campaign. 
 
@@ -122,7 +122,7 @@ Their story however is far from a fairy tale ending. Henry visits Alex at the sc
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But love, with its tenacity, spurs Alex on. He pursues Henry across the ocean seeking answers. Drenched from the English rain, Alex demands to know why Henry has basically abandoned him. Henry admits that he loves Alex, just as Alex loves him, but explains that his Royal position makes a gay relationship impossible for him. But Alex, with those eyelashes of his, manages to convince Henry that their relationship is worth fighting for, and the the two reconcile and commit to being together. 
 
@@ -135,7 +135,7 @@ But things don't go so well for Henry whose family has all but sequestered him a
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The climax of the story coincides with the US elections. Polls are tight and Alex's family is preparing for bad news. The only thing keeping Alex together is Henry by his side. 
 
@@ -151,7 +151,7 @@ As his mother prepares a concession speech, news comes from Texas. In the most *
 ## Chapter 1: Missionary Suppression
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So *Red, White, and Royal Blue* might read like the ultimate what if scenario. But strip away the international diplomacy and royal trappings and you got yourself a pretty straightforward romance: two guys falling for each other when they least expect it. 
 
@@ -164,7 +164,7 @@ Now if you're familiar with the romance genre, you'll know that it's not exactly
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In this narrative Alex and Henry's all consuming infatuation anchors the plot. They're the kind of "in too deep" that has them gambling everything on a chance at happiness. And sure with Alex's mom in full campaign mode and Henry sporting a crown (usually metaphorically), their romance isn't exactly publicity friendly. But the fireworks happen offstage. 
 
@@ -189,7 +189,7 @@ Henry: *[shy]* He is.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
 
@@ -211,7 +211,7 @@ Todd could not find anything but a negative review on the BBC, which just though
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
 
@@ -232,7 +232,7 @@ Both articles cited exactly [one tweet](https://twitter.com/HunterPippinPHL/stat
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 There's a strong undercurrent of hypocrisy here, particularly as queer folk of... literally every shade of the rainbow are accused of corrupting the youth. Never mind that it was perfectly acceptable for virtually every American Teen Movie to focus with laser precision on rooting for teenagers to bone each other. The *American Pie* franchise owes its whole success to this. For which audiences agree that the heterosexual events in American Pie are... normal.
 
@@ -243,7 +243,7 @@ But when it's gay, it's sexualization, echoing a sentiment quietly expressed in 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And I will note just in case YouTube makes me cut the footage of *said scene*, the main sex scene in *Red, White, and Royal Blue* entirely focuses on faces. It's all about the emotional intimacy between two people and less about the raw sex, which isn't even *raw*, by the way, because they make a point of using a condom. Which a lot of gay viewers laughed at because we're in the age of prep. But two things: one) Prince Henry probably couldn't go on prep without it causing a scandal, and two) there are STDs other than HIV, guys. This is why syphilis is resurging and why we're getting antibiotic resistant strains of Gonorrhea now. Wrap 👏 it 👏 up! 👏 In any case...
 
@@ -254,7 +254,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
@@ -269,7 +269,7 @@ It is *technically* possible, but as of yet, no single tweet has been dug up tha
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So why is it that they were perfectly fine with Nick and Charlie kissing up a storm on Heartstopper, writing fanfiction about it and creating *countless* fan edits on Tik Tok, but basically formed a covenant the minute Alex pushed Henry's knees up to his chest? I'd like to see the reaction to... well, any episode of *Queer as Folk*. 
 
@@ -280,7 +280,7 @@ Now was this just because they've never been exposed to the idea of gay sex befo
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 They know that men have sex with men, and women have sex
 with women, but they're really icked out by the idea of knowing the ins and outs and tops and bottoms of it all. (Good thing Henry didn't eat any *beans* before the scene or that could have brought up even more uncomfortable questions.)
@@ -292,7 +292,7 @@ The controversy about the sex in *Red, White, and Royal Blue*, while quickly sup
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Through a latent process of judging gayness in media the straight audience can pass a stamp of approval or condemn certain media. And in the process we can perhaps perceive the hetero hegemony as dictating how, or how not, to be gay. And simply by how overwhelmingly large the straight audience is, their dictation of what good gay representation is drowns out what gay men describe as good gay representation.
 
@@ -303,7 +303,7 @@ This is the fear anyway.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And though I believe it is irrational, the fear comes from a very real very valid place. Especially as a conservative wave once again washes across America and sections of Europe, which tries to insist that queer sex should be pushed back into the closet, or should simply cease to exist altogether. Which is how they also feel about various queer people. 
 
@@ -317,7 +317,7 @@ people, "you'll be accepted if you're less like the characters in *Red, White, a
 ## Chapter 2: Cute and Caged
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Let's take a closer look at *Heartstopper* for a moment. This series skips the usual over-the-top drama and instead captures the sweet sometimes clumsy moments of teen love. It centers around two characters: Charlie Spring (played by Joe Locke) and Nick Nelson (played by Kit Connor). Their story takes place in a typical English high school and unfolds slowly and gently with each episode moving the story forward toward a satisfying emotional climax. The story carefully takes us through their personal journeys, the difficulties they face with bullying, and the joy of finding someone who truly understands them. All without becoming overly sad or dramatic. The show has a light touch that perfectly captures how straights have been telling us first love feels for centuries.
 
@@ -326,7 +326,7 @@ Let's take a closer look at *Heartstopper* for a moment. This series skips the u
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The show gives us a real look at Charlie as he deals with his sexuality and the need to be accepted. He's not just a stereotype he's a fully developed character going through the ups and downs of first love in a very real way. As for Nick the show does a good job of showing his journey of understanding that he's bisexual. It talks about the confusion and moments of clarity that come with figuring out who you are. The series handles these complex topics with a gentle touch that's both admirable and sweet. 
 
@@ -337,7 +337,7 @@ The show gives us a real look at Charlie as he deals with his sexuality and the 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But while creating a story focused on the sweet and cute over the hot and bothered has attracted an audience that might not usually watch a show about queer characters, it's also seemed to alienate a large swath of the queer community. There's been a rather... weird reaction to the second season of the show in particular. 
 
@@ -351,7 +351,7 @@ character's relationships advance beyond hugging, even if it was offscreen. The 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 "Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. We were either neutered
 and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)
@@ -366,7 +366,7 @@ Out of context, I found this reaction a little bit cringy and, truthfully, the o
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Visual on screen: \[Disclaimer]
 
@@ -377,7 +377,7 @@ To be clear, gay people do not want to see these characters having sex. But gay 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Not to paint Trixie and Katya in a bad light; they're hardly alone. In fact they're not even the first to have this reaction. There was a slew of gay men and queer people in general<sup cn></sup> who held nothing but contempt for *Heartstopper* from the word go, and not even necessarily for the aforementioned reasons.
 
@@ -390,7 +390,7 @@ There were many who felt that *Heartstopper* was simply too edgeless and seemed 
 ## Chapter 3: Straight Interrupted
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 There is a trend among discourse among women about the allotted role of a woman in the patriarchal power structure. Men typically want
 women to be sexually experienced, but they also seem to allocate a role for women that holds them to a particular sexual purity. It's a double standard for sure.
@@ -408,7 +408,7 @@ Gloria: We have to to be a boss but you can't be mean. You have to lead but you 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The Madonna horror complex exists for a reason. You marry the nice girl, not the one who'll give you a blowjob in a movie theater. This bothered Alanis Morissette so severely that she made one of the greatest songs of all time because of it!
 
@@ -423,7 +423,7 @@ Suffice to say, women have made it clear that they don't like having the paramet
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Even though I *highly doubt* that developing a normative argument that gay men need to hold themselves to a willful self-directed abstinence program to be considered valid by society at large was Alice Oseman's objective. To be clear, I do not under any circumstances believe that Alice Oseman is trying to re-closet queer sexuality. Sex is omitted from their work as per their license as a
 creator, but they do not shame sex in their work.
@@ -435,7 +435,7 @@ Outside of Oseman, there is a fear of an external party dictating what is and is
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In our post-Disney-acquisition-of-Star-Wars-World, we've started to conflate the creation, creator, and attitudes of a fandom. We crossed
 those three wires a lot. And we perceive that the way a fandom is interacting with a particular example of media as being the intended meaning of said media. Or even the values of the creator themselves. 
@@ -447,7 +447,7 @@ Take for instance the recent event of Zach Snyder hiring a transgender writer to
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So just because there are some people holding up Nick and Charlie as the archetype of how gay boys ought to express their affection does not mean that this is what the media is intending. My willingness to afford the benefit of the doubt to a large swath of gays, including Trixie and Katya, is that they don't want to directly observe the sex lives of these characters. But rather comes from an annoyance for a condition of gay acceptance being to follow not only the purity standards of straight people, but specifically the purity standards that are imposed on straight women. This may even betray a thought pattern in society (even from our allies) that indicates that society at large still does not view gay men as actual men.
 
@@ -456,7 +456,7 @@ So just because there are some people holding up Nick and Charlie as the archety
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 External factions that dictate what our sex lives ought to be are based on the model of what straight people deem to be acceptable. When in reality, queer psychosexual development happens quite differently. Especially in adolescence, during a formative age of communication skills, gender is a cultural barrier between girls and boys. This fluid line of same gender communication facilitates a greater opening for interpersonal exploration. At an earlier age this changes the way queer people approach sex. 
 
@@ -467,7 +467,7 @@ This leads to a general comfort towards sexuality in queer circles, and also why
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The result is a set of sexual expectations that are almost completely inverted from heteronormative expectations. For instance, second base for straight people is apparently coping a feel over clothing; second base for gay men (according to patterns) is anal penetration. 
 
@@ -480,7 +480,7 @@ Weirdly gay bases are reversed from the straight ones: the Home Run System is a 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Now there's nothing wrong with depicting gay people not having sex. If we want our queerness defined based on internal merits, rather than owing public validation to having someone's hand to hold, then this is paramount. Subsequently, aro/ace isn't the only expression of asexuality. You can be gay and ace at the same time. Developing sexuality doesn't mean that we need to see the characters doing it.  But people in the heat of budding sexuality are bound to experiment a bit. It would be something that they would talk about; confirmation through dialogue. It doesn't have to follow *Elite*'s footsteps. But, just like being gay or trans, not everyone who self-identifies as asexual now always knew that about themselves.
 
@@ -491,7 +491,7 @@ Now there's nothing wrong with depicting gay people not having sex. If we want o
 ## Chapter 4: Trauma and FOMO
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
 it's great! It's good. It's fine.
@@ -505,7 +505,7 @@ Given society's push to present sex as pleasurable, many start by trying it out 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 There is a compelling case for queer media to portray the more innocent aspects of life. Stories of friendship, adventure, coming of age, familial bonds, and the quotidian joys and struggles that make up the human experience. These stories matter because they reinforce the idea that we queers are not defined *solely* by our sexuality. By diversifying the types of stories told within LGBT media, we affirm that queer people lead rich complex lives that
 are worth depicting in all their facets, not just in relationship to their sexual identity. 
@@ -518,7 +518,7 @@ fills this role *perfectly*.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But we also have to accept that not every queer story should be so innocent. When it comes to drag queens and gay performers, especially those who tour, they encounter an astronomical number of gay and queer people, especially among other performers. They get to know each other quite well, including stories of their teenage years. 
 
@@ -529,7 +529,7 @@ And this includes my own discussions with queer people. Seriously it's one of th
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Alternately (and this is touching on the hand-holding part of *Heartstopper*) is that for gays of a certain generation (and by that I mean neither too old nor too young) being confronted by *Heartstopper* under the assumption that it is meant to mimic reality... is triggering. Believe me, a lot of gays would have *loved* to instantly find a high school boyfriend with whom they felt comfortable enough to explore emotional intimacy and hold hands. The gay home run, as it were. 
 
@@ -538,7 +538,7 @@ Alternately (and this is touching on the hand-holding part of *Heartstopper*) is
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, this generation, who are in their late 20s and early 40s now... (my generation), may have very well *wanted* this experience. But we came of age when being out and gay as a teenager wasn't trendy (if you don't mind my flippancy). For myself and others we were the only out gay in school, and so seeing something like *Heartstopper* may feel like a culture is telling us that 'we were doing it wrong'. 
 
@@ -549,7 +549,7 @@ Alternately, for those who didn't even *know* that they were gay as a teenager, 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 For all that even the staunchest allies do to make coming out easier today, we still have to come out in a society which is grandfathered in a myriad of cultural attitudes that are incompatible with queerness. Which create natural obstacles for us. We exist in an operating system that is not designed for us. The trauma comes with society placing the burden of integration on *us*. Society does not truly acknowledge this as trauma, because social understanding of queer trauma is related to bigotry, and not the complex constructed from watching your straight cis friends be able to live out a number of life experiences as they see fit. Whereas the queer individual having, been raised under the assumption that they are straight and/or cis, must make concessions and compromises based on how soon or late they shift into their queerness. Combined with media that dictates queer experiences, they are going to be across the board feelings of "I lived my life the wrong way".
 
@@ -560,7 +560,7 @@ You are dealing with this group of people when you develop queer media. We're a 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And, no, you can't go back and fix it. Like I came out when I was 12 and I haven't had an actual boyfriend my whole life.
 
@@ -576,7 +576,7 @@ James has repeated this personal anecdote on stream, so it may be genuine.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Many gay people cope with this by telling themselves that their teenage fantasies were simply impossible. Media instances that refute this without explanation may very well feel like direct personal criticism... for having trauma.
 
@@ -592,7 +592,7 @@ But that's just *Heartstopper*. What of the opposite? An inability to consume me
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And I'm sorry for how polarizing this video is. I know it must seem like I'm jumping around a lot. If I'm not settling on a clear critical target it's because I'm not trying to target anyone. When in fact I'm trying to defend media's ability to exist as a creator's vision. But also defend why queer people have such a dodgy relationship with media featuring queer people. Nobody's really in
 the wrong here. 
@@ -606,7 +606,7 @@ the wrong here.
 ## Chapter 5: Real Life and Fantasy
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In regards to queer resistance around media, I see two issues. The first being that queer people, including gay men, have been so underrepresented for so long (and, to boot, predominantly represented by depictions that moralize us based on hegemonistic etiquette), we feel an obligation to watch queer media where we are featured in the hopes that it will break the representation glass ceiling. 
 
@@ -618,7 +618,7 @@ people! And was not nearly as good.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 We're shooting ourselves in the foot by following trends. Highly promoted queerness is queerness that has been bespoke to have as much appeal to straight audiences as possible. 
 
@@ -629,7 +629,7 @@ Think Brokeback Mountain: would that have been as successful had it not starred 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The problem in practice is that this obligation *implores us* to watch media we simply may not be interested in. Either outside of our preferred genres or featuring casting that we don't like. Or
 something which may contain triggering elements that we don't even know are triggers simply because we don't consider existing in a society that does not accommodate our identities as CPTSD!
@@ -641,7 +641,7 @@ something which may contain triggering elements that we don't even know are trig
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The second issue is, as per an unawareness of said complex trauma, we are unable to compartmentalize a negative reaction to media as a trauma response. In which case we try to intellectualize by interpreting this media as making a normative argument about all of gay people. 
 
@@ -655,7 +655,7 @@ artist or author is out there trying to make a fictional manifesto out to reflec
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Sometimes this is true, like with Barbie, which was a movie about Womanhood,the interaction between woman and the idea of woman, and where men may fit into this idea. At which point you are allowed to disagree with the premises and conclusions of the movie. You're also allowed to disagree with some finer points and some nitpicky elements of the conclusion, but overall enjoy the movie or appreciate that it exists. "Slightly disagree" does not need to mean "burn it in a fire".
 
@@ -664,7 +664,7 @@ Sometimes this is true, like with Barbie, which was a movie about Womanhood,the 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This is probably the clearest problem that exists within leftist spaces today. That is a fallacy of composition. It's not intellectual. And it's *certainly* not sexy. 
 
@@ -677,7 +677,7 @@ The difference being that those on the right at the very least generally agree o
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 We have a reluctance to let queer media be fantasies. Instead, as we're starved for visibility, we look at each one as the media that might make or break our personal autonomy.
 
@@ -696,7 +696,7 @@ Because for all that *Heartstopper* may be *seen* as an early indicator of a tot
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The issue is not with *Heartstopper*, but a fear of living in a population that leans toward *that* as the only acceptable manifestation of queer expressions of affection. Which is not an issue with the media but rather the way we seem to expect these instances of representation to apply to the whole of queerness. And
 that rather than finding *Red, White, and Royal Blue* wanting for not being able to present the multitudinous range of queerness, we can observe these pieces of media as being pieces of a *growing whole*, which seems to be leaning to greater inclusivity as it grows.
@@ -706,7 +706,7 @@ that rather than finding *Red, White, and Royal Blue* wanting for not being able
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This feels like a popularity contest where the largest fandom gets to decide what is and is not an acceptable expression of queer, specifically gay love. And the people who have the smaller voice (next to a large fandom of teenage girls) are gay people. 
 
@@ -720,7 +720,7 @@ people to be compared to.
 ## Chapter 6: Inclusive Invisibility
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 One must acknowledge the historic invisibility of gay narratives within the mainstream media landscape. The journey from non-existence to the peripheries and at long last to have media with as diverse portrayals as *Heartstopper*, *Young Royals*, *Red, White, and Royal Blue*, not to mention more adult focused media... has been a sisyphean task for the gay community.
 
@@ -733,7 +733,7 @@ But... that's a different video; sign up for the patreon to get us there!
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yet as the pendulum swung towards inclusivity, a new critique arose from the old prejudices: the claim that gay media is too sexualized, concealing the age-old detraction of the "gays themselves are too sexual". In some sense this reflects a societal discomfort with the candid portrayal of homosexual love and desire. It is as if the very act of two men or two women expressing their sexuality must be shrouded in a chaste veil, lest the onlooker be confronted with the unvarnished truth of affection. And maybe even have to rethink their own inner feelings.
 
@@ -742,7 +742,7 @@ Yet as the pendulum swung towards inclusivity, a new critique arose from the old
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Moreover, this assessment often stems from a myopic view of gay media, taking as its evidence a narrow selection of works that are intentionally provocative, or which challenge societal norms around sex and sexuality. To paint the *entirety* of gay media with such a broad brush is to ignore the rich tapestry of stories that span the spectrum of experience, from the platonic and the familial, to the romantic and, yes, even the sexual. To deny the sexual component of gay relationships in media is to deny a fundamental aspect of human connection, regardless of orientation. Sexuality, after all, is a
 potent element of The Human Condition, and its representation in art and storytelling has long been a conduit for deeper understanding; a mirror reflecting the complexities of love, lust, and longing.
@@ -752,7 +752,7 @@ potent element of The Human Condition, and its representation in art and storyte
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Heteronormative narratives have long enjoyed the privilege of unabashed sexual expression without inviting the same level of scrutiny. In contrast gay media often faces a double-edged sword: a clamoring for representation on one hand and a prudish recoil at the manifestation of that representation on the other. There exists an unspoken rule, it seems, that gay characters must not only be present but must also comport themselves in a manner palatable to the heterosexual majority. Their sexuality expressed with a modesty that is seldom demanded of The Straights. 
 
@@ -763,7 +763,7 @@ Is it not, then, a form of cultural suppression to dictate the terms of represen
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Perhaps there are naturally going to *be* various push back consequences when dealing with a large group of people who have been jerked around, lead on, and outright lied to for decades. Knowing our history can establish a context for why we face the struggles we do. But also offer us insight into what methods work to create change and what methods don't. 
 
@@ -772,7 +772,7 @@ Perhaps there are naturally going to *be* various push back consequences when de
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Spoiler alert: for gay rights, being loud obnoxious and altogether ungrateful and shoving our sexuality in people's faces has tended to be a more successful route than "working within the system" and making friends.
 
@@ -785,7 +785,7 @@ And when it came to AIDS, we did absolutely everything that every privileged per
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The hallmark of an oppressor is to divorce a community from its own history. It makes it easier for controlling powers to dictate what that history was. Or simply lie about a political body's involvement in systemic institutional and social discrimination. The diversity of relationships and experiences within the LGBTQ community should be shown. Not all gay men have the same experiences nor do all lesbians, bisexual people, trans people, or queer people in general.And let's not forget the representation of asexuals and aromantics, who are often completely overlooked in media! The inclusion of diverse relationships and sexual dynamics *is* important, whether it be runchy sex in a bath house or holding your high school boyfriend's hand. 
 
@@ -794,7 +794,7 @@ The hallmark of an oppressor is to divorce a community from its own history. It 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Visibility in all forms of media, including media directed at younger people like *Heartstopper*, is incredibly important. There's a growing resistance to including queer characters in movies, shows, and books directed at a YA or younger audience... based on the misconception that their presence (inherently) involves adult themes.
 
@@ -805,7 +805,7 @@ However children's media is an ideal space to introduce the concept of diverse f
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Finally, we must recognize that queer representation is not the end goal but part of a broader movement towards inclusion and equality. It's a means for storytelling that reflects the world as it is, in all its diversity. And at its best, it can influence perceptions and foster empathy. It's not just about seeing oneself on screen. It's about everyone seeing the multifaceted world we share. Learning from it and finding the universal human experiences that connect us all.
 
@@ -814,7 +814,7 @@ Finally, we must recognize that queer representation is not the end goal but par
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Your experiences are not erased because Charlie and Nick can hold hands. Your trauma is not invalid because society doesn't recognize it. You don't have to live up to the fairy tale that Alex and Henry's story is told in. No matter what you feel there is no wrong way to be queer. There are no rules saying "if you didn't meet your boyfriend in high school then you did things wrong". You didn't miss out on your story. Maybe you're just starting it.
 

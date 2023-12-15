@@ -22,6 +22,7 @@ cite:
   plagiarized: !!map
 ---
 
+{% assign timecode = "0:00" %}
 <compare>
 <credits>
 
@@ -34,6 +35,7 @@ LIVE!
 YOUTUBE
 
 \[James appears with an "SHTV" Lower Third]
+{% assign timecode = "0:07" %}
 
 </credits>
 </compare>
@@ -56,7 +58,7 @@ It repeats from there.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Good afternoon everyone. 
 
@@ -69,7 +71,7 @@ Or are they fishing for an answer that has something to do with how you got a ra
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yet, in most cases, people who ask this question seem a little… disappointed in the inevitable answer? You know, given that most of the time the question is asked, the answer will be: “well I <span class="add">just</span> always knew.” 
 
@@ -82,7 +84,7 @@ For others, it <span class="del">can take</span><span class="add">comes with</sp
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And of course, naturally, the inverse for lesbians. And of course, the chaotic bisexual profile, where you feel that way about boys and girls. And, of course, all the ways in which this identity growth applies to trans and gender-nonconformiming children. 
 
@@ -93,22 +95,24 @@ Between just knowing or piecing together our identity from hundreds of small, fr
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 How much emotional turmoil this causes depends on how homophobic your parents and community are. Sometimes you come out into a gentle place, other times not. Mainstream culture has weird conceptions about how children ‘become’ gay. The general thought processes is that someone does not know or cannot know that they’re gay before they’re sexually active enough to develop a conscious preference. The question: “how do you know that you’re gay?” — or variants of said question — betrays a thought process that indicates that *gay* is an exception to the rule. That there is a human being who is normal, and that ‘gay’ or ‘trans’ or whatever else — is added later to this human being. A veneer, a tattoo — something that is added to the self and thus, not a fundamental part of the self. 
 
 So…. Because gay is an ‘additive’ component of the self — these people think — there must be a singular moment when you become gay. The reality is that attraction to women is just as remarkable as being attracted to men. In an objective sense. In fact, given that aromatic and asexual people do exist — we should consider it remarkable that we’re attracted to anyone at all. 
+{% assign timecode = "3:11" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So why is it such a fuss when it comes to letting children know that GAY exists? We expose young people to straightness all the time. Straight Public displays of affection are without taboo. The news loves depicting happy marriages. Picture books are riddled with affectionate moms and dads. Young people heterosexually kiss all the time in cartoons. The objective of like… 80% of YA novels is built around some pre-teen straight romance. Hell, As soon as a male and female toddler meet the first words out of SOMEONEs mouth is “aww they make such a cute couple.” 
 
 So it’s not like kid friendly romance isn’t available to young people. But why is it such an ordeal the second it’s about two boys or two girls? The answer is, somehow, that we musn’t expose children to sexuality. 
+{% assign timecode = "3:57" %}
 
 Okay. Well how is two boys holding hands any more inherently sexual than a boy and a girl holding hands? 
 
@@ -117,7 +121,7 @@ Okay. Well how is two boys holding hands any more inherently sexual than a boy a
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Bear in mind the Beatles owe their skyrocket to fame thanks to their song: “I want to hold your hand.” But at the time, this was essentially a scandal. “My daughter? Holding hands? Out of wedlock?” Rock music before this was about how pretty your girl was. Touching and kissing was considered to be absolutely unsuitable for even teenagers. Elvis was so racy because he made songs about dancing with girls. His gyrating pelvis had women *fainting*. (Imagine if they went to a BTS concert.)
 
@@ -126,7 +130,7 @@ Bear in mind the Beatles owe their skyrocket to fame thanks to their song: “I 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So in modern times, over half a century after the neo-puratin revival of the 1950s, why is gay hand holding sexual — but straight hand holding is not? Even among people who are pro-gay in their rhetoric, there seems to be a line drawn when it comes to all-audiences media that depicts *any* kind of gay representation. 
 
@@ -135,9 +139,10 @@ So in modern times, over half a century after the neo-puratin revival of the 195
 </compare>
 
 # Part 1: Why Disney?
+{% assign timecode = "4:56" %}
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Ah yes. Back to Disney. 
 
@@ -148,7 +153,7 @@ Look, I’m sorry. But if you’re gonna go out of your way to develop a monopol
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In the past, studios and networks escaped criticism about lack of representation because there were a *lot* of them. So anger about lack of representation was not directed at a single corporation, but a cultural trend about the business of show. 
 
@@ -161,7 +166,7 @@ There is, yes, technically Illumination <span class="add">Entertainment</span>, 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 A Disney movie is likely something that will carry over for generations — something that will not only be kept in a library of DVDs, but something from which we can expect sequels, spin-offs, theme park attractions, and endless merchandise. A Disney movie will stay around, and offer continued returns in a way the *Sing* franchise, for instance, is not expected to do. 
 
@@ -172,7 +177,7 @@ And that’s due to the fact that when we look at a Disney movie, we compare it 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 A single Disney movie will speak not only to this current day audience, but future audiences <span class="add">as well</span>. A movie that comes out in 1980 will not be just a movie in 1980 because it will likely be re-watched for years to come. And even a Disney movie that is not successful upon release gets a legacy because it becomes a part of the Disney oeuvre. Available for kids and adults to watch on home video and Disney Plus forever.
 
@@ -183,9 +188,10 @@ So while there is additional security that a given Disney movie will have a cons
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Suffice… this has created a bit of a problem for the House that Walt built. Disney, on one hand, owes its success to its brand. That’s the reason it became evergreen enough to just drop $4,000,000,000 on Star Wars on a whim. Disney didn’t need Star Wars. It was doing just fine. Disney’s brand was built up on the original values projected by Walt himself. Family-friendly, accessible to children, innovative animation, unabrasive, and timeless. Even if Walt himself didn’t have all of these qualities. 
+{% assign timecode = "7:36" %}
 
 So. On one hand, Disney corporate isn’t stupid. They know that there are many gay and even trans-friendly families. By the principal of permitting children to see themselves in these films, and knowing that gay children and parents exist, there is an obligation to depict that. 
 
@@ -194,7 +200,7 @@ So. On one hand, Disney corporate isn’t stupid. They know that there are many 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However. Disney movies kind of need to be the film equivalent of easy listening radio. They don’t really want to rock the boat — the long-term success of the company, and being able to weather hardship is owed to possessing a library of material that is mostly inoffensive. As time has gone on, certain once-accepted tropes in storytelling have become problematic. But for the most part, Disney’s creative mandate was to remove as much provocative thought from a story as possible to allow the emotional simplicity to be very accessible to audiences of all ages. 
 
@@ -205,7 +211,7 @@ And this is where the problem is developing. We’ve always expected media to re
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But the (majority) social climate of today leans towards social justice. Voices for the under-represented, healthy depictions of romance as opposed to idealized ones, freedom of identity, and — most importantly — fighting for these values in spite of resistance from established restrictions. Rock the boat if one has to. 
 
@@ -216,11 +222,13 @@ So. Disney neither wants to make media that requires much thought, nor do they w
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The easy solution would be to bite the bullet, do your market research, and make a calculated gamble at catering to the demonstrably larger audience. Captain Marvel did not suffer a box office setback due to the picketing and protesting about Brie Larson’s outspoken attitude about representation or the fact that this was a strong female character in general. And neither did The Force Awakens suffer a box office backlash from the people protesting an apparent black protagonist. (Which was absolutely a JJ Abrams red herring and Boyega deserves better.) 
+{% assign timecode = "9:53" %}
 
 So I think it’s safe to say that erring on the side of increasing visible, meaningful representation would not generate a significant setback. 
+{% assign timecode = "10:05" %}
 
 </james>
 <from></from>
@@ -235,7 +243,7 @@ So I think it’s safe to say that erring on the side of increasing visible, mea
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But, when it comes to the LGBTs, Instead, Disney has been… trying to play the field. With little snibbits<sup class="add">[sic: snippets]</sup> of queer representation here and there, but with the plausible deniability to insist that they haven’t actually put gays in their movies. But at the same time, not saying that they’re *not* putting gays in their movies. 
 
@@ -246,7 +254,7 @@ So it goes, that people who follow movie media news are a little bit more social
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And it was cute, at first. The gays were patient. We know what Disney is. And we know the kind of people who oppose us, and we know that they scream family values at the slightest inkling of gay hand-holding. 
 
@@ -259,9 +267,10 @@ The defence now, apparently? Kids <span class="add">just</span> can’t be gay.
 </compare>
 
 ## Part 2: Show Business
+{% assign timecode = "11:38" %}
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 We just went through a lot of media analysis of Disney movies <span class="add">in the [last video](cMde5YLG6-w.md),</span> so we don’t have to do that here. Link in the description <span class="add">though,</span> if you missed it. 
 
@@ -272,7 +281,7 @@ But I am absolutely sick of the straights telling me that Disney’s not going t
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 To all the allies who rush to disney’s defence, they really ought to know this is the exact same argument that was used when gays weren’t allowed to adopt or even raise their own children for the longest time. Why we weren't allowed to be teachers. What about <span class="del">my</span><span class="add">the gay</span> lifestyle is so different from <span class="del">a</span><span class="add">the</span> straight one? Really? Why are you so afraid of having your little brats exposed to two kissing cartoon ladies? Are we still in the era of being worried that seeing gay media is gonna turn your kids gay? 
 
@@ -281,7 +290,7 @@ To all the allies who rush to disney’s defence, they really ought to know this
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 I do want to point out <span class="add">that</span>, in lieu of the prior video about Disney’s ongoing vendetta against gay characters, that they are perfectly comfortable depicting queer stories. As long as they don’t have queer characters. Queer stories around alienation, isolation, societal prejudice, and walking into a small town and having to ask yourself if you’re going to die there. And it’s not like we want to swarm children’s media. Even in 2021, straight people do exist these days. For now. 
 
@@ -292,7 +301,7 @@ But the difficulty becomes how *Luca* is essentially the perfect gay youth love 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And yes, there is a… clump of gay people — usually gay men of a certain age — who are gonna hold out and insist that it’s never going to count as properly gay until there’s sex on screen. Dicks in butts. We really don’t need that toxicity in our lives <span class="add">though</span>. And <span class="add">I mean, they--</span> they're too busy going on gay party boats to watch movies anyway. 
 
@@ -305,18 +314,19 @@ For these reasons, I have a hard time wrapping my head around the idea that GAY 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, <span class="del">they are</span><span class="add">they're</span> not. And they instantly find themselves among the library of Disney classics. So if <span class="del">we are</span><span class="add">we're</span> accepted in everything but name, why is just outing these characters that’s the hard part? 
 
 It’s hard to figure out what Disney executives intentions are because… they're rich white Hollywood liberals who, on one hand, love gay money. They want the gays to show up at Disneyland and buy their overpriced water, and rainbow mouse ears. They love gay cruises and make a heap of money off <span class="del">that</span><span class="add">them</span>. They recognize that gays will never have accidental babies, and both surrogacy and adoption requires <span class="del">a</span> stable, *high* income. So… when gays *do* have families, they are families with a lot of expendable income. Which is the marketeer’s wet dream. The Merchandise sells itself. 
+{% assign timecode = "14:57" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But, on the other hand, Disney is *terrified* of what has consistently proven to be a small <span class="add">tiny... *tiiiiny* little</span> audience of family traditionalists and homophobes. I… have a hard time blaming the corporate body that is Disney. The company has survived a number of very long periods of near-destitution. We look at Disney as an Empire now, but between Walt’s death and the renaissance of the late 80’s and early 90’s, everyone looked at the company as a belly-up library of once-great innovations. 
 
@@ -327,7 +337,7 @@ Corporations in creative industries that have survived financial crashes are one
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Video game studios are not as robust, and cannot absorb a flop as easily as Hollywood can. (Not as good with the accounting.)
 
@@ -346,7 +356,7 @@ Link: "Well excuuuuuuuuuuuuse me, princess!"
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 (I don’t know, <span class="add">I think</span> that one is kind of iconic.)
 
@@ -355,7 +365,7 @@ Link: "Well excuuuuuuuuuuuuse me, princess!"
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Regardless of Nintendo’s totalitarian approach to streaming and fan art, the company sees it’s financial security in the future based around the ability to <span class="del">maintain</span><span class="add">mainstream</span> the core components of their IPs. Disney functions in the same way. However, unlike Nintendo making the 68th Mario game, Disney can’t just tack on sequels ad infinitum. They tried that. It didn’t go great. 
 
@@ -366,7 +376,7 @@ Every Disney movie, in this respect, needs to somehow be a spiritual successor t
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 At other times, this makes its way into their own content. Which is good for creating consistently entertaining movies. —but it does mean that the archaic values of Snow White by mandate must exist in modern films in some way. 
 
@@ -379,22 +389,24 @@ And while it is not necessarily the corporate body of Disney that is to blame fo
 </compare>
 
 ## Part 3: A Creeping Normal
+{% assign timecode = "17:56" %}
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yes, I know that queer folks, and many of our allies, have been clambering for representation, but even with our staunchest of allies, we make up far from the majority of movie-goers. And while many Disney fans are likely supportive of Queer rights, there are many who rush to offer Disney the usual defence.
 
 “The fish-boys can’t be gay. This is a movie for children.” “Maybe if they were a few years older. Maybe 16. Then they could be gay.” “Why does everything have to be about making things gay? Can’t you just let kids be kids?” 
 
 <span class="add">[Nick in the background:] "Go home kids!" [James laughs, Nick continues:] "[Inaudible] go home!"</span>
+{% assign timecode = "18:31" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 At this point, Disney doesn’t even need to defend its own lack of diversity because they have an audience making arguments that Disney itself could not officially make without getting ripped apart by GLADD and the HRC. A lot of these people are likely very much of the right mind about gay rights, gay families, gay acceptance. 
 
@@ -405,7 +417,7 @@ However, while they may also watch <span class="del">The</span> Trixie and Katya
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This is no doubt due to the conflation between same-gender attraction and sex itself. Which, you wouldn’t know this from looking at the way our culture has this discussion, but they are *absolutely* not the same thing. As a gay child, I didn’t want to suddenly put on a full face of makeup and vogue my way into a bathhouse. 
 
@@ -416,7 +428,7 @@ Believe it or not, but psychological development among gay people happens at the
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And given that sex attraction is the socially-defining element of homosexuality, this is when the straight hegemony SEES us growing out of being otherwise perfectly normal boys and girls. And this is also roughly the age when our little brains begin to deconstruct the concept of gender roles, so also the age when we begin to question our gender. 
 
@@ -425,7 +437,7 @@ And given that sex attraction is the socially-defining element of homosexuality,
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Recently, I read a study that tracked a number of trans people and their parents. The question asked to both parents and the children was ‘before coming out, how long did you notice gender-nonconforming traits?’ Parents of children answered that they saw absolutely no indication that their child was trans before they came out. Whereas the trans people *themselves* said that they had known about their gender identity for years, or <span class="add">even</span> their entire life. 
 
@@ -436,7 +448,7 @@ The observation here is that regardless of how we are *perceived* to be, we have
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, as we mature through puberty, sex becomes an option for how we express that affection. Just because sex-acts with the same gender are how the straight hegemony qualifies us as <span class="add">*homo-hemosexuals—* [*blooper*]</span>
 
@@ -449,29 +461,31 @@ So no, there is no ‘age’ where it’s appropriate to be gay, because there i
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Take, for instance, the fish boys, again. That’s the one that’s<span class="add">...</span> *really* gotten under my skin for some reason. You had otherwise supportive allies saying that this story wasn’t gay. Absolutely not gay. No no no. No gay. No gay, nogaynogay. 
 
 *But* that it could be, if they were a few years older. Me, a former, openly gay 12 year-old — from a small community no less — can’t really… wrap my head around that thought process. You telling me I wasn’t *allowed* to be gay, much less *openly* gay for another what? Four years? 6 years? Tell me the hard cutoff age for when it’s okay to be gay and I will find you someone that says it should be higher. 
+{% assign timecode = "22:21" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 We’ve got… lawmakers in the southern states saying that you shouldn’t be legally allowed to say you’re trans until you’re 28. No, that’s a bad argument. Because it sets up a hierarchy of sexuality. If 10 is too young to be gay, the implication is that you are straight. This line of thinking is built off an argument which depicts ‘straight’ as the default — and gay is a *mutation* on that default. Putting an age on gayness or transness — whether it’s how old you can be before you can see yourself in media, or how old you can be before coming out — is presenting a world where that is an abnormality against the ‘natural’ state of being straight. 
 
 And I realize that many straight people who argue against having gay characters in children’s media may not *explicitly* feel this way. But this statement is built off of those homophobic beliefs that underpin their oppinions. Which itself is a leftover value of Christian Puritanism, which has enjoyed a *fabulously* prolific cultural monopoly over Europe, and by proxy, the Americas, since the fall of the Western Roman Empire. 
+{% assign timecode = "23:24" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This puratinsim is defined by an avid rejection of non-christian values. Specifically sex. This repulsion of sex and sexuality in all branches of life, has historically set up specifically restrictive enviroments for women and all queer people. People who conform to puritan values usually reject sexuality on principal, so it’s exceptionally difficult to explain human sociology or science to them. 
 
@@ -484,7 +498,7 @@ To that end, I realize that when audiences rush to Disney’s defence to say ‘
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 That said, protecting children from the gays is a relatively new phenomenon. Anti-gay propaganda has only been focused at protecting *children* since legal processes in society have become more secular. As we could no longer justify actions solely on what *God* feels is morally reprehensible, other arguments needed to exist to justify guilt to a court of law. And from here, arose the belief that we had to protect children from the sodomites, lest the child become corrupted… and also become a sodomite… Simply by the knowledge that it was an option. 
 
@@ -497,20 +511,22 @@ This, to me, suggests that on some level, these lawmakers were aware that gay th
 </compare>
 
 ## Part 4: Queer Fear
+{% assign timecode = "26:04" %}
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Gay children, trans children, nonbinary children, and all queer children are allowed to exist. And I think a lot of them need to hear that message. But consider for a second, being a gay ten-year old. You know you’re gay. You’ve known you’re gay for some time. Your parents know you’re gay. But some movie critic on YouTube is saying that movie characters your age can’t be gay. Because they’re not old enough. 
 
 But to this young person, they internalize the way that when society looks at them, all they see is the action of being gay. This is still the age when kids think kissing is gross and they’re already being judged by a purity squad. Consider how that internalizes this sexual shame. Not even out of the gate and there’s a deep-seeded hang up around sex because puritin America has passed on it’s fear of sex. 
+{% assign timecode = "26:54" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Now… consider this same child but in a home where their parents do not know <span class="del">they are</span><span class="add">they're</span> gay. And where that element of self would not be welcome among their family or community. And then consider if this child is trans instead — one of the most vulnerable groups of the queer community. And all the while, media constantly berates the public — saying these are things not suitable to be portrayed to all audiences. 
 
@@ -521,7 +537,7 @@ To this child, the messaging that they’re receiving through media signals is t
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And contrary to popular belief, boys don’t need to ‘kiss’ or go any further than that in order for it to be an adequate <span class="del">display of identity.</span><span class="add">...representation!</span> Because there is more to homosexuality than sex. And if you, a straight person or even a gay person cannot tell the difference, please begin making steps to change your thinking. 
 
@@ -532,18 +548,19 @@ Every year, the demographic of ‘LGBTQ Youth’ increases. Every year, the numb
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And Disney? They’ve gone out of their way to establish themselves as the largest producer not only of children's’ media — but maybe even just media in general. Disney has more cultural sway over global media than any other single institution on the planet – especially given how ubiquitous their formative material is. Disney has a hand in shaping the coming culture of the world. 
 
 I’d say they have a pretty big obligation to fight back against the repressive purity values that are still internalizing shame in children. Against the illogical puritan fear of sex and it's even more illogical connection to gay people. 
+{% assign timecode = "22:02" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 So their active silence of the it’s-okay-to-be-gay topic is beginning to echo louder than if they just came out condemning non-straight, non-cis identities. It’s like they think they’re being sneaky, but they’re not. Even younger people are beginning to pick up on it. If we want the next generation of lesbians, gays, bis, and trans people to grow up feeling normal, we need to stop putting conditions and age restrictions on their very <span class="del">identities</span><span class="add">existence</span>.
 

@@ -24,7 +24,7 @@ cite:
 ---
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Hello everyone, and welcome to "Gays Behaving Badly", a new feature on the channel that we're gonna try out for a bit, and if you like it let us know in the comments. My name is James.
 
@@ -38,7 +38,7 @@ I'm Nick.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 And Gays Behaving Badly is basically a podcast with cameras. We will be discussing things that the... queer community doesn't like to talk about or doesn't like to acknowledge very much.
 
@@ -56,7 +56,7 @@ It's in a lot of ways considered one of the ugly stepchildren of the queer commu
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 You worked for a pride organization once.
 
@@ -72,7 +72,7 @@ Um, so like there was kind of an asexual group and there was a discussion like..
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 I've seen that a lot because... there's a "debate" among... especially, I've seen it among gay men that asexual people shouldn't be included so much, because you know asexual people are not persecuted-- actively persecuted for their sexuality. 
 
@@ -86,7 +86,7 @@ I-- I-- I-- I see that sort of... angle, however my justification--
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 I'm not saying I agree with that [Inaudible], by the way.
 
@@ -100,7 +100,7 @@ oh yeah yeah, that's the information, but my justification for why--
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 We should just call this "Disclaimer: the Podcast".
 
@@ -120,7 +120,7 @@ Correct me if I'm wrong. But like... when you are asexual you do see a myriad of
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 And even when there's not, it's... Viewers will *assume* that (especially if there's a male and female character), if there isn't a romance between them viewers will assume by the end of the movie or the TV show that there *will* be.
 
@@ -138,7 +138,7 @@ And while there isn't really any conversion therapy directed to the asexual peop
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yeah. Again, just kind of going back to the idea of that in media... if there's not the romantic interest, if there's not the sexual interest, that there will be... the assumption, because the... overt sexuality is the default.
 
@@ -152,7 +152,7 @@ Oh yeah yeah yeah.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 Um, and like you said, that there's not like conversion therapy for-- for ace people, but I think there's a huge amount of social pressure. So there's not like... organized--
 
@@ -166,7 +166,7 @@ And you want to sort of have evidence of what you're saying about there being li
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 Which is hilarious.
 
@@ -180,7 +180,7 @@ Which is hilarious. Because he's the bottom um... so like there's that expectati
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 I feel like with-- sorry for interrupting, I feel like we should pause and just kind of explain to anyone who *doesn't* know what asexuality is.
  
@@ -196,7 +196,7 @@ Asexuality is defined as a aversion to sex, lack of sexual drive, lack of sexual
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
  
 Because there is, you know... Obviously within sexuality, there is a spectrum of sexuality, but there is just as big a spectrum within asexuality. Of where you kind of land...
 
@@ -210,7 +210,7 @@ But the public perception of asexuality is Sheldon from Big Bang Theory.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 I don't even think it's Sheldon, because Sheldon does have sex and does get married...
  
@@ -228,7 +228,7 @@ And I think that's how a lot of people feel that it *does* work, it's like-- it'
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yeah, as soon as you-- you know, if you're a man and you start dating-- this is-- this is oddly a belief within the queer community especially, *especially* among gay men, is that if a man is bisexual and starts dating a woman he's actually not bisexual. He was, you know, just looking for some--
 
@@ -242,7 +242,7 @@ And if you get married, you're Straight For Life. --to a woman-- to a woman.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yeah, your bisexuality just disappears suddenly--
  
@@ -256,7 +256,7 @@ And if you get married to a-- And if you shack up with a guy or get married to a
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 "Oh, you're gay now." well yeah that's- that was a big thing for bisexuality, it was bi now gay later. Um, because-- 
 
@@ -270,7 +270,7 @@ And like I understand why that existed at the time because we came from a very..
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Binary system.
 
@@ -285,7 +285,7 @@ onto some of that straight privilege. Um, and make it easier-
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 You didn't *have* to get a boyfriend.
 
@@ -301,7 +301,7 @@ So um, I think that's where a lot of the perception that bi people are sneaky, u
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Back to the asexuals.
 
@@ -315,7 +315,7 @@ That was- I was flipping that around! I was saying like asexuality is actually a
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Well I don't think Sheldon was ever- ever conceived-
 
@@ -329,7 +329,7 @@ I'm using that as an example. I'm using that as an example.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Yeah, that's what people think of asexual as, the people who just have no, uh sexual drive, who have no interest in sex, who have no interest in romance, who have no interest in any kind of pairing whatsoever.
 
@@ -343,7 +343,7 @@ That's also not the- Well yeah that is the-
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 That's the *assumption* from the masses.
 
@@ -357,7 +357,7 @@ Yes, yes, sorry. [laughs]
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 That's the assumption, whereas in reality, like I said there is a spectrum of asexuality that goes from that to any number of other options.
 
@@ -372,7 +372,7 @@ aromantic. Which I feel a little bit concerned, the thing I'm starting, I'm star
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Yeah that's kind of the um- the LGBTQ kind of- yeah, "we'll just call
 you LGBTQ," it's like, "Actually, I'm a lesbian." It's like, "well you're LGBTQ."
@@ -388,7 +388,7 @@ anyone.
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 But some people can fall in love very easily with no sexual attraction
 and some people can be *very* horny with no romantic attraction.
@@ -403,7 +403,7 @@ Talk to any asexual person and they will tell you that they are incredibly kinky
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Not *any* asexual person! [laughter] I mean there's plenty of asexual people who have no interest in any sex.
 
@@ -418,7 +418,7 @@ acknowledgment that some of the kinkiest people you ever meet are identifying as
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 It's- it's all internal and because it never has to exist in real life, they never have to face the ickiness.
 
@@ -432,7 +432,7 @@ I'm pretty sure that a very strong component of fanfiction, like slash fiction, 
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Um, so we're gonna play a game and assume that this video gets monetized, and for anyone watching it not on YouTube... Plus? YouTube Premium? YouTube- that- paid-
 
@@ -446,7 +446,7 @@ Fancy YouTube. [laughs]
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back and for anyone who doesn't have that... we're back!
 
@@ -456,7 +456,7 @@ Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back a
 ## Segment 2
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 All right, so this is I guess... segment two. Um, so kinky!
 
@@ -468,7 +468,7 @@ All right, so this is I guess... segment two. Um, so kinky!
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 </james>
 </compare>
@@ -478,17 +478,7 @@ All right, so this is I guess... segment two. Um, so kinky!
 </nick>
 </compare>
 <compare>
-<james>
-  
-</james>
-</compare> 
-<compare>
-<nick>
-  
-</nick>
-</compare>
-<compare>
-<james>
+<james {% include timecode %}>
   
 </james>
 </compare> 
@@ -498,7 +488,7 @@ All right, so this is I guess... segment two. Um, so kinky!
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
   
 </james>
 </compare> 
@@ -508,7 +498,17 @@ All right, so this is I guess... segment two. Um, so kinky!
 </nick>
 </compare>
 <compare>
-<james>
+<james {% include timecode %}>
+  
+</james>
+</compare> 
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
   
 </james>
 </compare> 

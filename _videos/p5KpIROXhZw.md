@@ -29,11 +29,11 @@ cite:
 ---
 
 <compare>
-	<james>This video is brought to you by SquareSpace</james>
+	<james {% include timecode %}>This video is brought to you by SquareSpace</james>
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 As diversity becomes and more of a sticking point in our social landscape, discourse around representation follows closely behind. There is a precedent for developing an incorrect narrative around historical events presenting sentiments that simply don't represent a community as a whole. And struggling to actively showcase visible representation or understand what qualifies as visible representation. And of course when you get representation right, you actually have to go to the right lengths to promote it, just like you would any other properties.
 
@@ -42,7 +42,7 @@ As diversity becomes and more of a sticking point in our social landscape, disco
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But that said it's not like good representation doesn’t exist. Usually when the people who are being represented get to make their own stuff, it tends to be well received. Sometimes not, whether I agree with the response or not, but usually. If you exist within the queer community, you generally have a better understanding of how to showcase these peopleL what matters to them, what their values are, and what you can even make fun of without insulting everyone.
 
@@ -53,7 +53,7 @@ And believe me, the queer community has a heep of that. For instance, trans men 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Such as Limited Perspective: straight writers by virtue of their sexual orientation, likely don’t have first-hand experience with the unique challenges, emotions, and nuances that queer individuals face. 
 
@@ -68,7 +68,7 @@ And there’s Stereotyping and Tokenism: When queer characters are reduced to be
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And this is perhaps true of all categories of diverse characters. However, there is a recent buzz around queerness both from consumers and producers. And through this buzz, we seen the good, the bad, and the ugly. 
 
@@ -83,7 +83,7 @@ Now while queer creators are finally getting a chance to tell their own stories,
 ## Vers One: Of Angles & Demons
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Neil Gaiman typifies a sort of literary polymorph where in spite of his cultural impact, he has written or contributed to a total of only 11 novels. However, factoring in his work in screenplays, teleplays, comics, children's books, and nonfiction, Gaiman has a considerable library of work. Including the creation of a certain dark haired magical boy with an owl familiar, which was suspiciously published through DC comics seven years prior to Harry Potter hitting the shelf. Must be magic! 
 
@@ -94,7 +94,7 @@ Granted, only I said "only 11 novels", as if that isn’t impressive, whereas on
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But especially for as high profile writers go, Gaiman has peppered his library of works with the broad range of diverse characters, representing a myriad of life experiences. Similar to the "forced wokeness" accusation that were hurled at *The Rings of Power* (which focused more on gender and race then the broad changes to the characters and mythology), the Netflix adaptation of Gaiman’s iconic *Sandman* series was given the same criticism from the predictable kinds of people.
 
@@ -105,7 +105,7 @@ The displeasure at seeing queer experiences on the screen clearly indicated that
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind. Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
 
@@ -114,7 +114,7 @@ Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Ome
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Insofar as the authors developed this cosmos, neither angels nor demons have sex organs, nor do they actively seek out sexual intercourse. And by all accounts, gender is more or less described based on how an observer might categorize them. Regardless, even at that, this he-they angel-demon duo are so incredibly married, it was basically a joke even at the time of *Good Omens*’ publication. 
 
@@ -137,7 +137,7 @@ Crowley: Not actually. Either.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This suggests that any element of gender expression as the result of self identification or a matter of how others may observe them. Furthermore, the celestial beings seem to refer to each other by they/them. From an authorial standpoint, this is a complex understanding of gender and sexuality that is even a little bit theoretical for many within the community itself. If there is no element of sex or gender present in a romantic pairing, how can we describe the sexual orientation of the couple? 
 
@@ -160,7 +160,7 @@ Angel 2: I knew that.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Ironically, this may actually be an instance where "homosexual" actually would apply, but even that depends entirely on if "homosexual" is compatible with "asexual". Homoromantic? 
 
@@ -181,7 +181,7 @@ Angel 2: \[laughs]
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, instead of engaging in a debate about how we identify cosmic beings trying their best to humanely live their best eternities, Gaiman simply avoids the discussion altogether. Not that he excludes queerness from a reading of these characters, they are certainly not straight, but their place in queerness is not worth categorizing beyond "queer". Not even "LGBT", because they fit *none* of those categories.
 
@@ -192,7 +192,7 @@ The first season of Good Omen was a show that had a couple, our angel and demon 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In order to deter an investigation from heaven, Crowley and Aziraphale need to stage a love story. Maggie is a lonely record saleswoman who has a strong crush on Nina, the overworked owner of a cafe. Nina however is already in a relationship. We never meet her partner, but through text messages, we have clear indication that not everything's coming up rosey there. Nina’s girlfriend is so intensely jealous it likely crosses into emotional abuse. We aren’t put on any kind of pedestal here. We have the same kind of relationship problems that straight people have. 
 
@@ -203,7 +203,7 @@ However, as much as Maggie is love sick and Nina is stressed out over a relation
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This is secondary only to the romance between Aziraphale and Crowley, which is split up in the end because the damned angels suddenly get a hard-on for a promotion. 
 
@@ -220,7 +220,7 @@ Crowley: You idiot. We could have been... us.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Gaiman has smaller roles for queerness as well. A sketchy Scotsman openly professes that he uses his phone only for Grindr. And the owner of a magic shop references an anniversary with his partner who he brings to Aziraphale’s street business association meeting. "Partner" being an apt, genderless, descriptor because his partner is visibly androgynous.
 
@@ -233,7 +233,7 @@ In fact throughout the season, characters typically stick to non-gendered descri
 ## Vers Two: Of The Endless
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Though he does his best to quietly present visible queer identities without making a big fuss about throwing in surprise lesbians. He likes troubled lesbians, and people without genders. 
 
@@ -246,7 +246,7 @@ Beginning in *Sandman*, there is of course Desire.
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In the fictional world of Sandman, in conjunction to the actual deities of our human history, there exist seven beings who represent universal aspects of human experiences. They are shape-shifters whose physical appearance changes depending upon who is observing them. (Certainly making it easy for artists... and casting directors.)
 
@@ -257,7 +257,7 @@ Functioning as a family of siblings, rather than a proper pantheon, they are cal
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Whereas the other endless, except for perhaps Death, have limitations on their authority. Death is the second, visually inspired by Cinamon Hadley, Death existed the moment the first living thing was born and will vanish when the last living thing closes its eyes. Makes sense, as Death represents the cosmic determinism of all living things. In spite of her simple gothic appearance, her manner is more akin to a death doula or palliative care nurse. And while she is a universal, her only rule is that all things end, but can be flippant about when that happens.
 
@@ -270,7 +270,7 @@ The Next is referred to as the prodigal, who has been wandering for sometime and
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Younger still are the twins, Desire being the secondary antagonist of the Netflix series, the behind-the-scene string-puller of all things shit-disturbing. Desire was and remained non-binary, though back in the day, Desire was referred to as "it" rather than "they/them" in the Netflix series. 
 
@@ -283,7 +283,7 @@ But Desire, the character, is also the personification of even non-sexual desire
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Desire’s twin is despair, kind of a younger twin (it's complicated). Despair is the personification of exactly what she seems to be, the gateway to her realm is mirrors, and her sigil is a hook. Very fitting visual indicators. 
 
@@ -294,7 +294,7 @@ The youngest of the Endless is Delirium, who is born Delight. (Again it’s comp
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 It’s difficult to say how faithful *Sandman* will remain to its source materials. We only have one season adapted from two story arcs, and a large number of the comics are one-off stories about humans who encountered the Endless. Though the streaming series was exceptionally true to the comics published three decades prior.
 
@@ -305,7 +305,7 @@ And I’m sorry to you Neil, if you are watching this, for my overuse of words a
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 But it is important to recognize the historical context for how these queer ideas were being not only teased, but explored in intense taken for granted ways at a time before the majority of the viewer base of this video had even been born (sorry again, Neil). Whereas today, we have an almost direct adaptation of *Sandmand* via streaming, and it is decried as "pandering to wokeness", whereas it’s basically just the same as it was in the comics with just a bit more gay.
 
@@ -314,7 +314,7 @@ But it is important to recognize the historical context for how these queer idea
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Though that said, I have a feeling that Gaiman was treating the Netflix adaptation as an opportunity to give Sandman a go over and bring even more of his initial vision to life. There is an expressed comfort with casting black actors for roles that had been white in the comics and with showcasing a deeper expression of the queer experience. "Sorry bro, these teeny tiny sunglasses stay on during sex." And that’s okay! I'm okay with that! 
 
@@ -325,7 +325,7 @@ Honestly, not so ambiguous camp men wearing blackout sunglasses to conceal weird
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 It seems as if all of the base content from the first two arcs of *Sandman* made it into the first season. Changes made to this content were primarily a matter of streamlining the existing information: pacing was smoothed out or characters were altered or combined to fit into roles that serve the plot better. John Constantine was altered into Joanna Constantine, riffing on the fictual [sic] 18th century character in later Sandman stories.
 
@@ -338,7 +338,7 @@ The nightmares Brute and Glob were replaced by another nightmare entirely, Gault
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 It’s worth noting however, that there is simply much more *Sandman* content in the Netflix series than the corresponding comics. The existing narrative was beefed up to flush[^sic] out a whole season (unlike the Final Fantasy 7 remake). However, the padding here doesn’t seem as apparent, in fact if you’re reading the comics after watching this series you may find that some of the most outstanding moments are missing altogether.
 
@@ -353,7 +353,7 @@ The paddings in this series, outside of the adjustments I mentioned earlier, mes
 ## Vers Three: Of Good & Evil
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Yes, Desire slays, and the Corinthian was always gay leaning, but offhand inferences and innuendos in the comics received a strong followup in the series. Not to say that they weren’t there, but Rose’s foray to a drag club was only really suggested in the comics. Whereas Netflix gave it an entire musical number in drag. (I mean if you're going to cast John Cameron Mitchell why not.)
 
@@ -364,7 +364,7 @@ And not all the praise goes to Gaiman. Alan Heinberg was brought on as a co-writ
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Heinberg himself is an openly gay writer with a strong pedigree in both comics and screenwriting. Gaiman has always expressed an openness to queer depictions, but the Netflix series, likely with the help of Heinberg, expanded them a little... or a lot. Additionally the gender swap of Joanna Constantine which was likely done to sever this from any variant of DC adapted interconnected universes (smart move to avoid them at all costs at this point) also made her a lesbian. A very messy lesbian (my favorite kind of lesbian).
 
@@ -375,7 +375,7 @@ Granted nothing about the story was changed except the magical person’s gender
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The diner sequence was also expanded in general, but primarily featuring additional queer people (very messy queer people). Though certainly, even if we're depicted making mistakes, we ought to recognize that these are the kinds of mistakes that straight people also make.
 
@@ -388,7 +388,7 @@ Though as for the Conrinthian in general, we have a serial killing monster who a
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 This seems rife for the kind of content that would trigger our delicate snowflake sensibilities. Especially in a cultural echo chamber for which the choir sing “you just can’t say anything anymore” with increasingly vivacious intensity, pitching a plot where the primary antagonist is a serial killing gay- and/or bisexual-presenting man really ought to have made the woke police put a stop to this, you know!? (I guess that’s the only underfunded police force.)
 
@@ -399,7 +399,7 @@ If this wave of apparent leftwing censorship was as strong as critics decried, t
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In the 1990s the Corinthian targeted gays because police were almost certainly never going to involve themselves in a rash of murdered vagrant gay men. It was playing on the reality of the situation in a very real way. However, cultural sensibilities have since shifted. 
 
@@ -410,7 +410,7 @@ But still he himself is an instance of a very, very bad piece of queer represent
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And quite frankly to the anti-woke folks, they are right: if this was your average high budget built by committee TV spectacle series, these plot elements would absolutely get shot down by the producers. On paper, these beats are way too zesty, media that explicitly villainizes queer people is held to be another component of language from the 1990s. Executives aren’t exactly known for nuance so they tend to build blanket rules for dos and don’ts.
 
@@ -423,7 +423,7 @@ And yet the Corinthian and Desire are still here. And people may be thirsty for 
 ## Vers Four: Of Perception
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The simple explanation is... you have to care a lot. And care is demonstrated, not something that you can just declare. Politicians say they care about lots of things, but demonstrate very little. When it comes to problematic queer characters, and for those of us who are queer, we know many problematic queer people, this is not explicitly forbidden, but it is kind of taboo.
 
@@ -434,7 +434,7 @@ While Gaiman made a bold start with *Sandman*, he still had an affectionate port
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The most infamous (outside of Aziraphale-Crowley anyway) was the notorious deified gay sex scene in *American Gods*. A burnt out salesman from the Middle East struggles with his time in America while trying to pedal goods for an ungrateful family. While in a taxi he relates to the driver how hard it is to keep up a smile in the land of opportunity. The pair becomes quite close through the ride, the cab driver it turns out is a djinn who immigrated to America. (Well, provided the lore of *American Gods*, it was the idea of a djinn who made the migration, a different version of the same ifrit still exists in his homeland, it’s complicated.) 
 
@@ -445,7 +445,7 @@ Anyway, they smash. Turns out they’re both kind of equally dissatisfied with h
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Even though it’s just a disconnected vignette in a story, it’s still a heartfelt standout moment. You may be deceived into thinking this about being gay, but it’s actually about being different and alone in a place with too many people. Especially in our post 9/11 Western cultural stereotype of the Arabian Peninsula, it’s significant to make *this* the spot for graphic gay sex in this great American novel. (Don’t read anything into it, most of the great American novels are written by Brits.)
 
@@ -454,7 +454,7 @@ Even though it’s just a disconnected vignette in a story, it’s still a heart
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 It’s important to remember that at a period of time when Europe was tying up women and gay men and throwing them into reasonably sized ponds to see if they floated to surface (thereby indicating their connection to witchcraft for which they would then be removed from the water, thoroughly dried and then burnt at the stake) that Constantinople at the same time was the cultural, progressive hub of the world. Scientifically, culturally, philosophically, artistically. It also possessed a *massive swath* of Europeans who had fled as refugees from whatever Inquisition, Crusade or ethnic cleansing was going on in Continental Europe at the time.
 
@@ -463,7 +463,7 @@ It’s important to remember that at a period of time when Europe was tying up w
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The reason why I would say that this and other instances of Gaiman’s queer library performs so strongly is that there’s very little sensationalism regarding these characters. That is, he doesn’t really make a fuss about queer characters where we appear. We’re just there. There is nothing about the exchange that says "Oh, look, gay characters!" They’re just characters, and then gay stuff happens sometimes, but mostly they’re just characters who contribute to what he’s trying to say. The same purpose he has for straight characters.
 
@@ -476,7 +476,7 @@ As Gaiman has demonstrated a comfort level with queer characters, the decision t
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Coraline is about a child developing the ability to recognize identity in other people. This woman is my mother because of X. This other woman who only looks like my mother is not actually mother. And as it is a children’s book having more themes presented will detract from what young readers are meant to take away from it.
 
@@ -487,7 +487,7 @@ And this is part of the consequences of being part of a community that has been 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
@@ -500,7 +500,7 @@ Hbomberguy attempted to find these comments mentioned, and found no such comment
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The pressure to exist as openly gay as possible in fiction has a toxic translation to real life. Most gay people don’t think about their gayness and ways to perpetuate it. Especially because these methods of self-promotion, as established in fiction, focus around either having or trying to get a committed boyfriend, or persevering over social pressures and persecution. According to fiction the only two gay milestones that matter are coming out and boyfriend. And I have concerns for this community if we are internalizing these messages.
 
@@ -511,7 +511,7 @@ Doubling back to *Good Omens* for a minute: how is it possible, in this circumst
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Neil, do angels and demons have a concentration of nerve endings in their lips which result in a pleasant sensation upon physical stimulation. You make up the rules about this, so I’m just wondering.
 
@@ -520,7 +520,7 @@ Neil, do angels and demons have a concentration of nerve endings in their lips w
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 What would it take for these two to properly depict gay or queer attitudes? I highly doubt a cosmic entity would go on about love being love, especially when their relationship revolves around the world ending or not. Especially when the majority of anti-gay discrimination revolves around persecuting sexual acts.
 
@@ -533,7 +533,7 @@ However, I would prefer we don’t say that this is bad representation because t
 ## Vers Five: Of Truth
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Granted, this is regarding a trans character, and as per contemporary discussions about appropriate trans representation, there are some pitfalls. I wouldn’t want to try and tell trans people what is or is not good representation for them. Though from what I’ve read, people seem to feel generally positive about this one.
 
@@ -548,7 +548,7 @@ Wanda is talkative and we get a small glimpse into her trans experience, though 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And by "subtle" I mean that she has a dream where Bizarro aliens are forcing her to choose to be a man or a woman, decisions around gender-affirming surgeries are ultimately at the decision of the individual to undertake or not. Her dream indicates that she is struggling internally with the pressure to make a commitment.
 
@@ -559,7 +559,7 @@ Through the progression of this story, Wanda’s womanhood is routinely challeng
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, death has a different function in the *Sandman* series where Death is a character herself, and one may argue that death functions differently in all of Gaiman’s works. Gaiman in general is very nonchalant about death, even when a character dies to propel the plot. There’s very little sensation derived from it. Sometimes people die. In fact, in *The Graveyard Book*, most of the characters are dead. Gaiman treats death in fiction as if it is not the end of a character. 
 
@@ -570,7 +570,7 @@ And this is very literal in *Sandman*. In this world, most people who die are ta
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 And no this isn’t telling us that death will make everything better; this is visual language to indicate that the cosmic forces of the universe recognize your identity for who you are. It’s the same message of the entire *Sandman* series. Emotional reality is more significant than physical reality. 
 
@@ -581,7 +581,7 @@ Which is a *hell of a debate to include* in a comic book written by a cis man, l
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, I did say that this is a complicated process, and Gaiman especially in the long long ago before Reddit, would have had to have had some real conversations with trans people to really understand how to convey these themes. The best of intentions is not enough. And in spite of good intentions, things can go awry. 
 
@@ -590,7 +590,7 @@ However, I did say that this is a complicated process, and Gaiman especially in 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 A category that contains Thomas Harris in his novel *Silence of the Lambs*. The trans representation is... lacking. The movie especially because it offers no insight into trans attitudes at all, in spite of depicting the villain... the way they did.
 
@@ -601,7 +601,7 @@ The book actually goes to great length to describe trans women, and in fact, exo
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 I would claim that Thomas Harris is someone who is *trying* to do a good thing, because the novel contains unambiguous language which declares that trans women are not violent or antisocial without exception. Even if he kind of failed at presenting that, this is what he wrote.
 
@@ -620,7 +620,7 @@ Hannibal: Billy is not a real Transexual. But he thinks he is, he tries to be. H
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Gumb was described as a disqualified outlier who fetishized womanhood rather than someone who felt that they actually were woman -- if that makes sense. 
 
@@ -631,7 +631,7 @@ It doesn’t really. It’s an E for effort situation, really because there is a
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 In conjunction, Harris incorporates a deeply triggering element of the trans experience in the book, a cis doctor making claims about what does or does not qualify as "womanhood". There is a precedent for built-tough trans women who have to pretend to be deeply invested in pretty flowery dresses to get past their doctors. Contemporary queer theory (and this is even present in Gaiman’s discourse around Wanda) holds that gender is self-defined. The only qualification to be a man, woman, or other is for you to feel that way. Trying to justify your gender to a medical professional has been historically one of the most arduous parts of the trans experience.
 
@@ -644,7 +644,7 @@ Even though I would not recommend DIYing your endocrine system without a medical
 ## Vers Six: Of Creation
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The more complicated reality of good representation is that it’s very difficult cocktail of empathy, as it intersects with the willingness to listen; a compulsion to profess; the ability to reflect on certain people and situations. There lies an ability to isolate what elements of those experiences are endearing to reflect back upon those people, while having an understanding of what is or can be a universal experience and what is or can be fictionalized. 
 
@@ -653,7 +653,7 @@ The more complicated reality of good representation is that it’s very difficul
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.
 
@@ -666,7 +666,7 @@ In much of fiction, women spend their time fussing over a man or dramatically fa
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 That isn’t to say that you can't have men who develop excellent fictional women in history. But at the same time there is no guarantee that women are going to write excellent female characters either. Woman is not a monolithic experience for which every aspect of Womanhood is accessible to every woman. No one woman can embody all the experiences within their gender. 
 
@@ -677,7 +677,7 @@ But when you belong to one particular experience, you may have an easier time ex
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Stephen King is pretty good at this, there’s a reason why his first novel, Carrie, has become a regular in feminist theory classes, and queer theory. Watch my video on [Deep Cuts](00000000200.md) to find out why.
 
@@ -688,7 +688,7 @@ He’s also great at writing female villains like with Misery. But when it usual
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 Back to Gaiman, how is it that the weird queer kids flock to him in spite of Desire and the Corinthian or other less than flattering queer characters? Especially when he does not have a great deal of openly queer heroes? The key there is that these characters are villains because of their objectives and motivations, but they are not villains because they’re queer. And they are not villains because of their queerness.
 
@@ -701,7 +701,7 @@ And it’s true of most queer villains lately too. We’re beginning to make a c
 ## Vers Seven: Of Dreams
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 The secret to representation at its core is not to represent. If representation is the goal, it’s going to suck. The objective needs to be life. The author is not to look at themselves as a Creator, but a gatekeeper. Their role is to allow identities to be found where they are in real life, to show the hypothetical lives these people may lead, to create an imagined version of this person based on the kinds of people who live like this. And it can’t come from nothing, the best fiction is plagiarism of life.
 
@@ -712,7 +712,7 @@ Even if it’s fantasy (especially if it’s fantasy) because if your protagonis
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 I highlighted the queer element of *American Gods* very deliberately. It was a queer reference to a matter of a pansexual deity that is very heavily supported by documented historical reality. Given the current day cultural climate of this world, that reality is selectively forgotten. We are disinclined to portray, or even remember, that because it does not align with our present day perspective of the world. Gaiman’s positive portrayal of queer people begins with this, he forces others to remember what they willfully forget.
 
@@ -721,7 +721,7 @@ I highlighted the queer element of *American Gods* very deliberately. It was a q
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 It seems to be part of the quintessential queer experience: if others like me had existed then, others like me must exist now. Gaiman works to spell out a fantastical realm of dreams where reality waffles and imagination runs wild. All things are possible because the only rules that exist in this place are the rules you bring to it. We spend one-third of our lives in this world of dreams. Why wouldn’t we want to spend it all there?
 
@@ -732,7 +732,7 @@ Surely we can imagine a world where all the dour, grand challenges of our lives 
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 However, there is a pivotal weakness to the dreaming and a pivotal limitation to Dream’s powers, though vast they may seem. Dreams are lonely places. When we sleep we are solitary, save for the odd ghost drifting through. Through our dreams we confront the possibility of what the world could be, the world as we would make it, if we could, the world as we would most fear it to become.Dreams cannot be our reality because dreams are meant to reflect reality, and we can look at them as idle entertainment, or we could think of it like slipping into a different existence in a change room just to see how it looks.
 
@@ -743,7 +743,7 @@ Though the advantage of dreams is that we can make them real... in a fashion. We
 </compare>
 
 <compare>
-<james>
+<james {% include timecode %}>
 
 For all that we create our dreams without thinking, it’s still possible, though challenging, to create our reality. Though it is easier to create a world we all dream of together. Having a dream is not teasing a reality that could never be; it becomes an obligation to make it come true.
 

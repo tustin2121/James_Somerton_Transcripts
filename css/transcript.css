@@ -43,6 +43,14 @@ body {
 	max-width: 1200px;
 	margin-inline: auto;
 }
+
+.video-list {
+	margin-inline: auto;
+	width: fit-content;
+	min-width: 70%;
+}
+
+
 compare {
 	display: grid;
 	grid: auto-flow / 1fr 1fr;
@@ -51,12 +59,6 @@ compare {
 	row-gap: 4px;
 	margin-block: 1em;
 }
-.video-list {
-	margin-inline: auto;
-	width: fit-content;
-	min-width: 70%;
-}
-
 compare james, 
 compare nick, 
 compare clip, 
@@ -67,17 +69,7 @@ compare comment
 {
 	display: block;
 	border: white 1px solid;
-	padding: 4px;
-}
-
-compare james::before, 
-compare nick::before, 
-compare credits::before
-{
-	display: block;
-	font-size: small;
-	color: var(--box-header-color);
-	border-bottom: var(--box-header-color) 1px solid;
+	padding: 0px 8px;
 }
 compare cite    {
 	grid-area: s; 
@@ -111,11 +103,22 @@ compare comment {
 	border-color: var(--box-border-comment); 
 	font-size: smaller;
 }
+
+
+compare james::before, 
+compare nick::before, 
+compare credits::before
+{
+	display: block;
+	font-size: small;
+	color: var(--box-header-color);
+	border-bottom: var(--box-header-color) 1px solid;
+	padding: 2px 4px 0px;
+}
 compare james::before   { content: 'James:'; }
 compare nick::before    { content: 'Nick:'; }
-/* compare clip::before   { content: 'Video Clip:'; } */
-/* compare from::before    { content: 'Source:'; } */
-/* compare comment::before { content: 'Comment:'; } */
+compare james[timecode]::before   { content: 'James: (' attr(timecode) ')'; text-align-last: justify; }
+compare nick[timecode]::before    { content: 'Nick: (' attr(timecode) ')'; text-align-last: justify; }
 
 
 .podcast compare {
@@ -137,14 +140,16 @@ compare from, compare comment {
 
 compare from > .header,
 compare comment > .header,
-compare clip > .header {
+compare clip > .header 
+{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	
-    font-size: small;
-    color: var(--box-header-color);
-    border-bottom: var(--box-header-color) 1px solid;
+	font-size: small;
+	color: var(--box-header-color);
+	border-bottom: var(--box-header-color) 1px solid;
+	padding: 2px 4px 0px;
 }
 compare from > .header::before { content: 'Source:'; }
 compare clip > .header::before { content: 'Video Clip:'; }
@@ -156,6 +161,8 @@ compare credits::before {
 	font-size: unset;
 	color: unset;
 }
+
+
 compare credits blockquote {
 	color: unset !important;
     text-align: center;

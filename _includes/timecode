@@ -1,0 +1,4 @@
+{%- if timecode -%}
+	timecode="{{ timecode }}"
+	{%- assign timecode = nil -%}
+{%- endif -%}
