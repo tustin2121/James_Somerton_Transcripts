@@ -1,0 +1,4 @@
+class="color-{{ include.for.color }}" >
+<div class="header">
+	<a class="citation" href="#{{ include.for.short | slugify }}">{{ include.for.short }} {{ include.at }}</a>
+</div

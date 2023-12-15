@@ -14,5 +14,13 @@ collections:
     permalink: /:collection/:name
     layout: transcript
 yt:
-  todd_factcheck: "Todd in the Shadows. <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube. https://www.youtube.com/watch?v=A6_LW1PkmnY"
-  hbomb_factcheck: "Hbomberguy. <em>Plagiarism and You(Tube)</em> [Video]. YouTube. https://www.youtube.com/watch?v=yDp3cB5fHXQ"
+  todd_video: 
+    color: "todd"
+    short: "Fact Check Video (Todd, 2023)"
+    full: "Todd in the Shadows. (2023, Dec 3) <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=A6_LW1PkmnY"
+  hbomb_video: 
+    color: "hbomb"
+    short: "Plagiarism Video (Hbomb, 2023)"
+    full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"

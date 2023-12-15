@@ -10,7 +10,7 @@
 		--box-header-color: gray;
 		
 		--mark-stolen-text: #c9d1d9;
-		--mark-stolen-bg: #692800;
+		--mark-stolen-bg: #412900;
 		--mark-source-text: #c9d1d9;
 		--mark-source-bg: #033a16;
 	}
@@ -26,9 +26,9 @@
 		--box-border-comment: gray;
 		--box-header-color: gray;
 		
-		--mark-stolen-text: #24292f;
-		--mark-stolen-bg: #fbd0b6;
-		--mark-source-text: #24292f;
+		--mark-stolen-text: #000000;
+		--mark-stolen-bg: #f3ecd2;
+		--mark-source-text: #000000;
 		--mark-source-bg: #abf1c4;
 	}
 }
@@ -68,13 +68,13 @@ compare comment
 }
 
 compare james::before, 
-compare clip::before, 
+/* compare clip::before,  */
 compare credits::before, 
-compare from::before, 
+/* compare from::before,  */
 compare comment::before 
 {
 	display: block;
-	font-size: x-small;
+	font-size: small;
 	color: var(--box-header-color);
 	border-bottom: var(--box-header-color) 1px solid;
 }
@@ -107,9 +107,24 @@ compare comment {
 	font-size: smaller;
 }
 compare james::before   { content: 'James:'; }
-compare clip::before   { content: 'Video Clip:'; }
-compare from::before    { content: 'Source:'; }
-compare comment::before { content: 'Comment:'; }
+/* compare clip::before   { content: 'Video Clip:'; } */
+/* compare from::before    { content: 'Source:'; } */
+/* compare comment::before { content: 'Comment:'; } */
+
+compare from > .header,
+compare comment > .header,
+compare clip > .header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+    font-size: small;
+    color: var(--box-header-color);
+    border-bottom: var(--box-header-color) 1px solid;
+}
+compare from > .header::before { content: 'Source:'; }
+compare clip > .header::before { content: 'Video Clip:'; }
+compare comment > .header::before { content: 'Comment:'; }
 
 compare credits.opening::before   { content: 'Opening Credits:'; }
 compare credits.closing::before   { content: 'Closing Credits:'; }
@@ -139,6 +154,12 @@ span.del, sup.del {
 	text-decoration: line-through;
 }
 
+sup[cn]::before {
+	content: "[citation needed]";
+	color: var(--color-accent-fg);
+	font-style: italic;
+}
+
 compare james mark {
 	background-color: var(--mark-stolen-bg) !important;
 	color: var(--mark-stolen-text) !important;
@@ -154,6 +175,7 @@ compare from:empty {
     flex-direction: column;
     justify-content: center;
     position: relative;
+	border: unset;
 }
 compare from:empty::before {
     position: absolute;
@@ -174,7 +196,39 @@ compare from h3,
 compare from h4,
 compare from h5,
 compare from h6 {
-	margin-block: 0;
+	margin-block: 0 4px !important;
+}
+
+.refs {
+	font-size: smaller;
+}
+.refs::before {
+    content: attr(header);
+    margin-left: -2em;
+}
+:target {
+    background-color: rgb(255 255 0 / 15%);
+}
+
+.transcript-start {
+	color: gray;
+	text-align: center;
+	font-size: 12px;
+    margin-bottom: 2rem !important;
+}
+.transcript-start::before {
+	content: 'Transcript Start';
+}
+section.footnotes {
+	position: relative;
+	margin-top: 3rem;
+}
+section.footnotes::before {
+	content: 'End Transcript';
+	position: absolute;
+	top: -2rem;
+	left: 0; right: 0;
+	text-align: center;
 }
 
 .lyrics {
@@ -190,3 +244,31 @@ compare from h6 {
 		min-width: 0;
 	}
 }
+
+from.color-hbomb { border-color: hsl(59, 100%, 30%); }
+from.color-hbomb mark { background-color: hsla(59, 100%, 30%, 0.30) !important; }
+from.color-todd { border-color: hsl(0, 75%, 40%); }
+from.color-todd mark { background-color: hsla(0, 75%, 40%, 0.30) !important; }
+from.color-1 { border-color: hsl(118, 100%, 30%); }
+from.color-1 mark { background-color: hsla(118, 100%, 30%, 0.30) !important; }
+from.color-2 { border-color: hsla(187, 100%, 50%, 1.0); }
+from.color-2 mark { background-color: hsla(187, 100%, 50%, 0.30) !important; }
+from.color-3 { border-color: hsl(0, 52%, 32%); }
+from.color-3 mark { background-color: hsla(0, 52%, 32%, 0.30) !important; }
+from.color-4 { border-color: hsl(66, 100%, 50%); }
+from.color-4 mark { background-color: hsla(66, 100%, 50%, 0.30) !important; }
+from.color-5 { border-color: hsl(318, 56%, 32%); }
+from.color-5 mark { background-color: hsla(318, 56%, 32%, 0.30) !important; }
+from.color-6 { border-color: hsl(221, 100%, 50%); }
+from.color-6 mark { background-color: hsla(221, 100%, 50%, 0.30) !important; }
+from.color-7 { border-color: hsl(34, 98%, 34%); }
+from.color-7 mark { background-color: hsla(34, 98%, 34%, 0.30) !important; }
+from.color-8 { border-color: hsl(273, 72%, 33%); }
+from.color-8 mark { background-color: hsla(273, 72%, 33%, 0.30) !important; }
+from.color-9 { border-color: hsl(197, 47%, 31%); }
+from.color-9 mark { background-color: hsla(197, 47%, 31%, 0.30) !important; }
+from.color-10 { border-color: hsl(357, 92%, 43%); }
+from.color-10 mark { background-color: hsla(357, 92%, 43%, 0.30) !important; }
+from.color-11 { border-color: hsl(138, 100%, 47%); }
+from.color-11 mark { background-color: hsla(138, 100%, 47%, 0.30) !important; }
+

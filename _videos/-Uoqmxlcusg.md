@@ -29,14 +29,13 @@ contributors:
 
 cite:
   clips: !!map
-    utena: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff."
-    lotr: "<em>Lord of the Rings</em>"
+    utena: { short: "Revolutionary Girl Utena (Noriko, 1997)", full: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff." }
+    lotr: { short: "LotR (Jackson, 2002)", full: "Jackson, P. (Director). (2002). <em>Lord of the Rings</em> [Film]. New Line Cinema, WingNut Films." }
   misinformation: !!map
     deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
-    thumbnail: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from http://gallery.minitokyo.net/view/93510"
-    wikipedia:
-      utena_article: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena"
+    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
+    wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena" }
 ---
 
 ## \[Thumbnail]
@@ -48,7 +47,7 @@ cite:
 <!-- ![Alt text](../media/tumblr_98dd86356f1ed4b0fe677b95f8e49f13_e653978d_1280.jpg) -->
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.thumbnail %}>
 
 ![](https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg)
 <!-- ![Alt text](../media/tumblr_1788f9934204be2ac813539f6ef969ca_8536800c_2048.jpg) -->
@@ -56,14 +55,12 @@ cite:
 [@re-mortal on tumblr](https://www.tumblr.com/re-mortal/735857211803303936/i-thought-the-thumbnail-of-the-utena-video) points out that the video's thumbnail was [uncredited, stolen fan artwork](http://gallery.minitokyo.net/view/93510).
 
 </from>
-<cite>{{ page.cite.plagiarized.thumbnail }}</cite>
 </compare>
 
 
 ## \[Intro]
 
 <compare>
-<cite></cite>
 <james>
 
 On Screen: "Health Warning: Flashing lights in some scenes. Because anime."
@@ -82,16 +79,14 @@ Whether it's newer magical girls like *Puella Magi Madoka Magica*, the westerniz
 But none, to my knowledge, have been more discussed and dissected than the 1997 series *Revolutionary Girl Utena*, <mark>created by Be-Papas, a production group formed by director Ikuhara Kunihiko, Saito Chiho, Hasegawa Shinya, Enokido Yōji and Oguro Yūichirō.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 
 ***Revolutionary Girl Utena*** (Japanese: 少女革命ウテナ, Hepburn: Shōjo Kakumei Utena) is a Japanese anime television series <mark>created by Be-Papas, a production group formed by director Kunihiko Ikuhara and composed of himself, Chiho Saito, Shinya Hasegawa, Yōji Enokido and Yūichirō Oguro.</mark>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 So let's dive into into the mesmerizing world of Ikuhara's creative journey.
@@ -103,7 +98,7 @@ But Ikuhara grew restless in the confines of adapting existing works, longing fo
 You see Be-Papas had quite the history together. <mark>Hasegawa and Enokido had previously joined forces with Ikuhara on Sailor Moon where Enokido penned many episodes featuring the iconic Sailor Uranus and Sailor Neptune.</mark> Be-Papas had also lent their talents to the esoteric *Neon Genesis Evangelion*. As for Saito, <mark>she was a seasoned manga artist who had not yet ventured into the realm of anime.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 <h2 style="margin:0;"> Development</h2>
 <h3 style="margin:0;">Context</h3>
 
@@ -112,11 +107,9 @@ Kunihiko Ikuhara was a director at Toei Animation on the television anime series
 Several of the members of Be-Papas had previously worked together: <mark>Hasegawa and Enokido had previously worked with Ikuhara on Sailor Moon, where Enokido wrote many of the episodes featuring Sailor Uranus and Sailor Neptune;</mark><sup>[7]</sup> Hasegawa and Enokido had also both worked on the anime series Neon Genesis Evangelion.<sup>[10]</sup> <mark>Saito was an established manga artist who had not previously worked with the members of Be-Papas, or in anime;</mark> Ikuhara decided to base the visuals of the series on her artwork and recruited her to Be-Papas after seeing an illustration from her manga series Magnolia Waltz on the cover of a magazine.<sup>[10][22]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Now initially <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> <mark>series, hoping to ride the coattails of Sailor Moon's commercial success</mark>. In fact, <mark>they began with a concept titled "Revolutionary Girl Utena Kiss", featuring a group of valiant female warriors known as the Neo Elegansar!</mark>
@@ -126,17 +119,15 @@ Now initially <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> <mark
 <mark>Battling the enigmatic "end of the world"</mark>. But as the creativity flowed, they settled on a different path: <mark>a romantic action show starring a pretty girl who wears boys clothes</mark>. The school setting was a cornerstone of anime. But <mark>other elements like the duels and the mysterious Rose Bride were yet to enter the plot</mark>.
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 <h3 style="margin:0;">Planning</h3>
 
 Initially, <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> (girls' anime and manga) <mark>series aimed at capitalizing on the commercial success of Sailor Moon</mark>; Saito characterized the earliest discussions on Utena as focused on creating a series "that people will like and [will] be profitable".<sup>[22]</sup> The earliest concepts for Utena deviated significantly from what became the final series: <mark>an initial pitch to project financers was titled Revolutionary Girl Utena Kiss, and focused on a group of female warriors called the "Neo Elegansar"</mark> <mark>who battled "the end of the world"</mark>.<sup>[23][d]</sup> Per Oguro, a basic series concept of "<mark>a romantic action show starring a pretty girl who wears boys' clothes</mark>" that had a "Takarazuka style" was eventually settled on.<sup>[3]</sup> A school setting was also determined in this early concept phase, though <mark>other concepts such as the duels and the "Rose Bride" would not be formulated until later in development</mark>.<sup>[3]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 As Be-Papas commenced their <mark>six-month planning phase after Saito's arrival</mark>, they delved into the nitty-gritty of the story, world building, and the intricate process of <mark>translating Saito's visual style into anime</mark>. In parallel Saito embarked on creating a manga adaptation of Utena while still contributing her expertise to the anime's development. 
@@ -146,18 +137,16 @@ Now a fascinating tidbit here is that while <mark>Utena inevitably carries echoe
 (Shōjo manga is manga that's aimed at young girls, by the way.) 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 
 Although the concept for Utena originated from Ikuhara, the series as a whole was developed collectively by Be-Papas.<sup>[21]</sup> The group entered a <mark>six-month planning period after Saito joined Be-Papas</mark>,<sup>[22]</sup> which focused on fleshing out the story and setting, as well as <mark>determining how Saito's visual style could best be imported into anime</mark>.<sup>[3]</sup> Saito also began to contemporaneously write and illustrate a manga adaptation of Utena while contributing to the development of the anime series.<sup>[21]</sup>
 
 Utena draws inspiration from several sources – *Animage* described the series as "influenced by [Ikuhara's] idiosyncrasies"<sup>[21]</sup> – including the Takarazuka Revue,<sup>[9]</sup> the artwork of Jun'ichi Nakahara,<sup>[25]</sup> Hermann Hesse's novel Demian,<sup>[8]</sup> and the experimental theater of Shūji Terayama.<sup>[25]</sup> Saito cited the manga series *Kaze to Ki no Uta*<sup>[26]</sup> and the 1973 film adaptation of *The Three Musketeers*<sup>[7]</sup> as among the influences that informed her contributions to Utena. Ikuhara has stated that although he "wouldn't be able to avoid it being said" that <mark>Utena was influenced by *Princess Knight* and *The Rose of Versailles* – two shōjo manga series famous for their cross-dressing, sword-fighting heroines –</mark> throughout the development of Utena, he was possessed of an "immense fear" that the series would <mark>be seen merely as a parody of those works.</mark><sup>[9]</sup> Saito stated that she was hired to join the otherwise all-male <mark>Be-Papas in part because they were concerned that without a female perspective they would create a parody of shōjo manga</mark>, which was not their intention.<sup>[26]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Fast forward to 1996m with Saito's manga adaptation of Utena, underway negotiations for the broadcast of the Utena anime were finally sealed, and production began in earnest. Be-Papas took the reigns of production, with the esteemed JC Staff handling animation duties.
@@ -167,7 +156,7 @@ But here's where the story takes a twist: <mark>Ikuhara's vision for Utena under
 This shift saw the <mark>incorporation of avantgarde elements such as theatrical inspired layouts, shadow plays that offer commentary on each episode's events, and the experimental choral compositions of J. A. Seazer</mark>.
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 <h3 style="margin:0;">Production</h3>
 
 Shortly after Saito's manga adaptation of Utena began serialization in 1996, negotiations for the broadcast of the Utena television anime were settled, and production began.<sup>[3]</sup> Be-Papas served as the primary production staff for Utena, with animation production completed by the animation studio J.C.Staff.<sup>[21]</sup>
@@ -175,11 +164,9 @@ Shortly after Saito's manga adaptation of Utena began serialization in 1996, neg
 <mark>Ikuhara's ambitions for Utena shifted dramatically after the series commenced production</mark>. Believing that the series required "a unique individuality"<sup>[3]</sup> if it was to find an audience, he abandoned his previous goal of a mass-market hit in favor of more non-commercial aspirations.<sup>[8][27]</sup> To this end, he began to <mark>incorporate a variety of avant-garde elements into the series, such as theatrical-inspired layouts, a recurring shadow play segment that allegorically comments on the events of each episode, and the experimental choral music of composer J. A. Seazer</mark>.<sup>[3]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 As production advanced, tensions simmered within Be-Papas. <mark>The series veered away from its original commercial trajectory</mark> creating what <mark>Oguro described as a "tug-of-war" between Saito and Ikuhara</mark>. <mark>Saito ardently championed the initial romantic concept</mark> for Utena, over <mark>Ikuhara's increasingly esoteric vision</mark>.
@@ -189,16 +176,14 @@ They even reached <mark>a point where they didn't speak to each other for 3 mont
 Ikuhara, however, kept the full extent of his intended same-sex romance between Utena and Anthy under wraps throughout most of the production. <mark>Ultimately Saito supported</mark> the way the series handled the <mark>relationship between the characters</mark>. Nothing succeeds like success.
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 
 Enokido characterized the production of Utena as marked by "an agreeable sense of tension" between the members of Be-Papas.<sup>[7]</sup> <mark>As the direction of the series shifted away from its original commercial focus</mark>, production became what <mark>Oguro described as a "tug-of-war" between Saito and Ikuhara</mark>, as <mark>Saito advocated for the original romantic concept</mark> for the series over <mark>Ikuhara's new, more esoteric vision</mark>.<sup>[3]</sup> Ikuhara and Saito particularly quarreled over whether the series should depict the relationship between Utena and Anthy as a romance, and at <mark>one point during production did not speak to each other for a period of three months</mark>.<sup>[28]</sup> Saito was initially opposed, not out of an ideological opposition to depicting a same-sex romance, but because she believed the <mark>mainstream shōjo audience</mark> the series was ostensibly attempting to court would respond poorly to <mark>anything other than a male-female romance</mark>.<sup>[29]</sup> Ikuhara would conceal the extent to which he intended to present Utena and Anthy's relationship as a romance from Saito throughout production;<sup>[22]</sup> <mark>Saito ultimately expressed support</mark> for how the series presented the <mark>relationship between the characters</mark>.<sup>[28]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Since then, *Revolutionary Girl Utena* has garnered a chorus of <mark>praise, both at home in Japan and across the international stage.</mark> For all that *Sailor Moon* takes the lion's share of public discussion, Utena's influence can be felt in the development of anime to this very day.
@@ -208,17 +193,15 @@ In 1997, the series won the coveted <mark>Animation Kobe award for the "Best Tel
 Utena has graced multiple "best of" lists with his presence, <mark>*Anime Insider* hailed it as one of the top 10 best anime ever</mark>. <mark>Writer Mike Toole, in his review, declared the series to be "the most important anime of the 90s".</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 <h2 style="margin:0;">Reception and influence</h2>
 
 *Revolutionary Girl Utena* has been the subject of <mark>both domestic and international praise</mark>, and has received many accolades. In 1997, the series won the <mark>Animation Kobe award in the "Best Television" category</mark>.<sup>[110]</sup> <mark>In 2017</mark>, Japanese broadcaster <mark>NHK</mark> <mark>conducted a national poll to determine the one hundred greatest anime in commemoration of the hundredth anniversary of the medium, in which Utena placed 30th.</mark><sup>[111]</sup> Utena was listed as <mark>one of the ten "best anime ever" by *Anime Insider*</mark><sup>[56]</sup> and ranked fourth on Paste's list of the best anime of all time.<sup>[112]</sup> *Anime News Network*'s ranking of the 100 greatest anime films of all time placed *Adolescence of Utena* in eighth; <mark>in his review, writer Mike Toole called the television series "the most important anime of the 1990s"</mark>.<sup>[113]</sup>
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 However, with all this hype about it, what is *Revolutionary Girl Utena* actually about? Get comfortable, because that's not an easy question to answer... And things get weird.
@@ -235,17 +218,15 @@ However, with all this hype about it, what is *Revolutionary Girl Utena* actuall
 <mark>*Revolutionary Girl Utena* is divided into three sagas: the "Student Council Saga", the "Black Rose Saga",</mark> and the climactic "Akio Ohtori Saga" (or the <mark>"Apocalypse Arc"</mark>, depending upon the release).
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_utena_article %}>
 
 <mark>*Revolutionary Girl Utena* is divided into three story arcs: the "Student Council Saga"</mark> (episodes 1–12), <mark>the "Black Rose Saga"</mark> (episodes 13–24), and <mark>the "Apocalypse Saga"</mark> (episodes 25–39).<sup>[4][5]</sup>
 
 
 </from>
-<cite>{{ page.cite.plagiarized.wikipedia.utena_article }}</cite>
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena Tenjou is a middle school student (and it's very *very* important to remember that she's a middle school student throughout the series and the movie). To say that she struggles to keep up good grades is unfair to her, because she doesn't really seem to care about that stuff... or anything that is in sports or her friends. She is, as we would describe, a tomboy and a subject of simultaneous jealousy, fascination, and desire from almost everyone in the school.
@@ -255,7 +236,6 @@ Utena Tenjou is a middle school student (and it's very *very* important to remem
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 As a child, utena lost both of her parents in an undescribed accident. She managed to pull herself together due to a (quote-unquote) *"chance"* encounter with an individual she described as a prince. He gave her a rose-engraved signet ring, with the promise that it would help them meet again in the future. 
@@ -267,7 +247,6 @@ Though she admits her memory on this is a bit foggy. She doesn't even quite reme
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 As an audience, you really don't have any idea how important this is until like the last *five* episodes, maybe even the last *two?* Until then, it simply seems to be a backstory that drives Utena to enroll in the prestigious and exclusive Ohtori Academy. There she is the source of wonder for the girls, a source of envy for all the boys, and a source of confusion for all the teachers. She acts and dresses like a boy and is noted for her fierce sense of justice and dignified nobility.
@@ -281,7 +260,6 @@ Spying a shy and reclusive Anthy Himemiya being slapped by her boyfriend, she in
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Anthy is a piece in a very complicated game of chess that focuses around this school's enigmatic student council. This befits a beloved anime trope of the high school student council holding a position of political power that can rival a small government. Anthy has a secret double life as the "Rose Bride", and the student council is so interested in her because the Rose Bride is the key to unlocking a power that can revolutionize the world. The one who is engaged to the Rose Bride can access this power and bring about revolution,presumably to suit their own whims.
@@ -295,7 +273,6 @@ And this makes sense compared to everything that follows it. (Don't worry it get
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 The key to these duels are the signet rings, which at present only members of the student council wear. The student council is... *not pleased* that they've lost their ability to shape the world of the future, and seek to get Anthy back from Utena. With the help, or perhaps at the whim, of a mysterious benefactor codenamed "end of the world". 
@@ -307,8 +284,7 @@ The key to these duels are the signet rings, which at present only members of th
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Added by James on screen: "Meanwhile, this was fine."
 
@@ -327,7 +303,6 @@ Nanami: "What are you implying, Big Brother?! You *know* you're the only one tha
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena, through her close connection and apparent engagement to Anthy, works at coaching Anthy to think for herself. An unfortunate drawback of the Rose Bride is that the Rose Bride can only ever *do or feel* the way that she is instructed to *by* her betrothed. Even as her bridegroom, Utena tirelessly coaches Anthy to advocate for her own needs and her own feelings, and to do what she wants rather than what her magical-husband-person-to-be tells her.
@@ -339,7 +314,6 @@ Utena, through her close connection and apparent engagement to Anthy, works at c
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 In the first arc, we see the various reasons that the members of the student council would want to use the Power of Revolution. Her winning streak against all of them is brought to an end when the student council president Touga tricks Utena into believing that he is the Rose Prince from her childhood. Though after utena finds her courage again, she defeats him handedly.
@@ -353,7 +327,6 @@ The first arc is privy to a number of... oddities. Outside of the premise of due
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 The first Arc does a lot of the heavy lifting in terms of establishing the rules of the world, and the themes running through the whole series. Subsequent plot arcs just get deeper and more unsettling. Truth be told, the second Arc doesn't really do much to elaborate on the plot, though it is important for establishing some guiding mechanics of this world as well as introducing some key players for the ongoing series.
@@ -365,7 +338,6 @@ Through a plot devised to kill the Rose Bride and replace her, we see a recurren
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 In the third Arc, however, Anthy no longer is host to the Sword of Dios. Instead she draws a blade from utena's body. (That's important. Keep that in mind. We get to it later.)
@@ -377,8 +349,7 @@ The other primary element of the second Arc is introducing Anthy's brother Akio.
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Akio: "Anthy... come here..."
 
@@ -388,7 +359,6 @@ Akio: "Anthy... come here..."
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 I really don't want another content strike from YouTube (I already have one), so as graphic as this is, I am simply going to to *euphemize,* and refer to it as "domestic abuse".
@@ -402,8 +372,7 @@ This naturally causes Anthy to... *fester* due to being so gaslit her whole life
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Utena: "I put a lot of poison in your tea."
 
@@ -418,7 +387,6 @@ This scene is used to demonstrate their "toxic rivalry", but [@deus-and-the-mach
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 As one does, the girls appear to resolve their differences when Utena rescues Anthy from an 'unaliving' attempt, and acknowledges that **this is kind of completely fucked up!** 
@@ -434,8 +402,7 @@ Guarding Anthy from her brother Utena is stabbed in the back by... Anthy. Who up
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Akio: "And now she actually enjoys living in this pathetic tortured role. She can no longer be happy... except like this.
 
@@ -445,7 +412,6 @@ Akio: "And now she actually enjoys living in this pathetic tortured role. She ca
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Looking at real world parallels, a given individual can endure *much less* debilitating physical and psychological trauma and be ruled as "unfit by the state to make their own decisions". 
@@ -457,7 +423,6 @@ There are a number of other hints and instances in the plot that strongly indica
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 With Anthy being stabbed by the swords of hatred (probably men's hatred, it's symbolic or not; we'll talk about it), Akio takes the sword from Utena and tries to open the door that guards the power to revolutionize the world and finally-- *oops! It broke!*
@@ -471,7 +436,6 @@ It's not like any of this really mattered. It's ***fine...!***
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena meanwhile desperately claws at the rose thorns that guard the Power of Revolution, in a
@@ -484,7 +448,6 @@ Flash Forward a few weeks and Utena is not in school, and all of the students ha
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 The manga and the movie have some *vast* differences but maintain the overall themes. This is primarily going to cover the anime but will include some elements of the movie in order to elaborate on themes. Because on top of what I just narrated, there's a whole mythology and some magic realism and... Nanami in general, that is going on at the same time. And specifically in the realm of magic realism, the Sword of Dios, Dios himself, the upside down Castle, Anthy's magic and backstory as a witch, and uh... a whole lot more. 
@@ -494,7 +457,6 @@ The manga and the movie have some *vast* differences but maintain the overall th
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 I am going to drop some bombs because *my* reading of *Revolutionary Girl Utena* seems to be
@@ -507,7 +469,6 @@ And sure, you could take it literally. You could assume that Dios was the former
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Or we can observe *Revolutionary Girl Utena* as a deeply allegorical and symbolic story about the struggles of coming of age amidst widespread institutional corruption, in a high school, and which describes a passive culture of inaction in regard to brazen instances of domestic exploitation. In which there is not only a question about the caporaelity of the events transpiring, but also which events can be taken for granted, and which events are meant to signify abstract sociological institutions which may be otherwise difficult to articulate in fiction.
@@ -521,7 +482,6 @@ Which is, quite frankly, a lot more effort but unfortunately we have postmoderni
 ## 2. Three, if by post
 
 <compare>
-<cite></cite>
 <james>
 
 Postmodernism is a literary, artistic, and philosophical school of thought... something-something Wikipedia uses big words.
@@ -531,7 +491,6 @@ Postmodernism is a literary, artistic, and philosophical school of thought... so
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 What *you* need to know is that postmodernism is a response to the modernism movement, which hit its peak in the 1920s. It's complicated. There was a lot of overlap especially when looking at areas of study which began to shift away from the modernist movement. Architecture was the first area to significantly adapt a style that would be referred to as "postmodern". 
@@ -545,7 +504,6 @@ And quite frankly it seems to be... a shining Exemplar of presenting these tenan
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Now, it's easy to see how this anime fits into a postmodern framework from the theme alone: you've got a bunch of teenagers who are not only struggling with ways to project their true selves into the world, but also struggling to reconcile what that true self even is.
@@ -557,7 +515,6 @@ There is an ongoing discussion about gender, developing sexuality, coming of age
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Prominent in postmodern writing are unreliable narrators, imagery of mirrors, masks, being trapped in liminal spaces, a use of glitter to describe seemingly important things of little value, and a strong prominence of feminist ideals and themes. Given that postmodernism (not to be confused with post-modernity, which is a different thing, kind of) seems to hold a particular focus on the appearance versus reality of something, and also challenging the belief of objective truth.
@@ -572,7 +529,6 @@ strictly through labor.
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Still an ongoing trend within stories with a female lead was that in order to frame The narrative towards emotional validation, the narrative needed to contain the typical post-modern elements of social destabilization. Which leads us back to Utena, where the very plot is about revolution, and whether or not a tomboyish young girl has the ability or the *right* to be responsible for it. 
@@ -587,7 +543,6 @@ fencing duels in a stadium in the sky where an inverted castle floats above. The
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 In my reading of Utena, there is very little that we can verifiably say is *not symbolic* or directly allegorical of something. This anime incorporates nearly every significant icon of postmodern language. It would be wrong to *assume* that this is not deeply allegorical.
@@ -599,7 +554,6 @@ What are we just going to take the Dios stuff seriously? When it serves the plot
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Especially because the final two episodes strongly imply, even misleadingly, that everything fantastical about this story -- from the duels, the castle, the power of Dios -- was an illusion projected by holograms. Though in the same breath where Akio explains that people see a castle because they're too naive to see the power of the chairman's residence, they see the more literal power of a castle.
@@ -616,7 +570,6 @@ So if we are dealing with a plot that is *primarily* an illusion... then how are
 ## 3. Isn't it symbolic? Don't you think?
 
 <compare>
-<cite></cite>
 <james>
 
 The weird thing about an analysis like this is that you.. kind of have to gauge what this anime is actually about before you begin to look for supporting instances. Something tricky about Utena is that some things are allegorically coded and other things are meant to be taken a face value. It's not always clear which is meant to be which. 
@@ -628,7 +581,6 @@ A basic premise is that Utena Tenjou is a middle school student who is strugglin
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Especially because all discourse around the duels and the Rose Bride and the floating Castle in the Sky are not accessible to most of the student body. Only the student council and a handful of students know about these things the rest of the students are just... students.
@@ -641,7 +593,6 @@ whole "cars" thing.)
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 That said the movie was much less about the question of identity and more about escaping the oppressive elements of conformity in school. The movie itself I view as more of a companion piece to the anime, beefing up secondary thematic messaging that was present in the anime, and clarifying some character motivations. For instance, Touga's romantic feelings for Utena were genuine and that Shiori really is just that... that bad.
@@ -653,7 +604,6 @@ Though Utena's revamped design was a great improvement, I felt (Granted the whol
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 There's a reason why I chose to focus on the anime specifically. Both the film and the manga are worth their own analysis each. The only major overlapping symbol is that cars represent adulthood and passage into adulthood. A problem with postmodern analysis is that symbolic language and what is presented as "real events" can often be overlapping.
@@ -665,7 +615,6 @@ An element of realism is important in most stories, as most audiences need these
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 To bring up an example nobody's going to expect (and I mean nobody): look at the music video for "Wrecking Ball" by Miley Cyrus. I do like Miley, but... this one was a bit of a miss. She responded to criticism of the video describing it as "weird" and "unnecessary" by claiming that the whole "lickin; the hammer" thing was symbolic of a failed relationship... or something.
@@ -682,8 +631,7 @@ He's kicking a helmet because he's frustrated that he's misplaced his Hobbits an
 </compare>
 
 <compare>
-<cite>{{ page.cite.clip.lotr }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.lotr %}>
 
 \[Aragorn kicking an orc helmet and screaming.]
 
@@ -691,7 +639,6 @@ He's kicking a helmet because he's frustrated that he's misplaced his Hobbits an
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Now, if the plot made a specific point of Aragorn repeatedly kicking or pushing objects away from him with due consequences, then yes we could say that this action carries symbolic weight. But only if it's repeated. And only if, through repetition, the audience can see evolution in Aragorn's internal conflict.
@@ -705,7 +652,6 @@ The primary reason that AI will never be able to replace artists is because the 
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 TL;DR: if there's a rule, then it would not be art. The quality of an artist is gauged by their ability not only to make their own rules, but to efficiently project that set of rules to their audience. We live in a world where *Watchmen*, *Carrie*, *Slaughterhouse 5*, and *The Color Purple* are all considered post-modern masterpieces. Yet their syntactic mechanics, narrative structure, and even their very underlying philosophies are foundationally different.
@@ -721,7 +667,6 @@ Though in Utena, there seems to be one side character who is able to appropriate
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 And even if we do read those aforementioned issues as real, that doesn't also mean that they can't carry additional symbolic value to a larger abstract concept. They're just very well-developed concepts. And because of Wakaba we can approach them with uncertainty rather than confusion.
@@ -733,7 +678,6 @@ This is the principle of my thoughts on *Attack on Titan*, where I felt that thi
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Whereas *Revolutionary Girl Utena* *does not do that*. Which is something you could accept about Utena, except for Wakaba, who, yes, participates in one duel, but she was brainwashed and has no recollection of it. Wakaba is the element of normal in this cast. Things that happen in her awareness are *certain*. Wakaba is like us, the audience. We don't pull weaponry out of random people or have uncommon hair colors. 
@@ -749,8 +693,7 @@ Not that Utena doesn't have some absurd things. But even something seemingly ben
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Anthy (putting a mongoose in a dresser drawer): "Okay, Mr Mongoose, we're studying, so I'll have to see you later. Did you like eating that mean old snake?"
 
@@ -760,7 +703,6 @@ Anthy (putting a mongoose in a dresser drawer): "Okay, Mr Mongoose, we're studyi
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 But there's a lot more to dig into than simple symbology.
@@ -772,7 +714,6 @@ But there's a lot more to dig into than simple symbology.
 ## 4. God Complex
 
 <compare>
-<cite></cite>
 <james>
 
 Probably the most prominent symbol in the entire show is the Sword of Dios. Aside from being the key that gives access to the power of Revolution, it is made symbolic by *how* it is acquired. It being removed from Anthy's chest can be read as symbolic, rather than your average magical girl transformation stock footage. It's very easy in any work of fiction to observe weapons as symbols of power. This is almost universal. What's a little more creative is when a creator questions what a weapon is. 
@@ -786,7 +727,6 @@ In order to get this power, dualists (usually men) need to extract this power fr
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Granted it... *probably* should not get lost on us that "dios" means "god" in Latin and a number of other romance languages. Even in the Japanese language versions, he's called "Dios" and I'm not going to get too deep into *that*, especially with the language of Apocalypse and Revolution. That's a whole master's degree dissertation right there.
@@ -800,7 +740,6 @@ Now, yes, if you want to you can look at him like that. And that who he *was* is
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 For all that Dios is approached with the language of the Christian God, Akio's name is derived from a Japanese character used in the name for Venus, the Morning Star, which is associated with Lucifer. Lucifer (which is, dare I say, a misappropriated name for Satan); "Lucifer" instead originally referred to a Persian God Of The Morning Light, and Satan actually means "the accuser", not "the devil". He was God's prosecutor, not his enemy.
@@ -814,7 +753,6 @@ So, yes the literal reading is there. But! That's boring, when there's so much s
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Dios is simply more useful as a tool to explain the motivations of characters that *do* exist, than as a character himself. When a character is a character, but is *not* a character, but represents an internal character foil that portends to their identity... that may be a figurative mask. But a mask nevertheless. So Dios doesn't exist, not strictly. He exists as a concept given a name. The concept is nobility, chivalry, and power. 
@@ -831,7 +769,6 @@ The castle may be an illusion, kind of. Akio says it is, but then hinges his ent
 ## 5. Your Heart, In a Dream
 
 <compare>
-<cite></cite>
 <james>
 
 The castle itself represents a curious element of the story's politics on gender. The final leg of the third arc heavily deals with Akio attempting to convince Utena to put down the sword and be a proper lady, which Utena feels compelled to do. Nearly everyone who sees the upside down castle wants to go there to make all their dreams come true, whatever those dreams may be. It makes it easy for someone like Akio to manipulate others under the promise that he can make those dreams a reality.
@@ -843,7 +780,6 @@ What's noteworthy is that the castle is tantalizing, but it's also inaccessible.
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 We know from the study of symbols that when a given symbol is inverted it holds an opposing meaning. Take a castle: what does it represent? Monarchy, regality, nobility, safety, and fantasy. A castle as a symbol, if inverted, still carries those values, but instead becomes an ironic subversion of those values. It's the difference between saying a castle wall is meant to keep the bride safe, or maybe that it's meant to keep her imprisoned. An inverted castle says the latter.
@@ -855,7 +791,6 @@ It's also significant that as Utena faces Akio in this climactic confrontation, 
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 The symbolic language of this castle is a bit different in *Adolescence of Utena*. While it seems to be a grand magnificent castle, it's actually a giant tank underneath, whose shifting wheels and treads form a labyrinth that one is not meant to escape. And in the movie, as in the anime, Akio is directly related to this castle, and the princely figure of Dios.
@@ -869,8 +804,7 @@ Dio's story is told several different ways, by several different characters, and
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Storyteller: "The world still hadn't fallen completely into darkness then. The reason for this was because there was a Rose Prince."
 
@@ -878,7 +812,6 @@ Storyteller: "The world still hadn't fallen completely into darkness then. The r
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Not only is Akio a victim for having his "Godhood" removed, but the whole of the world is worse off for it. And that through his intention to use the power of Revolution, he will re-empower himself to his rightful status as someone who... has the ability to do anything he wants without consequences. Which is going to make the world a better place. Because returning his power to him is poetic justice, returning to him something that he lost.
@@ -890,8 +823,7 @@ And all of this has been to say that the role of Dios is for Akio to betray his 
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Akio: "It is her punishment for taking the prince away from the girls of the world."
 
@@ -899,7 +831,6 @@ Akio: "It is her punishment for taking the prince away from the girls of the wor
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 So, through a postmodern lens, we can use this to characterize Akio to offer context
@@ -912,7 +843,6 @@ In akio's elaboration later on in the same episode, it's subtly implied that Dio
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 This is what I mean when I said that this might not even be literal exploitation, because this kind of demonstration can be extrapolated to indicate *any* kind of power and balance in this relationship. This can signify any kind of control or abuse, but the *instance* of exploitation here is used because assault has deep roots as indicating that akio feels *gender* is the source of his imbalance. 
@@ -926,7 +856,6 @@ People generally feel good when they are reassured of their self existing in the
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 And the really cool thing is that we're now at a point of analysis where we can get to the exciting stuff. Because the language of plurality? It can apply to these characters themselves.
@@ -942,7 +871,6 @@ Lacking the freedom to commit sexual exploitation, to Akio (and therefore men li
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena's role is to signify a new kind of woman. This woman cannot be defeated by the traditional means and therefore the method of dealing with *them* is to remove their power by *feminizing* them. And ultimately groom them to accept their own exploitation.
@@ -958,7 +886,6 @@ There's a lot more that Utena has to say about, power, truth versus illusion, sc
 ## 6. The Guillotine
 
 <compare>
-<cite></cite>
 <james>
 
 This is about the ***Revolutionary** Girl Utena*, after all. Which is strange because for all that the language of revolution is dangled over her head, she seems to reject it. Power structure itself is something all versions of Utena seems to discuss and seem to
@@ -973,8 +900,7 @@ Again, rather than a singular individual, he could represent a broader scope of 
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Nanami: "Oh! This can't be! I was so close to becoming the idol of the school! I can't seem to think clearly any*moooooooore.* Am I having deluuuuuuuusions? Do I need my appendix remoooooooooved? Bring me a blanket someone and suuuuuuuuu--"
 
@@ -984,7 +910,6 @@ Nanami: "Oh! This can't be! I was so close to becoming the idol of the school! I
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 (Girl needs help!) I'm sure that whole... *ordeal* is symbolic for something...
@@ -998,7 +923,6 @@ However, there is something thus far omitted. This is a show called the ***Revol
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Revolution itself in *Utena* seems to be an object. One would use revolution the same way you would use a toaster. And those who know that the power of Revolution resides at Ohtori Academy seem to be *desperate* to use it. But even though they talk about Revolution as if it were a power, or a tool, the language of postmodernism opens up a number of possibilities for what use revolution serves to the characters to the plot and to the audience.
@@ -1010,7 +934,6 @@ When the characters talk about the power to Revolution the world, it means we (l
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Of course tied into this theme of revolution are miracles and eternity. and since i can't read or understand Japanese, I may be losing something in the translation, because miracles are often associated with Christian imagery. Instead I think the plot is... much more in line with Alan Moore's sense of miracles. A miracle is a thing that shouldn't be possible but is. In *Utena*, miracles seem to be things that afford a false sense of hope. The cynical believe this thing is impossible, even if it is actually true. 
@@ -1024,7 +947,6 @@ Which is a recurring pattern with all dualists. Their intended uses for the powe
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena stands out because not only does she have no use for revolution, she seems to reject it, and even imply that she doesn't really believe in any of it. Her exclusive motivation is to protect Anthy from the predatorial intentions of the other dualists. Treating the duels as symbolic depicts these conflicts as indicative of the ways young people clash as they develop identity. 
@@ -1042,8 +964,7 @@ However, the more we begin to empathize with the student council the more we beg
 </compare>
 
 <compare>
-<cite>{{ page.cite.clips.utena }}</cite>
-<clip>
+<clip {% include citation for=page.cite.clips.utena %}>
 
 Student council monologue: "If it cannot break out of its shell, the chick will die without ever being born. We are the chick. The world is our egg. If we don't crack the world's shell, we will die without truly being born."
 
@@ -1051,7 +972,6 @@ Student council monologue: "If it cannot break out of its shell, the chick will 
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena echoes a particular anxiety of growing up in Japan in the 1990s, when the nation was in one of the worst Financial depressions in its history. To many, it did feel like the end of the world. And discourse around Revolution was not far off. (We'll get more into that in an upcoming *Evangelion* video, I promise.)
@@ -1067,7 +987,6 @@ Especially towards the end of the second arc, discourse around growing up takes 
 ## 7. Shut Up and Derive
 
 <compare>
-<cite></cite>
 <james>
 
 Right, so, as indicated in an episode where Nanami's younger boyfriend desperately wants to be a grown-up so that he can interact with women the way that he sees older boy doing, there is a single line questioning when someone becomes an adult. The gang tosses around a few things that signify the kind of adulthood that they have in their mind. And one of them is driving a car.
@@ -1085,7 +1004,6 @@ And that isn't to say that either of these young men don't have *a lot* to make 
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 So, what is revolution? In probably the most postmodern turn of events, that's never made clear. What exactly is this power that everyone wanted to use, abuse, and exploit Anthy and/or women in general to get a hold of? What made all of *this* worth it? Especially because the power is found in a castle in the sky that is described as an illusion generated by a holographic machine, but described by a character who is *routinely* outlined as being unreliable.
@@ -1099,7 +1017,6 @@ He was already doing a bang up job at finding a horde of people to ship his sist
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Is this a good place to mention that corrective rape is the most common form of sexual assault imposed on lesbians, asexuals, and transmen? And it means exactly what it sounds like.
@@ -1109,7 +1026,6 @@ Is this a good place to mention that corrective rape is the most common form of 
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 And while he may express disappointment Utena for not being able to bring Revolution
@@ -1125,7 +1041,6 @@ deep-seated emotional scars is always going to be more unrealistic. Anthy's fina
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 This also echoes the final act of *Adolescence of Utena*, where she becomes the *literal vehicle* of anthy's escape, rather than the figurative vehicle in the anime. However, this is a postmodern reading, which means this isn't Utena, Anthy. and Akio, but a new wave of unconventional women, the suffering and victimhood of all women, and the patriarchal values that oppress women. Utena prophesies women and their struggle to free themselves from victimhood, and how this uphill battle will have casualties. 
@@ -1137,7 +1052,6 @@ Because in this context we can appropriately examine one of the more *elusive* c
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena's hidden driving force through the entire plot is to reconnect with the prince who gave her the signet ring. It's implied that the Prince, Akio, showed her something eternal which she now seeks to attain. And Akio uses this to groom Utena into believing the eternal thing she seeks is a romance with her prince. But Akio was never the prince Utena was trying to find. It was her all along. The signet ring may have brought her closer to this Prince, however *she* was the prince she was looking for. 
@@ -1149,7 +1063,6 @@ Though as more information is revealed to Utena, she remembers that no it was no
 </compare>
 
 <compare>
-<cite></cite>
 <james>
 
 Utena sees this as injustice, and her vow to become a prince is not in honor of the prince who rescued her. Her bravado is not due to a pep talk from a handsome man. Her drive to become a prince, her will, her determination, her very driving motivation that she herself does not remember, is to free Anthy from the swords of men who somehow believe that *all* women are responsible for the suffering of the world, and that a woman's only contribution in this world is to endure suffering. For the benefit of a man.
