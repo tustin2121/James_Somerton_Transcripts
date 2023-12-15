@@ -10,9 +10,14 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=j5tg1quSfTU"
-description: "a video essay on <xyz>."
+description: "a video essay on why it is Disney is so safe and how being gay is not abnormal."
 notes:
   - script-diff
+
+contributors:
+  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  formatting: Tustin2121
 
 cite:
   clips: !!map
