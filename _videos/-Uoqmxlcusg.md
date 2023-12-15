@@ -12,7 +12,7 @@ topics: !!seq
   - Revolutionary Girl Utena
   - Postmodernism
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231007+-Uoqmxlcusg+The+Magic+Realism+of+Revolutionary+Girl+Utena.webm"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
 description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 

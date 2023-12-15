@@ -27,7 +27,7 @@
 <body>
 	<div class="wrapper">
 		<div class="markdown-body">
-			<div class="content">
+			<div class="content {% if page.notes contains "podcast" -%}podcast{% endif %}">
 				<h1>"{{ page.title }}" Transcript</h1>
 				<div class="video-list">
 					{% include video-card.html video=page %}
@@ -88,21 +88,43 @@
 				{% endif %}
 			
 				<hr />
-				<compare>
-					<james>
-						<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
-						
-						{%- if page.notes contains "script-diff" -%}
-							<p>(This transcript was created from the original script uploaded as closed captioning. 
-							Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
-						{%- endif -%}
-					</james>
-					<from>
-						<div class="header"><a class="citation" href="#">Plagiarized article (Author, 2000)</a></div>
-						<p>Fact-checking commentary or found plagiarized content is on the right for comparison
-						<mark>Plagiarized text is highlighted.</mark></p>
-					</from>
-				</compare>
+				
+				{%- if page.notes contains "podcast" -%}
+					<compare>
+						<james>
+							<p>Video transcript is on the left.</p>
+						</james>
+						<comment>
+							<div class="header"><a class="citation" href="#">Source (Author, 2000)</a></div>
+							<p>Fact-checking commentary is on the right for comparison.</p>
+						</comment>
+					</compare>
+					<compare>
+						<nick>
+							<p>Auto-text is cleaned up somewhat to remove excessive "um"s and vocal tics.</p>
+						</nick>
+						<comment>
+							<div class="header"><a class="citation" href="#">Tustin2121</a></div>
+							<p>Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place...</p>
+						</comment>
+					</compare>
+				{%- else -%}
+					<compare>
+						<james>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
+							
+							{%- if page.notes contains "script-diff" -%}
+								<p>(This transcript was created from the original script uploaded as closed captioning. 
+								Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
+							{%- endif -%}
+						</james>
+						<from>
+							<div class="header"><a class="citation" href="#">Plagiarized article (Author, 2000)</a></div>
+							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
+							<mark>Plagiarized text is highlighted.</mark></p>
+						</from>
+					</compare>
+				{%- endif -%}
 				<hr />
 				<p>&nbsp;</p>
 				<p class="transcript-start"></p>

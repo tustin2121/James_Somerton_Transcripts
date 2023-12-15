@@ -3,6 +3,7 @@
 		color-scheme: dark;
 		--box-border-cite: gray;
 		--box-border-james: orange;
+		--box-border-nick: blue;
 		--box-border-clip: gray;
 		--box-border-credits: gray;
 		--box-border-from: #00b500;
@@ -20,6 +21,7 @@
 		color-scheme: light;
 		--box-border-cite: gray;
 		--box-border-james: orange;
+		--box-border-nick: blue;
 		--box-border-clip: gray;
 		--box-border-credits: gray;
 		--box-border-from: green;
@@ -44,7 +46,7 @@ body {
 compare {
 	display: grid;
 	grid: auto-flow / 1fr 1fr;
-	grid-template-areas: "j f" "s s";
+	grid-template-areas: "j f";
 	column-gap: 4px;
 	row-gap: 4px;
 	margin-block: 1em;
@@ -56,6 +58,7 @@ compare {
 }
 
 compare james, 
+compare nick, 
 compare clip, 
 compare credits, 
 compare from, 
@@ -68,10 +71,8 @@ compare comment
 }
 
 compare james::before, 
-/* compare clip::before,  */
-compare credits::before, 
-/* compare from::before,  */
-compare comment::before 
+compare nick::before, 
+compare credits::before
 {
 	display: block;
 	font-size: small;
@@ -88,6 +89,10 @@ compare cite    {
 compare james {
 	grid-area: j; 
 	border-color: var(--box-border-james);
+}
+compare nick {
+	grid-area: j; 
+	border-color: var(--box-border-nick);
 }
 compare clip {
 	grid-area: j; 
@@ -107,9 +112,28 @@ compare comment {
 	font-size: smaller;
 }
 compare james::before   { content: 'James:'; }
+compare nick::before    { content: 'Nick:'; }
 /* compare clip::before   { content: 'Video Clip:'; } */
 /* compare from::before    { content: 'Source:'; } */
 /* compare comment::before { content: 'Comment:'; } */
+
+
+.podcast compare {
+	grid-template-areas: unset;
+	grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
+}
+compare james {
+	grid-area: unset; 
+	grid-column: j-start / j-end;
+}
+compare nick {
+	grid-area: unset; 
+	grid-column: n-start / n-end;
+}
+compare from, compare comment {
+	grid-area: unset; 
+	grid-column: f-start / f-end;
+}
 
 compare from > .header,
 compare comment > .header,

@@ -4,6 +4,7 @@ title: The Queer Erasure of Asexuality (A Discussion)
 status: Auto
 aka: !!seq
 topics: !!seq
+  - Aro/Ace
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
@@ -15,101 +16,304 @@ cite:
   clips: !!map
   plagiarized: !!map
 ---
-hello everyone and welcome to gays Behaving Badly a new feature on the channel
-that we're gonna try out for a bit and if you like it let us know in the
-comments my name is James I'm Nick and Gay's Behaving Badly is basically a
-podcast with cameras we will be discussing things that the queer Community
-doesn't like to talk about or doesn't like to acknowledge very much uh this
-first episode we're going to be talking about the kind of queer Erasure of all
-of asexual and asexuality and aromanticism um um that's kind of one of the um
-it's in a lot of ways considered one of the ugly step children of the queer
-community and um when I was working in queer circles I there was that kind of
-you worked for a pride there was that discussion very innocently had about like
-like they wanted to make sure that only queer groups got like a um uh there was
-kind of a um a kiosk sort of station where were different groups and
-organizations organizations would set up kiosks that people could visit and
-there was a and they wanted to make sure that only queer people could have these
-spots because what would happen is people would just kind of get a spot yeah
-even though they had nothing really to do with queerness um so like there was
-kind of an asexual group and there was a discussion like is that specifically a
-queer group I've seen that a lot because there's a debate among especially I've
-seen it among gay men that asexual people shouldn't be included so much because
-you know asexual people are not persecuted actively persecuted for their
-sexuality I I see that sort of angle however my just I'm not saying I agree with
-that oh yeah yeah that's the information but my justification for why we should
-just call this disclaimer the podcast my my organization my sort of
-qualification for this and we've talked about this and you agree is um the the
-queer Community is a community of people established by a means of exclusion uh
-we weren't collected in the hegemony so we kind of banded together yeah um and
-while there might be no specific persecution for asexual people in the way that
-gay people have faced there is a kind of very quiet persecution for asexuals it
-seem as being for instance I think uh asexuality in the American Psychological
-Journal is still qualified as a mental as a psychological disease a mental
-health disease uh correct me if I'm wrong um but like when you are asexual you
-do see a myriad of ways that uh there's basically a psychological warfare
-against you um every piece of media is focused around a romance or sexual
-attraction um it's seen as a for granted thing for almost every piece of media
-almost everyone there's that sexual expectation and even when there's not yeah
-it's viewers will assume that especially if there's a male and female character
-if there isn't a romance between them viewers will assume by the end of the
-movie or the TV show that there will be right absolutely and and outside of
-media in like sort of polite discussion um there's a way that people kind of you
-know when you're outside of polite discussion and you're kind of being more
-personal with someone there's a comfort with sex that is taken for granted like
-you know if you're having you know a rough time your close friend might say like
-just go out and tag someone um yeah uh and that's kind of seen as just like a
-universal so it's a lot of very subtle ways that the hegemony reminds you that
-you're not really welcome or that you should be different or that you're there's
-something wrong with you um and while there isn't really any conversion therapy
-directed to the asexual people um and while you think that there wouldn't be
-because Society is kind of geared towards this neopuritan attitude of avoiding
-sex and avoiding uh sexual attraction at least in public discourse and
-especially like in public areas um there is that expectation that it's something
-that is going to happen behind closed doors yeah again just kind of going back
-to the idea of of that in Media if there's not the romantic interest if there's
-not the sexual interest that there will be you know the Assumption because the
-you know overt sexuality is the default oh yeah yeah yeah um and like you said
-that there's not like conversion therapy taste people but I think there's a huge
-amount of pressure social pressure yes so there's not like but organized and you
-want to sort of have evidence of like what you're saying about there being like
-an expectation of sexuality take two queer-coded characters or a queer-coded
-character and straight people will automatically assume that they are straight
-like look at Yuri from Victor from Yuri on Ice uh there is a huge straight
-component of the audience for that show that assumes that Victor is straight and
-Hyper which is hilarious which is hilarious because he's the bottom um so like
-there's that expectation that it's going to be there even if in the media it's
-not depicted that way very clearly um but like and asexuality is beginning to be
-discussed in a larger broader context uh nowadays um I feel like sorry for
-interrupting I feel like we should pause and just kind of explain to anyone who
-doesn't know what asexuality is that's what we're getting that's what we're
-getting there's there's a perception of what it is uh there's a perception of it
-versus what it is yeah um and this discussion the ways that asexuality is
-beginning to manifest in sort of representation in media and a discussion in
-public even when it's done well it's usually or when it's done earnestly it's
-usually only ever sort of half half-baked it's a much larger Spectrum it's a
-large larger fish fish pond than what people see um so there's asexuality is
-defined as a you know aversion to sex lack of sexual drive lack of sexual
-attraction um and that's kind of where the definition is formally very very
-vaguely uh there it's very unspecific because there is you know obviously within
-sexuality there is a spectrum of sexuality but there is just as big a spectrum
-within asexuality right of where you kind of land but the public perception of
-asexuality is Sheldon from Big Bang Theory I don't even think it's Sheldon
-because Sheldon does have sex I know but like married and once again like that's
-true actually um because well I see that it is asexual it's like a lot of people
-in the audience might think oh Sheldon is no longer asexual um when I was kind
-of experimenting around with kind of identifying as asexual University I was
-kind of close with this one girl who lacked a lot of social skills um and when
-she did get a boyfriend she was like guess what I'm no longer asexual and I I
-think that's how a lot of people feel that it does work it's like it's like the
-bisexual thing when you get married to a man or a woman it's like no longer
-straight you're no longer gay yeah as soon as you you know if you're a man and
-you start dating it this is this is oddly a a belief within uh the queer
-Community especially especially among gay men is that if a man is bisexual and
-starts dating a woman he's actually not bisexual he was you know just looking if
-you get married as you're Straight For Life yeah uh or to a woman damage to a
-woman yeah your bisexuality just disappears and if you get married and if you
-get a check up with a guy or get married to a guy it's like well it's a
-transitional period well yeah that's that that was a big thing for bisexuality
+
+<compare>
+<james>
+
+Hello everyone, and welcome to "Gays Behaving Badly", a new feature on the channel that we're gonna try out for a bit, and if you like it let us know in the comments. My name is James.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+I'm Nick.
+
+</nick>
+</compare>
+<compare>
+<james>
+
+And Gay's Behaving Badly is basically a podcast with cameras. We will be discussing things that the... queer Community doesn't like to talk about or doesn't like to acknowledge very much.
+
+Uh this first episode we're going to be talking about the... kind of queer Erasure of all of asexual and asexuality and aromanticism from the LGBTQ+-ness.
+ 
+</james>
+</compare>
+<compare>
+<nick>
+
+Yeah, the ace spectrum. Um... that's kind of one of the um...
+
+It's in a lot of ways considered one of the ugly step children of the queer community and um... When I was working in queer circles I... there was that kind of discussion...
+
+</nick>
+</compare>
+<compare>
+<james>
+
+You worked for a pride organization once.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+There was that discussion, very innocently had, about like.... like, they wanted to make sure that only queer groups got like a... There was kind of a... a kiosk sort of station, where were different groups and organizations would set up kiosks that people could visit. And there was a-- and they wanted to make sure that only queer people could *have* these spots, because what would happen is people would just kind of get a spot. Even though they had nothing really to do with queerness.
+
+Um, so like there was kind of an asexual group and there was a discussion like... is that specifically a queer group?
+
+</nick>
+</compare>
+<compare>
+<james>
+
+I've seen that a lot because... there's a "debate" among... especially, I've seen it among gay men that asexual people shouldn't be included so much, because you know asexual people are not persecuted-- actively persecuted for their sexuality. 
+
+</james>
+</compare>
+<compare>
+<nick>
+
+I-- I-- I-- I see that sort of... angle, however my justification--
+
+</nick>
+</compare>
+<compare>
+<james>
+
+I'm not saying I agree with that [Inaudible], by the way.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+oh yeah yeah, that's the information, but my justification for why--
+
+</nick>
+</compare>
+<compare>
+<james>
+
+We should just call this "Disclaimer: the Podcast".
+
+</james>
+</compare>
+<compare>
+<nick>
+
+\[Laughter]
+
+My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer Community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
+
+And while there might be no specific persecution for asexual people in the way that *gay* people have faced, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
+
+Correct me if I'm wrong. But like... when you are asexual you do see a myriad of ways that, uh, there's basically a psychological warfare against you. *Every* piece of media is focused around a romance or sexual attraction. It's seen as a for-granted thing for almost every piece of media, almost everyone there's that sexual expectation...
+
+</nick>
+</compare>
+<compare>
+<james>
+
+And even when there's not, it's... Viewers will *assume* that (especially if there's a male and female character), if there isn't a romance between them viewers will assume by the end of the movie or the TV show that there *will* be.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+Right, absolutely, and-- and outside of media in like sort of... polite discussion... There's a way that people kind of, you know, when you're outside of polite discussion, and you're kind of being more personal with someone, there's a comfort with sex that is taken for granted. Like, you know, if you're having, you know, a rough time, your close friend might say, "just go out and shag someone".
+
+And that's kind of seen as just like a universal. So it's a lot of very subtle ways that the hegemony reminds you that you're not really welcome. Or that you should be different. Or that you're there's something wrong with you. 
+
+And while there isn't really any conversion therapy directed to the asexual people... and while you think that there wouldn't be because Society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
+
+</nick>
+</compare>
+<compare>
+<james>
+
+Yeah. Again, just kind of going back to the idea of that in Media... if there's not the romantic interest, if there's not the sexual interest, that there will be... the Assumption, because the... overt sexuality is the default.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+Oh yeah yeah yeah.
+
+</nick>
+</compare>
+<compare>
+<james>
+
+Um, and like you said, that there's not like conversion therapy for-- for ace people, but I think there's a huge amount of social pressure. Do there's not like... organized--
+
+</james>
+</compare>
+<compare>
+<nick>
+
+And you want to sort of have evidence of what you're saying about there being like an expectation of sexuality. Take two queer-coded characters, or a queer-coded character, and straight people will automatically assume that they are straight. Like look at Yuri from-- Victor from Yuri on Ice. There is a huge straight component of the audience for that show that assumes that Victor is straight and hypersexual--
+
+</nick>
+</compare>
+<compare>
+<james>
+
+Which is hilarious.
+
+</james>
+</compare>
+<compare>
+<nick>
+
+Which is hilarious. Because he's the bottom um... so like there's that expectation that it's going to be there, even if, in the media, it's not depicted that way, very clearly. But like and asexuality is beginning to be discussed in a larger, broader context nowadays. 
+
+</nick>
+</compare>
+<compare>
+<james>
+
+I feel like-- sorry for interrupting, I feel like we should pause and just kind of explain to anyone who *doesn't* know what asexuality is.
+ 
+</james>
+</compare>
+<compare>
+<nick>
+
+That's what we're getting. That's what we're getting. There's a perception of what it is, uh-- There's a perception of it, versus what it is. And this discussion... The ways that asexuality is beginning to manifest, in sort of representation in media and a discussion in public. Even when it's done well, it's usually-- Or when it's done earnestly, it's usually only ever sort of half-baked. It's a much larger Spectrum. It's a larger fish pond than what people see. So there's-- 
+
+Asexuality is defined as a aversion to sex, lack of sexual drive, lack of sexual attraction, um... And that's kind of where the definition is formally very very vaguely. It's very unspecific. 
+
+</nick>
+</compare>
+<compare>
+<james>
+ 
+Because there is, you know... Obviously within sexuality, there is a spectrum of sexuality, but there is just as big a spectrum within asexuality. Of where you kind of land...
+
+</james>
+</compare>
+<compare>
+<nick>
+
+But the public perception of asexuality is Sheldon from Big Bang Theory. 
+
+</nick>
+</compare>
+<compare>
+<james>
+
+I don't even think it's Sheldon, because Sheldon does have sex and does get married...
+ 
+</james>
+</compare>
+<compare>
+<nick>
+
+I know but like... once again like... That's true, actually. Um, because well, I see that it is asexual, it's like a lot of people in the audience might think "oh Sheldon is *no longer* asexual". 
+
+When I was kind of experimenting around with kind of identifying as asexual in University, I was kind of close with this one girl who lacked a lot of social skills... and when she did get a boyfriend she was like, "Guess what: I'm no longer asexual!"
+
+And I think that's how a lot of people feel that it *does* work, it's like-- it's like the bisexual thing: when you get married to a man or a woman, it's like no longer straight, or no longer gay.
+
+</nick>
+</compare>
+<compare>
+<james>
+
+Yeah, as soon as you-- you know, if you're a man and you start dating-- this is-- this is oddly a belief within the queer Community especially, *especially* among gay men, is that if a man is bisexual and starts dating a woman he's actually not bisexual. He was, you know, just looking for some--
+
+</james>
+</compare>
+<compare>
+<nick>
+
+And if you get married, you're Straight For Life. --to a woman-- to a
+woman. 
+
+</nick>
+</compare>
+<compare>
+<james>
+
+Yeah, your bisexuality just disappears suddenly--
+ 
+</james>
+</compare>
+<compare>
+<nick>
+
+And if you get married to a-- And if you shack up with a guy or get married to a guy, it's like well "it's just a transitional period."
+
+</nick>
+</compare>
+<compare>
+<james>
+
+</james>
+</compare>
+<compare>
+<nick>
+
+</nick>
+</compare>
+<compare>
+<james>
+
+</james>
+</compare>
+<compare>
+<nick>
+
+</nick>
+</compare>
+<compare>
+<james>
+
+</james>
+</compare>
+<compare>
+<nick>
+
+</nick>
+</compare>
+<compare>
+<james>
+
+</james>
+</compare>
+<compare>
+<nick>
+
+</nick>
+</compare>
+<compare>
+<james>
+
+
+
+
+
+
+
+
+</james>
+</compare>
+
+
+
+
+
+
+
+7:59
+
+
+
+well yeah that's that that was a big thing for bisexuality
 it was by now gay later yeah um and like I understand why that existed at the
 time because we came from a very binary system not just a binary system but a
 very persecutional system where being bisexual meant that you could still latch
