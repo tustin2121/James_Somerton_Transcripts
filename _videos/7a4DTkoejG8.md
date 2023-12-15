@@ -231,8 +231,7 @@ Yeah, as soon as you-- you know, if you're a man and you start dating-- this is-
 <compare>
 <nick>
 
-And if you get married, you're Straight For Life. --to a woman-- to a
-woman. 
+And if you get married, you're Straight For Life. --to a woman-- to a woman. 
 
 </nick>
 </compare>
@@ -245,118 +244,260 @@ Yeah, your bisexuality just disappears suddenly--
 </compare>
 <compare>
 <nick>
-
-And if you get married to a-- And if you shack up with a guy or get married to a guy, it's like well "it's just a transitional period."
+  
+And if you get married to a-- And if you shack up with a guy or get married to a guy, it's like, "well, it's just a transitional period."
 
 </nick>
 </compare>
 <compare>
 <james>
+  
+"Oh, you're gay now." well yeah that's- that was a big thing for bisexuality, it was bi now gay later. Um, because-- 
 
 </james>
 </compare>
 <compare>
 <nick>
+  
+And like I understand why that existed at the time because we came from a very... 
 
 </nick>
 </compare>
 <compare>
 <james>
+  
+Binary system.
 
 </james>
 </compare>
 <compare>
 <nick>
+  
+Not just a binary system but a very persecutional system where being bisexual meant that you could still latch
+onto some of that straight privilege. Um, and make it easier-
 
 </nick>
 </compare>
 <compare>
 <james>
+  
+You didn't *have* to get a boyfriend.
 
 </james>
 </compare>
 <compare>
 <nick>
+  
+Yeah, and sort of make an easier transition into this kind of sexuality. Um, I've actually heard the inverse too, that people will kind of, um, they'll be straight and then they'll "snap" to dating a guy and be like, "oh I guess I'm gay now." And then they'll realize, "wait a second, I still like girls." 
+
+So um, I think that's where a lot of the perception that bi people are sneaky, um, very wrongly came from because we have this idea - we were talking about this the other day - that there isn't really room for experimentation in society. You're not really allowed to experiment or play around or sort of investigate different things. It's like, when you are- when you begin to exhibit signs of being gay, "oh, you're just gay." It's like there's no room for fluidity. Um, but-
 
 </nick>
 </compare>
 <compare>
 <james>
+  
+Back to the asexuals.
 
 </james>
 </compare>
 <compare>
 <nick>
+  
+That was- I was flipping that around! I was saying like asexuality is actually a lot more fluid than people think it is. Because Sheldon *can* get married and he-
 
 </nick>
 </compare>
 <compare>
 <james>
-
-
-
-
-
-
-
+  
+Well I don't think Sheldon was ever- ever conceived-
 
 </james>
 </compare>
+<compare>
+<nick>
+  
+I'm using that as an example. I'm using that as an example.
 
+</nick>
+</compare>
+<compare>
+<james>
+  
+Yeah, that's what people think of asexual as, the people who just have no, uh sexual drive, who have no interest in sex, who have no interest in romance, who have no interest in any kind of pairing whatsoever.
 
+</james>
+</compare>
+<compare>
+<nick>
+  
+That's also not the- Well yeah that is the-
 
+</nick>
+</compare>
+<compare>
+<james>
+  
+That's the *assumption* from the masses.
 
+</james>
+</compare>
+<compare>
+<nick>
+  
+Yes, yes, sorry. [laughs]
 
+</nick>
+</compare>
+<compare>
+<james>
+  
+That's the assumption, whereas in reality, like I said there is a spectrum of asexuality that goes from that to any number of other options.
 
+</james>
+</compare>
+<compare>
+<nick>
+  
+And something that we're beginning to realize is that there is a separation between asexuality and
+aromantic. Which I feel a little bit concerned, the thing I'm starting, I'm starting to see, not that I'm concerned, I'm starting to see a trend for people to describe asexuality as aroace. I'm like, "that's not necessarily the case."
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+Yeah that's kind of the um- the LGBTQ kind of- yeah, "we'll just call
+you LGBTQ," it's like, "Actually, I'm a lesbian." It's like, "well you're LGBTQ."
+  
+</james>
+</compare>
+<compare>
+<nick>
+  
+Some people are aroace and they have neither romantic nor sexual attraction to
+anyone.
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+But some people can fall in love very easily with no sexual attraction
+and some people can be *very* horny with no romantic attraction.
 
-7:59
+</james>
+</compare>
+<compare>
+<nick>
+  
+Talk to any asexual person and they will tell you that they are incredibly kinky and horny. Since- wait no.
 
+</nick>
+</compare>
+<compare>
+<james>
+  
+Not *any* asexual person! [laughter] I mean there's plenty of asexual people who have no interest in any sex.
 
+</james>
+</compare>
+<compare>
+<nick>
+  
+That's true, there is- within the community there is kind of a marked, um, acknowledgment, a very quiet
+acknowledgment that some of the kinkiest people you ever meet are identifying as asexual. Uh, cause they keep their sex up here. [points to their own head.] Like, they just don't let it get out of their head. It's-
 
-well yeah that's that that was a big thing for bisexuality
-it was by now gay later yeah um and like I understand why that existed at the
-time because we came from a very binary system not just a binary system but a
-very persecutional system where being bisexual meant that you could still latch
-onto some of that straight privilege and make you didn't have to get a boyfriend
-yeah and sort of make an easier transition uh into this kind of sexuality um
-I've actually heard the inverse too that people will kind of um they'll be
-straight and then they'll snap to dating a guy and be like oh I guess I'm gay
-now and then they'll realize wait a second I still like girls yeah so um I think
-that's where a lot of the perception that my people are sneaky um very wrongly
-came from because we have this idea we've talked about this the other day that
-there isn't really room for experimentation in society you're not really allowed
-to experiment or play around or sort of investigate different things it's like
-when you are when you begin to exhibit signs of being gay oh you're just gay
-it's like there's no room for fluidity yeah um but back to the asexuals that was
-I was living that around I was saying like asexuality is actually a lot more
-fluid than people think it is because Sheldon can get married well I don't think
-Sheldon was ever I'm using that as an emergency I'm using that yeah that's what
-people think of asexual as the people who just have no uh sexual drive who have
-no no interest in sex who have no interest in Romance who have no interest in
-any kind of pairing whatsoever that's also not this well yeah that is that's the
-Assumption yes yes that's the Assumption whereas in reality like I said there is
-a spectrum of asexuality that goes from that to any number Something That We're
-beginning to realize is that there is a separation between asexuality and
-aromantic um yeah which I feel a little bit concerned with the thing I'm
-starting I'm starting to see not that I'm concerned I'm starting to see a trend
-for people to describe asexuality as Aero Ace I'm like that's not necessarily
-the case um yeah that's kind of the um the lgbtq kind of yeah we'll just call
-you lgbtq it's like actually I'm a lesbian it's like well you're LGBT some
-people are Arrow Ace and they have neither romantic nor sexual attraction to
-anyone but some people can fall in love very easily with no sexual attraction
-and some people can be very horny with no romantic attraction talk to any
-asexual person they will tell you they are incredibly kinky and horny asexual
-people I mean there's plenty of asexual people who have no that's true within
-the community there is kind of a marked um acknowledgment a very quiet
-acknowledgment that some of the kinkiest people ever meet are identifying as
-asexual because they keep their sex up here like just don't let it get out of
-their head it's um it's all internal and because it never has to exist in real
-life they never have to face it I'm pretty sure that a very strong component of
-fan fiction like slash fiction erotic fan fiction um libraries are contributed
-to by asexual people um so we're gonna play a game and assume that this video
-gets monetized and for anyone watching it not on YouTube plus YouTube premium
-YouTube that page Fancy YouTube Fancy paid YouTube um we're gonna take a quick
-break and we'll be right back and for anyone who doesn't have that we're back
+</nick>
+</compare>
+<compare>
+<james>
+  
+It's- it's all internal and because it never has to exist in real life, they never have to face the ickiness.
+
+</james>
+</compare>
+<compare>
+<nick>
+  
+I'm pretty sure that a very strong component of fanfiction, like slash fiction, erotic fan fiction, um, libraries are contributed to by asexual people. [laughter]
+
+</nick>
+</compare>
+<compare>
+<james>
+  
+Um, so we're gonna play a game and assume that this video gets monetized, and for anyone watching it not on YouTube... Plus? YouTube Premium? YouTube- that- paid-
+
+</james>
+</compare>
+<compare>
+<nick>
+  
+Fancy YouTube. [laughs]
+
+</nick>
+</compare>
+<compare>
+<james>
+  
+Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back and for anyone who doesn't have that... we're back!
+
+</james>
+</compare>
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+</james>
+</compare>
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+</james>
+</compare> 
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+</james>
+</compare> 
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+</james>
+</compare> 
+<compare>
+<nick>
+  
+</nick>
+</compare>
+<compare>
+<james>
+  
+</james>
+</compare> 
+
+11:23
 all right so this is I get segment two um so kinky you were talking about kinky
 yes I was talking about kinky um and this is kind of the appearance versus
 reality of asexuality the reality of asexual sexuality is that it is a very
