@@ -914,7 +914,7 @@ And when she comes up with her own, its about Wizards crapping on the ground and
 <compare>
 <james>
 
-The fans are the people who have kept this brand alive since the books finished their run in 2007, the year I graduated from high school <span class="add">incidentally</span>, and the <span class="add">release of</span> final film <span class="del">was released</span> in 2011. Long before Rowling officially launched Pottermore in 2015, (everything before <span class="del">then was</span><span class="add">that had been</span> considered a beta), fans had been doing the hard work of keeping their favourite characters alive. 
+The fans are the people who have kept this brand alive since the books finished their run in 2007, the year I graduated from high school <span class="add">incidentally</span>, and the <span class="add">release of the</span> final film <span class="del">was released</span> in 2011. Long before Rowling officially launched Pottermore in 2015, (everything before <span class="del">then was</span><span class="add">that had been</span> considered a beta), fans had been doing the hard work of keeping their favourite characters alive. 
 
 Fans took ownership of the the characters. Fan fiction communities for Harry Potter had *always* been popular, but they *really* took off once the series had finished. People were telling their own stories in the world. Creating their own characters. <span class="add">And</span> Adding to the mythology. 
 
