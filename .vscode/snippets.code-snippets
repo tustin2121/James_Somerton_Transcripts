@@ -29,4 +29,18 @@
 		],
 		"description": "Surround text with <sup> tags"
 	},
+	"del": {
+		"prefix": "del",
+		"body": [
+			"<span class=\"del\">$TM_SELECTED_TEXT</span><span class=\"add\">$1</span>"
+		],
+		"description": "Strike text and add replacement"
+	},
+	"add": {
+		"prefix": "add",
+		"body": [
+			"<span class=\"add\">$1</span>"
+		],
+		"description": "Strike text and add replacement"
+	},
 }

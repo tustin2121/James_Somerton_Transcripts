@@ -5,5 +5,20 @@
 	"cSpell.words": [
 		"Herrgott",
 		"Somerton"
-	]
+	],
+	"[markdown]": {
+		"editor.hover.delay": 6000,
+		// "editor.unicodeHighlight.ambiguousCharacters": false,
+		// "editor.unicodeHighlight.invisibleCharacters": false,
+		// "diffEditor.ignoreTrimWhitespace": false,
+		// "editor.wordWrap": "on",
+		// "editor.quickSuggestions": {
+		// 	"comments": "off",
+		// 	"strings": "off",
+		// 	"other": "off"
+		// },
+		// "cSpell.fixSpellingWithRenameProvider": true,
+		// "cSpell.advanced.feature.useReferenceProviderWithRename": true,
+		// "cSpell.advanced.feature.useReferenceProviderRemove": "/^#+\\s/"
+	}
 }
