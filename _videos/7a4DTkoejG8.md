@@ -34,7 +34,7 @@ I'm Nick.
 <compare>
 <james>
 
-And Gay's Behaving Badly is basically a podcast with cameras. We will be discussing things that the... queer Community doesn't like to talk about or doesn't like to acknowledge very much.
+And Gays Behaving Badly is basically a podcast with cameras. We will be discussing things that the... queer community doesn't like to talk about or doesn't like to acknowledge very much.
 
 Uh this first episode we're going to be talking about the... kind of queer Erasure of all of asexual and asexuality and aromanticism from the LGBTQ+-ness.
  
@@ -45,7 +45,7 @@ Uh this first episode we're going to be talking about the... kind of queer Erasu
 
 Yeah, the ace spectrum. Um... that's kind of one of the um...
 
-It's in a lot of ways considered one of the ugly step children of the queer community and um... When I was working in queer circles I... there was that kind of discussion...
+It's in a lot of ways considered one of the ugly stepchildren of the queer community and um... When I was working in queer circles I... there was that kind of discussion...
 
 </nick>
 </compare>
@@ -105,7 +105,7 @@ We should just call this "Disclaimer: the Podcast".
 
 \[Laughter]
 
-My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer Community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
+My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
 
 And while there might be no specific persecution for asexual people in the way that *gay* people have faced, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
 
@@ -127,14 +127,14 @@ Right, absolutely, and-- and outside of media in like sort of... polite discussi
 
 And that's kind of seen as just like a universal. So it's a lot of very subtle ways that the hegemony reminds you that you're not really welcome. Or that you should be different. Or that you're there's something wrong with you. 
 
-And while there isn't really any conversion therapy directed to the asexual people... and while you think that there wouldn't be because Society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
+And while there isn't really any conversion therapy directed to the asexual people... and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
 
 </nick>
 </compare>
 <compare>
 <james>
 
-Yeah. Again, just kind of going back to the idea of that in Media... if there's not the romantic interest, if there's not the sexual interest, that there will be... the Assumption, because the... overt sexuality is the default.
+Yeah. Again, just kind of going back to the idea of that in media... if there's not the romantic interest, if there's not the sexual interest, that there will be... the assumption, because the... overt sexuality is the default.
 
 </james>
 </compare>
@@ -148,7 +148,7 @@ Oh yeah yeah yeah.
 <compare>
 <james>
 
-Um, and like you said, that there's not like conversion therapy for-- for ace people, but I think there's a huge amount of social pressure. Do there's not like... organized--
+Um, and like you said, that there's not like conversion therapy for-- for ace people, but I think there's a huge amount of social pressure. So there's not like... organized--
 
 </james>
 </compare>
@@ -176,14 +176,14 @@ Which is hilarious. Because he's the bottom um... so like there's that expectati
 <compare>
 <james>
 
-I feel like-- sorry for interrupting, I feel like we should pause and just kind of explain to anyone who *doesn't* know what asexuality is.
+I feel like with-- sorry for interrupting, I feel like we should pause and just kind of explain to anyone who *doesn't* know what asexuality is.
  
 </james>
 </compare>
 <compare>
 <nick>
 
-That's what we're getting. That's what we're getting. There's a perception of what it is, uh-- There's a perception of it, versus what it is. And this discussion... The ways that asexuality is beginning to manifest, in sort of representation in media and a discussion in public. Even when it's done well, it's usually-- Or when it's done earnestly, it's usually only ever sort of half-baked. It's a much larger Spectrum. It's a larger fish pond than what people see. So there's-- 
+That's what we're getting. That's what we're getting. There's a perception of what it is, uh-- There's a perception of it, versus what it is. And this discussion... The ways that asexuality is beginning to manifest, in sort of representation in media and a discussion in public. Even when it's done well, it's usually-- Or when it's done earnestly, it's usually only ever sort of half-baked. It's a much larger spectrum. It's a larger fish pond than what people see. So there's-- 
 
 Asexuality is defined as a aversion to sex, lack of sexual drive, lack of sexual attraction, um... And that's kind of where the definition is formally very very vaguely. It's very unspecific. 
 
@@ -215,7 +215,7 @@ I don't even think it's Sheldon, because Sheldon does have sex and does get marr
 
 I know but like... once again like... That's true, actually. Um, because well, I see that it is asexual, it's like a lot of people in the audience might think "oh Sheldon is *no longer* asexual". 
 
-When I was kind of experimenting around with kind of identifying as asexual in University, I was kind of close with this one girl who lacked a lot of social skills... and when she did get a boyfriend she was like, "Guess what: I'm no longer asexual!"
+When I was kind of experimenting around with kind of identifying as asexual in university, I was kind of close with this one girl who lacked a lot of social skills... and when she did get a boyfriend she was like, "Guess what: I'm no longer asexual!"
 
 And I think that's how a lot of people feel that it *does* work, it's like-- it's like the bisexual thing: when you get married to a man or a woman, it's like no longer straight, or no longer gay.
 
@@ -224,7 +224,7 @@ And I think that's how a lot of people feel that it *does* work, it's like-- it'
 <compare>
 <james>
 
-Yeah, as soon as you-- you know, if you're a man and you start dating-- this is-- this is oddly a belief within the queer Community especially, *especially* among gay men, is that if a man is bisexual and starts dating a woman he's actually not bisexual. He was, you know, just looking for some--
+Yeah, as soon as you-- you know, if you're a man and you start dating-- this is-- this is oddly a belief within the queer community especially, *especially* among gay men, is that if a man is bisexual and starts dating a woman he's actually not bisexual. He was, you know, just looking for some--
 
 </james>
 </compare>
