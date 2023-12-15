@@ -21,8 +21,8 @@ contributors:
 
 cite:
   clips: !!map
-    futurama: { short: "", full: "" }
-    zelda_show: { short: "", full: "" }
+    futurama: { short: "(Groening, 1999)", full: "Groening, M. (Creator). (1999). <em>Futurama</em> [Television series]. The Curiosity Company, 20th Television Animation." }
+    zelda_show: { short: "(Heyward, )", full: "Heyward, A. (Creator). (1989). <em>The Super Mario Bros. Super Show!</em> [Television series]. Saban Productions, DIC Enterprises, Nintendo of America." }
   misinformation: !!map
   plagiarized: !!map
 ---
@@ -252,7 +252,7 @@ So I think it’s safe to say that erring on the side of increasing visible, mea
 
 But, when it comes to the LGBTs, Instead, Disney has been… trying to play the field. With little snibbits<sup class="add">[sic: snippets]</sup> of queer representation here and there, but with the plausible deniability to insist that they haven’t actually put gays in their movies. But at the same time, not saying that they’re *not* putting gays in their movies. 
 
-So it goes, that people who follow movie media news are a little bit more socially-minded then the average Joanne and Cletus. So Disney promotes a film <span class="del">with</span><span class="add">and</span> their first gay character, knowing that it will <span class="add">really</span> only be picked up by mostly very online audiences. And then upon release, there’s so little gay there that parent groups won’t boycot<span class="add">[sic: boycott]</span> it because they don’t notice it.
+So it goes, that people who follow movie media news are a little bit more socially-minded then the average Joanne and Cletus. So Disney promotes a film <span class="del">with</span><span class="add">and</span> their first gay character, knowing that it will <span class="add">really</span> only be picked up by mostly very online audiences. And then upon release, there’s so little gay there that parent groups won’t boycot<sup class="add">[sic: boycott]</sup> it because they don’t notice it.
 
 </james>
 <from></from>
