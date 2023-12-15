@@ -12,6 +12,12 @@ description: "a 'Gays Behaving Badly' podcast episode on Asexuality."
 notes:
   - podcast
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  formatting:
+    - "[tobi-cat](https://github.com/tobi-cat)"
+    - Tustin2121
+
 cite:
   clips: !!map
   plagiarized: !!map
@@ -446,6 +452,16 @@ Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back a
 
 </james>
 </compare>
+
+## Segment 2
+
+<compare>
+<james>
+
+All right, so this is I guess... segment two. Um, so kinky!
+
+</james>
+</compare>
 <compare>
 <nick>
   
@@ -498,7 +514,7 @@ Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back a
 </compare> 
 
 11:23
-all right so this is I get segment two um so kinky you were talking about kinky
+ you were talking about kinky
 yes I was talking about kinky um and this is kind of the appearance versus
 reality of asexuality the reality of asexual sexuality is that it is a very
 broad area and this has troubles translating into the dating World um I can
