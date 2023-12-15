@@ -1,14 +1,14 @@
 ---
 date: 2022-11-16 
 title: The Queer Erasure of Asexuality (A Discussion)
-status: Auto
+status: In Progress
 aka: !!seq
 topics: !!seq
   - Aro/Ace
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+description: "a 'Gays Behaving Badly' podcast episode on Asexuality."
 notes:
   - podcast
 
