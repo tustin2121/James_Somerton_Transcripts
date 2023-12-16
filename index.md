@@ -52,7 +52,8 @@ Statuses:
 James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
 
 <div class="video-list">
-{% for video in site.videos %}
+{% assign vidList = site.videos | sort: 'date' | reverse %}
+{% for video in vidList %}
 {%- include video-card.html video=video -%}
 {% endfor %}
 </div>
