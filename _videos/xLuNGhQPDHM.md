@@ -9,7 +9,7 @@ topics: !!seq
   - "Harry Potter"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210512+xLuNGhQPDHM+An+Over-Emotional+Look+at+Why+JK+Rowling+is+Bad.webm"
-description: "a video essay about J.K. Rowling, how Harry Potter is uniquely situated as foundational media, and how we don't know how to feel about this."
+description: "a video essay about J.K. Rowling, Harry Potter being foundational media for a generation, and how James is justifying buying more Harry Potter Lego sets."
 notes: 
   - odd-linebreaks
   - hbomb
@@ -329,14 +329,14 @@ Could it be that you’re delusional enough to think that you can write a thrill
 
 But how did this happen? How did the woman who told an entire generation of kids that being their true selves is good, and the right thing… end up doing a 180 and completely disavowing a whole group of people <span class="add">that are</span> just trying to live their lives? 
 
-I mean it came as a hell of a shock to me but it wasn’t all that shocking <span class="del">to people</span> who know what’s going on in current mainstream British feminism. An anti-trans strain of feminism has *always* simmered under the surface, but it’s really come to light over the last few years in <span class="del">England</span><span class="add">the U.K.</span>, especially after the proposed changes to the nation’s Gender Recognition Act.
-
 </james>
 <from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+I mean it came as a hell of a shock to me but it wasn’t all that shocking <span class="del">to people</span> who know what’s <mark>going on in current mainstream British feminism.</mark> <mark>An anti-trans strain of feminism has *always* simmered under the surface, but it’s really come to light over the last few years</mark> in <span class="del">England</span><span class="add">the U.K.</span>, <mark>especially after the proposed changes to the nation’s Gender Recognition Act.</mark>
 
 <mark>The Gender Recognition Act, a law put on the books in 2004,</mark> sets up <mark>the legal process for trans people to change their legal</mark> gender <mark>on their birth certificates</mark>. Because at the time that decision was not made by you, or your doctor, but <mark>by an anonymous group of beurocrats</mark>.<sup class="add">[sic: bureaucrats]</sup> 
 
@@ -348,6 +348,9 @@ These reporters <mark>falsely claimed that</mark> allowing trans people to <mark
 
 </james>
 <from {% include citation for=page.cite.plagiarized.vox_jkr_article %}>
+
+Rowling’s transphobia has come as a disappointment to many of her fans, despite trans people repeatedly pointing it out. But it shouldn’t come as a surprise to <mark>anyone familiar with the current state of British mainstream feminism.</mark> <mark>Though an anti-trans strain of UK feminism has always simmered under the surface, it’s really come to flourish over the last several years,</mark> <mark>especially in the wake of proposed reforms to the country’s Gender Recognition Act.</mark>
+
 <h3>The rise of trans-exclusionary radical feminists in the UK</h3>
 
 <mark>The Gender Recognition Act, which was signed into law in 2004,</mark> defines <mark>the legal process for trans people to change their legal</mark> sex <mark>on their birth certificates</mark>, which currently involves an expensive and highly intrusive investigation <mark>by an anonymous government board</mark> that has the final say over a trans person’s legal sex. <mark>In 2017, the</mark> UK government announced an inquiry into a proposed reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned genders. Opponents of the reforms seized the narrative, backed by a friendly press, distorting the proposal’s aims at so-called “self-ID.”
@@ -590,7 +593,9 @@ There has been some backlash, mostly from queer inclusive groups. But the most i
 <compare>
 <james {% include timecode %}>
 
-And it’s gotten under her skin too. She threatened to sue some people for calling her a bigot on Twitter, and apparently hasn’t spoken to Emma Watson since the actress posted this photo of herself on Instagram with a shirt declaring “Trans rights are human rights”. 
+And it’s gotten under her skin too. She threatened to sue some people for calling her a bigot on Twitter[^jkr-sues], and apparently hasn’t spoken to Emma Watson since the actress posted this photo of herself on Instagram with a shirt declaring “Trans rights are human rights”. 
+
+[^jkr-sues]: Confirmed: [J.K. Rowling Appears To Sic Lawyers on Queer Critic for (Arguably Accurately) Saying Her Views Align With Nazis](https://www.themarysue.com/j-k-rowling-appears-to-sic-lawyers-on-queer-critic/) from The Mary Sue.
 
 The thing is though, Rowling is pretty insulated from most negativity toward her. She’s surrounded herself with fellow TERFs who agree with her. She’s fabulously wealthy. If she didn’t make one more single solitary penny for the rest of her life, her family could live in luxury for centuries. I mean she lives in a <span class="del">literal</span> castle. 
 
@@ -746,7 +751,9 @@ So in either case, the books stick with you, and so you stick with the book from
 
 At the same time that you are able to recognize the morals of the story, you cannot recognize the way that this narration is conditioning you to act a certain way. And these morals are so *very clearly* directed at cooperation, acceptance of the other, and the strength and importance of the individual existing within a community. We see those values and we like those values. 
 
-So, until some of us are conditioned into Randian, personal-gain, kind of objectivist thinking, we do lean towards inclusion as an innate state of default. We don’t understand the social constructs of why person from Racist group A can’t interact with person from diverse group B. This kind of segregation, as many have <span class="del">re</span>marked, is learned behaviour. 
+So, until some of us are conditioned into Randian[^rand], personal-gain, kind of objectivist thinking, we do lean towards inclusion as an innate state of default. We don’t understand the social constructs of why person from Racist group A can’t interact with person from diverse group B. This kind of segregation, as many have <span class="del">re</span>marked, is learned behaviour. 
+
+[^rand]: As in Ayn Rand.
 
 </james>
 <from></from>
@@ -928,7 +935,9 @@ Fans took ownership of the the characters. Fan fiction communities for Harry Pot
 
 And a whole lot of <span class="del">the people behind those new stories</span><span class="add">those people</span> were queer and trans. People who understood that Rowling couldn’t <span class="add">actually</span> include people like us in the initial books because of the then existing UK law that said books with LGBT <span class="del">characters</span><span class="add">content</span> weren’t allowed in children’s libraries. So we assumed that was the only reason we weren’t there, and many of us created out own stories to fill in the gaps. Creating new characters to exist right alongside Harry, Ron, and Hermione. 
 
-And why wouldn’t we? In 2014 JK Rowling stated, very clearly, that gay, lesbian, bi, AND transgender students could, of course, attend Hogwarts. She even said that they may use magic to help deal with gender confirmation. She didn’t use those exact words of course, instead clinically stating that one could <span class="add">use magic to</span> change their genitals, but the meaning was still there. 
+And why wouldn’t we? In 2014 JK Rowling stated, very clearly, that gay, lesbian, bi, AND transgender students could, of course, attend Hogwarts.[^trans-students] She even said that they may use magic to help deal with gender confirmation. She didn’t use those exact words of course, instead clinically stating that one could <span class="add">use magic to</span> change their genitals, but the meaning was still there. 
+
+[^trans-students]: Confirmed: [J.K Rowling confirms that lesbian, gay and transgender students would have gone to Hogwarts](https://www.mirror.co.uk/3am/celebrity-news/jk-rowling-confirms-lesbian-gay-4832641) from the Mirror.
 
 So It’s no wonder her being a TERF came like a punch to the gut to so many. And why so many people, myself very much included, preferred to ignore her slights on Twitter until it became impossible to do so. Until she went out of her way to remove that last shadow of a doubt that <span class="del">so many of us clung to</span><span class="add">we all *desperately* clung on to</span>. 
 
