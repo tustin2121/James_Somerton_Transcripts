@@ -13,6 +13,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media.webm"
   - "https://www.youtube.com/watch?v=BODX90z4R7E" # Todd in the Shadows upload, unlisted
+  - "https://www.youtube.com/watch?v=F56WPODVG5c" # Reuploads channel
 description: "a video on sexuality in happy gay media."
 notes:
   - hbomb

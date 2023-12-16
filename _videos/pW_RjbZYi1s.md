@@ -18,6 +18,7 @@ topics: !!seq
   - "<media>"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
+  - "https://www.youtube.com/watch?v=4shTfS6hyjE" # Reuploads channel
 description: "a video essay on <xyz>."
 notes: 
   - multipart

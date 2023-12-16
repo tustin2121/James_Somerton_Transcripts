@@ -9,6 +9,7 @@ topics: !!seq
   - "The Last of Us"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://www.youtube.com/watch?v=qNxoyHlVM48" # Reuploads channel
 description: "a video essay on <xyz>."
 
 cite:

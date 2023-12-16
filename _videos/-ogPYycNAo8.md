@@ -6,7 +6,10 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+  - "https://www.youtube.com/watch?v=Lj_WYIOeCiM" # reuploads channel
+description: "a podcast episode on <xyz>."
+notes:
+  - podcast
 
 cite:
   clips: !!map
