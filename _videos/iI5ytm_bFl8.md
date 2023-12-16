@@ -13,7 +13,6 @@ description: "a short video essay on how The Crimes of Grindlewald was bad."
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
   citation: 
-    - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcz5wmm)"
   formatting: Tustin2121
 
 cite:
