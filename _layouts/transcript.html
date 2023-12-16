@@ -28,6 +28,7 @@
 	<div class="wrapper">
 		<div class="markdown-body">
 			<div class="content {% if page.notes contains "podcast" -%}podcast{% endif %}">
+				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 				<h1>"{{ page.title }}" Transcript</h1>
 				<div class="video-list">
 					{% include video-card.html video=page %}
@@ -145,6 +146,7 @@
 						{% endfor %}
 					</ul>
 				{%- endif %}
+				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 			</div>
 		</div>
 	</div>
