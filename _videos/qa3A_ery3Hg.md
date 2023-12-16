@@ -486,6 +486,11 @@ Do something.
 Rose Ophelia Shepard
 
 </credits>
+<comment>
+<div class="header"></div>
+It's unclear who James is thanking here. Searching this name on Google gives us a YouTube user with zero videos and six subscribers, and a bunch of historic obituaries. 
+
+</comment>
 </compare>
 
 Patrons roll over a fast-paced piano.

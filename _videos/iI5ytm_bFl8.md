@@ -85,7 +85,9 @@ Lovely! And… not at all inaccurate.
 <compare>
 <james {% include timecode %}>
 
-Okay, so, full-on spoilers-synopsis ahead. But honestly… you’re not missing much. 
+Okay, so, full-on spoilers-synopsis[^wiki-check] ahead. But honestly… you’re not missing much. 
+
+[^wiki-check]: There was a claim that plot summary section of this video was plagiarized from Wikipedia. However, this was checked against [a revision of the webpage from April 2022](https://en.wikipedia.org/w/index.php?title=Fantastic_Beasts:_The_Secrets_of_Dumbledore&oldid=1083018132), and no corelation was found. Any similarities were made after this video was released.
 
 \[Begins showing rather bad quality bootleg footage of the movie.]
 
