@@ -30,7 +30,6 @@ cite:
     missionary_tweets: "{{ site.yt.todd_video }}"
     sex_backlash: "{{ site.yt.todd_video }}"
   plagiarized: !!map
-  tustin_eyewitness: "Tustin2121, former patron of James"
 ---
 
 <compare>
@@ -40,7 +39,7 @@ cite:
 
 Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad. 
 
---{{ page.cite.tustin_eyewitness }}
+{{ site.tustin_eyewitness }}
 
 </comment>
 </compare>
@@ -570,7 +569,7 @@ And, no, you can't go back and fix it. Like I came out when I was 12 and I haven
 
 James has repeated this personal anecdote on stream, so it may be genuine.
 
---{{ page.cite.tustin_eyewitness }}
+{{ site.tustin_eyewitness }}
 
 </comment>
 </compare>

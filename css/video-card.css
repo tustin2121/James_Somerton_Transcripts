@@ -76,3 +76,9 @@
 .video-card .note {
     margin-inline: 4px;
 }
+
+.signature {
+	font-size: smaller;
+	color: grey;
+	text-align: right;
+}
