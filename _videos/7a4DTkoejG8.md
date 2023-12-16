@@ -44,7 +44,7 @@ I'm Nick.
 And Gays Behaving Badly is basically a podcast with cameras. We will be discussing things that the... queer community doesn't like to talk about or doesn't like to acknowledge very much.
 
 Uh this first episode we're going to be talking about the... kind of queer Erasure of all of asexual and asexuality and aromanticism from the LGBTQ+-ness.
- 
+
 </james>
 </compare>
 <compare>
@@ -184,7 +184,7 @@ Which is hilarious. Because he's the bottom um... so like there's that expectati
 <james {% include timecode %}>
 
 I feel like with-- sorry for interrupting, I feel like we should pause and just kind of explain to anyone who *doesn't* know what asexuality is.
- 
+
 </james>
 </compare>
 <compare>
@@ -193,12 +193,13 @@ I feel like with-- sorry for interrupting, I feel like we should pause and just 
 That's what we're getting. That's what we're getting. There's a perception of what it is, uh-- There's a perception of it, versus what it is. And this discussion... The ways that asexuality is beginning to manifest, in sort of representation in media and a discussion in public. Even when it's done well, it's usually-- Or when it's done earnestly, it's usually only ever sort of half-baked. It's a much larger spectrum. It's a larger fish pond than what people see. So there's-- 
 
 Asexuality is defined as a aversion to sex, lack of sexual drive, lack of sexual attraction, um... And that's kind of where the definition is formally very very vaguely. It's very unspecific. 
+{% assign timecode = "6:32" %}
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
- 
+
 Because there is, you know... Obviously within sexuality, there is a spectrum of sexuality, but there is just as big a spectrum within asexuality. Of where you kind of land...
 
 </james>
@@ -214,7 +215,7 @@ But the public perception of asexuality is Sheldon from Big Bang Theory.
 <james {% include timecode %}>
 
 I don't even think it's Sheldon, because Sheldon does have sex and does get married...
- 
+
 </james>
 </compare>
 <compare>
@@ -246,40 +247,40 @@ And if you get married, you're Straight For Life. --to a woman-- to a woman.
 <james {% include timecode %}>
 
 Yeah, your bisexuality just disappears suddenly--
- 
+
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 And if you get married to a-- And if you shack up with a guy or get married to a guy, it's like, "well, it's just a transitional period."
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 "Oh, you're gay now." well yeah that's- that was a big thing for bisexuality, it was bi now gay later. Um, because-- 
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 And like I understand why that existed at the time because we came from a very... 
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Binary system.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 Not just a binary system but a very persecutional system where being bisexual meant that you could still latch
 onto some of that straight privilege. Um, and make it easier-
 
@@ -287,14 +288,14 @@ onto some of that straight privilege. Um, and make it easier-
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 You didn't *have* to get a boyfriend.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 Yeah, and sort of make an easier transition into this kind of sexuality. Um, I've actually heard the inverse too, that people will kind of, um, they'll be straight and then they'll "snap" to dating a guy and be like, "oh I guess I'm gay now." And then they'll realize, "wait a second, I still like girls." 
 
 So um, I think that's where a lot of the perception that bi people are sneaky, um, very wrongly came from because we have this idea - we were talking about this the other day - that there isn't really room for experimentation in society. You're not really allowed to experiment or play around or sort of investigate different things. It's like, when you are- when you begin to exhibit signs of being gay, "oh, you're just gay." It's like there's no room for fluidity. Um, but-
@@ -303,94 +304,95 @@ So um, I think that's where a lot of the perception that bi people are sneaky, u
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Back to the asexuals.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 That was- I was flipping that around! I was saying like asexuality is actually a lot more fluid than people think it is. Because Sheldon *can* get married and he-
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Well I don't think Sheldon was ever- ever conceived-
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 I'm using that as an example. I'm using that as an example.
+{% assign timecode = "9:14" %}
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Yeah, that's what people think of asexual as, the people who just have no, uh sexual drive, who have no interest in sex, who have no interest in romance, who have no interest in any kind of pairing whatsoever.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 That's also not the- Well yeah that is the-
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 That's the *assumption* from the masses.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 Yes, yes, sorry. [laughs]
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 That's the assumption, whereas in reality, like I said there is a spectrum of asexuality that goes from that to any number of other options.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 And something that we're beginning to realize is that there is a separation between asexuality and
 aromantic. Which I feel a little bit concerned, the thing I'm starting, I'm starting to see, not that I'm concerned, I'm starting to see a trend for people to describe asexuality as aroace. I'm like, "that's not necessarily the case."
-  
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Yeah that's kind of the um- the LGBTQ kind of- yeah, "we'll just call
 you LGBTQ," it's like, "Actually, I'm a lesbian." It's like, "well you're LGBTQ."
-  
+
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 Some people are aroace and they have neither romantic nor sexual attraction to
 anyone.
-  
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 But some people can fall in love very easily with no sexual attraction
 and some people can be *very* horny with no romantic attraction.
 
@@ -398,21 +400,21 @@ and some people can be *very* horny with no romantic attraction.
 </compare>
 <compare>
 <nick>
-  
+
 Talk to any asexual person and they will tell you that they are incredibly kinky and horny. Since- wait no.
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Not *any* asexual person! [laughter] I mean there's plenty of asexual people who have no interest in any sex.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 That's true, there is- within the community there is kind of a marked, um, acknowledgment, a very quiet
 acknowledgment that some of the kinkiest people you ever meet are identifying as asexual. Uh, cause they keep their sex up here. [points to their own head.] Like, they just don't let it get out of their head. It's-
 
@@ -420,36 +422,38 @@ acknowledgment that some of the kinkiest people you ever meet are identifying as
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 It's- it's all internal and because it never has to exist in real life, they never have to face the ickiness.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 I'm pretty sure that a very strong component of fanfiction, like slash fiction, erotic fan fiction, um, libraries are contributed to by asexual people. [laughter]
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
 Um, so we're gonna play a game and assume that this video gets monetized, and for anyone watching it not on YouTube... Plus? YouTube Premium? YouTube- that- paid-
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
 Fancy YouTube. [laughs]
+{% assign timecode = "11:12" %}
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
-Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back and for anyone who doesn't have that... we're back!
+
+Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back and for anyone who doesn't have that... 
+{% assign timecode = "11:22" %}
 
 </james>
 </compare>
@@ -459,207 +463,394 @@ Fancy paid YouTube. Um, we're gonna take a quick break and we'll be right back a
 <compare>
 <james {% include timecode %}>
 
-All right, so this is I guess... segment two. Um, so kinky!
+We're back! All right, so this is I guess... segment two. Um, so kinky! You were talking about kinky.
 
 </james>
 </compare>
 <compare>
 <nick>
-  
+
+Yes, I was talking about kinky. Um and this is kind of the appearance versus reality of asexuality. The reality of asexual sexuality is that it is a very broad area and this has troubles translating into the dating world. 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
+I can imagine 
+
 </james>
 </compare>
 <compare>
 <nick>
-  
+
+yeah, because for me online on Grindr, the things that I will say to people, first of all hopefully will never get leaked into the world, uh... second of all, I... before I meet a guy and this was a historic thing I had to kind of give a disclaimer, like, "hey, heads up I know we've been talking about certain things but I need to tell you that the more you get to know me in person, I'm not as horny as I seem to be." And that's just because I have a very active imagination and I really--
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
+You're a writer 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, I enjoy the idea of sex. Um, but like there are some branches of asexuality which much prefer to do sex online, or sex on the phone, uh, sex in a hypothetical context. Some prefer-- Some do not like penetration and like uh...
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+and I mean that's becoming a whole thing within the gay community now, is you know there's tops and bottoms and verse blah blah, but now there's sides, which are people who do enjoy sex but not penetrative sex.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+yeah, and I, I really like that that... I always thought that butt sex was a little bit overrated. And just just-- but a huge portion is the idea that so many gay people (and you might qualify as this) don't think that it counts as sex unless it's unless it's penetrative.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+I've actually really changed my mind about that, even-- even as of six months ago I was very in the backward thinking of like "sex needs to be penetrative" if it's not then it doesn't count. And you know I've really come around to that because.. you know, sex I think to me now encompasses such a wide range from the most intense sweaty nasty thing that you know Treasure Island Media produces, to you know phone sex. And/or making out in the back of a car and you know it all depends it's a personal person.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Greater separation between like sex-- a sex act, I qualify anything as a "sex act" as a sexual encounter. Anything with the intention of having that kind of sexual passion associated with it. 
+
+um... And so like there there is a lot of um... explaining that I have to do... and usually I get ghosted... after that because it's like... 'cause I can see where they're coming-- where guys are coming from in that case. Because it's like "oh, you're suddenly getting cold feet and you need an out." um, and that's kind of how I get that kind of "out" feeling sometimes...
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+yeah, like people would could look at that as, you know ,that you're really just looking that you're-- oh what's the term?
+
 </james>
 </compare> 
 <compare>
 <nick>
   
+Screening?
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
+no, maybe, something like that but it's there's a specific term for it for people who are just.. they just want to "cyber" and that's it. They'll lead you on for weeks and weeks and weeks.
+
 </james>
 </compare> 
 <compare>
 <nick>
-  
+
+(I have done that...) Um because like sometimes I...
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
-  
+
+We need like a "bonk", I could go [mimes hitting Nick with a newspaper] bad!
+
 </james>
 </compare> 
 <compare>
 <nick>
-  
+
+Well, listen what that is I'm never dishonest about it. I'm sort of upfront and I say like I'm not really interested in meeting up, um... but I love doing cyber, I love talking to people, and regardless of that there is still an ongoing expectation that "oh we're gonna meet up eventually, he's just saying he's not into meeting people so he can bypass all of the undesirable-- I'll bypass all the undesirable gays!" um, and when I was kind of coming of age on gay dating--
+
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
   
+But that isn't-- that's the first I've heard about that just today, the "screening process". That there are people that will put on the that kind of asexual-esque gaze to kind of screen out the ones they're really not interested in.
+{% assign timecode = "15:33" %}
+
+</james>
+</compare> 
+<compare>
+<nick {% include timecode %}>
+
+'cause like, you know, when I was kind of coming of age on Grindr it was a big thing to sort of say "not into meeting up" "not into hooking up" um, and I *like* that because sometimes I *wasn't.* But then sometimes I was, and I would find the right personal and realized "oh. people are doing this maliciously." They are doing this to screen out people who are not physically attractive, they're not-- they're not physically attracted to. And so when you did get that kind of good chemistry, regardless of whether you wanted to meet or not, the other person would have that expectation because it's like "oh, I passed the screening process"
+{% assign timecode = "0:00" %}
+
+so, when you would kind of-- when it would become a became *apparent* that you weren't really as into hookup culture as they wanted to be, or thought you would be, they kind of just abandoned you. And when you *were* up front and you said like "I'm not really into meeting up, I just want to talk", I think they got the vibes that I was just consistently going to be putting them off yeah, or that they would eventually pass the test one day, and you know would get to do the
+physical stuff. 
+
+But it took me a long time to sort of be comfortable with like being not as intimately sexual with people. And I kind of, for the sake of being polite, I forced myself into a lot of kind of hookups that I wasn't really that interested in, or that I knew I wasn't going to have a fun time from the beginning. Not that there was any consent problems, it's just that I wasn't really into it, and I was kind of like-- it was kind of like, you know, laying there like a fish 
+{% assign timecode = "17:00" %}
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+yeah, it seems like -- from the asexual people that I've talked to -- that it's it's like a second coming out process. That you know you kind of spend your teenage years figuring out if you're gay or bi--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Because you *think* you have to be hypersexual, because that's the kind of depiction--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+  
+Especially with the gay community. Like, we have kind of-- the culture, the gay culture, has really up until *very* recently when it was kind of-- the gay culture has become two dads and a kid in the suburbs, that it was circuit parties, and you know ecstasy, and stuff like that. That gay culture was the height and the the the absolute peak of sexuality. And so, how can you be gay and asexual?
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Or that regard, even if you are-- Even if you are that kind of monogamous kind of person, like when-- watch any gay drama, like Elite. (Is it Elites, or Elite?)
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Uh that's not just gay, that's gay and straight. *Very* hypersexual.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+I know I know but like, when you were-- when you did get a permanent boyfriend, you would kind of... when the door is closed, *oof!* That's when the heat would hit, like...
+{% assign timecode = "17:58" %}
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+It's like okay now we need to-- you know, the sweat needs to start pouring off us. It needs to be a porno film. And if it's anything less then we're doing it wrong.
+
+Especially when when you're gay the only-- when you're specifically attracted-- a man attracted to men, or you know um... then it's very much... that *is* your early exposure to gayness. There's not a whole lot of you know like kids movies with a child-- There's no *Little Rascals* for gay people, where there's a childhood romance.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+it's like you watch the kind of raunchy gay movies a *little* bit earlier, because you're much more Curious than your peers, so that's kind of... you're hypersexual like, you and *Queer as Folk* 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+yeah, like I, uh-- *Queer as Folk* was really my first, um... not my *first* exposure to gay people, but it was certainly the most, um...
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+So like you know-- you young little gaby comes of age, and like if they're exposure to "oh this is how I be gay as an adult".
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+yeah that "this is what gayness as is as an adult. This is what gayness is in high school, even."
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+But the the the other side of that, is this kind of-- And that you have that, and that conflicts with the perception of asexuality. Which is the "doesn't have sex" and-- in media, this is very often the case, and a lot of asexual people are kind of upset by this, asexuality is represented by robots, aliens, and autistic people. And as it happens a lot--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And rarely confirmed in any of those cases.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+A lot of-- Or completely unconfirmed and just not acknowledged, like with Elsa. In a lot of those cases like asexual people don't really like that, because we can be incredibly vibrant, colorful, zany people uh--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Well, yeah, I don't know any asexual people who are like Sheldon or Data. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+And even then, like... I think that's... 
+
+Data was snarky, though.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+I've never seen Star Trek I'm just going by YouTube clips.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+When I was younger, my mom said that I was a carbon copy of Data. I always loved the character, because my mom had Star Trek on a lot when I was younger. And like, I think that's a discredited to autistic people too. I identify as somewhere on the Spectrum. I don't know what, but-- because like autistic people can be incredibly hypersexual, and that's perfectly fine too. And so like kind of pigeonholing these identities together because you know this privileged-- writer of privilege, this creator of privilege, has this one experience with this one person, thinks "oh, this one this must be what it likes it's like for everyone".
+
+So, those are two very conflicting public perceptions of what these identities ought to be. And when you put them together it's--- what do you get? Like people just don't believe you. You have no idea how many times I've gotten... Like I said "I'm asexual" and then kind of get the retort "oh, you just haven't met the right person" 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh I-- I absolutely believe that. Um, that's-- I've seen that in so many different conversations and podcasts and whatnot. People kind of talking about you know "I'll tell someone I'm asexual" and it's just "oh, you just haven't met the right guy yet" Um, and it's the same with-- It's the same kind of thing with women who say like "I never want to get married", and it's "you just haven't met the right guy yet", or "I never want to have a kid" and it's--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, it's just like "You'll change your mind".
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+"you'll change your mind". Yeah, "once it happens you'll change your mind" kind of thing. um, and so that seems to be a-- that seems to be a societal thing, that if you're anywhere outside of the societal Norm, which is very restrictive-- like I said, even a woman who doesn't want to get married is outside the societal Norm. Society kind of says to you like, "just wait, you'll get there."
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+That's something that I was really trying to push in the video about Black Swan. Kind of the concept of "okay, you're not here to procreate, what are you here for?"
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Which if we haven't watched that video yet, [go watch it](ezirFAu3MuA.md).
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+I was really happy with how that came together.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+I wear costumes.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[Laughing] You wanted to do that for so long! You finally got to! 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+I read a script with no glasses and I am *blind* without these glasses.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[Laughing] That's true! That's true! That's true! 
+
+Um... and so it's really just hard to get across the... the weird little nuances of "yes, I want to meet people, I'd like to have these experiences, but like I want to have them my way. I want to have them in a way that I'm I'm going to enjoy." And it's like, I'm also not opposed to negotiation.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+yeah but then when you kind of say--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+And this is the thing about asexuality: some people-- some asexuals are like "I do not like sex. I don't want to have it. It does not feel good. I hate it." and other people are like "I could take it or leave it"
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+
+Yeah, and that's that's what I was going to say is that, when you do kind of put it on the table that like "I don't really like sex very much, but with the right person..." you know "I will lower my boundaries and I'll do it", which kind of poses the question, "how are you asexual enough?" Which we will get to after the break!
+{% assign timecode = "22:55" %}
+
 </james>
 </compare> 
 
-11:23
- you were talking about kinky
-yes I was talking about kinky um and this is kind of the appearance versus
-reality of asexuality the reality of asexual sexuality is that it is a very
-broad area and this has troubles translating into the dating World um I can
-imagine yeah because for me online on Grindr the things that I will say to
-people um first of all hopefully we'll never get leaked into the world uh second
-of all I before I meet a guy and this was a historic thing I had to kind of give
-a disclaimer like hey heads up I know we've been talking about certain things
-but I need to tell you that the more you get to know me in person I'm not as
-horny as I seem to be yeah and that's just because I have a very active
-imagination and I really you're a writer yeah I enjoy the idea of sex um uh but
-like there are some branches of asexuality which much prefer to do sex online or
-sex on the phone uh sex in a hypothetical context yeah um some prefer some do
-not like penetration and like uh and I mean that's becoming a whole thing within
-the gay community now is you know there's tops and bottoms and verse blah blah
-but now there's sides which are people who do enjoy sex but not penetrative sex
-yeah and I I really like that that um I always thought that butt sex was a
-little bit overrated and just just but a huge portion is the idea that so many
-gay people and you might qualify as this don't think that it counts as sex
-unless it's unless it's penetrative I've actually really changed my mind about
-that even even as of six months ago I was very in the backward thinking of like
-sex needs to be penetrative if it's not then it doesn't count and you know I've
-really come around to that because you know sex I think to me now encompasses
-such a wide range from the most intense sweaty nasty thing that you know
-Treasure Island Media produces to you know phone sex yeah and or making out in
-the back of a car and you know it all depends it's a personal person between
-like sex a sex act I qualify anything as a sex act as asexual encounter anything
-with the intention of having that kind of sexual passion associated with it yeah
-um and so like there there is a lot of um explaining what I have to do um and
-usually I get ghosted after that because it's like because I can see where
-they're coming where guys are coming from in that case because it's like oh
-you're suddenly getting cold feet and you need an out [Music] um and that's kind
-of how I get that kind of out feeling sometimes yeah like people would could
-look at that as you know that you're really just looking that you're oh what's
-the term screening no maybe something like that but it's there's a specific term
-for it for you know people who are just you know they just want to you know
-cyber and yeah that's it they'll lead you on for weeks and weeks and weeks I I
-have done that um because like sometimes I need like a bonk I could go like bad
-well listen what that is is I'm never dishonest about it I sort of upfront and I
-say like I I'm not really interested in meeting up um but I love doing cyber I
-love talking to people and regardless of that there is still an ongoing
-expectation that oh we're gonna meet up eventually he's just saying he's not
-into meeting people so he he can bypass all of the undesirable oops I'll bypass
-all the undesirable gays um and when I was kind of coming of age on gay data
-that isn't that's the first I've heard about that just today the screening
-process yeah whenever people that will put on the that kind of asexual-esque
-gaze to kind of screen out the ones they're really not doing because like you
-know when I was kind of coming of age on Grindr it was a big thing to sort of
-say not into meeting up not into hooking up um and I like that because like
-sometimes I wasn't but then sometimes I was and I would find the right
-personally realized oh people are doing this maliciously yeah they are doing
-this to screen out people who are not physically attractive they're not they're
-not physically attracted to um and so when you did get that kind of good
-chemistry regardless of whether you wanted to meet or not the other person would
-have that expectation because it's like oh I passed the screening process yeah
-so when you would kind of when it would become a became apparent that you
-weren't really as into hookup culture as they wanted to be or thought you would
-be they kind of just abandoned you um and when you were up front and you said
-like I'm not really into meeting up I just want to talk um I think they got the
-Vibes that I was just consistently going to be putting them off yeah or that
-they would eventually pass the test one day and you know would get to do the
-physical stuff but it took me a long time to sort of be comfortable with like
-being not as intimately sexual with people yeah um and I kind of for the sake of
-being polite I forced myself into a lot of kind of hookups that I wasn't really
-that interested in or that I knew I wasn't going to have a fun time from the
-beginning uh not that there was any consent problems it's just that I wasn't
-really into it and I was kind of like it was kind of like you know laying there
-like a fish yeah it seems like from the asexual people that I've talked to that
-it's it's like a second coming out process that you know you kind of spend your
-teenage years figuring out if you're getting because you think you have to be
-hypersexual because that's the kind of depiction especially with the gay guy
-yeah that's kind of like we have kind of the the culture the gay culture has
-really up until very recently when it was kind of the gay culture has become two
-dads and a kid in the suburbs that it was circuit parties and you know ecstasy
-and stuff like that that gay culture was the height and the the the absolute
-peak of sexuality or that regard even if you are so how can you be gay and
-asexual even if you are that kind of monogamous kind of person like when like
-you know watch any gay drama like uh Elite is it Elites or Elite uh that's not
-just gay that's gay and straight no I know I know but like very hypersexual when
-you were when you did get a permanent you know boyfriend you would kind of when
-the door is closed oof that's when the heat would hit like it's like okay now we
-need to you know the sweat needs to start pouring off us and yeah and it needs
-to be a porno film yeah um and if it's anything less then we're doing it wrong
-yeah especially when when you're gay the only when you're specifically attracted
-a man attracted to men or you know um then it's very much that is your early
-exposure to gayness there's not a whole lot of you know like kids movies with a
-you know child there's no Little Rascals for gay people or there's a childhood
-romance it's like you you watch the kind of raunchy gay movies a little bit
-earlier because you're much more Curious than yeah so that's kind of you know
-you're hypersexual like you and Queer as Folk yeah like I uh Queer as Folk was
-really my first um not my first exposure to gay people but it was certainly the
-most so like you know you you young little Gaby comes of age and yeah like and
-if they're exposure to oh this is how I beat gray as an adult yeah that this is
-what gayness as is as an adult this is what gayness is in high school yeah even
-but the the the other side of that is this kind of and that you have that and
-that conflicts with the perception of asexuality yeah which is the doesn't have
-sex and in media uh this is very often the case and a lot of asexual people are
-kind of upset by this um asexuality is represented by robots aliens and autistic
-people yeah um and as it happens a lot rarely confirmed in any of those cases um
-a lot of or completely unconfirmed and just not acknowledged like with Elsa yeah
-um in a lot of those cases like asexual people don't really like that because we
-can be incredibly vibrant colorful zany people uh well yeah I don't know any
-asexual people who are like and even Sheldon or data I think that's uh David was
-snarky though I've never seen Star Trek I'm just going by YouTube clips when I
-was young my mom said that I was a carbon copy of data uh I always loved the
-character because my mom had Star Trek Online a lot when I was younger and like
-I think that's a discredited to autistic people too I identify as somewhere on
-the Spectrum I don't know what but uh because like autistic people can be
-incredibly hypersexual and that's perfectly fine too and so like kind of
-pigeonholing these identities together because you know this privilege writer of
-privilege this creator of privilege has this one experiment experience with this
-one person thinks oh this one this must be what it likes it's like for everyone
-so those are two very conflicting public perceptions of what these identities
-ought to be yeah and when you put them together it's what do you get like people
-just don't believe you um you have no idea how many times I've gotten um like I
-said I'm asexual and then kind of get the retort oh you just have them with the
-right person oh I I absolutely believe that um that's I've seen that in so many
-different conversations and podcasts and whatnot people kind of talking about
-you know I'll tell someone I'm asexual and it's just oh you just haven't met the
-right guy yet um and and it's the same with um it's the same kind of thing with
-women who say like I never want to get married and it's you just haven't met the
-right guy yet or I never want to have a kid yeah I was just like all your chain
-you'll change your mind change your mind yeah once it happens you'll change your
-mind kind of thing um and so that seems to be a that seems to be a societal
-thing that if you're anywhere outside of the societal Norm which is very
-restrictive like I said even a woman who doesn't want to get married is outside
-the societal Norm yeah that's something Society kind of says to you like just
-wait you'll get that's something that I was really trying to push in the um the
-video about Black Swan yeah kind of the concept of okay you're not here to
-procreate what are you here for which if we haven't watched that video yet go
-watch it I I was really happy with how that came together I wear costumes you
-wanted to do that for so long you finally got to I read a script with no glasses
-and I am blind without these glasses um and and so it's really just hard to get
-across the the weird little nuances uh yes I want to meet people I'd like to
-have these experiences but like I want to have them my way I want to have them
-in a way that I'm I'm going to enjoy and it's like I'm also not opposed to
-negotiation like yeah but then when you kind of say and this is the thing about
-asexuality some people some asexuals are like I do not like sex I don't want to
-have it it does not feel good I hate it and other people are like I could take
-it or leave it yeah and that's that's what I was going to say is that when you
-do kind of put it on the table that like I don't really like sex very much but
-with the right person you know I will you know lower my boundaries and I'll do
-it which kind of poses the question how are you asexual enough which we will get
-to after the break okay so after a break and a camera and microphone meltdown
-we're back uh so yeah posing the question how asexual is enough uh that's a
+## Segment 3
+
+<compare>
+<james {% include timecode %}>
+
+Okay, so after a break, and a camera and microphone meltdown... we're back!
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+
+</james>
+</compare> 
+
+23:04
+
+
+
+ uh so yeah posing the question how asexual is enough uh that's a
 really really really you had glasses on it's a really good question I did I
 guess it doesn't matter magically disappeared okay um between the two of us I
 don't need glasses to read the loveliness of shooting with three cameras and an
