@@ -9,6 +9,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220417+iI5ytm_bFl8+The+Secret+Crimes+of+a+Dying+Franchise.webm"
 description: "a short video essay on how The Crimes of Grindlewald was bad."
+notes:
+  - script-diff
 
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"

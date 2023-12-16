@@ -276,6 +276,15 @@ section.footnotes::before {
 	}
 }
 
+q::before { content: none; }
+q::after { content: none; }
+q {
+	margin: 0;
+    border-left: 0.25em solid var(--color-border-default);
+    border-right: 0.25em solid var(--color-border-default);
+	background-color: var(--color-canvas-subtle);
+}
+
 from.color-hbomb { border-color: hsl(59, 100%, 30%); }
 from.color-hbomb mark { background-color: hsla(59, 100%, 30%, 0.30) !important; }
 from.color-todd { border-color: hsl(0, 75%, 40%); }
