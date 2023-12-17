@@ -22,9 +22,15 @@ contributors:
 
 cite:
   clips: !!map
+  misinformation: !!map
+    fab_quote: "See [^fab-quote]"
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
+    hollywood_reporter: { color: 3, short: "Disney on FL Law (Masters, 2022)", full: "Masters, K. (2022, Mar 2). <em>Why Disney Won’t Say Much About Florida’s “Don’t Say Gay” Bill</em> [News article]. The Hollywood Reporter. Retrieved December 17, 2023, from", url: "https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/" }
+    npr_article: { color: 4, short: "Trans in TX (Torchinsky, 2022)", full: "Torchinsky, R. (2022, Feb 25). <em>In Texas, an unrelenting assault on trans rights is taking a mental toll</em> [News article]. NPR. Retrieved December 17, 2023, from", url: "https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas" }
+    msnbc_walkouts_article: { color: 5, short: "FL School Walkouts (Lavietes, 2022)", full: "Lavietes, M. (2022, Mar 3). <em>Florida students stage school walkouts over 'Don't Say Gay' bill</em> [News article]. NBC News. Retrieved December 17, 2023, from", url: "https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-students-stage-school-walkouts-dont-say-gay-bill-rcna18600" }
+    indie_wire_article: { color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/" }
 ---
 {% assign timecode = "0:00" %}
 
@@ -165,6 +171,7 @@ Yes he said “all those basic stuff”
 <clip> <!-- Peacock logo at the bottom right, so new channel. -->
 
 \[President George W Bush at a podium]: "Our-- Is our children learning?"
+{% assign timecode = "5:45" %}
 
 </clip>
 </compare>
@@ -194,15 +201,29 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 Side note: it’s been theorized that Igre<sup class="add">[sic: Iger]</sup> intends on running for president as a democrat in the near future so he doesn’t want to get on the bad side of any gays right now. And this is true to form for democrats who use social outrage to signal that they’re on the right side of history. Whereas if Iger actually wanted to make a *difference*, there is a lot he could do that would be more substantial than tweeting the equivalent of ‘that goes for me, but double.’ Like… spend some of his hundreds of millions of dollars on supporting young LGBTQ people he’s so worried about. 
 
 But here’s the rub. Bob Chapek, the *current* CEO and Chairman of Disney said *nothing*. The only thing that came out with his name even *associated* with it was that milk toast non-statement I read at the beginning of the video. You see, Chapek’s been busy putting his own stamp on Disney corporate culture, and is clearly less willing than even Igre<sup class="add">[sic: Iger]</sup> to advocate for, you know, human rights causes. 
-
-For example, The Hollywood Reporter… reported that a knowledgeable source at Disney has said that Chapek balked at the idea of weighing in on <span class="del">even</span> fighting over <span class="add">even</span> voting rights in Florida. Quote: 
-
-> “Chapek is staunchly opposed to bringing Disney into issues he deems irrelevant to the company and its businesses,” 
-
-this anonymous person said. 
+{% assign timecode = "7:25" %}
 
 </james>
 <from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+For example, The Hollywood Reporter… reported that <mark>a knowledgeable source</mark> at Disney has said that <mark>Chapek balked at the idea of weighing in on</mark> <span class="del">even</span> fighting over <span class="add">even</span> <mark>voting rights</mark> in Florida. Quote: 
+
+> “Chapek is staunchly opposed to bringing Disney into issues he deems irrelevant to the company and its businesses,” 
+
+<mark>this anonymous person said.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶4" %}>
+
+These suggestions overlook the fact that Iger had exited Disney at the end of December, as well as the reality that his relationship with Chapek had clearly become strained after Iger took the title of chairman emeritus and Chapek became CEO in February 2020. More importantly, Chapek is busy putting his own stamp on Disney company culture, and clearly he will be less willing to wade into advocacy than Iger. For example, <mark>a knowledgeable source</mark> says <mark>Chapek balked at a proposal to weigh in on</mark> <mark>voting rights</mark>.
+
+Chapek is private about his politics but is believed to be much more conservative than Iger, who was a registered Democrat before becoming an independent in 2016. <mark>“Chapek is staunchly opposed to bringing Disney into issues he deems irrelevant to the company and its businesses,” this person says.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -212,37 +233,73 @@ Which is a massive problem because Disney brings a lot, and I mean A LOT of mone
 
 They did that when Georgia was messing around with these kinds of bills, since most Disney movies are now shot in Atlanta, and the state backtracked on its own hateful political agenda real fast. 
 
-According to a source familiar with both Iger’s and Chapek’s leadership thought process, Iger tended to speak out NOT only when issues affected the company’s business interests but when they affected its employees, now numbering nearly 200,000. But this person says Chapek has taken a narrower view and has been concerned that Disney might be viewed as too liberal. 
+</james>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶7" %}>
+
+During his years at Disney, Iger chose his battles and his words. But he weighed in on some hot-button issues. In 2019, he told Reuters that if Georgia passed a controversial “heartbeat bill” that sought to ban abortions about six weeks into pregnancy, it would be “very difficult” for Disney to continue to film productions in the state. “I think many people who work for us will not want to work there, and we will have to heed their wishes in that regard,” he said. (The Georgia bill was signed into law but has been tied up in court battles since.)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>According to a source familiar with both Iger’s and Chapek’s</mark> leadership <mark>thought</mark> process, <mark>Iger tended to speak out NOT only when issues affected the company’s business interests but when they affected its employees, now numbering nearly 200,000. But this person says Chapek has taken a narrower view and has been concerned that Disney might be viewed as too liberal.</mark> 
 
 HAH! (That might be funny if it wasn’t so terrifying. Welcome to the tagline of 2022!)
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶9" %}>
+
+<mark>According to a source familiar with both Iger’s and Chapek’s</mark> <mark>thinking</mark>, <mark>Iger tended to speak out not only when issues affected the company’s business interests but when they affected its employees, now numbering about 195,000. But this person says Chapek has taken a narrower view and has been concerned that Disney might be viewed as too liberal.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. Disney’s chief diversity officer sent a message to staff on March 2 referencing <q>“deeply troubling and heartbreaking”</q> developments in the news, noting that Chapek had asked <q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q> 
+Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. <mark>Disney’s chief diversity officer sent a message to staff on March 2 referencing</mark> <q>“deeply troubling and heartbreaking”</q> <mark>developments in the news, noting that Chapek had asked </mark><q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q>
 
-She went on to say that the company would schedule “Reimagine Tomorrow,” <q>conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q> and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
+She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q>conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
 
-Disney has 77,000 employees in Florida alone, where it operates both parks and cruise lines. Pre-COVID, Disney Parks accounted for more than one-third of all company revenue. In 2021, when still contending with the pandemic, the division brought in $16.5 billion in revenue. In 2019, its last full year pre-COVID, it brought in $26.2 billion. 
+[^fab-quote]: Despite this "quote" being shown on screen, it's not a real quote. He's basically just quoting his own script at us. Counting this as <span class="misinfo">misinformation</span>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶6" %}>
+
+Chapek appears to want to handle certain controversial topics through internal dialogue. Latondra Newton, <mark>Disney’s chief diversity officer, sent a message to staff on Wednesday referencing “deeply troubling and heartbreaking” developments in the news, noting that Chapek had asked “to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</mark> She said <mark>the company would schedule</mark> a March 22 <mark>“Reimagine Tomorrow”</mark> conversation — part of an ongoing program for Disney staff — that will be dedicated to “issues of concern to our LGBTQ+ colleagues,” and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13 that will be “the first gathering of our employees worldwide to discuss our progress on and plans for improving diversity, equity and inclusion at Disney,” with Chapek participating.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span class="add">The company's website does affirm support for freedom of identity and expression:</span>
+<mark>Disney has 77,000 employees in Florida</mark> alone, <mark>where it operates both parks and cruise</mark> lines. <mark>Pre-COVID, Disney Parks</mark> <mark>accounted for more than one-third of all company revenue</mark>. <mark>In 2021, when still contending with the pandemic, the division brought in $16.5 billion in revenue</mark>. <mark>In 2019, its last full year pre-COVID, it brought in $26.2 billion</mark>. 
+
+<span class="add"><mark>The company’s website</mark> does <mark>affirm support for freedom of identity and expression:</mark></span>
 
 \[Scrolling]:
 
 > “Disney is a leader in LGBTQ workplace equality and content-”
+{% assign timecode = "10:03" %}
+
+</james>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 16" %}>
+
+<mark>Disney has 77,000 employees in Florida</mark>, <mark>where it operates both parks and cruises</mark>. <mark>Pre-COVID, Disney’s Parks</mark>, Experiences and Consumer Products division <mark>accounted for more than one-third of all company revenue</mark>. <mark>In fiscal 2021, when still contending with the pandemic, the division brought in $16.5 billion in revenue</mark> and $471 million in operating income. <mark>In 2019, its last full year pre-COVID, the division had $26.2 billion</mark> in revenue, and operating income of $6.8 billion.
+
+Though Disney declined to comment on the Florida legislation, <mark>the company’s website</mark> <mark>affirms support for freedom of identity and expression:</mark> <mark>“Disney is a leader in LGBTQ workplace equality and content</mark> and is committed to inclusive workplaces, and supports welcoming environments in local communities.” Its philanthropic record over the years includes support of LGBTQ+ organizations such as Human Rights Campaign, GLAAD, GLSEN, Trevor Project and Outfest, among others. Disney started offering benefits to partners of LGBTQ employees in 1996 and three years later launched the first Disney Pride group.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 [James cuts off the quote.] Content? A leader in LGBTQ content? Well that’s… news… Have we been looking at the same release schedule, Disney? Like ‘leader’ as in racing ahead of the competition, venturing into uncharted territory, and developing new innovations which inspire others to keep up with you? Because none of those things are going on these days. 
+{% assign timecode = "10:21" %}
 
 </james>
 <from></from>
@@ -280,6 +337,7 @@ But Guess who’s gonna have a rainbow logo during pride month? The answer is ev
 In all this discussion about raising awareness for gay rights, it’s like everyone stopped listening after the ‘awareness’ part. A whole lot of good awareness does when it comes to laws that *explicitly* target us — and now our parents. The ones who actually care about us! Because the lawmakers are sure AWARE we exist now! 
 
 And Florida is not alone in this renewed crusade against queer kids. Dozens of laws have popped up across the country trying to keep any gender or sexuality confirming language out of schools. Including a widespread book ban that, although took a chainsaw approach, famously banning books like *Maus* from classrooms, also took out any LGBTQ focused or inclusive books they could find as well. 
+{% assign timecode = "12:31" %}
 
 </james>
 <from></from>
@@ -295,7 +353,9 @@ Which, given that medical professionals are — professionally — heald<sup cla
 Where else have you been legally required to report people who are doing things that the dear leader has a personal problem with? You know what? Don’t even answer that. I’m sure I had some specific, totalitarian, authoritarian bureaucrat in mind. But really ‘reporting your neighbors to authorities’ isn’t exactly rare and is something we really should have left in the 20th century with Joseph McCarthy. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.npr_article %}>
+
+</from>
 </compare>
 
 <compare>
@@ -303,7 +363,9 @@ Where else have you been legally required to report people who are doing things 
 
 Now, Adri Pérez, a policy and advocacy strategist at the ACLU, pointed out that neither the letter nor the opinion are legally binding. No one actually has a legal duty to report someone receiving gender-affirming care. 
 
-> "They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR. "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families." 
+> "They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR.[^told-npr] "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families." 
+
+[^told-npr]: "If the source literally didn't say "Perez told NPR" I'm not convinced he would have mentioned what the source for the quote was." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
 
 But the message is crystal clear. Regardless of what call to action may or may not be in a piece of legislation, the state is projecting the message to its citizens that descrimination is acceptable in this instance. And that the state will not prosecute persecution. That, if you believe that Americanness is qualified as adhering to American laws, bigotry is the ‘American’ thing to do. 
 
@@ -328,6 +390,14 @@ Texas proposed more than forty bills in 2021 alone that targeted trans and non-b
 <james {% include timecode %}>
 
 In October 2021, the Texas legislature passed a bill barring transgender girls from playing on girls sports teams, and transgender boys from playing on boys sports teams. The law went into effect in January, making Texas the 10th state to enact similar legislation. 
+{% assign timecode = "15:18" %}
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 So you can see these acts of hatred aren’t going away. But it’s not like there’s been no push back to this. Students across Florida staged school walkouts in response to the Don’t Say Gay bill. While politicians say LGBTQ issues are "not age-appropriate" for the age group, the student vehemently disagreed. Waving rainbow picket signs and shouting “We say gay!” in walkouts across the state. 
 
@@ -338,9 +408,12 @@ said High School senior Jack Petocz, who organized the statewide protests on soc
 > "All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.” 
 
 After the rally, Jack Petocz was called into his principal's office and suspended "indefinitely." 
+{% assign timecode = "16:17" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article %}>
+
+</from>
 </compare>
 
 <compare>
@@ -351,15 +424,21 @@ On Feb. 22, writer Benjamin Siemon, whose résumé includes several Disney credi
 > “I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed.” 
 
 The Republican hard turn into banning the existence of queer kids has actually presented challenges to giant corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations in the state — including Marriott and Dell — condemned Governor Greg Abbott after his anti-trans statements. (though it is of note that Disney is not a part of the Texas Competes group.) 
+{% assign timecode = "17:07" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Scott Maxwell of The Orlando Sentinel wrote recently that Disney donated money to Florida State Senator Dennis Baxley, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> “Don’t Say Gay” legislation, as have Comcast, NBCUniversal, and AT&T. 
+<span class="del">Sam</span><span class="add">Scott</span>[^sam] Maxwell of The Orlando Sentinel[^indie-wire] wrote recently that Disney donated money to Florida State Senator Dennis Baxley, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> “Don’t Say Gay” legislation, as have Comcast, NBCUniversal, and AT&T. 
+
+[^sam]: Says "Sam Maxwell", corrected on screen to "Scott Maxwell"
+[^indie-wire]: "He copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
 
 Baxley also once compared kids who live with same-sex parents to kids raised by alcoholics and abusers and later said, 
 
@@ -368,7 +447,9 @@ Baxley also once compared kids who live with same-sex parents to kids raised by 
 Because although these Republican state senators might be putting children, Disney’s main demographic, in danger, they also tend to keep corporate tax rates low. And which one weighs on the conscience of Disney investors more? The potential trauma and death of queer children? Or the idea of their stock price dropping? 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article %}>
+
+</from>
 </compare>
 
 <compare>
@@ -397,14 +478,15 @@ Abigail Disney also called her family legacy into question after it was revealed
 
 > “I could not be more unhappy with their political activities, both in terms of whom they fund and how they lobby. I would strongly support a law to require all corporations to reveal ALL of their funding and lobbying moves.” 
 
+It’s worth noting that Walt Disney World is located near Orlando, Florida, and the Disney parks recently issued a fifth “key” called “Inclusion” to its Cast Member Training Worldwide. Empty platitudes from a soulless corporation. But they said they won’t be releasing any movies in Russia for the foreseeable future. So at least we know that *war* can bring them to their senses. Though they were pretty okay with Russia arresting and disappearing queer folk for the last twenty years. 
+{% assign timecode = "20:19" %}
+
 </james>
 <from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
-It’s worth noting that Walt Disney World is located near Orlando, Florida, and the Disney parks recently issued a fifth “key” called “Inclusion” to its Cast Member Training Worldwide. Empty platitudes from a soulless corporation. But they said they won’t be releasing any movies in Russia for the foreseeable future. So at least we know that *war* can bring them to their senses. Though they were pretty okay with Russia arresting and disappearing queer folk for the last twenty years. 
 
 The nihilist in me just kinda wants to shrug and say ‘well… can you really expect anything better from a soulless corporation?’ In fact the nihilist in me becomes more and more significant the more this happens. Because every step we take to that whole… be the change you want to see in the world — ends up being a door in the face. It’s easier to keep your head down and move along. Scrape by however you can manage. 
 
@@ -487,6 +569,7 @@ So in spite of the fact that these ‘Don’t Say Gay’ bills may end up being 
 These are laws to embolden people who were already bigoted, or to coerce people who were indifferent. Or maybe who knows? There’s gonna be an anti-queer gestapo with state funding turning up soon. 
 
 This is America. Who knows anymore? 
+{% assign timecode = "27:39" %}
 
 </james>
 <from></from>

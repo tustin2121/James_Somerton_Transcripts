@@ -297,8 +297,8 @@ from.color-3 { border-color: hsl(0, 52%, 32%); }
 from.color-3 mark { background-color: hsla(0, 52%, 32%, 0.30) !important; }
 from.color-4 { border-color: hsl(66, 100%, 50%); }
 from.color-4 mark { background-color: hsla(66, 100%, 50%, 0.30) !important; }
-from.color-5 { border-color: hsl(318, 56%, 32%); }
-from.color-5 mark { background-color: hsla(318, 56%, 32%, 0.30) !important; }
+from.color-5 { border-color: hsl(318, 65%, 49%); }
+from.color-5 mark { background-color: hsla(318, 65%, 49%, 0.30) !important; }
 from.color-6 { border-color: hsl(221, 100%, 50%); }
 from.color-6 mark { background-color: hsla(221, 100%, 50%, 0.30) !important; }
 from.color-7 { border-color: hsl(34, 98%, 34%); }

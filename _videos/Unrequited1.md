@@ -1,7 +1,7 @@
 ---
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
-status: Missing
+status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
