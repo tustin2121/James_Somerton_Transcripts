@@ -24,7 +24,7 @@ cite:
   clips: !!map
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
-    indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10)", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
+    indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
 ---
 {% assign timecode = "0:00" %}
 
@@ -42,7 +42,7 @@ cite:
 <compare>
 <credits>
 
-\[Titles play intercut with posturized monochrome video of Disneyworld, with funky music]
+\[Titles play intercut with posterized monochrome video of Disney World, with funky music]
 
 > James Somerton presents
 
@@ -90,7 +90,7 @@ The Don’t Say Gay Bill is a piece of crap education bill in Florida, the inten
 <mark>Both bills, titled ‘Parental Rights in Education’, ban classroom discussions about sexuality and gender identity in</mark> (quote) <mark>“primary grade levels”</mark>, but <mark>does not specify</mark> exactly what a “primary grade level” is, let alone which <mark>age bracket</mark> it defines. Which is common with other discriminatory bills, that being that they do not necessarily place limits on the scope of what the bill is meant to do. 
 
 </james>
-<from {% include citation for=page.cite.plagerized.free_press_explainer %}>
+<from {% include citation for=page.cite.plagiarized.indian_exp_article %}>
 <h3>What is the ‘Don’t say gay’ legislation?</h3>
 
 The <mark>Florida House Bill 1557 was introduced in the state House of Representatives</mark> last month, <mark>while an identical version, called the Senate Bill 1834,</mark> <mark>advanced in the state Senate</mark> on Tuesday. <mark>Both bills, titled ‘Parental Rights in Education’, ban classroom discussions about sexuality and gender identity in</mark> <mark>“primary grade levels”.</mark> It <mark>does not specify</mark> the <mark>age bracket</mark> for which these rules will apply.
@@ -121,7 +121,7 @@ Descriminatory bills *usually* do not have limits because the governing authorit
 [James on-screen, zoomed in, in red lettering:] “Control… of their children…” 
 
 </james>
-<from {% include citation for=page.cite.plagerized.free_press_explainer %}>
+<from {% include citation for=page.cite.plagiarized.indian_exp_article %}>
 
 <mark>The bills seek to ensure greater rights for parents to decide what their children are exposed to in school. An earlier bill passed by Republicans, known as the ‘Parents’ Bill of Rights’, was meant to give parents the right to “direct the upbringing, education, health care, and mental health”</mark>. However, it was found that most schools were not completely transparent with parents, lawmakers have argued.
 
@@ -141,7 +141,7 @@ he said. Essentially saying that any child whose family can’t afford a progres
 <comment>
 {{ site.tustin.header }}
 
-This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagerized.free_press_explainer.short }}.
+This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagiarized.indian_exp_article.short }}.
 
 </comment>
 </compare>
