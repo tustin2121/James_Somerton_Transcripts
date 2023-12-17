@@ -38,7 +38,7 @@ Okay, now, let’s talk about this train wreck.
 
 This video was released in the wake of his pleading video where he lied to everyone about how he was going to have to close down the channel without more patrons, and a whole bunch of patreons rushed to up their pledges or sign up for patreon, thus giving him more money than he ever needed.
 
-{{ site.tustin_eyewitness }}
+{{ site.tustin.signature }}
 
 </comment>
 </compare>

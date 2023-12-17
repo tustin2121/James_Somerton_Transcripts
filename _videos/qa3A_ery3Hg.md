@@ -17,12 +17,14 @@ notes:
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
   citation: 
-    # - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
+    - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
   formatting: Tustin2121
 
 cite:
   clips: !!map
   plagiarized: !!map
+    #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
+    indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10)", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
 ---
 {% assign timecode = "0:00" %}
 
@@ -83,15 +85,25 @@ That was the Walt Disney company's response when asked what their position is on
 <compare>
 <james {% include timecode %}>
 
-The Don’t Say Gay Bill is a piece of crap education bill in Florida, the intention of which is to outlaw all discussions surrounding sexual orientation and gender identity in schools. Florida House Bill 1557 was introduced in the state House of Representatives in January, while an identical version, called the Senate Bill 1834, (I assume these bills are named after the year each political body thinks we still live in) advanced in the state Senate. 
+The Don’t Say Gay Bill is a piece of crap education bill in Florida, the intention of which is to outlaw all discussions surrounding sexual orientation and gender identity in schools. <mark>Florida House Bill 1557 was introduced in the state House of Representatives</mark> in January, <mark>while an identical version, called the Senate Bill 1834,</mark> (I assume these bills are named after the year each political body thinks we still live in) <mark>advanced in the state Senate</mark>. 
 
-Both bills, titled ‘Parental Rights in Education’, ban classroom discussions about sexuality and gender identity in (quote) “primary grade levels”, but does not specify exactly what a “primary grade level” is, let alone which age bracket it defines. Which is common with other discriminatory bills, that being that they do not necessarily place limits on the scope of what the bill is meant to do. 
+<mark>Both bills, titled ‘Parental Rights in Education’, ban classroom discussions about sexuality and gender identity in</mark> (quote) <mark>“primary grade levels”</mark>, but <mark>does not specify</mark> exactly what a “primary grade level” is, let alone which <mark>age bracket</mark> it defines. Which is common with other discriminatory bills, that being that they do not necessarily place limits on the scope of what the bill is meant to do. 
+
+</james>
+<from {% include citation for=page.cite.plagerized.free_press_explainer %}>
+<h3>What is the ‘Don’t say gay’ legislation?</h3>
+
+The <mark>Florida House Bill 1557 was introduced in the state House of Representatives</mark> last month, <mark>while an identical version, called the Senate Bill 1834,</mark> <mark>advanced in the state Senate</mark> on Tuesday. <mark>Both bills, titled ‘Parental Rights in Education’, ban classroom discussions about sexuality and gender identity in</mark> <mark>“primary grade levels”.</mark> It <mark>does not specify</mark> the <mark>age bracket</mark> for which these rules will apply.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Contrast to a bill about parking regulation, <span class="add">say,</span> which will be three-hundred pages long, include every foreseeable caveat and exception to the bill, and include a thrown-in clause about lawn maintenance in a single cul de sac within one of the signer’s municipal districts. Especially in America, bills are usually *incredibly* specific, because the public and law enforcement (in theory) need to know the limits of their legal authority. 
 
 Descriminatory bills *usually* do not have limits because the governing authorities want to provide as much leeway for further discrimination as possible. It’s less about generating a mandate for civil action and more about removing restrictions on existing bigoted people, and validating their biogtry with political authority. 
-
-The bills seek to ensure greater rights for parents to decide what their children are exposed to in school. An earlier bill passed by Republicans, known as the ‘Parents’ Bill of Rights’, was meant to give parents the right to “direct the upbringing, education, health care, and mental health” of their children. 
 
 </james>
 <from></from>
@@ -100,18 +112,38 @@ The bills seek to ensure greater rights for parents to decide what their childre
 <compare>
 <james {% include timecode %}>
 
-Republican lawmaker Joe Harding, yeah this asshat, who introduced the bill in the state House of Representatives, hopes it will quote: 
+<mark>The bills seek to ensure greater rights for parents to decide what their children are exposed to in school. An earlier bill passed by Republicans, known as the ‘Parents’ Bill of Rights’, was meant to give parents the right to “direct the upbringing, education, health care, and mental health”</mark> of their children. 
+
+<mark>Republican lawmaker Joe Harding</mark>, yeah this asshat, <mark>who introduced the bill in the state House of Representatives, hopes it will</mark> quote: 
 
 > “reinforce the fundamental right of parents to make decisions regarding upbringing and control of their children.” 
 
 [James on-screen, zoomed in, in red lettering:] “Control… of their children…” 
+
+</james>
+<from {% include citation for=page.cite.plagerized.free_press_explainer %}>
+
+<mark>The bills seek to ensure greater rights for parents to decide what their children are exposed to in school. An earlier bill passed by Republicans, known as the ‘Parents’ Bill of Rights’, was meant to give parents the right to “direct the upbringing, education, health care, and mental health”</mark>. However, it was found that most schools were not completely transparent with parents, lawmakers have argued.
+
+<mark>Republican lawmaker Joe Harding</mark>, <mark>who introduced the bill in the state House of Representatives, hopes it will</mark> <mark>“reinforce the fundamental right of parents to make decisions regarding upbringing and control of their children,”</mark> according to the bill’s text.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 > "Creating boundaries at an early age of what is appropriate in our schools, when we are funding our schools, is not hate," 
 
 he said. Essentially saying that any child whose family can’t afford a progressive private school doesn't deserve to learn about anything other than “and when mommy and daddy fell in love, a stork came.” 
 
 </james>
-<from></from>
+<comment>
+{{ site.tustin.header }}
+
+This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagerized.free_press_explainer.short }}.
+
+</comment>
 </compare>
 
 <compare>

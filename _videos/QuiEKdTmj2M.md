@@ -16,7 +16,7 @@ notes:
 cite:
   clips: !!map
   plagiarized: !!map
-    anita_nbc_article: { color: 1, short: "Anita Bryant (Eugenios, 2022)", full: "Eugenios, J. (). (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war</em> [News article]. Retrieved Dec 16, 2023, from", url: "https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215" }
+    anita_nbc_article: { color: 1, short: "Anita Bryant (Eugenios, 2022)", full: "Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from", url: "https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215" }
 ---
 {% assign timecode = "0:00" %}
 
@@ -318,10 +318,22 @@ Advancing the progress of queer rights will not hurt anyone. Advancing the right
 
 And this just happens to be the political landscape we’re currently living in. And because we’re giving airtime to *both* groups, it makes sense that queer rights are losing ground. 
 
-And not to be an alarmist, but we ARE losing ground. Conservatives are successfully banning the existence of queer people from anywhere children exist, and people who have convinced themselves that they’re feminists want to erase the existence of trans people from… well, existence. So for a show to come out directed toward teens and preteens that shows queer characters as, not only human beings, but *normal* human beings… with normal problems. With friends and families who care about them. Gay teens, bisexual teens, trans teens, lesbian teens. This feels like a big deal. 
-
 </james>
 <from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And not to be an alarmist, but we ARE losing ground. <mark>Conservatives are successfully banning the existence of queer people from anywhere children exist</mark>, and people who have convinced themselves that they’re feminists want to erase the existence of trans people from… well, existence. So for a show to come out directed toward teens and preteens that shows queer characters as, not only human beings, but *normal* human beings… with normal problems. With friends and families who care about them. Gay teens, bisexual teens, trans teens, lesbian teens. This feels like a big deal. 
+
+</james>
+<comment>
+{{ site.tustin.header }}
+
+It doesn't look like James plagerized this bit, but it *does* look like James was plagiarized *from*. While spot-checking for more plagiarism, I found [a student-run magazine](https://anyflip.com/bnill/qcrh/basic) which ran an article entitled "The Importance of Heartstopper's Queer Optimism" (pages 18-21). The marked line is how I found that this article (published 2023) copied *from this video* (published 2022). It's a plagiarism centipede!
+
+</comment>
 </compare>
 
 <compare>
@@ -334,6 +346,5 @@ The producers probably didn’t think it would be as big a deal as it is when th
 </james>
 <from></from>
 </compare>
-
 
 Patron credits roll over an upbeat song and occasional *Heartstopper* clips.

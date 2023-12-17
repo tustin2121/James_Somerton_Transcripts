@@ -24,4 +24,6 @@ yt:
     short: "Plagiarism Video (Hbomb, 2023)"
     full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"
-tustin_eyewitness: '<div class="signature">--Tustin2121, former patron of James</div>'
+tustin:
+  - signature: '<div class="signature">--Tustin2121, former patron of James</div>'
+  - header: '<div class="header"><a class="citation" href="#" >Tustin2121</a></div>'
