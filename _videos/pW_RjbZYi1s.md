@@ -1679,3 +1679,29 @@ wife and another man but in that same summer a rare cancer began appearing in
 gay men followed by a cluster of pneumocystis pneumonia cases in San Francisco
 and New York and then gay men across the world began dying and suddenly
 Hollywood's opinion of us didn't matter so much
+
+
+
+---------------
+
+{% comment %}
+
+https://discord.com/channels/224921177532006400/1181019607604133938/1181776983999389746
+
+8:58 PM]Mo: soooo bc i hate myself and don't want to write my thesis i've been going through somerton's video on the lavender scare, which is a special interest of mine
+[8:59 PM]Mo: i've unsurprisingly found a lot of places he's reading from, but one that stood out was this one
+https://www.greatdreams.com/political/communism.html
+a seemingly random blog that my browser (and those of several of my friends) immediately flags as suspicious
+[8:59 PM]Mo: i've also found that he reads from this article by Judith Atkins:
+https://www.archives.gov/publications/prologue/2016/summer/lavender.html
+National Archives
+“These People Are Frightened to Death”
+Congressional Investigations and the Lavender Scare Summer 2016, Vol. 48, No. 2 By Judith Adkins Enlarge On December 15, 1950, the Hoey committee released this report, concluding that homosexuals were "unsuitable for employment in the Federal Government" and constituted "security risks in positions of public trust." (Records of the U.S. Senate, ...
+[9:00 PM]Mo: (i found these through the tried and true method of "simply google the words he's saying")
+
+-----
+
+
+
+
+{% endcomment %}

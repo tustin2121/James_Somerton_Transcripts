@@ -26,6 +26,7 @@ contributors:
     - "[deus-and-the-machina.tumblr.com](https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you) (Direct [link to doc](https://docs.google.com/document/d/1I0zksTwwQJSg7vBvI63rmWg9t1Sckc-T9W03IFYFY_A/edit))"
   citation:
     # - "[/u/Nightfall1409](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kce4olm)"
+    # - "[Vin](https://youtu.be/hY2tHl0M0DA?si=9zOkeLHxCI17rhVg) (via [Discord](https://discord.com/channels/224921177532006400/1181019607604133938/1181509885557493851))"
 
 cite:
   clips: !!map

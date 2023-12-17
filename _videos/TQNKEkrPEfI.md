@@ -14,6 +14,7 @@ notes:
 contributors:
   citation: 
     - "[/u/verilyb](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc4i28h)"
+    - "[augustjune](https://discord.com/channels/224921177532006400/1181019607604133938/1181661918268768367)" # https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history
 
 cite:
   clips: !!map
