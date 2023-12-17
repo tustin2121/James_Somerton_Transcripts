@@ -22,8 +22,9 @@ contributors:
 
 cite:
   clips: !!map
+    bush_learning: { short: "NBC News Clip", full: '"Is our children learning?" clip pulled from the following video: ', url: "https://www.youtube.com/watch?v=-ej7ZEnjSeA" }
   misinformation: !!map
-    fab_quote: "James presents a fabricated quote on-screen."
+    fab_quote: "James presents a <a href='#fab-quote-loc'>fabricated quote</a> on-screen."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -168,7 +169,7 @@ Yes he said “all those basic stuff”
 </compare>
 
 <compare>
-<clip> <!-- Peacock logo at the bottom right, so new channel. -->
+<clip {% include citation for=page.cite.clips.bush_learning %}> <!-- Peacock logo at the bottom right, so news channel. -->
 
 \[President George W Bush at a podium]: "Our-- Is our children learning?"
 {% assign timecode = "5:45" %}
@@ -217,7 +218,7 @@ For example, The Hollywood Reporter… reported that <mark>a knowledgeable sourc
 <mark>this anonymous person said.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶4" %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 4" %}>
 
 These suggestions overlook the fact that Iger had exited Disney at the end of December, as well as the reality that his relationship with Chapek had clearly become strained after Iger took the title of chairman emeritus and Chapek became CEO in February 2020. More importantly, Chapek is busy putting his own stamp on Disney company culture, and clearly he will be less willing to wade into advocacy than Iger. For example, <mark>a knowledgeable source</mark> says <mark>Chapek balked at a proposal to weigh in on</mark> <mark>voting rights</mark>.
 
@@ -234,7 +235,7 @@ Which is a massive problem because Disney brings a lot, and I mean A LOT of mone
 They did that when Georgia was messing around with these kinds of bills, since most Disney movies are now shot in Atlanta, and the state backtracked on its own hateful political agenda real fast. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶7" %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 7" %}>
 
 During his years at Disney, Iger chose his battles and his words. But he weighed in on some hot-button issues. In 2019, he told Reuters that if Georgia passed a controversial “heartbeat bill” that sought to ban abortions about six weeks into pregnancy, it would be “very difficult” for Disney to continue to film productions in the state. “I think many people who work for us will not want to work there, and we will have to heed their wishes in that regard,” he said. (The Georgia bill was signed into law but has been tied up in court battles since.)
 
@@ -249,7 +250,7 @@ During his years at Disney, Iger chose his battles and his words. But he weighed
 HAH! (That might be funny if it wasn’t so terrifying. Welcome to the tagline of 2022!)
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶9" %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 9" %}>
 
 <mark>According to a source familiar with both Iger’s and Chapek’s</mark> <mark>thinking</mark>, <mark>Iger tended to speak out not only when issues affected the company’s business interests but when they affected its employees, now numbering about 195,000. But this person says Chapek has taken a narrower view and has been concerned that Disney might be viewed as too liberal.</mark>
 
@@ -261,12 +262,12 @@ HAH! (That might be funny if it wasn’t so terrifying. Welcome to the tagline o
 
 Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. <mark>Disney’s chief diversity officer sent a message to staff on March 2 referencing</mark> <q>“deeply troubling and heartbreaking”</q> <mark>developments in the news, noting that Chapek had asked </mark><q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q>
 
-She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q>conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
+She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q id="fab-quote-loc">conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
 
 [^fab-quote]: Despite this "quote" being shown on screen, it's not a real quote. He's basically just quoting his own script at us. Counting this as <span class="misinfo">misinformation</span>.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶6" %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 6" %}>
 
 Chapek appears to want to handle certain controversial topics through internal dialogue. Latondra Newton, <mark>Disney’s chief diversity officer, sent a message to staff on Wednesday referencing “deeply troubling and heartbreaking” developments in the news, noting that Chapek had asked “to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</mark> She said <mark>the company would schedule</mark> a March 22 <mark>“Reimagine Tomorrow”</mark> conversation — part of an ongoing program for Disney staff — that will be dedicated to “issues of concern to our LGBTQ+ colleagues,” and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13 that will be “the first gathering of our employees worldwide to discuss our progress on and plans for improving diversity, equity and inclusion at Disney,” with Chapek participating.
 
@@ -346,72 +347,59 @@ And Florida is not alone in this renewed crusade against queer kids. Dozens of l
 <compare>
 <james {% include timecode %}>
 
-Texas is where the real ire has been pointed recently. Attorney General Ken Paxton issued an opinion that likened gender-affirming care for minors to child abuse. Days later, Governor Greg Abbott doubled down with a letter calling on professionals, including teachers and doctors, to report *parents* who give their children gender-affirming care. The letter added that there would be similar reporting requirements for the general public, and consequences for those who don't report. 
+Texas is where the real ire has been pointed recently. <mark>Attorney General Ken Paxton</mark> <mark>issued an opinion that likened gender-affirming</mark> care for minors <mark>to child abuse</mark>. <mark>Days later, Governor Greg Abbott doubled down with a letter calling on professionals, including teachers and doctors, to report *parents* who give their children gender-affirming care. The letter added that there would be similar reporting requirements for the general public, and consequences for those who don't report.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.npr_article at="¶ 3" %}>
+
+Anti-trans rhetoric in Texas has grown louder in the past few weeks. <mark>Attorney General Ken Paxton</mark> — who broke bread with Briggle's family years back — <mark>issued an opinion that likened gender-affirming</mark> surgery — a procedure that gives transgender people a body that aligns with their gender identity — <mark>to child abuse</mark>.
+
+<mark>Days later, Gov. Greg Abbott doubled down with a letter calling on professionals, including teachers and doctors, to report parents who give their children gender-affirming care. The letter added that there would be similar reporting requirements for the general public, and consequences for those who don't report.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Which, given that medical professionals are — professionally — heald<sup class="add">[sic: held]</sup> to confidentiality, even in instances where someone has been murdered, these lawmakers seem to be asking doctors to choose between their medical licence and fines or prison. 
 
 Where else have you been legally required to report people who are doing things that the dear leader has a personal problem with? You know what? Don’t even answer that. I’m sure I had some specific, totalitarian, authoritarian bureaucrat in mind. But really ‘reporting your neighbors to authorities’ isn’t exactly rare and is something we really should have left in the 20th century with Joseph McCarthy. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.npr_article %}>
-
-</from>
+<from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Now, Adri Pérez, a policy and advocacy strategist at the ACLU, pointed out that neither the letter nor the opinion are legally binding. No one actually has a legal duty to report someone receiving gender-affirming care. 
+Now, <mark>Adri Pérez, a policy and advocacy strategist at the ACLU</mark>, pointed out <mark>that neither the letter nor the opinion are legally binding. No one</mark> actually <mark>has a legal duty to report someone receiving gender-affirming care</mark>. 
 
 > "They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR.[^told-npr] "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families." 
 
 [^told-npr]: "If the source literally didn't say "Perez told NPR" I'm not convinced he would have mentioned what the source for the quote was." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
 
-But the message is crystal clear. Regardless of what call to action may or may not be in a piece of legislation, the state is projecting the message to its citizens that descrimination is acceptable in this instance. And that the state will not prosecute persecution. That, if you believe that Americanness is qualified as adhering to American laws, bigotry is the ‘American’ thing to do. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
+<mark>But the message is crystal clear</mark>. Regardless of what call to action may or may not be in a piece of legislation, the state is projecting the message to its citizens that descrimination<sup class="add">[sic: discrimination]</sup> is acceptable in this instance. And that the state will not prosecute persecution. That, if you believe that Americanness is qualified as adhering to American laws, bigotry is the ‘American’ thing to do. 
 
 Emmett Schelling, the executive director of the Transgender Education Network of Texas said: 
 
 > "The state leadership has said, 'We would rather see dead children ... instead of happy, loved, supported, thriving trans <span class="del">kids</span><span class="add">children</span> that are alive and well." 
 
-Texas proposed more than forty bills in 2021 alone that targeted trans and non-binary youth in the state. As if a bunch of queer minors are the most dangerous threat to American national security right now. Or ever. But especially right now especially. 
+Texas <mark>proposed more than forty bills in 2021 alone that targeted trans and non-binary youth</mark> in the state. As if a bunch of queer minors are the most dangerous threat to American national security right now. Or ever. But especially right now especially. 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.npr_article at="¶ 3" %}>
+<h3>The letter and the opinion don't hold legal ground, ACLU says</h3>
 
-<compare>
-<james {% include timecode %}>
+But <mark>Adri Pérez, a policy and advocacy strategist at the ACLU</mark> of Texas, emphasized <mark>that neither the letter nor the opinion are legally binding. No one</mark> <mark>has a legal duty to report someone receiving gender-affirming care</mark>, they added.
 
-In October 2021, the Texas legislature passed a bill barring transgender girls from playing on girls sports teams, and transgender boys from playing on boys sports teams. The law went into effect in January, making Texas the 10th state to enact similar legislation. 
-{% assign timecode = "15:18" %}
+<mark>"They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR. "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families."</mark>
 
-</james>
-<from></from>
-</compare>
+<mark>But the message is clear</mark>, said Emmett Schelling, the executive director of the Transgender Education Network of Texas.
 
-<compare>
-<james {% include timecode %}>
+<mark>"The state leadership has said, 'We would rather see dead children ... instead of happy, loved, supported, thriving trans kids that are alive and well,' "</mark> Schelling told NPR.
 
-So you can see these acts of hatred aren’t going away. But it’s not like there’s been no push back to this. Students across Florida staged school walkouts in response to the Don’t Say Gay bill. While politicians say LGBTQ issues are "not age-appropriate" for the age group, the student vehemently disagreed. Waving rainbow picket signs and shouting “We say gay!” in walkouts across the state. 
-
-> "The language and the supporters of the bill and the rhetoric around the bill really shows what this bill is, and it's an attempt to hurt queer people like me," 
-
-said High School senior Jack Petocz, who organized the statewide protests on social media. In response to the rally Bryan Griffin, DeSantis’ deputy press secretary, said in an email: 
-
-> "All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.” 
-
-After the rally, Jack Petocz was called into his principal's office and suspended "indefinitely." 
-{% assign timecode = "16:17" %}
-
-</james>
-<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article %}>
+Texas, among other states, has seen lawmakers propose dozens of anti-LGBTQ bills.<mark> More than 40 proposed bills in Texas targeted trans and nonbinary youth in 2021.</mark>
 
 </from>
 </compare>
@@ -419,28 +407,129 @@ After the rally, Jack Petocz was called into his principal's office and suspende
 <compare>
 <james {% include timecode %}>
 
-On Feb. 22, writer Benjamin Siemon, whose résumé includes several Disney credits like Ducktales, took to Twitter to call out the studio for not taking a stance on the Florida legislation. 
+<mark>In October</mark> 2021, <mark>the Texas legislature passed a bill barring transgender girls from playing on girls sports teams, and transgender boys from playing on boys sports teams. The law went into effect in January, making Texas the 10th state to enact similar legislation.</mark> 
+{% assign timecode = "15:18" %}
+
+</james>
+<from>
+<h3>The bills take a toll on the mental health of trans kids</h3>
+
+<mark>In October</mark>, <mark>the Texas legislature passed a bill barring transgender girls from playing on girls sports teams and transgender boys from playing on boys sports team. The law went into effect in January, making Texas the 10th state to enact similar legislation.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So you can see these acts of hatred aren’t going away. But it’s not like there’s been no push back to this. <mark>Students across Florida staged school walkouts in response to</mark> the Don’t Say Gay bill. While politicians <mark>say LGBTQ issues are "not age-appropriate" for the age group</mark>, the student vehemently disagreed. <mark>Waving rainbow picket signs and shouting “We say gay!” in walkouts across the state</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 1" %}>
+
+<mark>Students across Florida staged school walkouts in response to</mark> legislation — dubbed the "Don't Say Gay" bill — that would prohibit discussing sexual orientation and gender identity in the state’s primary schools.
+
+Proponents of the measure, which is officially titled the Parents Education Rights bill, have contended that it would give parents more discretion over what their children can learn in school, and they <mark>say LGBTQ issues are "not age-appropriate" for the age group</mark>.
+
+Students <mark>waving rainbow picket signs and shouting “We say gay!” in walkouts across the state</mark> — in Tampa, Orlando, Tallahassee and other cities — rejected the assertions.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+> "The language and the supporters of the bill and the rhetoric around the bill really shows what this bill is, and it's an attempt to hurt queer people like me," 
+
+said <mark>High School senior Jack Petocz, who organized the statewide protests on social media</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 4" %}>
+
+<mark>"The language and the supporters of the bill and the rhetoric around the bill really shows what this bill is, and it's an attempt to hurt queer people like me,"</mark> said Flagler Palm Coast <mark>High School senior Jack Petocz, who organized the statewide protests on social media</mark> and led his school's protest in Palm Coast.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary, said in an email</mark>: 
+
+> "All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.” 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 21" %}>
+
+<mark>Bryan Griffin, DeSantis’ deputy press secretary, said in an email</mark>: <mark>"All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.</mark> This particular bill is about parents, and Governor DeSantis supports parents’ rights. Parents should know what their kids are learning, and parents should know if and what services their children are receiving at schools."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>After the rally, Jack Petocz was called into his principal's office and suspended "indefinitely." </mark>
+{% assign timecode = "16:17" %}
+
+</james>
+<from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 5" %}>
+
+<mark>After the rally, Petocz said he was called into his principal's office and suspended "indefinitely."</mark> Petocz said he was punished for distributing 200 pride flags for the rally after having been advised not to do so by the principal.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>On Feb. 22, writer Benjamin Siemon, whose</mark> <mark>résumé includes several Disney credits like Ducktales</mark>, <mark>took to Twitter to call out the studio for not taking a stance on the Florida legislation.</mark> 
 
 > “I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed.” 
 
-The Republican hard turn into banning the existence of queer kids has actually presented challenges to giant corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations in the state — including Marriott and Dell — condemned Governor Greg Abbott after his anti-trans statements. (though it is of note that Disney is not a part of the Texas Competes group.) 
 {% assign timecode = "17:07" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
 
+<mark>On Feb. 22, writer Benjamin Siemon, whose</mark> extensive <mark>résumé includes several Disney credits like Ducktales</mark> and the podcast This Duckburg Life, <mark>took to Twitter to call out the studio for not taking a stance on the Florida legislation.</mark> <mark>“I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed,”</mark> he shared with his 18,900 followers.
+
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span class="del">Sam</span><span class="add">Scott</span>[^sam] Maxwell of The Orlando Sentinel[^indie-wire] wrote recently that Disney donated money to Florida State Senator Dennis Baxley, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> “Don’t Say Gay” legislation, as have Comcast, NBCUniversal, and AT&T. 
+<mark>The Republican hard turn</mark> into banning the existence of queer kids has actually <mark>presented challenges to giant corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations</mark> <mark>in the state — including Marriott and Dell — condemned Governor Greg Abbott after</mark> his anti-trans statements. (Though it is of note that <mark>Disney is not a part of the Texas Competes group</mark>.) 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+
+<mark>The GOP’s sharp rightward turn</mark> has <mark>presented challenges to major corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations</mark> with business interests<mark> in that state — including Marriott and Dell — condemned Gov. Greg Abbott after</mark> he likened gender-affirming care to child abuse in a recent letter to the state’s Department of Family and Protective Services. (<mark>Disney is not part of the group</mark>.) The ACLU is currently suing to block the state from investigating parents of trans youth.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<span class="del">Sam</span><span class="add">Scott</span>[^sam] Maxwell of <mark>The Orlando Sentinel</mark>[^indie-wire] <mark>wrote recently that Disney donated money to Florida State Senator Dennis Baxley</mark>, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> <mark>“Don’t Say Gay” legislation, as have Comcast, NBCUniversal</mark>, and <mark>AT&T</mark>. 
 
 [^sam]: Says "Sam Maxwell", corrected on screen to "Scott Maxwell"
 [^indie-wire]: "He copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
 
-Baxley also once compared kids who live with same-sex parents to kids raised by alcoholics and abusers and later said, 
+</james>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+
+<mark>The Orlando Sentinel's</mark> Scott Maxwell <mark>wrote recently that Disney cut checks to Florida State Sen. Dennis Baxley</mark> and other backers of the <mark>“Don’t Say Gay” legislation, as have Comcast, NBCUniversal</mark>, Charter Communications and <mark>AT&T</mark>. “Let’s be clear: These companies have every right to donate to whomever they want. But you also have a right to know about it — and to know that, in other states, businesses have used the political power they purchase to effectively neuter culture wars.” (Disney has also contributed to legislators who oppose the bill.)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Baxley also <mark>once compared kids who live with same-sex parents to kids raised by alcoholics and abusers and later said</mark>, 
 
 > “I’m not phobic, but I simply can’t affirm homosexuality.” 
 
@@ -448,6 +537,10 @@ Because although these Republican state senators might be putting children, Disn
 
 </james>
 <from {% include citation for=page.cite.plagiarized.indie_wire_article %}>
+
+As the Orlando Sentinel stated, the bill’s Senate sponsor, Ocala Republican Dennis Baxley, has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children.
+
+Additionally, Baxley “<mark>once compared kids who live with same-sex parents to kids raised by alcoholics and abusers and later said</mark>, <mark>‘I’m not phobic, but I simply can’t affirm homosexuality.'”</mark>
 
 </from>
 </compare>
@@ -466,13 +559,33 @@ I can say that all we have to do is target Disney’s profits in response to thi
 <compare>
 <james {% include timecode %}>
 
-Florida Democratic State Representative Anna Eskamani said that companies like Walt Disney’s priorities are clear: 
+Florida <mark>Democratic State Representative Anna Eskamani said</mark> <mark>that companies like Walt Disney’s priorities are clear</mark>: 
 
 > “The business lobby seems more focused on securing tax breaks…than living up to their so-called corporate values of inclusivity.” 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
+
+Orlando <mark>Democrat State Rep. Anna Eskamani said</mark> (via the Orlando Sentinel) <mark>that companies like Walt Disney’s priorities are clear</mark>: <mark>“The business lobby seems more focused on securing tax breaks…than living up to their so-called corporate values of inclusivity.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 And all the while Disney stays quiet. Well… all except Abigail Disney. Writing:
 
 > “It’s pretty fundamental. As Einstein said, you can’t stand still on a moving train. When laws are being passed that are this hateful and dripping with prejudice, there is no neutrality. Not saying anything is saying a lot. @WaltDisneyCo get a spine” 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Abigail Disney also called her family legacy into question after it was revealed that the Walt Disney Company donated to the representatives who supported the “Don’t Say Gay” bill. Stating: 
 
@@ -482,7 +595,9 @@ It’s worth noting that Walt Disney World is located near Orlando, Florida, and
 {% assign timecode = "20:19" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
+
+</from>
 </compare>
 
 <compare>
