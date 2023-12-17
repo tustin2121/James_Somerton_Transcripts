@@ -234,11 +234,12 @@ compare from h6 {
 	font-size: smaller;
 }
 .refs::before {
-    content: attr(header);
-    margin-left: -2em;
+	content: attr(header);
+	margin-left: -2em;
+	font-size: larger;
 }
 :target {
-    background-color: rgb(255 255 0 / 15%);
+	background-color: rgb(255 255 0 / 15%);
 }
 
 .transcript-start {

@@ -23,7 +23,7 @@ contributors:
 cite:
   clips: !!map
   misinformation: !!map
-    fab_quote: "See [^fab-quote]"
+    fab_quote: "James presents a fabricated quote on-screen."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }

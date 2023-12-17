@@ -80,13 +80,32 @@
 					</p>
 				{% endif %}
 				
-				{% if page.cite.plagiarized.size > 0 or page.cite.misinformation.size > 0 %}
+				<hr />
+				
+				{% if page.cite.plagiarized.size > 0 -%}
+					{% comment %} It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s): {% endcomment %}
+					<ul class="refs" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
+						{% for item in page.cite.plagiarized %}
+							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
+						{% endfor %}
+					</ul>
+				{% endif %}
+				{% if page.cite.misinformation.size > 0 -%}
+					{% comment %} It is proven that this video has been misinformation from {{ page.cite.misinformation.size }} source(s): {% endcomment %}
+					<ul class="refs" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
+						{% for item in page.cite.misinformation %}
+							<li id="{{ item[0] | slugify }}"> {{ item[1] }} </li>
+						{% endfor %}
+					</ul>
+				{% endif %}
+				
+				{% comment %} {% if page.cite.plagiarized.size > 0 or page.cite.misinformation.size > 0 %}
 					<p>
 						{% if page.cite.plagiarized.size > 0 -%}It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s).{% endif %}
 						{% if page.cite.misinformation.size > 0 -%}This video has {{ page.cite.misinformation.size }} instance(s) of misinformation.{% endif %}
 						See below for details.
 					</p>
-				{% endif %}
+				{% endif %} {% endcomment %}
 			
 				<hr />
 				
@@ -132,13 +151,13 @@
 				
 				{{ content }}
 				
-				{% if page.cite.plagiarized.size > 0 -%}
+				{% comment %} {% if page.cite.plagiarized.size > 0 -%}
 					<ul class="refs" header="References:">
 						{% for item in page.cite.plagiarized %}
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
 						{% endfor %}
 					</ul>
-				{%- endif %}
+				{%- endif %} {% endcomment %}
 				{% if page.cite.clips.size > 0 -%}
 					<ul class="refs" header="Clips used:">
 						{% for item in page.cite.clips %}
