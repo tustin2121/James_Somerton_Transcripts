@@ -596,9 +596,14 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 > “It’s pretty fundamental. As Einstein said, you can’t stand still on a moving train. When laws are being passed that are this hateful and dripping with prejudice, there is no neutrality. Not saying anything is saying a lot. @WaltDisneyCo get a spine” 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
+<comment>
+{{ site.tustin.header }}
 
-</from>
+Sourced from Abigail Disney's tweet (from March 2, 2022): https://twitter.com/abigaildisney/status/1499513391236501507
+
+It's not presented as a tweet, but technically is still a valid citation.
+
+</comment>
 </compare>
 
 <compare>
@@ -768,7 +773,7 @@ Rose Ophelia Shepard
 
 </credits>
 <comment>
-<div class="header"></div>
+{{ site.tustin.header }}
 It's unclear who James is thanking here. Searching this name on Google gives us a YouTube user with zero videos and six subscribers, and a bunch of historic obituaries. 
 
 </comment>
