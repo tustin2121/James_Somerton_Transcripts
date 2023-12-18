@@ -29,6 +29,13 @@
 		],
 		"description": "Surround text with <sup> tags"
 	},
+	"spelling": {
+		"prefix": "spelling",
+		"body": [
+			"$TM_SELECTED_TEXT<sup class\"add\">[sic: $TM_SELECTED_TEXT$1]</sup>"
+		],
+		"description": "Correct spelling on a word in [sic] tag."
+	},
 	"del": {
 		"prefix": "del",
 		"body": [
@@ -49,5 +56,40 @@
 			"<q>$TM_SELECTED_TEXT</q>"
 		],
 		"description": "Surround with inline quote"
+	},
+	
+	"timecode": {
+		"prefix": "timecode",
+		"body": [
+			"{% assign timecode = \"$1\" %}"
+		],
+		"description": "Insert timecode assignment"
+	},
+	"james-block": {
+		"prefix": "james",
+		"body": [
+			"<compare>",
+			"<james {% include timecode %}>",
+			"",
+			"$TM_SELECTED_TEXT$1",
+			"",
+			"</james>".
+			"<from></from>".
+			"</compare>".
+		],
+		"description": "Insert timecode assignment"
+	},
+	"credits-block": {
+		"prefix": "credits",
+		"body": [
+			"<compare>",
+			"<credits {% include timecode %}>",
+			"",
+			"$TM_SELECTED_TEXT$1",
+			"",
+			"</credits>".
+			"</compare>".
+		],
+		"description": "Insert timecode assignment"
 	},
 }

@@ -1,0 +1,6 @@
+{%- comment -%} 
+	expect
+		for = chapter title to slugify
+		at = timecode
+{%- endcomment -%}
+[{{ include.at }}](#{{ include.for | slugify }}) {{ include.for }}

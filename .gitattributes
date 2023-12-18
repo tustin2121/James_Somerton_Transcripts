@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+_includes/* linguist-language=Liquid
+_layouts/* linguist-language=Liquid

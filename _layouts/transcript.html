@@ -50,7 +50,7 @@
 					<p>You can view the archive of this video 
 					{% for link in page.links -%}
 						{%- if forloop.length > 1 and forloop.last == true %} or {% endif -%}
-						{% include archive-link.html link=link short=false %}
+						{% include archive-link link=link short=false %}
 						{%- if forloop.length > 2 and forloop.last == false %}, {% endif -%}
 					{%- endfor -%}
 					</p>
@@ -61,26 +61,27 @@
 				{% if page.contributors %} 
 					<p>
 					{% if page.contributors.transcription and page.contributors.downloaded %}
-						Transcribed by {% include name.html name=page.contributors.transcription -%}.<br/>
-						Transcript downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
+						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
+						Transcript downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
 					{% elsif page.contributors.transcription %}
-						Transcribed by {% include name.html name=page.contributors.transcription -%}.<br/>
+						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
 					{% elsif page.contributors.downloaded %}
-						Auto-transcribed by YouTube, downloaded by {% include name.html name=page.contributors.downloaded -%}.<br/>
+						Auto-transcribed by YouTube, downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
 					{% endif %}
 					{% if page.contributors.formatting %}
-						Formatted by {% include name.html name=page.contributors.formatting -%}.<br/>
+						Formatted by {% include name-list name=page.contributors.formatting -%}.<br/>
 					{% endif %}
 					{% if page.contributors.factcheck %}
-						Fact-checked by {% include name.html name=page.contributors.factcheck -%}.<br/>
+						Fact-checked by {% include name-list name=page.contributors.factcheck -%}.<br/>
 					{% endif %}
 					{% if page.contributors.citation %}
-						Special thanks to {% include name.html name=page.contributors.citation %} for finding the original sources.<br/>
+						Special thanks to {% include name-list name=page.contributors.citation %} for finding the original sources.<br/>
 					{% endif %}
 					</p>
 				{% endif %}
 				
 				<hr />
+				{% assign hr_due = false %}
 				
 				{% if page.cite.plagiarized.size > 0 -%}
 					{% comment %} It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s): {% endcomment %}
@@ -89,6 +90,7 @@
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
 						{% endfor %}
 					</ul>
+					{% assign hr_due = true %}
 				{% endif %}
 				{% if page.cite.misinformation.size > 0 -%}
 					{% comment %} It is proven that this video has been misinformation from {{ page.cite.misinformation.size }} source(s): {% endcomment %}
@@ -97,6 +99,7 @@
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}
 					</ul>
+					{% assign hr_due = true %}
 				{% endif %}
 				
 				{% comment %} {% if page.cite.plagiarized.size > 0 or page.cite.misinformation.size > 0 %}
@@ -106,8 +109,8 @@
 						See below for details.
 					</p>
 				{% endif %} {% endcomment %}
-			
-				<hr />
+				
+				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
 				{%- if page.notes contains "podcast" -%}
 					<compare>
@@ -128,6 +131,7 @@
 							<p>Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place...</p>
 						</comment>
 					</compare>
+					{% assign hr_due = true %}
 				{%- else -%}
 					<compare>
 						<james>
@@ -144,10 +148,16 @@
 							<mark>Plagiarized text is highlighted.</mark></p>
 						</from>
 					</compare>
+					{% assign hr_due = true %}
 				{%- endif -%}
-				<hr />
-				<p>&nbsp;</p>
-				<p class="transcript-start"></p>
+				
+				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
+				
+				{%- unless page.notes contains "custom-start" -%}
+					{% include transcript-start %}
+				{% else %}
+					{% assign hr_due = true %}
+				{%- endunless -%}
 				
 				{{ content }}
 				

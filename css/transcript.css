@@ -140,7 +140,8 @@ compare from, compare comment {
 
 compare from > .header,
 compare comment > .header,
-compare clip > .header 
+compare clip > .header,
+compare credits > .header
 {
 	display: flex;
 	flex-direction: row;
@@ -155,13 +156,9 @@ compare from > .header::before { content: 'Source:'; }
 compare clip > .header::before { content: 'Video Clip:'; }
 compare comment > .header::before { content: 'Comment:'; }
 
-compare credits.opening::before   { content: 'Opening Credits:'; }
-compare credits.closing::before   { content: 'Closing Credits:'; }
-compare credits::before {
-	font-size: unset;
-	color: unset;
-}
-
+compare credits.opening::before { content: 'Opening Credits:'; }
+compare credits.closing::before { content: 'Closing Credits:'; }
+compare credits[header]::before { content: attr(header); }
 
 compare credits blockquote {
 	color: unset !important;

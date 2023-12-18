@@ -18,6 +18,7 @@ description: "a video essay on postmodernism, symbolism, and gender roles; where
 notes: 
   - short-advert
   - unreleased
+  - custom-start
 
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
@@ -39,15 +40,13 @@ cite:
     wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena" }
 ---
 
-## \[Thumbnail]
-
 <compare>
-<james {% include timecode %}>
+<credits header="Video Thumbnail:">
 
 ![](https://64.media.tumblr.com/98dd86356f1ed4b0fe677b95f8e49f13/eabac75539d7bcb8-5c/s1280x1920/e653978dc877aaa2e7172f5e874971e50d72e77b.jpg)
 <!-- ![Alt text](../media/tumblr_98dd86356f1ed4b0fe677b95f8e49f13_e653978d_1280.jpg) -->
 
-</james>
+</credits>
 <from {% include citation for=page.cite.plagiarized.thumbnail %}>
 
 ![](https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg)
@@ -58,13 +57,12 @@ cite:
 </from>
 </compare>
 
-
-## \[Intro]
+{% include transcript-start %}
 
 <compare>
 <james {% include timecode %}>
 
-On Screen: "Health Warning: Flashing lights in some scenes. Because anime."
+\[On Screen]: "Health Warning: Flashing lights in some scenes. Because anime."
 
 This is what happened, more or less. The magical girl trope of anime hit a fever pitch in the 1990s with the international phenomenon of Sailor Moon, which typified the style. Both in homage and parody, these tropes have been recreated by artists ever since and have also become an entire genre in their own right.
 
@@ -287,7 +285,7 @@ The key to these duels are the signet rings, which at present only members of th
 <compare>
 <clip {% include citation for=page.cite.clips.utena %}>
 
-Added by James on screen: "Meanwhile, this was fine."
+\[Added by James on screen]: "Meanwhile, this was fine."
 
 Student council president Touga Kiryuu: "Nanami, you like girls more than boys?"
 
@@ -1074,4 +1072,10 @@ Utena's princely quest is not just to rescue Anthy, but to rescue all the damsel
 <from></from>
 </compare>
 
+<compare>
+<credits class="closing" {% include timecode %}>
+
 Patreon names roll over the ending credits song for Utena's final episode of the English Dub.
+
+</credits>
+</compare>

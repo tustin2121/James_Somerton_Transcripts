@@ -34,6 +34,8 @@ cite:
   plagiarized: !!map
 ---
 
+<!-- Ace Couple podcast 1:17:24 for a note for the opening credits. -->
+
 # Transcript of "How Hollywood was Born Gay"
 Originally released 2023-02-15
 notes:

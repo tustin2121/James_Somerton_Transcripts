@@ -3,7 +3,7 @@
 	<div class="title">
 		<a href="{{ include.video.url | relative_url }}">{{ include.video.title }}</a>
 		{% comment %} {{ include.video.notes }} {% endcomment %}
-		{%- include notes.html notes=include.video.notes -%}
+		{%- include notes notes=include.video.notes -%}
 	</div>
 	<div class="date">{{ include.video.date | date_to_string }}</div>
 	{%- if include.video.aka -%}
@@ -32,7 +32,7 @@
 	{%- endcase -%}
 	<div class="vidlinks">
 		{%- for link in include.video.links -%}
-			{% include archive-link.html link=link short=true %}
+			{% include archive-link link=link short=true %}
 			{%- unless forloop.last %} | {% endunless -%}
 		{%- endfor -%}
 	</div>

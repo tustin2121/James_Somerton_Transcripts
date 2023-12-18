@@ -1,0 +1,3 @@
+{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
+<p>&nbsp;</p>
+<p class="transcript-start"></p>
