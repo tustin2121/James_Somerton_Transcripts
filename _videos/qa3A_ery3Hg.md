@@ -32,6 +32,7 @@ cite:
     npr_article: { color: 4, short: "Trans in TX (Torchinsky, 2022)", full: "Torchinsky, R. (2022, Feb 25). <em>In Texas, an unrelenting assault on trans rights is taking a mental toll</em> [News article]. NPR. Retrieved December 17, 2023, from", url: "https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas" }
     msnbc_walkouts_article: { color: 5, short: "FL School Walkouts (Lavietes, 2022)", full: "Lavietes, M. (2022, Mar 3). <em>Florida students stage school walkouts over 'Don't Say Gay' bill</em> [News article]. NBC News. Retrieved December 17, 2023, from", url: "https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-students-stage-school-walkouts-dont-say-gay-bill-rcna18600" }
     indie_wire_article: { color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/" }
+    fanfest_russia: { color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/" }
 ---
 {% assign timecode = "0:00" %}
 
@@ -193,7 +194,16 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 > “I’m with the President on this!... this bill will put vulnerable, young LGBTQ people in jeopardy.” 
 
 </james>
-<from></from>
+<comment>
+{{ site.tustin.header }}
+
+President Biden's tweet (sent Feb 8th): https://twitter.com/POTUS/status/1491186973511458818
+
+Bob Iger's tweet (sent Feb 24th, 11pm EST): https://twitter.com/RobertIger/status/1497064238145171458
+
+Technically, Biden didn't send the tweet in response to the bill passing, which happened on Feb 25th.
+
+</comment>
 </compare>
 
 <compare>
@@ -201,7 +211,14 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 
 Side note: it’s been theorized that Igre<sup class="add">[sic: Iger]</sup> intends on running for president as a democrat in the near future so he doesn’t want to get on the bad side of any gays right now. And this is true to form for democrats who use social outrage to signal that they’re on the right side of history. Whereas if Iger actually wanted to make a *difference*, there is a lot he could do that would be more substantial than tweeting the equivalent of ‘that goes for me, but double.’ Like… spend some of his hundreds of millions of dollars on supporting young LGBTQ people he’s so worried about. 
 
-But here’s the rub. Bob Chapek, the *current* CEO and Chairman of Disney said *nothing*. The only thing that came out with his name even *associated* with it was that milk toast non-statement I read at the beginning of the video. You see, Chapek’s been busy putting his own stamp on Disney corporate culture, and is clearly less willing than even Igre<sup class="add">[sic: Iger]</sup> to advocate for, you know, human rights causes. 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But here’s the rub. Bob Chapek, the *current* CEO and Chairman of Disney said *nothing*. The only thing that came out with his name even *associated* with it was that milk toast<sup class="add">[sic: milquetoast]</sup> non-statement I read at the beginning of the video. You see, Chapek’s been busy putting his own stamp on Disney corporate culture, and is clearly less willing than even Igre<sup class="add">[sic: Iger]</sup> to advocate for, you know, human rights causes. 
 {% assign timecode = "7:25" %}
 
 </james>
@@ -587,15 +604,45 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 <compare>
 <james {% include timecode %}>
 
-Abigail Disney also called her family legacy into question after it was revealed that the Walt Disney Company donated to the representatives who supported the “Don’t Say Gay” bill. Stating: 
+<mark>Abigail Disney also called her family legacy into question</mark> <mark>after it was revealed that the Walt Disney Company donated to</mark> the <mark>representatives who supported the “Don’t Say Gay” bill.</mark> Stating: 
 
 > “I could not be more unhappy with their political activities, both in terms of whom they fund and how they lobby. I would strongly support a law to require all corporations to reveal ALL of their funding and lobbying moves.” 
 
-It’s worth noting that Walt Disney World is located near Orlando, Florida, and the Disney parks recently issued a fifth “key” called “Inclusion” to its Cast Member Training Worldwide. Empty platitudes from a soulless corporation. But they said they won’t be releasing any movies in Russia for the foreseeable future. So at least we know that *war* can bring them to their senses. Though they were pretty okay with Russia arresting and disappearing queer folk for the last twenty years. 
+</james>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 1" %}>
+
+Producer and documentary filmmaker <mark>Abigail Disney is calling her family legacy into question</mark> again <mark>after it was revealed that the Walt Disney Company donated to</mark> Florida state <mark>representatives who supported the “Don’t Say Gay” bill.</mark>
+
+Disney, who is an Emmy-winning filmmaker, activist, and the daughter of former Disney animation head Roy E. Disney and great-niece of Walt Disney, took to Twitter to condemn the corporation’s financial backing of the Parental Rights in Education bill, which prohibits “classroom discussion about sexual orientation or gender identity” in Florida primary schools.
+
+<mark>“I could not be more unhappy with their political activities, both in terms of whom they fund and how they lobby,”</mark> Disney tweeted about the Walt Disney Company‘s reported political contributions. <mark>“I would strongly support a law to require all corporations to reveal ALL of their funding and lobbying moves.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+It’s worth noting that <mark>Walt Disney World is located near Orlando, Florida, and the Disney parks recently issued a fifth “key” called “Inclusion” to its Cast Member Training Worldwide</mark>. Empty platitudes from a soulless corporation. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 10" %}>
+
+<mark>Walt Disney World is located near Orlando, Florida, and the Disney parks recently issued a fifth “key” called “Inclusion” to its Cast Member Training Worldwide</mark>.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But they said they <mark>won’t be releasing any movies in Russia for the foreseeable future</mark>. So at least we know that *war* can bring them to their senses. Though they were pretty okay with Russia arresting and disappearing queer folk for the last twenty years. 
 {% assign timecode = "20:19" %}
 
 </james>
-<from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
+<from {% include citation for=page.cite.plagiarized.fanfest_russia at="¶ 10" %}>
+
+If you think Sony Pictures are the only ones you’d be wrong. Warner Bros is participating as well, and they’ve decided to not release The Batman in Russia, which is scheduled to release in just a few days, here. That’s pretty brutal too since The Batman has been met with widespread critical praise. A lot of outlets are giving the movie a 10/10, or a similar rating. Last I checked the film was even sitting at a 94% on Rotten Tomatoes, which is incredibly impressive. Too bad Russia will have to miss out on it. Disney <mark>won’t be releasing films in Russia for the foreseeable future</mark> either.
 
 </from>
 </compare>
@@ -616,7 +663,9 @@ But for some people, being able to ‘scrape by’ is a best-case scenario. Let�
 
 If this moral population is able to make ends meet comfortably, they will naturally demonstrate their dissatisfaction with the discriminatory practices. However, take this same population, and over-work it to the point of chronic burnout. This population now exists in a situation where it is nearly impossible for large groups to make a living without working multiple jobs, or working too much at one job. 
 
-They are crushed under a successful workplace propaganda effort that workers rights are detrimental to a worker’s income, and where the only valid work ethic is to work as much as humanly possible. Between work, family, and kids, are they going to have the time or energy to actively participate in political discourse? Looking south from over the border, I’m honestly surprised — and impressed — that as many people in Florida and Texas have showed up to stand against these bigoted laws as they have. 
+They are crushed under a successful workplace propaganda effort that workers rights are detrimental to a worker’s income, and where the only valid work ethic is to work as much as humanly possible. Between work, family, and kids, are they going to have the time or energy to actively participate in political discourse? Looking south from over the border,[^canada] I’m honestly surprised — and impressed — that as many people in Florida and Texas have showed up to stand against these bigoted laws as they have. 
+
+[^canada]: As in looking at America from Canada, where James was based.
 
 Right-wing lawmakers have an invested interest in limiting the number of people who benefit from widespread social rights. The less groups of people who are politically ‘valid’ — the easier it is to develop consistent propaganda to manipulate these people. 
 
@@ -627,7 +676,9 @@ Right-wing lawmakers have an invested interest in limiting the number of people 
 <compare>
 <james {% include timecode %}>
 
-And also generating a horde of exploitable labor from the underclass. That last part is key. Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens. They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
+And also generating a horde of exploitable labor from the underclass. That last part is key. Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.[^romans] They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
+
+[^romans]: This seems very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It also seems to vary greatly based on region.
 
 That other 30% — and an even smaller fraction was actually the socially superior ‘Patrician’ class — required a legion of slavery in order for society to function. So if we’re still sitting around wondering why we can’t all just get along, it’s because a collection of social superiors NEED an underclass in order for their lives to function. Costs of labor cut into profits. And if slavery is ‘illegal’ — except for instances of mass-incerceration — the next best thing is to make it as cheap as possible to exploit someone. 
 
