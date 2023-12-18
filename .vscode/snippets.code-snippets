@@ -41,6 +41,13 @@
 		"body": [
 			"<span class=\"add\">$1</span>"
 		],
-		"description": "Strike text and add replacement"
+		"description": "Add replacement"
+	},
+	"quote": {
+		"prefix": "quote",
+		"body": [
+			"<q>$TM_SELECTED_TEXT</q>"
+		],
+		"description": "Surround with inline quote"
 	},
 }

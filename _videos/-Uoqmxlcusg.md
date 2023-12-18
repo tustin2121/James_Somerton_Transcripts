@@ -33,7 +33,7 @@ cite:
     utena: { short: "Revolutionary Girl Utena (Noriko, 1997)", full: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff." }
     lotr: { short: "LotR (Jackson, 2002)", full: "Jackson, P. (Director). (2002). <em>Lord of the Rings</em> [Film]. New Line Cinema, WingNut Films." }
   misinformation: !!map
-    deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
+    # deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
     thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
     wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena" }

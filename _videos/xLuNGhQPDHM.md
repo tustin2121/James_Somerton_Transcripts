@@ -26,7 +26,7 @@ contributors:
 cite:
   clips: !!map
   misinformation: !!map
-    brexit_trans_fault: "vox_jkr_article"
+    brexit_trans_fault: "James claims people blamed Brexit on trans people, when the article he is plagiarizing from claims the opposite."
   plagiarized: !!map
     vox_jkr_article: { color: 1, short: "Vox Article (Burns, 2019)" , full: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from", url: "https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf" }
     scotsman_article: { color: 2, short: "Scotsman Article (Burns, 2019)" , full: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", url: "https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977" }
@@ -438,7 +438,7 @@ Biology has been used to hold people down for thousands of years. Holding down w
 <compare>
 <james {% include timecode %}>
 
-<mark>TERFism has become so prevalent there that many</mark> liberal <mark>pundits even blamed the</mark> conservative <mark>Tory victory in the last parliamentary election on trans people</mark>, saying <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> BREXIT was even blamed on trans people.[^brexit] Donald Trump’s election win in 2016 was blamed on trans people! By British people!<sup>[citation needed]</sup> 
+<mark>TERFism has become so prevalent there that many</mark> liberal <mark>pundits even blamed the</mark> conservative <mark>Tory victory in the last parliamentary election on trans people</mark>, saying <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> <span id="brexit_trans_fault">BREXIT was even blamed on trans people.[^brexit]</span> Donald Trump’s election win in 2016 was blamed on trans people! By British people!<sup>[citation needed]</sup> 
 
 [^brexit]: The article he's copying from says that Brexit is the reason it's NOT the trans people's fault, so this is just flat out wrong.
 

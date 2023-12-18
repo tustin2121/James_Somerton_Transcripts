@@ -27,9 +27,9 @@ cite:
     rwrb_movie: { short: "RWRB (López, 2023)", full: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films." }
     barbie_movie: { short: "Barbie (Gerwig, 2023)", url: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films." }
   misinformation: !!map
-    think_pieces: "{{ site.yt.todd_video }}"
-    missionary_tweets: "{{ site.yt.todd_video }}"
-    sex_backlash: "{{ site.yt.todd_video }}"
+    think_pieces: "James misinterprets a 'think piece' as queer men hating that there's gay sex on screen."
+    missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
+    sex_backlash: "James fabricates a massive backlash against RWRB."
   plagiarized: !!map
 ---
 
@@ -197,7 +197,7 @@ The twist? Some of these naysayers were gay men. It's a bit of a "the call is co
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
 
 </james>
-<comment {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="think_pieces" {% include citation for=site.yt.todd_video at="(18:35)" %}>
 
 Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
 
@@ -218,7 +218,7 @@ The bulk of criticism however was found on social media, where straight people s
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
 </james>
-<comment {% include citation for=site.yt.todd_video at="(22:55)" %}>
+<comment id="missionary_tweets" {% include citation for=site.yt.todd_video at="(22:55)" %}>
 
 Todd looked for evidence of this, and found the following two articles:
 
@@ -259,7 +259,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
-<comment {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="sex_backlash" {% include citation for=site.yt.todd_video at="(18:35)" %}>
 
 It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
 

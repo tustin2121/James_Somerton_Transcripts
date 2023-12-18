@@ -25,7 +25,7 @@ cite:
     good_omens_tv: { short: "Good Omens (Gaiman, 2019)", full: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation." }
     silence_lambs_movie: { short: "Silence of the Lambs (Demme, 1991)", full: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions." }
   misinformation: !!map
-    yuri_comments: "site.yt.hbomb_video"
+    yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
   plagiarized: !!map
 ---
 
@@ -47,8 +47,6 @@ As diversity becomes and more of a sticking point in our social landscape, disco
 
 But that said it's not like good representation doesn’t exist. Usually when the people who are being represented get to make their own stuff, it tends to be well received. Sometimes not, whether I agree with the response or not, but usually. If you exist within the queer community, you generally have a better understanding of how to showcase these peopleL what matters to them, what their values are, and what you can even make fun of without insulting everyone.
 
-And believe me, the queer community has a heep of that. For instance, trans men and enbies for some reason really like rats, like pet rats. A lot of them feel this way, and nobody knows why. Though for people who are not queer themselves, but who *do* want to create queer characters, there are a range of challenges that they face. 
-
 </james>
 <from></from>
 </compare>
@@ -56,13 +54,29 @@ And believe me, the queer community has a heep of that. For instance, trans men 
 <compare>
 <james {% include timecode %}>
 
-Such as Limited Perspective: straight writers by virtue of their sexual orientation, likely don’t have first-hand experience with the unique challenges, emotions, and nuances that queer individuals face. 
+And believe me, the queer community has a heep of that. For instance, trans men and enbies for some reason really like rats, like pet rats. A lot of them feel this way, and nobody knows why. 
 
-And Cultural Sensitivity and Accuracy: Straight writers might lack this cultural sensitivity leading to misrepresentations or inaccurate depiction that fail to capture the essence of queer lives. The potential for unintentional insensitivity can arise from a lack of research or an overreliance on current mainstream media representation. 
+</james>
+<comment>
+{{ site.tustin.header }}
 
-There is also the Fear of Offending: This fear may lead them to tiptoe around important issues, or sanitize the experience of queer characters, resulting in narratives that lack depth and emotional resonance. 
+I can't find much about "trans men like rats" and even less about "enbies like rats". What I can find is people asking if the former stereotype is actually a thing. Consensus seems to be "eh?".
 
-And there’s Stereotyping and Tokenism: When queer characters are reduced to being nothing but their sexual orientation or gender identity, becoming defined solely by this one part of themselves rather than their personality, aspirations, and complexity. 
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Though for people who are not queer themselves, but who *do* want to create queer characters, there are a range of challenges that they face. 
+
+Such as <q>Limited Perspective</q>: straight writers by virtue of their sexual orientation, likely don’t have first-hand experience with the unique challenges, emotions, and nuances that queer individuals face. 
+
+And <q>Cultural Sensitivity and Accuracy</q>: Straight writers might lack this cultural sensitivity leading to misrepresentations or inaccurate depiction that fail to capture the essence of queer lives. The potential for unintentional insensitivity can arise from a lack of research or an overreliance on current mainstream media representation. 
+
+There is also the <q>Fear of Offending</q>: This fear may lead them to tiptoe around important issues, or sanitize the experience of queer characters, resulting in narratives that lack depth and emotional resonance. 
+
+And there’s <q>Stereotyping and Tokenism</q>: When queer characters are reduced to being nothing but their sexual orientation or gender identity, becoming defined solely by this one part of themselves rather than their personality, aspirations, and complexity. 
 
 </james>
 <from></from>
@@ -493,7 +507,7 @@ And this is part of the consequences of being part of a community that has been 
 Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
 </james>
-<comment {% include citation for=site.yt.hbomb_video at="(2:46:18)" %}>
+<comment id="yuri_comments" {% include citation for=site.yt.hbomb_video at="(2:46:18)" %}>
 
 Hbomberguy attempted to find these comments mentioned, and found no such comments in the last year on that video. Also how does he know they're straight women? James is lying.
 

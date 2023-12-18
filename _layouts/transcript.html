@@ -94,7 +94,7 @@
 					{% comment %} It is proven that this video has been misinformation from {{ page.cite.misinformation.size }} source(s): {% endcomment %}
 					<ul class="refs" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
 						{% for item in page.cite.misinformation %}
-							<li id="{{ item[0] | slugify }}"> {{ item[1] }} </li>
+							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}
 					</ul>
 				{% endif %}

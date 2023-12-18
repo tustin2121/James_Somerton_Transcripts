@@ -24,7 +24,7 @@ cite:
   clips: !!map
     bush_learning: { short: "NBC News Clip", full: '"Is our children learning?" clip pulled from the following video: ', url: "https://www.youtube.com/watch?v=-ej7ZEnjSeA" }
   misinformation: !!map
-    fab_quote: "James presents a <a href='#fab-quote-loc'>fabricated quote</a> on-screen."
+    fab_quote: "James presents a fabricated quote on-screen."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -279,7 +279,7 @@ HAH! (That might be funny if it wasn’t so terrifying. Welcome to the tagline o
 
 Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. <mark>Disney’s chief diversity officer sent a message to staff on March 2 referencing</mark> <q>“deeply troubling and heartbreaking”</q> <mark>developments in the news, noting that Chapek had asked </mark><q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q>
 
-She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q id="fab-quote-loc">conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
+She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q id="fab_quote">conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
 
 [^fab-quote]: Despite this "quote" being shown on screen, it's not a real quote. He's basically just quoting his own script at us. Counting this as <span class="misinfo">misinformation</span>.
 
@@ -774,6 +774,7 @@ Rose Ophelia Shepard
 </credits>
 <comment>
 {{ site.tustin.header }}
+
 It's unclear who James is thanking here. Searching this name on Google gives us a YouTube user with zero videos and six subscribers, and a bunch of historic obituaries. 
 
 </comment>
