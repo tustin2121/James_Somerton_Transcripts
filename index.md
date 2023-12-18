@@ -59,7 +59,7 @@ James regularly renamed his videos, not just to hide a reupload due to plagiaris
 <div class="video-list">
 {% assign vidList = site.videos | sort: 'date' | reverse %}
 {% for video in vidList %}
-{%- include video-card.html video=video -%}
+{%- include video-card video=video -%}
 {% endfor %}
 </div>
 

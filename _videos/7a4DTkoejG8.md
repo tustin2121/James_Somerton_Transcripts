@@ -23,6 +23,7 @@ cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
+    conversion_therapy: "Nick claims that asexual people don't get targeted with conversion therapy."
   plagiarized: !!map
 ---
 
@@ -136,9 +137,19 @@ Right, absolutely, and-- and outside of media in like sort of... polite discussi
 
 And that's kind of seen as just like a universal. So it's a lot of very subtle ways that the hegemony reminds you that you're not really welcome. Or that you should be different. Or that you're there's something wrong with you. 
 
-And while there isn't really any conversion therapy directed to the asexual people... and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
+</nick>
+</compare>
+<compare>
+<nick>
+
+<mark>And while there isn't really any conversion therapy directed to the asexual people...</mark> and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
 
 </nick>
+<comment id="conversion_therapy">
+
+Those in the ace community do very much get targeted by conversion therapy. [TODO link to The Ace Couple]
+
+</comment>
 </compare>
 <compare>
 <james {% include timecode %}>

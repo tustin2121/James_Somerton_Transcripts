@@ -43,5 +43,8 @@
 		{%- if include.video.cite.misinformation and include.video.cite.misinformation.size > 0 -%}
 			<div class="misinfo">{{ include.video.cite.misinformation.size }}</div>
 		{%- endif -%}
+		{%- if include.video.cite.yikes and include.video.cite.yikes.size > 0 -%}
+			<div class="yikes">{{ include.video.cite.yikes.size }}</div>
+		{%- endif -%}
 	</div>
 </div>

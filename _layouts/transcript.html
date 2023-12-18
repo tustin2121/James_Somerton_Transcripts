@@ -31,7 +31,7 @@
 				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 				<h1>"{{ page.title }}" Transcript</h1>
 				<div class="video-list">
-					{% include video-card.html video=page %}
+					{% include video-card video=page %}
 				</div>
 				
 				{%  comment  %}
@@ -84,7 +84,6 @@
 				{% assign hr_due = false %}
 				
 				{% if page.cite.plagiarized.size > 0 -%}
-					{% comment %} It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s): {% endcomment %}
 					<ul class="refs" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
 						{% for item in page.cite.plagiarized %}
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
@@ -93,7 +92,6 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				{% if page.cite.misinformation.size > 0 -%}
-					{% comment %} It is proven that this video has been misinformation from {{ page.cite.misinformation.size }} source(s): {% endcomment %}
 					<ul class="refs" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
 						{% for item in page.cite.misinformation %}
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
@@ -101,14 +99,14 @@
 					</ul>
 					{% assign hr_due = true %}
 				{% endif %}
-				
-				{% comment %} {% if page.cite.plagiarized.size > 0 or page.cite.misinformation.size > 0 %}
-					<p>
-						{% if page.cite.plagiarized.size > 0 -%}It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s).{% endif %}
-						{% if page.cite.misinformation.size > 0 -%}This video has {{ page.cite.misinformation.size }} instance(s) of misinformation.{% endif %}
-						See below for details.
-					</p>
-				{% endif %} {% endcomment %}
+				{% if page.cite.yikes.size > 0 -%}
+					<ul class="refs" header="This video has {{ page.cite.yikes.size }} problamatic take(s):">
+						{% for item in page.cite.yikes %}
+							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+						{% endfor %}
+					</ul>
+					{% assign hr_due = true %}
+				{% endif %}
 				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
