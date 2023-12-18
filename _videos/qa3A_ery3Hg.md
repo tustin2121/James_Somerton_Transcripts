@@ -2,7 +2,7 @@
 # cspell:words  LGBTQ Telos  Iger Chapek
 date: 2022-03-05
 title: Disney's Silence on Gay Youth
-status: Finished
+status: Complete
 aka: !!seq
   - "The Silence of the Mouse"
 topics: !!seq
