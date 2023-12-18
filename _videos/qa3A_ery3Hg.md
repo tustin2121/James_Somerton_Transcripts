@@ -25,6 +25,7 @@ cite:
     bush_learning: { short: "NBC News Clip", full: '"Is our children learning?" clip pulled from the following video: ', url: "https://www.youtube.com/watch?v=-ej7ZEnjSeA" }
   misinformation: !!map
     fab_quote: "James presents a fabricated quote on-screen."
+    newton_fight: "Nick makes a joke about Newton's and Leibniz that doesn't quite add up."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -328,7 +329,26 @@ Though Disney declined to comment on the Florida legislation, <mark>the company�
 
 The only real cinematic "innovations" that have come out of Disney lately are the projection screens that they use the Mandalorian, and letting Chloe Zhao shoot a superhero movie outside. Innovation! 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Meanwhile, on the gay front, Netflix’s ever-expanding library of LGBTQ-content dwarves whatever Disney’s peddling as their next first gay character. You’re not even a follower, Disney, you’re just kinda Lebnitzing your way to fame. Newton publishes his theory of optics, you write a very public letter to make sure everyone knows you were doing it too. (Nick wrote that one. Now the Lebnitz stans are gonna come for me…) 
+
+</james>
+<comment id="newton_fight">
+<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18gudty/new_james_somerton_plagiarism_discoveries_since/kd5alt9/?context=3">u/DHLawrence_sGhost</a></div>
+
+The famous fighting between [Leibniz](https://plato.stanford.edu/entries/leibniz/) and Newton was over who discovered calculus first, rather than over Newton's theory of optics.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Though really, is it worth mentioning Netflix is good fair<sup class="add">[sic: fare]</sup> for queerfolk when they just re-signed Dave Chapelle for more comedy specials after he was “canceled,” big quotes there, for saying some horrible stuff about trans folks. They just don’t cancel people like they used to. 
 

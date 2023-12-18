@@ -26,6 +26,7 @@ cite:
     silence_lambs_movie: { short: "Silence of the Lambs (Demme, 1991)", full: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions." }
   misinformation: !!map
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
+    helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."
   plagiarized: !!map
 ---
 
@@ -671,6 +672,18 @@ The more complicated reality of good representation is that it’s very difficul
 <james {% include timecode %}>
 
 For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.
+
+</james>
+<comment id="helen_of_try">
+{{ site.tustin.header }}
+
+There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate Troy (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Men literally have fictionalized women as accessories to men because historically patriarchal values in society would define that as the role of a woman. It was only in the last century or so that a woman could open a bank account without a man signing for it, be it her father, her brother, husband, or gay best friend. For which he would still have unbridled access to it.
 
