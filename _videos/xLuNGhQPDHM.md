@@ -25,6 +25,7 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
   misinformation: !!map
     brexit_trans_fault: "James claims people blamed Brexit on trans people, when the article he is plagiarizing from claims the opposite."
   plagiarized: !!map

@@ -16,6 +16,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hardcore porn both of the straight and gay varieties entered mainstream american

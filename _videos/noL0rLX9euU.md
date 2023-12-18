@@ -10,6 +10,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 foreign so the Hollywood Summer movie season is drawing to a close and the

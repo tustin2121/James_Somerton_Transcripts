@@ -13,6 +13,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 this video is brought to you by my patrons if you'd like to support my channel

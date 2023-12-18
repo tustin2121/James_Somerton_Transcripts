@@ -15,6 +15,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob

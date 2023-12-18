@@ -19,6 +19,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 having made a few videos about queer coding and representation in movies I've gotten a lot of feedback from a lot of

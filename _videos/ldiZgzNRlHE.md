@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 you so far the Marvel Cinematic Universe has been broken up into phases phase

@@ -16,6 +16,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 why are queer men hyper focused on body image it may involve a social philosophy

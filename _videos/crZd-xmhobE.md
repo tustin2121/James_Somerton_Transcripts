@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 the marvel cinematic universe has been an incredibly interesting experiment by

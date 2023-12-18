@@ -15,6 +15,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Yuri on Ice is a 2016 anime about Yuri Katsukai,

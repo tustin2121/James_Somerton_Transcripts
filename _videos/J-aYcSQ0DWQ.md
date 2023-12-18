@@ -18,6 +18,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 I grew up poor, though I didn’t know it. 

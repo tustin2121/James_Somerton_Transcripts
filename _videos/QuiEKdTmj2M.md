@@ -15,6 +15,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
     anita_nbc_article: { color: 1, short: "Anita Bryant (Eugenios, 2022)", full: "Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from", url: "https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215" }
 ---

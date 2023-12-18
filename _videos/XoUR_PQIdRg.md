@@ -20,6 +20,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Pirates are a bit of a mystery, in their personal 

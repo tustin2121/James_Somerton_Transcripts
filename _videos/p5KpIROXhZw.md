@@ -24,6 +24,7 @@ cite:
   clips:
     good_omens_tv: { short: "Good Omens (Gaiman, 2019)", full: "Gaiman, N. (Creator). Mackinnon, D. (Director). (2019-2023). <em>Good Omens</em> [TV Series]. Narrativia, Amazon Studios, BBC Studios, The Blank Corporation." }
     silence_lambs_movie: { short: "Silence of the Lambs (Demme, 1991)", full: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions." }
+  yikes: !!map
   misinformation: !!map
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
     helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."

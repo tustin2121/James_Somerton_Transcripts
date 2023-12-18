@@ -15,6 +15,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 This video is brought to you by SquareSpace. Cabaret is a film that serves as a

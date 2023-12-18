@@ -23,6 +23,7 @@ cite:
   clips: !!map
     futurama: { short: "(Groening, 1999)", full: "Groening, M. (Creator). (1999). <em>Futurama</em> [Television series]. The Curiosity Company, 20th Television Animation." }
     zelda_show: { short: "(Heyward, 1989)", full: "Heyward, A. (Creator). (1989). <em>The Super Mario Bros. Super Show!</em> [Television series]. Saban Productions, DIC Enterprises, Nintendo of America." }
+  yikes: !!map
   misinformation: !!map
   plagiarized: !!map
 ---

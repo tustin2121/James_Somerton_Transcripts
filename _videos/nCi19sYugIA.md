@@ -18,6 +18,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Susan Sontag in her essay notes on Camp often cited as the quintessential

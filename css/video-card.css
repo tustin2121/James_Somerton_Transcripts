@@ -1,3 +1,26 @@
+@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+		--video-box-stolen-text: #ffdcd7;
+		--video-box-stolen-bg: #850810;
+		--video-box-fabricated-text: #f0eaf2;
+		--video-box-fabricated-bg: #8705ae;
+		--video-box-yikes-text: #feffd7;
+		--video-box-yikes-bg: #4f6706;
+	}
+}
+@media (prefers-color-scheme: light) {
+	:root {
+		color-scheme: light;
+		--video-box-stolen-text: #82071e;
+		--video-box-stolen-bg: #ffebe9;
+		--video-box-fabricated-text: #8705ae;
+		--video-box-fabricated-bg: #f0eaf2;
+		--video-box-yikes-text: #4f6706;
+		--video-box-yikes-bg: #feffd7;
+	}
+}
+
 
 .video-card {
 	max-width: 1000px;
@@ -42,21 +65,27 @@
 .video-card > .score {
 	grid-area: score;
 	display: grid;
-	grid: auto / 1fr 1fr;
+	grid: auto / 1fr 1fr 1fr;
 	grid-template-areas:
-		"plag fake";
+		"plag fake yikes";
 }
 .video-card > .score > .plagiarized {
 	grid-area: plag;
 	text-align: center;
-	background-color: var(--color-prettylights-syntax-markup-plagiarized-bg);
-	color: var(--color-prettylights-syntax-markup-plagiarized-text)
+	background-color: var(--video-box-stolen-bg);
+	color: var(--video-box-stolen-text);
 }
 .video-card > .score > .misinfo {
 	grid-area: fake;
 	text-align: center;
-	background-color: var(--color-prettylights-syntax-markup-deleted-bg);
-	color: var(--color-prettylights-syntax-markup-deleted-text)
+	background-color: var(--video-box-fabricated-bg);
+	color: var(--video-box-fabricated-text);
+}
+.video-card > .score > .yikes {
+	grid-area: yikes;
+	text-align: center;
+	background-color: var(--video-box-yikes-bg);
+	color: var(--video-box-yikes-text);
 }
 .video-card > .topics {
 	grid-area: topic;

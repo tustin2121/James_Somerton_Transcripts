@@ -19,6 +19,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 {% assign timecode = "0:00" %}

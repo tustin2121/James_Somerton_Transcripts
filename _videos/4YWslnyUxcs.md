@@ -10,6 +10,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hello everyone my name is James and welcome to gay geek theory today I would

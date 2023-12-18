@@ -33,13 +33,18 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
     </div>
     <div class="status">Transcript Status</div>
     <div class="score">
-      <div class="plagiarized" style="font-size: small"># Sources<br/>Plagiarized</div>
-      <div class="misinfo" style="font-size: small"># Things<br/>Made Up</div>
+      <div class="plagiarized">P</div>
+      <div class="misinfo">M</div>
+      <div class="yikes">Y</div>
     </div>
     <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
   </div>
 </div>
 
+Score Squares:
+- <span style="background-color: var(--video-box-stolen-bg); color: var(--video-box-stolen-text)">P = Number of sources plagiarized</span>
+- <span style="background-color: var(--video-box-fabricated-bg); color: var(--video-box-fabricated-text)">M = Number of instances of misinformation</span>
+- <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
 
 Statuses: 
 - <span class="status alert">Missing</span> = Transcript is missing though video archive exists
@@ -77,6 +82,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 notes:

@@ -10,6 +10,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 now the guardians of the galaxy a little-known property if ever there was one

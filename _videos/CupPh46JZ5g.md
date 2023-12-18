@@ -17,6 +17,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 this video is brought to you by Squarespace in 1996 the musical theater world

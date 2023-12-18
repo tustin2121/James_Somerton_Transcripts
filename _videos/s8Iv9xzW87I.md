@@ -20,6 +20,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 at the 1984 Democratic National Convention Bobby Campbell a prominent AIDS

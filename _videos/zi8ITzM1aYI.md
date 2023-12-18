@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 coming up on the Drop Zone cap do you do anything fun Saturday night well all

@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Warner Brothers and DC Comics are absolutely obsessed with creating their own

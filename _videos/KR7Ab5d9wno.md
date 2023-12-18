@@ -14,6 +14,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 the rags to riches story is a classic narrative Trope that has captured the

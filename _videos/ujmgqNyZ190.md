@@ -19,6 +19,8 @@ contributors:
     - "[/u/astrienluna](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxuzey)"
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 i just wanted to drop a content warning here as both physical and psychological

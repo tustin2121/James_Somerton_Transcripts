@@ -13,6 +13,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hello everyone and welcome to gays Behaving Badly the show where we talk about

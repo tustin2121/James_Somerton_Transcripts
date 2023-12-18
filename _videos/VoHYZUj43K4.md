@@ -19,6 +19,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 since it premiered in 2013 the attack on Titan anime has been called the

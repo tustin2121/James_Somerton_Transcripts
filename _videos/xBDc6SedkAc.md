@@ -26,6 +26,7 @@ cite:
   clips:
     rwrb_movie: { short: "RWRB (López, 2023)", full: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films." }
     barbie_movie: { short: "Barbie (Gerwig, 2023)", url: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films." }
+  yikes: !!map
   misinformation: !!map
     think_pieces: "James misinterprets a 'think piece' as queer men hating that there's gay sex on screen."
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."

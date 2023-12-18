@@ -13,6 +13,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 this video is brought to you by Squarespace hello everyone and welcome to gays

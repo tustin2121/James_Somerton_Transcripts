@@ -13,6 +13,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 this video is brought to you by Manta sleep hi this video has nothing to do with

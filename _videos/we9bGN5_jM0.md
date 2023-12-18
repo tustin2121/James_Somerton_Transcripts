@@ -12,6 +12,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 it could be said that I'm a bit of a Harry Potter fan I jumped onto the series

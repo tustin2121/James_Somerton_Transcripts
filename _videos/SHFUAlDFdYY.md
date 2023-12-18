@@ -10,6 +10,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hello everyone my name is james and today i'm going to explain to you how marvel

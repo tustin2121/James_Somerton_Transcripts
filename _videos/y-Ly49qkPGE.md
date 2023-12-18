@@ -13,6 +13,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hello everyone and welcome to episode 21 of the padreon my name is James and

@@ -20,6 +20,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Victory whenever I'm playing OverWatch I've started gravitating toward Soldier

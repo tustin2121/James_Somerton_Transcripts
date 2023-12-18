@@ -9,6 +9,9 @@ links: !!seq
   - "https://www.youtube.com/watch?v=Y9yi8yocZMY" # Reuploads channel
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
+notes:
+  - script-diff
+  - custom-start
 
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
@@ -17,8 +20,33 @@ contributors:
 
 cite:
   clips: !!map
+  misinformation: !!map
+    first_line: "James literally gets the dates wrong in the very first line of this video."
+    page_10: "James clearly hasn't read the source material if he's claiming up to page 10 is all you need."
   plagiarized: !!map
 ---
+
+<compare>
+<credits header="Video Description:">
+
+[Sponsor link]
+
+[Another Sponsor link]
+
+PATREON: [link]
+ 
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="05:10" for="Part One - Always Watching" %}  
+{% include chapter-link at="11:41" for="Part Two - Making A STATEment" %}  
+{% include chapter-link at="22:11" for="Part Three - Bureaucrats Bearing Gifts" %}  
+{% include chapter-link at="30:32" for="Part Four - A Day At The Human Races" %}  
+{% include chapter-link at="36:19" for="Part Five - Know Thine Enemy" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 <compare>
 <james {% include timecode %}>
@@ -31,7 +59,25 @@ THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE
 <compare>
 <james {% include timecode %}>
 
-*No. 6* is a manga that began in 2011 and concluded in 2016, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. Despite how condensed the story is, the series has maintained a fanbase to this day, though. Seemingly able to navigate topics that many other franchises take much longer to fully explore, themes and messages are clearly narrated whereas many series find their messaging lost in the curse of ‘taking too damn long to make a point.’ This is a good example of less being more. 
+*No. 6* is a manga that began in 2011 and concluded in 2016, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. 
+
+</james>
+<comment id="first_line">
+<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+
+(Quoted, formatted for easier reading:)
+
+> Literally the first thing he says is wrong: The manga ran from 2011 to 2013. The actual source material is a nine-volume light novel series by japanese author Asano Atsuko, which he doesn't mention at all but that's stated on every wikipedia/"fandom" page about the series.
+> 
+> I have no idea where he got "concluded in 2016" from; my best guess is [this anime news network article](https://www.animenewsnetwork.com/news/2014-07-29/no.6-kino-starts-setsuna-graffiti-manga/.77096) mentioning that the no.6 manga artist, Kino's completely separate manga called *Setsuna Graffiti* was coming to an end in 2016.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Despite how condensed the story is, the series has maintained a fanbase to this day, though. Seemingly able to navigate topics that many other franchises take much longer to fully explore, themes and messages are clearly narrated whereas many series find their messaging lost in the curse of ‘taking too damn long to make a point.’ This is a good example of less being more. 
 
 Despite the popularity of the manga, fans generally didn’t have kind things to say about the anime adaptation, though. A common complaint being that the already brisk pacing was condensed even further, and many of the nuances were lost. I guess you can’t win them all. 
 
@@ -55,10 +101,19 @@ Truth be told, I feel like this is less of a matter of taste and more of a matte
 
 America can either confront the grim reality of late-stage McCarthyism its in or raise the bar a little higher and wait until the government starts imposing curfew with walrus-tiger hybrid clones which bear the faces of deceased relatives. And THEN we might start thinking about writing an angry letter to your district overlord. 
 
-But as far as statements *No.6* makes about society, you really don’t need to read past page 10… beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
+<mark>But as far as statements *No.6* makes about society, you really don’t need to read past page 10…</mark> beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
 
 </james>
-<from></from>
+<comment id="page_10">
+<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+
+(Quoted, formatted for easier reading:)
+
+> I do not think he's read either the light novels [...] or the manga, since the only footage/imagery he shows is from the anime. He CLAIMS to have read it, but he makes [this marked] strange statement that does not make any sense if you've read the manga. 
+> 
+> What does he mean by this?? I have my copy of vol 1 of the manga right here; reading up to page 10 only presents the base utopia elements of the story, none of the dystopia parts. The second main character/deuteragonist, Nezumi/Rat, hasn't even been introduced yet by then & he's literally the character that helps Shion deconstruct & break free of the society he's living in.
+
+</comment>
 </compare>
 
 &lt;Sponsor Read&gt;
@@ -67,7 +122,7 @@ But as far as statements *No.6* makes about society, you really don’t need to 
 I’ve actually used Skill Share for years, and I’ve found it really helpful even with making these videos. One of the biggest things it's helped me with is using Adobe After Effects, which can be labyrinthian in its complexities. And which I use to create the opening titles for these videos. In particular the Create Motion Graphics Templates with After Effects course on Skillshare. It’s shorter than a Pixar movie and helped me learn to create some great dynamic opening sequences. With everyone changing careers or starting their own businesses, a site like Skill Share can be incredibly useful. From learning a new skill to help increase the quality of the work, like me, or learning how to do your own accounting, or even learning a whole new skillset without spending 4 more years in school to do it. My business partner, Nick, is taking a photography course on Skillshare right now. And right now Skillshare is offering one month free to allof my viewers that use the link in the description box, but only for the rest of April. But they’re running an even better offer! If you’re ready to start learning today with Skillshare, you can get 40% off your first year using my link! I’m going to leave both links down in the description so you can choose the best one for you. But either way you get started, Skill Share is a legitimately great resource. I can’t recommend it enough. So once you’ve finished this video, head on down to the description and start learning a new skill with Skillshare today.  -->
 
 <compare>
-<credits>
+<credits class="opening">
 
 > James Somerton  
 Presents
@@ -616,4 +671,10 @@ So the hallmark of control is being told what to fear — and what to hate. Who 
 <from></from>
 </compare>
 
+<compare>
+<credits class="closing">
+
 Patreon credits roll over thoughtful and haunting piano music.
+
+</credits>
+</compare>

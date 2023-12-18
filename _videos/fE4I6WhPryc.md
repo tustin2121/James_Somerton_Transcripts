@@ -18,6 +18,8 @@ contributors:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 cars is a Disney Pixar animated film released in 2006 and was the seventh film

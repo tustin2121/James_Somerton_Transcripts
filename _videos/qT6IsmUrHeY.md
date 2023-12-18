@@ -13,6 +13,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 this video is brought to you by atlasvpn hi everyone welcome to the second

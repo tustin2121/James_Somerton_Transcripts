@@ -23,6 +23,7 @@ contributors:
 cite:
   clips: !!map
     bush_learning: { short: "NBC News Clip", full: '"Is our children learning?" clip pulled from the following video: ', url: "https://www.youtube.com/watch?v=-ej7ZEnjSeA" }
+  yikes: !!map
   misinformation: !!map
     fab_quote: "James presents a fabricated quote on-screen."
     newton_fight: "Nick makes a joke about Newton's and Leibniz that doesn't quite add up."

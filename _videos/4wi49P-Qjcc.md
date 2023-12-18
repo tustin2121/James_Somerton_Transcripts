@@ -15,6 +15,8 @@ notes:
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 we all like True Crime if the glut of True Crime series is any indication it's

@@ -11,6 +11,8 @@ description: "a video essay on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hello everyone and welcome to my tier ranking of the uh it was gonna be 50 but i

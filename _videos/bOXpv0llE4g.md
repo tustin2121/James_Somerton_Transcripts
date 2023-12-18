@@ -11,6 +11,8 @@ description: "a video on <xyz>."
 
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 hey everyone 2022 was really a year but one thing that I was shocked by was how

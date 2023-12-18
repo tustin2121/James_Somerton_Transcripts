@@ -21,6 +21,8 @@ contributors:
     - "[@kermitlesbian / Radhika Mohan](https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha)"
 cite:
   clips: !!map
+  yikes: !!map
+  misinformation: !!map
   plagiarized: !!map
 ---
 Horror has always been an inherently traditionalistic
