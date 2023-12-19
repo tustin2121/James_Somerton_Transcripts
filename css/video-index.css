@@ -5,3 +5,15 @@
 .markdown-body blockquote {
 	max-width: 46rem;
 }
+
+.instructions {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    width: 100%;
+}
+.instructions p {
+	margin-bottom: 0;
+}

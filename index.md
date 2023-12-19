@@ -41,12 +41,18 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
   </div>
 </div>
 
+<div class="instructions">
+<div>
+
 Score Squares:
 - <span style="background-color: var(--video-box-stolen-bg); color: var(--video-box-stolen-text)">P = Number of sources plagiarized</span>
 - <span style="background-color: var(--video-box-fabricated-bg); color: var(--video-box-fabricated-text)">M = Number of instances of misinformation</span>
 - <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
 
-Statuses: 
+</div>
+<div>
+
+Transcript Statuses: 
 - <span class="status alert">Missing</span> = Transcript is missing though video archive exists
 - <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
 - <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
@@ -54,7 +60,8 @@ Statuses:
 - <span class="status ready">Finished</span> = Transcript is complete, attributions needed.
 - <span class="status complete">Complete</span> = Transcript has been fully reviewed and things attributed
 
-James regularly renamed his videos, not just to hide a reupload due to plagiarism, but also to try and game the algorithm. Alternate titles to videos will be given under the original title, where possible. Alternate titles might also include prominent words in the thumbnails.
+</div>
+</div>
 
 <div class="video-list">
 {% assign vidList = site.videos | sort: 'date' | reverse %}
