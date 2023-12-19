@@ -1,10 +1,10 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		color-scheme: dark;
-		--video-box-stolen-text: #ffdcd7;
-		--video-box-stolen-bg: #850810;
-		--video-box-fabricated-text: #f0eaf2;
-		--video-box-fabricated-bg: #8705ae;
+		--video-box-stolen-text: #f0eaf2;
+		--video-box-stolen-bg: #8705ae;
+		--video-box-fabricated-text: #ffdcd7;
+		--video-box-fabricated-bg: #850810;
 		--video-box-yikes-text: #feffd7;
 		--video-box-yikes-bg: #4f6706;
 	}
@@ -12,10 +12,10 @@
 @media (prefers-color-scheme: light) {
 	:root {
 		color-scheme: light;
-		--video-box-stolen-text: #82071e;
-		--video-box-stolen-bg: #ffebe9;
-		--video-box-fabricated-text: #8705ae;
-		--video-box-fabricated-bg: #f0eaf2;
+		--video-box-stolen-text: #8705ae;
+		--video-box-stolen-bg: #f0eaf2;
+		--video-box-fabricated-text: #82071e;
+		--video-box-fabricated-bg: #ffebe9;
 		--video-box-yikes-text: #4f6706;
 		--video-box-yikes-bg: #feffd7;
 	}
