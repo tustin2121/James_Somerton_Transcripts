@@ -33,6 +33,7 @@ cite:
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
     sex_backlash: "James fabricates a massive backlash against RWRB."
   plagiarized: !!map
+    wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2024)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
 
 <compare>
@@ -54,23 +55,40 @@ On Screen: "[Disclaimer]"
 
 I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
 
-So let's hit the ground running and talk about *Red, White, and Royal Blue*, the recently released movie, based on the book by Casey McQuiston.
-
 </james>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of Prince Phillip, the eldest grandson of England's Monarch. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
-
-Among the swirl of dignitaries and celebrities is an individual who
-attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's the dynamic son of Ellen Claremont, a trailblazer who shattered glass ceilings by becoming the first woman to become the president of the United States.
-
-However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and Prince Henry, the younger sibling of the groom. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake,providing juicy content for the eager tabloids on both sides of the pond. 
+So let's hit the ground running and talk about *Red, White, and Royal Blue*, the recently released movie, based on the book by Casey McQuiston.
 
 </james>
-<from></from>
+<comment>
+{{ site.tustin.header }}
+
+Note: I am including the entire plot summary from wikipedia below, lined up with James's summary, for comparison. He doesn't seem to "borrow" too much from there, and there's only so much that you can deviate when you're summarizing a movie. Take this comparison as you will.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of <mark>Prince Phillip, the eldest grandson of England's Monarch</mark>. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
+
+Among the swirl of dignitaries and celebrities is an individual who
+attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's <mark>the dynamic son of Ellen Claremont</mark>, a trailblazer who shattered glass ceilings by becoming the <mark>first woman to become the president of the United States</mark>.
+
+However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and <mark>Prince Henry, the younger sibling of the groom</mark>. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake, providing juicy content for the eager tabloids on both sides of the pond. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+<h1>Plot</h1>
+
+Alex Claremont-Diaz, <mark>the son of Ellen Claremont</mark>, <mark>the first female president of the United States</mark>, attends the wedding of <mark>Prince Phillip, the eldest grandson of the King of England</mark>. Alex has a long-standing feud with <mark>Prince Henry, Phillip's younger brother</mark> and the "spare" to the British Throne. During the reception, Alex and Henry get into an altercation, resulting in embarrassing reports in the following morning's newspapers.
+
+</from>
 </compare>
 
 <compare>
@@ -81,7 +99,11 @@ The repercussions are immediate, with the impending reelection campaign of Presi
 To smooth out ruffled feathers and placate the media's appetite for scandal, Alex and Henry are thrust into a meticulously orchestrated PR campaign. This facade aimed at showcasing their renewed friendship has them attending events, posing for pictures, and offering sound bites about their brotherly bond.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+To mitigate the incident's press fallout, especially as President Claremont is seeking re-election, Alex and Henry are forced into a series of staged interviews and joint public appearances at which they pose as friends. 
+
+</from>
 </compare>
 
 <compare>
@@ -99,41 +121,78 @@ During one such contrived rendezvous, after a security breach lands them both lo
 
 Recognizing the weight of the misunderstanding, he extends a genuine gesture of reconciliation. Late night texts replace terse exchanges, humor replaces hostility, and slowly they start to build a bond, peppered with light-hearted jabs and shared inside jokes. However relationships are rarely linear. 
 
-At the extravagant New Year celebration hosted by Alex, emotions bubble to the surface. When the clock strikes midnight, a buoyant Alex loses loses himself in the festivities. This... does not sit well with the Prince. Henry's sudden and unexplained departure hints at unspoken sentiments. 
-
-Driven by an overwhelming fear of maybe losing Henry, Alex seeks him out in the serene White House Gardens. Confusion leads to a kiss from the prince, who like any man, then spends the next several weeks ignoring Alex's texts and phone calls.
-A normal gay experience, yes. 
-
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+Later, in a private moment, Alex admits to Henry that he began to resent him after Henry rebuffed him at Alex's first appearance as a public figure. Henry apologizes and the two make amends, later beginning to text and become jocular, bantering friends.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Weeks later at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a "Friends with Benefits" relationship, although they keep their involvement secret. Duty and responsibilities, however, have their own demands. The electoral battlefield beckons and Alex finds himself in Texas, championing his mother's campaign. 
+At the extravagant New Year celebration hosted by Alex, emotions bubble to the surface. When the clock strikes midnight, a buoyant Alex loses loses himself in the festivities. This... does not sit well with the Prince. Henry's sudden and unexplained departure hints at unspoken sentiments. 
 
-Because this *is* a romantic fantasy, the idea of Texas voting for a Democratic president is actually possible. He later travels to Brooklyn to speak at the Democratic National Convention, where Henry unexpectedly visits him. This leads to these "friends with benefits" becoming something closer than just friends.
+Driven by an overwhelming fear of maybe losing Henry, Alex seeks him out in the serene White House Gardens. Confusion leads to a kiss from the prince, who like any man, then spends the next several weeks ignoring Alex's texts and phone calls.
+
+A normal gay experience, yes. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+Invited to Alex's annual New Year's party, Henry leaves abruptly after seeing Alex kiss several girls at midnight. Alex follows him outdoors to the White House grounds. Henry kisses Alex, but fails to respond to Alex's attempts to contact him over the following weeks. After confiding in Nora, Alex realizes that he is attracted to Henry.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Weeks later at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a "Friends with Benefits" relationship, although they keep their involvement secret</mark>. Duty and responsibilities, however, have their own demands. The electoral battlefield beckons and Alex finds himself in Texas, championing his mother's campaign. 
+
+Because this *is* a romantic fantasy, the idea of Texas voting for a Democratic president is actually possible. <mark>He later travels to Brooklyn to speak at the Democratic National Convention, where Henry unexpectedly visits him.</mark> This leads to these "friends with benefits" becoming something closer than just friends.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+<mark>Weeks later, at a presidential dinner, Alex reunites with Henry and the pair end up hooking up. The pair enter into a friends with benefits relationship, although they keep their involvement secret</mark> from everyone except for Nora, Henry's sister Beatrice, Henry's best friend Percy, and their ever-present Secret Service and MI5 bodyguards.
+
+When Alex comes up with a plan for his mother to win Texas in the upcoming election, President Claremont sends him there to lead her Texas campaign. <mark>He later travels to Brooklyn to speak at the Democratic National Convention, where Henry unexpectedly visits him.</mark> Alex later comes out to his mother, who is supportive, but advises him to think about his relationship carefully.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Alex even comes out to his mother as bisexual. She's very supportive maybe (even... *too* supportive when she starts recommending that he go on prep) but advises him to think about his relationship carefully. A public relationship between the first son and the Prince of England could change their lives forever. 
 
 Their story however is far from a fairy tale ending. Henry visits Alex at the scenic Claremont Vacation House near Austin Texas. Out on the lake, just when Alex is on the cusp of sharing his deepest feelings with with Henry, the panicked Prince throws himself into the lake and soon leaves, escaping to England. 
 
+But love, with its tenacity, spurs Alex on. He pursues Henry across the ocean seeking answers. Drenched from the English rain, Alex demands to know why Henry has basically abandoned him. Henry admits that he loves Alex, just as Alex loves him, but explains that his Royal position makes a gay relationship impossible for him. But Alex, with those eyelashes of his, manages to convince Henry that their relationship is worth fighting for, and the the two reconcile and commit to being together. 
+
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+Alex invites Henry to his family's vacation home near Austin, Texas, and Alex begins to tell Henry that he is in love with him, but Henry, feeling overwhelmed and fearing that he cannot sustain a love-relationship – since the British royal family will not tolerate anyone being in an overt gay relationship – pre-emptively leaves the conversation and flees back to England. He refuses to respond to Alex's attempts to contact him. Alex visits Henry in London unexpectedly and demands an explanation for his behavior. Henry admits that he loves Alex just as Alex loves him, but explains that his royal position makes a gay relationship impossible for him. Alex convinces Henry that Henry loves him enough and their relationship is worth fighting for, and the two reconcile and commit to their relationship.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
-But love, with its tenacity, spurs Alex on. He pursues Henry across the ocean seeking answers. Drenched from the English rain, Alex demands to know why Henry has basically abandoned him. Henry admits that he loves Alex, just as Alex loves him, but explains that his Royal position makes a gay relationship impossible for him. But Alex, with those eyelashes of his, manages to convince Henry that their relationship is worth fighting for, and the the two reconcile and commit to being together. 
 
 Yet destiny has more challenges waiting in the wings. Their intimate emails and texts, a window to their evolving love story, are maliciously exposed by a spurned ex of Alex's, creating a media maelstrom. Alex uses this as an opportunity to come out publicly and own his sexuality and his love for Henry, giving a moving speech that makes him the figurehead for queer America. 
 
 But things don't go so well for Henry whose family has all but sequestered him away from the public at large. But thanks to some deft maneuvering on the part of allies on both sides, Alex and Henry reunite in London, and prepare to confront the king of England about Henry being allowed to be his own man. A terse confrontation follows, but is interrupted by the sounds in the streets. The public have come to support Henry, despite what his family may want. And going against the wishes of the crown, Henry chooses Alex. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+Shortly after Alex returns to the U.S., Alex and Henry's personal e‑mails to each other are hacked and posted online, and are being widely reported in the press. Both the White House and the Palace cut off all Henry's and Alex's means of contact. Zahra, the White House Deputy Chief of Staff, gets in touch with Shaan, Henry's equerry, and Alex and Henry are finally able to talk. Alex immediately flies to London to reunite with Henry. King James III summons them to a meeting and tells them that they cannot be together since their relationship is incompatible with royal tradition. However, Henry's sister Bea notices a crowd gathered in front of Buckingham Palace in support of them, and finds news reports of similar crowds of supporters in many areas of the U.K. Alex and Henry step outside together onto the balcony and openly greet the public as a couple.
+
+</from>
 </compare>
 
 <compare>
@@ -141,10 +200,14 @@ But things don't go so well for Henry whose family has all but sequestered him a
 
 The climax of the story coincides with the US elections. Polls are tight and Alex's family is preparing for bad news. The only thing keeping Alex together is Henry by his side. 
 
-As his mother prepares a concession speech, news comes from Texas. In the most *fairy tale moment since Cinderella's fairy godmother turned a pumpkin into a carriage*, Texas goes blue, securing a second term for president Claremont. Alex's tireless efforts, combined with Henry's unwavering support, mark a dual victory, one political and one personal. The movie ends as they celebrate away from the media glare in the tranquil surroundings of Alex's childhood home in Austin.
+As his mother prepares a concession speech, news comes from Texas. In the most *fairy tale moment since Cinderella's fairy godmother turned a pumpkin into a carriage*, Texas goes blue, securing a second term for president Claremont. Alex's tireless efforts, combined with Henry's unwavering support, mark a dual victory, one political and one personal. The movie ends as they celebrate away from the media glare in the tranquil surroundings of <mark>Alex's childhood home in Austin</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
+
+On election night, Henry returns to the United States to be with Alex. Alex's plan to win Texas for his mother ultimately results in her re-election, Alex and Henry later visit <mark>Alex's childhood home in Austin</mark> to personally celebrate.
+
+</from>
 </compare>
 
 &lt;Sponsor Read&gt;
