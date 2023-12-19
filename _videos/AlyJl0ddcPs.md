@@ -12,6 +12,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=v_KG7r3ClZc" # Reuploads channel
 description: "a video essay on <xyz>."
 notes:
+  - custom-start
   - short-advert
 
 cite:
@@ -20,6 +21,25 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+
+<compare>
+<credits header="Video Description:">
+
+[Sponsor plug]
+
+Join us on Patreon to see videos up to six months early!  
+[link]
+
+The Summer Hikaru Died is an ongoing horror manga SO GOOD I had to make a video about it long before it finishes. 
+
+#manga #horrorstories
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+{% assign timecode = "0:00" %}
+
 
 This video is brought to you by SquareSpace. Stick around until the end of the
 video to

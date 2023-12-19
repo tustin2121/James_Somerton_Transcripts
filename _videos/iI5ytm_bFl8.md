@@ -13,7 +13,9 @@ notes:
   - script-diff
 
 contributors:
+  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  formatting: "Tustin2121"
   citation: 
   formatting: Tustin2121
 

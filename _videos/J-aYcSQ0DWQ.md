@@ -18,6 +18,7 @@ notes:
   - script-diff
 
 contributors:
+  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"

@@ -21,7 +21,7 @@ notes:
   - custom-start
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
   formatting: Tustin2121
   factcheck: 
     - "[deus-and-the-machina.tumblr.com](https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you) (Direct [link to doc](https://docs.google.com/document/d/1I0zksTwwQJSg7vBvI63rmWg9t1Sckc-T9W03IFYFY_A/edit))"
