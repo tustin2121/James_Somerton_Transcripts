@@ -3,4 +3,4 @@
 		for = chapter title to slugify
 		at = timecode
 {%- endcomment -%}
-[{{ include.at }}](#{{ include.for | slugify }}) {{ include.for }}
+[{{ include.at }}](#{{ include.slug | default:include.for | slugify }}) {{ include.for }}
