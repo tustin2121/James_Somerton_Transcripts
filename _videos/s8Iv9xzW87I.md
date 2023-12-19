@@ -12,6 +12,7 @@ links: !!seq
 description: "a video essay on <xyz>."
 notes:
   - hbomb
+  - dec5-delete
 
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"

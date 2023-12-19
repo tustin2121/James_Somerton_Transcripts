@@ -9,5 +9,7 @@
 	{%- when "commentary" %} <a title="Had a Patreon-exclusive audio commentary video made for it." class="note"><i class="fa-solid fa-file-audio"></i></a>
 	{%- when "behind-scenes" %} <a title="Had a Patreon-exclusive behind-the-scenes video made for it." class="note"><i class="fa-solid fa-file-video"></i></a>
 	{%- when "podcast" %} <a title="This is a podcast-style video rather than an essay." class="note"><i class="fa-solid fa-podcast"></i></a>
+	{%- when "dec2-delete" %} <a title="James deleted this video on Dec 2nd, less than an hour after HBomberGuy's video released." class="note"><i class="fa-solid fa-calendar-xmark"></i></a>
+	{%- when "dec5-delete" %} <a title="James deleted this video on Dec 5th, before deleting everything else on Dec 7th." class="note"><i class="fa-regular fa-calendar-xmark"></i></a>
 	{%- endcase -%}
 {%- endfor -%}

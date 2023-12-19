@@ -11,6 +11,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on <xyz>."
 notes:
+  - dec5-delete
   - odd-linebreaks
 
 cite:

@@ -11,6 +11,7 @@ links: !!seq
 description: "a video essay on <xyz>."
 notes: 
   - hbomb
+  - dec2-delete
 
 cite:
   clips: !!map

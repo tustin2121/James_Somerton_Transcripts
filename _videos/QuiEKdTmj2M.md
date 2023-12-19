@@ -11,6 +11,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 description: "a video essay on Heartstopper and how it's just what we need right now."
 notes:
+  - dec5-delete
   - script-diff
 
 cite:

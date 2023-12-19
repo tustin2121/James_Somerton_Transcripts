@@ -46,7 +46,7 @@ This video was released in the wake of his pleading video where he lied to every
 </compare>
 
 <compare>
-<credits>
+<credits class="opening">
 
 \[Series Ident]: "Pocket Gays; Short Videos, Big Subjects"
 
@@ -377,4 +377,10 @@ So the spoken message and the visual message seem disjointed. We’re meant to h
 <from></from>
 </compare>
 
+<compare>
+<credits class="closing" {% include timecode %}>
+
 List of patreons scroll past to music. (There's *eight minutes* of this.)
+
+</credits>
+</compare>

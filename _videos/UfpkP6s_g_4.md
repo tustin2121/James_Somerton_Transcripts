@@ -11,6 +11,7 @@ links: !!seq
 description: "a video essay on <xyz>."
 notes:
   - hbomb
+  - dec5-delete
 
 # https://archive.org/details/biggerthanlifehi0000esco
 

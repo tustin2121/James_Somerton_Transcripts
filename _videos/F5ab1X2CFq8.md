@@ -20,6 +20,7 @@ contributors:
 
 cite:
   clips: !!map
+    kreia: { short: "(<em>Star Wars: KotOR2</em>, 2004)", full: "<em>Star Wars: Knights of the Old Republic II: The Sith Lords</em> [Video game]. (2004). Obsidian Entertainment, LucasArts." }
   misinformation: !!map
     first_line: "James literally gets the dates wrong in the very first line of this video."
     page_10: "James clearly hasn't read the source material if he's claiming up to page 10 is all you need."
@@ -153,7 +154,7 @@ DYSTOPIA
 
 ## Part One: Always Watching
 
-> "In the land of the bline, a one-eyed man is king" - Proverb
+> "In the land of the blind, a one-eyed man is king" - Proverb
 
 <compare>
 <james {% include timecode %}>
@@ -279,12 +280,11 @@ I can’t help but feel like this… dissonant community would prefer not to fin
 </compare>
 
 <compare>
-<clip {% include timecode %}> TODO
+<clip {% include citation for=page.cite.clips.kreia %}>
 
 Kreia: “To be united by hatred is a fragile alliance at best.” 
 
 </clip>
-<from></from>
 </compare>
 
 <compare>
