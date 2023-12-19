@@ -27,6 +27,7 @@ cite:
     rwrb_movie: { short: "RWRB (López, 2023)", full: "López, M. (Director). (2023). <em>Red, White, and Royal Blue</em> [Film]. Amazon Studios, Berlanti-Schechter Films." }
     barbie_movie: { short: "Barbie (Gerwig, 2023)", url: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films." }
   yikes: !!map
+    sex_broccoli: "James likens sex to broccoli: obviously if you haven't tried it, how do you know you hate it?"
   misinformation: !!map
     think_pieces: "James misinterprets a 'think piece' as queer men hating that there's gay sex on screen."
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
@@ -411,7 +412,7 @@ Gloria: We have to to be a boss but you can't be mean. You have to lead but you 
 <compare>
 <james {% include timecode %}>
 
-The Madonna horror complex exists for a reason. You marry the nice girl, not the one who'll give you a blowjob in a movie theater. This bothered Alanis Morissette so severely that she made one of the greatest songs of all time because of it!
+The Madonna whore complex exists for a reason. You marry the nice girl, not the one who'll give you a blowjob in a movie theater. This bothered Alanis Morissette so severely that she made one of the greatest songs of all time because of it!
 
 Suffice to say, women have made it clear that they don't like having the parameters of their sexual qualifications gauged by a group outside of women. And I get it. That's kinda annoying. Because on top of doing what you want to do, there is a looming social decorum of what society not only expects you to do, but will penalize you for not doing. All the while (on the example of sexuality) there are other groups of people who can do all the kinds of sexuality things that they want without any kind of repercussion. 
 
@@ -498,6 +499,18 @@ Sex is like broccoli: to know you don't like broccoli, you first kind of have to
 it's great! It's good. It's fine.
 
 [^broccoli]: Fact checked, true: https://www.bbc.com/news/health-50387126
+
+</james>
+<comment id="sex_broccoli">
+{{ site.tustin.header }}
+
+"How do you know you don't like X if you haven't tried it," works where X = food. But when X = sex, it's acephobic. Asexual people don't have to "try sex" to know they don't like it, and forcing someone to have sex when they don't want to is... well, have a word for that.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Given society's push to present sex as pleasurable, many start by trying it out and then spend... maybe even years trying to figure out why it's not working for them. Keep in mind that "asexual" doesn't always mean "no sex drive". Ace, like everything else in sexuality, is not only a spectrum but a matrix. This is pertinent as *Heartstopper*'s author, Alice Oseman, self-identifies as asexual themself. Which likely means that as per the Stan Lee rule of "write the stuff you wish you could read", they want romantic drama that *isn't* just focused around sex. And that should be that. It should be abundantly okay for this kind of media to exist, just as it should be abundantly okay for *Young Royals* and *Elite* to exist!
 
@@ -623,7 +636,7 @@ people! And was not nearly as good.
 
 We're shooting ourselves in the foot by following trends. Highly promoted queerness is queerness that has been bespoke to have as much appeal to straight audiences as possible. 
 
-Think Brokeback Mountain: would that have been as successful had it not starred two heart throbs that women wet their panties over and who simultaneously came across as butch enough for straight guys to feel comfortable with? 
+Think *Brokeback Mountain*: would that have been as successful had it not starred two heart throbs that women wet their panties over and who simultaneously came across as butch enough for straight guys to feel comfortable with? 
 
 </james>
 <from></from>
@@ -632,8 +645,7 @@ Think Brokeback Mountain: would that have been as successful had it not starred 
 <compare>
 <james {% include timecode %}>
 
-The problem in practice is that this obligation *implores us* to watch media we simply may not be interested in. Either outside of our preferred genres or featuring casting that we don't like. Or
-something which may contain triggering elements that we don't even know are triggers simply because we don't consider existing in a society that does not accommodate our identities as CPTSD!
+The problem in practice is that this obligation *implores us* to watch media we simply may not be interested in. Either outside of our preferred genres or featuring casting that we don't like. Or something which may contain triggering elements that we don't even know are triggers simply because we don't consider existing in a society that does not accommodate our identities as CPTSD!
 
 \[Meme]: Another clip of Jamie Lee Curtis saying "Trauma".
 
@@ -658,7 +670,7 @@ artist or author is out there trying to make a fictional manifesto out to reflec
 <compare>
 <james {% include timecode %}>
 
-Sometimes this is true, like with Barbie, which was a movie about Womanhood,the interaction between woman and the idea of woman, and where men may fit into this idea. At which point you are allowed to disagree with the premises and conclusions of the movie. You're also allowed to disagree with some finer points and some nitpicky elements of the conclusion, but overall enjoy the movie or appreciate that it exists. "Slightly disagree" does not need to mean "burn it in a fire".
+Sometimes this is true, like with Barbie, which was a movie about Womanhood, the interaction between woman and the idea of woman, and where men may fit into this idea. At which point you are allowed to disagree with the premises and conclusions of the movie. You're also allowed to disagree with some finer points and some nitpicky elements of the conclusion, but overall enjoy the movie or appreciate that it exists. "Slightly disagree" does not need to mean "burn it in a fire".
 
 </james>
 <from></from>
@@ -826,6 +838,9 @@ world. So don't let anyone stop you from telling it.
 <from></from>
 </compare>
 
+<compare>
+<credits class="closing" {% include timecode %}>
+
 &lt;Patreon plug&gt;
 <!-- this video was brought to you by our amazing patrons like the ones you see on screen right now if you'd like to help us keep making queer content on YouTube you can sign up for our patreon at the link in the description thanks for watching I don't who's or right youneed and I love it you bring on my to light I used to be Jed in my patience some people who walked in and out of my life but you is so different this time thoughts of the future of you caliz now you breaking Downs I've never found love with no ego you stitching up my scars forever just the start yeah you we go know go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you are [Music] breaking down my walls never found love with no e you stitching up my scars forever just the start you no now you're breaking down my walls I've never found love it no love love it no love [Music] [Music] it [Music] n n -->
 
@@ -876,3 +891,6 @@ love with
 &nbsp;
 love with no ego
 </div>
+
+</credits>
+</compare>

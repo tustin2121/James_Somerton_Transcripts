@@ -263,7 +263,7 @@ section.footnotes::before {
 .lyrics {
     margin-inline: auto;
     width: max-content;
-    min-width: 600px;
+    /* min-width: 600px; */
     font-family: serif;
     white-space: pre;
 }
