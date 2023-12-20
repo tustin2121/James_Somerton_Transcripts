@@ -8,6 +8,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Society+and+Queer+Horror.mp4"
 description: "a video essay on <xyz>."
 notes: 
+  - highlighted
   - hbomb
   - dec2-delete
   - custom-start
@@ -23,10 +24,14 @@ cite:
     jennifer: { short: "", full: "" }
   yikes: !!map
   misinformation: !!map
+    homo_erectus: "James makes up some facts about ancient humans."
+    medieval: "James seems to be mixing up history with modern times."
+    wicca_homo: "James claims there were strict rules among Wiccans in a time we know next-to-nothing about."
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
-    darren_elliot_smith: { color: 6, short: "(Elliot-Smith, )", full: "Elliot-Smith, D.", url: "" }
+    randy_shulman: { color: 1, short: (Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: "https://www.metroweekly.com/2013/10/queer-as-carrie/" }
+    darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx" }
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Hve Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article].", url: "" }
     colon_arason: { color: 4, short: "(Arason, )", full: "Arason, C. () <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article].", url: "" }
     zoe_fortier: { color: 10, short: "(Fortier, )", full: "Fortier, Z. (). <em>Women and Queerness in Horror: Jennifer's Body</em> [Article].", url: "" }
@@ -107,7 +112,21 @@ Society and Queer Horror
 <compare>
 <james {% include timecode %}>
 
-Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. Eons ago, human beings found Homo Erectus to be terrifying, because it was different. Leading to their assumed extinction.
+Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
+
+</james>
+<comment id="homo_erectus">
+{{ site.tustin.header }}
+
+This is a whole lot of speculation with nothing to back it up. For one, "Homo erectus" ***is*** a "human being", in that scientists classify them as [one of the "human species"](https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html#:~:text=H.%20erectus%20is%20the%20longest%20lived%20of%20all%20human%20species). And we have no way of knowing if other species of early humans found them terrifying.
+
+And, the current going theory as to why they went extinct was [due to climate change](https://www.insidescience.org/news/final-days-homo-erectus) and not, as is implied here, other humans being terrified of them and killing them. 
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 This is not entirely unlike the reaction toward homosexuality from the heterosexual majority. Something different. Something strange. Something queer. Something that goes against what they believe to be the natural order of things. And that in and of itself is the initial seed of horror. Being afraid of things you do not understand, things that do not belong, creatures and events that go against your own survival needs. A son or daughter that bears no children could possibly lead to the end of your lineage. And what else do you exist for other than to procreate? 
 {% assign timecode = "2:15" %}
@@ -146,13 +165,27 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 But that didn't last.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Along with the dark ages came a great tumult that led to the fear of anything and anyone non-Christian. Women became witches, gay men became warlocks, and the very idea of homosexuality was attributed to demonic possession, if not from Satan himself, than from the pagan deities that lingered and swept down from the north.
 
 And that is where our story of gay horror picks up. Hundreds of years later, with a coven of witches.
 {% assign timecode = "5:14" %}
 
 </james>
-<from></from>
+<comment id="medieval">
+{{ site.tustin.header }}
+
+The term "warlock" mean "male witch" only in modern times. It means ["oath-breaker"](https://en.wikipedia.org/wiki/Warlock#Etymology_and_terminology) (as in breaking your oath to god) in Old English, and thus would be gender-neutral. "Witch" is similarly gender-neutral in Old English, [having male and female forms](https://en.wikipedia.org/wiki/Witch_(word)#Etymology).
+
+Also, though it may have happened occasionally, it doesn't look like attributing being gay to "demonic possession" was a widespread thing, [instead just being a sin and looked down upon](https://en.wikipedia.org/wiki/History_of_the_Catholic_Church_and_homosexuality).
+
+</comment>
 </compare>
 
 ## Sisters of Salem
@@ -191,7 +224,7 @@ And finally <mark>Sarah</mark>, <mark>the main character, isn't sure about her i
 <mark>Chris</mark>, your typical teenage movie <mark>football jock, persists in making bullying comments about the three spiritual deviants, who he calls "The Bitches of Eastwick".</mark> Because he's <span hbomb="Wow, what a great addition, Jimmy. You really spiced up that anecdote. Made it your own. Put your fuckin' spin on it!">just *so clever*.</span>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 4" %}>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 4-6" %}>
 
 The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fully out as a witch</mark>. <mark>She wears goth lipstick and black, lace-up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark> She <mark>practices the craft</mark>. If this were about being gay, she would have been the kid with a rainbow button on her backpack.
 
@@ -253,7 +286,7 @@ What follows are multiple scenes resembling radical queer fairy gatherings, <mar
 <mark>Sadly the film's narrative wraps up as witchcraft backfires on the girls, thereby illustrating the dangers of non-conformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one who ends up in a straitjacket.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 8" %}>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 8-10" %}>
 
 Suffice it to say that there several scenes resembling Radical Faery gatherings <mark>where they call the corners and chant "Hail to the Guardians"</mark> etc. <mark>They also perform a ceremony that might someday constitute polyamorous marriage</mark> in some states, and they <mark>hold a Body Electric workshop</mark> in Rochelle's room where the four <mark>play "light as a feather, stiff as a board."</mark> The girls whisper and touch each other only with their index finger. Rochelle's mom walks in and interrupts the magic. "Whats going on in here?" "Nothing Mom." Tell me that didn't happen to you.
 
@@ -269,6 +302,8 @@ Suffice it to say that there several scenes resembling Radical Faery gatherings 
 
 Being released the same year the Defense of Marriage act was put in place, and only two years after the "Don't Ask, Don't Tell" policy was passed, *The Craft* became an instant hit, and a cult sensation, that would be played at gay halloween parties for literally decades to come. 
 
+As mentioned before, the connection between witches and homosexuality has gone back centuries, if not millennia. Lesbians were accused of witchcraft more than any other group of women. And gay men were regularly accused of being warlocks, or simply possessed by Satan. It's always funny, really, that the Christian Right Wing believes that God's main adversary is so interested in us. We should take it as a compliment, really.
+
 </james>
 <from></from>
 </compare>
@@ -276,12 +311,15 @@ Being released the same year the Defense of Marriage act was put in place, and o
 <compare>
 <james {% include timecode %}>
 
-As mentioned before, the connection between witches and homosexuality has gone back centuries, if not millennia. Lesbians were accused of witchcraft more than any other group of women. And gay men were regularly accused of being warlocks, or simply possessed by Satan. It's always funny, really, that the Christian Right Wing believes that God's main adversary is so interested in us. We should take it as a compliment, really.
-
-In modern Wicca, homosexuality is highly embraced. Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century, newer Wiccan traditions often avoid or disregard the historical aversion to lgbt people. These new traditions often cite the charge of the Goddess, which states "all acts of love and pleasure are my rituals". Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
+In modern Wicca, homosexuality is highly embraced. <mark>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
 
 </james>
-<from></from>
+<comment id="wicca_homo">
+{{ site.tustin.header }}
+
+There seems to be very little information on Wiccans prior to the 1950's, when [Gerald Gardner introduced it to the public](https://en.wikipedia.org/wiki/Wicca). We don't know anything about such a rule. The only maybe inkling to something like this was [accusations of homophobia](https://en.wikipedia.org/wiki/Gerald_Gardner#Homophobia) against Gardner.
+
+</comment>
 </compare>
 
 <compare>
@@ -293,7 +331,7 @@ Though many would suspect that modern witches grew up in ultra-liberal hippie-es
 {% assign timecode = "11:30" %}
 
 </james>
-<from {% include citation for=page.cite.plagiarized.amanda_kohr at="¶ 19" %}>
+<from {% include citation for=page.cite.plagiarized.amanda_kohr at="¶ 19-20" %}>
 
 <mark>Witchcraft, on the other hand, offered a spiritual space where queer folks</mark> like Bobbi, Mat, and Krysta <mark>could step into their personal power and explore otherness without shame, guilt, or fear.</mark> <mark>Though all of the witches</mark> I spoke to investigated magic (or magick) in their childhood, their crafts began to really come to fruition in their young adulthood, as they were granted more exposure to the variety of rituals and practices. Bobbi notes that discovering moon rituals was a major turning point in her witchcraft journey. 
 
@@ -307,7 +345,7 @@ Though many would suspect that modern witches grew up in ultra-liberal hippie-es
 <compare>
 <james {% include timecode %}>
 
-Based on the best-selling novel by queer ally Stephen King, *Carrie* tells the story of Carrie white, A teenage girl trying desperately to make it through her high school years. she's bullied for being a bit differen, for being shy, for not fitting in, and like many young Christians, doesn't feel at home in the stifling environment of an evangelical household. 
+Based on the best-selling novel by queer ally Stephen King, *Carrie* tells the story of Carrie white, A teenage girl trying desperately to make it through her high school years. she's bullied for being a bit different, for being shy, for not fitting in, and like many young Christians, doesn't feel at home in the stifling environment of an evangelical household. 
 
 possibly the most obvious queer coding in the story is when Carrie's ultra religious mother actually locks her in a closet, declaring that she'll be sent to hell and punished for being who she is, if she continues down this sinful path.
 
@@ -318,7 +356,7 @@ possibly the most obvious queer coding in the story is when Carrie's ultra relig
 <compare>
 <james {% include timecode %}>
 
-Carrie has a crush, you see, on the high school heartthrob, tommy. and like many a gay boy and girl in their high school years, he is completely unattainable, until he's not. until he's suddenly interested in Carrie, a predicament both thrilling and terrifying. How many queer high schoolers have been in that position? Having a crush on a boy or girl, thinking there's no way that they could possibly be into you, that they're most likely straight. Approaching them romantically may even end in violence, especially in the 1970s, when the book and movie came out. This can easily be placed on most high schoolers who feel like they don't fit in but, it's particularly salient for queer kids. 
+Carrie has a crush, you see, on the high school heartthrob, Tommy. and like many a gay boy and girl in their high school years, he is completely unattainable, until he's not. until he's suddenly interested in Carrie, a predicament both thrilling and terrifying. How many queer high schoolers have been in that position? Having a crush on a boy or girl, thinking there's no way that they could possibly be into you, that they're most likely straight. Approaching them romantically may even end in violence, especially in the 1970s, when the book and movie came out. This can easily be placed on most high schoolers who feel like they don't fit in but, it's particularly salient for queer kids. 
 
 I myself had a crush in junior high, we'll call him "Dan". He knew I was gay and seemed relatively accepting. but the ever-existing caveat "but I'm not gay, so you know, don't try anything" always hovered over the friendship. I knew there was no chance. And then, one night, my friends and I were having a movie night. Six of us were piled into my room watching Bram Stoker's Dracula, itself full of queer imagery. And while most everyone had spread out around the room, Dan and I ended up in my bed. A single bed with barely enough room for me, let alone another six foot soccer player. He didn't seem to mind though. Nothing happened between us, of course, but knowing that my straight best friend was okay practically cuddling with me made me pretty happy. 
 
@@ -360,18 +398,39 @@ Director of the 2013 remake, lesbian director Kimberly Pierce, said:
 > "I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.randy_shulman at="¶ 9-10" %}>
+
+Peirce also sees the story as a superhero origin story, which she also relates to a gay sensibility.
+
+<mark>“I think another queer part of the narrative is that Carrie gets super powers, and those super powers are like a queer person understanding they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it’s okay. Because that’s literally what Carrie says. She says to her mom, ‘There are other people out there like me. I am normal, I am okay, even if you don’t think so.’ I’ve talked to lots of [gay] people about this movie and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her. It’s an echo of what a queer person could write as a kind of corrective narrative.”</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<mark>Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys</mark>, she may well be situated as a powerful figure of identification for gay male viewers. Carrie's narrative can also be read as a variation on the coming out tale, both sexually and socially. And revolves around the awkwardness of revealing one's own sexuality to one's parents, especially one's mother, and the guilt or shame involved in doing so.
-
-The film also has both cult and camp lore, mainly from its use of excess, a staple of director Brian De Palma. In the excessive style and form of his direction in terms of lighting, color coding, and the melodramatic use of music and score. 
+<mark>Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys</mark>, <mark>she may well be situated as a powerful figure of identification for gay male viewers.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.darren_elliot_smith at="¶ ?" %}>
+<from {% include citation for=page.cite.plagiarized.darren_elliot_smith at="p138" %}>
+
+The cult of Carrie (1976) from its origins in Stephen King's novel through to De Palma's initial cinematic interpretation, has accumulated a wealth of queer appropriations in both cinema and the theatre. <mark>Given Carrie's status as cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys</mark> <mark>she may well be situated as a powerful figure of identification for gay male spectators.</mark> The very act of appropriating imagery and the iconography [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Carrie's narrative</mark> can also be read as <mark>a variation on the coming out tale, both sexually and socially. And revolves around the awkwardness of revealing one's own sexuality to one's parents, especially one's mother, and the guilt or shame involved in doing so.</mark>
+
+<mark>The film also has both cult and camp lore</mark>, <mark>mainly from its use of excess</mark>, a staple of director Brian <mark>De Palma</mark>. <mark>In the excessive style and form of</mark> his <mark>direction in terms of lighting, color coding, and the melodramatic use of music and score</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.darren_elliot_smith at="p139" %}>
+
+<mark>Carrie's narrative</mark> is <mark>a variation on the 'coming out' tale, both sexually and socially and revolves around the awkwardness of revealing one's own sexuality to one's parents (especially one's mother) and the guilt or shame involved in doing so.</mark> <mark>The film also has both cult and camp allure</mark> for the gay male spectator deriving <mark>mainly from its use of excess</mark>, <mark>in the excessive style and form of</mark> <mark>De Palma</mark>'s <mark>direction in terms of lighting, colour-coding, melodramatic use of music and score</mark> and in its exaggerated melodramatic acting (specifically from Piper Laurie and Nancy Allen). Like many horro<sup class"add">[sic: horror]</sup> films, [...]
 
 </from>
 </compare>
