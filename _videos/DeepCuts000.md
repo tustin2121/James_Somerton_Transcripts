@@ -586,10 +586,21 @@ That accepting the fact that a BDSM subculture *exists* within the queer communi
 
 But there's an odd attractiveness to the monsters of *Hellraiser*. When they move and speak there's a certain degree of attractive nobility in their appearance. These debauched angels may commit visceral acts of savagery, but they also possess a surprising grace and eloquence. While Benshoff may view these creatures as monster queers that are not at all positive representations of the community, it must needs be remarked that the cenobites in *Hellraiser* fit more comfortably into the role of anti-hero than that of the monster.
 
-When our protagonist, Kirstie, is confronted by the Cenobites after solving the puzzle box herself and demands to know who they are, she is met with the reply:
-
 </james>
 <from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+When our protagonist, Kirstie, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
+
+</james>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+
+When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. While Benshoff may view these creatures as monster queers that are not at all a positive representation, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster. When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, [...]
+
+</from>
 </compare>
 
 <compare>
@@ -598,17 +609,28 @@ When our protagonist, Kirstie, is confronted by the Cenobites after solving the 
 Cenobite: "Explorers in the further regions of experience. Demons to some, angels to others."
 
 </clip>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+
+[...] “We are explorers in the further regions of experience. Demons to some, angels to others.” [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-This introduction implies that their prey chooses *them*, not the other way around. If one assumes that their typical victim is someone like Frank, then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike other slashers, can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal". 
+[...] <mark>This introduction implies that their prey chooses *them*,</mark> not the other way around. <mark>If one assumes that their typical victim is someone like Frank,</mark> <mark>then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike</mark> other slashers, <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal".</mark>
 
-Just like any good master or dom, they don't want you if you don't want them. If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
+Just like any good master or dom, they don't want you if you don't want them. <mark>If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
 
 </james>
-<from></from>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+
+<mark>This introduction implies that their prey chooses them,</mark> and that the violence they unleash is not directionless. <mark>If one assumes that their typical victim is someone like Frank,</mark> who summons them at the beginning of the film, <mark>then it becomes apparent that their talents are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the cenobites, unlike</mark> the psychopaths found in many of the slasher films of the same period, reveal that they are rational beings that <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to normal people who wish to remain normal.</mark>
+
+<mark>If the cenobites are not truly the monster, then what is? It would appear that the film’s real monster queer is Frank: the undead beast the cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>, and this begins long before his resurrection. In a flashback scene Frank returns home for his brother’s wedding and savagely seduces the bride-to-be. He is painted as a pure hedonist who has little regard for others, but it is not until his transformation that he becomes physically dangerous to those close to him.
+
+</from>
 </compare>
 
 <compare>
