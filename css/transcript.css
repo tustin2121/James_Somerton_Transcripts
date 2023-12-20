@@ -73,6 +73,7 @@ compare comment
 	display: block;
 	border: white 1px solid;
 	padding: 0px 8px;
+	counter-reset: marker-num;
 }
 compare cite    {
 	grid-area: s; 
@@ -201,6 +202,32 @@ compare from mark  {
 	color: var(--mark-source-text) !important;
 	background-color: color-mix(in srgb, var(--source-color) 30%, var(--color-canvas-default)) !important;
 	color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default)) !important;
+}
+
+compare james mark,
+/* compare james blockquote, */
+compare from mark
+{
+	counter-increment: marker-num;
+	position: relative;
+}
+compare james mark::before,
+/* compare james blockquote::before, */
+compare from mark::before
+{
+	content: counter(marker-num);
+	vertical-align: super;
+	font-size: x-small;
+	color: var(--color-accent-fg);
+}
+/* compare james blockquote::before {
+	position: absolute;
+	left: 0.5em; top: 0.5em;
+} */
+compare james mark[num]::before,
+compare from mark[num]::before
+{
+	content: attr(num);
 }
 
 compare from:empty {

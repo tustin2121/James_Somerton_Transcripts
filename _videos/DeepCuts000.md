@@ -30,23 +30,23 @@ cite:
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
-    randy_shulman: { color: 1, short: (Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: "https://www.metroweekly.com/2013/10/queer-as-carrie/" }
+    randy_shulman: { color: 3, short: "(Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: "https://www.metroweekly.com/2013/10/queer-as-carrie/" }
     darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx" }
-    alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Hve Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article].", url: "" }
-    colon_arason: { color: 4, short: "(Arason, )", full: "Arason, C. () <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article].", url: "" }
-    zoe_fortier: { color: 10, short: "(Fortier, )", full: "Fortier, Z. (). <em>Women and Queerness in Horror: Jennifer's Body</em> [Article].", url: "" }
-    dani_leever: { color: 11, short: "(Leever, )", full: "Leever, D. (). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article].", url: "" }
-    michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
-    bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
-    jf_sargent: { color: 17, short: "(Sargent, )", full: "Sargent, J.F.", url: "" }
-    david_church: { color: 18, short: "(Church, )", full: "Church, D.", url: "" }
-    david_greven: { color: 16, short: "(Greven, )", full: "Greven, D. () <em>Fears of a Millennial Masculinity: Scream's Queer Killers</em> [Article].", url: "" }
-    claire_sisco_king: { color: 15, short: "(King, )", full: "King, C.S.", url: "" }
-    amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
-    jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
-    rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
-    joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves Richie Tozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
-    alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
+    alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
+    colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
+    # zoe_fortier: { color: 10, short: "(Fortier, )", full: "Fortier, Z. (). <em>Women and Queerness in Horror: Jennifer's Body</em> [Article].", url: "" }
+    # dani_leever: { color: 11, short: "(Leever, )", full: "Leever, D. (). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article].", url: "" }
+    # michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
+    # bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
+    # jf_sargent: { color: 17, short: "(Sargent, )", full: "Sargent, J.F.", url: "" }
+    # david_church: { color: 18, short: "(Church, )", full: "Church, D.", url: "" }
+    # david_greven: { color: 16, short: "(Greven, )", full: "Greven, D. () <em>Fears of a Millennial Masculinity: Scream's Queer Killers</em> [Article].", url: "" }
+    # claire_sisco_king: { color: 15, short: "(King, )", full: "King, C.S.", url: "" }
+    # amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
+    # jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
+    # rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
+    # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves Richie Tozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
+    # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
 ---
 
 <compare>
@@ -226,9 +226,9 @@ And finally <mark>Sarah</mark>, <mark>the main character, isn't sure about her i
 </james>
 <from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 4-6" %}>
 
-The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fully out as a witch</mark>. <mark>She wears goth lipstick and black, lace-up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark> She <mark>practices the craft</mark>. If this were about being gay, she would have been the kid with a rainbow button on her backpack.
+The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fully out as a witch</mark>. <mark num="4">She wears goth lipstick and black, lace-up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark> She <mark num="3">practices the craft</mark>. If this were about being gay, she would have been the kid with a rainbow button on her backpack.
 
-<mark>Bonnie</mark> (Nev Campbell) has <mark>self-image issues because of scars that cover her back and arms. Like so many gay kids, she wants to be left alone, yet</mark> at the same time <mark>she fears that she will grow up lonely</mark>. <mark>Rochelle</mark> (Rachel True) <mark>the only African-American character</mark>, <mark>faces racist comments by the other kids</mark>. This <mark>angers her, but only in a pouty</mark>, <mark>look-at-what-she-did-to-my-cashmere-sweater</mark>, kind of way. Nothing in this movie's script can get in the way of the real social justice issue, which is <mark>witch-phobia</mark>.
+<mark>Bonnie</mark> (Nev Campbell) has <mark>self-image issues because of scars that cover her back and arms. Like so many gay kids, she wants to be left alone, yet</mark> at the same time <mark>she fears</mark> that <mark>she will grow up lonely</mark>. <mark>Rochelle</mark> (Rachel True) <mark>the only African-American character</mark>, <mark>faces racist comments by the other kids</mark>. This <mark>angers her, but only in a pouty</mark>, <mark>look-at-what-she-did-to-my-cashmere-sweater</mark>, kind of way. Nothing in this movie's script can get in the way of the real social justice issue, which is <mark>witch-phobia</mark>.
 
 <mark>Sarah</mark> (Robin Tunney), <mark>the main character, isn't sure about her identity</mark> <mark>in the beginning. She starts out craft-curious.</mark> This movie is about <mark>her journey. She is confronted with peer pressure and her own internalized witch-phobia.</mark> On their first night together, Sarah asks the others "do you guys really believe in this?" <mark>Back at school the next day she doesn't want to get rejected by the popular kids so she downplays her relationship with Nancy, Bonnie and Rochelle.</mark> <mark>Chris</mark>, the <mark>football jock, persists in making bullying comments about the three spiritual deviants, whom he calls "the Bitches of Eastwick."</mark> He explains, "when you're a guy, and I am, people expect things." Very similar to often heard statements, 'Boys will be boys' or 'Don't be such a f*gg*t.'
 
@@ -430,7 +430,7 @@ The cult of Carrie (1976) from its origins in Stephen King's novel through to De
 </james>
 <from {% include citation for=page.cite.plagiarized.darren_elliot_smith at="p139" %}>
 
-<mark>Carrie's narrative</mark> is <mark>a variation on the 'coming out' tale, both sexually and socially and revolves around the awkwardness of revealing one's own sexuality to one's parents (especially one's mother) and the guilt or shame involved in doing so.</mark> <mark>The film also has both cult and camp allure</mark> for the gay male spectator deriving <mark>mainly from its use of excess</mark>, <mark>in the excessive style and form of</mark> <mark>De Palma</mark>'s <mark>direction in terms of lighting, colour-coding, melodramatic use of music and score</mark> and in its exaggerated melodramatic acting (specifically from Piper Laurie and Nancy Allen). Like many horro<sup class"add">[sic: horror]</sup> films, [...]
+<mark>Carrie's narrative</mark> is <mark>a variation on the 'coming out' tale, both sexually and socially and revolves around the awkwardness of revealing one's own sexuality to one's parents (especially one's mother) and the guilt or shame involved in doing so.</mark> <mark>The film also has both cult and camp allure</mark> for the gay male spectator deriving <mark>mainly from its use of excess</mark>, <mark>in the excessive style and form of</mark> <mark>De Palma</mark>'s <mark>direction in terms of lighting, colour-coding, melodramatic use of music and score</mark> and in its exaggerated melodramatic acting (specifically from Piper Laurie and Nancy Allen). Like many horro<sup class="add">[sic: horror]</sup> films, [...]
 
 </from>
 </compare>
@@ -454,36 +454,133 @@ But we're not all Carrie White. Sometimes that self-hatred internalizes, somethi
 
 Demons are not just beings of pain and torment in Clive Barker's *Hellraiser*. They're moral abominations, creatures so lost in hedonism, they've long since forgotten the difference between pain and pleasure. Demons that could be mistaken or even accepted for... angels, from a certain point of view. Though many would question the queerness of *Hellraiser*, it lurches well beyond breaking heteronormativity. It skins it alive.
 
-Written and directed by Clive Barker, and based on his novella *The Hell-Bound Heart*, *Hellraiser* tells the story of Frank Cotton, a man who has broken every imaginable sexual taboo, who has crossed every human limit, and has still not met his fill of sexual sadism. BDSM has become all too vanilla for him. And so he searches out an infernal puzzle box that, when solved, summons interdimensional beings known as the Cenobites, creatures that dwell in a realm of extreme carnal indulgence, where people are willingly subjected to severe forms of sadomasochism that include, but are surely not limited to, being torn apart by hooks and chains.
+</james>
+<from></from>
+</compare>
 
-Clearly this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror, but it doesn't feel too far off from the way queer people in the BDSM community are often perceived by those who don't understand that subculture. That's the key variable that makes *Hellraiser* so special, Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving frank and his mistress Julia. 
+<compare>
+<james {% include timecode %}>
 
-Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time, mixed with the art of Herronius Bach, in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.
+Written and directed by Clive Barker, and based on his novella *The Hell-Bound Heart*, *Hellraiser* tells the story of <mark>Frank Cotton</mark>, a man who has broken every imaginable sexual taboo, who has crossed every human limit, and has still not met his fill of sexual sadism. BDSM has become all too vanilla for him. And so he searches out an infernal <mark>puzzle box</mark> that, when <mark>solved, summons interdimensional beings</mark> known as <mark>the Cenobites</mark>, creatures that <mark>dwell in a realm of extreme carnal indulgence, where people</mark> are willingly subjected <mark>to severe forms of sadomasochism that include, but are surely not limited to, being torn apart by hooks and chains.</mark>
 
-Even more important is the fact that Clive Barker created this story as a gay man, which allows queer representation to transcend the page and screen making *Hellraiser* resonate even more profoundly. Having always been interested in monsters, it could be safe to assume that Barker was fascinated by outsiders and outcasts like his creations, because he could relate to them. 
+<mark>Clearly this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror, but it doesn't feel too far off from the way queer people in the BDSM community are often perceived by those who don't understand that subculture.</mark> 
 
-And he wasn't alone; the queer BDSM culture of the time welcomed *Hellraiser* with open arms, indulging in its allegorical portrayal of kink, polyamory, and queerness. This subgroup of the LGBT community grew quickly in the 1980s as a way to experience sexual pleasure that didn't involve penile penetration, avoiding HIV by learning a whole new way of enjoying pleasure. And pain. And to many in the queer community, they were looked at as freaks, monsters, horrors to be avoided at any cost. 
+</james>
+<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 3-4" %}>
+
+The film opens by introducing us to <mark>Frank Cotton</mark> who obtains a <mark>puzzle cube</mark> that, upon being <mark>solved, summons supernatural beings</mark> clad in leather and chains. We later learn that these are <mark>the Cenobites</mark>, who <mark>dwell in a realm of extreme carnal indulgence, subjecting people</mark> <mark>to severe forms of sadomasochism that include but are by no means limited to limbs being torn apart by hooks and chains.</mark> <mark>Clearly, this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror. But it doesn’t feel too far off from the way queer people in the BDSM community are often perceived by those who don’t understand the subculture.</mark> 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>That's the key variable that makes *Hellraiser* so special, Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving Frank and his mistress Julia.</mark> 
+
+<mark>Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time</mark>, mixed with the art of Herronius Bach, <mark>in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.</mark>
+
+</james>
+<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
+
+To me, <mark>that’s the key variable that makes Hellraiser so special. Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving Frank and his mistress, Julia.</mark> <mark>Barker took these insecurities and combined them with imagery derived from the underground leather scene of the time</mark> <mark>in order to establish a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive, but wildly inclusive, material.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Even more important is the fact that Clive Barker created this story as a gay man, which allows queer representation to transcend the page and screen</mark> <mark>making *Hellraiser* resonate</mark> <mark>even more profoundly. Having always been interested in monsters, it could be safe to assume that Barker was fascinated by outsiders and outcasts like his creations, because he could relate to them</mark>. 
+
+And he wasn't alone.
+
+</james>
+<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
+
+<mark>Even more important is the fact that Clive Barker created this film as a gay man, which allows queer representation to transcend the screen</mark> into the real world, and almost <mark>makes Hellraiser resonate</mark> with me <mark>even more profoundly. Having always been interested in monsters, it could be safe to assume that Barker was fascinated by outsiders and outcasts like his creations because he could relate to them</mark>. 
+
+And that’s the thing—I could relate to them, too. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The queer BDSM culture of the time welcomed *Hellraiser* with open arms, indulging in its allegorical portrayal of kink, polyamory, and queerness. This subgroup of the LGBT community grew quickly in the 1980s as a way to experience sexual pleasure that didn't involve penile penetration, avoiding HIV by learning a whole new way of enjoying pleasure. And pain. And to many in the queer community, they were looked at as freaks, monsters, horrors to be avoided at any cost. 
 
 what does it mean to be considered a monster... by monsters? 
 
-Even in Harry and Benshoff's book, *Monsters in the Closet*, which you'll no doubt notice shares a title with [this video's spiritual predecessor](4zPCM14-SCQ.md), Barker's work remains somewhat marginal. Benshoff recognizes *Hellraiser* for some of its *visual* characteristics, but comes to the conclusion that too often the representation of Barker's monster queers seems similar to those produced by right-wing ideologues.
+</james>
+<from></from>
+</compare>
 
-Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect repression in contemporary society. 
+<compare>
+<james {% include timecode %}>
+
+<mark>Even in Harry M Benshoff</mark>'s book, *<mark>Monsters in the Closet</mark>*, which you'll no doubt notice shares a title with [this video's spiritual predecessor](4zPCM14-SCQ.md), <mark>Barker's work remains somewhat marginal</mark>. <mark>Benshoff recognizes *Hellraiser* for some of its *visual* characteristics, but comes to the conclusion that too often the representation of Barker's monster queers seems similar to those produced by right-wing ideologues.</mark>
+
+<sup>Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect</sup> <sup>repression in contemporary society</sup>. 
 
 \[Quote on screen]:
-> "This study attempts to shine a light on the shapes that lurk in the shadows, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the
-horror film is that 'normality is threatened by the monster'"
+> "This study <mark>attempts to shine a light on the shapes that lurk in the</mark> shadows <mark>, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the horror film is that 'normality is threatened by the monster'"</mark>
 
-One of the controversial aspects of Wood's article is the distinction that he makes between what he perceives to be progressive and reactionary reprehensible movements within the genre. This notion of "reprehensible horror" continues to be a presence in *Monsters in the Closet* and it would appear that this attitude contributes greatly to Benshoff's general disdain for Barker's work.
+</james>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 2-3" %}>
 
-While there is merit to the criticism that there is a lack of positive queer representation in *Hellraiser*, the logic applied by both Wood and Benshoff remains deeply problematic. Their argument revolves around the notion that films like *Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that Barker finds these images to be compelling. And horror film audiences are more likely to be fascinated than disgusted. 
+Clive Barker is an openly gay author, painter and film director, but while elements of his novels are celebrated for their queerness, it often seems that his films are regarded not as queer; they are simply films that happen to be made by a gay man. <mark>Even in Harry M. Benshoff’s</mark> somewhat exhaustive study <em><mark>Monsters in the Closet</mark>: Homosexuality and the Horror Film</em> <mark>Barker remains a somewhat marginal figure</mark>. <mark>Benshoff recognizes *Hellraiser* for some of its visual characteristics, but comes to the conclusion that “too often the representation of Barker’s monster queers seems similar to those produced by right-wing ideologues.</mark>” <sup>3</sup>
 
-Even if one accepts that the queer images and *Hellraiser* are not positive ones how does that make these representations "reprehensible"? To a large extent the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters, of the likes of which populate the films of John Waters. 
+<sup>Benshoff’s book bases itself on the theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examined the ways in which horror films reflect</sup> the surplus <sup>repression in contemporary society</sup>. This serious study of a genre, one which has generally been regarded as something almost anti-intellectual, <mark>attempts to shine a light on the shapes that lurk in the</mark> darkness <mark>, and the way that the introduction of the Monster disrupts society. According to Wood, the basic formula of the horror film is that “normality is threatened by the Monster.”</mark> <sup>4</sup> This equation simplifies the engine that propels the horror film into the parts of the collective psyche that we’d seldom willingly explore, and allows for a discussion on how the genre may be used as a podium to express political ideas that fall far outside the mainstream.
 
-In his analysis of character construction and gay narrative film, Tom Wah points out:
+
+\3. Benshoff, Harry M. Monsters in the Closet: Homosexuality and the Horror Film. (New York: Manchester University Press, 1997). p. 262  
+\4. Wood, Robin. “An Introduction to the American Horror Film.” The American Nightmare, eds, Robin Wood and Richard Lippe. (Toronto: The Festival of Festival, 1979). p. 14 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>One of the controversial aspects of Wood's article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> reprehensible <mark>movements within the genre</mark>. <mark>This notion of "reprehensible horror" continues to be a presence in *Monsters in the Closet* and it would appear that this attitude contributes greatly to Benshoff's general disdain for Barker's work.</mark>
+
+<mark>While there</mark> is <mark>merit to the criticism that there is a lack of positive queer representation in</mark> *Hellraiser*, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark>. <mark>Their argument revolves around the notion that films like</mark> *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that Barker finds these images to be compelling. And horror film audiences are more likely to be fascinated than disgusted</mark>. 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 4" %}>
+
+<mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” 5 <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” 6
+
+\5. Wood 24   
+\6. Jenkins, Henry. “Monstrous Beauty and Mutant Aesthetics: Rethinking Matthew Barney’s Relationship to the Horror Genre.” http://web.mit.edu/cms/People/henry3/horror.html, accessed April 2nd, 2010.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Even if one accepts that the queer images and *Hellraiser* are not positive ones how does that make these representations "reprehensible"</mark>? <mark>To a large extent the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters</mark>, of the likes of which populate the films of <mark>John Waters</mark>. 
+
+<mark>In his analysis of character construction in gay narrative film, Tom Wah points out</mark>:
 
 \[Quote on screen]:
 > "The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"
+
+</james>
+<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 4" %}>
+
+<mark>Even if one accepts that the queer images in *Hellraiser* film are not positive ones, how does that make these representations reprehensibly</mark> reactionary? <mark>To a large extent, the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters</mark> that appeared long before the outrageous stereotypes seen in <mark>John Waters</mark>, and extends well beyond the subculture sociopaths that populate the films of Gregg Araki. <mark>In his analysis of character construction in gay narrative film, Tom Waugh points out</mark> <mark>“the irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues,”</mark> and asks the reader to ponder the following question: “Is the attraction to the ‘negative image’ by the gay author simply a question of self-oppression” <sup>7</sup> or is it something else entirely? He goes on to provide a laundry list of possible explanations before concluding that these questions have been side-stepped for too long, and that people have relied “instead on reductive moralism instead of criticism.” <sup>8</sup>
+
+\7. Thomas Waugh, “The Third Body: Patterns in the Construction of the Subject in Gay Male Narrative Film,” in The Visual Culture Reader, ed. Nicholas Mirzoeff (New York and London: Routledge, 1998). p. 441  
+\8. Waugh 442  
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 That accepting the fact that a BDSM subculture *exists* within the queer community further others us from the heteronormative white picket fences of the suburbs. And what is a queer person if they're not accepted by the suburban rabble? A monster, of course.
 
@@ -509,6 +606,13 @@ Cenobite: "Explorers in the further regions of experience. Demons to some, angel
 This introduction implies that their prey chooses *them*, not the other way around. If one assumes that their typical victim is someone like Frank, then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike other slashers, can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal". 
 
 Just like any good master or dom, they don't want you if you don't want them. If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Frank *the man*... is the monster. The man you'd walk by in a mall and not give a second look. The man you'd say hello to in an elevator. *He* is the real beast in *Hellraiser*, not the Cenobites. Like how you're more likely to be raped or killed by your husband than anyone you'd meet in an S&M club.
 
