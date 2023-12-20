@@ -1,3 +1,6 @@
+:root {
+	--source-color: hsl(120, 100%, 50%);
+}
 @media (prefers-color-scheme: dark) {
 	:root {
 		color-scheme: dark;
@@ -6,11 +9,11 @@
 		--box-border-nick: blue;
 		--box-border-clip: gray;
 		--box-border-credits: gray;
-		--box-border-from: #00b500;
+		/* --box-border-from: #00b500; */
 		--box-border-comment: gray;
 		--box-header-color: gray;
 		
-		--mark-stolen-text: #c9d1d9;
+		--mark-stolen-text: #ffeccc;
 		--mark-stolen-bg: #412900;
 		--mark-source-text: #c9d1d9;
 		--mark-source-bg: #033a16;
@@ -24,12 +27,12 @@
 		--box-border-nick: blue;
 		--box-border-clip: gray;
 		--box-border-credits: gray;
-		--box-border-from: green;
+		/* --box-border-from: green; */
 		--box-border-comment: gray;
 		--box-header-color: gray;
 		
-		--mark-stolen-text: #000000;
-		--mark-stolen-bg: #f3ecd2;
+		--mark-stolen-text: #412900;
+		--mark-stolen-bg: #ffeccc;
 		--mark-source-text: #000000;
 		--mark-source-bg: #abf1c4;
 	}
@@ -96,7 +99,8 @@ compare credits {
 }
 compare from    {
 	grid-area: f; 
-	border-color: var(--box-border-from);
+	/* border-color: var(--box-border-from); */
+	border-color: var(--source-color);
 }
 compare comment {
 	grid-area: f; 
@@ -195,6 +199,8 @@ compare james mark {
 compare from mark  {
 	background-color: var(--mark-source-bg) !important;
 	color: var(--mark-source-text) !important;
+	background-color: color-mix(in srgb, var(--source-color) 30%, var(--color-canvas-default)) !important;
+	color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default)) !important;
 }
 
 compare from:empty {
@@ -283,31 +289,31 @@ q {
 	background-color: var(--color-canvas-subtle);
 }
 
-:root { --source-color: 120, 100%, 50%; }
+/* :root { --source-color: 120, 100%, 50%; } */
 
-.color-hbomb { --source-color: 59, 100%, 30%; }
-.color-todd  { --source-color: 0, 75%, 40%; }
-.color-1     { --source-color: 118, 100%, 30%; }
-.color-2     { --source-color: 187, 100%, 50%; }
-.color-3     { --source-color: 357, 92%, 43%; }
-.color-4     { --source-color: 71, 100%, 52%; }
-.color-5     { --source-color: 232, 100%, 47%; }
-.color-6     { --source-color: 138, 100%, 47%; }
-.color-7     { --source-color: 251, 100%, 75%; }
-.color-8     { --source-color: 0, 52%, 32%; }
-.color-9     { --source-color: 66, 100%, 35%; }
-.color-10    { --source-color: 37, 100%, 16%; }
-.color-11    { --source-color: 34, 98%, 34%; }
-.color-12    { --source-color: 164, 57%, 36%; }
-.color-13    { --source-color: 187, 90%, 19%; }
-.color-14    { --source-color: 342, 27%, 54%; }
-.color-15    { --source-color: 221, 100%, 50%; }
-.color-16    { --source-color: 273, 72%, 33%; }
-.color-17    { --source-color: 197, 47%, 31%; }
-.color-18    { --source-color: 318, 65%, 49%; }
-.color-19    { --source-color: 187, 100%, 39%; }
+.color-hbomb { --source-color: hsl(59, 100%, 30%); }
+.color-todd  { --source-color: hsl(0, 75%, 40%); }
+.color-1     { --source-color: hsl(118, 100%, 30%); }
+.color-2     { --source-color: hsl(187, 100%, 50%); }
+.color-3     { --source-color: hsl(357, 92%, 43%); }
+.color-4     { --source-color: hsl(71, 100%, 52%); }
+.color-5     { --source-color: hsl(232, 100%, 47%); }
+.color-6     { --source-color: hsl(138, 100%, 47%); }
+.color-7     { --source-color: hsl(251, 100%, 75%); }
+.color-8     { --source-color: hsl(0, 52%, 32%); }
+.color-9     { --source-color: hsl(66, 100%, 35%); }
+.color-10    { --source-color: hsl(37, 100%, 16%); }
+.color-11    { --source-color: hsl(34, 98%, 34%); }
+.color-12    { --source-color: hsl(164, 57%, 36%); }
+.color-13    { --source-color: hsl(187, 90%, 19%); }
+.color-14    { --source-color: hsl(342, 27%, 54%); }
+.color-15    { --source-color: hsl(221, 100%, 50%); }
+.color-16    { --source-color: hsl(273, 72%, 33%); }
+.color-17    { --source-color: hsl(197, 47%, 31%); }
+.color-18    { --source-color: hsl(318, 65%, 49%); }
+.color-19    { --source-color: hsl(187, 100%, 39%); }
 
 
-from { border-color: hsl(var(--source-color)); }
+/* from { border-color: hsl(var(--source-color)); }
 from mark { background-color: hsla(var(--source-color), 0.30) !important;}
-span.colorize { color: hsl(var(--source-color)); font-weight: bold; }
+span.colorize { color: hsl(var(--source-color)); font-weight: bold; } */
