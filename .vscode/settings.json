@@ -6,6 +6,10 @@
 		"Herrgott",
 		"Somerton"
 	],
+	"files.associations": {
+        "**/_includes/*": "liquid",
+        "**/_layouts/*": "liquid",
+    },
 	"[markdown]": {
 		"editor.hover.delay": 6000,
 		// "editor.unicodeHighlight.ambiguousCharacters": false,

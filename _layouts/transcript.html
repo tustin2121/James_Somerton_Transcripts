@@ -178,5 +178,10 @@
 			</div>
 		</div>
 	</div>
+	
+	<script>
+		// Mark all external links as opening in a new tab
+		Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = "_blank");
+	</script>
 </body>
 </html>

@@ -267,17 +267,34 @@ section.footnotes::before {
 }
 
 .lyrics {
-    margin-inline: auto;
-    width: max-content;
-    /* min-width: 600px; */
-    font-family: serif;
-    white-space: pre;
+	margin-inline: auto;
+	width: max-content;
+	/* min-width: 600px; */
+	font-family: serif;
+	white-space: pre;
 }
 @media (max-width: 600px) {
 	.lyrics {
 		width: 100%;
 		min-width: 0;
 	}
+}
+
+a[href^="http:"]::after, a[href^="https:"]::after {
+	content: "\f08e";
+	font-family: "Font Awesome 6 Free";
+	-webkit-font-smoothing: antialiased;
+	display: var(--fa-display,inline-block);
+	font-style: normal;
+	font-variant: normal;
+	line-height: 1;
+	text-rendering: auto;
+	font-weight: 900;
+	padding-left: 0.4em;
+}
+james a[href^="http:"]::after, 
+james a[href^="https:"]::after {
+	font-size: smaller;
 }
 
 q::before { content: none; }
