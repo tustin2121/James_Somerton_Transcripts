@@ -34,7 +34,7 @@ cite:
     darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx" }
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
-    # zoe_fortier: { color: 10, short: "(Fortier, )", full: "Fortier, Z. (). <em>Women and Queerness in Horror: Jennifer's Body</em> [Article].", url: "" }
+    zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
     # dani_leever: { color: 11, short: "(Leever, )", full: "Leever, D. (). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article].", url: "" }
     # michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
     # bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
@@ -656,36 +656,140 @@ But... perfectly normal people *do* have a habit of being monsters.
 
 Together the pair attend a local rock concert at a bar, where Needy's life changes forever. A fire with no known source engulfs the bar, killing multiple people. Needy pleads with Jennifer to stay with her, but in her shock, she leaves with the band. Later that night, she turns up at Needy's house covered in blood. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 The next day at school, she acts as if everything is right with the world. The town is devastated by the fire and the death it caused, but not Jennifer. Her mind is set elsewhere: the captain of the football team, who she seduces and disembowels. 
 
 After multiple murders, it is revealed that on the night of the fire, the band had taken Jennifer into the woods and offered her up as a virgin sacrifice to Satan himself in exchange for fame and fortune. But Jennifer, not being a virgin, was instead possessed. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Discovering that Jennifer is now a succubus who will feed off of human life to sustain herself, Needy decides to take action. After a failed attempt that leaves her boyfriend dead, she manages to kill Jennifer and the demon inside her, just in time for Jennifer's mother to discover her on top of her daughter's corpse.
 
 So off to Briarcliff she goes. Though loathed upon release, the film has more recently been reevaluated as a modern horror classic. It's fun, messy, mean, sad, campy, and self-aware. It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply* flawed, portraying it as a sexy thriller in order to play off of star Megan Fox's hotness. It attempted to appeal to the male fans of the *Transformers* franchise -- entirely the wrong audience. 
 
-It seemingly borrows its premise from rape-revenge movies and can easily be read that way at first glance/ What's captivating about it though is that you soon realize... that it is *not* what the film is actually about. What happens to the abusers in the movie is more an afterthought, played over the closing credits as Needy, having escaped the asylum, kills the band who corrupted her friend. 
+</james>
+<from></from>
+</compare>
 
-The actual beating heart of the story is a messy codependent romance between Needy and Jennifer. The initial scene that seems to be played for laughs in the movie is of Needy ogling Jennifer as she cheerleads, showing a deep yearning for the raven-haired beauty. Most of the remainder of the film is spent escalating the warped hungry tension between the two girls. 
+<compare>
+<james {% include timecode %}>
 
-Meanwhile, Chip, Needy's boyfriend, essentially falls into the role that *usually* is held for the girlfriend in a horror movie. He's either there to pose a problem for the tumultuous relationship, or needs to be rescued. For instance, early on in the movie, Chip stands helplessly by while the girls, giggling amongst themselves, enter into a play pushing fight, until Jennifer pushes Needy
-just a little too hard. Instantly reading like a scene from an elementary school playground where a boy plays a bit too rough with a girl because he likes her. 
+It seemingly <mark>borrows its premise from rape-revenge movies and can easily be read that way at first glance. What's captivating about</mark> it <mark>though is that you soon realize... that it is *not* what the film is actually about. What happens to the abusers in the movie is more an afterthought, played over the closing credits</mark> as Needy, having escaped the asylum, kills the band who corrupted her friend. 
 
-The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer to the aforementioned concert. She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin. Needy takes this as her cue to storm up to the band, taking on what looks to be a protector role, insisting that Jennifer *is* a virgin which is something she knows to be untrue. 
+The actual <mark>beating heart</mark> of the story <mark>is a messy</mark> <mark>codependent</mark> <mark>romance between Needy and Jennifer</mark>. 
 
-She also insists that Jennifer is not going to sleep with a band of slimy scumbags. Amanda Seyfried's delivery in this scene evokes more than a protective drive though. There's a current of jealous defensiveness roiling just underneath it. She genuinely believes that Jennifer is too good to sleep with the band. She also resents that Jennifer was even considering it. She wants Jennifer to be considering sleeping with her instead, though it's never stated outright. The coding though is
-obvious enough for most anyone to see.
+</james>
+<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 6" %}>
 
-Later when Jennifer grabs and squeezes Needy's hand during the concert proper, Needy is appeased and even relieved. She smiles warmly, adoringly, over at Jennifer. Her smile only fades when she realizes Jennifer isn't looking back at her, and only has eyes for the band. She releases Jennifer's hand abruptly, and we see the fading white patches where Jennifer had gripped her hand just a little too hard. 
+*Jennifer’s Body* undoubtedly <mark>borrows a premise from rape-revenge movies, and can absolutely be read that way at first glance. What’s compelling about</mark> this movie, <mark>though, is that you soon realize that it is not what the film is actually about. What happens to the abusers in this movie is nearly an afterthought, laid over the closing credits</mark>. The emotional center or the <mark>beating heart</mark> if you will, of *Jennifer’s Body* <mark>is a messy</mark>, intense, <mark>codependent</mark>, twists-and-turns <mark>romance: between Needy and Jennifer</mark>.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The initial scene that seems to be played for laughs</mark> in the movie is <mark>of Needy ogling Jennifer as she cheerleads</mark>, showing a deep yearning for the raven-haired beauty. <mark>Most of the remainder of the film</mark> <mark>is spent escalating the warped hungry tension between the two girls.</mark> 
+
+<mark>Meanwhile, Chip, Needy's boyfriend, essentially falls into the role that *usually* is held for the girlfriend in a horror movie</mark>. <mark>He's either there to pose a problem for the tumultuous relationship</mark>, or <mark>needs to be rescued</mark>. 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 8-9" %}>
+
+<mark>The initial scene that seems to be played for laughs</mark> <mark>of Needy heart-eye-ing Jennifer as she cheerleads</mark>, first of all, can and should be read straight. Anita “Needy” Lesnicki is deeply, messily, and totally gay for Jennifer Check. Sandbox love, indeed, never dies. It’s not an accident that that scene is paired with the Black Kids’ “I’m Not Gonna Teach Your Boyfriend How to Dance With You.”
+
+<mark>Much of the rest of *Jennifer’s Body*</mark> <mark>is spent escalating the warped, hungry tension between the two girls.</mark> <mark>Meanwhile, Chip (Needy’s boyfriend) nearly exclusively falls into the role that is usually held by the girlfriend in a horror movie</mark>. Essentially, <mark>he’s either there to pose a problem for the tumultuous relationship</mark> between Needy and Jennifer. Alternately, <mark>he’s there to be rescued</mark>.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+For instance, <mark>early on in the movie</mark>, <mark>Chip stands helplessly by while the girls, giggling amongst themselves, enter into a play pushing fight, until Jennifer pushes Needy just a little too hard.</mark> Instantly reading like a scene from an elementary school <mark>playground</mark> where a boy plays a bit too <mark>rough</mark> with a girl <mark>because he likes her</mark>. 
+
+<mark>The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer</mark> to the aforementioned concert. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin.</mark> 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 10-11" %}>
+
+<mark>Early on in the movie</mark>, for instance, <mark>Chip stands a little helplessly by while the girls, giggling amongst themselves, enter into a play-pushing fight until Jennifer pushes Needy a little too hard.</mark> Everyone in the scene freezes for a moment as Needy collides with the door, and then moves on.
+
+Instantly, at least for me, this was reminiscent of every stray remark about boys on the <mark>playground</mark> being mean and playing <mark>rough</mark> <mark>because they like you</mark>. Turning that on its head and applying it to a pair of girls already brings forth something messy and interesting about the nature and shape of desire between women, especially if one or both are repressing it.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Needy takes this as her cue to storm up to the band, taking on what looks to be a protector role, insisting that Jennifer *is* a virgin which is something she knows to be untrue.</mark> 
+
+<mark>She also insists that Jennifer is not going to sleep with a band of slimy scumbags. Amanda Seyfried's delivery in this scene evokes more than a protective drive though. There's a current of jealous defensiveness roiling just underneath it.</mark>
+
+</james>
+<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 12-13" %}>
+
+<mark>This undercurrent of tension (or even hostility) soon is mirrored by Needy herself, when she accompanies Jennifer</mark> to the Low Shoulder concert at Melody’s Gate, Devil’s Kettle’s only (and very grimy) bar. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet, awkward, doe-eyed girl in the hopes of getting the lead singer’s romantic attention, and retreats until she overhears the band talking about Jennifer being a virgin.</mark>
+
+<mark>Needy takes this as her cue to storm up to the band, taking on what looks to be a protector role, insisting that Jennifer is a virgin, which is something she knows to be untrue.</mark> <mark>She also insists that Jennifer is not going to sleep with a band of slimy scumbags. Amanda Seyfried’s delivery in this scene evokes more than a protective drive, though; there’s a current of jealous defensiveness lying underneath it.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>She genuinely believes that Jennifer is too good to sleep with the</mark> band. <mark>She also resents that Jennifer</mark> was even <mark>considering it. She wants Jennifer to be considering sleeping with her instead, though</mark> it's never stated outright. The coding though is obvious enough for most anyone to see.
+
+<mark>Later when Jennifer grabs and squeezes Needy's hand during the concert proper, Needy is appeased and even relieved. She smiles warmly, adoringly, over at Jennifer</mark>. <mark>Her smile only fades when she realizes Jennifer isn't looking back at her, and only has eyes for the band. She releases Jennifer's hand abruptly, and we see the fading white patches where Jennifer had gripped her hand</mark> just a little <mark>too hard.</mark> 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 14-15" %}>
+
+<mark>She genuinely believes that Jennifer is “too good” to sleep with the</mark> members of Low Shoulder. <mark>She also resents, though, that Jennifer</mark> has clearly been <mark>considering it. She wants Jennifer to be considering sleeping with her, instead, though</mark> she may not know it consciously.
+
+<mark>Later, when Jennifer grabs and squeezes Needy’s hand during the concert proper, Needy is appeased and even relieved. She smiles warmly, adoringly, over at Jennifer</mark>, much the same way as she had during the early cheerleading scene. <mark>Her smile only fades when she realizes Jennifer isn’t looking back at her, and only has eyes for the band. She releases Jennifer’s hand abruptly, and we see the fading white patches where Jennifer had gripped her hand</mark> <mark>too hard.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 As mentioned before, later that night a bloodied, maimed, non-verbal, and snarling Jennifer staggers over to Needy's house in the middle of the night, desperate and hungry, though Jennifer is unable or unwilling to communicate in words what's happened to her, her physicality is speaking
 volumes. This is clearly a nod to both physical manifestations of trauma and a general reference to women in horror movies, and in real life, who can't talk about what's happening to them, for fear that they won't be believed or understood.
 
 This scene doesn't just focus on the horror of the situation though. The sexual tension between the two also comes into focus as Jennifer narrowly resists biting Needy on the neck. Looking more like a *kiss*, than a potentially violent act. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Their relationship is stretched thin over a tumultuous friendship between teenage girls. But more than that it speaks to the nature of attraction between young women, whose relationships can be... incredibly intimate even between two straight girls. So when one or both of the girls are gay or bi, the thin line between platonic female friendship and sexual female love can become an emotional war zone.
 
 Jennifer uses sex as bait to attract male victims to devour, but shows no romantic interest in any of them. They're prey, nothing else to her. One scene shows the uncomfortable simultaneous acts of Jennifer seducing a soon-to-be victim while Needy makes love to her bumbling boyfriend. Looking at the scene through the eye of a film editor, it's easy enough to see what's happening: Jennifer is the aggressor in her scene, while Needy is the submissive partner in hers. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 The cutting back and forth can easily be read as an editing trick to make the mind see Jennifer and Needy having sex, backing up that interpretation is the fact that Needy abandons her heterosexual coupling in order to seek out Jennifer. After a series of scares, she returns home alone, unable to find her friend. Crawling into bed she finds Jennifer there waiting for her, wearing one of Needy's shirts, a girlfriend move if ever there was one. 
 
@@ -727,9 +831,23 @@ Jennifer: "Come on, Needy, let me stay the night. We can play boyfriend-girlfrie
 
 At the climax of the film, Needy confronts Jennifer, armed with a box cutter, leading to an acerbic little double entendre on the slang meaning of the word "box". And Jennifer quipping that Needy buying her murder weapons at Home Depot is so butch. This is also the scene in which Jennifer finally bites Needy while they're fighting. The bite isn't lethal though, and it's clear that it wasn't meant to be. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 To me there's a very interesting reading of *Jennifer's Body*: that queer teenage girls whose sexualities are only starting to bloom can easily become confused about their relationships with other girls. Straight girls and women have much closer more intimate relationships than straight boys and men. If you see two girls holding hands, you might not think anything of it. If you see a girl running her hand through another girl's hair, she's probably just trying to help her relax. Kiss on the cheek, or even lips, that's nothing. If you hear two women say "I love you", you don't immediately think "lesbians". While there is a much stricter code of conduct for men and boys: no hand holding, no hugs that last for too long, and a kiss or an "I love you", even between fathers and sons, absolutely not.
 
 And so there's a bit of gay male privilege there: if another boy or man is acting very close and intimate, the assumption can be made that he's, at the very least not homophobic, and quite possibly open to something more. The situation is easier to read because there are so many barriers put up between men. A possible upside to toxic masculinity.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But for young women how can you tell if another girl is interested in you in a romantic or sexual way? Because she kissed you? Held her hand? Cuddled? You've likely been doing that with female friends all your life. As if being a woman wasn't hard enough already.
 {% assign timecode = "36:51" %}
