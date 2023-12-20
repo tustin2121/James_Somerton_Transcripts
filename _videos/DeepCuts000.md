@@ -10,6 +10,7 @@ description: "a video essay on <xyz>."
 notes: 
   - hbomb
   - dec2-delete
+  - custom-start
 
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
@@ -17,10 +18,33 @@ contributors:
 
 cite:
   clips: !!map
+    the_craft: { short: "(, 1996)", full: "" }
+    hellraiser: { short: "", full: "" }
+    jennifer: { short: "", full: "" }
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
 ---
+
+<compare>
+<credits header="Video Description:">
+
+[Lost]
+
+</credits>
+<comment>
+
+{% include chapter-link at="01:14" for="Introduction" %}  
+{% include chapter-link at="05:24" for="Sisters of Salem" %}  
+{% include chapter-link at="11:30" for="Bullied" %}  
+{% include chapter-link at="18:30" for="A Hellbound Heart" %}  
+{% include chapter-link at="26:59" for="A Good Girl" %}  
+{% include chapter-link at="36:51" for="The Others" %}  
+
+</comment>
+</compare>
+
+{% include transcript-start %}
 
 <compare>
 <credits class="opening">
@@ -127,249 +151,298 @@ The film follows the story of four teenage girls who each grow up feeling differ
 <from></from>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
+By happenstance the four girls end up in the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to a hookup, which for them is going shopping for candles after school. 
+
+The most memorable character, by all accounts, is Nancy. And she's already out as a witch, openly practicing the craft. She wears goth lipstick and black laced up Stevie Nicks
+boots. She has a sexual history and a noose hanging in her locker.
+
+Bonnie is a girl with self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet she fears that in the end
+that's exactly the thing that will happen: that she'll grow up lonely, never finding love.
+
+Rochelle, the only black character, faces racist comments from the other students, angering her but only insofar as pouting about what they did to her cashmere sweater. This isn't a movie about racism, after all, it's about witchaphobia.
+
+And finally Sarah, the main character, isn't sure about her identity at all in the beginning. She starts out... craft-curious. This is her journey. She's confronted with peer pressure and her own internalized witchaphobia. Back at school, the next day, she doesn't want to be rejected by the popular kids, so she downplays her relationship with Nancy Bonnie and Rochelle. 
+
+Chris, your typical teenage movie football jock, persists in making bullying comments about the three spiritual deviants, who he calls "The Bitches of Eastwick". Because he's just *so clever*.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town, where a young person can go and be themselves. A safe space with no anti-witch judgment. In the movie, the neighborhood seems to be an empty grassy field, but to many a queer youth watching it in 1996, it was the Castro District of San Francisco, Chelsea in New York, or Church Street in Toronto. Whether a place safe for witches or gays, the bus driver knows exactly where he's going to take them, warning them...
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.the_craft %}>
+
+Driver: "You girls watch out for those weirdos."
+
+Bonnie: "We are the weirdos, mister." [smiles]
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Gay icon confirmed.
+
+What follows are multiple scenes resembling radical queer fairy gatherings, where they call the corners and chant "hail to the guardians!" They also perform a ceremony that might someday constitute polyamorous marriage. Later the girls hold a body-electric workshop where they play "light as a feather, stiff as a board". 
+
+Empowered by their chosen family, the girls inadvertently start causing their revenge fantasies to come true. These revenge scenarios are framed in classic locations of gay teen drama. The white racist begins losing her blonde hair while showering in the gym locker room. The football jock falls in love with one of the witches and is then driven crazy, when the love is unrequited.
+
+Sadly the film's narrative wraps up as witchcraft backfires on the girls, thereby illustrating the dangers of non-conformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one who ends up in a straitjacket.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Being released the same year the Defense of Marriage act was put in place, and only two years after the "Don't Ask, Don't Tell" policy was passed, *The Craft* became an instant hit, and a cult sensation, that would be played at gay halloween parties for literally decades to come. 
+
+As mentioned before, the connection between witches and homosexuality has gone back centuries, if not millennia. Lesbians were accused of witchcraft more than any other group of women. And gay men were regularly accused of being warlocks, or simply possessed by Satan. It's always funny, really, that the Christian Right Wing believes that God's main adversary is so interested in us. We should take it as a compliment, really.
+
+In modern Wicca, homosexuality is highly embraced. Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century, newer Wiccan traditions often avoid or disregard the historical aversion to lgbt people. These new traditions often cite the charge of the Goddess, which states "all acts of love and pleasure are my rituals".
+
+Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. Witchcraft, on the other hand, offered a spiritual space where queer people could step into their personal power and explore otherness without shame, guilt, or fear. Though most self-identified witches begin dabbling in magic at a young age, it's not until after puberty that it becomes a real draw for them. Furthermore, the idea of a coven creates a space for community, a spiritual place where one can be themselves without the ever-present evangelical eye. 
+
+Though many would suspect that modern witches grew up in ultra-liberal hippie-esque environments, today over 80 percent of self-identified witches grew up in right-wing Christian homes. An environment that seems rife for creating things that are very unchristian.
+{% assign timecode = "11:30" %}
+
+</james>
+<from></from>
+</compare>
+
+## Bullied
+
+<compare>
+<james {% include timecode %}>
+
+Based on the best-selling novel by queer ally Stephen King, *Carrie* tells the story of Carrie white, A teenage girl trying desperately to make it through her high school years. she's bullied for being a bit differen, for being shy, for not fitting in, and like many young Christians, doesn't feel at home in the stifling environment of an evangelical household. 
+
+possibly the most obvious queer coding in the story is when Carrie's ultra religious mother actually locks her in a closet, declaring that she'll be sent to hell and punished for being who she is, if she continues down this sinful path.
+
+Carrie has a crush, you see, on the high school heartthrob, tommy. and like many a gay boy and girl in their high school years, he is completely unattainable, until he's not. until he's suddenly interested in Carrie, a predicament both thrilling and terrifying. How many queer high schoolers have been in that position? Having a crush on a boy or girl, thinking there's no way that they could possibly be into you, that they're most likely straight. Approaching them romantically may even end in violence, especially in the 1970s, when the book and movie came out. This can easily be placed on most high schoolers who feel like they don't fit in but, it's particularly salient for queer kids. 
+
+I myself had a crush in junior high, we'll call him "Dan". He knew I was gay and seemed relatively accepting. but the ever-existing caveat "but I'm not gay, so you know, don't try anything" always hovered over the friendship. I knew there was no chance. And then, one night, my friends and I were having a movie night. Six of us were piled into my room watching Bram Stoker's Dracula, itself full of queer imagery. And while most everyone had spread out around the room, Dan and I ended up in my bed. A single bed with barely enough room for me, let alone another six foot soccer player. He didn't seem to mind though. Nothing happened between us, of course, but knowing that my straight best friend was okay practically cuddling with me made me pretty happy. 
+
+No such luck for Carrie White though. Or most queer kids. After much bullying, even by characters not coded strictly as villains, Carrie is invited to the prom the epitome of high school heteronormativity. Not just invited, but invited by the most all-American crush she could possibly have, the epitome of the high school crush archetype. Not of his own volition, mind you, but by the cajoling of his girlfriend Sue, who seems to be the only decent person in the entire school.
+
+But Carrie doesn't know that. She gets to believe, for just a little while, that a boy like that could really like her. And to make it all that much better, the rabid bitch who's been making her high school life a living hell won't even be there, thanks to the help of a coded lesbian gym teacher. Eventually voted prom queen, Carrie's on top of the world.
+
+And then the rug is pulled out from under her. A bucket of pig's blood is pulled from the rafters coating her head to toe. And suddenly the realization hits. The fear that every queer kid holds down deep inside, that they'll be accepted lauded even, just for it all to be one big practical joke. Pranks like these are not uncommon. There's a reason every outsider in high school fears them. Pig's blood usually isn't involved, but raising up an oddball student to the very highest of heights just to push them off at the edge... It does happen.
+
+This is when most would run off the stage in horror and shame, hide from the people who did this. But not Carrie. Not unlike the videos we see of high school kids fighting back against their bullies, Carrie strikes back in a vicious and bloody attack... that leaves the prom coded in even more blood than she. 
+
+Fires rage around the gymnasium as she makes her way through it, a revenge fantasy for every teenager who has ever been othered, made fun of, bullied, attacked, held down. Carrie's a horror to mainstream audiences, terrified of the other. But a hero to queer kids and everyone who doesn't fit in, a literal horror superhero.
+
+Director of the 2013 remake, lesbian director Kimberly Pierce, said:
+
+\[Quote scrolling up on screen]:
+
+> "I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."
+
+Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys, she may well be situated as a powerful figure of identification for gay male viewers. Carrie's narrative can also be read as a variation on the coming out tale, both sexually and socially. And revolves around the awkwardness of revealing one's own sexuality to one's parents, especially one's mother, and the guilt or shame involved in doing so.
+
+The film also has both cult and camp lore, mainly from its use of excess, a staple of director Brian De Palma. In the excessive style and form of his direction in terms of lighting, color coding, and the melodramatic use of music and score. 
+
+Of course, in the end, from my point of view anyway, Carrie is all about shame. Much like the shame of gay teenagers in certain types of families, certain kinds of home towns, not fitting in, being ostracized even when you try to fit in, and this shame is personified by Carrie White. Gay audiences form a connection with Carrie unlike with most horror heroines. She is the internalized anxiety within us, the yearning to be something more, to fit in, and yet be ourselves. To not be bullied, or at least to fight back against the bully. 
+
+But we're not all Carrie White. Sometimes that self-hatred internalizes, something dark and morbid roiling within our bodies. A demon ravaging our very soul.
+{% assign timecode = "18:30" %}
+
+</james>
+<from></from>
+</compare>
+
+## A Hellbound Heart
+
+<compare>
+<james {% include timecode %}>
+
+Demons are not just beings of pain and torment in Clive Barker's *Hellraiser*. They're moral abominations, creatures so lost in hedonism, they've long since forgotten the difference between pain and pleasure. Demons that could be mistaken or even accepted for... angels, from a certain point of view. Though many would question the queerness of *Hellraiser*, it lurches well beyond breaking heteronormativity. It skins it alive.
+
+Written and directed by Clive Barker, and based on his novella *The Hell-Bound Heart*, *Hellraiser* tells the story of Frank Cotton, a man who has broken every imaginable sexual taboo, who has crossed every human limit, and has still not met his fill of sexual sadism. BDSM has become all too vanilla for him. And so he searches out an infernal puzzle box that, when solved, summons interdimensional beings known as the Cenobites, creatures that dwell in a realm of extreme carnal indulgence, where people are willingly subjected to severe forms of sadomasochism that include, but are surely not limited to, being torn apart by hooks and chains.
+
+Clearly this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror, but it doesn't feel too far off from the way queer people in the BDSM community are often perceived by those who don't understand that subculture. That's the key variable that makes *Hellraiser* so special, Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving frank and his mistress Julia. 
+
+Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time, mixed with the art of Herronius Bach, in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.
+
+Even more important is the fact that Clive Barker created this story as a gay man, which allows queer representation to transcend the page and screen making *Hellraiser* resonate even more profoundly. Having always been interested in monsters, it could be safe to assume that Barker was fascinated by outsiders and outcasts like his creations, because he could relate to them. 
+
+And he wasn't alone; the queer BDSM culture of the time welcomed *Hellraiser* with open arms, indulging in its allegorical portrayal of kink, polyamory, and queerness. This subgroup of the LGBT community grew quickly in the 1980s as a way to experience sexual pleasure that didn't involve penile penetration, avoiding HIV by learning a whole new way of enjoying pleasure. And pain. And to many in the queer community, they were looked at as freaks, monsters, horrors to be avoided at any cost. 
+
+what does it mean to be considered a monster... by monsters? 
+
+Even in Harry and Benshoff's book, *Monsters in the Closet*, which you'll no doubt notice shares a title with [this video's spiritual predecessor](4zPCM14-SCQ.md), Barker's work remains somewhat marginal. Benshoff recognizes *Hellraiser* for some of its *visual* characteristics, but comes to the conclusion that too often the representation of Barker's monster queers seems similar to those produced by right-wing ideologues.
+
+Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect repression in contemporary society. 
+
+\[Quote on screen]:
+> "This study attempts to shine a light on the shapes that lurk in the shadows, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the
+horror film is that 'normality is threatened by the monster'"
+
+One of the controversial aspects of Wood's article is the distinction that he makes between what he perceives to be progressive and reactionary reprehensible movements within the genre. This notion of "reprehensible horror" continues to be a presence in *Monsters in the Closet* and it would appear that this attitude contributes greatly to Benshoff's general disdain for Barker's work.
+
+While there is merit to the criticism that there is a lack of positive queer representation in *Hellraiser*, the logic applied by both Wood and Benshoff remains deeply problematic. Their argument revolves around the notion that films like *Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that Barker finds these images to be compelling. And horror film audiences are more likely to be fascinated than disgusted. 
+
+Even if one accepts that the queer images and *Hellraiser* are not positive ones how does that make these representations "reprehensible"? To a large extent the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters, of the likes of which populate the films of John Waters. 
+
+In his analysis of character construction and gay narrative film, Tom Wah points out:
+
+\[Quote on screen]:
+> "The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"
+
+That accepting the fact that a BDSM subculture *exists* within the queer community further others us from the heteronormative white picket fences of the suburbs. And what is a queer person if they're not accepted by the suburban rabble? A monster, of course.
+
+But there's an odd attractiveness to the monsters of *Hellraiser*. When they move and speak there's a certain degree of attractive nobility in their appearance. These debauched angels may commit visceral acts of savagery, but they also possess a surprising grace and eloquence. While Benshoff may view these creatures as monster queers that are not at all positive representations of the community, it must needs be remarked that the cenobites in *Hellraiser* fit more comfortably into the role of anti-hero than that of the monster.
+
+When our protagonist, Kirstie, is confronted by the Cenobites after solving the puzzle box herself and demands to know who they are, she is met with the reply:
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation from=page.cite.clips.hellraiser %}>
+
+Cenobite: "Explorers in the further regions of experience. Demons to some, angels to others."
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This introduction implies that their prey chooses *them*, not the other way around. If one assumes that their typical victim is someone like Frank, then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike other slashers, can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal". 
+
+Just like any good master or dom, they don't want you if you don't want them. If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
+
+Frank *the man*... is the monster. The man you'd walk by in a mall and not give a second look. The man you'd say hello to in an elevator. *He* is the real beast in *Hellraiser*, not the Cenobites. Like how you're more likely to be raped or killed by your husband than anyone you'd meet in an S&M club.
+
+The hell priest, eventually christened "Pinhead" by fans, though Barker loathes the name, is not a mindless killer, like Jason Voorhees or Michael Myers. He's not a killer of innocents, like Freddy Krueger. He is reasonable and only comes when called, keeps to himself in his own realm, much like the queer community that lived in cities and was not infiltrating suburbs, as so many white americans feared in the late 1980s. Though he and his fellow Cenobites would grow closer to their slasher brethren as the *Hellraiser* series went on, in the original, he is not the monster to be feared. The perfectly normal *person* was.
+
+But... perfectly normal people *do* have a habit of being monsters.
+{% assign timecode = "26:59" %}
+
+</james>
+<from></from>
+</compare>
+
+## A Good Girl
+
+<compare>
+<james {% include timecode %}>
+
+*Jennifer's Body* is the story, more or less, of Anita Lesnicki, "Needy" for short. Once an insecure teenage girl, she is now a violent inmate in a mental ward, narrating her story from solitary confinement. Since early childhood, she had been friends with the titular Jennifer. Though they had little in common, with Needy being shy and reserved and Jennifer being a cheerleader.
+
+Together the pair attend a local rock concert at a bar, where Needy's life changes forever. A fire with no known source engulfs the bar, killing multiple people. Needy pleads with Jennifer to stay with her, but in her shock, she leaves with the band. Later that night, she turns up at Needy's house covered in blood. 
+
+The next day at school, she acts as if everything is right with the world. The town is devastated by the fire and the death it caused, but not Jennifer. Her mind is set elsewhere: the captain of the football team, who she seduces and disembowels. 
+
+After multiple murders, it is revealed that on the night of the fire, the band had taken Jennifer into the woods and offered her up as a virgin sacrifice to Satan himself in exchange for fame and fortune. But Jennifer, not being a virgin, was instead possessed. 
+
+Discovering that Jennifer is now a succubus who will feed off of human life to sustain herself, Needy decides to take action. After a failed attempt that leaves her boyfriend dead, she manages to kill Jennifer and the demon inside her, just in time for Jennifer's mother to discover her on top of her daughter's corpse.
+
+So off to Briarcliff she goes. Though loathed upon release, the film has more recently been reevaluated as a modern horror classic. It's fun, messy, mean, sad, campy, and self-aware. It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply* flawed, portraying it as a sexy thriller in order to play off of star Megan Fox's hotness. It attempted to appeal to the male fans of the *Transformers* franchise -- entirely the wrong audience. 
+
+It seemingly borrows its premise from rape-revenge movies and can easily be read that way at first glance/ What's captivating about it though is that you soon realize... that it is *not* what the film is actually about. What happens to the abusers in the movie is more an afterthought, played over the closing credits as Needy, having escaped the asylum, kills the band who corrupted her friend. 
+
+The actual beating heart of the story is a messy codependent romance between Needy and Jennifer. The initial scene that seems to be played for laughs in the movie is of Needy ogling Jennifer as she cheerleads, showing a deep yearning for the raven-haired beauty. Most of the remainder of the film is spent escalating the warped hungry tension between the two girls. 
+
+Meanwhile, Chip, Needy's boyfriend, essentially falls into the role that *usually* is held for the girlfriend in a horror movie. He's either there to pose a problem for the tumultuous relationship, or needs to be rescued. For instance, early on in the movie, Chip stands helplessly by while the girls, giggling amongst themselves, enter into a play pushing fight, until Jennifer pushes Needy
+just a little too hard. Instantly reading like a scene from an elementary school playground where a boy plays a bit too rough with a girl because he likes her. 
+
+The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer to the aforementioned concert. She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin. Needy takes this as her cue to storm up to the band, taking on what looks to be a protector role, insisting that Jennifer *is* a virgin which is something she knows to be untrue. 
+
+She also insists that Jennifer is not going to sleep with a band of slimy scumbags. Amanda Seyfried's delivery in this scene evokes more than a protective drive though. There's a current of jealous defensiveness roiling just underneath it. She genuinely believes that Jennifer is too good to sleep with the band. She also resents that Jennifer was even considering it. She wants Jennifer to be considering sleeping with her instead, though it's never stated outright. The coding though is
+obvious enough for most anyone to see.
+
+Later when Jennifer grabs and squeezes Needy's hand during the concert proper, Needy is appeased and even relieved. She smiles warmly, adoringly, over at Jennifer. Her smile only fades when she realizes Jennifer isn't looking back at her, and only has eyes for the band. She releases Jennifer's hand abruptly, and we see the fading white patches where Jennifer had gripped her hand just a little too hard. 
+
+As mentioned before, later that night a bloodied, maimed, non-verbal, and snarling Jennifer staggers over to Needy's house in the middle of the night, desperate and hungry, though Jennifer is unable or unwilling to communicate in words what's happened to her, her physicality is speaking
+volumes. This is clearly a nod to both physical manifestations of trauma and a general reference to women in horror movies, and in real life, who can't talk about what's happening to them, for fear that they won't be believed or understood.
+
+This scene doesn't just focus on the horror of the situation though. The sexual tension between the two also comes into focus as Jennifer narrowly resists biting Needy on the neck. Looking more like a *kiss*, than a potentially violent act. 
+
+Their relationship is stretched thin over a tumultuous friendship between teenage girls. But more than that it speaks to the nature of attraction between young women, whose relationships can be... incredibly intimate even between two straight girls. So when one or both of the girls are gay or bi, the thin line between platonic female friendship and sexual female love can become an emotional war zone.
+
+Jennifer uses sex as bait to attract male victims to devour, but shows no romantic interest in any of them. They're prey, nothing else to her. One scene shows the uncomfortable simultaneous acts of Jennifer seducing a soon-to-be victim while Needy makes love to her bumbling boyfriend. Looking at the scene through the eye of a film editor, it's easy enough to see what's happening: Jennifer is the aggressor in her scene, while Needy is the submissive partner in hers. 
+
+The cutting back and forth can easily be read as an editing trick to make the mind see Jennifer and Needy having sex, backing up that interpretation is the fact that Needy abandons her heterosexual coupling in order to seek out Jennifer. After a series of scares, she returns home alone, unable to find her friend. Crawling into bed she finds Jennifer there waiting for her, wearing one of Needy's shirts, a girlfriend move if ever there was one. 
+
+This scene of vulnerability culminates with an actual kiss between the two girls. Needy pulls away, demanding to know what Jennifer has been up to. She tells her her story ending it with the line:
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.jennifer %}>
+
+Jennifer: "Anyway, I don't really remember what happened after that. I just know that I woke up and I found my way back to you."
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+After all that though, Needy begins to doubt Jennifer's story, feeling her control and her closeness to Needy slipping, Jennifer reaches for the nearest easy target. By trying to make Needy insecure about her relationship with Chip, suggesting that Chip is having second thoughts about her.
+
+This is the first but not the last effort of Jennifer's to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is *hard* to read as *anything* else than her wanting Needy for herself. The lesbian coding is incredibly obvious.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.jennifer %}>
+
+Jennifer: "Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to."
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+At the climax of the film, Needy confronts Jennifer, armed with a box cutter, leading to an acerbic little double entendre on the slang meaning of the word "box". And Jennifer quipping that Needy buying her murder weapons at Home Depot is so butch. This is also the scene in which Jennifer finally bites Needy while they're fighting. The bite isn't lethal though, and it's clear that it wasn't meant to be. 
+
+To me there's a very interesting reading of *Jennifer's Body*: that queer teenage girls whose sexualities are only starting to bloom can easily become confused about their relationships with other girls. Straight girls and women have much closer more intimate relationships than straight boys and men. If you see two girls holding hands, you might not think anything of it. If you see a girl running her hand through another girl's hair, she's probably just trying to help her relax. Kiss on the cheek, or even lips, that's nothing. If you hear two women say "I love you", you don't immediately think "lesbians". While there is a much stricter code of conduct for men and boys: no hand holding, no hugs that last for too long, and a kiss or an "I love you", even between fathers and sons, absolutely not.
+
+And so there's a bit of gay male privilege there: if another boy or man is acting very close and intimate, the assumption can be made that he's, at the very least not homophobic, and quite possibly open to something more. The situation is easier to read because there are so many barriers put up between men. A possible upside to toxic masculinity.
+
+But for young women how can you tell if another girl is interested in you in a romantic or sexual way? Because she kissed you? Held her hand? Cuddled? You've likely been doing that with female friends all your life. As if being a woman wasn't hard enough already.
+{% assign timecode = "36:51" %}
+
+</james>
+<from></from>
+</compare>
+
+## The Others
+
+<compare>
+<james {% include timecode %}>
 
 
 
+</james>
+<from></from>
+</compare>
 
-
-By happenstance the four girls end up in the same school and find each other essentially by cruising the hallways sideways looks and quiet nods to each other lead to
-hookup which for them is going shopping for candles after school the most memorable character by all accounts is nancy
-and she's already out as a witch openly practicing the craft she wears goth lipstick and black laced up stevie nicks
-boots she has a sexual history and a noose hanging in her locker bonnie is a girl with self-image issues due to scars
-that cover her arms and back like so many queer kids she just wants to be left alone yet she fears that in the end
-that's exactly the thing that will happen that she'll grow up lonely never finding love rochelle the only black
-character faces racist comments from the other students angering her but only insofar as pouting about what they did to
-her cashmere sweater this isn't a movie about racism after all it's about wikiphobia and finally sarah the main
-character isn't sure about her identity at all in the beginning she starts out craft curious this is her journey she's
-confronted with peer pressure and her own internalized wichiphobia back at school the next day she doesn't want to be
-rejected by the popular kids so she downplays her relationship with nancy bonnie and rochelle chris your typical teenage
-movie football jock persists in making bullying comments about the three spiritual deviants who he calls the [ __ ] of
-eastwick because he's just so clever after the four witches have confirmed each other's witchy tendencies the four take
-a bus to the witchy part of town where a young person can go and be themselves a safe space with no anti-witch judgment
-in the movie the neighborhood seems to be an empty grassy field but to many a queer youth watching it in 1996 it was the
-castro district of san francisco chelsea in new york or church street in toronto whether a place safe for witches or
-gays the bus driver knows exactly where he's going to take them warning them gay icon confirmed what follows are
-multiple scenes resembling radical queer fairy gatherings where they call the corners and chant hail to the guardians
-they also perform a ceremony that might someday constitute polyamorous marriage later the girls hold a body electric
-workshop where they play light as a feather stiff as a board empowered by their chosen family the girls inadvertently
-start causing their revenge fantasies to come true these revenge scenarios are framed in classic locations of gay teen
-drama the white racist begins losing her blonde hair while showering in the gym locker room the football jock falls in
-love with one of the witches and is then driven crazy when the love is unrequited sadly the film's narrative wraps up as
-witchcraft backfires on the girls thereby illustrating the dangers of non-conformity the girls survive only by vowing to
-never practice the craft again they all end up back in the closet except one who ends up in a straitjacket being
-released the same year the defensive marriage act was put in place and only two years after the don't ask don't tell
-policy was passed the craft became an instant hit an occult sensation that would be played at gay halloween parties for
-literally decades to come as mentioned before the connection between witches and homosexuality has gone back centuries
-if not millennia lesbians were accused of witchcraft more than any other group of women and gay men were regularly
-accused of being warlocks or simply possessed by satan it's always funny really that the christian right wing believes
-that god's main adversary is so interested in us we should take it as a compliment really in modern wicca homosexuality
-is highly embraced although heteronormativity was a strict rule among wiccans in the early to mid 20th century newer
-wiccan traditions often avoid or disregard the historical aversion to lgbt people these new traditions often cite the
-charge of the goddess which states all acts of love and pleasure are my rituals many queer christians have found that
-the teachings of the church led them down the path of wicca and witchcraft witchcraft on the other hand offered a
-spiritual space where queer people could step into their personal power and explore otherness without shame guilt or
-fear though most self-identified witches begin dabbling in magic at a young age it's not until after puberty that it
-becomes a real draw for them furthermore the idea of a coven creates a space for community a spiritual place where one
-can be themselves without the ever-present evangelical eye though many would suspect that modern witches grew up in
-ultra-liberal hippie-esque environments today over 80 percent of self-identified witches grew up in right-wing christian
-homes an environment that seems rife for creating things that are very unchristian based on the best-selling novel by
-queer ally stephen king carrie tells the story of kerry white teenage girl trying desperately to make it through her
-high school years she's bullied for being a bit different for being shy for not fitting in and like many young
-christians doesn't feel at home in the stifling environment of an evangelical household possibly the most obvious queer
-coding in the story is when carrie's ultra religious mother actually locks her in a closet declaring that she'll be sent
-to hell and punished for being who she is if she continues down this sinful path carrie has a crush you see on the high
-school heartthrob tommy and like many a gay boy and girl in their high school years he is completely unattainable until
-he's not until he's suddenly interested in carrie a predicament both thrilling and terrifying how many queer high
-schoolers have been in that position having a crush on a boy or girl thinking there's no way that they could possibly be
-into you that they're most likely straight approaching them romantically may even end in violence especially in the
-1970s when the book and movie came out this can easily be placed on most high schoolers who feel like they don't fit in
-but it's particularly salient for queer kids i myself had a crush in junior high we'll call him dan he knew i was gay
-and seemed relatively accepting but the ever-existing caveat but i'm not gay so you know don't try anything always
-hovered over the friendship i knew there was no chance and then one night my friends and i were having a movie night six
-of us were piled into my room watching bram stoker's dracula itself full of queer imagery and while most everyone had
-spread out around the room dan and i ended up in my bed a single bed with barely enough room for me let alone another
-six foot soccer player he didn't seem to mind though nothing happened between us of course but knowing that my straight
-best friend was okay practically cuddling with me made me pretty happy no such luck for carrie white though or most
-queer kids after much bullying even by characters not coded strictly as villains carrie is invited to the prom the
-epitome of high school heteronormativity not just invited but invited by the most all-american crush she could possibly
-have the epitome of the high school crush archetype not of his own volition mind you but by the cajoling of his
-girlfriend sue who seems to be the only decent person in the entire school but carrie doesn't know that she gets to
-believe for just a little while that a boy like that could really like her and to make it all that much better the rabid
-[ __ ] who's been making her high school life a living hell won't even be there thanks to the help of a coded lesbian
-gym teacher eventually voted prom queen carries on top of the world and then the rug is pulled out from under her a
-bucket of pig's blood is pulled from the rafters coating her head to toe and suddenly the realization hits the fear that
-every queer kid holds down deep inside that they'll be accepted lauded even just for it all to be one big practical joke
-pranks like these are not uncommon there's a reason every outsider in high school fears them pig's blood usually isn't
-involved but raising up an oddball student to the very highest of heights just to push them off at the edge it does
-happen this is when most would run off the stage in horror and shame hide from the people who did this but not carrie
-not unlike the videos we see of high school kids fighting back against their bullies carrie strikes back in a vicious
-and bloody attack that leaves the prom coded in even more blood than she fires rage around the gymnasium as she makes
-her way through it a revenge fantasy for every teenager who has ever been othered made fun of bullied attacked held down
-carries a horror to mainstream audiences terrified of the other but a hero to queer kids and everyone who doesn't fit in
-a literal horror superhero director of the 2013 remake lesbian director kimberly pierce said i think another queer part
-of the narrative is that carrie gets superpowers and those superpowers are like a queer person understanding that they
-have a talent or a queer person finally coming to terms with their gender identity or sexual preference and saying even
-if this is not the mainstream it's okay because that's literally what carrie says she says to her mom there are other
-people out there like me i am normal i am okay even if you don't think so i've talked to a lot of gay people and they
-love the revenge tale love that carrie gets even they love that she goes after the people that did this to her it's an
-echo of what a queer person could write as a kind of corrective narrative given carrie's status as a cultural icon her
-simultaneous status as horror film victim and monster alongside the narrative concerning her burgeoning sexuality and
-attraction to boys she may well be situated as a powerful figure of identification for gay male viewers kerry's
-narrative can also be read as a variation on the coming out tale both sexually and socially and revolves around the
-awkwardness of revealing one's own sexuality to one's parents especially one's mother and the guilt or shame involved in
-doing so the film also has both cult and camp lure mainly from its use of excess a staple of director brian de palma in
-the excessive style and form of his direction in terms of lighting color coding and the melodramatic use of music and
-score of course in the end from my point of view anyway kerry is all about shame much like the shame of gay teenagers
-and certain types of families certain kinds of home towns not fitting in being ostracized even when you try to fit in
-and this shame is personified by carrie white gay audiences form a connection with carrie unlike with most horror
-heroines she is the internalized anxiety within us the yearning to be something more to fit in and yet be ourselves to
-not be bullied or at least to fight back against the bully but we're not all carrie white sometimes that self-hatred
-internalizes something dark and morbid roiling within our bodies a demon ravaging our very soul demons are not just
-beings of pain and torment and clive barker's hellraiser they're moral abominations creatures so lost in hedonism
-they've long since forgotten the difference between pain and pleasure demons that could be mistaken or even accepted for
-angels from a certain point of view though many would question the queerness of hellraiser it lurches well beyond
-breaking heteronormativity it skins it alive written and directed by clive barker and based on his novella the
-hell-bound heart hellraiser tells the story of frank cotton a man who has broken every imaginable sexual taboo who has
-crossed every human limit and has still not met his fill of sexual sadism bdsm has become all too vanilla for him and so
-he searches out an infernal puzzle box that when solved summons interdimensional beings known as the cenobites creatures
-that dwell in a realm of extreme kernel indulgence where people are willingly subjected to severe forms of sadomasochism
-that include but are surely not limited to being torn apart by hooks and chains clearly this amalgamation of pleasure
-and pain is extremely hyperbolized for the sake of horror but it doesn't feel too far off from the way queer people in
-the bdsm community are often perceived by those who don't understand that subculture that's the key variable that makes
-hellraiser so special parker is entirely aware of heteronormative insecurities such as versions of polyamory involving
-frank and his mistress julia barker takes these insecurities and combines them with imagery derived from the underground
-leather scene of the time mixed with the art of herronius bach in order to create a film about the broad spectrum of
-sensuality and sexuality he shocked audiences with its subversive but wildly inclusive material even more important is
-the fact that clive barker created this story as a gay man which allows queer representation to transcend the page and
-screen making hellraiser resonate even more profoundly having always been interested in monsters it could be safe to
-assume that barker was fascinated by outsiders and outcasts like his creations because he could relate to them and he
-wasn't alone the queer bdsm culture of the time welcomed hellraiser with open arms indulging in its allegorical betrayal
-of kink polyamory and queerness this subgroup of the lgbt community grew quickly in the 1980s as a way to experience
-sexual pleasure that didn't involve penile penetration avoiding hiv by learning a whole new way of enjoying pleasure and
-pain and to many in the queer community they were looked at as freaks monsters horrors to be avoided at any cost what
-does it mean to be considered a monster by monsters even in harry and benshoff's book monsters in the closet which
-you'll no doubt notice shares a title with this video's spiritual predecessor barker's work remains somewhat marginal
-benchoff recognizes hellraiser for some of its visual characteristics but comes to the conclusion that too often the
-representation of barker's monster queers seems similar to those produced by right-wing ideologues benshoff's book
-borrows many theories put forward by robin wood in the late 1970s in a series of essays would examine the ways in which
-horror films reflect repression in contemporary society this study attempts to shine a light on the shapes that lurk in
-the shadows and the way that the introduction of the monster disrupts society according to wood the basic formula of the
-horror film is that normality is threatened by the monster one of the controversial aspects of wood's article is the
-distinction that he makes between what he perceives to be progressive and reactionary reprehensible movements within the
-genre this notion of reprehensible horror continues to be a presence in monsters in the closet and it would appear that
-this attitude contributes greatly to ben schaff's general disdain for barker's work while there is merit to the
-criticism that there is a lack of positive queer representation in hellraiser the logic applied by both wood and
-benshoff remains deeply problematic their argument revolves around the notion that films like hellraiser want us to
-reject the sights we see as being repugnant or negative when the reality is that barker finds these images to be
-compelling and horror film audiences are more likely to be fascinated than disgusted even if one accepts that the queer
-images and hellraiser are not positive ones how does that make these representations reprehensible to a large extent the
-queers in hellraiser belong to a pantheon of hyperbolically monstrous gay characters of the likes of which populate the
-films of john waters in his analysis of character construction and gay narrative film tom wah points out the
-irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues that
-accepting the fact that a bdsm subculture exists within the queer community further others us from the heteronormative
-white picket fences of the suburbs and what is a queer person if they're not accepted by the suburban rabble a monster
-of course but there's an odd attractiveness to the monsters of hellraiser when they move and speak there's a certain
-degree of attractive nobility in their appearance these debauched angels may commit visceral acts of savagery but they
-also possess a surprising grace and eloquence while benshoff may view these creatures as monster queers that are not at
-all positive representations of the community it must needs be remarked that the cenobites and hellraiser fit more
-comfortably into the role of anti-hero than that of the monster when our protagonist kirstie is confronted by the
-cenobites after solving the puzzle box herself and demands to know who they are she is met with the reply explorers in
-the further regions of experience demons to some angels to others introduction implies that their prey chooses them not
-the other way around if one assumes that their typical victim is someone like frank then it becomes apparent that their
-talents are actively sought out by hedonists who are looking for new experiences when they encounter an innocent the
-cenobites unlike other slashers can be reasoned with their appearance may mark them as outsiders but they pose no
-serious threat to normal people who wish to remain normal just like any good master or dom they don't want you if you
-don't want them if the cenobites are not truly the monster then what is it would appear that the film's real monster
-queer is frank the undead beast the cenobites unwittingly leave behind he is the one that truly threatens normality when
-he returns to earth to resurrect his long abandoned flesh he intends to kill innocent people to make it happen frank the
-man is the monster the man you'd walk by in a mall and not give a second look the man you'd say hello to in an elevator
-he is the real beast in hellraiser not the cenobites like how you're more likely to be raped or killed by your husband
-than anyone you'd meet in an s m club the hell priest eventually christened pinhead by fans though barker loads the name
-is not a mindless killer like jason voris or michael myers he's not a killer of innocence like freddy krueger he is
-reasonable and only comes when called keeps to himself in his own realm much like the queer community that lived in
-cities and was not infiltrating suburbs as so many white americans feared in the late 1980s though he and his fellow
-cenobites would grow closer to their slasher brethren as the hellraiser series went on in the original he is not the
-monster to be fear the perfectly normal person was but perfectly normal people do have a habit of being monsters [Music]
-jennifer's body is the story more or less of anita lesniki needy for short once an insecure teenage girl she is now a
-violent inmate in a mental ward narrating her story from solitary confinement since early childhood she had been friends
-with the titular jennifer though they had little in common with needy being shy and reserved and jennifer being a
-cheerleader together the pair attend a local rock concert at a bar where needy's life changes forever a fire with no
-known source engulfs the bar killing multiple people needy pleads with jennifer to stay with her but in her shock she
-leaves with the band later that night she turns up at needy's house covered in blood the next day at school she acts as
-if everything is right with the world the town is devastated by the fire and the death it caused but not jennifer her
-mind is set elsewhere the captain of the football team who she seduces and disembowels after multiple murders it is
-revealed that on the night of the fire the band had taken jennifer into the woods and offered her up as a virgin
-sacrifice to satan himself in exchange for fame and fortune but jennifer not being a virgin was instead possessed
-discovering that jennifer is now a succubus who will feed off of human life to sustain herself needy decides to take
-action after a failed attempt that leaves her boyfriend dead she manages to kill jennifer and the demon inside her just
-in time for jennifer's mother to discover her on top of her daughter's corpse so off to briarcliff she goes though
-loathed upon release the film has more recently been reevaluated as a modern horror classic it's fun messy mean sad
-campy and self-aware it's worth mentioning that the advertising campaign for jennifer's body was deeply flawed
-portraying it as a sexy thriller in order to play off of star megan fox's hotness it attempted to appeal to the male
-fans of the transformers franchise entirely the wrong audience it seemingly borrows its premise from rape revenge movies
-and can easily be read that way at first glance what's captivating about it though is that you soon realize that it is
-not what the film is actually about what happens to the abusers in the movie is more an afterthought played over the
-closing credits as needy having escaped the asylum kills the band who corrupted her friend the actual beating heart of
-the story is a messy codependent romance between needy and jennifer the initial scene that seems to be played for laughs
-in the movie is of needy ogling jennifer as she cheerleads showing a deep yearning for the raven-haired beauty most of
-the remainder of the film is spent escalating the warped hungry tension between the two girls meanwhile chip needy's
-boyfriend essentially falls into the role that usually is held for the girlfriend in a horror movie he's either there to
-pose a problem for the tumultuous relationship or needs to be rescued for instance early on in the movie chip stands
-helplessly by while the girls giggling amongst themselves enter into a play pushing fight until jennifer pushes needy
-just a little too hard instantly reading like a scene from an elementary school playground or a boy plays a bit too
-rough with a girl because he likes her the undercurrent of tension or even hostility is soon mirrored by needy herself
-when she accompanies jennifer to the aforementioned concert she looks on uncomfortably as jennifer plays up the role of
-the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention and retreats until she
-overhears the band talking about jennifer being a virgin needy takes this as her cue to storm up to the band taking on
-what looks to be a protector role insisting that jennifer is a virgin which is something she knows to be untrue she also
-insists that jennifer is not going to sleep with a band of slammy scumbags amanda seyfried's delivery in this scene
-evokes more than a protective drive though there's a current of jealous defensiveness roiling just underneath it she
-genuinely believes that jennifer is too good to sleep with the band she also resents that jennifer was even considering
-it she wants jennifer to be considering sleeping with her instead though it's never stated outright the coding though is
-obvious enough for most anyone to see later when jennifer grabs and squeezes needy's hand during the concert proper
-needy is appeased and even relieved she smiles warmly adoringly over at jennifer her smile only fades when she realizes
-jennifer isn't looking back at her and only has eyes for the band she releases jennifer's hand abruptly and we see the
-fading white patches where jennifer had gripped her hand just a little too hard as mentioned before later that night a
-bloodied maimed non-verbal and snarling jennifer staggers over to needy's house in the middle of the night desperate and
-hungry though jennifer is unable or unwilling to communicate in words what's happened to her her physicality is speaking
-volumes this is clearly a nod to both physical manifestations of trauma and a general reference to women in horror
-movies and in real life who can't talk about what's happening to them or fear that they won't be believed or understood
-this scene doesn't just focus on the horror of the situation though the sexual tension between the two also comes into
-focus as jennifer narrowly resists biting needy on the neck looking more like a kiss than a potentially violent act
-their relationship is stretched thin over a tumultuous friendship between teenage girls but more than that it speaks to
-the nature of attraction between young women whose relationships can be incredibly intimate even between two straight
-girls so when one or both of the girls are gay or bi the thin line between platonic female friendship and sexual female
-love can become an emotional war zone jennifer uses sex as bait to attract male victims to devour but shows no romantic
-interest in any of them their prey nothing else to her one scene shows the uncomfortable simultaneous acts of jennifer
-seducing a soon-to-be victim while needy makes love to her bumbling boyfriend looking at the scene through the eye of a
-film editor it's easy enough to see what's happening jennifer is the aggressor in her scene while needy is the
-submissive partner in hers the cutting back and forth can easily be read as an editing trick to make the mind see
-jennifer needy having sex backing up that interpretation is the fact that needy abandons her heterosexual coupling in
-order to seek out jennifer after a series of scares she returns home alone unable to find her friend crawling into bed
-she finds jennifer there waiting for her wearing one of needy's shirts a girlfriend move if ever there was one this
-scene of vulnerability culminates with an actual kiss between the two girls needy pulls away demanding to know what
-jennifer has been up to she tells her her story ending it with the line anyway i don't really remember what happened
-after that i just know that i woke up and i found my way back to you after all that though needy begins to doubt
-jennifer's story feeling her control and her closeness to needy slipping jennifer reaches for the nearest easy target by
-trying to make needy insecure about her relationship with chip suggesting that chip is having second thoughts about her
-this is the first but not the last effort of jennifer's to drive a wedge between the couple and doing so right on the
-heels of an attempted romantic overture is hard to read as anything else than her wanting needy for herself the lesbian
-coding is incredibly obvious come on needy let me stay the night we can play boyfriend girlfriend like we used to at the
-climax of the film needy confronts jennifer armed with a box cutter leading to an acerbic little double entendre on the
-slaying meaning of the word box and jennifer quipping that needy buying her murder weapons at home depot is so butch
-this is also the scene in which jennifer finally bites needy while they're fighting the bite isn't lethal though and
-it's clear that it wasn't meant to be to me there's a very interesting reading of jennifer's body the queer teenage
-girls whose sexualities are only starting to bloom can easily become confused about their relationships with other girls
-straight girls and women have much closer more intimate relationships than straight boys and men if you see two girls
-holding hands you might not think anything of it if you see a girl running her hand through another girl's hair she's
-probably just trying to help her relax kiss on the cheek or even lips that's nothing if you hear two women say i love
-you you don't immediately think lesbians well there is a much stricter code of conduct for men and boys no hand holding
-no hugs that last for too long and a kiss or an i love you even between fathers and sons absolutely not and so there's a
-bit of gay male privilege there if another boy or man is acting very close and intimate the assumption can be made that
-he's at the very least not homophobic and quite possibly open to something more the situation is easier to read because
-there are so many barriers put up between men a possible upside to toxic masculinity but for young women how can you
-tell if another girl is interested in you in a romantic or sexual way because she kissed you held her hand cuddled
-you've likely been doing that with female friends all your life as if being a woman wasn't hard enough already 1979's
+1979's
 alien directed by ridley scott is often considered as one of the first feminist science fiction movies with its powerful
 central female character and themes of reproduction and sexual violence the film has become lauded for being a
 cornerstone in feminist film theory it's also monstrously queer not only is ellen ripley a strong butch heroine who does
@@ -406,17 +479,17 @@ conversion at birth from male to female so far there are no signs of suppressed 
 in a horror movie from 1979 we technically have a transgender character who is never othered never misgendered and is
 not a villain a retcon that changes nothing about the story but adds trans representation when little if any was
 available james cameron's aliens is curiously progressive in its sexual politics overall especially for a movie released
-during the reagan years take for instance the exchange between hudson and frost hey i sure wouldn't mind getting some
+during the reagan years take for instance the exchange between hudson and frost hey I sure wouldn't mind getting some
 more of that yeah the one that you had was male 1 it doesn't matter when it's so the butch space marine slept with a man
 and nobody makes a big deal out of it except for frost who wants to do it again and he is wholeheartedly supported this
 isn't just queer behavior being portrayed in a positive manner but one of the many ways that the movie obfuscates gender
 and supports a pansexual ethos the queer icon of aliens though is the female space marine vasquez who is tougher than
 most of the men in her squad in a movie released 27 years before the united states military even let women take on
 combat roles but is she herself queer the actors who played her jeanette goldstein weighed in on that question in 2016.
-she's an outsider she was just who she was with vasquez i never said she was straight or gay because to her it was
-nobody's business a lot of gay women come up and say oh my god when i saw you and you had a masculine look to you i saw
-myself but i had straight women coming up to me with the same thing someone was going through breast cancer and she told
-me that with each round of chemo she would think of vasquez a gay man from guatemala came to me and he said i identify
+she's an outsider she was just who she was with vasquez I never said she was straight or gay because to her it was
+nobody's business a lot of gay women come up and say oh my god when I saw you and you had a masculine look to you I saw
+myself but I had straight women coming up to me with the same thing someone was going through breast cancer and she told
+me that with each round of chemo she would think of vasquez a gay man from guatemala came to me and he said I identify
 so much with her he was very feminine vasquez is universal elsewhere in the film is bishop another sexless cyborg like
 the first film's ash david grevin in demeter and persephone in space observes bishop the cyborg retooled as a queer
 suffering body is an example of a resistant masculinity devoid of any obvious sexual desire such figures suggest queer
@@ -447,7 +520,7 @@ seemingly kills at random the young and innocent like newt the healthy young men
 avoid the disease by pure luck then there's the population of fury 161 an almost completely abandoned prison planet one
 of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture much
 like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure and
-this speech from dylan the only question is how you check out do you want it on your feet or on your [ __ ] knees i
+this speech from dylan the only question is how you check out do you want it on your feet or on your [ __ ] knees I
 ain't much for begging hitting like larry kramer's 1987 speech when he launched act up the alien created by h.r geiger
 brought to life by ridley scott and perfected by james cameron is a monster that exploited our fears of gender sex
 infection and lost control a monster so ravenous there is no escape but not all monsters are so obvious [Music] it
@@ -517,14 +590,14 @@ generation and the shifts in male gender roles synonymous with it scream redeplo
 of a homoerotic bond between a pair of young male killers the foundation of the tradition is the infamous leopoldon loeb
 case these wealthy young men were university of chicago students who murdered the fourteen-year-old bobby franks in 1924
 both were sentenced to life in prison with one of them being murdered by another inmate shortly after sentencing this
-case generated several fictional treatments including hitchcock's 1948 film rope which i covered in monsters in the
+case generated several fictional treatments including hitchcock's 1948 film rope which I covered in monsters in the
 closet these killers considered themselves to be nietzschean supermen using their superior intellect as justification
 for their thrill killing billy and stu however have no such lofty philosophical ambitions their motivations are family
 and romance driven billy claims to be avenging himself for sydney's mother's crime of destroying his family and stu
 seemingly is just doing it for billy scream also offers contrasting portraits of masculinity but only in order to
 intensify its vision of an increasing cultural depravity perhaps the first touch that links the killers to queerdom is
 ghostface's first appearance to sydney he tries to trick her into believing that he's on her front porch the killer then
-jumps out of her closet instead there's also the image of sydney's open closet door protecting her from harm i might be
+jumps out of her closet instead there's also the image of sydney's open closet door protecting her from harm I might be
 reaching here but it's not hard to read that as it's better to have your closet door open than closed skeet ulrich's
 performance as billy and especially matthew lillards as stu deepened the queer resonance that stand forever on a knife's
 edge of obviousness ulrich's bloody intensity and perpetual white t-shirt clearly evoke james dean and rebel without a
@@ -596,7 +669,7 @@ tormented by a boogeyman known as the babadook who lives under her child's bed a
 sleeplessness and trauma take a toll on amelia she first directs her anger at samuel becoming violent before eventually
 confronting the babadook she realizes she can never fully rid their lives of the monster that now resides in their home
 she determines to make relative peace with it locking it in their basement but keeping it well fed and alive as
-illustrated by a line in the babadook's book the more you deny the stronger i get the monster operates as a signifier of
+illustrated by a line in the babadook's book the more you deny the stronger I get the monster operates as a signifier of
 emilia's grief over oscar's death the more she represses this trauma the more power it has to return and disrupt her
 life this allegory is not however the only one at work within the babadook amelia appears as a 21st century sister of
 rosemary from rosemary's baby as the babadook crosses the horror formula of other as villain with the female gothic
@@ -641,7 +714,7 @@ studies in english at usc he lives in a basement he's weird and flamboyant he's 
 this kind of queer kinship structure he exists in a half-acknowledged state by the other people in his house the family
 is afraid of what he is but finds a way to accept him over time for many lgbt people that's what it feels like to be in
 your own family sometimes naturally there are counter arguments the babadook never says he's gay he never displays
-physical attraction to another person but historically fictional characters haven't needed to say i am gay out loud to
+physical attraction to another person but historically fictional characters haven't needed to say I am gay out loud to
 be read as queer or to become queer icons so many lgbt people have been barred from seeing themselves represented in
 popular culture so we've had to project ourselves into so many of these figures thongson said there are ways to read
 into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into
@@ -658,11 +731,11 @@ so quite cut and dry when eddie first encounters pennywise the titular it he's a
 drifters it takes the form of a hobo who's stricken with disease it uses a leper to frighten eddie instead of your
 typical horror movie monster one of these fellows had crawled out from under the porch of the house at 29 nybolt street
 one day and had offered to give eddie a [ __ ] for a quarter eddie had backed away his skin like ice his mouth as dry as
-lint balls one of the hobo's nostrils had been eaten away you could look right into the red scabby channel i i don't
+lint balls one of the hobo's nostrils had been eaten away you could look right into the red scabby channel I I don't
 have a quarter eddie said backing toward his bike do it for a dime the hobo croaked coming toward him he was wearing old
 green flannel pants yellow puke was stiffening across the lap he unzipped his fly and reached inside he was trying to
-grin his nose was a red horror uh i don't have a dime either eddie said and suddenly thought oh my god he's got leprosy
-if he touches me i'll catch it too his control snapped and he ran he heard the hobo break into a shuffling run behind
+grin his nose was a red horror uh I don't have a dime either eddie said and suddenly thought oh my god he's got leprosy
+if he touches me I'll catch it too his control snapped and he ran he heard the hobo break into a shuffling run behind
 him his old string tied shoes slapping and flapping across the riotous lawn of the empty saltbox house eddie's physical
 manifestation of fear has symbolic meaning that is linked to his abusive upbringing eddie sees it as a leper because his
 mother's insistence that he is sickly and delicate has made him afraid of disease eddie is horrified of the leper's
@@ -729,7 +802,7 @@ very blunt message stephen king thought gay people should be able to date and ho
 king did not think gay people should be tortured or killed he thought that those who would torture or kill gay people
 were in the service of evil as were those who would tolerate it or look away the victims of homophobia did not deserve
 to be victims homophobia stephen king seemed to say is not the natural way of the world it is a monstrous thing and
-those who practice it are a part of the monster like the babadook hellraiser jennifer's body the craft and king's own
+those who practice it are a part of the monster like the babadook *Hellraiser* jennifer's body the craft and king's own
 carry the queer is not the monster something else is gay men lesbian women bisexual people transgender people everyone
 under the queer umbrella we are not the monsters you are not the monster but the society that demonizes you that others
 you that is the monster [Music] you
