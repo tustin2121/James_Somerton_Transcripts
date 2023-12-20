@@ -24,6 +24,24 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
+    amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
+    darren_elliot_smith: { color: 6, short: "(Elliot-Smith, )", full: "Elliot-Smith, D.", url: "" }
+    alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Hve Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article].", url: "" }
+    colon_arason: { color: 4, short: "(Arason, )", full: "Arason, C. () <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article].", url: "" }
+    zoe_fortier: { color: 10, short: "(Fortier, )", full: "Fortier, Z. (). <em>Women and Queerness in Horror: Jennifer's Body</em> [Article].", url: "" }
+    dani_leever: { color: 11, short: "(Leever, )", full: "Leever, D. (). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article].", url: "" }
+    michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
+    bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
+    jf_sargent: { color: 17, short: "(Sargent, )", full: "Sargent, J.F.", url: "" }
+    david_church: { color: 18, short: "(Church, )", full: "Church, D.", url: "" }
+    david_greven: { color: 16, short: "(Greven, )", full: "Greven, D. () <em>Fears of a Millennial Masculinity: Scream's Queer Killers</em> [Article].", url: "" }
+    claire_sisco_king: { color: 15, short: "(King, )", full: "King, C.S.", url: "" }
+    amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
+    jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
+    rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
+    joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves Richie Tozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
+    alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
 ---
 
 <compare>
@@ -49,7 +67,7 @@ cite:
 <compare>
 <credits class="opening">
 
-\[Dramatic hallways]
+\[Horror-themed opening]
 
 > James Somerton  
 presents
@@ -144,41 +162,57 @@ And that is where our story of gay horror picks up. Hundreds of years later, wit
 
 *The Craft*, released in 1996, holds an odd appeal within the lgbt community. There are no queer characters but... the coding...
 
-The film follows the story of four teenage girls who each grow up feeling different, in one way or another. Special and above the fray of their peers, or rejected by them entirely, as so many queer teens have experienced. Either being praised for their artistic prowess in theater, art, or dance, or roundly rejected by the populace at large for being different.
+The film follows the story of <mark>four teenage girls who each grow up feeling different</mark>, in one way or another. <mark>Special</mark> and above the fray of their peers, or <mark>rejected</mark> by them entirely, <mark>as so many queer teens have experienced</mark>. Either being praised for their artistic prowess in theater, art, or dance, or roundly rejected by the populace at large for being different.
 {% assign timecode = "5:55" %}
 
+By happenstance the four <mark>girls end up in the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to a hookup, which for them is going shopping for candles after school.</mark> 
+
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 3" %}>
+
+[...] After asking around I found out that The Craft has a bizarrely large, and largely self-conscious, gay male following in my age bracket.
+
+The movie is about <mark>four teenage girls who each grow up feeling different</mark> -- simultaneously <mark>special</mark> and <mark>rejected</mark> -- <mark>as so many LGBT teens have experienced</mark>. The <mark>girls end up at the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to hooking-up, which for them is going shopping for candles after school.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-By happenstance the four girls end up in the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to a hookup, which for them is going shopping for candles after school. 
+The most memorable character, by all accounts, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
 
-The most memorable character, by all accounts, is Nancy. And she's already out as a witch, openly practicing the craft. She wears goth lipstick and black laced up Stevie Nicks
-boots. She has a sexual history and a noose hanging in her locker.
+<mark>Bonnie</mark> is a girl with <mark>self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet</mark> <mark>she fears</mark> that in the end that's exactly the thing that will happen: that <mark>she'll grow up lonely</mark>, never finding love.
 
-Bonnie is a girl with self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet she fears that in the end
-that's exactly the thing that will happen: that she'll grow up lonely, never finding love.
+<mark>Rochelle</mark>, <mark>the only Black character</mark>, <mark>faces racist comments from the other students</mark>, <mark>angering her but only insofar as pouting</mark> about <mark>what they did to her cashmere sweater</mark>. This isn't a movie about racism, after all, it's about <mark>witchaphobia</mark>.
 
-Rochelle, the only black character, faces racist comments from the other students, angering her but only insofar as pouting about what they did to her cashmere sweater. This isn't a movie about racism, after all, it's about witchaphobia.
+And finally <mark>Sarah</mark>, <mark>the main character, isn't sure about her identity</mark> at all <mark>in the beginning. She starts out... craft-curious.</mark> This is <mark>her journey. She's confronted with peer pressure and her own internalized witchaphobia.</mark> <mark>Back at school, the next day, she doesn't want to be rejected by the popular kids, so she downplays her relationship with Nancy, Bonnie, and Rochelle.</mark> 
 
-And finally Sarah, the main character, isn't sure about her identity at all in the beginning. She starts out... craft-curious. This is her journey. She's confronted with peer pressure and her own internalized witchaphobia. Back at school, the next day, she doesn't want to be rejected by the popular kids, so she downplays her relationship with Nancy Bonnie and Rochelle. 
-
-Chris, your typical teenage movie football jock, persists in making bullying comments about the three spiritual deviants, who he calls "The Bitches of Eastwick". Because he's just *so clever*.
+<mark>Chris</mark>, your typical teenage movie <mark>football jock, persists in making bullying comments about the three spiritual deviants, who he calls "The Bitches of Eastwick".</mark> Because he's <span hbomb="Wow, what a great addition, Jimmy. You really spiced up that anecdote. Made it your own. Put your fuckin' spin on it!">just *so clever*.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 4" %}>
+
+The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fully out as a witch</mark>. <mark>She wears goth lipstick and black, lace-up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark> She <mark>practices the craft</mark>. If this were about being gay, she would have been the kid with a rainbow button on her backpack.
+
+<mark>Bonnie</mark> (Nev Campbell) has <mark>self-image issues because of scars that cover her back and arms. Like so many gay kids, she wants to be left alone, yet</mark> at the same time <mark>she fears that she will grow up lonely</mark>. <mark>Rochelle</mark> (Rachel True) <mark>the only African-American character</mark>, <mark>faces racist comments by the other kids</mark>. This <mark>angers her, but only in a pouty</mark>, <mark>look-at-what-she-did-to-my-cashmere-sweater</mark>, kind of way. Nothing in this movie's script can get in the way of the real social justice issue, which is <mark>witch-phobia</mark>.
+
+<mark>Sarah</mark> (Robin Tunney), <mark>the main character, isn't sure about her identity</mark> <mark>in the beginning. She starts out craft-curious.</mark> This movie is about <mark>her journey. She is confronted with peer pressure and her own internalized witch-phobia.</mark> On their first night together, Sarah asks the others "do you guys really believe in this?" <mark>Back at school the next day she doesn't want to get rejected by the popular kids so she downplays her relationship with Nancy, Bonnie and Rochelle.</mark> <mark>Chris</mark>, the <mark>football jock, persists in making bullying comments about the three spiritual deviants, whom he calls "the Bitches of Eastwick."</mark> He explains, "when you're a guy, and I am, people expect things." Very similar to often heard statements, 'Boys will be boys' or 'Don't be such a f*gg*t.'
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town, where a young person can go and be themselves. A safe space with no anti-witch judgment. In the movie, the neighborhood seems to be an empty grassy field, but to many a queer youth watching it in 1996, it was the Castro District of San Francisco, Chelsea in New York, or Church Street in Toronto. Whether a place safe for witches or gays, the bus driver knows exactly where he's going to take them, warning them...
+<mark>After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town, where a young person can go and be themselves. A safe space with no anti-witch judgment. In the movie, the neighborhood seems to be an empty grassy field</mark>, but to many a queer youth watching it in 1996, it was the Castro District of San Francisco, Chelsea in New York, or Church Street in Toronto. Whether a place safe for witches or gays, <mark>the bus driver</mark> knows exactly where he's going to take them, warning them...
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
+
+<mark>After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town where a young person can go and be herself. A safe space with no anti-witch judgement. In the movie that neighborhood seems to be an empty grassy field</mark> with butterflies. For me, it was the the gay bar district in southeast Washington, DC. But in either case, <mark>the bus driver</mark> in the film knew exactly what kind of neighborhood it was. As the four step off the bus the driver says [...]
+
+</from>
 </compare>
 
 <compare>
@@ -186,9 +220,14 @@ After the four witches have confirmed each other's witchy tendencies, the four t
 
 Driver: "You girls watch out for those weirdos."
 
-Bonnie: "We are the weirdos, mister." [smiles]
+Nancy: "We are the weirdos, mister." [smiles]
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
+
+[...] "Don't let the freaks get you." Nancy stops, turns back to look at the driver, lowers her Rick Springfield sunglasses, and says with a smile, "Mister, we are the freaks." [...]
+
+</from>
 </compare>
 
 <compare>
@@ -196,11 +235,39 @@ Bonnie: "We are the weirdos, mister." [smiles]
 
 Gay icon confirmed.
 
-What follows are multiple scenes resembling radical queer fairy gatherings, where they call the corners and chant "hail to the guardians!" They also perform a ceremony that might someday constitute polyamorous marriage. Later the girls hold a body-electric workshop where they play "light as a feather, stiff as a board". 
+</james>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
 
-Empowered by their chosen family, the girls inadvertently start causing their revenge fantasies to come true. These revenge scenarios are framed in classic locations of gay teen drama. The white racist begins losing her blonde hair while showering in the gym locker room. The football jock falls in love with one of the witches and is then driven crazy, when the love is unrequited.
+[...] Yes, Nancy, own it.
 
-Sadly the film's narrative wraps up as witchcraft backfires on the girls, thereby illustrating the dangers of non-conformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one who ends up in a straitjacket.
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+What follows are multiple scenes resembling radical queer fairy gatherings, <mark>where they call the corners and chant "hail to the guardians!"</mark> <mark>They also perform a ceremony that might someday constitute polyamorous marriage</mark>. Later the girls <mark>hold a body-electric workshop</mark> where they <mark>play "light as a feather, stiff as a board".</mark> 
+
+<mark>Empowered by their chosen family, the girls inadvertently start causing their revenge fantasies to come true. These revenge scenarios are framed in classic locations of gay teen drama. The white racist begins losing her blonde hair while showering in the gym locker room. The football jock falls in love with one of the witches and is then driven crazy, when the love is unrequited.</mark>
+
+<mark>Sadly the film's narrative wraps up as witchcraft backfires on the girls, thereby illustrating the dangers of non-conformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one who ends up in a straitjacket.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 8" %}>
+
+Suffice it to say that there several scenes resembling Radical Faery gatherings <mark>where they call the corners and chant "Hail to the Guardians"</mark> etc. <mark>They also perform a ceremony that might someday constitute polyamorous marriage</mark> in some states, and they <mark>hold a Body Electric workshop</mark> in Rochelle's room where the four <mark>play "light as a feather, stiff as a board."</mark> The girls whisper and touch each other only with their index finger. Rochelle's mom walks in and interrupts the magic. "Whats going on in here?" "Nothing Mom." Tell me that didn't happen to you.
+
+<mark>Empowered by their chosen family, the girl's inadvertently start causing their revenge fantasies to come true. These revenge scenarios are framed in classic locations of gay teen trauma. The white racist begins losing her blond hair while showering in the gym locker room. The football jock falls in love with one of the witches, and is then driven crazy when the love is unrequited.</mark> He finally meets his fate at a party at one of the rich kid's houses -- the party that the gay boys weren't invited to.
+
+<mark>Sadly, the film's narrative wraps up as witchcraft backfires for the girls, thereby illustrating the dangers of nonconformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one, who ends up in a straightjacket.</mark> This movie came out before Ellen did. It would be several years before a young Bella could respectably choose the dark side. So big deal. Ignore the ending. Click rewind.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Being released the same year the Defense of Marriage act was put in place, and only two years after the "Don't Ask, Don't Tell" policy was passed, *The Craft* became an instant hit, and a cult sensation, that would be played at gay halloween parties for literally decades to come. 
 
 </james>
 <from></from>
@@ -209,19 +276,30 @@ Sadly the film's narrative wraps up as witchcraft backfires on the girls, thereb
 <compare>
 <james {% include timecode %}>
 
-Being released the same year the Defense of Marriage act was put in place, and only two years after the "Don't Ask, Don't Tell" policy was passed, *The Craft* became an instant hit, and a cult sensation, that would be played at gay halloween parties for literally decades to come. 
-
 As mentioned before, the connection between witches and homosexuality has gone back centuries, if not millennia. Lesbians were accused of witchcraft more than any other group of women. And gay men were regularly accused of being warlocks, or simply possessed by Satan. It's always funny, really, that the Christian Right Wing believes that God's main adversary is so interested in us. We should take it as a compliment, really.
 
-In modern Wicca, homosexuality is highly embraced. Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century, newer Wiccan traditions often avoid or disregard the historical aversion to lgbt people. These new traditions often cite the charge of the Goddess, which states "all acts of love and pleasure are my rituals".
+In modern Wicca, homosexuality is highly embraced. Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century, newer Wiccan traditions often avoid or disregard the historical aversion to lgbt people. These new traditions often cite the charge of the Goddess, which states "all acts of love and pleasure are my rituals". Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
 
-Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. Witchcraft, on the other hand, offered a spiritual space where queer people could step into their personal power and explore otherness without shame, guilt, or fear. Though most self-identified witches begin dabbling in magic at a young age, it's not until after puberty that it becomes a real draw for them. Furthermore, the idea of a coven creates a space for community, a spiritual place where one can be themselves without the ever-present evangelical eye. 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Witchcraft, on the other hand, offered a spiritual space where queer people</mark> <mark>could step into their personal power and explore otherness without shame, guilt, or fear.</mark> <mark>Though most self-identified witches</mark> begin dabbling in magic at a young age, it's not until after puberty that it becomes a real draw for them. <mark>Furthermore, the idea of a coven</mark> <mark>creates a space for community</mark>, a spiritual place where one can be themselves without the ever-present evangelical eye. 
 
 Though many would suspect that modern witches grew up in ultra-liberal hippie-esque environments, today over 80 percent of self-identified witches grew up in right-wing Christian homes. An environment that seems rife for creating things that are very unchristian.
 {% assign timecode = "11:30" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.amanda_kohr at="¶ 19" %}>
+
+<mark>Witchcraft, on the other hand, offered a spiritual space where queer folks</mark> like Bobbi, Mat, and Krysta <mark>could step into their personal power and explore otherness without shame, guilt, or fear.</mark> <mark>Though all of the witches</mark> I spoke to investigated magic (or magick) in their childhood, their crafts began to really come to fruition in their young adulthood, as they were granted more exposure to the variety of rituals and practices. Bobbi notes that discovering moon rituals was a major turning point in her witchcraft journey. 
+
+<mark>Furthermore, the idea of a coven</mark> — a group or gathering of witches — <mark>created space for community</mark>, another appealing aspect of mainstream religion. In addition to providing solace and support, Bobbi finds that her coven encourages her to be a better person. 
+
+</from>
 </compare>
 
 ## Bullied
@@ -233,13 +311,34 @@ Based on the best-selling novel by queer ally Stephen King, *Carrie* tells the s
 
 possibly the most obvious queer coding in the story is when Carrie's ultra religious mother actually locks her in a closet, declaring that she'll be sent to hell and punished for being who she is, if she continues down this sinful path.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Carrie has a crush, you see, on the high school heartthrob, tommy. and like many a gay boy and girl in their high school years, he is completely unattainable, until he's not. until he's suddenly interested in Carrie, a predicament both thrilling and terrifying. How many queer high schoolers have been in that position? Having a crush on a boy or girl, thinking there's no way that they could possibly be into you, that they're most likely straight. Approaching them romantically may even end in violence, especially in the 1970s, when the book and movie came out. This can easily be placed on most high schoolers who feel like they don't fit in but, it's particularly salient for queer kids. 
 
 I myself had a crush in junior high, we'll call him "Dan". He knew I was gay and seemed relatively accepting. but the ever-existing caveat "but I'm not gay, so you know, don't try anything" always hovered over the friendship. I knew there was no chance. And then, one night, my friends and I were having a movie night. Six of us were piled into my room watching Bram Stoker's Dracula, itself full of queer imagery. And while most everyone had spread out around the room, Dan and I ended up in my bed. A single bed with barely enough room for me, let alone another six foot soccer player. He didn't seem to mind though. Nothing happened between us, of course, but knowing that my straight best friend was okay practically cuddling with me made me pretty happy. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 No such luck for Carrie White though. Or most queer kids. After much bullying, even by characters not coded strictly as villains, Carrie is invited to the prom the epitome of high school heteronormativity. Not just invited, but invited by the most all-American crush she could possibly have, the epitome of the high school crush archetype. Not of his own volition, mind you, but by the cajoling of his girlfriend Sue, who seems to be the only decent person in the entire school.
 
 But Carrie doesn't know that. She gets to believe, for just a little while, that a boy like that could really like her. And to make it all that much better, the rabid bitch who's been making her high school life a living hell won't even be there, thanks to the help of a coded lesbian gym teacher. Eventually voted prom queen, Carrie's on top of the world.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 And then the rug is pulled out from under her. A bucket of pig's blood is pulled from the rafters coating her head to toe. And suddenly the realization hits. The fear that every queer kid holds down deep inside, that they'll be accepted lauded even, just for it all to be one big practical joke. Pranks like these are not uncommon. There's a reason every outsider in high school fears them. Pig's blood usually isn't involved, but raising up an oddball student to the very highest of heights just to push them off at the edge... It does happen.
 
@@ -247,15 +346,38 @@ This is when most would run off the stage in horror and shame, hide from the peo
 
 Fires rage around the gymnasium as she makes her way through it, a revenge fantasy for every teenager who has ever been othered, made fun of, bullied, attacked, held down. Carrie's a horror to mainstream audiences, terrified of the other. But a hero to queer kids and everyone who doesn't fit in, a literal horror superhero.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Director of the 2013 remake, lesbian director Kimberly Pierce, said:
 
 \[Quote scrolling up on screen]:
 
 > "I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."
 
-Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys, she may well be situated as a powerful figure of identification for gay male viewers. Carrie's narrative can also be read as a variation on the coming out tale, both sexually and socially. And revolves around the awkwardness of revealing one's own sexuality to one's parents, especially one's mother, and the guilt or shame involved in doing so.
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys</mark>, she may well be situated as a powerful figure of identification for gay male viewers. Carrie's narrative can also be read as a variation on the coming out tale, both sexually and socially. And revolves around the awkwardness of revealing one's own sexuality to one's parents, especially one's mother, and the guilt or shame involved in doing so.
 
 The film also has both cult and camp lore, mainly from its use of excess, a staple of director Brian De Palma. In the excessive style and form of his direction in terms of lighting, color coding, and the melodramatic use of music and score. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.darren_elliot_smith at="¶ ?" %}>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Of course, in the end, from my point of view anyway, Carrie is all about shame. Much like the shame of gay teenagers in certain types of families, certain kinds of home towns, not fitting in, being ostracized even when you try to fit in, and this shame is personified by Carrie White. Gay audiences form a connection with Carrie unlike with most horror heroines. She is the internalized anxiety within us, the yearning to be something more, to fit in, and yet be ourselves. To not be bullied, or at least to fight back against the bully. 
 

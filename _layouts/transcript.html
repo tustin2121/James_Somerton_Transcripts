@@ -86,6 +86,7 @@
 				{% if page.cite.plagiarized.size > 0 -%}
 					<ul class="refs" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
 						{% for item in page.cite.plagiarized %}
+							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
 						{% endfor %}
 					</ul>

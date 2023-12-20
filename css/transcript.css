@@ -283,30 +283,31 @@ q {
 	background-color: var(--color-canvas-subtle);
 }
 
-from.color-hbomb { border-color: hsl(59, 100%, 30%); }
-from.color-hbomb mark { background-color: hsla(59, 100%, 30%, 0.30) !important; }
-from.color-todd { border-color: hsl(0, 75%, 40%); }
-from.color-todd mark { background-color: hsla(0, 75%, 40%, 0.30) !important; }
-from.color-1 { border-color: hsl(118, 100%, 30%); }
-from.color-1 mark { background-color: hsla(118, 100%, 30%, 0.30) !important; }
-from.color-2 { border-color: hsla(187, 100%, 50%, 1.0); }
-from.color-2 mark { background-color: hsla(187, 100%, 50%, 0.30) !important; }
-from.color-3 { border-color: hsl(0, 52%, 32%); }
-from.color-3 mark { background-color: hsla(0, 52%, 32%, 0.30) !important; }
-from.color-4 { border-color: hsl(66, 100%, 50%); }
-from.color-4 mark { background-color: hsla(66, 100%, 50%, 0.30) !important; }
-from.color-5 { border-color: hsl(318, 65%, 49%); }
-from.color-5 mark { background-color: hsla(318, 65%, 49%, 0.30) !important; }
-from.color-6 { border-color: hsl(221, 100%, 50%); }
-from.color-6 mark { background-color: hsla(221, 100%, 50%, 0.30) !important; }
-from.color-7 { border-color: hsl(34, 98%, 34%); }
-from.color-7 mark { background-color: hsla(34, 98%, 34%, 0.30) !important; }
-from.color-8 { border-color: hsl(273, 72%, 33%); }
-from.color-8 mark { background-color: hsla(273, 72%, 33%, 0.30) !important; }
-from.color-9 { border-color: hsl(197, 47%, 31%); }
-from.color-9 mark { background-color: hsla(197, 47%, 31%, 0.30) !important; }
-from.color-10 { border-color: hsl(357, 92%, 43%); }
-from.color-10 mark { background-color: hsla(357, 92%, 43%, 0.30) !important; }
-from.color-11 { border-color: hsl(138, 100%, 47%); }
-from.color-11 mark { background-color: hsla(138, 100%, 47%, 0.30) !important; }
+:root { --source-color: 120, 100%, 50%; }
 
+.color-hbomb { --source-color: 59, 100%, 30%; }
+.color-todd  { --source-color: 0, 75%, 40%; }
+.color-1     { --source-color: 118, 100%, 30%; }
+.color-2     { --source-color: 187, 100%, 50%; }
+.color-3     { --source-color: 357, 92%, 43%; }
+.color-4     { --source-color: 71, 100%, 52%; }
+.color-5     { --source-color: 232, 100%, 47%; }
+.color-6     { --source-color: 138, 100%, 47%; }
+.color-7     { --source-color: 251, 100%, 75%; }
+.color-8     { --source-color: 0, 52%, 32%; }
+.color-9     { --source-color: 66, 100%, 35%; }
+.color-10    { --source-color: 37, 100%, 16%; }
+.color-11    { --source-color: 34, 98%, 34%; }
+.color-12    { --source-color: 164, 57%, 36%; }
+.color-13    { --source-color: 187, 90%, 19%; }
+.color-14    { --source-color: 342, 27%, 54%; }
+.color-15    { --source-color: 221, 100%, 50%; }
+.color-16    { --source-color: 273, 72%, 33%; }
+.color-17    { --source-color: 197, 47%, 31%; }
+.color-18    { --source-color: 318, 65%, 49%; }
+.color-19    { --source-color: 187, 100%, 39%; }
+
+
+from { border-color: hsl(var(--source-color)); }
+from mark { background-color: hsla(var(--source-color), 0.30) !important;}
+span.colorize { color: hsl(var(--source-color)); font-weight: bold; }
