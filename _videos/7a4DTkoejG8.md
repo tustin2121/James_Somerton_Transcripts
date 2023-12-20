@@ -964,96 +964,291 @@ Just kills your legs. But yeah, asexual enough--
 <compare>
 <nick>
 
-The- the question is that I had this struggle with my own kind of identity, because I identified as asexual, because, um you know, I- I had *some* sexual drive, I had sexual urges, but like when push came to shove like I didn't really like doing it that much yeah
+The- the question is that I had this struggle with my own kind of identity, because I identified as asexual, because, um you know, I- I had *some* sexual drive, I had sexual urges, but like when push came to shove, like I didn't really like doing it that *much*. Um... but I loved think-- I love the buildup to that, I love the lead up to that, I loved
+thinking about it, I loved putting myself in situations 
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
 
+Everything until you got to his door.
 
+</james>
+</compare> 
+<compare>
+<nick>
 
-25:23
-um but I loved think I love the build up to that I love the lead up to that I loved
-thinking about it I love putting myself in situations everything until you got
-to his door uh yeah and then I would just feel immense shame after we were done
-I didn't really get that kind of elation afterwards now is that shame of you
-know shame of having had sex or is that shame of not having enjoyed it the shame
-of not having enjoyed it okay um so it's not like a Puritan thing yeah it didn't
-build it didn't lead up to my expectations it wasn't what no is it that it
-didn't meet your ad your expectations or did you just flat out not enjoy the
-deep throat thing there wasn't the bells the whistles the Rockets the fireworks
-I didn't get that for anyone not in the know
-um there's a scene in the movie
-Deep Throat which is a 1972 1972. uh a straight adult movie in which some
-somebody has an orgasm and that's where the you know the bells and the whistles
-and the fireworks and everything that's where that saying comes from um comes
-from our Lord and savior Linda Lovelace uh oh there's a lot about Linda Lovelace
-we won't get into it here but uh fascinating figure though um historic figure
-but like I I just changed the world her and Indira Gandhi yeah so like I I but
-then again like there I am again like a few days later being like developing
-these very Vivid fantasies yeah um and then once again just being let down being
-let down um and I found that the people that I like being around the most are
-the people that I liked spending time around with clothes on maybe not with
-clothes on but you know not doing sexual things yeah um and so like for about
-seven years this has been this has been dodging me seven to ten years like what
-what is going on with me and so I talked to a friend and sort of describe that
-like describe this things and you said okay when you have your sexual fantasies
-when you kind of you know go off on your own head are they about you and I'm
-like no they're about circumstances and situations I make up sometimes sexual
-characters and he's like okay you're a good sexual you're what a ego sexual a
-bit of a mouthful but when the original studies were done on asexuality so
-you're full of yourself the researcher realized that there's a very strange
-pattern among some of the research subjects where they have sexual desire they
-desire desire but they didn't really have they didn't really find fulfillment in
-sex or the original term was forgive me but Auto Crow is autocroisexuality which
-was more of a mouthful than a ego sexual but the people of asexuals decided that
-aego sexual is probably a better way to say it it means that you are the ego of
-your sexuality and other people don't really have much effector in there it
-means that you arouse yourself but not that you're aroused by yourself it's just
-that your imagination does the lifting okay um and I I almost had a like
-meltdown because I was like that's me how did I not know about this and he's
-like that's because like so few people nobody talks no this exists um but unlike
-a lot of other um like it's like women not having orgasms nobody talks about it
-and so so many women just feel shame that they've never done the fact that we
-didn't know that the clitoris was as large as it is until like the last 10 years
-because we didn't research the in inside no one bothered to research what the
-inside what the internal as someone who had to watch a lot of straight porn as a
-teenager uh because I didn't have internet access and we had a pay-per-view
-descrambler I don't know how straight men can't find the clitoris right it's not
-hidden it anyway um lesbians have been finding it for Millennia uh so the
-sexuality fandom uh Wikipedia describes it as being distinguished by the
-tendency towards having sexual fantasies at times despite feeling a disconnect
-between themselves and the sexual targets that's object of arousal my friend
-described it as we desire desire uh this friend also identifies as he actually
-went into gender studies specifically to study this and write a dissertation
-about this I'd love to read it yeah uh he plays match of the Gathering now as
-you would do a legacy format where all the Queer as furries and uh Communists
-are uh and aegosexual actually means sexuality without the sex a ego sexuality
-um so I like to participate in sex as a living sort of subject I examine myself
-as a fantasy person so that's that's the context that I like having sex and
-that's why I like don't like doing it that often Because the actual sensation is
-of having it is less than the imagined sensation of what it appears or how it
-appears yeah um it's like people who have you know in their fantasies they have
-you know maybe an extreme Kink that would be you know not necessarily like
-violence or anything but something that most people would be like I found some
-of those but then in real life they're just kind of like oh no I would never
-actually do it yeah yeah and so like when I say that or they did or they would
-and then it would ruin the fantasy but yeah when I say that asexual people can
-be some of the horniest and kinkiest people you're leveling ever Evelyn ever
-encounter it's because that outside of the puritism purism of asexuality there
-are a myriad of different ways that the human brain is just really weird about
-sex yeah not weird isn't bad but weird as in like it's it's complicated it's
-complicated uh it's like she's complex but um so yeah like there are these are
-things that are the subject of research and the subject of academic Fascination
-even if there isn't really a lot of academic interest in these things some
-people are we're gonna see start seeing a little bit more of this um but there
-is a bit of a distinction between these between you know these sort of more
-psychological elements of asexual and the more self-identifying ones which you
-know there are legion of flags um because you know the asexual Community has
-been kind of ignored like we said by the queer community at large so I feel like
-there is a over tendency to self-identify and to sort of construct a the version
-of asexuality around a specific you know circumstances yeah and I feel like the
+Uh yeah, and then I would just feel immense shame after we were done. I didn't really get that kind of elation afterwards.  
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Now is that shame of... you know, shame of having had sex, or is that shame of not having enjoyed it?
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+The shame of not having enjoyed it.  
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+So it's not like a Puritan thing.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, it didn't build-- it didn't lead up to my expectations. It wasn't what-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+So is it that itdidn't meet your-- your expectations or did you just flat out not enjoy it?
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+It's just the deep throat thing, there wasn't the bells, the whistles, the rockets, the fireworks. I didn't get that. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+For anyone not in the know, there's a scene in the movie *Deep Throat* which is a 1972, uh, straight adult movie in which somebody has an orgasm and that's where the, you know, the bells and the whistles and the fireworks and everything, that's where that saying comes from. Comes from...
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Our Lord and savior Linda Lovelace. [laughs]
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh, there's a lot about Linda Lovelace, we won't get into it here, but... 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Fascinating figure though. Um... historic figure. But like I-- I just--  
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Changed the world. Her and Indira Gandhi.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[laughs] Yeah, so like I-- but then again, like there I am again, like a few days later being like, developing these very vivid fantasies. Um, and then once again just-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Being let down.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Being let down. Um, and I found that the people that I liked being around the most are the people that I liked spending time around with clothes on. Maybe not with clothes on, but you know, not doing sexual things. Um, and so like for about... seven years, this has been-- this has been dodging me. Seven to ten years, like "what is going on with me," and so I talked to a friend and sort of described that like... described those things and he said, "Okay, when you have your sexual fantasies, when you kind of, you know, go off on your own head, are they about you?" and I'm like, "No, they're about circumstances and situations I make up, sometimes sexual characters," and he's like, "Okay, you're aegosexual." 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+You're what?
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Aegosexual. Bit of a mouthful. But when the original studies were done on asexuality-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+So you're full of yourself.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+... the researcher realized that there's a very strange pattern among some of the research subjects where they have sexual desire, they *desire* desire, but they didn't really have... they didn't really find sex-- fulfillment in sex. Um, the original term was, forgive me, but auto-chro-is... autochroissexuality, which was more of a mouthful than aegosexual, but the people of asexuals decided that aegosexual is probably a better way to say it. It means that you are the ego of your sexuality, and other people don't really have much a factor in there. It means that you arouse yourself, but not that you're aroused *by* yourself, it's just that your imagination does the lifting.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh, okay.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Um, and I almost had a like, meltdown because I was like, "That's me, how did I not know about this?" and he was
+like, "That's because like, so few people know--"  
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Nobody talks about it.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+"...that this exists." Um... but unlike a lot of other um, flags-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+It's like women not having orgasms. Nobody talks about it, and so, so many women just feel shame that they've never done it. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Just the fact that we didn't know that the clitoris was as large as it is until like the last 10 years, because we didn't research the inside. [laughs] No one bothered to research what the inside, what the internal elements-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+As someone who had to watch a lot of straight porn as a teenager, uh, because I didn't have internet access and we had a pay-per-view descrambler, I don't know how straight men can't find the clitoris. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Right!? 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+It's not hidden. It-- anyway. [laughs] Um, lesbians have been finding it for millennia. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Uh so, the... asexuality fandom, uh, Wikipedia describes it as, "being distinguished by the tendency towards having sexual fantasies at times, despite feeling a disconnect between themselves and the sexual targets/object of arousal." My friend described it as, "we desire desire." Uh, this friend also identifies as this, he actually went into gender studies specifically to study this and write a dissertation about this. I'd love to read it.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh, a smarty pants.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, uh... he plays Magic of the Gathering now. [laughs] 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+As you would do.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[laughs] A legacy format where all the queer-ass furries and uh, communists are. Uh, and aegosexual actually means sexuality without the sex. A-*ego*-sexuality. Um, so I like to participate in sex, as a living sort of subject. I examine myself as a fantasy person. So that's== that's the context that I like having sex, and that's why I like, don't like doing it that often, because the actual sensation of having it is less than the imagined sensation of what it appears or how it appears to be. Um... 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+It's like people who have, you know, in their fantasies they have, you know, maybe an extreme kink that would be, you know, not necessarily like violence or anything, but something that most people would be like, "Eugh."  
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+I found some of those.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+But then in real life, they're just kind of like, "Oh no, I would never actually do it." 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, yeah. And so like, when I say that--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Or they did-- or they would and then it would ruin the fantasy because then they would find out--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, when I say that asexual people can be some of the horniest and kinkiest people you'll ever encounter, it's because that outside of the puritism-- purism of asexuality, there are a myriad of different ways that the human brain is just really weird about sex. Not weird as in bad, but weird as in like, it's... it's complicated, it's complicated. It's uh, "she's *complex*." [laughs] 
+
+But um, so yeah like there are-- these are things that are the subject of research and the subject of academic fascination, even if there isn't really a lot of academic interest in these things. Some people are and we're gonna see start seeing a little bit more of this, but there is a bit of a distinction between these-- between, you know, these sort of more psychological elements of asexual and the more self-identifying ones which, you know, there are *legion* of flags, um because you know, the asexual community has been kind of... ignored, like we said, by the queer community at large, so I feel like there is a... overtendency to self-identify, and to sort of construct a... version of asexuality around specific, you know, circumstances. And I feel like the
 pure the gatekeeping the purest gatekeeping of asexual aromanticism has led to
 that like you can't be asexual because you enjoy sex and these circumstances and
 it's like but yeah I'm still you know I'm still weird about it um and so like
@@ -1068,7 +1263,23 @@ lesbians and bisexual people and how uh and especially trans people in the LGBT
 and how the assistant hegemony uniquely persecutes against each of these camps
 of people and yeah different cocktails of privilege that they might that gay men
 will in particular kind of push back against all the other letters in the
-alphabet well that's that's honey oh that's a whole that's a whole other
+alphabet
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+31:43
+
+  yeah  well that's that's honey oh that's a whole that's a whole other
 discussion I'm talking about how the persecution of a gay man is different than
 a gay woman yeah um is different from bisexual man is different from a bisexual
 and especially it gets different when you factor in people of color and how
