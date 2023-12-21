@@ -63,6 +63,8 @@ cite:
 {% include chapter-link at="18:30" for="A Hellbound Heart" %}  
 {% include chapter-link at="26:59" for="A Good Girl" %}  
 {% include chapter-link at="36:51" for="The Others" %}  
+{% include chapter-link at="47:41" for="Death by Monogamy" %}  
+{% include chapter-link at="53:59" for="Disturbia" %}  
 
 </comment>
 </compare>
@@ -892,178 +894,218 @@ And so in a horror movie from 1979, we technically have a transgender character 
 <compare>
 <clip {% include citation from=page.cite.clips.alien %}>
 
-
-
-</clip>
-</compare>
-
 Frost: "Hey, I sure wouldn't mind getting some more of that [actereian poontang]."
 
 Hudson: "Yeah, the one that you had was male"
 
 Frost: "It doesn't matter when it's acturian!"
 
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 So the butch space marine slept with a man. And nobody makes a big deal out of it, except for Frost who wants to do it again. And he is wholeheartedly supported. This isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.
 
-The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. but is she herself queer? the actors who played her, jeanette goldstein weighed in on that question in 2016:
+The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. But is she herself queer? the actress who played her, Jeanette Goldstein, weighed in on that question in 2016:
+{% assign timecode = "42:32" %}
 
-42:32
+</james>
+<from></from>
+</compare>
 
-> "she's an outsider -- she was just who she was with vasquez I never said she was straight or gay because to her it was
-nobody's business a lot of gay women come up and say oh my god when I saw you and you had a masculine look to you I saw
-myself but I had straight women coming up to me with the same thing someone was going through breast cancer and she told
-me that with each round of chemo she would think of vasquez a gay man from guatemala came to me and he said I identify
-so much with her he was very feminine vasquez is universal elsewhere in the film is bishop another sexless cyborg like
-the first film's ash david grevin in demeter and persephone in space observes bishop the cyborg retooled as a queer
-suffering body is an example of a resistant masculinity devoid of any obvious sexual desire such figures suggest queer
-sexuality in films and television in that their refusal of the normative codes of masculinity suggest an alternative to
-them as with ash but much more pitiably the white blood that drenches bishops suggests both mother's milk and semen but
-in a radical decontextualization semen here suggests the vulnerability of male bodies their susceptibility to violation
-rather than unseemly urges grevin further suggests that the aliens and especially the alien queen represent a
-cisgendered heteronormative status quo that resents the changing times what gives this entire spectacle of shaming its
-radical charge is the queer typing of Ripley as mother with her short hair and male garb Ripley combines the masculine
-and the feminine with her casual indifference to heterosexual sex despite some no sweat flirtation with hicks she
-suggests the possibility of different sexual needs with her adoption of a child she suggests the lesbian mother who
-thinks outside the normative procreational box the alien queen's vicious contempt conveys the charge of an old customary
-inability to recognize the beauty and heroism in queer love of the kind Ripley and newt embody read as a queer allegory
-Ripley newt the reintegrated android bishop and the wounded vulnerable and bedridden hicks together constitute the new
-queer family the alien queen a repository of old modes of contempt and hate so while gribben suggests that the
-conservative alien queen has contempt for the queer family dynamic the metaphor could go even further cameron creates a
-future where gender norms have all but disappeared even subtle things like fashion such as the female whalenutani
-executive at Ripley's hearing wearing a power suit and sporting an androgynous haircut to the fact that the marines have
-a co-ed locker room suggest the battle of the sexes ended in a draw it's the alien queen who although she rules over an
-army of male drones is actually trapped within the biological determinism of her sex forever cranking out eggs she
-ironically wants to destroy this new world and turn back the clock a few centuries there's also the aids allegory of the
-entire alien franchise though obviously not intended for the first film which came out before aids became well known the
-sexual imagery of the Xenomorph's many forms and the imminent death associated with them make H.R Geiger's beasts easy
-analogues for the deadly bloodborne virus especially in the sequel where just one alien one drop of infected blood or
-semen can create such an infection that completely overwhelms the host planet or body this became especially prescient
-with the release of alien 3. the death of newton hicks before the film even begins is central to this message aids
-seemingly kills at random the young and innocent like newt the healthy young men like hicks or like Ripley you might
-avoid the disease by pure luck then there's the population of fury 161 an almost completely abandoned prison planet one
-of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture much
-like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure and
-this speech from dylan the only question is how you check out do you want it on your feet or on your [ __ ] knees I
-ain't much for begging hitting like larry kramer's 1987 speech when he launched act up the alien created by H.R Geiger
-brought to life by Ridley Scott and perfected by james cameron is a monster that exploited our fears of gender sex
-infection and lost control a monster so ravenous there is no escape but not all monsters are so obvious [Music] it
-follows tells the story of jay a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend
-hugh after they first have sex hugh sedates her forcing her to heed his instructions about the curse she must sleep with
-someone as soon as she can in order to pass it along to another person and on and on or else she'll be tracked down and
-killed by another worldly entity the titular it if it kills her it will resume tracking hue since it follows only one
-person at a time the monster in it follows may be a supernatural being but the film's true source of horror is living
-under a regime of sexual shame where our heteronormative culture compels sexual subjects toward monogamy even at the
-risk of their overall well-being though many critics pointed out that it follows cleverly subverts the usual you have
-sex you die trope from 1980 slasher movies few grasped the idea that the monster in the film would more or less become
-harmless in a society where sexual promiscuity was the norm having sex with new partners on a regular basis constantly
-shifting its targets to the point at which it could follow but never catch up in time to kill at a glance it follows
-would seem unlikely to have a queer reading since it doesn't feature any queer characters or monsters that could be
-easily coded as such nor does it feature any of the homoerotic undertones of movies like a nightmare on elm street ii
-the lost boys or rope instead its queerness is less monolithic for some viewers a horror movie that depicts sexual
-partners spreading a deadly curse via sex might seem deeply sex negative indeed many reviewers saw the film's central
-conceit as tapping into the fears of anyone who came of age during the aids crisis the threat of aids has of course long
-been allegorically linked to popular horror imagery like the aforementioned alien john carpenter's the thing david
-cronenberg's the fly or any number of post-80s vampire tales but the film's queer lesson is less about the avoidance of
-sex than the management of risk after all according to the film's logic those infected by the curse can survive only by
-successfully finding new sexual partners versus remaining abstinent and living out the fatal consequences of their prior
-sexual history the film barely acknowledges that jay has any other option but to find new partners and it's her
-hesitance to move beyond a series of monogamous bonds that could ultimately prove to be her downfall therefore the film
-implies that having a sex life is inevitable and always involves a certain level of risk emotional or physical but the
-film also suggests that the danger truly lies in the social attitudes that make sex and promiscuity shameful we're also
-told very clearly that jay was not a virgin at the beginning of the film when she acquired the curse and therefore the
-allegorical infection shouldn't be looked at as some kind of punishment for premarital or non-procreative sex as it
-would be in so many other movies in the genre importantly neither hugh nor the film in general ever specify which sexual
-acts will successfully pass along the curse thus opening plenty of space for queer speculation is heterosexual sex the
-only option will same-sex partners do the trick do oral or anal sex count what about non-genital forms of sexuality s m
-kink or masturbation maybe just how conventional and vanilla are the expectations of this paranormal being the idea of
-destigmatizing promiscuous sex was particularly timely when it follows hit theaters media attention had just begun
-addressing the slow growing popularity of drugs like truvada as a way to stop new hiv infections not only does the drug
-reduce the likelihood of a positive person passing on the disease in some cases making it impossible but can also
-prevent the disease from taking hold if taken by hiv negative people thus reopening a part of queer sexual life that had
-been more or less shut off since the 1980s but anyone who mentioned that they were using the drug commonly known as prep
-immediately found themselves being slut-shamed many doctors could be judgmental of patients asking for the once a day
-pill thrusting their moral opinions on a medical issue and so for some time many people in the gay community refuse to
-ask their doctors for a prescription shaming people for wanting to add an extra layer of safety to their sex life prep
-is much more common now resulting in transmission rates of the hiv virus dropping dramatically but for a time right
-around the release of it follows the shame of being seen as promiscuous by doctors or friends stopped a lot of people
-from getting the new little blue pill until then anything but monogamy even with a condom was looked at as a risky
-dangerous and irresponsible behavior in much of the queer community it follows appeared at a historical moment when a
-hetero turned homo normative model of monogamy was upheld as law of the land while a countervailing trend saw the
-partial overcoming of long-time anxieties about the most infamously fatal of sex-born diseases opening fresh
-possibilities for sexual autonomy the film may not have been deliberately intended as a socio-political commentary on
-such shifts indeed david robert mitchell the film's writer director left the monster's motives and weaknesses
-nightmarishly unexplained and open to interpretation but the place of queerness as a sort of structuring absence within
-the film an unnamed but perpetually haunting presence still speaks to a queer audience but just like how prep has not
-completely disposed of hiv the monster in it follows is similarly relentless following a traumatic confrontation that
-ends with jay agreeing to pass the curse along to a boy who's had a crush on her since childhood the apparently
-monogamous couple walk hand in hand down a quiet suburban street unaware that behind them it follows [Music] not all
-horror movies deal with the supernatural some are more than happy to terrify you with what you know best your friends
-your family your home turning something mundane into something truly terrifying bringing horror to a place that it never
-should have been that's something that horror expert wes craven did all too well by making the violent killer of a film
-someone you would have usually sympathized with in the last house on the left perverting the relative safety of dreams
-with a nightmare on elm street blurring the lines between horror and real life with his new nightmare and then bringing
-horror to the safest of all places in clinton america the suburbs with scream written by outgay screenwriter kevin
-williamson scream tells the tale of sydney prescott who a year after her mother's murder is having those old wombs
-figuratively and literally reopened but the queerness of the film has nothing to do with sydney or her mother but with
-the killers billy and stu as well as the uncomfortable social changes toward a more lgbt accepting society in the late
-1990s in terms as resonant as they were phobic scream was a cry of despair over an apparent immorality in the millennial
-or late gen x youth especially in the male population the homoeroticism of the billy stew relationship which the film
-develops into an all but explicit queer love affair shows both the unpredictable anarchic bewildering behavior of the
-generation and the shifts in male gender roles synonymous with it scream redeploys the long-standing american tradition
-of a homoerotic bond between a pair of young male killers the foundation of the tradition is the infamous leopoldon loeb
-case these wealthy young men were university of chicago students who murdered the fourteen-year-old bobby franks in 1924
-both were sentenced to life in prison with one of them being murdered by another inmate shortly after sentencing this
-case generated several fictional treatments including hitchcock's 1948 film rope which I covered in monsters in the
-closet these killers considered themselves to be nietzschean supermen using their superior intellect as justification
-for their thrill killing billy and stu however have no such lofty philosophical ambitions their motivations are family
-and romance driven billy claims to be avenging himself for sydney's mother's crime of destroying his family and stu
-seemingly is just doing it for billy scream also offers contrasting portraits of masculinity but only in order to
-intensify its vision of an increasing cultural depravity perhaps the first touch that links the killers to queerdom is
-ghostface's first appearance to sydney he tries to trick her into believing that he's on her front porch the killer then
-jumps out of her closet instead there's also the image of sydney's open closet door protecting her from harm I might be
-reaching here but it's not hard to read that as it's better to have your closet door open than closed skeet ulrich's
-performance as billy and especially matthew lillards as stu deepened the queer resonance that stand forever on a knife's
-edge of obviousness ulrich's bloody intensity and perpetual white t-shirt clearly evoke james dean and rebel without a
-cause the intense look in his eyes either sad or cunning keeps the audience as off-balance to his identity as it does
-sydney but when he does reveal his murderous identity the facade dissolves entirely and he passes through intensity into
-truly frightening the dark underbelly of his pristine all-american geniality lillard stew meanwhile is notable for his
+<compare>
+<james {% include timecode %}>
+
+\[Quote on screen]:
+> "she's an outsider -- she was just who she was. With Vasquez, I never said she was straight or gay, because to her it was nobody's business. 
+>
+> A lot of gay women come up and say, 'Oh my god, when I saw you, and you had a masculine look to you, I saw  myself,' But I had straight women coming up to me with the same thing. 
+>
+> Someone was going through breast cancer, and she told me that with each round of chemo she would think of Vasquez. A gay man from Guatemala came to me, and he said, 'I identify so much with her,' but he was very feminine. Vasquez is universal."
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Elsewhere in the film is Bishop another sexless cyborg like the first film's Ash. David Grevin in *Demeter and Persephone in Space* observes:
+
+> Bishop, the cyborg retooled as a queer suffering body, is an example of a resistant masculinity devoid of any obvious sexual desire. Such figures suggest queer sexuality in films and television in that their refusal of the normative codes of masculinity suggest an alternative to them.
+>
+> As with Ash, but much more pitiably, the white blood that drenches Bishop suggests both mother's milk and semen. But in a radical decontextualization, semen here... suggests the vulnerability of male bodies, their susceptibility to violation, rather than unseemly urges. 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Grevin further suggests that the aliens, and especially the alien queen, represent a cisgendered heteronormative status quo that resents the changing times. what gives this entire spectacle of shaming its radical charge is the queer typing of Ripley as mother. With her short hair and male garb, Ripley combines the masculine and the feminine. 
+
+With her casual indifference to heterosexual sex, despite some no sweat flirtation with Hicks, she suggests the possibility of different sexual needs. With her adoption of a child, she suggests the lesbian mother who thinks outside the normative procreational box. The alien queen's vicious contempt conveys the charge of an old customary inability to recognize the beauty and heroism in queer love of the kind Ripley and Newt embody. 
+
+Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the wounded vulnerable and bedridden Hicks, together constitute the new queer family. The alien queen, a repository of old modes of contempt and hate. 
+
+</james>
+<from {% include citation from=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So while Grevin suggests that the conservative alien queen has contempt for the queer family dynamic, the metaphor could go even further. Cameron creates a future where gender norms have all but disappeared. Even subtle things like fashion, such as the female Weyland-Yutani executive at Ripley's hearing wearing a power suit and sporting an androgynous haircut, to the fact that the marines have a co-ed locker room suggest the battle of the sexes ended in a draw. 
+
+It's the alien queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries. There's also the AIDS allegory of the entire alien franchise. Though obviously not intended for the first film which came out before AIDS became well known, the sexual imagery of the Xenomorph's many forms, and the imminent death associated with them, make H.R Geiger's beasts easy analogues for the deadly bloodborne virus. Especially in the sequel, where just one alien, one drop, of infected blood or semen, can create such an infection that completely overwhelms the host planet... or body. 
+
+This became especially prescient with the release of Alien 3. The death of Newt and Hicks before the film even begins is central to this message. AIDS seemingly kills at random. The young and innocent like Newt. The healthy young men like Hicks. Or, like Ripley, you might avoid the disease by pure luck. 
+
+Then there's the population of Fury 161, an almost completely abandoned prison planet. One of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture, much like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure. And
+this speech from Dylan:
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation from=page.cite.clips.alien3 %}>
+
+Dylan: "The only question is how you check out. Do you want it on your feet or on your fucking knees? Damn! I ain't much for begging."
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Hitting like Larry Kramer's 1987 speech when he launched ACT UP. The alien created by H.R Geiger, brought to life by Ridley Scott, and perfected by James Cameron, is a monster that exploited our fears of gender, sex, infection, and lost control. A monster so ravenous, there is no escape. But not all monsters are so obvious.
+{% assign timecode = "47:39" %}
+
+</james>
+<from></from>
+</compare>
+
+## Death by Monogamy
+
+<compare>
+<james {% include timecode %}>
+
+*It Follows* tells the story of Jay, a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh. After they first have sex Hugh sedates her, forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on, or else she'll be tracked down and killed by an other-worldly entity, the titular "it". If it kills her, it will resume tracking Hugh, since it follows only one person at a time. 
+
+The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being. Though many critics pointed out that *It Follows* cleverly subverts the usual "you have
+sex, you die" trope from 1980's slasher movies, few grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
+
+At a glance *It Follows* would seem unlikely to have a queer reading, since it doesn't feature any queer characters or monsters that could be easily coded as such. Nor does it feature any of the homoerotic undertones of movies like *A Nightmare on Elm Street II*, *The Lost Boys*, or *Rope*. Instead its queerness is less monolithic. 
+
+For some viewers, a horror movie that depicts sexual partners spreading a deadly curse via sex might seem deeply sex-negative. Indeed, many reviewers saw the film's central
+conceit as tapping into the fears of anyone who came of age during the AIDS crisis. The threat of AIDS has, of course long, been allegorically linked to popular horror imagery, like the aforementioned *Alien*, John Carpenter's *The Thing*, David Cronenberg's *The Fly*, or any number of post-80s vampire tales. 
+
+But the film's queer lesson is less about the avoidance of sex than the management of risk. After all according to the film's logic, those infected by the curse can survive only by successfully finding new sexual partners, versus remaining abstinent and living out the fatal consequences of their prior sexual history. The film barely acknowledges that Jay has any other option but to find new partners, and it's her hesitance to move beyond a series of monogamous bonds that could ultimately prove to be her downfall. 
+
+Therefore the film implies that having a sex life is inevitable and always involves a certain level of risk, emotional or physical. But the film also suggests that the danger truly lies in the social attitudes that make sex and promiscuity shameful. We're also told very clearly that Jay was not a virgin at the beginning of the film when she acquired the curse. And therefore the allegorical infection shouldn't be looked at as some kind of punishment for premarital or non-procreative sex, as it would be in so many other movies in the genre. 
+
+Importantly neither Hugh nor the film in general ever specify which sexual acts will successfully pass along the curse, thus opening plenty of space for queer speculation. Is heterosexual sex the only option? Will same-sex partners do the trick? Do oral or anal sex count? What about non-genital forms of sexuality: S&M, kink, or masturbation, maybe? Just how conventional and vanilla are the expectations of this paranormal being?
+
+The idea of destigmatizing promiscuous sex was particularly timely when *It Follows* hit theaters. Media attention had just begun addressing the slow growing popularity of drugs like Truvada as a way to stop new HIV infections. Not only does the drug reduce the likelihood of a positive person passing on the disease, in some cases making it impossible, but can also prevent the disease from taking hold if taken by HIV negative people, thus reopening a part of queer sexual life that had been more or less shut off since the 1980s. 
+
+But anyone who mentioned that they were using the drug, commonly known as PREP immediately found themselves being slut-shamed. Many doctors could be judgmental of patients asking for the once a day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PREP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
+
+But, for a time, right around the release of *It Follows* the shame of being seen as promiscuous by doctors or friends stopped a lot of people from getting the new little blue pill. Until then anything but monogamy, even with a condom, was looked at as a risky, dangerous, and irresponsible behavior in much of the queer community. 
+
+*It Follows* appeared at a historical moment when a hetero- turned homo-normative model of monogamy was upheld as law of the land/ while a countervailing trend saw the partial overcoming of long-time anxieties about the most infamously fatal of sex-born diseases, opening fresh possibilities for sexual autonomy. The film may not have been deliberately intended as a socio-political commentary on such shifts. Indeed David Robert Mitchell, the film's writer/director, left the monster's motives and weaknesses nightmarishly unexplained and open to interpretation. But the place of queerness as a sort of structuring absence within the film, an unnamed but perpetually haunting presence still speaks to a queer audience.
+
+But just like how PREP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. Following a traumatic confrontation that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently
+monogamous couple walk hand in hand down a quiet suburban street, unaware that behind them *It Follows*.
+{% assign timecode = "53:59" %}
+
+</james>
+<from></from>
+</compare>
+
+## Disturbia
+
+<compare>
+<james {% include timecode %}>
+
+Not all horror movies deal with the supernatural. Some are more than happy to terrify you with what you know best. Your friends, your family, your home, turning something mundane into something truly terrifying, bringing horror to a place that it never
+should have been. 
+
+That's something that horror expert Wes Craven did all too well. By making the violent killer of a film someone you would have usually sympathized with in *The Last House on the Left*. Perverting the relative safety of dreams with *A Nightmare on Elm Street*. Blurring the lines between horror and real life with *His New Nightmare*. And then bringing horror to the safest of all places in Clinton America, the suburbs, with *Scream*.
+
+Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
+
+In terms as resonant as they were phobic, *Scream* was a cry of despair over an apparent immorality in the Millennial or late-Gen X youth, especially in the male population. The homoeroticism of the Billy-Stu relationship, which the film develops into an all-but-explicit queer love affair, shows both the unpredictable, anarchic, bewildering, behavior of the generation, and the shifts in male gender roles synonymous with it.
+
+</james>
+<from></from>
+</compare>
+
+
+
+*Scream* redeploys the long-standing American tradition of a homoerotic bond between a pair of young male killers. The foundation of the tradition is the infamous Leopold and Loeb case. These wealthy young men were University of Chicago students who murdered the fourteen-year-old Bobby Franks in 1924. Both were sentenced to life in prison, with one of them being murdered by another inmate shortly after sentencing.
+
+This case generated several fictional treatments including Hitchcock's 1948 film *Rope*, which I covered in ["Monsters in the Closet"](4zPCM14-SCQ.md). These killers considered themselves to be Nietzschean supermen, using their superior intellect as justification
+for their thrill-killing. 
+
+Billy and Stu, however, have no such lofty philosophical ambitions. Their motivations are family- and romance-driven. Billy claims to be avenging himself for Sydney's mother's crime of destroying his family. And Stu seemingly is just doing it for Billy. 
+
+*Scream* also offers contrasting portraits of masculinity ,but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to queerdom is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch. The killer then jumps out of her closet instead. 
+
+There's also the image of Sydney's open closet door protecting her from harm. I might be
+reaching here, but it's not hard to read that as "it's better to have your closet door open than closed". Skeet Ulrich's performance as Billy and especially Matthew Lillard's as Stu deepened the queer resonance that stand forever on a knife's edge of obviousness. 
+
+Ulrich's bloody intensity and perpetual white t-shirt clearly evoke James Dean in *Rebel Without a Cause*. The intense look in his eyes, either sad or cunning, keeps the audience as off-balance to his identity as it does Sydney. But when he does reveal his murderous identity, the facade dissolves entirely and he passes through intensity into
+truly frightening. The dark underbelly of his pristine all-American geniality. 
+
+57:41
+
+lLllard's Stu, meanwhile, is notable for his
 gender bending potential he uses his basketball player height rubbery face and excessive emotionalism to create a
 memorably frantic character that would shock no one if he suddenly appeared in full drag in one scene set in the video
-store where randy of movie geek works randy theorizes about billy's possible identity as the killer in perhaps the most
-homoerotic moment in the film billy suddenly swings upon randy challenging him how do we know you're not the killer huh
-huh hi billy maybe your movie freaked mine lost it's reality button you ever think of that as billy gets in randy's face
-stu comes up from behind him in a shockingly intimate almost threesome what has been called femmephobia intersects here
+store where randy of movie geek works randy theorizes about Billy's possible identity as the killer in perhaps the most
+homoerotic moment in the film Billy suddenly swings upon randy challenging him how do we know you're not the killer huh
+huh hi Billy maybe your movie freaked mine lost it's reality button you ever think of that as Billy gets in randy's face
+Stu comes up from behind him in a shockingly intimate almost threesome what has been called femmephobia intersects here
 with homophobia as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
 the perfect murder plot craven makes the interesting choice to stage the big revelation scene at the climax of the film
 in the kitchen the mama's boy killers reveal the nefarious identities within the domestic space most closely associated
-with the mother earlier in the film billy and sydney have sex after she announces that if life is one big movie genre
-her pick is porn ghostface suddenly appears right after they've finished and seemingly stabs billy to death one can
+with the mother earlier in the film Billy and Sydney have sex after she announces that if life is one big movie genre
+her pick is porn ghostface suddenly appears right after they've finished and seemingly stabs Billy to death one can
 assume that he's been watching them do the deed the entire time of course we soon learn that this is only a ruse to
-distract sydney from billy's real identity as one of the killers billy staggers back to life in his seemingly
-blood-drenched t-shirt getting possession of the gun sydney had been wielding billy shoots randy and then dabs a finger
+distract Sydney from Billy's real identity as one of the killers Billy staggers back to life in his seemingly
+blood-drenched t-shirt getting possession of the gun Sydney had been wielding Billy shoots randy and then dabs a finger
 in his blood and brings it up to his lips there's also the negative oedipus complex homosexuality is the chief aspect of
 it in a footnote added in 1910 to his 1905 three essays on the theory of sexuality sigmund freud conjecture's homosexual
-identity emerges from an identification with the mother and billy is nothing if not obsessed with his mother while many
+identity emerges from an identification with the mother and Billy is nothing if not obsessed with his mother while many
 have read freud's theory as homophobic it would likely be fairer to say that it's been put to homophobic use in american
 psychiatry which historically used it to pathologize homosexuality as an arrested development what scream makes vividly
 clear is the cultural reception of narcissistic mother identified desire the killers and scream are monstrous not only
 because they kill but because their desire proceeds from identification with the mother what complicates or is left
-deliberately unresolved by the filmmakers is the specific nature of the boy's relationship with each other stu's desire
-is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic stu has a
-girlfriend dispatched via garage door but his chief affection is directed toward billy to whom he's quite clearly
-devoted what is most significant about stu's relationship with billy are the ways in which billy's desire becomes stu's
+deliberately unresolved by the filmmakers is the specific nature of the boy's relationship with each other Stu's desire
+is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic Stu has a
+girlfriend dispatched via garage door but his chief affection is directed toward Billy to whom he's quite clearly
+devoted what is most significant about Stu's relationship with Billy are the ways in which Billy's desire becomes Stu's
 desires becoming an easy analog for the feeling of many gay teenage boys who will do anything play any sport see any
 movie take any drug in a desperate attempt to connect with their male crushes a queer reading becomes more obvious at
-least to me when the pair of killers decide they need to stab each other in order to frame sydney for the killings
+least to me when the pair of killers decide they need to stab each other in order to frame Sydney for the killings
 penetrating one another to show their devotion replicating the pain of virginal anal sex scream with its queer coding
 delicious dialogue and willingness to reach into camp territory when necessary has become a classic slasher among the
 queer community while we watch it as a smart send up of the genre which was well and dead in 1996 many people of the
 more hetero persuasion see the film a bit differently it's the horror of danger coming to the suburbs a place of safety
 being perverted where nice white families fled to in order to escape the poor black and queer horrors that filled the
 city streets and in scream the queer horror penetrated that safety it also tore apart the idea of the ideal american
-family billy's family was torn asunder when sydney's mother had an affair with his father leading to a divorce and his
-mother leaving town and so he took sydney's mother away from her too the fragility of the straight nuclear family coming
+family Billy's family was torn asunder when Sydney's mother had an affair with his father leading to a divorce and his
+mother leaving town and so he took Sydney's mother away from her too the fragility of the straight nuclear family coming
 to a bloody end just as the new millennium dawned showing us all that families though a nice idea can lead to unexpected
 horrors in 2017 a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from australia
 with sharp teeth theatrical makeup and a top hat this cultural phenomenon began with the 2016 tumblr thread initiated by
