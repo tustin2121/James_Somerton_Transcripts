@@ -21,7 +21,7 @@ Feel free to submit a pull request [on the repo](https://github.com/tustin2121/J
 
 # Transcript Index
 
-<div class="video-list">
+<div>
   <div class="video-card">
     <div class="title"><a href>Video Card Example (Links to Transcript)</a></div>
     <div class="date">Release Date</div>
@@ -63,6 +63,11 @@ Transcript Statuses:
 </div>
 </div>
 
+<div class="instructions">
+  <label><input type="checkbox" id="view-old" /> Show old videos</label>
+  <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
+  <label><input type="checkbox" id="view-new" /> Show new videos</label>
+</div>
 <div class="video-list">
 {% assign vidList = site.videos | sort: 'date' | reverse %}
 {% for video in vidList %}

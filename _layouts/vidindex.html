@@ -7,13 +7,15 @@
 	<link rel="stylesheet" href="{{ "/css/markdown-github.css" | relative_url }}" type="text/css" />
 	<link rel="stylesheet" href="{{ "/css/video-index.css" | relative_url }}" type="text/css" />
 	<link rel="stylesheet" href="{{ "/css/video-card.css" | relative_url }}" type="text/css" />
-
+	
 	<title>James Somerton Transcripts</title>
 	<meta property="og:title" content="James Somerton Transcripts" />
 	<meta property="og:description" content="An archive of transcripts for all of the James Somerton videos, with plagiarism highlighted." />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ "" | absolute_url }}" />
 	<meta property="og:locale" content="en_US" />
+	
+	<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js" integrity="sha256-WCzAhd2P6gRJF9Hv3oOOd+hFJi/QJbv+Azn4CGB8gfY=" crossorigin="anonymous"></script>
 </head>
 <body>
 	<div class="wrapper">
@@ -23,5 +25,35 @@
 			</div>
 		</div>
 	</div>
+	<script>
+		{
+			document.getElementById('view-old').addEventListener('change', updateView);
+			document.getElementById('view-new').addEventListener('change', updateView);
+			document.getElementById('view-pod').addEventListener('change', updateView);
+			
+			let view = Cookies.get('view');
+			view ??= 'old pod';
+			view = view.split(' ').filter(v => v);
+			document.body.classList.add(...view);
+			document.getElementById('view-old').checked = view.includes('old');
+			document.getElementById('view-new').checked = view.includes('new');
+			document.getElementById('view-pod').checked = view.includes('pod');
+			
+			updateView();
+		}
+		function updateView() {
+			let view = [];
+			if (document.getElementById('view-old').checked) { view.push('old'); }
+			if (document.getElementById('view-new').checked) { view.push('new'); }
+			if (document.getElementById('view-pod').checked) { view.push('pod'); }
+			if (view.length == 0) {
+				view.push('old');
+				document.getElementById('view-old').checked = true;
+			}
+			Cookies.set('view', view.join(' '));
+			document.body.classList.remove('old', 'new', 'pod');
+			document.body.classList.add(...view);
+		}
+	</script>
 </body>
 </html>

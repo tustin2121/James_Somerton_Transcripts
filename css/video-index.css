@@ -17,3 +17,17 @@
 .instructions p {
 	margin-bottom: 0;
 }
+
+body:not(.pod) .video-card.podcast {
+	display: none;
+}
+body:not(.new) .video-card.post-callout {
+	display: none;
+}
+body:not(.old) .video-card.pre-callout {
+	display: none;
+}
+
+.video-list {
+    min-height: 60vh;
+}
