@@ -1,30 +1,42 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		color-scheme: dark;
+		--video-box-bg-color-def: #0a1a31;
+		--video-box-bg-color-new: #2d0a0a;
+		--video-box-bg-color-pod: #3b270a;
+		
 		--video-box-stolen-text: #f0eaf2;
 		--video-box-stolen-bg: #8705ae;
 		--video-box-fabricated-text: #ffdcd7;
 		--video-box-fabricated-bg: #850810;
 		--video-box-yikes-text: #feffd7;
 		--video-box-yikes-bg: #4f6706;
+		
+		--video-box-topic-color: #ffa657;
 	}
 }
 @media (prefers-color-scheme: light) {
 	:root {
 		color-scheme: light;
+		--video-box-bg-color-def: #b2ccfb;
+		--video-box-bg-color-new: #fdc2c2;
+		--video-box-bg-color-pod: #ffd699;
+		
 		--video-box-stolen-text: #8705ae;
 		--video-box-stolen-bg: #f0eaf2;
 		--video-box-fabricated-text: #82071e;
 		--video-box-fabricated-bg: #ffebe9;
 		--video-box-yikes-text: #4f6706;
 		--video-box-yikes-bg: #feffd7;
+		
+		--video-box-topic-color: #973900;
 	}
 }
 
 
 .video-card {
 	max-width: 1000px;
-	background-color: var(--color-canvas-subtle);
+	background-color: var(--video-box-bg-color-def);
 	margin: 6px;
 	padding: 2px 8px;
 	display: grid;
@@ -34,7 +46,22 @@
 		"date  title title links"
 		"stat  aka   topic topic"
 		"score aka   topic topic";
+	text-shadow: 0px 0px 0px black;
 }
+.video-card.podcast {
+	background-color: var(--video-box-bg-color-pod);
+}
+.video-card.post-callout {
+	background-color: var(--video-box-bg-color-new);
+}
+
+.video-card.podcast {
+	background-color: var(--video-box-bg-color-pod);
+}
+.video-card.post-callout {
+	background-color: var(--video-box-bg-color-new);
+}
+
 .video-card > div {
 	padding: 2px 6px;
 }
@@ -89,7 +116,7 @@
 }
 .video-card > .topics {
 	grid-area: topic;
-	color: var(--color-prettylights-syntax-variable);
+	color: var(--video-box-topic-color);
     font-size: smaller;
     text-align: right;
 }

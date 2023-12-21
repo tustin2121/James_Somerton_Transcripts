@@ -1,5 +1,10 @@
 {% comment %} Expected: video parameter {% endcomment %}
-<div class="video-card">
+<div class="video-card
+	{%- if include.video.notes contains "podcast" %} podcast
+	{%- elsif include.video.notes contains "post-callout" %} post-callout
+	{%- else %} pre-callout
+	{%- endif -%}
+">
 	<div class="title">
 		<a href="{{ include.video.url | relative_url }}">{{ include.video.title }}</a>
 		{% comment %} {{ include.video.notes }} {% endcomment %}
