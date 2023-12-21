@@ -292,7 +292,7 @@ Suffice it to say that there several scenes resembling Radical Faery gatherings 
 
 <mark>Empowered by their chosen family, the girl's inadvertently start causing their revenge fantasies to come true. These revenge scenarios are framed in classic locations of gay teen trauma. The white racist begins losing her blond hair while showering in the gym locker room. The football jock falls in love with one of the witches, and is then driven crazy when the love is unrequited.</mark> He finally meets his fate at a party at one of the rich kid's houses -- the party that the gay boys weren't invited to.
 
-<mark>Sadly, the film's narrative wraps up as witchcraft backfires for the girls, thereby illustrating the dangers of nonconformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one, who ends up in a straightjacket.</mark> This movie came out before Ellen did. It would be several years before a young Bella could respectably choose the dark side. So big deal. Ignore the ending. Click rewind.
+<mark>Sadly, the film's narrative wraps up as witchcraft backfires for the girls, thereby illustrating the dangers of nonconformity. The girls survive only by vowing to never practice the craft again. They all end up back in the closet, except one, who ends up in a straightjacket.</mark> This movie came out before E did. It would be several years before a young Bella could respectably choose the dark side. So big deal. Ignore the ending. Click rewind.
 
 </from>
 </compare>
@@ -861,57 +861,56 @@ But for young women how can you tell if another girl is interested in you in a r
 <compare>
 <james {% include timecode %}>
 
+1979's *Alien*, directed by Ridley Scott, is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory. It's also monstrously queer. Not only is Ellen Ripley a strong butch heroine, who does not *at all* fit the usual sci-fi or horror female archetype, but according to David McEntee, author of *Beautiful Monsters*, the film also plays very deliberately with male fears of female reproduction. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
 
+But the queerness in alien reaches beyond the obvious. When writing the screenplay Dan O'Bannon wanted to focus more on developing the Xenomorph as a character. And so when writing the crew he left them more or less generic, which included their gender. A note on the script reads:
+
+> "The crew is unisex and all parts are interchangeable for men or women."
+
+From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral. They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered pronouns. The ship's male mechanics complain about being paid less than everyone else, including the female crew, at a time in america when women were being paid 60 cents for every dollar a man made.
+
+Once cast, and the actors were given the freedom to play their parts as masculine or feminine, star Sigourney Weaver decided to play her character as completely gender-neutral. In horror, especially at the time of release, female characters were *always* portrayed as victims or damsels in distress. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
+
+Furthermore, when Ripley asserts authority in the team after Dallas is caught by the Alien, Ash, the male robot, feels threatened and attempts to dominate Ripley to regain his masculinity. He's a genderless robot, however he exemplifies constructed toxic masculinity, aggression, a fragile ego, and stubbornness. He attacks Ripley who exemplifies gender neutrality and sexual equality. Literally attacking her with gender conformity by shoving a porn magazine down her throat. 
+
+Another male character Kane is orally raped by the facehugger. This leads to a forced impregnation, leading to death in what is essentially childbirth. Removing the assumed male privilege of avoiding the pain of childbirth and bringing it to a horrific conclusion. Not only is kane raped and killed, but gives birth to a vicious bloodthirsty phallus. 
+
+It's been no secret that H.R Geiger designed every form of the Xenomorph to represent sex organs, both male and female, masculine and feminine. The overt and grotesque sexual imagery in the alien is designed to evoke fear and anxiety. Which is how society was already responding to sexual openness and breaking out of what it means to be typically male and female. The aliens phallic and vaginal components are used together in stark contrast from the traits and qualities usually assigned to them. Thus deconstructing notions of gender. The alien's body is overtly sexual and blurs our ideas of anatomy. 
+
+The horror and sexual violence from the alien, including the penetration of Lambert and forcing Dallas into a womb-like egg as an allusion to motherhood, suggests that having one pair of genitals or another doesn't make you inherently violent, but that society's construction of gender is to blame. 
+
+We get a less coded queer representation in 1986's sequel, when for a split second, we see a biography of the character Lambert from the first film. The biography establishes Lambert as having had her gender reassigned from male to female. Lambert's bio reads:
+
+> "Despite conversion at birth from male to female, so far there are no signs of suppressed trauma from gender reassignment."
+
+And so in a horror movie from 1979, we technically have a transgender character who is never othered, never misgendered, and is not a villain. A retcon that changes nothing about the story, but adds trans representation when little if any was available. James Cameron's *Aliens* is curiously progressive in its sexual politics overall, especially for a movie released during the Reagan years. Take for instance the exchange between Hudson and Frost:
 
 </james>
 <from></from>
 </compare>
 
-1979's
-alien directed by ridley scott is often considered as one of the first feminist science fiction movies with its powerful
-central female character and themes of reproduction and sexual violence the film has become lauded for being a
-cornerstone in feminist film theory it's also monstrously queer not only is ellen ripley a strong butch heroine who does
-not at all fit the usual sci-fi or horror female archetype but according to david mcentee author of beautiful monsters
-the film also plays very deliberately with male fears of female reproduction forcing the gestation of life onto male
-characters and literally tearing them apart during birth but the queerness in alien reaches beyond the obvious when
-writing the screenplay dan o'bannon wanted to focus more on developing the xenomorph as a character and so when writing
-the crew he left them more or less generic which included their gender a note on the script reads the crew is unisex and
-all parts are interchangeable for men or women from the conception of this story there is a rejection of performative
-gender from initial perceptions all of our characters are similarly gendered neutral they wear the same loose jumpsuits
-and are addressed by their surnames removing any bases for gendered pronouns the ship's male mechanics complain about
-being paid less than everyone else including the female crew at a time in america when women were being paid 60 cents
-for every dollar a man made once cast and the actors were given the freedom to play their parts as masculine or feminine
-star sigourney weaver decided to play her character as completely gender-neutral in horror especially at the time of
-release female characters were always portrayed as victims or damsels in distress while an alien ripley is neither of
-those things she's strong and self-reliant furthermore when ripley asserts authority in the team after dallas is caught
-by the alien ash the male robot feels threatened and attempts to dominate ripley to regain his masculinity he's a
-genderless robot however he exemplifies constructed toxic masculinity aggression a fragile ego and stubbornness he
-attacks ripley who exemplifies gender neutrality and sexual equality literally attacking her with gender conformity by
-shoving a porn magazine down her throat another male character kane is orally raped by the facehugger this leads to a
-forced impregnation leading to death in what is essentially childbirth removing the assumed male privilege of avoiding
-the pain of childbirth and bringing it to a horrific conclusion not only is kane raped and killed but gives birth to a
-vicious bloodthirsty phallus it's been no secret that h.r geiger designed every form of the xenomorph to represent sex
-organs both male and female masculine and feminine the overt and grotesque sexual imagery in the alien is designed to
-evoke fear and anxiety which is how society was already responding to sexual openness and breaking out of what it means
-to be typically male and female the aliens phallic and vaginal components are used together in stark contrast from the
-traits and qualities usually assigned to them thus deconstructing notions of gender the alien's body is overtly sexual
-and blurs our ideas of anatomy the horror and sexual violence from the alien including the penetration of lambert and
-forcing dallas into a womb-like egg as an allusion to motherhood suggests that having one pair of genitals or another
-doesn't make you inherently violent but that society's construction of gender is to blame we get a less coded queer
-representation in 1986's sequel when for a split second we see a biography of the character lambert from the first film
-the biography establishes lambert as having had her gender reassigned from male to female lambert's bio reads despite
-conversion at birth from male to female so far there are no signs of suppressed trauma from gender reassignment and so
-in a horror movie from 1979 we technically have a transgender character who is never othered never misgendered and is
-not a villain a retcon that changes nothing about the story but adds trans representation when little if any was
-available james cameron's aliens is curiously progressive in its sexual politics overall especially for a movie released
-during the reagan years take for instance the exchange between hudson and frost hey I sure wouldn't mind getting some
-more of that yeah the one that you had was male 1 it doesn't matter when it's so the butch space marine slept with a man
-and nobody makes a big deal out of it except for frost who wants to do it again and he is wholeheartedly supported this
-isn't just queer behavior being portrayed in a positive manner but one of the many ways that the movie obfuscates gender
-and supports a pansexual ethos the queer icon of aliens though is the female space marine vasquez who is tougher than
-most of the men in her squad in a movie released 27 years before the united states military even let women take on
-combat roles but is she herself queer the actors who played her jeanette goldstein weighed in on that question in 2016.
-she's an outsider she was just who she was with vasquez I never said she was straight or gay because to her it was
+<compare>
+<clip {% include citation from=page.cite.clips.alien %}>
+
+
+
+</clip>
+</compare>
+
+Frost: "Hey, I sure wouldn't mind getting some more of that [actereian poontang]."
+
+Hudson: "Yeah, the one that you had was male"
+
+Frost: "It doesn't matter when it's acturian!"
+
+
+So the butch space marine slept with a man. And nobody makes a big deal out of it, except for Frost who wants to do it again. And he is wholeheartedly supported. This isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.
+
+The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. but is she herself queer? the actors who played her, jeanette goldstein weighed in on that question in 2016:
+
+42:32
+
+> "she's an outsider -- she was just who she was with vasquez I never said she was straight or gay because to her it was
 nobody's business a lot of gay women come up and say oh my god when I saw you and you had a masculine look to you I saw
 myself but I had straight women coming up to me with the same thing someone was going through breast cancer and she told
 me that with each round of chemo she would think of vasquez a gay man from guatemala came to me and he said I identify
@@ -923,31 +922,31 @@ them as with ash but much more pitiably the white blood that drenches bishops su
 in a radical decontextualization semen here suggests the vulnerability of male bodies their susceptibility to violation
 rather than unseemly urges grevin further suggests that the aliens and especially the alien queen represent a
 cisgendered heteronormative status quo that resents the changing times what gives this entire spectacle of shaming its
-radical charge is the queer typing of ripley as mother with her short hair and male garb ripley combines the masculine
+radical charge is the queer typing of Ripley as mother with her short hair and male garb Ripley combines the masculine
 and the feminine with her casual indifference to heterosexual sex despite some no sweat flirtation with hicks she
 suggests the possibility of different sexual needs with her adoption of a child she suggests the lesbian mother who
 thinks outside the normative procreational box the alien queen's vicious contempt conveys the charge of an old customary
-inability to recognize the beauty and heroism in queer love of the kind ripley and newt embody read as a queer allegory
-ripley newt the reintegrated android bishop and the wounded vulnerable and bedridden hicks together constitute the new
+inability to recognize the beauty and heroism in queer love of the kind Ripley and newt embody read as a queer allegory
+Ripley newt the reintegrated android bishop and the wounded vulnerable and bedridden hicks together constitute the new
 queer family the alien queen a repository of old modes of contempt and hate so while gribben suggests that the
 conservative alien queen has contempt for the queer family dynamic the metaphor could go even further cameron creates a
 future where gender norms have all but disappeared even subtle things like fashion such as the female whalenutani
-executive at ripley's hearing wearing a power suit and sporting an androgynous haircut to the fact that the marines have
+executive at Ripley's hearing wearing a power suit and sporting an androgynous haircut to the fact that the marines have
 a co-ed locker room suggest the battle of the sexes ended in a draw it's the alien queen who although she rules over an
 army of male drones is actually trapped within the biological determinism of her sex forever cranking out eggs she
 ironically wants to destroy this new world and turn back the clock a few centuries there's also the aids allegory of the
 entire alien franchise though obviously not intended for the first film which came out before aids became well known the
-sexual imagery of the xenomorph's many forms and the imminent death associated with them make h.r geiger's beasts easy
+sexual imagery of the Xenomorph's many forms and the imminent death associated with them make H.R Geiger's beasts easy
 analogues for the deadly bloodborne virus especially in the sequel where just one alien one drop of infected blood or
 semen can create such an infection that completely overwhelms the host planet or body this became especially prescient
 with the release of alien 3. the death of newton hicks before the film even begins is central to this message aids
-seemingly kills at random the young and innocent like newt the healthy young men like hicks or like ripley you might
+seemingly kills at random the young and innocent like newt the healthy young men like hicks or like Ripley you might
 avoid the disease by pure luck then there's the population of fury 161 an almost completely abandoned prison planet one
 of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture much
 like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure and
 this speech from dylan the only question is how you check out do you want it on your feet or on your [ __ ] knees I
-ain't much for begging hitting like larry kramer's 1987 speech when he launched act up the alien created by h.r geiger
-brought to life by ridley scott and perfected by james cameron is a monster that exploited our fears of gender sex
+ain't much for begging hitting like larry kramer's 1987 speech when he launched act up the alien created by H.R Geiger
+brought to life by Ridley Scott and perfected by james cameron is a monster that exploited our fears of gender sex
 infection and lost control a monster so ravenous there is no escape but not all monsters are so obvious [Music] it
 follows tells the story of jay a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend
 hugh after they first have sex hugh sedates her forcing her to heed his instructions about the curse she must sleep with
@@ -1222,7 +1221,7 @@ hate lurking under the surface of small town america it is the hate that's unnat
 queer when we get into the head of don hagerty adrian's boyfriend and the author lets the reader know him he's
 sympathetic he's smart and loving he also sees the town for what it is sees its evil clearly and wants to leave it
 though the characters in the book don't empathize with him for having his boyfriend killed in front of him the author
-does he shows the gay character as human in the midst of reagan america the world's best-selling author was sending a
+does he shows the gay character as human in the midst of Reagan america the world's best-selling author was sending a
 very blunt message stephen king thought gay people should be able to date and hold hands and live their lives stephen
 king did not think gay people should be tortured or killed he thought that those who would torture or kill gay people
 were in the service of evil as were those who would tolerate it or look away the victims of homophobia did not deserve
