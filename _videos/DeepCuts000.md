@@ -48,6 +48,12 @@ cite:
     # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
     # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
 ---
+<div>
+  <map name="pla01">
+    <area shape="poly" coords="173,75, 166,305, 347,311, 351,84" href="para01" />
+  </map>
+  <img src="{{ "/media/image0.jpg" | relative_path }}" usemap="#pla01">
+</div>
 
 <compare>
 <credits header="Video Description:">
@@ -72,6 +78,7 @@ cite:
 </compare>
 
 {% include transcript-start %}
+
 
 <compare>
 <credits class="opening">
@@ -114,7 +121,7 @@ Society and Queer Horror
 [Fade up on video]
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para01" mid-text="Paragraph-01">
 
 Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
 
@@ -195,7 +202,7 @@ Also, though it may have happened occasionally, it doesn't look like attributing
 ## Sisters of Salem
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para02" mid-text="Paragraph-02">
 
 *The Craft*, released in 1996, holds an odd appeal within the lgbt community. There are no queer characters but... the coding...
 
@@ -302,7 +309,7 @@ Suffice it to say that there several scenes resembling Radical Faery gatherings 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para03" mid-text="Paragraph-03">
 
 Being released the same year the Defense of Marriage act was put in place, and only two years after the "Don't Ask, Don't Tell" policy was passed, *The Craft* became an instant hit, and a cult sensation, that would be played at gay halloween parties for literally decades to come. 
 
@@ -347,7 +354,7 @@ Though many would suspect that modern witches grew up in ultra-liberal hippie-es
 ## Bullied
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para04" mid-text="Paragraph-04">
 
 Based on the best-selling novel by queer ally Stephen King, *Carrie* tells the story of Carrie white, A teenage girl trying desperately to make it through her high school years. she's bullied for being a bit different, for being shy, for not fitting in, and like many young Christians, doesn't feel at home in the stifling environment of an evangelical household. 
 
@@ -412,7 +419,7 @@ Peirce also sees the story as a superhero origin story, which she also relates t
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para05" mid-text="Paragraph-05">
 
 <mark>Given Carrie's status as a cultural icon, her simultaneous status as horror film victim and monster, alongside the narrative concerning her burgeoning sexuality and attraction to boys</mark>, <mark>she may well be situated as a powerful figure of identification for gay male viewers.</mark> 
 
@@ -454,7 +461,7 @@ But we're not all Carrie White. Sometimes that self-hatred internalizes, somethi
 ## A Hellbound Heart
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para04" mid-text="Paragraph-04">
 
 Demons are not just beings of pain and torment in Clive Barker's *Hellraiser*. They're moral abominations, creatures so lost in hedonism, they've long since forgotten the difference between pain and pleasure. Demons that could be mistaken or even accepted for... angels, from a certain point of view. Though many would question the queerness of *Hellraiser*, it lurches well beyond breaking heteronormativity. It skins it alive.
 
@@ -625,7 +632,7 @@ Cenobite: "Explorers in the further regions of experience. Demons to some, angel
 
 [...] <mark>This introduction implies that their prey chooses *them*,</mark> not the other way around. <mark>If one assumes that their typical victim is someone like Frank,</mark> <mark>then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike</mark> other slashers, <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal".</mark>
 
-Just like any good master or dom, they don't want you if you don't want them. <mark>If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
+Just like any good master or dom, they don't want you if you don't want them. <mark>If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
@@ -638,9 +645,9 @@ Just like any good master or dom, they don't want you if you don't want them. <m
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para07" mid-text="Paragraph-07">
 
-Frank *the man*... is the monster. The man you'd walk by in a mall and not give a second look. The man you'd say hello to in an elevator. *He* is the real beast in *Hellraiser*, not the Cenobites. Like how you're more likely to be raped or killed by your husband than anyone you'd meet in an S&M club.
+When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. Frank *the man*... is the monster. The man you'd walk by in a mall and not give a second look. The man you'd say hello to in an elevator. *He* is the real beast in *Hellraiser*, not the Cenobites. Like how you're more likely to be raped or killed by your husband than anyone you'd meet in an S&M club.
 
 The hell priest, eventually christened "Pinhead" by fans, though Barker loathes the name, is not a mindless killer, like Jason Voorhees or Michael Myers. He's not a killer of innocents, like Freddy Krueger. He is reasonable and only comes when called, keeps to himself in his own realm, much like the queer community that lived in cities and was not infiltrating suburbs, as so many white americans feared in the late 1980s. Though he and his fellow Cenobites would grow closer to their slasher brethren as the *Hellraiser* series went on, in the original, he is not the monster to be feared. The perfectly normal *person* was.
 
@@ -654,7 +661,7 @@ But... perfectly normal people *do* have a habit of being monsters.
 ## A Good Girl
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para08" mid-text="Paragraph-08">
 
 *Jennifer's Body* is the story, more or less, of Anita Lesnicki, "Needy" for short. Once an insecure teenage girl, she is now a violent inmate in a mental ward, narrating her story from solitary confinement. Since early childhood, she had been friends with the titular Jennifer. Though they had little in common, with Needy being shy and reserved and Jennifer being a cheerleader.
 
@@ -840,7 +847,7 @@ At the climax of the film, Needy confronts Jennifer, armed with a box cutter, le
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para09" mid-text="Paragraph-09">
 
 To me there's a very interesting reading of *Jennifer's Body*: that queer teenage girls whose sexualities are only starting to bloom can easily become confused about their relationships with other girls. Straight girls and women have much closer more intimate relationships than straight boys and men. If you see two girls holding hands, you might not think anything of it. If you see a girl running her hand through another girl's hair, she's probably just trying to help her relax. Kiss on the cheek, or even lips, that's nothing. If you hear two women say "I love you", you don't immediately think "lesbians". While there is a much stricter code of conduct for men and boys: no hand holding, no hugs that last for too long, and a kiss or an "I love you", even between fathers and sons, absolutely not.
 
@@ -863,13 +870,11 @@ But for young women how can you tell if another girl is interested in you in a r
 ## The Others
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para10" mid-text="Paragraph-10"><!-- also 11, technically -->
 
-1979's *Alien*, directed by Ridley Scott, is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory. It's also monstrously queer. Not only is Ellen Ripley a strong butch heroine, who does not *at all* fit the usual sci-fi or horror female archetype, but according to David McEntee, author of *Beautiful Monsters*, the film also plays very deliberately with male fears of female reproduction. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
+1979's *Alien*, directed by Ridley Scott, is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory. It's also monstrously queer. <!-- 10 ends here -->
 
-But the queerness in alien reaches beyond the obvious. When writing the screenplay Dan O'Bannon wanted to focus more on developing the Xenomorph as a character. And so when writing the crew he left them more or less generic, which included their gender. A note on the script reads:
-
-> "The crew is unisex and all parts are interchangeable for men or women."
+Not only is Ellen Ripley a strong butch heroine, who does not *at all* fit the usual sci-fi or horror female archetype, but according to David McEntee, author of *Beautiful Monsters*, the film also plays very deliberately with male fears of female reproduction. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
 
 </james>
 <from></from>
@@ -878,7 +883,20 @@ But the queerness in alien reaches beyond the obvious. When writing the screenpl
 <compare>
 <james {% include timecode %}>
 
-From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral. They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered pronouns. The ship's male mechanics complain about being paid less than everyone else, including the female crew, at a time in america when women were being paid 60 cents for every dollar a man made.
+But the queerness in alien reaches beyond the obvious. <!-- mark -->When writing the screenplay Dan O'Bannon wanted to focus more on developing the Xenomorph as a character. And so when writing the crew he left them more or less generic, which included their gender. A note on the script reads:
+
+> "The crew is unisex and all parts are interchangeable for men or women."
+
+From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral. They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered pronouns. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %} id="para11" mid-text="Paragraph-11">
+
+The ship's male mechanics complain about being paid less than everyone else, including the female crew, at a time in america when women were being paid 60 cents for every dollar a man made.
 
 Once cast, and the actors were given the freedom to play their parts as masculine or feminine, star Sigourney Weaver decided to play her character as completely gender-neutral. In horror, especially at the time of release, female characters were *always* portrayed as victims or damsels in distress. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
 
@@ -909,7 +927,7 @@ The horror and sexual violence from the alien, including the penetration of Lamb
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para12" mid-text="Paragraph-12">
 
 We get a less coded queer representation in 1986's sequel, when for a split second, we see a biography of the character Lambert from the first film. The biography establishes Lambert as having had her gender reassigned from male to female. Lambert's bio reads:
 
@@ -996,7 +1014,16 @@ Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the
 
 So while Grevin suggests that the conservative alien queen has contempt for the queer family dynamic, the metaphor could go even further. Cameron creates a future where gender norms have all but disappeared. Even subtle things like fashion, such as the female Weyland-Yutani executive at Ripley's hearing wearing a power suit and sporting an androgynous haircut, to the fact that the marines have a co-ed locker room suggest the battle of the sexes ended in a draw. 
 
-It's the alien queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries. There's also the AIDS allegory of the entire alien franchise. Though obviously not intended for the first film which came out before AIDS became well known, the sexual imagery of the Xenomorph's many forms, and the imminent death associated with them, make H.R Geiger's beasts easy analogues for the deadly bloodborne virus. Especially in the sequel, where just one alien, one drop, of infected blood or semen, can create such an infection that completely overwhelms the host planet... or body. 
+It's the alien queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %} id="para13" mid-text="Paragraph-13">
+
+There's also the AIDS allegory of the entire alien franchise. Though obviously not intended for the first film which came out before AIDS became well known, the sexual imagery of the Xenomorph's many forms, and the imminent death associated with them, make H.R Geiger's beasts easy analogues for the deadly bloodborne virus. Especially in the sequel, where just one alien, one drop, of infected blood or semen, can create such an infection that completely overwhelms the host planet... or body. 
 
 </james>
 <from></from>
@@ -1011,7 +1038,10 @@ Then there's the population of Fury 161, an almost completely abandoned prison p
 this speech from Dylan:
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.jf_sargent at="¶ ?" %}>
+
+
+</from>
 </compare>
 
 <compare>
@@ -1035,7 +1065,7 @@ Hitting like Larry Kramer's 1987 speech when he launched ACT UP. The alien creat
 ## Death by Monogamy
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para14" mid-text="Paragraph-14">
 
 *It Follows* tells the story of Jay, a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh. After they first have sex Hugh sedates her, forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on, or else she'll be tracked down and killed by an other-worldly entity, the titular "it". If it kills her, it will resume tracking Hugh, since it follows only one person at a time. 
 
@@ -1104,7 +1134,7 @@ But just like how PREP has not completely disposed of HIV, the monster in *It Fo
 ## Disturbia
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para15" mid-text="Paragraph-15">
 
 Not all horror movies deal with the supernatural. Some are more than happy to terrify you with what you know best. Your friends, your family, your home, turning something mundane into something truly terrifying, bringing horror to a place that it never
 should have been. 
@@ -1116,7 +1146,7 @@ That's something that horror expert Wes Craven did all too well. By making the v
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para16" mid-text="Paragraph-16">
 
 Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
 
@@ -1217,7 +1247,7 @@ And in *Scream*, the queer horror penetrated that safety. It also tore apart the
 # Home Is Where the Hell Is
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para17" mid-text="Paragraph-17">
 
 In 2017, a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from Australia with sharp teeth, theatrical makeup, and a top hat. This cultural phenomenon began with the 2016 Tumblr thread initiated by online user e-instagram, who declared Mr Babadook, the titular monster from Jennifer Kent's 2014 horror film, to be fearlessly and proudly gay. 
 
@@ -1229,11 +1259,25 @@ In his initial post, instagram wonders:
 
 Sparking what participants called a "baba-discourse", scores of others weighed in on the tumblr thread, with one user proclaiming <q>The B in LGBT stands for Babadook.</q> 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 The next several months saw the proliferation of queer Babadook memes, and multiple representations of the Babadook at 2017 pride festivals across the United States. The Babadook has emerged as a queer icon because he can be read as having characteristics associated with cultural gayness. For example, he wears dramatic costuming that recalls the theatricality of drag. And he struggles against a rather literally closeted existence, in which many disavow or reject him/
 
 While references to these characteristics abound in the typically humorous and ironic examples of the character's queerness, this monster, and the film from which he emerges, call for critical attention to normative constructions of the family. The hegemony of reproductive heterosexuality and the implications of both for the lives of women. 
 
 That is: the Babadook invites queer appropriation *because* he represents the horrors of heteronormative family life. And gender politics. While socially conservative rhetoric frequently casts the family as a site of innocence imperiled by outside forces, *The Babadook* constructs the family as a site that is too often constituted by multiple forms of systemic physical and emotional violence. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Narratively, *The Babadook* (written and directed by Jennifer Kent) is the story of Amelia, a single mother, and her only son, Samuel. On the day her son would be born, Amelia and her husband Oskar have a car accident on the way to the hospital, and Oskar dies. Having given up her career as a writer to earn a living as a nursing home attendant, Amelia has been Samuel's only caregiver, an isolating experience exasperated by both other people's uneasiness with her grief, and by their ableist discomfort with Samuel's differences.
 
@@ -1241,11 +1285,25 @@ Amelia's ability to care for her son becomes severely constrained when she decid
 
 As anxiety sleeplessness and trauma take a toll on Amelia, she first directs her anger at Samuel becoming violent, before eventually confronting the Babadook. She realizes she can never fully rid their lives of the monster that now resides in their home. She determines to make relative peace with it, locking it in their basement, but keeping it well fed and alive. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 As illustrated by a line in the Babadook's book, the more you deny the stronger I get. The monster operates as a signifier of Amelia's grief over Oskar's death. The more she represses this trauma, the more power it has to return and disrupt her life. 
 
 This allegory is not, however, the only one at work within *The Babadook*. Amelia appears as a 21st century sister of Rosemary from *Rosemary's Baby*. As the Babadook crosses the horror formula of "other as villain" with the female gothic interest in gendered experience and victimhood, transforming the beleaguered female protagonist herself into a monster, backing up the idea that the greatest monsters do not come from without, but from within. That perhaps the monsters in heteronormative suburbia did not come from the outside, from cities, but that they've been there all along.
 
 And how does one become a suburban monster? By trying to fit in. Amelia is struggling financially and the depiction of the life she leads with her son shows the economic vulnerability of single-parent families, especially single mothers. Her stress to keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at her own son. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 The Babadook on the other hand, ostensibly coded queer, does no actual harm to Amelia or Samuel. It is just the fear of him that causes harm. It is the societal pressure of the heteronormative world that causes harm. Amelia's paranoia, the sense of being watched, originates in the way her public life is dominated by, and private life intruded upon, by institutional and bureaucratic forces that scrutinize her, and especially her parenting. First, the representatives of the school system that had failed Samuel, and then the community service representatives that take over. 
 
@@ -1253,13 +1311,41 @@ Then, there are the disturbing encounters with others that she hopes will help h
 
 In acknowledgment of these real everyday social pressures on Amelia, the form taken by the Babadook references the familiar source of her madness and monstrosity. There are elements of Samuel, as the Babadook's garb recalls the little boy's homemade magician's costume, while the threat of its mouth in the pop-up book offers a horror movie version of Samuel's screams for attention. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 And then there's the house, a victorian style house that Kent had constructed specifically for this film, and that operates as a character in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre. The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family. How homeownership is often considered a milestone for success and stability for those a part of, or wishing to be a part of, the heteronormative masses. How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to those who are not physically ideal.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %} id="para18" mid-text="Paragraph-18">
+
 The single-family home acting as a sort of moated castle, protecting the inhabitants from the working poor they might otherwise come across in an apartment building. Or the infirm in a nursing home. Or the other races or queers in select ghettoized areas. But in *The Babadook*, those others infiltrate the home and cause no harm. Threaten. yes, but never act. Only the self causes harm, not the other. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 The Babadook's queerness lies in its subversion of the family, in its apparent danger to what is accepted by society, by only growing in power the more it is denied. Like a gaping wound that begins to fester each time a person lies about their sexuality. Every time someone pretends to be someone they're not so that society will accept them. 
 
 And there's an odd draw to the black and white monster for queer people. Outside the movie, it was looked at as a joke, like so many queer icons initially are. Cher, Judy Garland, Dolly Parton, all looked at as over-the-top and worth nothing more than derision. And then they enter into a cultural permanence once they're adopted by the queer community.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 > "Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available." 
 
@@ -1293,7 +1379,7 @@ Sometimes it's just that simple. Sometimes the monster, the queer, can be accept
 ## Trauma
 
 <compare>
-<james {% include timecode %}>
+<james {% include timecode %} id="para19" mid-text="Paragraph-19">
 
 *IT* by Stephen King was published in 1986 and has made a lasting cultural impression. The novel inspired a mini-series, two movies, and ruined clowns for generations of children. <span hbomb="Ha, good one.">And adults frankly</span>. Pennywise transforms into things that will scare people the most and Stephen King used the 1950s setting to pay tribute to classic movie monsters. 
 
