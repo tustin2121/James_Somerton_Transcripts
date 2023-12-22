@@ -131,6 +131,17 @@
 						</comment>
 					</compare>
 					{% assign hr_due = true %}
+				{%- elsif page.notes contains "unscripted" -%}
+					<compare>
+						<james>
+							<p>Video transcript is on the left.</p>
+						</james>
+						<comment>
+							<div class="header"><a class="citation" href="#">Commenter</a></div>
+							<p>Commentary is on the right.</p>
+						</comment>
+					</compare>
+					{% assign hr_due = true %}
 				{%- else -%}
 					<compare>
 						<james>

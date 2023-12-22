@@ -251,6 +251,11 @@ compare from:empty::after {
 	align-self: center;
 }
 
+compare comment:empty {
+	filter: opacity(0.50);
+	border: unset;
+}
+
 compare from h1,
 compare from h2,
 compare from h3,
@@ -307,7 +312,8 @@ section.footnotes::before {
 	}
 }
 
-a[href^="http:"]::after, a[href^="https:"]::after {
+a[href^="http:"]::after, 
+a[href^="https:"]::after {
 	content: "\f08e";
 	font-family: "Font Awesome 6 Free";
 	-webkit-font-smoothing: antialiased;
@@ -322,6 +328,11 @@ a[href^="http:"]::after, a[href^="https:"]::after {
 james a[href^="http:"]::after, 
 james a[href^="https:"]::after {
 	font-size: smaller;
+}
+
+.video-card a[href^="http:"]::after, 
+.video-card a[href^="https:"]::after {
+	content: none !important;
 }
 
 q::before { content: none; }
