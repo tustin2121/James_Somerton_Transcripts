@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-apology"
   - "https://youtu.be/j7tKM77EFbM"
-description: "A manipulative attempt at apologizing without actually apologizing."
+description: "A manipulative attempt at apologizing without actually apologizing. Trigger warning on the video and first paragraph."
 notes:
   - post-callout
   - unscripted
