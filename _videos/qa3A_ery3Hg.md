@@ -29,6 +29,7 @@ cite:
   misinformation: !!map
     fab_quote: "James presents a fabricated quote on-screen."
     newton_fight: "Nick makes a joke about Newton's and Leibniz that doesn't quite add up."
+    slave_population: "James says he can't get Rome out of his head, but it's actually Sparta that lives rent free there."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -704,16 +705,19 @@ Right-wing lawmakers have an invested interest in limiting the number of people 
 <compare>
 <james {% include timecode %}>
 
-And also generating a horde of exploitable labor from the underclass. That last part is key. Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.[^romans] They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
-
-[^romans]: This seems very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It also seems to vary greatly based on region.
+And also generating a horde of exploitable labor from the underclass. That last part is key. <mark>Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.</mark> They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
 
 That other 30% — and an even smaller fraction was actually the socially superior ‘Patrician’ class — required a legion of slavery in order for society to function. So if we’re still sitting around wondering why we can’t all just get along, it’s because a collection of social superiors NEED an underclass in order for their lives to function. Costs of labor cut into profits. And if slavery is ‘illegal’ — except for instances of mass-incerceration — the next best thing is to make it as cheap as possible to exploit someone. 
 
 And someone is easier to exploit if the government is consistently de-valuing their identity and their selves. What right do you have to ask for a living wage if the government itself has deemed you as not being suitable to exist? 
 
 </james>
-<from></from>
+<comment id="slave_population">
+{{ site.tustin.header }}
+
+1. This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
+
+</comment>
 </compare>
 
 <compare>
