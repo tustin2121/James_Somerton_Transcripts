@@ -45,7 +45,7 @@ cite:
     # amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
     # jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
     # rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
-    # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves Richie Tozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
+    # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
     # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
 ---
 
@@ -65,6 +65,8 @@ cite:
 {% include chapter-link at="36:51" for="The Others" %}  
 {% include chapter-link at="47:41" for="Death by Monogamy" %}  
 {% include chapter-link at="53:59" for="Disturbia" %}  
+{% include chapter-link at="1:02:20" for="Home Is Where the Hell Is" %}  
+{% include chapter-link at="1:12:00" for="Trauma" %}  
 
 </comment>
 </compare>
@@ -468,7 +470,7 @@ Written and directed by Clive Barker, and based on his novella *The Hell-Bound H
 <mark>Clearly this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror, but it doesn't feel too far off from the way queer people in the BDSM community are often perceived by those who don't understand that subculture.</mark> 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 3-4" %}>
+<from {% include citation for=page.cite.plagiarized.alejandra_gonzalez at="¶ 3-4" %}>
 
 The film opens by introducing us to <mark>Frank Cotton</mark> who obtains a <mark>puzzle cube</mark> that, upon being <mark>solved, summons supernatural beings</mark> clad in leather and chains. We later learn that these are <mark>the Cenobites</mark>, who <mark>dwell in a realm of extreme carnal indulgence, subjecting people</mark> <mark>to severe forms of sadomasochism that include but are by no means limited to limbs being torn apart by hooks and chains.</mark> <mark>Clearly, this amalgamation of pleasure and pain is extremely hyperbolized for the sake of horror. But it doesn’t feel too far off from the way queer people in the BDSM community are often perceived by those who don’t understand the subculture.</mark> 
 
@@ -483,7 +485,7 @@ The film opens by introducing us to <mark>Frank Cotton</mark> who obtains a <mar
 <mark>Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time</mark>, mixed with the art of Herronius Bach, <mark>in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.</mark>
 
 </james>
-<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
+<from {% include citation for=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
 
 To me, <mark>that’s the key variable that makes Hellraiser so special. Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving Frank and his mistress, Julia.</mark> <mark>Barker took these insecurities and combined them with imagery derived from the underground leather scene of the time</mark> <mark>in order to establish a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive, but wildly inclusive, material.</mark>
 
@@ -498,7 +500,7 @@ To me, <mark>that’s the key variable that makes Hellraiser so special. Barker 
 And he wasn't alone.
 
 </james>
-<from {% include citation from=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
+<from {% include citation for=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
 
 <mark>Even more important is the fact that Clive Barker created this film as a gay man, which allows queer representation to transcend the screen</mark> into the real world, and almost <mark>makes Hellraiser resonate</mark> with me <mark>even more profoundly. Having always been interested in monsters, it could be safe to assume that Barker was fascinated by outsiders and outcasts like his creations because he could relate to them</mark>. 
 
@@ -529,7 +531,7 @@ what does it mean to be considered a monster... by monsters?
 > "This study <mark>attempts to shine a light on the shapes that lurk in the</mark> shadows <mark>, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the horror film is that 'normality is threatened by the monster'"</mark>
 
 </james>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 2-3" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 2-3" %}>
 
 Clive Barker is an openly gay author, painter and film director, but while elements of his novels are celebrated for their queerness, it often seems that his films are regarded not as queer; they are simply films that happen to be made by a gay man. <mark>Even in Harry M. Benshoff’s</mark> somewhat exhaustive study <em><mark>Monsters in the Closet</mark>: Homosexuality and the Horror Film</em> <mark>Barker remains a somewhat marginal figure</mark>. <mark>Benshoff recognizes *Hellraiser* for some of its visual characteristics, but comes to the conclusion that “too often the representation of Barker’s monster queers seems similar to those produced by right-wing ideologues.</mark>” <sup>3</sup>
 
@@ -550,7 +552,7 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 <mark>While there</mark> is <mark>merit to the criticism that there is a lack of positive queer representation in</mark> *Hellraiser*, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark>. <mark>Their argument revolves around the notion that films like</mark> *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that Barker finds these images to be compelling. And horror film audiences are more likely to be fascinated than disgusted</mark>. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 4" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 4" %}>
 
 <mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” 5 <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” 6
 
@@ -571,7 +573,7 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 > "The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"
 
 </james>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 4" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 4" %}>
 
 <mark>Even if one accepts that the queer images in *Hellraiser* film are not positive ones, how does that make these representations reprehensibly</mark> reactionary? <mark>To a large extent, the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters</mark> that appeared long before the outrageous stereotypes seen in <mark>John Waters</mark>, and extends well beyond the subculture sociopaths that populate the films of Gregg Araki. <mark>In his analysis of character construction in gay narrative film, Tom Waugh points out</mark> <mark>“the irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues,”</mark> and asks the reader to ponder the following question: “Is the attraction to the ‘negative image’ by the gay author simply a question of self-oppression” <sup>7</sup> or is it something else entirely? He goes on to provide a laundry list of possible explanations before concluding that these questions have been side-stepped for too long, and that people have relied “instead on reductive moralism instead of criticism.” <sup>8</sup>
 
@@ -598,7 +600,7 @@ But there's an odd attractiveness to the monsters of *Hellraiser*. When they mov
 When our protagonist, Kirstie, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
 
 </james>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
 When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. While Benshoff may view these creatures as monster queers that are not at all a positive representation, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster. When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, [...]
 
@@ -606,12 +608,12 @@ When the cenobites move and speak there is a certain degree of attractive nobili
 </compare>
 
 <compare>
-<clip {% include citation from=page.cite.clips.hellraiser %}>
+<clip {% include citation for=page.cite.clips.hellraiser %}>
 
 Cenobite: "Explorers in the further regions of experience. Demons to some, angels to others."
 
 </clip>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
 [...] “We are explorers in the further regions of experience. Demons to some, angels to others.” [...]
 
@@ -626,7 +628,7 @@ Cenobite: "Explorers in the further regions of experience. Demons to some, angel
 Just like any good master or dom, they don't want you if you don't want them. <mark>If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>. When he returns to Earth to resurrect his long abandoned flesh, he intends to kill innocent people to make it happen. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
 <mark>This introduction implies that their prey chooses them,</mark> and that the violence they unleash is not directionless. <mark>If one assumes that their typical victim is someone like Frank,</mark> who summons them at the beginning of the film, <mark>then it becomes apparent that their talents are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the cenobites, unlike</mark> the psychopaths found in many of the slasher films of the same period, reveal that they are rational beings that <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to normal people who wish to remain normal.</mark>
 
@@ -692,7 +694,7 @@ It seemingly <mark>borrows its premise from rape-revenge movies and can easily b
 The actual <mark>beating heart</mark> of the story <mark>is a messy</mark> <mark>codependent</mark> <mark>romance between Needy and Jennifer</mark>. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 6" %}>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 6" %}>
 
 *Jennifer’s Body* undoubtedly <mark>borrows a premise from rape-revenge movies, and can absolutely be read that way at first glance. What’s compelling about</mark> this movie, <mark>though, is that you soon realize that it is not what the film is actually about. What happens to the abusers in this movie is nearly an afterthought, laid over the closing credits</mark>. The emotional center or the <mark>beating heart</mark> if you will, of *Jennifer’s Body* <mark>is a messy</mark>, intense, <mark>codependent</mark>, twists-and-turns <mark>romance: between Needy and Jennifer</mark>.
 
@@ -707,7 +709,7 @@ The actual <mark>beating heart</mark> of the story <mark>is a messy</mark> <mark
 <mark>Meanwhile, Chip, Needy's boyfriend, essentially falls into the role that *usually* is held for the girlfriend in a horror movie</mark>. <mark>He's either there to pose a problem for the tumultuous relationship</mark>, or <mark>needs to be rescued</mark>. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 8-9" %}>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 8-9" %}>
 
 <mark>The initial scene that seems to be played for laughs</mark> <mark>of Needy heart-eye-ing Jennifer as she cheerleads</mark>, first of all, can and should be read straight. Anita “Needy” Lesnicki is deeply, messily, and totally gay for Jennifer Check. Sandbox love, indeed, never dies. It’s not an accident that that scene is paired with the Black Kids’ “I’m Not Gonna Teach Your Boyfriend How to Dance With You.”
 
@@ -724,7 +726,7 @@ For instance, <mark>early on in the movie</mark>, <mark>Chip stands helplessly b
 <mark>The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer</mark> to the aforementioned concert. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin.</mark> 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 10-11" %}>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 10-11" %}>
 
 <mark>Early on in the movie</mark>, for instance, <mark>Chip stands a little helplessly by while the girls, giggling amongst themselves, enter into a play-pushing fight until Jennifer pushes Needy a little too hard.</mark> Everyone in the scene freezes for a moment as Needy collides with the door, and then moves on.
 
@@ -741,7 +743,7 @@ Instantly, at least for me, this was reminiscent of every stray remark about boy
 <mark>She also insists that Jennifer is not going to sleep with a band of slimy scumbags. Amanda Seyfried's delivery in this scene evokes more than a protective drive though. There's a current of jealous defensiveness roiling just underneath it.</mark>
 
 </james>
-<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 12-13" %}>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 12-13" %}>
 
 <mark>This undercurrent of tension (or even hostility) soon is mirrored by Needy herself, when she accompanies Jennifer</mark> to the Low Shoulder concert at Melody’s Gate, Devil’s Kettle’s only (and very grimy) bar. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet, awkward, doe-eyed girl in the hopes of getting the lead singer’s romantic attention, and retreats until she overhears the band talking about Jennifer being a virgin.</mark>
 
@@ -758,7 +760,7 @@ Instantly, at least for me, this was reminiscent of every stray remark about boy
 <mark>Later when Jennifer grabs and squeezes Needy's hand during the concert proper, Needy is appeased and even relieved. She smiles warmly, adoringly, over at Jennifer</mark>. <mark>Her smile only fades when she realizes Jennifer isn't looking back at her, and only has eyes for the band. She releases Jennifer's hand abruptly, and we see the fading white patches where Jennifer had gripped her hand</mark> just a little <mark>too hard.</mark> 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.zoe_fortier at="¶ 14-15" %}>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 14-15" %}>
 
 <mark>She genuinely believes that Jennifer is “too good” to sleep with the</mark> members of Low Shoulder. <mark>She also resents, though, that Jennifer</mark> has clearly been <mark>considering it. She wants Jennifer to be considering sleeping with her, instead, though</mark> she may not know it consciously.
 
@@ -869,17 +871,45 @@ But the queerness in alien reaches beyond the obvious. When writing the screenpl
 
 > "The crew is unisex and all parts are interchangeable for men or women."
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral. They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered pronouns. The ship's male mechanics complain about being paid less than everyone else, including the female crew, at a time in america when women were being paid 60 cents for every dollar a man made.
 
 Once cast, and the actors were given the freedom to play their parts as masculine or feminine, star Sigourney Weaver decided to play her character as completely gender-neutral. In horror, especially at the time of release, female characters were *always* portrayed as victims or damsels in distress. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Furthermore, when Ripley asserts authority in the team after Dallas is caught by the Alien, Ash, the male robot, feels threatened and attempts to dominate Ripley to regain his masculinity. He's a genderless robot, however he exemplifies constructed toxic masculinity, aggression, a fragile ego, and stubbornness. He attacks Ripley who exemplifies gender neutrality and sexual equality. Literally attacking her with gender conformity by shoving a porn magazine down her throat. 
 
 Another male character Kane is orally raped by the facehugger. This leads to a forced impregnation, leading to death in what is essentially childbirth. Removing the assumed male privilege of avoiding the pain of childbirth and bringing it to a horrific conclusion. Not only is kane raped and killed, but gives birth to a vicious bloodthirsty phallus. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 It's been no secret that H.R Geiger designed every form of the Xenomorph to represent sex organs, both male and female, masculine and feminine. The overt and grotesque sexual imagery in the alien is designed to evoke fear and anxiety. Which is how society was already responding to sexual openness and breaking out of what it means to be typically male and female. The aliens phallic and vaginal components are used together in stark contrast from the traits and qualities usually assigned to them. Thus deconstructing notions of gender. The alien's body is overtly sexual and blurs our ideas of anatomy. 
 
 The horror and sexual violence from the alien, including the penetration of Lambert and forcing Dallas into a womb-like egg as an allusion to motherhood, suggests that having one pair of genitals or another doesn't make you inherently violent, but that society's construction of gender is to blame. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 We get a less coded queer representation in 1986's sequel, when for a split second, we see a biography of the character Lambert from the first film. The biography establishes Lambert as having had her gender reassigned from male to female. Lambert's bio reads:
 
@@ -892,7 +922,7 @@ And so in a horror movie from 1979, we technically have a transgender character 
 </compare>
 
 <compare>
-<clip {% include citation from=page.cite.clips.alien %}>
+<clip {% include citation for=page.cite.clips.alien %}>
 
 Frost: "Hey, I sure wouldn't mind getting some more of that [actereian poontang]."
 
@@ -939,7 +969,7 @@ Elsewhere in the film is Bishop another sexless cyborg like the first film's Ash
 > As with Ash, but much more pitiably, the white blood that drenches Bishop suggests both mother's milk and semen. But in a radical decontextualization, semen here... suggests the vulnerability of male bodies, their susceptibility to violation, rather than unseemly urges. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
 
 
 </from>
@@ -955,7 +985,7 @@ With her casual indifference to heterosexual sex, despite some no sweat flirtati
 Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the wounded vulnerable and bedridden Hicks, together constitute the new queer family. The alien queen, a repository of old modes of contempt and hate. 
 
 </james>
-<from {% include citation from=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
 
 
 </from>
@@ -968,6 +998,13 @@ So while Grevin suggests that the conservative alien queen has contempt for the 
 
 It's the alien queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries. There's also the AIDS allegory of the entire alien franchise. Though obviously not intended for the first film which came out before AIDS became well known, the sexual imagery of the Xenomorph's many forms, and the imminent death associated with them, make H.R Geiger's beasts easy analogues for the deadly bloodborne virus. Especially in the sequel, where just one alien, one drop, of infected blood or semen, can create such an infection that completely overwhelms the host planet... or body. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 This became especially prescient with the release of Alien 3. The death of Newt and Hicks before the film even begins is central to this message. AIDS seemingly kills at random. The young and innocent like Newt. The healthy young men like Hicks. Or, like Ripley, you might avoid the disease by pure luck. 
 
 Then there's the population of Fury 161, an almost completely abandoned prison planet. One of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture, much like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure. And
@@ -978,7 +1015,7 @@ this speech from Dylan:
 </compare>
 
 <compare>
-<clip {% include citation from=page.cite.clips.alien3 %}>
+<clip {% include citation for=page.cite.clips.alien3 %}>
 
 Dylan: "The only question is how you check out. Do you want it on your feet or on your fucking knees? Damn! I ain't much for begging."
 
@@ -1002,30 +1039,62 @@ Hitting like Larry Kramer's 1987 speech when he launched ACT UP. The alien creat
 
 *It Follows* tells the story of Jay, a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh. After they first have sex Hugh sedates her, forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on, or else she'll be tracked down and killed by an other-worldly entity, the titular "it". If it kills her, it will resume tracking Hugh, since it follows only one person at a time. 
 
-The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being. Though many critics pointed out that *It Follows* cleverly subverts the usual "you have
-sex, you die" trope from 1980's slasher movies, few grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
+The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being. Though many critics pointed out that *It Follows* cleverly subverts the usual "you have sex, you die" trope from 1980's slasher movies, few grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 At a glance *It Follows* would seem unlikely to have a queer reading, since it doesn't feature any queer characters or monsters that could be easily coded as such. Nor does it feature any of the homoerotic undertones of movies like *A Nightmare on Elm Street II*, *The Lost Boys*, or *Rope*. Instead its queerness is less monolithic. 
 
-For some viewers, a horror movie that depicts sexual partners spreading a deadly curse via sex might seem deeply sex-negative. Indeed, many reviewers saw the film's central
-conceit as tapping into the fears of anyone who came of age during the AIDS crisis. The threat of AIDS has, of course long, been allegorically linked to popular horror imagery, like the aforementioned *Alien*, John Carpenter's *The Thing*, David Cronenberg's *The Fly*, or any number of post-80s vampire tales. 
+For some viewers, a horror movie that depicts sexual partners spreading a deadly curse via sex might seem deeply sex-negative. Indeed, many reviewers saw the film's central conceit as tapping into the fears of anyone who came of age during the AIDS crisis. The threat of AIDS has, of course long, been allegorically linked to popular horror imagery, like the aforementioned *Alien*, John Carpenter's *The Thing*, David Cronenberg's *The Fly*, or any number of post-80s vampire tales. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But the film's queer lesson is less about the avoidance of sex than the management of risk. After all according to the film's logic, those infected by the curse can survive only by successfully finding new sexual partners, versus remaining abstinent and living out the fatal consequences of their prior sexual history. The film barely acknowledges that Jay has any other option but to find new partners, and it's her hesitance to move beyond a series of monogamous bonds that could ultimately prove to be her downfall. 
 
 Therefore the film implies that having a sex life is inevitable and always involves a certain level of risk, emotional or physical. But the film also suggests that the danger truly lies in the social attitudes that make sex and promiscuity shameful. We're also told very clearly that Jay was not a virgin at the beginning of the film when she acquired the curse. And therefore the allegorical infection shouldn't be looked at as some kind of punishment for premarital or non-procreative sex, as it would be in so many other movies in the genre. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Importantly neither Hugh nor the film in general ever specify which sexual acts will successfully pass along the curse, thus opening plenty of space for queer speculation. Is heterosexual sex the only option? Will same-sex partners do the trick? Do oral or anal sex count? What about non-genital forms of sexuality: S&M, kink, or masturbation, maybe? Just how conventional and vanilla are the expectations of this paranormal being?
 
 The idea of destigmatizing promiscuous sex was particularly timely when *It Follows* hit theaters. Media attention had just begun addressing the slow growing popularity of drugs like Truvada as a way to stop new HIV infections. Not only does the drug reduce the likelihood of a positive person passing on the disease, in some cases making it impossible, but can also prevent the disease from taking hold if taken by HIV negative people, thus reopening a part of queer sexual life that had been more or less shut off since the 1980s. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But anyone who mentioned that they were using the drug, commonly known as PREP immediately found themselves being slut-shamed. Many doctors could be judgmental of patients asking for the once a day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PREP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
 
 But, for a time, right around the release of *It Follows* the shame of being seen as promiscuous by doctors or friends stopped a lot of people from getting the new little blue pill. Until then anything but monogamy, even with a condom, was looked at as a risky, dangerous, and irresponsible behavior in much of the queer community. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 *It Follows* appeared at a historical moment when a hetero- turned homo-normative model of monogamy was upheld as law of the land/ while a countervailing trend saw the partial overcoming of long-time anxieties about the most infamously fatal of sex-born diseases, opening fresh possibilities for sexual autonomy. The film may not have been deliberately intended as a socio-political commentary on such shifts. Indeed David Robert Mitchell, the film's writer/director, left the monster's motives and weaknesses nightmarishly unexplained and open to interpretation. But the place of queerness as a sort of structuring absence within the film, an unnamed but perpetually haunting presence still speaks to a queer audience.
 
-But just like how PREP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. Following a traumatic confrontation that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently
-monogamous couple walk hand in hand down a quiet suburban street, unaware that behind them *It Follows*.
+But just like how PREP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. Following a traumatic confrontation that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently monogamous couple walk hand in hand down a quiet suburban street, unaware that behind them *It Follows*.
 {% assign timecode = "53:59" %}
 
 </james>
@@ -1042,6 +1111,13 @@ should have been.
 
 That's something that horror expert Wes Craven did all too well. By making the violent killer of a film someone you would have usually sympathized with in *The Last House on the Left*. Perverting the relative safety of dreams with *A Nightmare on Elm Street*. Blurring the lines between horror and real life with *His New Nightmare*. And then bringing horror to the safest of all places in Clinton America, the suburbs, with *Scream*.
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
 
 In terms as resonant as they were phobic, *Scream* was a cry of despair over an apparent immorality in the Millennial or late-Gen X youth, especially in the male population. The homoeroticism of the Billy-Stu relationship, which the film develops into an all-but-explicit queer love affair, shows both the unpredictable, anarchic, bewildering, behavior of the generation, and the shifts in male gender roles synonymous with it.
@@ -1050,211 +1126,236 @@ In terms as resonant as they were phobic, *Scream* was a cry of despair over an 
 <from></from>
 </compare>
 
-
+<compare>
+<james {% include timecode %}>
 
 *Scream* redeploys the long-standing American tradition of a homoerotic bond between a pair of young male killers. The foundation of the tradition is the infamous Leopold and Loeb case. These wealthy young men were University of Chicago students who murdered the fourteen-year-old Bobby Franks in 1924. Both were sentenced to life in prison, with one of them being murdered by another inmate shortly after sentencing.
 
 This case generated several fictional treatments including Hitchcock's 1948 film *Rope*, which I covered in ["Monsters in the Closet"](4zPCM14-SCQ.md). These killers considered themselves to be Nietzschean supermen, using their superior intellect as justification
 for their thrill-killing. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Billy and Stu, however, have no such lofty philosophical ambitions. Their motivations are family- and romance-driven. Billy claims to be avenging himself for Sydney's mother's crime of destroying his family. And Stu seemingly is just doing it for Billy. 
 
 *Scream* also offers contrasting portraits of masculinity ,but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to queerdom is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch. The killer then jumps out of her closet instead. 
 
-There's also the image of Sydney's open closet door protecting her from harm. I might be
-reaching here, but it's not hard to read that as "it's better to have your closet door open than closed". Skeet Ulrich's performance as Billy and especially Matthew Lillard's as Stu deepened the queer resonance that stand forever on a knife's edge of obviousness. 
+There's also the image of Sydney's open closet door protecting her from harm. I might be reaching here, but it's not hard to read that as "it's better to have your closet door open than closed". Skeet Ulrich's performance as Billy and especially Matthew Lillard's as Stu deepened the queer resonance that stand forever on a knife's edge of obviousness. 
 
-Ulrich's bloody intensity and perpetual white t-shirt clearly evoke James Dean in *Rebel Without a Cause*. The intense look in his eyes, either sad or cunning, keeps the audience as off-balance to his identity as it does Sydney. But when he does reveal his murderous identity, the facade dissolves entirely and he passes through intensity into
-truly frightening. The dark underbelly of his pristine all-American geniality. 
+</james>
+<from></from>
+</compare>
 
-57:41
+<compare>
+<james {% include timecode %}>
 
-lLllard's Stu, meanwhile, is notable for his
-gender bending potential he uses his basketball player height rubbery face and excessive emotionalism to create a
-memorably frantic character that would shock no one if he suddenly appeared in full drag in one scene set in the video
-store where randy of movie geek works randy theorizes about Billy's possible identity as the killer in perhaps the most
-homoerotic moment in the film Billy suddenly swings upon randy challenging him how do we know you're not the killer huh
-huh hi Billy maybe your movie freaked mine lost it's reality button you ever think of that as Billy gets in randy's face
-Stu comes up from behind him in a shockingly intimate almost threesome what has been called femmephobia intersects here
-with homophobia as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
-the perfect murder plot craven makes the interesting choice to stage the big revelation scene at the climax of the film
-in the kitchen the mama's boy killers reveal the nefarious identities within the domestic space most closely associated
-with the mother earlier in the film Billy and Sydney have sex after she announces that if life is one big movie genre
-her pick is porn ghostface suddenly appears right after they've finished and seemingly stabs Billy to death one can
-assume that he's been watching them do the deed the entire time of course we soon learn that this is only a ruse to
-distract Sydney from Billy's real identity as one of the killers Billy staggers back to life in his seemingly
-blood-drenched t-shirt getting possession of the gun Sydney had been wielding Billy shoots randy and then dabs a finger
-in his blood and brings it up to his lips there's also the negative oedipus complex homosexuality is the chief aspect of
-it in a footnote added in 1910 to his 1905 three essays on the theory of sexuality sigmund freud conjecture's homosexual
-identity emerges from an identification with the mother and Billy is nothing if not obsessed with his mother while many
-have read freud's theory as homophobic it would likely be fairer to say that it's been put to homophobic use in american
-psychiatry which historically used it to pathologize homosexuality as an arrested development what scream makes vividly
-clear is the cultural reception of narcissistic mother identified desire the killers and scream are monstrous not only
-because they kill but because their desire proceeds from identification with the mother what complicates or is left
-deliberately unresolved by the filmmakers is the specific nature of the boy's relationship with each other Stu's desire
-is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic Stu has a
-girlfriend dispatched via garage door but his chief affection is directed toward Billy to whom he's quite clearly
-devoted what is most significant about Stu's relationship with Billy are the ways in which Billy's desire becomes Stu's
-desires becoming an easy analog for the feeling of many gay teenage boys who will do anything play any sport see any
-movie take any drug in a desperate attempt to connect with their male crushes a queer reading becomes more obvious at
-least to me when the pair of killers decide they need to stab each other in order to frame Sydney for the killings
-penetrating one another to show their devotion replicating the pain of virginal anal sex scream with its queer coding
-delicious dialogue and willingness to reach into camp territory when necessary has become a classic slasher among the
-queer community while we watch it as a smart send up of the genre which was well and dead in 1996 many people of the
-more hetero persuasion see the film a bit differently it's the horror of danger coming to the suburbs a place of safety
-being perverted where nice white families fled to in order to escape the poor black and queer horrors that filled the
-city streets and in scream the queer horror penetrated that safety it also tore apart the idea of the ideal american
-family Billy's family was torn asunder when Sydney's mother had an affair with his father leading to a divorce and his
-mother leaving town and so he took Sydney's mother away from her too the fragility of the straight nuclear family coming
-to a bloody end just as the new millennium dawned showing us all that families though a nice idea can lead to unexpected
-horrors in 2017 a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from australia
-with sharp teeth theatrical makeup and a top hat this cultural phenomenon began with the 2016 tumblr thread initiated by
-online user e instagram who declared mr babadook the titular monster from jennifer kent's 2014 horror film to be
-fearlessly and proudly gay in his initial post instagram wonders whenever someone says that the babadook isn't openly
-gay it's like did you even watch the movie sparking what participants called a baba discourse scores of others weighed
-in on the tumblr thread with one user proclaiming the b in lgbt stands for babadook the next several months saw the
-proliferation of queer babadook memes and multiple representations of the babudooka 2017 pride festivals across the
-united states the babadook has emerged as a queer icon because he can be read as having characteristics associated with
-cultural gayness for example he wears dramatic costuming that recalls the theatricality of drag and he struggles against
-a rather literally closeted existence in which many disavow or reject him while references to these characteristics
-abound in the typically humorous and ironic examples of the character's queerness this monster and the film from which
-he emerges call for critical attention to normative constructions of the family the hegemony of reproductive
-heterosexuality and the implications of both for the lives of women that is the babadook invites queer appropriation
-because he represents the horrors of heteronormative family life and gender politics while socially conservative
-rhetoric frequently casts the family as a site of innocence imperiled by outside forces the babadook constructs the
-family as a site that is too often constituted by multiple forms of systemic physical and emotional violence narratively
-the babadook written and directed by jennifer kent is the story of emilia a single mother and her only son samuel on the
-day her son would be born amelia and her husband oscar have a car accident on the way to the hospital and oscar dies
-having given up her career as a writer to earn a living as a nursing home attendant emilia has been samuel's only
-caregiver an isolating experience exasperated by both other people's uneasiness with her grief and by their ableist
-discomfort with samuel's differences emilia's ability to care for her son becomes severely constrained when she decides
-she must remove him from his school which seems unwilling or unable to accommodate his needs at the same time samuel
-becomes fixated on an invisible monster that he warns lives in their house when a mysterious and violent children's book
-appears amelia begins to fear that the monster is not a figment of samuel's imagination and soon she and her home are
-tormented by a boogeyman known as the babadook who lives under her child's bed and in his closet as anxiety
-sleeplessness and trauma take a toll on amelia she first directs her anger at samuel becoming violent before eventually
-confronting the babadook she realizes she can never fully rid their lives of the monster that now resides in their home
-she determines to make relative peace with it locking it in their basement but keeping it well fed and alive as
-illustrated by a line in the babadook's book the more you deny the stronger I get the monster operates as a signifier of
-emilia's grief over oscar's death the more she represses this trauma the more power it has to return and disrupt her
-life this allegory is not however the only one at work within the babadook amelia appears as a 21st century sister of
-rosemary from rosemary's baby as the babadook crosses the horror formula of other as villain with the female gothic
-interest in gendered experience and victimhood transforming the beleaguered female protagonist herself into a monster
-backing up the idea that the greatest monsters do not come from without or from within that perhaps the monsters in
-heteronormative suburbia did not come from the outside from cities but that they've been there all along and how does
-one become a suburban monster by trying to fit in emilia is struggling financially and the depiction of the life she
-leads with her son shows the economic vulnerability of single-parent families especially single mothers her stress to
-keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at
-her own son the babadook on the other hand ostensibly coded queer does no actual harm to amelia or samuel it is just the
-fear of him that causes harm it is the societal pressure of the heteronormative world that causes harm amelia's paranoia
-the sense of being watched originates in the way her public life is dominated by and private life intruded upon by
-institutional and bureaucratic forces that scrutinize her and especially her parenting first the representatives of the
-school system that had failed samuel and then the community service representatives that take over then there are the
-disturbing encounters with others that she hopes will help her the doctor who judges her when she requests sleeping
-pills to make samuel sleep so that she herself can sleep and the desk sergeant in the police station who when amelia
-attempts to report a stalker looks back at her with the strange pale eyes of the storybook monster both encounters show
-historically strained relations between institutional authorities and women under threat society is actively and
-passively harming her while the queer monster remains mostly benign in acknowledgment of these real everyday social
-pressures on emilia the forum taken by the babadook references the familiar source of her madness and monstrosity there
-are elements of samuel as the babadook's garb recalls the little boy's homemade magician's costume while the threat of
-its mouth in the pop-up book offers a horror movie version of samuel's screams for attention and then there's the house
-a victorian style house that kent had constructed specifically for this film and that operates as a character in its own
-right specifically of note are the ways that the home in the film diverges from both idealized constructions of the home
-and the role of the home within the horror movie genre the signifier of the home often functions as an allegory for
-heteronormative sexist ablest and classist figurations of family how homeownership is often considered a milestone for
-success and stability for those a part of or wishing to be a part of the heteronormative masses how often the home acts
-as a site for the production and regulation of bodies that are normatively gendered and sexed and how consistently the
-culture of suburban home life and typical design practices presume that a house's inhabitants will all be fully abled
-thereby rendering them inaccessible to those who are not physically ideal the single-family home acting as a sort of
-moated castle protecting the inhabitants from the working poor they might otherwise come across in an apartment building
-or the infirm in a nursing home or the other races or queers and select ghettoized areas but in the babadook those
-others infiltrate the home and cause no harm threaten yes but never act only the self causes harm not the other the
-babadook's queerness lies in its subversion of the family in its apparent danger to what is accepted by society by only
-growing in power the more it is denied like a gaping wound that begins to fester each time a person lies about their
-sexuality every time someone pretends to be someone they're not so that society will accept them and there's an odd draw
-to the black and white monster for queer people outside the movie it was looked at as a joke like so many queer icons
-initially are cher judy garland dolly parton all looked at as over the top and worth nothing more than derision and then
-they enter into a cultural permanence once they're adopted by the queer community someone was like how could the
-babadook become a gay film and the answer was readily available said karen thompson an associate professor of gender
-studies in english at usc he lives in a basement he's weird and flamboyant he's living adjacently to a single mother in
-this kind of queer kinship structure he exists in a half-acknowledged state by the other people in his house the family
-is afraid of what he is but finds a way to accept him over time for many lgbt people that's what it feels like to be in
-your own family sometimes naturally there are counter arguments the babadook never says he's gay he never displays
-physical attraction to another person but historically fictional characters haven't needed to say I am gay out loud to
-be read as queer or to become queer icons so many lgbt people have been barred from seeing themselves represented in
-popular culture so we've had to project ourselves into so many of these figures thongson said there are ways to read
-into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into
-a family but is the babadook gay when asked about this in 2019 director jennifer kent simply replied of course sometimes
-it's just that simple sometimes the monster the queer can be accepted sometimes suburbia isn't so bad but sometimes it
-can be a nightmare [Music] it by stephen king was published in 1986 and has made a lasting cultural impression the novel
-inspired a mini-series two movies and ruined clowns for generations of children and adults frankly pennywise transforms
-into things that will scare people the most and stephen king used the 1950s setting to pay tribute to classic movie
-monsters since its release the novel has inspired fans to discuss its themes allegories and underlying subtext a common
-discussion is the interpretation that richie tozier and eddie kasprak had strong repressed gay feelings for one another
-the most recent adaptation it chapter 2 directed by andy musgetty dedicates an entire subplot to the romance between
-richie and eddie there have been protests that the character's change in sexuality comes out of nowhere but that's not
-so quite cut and dry when eddie first encounters pennywise the titular it he's at a place known to attract hobos and
-drifters it takes the form of a hobo who's stricken with disease it uses a leper to frighten eddie instead of your
-typical horror movie monster one of these fellows had crawled out from under the porch of the house at 29 nybolt street
-one day and had offered to give eddie a [ __ ] for a quarter eddie had backed away his skin like ice his mouth as dry as
-lint balls one of the hobo's nostrils had been eaten away you could look right into the red scabby channel I I don't
-have a quarter eddie said backing toward his bike do it for a dime the hobo croaked coming toward him he was wearing old
-green flannel pants yellow puke was stiffening across the lap he unzipped his fly and reached inside he was trying to
-grin his nose was a red horror uh I don't have a dime either eddie said and suddenly thought oh my god he's got leprosy
-if he touches me I'll catch it too his control snapped and he ran he heard the hobo break into a shuffling run behind
-him his old string tied shoes slapping and flapping across the riotous lawn of the empty saltbox house eddie's physical
-manifestation of fear has symbolic meaning that is linked to his abusive upbringing eddie sees it as a leper because his
-mother's insistence that he is sickly and delicate has made him afraid of disease eddie is horrified of the leper's
-appearance but the real terror doesn't set in until he realizes that he could catch its illness the leper uses the offer
-of sexual favors to scare him nowhere else in the story does pennywise threaten the children with sexual assault so its
-decision to do so here is an important distinction this metaphor is significant because the leper is a sickly diseased
-man offering oral sex to eddie and its combination of these things shows us a deep fear eddie has unknown even to
-himself eddie's afraid of doing sexual things with men because he believes he will get a disease and die its use of the
-leper as a manifestation of eddie's fear is our first clue that eddie is queer-coded because he is groomed to fear
-disease and sickness he fears his own homosexuality and views it as something that could kill him though this section of
-the book takes place in the 1950s the book itself was published in the chaotic midst of the aids crisis when gay sex
-really could lead to a disease and death we also get some interesting religious imagery as eddie thinks back to the root
-of his religious fear he's quick to dismiss religious rules as stupid but stops himself as he remembers he takes
-religion seriously enough to be afraid of it it's interesting that eddie fears going to hell even though he's never done
-anything to warrant it reading eddie's inner turmoil as the result of suppressed homosexual feelings it makes sense for
-eddie to wonder about going to hell because of who he is rather than something he's done another coded aspect of eddie's
-hidden sexuality is how he interacts with the other losers in one scene stephen king singles out eddie as being
-delighted by bill we get an explanation for eddie's unmatched joy when eddie tries to imitate bill modelling himself
-after the boy in order to come across as brave eddie idolizes bill and his love is rooted in that admiration there are
-many references to eddie having hero worship for bill or seeming to love bill more than the other losers this is
-disguised as eddie simply idolizing bill but it reads much clearer as an unrequited crush on him with eddie simply not
-knowing how to categorize it another member of the losers club that hits home with queer readers is richie a character
-many people even straight readers have interpreted as being bisexual he like most of the boys in the group has at least
-a bit of a crush on beverly the lone girl but also a clear connection with eddie as well not just in friendship or love
+Ulrich's bloody intensity and perpetual white t-shirt clearly evoke James Dean in *Rebel Without a Cause*. The intense look in his eyes, either sad or cunning, keeps the audience as off-balance to his identity as it does Sydney. But when he does reveal his murderous identity, the facade dissolves entirely and he passes through intensity into truly frightening. The dark underbelly of his pristine all-American geniality. 
+
+Lillard's Stu, meanwhile, is notable for his gender bending potential. He uses his basketball player height, rubbery face, and excessive emotionalism to create a memorably frantic character that would shock no one if he suddenly appeared in full drag. In one scene set in the video
+store where Randy of Movie Geek works, Randy theorizes about Billy's possible identity as the killer. In perhaps the most homoerotic moment in the film, Billy suddenly swings upon Randy challenging him. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.plagiarized.scream %}>
+
+Billy: "How do we know you're not the killer? Huh? *Huh?*" 
+
+Randy: "Hi Billy.
+
+Billy: "Maybe your movie-freak-mind lost it's reality button, you ever think of that?!"
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+As Billy gets in Randy's face, Stu comes up from behind him in a shockingly intimate almost threesome. What has been called femmephobia intersects here with homophobia, as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
+the perfect murder plot. Craven makes the interesting choice to stage the big revelation scene at the climax of the film... in the kitchen. The Mama's Boy Killers reveal their nefarious identities within the domestic space most closely associated with the mother.
+
+Earlier in the film, Billy and Sydney have sex after she announces that, if life is one big movie genre, her pick is porn. Ghostface suddenly appears right after they've finished and seemingly stabs Billy to death. One can assume that he's been watching them do the deed the entire time. Of course, we soon learn that this is only a ruse to distract Sydney from Billy's real identity as one of the killers. Billy staggers back to life in his seemingly blood-drenched t-shirt. Getting possession of the gun Sydney had been wielding, Billy shoots Randy and then dabs a finger in his blood and brings it up to his lips. 
+
+There's also the Negative Oedipus Complex. Homosexuality is the chief aspect of it. In a footnote added in 1910 to his 1905 three essays on the theory of sexuality, Sigmund Freud conjectures homosexual identity emerges from an identification with the mother. And Billy is nothing if not obsessed with his mother. While many have read Freud's theory as homophobic, it would likely be fairer to say that it's been put to homophobic use in American psychiatry, which historically used it to pathologize homosexuality as an arrested development. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+What *Scream* makes vividly clear is the cultural reception of narcissistic mother-identified desire. The killers and *Scream* are monstrous not only because they kill, but because their desire proceeds from identification with the mother. What complicates or is left deliberately unresolved by the filmmakers is the specific nature of the boys' relationship with each other.
+
+Stu's desire is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic. Stu has a girlfriend, dispatched via garage door, but his chief affection is directed toward Billy, to whom he's quite clearly devoted. What is most significant about Stu's relationship with Billy are the ways in which Billy's desire becomes Stu's desires, becoming an easy analog for the feeling of many gay teenage boys who will do *anything*, play any sport, see any movie, take any drug, in a desperate attempt to connect with their male crushes. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+A queer reading becomes more obvious at, least to me, when the pair of killers decide they need to stab each other in order to frame Sydney for the killings, penetrating one another to show their devotion, replicating the pain of virginal anal sex. 
+
+*Scream* with its queer coding, delicious dialogue, and willingness to reach into camp territory when necessary, has become a classic slasher among the queer community. While we watch it as a smart send up of the genre, which was well and dead in 1996, many people of the more hetero persuasion see the film a bit differently. Ut's the horror of danger coming to the suburbs, a place of safety being perverted, where nice white families fled to in order to escape the poor, black, and queer horrors that filled the city streets. 
+
+And in *Scream*, the queer horror penetrated that safety. It also tore apart the idea of the ideal american family. Billy's family was torn asunder when Sydney's mother had an affair with his father, leading to a divorce and his mother leaving town. And so he took Sydney's mother away from her too. The fragility of the straight nuclear family coming to a bloody end just as the new millennium dawned, showing us all that families, though a nice idea, can lead to unexpected horrors.
+{% assign timecode = "1:02:18" %}
+
+</james>
+<from></from>
+</compare>
+
+# Home Is Where the Hell Is
+
+<compare>
+<james {% include timecode %}>
+
+In 2017, a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from Australia with sharp teeth, theatrical makeup, and a top hat. This cultural phenomenon began with the 2016 Tumblr thread initiated by online user e-instagram, who declared Mr Babadook, the titular monster from Jennifer Kent's 2014 horror film, to be fearlessly and proudly gay. 
+
+In his initial post, instagram wonders:
+
+\[Quote shown on screen, wipe fade]:
+> Whenever someone says that the Babadook isn't openly gay it's like...  
+> Did you even watch the movie?
+
+Sparking what participants called a "baba-discourse", scores of others weighed in on the tumblr thread, with one user proclaiming <q>The B in LGBT stands for Babadook.</q> 
+
+The next several months saw the proliferation of queer Babadook memes, and multiple representations of the Babadook at 2017 pride festivals across the United States. The Babadook has emerged as a queer icon because he can be read as having characteristics associated with cultural gayness. For example, he wears dramatic costuming that recalls the theatricality of drag. And he struggles against a rather literally closeted existence, in which many disavow or reject him/
+
+While references to these characteristics abound in the typically humorous and ironic examples of the character's queerness, this monster, and the film from which he emerges, call for critical attention to normative constructions of the family. The hegemony of reproductive heterosexuality and the implications of both for the lives of women. 
+
+That is: the Babadook invites queer appropriation *because* he represents the horrors of heteronormative family life. And gender politics. While socially conservative rhetoric frequently casts the family as a site of innocence imperiled by outside forces, *The Babadook* constructs the family as a site that is too often constituted by multiple forms of systemic physical and emotional violence. 
+
+Narratively, *The Babadook* (written and directed by Jennifer Kent) is the story of Amelia, a single mother, and her only son, Samuel. On the day her son would be born, Amelia and her husband Oskar have a car accident on the way to the hospital, and Oskar dies. Having given up her career as a writer to earn a living as a nursing home attendant, Amelia has been Samuel's only caregiver, an isolating experience exasperated by both other people's uneasiness with her grief, and by their ableist discomfort with Samuel's differences.
+
+Amelia's ability to care for her son becomes severely constrained when she decides she must remove him from his school, which seems unwilling or unable to accommodate his needs. At the same time, Samuel becomes fixated on an invisible monster that he warns lives in their house. When a mysterious and violent children's book appears, Amelia begins to fear that the monster is not a figment of Samuel's imagination. And soon she and her home are tormented by a boogeyman known as the Babadook, who lives under her child's bed and in his closet. 
+
+As anxiety sleeplessness and trauma take a toll on Amelia, she first directs her anger at Samuel becoming violent, before eventually confronting the Babadook. She realizes she can never fully rid their lives of the monster that now resides in their home. She determines to make relative peace with it, locking it in their basement, but keeping it well fed and alive. 
+
+As illustrated by a line in the Babadook's book, the more you deny the stronger I get. The monster operates as a signifier of Amelia's grief over Oskar's death. The more she represses this trauma, the more power it has to return and disrupt her life. 
+
+This allegory is not, however, the only one at work within *The Babadook*. Amelia appears as a 21st century sister of Rosemary from *Rosemary's Baby*. As the Babadook crosses the horror formula of "other as villain" with the female gothic interest in gendered experience and victimhood, transforming the beleaguered female protagonist herself into a monster, backing up the idea that the greatest monsters do not come from without, but from within. That perhaps the monsters in heteronormative suburbia did not come from the outside, from cities, but that they've been there all along.
+
+And how does one become a suburban monster? By trying to fit in. Amelia is struggling financially and the depiction of the life she leads with her son shows the economic vulnerability of single-parent families, especially single mothers. Her stress to keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at her own son. 
+
+The Babadook on the other hand, ostensibly coded queer, does no actual harm to Amelia or Samuel. It is just the fear of him that causes harm. It is the societal pressure of the heteronormative world that causes harm. Amelia's paranoia, the sense of being watched, originates in the way her public life is dominated by, and private life intruded upon, by institutional and bureaucratic forces that scrutinize her, and especially her parenting. First, the representatives of the school system that had failed Samuel, and then the community service representatives that take over. 
+
+Then, there are the disturbing encounters with others that she hopes will help her. The doctor who judges her when she requests sleeping pills to make Samuel sleep, so that she herself can sleep. And the desk sergeant in the police station who, when Amelia attempts to report a stalker, looks back at her with the strange pale eyes of the storybook monster. Both encounters show historically strained relations between institutional authorities and women under threat. society is actively and passively harming her. While the queer monster remains mostly benign.
+
+In acknowledgment of these real everyday social pressures on Amelia, the form taken by the Babadook references the familiar source of her madness and monstrosity. There are elements of Samuel, as the Babadook's garb recalls the little boy's homemade magician's costume, while the threat of its mouth in the pop-up book offers a horror movie version of Samuel's screams for attention. 
+
+And then there's the house, a victorian style house that Kent had constructed specifically for this film, and that operates as a character in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre. The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family. How homeownership is often considered a milestone for success and stability for those a part of, or wishing to be a part of, the heteronormative masses. How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to those who are not physically ideal.
+
+The single-family home acting as a sort of moated castle, protecting the inhabitants from the working poor they might otherwise come across in an apartment building. Or the infirm in a nursing home. Or the other races or queers in select ghettoized areas. But in *The Babadook*, those others infiltrate the home and cause no harm. Threaten. yes, but never act. Only the self causes harm, not the other. 
+
+The Babadook's queerness lies in its subversion of the family, in its apparent danger to what is accepted by society, by only growing in power the more it is denied. Like a gaping wound that begins to fester each time a person lies about their sexuality. Every time someone pretends to be someone they're not so that society will accept them. 
+
+And there's an odd draw to the black and white monster for queer people. Outside the movie, it was looked at as a joke, like so many queer icons initially are. Cher, Judy Garland, Dolly Parton, all looked at as over-the-top and worth nothing more than derision. And then they enter into a cultural permanence once they're adopted by the queer community.
+
+> "Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available." 
+
+...said Karen Thompson, an associate professor of gender studies in English at USC.
+
+> "He lives in a basement, he's weird and flamboyant, he's living adjacently to a single mother in this kind of queer kinship structure."
+
+He exists in a half-acknowledged state by the other people in his house. The family is afraid of what he is, but finds a way to accept him over time.
+
+> "For many lgbt people, that's what it feels like to be in your own family sometimes."
+
+Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" outloud to be read as queer, or to become queer icons.
+
+> "So many LGBT people have been barred from seeing themselves represented in popular culture, so we've had to project ourselves into so many of these figures."
+
+Thompson said,
+
+> "There are ways to read into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into a family."
+
+But is the Babadook gay? When asked about this in 2019, director Jennifer Kent simply replied...
+
+> "Of course."
+
+Sometimes it's just that simple. Sometimes the monster, the queer, can be accepted. Sometimes suburbia isn't so bad. But sometimes... *it*... can be a nightmare.
+{% assign timecode = "1:12:00" %}
+
+</james>
+<from></from>
+</compare>
+
+## Trauma
+
+<compare>
+<james {% include timecode %}>
+
+*IT* by Stephen King was published in 1986 and has made a lasting cultural impression. The novel inspired a mini-series, two movies, and ruined clowns for generations of children. <span hbomb="Ha, good one.">And adults frankly</span>. Pennywise transforms into things that will scare people the most and Stephen King used the 1950s setting to pay tribute to classic movie monsters. 
+
+Since its release, the novel has inspired fans to discuss its themes, allegories, and underlying subtext. A common discussion is the interpretation that Richie Tozier and Eddie Kasprak had strong repressed gay feelings for one another. The most recent adaptation, *It: Chapter 2* directed by Andy Musgetty, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the character's change in sexuality comes out of nowhere, but that's not so quite cut and dry. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+When Eddie first encounters Pennywise, the titular "It", he's at a place known to attract hobos and drifters. It takes the form of a hobo who's stricken with disease. It uses a leper to frighten Eddie instead of your typical horror movie monster.
+
+\[Quote shown on screen:]
+> One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lintballs. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
+> 
+> "I-I don't have a quarter" Eddie said, backing toward his bike.
+>
+> "I'll do it for a dime," the hobo croaked, coming toward him. He was wearing old green flannel pants. Yellow puke was stiffening across the lap. He unzipped his fly and reached inside. He was trying to grin. His nose was a red horror. 
+>
+> "I... I don't have a dime, either," Eddie said, and suddenly thought: Oh my god he's got leprosy! If he touches me I'll catch it too!
+>
+> His control snapped and he ran. He heard the hobo break into a shuffling run behind him, his old string-tied shoes slapping and flapping across the riotous lawn of the empty saltbox house.
+
+</james>
+<from></from>
+</compare>
+
+Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness. The leper uses the offer of sexual favors to scare him. nowhere else in the story does Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.
+
+ this metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and its combination of these things shows us a deep fear Eddie has unknown even to himself Eddie's afraid of doing sexual things with men because he believes he will get a disease and die its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded because he is groomed to fear disease and sickness he fears his own homosexuality and views it as something that could kill him though this section of the book takes place in the 1950s the book itself was published in the chaotic midst of the aids crisis when gay sex really could lead to a disease and death we also get some interesting religious imagery as Eddie thinks back to the root of his religious fear he's quick to dismiss religious rules as stupid but stops himself as he remembers he takes religion seriously enough to be afraid of it it's interesting that Eddie fears going to hell even though he's never done anything to warrant it reading Eddie's inner turmoil as the result of suppressed homosexual feelings it makes sense for Eddie to wonder about going to hell because of who he is rather than something he's done another coded aspect of Eddie's hidden sexuality is how he interacts with the other losers in one scene Stephen King singles out Eddie as being delighted by bill we get an explanation for Eddie's unmatched joy when Eddie tries to imitate bill modelling himself after the boy in order to come across as brave Eddie idolizes bill and his love is rooted in that admiration there are many references to Eddie having hero worship for bill or seeming to love bill more than the other losers this is disguised as Eddie simply idolizing bill but it reads much clearer as an unrequited crush on him with Eddie simply not knowing how to categorize it another member of the losers club that hits home with queer readers is Richie a character many people even straight readers have interpreted as being bisexual he like most of the boys in the group has at least
+a bit of a crush on beverly the lone girl but also a clear connection with Eddie as well not just in friendship or love
 but in trauma childhood trauma looms under the skin of the losers club well into adulthood as it chapter 2 explores the
 reunion of the crew in their hometown for most of the children their trauma existed on the surface of the first it film
-eddie's overbearing mother beverly's father verbally abusing her and sexually taunting her as she begins to grow into
+Eddie's overbearing mother beverly's father verbally abusing her and sexually taunting her as she begins to grow into
 her adult body mike seeing his parents burned alive six out of the seven losers left dairy as soon as they were old
 enough leaving allowed them to forget the trauma but leaving didn't remove it just tucked it away out of sight where it
-could seep out and impact their life later on both beverly and eddie married a version of their abusive parents bill now
-a writer can't think of a happy ending ever since his little brother georgie was murdered by pennywise stanley is so
+could seep out and impact their life later on both beverly and Eddie married a version of their abusive parents bill now
+a writer can't think of a happy ending ever since his little brother georgie was murdered by Pennywise stanley is so
 terrorized by his childhood torment that he kills himself when he finds out that it has returned like every person on
-the planet the losers remain trapped in their trauma they've just found new ways to cope richie ended up telling jokes
-and becoming rich and successful but always alone throughout it chapter 2 it becomes clear that richie is a closeted gay
-man in love with eddie mostly this revelation becomes clear through two scenes the first is a flashback of richie
-hanging out at an arcade the same summer of the losers defeated pennywise see the movies take place bit further ahead of
-time than the book he plays street fighter with a boy he's had a crush on when the kid says he has to go richie offers
-to pay for the next round unfortunately his crush's cousin henry bowers lives to torment richie and his friends now face
-to face with a stab happy bully and surrounded by the judging eyes of his peers richie's sexuality and therefore
-masculinity is challenged by his crush richie runs out of the arcade and seeks refuge in a public park before him stands
+the planet the losers remain trapped in their trauma they've just found new ways to cope Richie ended up telling jokes
+and becoming rich and successful but always alone throughout it chapter 2 it becomes clear that Richie is a closeted gay
+man in love with Eddie mostly this revelation becomes clear through two scenes the first is a flashback of Richie
+hanging out at an arcade the same summer of the losers defeated Pennywise see the movies take place bit further ahead of
+time than the book he plays street fighter with a boy he's had a crush on when the kid says he has to go Richie offers
+to pay for the next round unfortunately his crush's cousin henry bowers lives to torment Richie and his friends now face
+to face with a stab happy bully and surrounded by the judging eyes of his peers Richie's sexuality and therefore
+masculinity is challenged by his crush Richie runs out of the arcade and seeks refuge in a public park before him stands
 the symbol of masculinity a giant ax swinging paul bunyan looming 20 feet high in his flannel and denim he's a stark
-contrast to richie's blue and pink swirled button-up shirt the american folk hero instantly becomes a threat with
-shredded teeth the second scene that reveals ritchie is queer doesn't happen until eddie dies everyone is sad but richie
+contrast to Richie's blue and pink swirled button-up shirt the american folk hero instantly becomes a threat with
+shredded teeth the second scene that reveals ritchie is queer doesn't happen until Eddie dies everyone is sad but Richie
 is beside himself so overcome with emotion that he has to be hauled out of the sewer by his friends adult ritchie
-doesn't seem to fit into a 2019 narrative not everyone can come out in america but richie works as a comedian in los
+doesn't seem to fit into a 2019 narrative not everyone can come out in america but Richie works as a comedian in los
 angeles even if he chose to keep his sexuality close to the vest the idea that gay marriage and giant pride parades
 could miss a white man working in hollywood doesn't make sense if it did highlighting that fact would be vital to
-understanding the character the murky nature of richie's queer identity feels like a letdown the second chapter of it
+understanding the character the murky nature of Richie's queer identity feels like a letdown the second chapter of it
 attempts to reveal the way dormant childhood trauma springs forth in adulthood anything buried will eventually rise to
-the surface except for richie's sexuality apparently the queer community is still struggling to be seen in cinema as
+the surface except for Richie's sexuality apparently the queer community is still struggling to be seen in cinema as
 more than tragic romances or gay best friends the balance of the identity representation within the losers club offered
 an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community but in
-the film richie a well-off white masculine gay man never even says that he's gay out loud not everything in it is coding
+the film Richie a well-off white masculine gay man never even says that he's gay out loud not everything in it is coding
 though very early on in the story we are shown the brutal gay bashing and violent murder of adrian mellon a murder so
 heinous it wakes the titular it from its decades-long slumber king's language is harsh with characters using a vast
 array of homophobic slurs in those early pages but those characters using them even the police are not celebrated the
@@ -1264,11 +1365,11 @@ queer when we get into the head of don hagerty adrian's boyfriend and the author
 sympathetic he's smart and loving he also sees the town for what it is sees its evil clearly and wants to leave it
 though the characters in the book don't empathize with him for having his boyfriend killed in front of him the author
 does he shows the gay character as human in the midst of Reagan america the world's best-selling author was sending a
-very blunt message stephen king thought gay people should be able to date and hold hands and live their lives stephen
+very blunt message Stephen King thought gay people should be able to date and hold hands and live their lives stephen
 king did not think gay people should be tortured or killed he thought that those who would torture or kill gay people
 were in the service of evil as were those who would tolerate it or look away the victims of homophobia did not deserve
-to be victims homophobia stephen king seemed to say is not the natural way of the world it is a monstrous thing and
-those who practice it are a part of the monster like the babadook *Hellraiser* jennifer's body the craft and king's own
+to be victims homophobia Stephen King seemed to say is not the natural way of the world it is a monstrous thing and
+those who practice it are a part of the monster like the Babadook *Hellraiser* jennifer's body the craft and king's own
 carry the queer is not the monster something else is gay men lesbian women bisexual people transgender people everyone
 under the queer umbrella we are not the monsters you are not the monster but the society that demonizes you that others
 you that is the monster [Music] you

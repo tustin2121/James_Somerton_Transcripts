@@ -96,7 +96,7 @@
 	"citation": {
 		"prefix": "citation",
 		"body": [
-			"{% include citation from=page.cite.plagiarized.$0 at=\"¶ ?\" %}"
+			"{% include citation for=page.cite.plagiarized.$0 at=\"¶ ?\" %}"
 		],
 		"description": "Surround with inline quote"
 	},
