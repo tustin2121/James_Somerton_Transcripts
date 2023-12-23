@@ -115,6 +115,21 @@ Alex London
 Society and Queer Horror
 
 </credits>
+<comment {% include citation for=site.yt.hbomb_video %}>
+
+Not included in the credits, though they should have been:
+- Andrew Park
+- Dani Leever
+- Michaela Barton
+- Bart Bishop
+- J.F. Sargent
+- Jessica Roy
+- Rachel Brands
+- Joelle Monique
+
+(Also, the name is "Darren Elliott-Smith", not just "Elliot".)
+
+</comment>
 </compare>
 {% assign timecode = "1:14" %}
 
@@ -415,6 +430,11 @@ Peirce also sees the story as a superhero origin story, which she also relates t
 
 <mark>“I think another queer part of the narrative is that Carrie gets super powers, and those super powers are like a queer person understanding they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it’s okay. Because that’s literally what Carrie says. She says to her mom, ‘There are other people out there like me. I am normal, I am okay, even if you don’t think so.’ I’ve talked to lots of [gay] people about this movie and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her. It’s an echo of what a queer person could write as a kind of corrective narrative.”</mark>
 
+<div class="footer">
+
+Note: This quote from the director is found in exactly one article at time of writing. Usually quotes like this are found in multiple articles and we can just attribute the quote to the person, but since this is found in literally one article on Google, I'm going to add it to the "plagiarism" count.
+
+</div>
 </from>
 </compare>
 
@@ -779,35 +799,71 @@ Instantly, at least for me, this was reminiscent of every stray remark about boy
 <compare>
 <james {% include timecode %}>
 
-As mentioned before, later that night a bloodied, maimed, non-verbal, and snarling Jennifer staggers over to Needy's house in the middle of the night, desperate and hungry, though Jennifer is unable or unwilling to communicate in words what's happened to her, her physicality is speaking
-volumes. This is clearly a nod to both physical manifestations of trauma and a general reference to women in horror movies, and in real life, who can't talk about what's happening to them, for fear that they won't be believed or understood.
+As mentioned before, later that night <mark>a bloodied, maimed, non-verbal, and snarling Jennifer staggers over to Needy's house in the middle of the night, desperate and hungry. Though Jennifer is unable or unwilling to communicate in words what's happened to her, her physicality is speaking
+volumes. This is clearly a nod to both physical manifestations of trauma and a general reference to women in horror movies, and in real life, who can't talk about what's happening to them, for fear that they won't be believed or understood.</mark>
 
-This scene doesn't just focus on the horror of the situation though. The sexual tension between the two also comes into focus as Jennifer narrowly resists biting Needy on the neck. Looking more like a *kiss*, than a potentially violent act. 
+<mark>This scene doesn't just</mark> focus on the horror of the situation <mark>though. The sexual</mark> tension between the two also comes into focus <mark>as Jennifer narrowly resists biting Needy on the neck.</mark> <mark>Looking more like a *kiss*</mark>, than a potentially violent act. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 16-17" %}>
+
+course, as horror movies often do, things rapidly go downhill from here. <mark>A bloodied, maimed, nonverbal and snarling Jennifer staggers over to Needy’s house in the middle of the night, desperate and hungry. Though Jennifer is unable or unwilling to communicate in words what’s happened to her, her physicality is speaking volumes. This is clearly a nod to both physical manifestations of trauma and a reference to women in horror movies (and in real life) who can’t talk about what’s happening to them for fear they won’t be believed or understood.</mark>
+
+<mark>This scene doesn’t just</mark> ratchet the scare needle up, <mark>though; the sexuality</mark> meter comes with it, <mark>as Jennifer narrowly resists the urge to bite Needy on the neck</mark> as they’re hugging. Unavoidably, the camera angles and the way it’s acted makes the near-miss <mark>look more like kissing</mark>. Then, Jennifer pushes Needy away at the last second and leaves. Jennifer is unable to express or act on whatever degree of desire she feels for Needy, whether to seduce her or to kill her, and storms out in silent frustration.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Their relationship is stretched thin over a tumultuous friendship between teenage girls. But more than that it speaks to the nature of attraction between young women, whose relationships can be... incredibly intimate even between two straight girls. So when one or both of the girls are gay or bi, the thin line between platonic female friendship and sexual female love can become an emotional war zone.
+Their relationship is <mark>stretched thin over a tumultuous friendship between teenage girls. But more than that it speaks to the</mark> <mark>nature of attraction between young women</mark>, whose relationships can be... incredibly <mark>intimate</mark> even between two straight girls. So when one or both of the girls are gay or bi, the thin line between platonic female friendship and sexual female love can become an emotional war zone.
 
-Jennifer uses sex as bait to attract male victims to devour, but shows no romantic interest in any of them. They're prey, nothing else to her. One scene shows the uncomfortable simultaneous acts of Jennifer seducing a soon-to-be victim while Needy makes love to her bumbling boyfriend. Looking at the scene through the eye of a film editor, it's easy enough to see what's happening: Jennifer is the aggressor in her scene, while Needy is the submissive partner in hers. 
+<mark>Jennifer uses sex as bait</mark> to attract <mark>male victims</mark> to devour, but shows no romantic interest in any of them. They're prey, nothing else to her. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 18-19" %}>
+
+Jennifer and Needy’s desire for each other is messy, ugly, dangerous, hungry, and complicated. It’s undoubtedly <mark>stretched thin over a tumultuous friendship between teenage girls, but more than that, it speaks to the</mark> fraught, at times consumptive <mark>nature of attraction between young women</mark>. Our sexuality is weird and <mark>intimate</mark> and incidentally kind of terrifying in ways that sleeping with straight men often isn’t — and, at least in this context, it has nothing to do with futurity or procreation in the “conventional,” hetero-normative sense.
+
+Though <mark>Jennifer uses sex as a lure</mark> through which to eat her <mark>male victims</mark>, there are repeated hints throughout the film that tell us what she really wants to be doing is consuming Needy. She doesn’t though. Instead, though Jennifer begins the transformation into a demon as an opportunistic creature, simply eating the most conveniently available boys, her pursuits quickly become more targeted.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The cutting back and forth can easily be read as an editing trick to make the mind see Jennifer and Needy having sex, backing up that interpretation is the fact that Needy abandons her heterosexual coupling in order to seek out Jennifer. After a series of scares, she returns home alone, unable to find her friend. Crawling into bed she finds Jennifer there waiting for her, wearing one of Needy's shirts, a girlfriend move if ever there was one. 
+One scene shows the uncomfortable simultaneous acts of Jennifer seducing a soon-to-be victim while Needy makes love to her bumbling boyfriend. Looking at the scene through the eye of a film editor, it's easy enough to see what's happening: Jennifer is the aggressor in her scene, while Needy is the submissive partner in hers. 
 
-This scene of vulnerability culminates with an actual kiss between the two girls. Needy pulls away, demanding to know what Jennifer has been up to. She tells her her story ending it with the line:
+The cutting back and forth can easily be read as an editing trick to make the mind see Jennifer and Needy having sex. Backing up that interpretation is the fact that Needy abandons her heterosexual coupling in order to seek out Jennifer. After <mark>a series of scares</mark>, she <mark>returns home</mark> alone, unable to find her friend. <mark>Crawling into bed she finds Jennifer</mark> there waiting for her, <mark>wearing one of Needy's shirts</mark>, a girlfriend move if ever there was one. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 21-22" %}>
+
+The clever, and decidedly uncomfortable, intercutting of scenes between Jennifer seducing Colin and Needy’s sweetly, clumsily earnest sex scene with her boyfriend, not only further entrenches the queer back-and-forth between the girls. It also confirms a bordering-psychic connection between them, as Needy flees — in the middle of having sex with Chip, no less — to try and track Jennifer down, realizing that something is deeply wrong. This frantic search only results in <mark>a series of scares</mark>, after which a frightened, tearful Needy <mark>returns home</mark> to find herself alone… or so she thinks.
+
+By the time she finally <mark>crawls into bed, she finds Jennifer</mark> already there in the bed with her — a Jennifer who, I’ll add, is <mark>wearing one of Needy’s shirts</mark>. Understandably startled, Needy leaps out of bed and immediately demands that Jennifer leave. Jennifer, unfazed, responds, “But we always share your bed when we have slumber parties.”
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This scene of <mark>vulnerability</mark> culminates with an <mark>actual kiss between the two girls</mark>. <mark>Needy pulls away</mark>, <mark>demanding</mark> to know what Jennifer has been up to. She tells her her story ending it with the line:
+
+</james>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 23, 27-28" %}>
+
+The fraught, confusing tension of the scene leaves Needy still more <mark>vulnerable</mark>, and responsive when <mark>Jennifer kisses her</mark>. In a 2018 article for Vox by Constance Grady, [...]
+
+Of course, since both girls are approaching this moment from such diametrically opposed positions, it can’t last. <mark>Needy pulls herself away</mark>, remembering suddenly all that happened before she found Jennifer in her bed, and <mark>demands</mark> an explanation.
+
+Megan Fox imbues Jennifer with an unexpected, exhausted vulnerability held under a thin veneer of brittle indifference as she explains the trip in the van out to the woods, and the sacrifice. She rounds off her story with a fragile display of intimacy and affection: [...]
+
+</from>
 </compare>
 
 <compare>
@@ -816,17 +872,28 @@ This scene of vulnerability culminates with an actual kiss between the two girls
 Jennifer: "Anyway, I don't really remember what happened after that. I just know that I woke up and I found my way back to you."
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 28" %}>
+
+[...] “I don’t really remember what happened after that. I just know that I woke up and I found my way back to you.”
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-After all that though, Needy begins to doubt Jennifer's story, feeling her control and her closeness to Needy slipping, Jennifer reaches for the nearest easy target. By trying to make Needy insecure about her relationship with Chip, suggesting that Chip is having second thoughts about her.
+<mark>After all that though, Needy begins to doubt Jennifer's story</mark>, <mark>feeling her control and her closeness to Needy slipping, Jennifer reaches for the nearest easy target.</mark> <mark>By trying to make Needy insecure about her relationship with Chip, suggesting that Chip is having second thoughts about her.</mark>
 
-This is the first but not the last effort of Jennifer's to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is *hard* to read as *anything* else than her wanting Needy for herself. The lesbian coding is incredibly obvious.
+<mark>This is the first but not the last effort of Jennifer's to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is *hard* to read</mark> as *anything* else than her <mark>wanting Needy for herself</mark>. The lesbian coding is incredibly obvious.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 29-30" %}>
+
+<mark>After all that, though, Needy begins to doubt Jennifer’s story</mark> and pokes holes in it anyway. <mark>Feeling her control — and her closeness to Needy — slipping, Jennifer reaches for the nearest easy target.</mark> She nearly immediately responds <mark>by trying to make Needy insecure about her relationship with Chip, suggesting that Chip is “having second thoughts about [her].”</mark>
+
+<mark>This is the first, but not the last, effort of Jennifer’s to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is hard to read</mark> any other way than <mark>wanting Needy for herself</mark>. Indeed, she extends another — admittedly less tender — approach, quipping, [...]
+
+</from>
 </compare>
 
 <compare>
@@ -835,15 +902,24 @@ This is the first but not the last effort of Jennifer's to drive a wedge between
 Jennifer: "Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to."
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 30" %}>
+
+[...] “Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to.”
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-At the climax of the film, Needy confronts Jennifer, armed with a box cutter, leading to an acerbic little double entendre on the slang meaning of the word "box". And Jennifer quipping that Needy buying her murder weapons at Home Depot is so butch. This is also the scene in which Jennifer finally bites Needy while they're fighting. The bite isn't lethal though, and it's clear that it wasn't meant to be. 
+<mark>At the climax of the film, Needy confronts Jennifer, armed with a box cutter, leading to an acerbic little double entendre on the slang meaning of</mark> the word <mark>"box". And Jennifer quipping that Needy buying her murder weapons at Home Depot is so butch. This is also the scene in which Jennifer finally bites Needy</mark> <mark>while they're fighting</mark>. <mark>The bite isn't lethal though, and it's clear that it wasn't meant to be.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 39" %}>
+
+<mark>At the climax of the film, Needy confronts Jennifer armed with a box cutter — leading to an acerbic little double-entendre on the slang meaning of</mark> <mark>box, and Jennifer quipping that Needy buying her murder weapons at Home Depot is “so butch.” This is also the scene in which Jennifer finally bites Needy</mark> at the join of the neck and shoulder, <mark>while they’re fighting</mark> in Jennifer’s bed. <mark>The bite isn’t lethal, though, and it clearly wasn’t intended to be.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -1244,7 +1320,7 @@ And in *Scream*, the queer horror penetrated that safety. It also tore apart the
 <from></from>
 </compare>
 
-# Home Is Where the Hell Is
+## Home Is Where the Hell Is
 
 <compare>
 <james {% include timecode %} id="para17" mid-text="Paragraph-17">
@@ -1383,7 +1459,7 @@ Sometimes it's just that simple. Sometimes the monster, the queer, can be accept
 
 *IT* by Stephen King was published in 1986 and has made a lasting cultural impression. The novel inspired a mini-series, two movies, and ruined clowns for generations of children. <span hbomb="Ha, good one.">And adults frankly</span>. Pennywise transforms into things that will scare people the most and Stephen King used the 1950s setting to pay tribute to classic movie monsters. 
 
-Since its release, the novel has inspired fans to discuss its themes, allegories, and underlying subtext. A common discussion is the interpretation that Richie Tozier and Eddie Kasprak had strong repressed gay feelings for one another. The most recent adaptation, *It: Chapter 2* directed by Andy Musgetty, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the character's change in sexuality comes out of nowhere, but that's not so quite cut and dry. 
+Since its release, the novel has inspired fans to discuss its themes, allegories, and underlying subtext. A common discussion is the interpretation that Richie Tozier and Eddie Kasprak had strong repressed gay feelings for one another. The most recent adaptation, *It Chapter Two* directed by Andy Musgetty, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the character's change in sexuality comes out of nowhere, but that's not so quite cut and dry. 
 
 </james>
 <from></from>
@@ -1409,53 +1485,131 @@ When Eddie first encounters Pennywise, the titular "It", he's at a place known t
 <from></from>
 </compare>
 
-Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness. The leper uses the offer of sexual favors to scare him. nowhere else in the story does Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.
+<compare>
+<james {% include timecode %}>
 
- this metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and its combination of these things shows us a deep fear Eddie has unknown even to himself Eddie's afraid of doing sexual things with men because he believes he will get a disease and die its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded because he is groomed to fear disease and sickness he fears his own homosexuality and views it as something that could kill him though this section of the book takes place in the 1950s the book itself was published in the chaotic midst of the aids crisis when gay sex really could lead to a disease and death we also get some interesting religious imagery as Eddie thinks back to the root of his religious fear he's quick to dismiss religious rules as stupid but stops himself as he remembers he takes religion seriously enough to be afraid of it it's interesting that Eddie fears going to hell even though he's never done anything to warrant it reading Eddie's inner turmoil as the result of suppressed homosexual feelings it makes sense for Eddie to wonder about going to hell because of who he is rather than something he's done another coded aspect of Eddie's hidden sexuality is how he interacts with the other losers in one scene Stephen King singles out Eddie as being delighted by bill we get an explanation for Eddie's unmatched joy when Eddie tries to imitate bill modelling himself after the boy in order to come across as brave Eddie idolizes bill and his love is rooted in that admiration there are many references to Eddie having hero worship for bill or seeming to love bill more than the other losers this is disguised as Eddie simply idolizing bill but it reads much clearer as an unrequited crush on him with Eddie simply not knowing how to categorize it another member of the losers club that hits home with queer readers is Richie a character many people even straight readers have interpreted as being bisexual he like most of the boys in the group has at least
-a bit of a crush on beverly the lone girl but also a clear connection with Eddie as well not just in friendship or love
-but in trauma childhood trauma looms under the skin of the losers club well into adulthood as it chapter 2 explores the
-reunion of the crew in their hometown for most of the children their trauma existed on the surface of the first it film
-Eddie's overbearing mother beverly's father verbally abusing her and sexually taunting her as she begins to grow into
-her adult body mike seeing his parents burned alive six out of the seven losers left dairy as soon as they were old
-enough leaving allowed them to forget the trauma but leaving didn't remove it just tucked it away out of sight where it
-could seep out and impact their life later on both beverly and Eddie married a version of their abusive parents bill now
-a writer can't think of a happy ending ever since his little brother georgie was murdered by Pennywise stanley is so
-terrorized by his childhood torment that he kills himself when he finds out that it has returned like every person on
-the planet the losers remain trapped in their trauma they've just found new ways to cope Richie ended up telling jokes
-and becoming rich and successful but always alone throughout it chapter 2 it becomes clear that Richie is a closeted gay
-man in love with Eddie mostly this revelation becomes clear through two scenes the first is a flashback of Richie
-hanging out at an arcade the same summer of the losers defeated Pennywise see the movies take place bit further ahead of
-time than the book he plays street fighter with a boy he's had a crush on when the kid says he has to go Richie offers
-to pay for the next round unfortunately his crush's cousin henry bowers lives to torment Richie and his friends now face
-to face with a stab happy bully and surrounded by the judging eyes of his peers Richie's sexuality and therefore
-masculinity is challenged by his crush Richie runs out of the arcade and seeks refuge in a public park before him stands
-the symbol of masculinity a giant ax swinging paul bunyan looming 20 feet high in his flannel and denim he's a stark
-contrast to Richie's blue and pink swirled button-up shirt the american folk hero instantly becomes a threat with
-shredded teeth the second scene that reveals ritchie is queer doesn't happen until Eddie dies everyone is sad but Richie
-is beside himself so overcome with emotion that he has to be hauled out of the sewer by his friends adult ritchie
-doesn't seem to fit into a 2019 narrative not everyone can come out in america but Richie works as a comedian in los
-angeles even if he chose to keep his sexuality close to the vest the idea that gay marriage and giant pride parades
-could miss a white man working in hollywood doesn't make sense if it did highlighting that fact would be vital to
-understanding the character the murky nature of Richie's queer identity feels like a letdown the second chapter of it
-attempts to reveal the way dormant childhood trauma springs forth in adulthood anything buried will eventually rise to
-the surface except for Richie's sexuality apparently the queer community is still struggling to be seen in cinema as
-more than tragic romances or gay best friends the balance of the identity representation within the losers club offered
-an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community but in
-the film Richie a well-off white masculine gay man never even says that he's gay out loud not everything in it is coding
-though very early on in the story we are shown the brutal gay bashing and violent murder of adrian mellon a murder so
-heinous it wakes the titular it from its decades-long slumber king's language is harsh with characters using a vast
-array of homophobic slurs in those early pages but those characters using them even the police are not celebrated the
-author is very clearly judging them and it's this horrible violence so soon into the book that shows the darkness and
-hate lurking under the surface of small town america it is the hate that's unnatural the hate that is evil not being
-queer when we get into the head of don hagerty adrian's boyfriend and the author lets the reader know him he's
-sympathetic he's smart and loving he also sees the town for what it is sees its evil clearly and wants to leave it
-though the characters in the book don't empathize with him for having his boyfriend killed in front of him the author
-does he shows the gay character as human in the midst of Reagan america the world's best-selling author was sending a
-very blunt message Stephen King thought gay people should be able to date and hold hands and live their lives stephen
-king did not think gay people should be tortured or killed he thought that those who would torture or kill gay people
-were in the service of evil as were those who would tolerate it or look away the victims of homophobia did not deserve
-to be victims homophobia Stephen King seemed to say is not the natural way of the world it is a monstrous thing and
-those who practice it are a part of the monster like the Babadook *Hellraiser* jennifer's body the craft and king's own
-carry the queer is not the monster something else is gay men lesbian women bisexual people transgender people everyone
-under the queer umbrella we are not the monsters you are not the monster but the society that demonizes you that others
-you that is the monster [Music] you
+Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness. The leper uses the offer of sexual favors to scare him. Nowhere else in the story does Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.
+
+This metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and *its* combination of these things shows us a deep fear Eddie has, unknown even to himself. Eddie's afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded. Because he is *groomed* to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Though this section of the book takes place in the 1950s the book itself was published in the chaotic midst of the AIDS crisis, when gay sex really *could* lead to a disease and death. We also get some interesting religious imagery as Eddie thinks back to the root of his religious fear. He's quick to dismiss religious rules as stupid, but stops himself as he remembers he takes religion seriously enough to be afraid of it. It's interesting that Eddie fears going to hell, even though he's never done anything to warrant it. Reading Eddie's inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he's done. 
+
+Another coded aspect of Eddie's hidden sexuality is how he interacts with the other Losers. In one scene, Stephen King singles out Eddie as being *delighted* by Bill. We get an explanation for Eddie's unmatched joy when Eddie tries to imitate Bill, modelling himself after the boy in order to come across as brave. Eddie idolizes Bill and his love is rooted in that admiration. There are many references to Eddie having hero worship for Bill or seeming to love Bill more than the other Losers. This is disguised as Eddie simply idolizing Bill. But it reads much clearer as an unrequited crush on him. With Eddie simply not knowing how to categorize it. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Another member of the Losers Club that hits home with queer readers is Richie, a character many people -- even straight readers! -- have interpreted as being bisexual. He, like most of the boys in the group, has at least a bit of a crush on Beverly, the lone girl, but also a clear connection with Eddie as well. Not just in friendship or love, but in trauma. 
+
+Childhood trauma looms under the skin of the Losers Club well into adulthood, as *It Chapter Two* explores the reunion of the crew in their hometown. For most of the children, their trauma existed on the surface of the first *It* film: Eddie's overbearing mother, Beverly's father verbally abusing her and sexually taunting her as she begins to grow into her adult body, Mike seeing his parents burned alive. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Six out of the seven Losers left Derry as soon as they were old enough. Leaving allowed them to forget the trauma. But leaving didn't remove it. Just tucked it away out of sight, where it could seep out and impact their life later on. Both Beverly and Eddie married a version of their abusive parents. Bill now a writer can't think of a happy ending ever since his little brother Georgie was murdered by Pennywise. Stanley is so terrorized by his childhood torment that he kills himself when he finds out that It has returned. Like every person on the planet, the Losers remain trapped in their trauma. They've just found new ways to cope.
+
+Richie ended up telling jokes and becoming rich and successful, but always alone. Throughout *It Chapter Two*, it becomes clear that Richie is a closeted gay man in love with Eddie. Mostly this revelation becomes clear through two scenes.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The first is a flashback of Richie hanging out at an arcade, the same summer of the Losers defeated Pennywise. See, the movies take place bit further ahead of time than the book. He plays street fighter with a boy he's had a crush on. When the kid says he has to go, Richie offers to pay for the next round. 
+
+Unfortunately his crush's cousin, Henry Bowers, lives to torment Richie and his friends. Now face to face with a stab-happy bully and surrounded by the judging eyes of his peers, Richie's sexuality and therefore masculinity, is challenged by his crush. Richie runs out of the arcade and seeks refuge in a public park. Before him stands the symbol of masculinity: a giant ax swinging Paul Bunyan looming 20 feet high. In his flannel and denim, he's a stark contrast to Richie's blue and pink swirled button-up shirt. The American folk hero instantly becomes a threat with shredded teeth. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The second scene that reveals Richie is queer doesn't happen until Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotion that he has to be hauled out of the sewer by his friends. Adult Richie doesn't seem to fit into a 2019 narrative. Not everyone can come out in America, but Richie works as a comedian in Los Angeles; even if he chose to keep his sexuality close to the vest, the idea that gay marriage and giant pride parades could miss a white man working in Hollywood doesn't make sense. If it did, highlighting that fact would be vital to understanding the character. The murky nature of Richie's queer identity feels like a letdown.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The second chapter of *It* attempts to reveal the way dormant childhood trauma springs forth in adulthood. Anything buried will eventually rise to the surface. Except for Richie's sexuality, apparently. 
+
+The queer community is still struggling to be seen in cinema as more than tragic romances or gay best friends. The balance of the identity representation within the Losers Club offered an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community. But, in the film, Richie, a well-off white masculine gay man, never even says that he's gay out loud. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Not everything in *It* is coding though. Very early on in the story we are shown the brutal gay-bashing and violent murder of Adrian Mellon, a murder so heinous it wakes the titular It from its decades-long slumber. King's language is harsh, with characters using a vast array of homophobic slurs in those early pages, but those characters using them, even the police are not celebrated. The author is very clearly judging them. And it's this horrible violence so soon into the book that shows the darkness and hate lurking under the surface of Small Town America.
+
+It is the hate that's unnatural. The hate that is evil. Not being queer. When we get into the head of Don Hagerty, Adrian's boyfriend, and the author lets the reader know him, he's sympathetic, he's smart, and loving. He also sees the town for what it is. Sees its evil clearly and wants to leave it. Though the characters in the book don't empathize with him for having his boyfriend killed in front of him, the author does. He shows the gay character as human. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In the midst of Reagan America, the world's best-selling author was sending a very blunt message. Stephen King thought gay people should be able to date, and hold hands, and live their lives. Stephen King did not think gay people should be tortured or killed. He thought that those who would torture or kill gay people were in the service of evil. As were those who would tolerate it or look away. The victims of homophobia did not deserve to be victims. 
+
+Homophobia, Stephen King seemed to say, is not the natural way of the world. It is a monstrous thing. And those who practice it are a part of the monster. Like *The Babadook*, *Hellraiser*, *Jennifer's Body*, *The Craft*, and King's own *Carrie*, the queer is not the monster. Something else is. Gay men, lesbian women, bisexual people, transgender people... everyone under the queer umbrella. We are not the monsters. You are not the monster. But the society that demonizes you... that others you... That is the monster.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<credits {% include timecode %}>
+
+\[Scrolling on screen over unsettling piano and strings.]
+
+> Special Thanks to  
+Clive Barker and Stephen King
+
+> Thank You to my Patrons  
+[List of names]
+
+> Script Superviser  
+Nick Herrgott
+
+> Based upon the works of:  
+Harry Benshoff  
+Amanda Kohr  
+Darren Elliott  
+Alejandra Gonzalez  
+Colin Arason  
+Zoe Fortier  
+David Church  
+David Greven  
+Claire Sisco King  
+Amanda Howell  
+Alex London  
+
+</credits>
+</compare>
+
+

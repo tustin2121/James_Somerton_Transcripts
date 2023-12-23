@@ -53,6 +53,10 @@ body {
 	min-width: 70%;
 }
 
+.markdown-body p:last-child {
+	margin-bottom: 0.3em;
+}
+
 
 compare {
 	display: grid;
@@ -144,10 +148,7 @@ compare from, compare comment {
 	grid-column: f-start / f-end;
 }
 
-compare from > .header,
-compare comment > .header,
-compare clip > .header,
-compare credits > .header
+compare :is(from, comment, clip, credits) > .header
 {
 	display: flex;
 	flex-direction: row;
@@ -165,6 +166,14 @@ compare comment > .header::before { content: 'Comment:'; }
 compare credits.opening::before { content: 'Opening Credits:'; }
 compare credits.closing::before { content: 'Closing Credits:'; }
 compare credits[header]::before { content: attr(header); }
+
+compare .footer {
+	font-size: small;
+	color: var(--box-header-color);
+	border-top: var(--box-header-color) 1px solid;
+	padding: 0px 4px 2px;
+}
+
 
 compare credits blockquote {
 	color: unset !important;
@@ -335,6 +344,9 @@ james a[href^="https:"]::after {
 .video-card a[href^="https:"]::after {
 	content: none !important;
 }
+
+sup.footnote-ref a::before { content: '['; }
+sup.footnote-ref a::after { content: ']'; }
 
 .spoiler-notice {
 	background-color: var(--color-canvas-subtle);
