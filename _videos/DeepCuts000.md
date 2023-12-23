@@ -35,7 +35,7 @@ cite:
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
     zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
-    # dani_leever: { color: 11, short: "(Leever, )", full: "Leever, D. (). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article].", url: "" }
+    dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
     # michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
     # bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
     # jf_sargent: { color: 17, short: "(Sargent, )", full: "Sargent, J.F.", url: "" }
@@ -983,12 +983,20 @@ Once cast, and the actors were given the freedom to play their parts as masculin
 <compare>
 <james {% include timecode %}>
 
-Furthermore, when Ripley asserts authority in the team after Dallas is caught by the Alien, Ash, the male robot, feels threatened and attempts to dominate Ripley to regain his masculinity. He's a genderless robot, however he exemplifies constructed toxic masculinity, aggression, a fragile ego, and stubbornness. He attacks Ripley who exemplifies gender neutrality and sexual equality. Literally attacking her with gender conformity by shoving a porn magazine down her throat. 
+Furthermore, <mark>when Ripley asserts authority in the team after Dallas is caught by the Alien, Ash, the male robot, feels threatened and attempts to dominate Ripley to regain his masculinity. He's a genderless robot, however he exemplifies constructed toxic masculinity, aggression, a fragile ego, and stubbornness. He attacks Ripley who exemplifies gender neutrality and sexual equality</mark>. Literally attacking her with gender conformity by <mark>shoving a porn magazine</mark> <mark>down her throat</mark>. 
 
-Another male character Kane is orally raped by the facehugger. This leads to a forced impregnation, leading to death in what is essentially childbirth. Removing the assumed male privilege of avoiding the pain of childbirth and bringing it to a horrific conclusion. Not only is kane raped and killed, but gives birth to a vicious bloodthirsty phallus. 
+Another male character <mark>Kane is</mark> <mark>orally raped</mark> <mark>by the facehugger</mark>. This leads to a forced impregnation, leading to death in what is essentially childbirth. Removing the assumed male privilege of avoiding the pain of childbirth and bringing it to a horrific conclusion. Not only is kane raped and killed, but gives birth to a vicious bloodthirsty phallus. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.dani_leever at="¶ 6-8" %}>
+
+<mark>When Ripley asserts authority in the team after Dallas is caught by the alien, Ash, the ‘male’ robot, feels threatened and attempts to dominate over Ripley to regain his masculinity. He’s a genderless robot, however he exemplifies constructed toxic masculinity - aggression, a fragile ego and stubbornness. He attacks Ripley, who’s exemplifying gender neutrality and sexual equality</mark>, by beating her.
+
+He <mark>shoves a porn magazine</mark> rolled up into a phallic shape <mark>down her throat</mark> - symbolically raping her. A queer reading could suggest this is ‘corrective’ assault to attempt to quash the queerness and sexuality of women. The pornographic nature of the magazine suggests he is trying to make her succumb to her ‘truth’ as a woman - a sexual object. The patriarchy is battling queerness here, before Ash is defeated.
+
+<mark>Kane is</mark> attacked <mark num=6>by the facehugger</mark>, and it <mark num=5>orally rapes</mark> him and impregnates him through an act of sexual domination. Later, Kane is again penetrated when the alien bursts out  through his chest in the infamously horrifying birth scene. Kane is the powerless male - destroyed and emasculated by giving birth or being ‘penetrated as opposed to penetrating’ - highlighting the panic society reacts to gender diversity and challenging stereotypes and norms with.
+
+</from>
 </compare>
 
 <compare>
