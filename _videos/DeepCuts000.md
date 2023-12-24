@@ -1390,21 +1390,73 @@ But just like how PrEP has not completely disposed of HIV, the monster in *It Fo
 <compare>
 <james {% include timecode %} id="para15" mid-text="Paragraph-15">
 
-Not all horror movies deal with the supernatural. Some are more than happy to terrify you with what you know best. Your friends, your family, your home, turning something mundane into something truly terrifying, bringing horror to a place that it never
-should have been. 
+Not all horror movies deal with the supernatural. Some are more than happy to terrify you with what you know best. Your friends, your family, your home, turning something mundane into something truly terrifying, bringing horror to a place that it never should have been. 
 
 That's something that horror expert Wes Craven did all too well. By making the violent killer of a film someone you would have usually sympathized with in *The Last House on the Left*. Perverting the relative safety of dreams with *A Nightmare on Elm Street*. Blurring the lines between horror and real life with *His New Nightmare*. And then bringing horror to the safest of all places in Clinton America, the suburbs, with *Scream*.
 
+Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
+
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p." %}>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %} id="para16" mid-text="Paragraph-16">
 
-Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
+<mark>In terms as resonant as they were phobic, *Scream* was a cry of despair over an apparent immorality in the Millennial</mark> or late-Gen X youth, <mark>especially in the male population. The homoeroticism of the Billy-Stu relationship, which the film develops into an all-but-explicit queer love affair, shows both the unpredictable, anarchic, bewildering, behavior of the generation, and the shifts in male gender roles synonymous with it.</mark>
 
-In terms as resonant as they were phobic, *Scream* was a cry of despair over an apparent immorality in the Millennial or late-Gen X youth, especially in the male population. The homoeroticism of the Billy-Stu relationship, which the film develops into an all-but-explicit queer love affair, shows both the unpredictable, anarchic, bewildering, behavior of the generation, and the shifts in male gender roles synonymous with it.
+</james>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.86-87" %}>
+
+[...] a statement that links him to the killers and to their murder of the babysitter victim played by Drew Barrymore at the start of the film, a character who was similarly dispatched.
+
+<mark>In terms as resonant as they were phobic, *Scream* was a cry of despair over an apparent amorality in millennial</mark> youth, <mark>especially its male population. The homoeroticism of the Billy-Stu relation-ship, which the film develops into an all-but-explicit queer love affair, evinces both the unpredictable, anarchic, bewildering behavior of this "entire generation" and the shifts in male gender roles synonymous with it.</mark> *Scream* was first released in December 1996; in a hideous fulfillment of the film's paranoid fantasies, the Columbine High School massacre in Colorado occurred on Tuesday, April 20, 1999. In an eerie echo of *Scream*'s two teen-male killers, the teenage Columbine killers were two high-school seniors, [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>*Scream* redeploys the long-standing American tradition of a homoerotic bond between a pair of young male killers. The foundation of the tradition is the infamous Leopold and Loeb case. These wealthy young men were University of Chicago students who murdered the fourteen-year-old Bobby Franks in 1924</mark>. <mark>Both were sentenced to life in prison, with one of them being murdered by another inmate</mark> shortly after sentencing.
+
+<mark>This case generated several fictional treatments</mark> including <mark>Hitchcock's 1948 film *Rope*</mark>, which I covered in ["Monsters in the Closet"](4zPCM14-SCQ.md). <mark>These killers</mark> <mark>considered themselves to be Nietzschean supermen, using their superior intellect as justification
+for their thrill-killing.</mark> 
+
+Billy and Stu, however, <mark>have no such lofty philosophical ambitions.</mark> <mark>Their motivations are family- and romance-driven</mark>. <mark>Billy claims to be avenging himself for Sydney's mother's crime</mark> of <mark>destroying his family</mark>. <mark>And Stu seemingly is just doing it for Billy.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.87-88" %}>
+<h6 style="font-variant:small-caps">Lovers And Killers</h6>
+
+<mark>*Scream* redeploys the long-standing American tradition of a homoerotic bond between a pair of young male killers. The foundation of the tradition is the infamous Leopold and Loeb case. These wealthy young men were University of Chicago students who murdered the fourteen-year-old Robert "Bobby" Franks in 1924</mark> in an attempt to perpetrate the "perfect crime." (<mark>Both were sentenced to life imprisonment; one of the men was shortly thereafter murdered by another inmate.</mark>) <mark>This case has generated several fictional treatments</mark>, ranging from <mark>Hitchcock's significant 1948 film *Rope*</mark>, based on the 1929 British stage play by Patrick Hamilton (which was retitled *Rope's End* for its New York premiere) to the 1959 novel *Compulsion*, directed by Richard Fleischer (based on the 1956 novel by Meyer Levin), to the 1992 *Swoon*, an independent film written and directed by Tom Kalin that has come to represent the New Queer Cinema of the era. Adding to the mystique of this paradigm is the real-life case that was famously turned into the 1966 "nonfiction novel" *In Cold Blood* by Truman Capote: the 1959 killing of the Clutter family in Holcomb, Kansas, by two young men. (Richard Brooks made a 1967 film of Capote's book.) Capote's tormented, erotically charged bond with one of the killers has been widely reported.
+
+<mark>The killers</mark> in Hamilton's play and Hitchcock's film, as did the real-life Leopold and Loeb, <mark>consider themselves to be Nietzschean supermen, using their "superior" intellect as justification for their thrill-killing.</mark> The killers in Scream, in pointed contrast, <mark>have no lofty philosophical ambitions.</mark> Indeed, <mark>their motivations are family- and romance-driven</mark> and nebulously opaque. <mark>Billy claims to be avenging himself on Sidney for her mother's crimes</mark> her "whoring" ways that <mark>destroyed his family</mark>. His frequent denunciations of Sidney as "Bitch!" intensify the note of intense misogyny in his rage. <mark>Stu, it would appear, is simply aiding and abetting Billy.</mark> If Stu's motives are left a blank, they are decisively marked as a blank. Sidney explicitly calls him on [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>*Scream* also offers contrasting portraits of masculinity, but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to queerdom is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch.</mark> The killer <mark>then jumps out of her closet instead.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.90" %}>
+
+[...] Normative and queer-pathological masculinities cannot be easily distinguished in Hitchcock's challenging, unquiet film.
+
+<mark>*Scream* also offers contrasting portraits of masculinity but only in order to intensify its vision of a gathering cultural depravity. Perhaps the first touch that links the killers to homosexuality is Ghost-face's first appearance to Sidney. He tries to trick her into believing that he is on her front porch.</mark> "Well. I call your bluff," the intrepid, neo-Final Girl Sidney responds, walking out onto the porch. Ghost-face <mark>then jumps out of her closet instead.</mark> In a scene in which Sidney, Billy, Stu, Tatum, and Randy discuss the possible identity of the killer [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+There's also the image of Sydney's open closet door protecting her from harm. I might be reaching here, but it's not hard to read that as "it's better to have your closet door open than closed". 
 
 </james>
 <from></from>
@@ -1413,42 +1465,35 @@ In terms as resonant as they were phobic, *Scream* was a cry of despair over an 
 <compare>
 <james {% include timecode %}>
 
-*Scream* redeploys the long-standing American tradition of a homoerotic bond between a pair of young male killers. The foundation of the tradition is the infamous Leopold and Loeb case. These wealthy young men were University of Chicago students who murdered the fourteen-year-old Bobby Franks in 1924. Both were sentenced to life in prison, with one of them being murdered by another inmate shortly after sentencing.
+<mark>Skeet Ulrich's performance as Billy and especially Matthew Lillard's as Stu deepened the queer resonance</mark> <mark>that stand forever on a knife's edge of obviousness</mark>. <mark>Ulrich's</mark> bloody <mark>intensity and perpetual white t-shirt clearly evoke James Dean in *Rebel Without a Cause*</mark>. The intense <mark>look in his eyes, either sad or cunning, keeps the audience as off-balance to his identity as it does Sydney. But when he does reveal his murderous identity, the facade dissolves entirely and he</mark> passes through intensity into <mark>truly frightening</mark>. The <mark>dark underbelly of his pristine all-American geniality.</mark> 
 
-This case generated several fictional treatments including Hitchcock's 1948 film *Rope*, which I covered in ["Monsters in the Closet"](4zPCM14-SCQ.md). These killers considered themselves to be Nietzschean supermen, using their superior intellect as justification
-for their thrill-killing. 
+<mark>Lillard's</mark> Stu, meanwhile, <mark>is notable for his gender bending potential. He uses his basketball player height, rubbery face</mark>, <mark>and excessive emotionalism to create a memorably frantic character</mark> that would <mark>shock no one if he suddenly appeared in full drag.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.90-91" %}>
+
+[...] Interestingly, the epithet that Billy uses against Stu is "fuckrag," which sounds like a phrase that has tumbled out of the arsenal of misogynistic insults.
+
+<mark>Skeet Ulrich's performance as Billy and, especially, Matthew Lillard's as Stu deepen the queer resonances</mark> of the characters in this movie <mark>that poises forever on the knife edge of explication</mark>. <mark>Ulrich's</mark> teen anomie, brooding <mark>intensity, and perpetual white T-shirt clearly evoke James Dean in *Rebel Without a Cause*</mark> (but without his trademark unzipped jacket). The intent <mark>look in his eyes, either sad or cunning, keeps the audience off-balance as to his identity, as it does Sidney. But when he does reveal his murderous identity, the winsomeness dissolves entirely, and he</mark> becomes <mark>truly frightening</mark>, barking "Bitch!" at Sidney. Overall, the performance as delivered and directed evokes Anthony Perkins's sensitive yet secretly sinister murderer in Psycho but with an effort made to show the <mark>dark side of his all-American geniality.</mark> <mark>Lillard's</mark> attention-getting performance <mark>is notable for its gender-bending potentialities. He uses his basket-ball-player height, rubbery face</mark> (sometimes it seems on the verge of melting), <mark>and excessive emotionalism to create a memorably frenetic character</mark>. Eschewing standard male stoicism, his ostensibly straight Stu would <mark>surprise no one by coming out in full drag regalia.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Billy and Stu, however, have no such lofty philosophical ambitions. Their motivations are family- and romance-driven. Billy claims to be avenging himself for Sydney's mother's crime of destroying his family. And Stu seemingly is just doing it for Billy. 
-
-*Scream* also offers contrasting portraits of masculinity ,but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to queerdom is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch. The killer then jumps out of her closet instead. 
-
-There's also the image of Sydney's open closet door protecting her from harm. I might be reaching here, but it's not hard to read that as "it's better to have your closet door open than closed". Skeet Ulrich's performance as Billy and especially Matthew Lillard's as Stu deepened the queer resonance that stand forever on a knife's edge of obviousness. 
+<mark>In one scene set in the video store where Randy</mark> of Movie Geek <mark>works, Randy theorizes about Billy's possible identity as the killer</mark>. <mark>In perhaps the most homoerotic moment in the film, Billy suddenly swings upon Randy challenging him</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
+
+<mark>In one scene, set in the video store where Randy</mark> <mark>works, Randy theorizes about Billy's possible identity as the killer</mark>. (This happens after Randy has gone into hysterics about the ways in which victims in horror movies die because they remain stubbornly ignorant of genre conventions. Randy astutely presages the fanboys who were to emerge in the new millennium with their rigid attention to the rules, conventions, and logic, or lack thereof, behind genre productions.) <mark>In perhaps the most daringly homoerotic moment in the film, Billy suddenly swings upon Randy, challenging him</mark>. [...] 
+
+</from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
-
-Ulrich's bloody intensity and perpetual white t-shirt clearly evoke James Dean in *Rebel Without a Cause*. The intense look in his eyes, either sad or cunning, keeps the audience as off-balance to his identity as it does Sydney. But when he does reveal his murderous identity, the facade dissolves entirely and he passes through intensity into truly frightening. The dark underbelly of his pristine all-American geniality. 
-
-Lillard's Stu, meanwhile, is notable for his gender bending potential. He uses his basketball player height, rubbery face, and excessive emotionalism to create a memorably frantic character that would shock no one if he suddenly appeared in full drag. In one scene set in the video
-store where Randy of Movie Geek works, Randy theorizes about Billy's possible identity as the killer. In perhaps the most homoerotic moment in the film, Billy suddenly swings upon Randy challenging him. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<clip {% include citation for=page.cite.plagiarized.scream %}>
+<clip {% include citation for=page.cite.clips.scream %}>
 
 Billy: "How do we know you're not the killer? Huh? *Huh?*" 
 
@@ -1457,31 +1502,83 @@ Randy: "Hi Billy.
 Billy: "Maybe your movie-freak-mind lost it's reality button, you ever think of that?!"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
+
+[...] "Maybe you're the killer, Randy." Billy taunts him. "Maybe your movie-freak mind got the better of you." [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-As Billy gets in Randy's face, Stu comes up from behind him in a shockingly intimate almost threesome. What has been called femme-phobia intersects here with homophobia, as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
-the perfect murder plot. Craven makes the interesting choice to stage the big revelation scene at the climax of the film... in the kitchen. The Mama's Boy Killers reveal their nefarious identities within the domestic space most closely associated with the mother.
-
-Earlier in the film, Billy and Sydney have sex after she announces that, if life is one big movie genre, her pick is porn. Ghostface suddenly appears right after they've finished and seemingly stabs Billy to death. One can assume that he's been watching them do the deed the entire time. Of course, we soon learn that this is only a ruse to distract Sydney from Billy's real identity as one of the killers. Billy staggers back to life in his seemingly blood-drenched t-shirt. Getting possession of the gun Sydney had been wielding, Billy shoots Randy and then dabs a finger in his blood and brings it up to his lips. 
-
-There's also the Negative Oedipus Complex. Homosexuality is the chief aspect of it. In a footnote added in 1910 to his 1905 three essays on the theory of sexuality, Sigmund Freud conjectures homosexual identity emerges from an identification with the mother. And Billy is nothing if not obsessed with his mother. While many have read Freud's theory as homophobic, it would likely be fairer to say that it's been put to homophobic use in American psychiatry, which historically used it to pathologize homosexuality as an arrested development. 
+<mark>As Billy gets in Randy's face, Stu comes up from behind him</mark> in a shockingly intimate almost threesome. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
+
+<mark>As Billy gets in Randy's face, Stu comes up from behind him</mark>, holding him almost against Billy's body as Stu even traces a line with his finger across Randy's ear. Homoeroticism, in typical fashion, can only be [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-What *Scream* makes vividly clear is the cultural reception of narcissistic mother-identified desire. The killers and *Scream* are monstrous not only because they kill, but because their desire proceeds from identification with the mother. What complicates or is left deliberately unresolved by the filmmakers is the specific nature of the boys' relationship with each other.
-
-Stu's desire is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic. Stu has a girlfriend, dispatched via garage door, but his chief affection is directed toward Billy, to whom he's quite clearly devoted. What is most significant about Stu's relationship with Billy are the ways in which Billy's desire becomes Stu's desires, becoming an easy analog for the feeling of many gay teenage boys who will do *anything*, play any sport, see any movie, take any drug, in a desperate attempt to connect with their male crushes. 
+<mark>What has been called femme-phobia intersects here with homophobia, as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft the perfect murder plot.</mark> <mark>Craven makes the interesting choice to stage the big revelation scene at the climax</mark> of the film... <mark>in the kitchen</mark>. <mark>The Mama's Boy Killers reveal their nefarious identities within the domestic space most closely associated with the mother</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.92" %}>
+
+[...] confused understanding of their own masculinity. Indeed, their potential effeminacy may be more threatening to the general audience than their explicit hatred of women. <mark>What has been called "effeminophobia" intersects here with homophobia, as the killers' increasingly inept performance of gender mirrors their ultimately inept attempt to craft the perfect murder plot.</mark>
+
+<mark>Craven makes the interesting choice to stage the big revelation scene at the climax</mark> <mark>in the kitchen</mark> -- a particularly large, gleaming kitchen. Parodistically, <mark>the mama's boy killers reveal their nefarious identities within the domestic space most closely associated with the mother</mark> and her private, familial, nurturing sphere. Clearly, Billy longs for return to the mother, just as Sidney does. Indeed, he explicitly [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Earlier in the film, <mark>Billy and Sydney have sex after she announces that, if life is one big movie</mark> genre, her <mark>pick is porn. Ghostface suddenly appears right after they've finished and seemingly stabs Billy to death.</mark> One can assume that he's been watching them do the deed the entire time. Of course, we soon learn that <mark>this is only a ruse to distract Sydney from Billy's real identity as one of the killers. Billy staggers</mark> <mark>back to life in his seemingly blood-drenched t-shirt. Getting possession of the gun Sydney</mark> had been wielding, <mark>Billy shoots Randy</mark> and then <mark>dabs a finger in his blood and brings it up to his lips</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.92" %}>
+
+[...] confusion over mother's roles and unresolved Oedipal conflict. Freud is not dead.
+
+<h6 style="font-variant:small-caps">A Negative Oedipus Complex</h6>
+
+<mark>Billy and Sidney have sex after she announces that, if life is one big movie</mark>, the genre she will <mark>pick is porn. Ghostface suddenly appears right after they have had sex and seemingly stabs Billy to death.</mark> As we learn, <mark>this is only a ruse to distract Sidney from Billy's real identity as one of the killers. Billy staggers</mark>, it appears, <mark>back to life in his seemingly blood-drenched T-shirt. Gaining possession of the gun Sidney</mark> now wields, <mark>Billy shoots Randy</mark>, cites Norman Bates's line about going mad from Psycho, <mark>dabs a finger in his "blood," and brings this sticky finger to his lips.</mark> "Corn syrup." he announces as he tastes his fake blood, "the same stuff they used for pig's blood in *Carrie*." Through his own gesture, the queer killer associates himself with a regressive orality as well as a metaphorical female world of suffering, blood, and victimization.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+There's also the <mark>Negative Oedipus Complex</mark>. <mark>Homosexuality is the chief aspect of it.</mark> <mark>In a footnote added in 1910 to his 1905 *three essays on the theory of sexuality*, Sigmund Freud conjectures homosexual identity emerges from an identification with the mother.</mark> And Billy is nothing if not obsessed with his mother. <mark>While many have read Freud's theory as homophobic,</mark> it would likely be <mark>fairer to say that it's been put to homophobic use in American psychiatry, which historically used it to pathologize homosexuality as an arrested development</mark>. 
+
+What *<mark>Scream* makes vividly clear is the cultural reception of narcissistic mother-identified desire. The killers and *Scream* are monstrous not only because they kill, but because their desire proceeds from identification with</mark> <mark>the mother. What complicates or is left deliberately unresolved by the filmmakers is the specific nature of the boys' relationship with each other.</mark>
+
+<mark>Stu's desire is left especially unclear but in some ways it is his desire that more clearly has a basis in the homoerotic.</mark> Stu <mark>has a girlfriend, dispatched via garage door</mark>, but his <mark>chief affection is directed toward Billy, to whom he's quite clearly devoted.</mark> <mark>What is most significant about Stu's relationship with Billy are the ways in which Billy's desire becomes Stu's desires</mark>, becoming an easy analog for the feeling of many gay teenage boys who will do *anything*, play any sport, see any movie, take any drug, in a desperate attempt to connect with their male crushes. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.david_greven at="p.92-93" %}>
+
+[...] desire for the mother into exogamous desire for a woman who resembles her but is outside of the family.
+
+But what of the so-called *<mark>negative Oedipus complex</mark>*, in which things go awry? <mark>Homosexuality is the chief among these.</mark> <mark>In a footnote added in 1910 to his 1905 *Three Essays on the Theory of Sexuality*, Freud conjectures that homosexual identity emerges from an identification with the mother.</mark> After the phase in their childhood in which they intensely identify with the mother rather than the father, homosexuals "identify themselves with a woman and take themselves as their sexual object. That is to say, they proceed from a narcissistic basis, and look for a young man who resembles themselves and whom they may love as their mother loved them."
+
+For our purposes, what is especially interesting is the central ity of woman to Freud's theory of male homosexual narcissism. Her role and her love and, most importantly, her desire become the models for the homosexual male's own version of all of these, as we have noted.
+
+<mark>While many have read Freud's theory as homophobic,</mark> in my view it is <mark>fairer to say that it has been put to homophobic uses in American psychiatry, which historically used it to pathologize homosexuality as arrested development</mark> rather than suggesting that homophobic in and of itself. Freud is describing the psychological experience of a male who identifies with mother rather than father, and while it would be naive to say such an identification is true for all homosexual men, it certainly is true for some.
+
+What films like <mark>*Scream* make vividly clear is the cultural reception of narcissistic, mother-identified desire. The killers in *Scream* are monstrous not only because they kill but because their desire proceeds from identification with</mark> and, more urgently still, longing for <mark>the mother. What complicates, or is left quite deliberately unresolved by the filmmakers, is the specific nature of the boys' relationship to each other.</mark> <mark>Stu's desire is left especially unclear. But in some ways, it is his desire that more clearly has a basis in the homoerotic.</mark> Though he <mark>has a girlfriend (dispatched via garage door</mark> as the party. goers watch Halloween), Stu's <mark>chief affectional energies are directed toward Billy, to whom he is devoted.</mark> <mark>What is chiefly significant about Stu's relationship to Billy are the ways in which Billy's desire becomes Stu's desire</mark>.
+
+Narcissism seems very much at work, and in homophobic terms, in the depiction of Billy as mother-identified. As are so many horror-movie monster-males [...]
+
+</from>
 </compare>
 
 <compare>
@@ -1491,7 +1588,7 @@ A queer reading becomes more obvious at, least to me, when the pair of killers d
 
 *Scream* with its queer coding, delicious dialogue, and willingness to reach into camp territory when necessary, has become a classic slasher among the queer community. While we watch it as a smart send up of the genre, which was well and dead in 1996, many people of the more hetero persuasion see the film a bit differently. Ut's the horror of danger coming to the suburbs, a place of safety being perverted, where nice white families fled to in order to escape the poor, black, and queer horrors that filled the city streets. 
 
-And in *Scream*, the queer horror penetrated that safety. It also tore apart the idea of the ideal american family. Billy's family was torn asunder when Sydney's mother had an affair with his father, leading to a divorce and his mother leaving town. And so he took Sydney's mother away from her too. The fragility of the straight nuclear family coming to a bloody end just as the new millennium dawned, showing us all that families, though a nice idea, can lead to unexpected horrors.
+And in *Scream*, the queer horror penetrated that safety. It also tore apart the idea of the ideal American family. Billy's family was torn asunder when Sydney's mother had an affair with his father, leading to a divorce and his mother leaving town. And so he took Sydney's mother away from her too. The fragility of the straight nuclear family coming to a bloody end just as the new millennium dawned, showing us all that families, though a nice idea, can lead to unexpected horrors.
 {% assign timecode = "1:02:18" %}
 
 </james>
