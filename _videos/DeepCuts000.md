@@ -2,6 +2,7 @@
 # cspell:words: Alyx Wiccans Kohr Shulman Hellraiser Arason Hellbound Fortier Phenixx Leever Michaela Flipscreen Greven sisco Disturbia Dani Joelle Bram Eastwick Fairuza Krysta Benshoff Cronenberg Mirzoeff Routledge Kirsty Voorhees Krueger Lesnicki Seyfried O'Bannon O’Bannon Sigourney Selway Goldstein Ulrich Lillard
 # cspell:words: erectus witchaphobia magick othered colour BDSM interdimensional cheerleads cheerleading intercutting Xenomorph Xenomorphs behaviours facehugger facehuggers retcon Arcturian poontang Arcturia decontextualization Weyland-Yutani destigmatizing Truvada condomless Ghostface pathologize Babadook Pennywise
 # cspell:words: Maika Lili Sepe Yara Luccardi Keir Zovatto multiplicitous nightmarishly homonormative Oskar Tozier Kasprak Musgetty Neibolt Georgie Hagerty minoritarian nonnormative Kosofsky Sedgwick
+# cspell:words: subjectivities precarity
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
 status: In Progress
@@ -43,9 +44,9 @@ cite:
     bart_bishop: { color: 7, short: "(Bishop, 2019)", full: "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/" }
     jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
     david_church: { color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows" }
-    # david_greven: { color: 16, short: "(Greven, )", full: "Greven, D. () <em>Fears of a Millennial Masculinity: Scream's Queer Killers</em> [Article].", url: "" }
-    # claire_sisco_king: { color: 15, short: "(King, )", full: "King, C.S.", url: "" }
-    # amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
+    david_greven: { color: 16, short: "(Greven, 2014)", full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: "https://archive.org/details/readingbromanceh0000unse" }
+    claire_sisco_king: { color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_" }
+    amanda_howell: { color: 14, short: "(Howell, 2017)", full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK" }
     # jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
     # rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
     # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
@@ -1397,9 +1398,7 @@ That's something that horror expert Wes Craven did all too well. By making the v
 Written by out-gay screenwriter Kevin Williamson, *Scream* tells the tale of Sydney Prescott, who a year after her mother's murder is having those old wombs figuratively and literally reopened. But the queerness of the film has nothing to do with Sydney or her mother, but with the killers, Billy and Stu, as well as the uncomfortable social changes toward a more LGBT-accepting society in the late 1990s.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.david_greven at="p." %}>
-
-</from>
+<from></from>
 </compare>
 
 <compare>
@@ -1600,57 +1599,100 @@ And in *Scream*, the queer horror penetrated that safety. It also tore apart the
 <compare>
 <james {% include timecode %} id="para17" mid-text="Paragraph-17">
 
-In 2017, a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from Australia with sharp teeth, theatrical makeup, and a top hat. This cultural phenomenon began with the 2016 Tumblr thread initiated by online user e-instagram, who declared Mr Babadook, the titular monster from Jennifer Kent's 2014 horror film, to be fearlessly and proudly gay. 
+<mark>In 2017, a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from Australia with sharp teeth, theatrical makeup, and a top hat. This cultural phenomenon began with the 2016 Tumblr thread initiated by online user e-instagram, who declared Mr Babadook, the titular monster from Jennifer Kent's 2014 horror film, to be fearlessly and proudly gay.</mark> 
 
-In his initial post, instagram wonders:
+<mark>In his initial post, instagram wonders</mark>:
 
 \[Quote shown on screen, wipe fade]:
-> Whenever someone says that the Babadook isn't openly gay it's like...  
+> <mark></mark>Whenever someone says that the Babadook isn't openly gay it's like...  
 > Did you even watch the movie?
 
-Sparking what participants called a "baba-discourse", scores of others weighed in on the tumblr thread, with one user proclaiming <q>The B in LGBT stands for Babadook.</q> 
+<mark>Sparking what participants called a "baba-discourse", scores of others weighed in on the tumblr thread, with one user proclaiming <q>The B in LGBT stands for Babadook.</q></mark> 
+
+<mark>The next several months saw the proliferation of queer Babadook memes, and multiple representations of the Babadook at 2017 pride festivals across the United States.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p166" %}>
+
+<mark>In 2017, a perhaps unlikely queer icon emerged in the form of a black and white cartoon character from Australia with sharp teeth, theatrical makeup, and a top hat. This cultural phenomenon began with a 2016 Tumblr thread initiated by online user ianstagram who declared Mister Babadook, the eponymous monster from Jennifer Kent's 2014 horror film, to be “fearlessly and proudly” gay.</mark> <mark>In this initial post, ianstagram wonders</mark>, <mark>“Whenever someone says the Babadook isn't openly gay it's like?? Did you even watch the movie???”</mark> <mark>Sparking what participants called a “Babadiscourse,” scores of others weighed in on the Tumblr thread, with one user proclaiming, “The B in LGBT stands for Babadook”</mark> and another posting a fake screenshot claiming that Netflix had categorized *The Babadook* as an LGBT movie. <mark>The next several months saw the proliferation of queer Babadook memes and multiple representations of Babadook at 2017 Pride festivals across the United States.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The next several months saw the proliferation of queer Babadook memes, and multiple representations of the Babadook at 2017 pride festivals across the United States. The Babadook has emerged as a queer icon because he can be read as having characteristics associated with cultural gayness. For example, he wears dramatic costuming that recalls the theatricality of drag. And he struggles against a rather literally closeted existence, in which many disavow or reject him/
+The <mark>Babadook has emerged as a queer icon because he can be read as having characteristics associated with cultural gayness. For example, he wears dramatic</mark> <mark>costuming that recalls the theatricality of drag. And he struggles against a rather literally closeted existence, in which many disavow or reject him</mark>.
 
-While references to these characteristics abound in the typically humorous and ironic examples of the character's queerness, this monster, and the film from which he emerges, call for critical attention to normative constructions of the family. The hegemony of reproductive heterosexuality and the implications of both for the lives of women. 
+<mark>While references to these characteristics abound in the typically humorous and ironic examples of the character's queerness</mark>, <mark>this monster, and the film from which he emerges, call for critical attention to normative constructions of the family. The hegemony of reproductive heterosexuality and the implications of both for the lives of women</mark>. 
 
-That is: the Babadook invites queer appropriation *because* he represents the horrors of heteronormative family life. And gender politics. While socially conservative rhetoric frequently casts the family as a site of innocence imperiled by outside forces, *The Babadook* constructs the family as a site that is too often constituted by multiple forms of systemic physical and emotional violence. 
+<mark>That is: the Babadook invites queer appropriation *because* he represents</mark> the <mark>horrors</mark> of <mark>heteronormative family life. And gender politics</mark>. 
+
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p166" %}>
+
+<mark>Babadook has emerged as a queer icon because he can be read as having characteristics associated with cultural gayness. For example, he wears dramatic</mark>--even scene-stealing--<mark>costuming that recalls the theatricality of drag, and he struggles against a (rather literally) closeted existence in which many disavow or reject him</mark>. <mark>While references to these characteristics abound in the typically humorous and ironic figurations of the character's queerness</mark>, this essay takes Babadook's queer iconicity quite seriously, arguing that <mark>this character and the film from which he emerges call for critical attention to normative constructions of the family, the hegemony of reproductive heterosexuality, and the implications of both for the lives of wome</mark>n.<sup>1</sup> <mark>That is, Babadook invites queer appropriation because he voices</mark> and makes visible <mark>horrors</mark> perpetrated in the name of <mark>heteronormative family life and gender politics</mark>.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Narratively, *The Babadook* (written and directed by Jennifer Kent) is the story of Amelia, a single mother, and her only son, Samuel. On the day her son would be born, Amelia and her husband Oskar have a car accident on the way to the hospital, and Oskar dies. Having given up her career as a writer to earn a living as a nursing home attendant, Amelia has been Samuel's only caregiver, an isolating experience exasperated by both other people's uneasiness with her grief, and by their ableist discomfort with Samuel's differences.
-
-Amelia's ability to care for her son becomes severely constrained when she decides she must remove him from his school, which seems unwilling or unable to accommodate his needs. At the same time, Samuel becomes fixated on an invisible monster that he warns lives in their house. When a mysterious and violent children's book appears, Amelia begins to fear that the monster is not a figment of Samuel's imagination. And soon she and her home are tormented by a boogeyman known as the Babadook, who lives under her child's bed and in his closet. 
-
-As anxiety sleeplessness and trauma take a toll on Amelia, she first directs her anger at Samuel becoming violent, before eventually confronting the Babadook. She realizes she can never fully rid their lives of the monster that now resides in their home. She determines to make relative peace with it, locking it in their basement, but keeping it well fed and alive. 
+<mark>While socially conservative rhetoric</mark> <mark>frequently casts the family as a site of innocence imperiled by outside forces</mark>, <mark>*The Babadook* constructs the family as a site that is too often</mark> <mark>constituted by multiple forms of</mark> systemic, physical, and emotional violence. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p167" %}>
+
+<mark>While socially conservative rhetoric</mark>, which has intensified coextensively with Donald Trump's rise to power, <mark>frequently casts the family as a site of innocence imperiled by outside forces</mark>, including members of LGBTQ communities, <mark>*The Babadook* constructs the family as a site that is too often</mark> constitutive of and <mark>constituted by myriad forms of</mark> structural, symbolic, and material violence. Likewise, the film considers how intersections among cultural constructions of sexuality, gender, dis/ability, and class place certain bodies and subjectivities in positions of precarity. Accordingly, this essay argues that *The Babadook* and its titular monster disrupt tropes associated with the family, and white motherhood in particular, to reveal their emplacement in discourses structured by heteronormative, sexist, ableist, and classist logics. At the same time, however, *The Babadook*'s exclusive focus on the experiences of white characters without consideration of their racial privilege risks undermining its intersectionality. This analysis will proceed with a discussion of intersectional feminism and its relationship to theories of precarity, a contextualization of Kent's film within feminist analyses of the genre of horror and public discourse about the film's meaning, and a close reading of the film itself.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-As illustrated by a line in the Babadook's book, the more you deny the stronger I get. The monster operates as a signifier of Amelia's grief over Oskar's death. The more she represses this trauma, the more power it has to return and disrupt her life. 
+<mark>Narratively, *The Babadook*</mark> (written and directed by Jennifer Kent) <mark>is the story of Amelia, a single mother, and her only son, Samuel.</mark> <mark>On the day her son would be born, Amelia and her husband Oskar have a car accident on the way to the hospital, and Oskar dies.</mark> <mark>Having given up her career as a writer to earn a living as a nursing home attendant, Amelia has been Samuel's only caregiver, an isolating experience exasperated by both other people's uneasiness with her grief, and by their ableist discomfort with Samuel's differences.</mark>
 
-This allegory is not, however, the only one at work within *The Babadook*. Amelia appears as a 21st century sister of Rosemary from *Rosemary's Baby*. As the Babadook crosses the horror formula of "other as villain" with the female gothic interest in gendered experience and victimhood, transforming the beleaguered female protagonist herself into a monster, backing up the idea that the greatest monsters do not come from without, but from within. That perhaps the monsters in heteronormative suburbia did not come from the outside, from cities, but that they've been there all along.
+</james>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p170" %}>
+<h3>Intersecting Babadiscourses</h3>
+
+Kent's *The Babadook* received limited release in Australia, the country in which it was produced, in 201. It fared well with reviewers but not audiences. Traveling through the international film festival circuit, including Sundance, the film received critical accolades, bringing it considerable attention in the U.S. and in Europe, and also leading to its revival in Australia. <mark>Narratively, *The Babadook*</mark> <mark>is the story of Amelia, a white single mother, and her only son Samuel,</mark> who has both emotional and behavioral struggles. <mark>On the day her son would be born, Amelia and her husband Oskar have a car accident on the way to the hospital, and Oskar dies.</mark> The film opens with Amelia literally dreaming about this nightmare scenario almost seven years later, just days before Samuel's birthday and the anniversary of Oskar's death. <mark>Having given up her career as a writer to earn wages as a nursing home attendant, Amelia has been Samuel's only caregiver--an isolating experience exacerbated by both other people's uneasiness with her grief and by their ableist discomfort with Samuel's differences.</mark>
+
+</from>
+</compare>
+
+<mark>Amelia's ability to care for her son becomes severely constrained when she decides she must remove him from his school, which seems unwilling or unable to accommodate his needs. At the same time, Samuel becomes fixated on an invisible monster that he warns lives in their house</mark>. <mark>When a mysterious and violent children's book appears, Amelia begins to fear that the monster is not a figment of Samuel's imagination. And soon she and her home are tormented by a boogeyman known as the Babadook, who lives under her child's bed and in his closet.</mark> 
+
+<mark>As anxiety sleeplessness and trauma take a toll on Amelia, she first directs her anger at Samuel</mark> <mark>becoming violent, before eventually confronting the Babadook.</mark> She <mark>realizes she can never fully rid their lives of the monster that now resides in their home. She determines to make relative peace with</mark> it, <mark>locking it in their basement, but keeping it well fed and alive</mark>. 
+
+<mark>As illustrated by a line in the Babadook's book, the more you deny the stronger I get. The monster operates as a signifier of Amelia's grief over Oskar's death. The more she represses this trauma, the more power it has to return and disrupt her life. This allegory is not, however, the only one at work within *The Babadook*.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p170" %}>
+
+<mark>Amelia's ability to care for her son becomes severely constrained when she decides she must remove him from his school, which seems unwilling or unable to accommodate Samuel's needs. At the same time, Samuel becomes fixated on an invisible monster that he warns lives in their house</mark> and aims to do harm to his mother. <mark>When a mysterious and violent children's book appears, Amelia begins to fear that the monster is not a figment of Samuel's imagination, and soon she and her home are tormented by a bogeyman known as Babadook, who lives under her child's bed and in his closet.</mark> <mark>As anxiety, sleeplessness, and trauma take a toll on Amelia, she first directs her anger at Samuel</mark>, toward whom she <mark>becomes violent, before eventually confronting Babadook.</mark> <mark>Realizing she can never fully rid their lives of the monster that now resides in their home, she determines to make relative peace with</mark> Babadook, <mark>locking him in their basement but keeping him well fed and alive</mark>. <mark>As illustrated by a line in Babadook's book--“The more you deny, the stronger I get”--the monster certainly operates as a signifier of Amelia's grief over Oskar's death; the more she represses this trauma, the more power it has to return and disrupt her life. This allegory is not, however, the only one at work within *The Babadook*.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Amelia appears as a 21st century sister of Rosemary</mark> from *Rosemary's Baby*. <mark>As the Babadook crosses the horror formula of "other as villain" with the female gothic interest in gendered experience and victimhood, transforming the beleaguered female protagonist herself into a monster</mark>, backing up the idea that the greatest monsters do not come from without, but from within. That perhaps the monsters in heteronormative suburbia did not come from the outside, from cities, but that they've been there all along.
 
 And how does one become a suburban monster? By trying to fit in. Amelia is struggling financially and the depiction of the life she leads with her son shows the economic vulnerability of single-parent families, especially single mothers. Her stress to keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at her own son. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.amanda_howell at="p.5" %}>
+
+[Previous paragraph was about *Rosemary’s Baby*.]
+
+<mark>Amelia appears as a 21st century sister of Rosemary</mark> <mark>as *The Babadook* crosses the horror formula of Other-as-villain with the female gothic interest in gendered experience and victimage, transforming the beleaguered female protagonist herself into a monster</mark>. Like the protagonists of *Rosemary’s Baby* and *Repulsion*, Amelia struggles with ‘demons of femininity’ (Wexman 1987, p. 32). But hers are widowhood and single motherhood, the way her relationship with her son Samuel is affected by her catastrophic grief and the way this problematic relationship situates her in her social sphere—in relation to her family, friends, workmates, Samuel’s school, his doctor. In the absence of the overpowering—and largely misogynist—male presence that shapes the realities of female protagonists in Polanski’s domestic horrors and in female gothic more generally, Samuel appears as at once the fragile child and as a more menacing physical presence, a dual role established in the first few minutes of the film. He is reminiscent of uncanny or demon children of the past in his connections to the unseen (recalling similar representations in The Shining) and in the way he’s depicted as a(n unwelcome) replacement for Amelia’s lost husband. In the first half of the film, which is deeply invested in Amelia’s subjectivity, we discover her to be alternately alarmed and repulsed by Samuel, who cycles through behaviours that range from the engagingly naughty, to the pitiable, to the apparently-possessed. At the same time that we see Amelia struggle with her son, we also witness her staunch defence of him to school officials as well as her dogged, exhausted efforts to be a good mother at home, despite her terrible reluctance for the role. 
+
+</from>
 </compare>
 
 <compare>
