@@ -32,6 +32,7 @@ cite:
     medieval: "James seems to be mixing up history with modern times."
     wicca_homo: "James claims there were strict rules among Wiccans in a time we know next-to-nothing about."
     fake_blood: "James cuts out so much context around a quote he stole, he changes the entire meaning."
+    quote_mine1: "James just outright fabricated a quote."
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
@@ -48,7 +49,7 @@ cite:
     david_greven: { color: 16, short: "(Greven, 2014)", full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: "https://archive.org/details/readingbromanceh0000unse" }
     claire_sisco_king: { color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_" }
     amanda_howell: { color: 14, short: "(Howell, 2017)", full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK" }
-    # jessica_roy: { color: 12, short: "(Roy, )", full: "Roy, J.", url: "" }
+    jessica_roy: { color: 12, short: "(Roy, 2017)", full: "Roy, J. (2017, Jun 9). <em>The Babadook as an LGBT icon makes sense. No, really</em> [Article]. Los Angeles Times. Retrieved Dec 24, 2023, from", url: "https://www.latimes.com/entertainment/movies/la-et-mn-babadook-gay-icon-lgbt-history-20170609-story.html" }
     # rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
     # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
     # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
@@ -1665,6 +1666,9 @@ Kent's *The Babadook* received limited release in Australia, the country in whic
 </from>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
 <mark>Amelia's ability to care for her son becomes severely constrained when she decides she must remove him from his school, which seems unwilling or unable to accommodate his needs. At the same time, Samuel becomes fixated on an invisible monster that he warns lives in their house</mark>. <mark>When a mysterious and violent children's book appears, Amelia begins to fear that the monster is not a figment of Samuel's imagination. And soon she and her home are tormented by a boogeyman known as the Babadook, who lives under her child's bed and in his closet.</mark> 
 
 <mark>As anxiety sleeplessness and trauma take a toll on Amelia, she first directs her anger at Samuel</mark> <mark>becoming violent, before eventually confronting the Babadook.</mark> She <mark>realizes she can never fully rid their lives of the monster that now resides in their home. She determines to make relative peace with</mark> it, <mark>locking it in their basement, but keeping it well fed and alive</mark>. 
@@ -1702,7 +1706,7 @@ And how does one become a suburban monster? By trying to fit in. <mark>Amelia is
 </james>
 <from {% include citation for=page.cite.plagiarized.amanda_howell at="p.10" %}>
 
-As confrontations with her sister's friends make clear, Amelia's widowhood is not just a matter of personal sorrow for the loss of a partner and lover but has altered her social status for the worse. <mark>Amelia is struggling financially and the depiction of the life she leads with her son registers the economic vulnerability of single parent families, especially</mark> with female heads of household. Different from the aspirational narratives that tend to underpin and motivate American suburban horror of the 1970s and 1980s, Amelia and Samuel's story is framed instead by 21st century Australian realities of the suburbanisation of poverty and ongoing inequities in women's wages that put single parent families with female heads of household especially at risk (Leon-Guerrero 2014, p. 45). In the way the film’s horror is shaped in this way not just by the uncanny transformations of the terrible terrace but by the social forces that impinge on Amelia and Samuel’s lives, there is an alignment between the horror of The Babadook and social realist Australian film with its focus on working-class urban and inner suburban spaces that ‘stresses an inevitable and constraining environmentalism at work between its characters and its locations’, what Moran and Veith summarise as the ‘bounded’ and ‘constrained’ character of social realism, where ‘life circumstances are linked to environment’(Moran and Veith 2006, pp. 151;153). 
+As confrontations with her sister's friends make clear, Amelia's widowhood is not just a matter of personal sorrow for the loss of a partner and lover but has altered her social status for the worse. <mark>Amelia is struggling financially and the depiction of the life she leads with her son registers the economic vulnerability of single parent families, especially</mark> with female heads of household. Different from the aspirational [...]
 
 </from>
 </compare>
@@ -1710,32 +1714,56 @@ As confrontations with her sister's friends make clear, Amelia's widowhood is no
 <compare>
 <james {% include timecode %}>
 
-The Babadook on the other hand, ostensibly coded queer, does no actual harm to Amelia or Samuel. It is just the fear of him that causes harm. It is the societal pressure of the heteronormative world that causes harm. Amelia's paranoia, the sense of being watched, originates in the way her public life is dominated by, and private life intruded upon, by institutional and bureaucratic forces that scrutinize her, and especially her parenting. First, the representatives of the school system that had failed Samuel, and then the community service representatives that take over. 
+The Babadook on the other hand, ostensibly coded queer, does no actual harm to Amelia or Samuel. It is just the fear of him that causes harm. It is the societal pressure of the heteronormative world that causes harm. Amelia's <mark>paranoia</mark>, <mark>the sense of being watched, originates in the way her public life is dominated by, and private life intruded upon, by institutional and bureaucratic forces that scrutinize her, and especially her parenting. First, the representatives of the school system that had failed Samuel</mark>, and then <mark>the community service representatives that take over</mark>. 
 
-Then, there are the disturbing encounters with others that she hopes will help her. The doctor who judges her when she requests sleeping pills to make Samuel sleep, so that she herself can sleep. And the desk sergeant in the police station who, when Amelia attempts to report a stalker, looks back at her with the strange pale eyes of the storybook monster. Both encounters show historically strained relations between institutional authorities and women under threat. society is actively and passively harming her. While the queer monster remains mostly benign.
-
-In acknowledgment of these real everyday social pressures on Amelia, the form taken by the Babadook references the familiar source of her madness and monstrosity. There are elements of Samuel, as the Babadook's garb recalls the little boy's homemade magician's costume, while the threat of its mouth in the pop-up book offers a horror movie version of Samuel's screams for attention. 
+<mark>Then, there are the disturbing encounters with others that she hopes will help her.</mark> <mark>The doctor who judges her when she requests sleeping pills to make Samuel sleep, so that she herself can sleep.</mark> <mark>And the desk sergeant in the police station who, when Amelia attempts to report a stalker, looks back at her with the strange pale eyes of the storybook monster. Both encounters show historically strained relations between institutional authorities and women under threat</mark>. Society is actively and passively harming her. While the queer monster remains mostly benign.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.amanda_howell at="p.12" %}>
+
+In The Babadook, the <mark>paranoia</mark> of horror, <mark>the sense of being watched, originates in the way Amelia’s public life is dominated by and private life intruded upon by institutional and bureaucratic forces that scrutinise her and especially her parenting: first the representatives of the school system that has failed Samuel</mark> once too often and <mark>the Community Service representatives that take over</mark> once Samuel is removed from school. <mark>Then there are the disturbing encounters with those she hopes will help her.</mark> <mark>The MD who looks askance at Amelia’s request for tranquilisers to make Samuel sleep so she can sleep</mark> <mark>and the desk sergeant in the police station who, when Amelia attempts to report a stalker, looks back at her with the strange pale eyes of the storybook monster. Both encounters registers historically strained relations between institutional authorities and women under threat</mark>, wherein women victims find themselves the focus of censure. Even the homely, familiar detail of the internal window that links Amelia and Samuel’s house to Mrs Roach’s—so typical of the Sydney terrace—works both as a link to a quasi-maternal support for the at-risk pair but also offers yet another potential site of observation. Mrs Roach (Barbara West) is both a lifeline and inspiration, but also, like her namesake, a source of irritation for Amelia once she begins her monstrous transformation.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-And then there's the house, a victorian style house that Kent had constructed specifically for this film, and that operates as a character in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre. The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family. How home ownership is often considered a milestone for success and stability for those a part of, or wishing to be a part of, the heteronormative masses. How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to those who are not physically ideal.
+<mark>In acknowledgment of these real everyday social pressures on Amelia, the form taken by the Babadook references the familiar source of her madness and monstrosity. There are elements of Samuel, as the Babadook's garb recalls the little boy's homemade magician's costume, while the threat of its mouth in the pop-up book offers a horror movie version of Samuel's screams for attention.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.amanda_howell at="p.12-13" %}>
+
+<mark>In acknowledgement of these real, every day, social pressures on Amelia, the form taken by the babadook references the familiar sources of her madness and monstrosity. There are elements of Samuel, as the babadook’s costume recalls the little boy’s homemade magician’s guise, while the atavistic threat of its mouth in the pop-up book offers a horror movie version of Samuel’s screams for attention.</mark> There is also something insectile about the babadook when it manifests in the terrace, recalling [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And then there's the house, <mark>a victorian style house that Kent had constructed specifically for this film, and that operates as a character</mark> <mark>in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre</mark>. <mark>The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family</mark>. <mark>How home ownership is often considered a milestone for success and stability</mark> for those a part of, or wishing to be a part of, the <mark>heteronormative</mark> masses. <mark>How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to</mark> those who are not physically ideal.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p.175" %}>
+<h3>“Let Me In!”</h3>
+
+Central to The Babadook's consideration of the politics of class is the film's figuration of Amelia and Samuel's home--<mark>a Victorian-style house that Kent had constructed specifically for this film and that operates as a character</mark> in the film <mark>in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror genre</mark>. <mark>The signifier of the home often functions as a synecdoche for heteronormative, sexist, ableist, and classist figurations of the family</mark>. Consider, for instance, <mark>how often home-ownership functions as a milestone marker for success and stability</mark> along <mark>heteronormative</mark> timelines and within constructions of middle-classness, <mark>how often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed, and how consistently the “culture of suburban home life” and typical design practices presume that a house's inhabitants will be non-disabled, thereby rendering these spaces inaccessible to</mark> many (Hamraie). [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %} id="para18" mid-text="Paragraph-18">
 
-The single-family home acting as a sort of moated castle, protecting the inhabitants from the working poor they might otherwise come across in an apartment building. Or the infirm in a nursing home. Or the other races or queers in select ghettoized areas. But in *The Babadook*, those others infiltrate the home and cause no harm. Threaten. yes, but never act. Only the self causes harm, not the other. 
+<mark>The single-family home</mark> acting as a sort of moated castle, protecting the inhabitants from the working poor they might otherwise come across in an apartment building. Or the infirm in a nursing home. Or the other races or queers in select ghettoized areas. But in *The Babadook*, those others infiltrate the home and cause no harm. Threaten. yes, but never act. Only the self causes harm, not the other. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.claire_sisco_king at="p.176" %}>
+
+[...] Note also the extent to which figurations of <mark>the single family, private home</mark> often stand in contrast to other, less culturally idealized types of homes, such as public housing, group homes, nursing homes, or institutions, which are often imagined as sites of containment for bodies and subjects deemed to be disruptive or “misfitting” (Hamraie). The trope of the home also plays a significant role within the horror genre, which frequently inverts constructions of the home as a site of safety and security. As Carol Clover notes, horror films abound with images of homes as “Terrible Places,” whose dreadfulness owes less to the “Victorian decrepitude” of the houses themselves than the “terrible families” that occupy them (30). 
+
+</from>
 </compare>
 
 <compare>
@@ -1752,23 +1780,42 @@ And there's an odd draw to the black and white monster for queer people. Outside
 <compare>
 <james {% include timecode %}>
 
-> "Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available." 
+> <mark>"Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available."</mark> 
 
-...said Karen Thompson, an associate professor of gender studies in English at USC.
+...<mark>said Karen Thompson, an associate professor of gender studies in English at USC</mark>.
 
-> "He lives in a basement, he's weird and flamboyant, he's living adjacently to a single mother in this kind of queer kinship structure."
+> <mark>"He lives in a basement, he's weird and flamboyant, he's living adjacently to a single mother in this kind of queer kinship structure."</mark>
 
-He exists in a half-acknowledged state by the other people in his house. The family is afraid of what he is, but finds a way to accept him over time.
+<mark>He exists in a half-acknowledged state by the other people in his house. The family is afraid of what he is, but finds a way to accept him over time.</mark>
 
-> "For many lgbt people, that's what it feels like to be in your own family sometimes."
+> <mark>"For many lgbt people, that's what it feels like to be in your own family sometimes."</mark>
 
-Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" out loud to be read as queer, or to become queer icons.
+<mark>Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" out loud to be read as queer, or to become queer icons.</mark>
 
-> "So many LGBT people have been barred from seeing themselves represented in popular culture, so we've had to project ourselves into so many of these figures."
+> <mark>"So many LGBT people have been barred from seeing themselves represented in popular culture, so we've had to project ourselves into so many of these figures."</mark>
 
-Thompson said,
+<mark>Thompson said,</mark>
 
-> "There are ways to read into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into a family."
+> <mark>"There are ways to read into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into a family."</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.jessica_roy at="¶ 7-11" %}>
+
+<mark>“Someone was like, ‘How could “The Babadook” become a gay film,’ and the answer was readily available,”</mark> <mark>said Karen Tongson, an associate professor of gender studies and English at USC</mark>. <mark>“He lives in a basement, he’s weird and flamboyant, he’s living adjacently to a single mother in this kind of queer kinship structure.”</mark>
+
+The Babadook is creative (remember the pop-up book) and a distinctive dresser. Instead of living in a proverbial closet, he lives in a literal basement. <mark>He exists in a half-acknowledged state by the other people in his house. The family is afraid of what he is, but finds a way to accept him over time.</mark>
+
+<mark>“For many LGBT people, that’s what it feels like to be in your own families sometimes,”</mark> Tongson said.
+
+<mark>Naturally, there are counter-arguments: The Babadook never says he’s gay. He never displays physical attraction to another person. But historically, fictional characters haven’t needed to say “I am gay” out loud to be read as gay or to become gay icons.</mark>
+
+<mark>“So many LGBT people have been barred from seeing themselves represented in popular culture, so we’ve had to project ourselves into so many of these figures,”</mark> <mark>Tongson said.</mark> “<mark>There are ways to read into the character itself and the structure of how this ostensibly monstrous thing becomes incorporated ultimately into a family.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But is the Babadook gay? When asked about this in 2019, director Jennifer Kent simply replied...
 
@@ -1778,7 +1825,21 @@ Sometimes it's just that simple. Sometimes the monster, the queer, can be accept
 {% assign timecode = "1:12:00" %}
 
 </james>
-<from></from>
+<comment id="quote_mine1">
+{{ site.tustin.header }}
+
+As far as I can tell, she never said this. This *might* be what James was "quoting".
+
+> Back in 2017, you may recall, The Babadook became an LGBTQ icon when Netflix’s algorithm recommended the film to viewers interested in gay cinema. Writer/director Jennifer Kent had not commented on the memes at the time, but Bloody-Disgusting spoke to her at Sundance for her new film The Nightingale (read our review) and we couldn’t help but bring them up.
+> 
+> Reflecting on the phenomenon, Kent remained pleasantly surprised that The Babadook took off in the gay community, finding new relevance through the Netflix algorithm.
+> 
+> “That was mad,” Kent said. “That was crazy.”
+> 
+> “<mark>Of course</mark>, I love that story,” she continued. “I think it’s crazy and just kept him alive. I thought ah, you bastard. He doesn’t want to die so he’s finding ways to become relevant.”
+
+<div class="footer">Topel, F. (2019, Jan 30). <em>Director Jennifer Kent Comments on Those LGBTQ ‘Babadook’ Memes [Interview]</em> [Article]. Bloody Disgusting. Retrieved Dec 24, 2023, from <a href="https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/">https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/</a></div>
+</comment>
 </compare>
 
 ## Trauma
