@@ -23,14 +23,15 @@ contributors:
 
 cite:
   clips: !!map
-    the_craft: { short: "(, 1996)", full: "" }
-    hellraiser: { short: "", full: "" }
-    jennifer: { short: "", full: "" }
+    the_craft: { short: "(Fleming, 1996)", full: "Wick, D. (Producer). Fleming, A. (Director). (1996). <em>The Craft</em> [Motion picture]. US: Columbia Pictures." }
+    hellraiser: { short: "(Barker, 1987)", full: "Figg, C. (Producer). Barker, C. (Director). (1987). <em>Hellraiser</em> [Motion picture]. UK: Film Futures." }
+    jennifer: { short: "(Kusama, 2009)", full: "Dubiecki, D., Novick, M., Reitman, J. (Producers). Kusama, K. (Director). <em>Jennifer's Body</em> [Motion picture]. US: Fox Atomic, Dune Entertainment." }
   yikes: !!map
   misinformation: !!map
     homo_erectus: "James makes up some facts about ancient humans."
     medieval: "James seems to be mixing up history with modern times."
     wicca_homo: "James claims there were strict rules among Wiccans in a time we know next-to-nothing about."
+    fake_blood: "James cuts out so much context around a quote he stole, he changes the entire meaning."
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
@@ -1548,7 +1549,7 @@ Earlier in the film, <mark>Billy and Sydney have sex after she announces that, i
 
 <h6 style="font-variant:small-caps">A Negative Oedipus Complex</h6>
 
-<mark>Billy and Sidney have sex after she announces that, if life is one big movie</mark>, the genre she will <mark>pick is porn. Ghostface suddenly appears right after they have had sex and seemingly stabs Billy to death.</mark> As we learn, <mark>this is only a ruse to distract Sidney from Billy's real identity as one of the killers. Billy staggers</mark>, it appears, <mark>back to life in his seemingly blood-drenched T-shirt. Gaining possession of the gun Sidney</mark> now wields, <mark>Billy shoots Randy</mark>, cites Norman Bates's line about going mad from Psycho, <mark>dabs a finger in his "blood," and brings this sticky finger to his lips.</mark> "Corn syrup." he announces as he tastes his fake blood, "the same stuff they used for pig's blood in *Carrie*." Through his own gesture, the queer killer associates himself with a regressive orality as well as a metaphorical female world of suffering, blood, and victimization.
+<mark>Billy and Sidney have sex after she announces that, if life is one big movie</mark>, the genre she will <mark>pick is porn. Ghostface suddenly appears right after they have had sex and seemingly stabs Billy to death.</mark> As we learn, <mark>this is only a ruse to distract Sidney from Billy's real identity as one of the killers. Billy staggers</mark>, it appears, <mark>back to life in his seemingly blood-drenched T-shirt. Gaining possession of the gun Sidney</mark> now wields, <mark>Billy shoots Randy</mark>, cites Norman Bates's line about going mad from Psycho, <mark>dabs a finger in his "blood," and brings this sticky finger to his lips.</mark> <span id="fake_blood">"Corn syrup." he announces as he tastes his fake blood, "the same stuff they used for pig's blood in *Carrie*."</span> Through his own gesture, the queer killer associates himself with a regressive orality as well as a metaphorical female world of suffering, blood, and victimization.
 
 </from>
 </compare>
@@ -1683,14 +1684,25 @@ Kent's *The Babadook* received limited release in Australia, the country in whic
 
 <mark>Amelia appears as a 21st century sister of Rosemary</mark> from *Rosemary's Baby*. <mark>As the Babadook crosses the horror formula of "other as villain" with the female gothic interest in gendered experience and victimhood, transforming the beleaguered female protagonist herself into a monster</mark>, backing up the idea that the greatest monsters do not come from without, but from within. That perhaps the monsters in heteronormative suburbia did not come from the outside, from cities, but that they've been there all along.
 
-And how does one become a suburban monster? By trying to fit in. Amelia is struggling financially and the depiction of the life she leads with her son shows the economic vulnerability of single-parent families, especially single mothers. Her stress to keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at her own son. 
-
 </james>
 <from {% include citation for=page.cite.plagiarized.amanda_howell at="p.5" %}>
 
 [Previous paragraph was about *Rosemary’s Baby*.]
 
-<mark>Amelia appears as a 21st century sister of Rosemary</mark> <mark>as *The Babadook* crosses the horror formula of Other-as-villain with the female gothic interest in gendered experience and victimage, transforming the beleaguered female protagonist herself into a monster</mark>. Like the protagonists of *Rosemary’s Baby* and *Repulsion*, Amelia struggles with ‘demons of femininity’ (Wexman 1987, p. 32). But hers are widowhood and single motherhood, the way her relationship with her son Samuel is affected by her catastrophic grief and the way this problematic relationship situates her in her social sphere—in relation to her family, friends, workmates, Samuel’s school, his doctor. In the absence of the overpowering—and largely misogynist—male presence that shapes the realities of female protagonists in Polanski’s domestic horrors and in female gothic more generally, Samuel appears as at once the fragile child and as a more menacing physical presence, a dual role established in the first few minutes of the film. He is reminiscent of uncanny or demon children of the past in his connections to the unseen (recalling similar representations in The Shining) and in the way he’s depicted as a(n unwelcome) replacement for Amelia’s lost husband. In the first half of the film, which is deeply invested in Amelia’s subjectivity, we discover her to be alternately alarmed and repulsed by Samuel, who cycles through behaviours that range from the engagingly naughty, to the pitiable, to the apparently-possessed. At the same time that we see Amelia struggle with her son, we also witness her staunch defence of him to school officials as well as her dogged, exhausted efforts to be a good mother at home, despite her terrible reluctance for the role. 
+<mark>Amelia appears as a 21st century sister of Rosemary</mark> <mark>as *The Babadook* crosses the horror formula of Other-as-villain with the female gothic interest in gendered experience and victimage, transforming the beleaguered female protagonist herself into a monster</mark>. Like the protagonists of *Rosemary’s Baby* and *Repulsion*, Amelia struggles with ‘demons of femininity’ (Wexman 1987, p. 32). But hers are [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And how does one become a suburban monster? By trying to fit in. <mark>Amelia is struggling financially and the depiction of the life she leads with her son shows the economic vulnerability of single-parent families, especially</mark> single mothers. Her stress to keep everything running smoothly to try for normal is what drives her to become the maternal monster that strikes out at her own son. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.amanda_howell at="p.10" %}>
+
+As confrontations with her sister's friends make clear, Amelia's widowhood is not just a matter of personal sorrow for the loss of a partner and lover but has altered her social status for the worse. <mark>Amelia is struggling financially and the depiction of the life she leads with her son registers the economic vulnerability of single parent families, especially</mark> with female heads of household. Different from the aspirational narratives that tend to underpin and motivate American suburban horror of the 1970s and 1980s, Amelia and Samuel's story is framed instead by 21st century Australian realities of the suburbanisation of poverty and ongoing inequities in women's wages that put single parent families with female heads of household especially at risk (Leon-Guerrero 2014, p. 45). In the way the film’s horror is shaped in this way not just by the uncanny transformations of the terrible terrace but by the social forces that impinge on Amelia and Samuel’s lives, there is an alignment between the horror of The Babadook and social realist Australian film with its focus on working-class urban and inner suburban spaces that ‘stresses an inevitable and constraining environmentalism at work between its characters and its locations’, what Moran and Veith summarise as the ‘bounded’ and ‘constrained’ character of social realism, where ‘life circumstances are linked to environment’(Moran and Veith 2006, pp. 151;153). 
 
 </from>
 </compare>
