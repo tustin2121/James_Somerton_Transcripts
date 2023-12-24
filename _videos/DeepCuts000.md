@@ -28,11 +28,11 @@ cite:
     jennifer: { short: "(Kusama, 2009)", full: "Dubiecki, D., Novick, M., Reitman, J. (Producers). Kusama, K. (Director). <em>Jennifer's Body</em> [Motion picture]. US: Fox Atomic, Dune Entertainment." }
   yikes: !!map
   misinformation: !!map
-    homo_erectus: "James makes up some facts about ancient humans."
+    homo_erectus: "James makes up some facts about ancient humans in order to spice up his intro."
     medieval: "James seems to be mixing up history with modern times."
-    wicca_homo: "James claims there were strict rules among Wiccans in a time we know next-to-nothing about."
-    fake_blood: "James cuts out so much context around a quote he stole, he changes the entire meaning."
-    quote_mine1: "James just outright fabricated a quote."
+    wicca_homo: "James claims there were strict rules among Wiccans in a time period where we know next-to-nothing about them."
+    fake_blood: "James cuts out so much context around a sentence he's stolen, he changes the entire meaning of it."
+    quote_mine1: "James does some serious 'quote mining' to make up a quote where the director confirms his conclusion."
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
