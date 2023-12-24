@@ -66,25 +66,13 @@ compare {
 	row-gap: 4px;
 	margin-block: 1em;
 }
-compare james, 
-compare nick, 
-compare clip, 
-compare credits, 
-compare from, 
-compare cite, 
-compare comment 
-{
+compare :is(james, nick, clip, credits, from, comment) {
 	display: block;
 	border: white 1px solid;
 	padding: 0px 8px;
 	counter-reset: marker-num;
-}
-compare cite    {
-	grid-area: s; 
-	border-color: var(--box-border-cite);
-    text-align: end;
-    font-size: small;
-    color: var(--color-fg-muted);
+	display: flex;
+	flex-direction: column;
 }
 compare james {
 	grid-area: j; 
@@ -114,9 +102,7 @@ compare comment {
 }
 
 
-compare james::before, 
-compare nick::before, 
-compare credits::before
+compare :is(james, nick, credits)::before
 {
 	display: block;
 	font-size: small;
@@ -172,6 +158,7 @@ compare .footer {
 	color: var(--box-header-color);
 	border-top: var(--box-header-color) 1px solid;
 	padding: 0px 4px 2px;
+	margin-top: auto;
 }
 
 
@@ -214,28 +201,19 @@ compare from mark  {
 	color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default)) !important;
 }
 
-compare james mark,
-/* compare james blockquote, */
-compare from mark
+compare :is(james, from) mark
 {
 	counter-increment: marker-num;
 	position: relative;
 }
-compare james mark::before,
-/* compare james blockquote::before, */
-compare from mark::before
+compare :is(james, from) mark::before
 {
 	content: counter(marker-num);
 	vertical-align: super;
 	font-size: x-small;
 	color: var(--color-accent-fg);
 }
-/* compare james blockquote::before {
-	position: absolute;
-	left: 0.5em; top: 0.5em;
-} */
-compare james mark[num]::before,
-compare from mark[num]::before
+compare :is(james, from) mark[num]::before
 {
 	content: attr(num);
 }
@@ -266,12 +244,7 @@ compare comment:empty {
 	border: unset;
 }
 
-compare from h1,
-compare from h2,
-compare from h3,
-compare from h4,
-compare from h5,
-compare from h6 {
+compare from :is(h1,h2,h3,h4,h5,h6) {
 	margin-block: 0 4px !important;
 }
 

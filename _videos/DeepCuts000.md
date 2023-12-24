@@ -1,4 +1,7 @@
 ---
+# cspell:words: Alyx Wiccans Kohr Shulman Hellraiser Arason Hellbound Fortier Phenixx Leever Michaela Flipscreen Greven sisco Disturbia Dani Joelle Bram Eastwick Fairuza Krysta Benshoff Cronenberg Mirzoeff Routledge Kirsty Voorhees Krueger Lesnicki Seyfried O'Bannon O’Bannon Sigourney Selway Goldstein Ulrich Lillard
+# cspell:words: erectus witchaphobia magick othered colour BDSM interdimensional cheerleads cheerleading intercutting Xenomorph Xenomorphs behaviours facehugger facehuggers retcon Arcturian poontang Arcturia decontextualization Weyland-Yutani destigmatizing Truvada condomless Ghostface pathologize Babadook Pennywise
+# cspell:words: Maika Lili Sepe Yara Luccardi Keir Zovatto multiplicitous nightmarishly homonormative Oskar Tozier Kasprak Musgetty Neibolt Georgie Hagerty minoritarian nonnormative Kosofsky Sedgwick
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
 status: In Progress
@@ -36,10 +39,10 @@ cite:
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
     zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
     dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
-    # michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M.", url: "" }
-    # bart_bishop: { color: 7, short: "(Bishop, )", full: "Bishop, B. (). <em>Queering James Cameron's Aliens (1986)</em> [Article].", url: "" }
-    # jf_sargent: { color: 17, short: "(Sargent, )", full: "Sargent, J.F.", url: "" }
-    # david_church: { color: 18, short: "(Church, )", full: "Church, D.", url: "" }
+    michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
+    bart_bishop: { color: 7, short: "(Bishop, 2019)", full: "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/" }
+    jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
+    david_church: { color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows" }
     # david_greven: { color: 16, short: "(Greven, )", full: "Greven, D. () <em>Fears of a Millennial Masculinity: Scream's Queer Killers</em> [Article].", url: "" }
     # claire_sisco_king: { color: 15, short: "(King, )", full: "King, C.S.", url: "" }
     # amanda_howell: { color: 14, short: "(Howell, )", full: "Howell, A.", url: "" }
@@ -49,10 +52,12 @@ cite:
     # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
 ---
 <div>
-  <map name="pla01">
+  <!-- <map name="pla01">
     <area shape="poly" coords="173,75, 166,305, 347,311, 351,84" href="para01" />
   </map>
-  <img src="{{ "/media/image0.jpg" | relative_path }}" usemap="#pla01">
+  <img src="{{ "/media/image0.jpg" | relative_path }}" usemap="#pla01"> -->
+  <!-- <img src="{{ "/media/image0.svg" | relative_path }}" /> -->
+  {% include image0.svg %}
 </div>
 
 <compare>
@@ -421,7 +426,7 @@ Director of the 2013 remake, lesbian director Kimberly Pierce, said:
 
 \[Quote scrolling up on screen]:
 
-> "I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."
+> <mark>"I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.randy_shulman at="¶ 9-10" %}>
@@ -481,7 +486,7 @@ But we're not all Carrie White. Sometimes that self-hatred internalizes, somethi
 ## A Hellbound Heart
 
 <compare>
-<james {% include timecode %} id="para04" mid-text="Paragraph-04">
+<james {% include timecode %} id="para06" mid-text="Paragraph-06">
 
 Demons are not just beings of pain and torment in Clive Barker's *Hellraiser*. They're moral abominations, creatures so lost in hedonism, they've long since forgotten the difference between pain and pleasure. Demons that could be mistaken or even accepted for... angels, from a certain point of view. Though many would question the queerness of *Hellraiser*, it lurches well beyond breaking heteronormativity. It skins it alive.
 
@@ -509,7 +514,7 @@ The film opens by introducing us to <mark>Frank Cotton</mark> who obtains a <mar
 
 <mark>That's the key variable that makes *Hellraiser* so special, Barker is entirely aware of heteronormative insecurities, such as versions of polyamory involving Frank and his mistress Julia.</mark> 
 
-<mark>Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time</mark>, mixed with the art of Herronius Bach, <mark>in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.</mark>
+<mark>Barker takes these insecurities and combines them with imagery derived from the underground leather scene of the time</mark>, mixed with the art of Hieronymus Bosch, <mark>in order to create a film about the broad spectrum of sensuality and sexuality. He shocked audiences with its subversive but wildly inclusive material.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.alejandra_gonzalez at="¶ 5" %}>
@@ -564,10 +569,12 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <sup>Benshoff’s book bases itself on the theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examined the ways in which horror films reflect</sup> the surplus <sup>repression in contemporary society</sup>. This serious study of a genre, one which has generally been regarded as something almost anti-intellectual, <mark>attempts to shine a light on the shapes that lurk in the</mark> darkness <mark>, and the way that the introduction of the Monster disrupts society. According to Wood, the basic formula of the horror film is that “normality is threatened by the Monster.”</mark> <sup>4</sup> This equation simplifies the engine that propels the horror film into the parts of the collective psyche that we’d seldom willingly explore, and allows for a discussion on how the genre may be used as a podium to express political ideas that fall far outside the mainstream.
 
+<div class="footer">
 
-\3. Benshoff, Harry M. Monsters in the Closet: Homosexuality and the Horror Film. (New York: Manchester University Press, 1997). p. 262  
-\4. Wood, Robin. “An Introduction to the American Horror Film.” The American Nightmare, eds, Robin Wood and Richard Lippe. (Toronto: The Festival of Festival, 1979). p. 14 
+3. Benshoff, Harry M. *Monsters in the Closet: Homosexuality and the Horror Film*. (New York: Manchester University Press, 1997). p. 262  
+4. Wood, Robin. “An Introduction to the American Horror Film.” *The American Nightmare*, eds, Robin Wood and Richard Lippe. (Toronto: The Festival of Festival, 1979). p. 14 
 
+</div>
 </from>
 </compare>
 
@@ -583,9 +590,12 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” 5 <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” 6
 
-\5. Wood 24   
-\6. Jenkins, Henry. “Monstrous Beauty and Mutant Aesthetics: Rethinking Matthew Barney’s Relationship to the Horror Genre.” http://web.mit.edu/cms/People/henry3/horror.html, accessed April 2nd, 2010.
+<div class="footer">
 
+5. Wood 24   
+6. Jenkins, Henry. “Monstrous Beauty and Mutant Aesthetics: Rethinking Matthew Barney’s Relationship to the Horror Genre.” http://web.mit.edu/cms/People/henry3/horror.html, accessed April 2nd, 2010.
+
+</div>
 </from>
 </compare>
 
@@ -597,16 +607,19 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 <mark>In his analysis of character construction in gay narrative film, Tom Wah points out</mark>:
 
 \[Quote on screen]:
-> "The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"
+> <mark>"The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 4" %}>
 
 <mark>Even if one accepts that the queer images in *Hellraiser* film are not positive ones, how does that make these representations reprehensibly</mark> reactionary? <mark>To a large extent, the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters</mark> that appeared long before the outrageous stereotypes seen in <mark>John Waters</mark>, and extends well beyond the subculture sociopaths that populate the films of Gregg Araki. <mark>In his analysis of character construction in gay narrative film, Tom Waugh points out</mark> <mark>“the irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues,”</mark> and asks the reader to ponder the following question: “Is the attraction to the ‘negative image’ by the gay author simply a question of self-oppression” <sup>7</sup> or is it something else entirely? He goes on to provide a laundry list of possible explanations before concluding that these questions have been side-stepped for too long, and that people have relied “instead on reductive moralism instead of criticism.” <sup>8</sup>
 
-\7. Thomas Waugh, “The Third Body: Patterns in the Construction of the Subject in Gay Male Narrative Film,” in The Visual Culture Reader, ed. Nicholas Mirzoeff (New York and London: Routledge, 1998). p. 441  
-\8. Waugh 442  
+<div class="footer">
 
+7. Thomas Waugh, “The Third Body: Patterns in the Construction of the Subject in Gay Male Narrative Film,” in *The Visual Culture Reader*, ed. Nicholas Mirzoeff (New York and London: Routledge, 1998). p. 441  
+8. Waugh 442  
+
+</div>
 </from>
 </compare>
 
@@ -624,7 +637,7 @@ But there's an odd attractiveness to the monsters of *Hellraiser*. When they mov
 <compare>
 <james {% include timecode %}>
 
-When our protagonist, Kirstie, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
+When our protagonist, Kirsty, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
 
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
@@ -959,25 +972,47 @@ Not only is Ellen Ripley a strong butch heroine, who does not *at all* fit the u
 <compare>
 <james {% include timecode %}>
 
-But the queerness in alien reaches beyond the obvious. <!-- mark -->When writing the screenplay Dan O'Bannon wanted to focus more on developing the Xenomorph as a character. And so when writing the crew he left them more or less generic, which included their gender. A note on the script reads:
+But the queerness in alien reaches beyond the obvious. <mark>When writing the screenplay Dan O'Bannon wanted to focus more on developing the Xenomorph as a character. And so when writing the crew he left them more or less generic, which included their gender. A note on the script reads:</mark>
 
-> "The crew is unisex and all parts are interchangeable for men or women."
+> <mark>"The crew is unisex and all parts are interchangeable for men or women."</mark>
 
-From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral. They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered pronouns. 
+<mark>From the conception of this story, there is a rejection of performative gender. From initial perceptions all of our characters are similarly gendered neutral</mark>. <mark>They wear the same loose jumpsuits and are addressed by their surnames, removing any bases for gendered</mark> pronouns. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.michaela_barton at="¶ 2" %}>
+
+<mark>When writing these characters, Dan O’Bannon wanted to focus more on developing the Alien as a character and so when writing the crew, he left them more generic which included not specifying gender. A note on the script read:</mark> <mark>“The crew is unisex and all parts are interchangeable for men or women.”</mark> <mark>From the conception of this story, there is a rejection of performative gender. From initial perceptions, all our characters are similarly gender neutral</mark> in that <mark>they all wear the same loose jumpsuits and are addressed by their surnames, removing the usual basis for gender</mark>. The gendered choice of actor [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %} id="para11" mid-text="Paragraph-11">
 
-The ship's male mechanics complain about being paid less than everyone else, including the female crew, at a time in america when women were being paid 60 cents for every dollar a man made.
+<mark>The ship's</mark> male <mark>mechanics complain about being paid less than everyone</mark> else, <mark>including</mark> the <mark>female crew</mark>, at <mark>a time</mark> in America when <mark>women were being paid 60 cents for every dollar a man made</mark>.
 
-Once cast, and the actors were given the freedom to play their parts as masculine or feminine, star Sigourney Weaver decided to play her character as completely gender-neutral. In horror, especially at the time of release, female characters were *always* portrayed as victims or damsels in distress. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.dani_leever at="¶ 4" %}>
+
+The crew are constructed as gender neutral through the use of identical genderless uniforms and the use of only their second names - stripping the femininity or masculinity given through first names. <mark>The ship’s</mark> <mark>mechanics complain about being paid less than everyone</mark>, <mark>including</mark> the ship’s two <mark>female crew</mark>. This was in <mark>a time</mark> where <mark>women were earning just 60 percent of the wages of their male counterparts</mark>. Ripley’s personality is constructed as quite neutral, and she doesn’t lean into docile femininity or ego-driven masculinity. She’s strong but empathetic; courageous but sensitive. She’s stripped of sexuality and gender, making her a queer protagonist who deconstructs the gender norms of the time.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Once cast, and the actors were given the freedom to play their parts as masculine or feminine</mark>, star Sigourney <mark>Weaver</mark> decided to play her character as <mark>completely gender-neutral</mark>. In horror, <mark>especially at the time of release</mark>, <mark>female characters were *always* portrayed</mark> as victims or <mark>damsels in distress</mark>. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.michaela_barton at="¶ 2-3" %}>
+
+[...] removing the usual basis for gender. The gendered choice of actor for the roles were up for interpretation by the casting director, Mary Selway, and director, Ridley Scott. <mark>Once casted, actors had the freedom to play into whatever gender performance they desired</mark> but <mark>Weaver</mark> and Scott kept Ripley <mark>neutral</mark>.  
+
+<mark>In most media of the time</mark>, a character played by a <mark>woman may slip into certain categories</mark>. In horror, a popular one is the <mark>damsel in distress</mark>. Ripley in particular is a big standout in horror as they refused to slip into gender-coded typical behaviours such as this. A female character acting like Ripley is obviously not monumental in today’s standards, but in the 70’s, where extreme performance of gender was the norm in media, this dismissal of gender binary stereotypes for Ripley was notable. Other categories for characters played by women were the mother or the seductress. Of course, these are not representative of what defines womanhood in real life, but in media predominantly created by men, these were the usual binaries on show. Interestingly, the main conflicts driving Ripley’s story revolves around their refusal to fit neatly into the boxes of motherhood and seductress. 
+
+</from>
 </compare>
 
 <compare>
@@ -1002,77 +1037,104 @@ He <mark>shoves a porn magazine</mark> rolled up into a phallic shape <mark>down
 <compare>
 <james {% include timecode %}>
 
-It's been no secret that H.R Geiger designed every form of the Xenomorph to represent sex organs, both male and female, masculine and feminine. The overt and grotesque sexual imagery in the alien is designed to evoke fear and anxiety. Which is how society was already responding to sexual openness and breaking out of what it means to be typically male and female. The aliens phallic and vaginal components are used together in stark contrast from the traits and qualities usually assigned to them. Thus deconstructing notions of gender. The alien's body is overtly sexual and blurs our ideas of anatomy. 
+It's been no secret that H.R Geiger designed every form of the Xenomorph to represent sex organs, both male and female, masculine and feminine. <mark>The overt and grotesque sexual imagery in the alien is designed to evoke fear and anxiety. Which is how society was already responding to sexual openness and breaking out of what it means to be typically male and female. The alien's phallic and vaginal components are used together in stark contrast from the traits and qualities usually assigned to them. Thus deconstructing notions of gender. The alien's body is overtly sexual and blurs our ideas of anatomy.</mark> 
 
-The horror and sexual violence from the alien, including the penetration of Lambert and forcing Dallas into a womb-like egg as an allusion to motherhood, suggests that having one pair of genitals or another doesn't make you inherently violent, but that society's construction of gender is to blame. 
+<mark>The horror and sexual violence from the alien, including the penetration of Lambert and forcing Dallas into a womb-like egg as an allusion to motherhood, suggests that having one pair of genitals</mark> or another <mark>doesn't make you inherently violent, but that society's construction of gender is to blame.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.dani_leever at="¶ 9" %}>
+
+The alien is constructed as having both phallic and vaginal imagery - the gooey and soft mouth with erect tail, head and inner jaw, complete with oozing white liquid. <mark>The overt and grotesque sexual imagery in the alien is designed to evoke fear and anxiety, which is how society was already responding to sexual openness and breaking out of what it means to be typically ‘male’ and ‘female’. The alien’s phallic and vaginal components are used together in stark contrast from the traits and qualities usually assigned to them, thus deconstructing notions of gender. The alien’s body is overtly sexual and blurs our ideas of anatomy.</mark> <mark>The horror and sexual violence from the alien, including the penetration of Lambert and forcing Dallas into a womb-like egg as an allusion to motherhood, suggests that having one pair of genitals</mark> <mark>doesn’t make you inherently violent, but that society’s construction of gender is to blame.</mark>
+
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %} id="para12" mid-text="Paragraph-12">
 
-We get a less coded queer representation in 1986's sequel, when for a split second, we see a biography of the character Lambert from the first film. The biography establishes Lambert as having had her gender reassigned from male to female. Lambert's bio reads:
+We get a less coded queer representation in 1986's sequel, when for a split second, we see a <mark>biography of the character Lambert</mark> from the first film. The biography establishes Lambert as having had her gender reassigned from male to female. Lambert's bio reads:
 
-> "Despite conversion at birth from male to female, so far there are no signs of suppressed trauma from gender reassignment."
+> <mark>"Despite conversion at birth from male to female, so far there are no signs of suppressed trauma from gender reassignment."</mark>
 
-And so in a horror movie from 1979, we technically have a transgender character who is never othered, never misgendered, and is not a villain. A retcon that changes nothing about the story, but adds trans representation when little if any was available. James Cameron's *Aliens* is curiously progressive in its sexual politics overall, especially for a movie released during the Reagan years. Take for instance the exchange between Hudson and Frost:
+And so in a horror movie from 1979, we technically have a transgender character who is never othered, never misgendered, and is not a villain. A retcon that changes nothing about the story, but adds trans representation when little if any was available. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 5" %}>
+
+But let’s rewind back to the beginning of the movie. A subtle Easter Egg sneaked into the movie by Cameron is in a <mark>bio of Lambert</mark> (Veronica Cartwright) on the screen behind Ripley (Sigourney Weaver) during the boardroom inquisition scene. It’s a blink-and-you’ll-miss-it moment, but the first few lines read: <mark>“Subject is Despin Convert at birth (male to female). So far no indication of suppressed trauma related to gender alteration.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+James Cameron's *Aliens* is <mark>curiously progressive in its sexual politics</mark> overall, especially <mark>for a movie released during the Reagan years.</mark> <mark>Take for instance the exchange between Hudson and Frost</mark>:
+
+</james>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 1" %}>
+
+Aliens (1986) is <mark>curiously progressive in its sexual politics</mark> <mark>for a movie released at the height of the Reagan years.</mark> <mark>Take, for instance, the exchange between Hudson (Bill Paxton) and Frost (Ricco Ross)</mark> when they sit down in the mess hall. [...]
+
+</from>
 </compare>
 
 <compare>
 <clip {% include citation for=page.cite.clips.alien %}>
 
-Frost: "Hey, I sure wouldn't mind getting some more of that [actereian poontang]."
+Frost: "Hey, I sure wouldn't mind getting some more of that Arcturian poontang."
 
-Hudson: "Yeah, the one that you had was male"
+Hudson: "Yeah, the one that you had was male!"
 
-Frost: "It doesn't matter when it's acturian!"
+Frost: "It doesn't matter when it's Arcturian!"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 1-2" %}>
+
+Hudson asks about the mission, to which their Sarge replies, “It’s a rescue mission. You’ll love it. There’s some juicy colonists’ daughters we have to rescue from their virginity.”
+
+This seems like pretty standard machismo dialogue for a marine in a science fiction action film, but then Frost says something surprising: “I sure wouldn’t mind getting more of that Arcturian poontang. Remember that time?” To which Hudson responds, “But the one you had was male.” Frost responds, “Doesn’t matter when it’s Arcturian, baby!” and they both laugh together, slapping hands and pointing at one another.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-So the butch space marine slept with a man. And nobody makes a big deal out of it, except for Frost who wants to do it again. And he is wholeheartedly supported. This isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.
+So the butch space marine <mark>slept with a man.</mark> And nobody makes a big deal out of it, except for Frost who <mark>wants to do it again. And he is wholeheartedly supported.</mark> T<mark>his isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.</mark>
 
-The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. But is she herself queer? the actress who played her, Jeanette Goldstein, weighed in on that question in 2016:
-{% assign timecode = "42:32" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 3-4" %}>
+
+Who knows what they’re really talking about here. Prostitutes? Did they have shore leave on the planet Arcturia? Are Arcturians a race of people? Whatever the answer, it’s clear that Frost <mark>slept with a man.</mark> The Aliens universe, after all, isn’t like Star Trek or Star Wars. Aside from the Xenomorphs and Space Jockeys (later dubbed the Engineers in Prometheus [2012]), human beings appear to be the only known sentient beings in the universe.
+
+Not only did Frost have sex with a man, he’s vocal about it and <mark>wants to do it again. And his friend wholeheartedly supports him!</mark> <mark>This isn’t just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. <mark>But is she herself queer?</mark> The actress who played her, Jeanette <mark>Goldstein, weighed in on that question in 2016</mark>:
 
 \[Quote on screen]:
-> "she's an outsider -- she was just who she was. With Vasquez, I never said she was straight or gay, because to her it was nobody's business. 
+> "<mark>She's an outsider -- she was just who she was.</mark> <mark>With Vasquez, I never said she was straight or gay, because to her it was nobody's business</mark>. 
 >
-> A lot of gay women come up and say, 'Oh my god, when I saw you, and you had a masculine look to you, I saw  myself,' But I had straight women coming up to me with the same thing. 
+> <mark>A lot of gay women come up and say, 'Oh my god, when I saw you, and you had a masculine look to you, I saw  myself,'</mark> <mark>But I had straight women coming up to me with the same thing.</mark> 
 >
-> Someone was going through breast cancer, and she told me that with each round of chemo she would think of Vasquez. A gay man from Guatemala came to me, and he said, 'I identify so much with her,' but he was very feminine. Vasquez is universal."
+> <mark>Someone was going through breast cancer, and she told me that with each round of chemo she would think of Vasquez. A gay man from Guatemala came to me, and he said, 'I identify so much with her,' but he was very feminine. Vasquez is universal.</mark>"
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 14-17" %}>
 
-<compare>
-<james {% include timecode %}>
+Again, this would suggest that gender standards have evolved in the future, as Drake’s relationship with Vasquez is never questioned by anyone else as anything but normal. But assuming they are not lovers but just old friends, bonded by hard upbringings, is there a chance that <mark>Vasquez could be a lesbian?</mark> [<mark>Goldstein herself answered this question</mark> in an interview with April Wolfe:](https://www.dallasobserver.com/film/vasquez-is-universal-jenette-goldstein-looks-back-on-her-unforgettable-aliens-marine-8235514)
 
-Elsewhere in the film is Bishop another sexless cyborg like the first film's Ash. David Grevin in *Demeter and Persephone in Space* observes:
-
-> Bishop, the cyborg retooled as a queer suffering body, is an example of a resistant masculinity devoid of any obvious sexual desire. Such figures suggest queer sexuality in films and television in that their refusal of the normative codes of masculinity suggest an alternative to them.
->
-> As with Ash, but much more pitiably, the white blood that drenches Bishop suggests both mother's milk and semen. But in a radical decontextualization, semen here... suggests the vulnerability of male bodies, their susceptibility to violation, rather than unseemly urges. 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
-
+> “<mark>She’s an outsider — she was just who she was</mark>,” Goldstein says. “<mark>With Vasquez, I never said she was straight or gay, because to her it was nobody’s business.</mark>” The ambiguity made it easy for fans from all outsider positions to identify with her.
+> 
+> “<mark>A lot of gay women come up and say, ‘Oh my god, when I saw you, and you had a masculine look to you, I saw myself,’</mark>” Goldstein says. “<mark>But I had straight women coming up to me with the same thing.</mark> <mark>Someone was going through breast cancer, and she told me that with each round of chemo she would think of Vasquez. A gay man from Guatemala came up to me, and he said, ‘I identify so much with her,’ but he was very feminine. Vasquez is universal.</mark>”
 
 </from>
 </compare>
@@ -1080,15 +1142,20 @@ Elsewhere in the film is Bishop another sexless cyborg like the first film's Ash
 <compare>
 <james {% include timecode %}>
 
-Grevin further suggests that the aliens, and especially the alien queen, represent a cisgendered heteronormative status quo that resents the changing times. what gives this entire spectacle of shaming its radical charge is the queer typing of Ripley as mother. With her short hair and male garb, Ripley combines the masculine and the feminine. 
+Elsewhere in the film is <mark>Bishop</mark>, another <mark>sexless cyborg</mark> like the first film's Ash. <mark>David Greven in *Demeter and Persephone in Space*</mark> observes:
 
-With her casual indifference to heterosexual sex, despite some no sweat flirtation with Hicks, she suggests the possibility of different sexual needs. With her adoption of a child, she suggests the lesbian mother who thinks outside the normative procreational box. The alien queen's vicious contempt conveys the charge of an old customary inability to recognize the beauty and heroism in queer love of the kind Ripley and Newt embody. 
-
-Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the wounded vulnerable and bedridden Hicks, together constitute the new queer family. The alien queen, a repository of old modes of contempt and hate. 
+> <mark>Bishop, the cyborg retooled as</mark> a <mark>queer suffering body, is an example of a resistant masculinity devoid of any obvious sexual desire. Such figures suggest queer sexuality in films and television</mark> <mark>in that their refusal of the normative codes of masculinity suggest</mark> <mark>an alternative to them.</mark>
+>
+> <mark>As with Ash, but much more pitiably, the white blood that drenches Bishop suggests both mother's milk and semen. But in a radical decontextualization, semen here</mark>... <mark>suggests the vulnerability of male bodies, their susceptibility to violation, rather than unseemly urges</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ ?" %}>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 18-20" %}>
 
+Finally, there’s <mark>Bishop</mark>, the <mark>“artificial person”</mark> who is gendered as male but has no real sex. The very fact that he requests to be called a more politically correct version of his kind codes him as being a minority. One might assume he’s a stand-in for African Americans during the Jim Crow years, as he’s treated as a servant in a lower tier of society. But considering his soft voice and gentle mannerisms, it’s more fitting that he’s an analog for a gay man.
+
+As <mark>David Greven explains in “</mark>[<mark num="">Demeter and Persephone in Space</mark>: Transformation, Femininity and Myth in the Alien Films](https://www.ejumpcut.org/archive/jc52.2010/GrevenAliens/3.html)“:
+
+> <mark>Bishop, the cyborg retooled as</mark> <mark>queer suffering body, is an example of a resistant masculinity devoid of any obvious sexual desire. Such figures suggest queer sexuality in films and television</mark> series <mark>in that their refusal of the normative codes of masculinity suggest</mark>s <mark>an alternative to them.</mark> <mark>As with Ash, but much more pitiably, the white blood that drenches Bishop suggests both mother’s milk and semen. But in a radical decontextualization, semen here</mark>, as it almost never does in film (and the substance would go on to make quite a visible mark on subsequent films ranging from The Silence of the Lambs, 1991, to There’s Something About Mary, to the numerous American Pie films and beyond), <mark>suggests the vulnerability of male bodies, their susceptibility to violation, rather than unseemly urges</mark> (Silence and serial killer Multiple Miggs, who vilely flings his ejaculate at the heroine) or comic, embarrassing waste (gross-out comedies).
 
 </from>
 </compare>
@@ -1096,12 +1163,37 @@ Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the
 <compare>
 <james {% include timecode %}>
 
-So while Grevin suggests that the conservative alien queen has contempt for the queer family dynamic, the metaphor could go even further. Cameron creates a future where gender norms have all but disappeared. Even subtle things like fashion, such as the female Weyland-Yutani executive at Ripley's hearing wearing a power suit and sporting an androgynous haircut, to the fact that the marines have a co-ed locker room suggest the battle of the sexes ended in a draw. 
+<mark>Greven further suggests that the aliens, and especially the Alien Queen, represent a cisgendered heteronormative status quo that resents the changing times</mark>. <mark>What gives this entire spectacle of shaming its radical charge is the queer typing of Ripley as mother. With her short hair and male garb, Ripley combines the masculine and the feminine.</mark> 
 
-It's the alien queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries. 
+<mark>With her casual indifference to heterosexual sex, despite some no-sweat flirtation with Hicks, she suggests the possibility of different sexual needs. With her adoption of a child, she suggests the lesbian mother who thinks outside the normative procreational box. The Alien Queen's vicious contempt conveys the charge of an old customary inability to recognize the beauty and heroism in queer love of the kind Ripley and Newt embody</mark>. 
+
+<mark>Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the wounded vulnerable and bedridden Hicks, together constitute the new queer family. The Alien Queen, a repository of old modes of contempt and hate.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 21-22" %}>
+
+<mark>Greven further suggests that the aliens, and specifically the Alien Queen, represent a cis-gendered, heteronormative status quo that resents the changing times</mark>:
+
+> <mark>What gives this entire spectacle of shaming its radical charge is the queer typing of Ripley as mother. With her short hair and male garb, Ripley combines the masculine and the feminine.</mark> <mark>With her casual indifference to heterosexual sex, despite some no-sweat flirtation with Hicks, she suggests the possibility of different sexual needs. With her adoption of a child, she suggests the lesbian mother who thinks outside the normative procreational box. The Alien Queen’s vicious contempt conveys the charge of an old, customary inability to recognize the beauty and heroism in queer love of the kind Ripley and Newt embody</mark>. <mark>Read as a queer allegory, Ripley, Newt, the reintegrated android Bishop, and the wounded, vulnerable, and bed-ridden Hicks together constitute the new queer family; the Alien Queen, a repository of old modes of contempt and hate.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>So while Greven suggests that the conservative alien queen has contempt for the queer family dynamic</mark>, the metaphor could go <mark>even further. Cameron creates a future where gender norms have all but disappeared. Even subtle things like fashion, such as the</mark> female Weyland-Yutani executive <mark>at Ripley's hearing wearing a power suit and sporting an androgynous haircut, to the fact that the marines have a co-ed locker room suggest the battle of the sexes ended in a draw.</mark> 
+
+<mark>It's the Alien Queen who, although she rules over an army of male drones, is actually trapped within the biological determinism of her sex forever, cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 27" %}>
+
+<mark>So while Greven suggests that the conservative Alien Queen has contempt for the queer family dynamic</mark> of Ripley, Newt, Hicks and Bishop, I’d go <mark>even further. Cameron creates a future where gender norms have all but disappeared. Even subtle things like fashion, such as the</mark> corporate woman <mark>at Ripley’s hearing wearing a power suit and sporting an androgynous haircut, to the fact that the marines have a co-ed locker room, suggest the battle of the sexes ended with a draw.</mark>
+
+<mark>It’s the Alien Queen who, although she “rules” over an army of male drones, is actually trapped within the biological determinism of her sex. Forever cranking out eggs, she ironically wants to destroy this new world and turn back the clock a few centuries.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -1116,14 +1208,20 @@ There's also the AIDS allegory of the entire alien franchise. Though obviously n
 <compare>
 <james {% include timecode %}>
 
-This became especially prescient with the release of Alien 3. The death of Newt and Hicks before the film even begins is central to this message. AIDS seemingly kills at random. The young and innocent like Newt. The healthy young men like Hicks. Or, like Ripley, you might avoid the disease by pure luck. 
+This became especially prescient with the release of Alien 3. <mark>The death of Newt and Hicks</mark> before the film even begins is <mark>central to this message.</mark> <mark>AIDS seemingly kills at random</mark>. The young and <mark>innocent like Newt</mark>. The <mark>healthy young men like Hicks</mark>. Or, like Ripley, you might avoid the disease by pure luck. 
 
-Then there's the population of Fury 161, an almost completely abandoned prison planet. One of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable venture, much like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure. And
-this speech from Dylan:
+<mark>Then there's the population of Fury 161, an almost completely abandoned prison planet. One of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable</mark> venture, much like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure. And this <mark>speech</mark> from <mark>Dylan</mark>:
 
 </james>
-<from {% include citation for=page.cite.plagiarized.jf_sargent at="¶ ?" %}>
+<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
 
+Alien 3 is secretly about AIDS in the '80s and early '90s, and how badly we fucked up trying to deal with this epidemic.
+
+<mark>The deaths of Newt and Hicks</mark>, as painful as they were, is actually <mark>central to this message.</mark> The scariest thing about <mark>AIDS (in Alien 3) is that it seems to kill almost randomly</mark> -- it doesn't matter if you are an <mark>innocent like Newt</mark> or a fit and <mark>healthy young man like Hicks</mark>; you might start showing symptoms and quickly die before anyone even knows what's going on.
+
+<mark>Then, there's the population of "Fury" 161, an almost completely abandoned prison planet. One of the higher-ups realizes they can potentially wrangle this little alien-problem into a profit</mark>. So, they show up dressed in hazmat suits -- which is what some doctors chose to wear when they treated AIDS patients.
+
+But, the most telling part is the <mark>speech</mark> given by the character <mark>Dillon</mark>, who explains his decision to try and kill the monster that's killing them:
 
 </from>
 </compare>
@@ -1134,16 +1232,25 @@ this speech from Dylan:
 Dylan: "The only question is how you check out. Do you want it on your feet or on your fucking knees? Damn! I ain't much for begging."
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
+
+*"You're all gonna die. The only question is how you check out. Do you wanna go on your feet or on your fucking knees, begging? I ain't much for begging! Nobody ever gave me nothing. So, I say, fuck that thing. Let's fight it."*
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Hitting like Larry Kramer's 1987 speech when he launched ACT UP. The alien created by H.R Geiger, brought to life by Ridley Scott, and perfected by James Cameron, is a monster that exploited our fears of gender, sex, infection, and lost control. A monster so ravenous, there is no escape. But not all monsters are so obvious.
+<mark>Hitting like Larry Kramer's 1987 speech when he launched ACT UP.</mark> The alien created by H.R Geiger, brought to life by Ridley Scott, and perfected by James Cameron, is a monster that exploited our fears of gender, sex, infection, and lost control. A monster so ravenous, there is no escape. But not all monsters are so obvious.
 {% assign timecode = "47:39" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
+
+It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from when he launched ACT UP in New York in 1987</mark>, five years before Alien 3 was released: "If my speech tonight doesn't scare the shit out of you, we're in real trouble. If what you're hearing doesn't rouse you to anger, fury, rage, and action, gay men will have no future here on Earth. How long does it take before you get angry and fight back?"
+
+</from>
 </compare>
 
 ## Death by Monogamy
@@ -1151,68 +1258,131 @@ Hitting like Larry Kramer's 1987 speech when he launched ACT UP. The alien creat
 <compare>
 <james {% include timecode %} id="para14" mid-text="Paragraph-14">
 
-*It Follows* tells the story of Jay, a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh. After they first have sex Hugh sedates her, forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on, or else she'll be tracked down and killed by an other-worldly entity, the titular "it". If it kills her, it will resume tracking Hugh, since it follows only one person at a time. 
+<mark>*It Follows* tells the story of Jay</mark>, <mark>a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh.</mark> <mark>After they first have sex Hugh sedates her</mark>, <mark>forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on,</mark> or else <mark>she'll be tracked down and killed by an other-worldly entity, the titular "it"</mark>. <mark>If it kills her, it will resume tracking Hugh</mark>, since <mark>it follows only one person at a time</mark>. 
 
-The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being. Though many critics pointed out that *It Follows* cleverly subverts the usual "you have sex, you die" trope from 1980's slasher movies, few grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
+<mark>The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being</mark>. <mark>Though many critics pointed out</mark> that *It Follows* <mark>cleverly subverts the usual "you have sex, you die" trope</mark> from <mark>1980's slasher movies, few</mark> grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
+
+<mark>*It Follows* tells the story of Jay</mark> Height (Maika Monroe), <mark>a nineteen-year-old Detroit suburbanite who acquires a sexually transmitted curse from her boyfriend, Hugh</mark> (Jake Weary). <mark>After they first have sex, Hugh sedates her</mark> with chloroform and ties her up, <mark>forcing her to heed his bizarre instructions about the curse: she must “sleep with someone as soon as [she] can” in order to pass it along to another person (and on and on,</mark> like a chain letter), lest <mark>she be tracked down and killed by a ghostly entity—the titular “It”</mark>—that takes various human forms, slowly but perpetually walking toward her location. <mark>If It kills her, It will resume following Hugh</mark> or whoever else preceded each of them in the sexual chain. <mark>It follows only one person at a time</mark>, so maintaining a continual line of transmission is necessary for survival. Aided by her younger sister Kelly (Lili Sepe) and friends Yara (Olivia Luccardi) and Paul (Keir Gilchrist), Jay attempts to locate the vanished Hugh while emotionally wrestling with whether and to whom to give the curse for her own protection. After eventually passing the curse to her unbelieving neighbor Greg (Daniel Zovatto) proves to be Greg’s undoing once It catches up with him, Paul then volunteers his own body to Jay, perhaps more eager to have sex with his unrequited crush than to help the childhood friend with whom he experienced his first kiss. After a climactic confrontation in which It takes the form of the sisters’ absent father, the ilm ends with Jay and Paul beginning a romantic relationship, unaware that It still follows them. 
+
+<mark>The monster in *It Follows* may be a supernatural being, but the ilm’s true source of horror is living under a regime of sexual shame wherein our heteronormative culture compels sexual subjects toward monogamy—even at the risk of their overall well-being</mark>. <mark>Although nearly all critics observed</mark> that the film’s conceit was a <mark>clever reworking of the “have-sex-and-die” cliché</mark> commonly associated with the fate of disposable teenage characters in 1970s and <mark>1980s horror films, few</mark> critics grasped the film’s most subversive implications: the curse would become moot in a society embracing the value of a multiplicity of sexual partners in conjunction with an ethos of open communication and mutual support. In other words, the characters’ failings illustrate how the film’s logic finds monogamy (serial or otherwise) as promising perpetual danger, whereas one’s survival would be far better ensured through what Michael Warner has called an “ethics of queer life.”<sup>2</sup>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-At a glance *It Follows* would seem unlikely to have a queer reading, since it doesn't feature any queer characters or monsters that could be easily coded as such. Nor does it feature any of the homoerotic undertones of movies like *A Nightmare on Elm Street II*, *The Lost Boys*, or *Rope*. Instead its queerness is less monolithic. 
-
-For some viewers, a horror movie that depicts sexual partners spreading a deadly curse via sex might seem deeply sex-negative. Indeed, many reviewers saw the film's central conceit as tapping into the fears of anyone who came of age during the AIDS crisis. The threat of AIDS has, of course long, been allegorically linked to popular horror imagery, like the aforementioned *Alien*, John Carpenter's *The Thing*, David Cronenberg's *The Fly*, or any number of post-80s vampire tales. 
+<mark>At a glance *It Follows* would seem unlikely to have a queer reading, since it doesn't feature any queer characters or monsters that could be easily coded as such.</mark> <mark>Nor does it feature any of the homoerotic undertones of movies like</mark> *A Nightmare on Elm Street II*, *The Lost Boys*, or *Rope*. Instead its queerness is less <mark>monolithic</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
+
+**Contagion, Queer Intimacies, and the Normative Couple.** <mark>At first glance, *It Follows* would seem an unlikely candidate for a queer reading, since it features neither protagonists nor monsters that might be coded as “queer”</mark> in an identity-based sense. Following Harry Benshoff’s influential 1997 study *Monsters in the Closet: Homosexuality and the Horror Film*, most academic discussions of queer horror cinema have tended to explore how the genre’s depictions of monstrosity can be read as symbolizing the supposed “threat” of homosexuality, offering both pleasures and misgivings among gay and lesbian viewers.<sup>3</sup> <mark>Nor does *It Follows* register any of the overtly homoerotic appeal exhibited in</mark>, say, David DeCoteau’s[^decoteau] beefcake horror films that represent “part of the ongoing hegemonic negotiation of exactly what the phrase ‘queer horror film’ might actually signify.”<sup>4</sup> For understandable reasons of political reclamation,established minoritarian identities like “gay” and “lesbian” remain the dominant points of reference in much of this critical literature. Although the previously cited authors do highlight how queerness can operate in these films in multivalent ways for different audiences, “queer” ultimately tends to operate in these accounts as more of an umbrella term for a variety of same-sex-desiring identities rather than to suggest a fluidity of (nonnormative) desires that would evade or blur the very boundaries of minoritarian identities—or, as Eve Kosofsky Sedgwick puts it in her famous definition:“[T]he open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s gender, of anyone’s sexuality aren’t made (or *can’t be* made) to signify <mark>monolithically</mark>.”<sup>5</sup>
+
+[^decoteau]: None of the films James mentions are listed as [David DeCoteau's filmography](https://en.wikipedia.org/wiki/David_DeCoteau).
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-But the film's queer lesson is less about the avoidance of sex than the management of risk. After all according to the film's logic, those infected by the curse can survive only by successfully finding new sexual partners, versus remaining abstinent and living out the fatal consequences of their prior sexual history. The film barely acknowledges that Jay has any other option but to find new partners, and it's her hesitance to move beyond a series of monogamous bonds that could ultimately prove to be her downfall. 
+<mark>For some viewers, a horror movie that depicts sexual partners</mark> <mark>spreading a deadly curse via sex might seem deeply sex-negative</mark>. <mark>Indeed, many</mark> <mark>reviewers saw the film's central conceit as tapping into the fears of anyone who came of age during the AIDS crisis.</mark> <mark>The threat of AIDS has, of course, long been allegorically linked to popular horror imagery</mark>, like the aforementioned *Alien*, <mark>John Carpenter's *The Thing*</mark>, <mark>David Cronenberg's *The Fly*</mark>, or any number of post-80s <mark>vampire</mark> tales. 
 
-Therefore the film implies that having a sex life is inevitable and always involves a certain level of risk, emotional or physical. But the film also suggests that the danger truly lies in the social attitudes that make sex and promiscuity shameful. We're also told very clearly that Jay was not a virgin at the beginning of the film when she acquired the curse. And therefore the allegorical infection shouldn't be looked at as some kind of punishment for premarital or non-procreative sex, as it would be in so many other movies in the genre. 
+<mark>But the film's queer lesson is less about the avoidance of sex than the management of risk. After all according to the film's logic, those infected by the curse can survive only by successfully finding new sexual partners, versus remaining abstinent and living out the fatal consequences of their prior sexual history.</mark> <mark>The film barely acknowledges that Jay has any other option but to find new partners, and it's her hesitance to move beyond a series of monogamous bonds that could ultimately prove to be her downfall.</mark> 
+
+Therefore the film <mark>implies that having a sex life is inevitable and always involves a certain level of risk, emotional or</mark> physical. <mark>But the film also suggests that the danger truly lies in the social attitudes that make</mark> sex and promiscuity shameful. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.6" %}>
+
+<mark>For some viewers, a horror film that depicts sexual partners</mark> callously <mark>spreading a deadly curse via intercourse might seem deeply sex-phobic</mark>—<mark>indeed, most</mark> of the film’s <mark>reviewers understood the film’s central conceit as tapping into “the fears of anyone who came of age during the AIDS plague</mark> years.”<sup>7</sup>  <mark>The threat of AIDS has, of course, long been allegorically linked to popular horror imagery</mark>, from crisis-era films like <mark>*The Thing* (John Carpenter</mark>, 1982), *The Hunger* (Tony Scott, 1983), and <mark>*The Fly* (David Cronenberg</mark>,1986) to perceptions of the AIDS-era gay man as gothic <mark>vampire</mark>.<sup>8</sup> Allusions to that most infamously incurable and stigmatizing of sexually transmitted diseases abound in the critical reception of *It Follows*, <mark>but the film’s queer lesson is less about the avoidance of sex than the management of risk. After all, according to the film’s logic, those infected by the curse can survive only by successfully finding new sexual partners, versus remaining abstinent and living out the fatal consequences of their prior sexual history.</mark><sup>9</sup> <mark>The film scarcely acknowledges that Jay has any other option but to find new partners, but her hesitance to move beyond a series of monogamous bonds ultimately proves her downfall</mark> as well. *It Follows* thus <mark>implies that having a sexual life is inevitable and always involves a certain negotiation of risk (emotional or</mark> otherwise)—<mark>but the film also suggests that the danger truly lies in the social attitudes that make</mark> one increasingly objectified and stigmatized as a consequence of one’s sexual history.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Importantly neither Hugh nor the film in general ever specify which sexual acts will successfully pass along the curse, thus opening plenty of space for queer speculation. Is heterosexual sex the only option? Will same-sex partners do the trick? Do oral or anal sex count? What about non-genital forms of sexuality: S&M, kink, or masturbation, maybe? Just how conventional and vanilla are the expectations of this paranormal being?
+We're also told very clearly that <mark>Jay was not a virgin at the beginning of the film</mark> when she acquired the curse. And therefore <mark>the allegorical infection shouldn't be looked</mark> at as some kind of <mark>punishment for premarital or non-procreative sex</mark>, as it would be in so many other movies in the genre. 
 
-The idea of destigmatizing promiscuous sex was particularly timely when *It Follows* hit theaters. Media attention had just begun addressing the slow growing popularity of drugs like Truvada as a way to stop new HIV infections. Not only does the drug reduce the likelihood of a positive person passing on the disease, in some cases making it impossible, but can also prevent the disease from taking hold if taken by HIV negative people, thus reopening a part of queer sexual life that had been more or less shut off since the 1980s. 
+<mark>Importantly</mark> <mark>neither Hugh nor the film in general ever specify which sexual acts will successfully pass along the curse, thus opening plenty of space for queer speculation. Is heterosexual sex the only option? Will same-sex partners do the trick? Do oral or anal sex count?</mark> <mark>What about non-genital forms of sexuality</mark>: S&M, kink, or masturbation, maybe? <mark>Just how conventional and vanilla are the expectations of this paranormal being</mark>?
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.7" %}>
+
+We later learn that <mark>Jay was not a virgin when the film began</mark>—she says she already
+slept with Greg back in high school and it “wasn’t a big <mark>deal”—so acquisition of the curse should not be seen</mark> as her character’s <mark>“punishment” for premarital or non-procreative sex</mark>. Indeed, just before Jay arrives home with her newly acquired curse, we see Kelly, Yara, and Paul playing Old Maid on the front porch, the camera slowly zooming in on the Old Maid card; the game’s goal of avoiding the mismatched card (personified by a decrepit, asexual spinster) ironically foreshadows the “game” that Jay will soon be forced to play in finding new sexual “matches” to inherit the curse.
+
+<mark>Importantly</mark>, however, <mark>neither Hugh nor the film in general ever specify *which* sexual acts will successfully pass along the curse—thus opening plenty of space for queer speculation. Is heterosexual intromission the only option? Will same-sex partners do the trick? Do oral or anal sex count?</mark><sup>10</sup> <mark>What about nongenital forms of sexuality</mark>? <mark>Just how conventional and vanilla are the expectations of this paranormal entity</mark>, anyway? Although these speculations might strike some readers as silly [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-But anyone who mentioned that they were using the drug, commonly known as PREP immediately found themselves being slut-shamed. Many doctors could be judgmental of patients asking for the once a day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PREP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
+The idea of destigmatizing promiscuous sex was particularly timely when *It Follows* hit theaters. <mark>Media attention had just begun addressing the slow growing popularity of</mark> <mark>drugs like Truvada</mark> as a way to stop new HIV infections. Not only does the drug reduce the likelihood of a positive person passing on the disease, in some cases making it impossible, but can also prevent the disease from taking hold if taken by HIV negative people, <mark>thus reopening</mark> a part of <mark>queer sexual life that </mark>had been more or less <mark>shut off since the 1980s</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.14" %}>
+
+Here, especially, the film’s resonance with AIDS anxieties gains greater relevance. At the time *It Follows* appeared on screens, <mark>media attention began addressing the slow-growing popularity of</mark> preexposure prophylaxis (PrEP) <mark>drugs, such as Truvada</mark>, that prevent HIV viral transmission altogether, <mark>thus reopening</mark> possibilities for <mark>queer sexual life that </mark>once seemed <mark>foreclosed by the threat of AIDS</mark> and the push toward same-sex marriage.<sup>28</sup> In Tim Dean’s brilliantly provocative 2009 book Unlimited Intimacy, he argues that condomless “bareback” sex has [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But anyone who mentioned that they were using the drug, commonly known as PrEP, immediately found themselves being slut-shamed. Many doctors could be judgmental of patients asking for the once-a-day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PrEP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
 
 But, for a time, right around the release of *It Follows* the shame of being seen as promiscuous by doctors or friends stopped a lot of people from getting the new little blue pill. Until then anything but monogamy, even with a condom, was looked at as a risky, dangerous, and irresponsible behavior in much of the queer community. 
 
 </james>
-<from></from>
+<comment>
+{{ site.tustin.header }}
+
+The article James is stealing from goes on a several-paragraph diversion...
+ 
+> [...] many PrEP users are currently stigmatized as “Truvada whores” (regardless of whether they actually engage in promiscuity), [...]
+
+James doesn't copy anything word-for-word, but does summarize Church's points.
+
+David Church cites [this Huffington Post contributor piece](https://www.huffpost.com/entry/truvada-whores_b_2113588).
+
+<div class="footer">Duran, D. (2012, Nov 12). <em>Truvada Whores?</em> [Article]. Huffington Post. Retrieved Dec 23, 2023.</div>
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-*It Follows* appeared at a historical moment when a hetero- turned homo-normative model of monogamy was upheld as law of the land/ while a countervailing trend saw the partial overcoming of long-time anxieties about the most infamously fatal of sex-born diseases, opening fresh possibilities for sexual autonomy. The film may not have been deliberately intended as a socio-political commentary on such shifts. Indeed David Robert Mitchell, the film's writer/director, left the monster's motives and weaknesses nightmarishly unexplained and open to interpretation. But the place of queerness as a sort of structuring absence within the film, an unnamed but perpetually haunting presence still speaks to a queer audience.
+<mark>*It Follows* appeared at a historical moment when a hetero- turned homo-normative model of monogamy was upheld as law of the land</mark>, <mark>while a countervailing trend saw the partial overcoming of long-time anxieties about the most infamously fatal of sex-born diseases, opening fresh possibilities for sexual autonomy</mark>. <mark>The film may not have been deliberately intended as a socio-political commentary on such shifts. Indeed David Robert Mitchell</mark>, the film's writer/director, <mark>left the monster's motives and weaknesses nightmarishly unexplained and open to interpretation. But the place of queerness as a sort of structuring absence within the film, an unnamed but perpetually haunting presence still speaks to</mark> a queer audience.
 
-But just like how PREP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. Following a traumatic confrontation that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently monogamous couple walk hand in hand down a quiet suburban street, unaware that behind them *It Follows*.
+</james>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.14" %}>
+
+Overall, then, <mark>*It Follows* appeared at a historical moment when a hetero-cum-homonormative model of monogamy was upheld as law of the land</mark> in its extension to gay and lesbian couples <mark>while a countervailing trend saw the (partial) overcoming of longtime anxieties about the most infamously fatal of sex-borne diseases, opening fresh possibilities for sexual autonomy</mark> through multiplicitous intimacies. <mark>The film may not have been deliberately intended as a sociopolitical commentary on such shifts—indeed, David Robert Mitchell</mark> <mark>left the monster’s motives and weaknesses nightmarishly unexplained and open to interpretation—but the place of queerness as a sort of structuring absence within the text, an unnamed but perpetually haunting presence, still speaks to</mark> the film’s centrality within an emergent “structure of feeling” informed by queerness’s lingering status as an indeterminate quality that, despite recent political shifts, cannot be fully incorporated into normative socialization.<sup>33</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But just like how PrEP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. <mark>Following a traumatic confrontation</mark> that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently monogamous couple walk hand in hand down a quiet suburban street, <mark>unaware that behind them *It Follows*.</mark>
 {% assign timecode = "53:59" %}
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
+
+[...] After eventually passing the curse to her unbelieving neighbor Greg (Daniel Zovatto) proves to be Greg’s undoing once It catches up with him, Paul then volunteers his own body to Jay, perhaps more eager to have sex with his unrequited crush than to help the childhood friend with whom he experienced his first kiss. <mark>After a climactic confrontation</mark> in which It takes the form of the sisters’ absent father, the film ends with Jay and Paul beginning a romantic relationship, <mark>unaware that It still follows them.</mark>
+
+</from>
 </compare>
 
 ## Disturbia
@@ -1292,7 +1462,7 @@ Billy: "Maybe your movie-freak-mind lost it's reality button, you ever think of 
 <compare>
 <james {% include timecode %}>
 
-As Billy gets in Randy's face, Stu comes up from behind him in a shockingly intimate almost threesome. What has been called femmephobia intersects here with homophobia, as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
+As Billy gets in Randy's face, Stu comes up from behind him in a shockingly intimate almost threesome. What has been called femme-phobia intersects here with homophobia, as the killer's increasingly inept performance of gender mirrors their ultimately inept attempt to craft
 the perfect murder plot. Craven makes the interesting choice to stage the big revelation scene at the climax of the film... in the kitchen. The Mama's Boy Killers reveal their nefarious identities within the domestic space most closely associated with the mother.
 
 Earlier in the film, Billy and Sydney have sex after she announces that, if life is one big movie genre, her pick is porn. Ghostface suddenly appears right after they've finished and seemingly stabs Billy to death. One can assume that he's been watching them do the deed the entire time. Of course, we soon learn that this is only a ruse to distract Sydney from Billy's real identity as one of the killers. Billy staggers back to life in his seemingly blood-drenched t-shirt. Getting possession of the gun Sydney had been wielding, Billy shoots Randy and then dabs a finger in his blood and brings it up to his lips. 
@@ -1402,7 +1572,7 @@ In acknowledgment of these real everyday social pressures on Amelia, the form ta
 <compare>
 <james {% include timecode %}>
 
-And then there's the house, a victorian style house that Kent had constructed specifically for this film, and that operates as a character in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre. The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family. How homeownership is often considered a milestone for success and stability for those a part of, or wishing to be a part of, the heteronormative masses. How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to those who are not physically ideal.
+And then there's the house, a victorian style house that Kent had constructed specifically for this film, and that operates as a character in its own right. Specifically of note are the ways that the home in the film diverges from both idealized constructions of the home and the role of the home within the horror movie genre. The signifier of the home often functions as an allegory for heteronormative, sexist, ablest, and classist figurations of family. How home ownership is often considered a milestone for success and stability for those a part of, or wishing to be a part of, the heteronormative masses. How often the home acts as a site for the production and regulation of bodies that are normatively gendered and sexed. And how consistently the culture of suburban home life, and typical design practices, presume that a house's inhabitants will all be fully abled, thereby rendering them inaccessible to those who are not physically ideal.
 
 </james>
 <from></from>
@@ -1441,7 +1611,7 @@ He exists in a half-acknowledged state by the other people in his house. The fam
 
 > "For many lgbt people, that's what it feels like to be in your own family sometimes."
 
-Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" outloud to be read as queer, or to become queer icons.
+Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" out loud to be read as queer, or to become queer icons.
 
 > "So many LGBT people have been barred from seeing themselves represented in popular culture, so we've had to project ourselves into so many of these figures."
 
@@ -1479,7 +1649,7 @@ Since its release, the novel has inspired fans to discuss its themes, allegories
 When Eddie first encounters Pennywise, the titular "It", he's at a place known to attract hobos and drifters. It takes the form of a hobo who's stricken with disease. It uses a leper to frighten Eddie instead of your typical horror movie monster.
 
 \[Quote shown on screen:]
-> One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lintballs. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
+> One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
 > 
 > "I-I don't have a quarter" Eddie said, backing toward his bike.
 >
