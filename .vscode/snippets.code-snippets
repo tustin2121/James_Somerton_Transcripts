@@ -32,16 +32,16 @@
 	"spelling": {
 		"prefix": "spelling",
 		"body": [
-			"$TM_SELECTED_TEXT<sup class\"add\">[sic: $TM_SELECTED_TEXT$1]</sup>"
+			"$TM_SELECTED_TEXT<sup class=\"add\">[sic: $TM_SELECTED_TEXT$1]</sup>"
 		],
 		"description": "Correct spelling on a word in [sic] tag."
 	},
 	"del": {
 		"prefix": "del",
 		"body": [
-			"<span class=\"del\">$TM_SELECTED_TEXT</span><span class=\"add\">$1</span>"
+			"<span class=\"del\">$TM_SELECTED_TEXT</span>$0"
 		],
-		"description": "Strike text and add replacement"
+		"description": "Strike text"
 	},
 	"add": {
 		"prefix": "add",
@@ -77,7 +77,7 @@
 			"<from></from>".
 			"</compare>".
 		],
-		"description": "Insert timecode assignment"
+		"description": "Insert compare block with James block"
 	},
 	"credits-block": {
 		"prefix": "credits",
@@ -90,7 +90,20 @@
 			"</credits>".
 			"</compare>".
 		],
-		"description": "Insert timecode assignment"
+		"description": "Insert compare block with credits block"
+	},
+	"clip-block": {
+		"prefix": "clip",
+		"body": [
+			"<compare>",
+			"<clip {% include citation for=page.cite.clip.hannibal %}>",
+			"",
+			"$TM_SELECTED_TEXT$1",
+			"",
+			"</clip>".
+			"</compare>".
+		],
+		"description": "Insert compare block with clip block"
 	},
 	
 	"citation": {
@@ -99,5 +112,13 @@
 			"{% include citation for=page.cite.plagiarized.$0 at=\"¶ ?\" %}"
 		],
 		"description": "Surround with inline quote"
+	},
+	
+	"by-all-accounts": {
+		"prefix": "by-all-accounts",
+		"body": [
+			"<span class=\"baa\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert \"by all accounts\""
 	},
 }
