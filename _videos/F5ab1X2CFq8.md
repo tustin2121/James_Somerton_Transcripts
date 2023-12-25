@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20
 title: The Queer Dystopia of the LGB Movement
-status: In Progress
+status: Finished
 aka: !!seq
   - "The LGB Dystopia (Thumbnail)"
 topics: !!seq
