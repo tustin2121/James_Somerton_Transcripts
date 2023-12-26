@@ -43,6 +43,7 @@ cite:
       _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
       david_mcintee: "David McIntee"
       karen_tongson: "Karen Tongson"
+    fear_unknown: "James misenterprets an abstract of a paper and assumes that the fear of the unknown is a cause of anxiety around the world"
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
@@ -193,7 +194,18 @@ And so the queer entered into the horror canon. Centuries before hollywood even 
 <compare>
 <james {% include timecode %}>
 
-The fear of the unknown, according to the American Psychological Association, is one of the most prominent causes for anxiety among people in both the first and third world. It accounts for the hatred toward anything existing outside the norm. In bathroom laws across the United States, in the banning of immigrants, in the murder of non-white people, in the remaining animosity toward homosexuals, and anyone looked at as queer.
+The fear of the unknown, according to the American Psychological Association, is one of the most prominent causes for anxiety among people in both the first and third world.
+</james> 
+<comment id="fear_unknown">
+{{ site.tustin.header }}
+
+Performing a [search](https://www.google.com/search?q=%22fear+of+the+unknown%22+site%3Aapa.org#ip=1) for "fear of the unknown" on the American Psycological Association's website turns up very few relevant results. The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469?via=ihub#sec0005) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
+
+</comment>
+</compare>
+<compare>
+<james>
+It accounts for the hatred toward anything existing outside the norm. In bathroom laws across the United States, in the banning of immigrants, in the murder of non-white people, in the remaining animosity toward homosexuals, and anyone looked at as queer.
 
 </james>
 <from></from>
