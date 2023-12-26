@@ -116,6 +116,7 @@ compare james[timecode]::before   { content: 'James: (' attr(timecode) ')'; text
 compare nick[timecode]::before    { content: 'Nick: (' attr(timecode) ')'; text-align-last: justify; }
 
 compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
+compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 
 .podcast compare {
 	grid-template-areas: unset;
