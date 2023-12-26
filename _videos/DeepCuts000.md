@@ -10,7 +10,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Society+and+Queer+Horror.mp4"
-description: "a video essay on <xyz>."
+description: "a video essay that is so plagiarized that it ruined a whole man's career."
 notes: 
   - highlighted
   - hbomb
