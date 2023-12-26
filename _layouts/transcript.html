@@ -14,8 +14,8 @@
 		{%- if page.description -%}{{ page.description }}{%- endif -%}
 	{%- endcapture -%}
 	<title>{{ page.title }} | Transcript</title>
+	<meta name="description" content="{{ ogdesc }}" />
 	<meta property="og:title" content="{{ page.title }} | Transcript" />
-	<!-- <meta property="og:description" content="{{ content | strip_html | string_with_newlines | truncatewords: 24 }}" /> -->
 	<meta property="og:description" content="{{ ogdesc }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
@@ -101,7 +101,7 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				{% if page.cite.yikes.size > 0 -%}
-					<ul class="refs yikes" header="This video has {{ page.cite.yikes.size }} problamatic take(s):">
+					<ul class="refs yikes" header="This video has {{ page.cite.yikes.size }} problematic take(s):">
 						{% for item in page.cite.yikes %}
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}

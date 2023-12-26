@@ -10,7 +10,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Society+and+Queer+Horror.mp4"
-description: "a video essay that is so plagiarized that it ruined a whole man's career."
+description: "a video essay that is so plagiarized that it ended a man's whole career."
 notes: 
   - highlighted
   - hbomb
@@ -1284,7 +1284,7 @@ It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from
 
 <div class="footer">
 
-2. TODO
+2. Michael Warner, *The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life* (New York: Free Press, 1999)
 
 </div>
 </from>
@@ -1303,9 +1303,9 @@ It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from
 
 <div class="footer">
 
-3. TODO
-4. TODO
-5. TODO
+3. Harry M. Benshoff, *Monsters in the Closet: Homosexuality and the Horror Film* (Manchester, UK: ManchesterUniversity Press, 1997).
+4. Harry M. Benshoff, “‘Way Too Gay to Be Ignored’: The Production and Reception of Queer Horror Cinema in theTwenty-First Century,” in *Speaking of Monsters: A Teratological Anthology*, ed. Caroline Joan S. Picart and JohnEdgar Browning (New York: Palgrave Macmillan, 2012), 134. Also see Glyn Davis, “A Taste for *Leeches!* DVDs,Audience Conﬁgurations, and Generic Hybridity,” in *Film and Television after DVD*, ed. James Bennett and TomBrown (New York: Routledge, 2008), 45–62.
+5. Eve Kosofsky Sedgwick, *Tendencies* (Durham, NC: Duke University Press, 1993), 8, original italics
 
 † None of the films James mentions are listed as [David DeCoteau's filmography](https://en.wikipedia.org/wiki/David_DeCoteau).
 
