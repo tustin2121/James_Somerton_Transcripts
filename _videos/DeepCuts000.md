@@ -20,6 +20,7 @@ notes:
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
   formatting: "Tustin2121"
+  factcheck: "\"Former Fans\" Discord contributors, including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman"
 
 cite:
   clips: !!map
@@ -30,6 +31,7 @@ cite:
     this_thing: "The fact that James thought he could get away with not crediting half the people he stole from. (I mainly note this so that all three score boxes have a number in them, lol.)"
   misinformation: !!map
     homo_erectus: "James makes up some facts about ancient humans in order to spice up his intro."
+    early_church: "James casually says that early Christianity was cool with the gays when there's a lot of evidence to the contrary and the topic is highly debated."
     medieval: "James seems to be mixing up history with modern times."
     wicca_homo: "James claims there were strict rules among Wiccans in a time period where we know next-to-nothing about them."
     fake_blood: "James cuts out so much context around a sentence he's stolen, he changes the entire meaning of it."
@@ -192,12 +194,30 @@ The fear of the unknown, according to the American Psychological Association, is
 <compare>
 <james {% include timecode %}>
 
-But this was not always the case. For millennia, homosexuality and gender fluidity were not things to fear, but things to embrace, if not celebrate. Egypt had gay and lesbian and (by all accounts) transgender pharaohs and queens. Mesopotamia had gay kings. Most of the ancient Greek philosophers were gay or bisexual. Rome had gay emperors and senators. Even early Christianity was more or less accepting of gay men.
+But this was not always the case. For millennia, homosexuality and gender fluidity were not things to fear, but things to embrace, if not celebrate. Egypt had gay and lesbian and (by all accounts) transgender pharaohs and queens. Mesopotamia had gay kings. Most of the ancient Greek philosophers were gay or bisexual. Rome had gay emperors and senators. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Even early Christianity was more or less accepting of gay men.
 
 But that didn't last.
 
 </james>
-<from></from>
+<comment id="early_church">
+<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" >LVence</a></div>
+
+> [His take on early Christianity] Isn't correct. The early church father and Christian authorities unanimously condemned homosexuality. He might have taken this from John Boswell, but this is disputed by religious scholars. [https://en.m.wikipedia.org/wiki/History_of_Christianity_and_homosexuality](https://en.wikipedia.org/wiki/History_of_Christianity_and_homosexuality#Early_Christianity)
+
+<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898">lemmy</a></div>
+
+> It's an incredibly vague take too. Which early Christians were accepting of homosexuality? There were like, several dozen Christian sects and cults running around during the early days of Christianity, most of which did not survive into modernity, you got to get specific if you want to make that point.
+
+</comment>
 </compare>
 
 <compare>
@@ -628,8 +648,6 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 That accepting the fact that a BDSM subculture *exists* within the queer community further others us from the heteronormative white picket fences of the suburbs. And what is a queer person if they're not accepted by the suburban rabble? A monster, of course.
 
-But there's an odd attractiveness to the monsters of *Hellraiser*. When they move and speak there's a certain degree of attractive nobility in their appearance. These debauched angels may commit visceral acts of savagery, but they also possess a surprising grace and eloquence. While Benshoff may view these creatures as monster queers that are not at all positive representations of the community, it must needs be remarked that the cenobites in *Hellraiser* fit more comfortably into the role of anti-hero than that of the monster.
-
 </james>
 <from></from>
 </compare>
@@ -637,12 +655,14 @@ But there's an odd attractiveness to the monsters of *Hellraiser*. When they mov
 <compare>
 <james {% include timecode %}>
 
+But there's an odd attractiveness to the monsters of *Hellraiser*. When they move and speak there's a certain degree of attractive nobility in their appearance. These debauched angels may commit visceral acts of savagery, but they also possess a surprising grace and eloquence. <mark>While Benshoff may view these creatures as monster queers that are not at all positive representations</mark> of the community, it must needs be remarked <mark>that the cenobites in *Hellraiser* fit more comfortably into the role of anti-hero than that of the monster.</mark>
+
 When our protagonist, Kirsty, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
 
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
-When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. While Benshoff may view these creatures as monster queers that are not at all a positive representation, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster. When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, [...]
+When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. <mark>While Benshoff may view these creatures as monster queers that are not at all a positive representation</mark>, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way <mark>that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster.</mark> When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, [...]
 
 </from>
 </compare>
