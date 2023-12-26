@@ -95,7 +95,19 @@
 				{% if page.cite.misinformation.size > 0 -%}
 					<ul class="refs misinfo" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
 						{% for item in page.cite.misinformation %}
-							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+							{% if item[1]._desc_ %} {% comment %} Test for if it's a map {% endcomment %}
+								<li>
+									{{ item[1]._desc_ }}
+									{% for n in item[1] -%}
+										{%- if n[0] == "_desc_" -%}{% continue %}{%- endif -%}
+										{%- if forloop.length > 2 and forloop.last == true %} and {% endif -%}
+										{{ n[1] }} <a href="#{{ n[0] }}">(here <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a>
+										{%- if forloop.length > 3 and forloop.last == false %}, {% endif -%}
+									{%- endfor -%}
+								</li>
+							{% else %}
+								<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+							{% endif %}
 						{% endfor %}
 					</ul>
 					{% assign hr_due = true %}

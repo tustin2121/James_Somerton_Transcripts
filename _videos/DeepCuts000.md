@@ -21,6 +21,9 @@ contributors:
   downloaded: "Alyx from the Hbombergy Discord"
   formatting: "Tustin2121"
   factcheck: "\"Former Fans\" Discord contributors, including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman"
+  citations:
+    - "[Hbomberguy's plagiarism video](https://www.youtube.com/watch?v=yDp3cB5fHXQ)"
+    - "LVance on Discord"
 
 cite:
   clips: !!map
@@ -36,6 +39,10 @@ cite:
     wicca_homo: "James claims there were strict rules among Wiccans in a time period where we know next-to-nothing about them."
     fake_blood: "James cuts out so much context around a sentence he's stolen, he changes the entire meaning of it."
     quote_mine1: "James does some serious 'quote mining' to make up a quote where the director confirms his conclusion."
+    wrong_names:
+      _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
+      david_mcintee: "David McIntee"
+      karen_tongson: "Karen Tongson"
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
@@ -43,6 +50,7 @@ cite:
     darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx" }
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
+    wikipedia_jennifer: { color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948" }
     zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
     dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
     michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
@@ -716,34 +724,85 @@ But... perfectly normal people *do* have a habit of being monsters.
 <compare>
 <james {% include timecode %} id="para08" mid-text="Paragraph-08">
 
-*Jennifer's Body* is the story, more or less, of Anita Lesnicki, "Needy" for short. Once an insecure teenage girl, she is now a violent inmate in a mental ward, narrating her story from solitary confinement. Since early childhood, she had been friends with the titular Jennifer. Though they had little in common, with Needy being shy and reserved and Jennifer being a cheerleader.
+*Jennifer's Body* is the story, more or less, of <mark>Anita Lesnicki, "Needy"</mark> for short. <mark>Once an insecure</mark> <mark>teenage girl</mark>, she is now a <mark>violent inmate in a mental ward</mark>, <mark>narrating her story from solitary confinement</mark>. <mark>Since early childhood, she had been friends with the titular Jennifer</mark>. Though they had <mark>little in common</mark>, with Needy being shy and reserved and Jennifer being a cheerleader.
 
-Together the pair attend a local rock concert at a bar, where Needy's life changes forever. A fire with no known source engulfs the bar, killing multiple people. Needy pleads with Jennifer to stay with her, but in her shock, she leaves with the band. Later that night, she turns up at Needy's house covered in blood. 
+Together the pair attend a <mark>local rock concert at a bar</mark>, where Needy's life changes forever. <mark>A fire with no known source engulfs the bar, killing multiple people.</mark> <mark>Needy pleads with Jennifer to stay with her, but in her shock, she leaves with the band</mark>. <mark>Later that night, she turns up at Needy's house covered in blood</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 1" %}>
+<h2>Plot</h2>
+
+<mark>Anita "Needy" Lesnicki</mark>, <mark>once an insecure</mark> and studious <mark>teenager</mark> living near Devil's Kettle, Minnesota, is now a <mark>violent mental inmate</mark> who <mark>narrates the story as a flashback while in solitary confinement</mark>. <mark>Since childhood, she had been friends with Jennifer Check</mark>, a popular cheerleader, despite having <mark>little in common</mark>. One night, Jennifer takes Needy to a <mark>local dive bar to attend a concert by indie rock band</mark> Low Shoulder. <mark>A suspicious fire engulfs the bar, killing several people.</mark> <mark>In shock, Jennifer agrees to leave with the band, despite Needy's protests</mark>. <mark>Later that evening, Jennifer, covered in blood, appears in Needy's kitchen</mark> and attempts to eat food from the refrigerator. She immediately vomits a trail of black, spiny fluid and leaves in a hurry.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The next day at school, she acts as if everything is right with the world. The town is devastated by the fire and the death it caused, but not Jennifer. Her mind is set elsewhere: the captain of the football team, who she seduces and disembowels. 
+<mark>The next day at school, she acts as if everything is right with the world</mark>. <mark>The town is devastated by the fire and the death it caused</mark>, but not Jennifer. Her mind is set elsewhere: <mark>the captain of the football team, who she seduces and disembowels</mark>. 
 
-After multiple murders, it is revealed that on the night of the fire, the band had taken Jennifer into the woods and offered her up as a virgin sacrifice to Satan himself in exchange for fame and fortune. But Jennifer, not being a virgin, was instead possessed. 
+After multiple murders, it is revealed that <mark>on the night of the fire, the band had taken Jennifer into the woods</mark> and <mark>offered her up as a virgin sacrifice to Satan himself in exchange for fame and fortune</mark>. But <mark>Jennifer, not being a virgin, was instead possessed</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 2-3" %}>
+
+<mark>The next morning at school, Jennifer appears fine and dismisses Needy's concerns</mark>. <mark>While the town is devastated by the deaths caused by the fire</mark>, <mark>Jennifer seduces the school's football captain in the woods and disembowels him</mark>. Meanwhile, the members of Low Shoulder gain popularity due to their falsely-rumored heroism (confirmed by "the Wikipedia") during the fire and offer to make a charity appearance at the school's spring formal.
+
+A month later, Jennifer has become pale. She accepts a date with school goth/emo Colin, whom she brutally kills. While Needy and her boyfriend Chip have sex, Needy senses something dreadful has happened. She leaves in a panic and almost runs over Jennifer, who is drenched in blood. At home, she again encounters Jennifer, who explains that <mark>Low Shoulder had taken her into the woods after the bar fire</mark> and <mark>offered her as a virgin sacrifice to Satan in exchange for fame and fortune</mark>. Although the sacrifice and demonic exchange were a success, <mark>Jennifer was not actually a virgin, so she became permanently possessed</mark>. Leaving the woods, Jennifer had encountered an exchange student leaving the scene of the fire and made him her first victim. Jennifer states that when she has eaten, she can withstand virtually any injury without pain, healing instantly.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Discovering that Jennifer is now a succubus who will feed off of human life to sustain herself, Needy decides to take action. After a failed attempt that leaves her boyfriend dead, she manages to kill Jennifer and the demon inside her, just in time for Jennifer's mother to discover her on top of her daughter's corpse.
-
-So off to Briarcliff she goes. Though loathed upon release, the film has more recently been reevaluated as a modern horror classic. It's fun, messy, mean, sad, campy, and self-aware. It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply* flawed, portraying it as a sexy thriller in order to play off of star Megan Fox's hotness. It attempted to appeal to the male fans of the *Transformers* franchise -- entirely the wrong audience. 
+<mark>Discovering that Jennifer is now a succubus</mark> <mark>who will feed off of human life to sustain herself</mark>, Needy decides to take action. After a failed attempt that <mark>leaves her boyfriend dead</mark>, <mark>she manages to kill Jennifer and the demon inside her</mark>, <mark>just in time for Jennifer's mother to discover her on top of her daughter's corpse</mark>. <mark>So off to Briarcliff she goes</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 4" %}>
+
+The following day, Needy goes to the school library's occult section and <mark>determines that Jennifer is a succubus</mark> <mark>who must feed on flesh</mark> and can only be killed while she is hungry and weak. Needy tells Chip about her discoveries about Jennifer and warns him not to attend the school dance. He does not believe her, so she breaks up with him in order to protect him. Chip decides to attend the dance anyway but is intercepted by Jennifer, who takes him to an abandoned pool house and begins feeding on him. Needy arrives there and fights Jennifer. Chip impales Jennifer through the stomach with a pool skimmer, but Jennifer removes it and escapes, <mark>while Chip dies</mark>.
+
+Needy goes to Jennifer's home and breaks into her bedroom. She fights Jennifer and stabs her in the heart with a utility knife, <mark>killing her and destroying the demon</mark>. <mark>Jennifer's mother enters and finds Needy on top of her daughter's body</mark>. <mark>Soon after, Needy is brought to an asylum</mark>. In her asylum room, she manifests some of Jennifer's supernatural powers, such as super strength and the ability to levitate, due to a non-fatal bite from Jennifer during the fight between them. She escapes the mental facility, hitchhikes a ride to the hotel where Low Shoulder are staying, and murders them.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Though loathed upon release, the film has more recently been reevaluated as a modern horror classic.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Release / Critical response / Later assessment ¶ 3" %}>
+
+In 2020, the film was categorized as a horror classic.<sup>[53]</sup>
+
+<div class="footer">
+
+53. ["Megan Fox Is Thrilled Jennifer's Body Is Finally Recognized as a Horror Classic"](https://www.cbr.com/megan-fox-thrilled-jennifers-body-horror-classic/). CBR. August 31, 2020. Retrieved September 1, 2020.
+
+</div>
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark num=1>It's fun</mark>, <mark num=2>messy, mean, sad, campy, and self-aware</mark>. <mark num=3>It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply*</mark> flawed, portraying it as a sexy thriller in order <mark num=4>to play off of star Megan Fox's hotness</mark>. <mark num=5>It attempted to appeal to the male fans of the *Transformers* franchise</mark> -- <mark num=6>entirely the wrong audience</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 2-3" %}>
+
+This movie <mark num=1>is fun</mark>. It’s <mark num=2>messy, mean, sad, campy, and self-aware</mark>. Diablo Cody already blew me away with Juno, and the number of my interests that aligned in a smart, mouthy horror-comedy piece hinging on two queer girls being mean, miserable and tender while trying to consume each other? Really, it’s not fair. With all that in mind, it seemed like an obvious place to start this series off.
+
+<mark num=3>It bears mentioning that the marketing for Jennifer’s Body was deeply</mark> — and, I would say, dangerously — misleading, targeted toward someone who was <mark num=6>not the intended audience</mark>. Diablo Cody has said in no uncertain terms that that’s not how she would have put together a trailer or promotional material for the movie if it had been up to her. Clearly, something got (perhaps deliberately) misplaced in translation between the screenwriting, direction, and promotional efforts.
+
+<mark num=4>Jennifer’s Body is not about Megan Fox being hot</mark>. <mark num=5>This movie is not intended for straight teenage boys</mark>, trailer be damned. This movie is for women, queer folk, and perhaps most importantly queer women — and no, it’s not just because of “That Kiss,” though I definitely have some pretty major thoughts on that one.
+
+
+</from>
 </compare>
 
 <compare>
@@ -981,12 +1040,19 @@ But for young women how can you tell if another girl is interested in you in a r
 <compare>
 <james {% include timecode %} id="para10" mid-text="Paragraph-10"><!-- also 11, technically -->
 
-1979's *Alien*, directed by Ridley Scott, is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory. It's also monstrously queer. <!-- 10 ends here -->
+1979's *Alien*, directed by <mark>Ridley Scott</mark>, <mark>is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory.</mark> <mark>It's also monstrously queer</mark>. <!-- 10 ends here -->
 
-Not only is Ellen Ripley a strong butch heroine, who does not *at all* fit the usual sci-fi or horror female archetype, but according to David McEntee, author of *Beautiful Monsters*, the film also plays very deliberately with male fears of female reproduction. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
+<mark>Not only is Ellen Ripley</mark> a <mark>strong butch heroine</mark>, who does not *at all* fit the usual sci-fi or horror female archetype, but <mark>according to <span id="david_mcintee">David McEntee</span>, author of *Beautiful Monsters*</mark>, the film also <mark>plays very deliberately with male fears of female reproduction</mark>. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.dani_leever at="¶ 1-2" %}>
+
+<mark>Ridley Scott</mark>’s *Alien* <mark>is often renowned as one of the first feminist sci-fi films. With its powerful central female character and motifs around reproduction and sexual violence, the film is lauded as being a cornerstone of feminist film theory.</mark>
+
+<mark>The film is also super gay</mark>. <mark>Not only is Ellen Ripley</mark> (played by Sigourney Weaver) the <mark>strong, androgynous femme fatale</mark> we can all swoon over, it is also a film that - <mark>according to David McIntee, author of the Alien study ‘Beautiful Monsters’</mark> - “<mark>plays very deliberately with male fears of female reproduction</mark>”. The male characters are emasculated in various ways, suffering blows to their male ego or experiencing things women are expected to. Through a queer film theorist lens, this film explores gender, sexuality and bodies in a way revolutionary even for today.
+
+
+</from>
 </compare>
 
 <compare>
@@ -1821,7 +1887,7 @@ And there's an odd draw to the black and white monster for queer people. Outside
 
 > <mark>"Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available."</mark> 
 
-...<mark>said Karen Thompson, an associate professor of gender studies in English at USC</mark>.
+...<mark>said <span id="karen_tongson">Karen Thompson</span>, an associate professor of gender studies in English at USC</mark>.
 
 > <mark>"He lives in a basement, he's weird and flamboyant, he's living adjacently to a single mother in this kind of queer kinship structure."</mark>
 
