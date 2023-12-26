@@ -12,7 +12,7 @@
        width="2048"
        height="1152"
        preserveAspectRatio="none"
-       href="/media/image0.jpg"
+       href="{{ "/media/image0.jpg" | relative_url }}"
        id="image0" />
    <a href="https://www.youtube.com/watch?v=yDp3cB5fHXQ" target="_blank">
       <path id="img-videolink" style="fill:black;fill-opacity:0;stroke:none;"
