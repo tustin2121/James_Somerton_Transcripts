@@ -20,7 +20,7 @@ notes:
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
   formatting: "Tustin2121"
-  factcheck: "\"Former Fans\" Discord contributors, including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman"
+  factcheck: "\"Former Fans\" Discord contributors, including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman, as well as sciclone"
   citations:
     - "[Hbomberguy's plagiarism video](https://www.youtube.com/watch?v=yDp3cB5fHXQ)"
     - "LVance on Discord"
@@ -198,7 +198,7 @@ The fear of the unknown, according to the American Psychological Association, is
 
 </james> 
 <comment id="fear_unknown">
-<div class="header"><a class="citation">sciclone1984</a></div>
+<div class="header"><a class="citation">sciclone</a></div>
 
 Performing a [search](https://www.google.com/search?q=%22fear+of+the+unknown%22+site%3Aapa.org#ip=1) for "fear of the unknown" on the American Psycological Association's website turns up very few relevant results. The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469?via=ihub#sec0005) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
 
