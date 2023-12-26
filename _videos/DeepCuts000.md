@@ -56,11 +56,7 @@ cite:
     alex_london: { color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/" }
 ---
 <div>
-  <!-- <map name="pla01">
-    <area shape="poly" coords="173,75, 166,305, 347,311, 351,84" href="para01" />
-  </map>
-  <img src="{{ "/media/image0.jpg" | relative_path }}" usemap="#pla01"> -->
-  <!-- <img src="{{ "/media/image0.svg" | relative_path }}" /> -->
+  <div style="font-size: x-small; text-align: center;">(You can click on a paragraph blow to jump to the start of that section.)</div>
   {% include image0.svg %}
 </div>
 
