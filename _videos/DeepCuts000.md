@@ -195,9 +195,9 @@ And so the queer entered into the horror canon. Centuries before hollywood even 
 <james {% include timecode %}>
 
 The fear of the unknown, according to the American Psychological Association, is one of the most prominent causes for anxiety among people in both the first and third world.
+
 </james> 
 <comment id="fear_unknown">
-{{ site.tustin.header }}
 
 Performing a [search](https://www.google.com/search?q=%22fear+of+the+unknown%22+site%3Aapa.org#ip=1) for "fear of the unknown" on the American Psycological Association's website turns up very few relevant results. The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469?via=ihub#sec0005) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
 
