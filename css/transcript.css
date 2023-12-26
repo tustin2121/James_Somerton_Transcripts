@@ -255,6 +255,16 @@ compare from :is(h1,h2,h3,h4,h5,h6) {
 	content: attr(header);
 	margin-left: -2em;
 	font-size: larger;
+	border-bottom: 3px solid black;
+}
+.refs.plagiarized::before {
+	border-bottom-color: var(--video-box-stolen-bg);
+}
+.refs.misinfo::before {
+	border-bottom-color: var(--video-box-fabricated-bg);
+}
+.refs.yikes::before {
+	border-bottom-color: var(--video-box-yikes-bg);
 }
 :target {
 	background-color: rgb(255 255 0 / 15%);
@@ -336,6 +346,14 @@ q {
     border-left: 0.25em solid var(--color-border-default);
     border-right: 0.25em solid var(--color-border-default);
 	background-color: var(--color-canvas-subtle);
+}
+
+blockquote.book-excerpt {
+    font-family: serif;
+    text-indent: 2em;
+}
+blockquote.book-excerpt > p {
+	margin-block: 0;
 }
 
 /* :root { --source-color: 120, 100%, 50%; } */

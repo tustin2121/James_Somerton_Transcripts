@@ -5,7 +5,7 @@
 # cspell:words: subjectivities precarity
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
-status: In Progress
+status: Complete
 aka: !!seq
 topics: !!seq
 links: !!seq
@@ -27,6 +27,7 @@ cite:
     hellraiser: { short: "(Barker, 1987)", full: "Figg, C. (Producer). Barker, C. (Director). (1987). <em>Hellraiser</em> [Motion picture]. UK: Film Futures." }
     jennifer: { short: "(Kusama, 2009)", full: "Dubiecki, D., Novick, M., Reitman, J. (Producers). Kusama, K. (Director). <em>Jennifer's Body</em> [Motion picture]. US: Fox Atomic, Dune Entertainment." }
   yikes: !!map
+    this_thing: "The fact that James thought he could get away with not crediting half the people he stole from. (I mainly note this so that all three score boxes have a number in them, lol.)"
   misinformation: !!map
     homo_erectus: "James makes up some facts about ancient humans in order to spice up his intro."
     medieval: "James seems to be mixing up history with modern times."
@@ -50,9 +51,9 @@ cite:
     claire_sisco_king: { color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_" }
     amanda_howell: { color: 14, short: "(Howell, 2017)", full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK" }
     jessica_roy: { color: 12, short: "(Roy, 2017)", full: "Roy, J. (2017, Jun 9). <em>The Babadook as an LGBT icon makes sense. No, really</em> [Article]. Los Angeles Times. Retrieved Dec 24, 2023, from", url: "https://www.latimes.com/entertainment/movies/la-et-mn-babadook-gay-icon-lgbt-history-20170609-story.html" }
-    # rachel_brands: { color: 3, short: "(Brands, )", full: "Brands, R. (). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "" }
-    # joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "" }
-    # alex_london: { color: 5, short: "(London, )", full: "London, A. (). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "" }
+    rachel_brands: { color: 3, short: "(Brands, 2019)", full: "Brands, R. (2019, Nov 4). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "https://www.thefandomentals.com/queer-subtext-it-part-1/" }
+    joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/" }
+    alex_london: { color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/" }
 ---
 <div>
   <!-- <map name="pla01">
@@ -89,7 +90,7 @@ cite:
 
 
 <compare>
-<credits class="opening">
+<credits class="opening" id="this_thing">
 
 \[Horror-themed opening]
 
@@ -560,7 +561,7 @@ what does it mean to be considered a monster... by monsters?
 
 <mark>Even in Harry M Benshoff</mark>'s book, *<mark>Monsters in the Closet</mark>*, which you'll no doubt notice shares a title with [this video's spiritual predecessor](4zPCM14-SCQ.md), <mark>Barker's work remains somewhat marginal</mark>. <mark>Benshoff recognizes *Hellraiser* for some of its *visual* characteristics, but comes to the conclusion that too often the representation of Barker's monster queers seems similar to those produced by right-wing ideologues.</mark>
 
-<sup>Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect</sup> <sup>repression in contemporary society</sup>. 
+<mark>Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect</mark> <mark>repression in contemporary society</mark>. 
 
 \[Quote on screen]:
 > "This study <mark>attempts to shine a light on the shapes that lurk in the</mark> shadows <mark>, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the horror film is that 'normality is threatened by the monster'"</mark>
@@ -570,7 +571,7 @@ what does it mean to be considered a monster... by monsters?
 
 Clive Barker is an openly gay author, painter and film director, but while elements of his novels are celebrated for their queerness, it often seems that his films are regarded not as queer; they are simply films that happen to be made by a gay man. <mark>Even in Harry M. Benshoff’s</mark> somewhat exhaustive study <em><mark>Monsters in the Closet</mark>: Homosexuality and the Horror Film</em> <mark>Barker remains a somewhat marginal figure</mark>. <mark>Benshoff recognizes *Hellraiser* for some of its visual characteristics, but comes to the conclusion that “too often the representation of Barker’s monster queers seems similar to those produced by right-wing ideologues.</mark>” <sup>3</sup>
 
-<sup>Benshoff’s book bases itself on the theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examined the ways in which horror films reflect</sup> the surplus <sup>repression in contemporary society</sup>. This serious study of a genre, one which has generally been regarded as something almost anti-intellectual, <mark>attempts to shine a light on the shapes that lurk in the</mark> darkness <mark>, and the way that the introduction of the Monster disrupts society. According to Wood, the basic formula of the horror film is that “normality is threatened by the Monster.”</mark> <sup>4</sup> This equation simplifies the engine that propels the horror film into the parts of the collective psyche that we’d seldom willingly explore, and allows for a discussion on how the genre may be used as a podium to express political ideas that fall far outside the mainstream.
+<mark>Benshoff’s book bases itself on the theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examined the ways in which horror films reflect</mark> the surplus <mark>repression in contemporary society</mark>. This serious study of a genre, one which has generally been regarded as something almost anti-intellectual, <mark>attempts to shine a light on the shapes that lurk in the</mark> darkness <mark>, and the way that the introduction of the Monster disrupts society. According to Wood, the basic formula of the horror film is that “normality is threatened by the Monster.”</mark> <sup>4</sup> This equation simplifies the engine that propels the horror film into the parts of the collective psyche that we’d seldom willingly explore, and allows for a discussion on how the genre may be used as a podium to express political ideas that fall far outside the mainstream.
 
 <div class="footer">
 
@@ -1263,17 +1264,32 @@ It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from
 
 <mark>*It Follows* tells the story of Jay</mark>, <mark>a 19 year old suburban girl who acquires a sexually transmitted curse from her boyfriend Hugh.</mark> <mark>After they first have sex Hugh sedates her</mark>, <mark>forcing her to heed his instructions about the curse. She must sleep with someone as soon as she can in order to pass it along to another person. And on and on,</mark> or else <mark>she'll be tracked down and killed by an other-worldly entity, the titular "it"</mark>. <mark>If it kills her, it will resume tracking Hugh</mark>, since <mark>it follows only one person at a time</mark>. 
 
+</james>
+<from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
+
+<mark>*It Follows* tells the story of Jay</mark> Height (Maika Monroe), <mark>a nineteen-year-old Detroit suburbanite who acquires a sexually transmitted curse from her boyfriend, Hugh</mark> (Jake Weary). <mark>After they first have sex, Hugh sedates her</mark> with chloroform and ties her up, <mark>forcing her to heed his bizarre instructions about the curse: she must “sleep with someone as soon as [she] can” in order to pass it along to another person (and on and on,</mark> like a chain letter), lest <mark>she be tracked down and killed by a ghostly entity—the titular “It”</mark>—that takes various human forms, slowly but perpetually walking toward her location. <mark>If It kills her, It will resume following Hugh</mark> or whoever else preceded each of them in the sexual chain. <mark>It follows only one person at a time</mark>, so maintaining a continual line of transmission is necessary for survival. Aided by her younger sister Kelly (Lili Sepe) and [...]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 <mark>The monster in *It Follows* may be a supernatural being, but the film's true source of horror is living under a regime of sexual shame, where our heteronormative culture compels sexual subjects toward monogamy, even at the risk of their overall well-being</mark>. <mark>Though many critics pointed out</mark> that *It Follows* <mark>cleverly subverts the usual "you have sex, you die" trope</mark> from <mark>1980's slasher movies, few</mark> grasped the idea that the monster in the film would, more or less, become harmless in a society where sexual promiscuity was the norm. Having sex with new partners on a regular basis, constantly shifting its targets, to the point at which it could follow, but never catch up in time to kill.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
 
-<mark>*It Follows* tells the story of Jay</mark> Height (Maika Monroe), <mark>a nineteen-year-old Detroit suburbanite who acquires a sexually transmitted curse from her boyfriend, Hugh</mark> (Jake Weary). <mark>After they first have sex, Hugh sedates her</mark> with chloroform and ties her up, <mark>forcing her to heed his bizarre instructions about the curse: she must “sleep with someone as soon as [she] can” in order to pass it along to another person (and on and on,</mark> like a chain letter), lest <mark>she be tracked down and killed by a ghostly entity—the titular “It”</mark>—that takes various human forms, slowly but perpetually walking toward her location. <mark>If It kills her, It will resume following Hugh</mark> or whoever else preceded each of them in the sexual chain. <mark>It follows only one person at a time</mark>, so maintaining a continual line of transmission is necessary for survival. Aided by her younger sister Kelly (Lili Sepe) and friends Yara (Olivia Luccardi) and Paul (Keir Gilchrist), Jay attempts to locate the vanished Hugh while emotionally wrestling with whether and to whom to give the curse for her own protection. After eventually passing the curse to her unbelieving neighbor Greg (Daniel Zovatto) proves to be Greg’s undoing once It catches up with him, Paul then volunteers his own body to Jay, perhaps more eager to have sex with his unrequited crush than to help the childhood friend with whom he experienced his first kiss. After a climactic confrontation in which It takes the form of the sisters’ absent father, the ilm ends with Jay and Paul beginning a romantic relationship, unaware that It still follows them. 
-
 <mark>The monster in *It Follows* may be a supernatural being, but the ilm’s true source of horror is living under a regime of sexual shame wherein our heteronormative culture compels sexual subjects toward monogamy—even at the risk of their overall well-being</mark>. <mark>Although nearly all critics observed</mark> that the film’s conceit was a <mark>clever reworking of the “have-sex-and-die” cliché</mark> commonly associated with the fate of disposable teenage characters in 1970s and <mark>1980s horror films, few</mark> critics grasped the film’s most subversive implications: the curse would become moot in a society embracing the value of a multiplicity of sexual partners in conjunction with an ethos of open communication and mutual support. In other words, the characters’ failings illustrate how the film’s logic finds monogamy (serial or otherwise) as promising perpetual danger, whereas one’s survival would be far better ensured through what Michael Warner has called an “ethics of queer life.”<sup>2</sup>
 
+<div class="footer">
+
+2. TODO
+
+</div>
 </from>
 </compare>
+
 
 <compare>
 <james {% include timecode %}>
@@ -1283,10 +1299,17 @@ It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from
 </james>
 <from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
 
-**Contagion, Queer Intimacies, and the Normative Couple.** <mark>At first glance, *It Follows* would seem an unlikely candidate for a queer reading, since it features neither protagonists nor monsters that might be coded as “queer”</mark> in an identity-based sense. Following Harry Benshoff’s influential 1997 study *Monsters in the Closet: Homosexuality and the Horror Film*, most academic discussions of queer horror cinema have tended to explore how the genre’s depictions of monstrosity can be read as symbolizing the supposed “threat” of homosexuality, offering both pleasures and misgivings among gay and lesbian viewers.<sup>3</sup> <mark>Nor does *It Follows* register any of the overtly homoerotic appeal exhibited in</mark>, say, David DeCoteau’s[^decoteau] beefcake horror films that represent “part of the ongoing hegemonic negotiation of exactly what the phrase ‘queer horror film’ might actually signify.”<sup>4</sup> For understandable reasons of political reclamation,established minoritarian identities like “gay” and “lesbian” remain the dominant points of reference in much of this critical literature. Although the previously cited authors do highlight how queerness can operate in these films in multivalent ways for different audiences, “queer” ultimately tends to operate in these accounts as more of an umbrella term for a variety of same-sex-desiring identities rather than to suggest a fluidity of (nonnormative) desires that would evade or blur the very boundaries of minoritarian identities—or, as Eve Kosofsky Sedgwick puts it in her famous definition:“[T]he open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s gender, of anyone’s sexuality aren’t made (or *can’t be* made) to signify <mark>monolithically</mark>.”<sup>5</sup>
+**Contagion, Queer Intimacies, and the Normative Couple.** <mark>At first glance, *It Follows* would seem an unlikely candidate for a queer reading, since it features neither protagonists nor monsters that might be coded as “queer”</mark> in an identity-based sense. Following Harry Benshoff’s influential 1997 study *Monsters in the Closet: Homosexuality and the Horror Film*, most academic discussions of queer horror cinema have tended to explore how the genre’s depictions of monstrosity can be read as symbolizing the supposed “threat” of homosexuality, offering both pleasures and misgivings among gay and lesbian viewers.<sup>3</sup> <mark>Nor does *It Follows* register any of the overtly homoerotic appeal exhibited in</mark>, say, David DeCoteau’s<sup>†</sup> beefcake horror films that represent “part of the ongoing hegemonic negotiation of exactly what the phrase ‘queer horror film’ might actually signify.”<sup>4</sup> For understandable reasons of political reclamation,established minoritarian identities like “gay” and “lesbian” remain the dominant points of reference in much of this critical literature. Although the previously cited authors do highlight how queerness can operate in these films in multivalent ways for different audiences, “queer” ultimately tends to operate in these accounts as more of an umbrella term for a variety of same-sex-desiring identities rather than to suggest a fluidity of (nonnormative) desires that would evade or blur the very boundaries of minoritarian identities—or, as Eve Kosofsky Sedgwick puts it in her famous definition:“[T]he open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s gender, of anyone’s sexuality aren’t made (or *can’t be* made) to signify <mark>monolithically</mark>.”<sup>5</sup>
 
-[^decoteau]: None of the films James mentions are listed as [David DeCoteau's filmography](https://en.wikipedia.org/wiki/David_DeCoteau).
+<div class="footer">
 
+3. TODO
+4. TODO
+5. TODO
+
+† None of the films James mentions are listed as [David DeCoteau's filmography](https://en.wikipedia.org/wiki/David_DeCoteau).
+
+</div>
 </from>
 </compare>
 
@@ -1357,7 +1380,7 @@ James doesn't copy anything word-for-word, but does summarize Church's points.
 
 David Church cites [this Huffington Post contributor piece](https://www.huffpost.com/entry/truvada-whores_b_2113588).
 
-<div class="footer">Duran, D. (2012, Nov 12). <em>Truvada Whores?</em> [Article]. Huffington Post. Retrieved Dec 23, 2023.</div>
+<div class="footer">Duran, D. (2012, Nov 12). <em>Truvada Whores?</em> [Article]. Huffington Post. Retrieved Dec 23, 2023, from <a href="https://www.huffpost.com/entry/truvada-whores_b_2113588">https://www.huffpost.com/entry/truvada-whores_b_2113588</a>.</div>
 </comment>
 </compare>
 
@@ -1847,18 +1870,24 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 <compare>
 <james {% include timecode %} id="para19" mid-text="Paragraph-19">
 
-*IT* by Stephen King was published in 1986 and has made a lasting cultural impression. The novel inspired a mini-series, two movies, and ruined clowns for generations of children. <span hbomb="Ha, good one.">And adults frankly</span>. Pennywise transforms into things that will scare people the most and Stephen King used the 1950s setting to pay tribute to classic movie monsters. 
+<mark>*IT* by Stephen King was published in 1986 and has made a lasting cultural impression</mark>. <mark>The novel inspired a mini-series, two movies, and ruined clowns for generations of children. <span hbomb="Ha, good one.">And adults frankly</span>.</mark> <mark>Pennywise transforms into things that will scare</mark> people the most <mark>and Stephen King used the 1950s setting to pay tribute to classic movie monsters.</mark> 
 
-Since its release, the novel has inspired fans to discuss its themes, allegories, and underlying subtext. A common discussion is the interpretation that Richie Tozier and Eddie Kasprak had strong repressed gay feelings for one another. The most recent adaptation, *It Chapter Two* directed by Andy Musgetty, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the character's change in sexuality comes out of nowhere, but that's not so quite cut and dry. 
+<mark>Since its release,</mark> the novel <mark>has inspired fans to discuss its themes, allegories, and underlying subtext. A common discussion</mark> <mark>is the interpretation that Richie Tozier and Eddie Kasprak had strong repressed gay feelings for one another. The most recent adaptation, *It Chapter Two* directed by Andy Musgetty, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the character's change in sexuality comes out of nowhere, but that's not so</mark> quite cut and dry. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 1-2" %}>
+
+<mark>“It” by Stephen King was published in 1986 and has made a lasting cultural impact</mark> ever since. <mark>The novel inspired a miniseries, two movies, and an entire generation of children to fear clowns. And adults, frankly.</mark> <mark>Pennywise transforms into things that will scare</mark> children and <mark>Stephen King used the 1950s setting to pay tribute to classic movie monsters.</mark>
+
+<mark>Since It’s release,</mark> Stephen King’s cult classic <mark>has inspired fans to discuss it themes, allegories, and underlying subtext. A common discussion</mark> on the Internet <mark>is the interpretation that Richie Tozier and Eddie Kaspbrak had strong, repressed homosexual feelings for one another. The most recent adaptation, “It: Chapter 2,” directed by Andy Muschietti, dedicates an entire subplot to the romance between Richie and Eddie. There have been protests that the characters’ change in sexuality comes out of nowhere, but that’s not so</mark>–Richie and Eddie are in love in the book, but their romance exists primarily in subtext.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-When Eddie first encounters Pennywise, the titular "It", he's at a place known to attract hobos and drifters. It takes the form of a hobo who's stricken with disease. It uses a leper to frighten Eddie instead of your typical horror movie monster.
+When <mark>Eddie first encounters Pennywise</mark>, the titular "It", he's at <mark>a place known to attract hobos and drifters. It takes the form of</mark> a hobo who's <mark>stricken with disease. It uses a leper to frighten Eddie</mark> instead of your typical horror movie monster.
 
 \[Quote shown on screen:]
 > One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
@@ -1872,104 +1901,246 @@ When Eddie first encounters Pennywise, the titular "It", he's at a place known t
 > His control snapped and he ran. He heard the hobo break into a shuffling run behind him, his old string-tied shoes slapping and flapping across the riotous lawn of the empty saltbox house.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 3" %}>
+
+Eddie is so obviously gay coded that I’m a little surprised I have to write an essay to convince people
+<mark>Eddie’s first encounter with It</mark> happens at 29 Neibolt Street, <mark>a place known to attract hobos and drifters. It takes the form of</mark> one of those hobos that is <mark>stricken with disease. It uses a leper to frighten Eddie</mark>, which is different than the classic movie monster forms It takes for most children.
+
+\[Article includes image of novel's text]
+
+<blockquote class="book-excerpt">
+
+One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
+
+"I-I don't have a quarter" Eddie said, backing toward his bike.
+
+"I'll do it for a dime," the hobo croaked, coming toward him. He was wearing old green flannel pants. Yellow puke was stiffening across the lap. He unzipped his fly and reached inside. He was trying to grin. His nose was a red horror. 
+
+"I . . . I don't have a dime, either," Eddie said, and suddenly thought: *Oh my god he's got leprosy! If he touches me I'll catch it too!* His control snapped and he ran. He heard the hobo break into a shuffling run behind him, his old string-tied shoes slapping and flapping across the riotous lawn of the empty saltbox house.
+
+"Come back here, kid! I'll blow you for free! Come back here!"
+
+</blockquote>
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness. The leper uses the offer of sexual favors to scare him. Nowhere else in the story does Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.
+<mark>Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness.</mark> The leper uses the offer <mark>of sexual favors to scare him.</mark> Nowhere else in the story does <mark>Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.</mark>
 
-This metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and *its* combination of these things shows us a deep fear Eddie has, unknown even to himself. Eddie's afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded. Because he is *groomed* to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him. 
+<mark>This metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and *its* combination of these things shows us a deep fear Eddie has, unknown even to himself.</mark> <mark>Eddie's afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded. Because he is *groomed* to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 5-7" %}>
+
+Like Beverly, <mark>Eddie’s physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees It as a leper because his mother’s insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper’s appearance, but the real terror doesn’t set in until he realizes that he could catch its illness.</mark>
+
+The leper continually offers to give Eddie a blowjob and uses this pressure <mark>of sexual favors to scare him.</mark> There are no other instances of <mark>It threatening children with sexual assault, so Its decision to do so here is an important distinction.</mark> <mark>This metaphor is significant because the leper is a sickly, diseased man offering oral sex to Eddie and Its combination of these things shows us a deep fear Eddie has, unknown even to himself.</mark>
+
+<mark>Eddie is afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a complex manifestation of Eddie’s fears is our first clue that Eddie is gay coded. Because he is groomed to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Though this section of the book takes place in the 1950s the book itself was published in the chaotic midst of the AIDS crisis, when gay sex really *could* lead to a disease and death. We also get some interesting religious imagery as Eddie thinks back to the root of his religious fear. He's quick to dismiss religious rules as stupid, but stops himself as he remembers he takes religion seriously enough to be afraid of it. It's interesting that Eddie fears going to hell, even though he's never done anything to warrant it. Reading Eddie's inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he's done. 
-
-Another coded aspect of Eddie's hidden sexuality is how he interacts with the other Losers. In one scene, Stephen King singles out Eddie as being *delighted* by Bill. We get an explanation for Eddie's unmatched joy when Eddie tries to imitate Bill, modelling himself after the boy in order to come across as brave. Eddie idolizes Bill and his love is rooted in that admiration. There are many references to Eddie having hero worship for Bill or seeming to love Bill more than the other Losers. This is disguised as Eddie simply idolizing Bill. But it reads much clearer as an unrequited crush on him. With Eddie simply not knowing how to categorize it. 
+Though this section of the book takes place in the 1950s the book itself was published in the chaotic midst of the AIDS crisis, when gay sex really *could* lead to a disease and death. We also <mark>get some interesting religious imagery as Eddie thinks back to the root of his religious fear. He's quick to dismiss religious rules as stupid, but stops himself as he remembers he takes religion seriously enough to be afraid of it.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 11" %}>
+
+We <mark>get some interesting religious imagery as Eddie thinks back to the root of his religious fear. He is quick to dismiss religious rules as stupid but stops himself as he remembers he takes religion seriously enough to be afraid of it.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Another member of the Losers Club that hits home with queer readers is Richie, a character many people -- even straight readers! -- have interpreted as being bisexual. He, like most of the boys in the group, has at least a bit of a crush on Beverly, the lone girl, but also a clear connection with Eddie as well. Not just in friendship or love, but in trauma. 
+<mark>It's interesting that Eddie fears going to hell, even though he's never done anything to warrant it.</mark> <mark>Reading Eddie's inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he's done.</mark> 
 
-Childhood trauma looms under the skin of the Losers Club well into adulthood, as *It Chapter Two* explores the reunion of the crew in their hometown. For most of the children, their trauma existed on the surface of the first *It* film: Eddie's overbearing mother, Beverly's father verbally abusing her and sexually taunting her as she begins to grow into her adult body, Mike seeing his parents burned alive. 
+<mark>Another coded aspect of Eddie's hidden sexuality is how he interacts with the other Losers.</mark>
+
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 17-19" %}>
+
+This flashback shows how Eddie’s mother has shaped his life. She constantly scared him about illnesses like cancer and polio, which instills in him a fear of any activity that could result in disease or injury. <mark>It’s interesting how a young Eddie worries about being sent to hell because it’s unlikely that he has done anything that would warrant this fear.</mark> He worries about going to hell a lot for a child who was never very religious.
+
+<mark>Reading Eddie’s inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he has done.</mark> The common belief about the gay and trans movement in the 1950s, gay men in particular, is that they are committing dirty, sinful acts that will give them diseases and damn them to hell. Eddie’s fearful feelings towards illness and religion have a more in-depth meaning if you consider that this narrative is popularized by society as Eddie grows up.
+
+<mark>Another interesting aspect about Eddie’s hidden sexuality is how he interacts with the other Losers.</mark> I will analyze his scenes with Richie in part two, so for now let’s focus on Bill and Beverly.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Six out of the seven Losers left Derry as soon as they were old enough. Leaving allowed them to forget the trauma. But leaving didn't remove it. Just tucked it away out of sight, where it could seep out and impact their life later on. Both Beverly and Eddie married a version of their abusive parents. Bill now a writer can't think of a happy ending ever since his little brother Georgie was murdered by Pennywise. Stanley is so terrorized by his childhood torment that he kills himself when he finds out that It has returned. Like every person on the planet, the Losers remain trapped in their trauma. They've just found new ways to cope.
-
-Richie ended up telling jokes and becoming rich and successful, but always alone. Throughout *It Chapter Two*, it becomes clear that Richie is a closeted gay man in love with Eddie. Mostly this revelation becomes clear through two scenes.
+In one scene, <mark>Stephen King singles out Eddie as being *delighted* by Bill.</mark> <mark>We get an explanation for Eddie's unmatched joy when Eddie tries to imitate Bill</mark>, modelling himself after the boy in order to come across as brave. <mark>Eddie idolizes Bill and his love is rooted in that admiration. There are many references to Eddie having hero worship for Bill or seeming to love Bill more than the other Losers</mark>. <mark>This is disguised as Eddie simply idolizing Bill. But it reads much</mark> clearer as <mark>an unrequited crush on him</mark>. With Eddie simply not <mark>knowing how to categorize it.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 22" %}>
+
+In a later scene, <mark>Stephen King singles out Eddie as being “delighted” by Bill.</mark>
+
+<mark>We get an explanation for Eddie’s unmatched joy when Eddie tries to imitate Bill</mark> to appear brave during a scene with Mr. Keene.
+
+<mark>Eddie idolizes Bill and his love is rooted in that admiration. There are many references to Eddie having “hero worship” for Bill or seeming to love Bill more than the other Losers</mark>, perhaps even more than Beverly does. <mark>This is disguised as Eddie simply idolizing Bill, but it’s much</mark> more likely that he had <mark>an unrequited crush on Bill</mark> and didn’t <mark>know how to categorize it.</mark>
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+Another member of the Losers Club that hits home with queer readers is Richie, a character many people -- even straight readers! -- have interpreted as being bisexual. <mark>He, like most of the boys in the group, has at least a bit of a crush on Beverly, the lone girl,</mark> but also a clear connection with Eddie as well. 
+
+</james>
+<comment>
+{{ site.tustin.header }}
+
+This paragraph doesn't seem plagiarized so much as summarizing the back half of {% include inline-citation for=page.cite.plagiarized.rachel_brands %}, the section...
+
+> ### Richie uses humor to hide and distance himself from trauma but also bisexuality
+
+Although, of particular note:
+
+> It makes sense that Richie would be hyperaware of how he is perceived, particularly since Derry has a violent, homophobic history. This explains why Richie always covers his passes at Eddie as jokes. He doesn’t only jokingly flirt with Eddie, though. He does the same thing in this next scene with Beverly. Richie must constantly put up a comedic front so he can explore his bisexuality without being taken seriously.
+> 
+> #### “Richie liked Bev a lot. Well, he liked her, but not in that way.”
+> It’s interesting that Richie feels the need to clarify here, especially it is followed by a scene that appears to contradict this.
+
+So, James is technically wrong here in the marked bit.
+
+</comment>
+</compare> 
+
+<compare>
+<james {% include timecode %} id="para20" mid-text="Paragraph-20">
+
+Not just in friendship or love, but in trauma.
+
+<mark>Childhood trauma looms under the skin of the Losers Club well into adulthood, as *It Chapter Two* explores the reunion of the crew in their hometown. For most of the children, their trauma existed on the surface of the first *It* film</mark>: <mark>Eddie's overbearing mother</mark>, <mark>Beverly's father verbally abusing her and sexually taunting her as she begins to grow into her adult body</mark>, <mark>Mike seeing his parents burned alive</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 3" %}>
+
+An era update makes sense, with ’80s nostalgia reaching an all-time high with shows like Stranger Things taking over the zeitgeist. But, given some of the trauma the children face, specifically Richie Tozier (played by Finn Wolfhard as a child and Bill Hader as an adult), the script demanded an update it never received. <mark>Childhood trauma looms under the skin of the Losers Club well into adulthood as It: Chapter Two explores the unholy reunion of the crew in their hometown. For most of the children, their traumas existed on the surface of the first It film</mark>. A hypochondriac, <mark>Eddie’s overbearing mother</mark> instilled in him a fear of anything that might be unclean. <mark>Beverly’s father verbally abuses her and sexually taunts her as she begins to grow into her adult body</mark>. <mark>Mikey saw his parents burned alive</mark> when he was a toddler. 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The first is a flashback of Richie hanging out at an arcade, the same summer of the Losers defeated Pennywise. See, the movies take place bit further ahead of time than the book. He plays street fighter with a boy he's had a crush on. When the kid says he has to go, Richie offers to pay for the next round. 
+<mark>Six out of the seven Losers left Derry as</mark> soon as they were old enough. <mark>Leaving allowed them to forget</mark> the trauma. But leaving <mark>didn't remove</mark> it. Just tucked it away out of sight, where <mark>it could seep out and impact their life later on</mark>. <mark>Both Beverly and Eddie married a version of their abusive parents.</mark> <mark>Bill now a writer can't think of a happy ending ever since his little brother Georgie</mark> was murdered by Pennywise. <mark>Stanley is so terrorized by his childhood torment that he kills himself</mark> when he finds out that It has returned. <mark>Like every person on the planet, the Losers remain trapped in their trauma. They've just found new ways to cope.</mark>
 
-Unfortunately his crush's cousin, Henry Bowers, lives to torment Richie and his friends. Now face to face with a stab-happy bully and surrounded by the judging eyes of his peers, Richie's sexuality and therefore masculinity, is challenged by his crush. Richie runs out of the arcade and seeks refuge in a public park. Before him stands the symbol of masculinity: a giant ax swinging Paul Bunyan looming 20 feet high. In his flannel and denim, he's a stark contrast to Richie's blue and pink swirled button-up shirt. The American folk hero instantly becomes a threat with shredded teeth. 
+<mark>Richie ended up telling</mark> <mark>jokes</mark> and becoming rich and successful, but always <mark>alone</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 4" %}>
+
+<mark>Six out of the seven Losers left Derry as</mark> fast as their legs would carry them. <mark>Leaving allowed them to forget</mark>, but it <mark>didn’t remove</mark> the trauma they experienced. It <mark>seeped out of their pores and impacted their choice</mark> in a spouse. <mark>Both Beverly and Eddie married a version of their parents.</mark> <mark>Billy, now a writer, can’t think of a happy ending since his brother Georgie</mark> met his bloody end at Pennywise’s doorstep. <mark>Stanley is so terrorized by his childhood torment that he “takes himself</mark> off the board” permanently. <mark>Like every person on the planet, the Losers remain trapped in their trauma. They’ve just found new ways to cope.</mark> <mark>Richie ended up telling</mark> other people’s <mark>jokes</mark>. He amassed a lot of wealth, but he lives his life <mark>alone</mark>. 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The second scene that reveals Richie is queer doesn't happen until Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotion that he has to be hauled out of the sewer by his friends. Adult Richie doesn't seem to fit into a 2019 narrative. Not everyone can come out in America, but Richie works as a comedian in Los Angeles; even if he chose to keep his sexuality close to the vest, the idea that gay marriage and giant pride parades could miss a white man working in Hollywood doesn't make sense. If it did, highlighting that fact would be vital to understanding the character. The murky nature of Richie's queer identity feels like a letdown.
+<mark>Throughout *It Chapter Two*, it becomes clear that Richie is a closeted gay man in love with</mark> <mark>Eddie</mark>. <mark>Mostly this revelation becomes clear through two scenes.</mark>
+
+<mark>The first is a flashback of Richie hanging out at an arcade, the same summer of the Losers defeated Pennywise</mark>. See, the movies take place bit further ahead of time than the book. <mark>He plays Street Fighter with a boy</mark> he's had a crush on. <mark>When the kid says he has to go, Richie offers to pay for the next round</mark>. 
+
+<mark>Unfortunately his crush's cousin, Henry Bowers, lives to torment Richie and his friends. Now face to face with a stab-happy bully and surrounded by the judging eyes of his peers, Richie's sexuality and therefore masculinity, is challenged by his crush.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 5" %}>
+
+<mark>Throughout It: Chapter Two, it becomes clear that Richie is a closeted gay man in love with</mark> his childhood best friend, <mark>Eddie</mark> (James Ransone plays the adult version). <mark>Mostly this revelation becomes clear through two scenes.</mark> <mark>The first is a flashback of Richie hanging out at an arcade the same summer the Losers defeated Pennywise</mark> the first time. <mark>He plays Street Fighter with a kid</mark> we’ve never seen before. <mark>When the kid says he has to go, Richie offers to pay for the next round</mark> of games. <mark>Unfortunately, the new kid’s cousin, Henry Bowers, lives to torment Richie and his friends. Now face to face with a stab-happy bully, and surrounded by the judging eyes of his peers, Richie’s sexual orientation, and therefore masculinity, is challenged by his crush.</mark> 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The second chapter of *It* attempts to reveal the way dormant childhood trauma springs forth in adulthood. Anything buried will eventually rise to the surface. Except for Richie's sexuality, apparently. 
-
-The queer community is still struggling to be seen in cinema as more than tragic romances or gay best friends. The balance of the identity representation within the Losers Club offered an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community. But, in the film, Richie, a well-off white masculine gay man, never even says that he's gay out loud. 
+<mark>Richie runs out of the arcade and seeks refuge in a public park. Before him stands the symbol of masculinity: a giant ax swinging Paul Bunyan looming 20 feet</mark> high. <mark>In his flannel and denim, he's a stark contrast to Richie's blue and pink swirled button-up shirt. The American folk hero instantly becomes a threat with shredded teeth</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 7" %}>
+
+<mark>Richie runs out of the arcade and seeks refuge in a public park. Before him stands the symbol of masculinity; a giant, ax-swinging Paul Bunyan looms 20 feet</mark> over a young Richie. <mark>In his flannel and denim, he’s a stark contrast to Richie’s blue and pink swirled button-up shirt. The American folk hero instantly becomes a threat with shredded teeth</mark> like a whale, but sharp like a shark’s tooth. While the giant tries to stab Richie, a crowd stands by and watches it happen. The fear, bullying and ultimately the way in which adults ignore bullying are accurate to the 1989 time period. 
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The second scene that reveals Richie is queer</mark> doesn't happen until <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotion that he has to be hauled out of the sewer by his friends. Adult Richie doesn't seem to fit into a 2019 narrative. Not everyone can come out in America</mark>, <mark>but Richie works as a comedian in Los Angeles; even if he chose to keep his sexuality close to the vest, the idea that</mark> gay marriage and giant pride parades c<mark>ould miss a white man working in Hollywood doesn't make sense. If it did, highlighting that fact would be vital to understanding the character.</mark>
+
+
+</james>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 8" %}>
+
+<mark>The second scene that reveals Richie as queer</mark> happens when <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotions he has to be hauled out of the sewer by his friends. Adult Richie doesn’t seem to fit into a 2019 narrative. Not everyone can come out in America</mark>. There are many different reasons for remaining in the proverbial closet. Some careers, like a being a professional athlete or conservative analyst, can be difficult for an openly gay man to maintain. <mark>But Richie works as a comedian in Los Angeles. Even if he chose to keep his sexual orientation close to the vest, the idea that</mark> the ’00s marriage legalization or the ’90s coming out celebration c<mark>ould miss a white man working in Hollywood doesn’t make sense. If it did, highlighting that fact is vital to understanding the character.</mark> 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Not everything in *It* is coding though. Very early on in the story we are shown the brutal gay-bashing and violent murder of Adrian Mellon, a murder so heinous it wakes the titular It from its decades-long slumber. King's language is harsh, with characters using a vast array of homophobic slurs in those early pages, but those characters using them, even the police are not celebrated. The author is very clearly judging them. And it's this horrible violence so soon into the book that shows the darkness and hate lurking under the surface of Small Town America.
+<mark>The murky nature of Richie's queer identity feels like a letdown.</mark> 
 
-It is the hate that's unnatural. The hate that is evil. Not being queer. When we get into the head of Don Hagerty, Adrian's boyfriend, and the author lets the reader know him, he's sympathetic, he's smart, and loving. He also sees the town for what it is. Sees its evil clearly and wants to leave it. Though the characters in the book don't empathize with him for having his boyfriend killed in front of him, the author does. He shows the gay character as human. 
+<mark>The second chapter of *It* attempts to reveal the way dormant childhood trauma springs forth in adulthood. Anything buried will eventually rise to the surface.</mark> Except for Richie's sexuality, apparently. 
+
+<mark>The queer community</mark> is <mark>still struggling to be seen in cinema as more than tragic</mark> romances or gay best friends. <mark>The balance of the identity representation within the Losers Club offered an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community.</mark> But, in the film, <mark>Richie</mark>, a well-off white masculine gay man, <mark>never even says that he's gay out loud.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 10" %}>
+
+Screenwriter Gary Dauberman and Hader have both shared their thoughts about the depiction. But <mark>the murky nature of Richie’s queer identity feels like a letdown.</mark> <mark>The second chapter of It attempts to reveal the way dormant childhood trauma springs forth in adulthood. Anything buried will eventually rise to the surface.</mark> There has never been a more traumatic time for <mark>the queer community</mark> than the AIDs epidemic. Everything that came after cemented the LGBTQIA community as lawfully represented citizens of the United States. There’s so much more we’re fighting for, particularly our trans siblings. We’re <mark>still struggling to be seen in cinema as more than tragic</mark> tales. <mark>The balance of identity representation within the Losers offered an awesome opportunity to detail the effects of the past 30 years on the most privileged members of the community.</mark> <mark>Richie</mark> <mark>never even says he’s gay out loud.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %} id="para21" mid-text="Paragraph-21">
+
+Not everything in *It* is coding though. Very <mark>early</mark> on in the story we are shown the brutal <mark>gay-bashing and violent murder of Adrian Mellon</mark>, a murder so heinous it wakes the titular It from its decades-long slumber. King's language is harsh, with characters using a vast array of <mark>homophobic</mark> <mark>slurs</mark> in those early pages, but those characters using them, even the police <mark>are not celebrated</mark>. <mark>The author is very clearly judging them.</mark> And it's this horrible violence so soon into the book that shows the darkness and hate lurking under the surface of Small Town America.
+
+It is <mark>the hate that's unnatural. The hate that is evil.</mark> Not being queer. <mark>When we get into the head of Don Hagerty, Adrian's boyfriend, and the author lets the reader know him</mark>, <mark>he's sympathetic, he's smart, and loving. He also sees the town for what it is. Sees its evil clearly and wants to leave it.</mark> Though the characters in the book don't empathize with him for having his boyfriend killed in front of him, the author does. He shows the gay character as human. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.alex_london at="¶ 12-14" %}>
+
+An <mark>early</mark> section of the novel describes a <mark>gay bashing and the violent murder of Adrian Mellon</mark>, a gay man, with all the <mark>homophobic</mark> language my 13-year-old vocabulary contained. It even taught me a few brand new <mark>slurs</mark> against myself. Whether I feared being beaten and thrown over a bridge before reading the book or whether it birthed that specific fear in me, I can’t say, but I read that section breathless, because there it was, in black and white on the page of this 1200-page book: that the adults around me said and thought the things I feared they said and thought. I wasn’t crazy. My fears were valid, or else why would a horror writer write them? I felt seen. Scared, but seen.
+
+Middle-schoolers aren’t taken very seriously by our culture. [...] King takes young people seriously.
+
+There was more to the representation of hate crime in IT for me, though. The opening section is, undoubtedly, filled with problematic stereotypes and hateful language, but when the bullies and the cops toss their anti-gay slurs around, they <mark>are not celebrated</mark> for it. <mark>The author is very clearly judging them.</mark> The gay-bashing is the first evidence the reader gets that evil is returning to the town of Derry; that something terribly unnatural is afoot, and it’s not homosexuality. <mark>The hate is unnatural, the hate is evil.</mark> <mark>When we get into the head of Don Hagarty, Adrian’s boyfriend, and the author lets the reader know him</mark> in his own thoughts—the first time I’d ever known a gay person outside of the news—<mark>he’s sympathetic. He’s smart and loving. He also sees the town for what it is, sees its evil clearly and wants to leave it.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In the midst of Reagan America, the world's best-selling author was sending a very blunt message. Stephen King thought gay people should be able to date, and hold hands, and live their lives. Stephen King did not think gay people should be tortured or killed. He thought that those who would torture or kill gay people were in the service of evil. As were those who would tolerate it or look away. The victims of homophobia did not deserve to be victims. 
+In the midst of Reagan America, the world's best-selling author was sending a very blunt message. <mark>Stephen King thought gay people should be able to date, and hold hands, and live their lives. Stephen King did not think gay people should be tortured or killed. He thought that those who would torture or kill gay people were in the service of evil. As were those who would tolerate it or look away. The victims of homophobia did not deserve to be victims.</mark> 
 
-Homophobia, Stephen King seemed to say, is not the natural way of the world. It is a monstrous thing. And those who practice it are a part of the monster. Like *The Babadook*, *Hellraiser*, *Jennifer's Body*, *The Craft*, and King's own *Carrie*, the queer is not the monster. Something else is. Gay men, lesbian women, bisexual people, transgender people... everyone under the queer umbrella. We are not the monsters. You are not the monster. But the society that demonizes you... that others you... That is the monster.
+<mark>Homophobia, Stephen King seemed to say, is not the natural way of the world. It is a monstrous thing. And those who practice it are a part of the monster.</mark> Like *The Babadook*, *Hellraiser*, *Jennifer's Body*, *The Craft*, and King's own *Carrie*, the queer is not the monster. Something else is. Gay men, lesbian women, bisexual people, transgender people... everyone under the queer umbrella. We are not the monsters. You are not the monster. But the society that demonizes you... that others you... That is the monster.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.alex_london at="¶ 16" %}>
+
+I couldn’t believe it. <mark>Stephen King thought gay people should be able to date and hold hands and live their lives. Stephen King did not think gay people should be tortured or killed. He thought that those who would torture or kill gay people were in the service of evil, as were those who would tolerate it or look away. The victims of homophobia did not deserve to be victims.</mark> <mark>Homophobia, Stephen King seemed to say, is not the natural way of the world. It is a monstrous thing and those who practice it are a part of the monster.</mark> He made that a literal fact with a literal monster.
+
+</from>
 </compare>
 
 <compare>
@@ -1981,7 +2152,7 @@ Homophobia, Stephen King seemed to say, is not the natural way of the world. It 
 Clive Barker and Stephen King
 
 > Thank You to my Patrons  
-[List of names]
+[Long list of names]
 
 > Script Superviser  
 Nick Herrgott

@@ -84,7 +84,7 @@
 				{% assign hr_due = false %}
 				
 				{% if page.cite.plagiarized.size > 0 -%}
-					<ul class="refs" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
+					<ul class="refs plagiarized" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
 						{% for item in page.cite.plagiarized %}
 							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
@@ -93,7 +93,7 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				{% if page.cite.misinformation.size > 0 -%}
-					<ul class="refs" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
+					<ul class="refs misinfo" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
 						{% for item in page.cite.misinformation %}
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}
@@ -101,7 +101,7 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				{% if page.cite.yikes.size > 0 -%}
-					<ul class="refs" header="This video has {{ page.cite.yikes.size }} problamatic take(s):">
+					<ul class="refs yikes" header="This video has {{ page.cite.yikes.size }} problamatic take(s):">
 						{% for item in page.cite.yikes %}
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}
