@@ -14,9 +14,9 @@
 		{%- if page.description -%}{{ page.description }}{%- endif -%}
 	{%- endcapture -%}
 	<title>{{ page.title }} | Transcript</title>
-	<meta name="description" content="{{ ogdesc }}" />
-	<meta property="og:title" content="{{ page.title }} | Transcript" />
-	<meta property="og:description" content="{{ ogdesc }}" />
+	<meta name="description" content="{{ ogdesc | escape_once }}" />
+	<meta property="og:title" content="{{ page.title | escape_once }} | Transcript" />
+	<meta property="og:description" content="{{ ogdesc | escape_once }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 	<meta property="og:locale" content="en_US" />

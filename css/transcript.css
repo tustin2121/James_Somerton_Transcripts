@@ -357,6 +357,12 @@ blockquote.book-excerpt > p {
 	margin-block: 0;
 }
 
+.markdown-body details[open] > summary {
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 0.7em;
+    margin-bottom: 0.7em;
+}
+
 /* :root { --source-color: 120, 100%, 50%; } */
 
 .color-hbomb { --source-color: hsl(59, 100%, 30%); }
