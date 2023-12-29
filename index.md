@@ -6,18 +6,30 @@ layout: vidindex
 Project creator TerraJRiley:
 > After HBomberGuy's latest video "Plagiarism and You(Tube)" I was incredibly dissapointed to hear that a creator I followed had been doing a whole bunch of plagiarism.  So, I dusted of my old Google Developer account and grabbed all the transcripts that I could get at the time of writing.  If I'm REALLY lucky then I'll also find an easy way to actually check all of these for plagiarism.
 
-Feel free to submit a pull request [on the repo](https://github.com/tustin2121/James_Somerton_Transcripts) with any plagiarism found or new transcripts created.
+Feel free to submit an issue [on the repo](https://github.com/tustin2121/James_Somerton_Transcripts) with any plagiarism found, or submit a pull request with new transcripts created.
 
-## Contributors:
+<div class="instructions">
+<div>
+
+Contributors:
 - Project creator: [TerraJRiley](https://github.com/TerraJRiley)
 - Contributors: 
 	- [Tustin2121](https://github.com/tustin2121)
 	- [/u/DHLawrence_sGhost](https://www.reddit.com/u/DHLawrence_sGhost)
-- Video archives:
-	- https://archive.org/details/james-somerton-youtube-2023-12-03
-	- https://archive.org/details/james-somerton-public-records
-	- https://archive.org/details/james-somerton-videos-backup
-	- https://www.youtube.com/@JamesSomertonArchive/videos
+  - [sciclone](https://github.com/sciclone1984)
+
+</div><div>
+
+Video archives:
+- [James Somerton Youtube (2023-12-03)](https://archive.org/details/james-somerton-youtube-2023-12-03) on the Internet Archive
+- [James Somerton Public Records](https://archive.org/details/james-somerton-public-records) on the Internet Archive
+- [James Somerton's videos (backup)](https://archive.org/details/james-somerton-videos-backup) on the Internet Archive
+- [James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube
+- [James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube
+- [Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube
+
+</div>
+</div>
 
 # Transcript Index
 
