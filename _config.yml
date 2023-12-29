@@ -1,4 +1,4 @@
-exclude: [Archive]
+exclude: [ Archive, "Gemfile*", "*.ipynb" ]
 markdown: GFM
 defaults:
   -

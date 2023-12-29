@@ -113,8 +113,6 @@ Because the island I grew up on had its economy completely collapse in the 1980s
 
 And since so many people had been injured on the job throughout the years, taking pain killers to keep working, they were suddenly without the ability to pay for the meds too. So they had to start buying pain meds from family who had pensioned out, and therefore had drug plans, in order to do the backbreaking jobs that they could manage to find.
 
-Which, sadly, led to my hometown getting the nickname of CottonTown, because OxyContin was its main import. 
-
 </james>
 <from></from>
 </compare>
@@ -122,7 +120,19 @@ Which, sadly, led to my hometown getting the nickname of CottonTown, because Oxy
 <compare>
 <james {% include timecode %}>
 
-This video isn’t my autobiography though, or about the town I grew up. There’s been enough news coverage about that little island going to hell in a hand basket for a hundred video essays. 
+Which, sadly, led to my hometown getting the nickname of CottonTown, because OxyContin was its main import. This video isn’t my autobiography though, or about the town I grew up. There’s been enough news coverage about that little island going to hell in a hand basket for a hundred video essays. 
+
+</james>
+<comment>
+{{ site.tustin.header }}
+
+He seems to be talking about Nova Scotia. See [this Canadian Encyclopedia article](https://www.thecanadianencyclopedia.ca/en/article/illicit-trade-in-oxycontin-plagues-atlantic-provinces).
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But I just wanted to set the scene so you understand where I’m coming when I talk about the necessity of crime in certain situations. How not all criminals are bad people, and how a lot of people are shunted into the category of criminal because of where society has placed them, and how successful society will allow them to become. 
 
@@ -224,18 +234,18 @@ During the Vietnam War[^war] in 1973, <mark>American soldier Griffin Callenreese
 <compare>
 <james {% include timecode %}>
 
-Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who has groomed Ash as a child to be his sex slave and heir to his criminal empire. He’s not very happy that Ash has managed to gain some independence, and wants his trophy boy back.
+<mark>Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who has groomed Ash as a child to be his sex slave and heir to his criminal empire.</mark> He’s not very happy that Ash has managed to gain some independence, and wants his trophy boy back.
 
-In the course of Ash’s investigation, Ash meets Eiji Okumura, a photographer’s assistant, who travelled from Japan to report on street gangs. He’s immediately intrigued by the older boys innocence and his… pole vaulting prowess. I’m sure there’s a double entendre there. 
+<mark>In the course of Ash’s investigation,</mark> Ash meets <mark>Eiji Okumura</mark>, a photographer’s <mark>assistant, who travelled from Japan to report on street gangs</mark>. He’s immediately intrigued by the older boys innocence and his… pole vaulting prowess. I’m sure there’s a double entendre there. 
 
-When Ash ends up in prison after being, more or less, framed for murder, he’s visited by Eiji and slips him a note by, well, sticking his tongue down his throat. Which Eiji really doesn’t seem to mind one bit. The note gives Eiji directions on how to help Ash via getting word to an associate in ChinaTown. 
+When <mark>Ash ends up in prison</mark> after being, more or less, <mark>framed for murder</mark>, he’s visited by Eiji and slips him a note by, well, sticking his tongue down his throat. Which Eiji really doesn’t seem to mind one bit. The note gives Eiji directions on how to help Ash via getting word to an associate in ChinaTown.
 
-Things go awry though. One thing leads to another and Ash’s brother, Griffin is killed in the crossfire between two gangs. Ash soon makes bail, finds out about his brother's death, and swears revenge on the people who killed him. Eiji, being a wee bit <span class="add">too</span> pig-headed <span class="add">for his own good</span>, demands to come too, along with a few other people who more or less want to help Ash revenge his way across New York’s underworld. 
+Things go awry though. One thing leads to another and Ash’s brother, <mark>Griffin is killed in the crossfire between two gangs.</mark> Ash soon makes bail, finds out about his brother's death, and swears revenge on the people who killed him. Eiji, being a wee bit <span class="add">too</span> pig-headed <span class="add">for his own good</span>, demands to come too, along with a few other people who more or less want to help Ash revenge his way across New York’s underworld. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_banana_fish %}>
 
-Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who groomed Ash as a child to be his sex slave and heir to his criminal empire. In the course of his investigation, Ash gathers several allies: Shunichi Ibe, a photojournalist, and Eiji Okumura, his assistant, who traveled from Japan to report on street gangs; Shorter Wong, a gang leader who controls Chinatown; and Max, whom Ash encounters in prison while detained on a false murder charge. When Griffin is shot and killed in a fight with Golzine's men, the group sets out to solve the mystery of "banana fish" together.
+<mark>Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who groomed Ash as a child to be his sex slave and heir to his criminal empire.</mark> <mark>In the course of his investigation,</mark> Ash gathers several allies: Shunichi Ibe, a photojournalist, and <mark>Eiji Okumura</mark>, his <mark>assistant, who traveled from Japan to report on street gangs</mark>; Shorter Wong, a gang leader who controls Chinatown; and Max, whom <mark>Ash encounters in prison</mark> while detained on a <mark>false murder charge</mark>. <mark>When Griffin is shot and killed in a fight with Golzine's men</mark>, the group sets out to solve the mystery of "banana fish" together.
 
 </from>
 </compare>
@@ -243,25 +253,24 @@ Ash begins to investigate the meaning of "banana fish", though he is impeded by 
 <compare>
 <james {% include timecode %}>
 
-But first they need to take a trip to California, to the address Ash was given by the dying man. On their way there they make a little stop over in the small hamlet Ash spent most of his early childhood in. This is where we see the hardened criminal open up to Eiji, using the process of teaching him how to handle a pistol to get close to him. After Gozine’s men find them though, a shootout ensues, but our main team make it out alive and get back on the road to California. 
+But first they need to take a <mark>trip to California</mark>, <mark>to the address</mark> Ash was given by the dying man. On their way there they make a little stop over in the small hamlet Ash spent most of his early childhood in. This is where we see the hardened criminal open up to Eiji, using the process of teaching him how to handle a pistol to get close to him. After Gozine’s men find them though, a shootout ensues, but our main team make it out alive and get back on the road to California. 
 
-Once there they find a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users — turning them into near thoughtless murder machines. Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist and leftist regimes in South America. 
+Once there they find <mark>a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users</mark> — turning them into near thoughtless murder machines. <mark>Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist</mark> and leftist regimes <mark>in South America.</mark> 
 
 This sounds absurd, but look up some of the stuff Regan did in South America in the 1980s. It’s not that far-fetched. 
 
-The group is almost immediately captured by Golzine's men and taken back to New York. Once there, Shorter Wong, Ash’s best friend, is injected with the Banana Fish serum to show off what it can do. He’s instructed to kill Eiji. Shorter attacks Eiji in a frenzy, though in a moment of lucidity, he is able to beg Ash to kill him. Ash is given a gun with one bullet… Kill Shorter, or kill himself. He shoots and kills his best friend to prevent him from killing Eiji. 
+The group is almost immediately <mark>captured by Golzine's men</mark> and taken back to New York. Once there, Shorter Wong, Ash’s best friend, is <mark>injected with the Banana Fish</mark> serum to show off what it can do. He’s <mark>instructed to kill Eiji.</mark> Shorter attacks Eiji in a frenzy, though in <mark>a moment of lucidity</mark>, he is able to <mark>beg Ash to kill him</mark>. Ash is given a gun with one bullet… Kill Shorter, or kill himself. He shoots and kills his best friend to prevent him from killing Eiji. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_banana_fish %}>
 
-Ash and his allies travel to the address in California, finding a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users. Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist governments in South America. The group is subsequently captured by Golzine's men, who inject Shorter with Banana Fish and instruct him to kill Eiji. When Shorter begs Ash to kill him in a moment of lucidity, Ash fatally shoots him.
+Ash and his allies travel <mark num=2>to the address</mark> <mark num=1>in California</mark>, finding <mark>a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users</mark>. <mark>Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist</mark> governments <mark>in South America.</mark> The group is subsequently <mark>captured by Golzine's men</mark>, who <mark>inject Shorter with Banana Fish</mark> and <mark>instruct him to kill Eiji.</mark> When Shorter <mark num=10>begs Ash to kill him</mark> in <mark num=9>a moment of lucidity</mark>, Ash fatally shoots him.
 
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
 
 This sends Ash into a violent spiral, and he ends up cutting a bloody swath through Golzine’s mansion in order to save Eiji once again, after he’d been locked away by the mob boss’s men. Ash rescues him and the mansion is set ablaze. 
 
@@ -298,7 +307,7 @@ Ash kills the assailant, but may be mortally wounded himself. He manages to brin
 
 *[RECORD SCRATCH!]* 
 
-No he doesn’t die, goddammit. And this isn’t me saying, no he doesn’t die because he and Eiji are too cute together, and he doesn’t deserve to die. I have proof! As the show was airing the banana fish website kept an up to date tracker of which major characters were dead, and which were alive. More and more characters having their image and names greyed out as the show went along. When the series finale first aired, Ash’s photo and name became greyed out but very soon after, went back to color. Which means… he’s not dead. Like I said. 
+No he doesn’t die, goddammit. And this isn’t me saying, no he doesn’t die because he and Eiji are too cute together, and he doesn’t deserve to die. I have proof! As the show was airing, the *Banana Fish* website kept an up to date tracker of which major characters were dead, and which were alive. More and more characters having their image and names greyed out as the show went along. When the series finale first aired, Ash’s photo and name became greyed out but very soon after, went back to color. Which means… he’s not dead. Like I said. 
 
 He DOES die in the manga, but plenty changed from the Manga to the Anime, And since we see Ash take a hell of a lot more punishment than a knife wound throughout the series, I’m not willing to believe that he’s dead. And there’s too many plot threads left open for a sequel. So you’re not going to change my mind on this. Our blond Mary Sue with the dead eye aim, master hacker capabilities, and sky high IQ is alive. Anyway. 
 
