@@ -20,7 +20,10 @@ notes:
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
   formatting: "Tustin2121"
-  factcheck: "\"Former Fans\" Discord contributors, including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman"
+  factcheck: 
+    - "[/u/gentlybeepingheart](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/)"
+    - "[u/superninja109](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/)"
+    - "\"Former Fans\" Discord contributors (including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman)"
   citations:
     - "[Hbomberguy's plagiarism video](https://www.youtube.com/watch?v=yDp3cB5fHXQ)"
     - "LVance on Discord"
@@ -202,7 +205,88 @@ The fear of the unknown, according to the American Psychological Association, is
 <compare>
 <james {% include timecode %}>
 
-But this was not always the case. For millennia, homosexuality and gender fluidity were not things to fear, but things to embrace, if not celebrate. Egypt had gay and lesbian and (by all accounts) transgender pharaohs and queens. Mesopotamia had gay kings. Most of the ancient Greek philosophers were gay or bisexual. Rome had gay emperors and senators. 
+But this was not always the case. For millennia, homosexuality and gender fluidity were not things to fear, but things to embrace, if not celebrate. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Egypt had gay and lesbian and (<span class="baa">by all accounts</span>) transgender pharaohs and queens.
+
+</james>
+<comment>
+<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/">/u/gentlybeepingheart</a></div>
+<details>
+<summary>[Summarized, click to open for full quote.] His claim is shaky at best: Queer people existed in Egypt, but there's not a lot of info on them. If pharaohs and queens had same-gender consorts, it's not recorded. And the only "transgender pharaoh" we have info on is Hatshepsut, who is not actually transgender, but rather wanted to be a pharaoh and not a queen, and "pharaoh" is a male-gendered title.</summary>
+
+> First off, there is actually pretty scarce firsthand of homosexuality in ancient Egypt. Scholars are pretty sure it existed, I do believe that one pharaoh ([Pepi II Neferkare](https://en.wikipedia.org/wiki/King_Neferkare_and_General_Sasenet)) was referred to as going to one of his general's house and "doing as he desired," but to say that they were multiple gay pharaohs isn't really supported. Also Nefekare had multiple female consorts, but chalk that up to James just using "gay" as an umbrella term. (edit: Also, I realized that James specified "gay and bisexual" with the Romans in the following sentence, which casts a weird light on this.)
+> 
+> I think the general consensus is "Same sex relationships existed, they didn't write about the much, but there's nothing condemning them, so they probably were chill with it." The only thing close to condemning a lesbian relationship is one woman writing that she didn't have sex with another priestess in a temple as proof of her doing virtuous things, ([source](https://medium.com/the-collector/tracing-homosexuality-1d2c0dbab7a2#:~:text=I%20never%20had%20sex%20with%20a%20woman%20in%20the%20temple)) but the "in the temple" is probably the most important part here, and it was just "don't have sex with people in a sacred area." There's the burial of [Nyankh-khnum and Khnum-hotep](https://en.wikipedia.org/wiki/Khnumhotep_and_Niankhkhnum), who were probably a same sex couple in ancient Egypt in the Old Kingdom. They both had wives and children, but were buried together and multiple paintings in their tomb depict them in positions that you would also see a married couple (ex: touching noses.) We don't know if their wives were also in that tomb, because it was looted long ago. There's a statue of two women named [Idet and Ruiu](https://collezioni.museoegizio.it/en-GB/material/Cat_3056), depicted in a pose that is most common with married couples, but the inscription doesn't say anything about their relationship. Same sex marriage didn't exist in ancient Egypt to our knowledge, but if you viewed marriage as a legal joining for the purpose of children, why would you bother getting married? You could just live with your partner (presumably)
+> 
+> I don't think there's any evidence of a queen in a relationship with another woman.
+> 
+> tl;dr: Queer people existed in ancient Egypt, there's not a lot of info on them, and multiple pharaohs and queens being openly gay isn't attested to. Maybe they did have consorts of the same gender, but it's not recorded.
+> 
+> The "transgender pharaohs" bit I'm 99.9% sure is referring to Hatshepsut.
+> 
+> This is probably just James seeing that Hatshepsut depicted herself wearing the regalia of a male pharaoh (including a fake beard) in sculptures, and extrapolating that she must have been a trans man.
+> 
+> This is not really supported by any other evidence of Hatshepsut, especially the stuff that was created by Hatshepsut.
+> 
+> Pharaoh was a male title. The "uniform" (ex: beard and headdress) was for men. Hatshepsut didn't wear female pharaoh regalia because such a thing did not exist, and she wanted to be known as a pharaoh, not as a queen.
+> 
+> In all work commissioned by Hatshepsut, she refers to herself in the feminine. She emphasizes how she is her father's daughter. In fact, she was "rediscovered" by Egyptologists because the pharaoh who tried to erase her from history replaced her name with a man's name, but when one of the Egyptologists, Jean-François Champollion, was translating Hieroglyphs on one of her temple walls he noted:
+> 
+> > If I felt somewhat surprisd at seeing here, as elsewhere throughout the temple, the renowned Moeris (Thutmose), adorned with all the insignia of royalty, giving place to this Amenenthe, for whose name we may search the royal lists in vain, still more astonished was I to find on reading the inscriptions that wherever they referred to this bearded king in the usual dress of the Pharaohs, nouns and verbs were in the feminine, as though a queen were in question. I found the same peculiarity everywhere. Not only was there the prenomen on Amenenthe preceded by the title of sovereign ruler of the world, WITH THE FEMININE AFFIX, but also his own name immediately following on the title of "Daughter of the Sun". Finally, in all the bas-reliefs representing the gods speaking to this king, he is addressed as a queen, as in the following formula: "Behold, thus saith Amen-Re, Lord of the Thrones of the World, to his daughter whom he loves, sun devoted to the truth: the building which thou hast made is like to the divine dwelling." ([source](https://ia801606.us.archive.org/30/items/templeofdeirelba12egyp/templeofdeirelba12egyp.pdf). Go down to page 17 of the pdf)
+
+
+</details>
+</comment>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+Mesopotamia had gay kings. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Most of the ancient Greek philosophers were gay or bisexual.
+
+</james>
+<comment>
+<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/">/u/superninja109</a></div>
+<details>
+<summary>[Summarized, click to open for full quote.] There were <em>many</em> Greek philosophers who were possibly bisexual, though, they didn't have the concept of sexual identities back then, and assigning such identities to them steamrolls a lot of nuance.</summary>
+
+> There were cultural associations between philosophy and pederasty--the cultural practice of man-boy couples (archetypally, although ages varied) involving both education and sexual favors. The main example is Plato, who famously defended male-male erotic love in Symposium as a starting point for greater philosophical virtues. Zeno of Citium was also a habitual pederast. Others (like Bion of Borysthenes, Theodorus of Cyrene, etc) said positive things about pederasty and boy-love, but we generally don't have actual biographical information about whether they were habitual pederasts or not .
+> 
+> (There were also notable exceptions, like the Cynics: Diogenes (and I think Crates, although I can't find the reference rn) expressed disdain for youths beautifying themselves for luxurious pederastic relationships (6.46-7))
+> 
+> Pederasty was a fairly common practice across certain areas ancient Greece, especially in the upper class from which most philosophers came. So there's a decent chance that a lot of philosophers participated in their youth or later on. But given the lack of specific biographical references to homosexuality for some of them and the institutionalized nature of pederasty in some city-states, it's hard to see this as strong proof of most philosophers' gayness (especially in the contemporary identity-focused sense of the term).
+> 
+> The Romans also negatively associated Greek philosophers and Greek culture in general with homosexuality (see Juvenal 2.4-15, Lucian Dialogues of the Courtesans 10), the idea being that teaching students philosophy was just a pretext for lust.
+> 
+> **TLDR**: James has the right idea about homosexuality and ancient Greek philosophy, and the claim that "most" philosophers had sexual relationships with other males may very well be true. I don't think there's enough evidence to say "most" for certain, but "many" is definitely true.
+> 
+> With that said, we should be cautious about assigning "gayness": most ancient Greeks probably didn't have the same idea of sexual orientation as an identity like we do. James with his sweeping transcultural claims ("For millenia, homosexuality and gender fluidity were not things to fear, but things to embrace, if not celebrate.") has no such qualms and thus steamrolls over nuances like the fact that Greek pederasty was a site of contention in the 5th century BCE and onward (see [Lear (2018) "Was Pederasty Problematized: A Diachronic View"](https://www.academia.edu/10420267/Was_pederasty_problematized_A_diachronic_answer)).
+
+</details>
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Rome had gay emperors and senators. 
 
 </james>
 <from></from>
@@ -240,7 +324,7 @@ And that is where our story of gay horror picks up. Hundreds of years later, wit
 <comment id="medieval">
 {{ site.tustin.header }}
 
-The term "warlock" mean "male witch" only in modern times. It means ["oath-breaker"](https://en.wikipedia.org/wiki/Warlock#Etymology_and_terminology) (as in breaking your oath to god) in Old English, and thus would be gender-neutral. "Witch" is similarly gender-neutral in Old English, [having male and female forms](https://en.wikipedia.org/wiki/Witch_(word)#Etymology).
+The term "warlock" means "male witch" only in modern times. It means ["oath-breaker"](https://en.wikipedia.org/wiki/Warlock#Etymology_and_terminology) (as in breaking your oath to god) in Old English, and thus would be gender-neutral. "Witch" is similarly gender-neutral in Old English, [having male and female forms](https://en.wikipedia.org/wiki/Witch_(word)#Etymology).
 
 Also, though it may have happened occasionally, it doesn't look like attributing being gay to "demonic possession" was a widespread thing, [instead just being a sin and looked down upon](https://en.wikipedia.org/wiki/History_of_the_Catholic_Church_and_homosexuality).
 
@@ -272,7 +356,7 @@ The movie is about <mark>four teenage girls who each grow up feeling different</
 <compare>
 <james {% include timecode %}>
 
-The most memorable character, by all accounts, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
+The most memorable character, <span class="baa">by all accounts</span>, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
 
 <mark>Bonnie</mark> is a girl with <mark>self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet</mark> <mark>she fears</mark> that in the end that's exactly the thing that will happen: that <mark>she'll grow up lonely</mark>, never finding love.
 

@@ -1,6 +1,6 @@
 ---
 # cspell:words: Hannibal Lecter
-date: 2021-10-04
+date: 2021-11-04
 title: '"Hannibal" and the Appeal of Toxic Love'
 status: Finished
 aka: !!seq
@@ -11,7 +11,8 @@ topics: !!seq
   - "Hannibal"
   - The Vampire Chronicles
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://www.youtube.com/watch?v=SduGQEP8goU"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20211004+ZDgWHNDdwoU+The+Gay+Appeal+of+Toxic+Love.webm"
 description: "a video essay ruminating on why people would rather be in toxic relationships than being alone, complete with portion where James dresses as Hannibal."
 notes: 
   - hbomb
@@ -24,14 +25,21 @@ contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
   citation: 
     - "[@kermitlesbian / Radhika Mohan](https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha)"
+    - "[/u/yaniism](https://www.reddit.com/r/hbomberguy/comments/18aowau/looking_for_the_sourcesplagarism_victims_for/kc1ii8l/)"
+    - "[/u/maddrgnqueen](https://www.reddit.com/r/hbomberguy/comments/18aowau/looking_for_the_sourcesplagarism_victims_for/kcfqwfq/)"
+
+
 cite:
   clips: !!map
+    carmilla: { short: "(Le Fanu, 1872)", full: "Le Fanu, J.S. (1872). <em>Carmilla</em>. Retrieved Dec 29, 2023, from The Project Gutenberg eBook at", url: "https://www.gutenberg.org/files/10007/10007-h/10007-h.htm#:~:text=Sometimes%20after%20an%20hour%20of%20apathy" }
     drag_race: { short: "", full: "" }
     hannibal: { short: "", full: "" }
   yikes: !!map
     love_simon: "James continues to show his dislike of <em>Love, Simon</em> by positing that queer people don't engage with dream-like love stories."
   misinformation: !!map
   plagiarized: !!map 
+    monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
+    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/" }
 --- 
 
 <compare>
@@ -104,64 +112,89 @@ James Somerton
 <compare>
 <james {% include timecode %}>
 
-Horror has always been an inherently traditionalistic genre, since fear is an inherently traditional, conservative emotion, and horror is often used for preserving traditional values: the victory of those who are virtuous, the punishment of those who are wicked, and rejection of the “other”. 
+<mark>Horror has always been an inherently traditionalistic genre, since fear is an inherently</mark> traditional, <mark>conservative emotion</mark>, and <mark>horror is often used for preserving traditional values</mark>: <mark>the victory of those who are virtuous, the punishment of those who are wicked, and rejection of the</mark> “other”. 
 
-Nevertheless, for centuries, queerness and horror have been inextricably linked. With horror relying on queerness for shock value, and queerness relying on horror for visibility and validation. The horror genre we know today has its roots in the eighteenth-century romance and Gothic genres, the more gruesome works of Shakespeare, as well as the works of Dante, which described in graphic detail the torments of Hell that await those who sin. 
+Nevertheless, <mark>for centuries, queerness and horror have been inextricably linked</mark>. With <mark>horror relying on queerness for shock</mark> value, and <mark>queerness relying on horror for visibility and validation</mark>. <mark>The horror genre we know today has its roots in the eighteenth-century romance and Gothic genres</mark>, <mark>the more gruesome works of</mark> <mark>Shakespeare</mark>, <mark>as well as the works of</mark> <mark>Dante, which described in graphic detail the torments of Hell that await those who sin.</mark> 
 
-But the arrival of the printing press spurred a demand for long-format literature. Enter the Gothic genre, and the growing dominance of the novel as the go-to English language prose-fiction format. More demand meant more authors. More authors meant more voices. Namely, queer voices. 
+But <mark>the arrival of</mark> the printing press spurred a demand for long-format literature. Enter the <mark>Gothic</mark> genre, and the growing dominance of the novel as the go-to English language prose-fiction format. More demand meant more authors. More authors meant more voices. Namely, queer voices. 
+
+However, <mark>we would only step into the spotlight as one of the few great leading roles we were allowed to fully inhabit: The Villain.</mark> Queer attraction and subtext could suddenly be explored in works like <mark>Sheridan Le Fanu's *Carmilla*, Oscar Wilde's *The Picture of Dorian Gray*, and Bram Stoker's *Dracula*,</mark> and <mark>queer characters could take a role at the heart of the story, albeit as predatory monsters with perverse desires</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 2-3" %}>
+
+For most of its history, <mark>horror has been an inherently conservative genre, as fear is an innately</mark> <mark>conservative emotion</mark>, and <mark>horror has traditionally been employed to uphold conservative values</mark>: <mark>the triumph of the virtuous, the punishment of the wicked, the rejection of the different</mark>, the dissident, the unknown, the preservation of family, country, and God. As I write in the genre, I continually have to question whether I am demonizing sides of myself that I should be embracing and celebrating: my values, my relationships, my sexuality, my otherness.
+
+<mark>For centuries, queerness and horror have been intertwined</mark>, <mark>horror relying on queerness for shock</mark> and pungency, and <mark>queerness relying on horror for visibility and validation</mark>. <mark>The genre we describe as horror today has its roots in the romance and Gothic genres of the eighteenth century</mark>, which in turn were influenced by the pre-Romantic movement known as the Graveyard Poets, <mark>the more gruesome works of</mark> Marlowe, <mark>Shakespeare</mark>, Webster, and Middleton, <mark>as well as the works of</mark> Milton and <mark>Dante, which described in graphic detail the torments of Hell that await those who had sinned.</mark> While the Renaissance and Enlightenment eras were more liberal in their depictions of queer historical figures, relationships, sexuality, and romance (though often with tragic ends), such positive portrayals declined as the Church and the State both worked to criminalize and demonize such behaviour. With <mark>the arrival of</mark> <mark>Gothic</mark> novels, the early Victorian thrillers known as “sensation novels,” pulp novels, and penny dreadfuls, <mark>we stepped into the spotlight in one of the few great leading roles we were allowed to fully inhabit: the villain.</mark> In such works as Matthew Lewis’s *The Monk*, <mark>Sheridan Le Fanu’s *Carmilla*, Oscar Wilde’s *The Picture of Dorian Gray*, and Bram Stoker’s *Dracula*</mark> (who warns his “brides” as they approach Jonathan Harker, “He belongs to me!”), queer attractions and subtexts could suddenly be explored, and <mark>queer characters could take a role at the heart of the story, albeit as predatory unnaturals with perverse desires</mark>, seeking out innocents—including children and animals—to corrupt and consume. From Henry James’s *The Turn of the Screw* to H.G. Wells’s *The Island of Dr. Moreau*, from Wilkie Collins’s *The Woman in White* to Robert Louis Stevenson’s *The Strange Case of Dr. Jekyll and Mr. Hyde*, chances are that if you read a story from this period that depicts “a secret side,” a “hideous transformation,” a “debilitating disease,” a “tainted bloodline,” “wanton decadence,” “unbridled hedonism,” “a duplicitous nature,” or a “twilight underworld,” you are likely confronting a carefully coded example of queer horror.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-However, we would only step into the spotlight as one of the few great leading roles we were allowed to fully inhabit: The Villain. Queer attraction and subtext could suddenly be explored in works like Sheridan Le Fanu's *Carmilla*, Oscar Wilde's *The Picture of Dorian Gray*, and Bram Stoker's *Dracula*, and queer characters could take a role at the heart of the story, albeit as predatory monsters with perverse desires. 
+<mark>LGBT authors discovered that we could operate within the constraints of this most conservative <span class="add">of</span> genres, utilizing metaphor</mark> and coding to depict our queer culture… <mark>For a while, it was preferable to be seen as a monster rather than to go unnoticed. </mark>
 
-LGBT authors discovered that we could operate within the constraints of this most conservative <span class="add">of</span> genres, utilizing metaphor and coding to depict our queer culture… For a while, it was preferable to be seen as a monster rather than to go unnoticed. 
+<mark>However, in our eagerness to use the genre to depict some element of ourselves, we most frequently revealed</mark> <mark>our self-hatred</mark>, <mark>the stinging toxin gay readers were obliged to ingest</mark> in order <mark>to fulfill our desire<span class="add">s</span> to see ourselves.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 4" %}>
+
+<mark>Queer writers found we could work within the confines of this most conservative genre, using metaphor</mark> and allusion to describe meeting places, encounters, relationships, occupations, and networks through which queer people could find each other, gather, and form community. At least <mark>for a while, it was better to be seen as a monster than to remain unseen.</mark> <mark>However, in our zeal to use the genre to portray some aspect of ourselves, what we most often revealed</mark>—or were required to reveal—was <mark>our self-hatred</mark>. For queer readers, hatred, and self-hatred, were <mark>the stinging medicines we were forced to consume</mark> if we were <mark>to satisfy our need to see ourselves.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-However, in our eagerness to use the genre to depict some element of ourselves, we most frequently revealed our self-hatred, the stinging toxin gay readers were obliged to ingest in order to fulfill our desire<span class="add">s</span> to see ourselves. Into the early 1900s, through two world wars and the extremely conformist 1950s and early 1960s, so-called sexual deviation and perversity continued to play a prominent part in the horror genre. As novels, movies, and television became increasingly permissive, graphic depictions of passionate lesbian vampires, pansexual covens, mother-obsessed maniacs, and cross-dressing cannibals startled and titilated mainstream audiences... while infuriating censors, and many in the queer community alike. 
+<mark>Into the early 1900s, through two world wars and the extremely conformist 1950s and early 1960s</mark>, <mark>so-called sexual deviation and perversity continued to play a prominent part in the horror genre</mark>. As novels, <mark>movies, and television became increasingly permissive, graphic depictions of passionate lesbian vampires, pansexual covens, mother-obsessed maniacs, and cross-dressing cannibals startled and titilated mainstream audiences... while infuriating censors</mark>, and many in the queer community alike. 
 
-But the anti-hero was becoming a prominent protagonist now, and the prim, prudish, heterosexual heroes of the past were ridiculed for being painfully boring, while the bizarre monsters and murderers were applauded for their defiance of societal conventions. Up until then, families were considered a perfect microcosm of society. Sacred. A source of power and security. 
+But <mark>the anti-hero was becoming a prominent protagonist now, and the prim, prudish, heterosexual heroes</mark> of the past <mark>were ridiculed for being painfully boring, while the bizarre monsters and murderers were applauded for their defiance of societal conventions.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 5" %}>
+
+<mark num=2>So-called sexual deviance and perversity continued to play a starring role in horror</mark> past the turn of the century and <mark num=1>into the early 1900s, through two world wars and the deeply conformist 1950s and early ’60s</mark>. As stage plays, fiction, <mark>cinema, and television became more permissive, explicit portrayals of lusty lesbian vampires, pansexual covens, mother-obsessed maniacs, and cross-dressing cannibals shocked and titillated mainstream audiences and enraged censors</mark> and queer activists alike. The lines between good and evil began to blur, <mark>the anti-hero became a dominant protagonist, and the prim, prudish, unfailingly heterosexual heroes</mark> <mark>were subtly mocked for their dullness while the outlandish monsters and murderers were quietly cheered for their rejection of social norms.</mark>
+
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The heroes would do whatever was required to defeat the monster and restore order, including sacrificing themselves. But then a transition took place. We went from 'killing the deviant to save the family and society' to the insinuation that family and society was where the deviance lay, and that they may destroy you. *Rosemary’s Baby*, *Carrie*, *The Exorcist*, *The Shining*, and *The Omen*. In these stories, family and society were where the monsters were made… through divorce, abuse, or neglect… through isolation and exclusion, and *especially* through a disregard for and degradation of the rules of gender and sexual identity that “good families” obeyed. 
+<mark>Up until then, families</mark> were considered a perfect <mark>microcosm of society</mark>. <mark>Sacred. A source of power and security. The heroes would do whatever was required</mark> <mark>to defeat the monster and restore order</mark>, <mark>including sacrificing themselves</mark>. But then <mark>a transition</mark> took place. We went from <mark>'killing the deviant to save the family and society' to the insinuation that family and society was where the deviance lay, and that they may destroy you</mark>. <mark>*Rosemary’s Baby*</mark>, <mark>*Carrie*</mark>, <mark>*The Exorcist*</mark>, *The Shining*, and *The Omen*. <mark>In these stories, family and society were where the monsters were made… through divorce, abuse, or neglect… through isolation and exclusion, and *especially* through a disregard for and degradation of the rules of gender and sexual identity that “good families” obeyed.</mark> 
 
-This was the new order of things in horror. These stories were in high contrast with those of decades prior, where the monster was still an external force we could fight and destroy. 
+<mark>This was the new order</mark> of things in horror. These stories were in <mark>high contrast with those</mark> of decades prior, <mark>where the monster</mark> <mark>was still an external force we could fight and destroy</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 6" %}>
+
+<mark>Up until this point, family</mark> as a <mark>microcosm of society</mark> had been held up as a <mark>sanctity, as the source of strength and safety, and heroes would do anything</mark>, <mark num=5>including sacrifice themselves</mark>, <mark num=4>to destroy the monster and restore order</mark>. Then we began to see <mark>a transition</mark> from the common theme of <mark>“destroying the abnormal to preserve family and society” to the implication that family and society were themselves the abnormal and would destroy you</mark>. This new wave of horror was the one I grew up with, precociously reading novels such as Ira Levin’s <mark>*Rosemary’s Baby*</mark>, Thomas Tryon’s *The Other*, Stephen King’s <mark>*Carrie*</mark>, William Peter Blatty’s <mark>*The Exorcist*</mark>, and V.C. Andrews’s *Flowers in the Attic*. <mark>In these stories, family and society were where the monsters were made—through divorce, abuse, neglect, through isolation and exclusion, and especially through a disregard for and degradation of the rules of gender and sexual identity that “good families” obeyed.</mark> <mark>This was the new order</mark>, and while “good people” and “good families” could try to combat it, they risked sacrificing themselves for no reason or, worse, becoming monsters themselves in the process. These narratives unfolded in <mark>stark contrast to those</mark> I’d seen in old creature features on television, <mark>where the monster</mark>, even if created by our greed or misadventure, <mark>was still an external force we could fight and destroy</mark>. Now we were in the era of Bob Clark’s influential proto-slasher Black Christmas, where the obscenity-spewing woman-hating killer—whose perverse and monstrous tirades alluded to abuse within his family—was calling from inside the house.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In recent years, the queer villain/anti-hero has made an interesting and largely welcome return within horror, as we have seen an increase in the psychological complexity of its monsters and the conflicted nature of its heroes and victims. Anne Rice’s vampires come to mind as an example, as well as Bryan Fuller’s TV series, *Hannibal*. 
+<mark>In recent years, the queer villain/anti-hero has made an interesting and largely welcome return within horror, as we have seen an increase in the psychological complexity of its monsters and the conflicted nature of its heroes and victims.</mark> Anne Rice’s vampires come to mind as an example, as well as Bryan Fuller’s TV series, *Hannibal*. 
 
-In pervious horror-themed videos I’ve discussed the drawn empathy between queer peoples and monsters. We see ourselves in monsters because we have also been cast out of society. We’ve been decreed unfit for all audiences, something we must protect women and children from. We must be regulated, and if necessary, slain — for no other reason than how we are different from society’s expectations. 
+</james>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 8" %}>
+
+<mark>In recent years, the queer villain/anti-hero has made an interesting and largely welcome return within horror, as we have seen an increase in the psychological complexity of its monsters and the conflicted nature of its heroes and victims.</mark> Michel Faber’s cerebral sci-fi horror novel *Under the Skin* (and its more oblique 2013 film adaptation with Scarlett Johansson) presents an alien who performs gender, taking on the image of a vulnerable, feminine woman to attract, ensnare, and harvest her human male prey; her journey both illuminates and subverts the trope of “trans woman as male deceiver.” In John Ajvide Lindqvist’s novel *Let the Right One In*, the genitally mutilated child vampire Eli befriends and imperceptibly grooms the bullied boy Oskar to replace the aging “father” in Eli’s thrall. Oskar and Eli ultimately escape the town where Eli has been feeding; we understand that Oskar too will grow older, will become protector and facilitator and “father,” as Eli remains ageless. And then there is the titular creature of the 2014 film *The Babadook*, who was embraced by film-savvy queers as a darkly dapper symbol of queer resistance—“I’ll wager with you, I’ll make you a bet: the more you deny, the stronger I get.” Once it bursts out of the closet, it refuses to be repressed or restrained. In the end, despite all attempts to exorcise it, it cannot be defeated, nor can it be driven away; it can only be integrated into the family, fed and nurtured, accepted and embraced.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In pervious<sup class="add">[sic: previous]</sup> horror-themed videos I’ve discussed the drawn empathy between queer peoples and monsters. We see ourselves in monsters because we have also been cast out of society. We’ve been decreed unfit for all audiences, something we must protect women and children from. We must be regulated, and if necessary, slain — for no other reason than how we are different from society’s expectations. 
 
 So we look at Frankenstein’s creation and think, well, I’m also a social outcast, and I have feelings. I have a heart, and aspirations, social needs, and dreams of living a good life. Shouldn’t that mean that he does also? 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
 
 But there’s something that’s overlooked. That queer people are fundamentally the *same* as straight people. And just as there is narcissism, ego, exploitation, and abuse among straight people — When it comes to queer people… sometimes a monster<span class="del">…</span> is just a monster. It’s like we — queer people in our relationships — are so conditioned to seeing the person behind the monster that we overlook the elements that are genuinely monstrous because to us, as historical societal outcasts who lacked connection to human society at large, we value the human connection enough to tolerate or even condone monstrous behaviour. 
 
@@ -592,6 +625,8 @@ And while once Vampires were beasts and monsters, beholden to the whim of their 
 
 But it was never something explicitly explored — instead vampires lived within folklore as parables preaching the need to stay away from people who exhibited un-christianly behaviour. The 18th and 19th centuries marked a shift in the way many people in Europe examined their heritage and mythology. Additionally spurred by the advent of the printing press, allowing an ease-of-access for increasingly literate populations, European writers grew tired of dramatic wealthy families and war stories. Attention turned towards fantasy stories, science fiction, a more gripping and tangible expression of imagination. 
 
+And particularly, a re-examination outside the rigid christian moral take of European folklore. And within this, we began to decode the queerness of the vampire. Even if we were just using vampires to call out our queer friends for being jerks. 
+
 </james>
 <from></from>
 </compare>
@@ -599,9 +634,20 @@ But it was never something explicitly explored — instead vampires lived within
 <compare>
 <james {% include timecode %}>
 
-And particularly, a re-examination outside the rigid christian moral take of European folklore. And within this, we began to decode the queerness of the vampire. Even if we were just using vampires to call out our queer friends for being jerks. 
+In <mark>1819</mark>, <mark>John Polidori</mark> published <mark>The Vampyre</mark>. <mark>In this story, the vampire, Lord Ruthven, is written as an aristocratic seducer</mark>. A rich man who has given up the idea of following society’s norms. 
 
-In 1819, John Polidori published The Vampyre. In this story, the vampire, Lord Ruthven, is written as an aristocratic seducer. A rich man who has given up the idea of following society’s norms. This was a great fear in western Europe at the time, by the way, especially among poorer people. The catholic church had maintained power for nearly 1500 years thanks to a propaganda effort that said that poverty was pivotal to morality and getting into heaven. The more accepting the poor were with poverty, the less likely they would be to rise up against the wealthy and powerful. And it meant the church got to decide who got to be wealthy and powerful. 
+</james>
+<from {% include citation for=page.cite.plagiarized.vampires_r_us at="¶ 1" %}>
+
+VAMPIRES HAVE BEEN a part of popular culture in the West for several centuries. American vampire stories are rooted in the folklore of Eastern Europe, but similar creatures have also turned up in Western Europe, India, and China. The contemporary vampire story has roots in traditional folklore, in 17th- and 18th-century pseudo-science, and in historical figures such as the “Blood Countess,” Elizabeth Bathory, and Romanian ruler Vlad “The Impaler” Tepes. Well-known precursors to today’s stories include the 1748 German poem, “Der Vampyre” and an <mark>1819</mark> short story by <mark>John Polidori</mark> titled “<mark>The Vampyre</mark>.” <mark>In this story, the vampire, Lord Ruthven, was first portrayed as the “aristocratic seducer”</mark> that is so familiar to Americans. Polidori was Lord Byron’s physician, and many readers saw a resemblance between Byron and the vampire.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This was a great fear in western Europe at the time, by the way, especially among poorer people. The catholic church had maintained power for nearly 1500 years thanks to a propaganda effort that said that poverty was pivotal to morality and getting into heaven. The more accepting the poor were with poverty, the less likely they would be to rise up against the wealthy and powerful. And it meant the church got to decide who got to be wealthy and powerful. 
 
 </james>
 <from></from>
@@ -621,14 +667,25 @@ Yet the projected messaging, and this was heavily adopted by the poor, was that 
 
 But Palidori wasn’t writing about the corruption of homosexuality, oh no. His Lord Ruthven was, quite obviously, the real life Lord Byron — who… may or may not have been a vampire himself. But he was fabulously wealthy, fabulously sexy, fabulously bisexual, and who Palidori had been fabulously in love with for a time. But Lord Byron got bored, and casually moved on to suck the life out of some other, less talented, sycophant. Which normally wasn’t a problem, but Palidori was salty enough that he was gonna tell the world just what kind of sexy… irresistible monster Lord George Gordon Byron actually was. And probably also how Palidori would take him back in half a second if Byron came around. We all know a guy like that, don’t we? 
 
-Later on in the century, In 1871, a vampire story with — let’s say... ‘subtle’ lesbian undertones — “Carmilla” by Sheridan Le Fanu, was published. The idea of a vampire female presence was nothing new, but one preying on other women was revolutionary and scandalous. 
-
 </james>
 <from></from>
 </compare>
 
 <compare>
-<clip {% include timecode %}>
+<james {% include timecode %}>
+
+Later on in the century, <mark>In 1871, a vampire story with</mark> — let’s say... <mark>‘subtle’ lesbian undertones — “Carmilla” by Sheridan Le Fanu, was published.</mark> The idea of a vampire female presence was nothing new, but one preying on other women was revolutionary and scandalous. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vampires_r_us at="¶ 2" %}>
+
+By the 1840s, vampires were seen in English theatrical productions, and “Varney the Vampire,” created by James Malcolm Rymer, was a popular newspaper serial. <mark>In 1871, a vampire story with</mark> <mark>subtle lesbian undertones, “Carmilla,” by Sheridan Le Fanu was published.</mark> In 1897, the best known vampire book, Bram Stoker’s *Dracula*, was published. Hugely popular in the U.S., it had been adapted for both stage and screen by the 1920s. The first vampire films were actually made by the French in the 1890s. By the 1920s, the Germans had produced *Nosferatu*, and in 1931 Hollywood jumped in with Tod Browning’s *Dracula*.
+
+</from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.carmilla at="pp.109-110" %}>
 
 \[Text scrolling on screen]:
 
@@ -653,16 +710,21 @@ Feel like I could get demonetized for that.
 <compare>
 <james {% include timecode %}>
 
-And then came Dracula by Bram Stoker, who many believe to have been a closeted gay man in love with his employer, Henry Irving, who many believe was the progenitor of the character of Dracula, himself. For this, Stoker himself was a young, impressionable Johnathan Harker, trapped in the castle of opulence, alone, with a man worth his obsession — kept from his benign relationships with women. 
-
-Dracula’s most famous screen incarnation, the 1931 adaptation, which is actually adapted more so from the play than the book for budgetary reasons, was directed by Todd Browning, a gay director. And he made his Dracula sexy, exotic, and fabulous with that flowing cape. 
+And then came *Dracula* by Bram Stoker, who many believe to have been a closeted gay man in love with his employer, Henry Irving, who many believe was the progenitor of the character of Dracula, himself. For this, Stoker himself was a young, impressionable Johnathan Harker, trapped in the castle of opulence, alone, with a man worth his obsession — kept from his benign relationships with women. 
 
 </james>
-<from></from>
+<comment>
+{{ site.tustin.header }}
+
+The article {% include inline-citation for=page.cite.plagiarized.vampires_r_us %} continues to talk about *Dracula*, but only the book. This section doesn't directly pull any sentences, but James summarizes bits of it.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+Dracula’s most famous screen incarnation, the 1931 adaptation, which is actually adapted more so from the play than the book for budgetary reasons, was directed by Todd Browning, a gay director. And he made his Dracula sexy, exotic, and fabulous with that flowing cape. 
 
 Throughout the mid 20th century vampires fell into the realm of b-movie camp, having more than one meet-up with Abbott and Costello. And though many a gay man found *ample* sexual tension between Christopher Lee’s Dracula and Peter Kushing’s Van Helsing in the Hammer horror classics, there wasn’t much to speak of gay vampires in mainstream culture at the time. 
 
