@@ -802,7 +802,9 @@ Rose Ophelia Shepard
 <comment>
 {{ site.tustin.header }}
 
-It's unclear who James is thanking here. Searching this name on Google gives us a YouTube user with zero videos and six subscribers, and a bunch of historic obituaries. 
+Rose is a YouTube user with about 7 subscribers and no videos. They commented on the reupload of this video, remarking on the credit here:
+
+> Im the "special thanks to" person, which was nice, but its cause he asked to use a comment i made in an upcoming video, only to not technically give me credit for that contribution, just a special thanks which could mean anything
 
 </comment>
 </compare>
