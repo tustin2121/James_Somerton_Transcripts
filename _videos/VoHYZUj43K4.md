@@ -43,13 +43,13 @@ There might be a lot less going on in "Attack on Titan" than you think.
 
 Patron: [link]
 
-{% include chapter-link at="00:00" for="Introduction" %}
-{% include chapter-link at="04:19" for="Chapter 1 - The Story" %}
-{% include chapter-link at="10:42" for="Chapter 2 - Adoption" slug="Chapter 2: Fascist Adoption" %}
-{% include chapter-link at="19:08" for="Chapter 3 - Inner Meaning" %}
-{% include chapter-link at="30:40" for="Chapter 4 (Part 1) - Mistaken Significance" slug="Chapter 4: Part One: Mistaken Significance" %}
-{% include chapter-link at="41:13" for="Chapter 4 (Part 2) - Applicability" slug="Chapter 4: Part Two: Applicability" %}
-{% include chapter-link at="52:37" for="Chapter 4 (Part 3) - Caged Interpretation" slug="Chapter 4: Part Three: Caged Interpretation" %}
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:19" for="Chapter 1 - The Story" %}  
+{% include chapter-link at="10:42" for="Chapter 2 - Adoption" slug="Chapter 2: Fascist Adoption" %}  
+{% include chapter-link at="19:08" for="Chapter 3 - Inner Meaning" %}  
+{% include chapter-link at="30:40" for="Chapter 4 (Part 1) - Mistaken Significance" slug="Chapter 4: Part One: Mistaken Significance" %}  
+{% include chapter-link at="41:13" for="Chapter 4 (Part 2) - Applicability" slug="Chapter 4: Part Two: Applicability" %}  
+{% include chapter-link at="52:37" for="Chapter 4 (Part 3) - Caged Interpretation" slug="Chapter 4: Part Three: Caged Interpretation" %}  
 
 #attackontitan #lordoftherings
 
@@ -72,13 +72,13 @@ Patron: [link]
 
 #attackontitan #aot #shingekinokyojin
 
-{% include chapter-link at="00:00" for="Introduction" %}
-{% include chapter-link at="04:20" for="Chapter One" slug="Chapter 1: The Story" %}
-{% include chapter-link at="10:40" for="Chapter Two" slug="Chapter 2: Fascist Adoption" %}
-{% include chapter-link at="18:08" for="Chapter Three" slug="Chapter 3: Inner Meaning" %}
-{% include chapter-link at="29:37" for="Chapter 4 (Part 1)" slug="Chapter 4: Part One: Mistaken Significance" %}
-{% include chapter-link at="40:13" for="Chapter 4 (Part 2)" slug="Chapter 4: Part Two: Applicability" %}
-{% include chapter-link at="51:38" for="Chapter 4 (Part 3)" slug="Chapter 4: Part Three: Caged Interpretation"%}
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:20" for="Chapter One" slug="Chapter 1: The Story" %}  
+{% include chapter-link at="10:40" for="Chapter Two" slug="Chapter 2: Fascist Adoption" %}  
+{% include chapter-link at="18:08" for="Chapter Three" slug="Chapter 3: Inner Meaning" %}  
+{% include chapter-link at="29:37" for="Chapter 4 (Part 1)" slug="Chapter 4: Part One: Mistaken Significance" %}  
+{% include chapter-link at="40:13" for="Chapter 4 (Part 2)" slug="Chapter 4: Part Two: Applicability" %}  
+{% include chapter-link at="51:38" for="Chapter 4 (Part 3)" slug="Chapter 4: Part Three: Caged Interpretation"%}  
 
 </credits>
 </compare>
