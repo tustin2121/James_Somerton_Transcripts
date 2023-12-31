@@ -42,6 +42,7 @@ cite:
 factcheck:
   cinnamorollmiku: { short: "lapin" }
 ---
+{% assign tustin = site.data.cite.tustin %}
 
 <compare>
 <credits header="Video Description:">
@@ -124,7 +125,7 @@ Which, sadly, led to my hometown getting the nickname of CottonTown, because Oxy
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 He seems to be talking about Nova Scotia. See [this Canadian Encyclopedia article](https://www.thecanadianencyclopedia.ca/en/article/illicit-trade-in-oxycontin-plagues-atlantic-provinces).
 

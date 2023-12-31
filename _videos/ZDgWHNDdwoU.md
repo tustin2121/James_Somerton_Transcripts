@@ -41,6 +41,7 @@ cite:
     monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
     vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/" }
 --- 
+{% assign tustin = site.data.cite.tustin %}
 
 <compare>
 <credits header="Video Description:">
@@ -714,7 +715,7 @@ And then came *Dracula* by Bram Stoker, who many believe to have been a closeted
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 The article {% include inline-citation for=page.cite.plagiarized.vampires_r_us %} continues to talk about *Dracula*, but only the book. This section doesn't directly pull any sentences, but James summarizes bits of it.
 
@@ -922,7 +923,7 @@ Queer people have a fascination with costumes — and this is something document
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 Note: James is in a Hannibal Lector-eqsue muzzle costume for this segment. And the camera has a tendency to zoom unsettlingly into his eyes. It's likely one of the most... ambitious? interesting? weird? costumes he's donned during a video essay.
 

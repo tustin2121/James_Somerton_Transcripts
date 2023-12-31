@@ -3,9 +3,13 @@ markdown: GFM
 defaults:
   -
     scope:
-      path: "" # all files on the site
+      path: "_videos"
     values:
       layout: "transcript"
+      status: Missing
+      podcast:
+        comment-author: "Tustin2121"
+        comment: "Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place..."
 readme_index:
   enabled: true
 collections:
@@ -13,17 +17,3 @@ collections:
     output: true
     permalink: /:collection/:name
     layout: transcript
-yt:
-  todd_video: 
-    color: "todd"
-    short: "Fact Check Video (Todd, 2023)"
-    full: "Todd in the Shadows. (2023, Dec 3) <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube."
-    url: "https://www.youtube.com/watch?v=A6_LW1PkmnY"
-  hbomb_video: 
-    color: "hbomb"
-    short: "Plagiarism Video (Hbomb, 2023)"
-    full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
-    url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"
-tustin:
-  signature: '<div class="signature">--Tustin2121, former patron of James</div>'
-  header: '<div class="header"><a class="citation" href="#" >Tustin2121</a></div>'

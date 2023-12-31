@@ -18,6 +18,8 @@ contributors:
   transcription: "[an anonymous pastebin user](https://pastebin.com/zDXsHrFv)"
 
 ---
+{% assign tustin = site.data.cite.tustin %}
+
 <compare>
 <james {% include timecode %}>
 
@@ -25,7 +27,7 @@ Hi, everyone. I'm sorry for taking so long to make this video or to say anything
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 Warning: Triggering content in this box. You can skip ahead to the next box and miss nothing.
 

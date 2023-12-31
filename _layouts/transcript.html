@@ -138,8 +138,8 @@
 							<p>Auto-text is cleaned up somewhat to remove excessive "um"s and vocal tics.</p>
 						</nick>
 						<comment>
-							<div class="header"><a class="citation" href="#">Tustin2121</a></div>
-							<p>Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place...</p>
+							<div class="header"><a class="citation" href="#">{{ page.podcast.comment-author }}</a></div>
+							<p>{{ page.podcast.comment | default: "Text" | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 						</comment>
 					</compare>
 					{% assign hr_due = true %}

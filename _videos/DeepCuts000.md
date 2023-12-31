@@ -33,6 +33,7 @@ cite:
   clips: !!map
     the_craft: { short: "(Fleming, 1996)", full: "Wick, D. (Producer). Fleming, A. (Director). (1996). <em>The Craft</em> [Motion picture]. US: Columbia Pictures." }
     hellraiser: { short: "(Barker, 1987)", full: "Figg, C. (Producer). Barker, C. (Director). (1987). <em>Hellraiser</em> [Motion picture]. UK: Film Futures." }
+    alien: { short: "(Scott, 1979)", full: "Carroll, G., Giler, D., Hill, W. (Producers). Scott, R. (Director). (1979). <em>Alien</em> [Motion picture]. US: 20th Century-Fox, Brandywine Productions." }
     jennifer: { short: "(Kusama, 2009)", full: "Dubiecki, D., Novick, M., Reitman, J. (Producers). Kusama, K. (Director). <em>Jennifer's Body</em> [Motion picture]. US: Fox Atomic, Dune Entertainment." }
   yikes: !!map
     this_thing: "The fact that James thought he could get away with not crediting half the people he stole from. (I mainly note this so that all three score boxes have a number in them, lol.)"
@@ -70,6 +71,9 @@ cite:
     joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/" }
     alex_london: { color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/" }
 ---
+{% assign hbomb = site.data.cite.hbomb %}
+{% assign tustin = site.data.cite.tustin %}
+
 <div>
   <div style="font-size: x-small; text-align: center;">(You can click on a paragraph blow to jump to the start of that section.)</div>
   {% include image0.svg %}
@@ -135,7 +139,7 @@ Alex London
 Society and Queer Horror
 
 </credits>
-<comment {% include citation for=site.yt.hbomb_video %}>
+<comment {% include citation for=hbomb.video %}>
 
 Not included in the credits, though they should have been:
 - Andrew Park
@@ -162,7 +166,7 @@ Mankind has always found an innate horror in things that are different. An evolu
 
 </james>
 <comment id="homo_erectus">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 This is a whole lot of speculation with nothing to back it up. For one, "Homo erectus" ***is*** a "human being", in that scientists classify them as [one of the "human species"](https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html#:~:text=H.%20erectus%20is%20the%20longest%20lived%20of%20all%20human%20species). And we have no way of knowing if other species of early humans found them terrifying.
 
@@ -343,7 +347,7 @@ And that is where our story of gay horror picks up. Hundreds of years later, wit
 
 </james>
 <comment id="medieval">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 The term "warlock" means "male witch" only in modern times. It means ["oath-breaker"](https://en.wikipedia.org/wiki/Warlock#Etymology_and_terminology) (as in breaking your oath to god) in Old English, and thus would be gender-neutral. "Witch" is similarly gender-neutral in Old English, [having male and female forms](https://en.wikipedia.org/wiki/Witch_(word)#Etymology).
 
@@ -405,14 +409,11 @@ The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fu
 <mark>After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town, where a young person can go and be themselves. A safe space with no anti-witch judgment. In the movie, the neighborhood seems to be an empty grassy field</mark>, but to many a queer youth watching it in 1996, it was the Castro District of San Francisco, Chelsea in New York, or Church Street in Toronto. Whether a place safe for witches or gays, <mark>the bus driver</mark> knows exactly where he's going to take them, warning them...
 
 </james>
-<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
+<from span="3" {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
 
-<mark>After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town where a young person can go and be herself. A safe space with no anti-witch judgement. In the movie that neighborhood seems to be an empty grassy field</mark> with butterflies. For me, it was the the gay bar district in southeast Washington, DC. But in either case, <mark>the bus driver</mark> in the film knew exactly what kind of neighborhood it was. As the four step off the bus the driver says [...]
+<mark>After the four witches have confirmed each other's witchy tendencies, the four take a bus to the witchy part of town where a young person can go and be herself. A safe space with no anti-witch judgement. In the movie that neighborhood seems to be an empty grassy field</mark> with butterflies. For me, it was the the gay bar district in southeast Washington, DC. But in either case, <mark>the bus driver</mark> in the film knew exactly what kind of neighborhood it was. As the four step off the bus the driver says "Don't let the freaks get you." Nancy stops, turns back to look at the driver, lowers her Rick Springfield sunglasses, and says with a smile, "Mister, we are the freaks." <mark>Yes, Nancy, own it.</mark>
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.the_craft %}>
 
 Driver: "You girls watch out for those weirdos."
@@ -420,24 +421,11 @@ Driver: "You girls watch out for those weirdos."
 Nancy: "We are the weirdos, mister." [smiles]
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
-
-[...] "Don't let the freaks get you." Nancy stops, turns back to look at the driver, lowers her Rick Springfield sunglasses, and says with a smile, "Mister, we are the freaks." [...]
-
-</from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Gay icon confirmed.
+<mark num=3>Gay icon confirmed.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.andrew_park at="¶ 7" %}>
-
-[...] Yes, Nancy, own it.
-
-</from>
 </compare>
 
 <compare>
@@ -479,7 +467,7 @@ In modern Wicca, homosexuality is highly embraced. <mark>Although heteronormativ
 
 </james>
 <comment id="wicca_homo">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 There seems to be very little information on Wiccans prior to the 1950's, when [Gerald Gardner introduced it to the public](https://en.wikipedia.org/wiki/Wicca). We don't know anything about such a rule. The only maybe inkling to something like this was [accusations of homophobia](https://en.wikipedia.org/wiki/Gerald_Gardner#Homophobia) against Gardner.
 
@@ -773,37 +761,28 @@ But there's an odd attractiveness to the monsters of *Hellraiser*. When they mov
 When our protagonist, Kirsty, <mark>is confronted by the Cenobites after solving the puzzle box</mark> herself <mark>and demands to know who they are, she is met with the reply</mark>:
 
 </james>
-<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
+<from span="2" {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
-When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. <mark>While Benshoff may view these creatures as monster queers that are not at all a positive representation</mark>, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way <mark>that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster.</mark> When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, [...]
+When the cenobites move and speak there is a certain degree of attractive nobility in their appearance. These modern primitives may commit visceral acts of savagery, but they also posses a surprising grace and an erudite eloquence. <mark>While Benshoff may view these creatures as monster queers that are not at all a positive representation</mark>, Jenkins’ position that our sensibilities are being reshaped receives considerable support when one takes into account the way <mark>that the cenobites in Hellraiser fit more comfortably into the role of the anti-hero, than that of the monster.</mark> When Kirsty <mark>is confronted by the cenobites after solving the puzzle box</mark> <mark>and demands to know who they are, she is met with the reply</mark>, 
+
+“We are explorers in the further regions of experience. Demons to some, angels to others.” [...]
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.hellraiser %}>
 
 Cenobite: "Explorers in the further regions of experience. Demons to some, angels to others."
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
-
-[...] “We are explorers in the further regions of experience. Demons to some, angels to others.” [...]
-
-</from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-[...] <mark>This introduction implies that their prey chooses *them*,</mark> not the other way around. <mark>If one assumes that their typical victim is someone like Frank,</mark> <mark>then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike</mark> other slashers, <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal".</mark>
+<mark>This introduction implies that their prey chooses *them*,</mark> not the other way around. <mark>If one assumes that their typical victim is someone like Frank,</mark> <mark>then it becomes apparent that their "talents" are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the Cenobites, unlike</mark> other slashers, <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to "normal people" who wish to remain "normal".</mark>
 
 Just like any good master or dom, they don't want you if you don't want them. <mark>If the Cenobites are not truly the monster, then what is? It would appear that the film's *real* monster queer is Frank, the undead beast the Cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 7" %}>
 
-<mark>This introduction implies that their prey chooses them,</mark> and that the violence they unleash is not directionless. <mark>If one assumes that their typical victim is someone like Frank,</mark> who summons them at the beginning of the film, <mark>then it becomes apparent that their talents are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the cenobites, unlike</mark> the psychopaths found in many of the slasher films of the same period, reveal that they are rational beings that <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to normal people who wish to remain normal.</mark>
+[...] <mark>This introduction implies that their prey chooses them,</mark> and that the violence they unleash is not directionless. <mark>If one assumes that their typical victim is someone like Frank,</mark> who summons them at the beginning of the film, <mark>then it becomes apparent that their talents are actively sought out by hedonists who are looking for new experiences. When they encounter an innocent the cenobites, unlike</mark> the psychopaths found in many of the slasher films of the same period, reveal that they are rational beings that <mark>can be reasoned with. Their appearance may mark them as outsiders, but they pose no serious threat to normal people who wish to remain normal.</mark>
 
 <mark>If the cenobites are not truly the monster, then what is? It would appear that the film’s real monster queer is Frank: the undead beast the cenobites unwittingly leave behind. He is the one that truly threatens normality</mark>, and this begins long before his resurrection. In a flashback scene Frank returns home for his brother’s wedding and savagely seduces the bride-to-be. He is painted as a pure hedonist who has little regard for others, but it is not until his transformation that he becomes physically dangerous to those close to him.
 
@@ -1052,28 +1031,20 @@ By the time she finally <mark>crawls into bed, she finds Jennifer</mark> already
 This scene of <mark>vulnerability</mark> culminates with an <mark>actual kiss between the two girls</mark>. <mark>Needy pulls away</mark>, <mark>demanding</mark> to know what Jennifer has been up to. She tells her her story ending it with the line:
 
 </james>
-<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 23, 27-28" %}>
+<from span="2" {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 23, 27-28" %}>
 
 The fraught, confusing tension of the scene leaves Needy still more <mark>vulnerable</mark>, and responsive when <mark>Jennifer kisses her</mark>. In a 2018 article for Vox by Constance Grady, [...]
 
 Of course, since both girls are approaching this moment from such diametrically opposed positions, it can’t last. <mark>Needy pulls herself away</mark>, remembering suddenly all that happened before she found Jennifer in her bed, and <mark>demands</mark> an explanation.
 
-Megan Fox imbues Jennifer with an unexpected, exhausted vulnerability held under a thin veneer of brittle indifference as she explains the trip in the van out to the woods, and the sacrifice. She rounds off her story with a fragile display of intimacy and affection: [...]
+Megan Fox imbues Jennifer with an unexpected, exhausted vulnerability held under a thin veneer of brittle indifference as she explains the trip in the van out to the woods, and the sacrifice. She rounds off her story with a fragile display of intimacy and affection: <mark>“I don’t really remember what happened after that. I just know that I woke up and I found my way back to you.”</mark>
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.jennifer %}>
 
-Jennifer: "Anyway, I don't really remember what happened after that. I just know that I woke up and I found my way back to you."
+Jennifer: "Anyway, <mark>I don't really remember what happened after that. I just know that I woke up and I found my way back to you."</mark>
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 28" %}>
-
-[...] “I don’t really remember what happened after that. I just know that I woke up and I found my way back to you.”
-
-</from>
 </compare>
 
 <compare>
@@ -1084,26 +1055,18 @@ Jennifer: "Anyway, I don't really remember what happened after that. I just know
 <mark>This is the first but not the last effort of Jennifer's to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is *hard* to read</mark> as *anything* else than her <mark>wanting Needy for herself</mark>. The lesbian coding is incredibly obvious.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 29-30" %}>
+<from span="2" {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 29-30" %}>
 
 <mark>After all that, though, Needy begins to doubt Jennifer’s story</mark> and pokes holes in it anyway. <mark>Feeling her control — and her closeness to Needy — slipping, Jennifer reaches for the nearest easy target.</mark> She nearly immediately responds <mark>by trying to make Needy insecure about her relationship with Chip, suggesting that Chip is “having second thoughts about [her].”</mark>
 
-<mark>This is the first, but not the last, effort of Jennifer’s to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is hard to read</mark> any other way than <mark>wanting Needy for herself</mark>. Indeed, she extends another — admittedly less tender — approach, quipping, [...]
+<mark>This is the first, but not the last, effort of Jennifer’s to drive a wedge between the couple, and doing so right on the heels of an attempted romantic overture is hard to read</mark> any other way than <mark>wanting Needy for herself</mark>. Indeed, she extends another — admittedly less tender — approach, quipping, <mark>“Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to.”</mark>
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.jennifer %}>
 
-Jennifer: "Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to."
+Jennifer: <mark>"Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to."</mark>
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 30" %}>
-
-[...] “Come on, Needy, let me stay the night. We can play boyfriend-girlfriend like we used to.”
-
-</from>
 </compare>
 
 <compare>
@@ -1264,14 +1227,13 @@ But let’s rewind back to the beginning of the movie. A subtle Easter Egg sneak
 James Cameron's *Aliens* is <mark>curiously progressive in its sexual politics</mark> overall, especially <mark>for a movie released during the Reagan years.</mark> <mark>Take for instance the exchange between Hudson and Frost</mark>:
 
 </james>
-<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 1" %}>
+<from span="2" {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 1" %}>
 
-Aliens (1986) is <mark>curiously progressive in its sexual politics</mark> <mark>for a movie released at the height of the Reagan years.</mark> <mark>Take, for instance, the exchange between Hudson (Bill Paxton) and Frost (Ricco Ross)</mark> when they sit down in the mess hall. [...]
+Aliens (1986) is <mark>curiously progressive in its sexual politics</mark> <mark>for a movie released at the height of the Reagan years.</mark> <mark>Take, for instance, the exchange between Hudson (Bill Paxton) and Frost (Ricco Ross)</mark> when they sit down in the mess hall. Hudson asks about the mission, to which their Sarge replies, “It’s a rescue mission. You’ll love it. There’s some juicy colonists’ daughters we have to rescue from their virginity.”
+
+This seems like pretty standard machismo dialogue for a marine in a science fiction action film, but then Frost says something surprising: “I sure wouldn’t mind getting more of that Arcturian poontang. Remember that time?” To which Hudson responds, “But the one you had was male.” Frost responds, “Doesn’t matter when it’s Arcturian, baby!” and they both laugh together, slapping hands and pointing at one another.
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.alien %}>
 
 Frost: "Hey, I sure wouldn't mind getting some more of that Arcturian poontang."
@@ -1281,13 +1243,6 @@ Hudson: "Yeah, the one that you had was male!"
 Frost: "It doesn't matter when it's Arcturian!"
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.bart_bishop at="¶ 1-2" %}>
-
-Hudson asks about the mission, to which their Sarge replies, “It’s a rescue mission. You’ll love it. There’s some juicy colonists’ daughters we have to rescue from their virginity.”
-
-This seems like pretty standard machismo dialogue for a marine in a science fiction action film, but then Frost says something surprising: “I sure wouldn’t mind getting more of that Arcturian poontang. Remember that time?” To which Hudson responds, “But the one you had was male.” Frost responds, “Doesn’t matter when it’s Arcturian, baby!” and they both laugh together, slapping hands and pointing at one another.
-
-</from>
 </compare>
 
 <compare>
@@ -1404,7 +1359,7 @@ This became especially prescient with the release of Alien 3. <mark>The death of
 <mark>Then there's the population of Fury 161, an almost completely abandoned prison planet. One of the higher ups realizes that they can potentially wrangle this little alien problem into a profitable</mark> venture, much like how big pharma companies worked on releasing oppressively expensive treatments instead of working toward a cure. And this <mark>speech</mark> from <mark>Dylan</mark>:
 
 </james>
-<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
+<from span="3" {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
 
 Alien 3 is secretly about AIDS in the '80s and early '90s, and how badly we fucked up trying to deal with this epidemic.
 
@@ -1414,34 +1369,22 @@ Alien 3 is secretly about AIDS in the '80s and early '90s, and how badly we fuck
 
 But, the most telling part is the <mark>speech</mark> given by the character <mark>Dillon</mark>, who explains his decision to try and kill the monster that's killing them:
 
-</from>
-</compare>
+*"You're all gonna die. The only question is how you check out. Do you wanna go on your feet or on your fucking knees, begging? I ain't much for begging! Nobody ever gave me nothing. So, I say, fuck that thing. Let's fight it."*
 
-<compare>
+It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from when he launched ACT UP in New York in 1987</mark>, five years before Alien 3 was released: "If my speech tonight doesn't scare the shit out of you, we're in real trouble. If what you're hearing doesn't rouse you to anger, fury, rage, and action, gay men will have no future here on Earth. How long does it take before you get angry and fight back?"
+
+</from>
 <clip {% include citation for=page.cite.clips.alien3 %}>
 
 Dylan: "The only question is how you check out. Do you want it on your feet or on your fucking knees? Damn! I ain't much for begging."
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
-
-*"You're all gonna die. The only question is how you check out. Do you wanna go on your feet or on your fucking knees, begging? I ain't much for begging! Nobody ever gave me nothing. So, I say, fuck that thing. Let's fight it."*
-
-</from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 <mark>Hitting like Larry Kramer's 1987 speech when he launched ACT UP.</mark> The alien created by H.R Geiger, brought to life by Ridley Scott, and perfected by James Cameron, is a monster that exploited our fears of gender, sex, infection, and lost control. A monster so ravenous, there is no escape. But not all monsters are so obvious.
 {% assign timecode = "47:39" %}
 
 </james>
-<from {% include citation for=page.cite.plagiarized.jf_sargent at="#5" %}>
-
-It's badass, and <mark>strikes the exact same tone as Larry Kramer's speech from when he launched ACT UP in New York in 1987</mark>, five years before Alien 3 was released: "If my speech tonight doesn't scare the shit out of you, we're in real trouble. If what you're hearing doesn't rouse you to anger, fury, rage, and action, gay men will have no future here on Earth. How long does it take before you get angry and fight back?"
-
-</from>
 </compare>
 
 ## Death by Monogamy
@@ -1557,7 +1500,7 @@ But, for a time, right around the release of *It Follows* the shame of being see
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 The article James is stealing from goes on a several-paragraph diversion...
  
@@ -1696,14 +1639,11 @@ There's also the image of Sydney's open closet door protecting her from harm. I 
 <mark>In one scene set in the video store where Randy</mark> of Movie Geek <mark>works, Randy theorizes about Billy's possible identity as the killer</mark>. <mark>In perhaps the most homoerotic moment in the film, Billy suddenly swings upon Randy challenging him</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
+<from span="2" {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
 
-<mark>In one scene, set in the video store where Randy</mark> <mark>works, Randy theorizes about Billy's possible identity as the killer</mark>. (This happens after Randy has gone into hysterics about the ways in which victims in horror movies die because they remain stubbornly ignorant of genre conventions. Randy astutely presages the fanboys who were to emerge in the new millennium with their rigid attention to the rules, conventions, and logic, or lack thereof, behind genre productions.) <mark>In perhaps the most daringly homoerotic moment in the film, Billy suddenly swings upon Randy, challenging him</mark>. [...] 
+<mark>In one scene, set in the video store where Randy</mark> <mark>works, Randy theorizes about Billy's possible identity as the killer</mark>. (This happens after Randy has gone into hysterics about the ways in which victims in horror movies die because they remain stubbornly ignorant of genre conventions. Randy astutely presages the fanboys who were to emerge in the new millennium with their rigid attention to the rules, conventions, and logic, or lack thereof, behind genre productions.) <mark>In perhaps the most daringly homoerotic moment in the film, Billy suddenly swings upon Randy, challenging him</mark>. "Maybe you're the killer, Randy." Billy taunts him. "Maybe your movie-freak mind got the better of you." [...] 
 
 </from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.scream %}>
 
 Billy: "How do we know you're not the killer? Huh? *Huh?*" 
@@ -1713,11 +1653,6 @@ Randy: "Hi Billy.
 Billy: "Maybe your movie-freak-mind lost it's reality button, you ever think of that?!"
 
 </clip>
-<from {% include citation for=page.cite.plagiarized.david_greven at="p.91" %}>
-
-[...] "Maybe you're the killer, Randy." Billy taunts him. "Maybe your movie-freak mind got the better of you." [...]
-
-</from>
 </compare>
 
 <compare>
@@ -2036,7 +1971,7 @@ Sometimes it's just that simple. Sometimes the monster, the queer, can be accept
 
 </james>
 <comment id="quote_mine1">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 As far as I can tell, she never said this. This *might* be what James was "quoting".
 
@@ -2187,7 +2122,7 @@ Another member of the Losers Club that hits home with queer readers is Richie, a
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 This paragraph doesn't seem plagiarized so much as summarizing the back half of {% include inline-citation for=page.cite.plagiarized.rachel_brands %}, the section...
 

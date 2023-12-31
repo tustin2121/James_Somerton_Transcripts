@@ -30,6 +30,8 @@ cite:
     helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."
   plagiarized: !!map
 ---
+{% assign hbomb = site.data.cite.hbomb %}
+{% assign tustin = site.data.cite.tustin %}
 
 <compare>
 	<james {% include timecode %}>This video is brought to you by SquareSpace</james>
@@ -60,7 +62,7 @@ And believe me, the queer community has a heep of that. For instance, trans men 
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 I can't find much about "trans men like rats" and even less about "enbies like rats". What I can find is people asking if the former stereotype is actually a thing. Consensus seems to be "eh?".
 
@@ -509,7 +511,7 @@ And this is part of the consequences of being part of a community that has been 
 Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
 </james>
-<comment id="yuri_comments" {% include citation for=site.yt.hbomb_video at="(2:46:18)" %}>
+<comment id="yuri_comments" {% include citation for=hbomb.video at="(2:46:18)" %}>
 
 Hbomberguy attempted to find these comments mentioned, and found no such comments in the last year on that video. Also how does he know they're straight women? James is lying.
 
@@ -676,7 +678,7 @@ For instance, when it comes to men writing women, there was either not a whole l
 
 </james>
 <comment id="helen_of_try">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate Troy (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens.
 

@@ -39,6 +39,7 @@ cite:
     indie_wire_article: { color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/" }
     fanfest_russia: { color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/" }
 ---
+{% assign tustin = site.data.cite.tustin %}
 {% assign timecode = "0:00" %}
 
 <compare>
@@ -152,7 +153,7 @@ he said. Essentially saying that any child whose family can’t afford a progres
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagiarized.indian_exp_article.short }}.
 
@@ -200,7 +201,7 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 President Biden's tweet (sent Feb 8th): https://twitter.com/POTUS/status/1491186973511458818
 
@@ -621,7 +622,7 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 Sourced from Abigail Disney's tweet (from March 2, 2022): https://twitter.com/abigaildisney/status/1499513391236501507
 
@@ -713,7 +714,7 @@ And someone is easier to exploit if the government is consistently de-valuing th
 
 </james>
 <comment id="slave_population">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 1. This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
 
@@ -800,7 +801,7 @@ Rose Ophelia Shepard
 
 </credits>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 Rose is a YouTube user with about 7 subscribers and no videos. They commented on the reupload of this video, remarking on the credit here:
 

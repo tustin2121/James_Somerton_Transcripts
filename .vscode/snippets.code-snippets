@@ -61,7 +61,7 @@
 	"timecode": {
 		"prefix": "timecode",
 		"body": [
-			"{% assign timecode = \"$1\" %}"
+			"{% assign timecode = \"$TM_SELECTED_TEXT$1\" %}"
 		],
 		"description": "Insert timecode assignment"
 	},
@@ -78,6 +78,19 @@
 			"</compare>".
 		],
 		"description": "Insert compare block with James block"
+	},
+	"nick-block": {
+		"prefix": "nick",
+		"body": [
+			"<compare>",
+			"<nick {% include timecode %}>",
+			"",
+			"$TM_SELECTED_TEXT$1",
+			"",
+			"</nick>".
+			"</compare>".
+		],
+		"description": "Insert compare block with Nick block"
 	},
 	"credits-block": {
 		"prefix": "credits",

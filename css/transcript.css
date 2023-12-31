@@ -60,12 +60,16 @@ body {
 
 compare {
 	display: grid;
-	grid: auto-flow / 1fr 1fr;
-	grid-template-areas: "j f";
+	grid-template-rows: auto-flow;
+	grid-template-columns: [j-start n-start] 1fr [j-end n-end f-start] 1fr [f-end];
 	column-gap: 4px;
-	row-gap: 4px;
-	margin-block: 1em;
+	row-gap: 6px;
+	margin-block: 6px;
 }
+.podcast compare {
+	grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
+}
+
 compare :is(james, nick, clip, credits, from, comment) {
 	display: block;
 	border: white 1px solid;
@@ -75,32 +79,73 @@ compare :is(james, nick, clip, credits, from, comment) {
 	flex-direction: column;
 }
 compare james {
-	grid-area: j; 
+	grid-column: j-start / j-end;
 	border-color: var(--box-border-james);
 }
 compare nick {
-	grid-area: j; 
+	grid-column: n-start / n-end;
 	border-color: var(--box-border-nick);
 }
 compare clip {
-	grid-area: j; 
+	grid-column: j-start / n-end;
 	border-color: var(--box-border-clip);
 }
 compare credits {
-	grid-area: j; 
+	grid-column: j-start / n-end;
 	border-color: var(--box-border-credits);
 }
 compare from    {
-	grid-area: f; 
+	grid-column: f-start / f-end;
 	/* border-color: var(--box-border-from); */
 	border-color: var(--source-color);
 }
 compare comment {
-	grid-area: f; 
+	grid-column: f-start / f-end;
 	border-color: var(--box-border-comment); 
 	font-size: smaller;
 }
 
+.podcast compare james[crosstalk] {
+	grid-column: j-start / n-start;
+}
+.podcast compare nick[crosstalk] {
+	grid-column: j-end / n-end;
+}
+
+compare :is(james, nick, clip, credits, from, comment)[span="2"] { grid-row: span 2; }
+compare :is(james, nick, clip, credits, from, comment)[span="3"] { grid-row: span 3; }
+compare :is(james, nick, clip, credits, from, comment)[span="4"] { grid-row: span 4; }
+compare :is(james, nick, clip, credits, from, comment)[span="5"] { grid-row: span 5; }
+compare :is(james, nick, clip, credits, from, comment)[span="6"] { grid-row: span 6; }
+compare :is(james, nick, clip, credits, from, comment)[span="7"] { grid-row: span 7; }
+compare :is(james, nick, clip, credits, from, comment)[span="8"] { grid-row: span 8; }
+compare :is(james, nick, clip, credits, from, comment)[span="9"] { grid-row: span 9; }
+compare :is(james, nick, clip, credits, from, comment)[span="10"] { grid-row: span 10; }
+compare :is(james, nick, clip, credits, from, comment)[span="11"] { grid-row: span 11; }
+compare :is(james, nick, clip, credits, from, comment)[span="12"] { grid-row: span 12; }
+compare :is(james, nick, clip, credits, from, comment)[span="13"] { grid-row: span 13; }
+compare :is(james, nick, clip, credits, from, comment)[span="14"] { grid-row: span 14; }
+compare :is(james, nick, clip, credits, from, comment)[span="15"] { grid-row: span 15; }
+compare :is(james, nick, clip, credits, from, comment)[span="16"] { grid-row: span 16; }
+compare :is(james, nick, clip, credits, from, comment)[span="17"] { grid-row: span 17; }
+compare :is(james, nick, clip, credits, from, comment)[span="18"] { grid-row: span 18; }
+compare :is(james, nick, clip, credits, from, comment)[span="19"] { grid-row: span 19; }
+compare :is(james, nick, clip, credits, from, comment)[span="20"] { grid-row: span 20; }
+
+compare :is(from, comment, clip, credits) > .header
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+	font-size: small;
+	color: var(--box-header-color);
+	border-bottom: var(--box-header-color) 1px solid;
+	padding: 2px 4px 0px;
+}
+compare from > .header::before { content: 'Source:'; }
+compare clip > .header::before { content: 'Video Clip:'; }
+compare comment > .header::before { content: 'Comment:'; }
 
 compare :is(james, nick, credits)::before
 {
@@ -118,41 +163,10 @@ compare nick[timecode]::before    { content: 'Nick: (' attr(timecode) ')'; text-
 compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
 compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 
-.podcast compare {
-	grid-template-areas: unset;
-	grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
-}
-compare james {
-	grid-area: unset; 
-	grid-column: j-start / j-end;
-}
-compare nick {
-	grid-area: unset; 
-	grid-column: n-start / n-end;
-}
-compare from, compare comment {
-	grid-area: unset; 
-	grid-column: f-start / f-end;
-}
-
-compare :is(from, comment, clip, credits) > .header
-{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	
-	font-size: small;
-	color: var(--box-header-color);
-	border-bottom: var(--box-header-color) 1px solid;
-	padding: 2px 4px 0px;
-}
-compare from > .header::before { content: 'Source:'; }
-compare clip > .header::before { content: 'Video Clip:'; }
-compare comment > .header::before { content: 'Comment:'; }
-
 compare credits.opening::before { content: 'Opening Credits:'; }
 compare credits.closing::before { content: 'Closing Credits:'; }
 compare credits[header]::before { content: attr(header); }
+compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 
 compare .footer {
 	font-size: small;
@@ -191,7 +205,7 @@ sup[cn]::before {
 	font-style: italic;
 }
 
-compare james mark {
+compare :is(james, clip) mark {
 	background-color: var(--mark-stolen-bg) !important;
 	color: var(--mark-stolen-text) !important;
 }
@@ -243,6 +257,9 @@ compare from:empty::after {
 compare comment:empty {
 	filter: opacity(0.50);
 	border: unset;
+}
+compare comment a {
+	word-break: break-word;
 }
 
 compare from :is(h1,h2,h3,h4,h5,h6) {
@@ -391,3 +408,7 @@ blockquote.book-excerpt > p {
 /* from { border-color: hsl(var(--source-color)); }
 from mark { background-color: hsla(var(--source-color), 0.30) !important;}
 span.colorize { color: hsl(var(--source-color)); font-weight: bold; } */
+
+compare credits[header="Audience-member:"] {
+	border-color: var(--video-box-stolen-bg);
+}

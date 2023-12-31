@@ -35,15 +35,16 @@ cite:
   plagiarized: !!map
     wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
+{% assign todd = site.data.cite.todd %}
+{% assign tustin = site.data.cite.tustin %}
 
 <compare>
 <james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
 <comment>
-<div class="header"></div>
+{{ tustin.header }}
 
 Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad. 
 
-{{ site.tustin.signature }}
 
 </comment>
 </compare>
@@ -65,7 +66,7 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 Note: I am including the entire plot summary from wikipedia below, lined up with James's summary, for comparison. He doesn't seem to "borrow" too much from there, and there's only so much that you can deviate when you're summarizing a movie. Take this comparison as you will.
 
@@ -262,7 +263,7 @@ The twist? Some of these naysayers were gay men. It's a bit of a "the call is co
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
 
 </james>
-<comment id="think_pieces" {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="think_pieces" {% include citation for=todd.video at="(18:35)" %}>
 
 Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
 
@@ -283,7 +284,7 @@ The bulk of criticism however was found on social media, where straight people s
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
 </james>
-<comment id="missionary_tweets" {% include citation for=site.yt.todd_video at="(22:55)" %}>
+<comment id="missionary_tweets" {% include citation for=todd.video at="(22:55)" %}>
 
 Todd looked for evidence of this, and found the following two articles:
 
@@ -324,7 +325,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
-<comment id="sex_backlash" {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="sex_backlash" {% include citation for=todd.video at="(18:35)" %}>
 
 It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
 
@@ -565,7 +566,7 @@ it's great! It's good. It's fine.
 
 </james>
 <comment id="sex_broccoli">
-{{ site.tustin.header }}
+{{ tustin.header }}
 
 "How do you know you don't like X if you haven't tried it," works where X = food. But when X = sex, it's acephobic. Asexual people don't have to "try sex" to know they don't like it, and forcing someone to have sex when they don't want to is... well, have a word for that.
 
@@ -643,11 +644,10 @@ And, no, you can't go back and fix it. Like I came out when I was 12 and I haven
 
 </james>
 <comment>
-<div class="header"></div>
+{{ tustin.header }}
 
 James has repeated this personal anecdote on stream, so it may be genuine.
 
-{{ site.tustin.signature }}
 
 </comment>
 </compare>
