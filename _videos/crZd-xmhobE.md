@@ -8,7 +8,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=xHPd2xtG5xQ"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map

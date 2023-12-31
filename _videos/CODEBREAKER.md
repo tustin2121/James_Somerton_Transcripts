@@ -8,7 +8,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 

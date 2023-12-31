@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a podcast episode on <xyz>."
+# description: "a podcast episode on <xyz>."
 notes:
   - podcast
 

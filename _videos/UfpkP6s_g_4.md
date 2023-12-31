@@ -8,7 +8,7 @@ topics: !!seq
   - "Gay Porn"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
   - dec5-delete

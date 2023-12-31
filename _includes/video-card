@@ -11,13 +11,12 @@
 		{%- include notes notes=include.video.notes -%}
 	</div>
 	<div class="date">{{ include.video.date | date_to_string }}</div>
-	{%- if include.video.aka -%}
-		<div class="aka">
-			{%- for aka in include.video.aka -%}
-				<p>{{ aka }}</p>
-			{%- endfor -%}
-		</div>
-	{%- endif -%}
+	<div class="aka">
+		<p class="desc">{{ include.video.description | slice: 0 | upcase }}{{ include.video.description |  slice: 1, 5000 }}</p>
+		{%- for aka in include.video.aka -%}
+			<p>{{ aka }}</p>
+		{%- endfor -%}
+	</div>
 	{%- if include.video.topics -%}
 		<div class="topics">
 			{%- for topic in include.video.topics -%}

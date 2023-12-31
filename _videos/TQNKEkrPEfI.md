@@ -8,7 +8,7 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - behind-scenes
 

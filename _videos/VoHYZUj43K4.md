@@ -13,7 +13,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes: 
   - hbomb
 

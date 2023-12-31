@@ -41,11 +41,11 @@
 	padding: 2px 8px;
 	display: grid;
 	box-shadow: 3px 3px 4px 0px black;
-	grid: auto-flow / auto auto 1fr auto auto;
-	grid-template-areas:
-		"date  title title links"
-		"stat  aka   topic topic"
-		"score aka   topic topic";
+	grid-template:
+		"date  title title links" auto
+		"score aka   topic topic" auto
+		"stat  aka   topic topic" 1fr
+		/ 6rem 1fr   auto  auto;
 	text-shadow: 0px 0px 0px black;
 }
 .video-card.podcast {
@@ -80,6 +80,7 @@
 .video-card > .status {
 	grid-area: stat;
 	text-align: center;
+	align-self: self-end;
 }
 .status.alert { color: var(--color-danger-fg); }
 .status.ready { color: var(--color-prettylights-syntax-markup-list); }
@@ -125,6 +126,9 @@
 	margin: 0;
 	padding-left: 1em;
     text-indent: -1em;
+}
+.video-card > .aka p.desc {
+	color: initial;
 }
 .video-card .title a:first-child {
     margin-inline-end: 5px;

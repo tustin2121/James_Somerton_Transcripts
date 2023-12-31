@@ -9,7 +9,7 @@ topics: !!seq
   - "Our Flag Means Death"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 contributors:
   downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
