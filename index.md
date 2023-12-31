@@ -75,6 +75,11 @@ Transcript Statuses:
 </div>
 </div>
 
+{%  assign vids_fin = site.videos | where: 'status', 'Finished' -%}
+{%- assign vids_comp = site.videos | where: 'status', 'Complete' -%}
+{%- assign vids_fin = vids_fin | concat: vids_comp -%}
+Finished: {{ vids_fin.size }} / {{ site.videos.size }} --- Complete: {{ vids_comp.size }} / {{ site.videos.size }}  
+
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
