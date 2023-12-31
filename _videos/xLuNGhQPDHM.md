@@ -1026,4 +1026,10 @@ They’re all still there within the pages and on the screen. Inside a worn pape
 <from></from>
 </compare>
 
+<compare>
+<credits class="closing" {% include timecode %}>
+
 Patreon names roll over uplifting music.
+
+</credits>
+</compare>

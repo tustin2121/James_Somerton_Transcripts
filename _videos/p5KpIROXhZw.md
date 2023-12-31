@@ -781,7 +781,12 @@ For all that we create our dreams without thinking, it’s still possible, thoug
 </james>
 <from></from>
 </compare>
+<compare>
+<credits class="closing" {% include timecode %}>
 
 &lt;Patreon plug&gt;
 
-Patreon names roll over piano music (as of yet unidentified).
+\[Patreon names roll over piano music (as of yet unidentified).]
+
+</credits>
+</compare>

@@ -1004,7 +1004,7 @@ So be gay. Do crime. And have a good time while you do it.
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon credits roll over silence (or perhaps copyrighted music that was removed).
+\[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]
 
 </credits>
 </compare>

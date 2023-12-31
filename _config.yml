@@ -10,6 +10,8 @@ defaults:
       podcast:
         comment-author: "Tustin2121"
         comment: "Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place..."
+plugins:
+  - jemoji
 readme_index:
   enabled: true
 collections:

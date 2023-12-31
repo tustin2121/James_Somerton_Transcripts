@@ -1,4 +1,6 @@
 ---
+# cspell:words  Eren Armin Mikasa Leonhart
+# cspell:words  Shiganshina
 date: 2023-01-01
 title: '"Attack on Titan" and the Death of Media Literacy'
 status: Auto
@@ -10,12 +12,13 @@ aka: !!seq
 topics: !!seq
   - "Attack on Titan"
 links: !!seq
+  - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-  - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
 # description: "a video essay on...?"
 notes: 
   - hbomb
+  - custom-start
 
 cite:
   clips: !!map
@@ -23,175 +26,231 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-since it premiered in 2013 the attack on Titan anime has been called the
-greatest anime ever produced the most overrated anime ever produced and the most
-dangerous anime ever produced but which opinion is right maybe just maybe
-they're all wrong I didn't watch Attack on Titan at first because I was in my
-anime as for kids phase and only really got into it earlier this year when
-countless people online were telling me how gay the relationship between Levi
-and arabin was after watching the show I have no idea what they were talking
-about I don't see gay going on anywhere between these two Historia and Emir yes
-obviously Emir loudly proclaimed that she wanted to marry Historia Jean and
-Marco absolutely in my mind they loved each other but Marco didn't live long
-enough to see anything come of it but Levi and Ervin I just don't see it but
-even though I didn't see the gayness your ship is valid regardless I still found
-myself becoming utterly transfixed by this show to the point where I ended up
-watching all 87 episodes in about three days but not everyone is so in love with
-the series the show and manga on which its base have been attacked for
-portraying the eldians the race of people who live inside the walls as an analog
-for Jewish people and since eldians can turn into man-eating monsters something
-Jewish people have been accused of being able to do in the past believe it or
-not the analogous connection has made more than a few people uneasy the fact
-that actual white nationalists have tried to embrace Attack on Titan as a story
-that expresses their Theory the Jews are purposefully oppressing and attempting
-to eliminate European people through Mass migration and brainwashing hasn't
-helped the show's defense many of these people are embracing it not for its
-representation of a Jewish analogy as fighting to survive against a much larger
-Force but as a defense of white nationalism the they seem to see the opposite of
-what normal fans see they see themselves as the oppressed eldians while the
-oppressing Marlins are the Jewish analog to them because they failed every media
-literacy course they ever took but they still gravitate toward the story
-nonetheless which many find problematic I say we shouldn't be letting the
-alt-right take ownership of well anything but that's me so yeah Attack on Titan
-is handling incredibly charged issues and bringing some extremely radical people
-into its midst some of whom appear to be rooting for the mass genocide at the
-end of the story rather than realizing that every lead character -1 from the
-first three seasons sees it as awful and wrong most of the show's principles are
-articulated in a clumsy Manner and it's clear why some people have been alarmed
-by how it's portrayed that doesn't excuse people from not being fair to the show
-simply because some members of the alt-right enjoy it in some ways though Attack
-on Titan may not be inherently fascist but it speaks to a fascist urge in Attack
-on Titan the nature of oppressor and oppressed is fluid and ambiguous the
-humanity stuck between those who assume these identities don't really recognize
-or comprehend them when their skulls are crushed and the survivors reflect on
-watching their loved ones perish in agony all that is left of our life stories
-are the deeply personal horrors of humankind's inhumanity toward other humans
-and the horror that your precious life can be drained from your body in an
-instant by forces you do not even comprehend so let's bite into this world let's
-rip open the nape of its neck and see what's inside this franchise that has
-become one of the best-selling mangas in history one of the most watched animes
-ever and one of the most hotly debated pieces of media of the New Millennium but
-first how about you stomp that subscribe button below and ring that Bell so
-YouTube actually does what it's supposed to and lets you know when I put a new
-video out and if you like this video check out my patreon Linked In the
-description there's a bunch of really cool perks that come with being a patron
-so don't miss out alright now let's make like hanji and figure out what's going
-on inside this monster called Attack on Titan foreign [Music] [Applause] the
-story of Attack on Titan is it's a lot skip ahead to part two if you don't want
-manga spoilers season one the what the hell is going on season a boy named Aaron
-Yeager resides in the town of shaganchana which is situated on the outermost of
-three circular walls that Shield its residents from the gigantic mindless
-man-eating Titans but one day two new Titan species the Colossal Titan and the
-Armored Titan breakthrough Aaron manages to flee while his mother is devoured by
-a Titan along with his best friend Armin and his adopted sister Mikasa he swears
-Vengeance on all Titans and enlists in the military five years later the
-Colossal Titan Attacks again this time closer to the second wall during this
-attack Aaron discovers the secret power that allows him to transform into the
-sentient attack Titan and uses it to effectively protect the city this draws the
-attention of the survey corps a military group once used to explore the
-titan-ridden world outside the walls led by Commander Ervin Smith he intends to
-use Aaron's Newfound power to reclaim the broken wall ervin's second in command
-a short King named Levi takes it upon himself to whip Aaron into shape before
-they go explore beyond the walls soon Aaron and his comrades come upon a
-sentient female Titan while exploring the forest between the walls and
-eventually identify her as their fellow Soldier Annie leonhardt Aaron battles
-Annie and defeats her with the help of his other soldiers but Annie encases
-herself in a crystal form and is hidden away from the public during the battle
-it is revealed that there are other sentient Titans within the very walls of the
-city sleeping Giants waiting to be awoken season 2 the plot armor Titan season
-soon after the intelligent Beast Titan and other mindless Titans mysteriously
-appear within the walls without leaving any signs of how they got there one of
-the newest survey corps grads Amir reveals that she can also change into an
-intelligent Titan the jaw Titan and a girl named Krista who Amir is in love with
-reveals herself to be Historia Reese a descendant of the ancient royal family
-two other members of the team Reiner Braun and bear told Hoover reveal
-themselves to be the Armored Titan and Colossal Titan respectively an attempt to
-kidnap Aaron but fail during the incident Aaron discovers a new power within
-himself known as the coordinate which enables him to control other Titans this
-forces Rhino and Bertolt to run and Amir goes with them offering herself as a
-sacrifice to keep Historia out of Harm's Way season 3 the [ __ ] gets
-complicated season the survey corps is being targeted by military police led by
-Kenny Ackerman Levi's Uncle while Aaron and his companions join Levi's Squad
+{% assign tustin = site.data.cite.tustin %}
+{% assign hbomb = site.data.cite.hbomb %}
+
+<compare>
+<credits header="Video Description:">
+
+The actual meaning of Attack on Titan might be far more complicated than you think. Or... it might be so simple you won't want to admit it.
+
+Art by Kenbo
+
+Patron: www.patreon.com/jamessomerton
+
+#attackontitan #aot #shingekinokyojin
+
+{% include chapter-link at="00:00" for="Introduction" %}
+{% include chapter-link at="04:20" for="Chapter One" slug="Chapter 1: The Story" %}
+{% include chapter-link at="10:40" for="Chapter Two" slug="Chapter 2: Fascist Adoption" %}
+{% include chapter-link at="18:08" for="Chapter Three" %}
+{% include chapter-link at="29:37" for="Chapter 4 (Part 1)" %}
+{% include chapter-link at="40:13" for="Chapter 4 (Part 2)" %}
+{% include chapter-link at="51:38" for="Chapter 4 (Part 3)" %}
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+{% assign timecode = "0:00" %}
+
+
+<compare>
+<credits {% include timecode %}>
+
+> Content Warning:  
+Fascism and Anime
+
+</credits>
+<comment>
+{{ tustin.header }}
+
+Note: This transcript is of the original upload, clocking in at 1:00:01. As explained in {{ hbomb.video }}, this video was taken down and reuploaded with a minute missing after one of the authors caught James plagiarizing his work. That version starts with a screen talking about it being reuploaded.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Since it premiered in 2013, the *Attack on Titan* anime has been called "the greatest anime ever produced", "the most overrated anime ever produced", and "the most dangerous anime ever produced". But which opinion is right? Maybe, just maybe... they're all wrong.
+
+I didn't watch *Attack on Titan* at first because I was in my "anime is for kids" phase and only really got into it earlier this year when countless people online were telling me how gay the relationship between Levi
+and Erwin was. After watching the show... I have no idea what they were talking about. I don't see gay going on anywhere between these two. 
+
+Historia and Ymir? Yes! Obviously! Ymir loudly proclaimed that she wanted to marry Historia. 
+
+Jean and Marco? Absolutely! In my mind, they loved each other. But Marco didn't live long enough to see anything come of it.
+
+But Levi and Erwin? I just don't see it. But even though I didn't see the gayness, your ship is valid. 😊 
+
+Regardless, I still found myself becoming utterly transfixed by this show, to the point where I ended up
+watching all 87 episodes in about three days. But not everyone is so in love with the series. The show and manga on which its base have been attacked for portraying the Eldians (the race of people who live inside the walls) as an analog for Jewish people. And since Eldians can turn into man-eating monsters -- something Jewish people have been accused of being able to do in the past, believe it or not -- the analogous connection has made more than a few people... uneasy. 
+{% assign timecode = "1:21" %}
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The fact that actual white nationalists have tried to embrace *Attack on Titan* as a story that expresses *their* theory the Jews are purposefully oppressing and attempting to eliminate European people through mass migration and... *brainwashing* hasn't helped the show's defense.
+
+Many of these people are embracing it not for its representation of a Jewish analogy as fighting to survive against a much larger force, but as a defense of white nationalism. They seem to see the opposite of what normal fans see. They see themselves as the oppressed Eldians while the oppressing Marleyans are the Jewish analog to them, because they failed every media literacy course they ever took.
+
+But they still gravitate toward the story nonetheless, which many find problematic. I say we shouldn't be letting the alt-right take ownership of... well anything, but that's me. 
+
+So yeah. *Attack on Titan* is handling incredibly charged issues and bringing some extremely radical people into its midst, some of whom appear to be rooting for the mass genocide at the end of the story. Rather than realizing that every lead character, minus one, from the first three seasons sees it as awful and wrong. Most of the show's principles are articulated in a clumsy manner and it's clear why some people have been alarmed by how it's portrayed. 
+
+That doesn't excuse people from not being fair to the show simply because some members of the alt-right enjoy it in some ways though. *Attack on Titan* may not be inherently fascist, but it speaks to a fascist urge. In *Attack on Titan*, the nature of oppressor and oppressed is fluid and ambiguous. The humanity stuck between those who assume these identities don't really recognize or comprehend them. 
+
+When their skulls are crushed and the survivors reflect on watching their loved ones perish in agony, all that is left of our life stories are the deeply personal horrors of humankind's inhumanity toward other humans, and the horror that your precious life can be drained from your body in an instant by forces you do not even comprehend. 
+
+So let's bite into this world -- Let's rip open the nape of its neck -- and see what's inside this franchise that has become one of the best-selling mangas in history, one of the most watched animes ever, and one of the most hotly debated pieces of media of the new millennium.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But first! How about you stomp that subscribe button below and ring that Bell so YouTube actually does what it's supposed to and lets you know when I put a new video out! And if you like this video check out my patreon, linked in the description. There's a bunch of really cool perks that come with being a patron so don't miss out.
+
+Alright now let's make like Hange and figure out what's going on inside this monster called *Attack on Titan*
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<credits {% include timecode %}>
+
+> James Somerton  
+Presents
+
+> Written By  
+Nick Herrgott  
+& James Somerton
+
+> Executive Producers  
+[Nine patron names]
+
+> Executive Producers  
+[Eight more patron names]
+
+> Edited & Directed by  
+James Somerton
+
+> <span style="font-size:larger;">The Advancing Giants</span>  
+"Attack on Titan" and Media Literacy
+
+</credits>
+</compare>
+{% assign timecode = "4:20" %}
+
+## Chapter 1: The Story
+
+
+
+The story of *Attack on Titan* is... \[audible exhale] It's a lot. Skip ahead to [part two](#{{ "Chapter 2: Fascist Adoption" | slugify}}) if you don't want manga spoilers. 
+
+Season one: the "what the hell is going on?!" season.
+
+A boy named Eren Yeager resides in the town of Shiganshina, which is situated on the outermost of three circular walls that shield its residents from the gigantic mindless man-eating Titans. But one day two new Titan species, the Colossal Titan and the Armored Titan, break through. Eren manages to flee while his mother is devoured by a Titan. Along with his best friend Armin and his adopted sister Mikasa, he swears vengeance on all Titans and enlists in the military. 
+
+Five years later, the Colossal Titan Attacks again, this time closer to the second wall. During this attack, Eren discovers the secret power that allows him to transform into the sentient Attack Titan and uses it to effectively protect the city. 
+
+This draws the attention of the Survey Corps, a military group once used to explore the titan-ridden world outside the walls. Led by Commander Erwin Smith, he intends to use Eren's Newfound power to reclaim the broken wall. Erwin's second in command, a short King named Levi, takes it upon himself to whip Eren into shape before they go explore beyond the walls. 
+
+Soon Eren and his comrades come upon a sentient *female* Titan while exploring the forest between the walls, and eventually identify her as their fellow soldier Annie Leonhart. Eren battles Annie and defeats her with the help of his other soldiers, but Annie encases herself in a crystal form and is hidden away from the public. During the battle, it is revealed that there are other sentient Titans within the very walls of the city, sleeping giants waiting to be awoken.
+
+Season 2: the "Plot Armor Titan" season.
+
+Soon after, the intelligent Beast Titan and other mindless Titans mysteriously appear within the walls without leaving any signs of how they got there. One of the newest survey corps grads, Ymir, reveals that she can also change into an intelligent Titan: the Jaw Titan. And a girl named Krista, who Ymir is in love with, reveals herself to be Historia Reiss, a descendant of the ancient royal family. Two other members of the team Reiner Braun and bear told Hoover reveal themselves to be the Armored Titan and Colossal Titan respectively an attempt to kidnap Eren but fail during the incident Eren discovers a new power within himself known as the coordinate which enables him to control other Titans this forces Rhino and Bertolt to run and Ymir goes with them offering herself as a sacrifice to keep Historia out of Harm's Way season 3 the [ __ ] gets complicated season the survey corps is being targeted by military police led by
+Kenny Ackerman Levi's Uncle while Eren and his companions join Levi's Squad
 they learned that Historia and her father Rod Reese are the only living members
 of the royal Dynasty and that the current King is a pretender on the throne they
 also learned that one can acquire the abilities of another Titan shifter by
-transforming into a Mindless Titan and eating it Rodriguez kidnaps Aaron and
-reveals that Aaron is in possession of not only the attack Titan but the
-founding Titan which Aaron's father Grisha acquired after eating Rod's daughter
+transforming into a Mindless Titan and eating it Rodriguez kidnaps Eren and
+reveals that Eren is in possession of not only the attack Titan but the
+founding Titan which Eren's father Grisha acquired after eating Rod's daughter
 Frida Reese the day the wall fell and then passed it along to his son after a
 violent altercation in which Historia decides to rebuff her father's demands to
 become a Titan Rod drinks Titan spinal fluid and becomes a gigantic abnormal
 Titan but is killed by Historia who is then crowned queen with The Pretender
 King now off the throne the survey corps leads a successful operation to
 recapture shaganchana fighting the Beast colossal armored and cart Titans but
-suffering massive casualties including Aaron's best friend Armin who is nearly
+suffering massive casualties including Eren's best friend Armin who is nearly
 killed by the Colossal Titan but Armin is turned into a Titan himself and
-acquires ownership of the Colossal Titan by eating Bertolt while Ervin dies in a
-suicide run against the Beast Titan and is then at least partially Avenged by
-Levi being the absolute biggest badass of bad asses then Aaron and his comrades
+acquires ownership of the Colossal Titan by eating Bertolt while Erwin? dies .i
+
+B a suicide run against the Beast Titan and is then at least partially Avenged by
+Levi being the absolute biggest badass of bad asses then Eren and his comrades
 returned to the ruins of his child own where they learn the truth about their
-world that they are aliens sworn opponents of the imperialist Marlins and were
+world that they are aliens sworn opponents of the imperialist Marleyans and were
 imprisoned within the walls after the original King Fritz fled the conflict they
 are not as they were informed the last people alive but rather a small sect of
-eldians on an isolated island called parody over the course of the next year the
+Eldians on an isolated island called parody over the course of the next year the
 survey corps kill all the remaining pure Titans on the island and for the first
-time in their lifetimes make it to the Sea where Aaron resolves to wipe out the
+time in their lifetimes make it to the Sea where Eren resolves to wipe out the
 enemies across the water season 4 part 1 the what happened to my favorite
 character season across the sea Marley continues to oppress their eldian
 population treating them like dirt turning them into mindless Titans and sending
 them to fight Wars of expansion for them and brainwashing most of them into
 thinking that they're evil and can only be Redeemed by becoming a Titan and
 fighting for them three years after killing off the last of the Titans on parody
-the survey corps attacked Marley's Capital Liberia led by Aaron and his
-half-brother Zeke the Beast Titan Aaron kills Willie Tiber an eldian who had
+the survey corps attacked Marley's Capital Liberia led by Eren and his
+half-brother Zeke the Beast Titan Eren kills Willie Tiber an eldian who had
 been controlling Marley from the shadows and takes custody of the until now
-unseen War Titan after eating its former owner Willie's sister Lara Aaron had
+unseen War Titan after eating its former owner Willie's sister Lara Eren had
 infiltrated Marley and gained the trust of several of its citizens before this
 leaving his friends in the dark as to where he was or what he was doing so once
-the attack is over and Aaron is back home he is imprisoned but escapes with the
-help of a group of fanatical soldiers who have dedicated themselves to Aaron
+the attack is over and Eren is back home he is imprisoned but escapes with the
+help of a group of fanatical soldiers who have dedicated themselves to Eren
 known as the jagerists Zeke who is revealed to have Royal Blood and therefore
 special Titan abilities is imprisoned by Levi but manages to escape but not
 before Levi does some serious damage to him meanwhile Marley's air fleet led by
-Reiner launches an attack on parity season 4 part 2 the exposition season Aaron
+Reiner launches an attack on parity season 4 part 2 the exposition season Eren
 and Zeke managed to come together which takes them to the paths an
-interconnected set of gateways connecting all the subjects of Emir through time
-and space where they encounter the mind of Emir the original Titan not the
-lesbian Emir a different one whose tortured past has kept her in prison for
+interconnected set of gateways connecting all the subjects of Ymir through time
+and space where they encounter the mind of Ymir the original Titan not the
+lesbian Ymir a different one whose tortured past has kept her in prison for
 thousands of years within the path bill ing the world's Titans head of sand one
-by one Zeke tries to persuade Amir to Grant his request of sterilizing all the
-subjects of Emir her descendants therefore ending the Titan threat forever and
-ending the suffering of all aliens however Aaron persuades Amir instead to
+by one Zeke tries to persuade Ymir to Grant his request of sterilizing all the
+subjects of Ymir her descendants therefore ending the Titan threat forever and
+ending the suffering of all aliens however Eren persuades Ymir instead to
 unleash the rumbling letting loose those thousands of colossal-like Titans held
 within the walls of parody and guiding them on a genocidal march to slaughter
-everyone outside the island to stop Aaron's maniacal Mission the former
+everyone outside the island to stop Eren's maniacal Mission the former
 leadership of the survey corps joins forces with the remaining marlian forces
 including Reiner and a decrystallized Annie season 4 part 3 the manga ending and
-maybe anime ending season after an apocalyptic battle atop Aaron's Elder Torah
+maybe anime ending season after an apocalyptic battle atop Eren's Elder Torah
 of a final form Levi kills Zeke in a mysterious monster that is the source of
-all the Titan's Powers leaving Mika said to kill Aaron causing the Titans power
+all the Titan's Powers leaving Mika said to kill Eren causing the Titans power
 to vanish and release every person who had been transformed into a Titan it's
-revealed that what happened was part of Aaron's plan all along because he could
+revealed that what happened was part of Eren's plan all along because he could
 see the future and the past and was basically omniscient there for a bit as the
 rest of the world is rebuilding Armin and his comrades begin peace talks led by
-Queen Historia Mikasa berries Aaron beneath a tree on a hill in Chicago District
+Queen Historia Mikasa berries Eren beneath a tree on a hill in Chicago District
 but over time the world does not see peace instead only new forms of warfare as
 is the nature of humankind their home District of Chicago has turned to Rubble
 in one such conflict and the series concludes with a boy approaching the giant
-tree that has grown around Aaron's grave which Bears a striking resemblance to
-the tree in which Emir connected with the progenitor of the Titan's power
+tree that has grown around Eren's grave which Bears a striking resemblance to
+the tree in which Ymir connected with the progenitor of the Titan's power
 Millennia ago all right clear as mud makes a lot more sense while you're
 watching or reading it if you're interested in a breakdown that focuses more on
 the emotional beats of the story check out totally not Mark's Colossal Titan
 review video it's long but totally worth the watch okay now let's talk about the
-drama to a large extent people started feeling uneasy about Attack on Titan once
+drama to a large extent people started feeling uneasy about *Attack on Titan* once
 the manga explained the Titan's Origins finally answering the series spanning
-question what is in Aaron's family's House's basement Aaron's father Grisha left
+question what is in Eren's family's House's basement Eren's father Grisha left
 behind a journal outlining that the outside world isn't uninhabited at all that
 there is a wide world out beyond the walls the people of parity are of a race
-called eldians All of whom have the ability to transform into Titans under
-certain circumstances who are the descendants of the first Titan Emir and in
-this outside world eldians are corralled into ghettos and forced to wear
+called Eldians All of whom have the ability to transform into Titans under
+certain circumstances who are the descendants of the first Titan Ymir and in
+this outside world Eldians are corralled into ghettos and forced to wear
 armbands to distinguish them they spend their lives being told how their Titan
 ancestors ruled the world with an Iron Fist and that they must atone for the
 sins of their tyrannical ancestors regardless of the fact that there isn't
@@ -199,16 +258,16 @@ really any proof that said eldian empire ever actually existed its existence is
 only spoken of by people who would have been told about it via anti-eldian
 propaganda regardless the people of Marley the continent across the Shores from
 parity constantly fear the reprisal of this mythical eldian war machine where
-the wicked eldians from parody will rise up and use the power of the Titans to
+the wicked Eldians from parody will rise up and use the power of the Titans to
 rule or destroy the world once more so ldns in Marley who live inside ghettos
 must toil in labor to prove that they aren't like the Devils from within the
-walls of parody Aaron's father held different philosophy that the founding Titan
-Emir was actually a benevolent goddess she used her Titan blood to carve roads
+walls of parody Eren's father held different philosophy that the founding Titan
+Ymir was actually a benevolent goddess she used her Titan blood to carve roads
 erect Grand buildings and defend her people from the interloping forces and that
 it was the people of Marley who jealously seized the power of the Titans
 castamere's descendants away and forged a false history of propaganda to
-suppress those eldians who did not flee to parody Grisha Yeager believed that
-the eldians were not Devils but the chosen people of God which in euro-american
+suppress those Eldians who did not flee to parody Grisha Yeager believed that
+the Eldians were not Devils but the chosen people of God which in euro-american
 rhetoric chosen people of God carries a very specific meaning and in conjunction
 with the ghettos and armbands there seems to be a direct comparison this leads
 some viewers who interpret this storyline as being too similar to anti-semitic
@@ -224,7 +283,7 @@ stand out the Creator and writer Hajime asiyama has said that the character of
 Pixis a military General was based on the real life World War II General akiyama
 yoshifuru who isiyama said he respected and is revered by many in Japan despite
 having committed war crimes particularly in Korea isayama's statement about this
-which came from a 2010 blog post before Attack on Titan was published led to
+which came from a 2010 blog post before *Attack on Titan* was published led to
 death threats against the author because everything leads to death threats these
 days which ends up delegitimizing your argument because no matter what he
 believes you threatened to kill him so now he's the victim and before you turn
@@ -242,15 +301,15 @@ ones which are rooted in their own cultural upbringing even leftists give a pass
 to FDR as being a great president and ignore the fact that he locked up hundreds
 of thousands of Japanese Americans during World War II but nobody calls him a
 fascist well Republicans might but not for the right reasons some have even gone
-so far as to call Attack on Titan itself fascist and anti-semitic because while
-Attack on Titan does have a large fandom of normal people it also has a notable
+so far as to call *Attack on Titan* itself fascist and anti-semitic because while
+*Attack on Titan* does have a large fandom of normal people it also has a notable
 and Loud right-wing fan base the new Republic even dubbed it the alt-right's
 favorite manga anime fans have gotten themselves into a tangle trying to
 decipher where asayama dries the line between the metaphors he engages in and
-his own personal convictions but Attack on Titan contradicts this ayama's
+his own personal convictions but *Attack on Titan* contradicts this ayama's
 apparent nationalism would Armin not be as put off by the alt-right adopting the
 anime as he is by the actually very fascist jagerists bearing in mind that all
-the main characters in the show end up fighting against Aaron's imperialist
+the main characters in the show end up fighting against Eren's imperialist
 march across the world in the end to me this raises an important question if the
 alt-right is under the impression that a piece of media is for them are we just
 gonna roll over and let them have it with content like say Fight Club should we
@@ -274,25 +333,25 @@ noticed specifically in American Film criticism is that analysts don't seem to
 understand that they're not always meant to identify with the values of the main
 character just because they're the main character sometimes the protagonist is
 the villain as is the case with the nameless protagonist of Fight Club but is
-this the case with Aaron Jaeger especially as the series reaches its apocalyptic
-conclusion as Attack on Titan comes to a close the question becomes how to
+this the case with Eren Jaeger especially as the series reaches its apocalyptic
+conclusion as *Attack on Titan* comes to a close the question becomes how to
 interact with it and also whether or not a show can handle fascist ideas in the
 manner with which it does without being fascist and anti-semitic itself isayama
 declined to comment on the topic saying being a writer I believe it is impolite
 to instruct your readers the way of how to read your story a large portion of
-the anime Community as a generic group hold Attack on Titan with very high
+the anime Community as a generic group hold *Attack on Titan* with very high
 regard you've probably seen some of the show's recognizable symbols especially
 its military insignia even if you haven't seen the anime or read the Manga it's
 based on if anything you've probably heard portions of the iconic first season
 theme song which is a banger [Music] to introduce many people to anime and manga
 which is what makes criticism so tricky it's hard to criticize one's First Love
-however being unable or unwilling to address the problems in Attack on Titan's
+however being unable or unwilling to address the problems in *Attack on Titan*'s
 fictional world has caused a long simmering unresolved conflict within the anime
 fandom and Titan seems like it could be easily written off as plainly
 pro-fascist the central character is a pro-military fanatic who uses his Pariah
 status to justify mass extinction the militarism of the story is reflected in
 the opening sequence of the anime's first season with the lyric I am a soldier
-granted when it comes to All Things fashion and Attack on Titan viewers always
+granted when it comes to All Things fashion and *Attack on Titan* viewers always
 have to read into it characters never specifically come out and talk about
 fascism either methods or ideology in specific terms this may include discussion
 about oppression indoctrination propaganda and dehumanization of a national
@@ -301,7 +360,7 @@ are not exclusive to Fascism in fact not all fascism is the same the term is
 often deployed against things that specifically draw from the posturing and
 methodology of the Third Reich though while it is true to say that all Nazis
 were fascist not all fascists were Nazis that said when it comes to the specific
-elements of Attack on Titan that are implicitly drawn from the Third Reich these
+elements of *Attack on Titan* that are implicitly drawn from the Third Reich these
 elements are mostly visual the LDN ghettos and Marley are never called ghettos
 for instance we pick up on that from the way they directly resemble ghettos from
 the 30s and 40s when it comes to what is written the depiction of fascism is
@@ -315,8 +374,8 @@ branch that had been depicted heroically from the first three seasons the survey
 corps the scouts themselves were depicted as Plucky desperate dreamers they
 reached for the impossible and they kept getting up no matter how bad they got
 beaten down time and time again this is a common an underdog Trope in itself and
-is not out of place among contemporary pop culture however as Aaron became a
-more pivotal figure to the survey corps victories even though Aaron himself was
+is not out of place among contemporary pop culture however as Eren became a
+more pivotal figure to the survey corps victories even though Eren himself was
 often ancillary many within the survey corps and parody as a whole come to
 venerate him and his agenda just as season 4 doubles down on fascistic
 undertones it perhaps begins to explore the finer points of fishistic ideology
@@ -332,44 +391,44 @@ itself was fascist the concept of a good death was a religious one that spanned
 across the whole culture rather than in service to a single ruler that isn't to
 say that rulers would not exploit this but the purpose of a good death was
 intrinsic rather than appealing to a concept of the greater good rhetoric around
-the greater good itself is a pivotal element of Attack on Titan and especially
+the greater good itself is a pivotal element of *Attack on Titan* and especially
 in season 4 we see otherwise identifiable characters committing atrocities in
-the name of the greater good such as the once relatively innocent Arman Aaron
+the name of the greater good such as the once relatively innocent Arman Eren
 himself befits a mythological Warrior status a figure who is seemingly
 Supernatural powers and whose objectives are unwaveringly aligned with the
 defense or expansion of the Homeland the warrior must possess the
 characteristics that the state wants the collective to embody however the
 discourse on deathworthiness is not limited to one side of this fictional
-conflict and an interpretation of Aaron depends on whether the series is
-depicting him sympathetically or critically some may interpret Aaron as a heroic
+conflict and an interpretation of Eren depends on whether the series is
+depicting him sympathetically or critically some may interpret Eren as a heroic
 figure who is making the tough but necessary decision to do what needs to be
 done some interpret him as a national figure who is returning A persecuted
 Nation to its former glory to others he is super Hitler these viewpoints are
 represented by different characters in the story and they can be found on very
 different sides of the conflict but there's very little framing to moralize this
-specifically it seems to be taken for granted that Aaron's actions are evil or
-necessary while Aaron himself is fascist coded and while his cult the jagerists
-are brazenly Fascist does that mean the show itself is fascist Aaron was after
+specifically it seems to be taken for granted that Eren's actions are evil or
+necessary while Eren himself is fascist coded and while his cult the jagerists
+are brazenly Fascist does that mean the show itself is fascist Eren was after
 all the POV character who is more or less the audience's cipher for the
 beginning of the series but it's important to remember that the protagonist of a
 story is not necessarily the hero literally speaking a protagonist is simply the
-character For Whom The Narrative follows given that Aaron is committing a
+character For Whom The Narrative follows given that Eren is committing a
 literal genocide I think it's safe to reason that he is the series's principal
 villain this narrative device isn't uncommon a hero who uses their power to
 become a monster is a plot device from Frank Herbert's Dune it's present in the
 Star Wars prequels and can even be seen in ancient myths like Heracles when
-gauging weather Attack on Titan itself is fascist it comes down to how these
-characters are framed and the consensus in Attack on Titan from literally every
-other main character is that Aaron maybe needs to chill bearing in mind that
+gauging weather *Attack on Titan* itself is fascist it comes down to how these
+characters are framed and the consensus in *Attack on Titan* from literally every
+other main character is that Eren maybe needs to chill bearing in mind that
 detractors of the series point out that the principal characters of Armin and
-Mikasa Aaron's childhood friends attempt to justify his actions at the end of
+Mikasa Eren's childhood friends attempt to justify his actions at the end of
 the series that said we don't have to look at them as heroic either Armin had
 been dropping fascist adjacent Lions since season one monsters we have to
 abandon our Humanity which itself almost sounds like a direct quote from a beer
-hall speech and Mikasa is so obsessed with Aaron to the point of being
+hall speech and Mikasa is so obsessed with Eren to the point of being
 completely incapable of escaping him at the end of the manga isayama punctuated
 that by having a bird land on her shoulder and lift her scarf over her neck
-Justice Aaron said he would always be there to do she is trapped for the rest of
+Justice Eren said he would always be there to do she is trapped for the rest of
 her life by the very memory of him that should not excuse these characters for
 sure they are letting personal feelings Cloud their judgment of someone who is
 very obviously willing and able to commit genocide with so many main characters
@@ -392,15 +451,15 @@ fascist and others could read it as specifically anti-fascist and it's not like
 fascist-esque imagery and Anime and manga is rare on the subject anime YouTuber
 Joe Yang said it's important to note that the use of fascistic war or even Nazi
 imagery is not necessarily an endorsement of these ideas or regimes as strange
-as it may sound the fascist and anti-semitic elements in Attack on Titan
+as it may sound the fascist and anti-semitic elements in *Attack on Titan*
 shouldn't be controversial to bring up the question the audience and the critics
 need to answer is whether or not the series is actively harmful because of them
 that is whether the audience is directed to sympathize with characters and
 themes that represent and are represented by these elements some media
-commentators even admitted to not watching Attack on Titan because they were
+commentators even admitted to not watching *Attack on Titan* because they were
 afraid of the backlash they would receive for discussing the show's political
 undertones YouTuber Jeff THU argues it's because this discussion keeps happening
-but it's also not there's some really good criticism of Attack on Titan and I
+but it's also not there's some really good criticism of *Attack on Titan* and I
 think it's important to criticize it but a lot of people come at it strong and
 condemn it that does as much to kill the conversation as people being like shut
 the hell up about politics because it reinforces the argument that people are
@@ -425,7 +484,7 @@ thanks to the internet relying on their own preconceptions and only taking on
 board information that supports them definitely does keep anime fans in this
 position from appreciating the range of views in anime generally this may color
 certain anime viewers perceptions of shows with feminist or queer themes as well
-as shows like Attack on Titan right-wing anime viewers according to herbinsky
+as shows like *Attack on Titan* right-wing anime viewers according to herbinsky
 demand the inclusion of western-style political themes as they put it these fans
 insist that feminism and lgbtq people don't exist in Japan and that any anime
 depicting either is woke garbage or similar these fans are extremely angry at
@@ -438,14 +497,14 @@ kinds of regressionists Praise anime for its narrative complexity but at the
 same time deny the presence of political complexity at least when it's politics
 that challenges their preconceptions again we're in a situation where media
 being political only really applies to media that promotes opinions outside the
-viewer's comfort zone regardless if that media as Attack on Titan does borrows
+viewer's comfort zone regardless if that media as *Attack on Titan* does borrows
 heavily from Real World politics and historical references there is a contingent
 of the audience who is so over accustomed to having their viewpoints
 unchallenged that they will default to an assumption that the media they enjoy
 is simple and uncomplicated but the question remains does media owe you
 simplicity huh why am I suddenly wearing different clothes and in a whole other
 setting for part four that seems a bit jarring doesn't it oh well you can't
-really say that attack on Titan is overly simple or about nothing there are
+really say that *Attack on Titan* is overly simple or about nothing there are
 innumerous instances where characters go out of their way to specifically
 outline what the audience should be taking away from a given Arc at least in the
 English dub which may not be the best way to convey messaging across to your
@@ -514,7 +573,7 @@ somehow managed to reach down and tap into true genius genius that they never
 could reach in their own poetry in other words imagine your head is so far up
 your ass that you would literally rather claim that your pranker is too stupid
 to write bad poetry then admit that you suck at analyzing it but am I saying
-that attack on Titan is a modern day urn Mali no because from what we can gather
+that *Attack on Titan* is a modern day urn Mali no because from what we can gather
 about it it's not trying to troll conventions in manga or anime it's very
 earnestly trying to talk about trauma grief group think war and terrorism the
 series will very deliberately orate what a viewer could simply observe the
@@ -523,16 +582,16 @@ the point of coming out and just telling you this happens so often I think that
 if the series was trying to make a statement about fascism and Military culture
 it would have the characters actively engage in that discussion analyzing
 literature is about looking for patterns and this is clearly the pattern that
-attack on Titan uses but when it comes to everything else that isn't directly
+*Attack on Titan* uses but when it comes to everything else that isn't directly
 stated see the relevance of the urn Mali hoax doesn't just demonstrate that it
 is possible to convince an audience to read meaning into nonsense The hoax shows
 us that if an audience already believes there is meaning in a piece of media
 there is little to nothing that can be done to convince them that the meaning
-they read into it isn't there this fascist messaging in Attack on Titan almost
+they read into it isn't there this fascist messaging in *Attack on Titan* almost
 exclusively is presented in visual cues but isayama was horribly critical of his
 own artistic abilities and may have simply borrowed the established fascist
 looks instead of creating his own so other than that what's specifically about
-Attack on Titan implores the audience to feel that there's anything that needs
+*Attack on Titan* implores the audience to feel that there's anything that needs
 to be read into it in the first place why read into this media in a way that you
 would not look at what we do in the shadows as a complex commentary about
 generational gaslighting entitlement and exploitation why do we look at one and
@@ -554,11 +613,11 @@ assessment would be the tragic media is emotionally exhausting to see your
 Heroes best laid plans fail and to see beloved characters meet their end and to
 see possibly hours of emotional investment end in sadness this takes its toll
 perhaps we feel the need to read meaning into these things to justify the
-emotional fatigue an attack on Titan is certainly emotionally draining entire
+emotional fatigue an *Attack on Titan* is certainly emotionally draining entire
 episode arcs are spent to establish characters and within minutes not only are
 they devoured alive but they are denied any satisfaction or dignity Time After
 Time After Time plans fail Heroes fall and good people have everything taken
-away from them even victories in Attack on Titan feel hollow and disappointing
+away from them even victories in *Attack on Titan* feel hollow and disappointing
 everything is so gratuitously Bleak that at times it reaches this kind of Lemony
 Snicket absurdity where anything that could possibly go wrong somehow does go
 wrong where the plot is Twisted to scrape every shred of dignity away from these
@@ -570,18 +629,18 @@ card that the heroes couldn't have possibly foreseen resulting in a lot of dead
 secondary characters in fact it's not until the fourth season where we see the
 main characters essentially framed as the villains that they become competent
 and that their plans are successful the series does have a pattern of characters
-becoming alarmingly competent and Death Proof the second they become villains
+becoming alArmingly competent and Death Proof the second they become villains
 these tragedies implore us to feel that there must be something to be said about
 it that the audience is being pulled through this bleakness in order to get some
 kind of human truth out of it or is tragedy using trauma in the way that comedy
 use is levity that the dying and the suffering are merely present to give the
-audience an outlet and keep them engaged in the series Attack on Titan presents
+audience an outlet and keep them engaged in the series *Attack on Titan* presents
 the message that war is senseless and has no meaning this is something the
 characters actually do talk about however if we try to extract meaning from this
 conflict when we are told that conflict is meaningless are we not giving meaning
 to those fictional tragedies and if we can read meaning into fictitious War
 what's stopping us from Reading meaning into actual meaningless War there is a
-lot of stuff in Attack on Titan and yes there is the possibility that it's not
+lot of stuff in *Attack on Titan* and yes there is the possibility that it's not
 saying anything at all beyond the textual messaging of war is bad but when it
 comes to the rampant discourse about whether this media supports fascist
 ideology or whether it's subverting it there's a lot of strong evidence to point
@@ -593,15 +652,15 @@ being the chosen people of God however if Marley is seen as a Third Reich
 analogy then the Nazis never used Elite Jewish combat units nor was there any
 widespread success at fostering a sense of internalized self-loathing amongst
 the Jewish people they were meant to be removed from Aryan Society not give any
-use and even made honorary Aryans like eldians can be made honorary Marlins by
-becoming one of the nine Elite Titans conversely if eldians living in Marley are
-meant to be Jewish then what are parodiesian eldians meant to be if parody was
+use and even made honorary Aryans like Eldians can be made honorary Marleyans by
+becoming one of the nine Elite Titans conversely if Eldians living in Marley are
+meant to be Jewish then what are parodiesian Eldians meant to be if parody was
 meant to be an allegorical ghetto then how does that symbol function when we are
 exposed to literal ghettos at the end of season 3 is parody a ghetto or is it
 Israel you can make that argument but it also falls apart pretty quickly because
 you don't have foreign Jews trying to come kill Israelis it's either an
 incredibly messy allegory or it's not an allegory at all the problem with any
-reading of Attack on Titan is allegory itself there's no clear one-to-one
+reading of *Attack on Titan* is allegory itself there's no clear one-to-one
 comparison any comparison that can be drawn has counter evidence but just
 because there isn't any clear messaging through allegory symbolism nor illusion
 does that mean there is no messaging at all as it happens there is an
@@ -611,9 +670,9 @@ Rings author J.R.R Tolkien developed the Lord of the Rings as a substitution for
 the English mythology that was erased during the Norman occupation of Great
 Britain in 1066. during this period through the 11th century Invaders from what
 is modern day friends brought an end to what was the Anglo-Saxon era of England
-come to think of it even this could be read as an allegory for attack on Titan
+come to think of it even this could be read as an allegory for *Attack on Titan*
 an island nation dominated by a foreign Continental power that shook off its
-oppressors to then go on and conquer the entire world so maybe Aaron is actually
+oppressors to then go on and conquer the entire world so maybe Eren is actually
 King George III anyway this period of British history was marked by a cultural
 adjustment away from the local Germanic and Pagan roots of the Island's
 post-roman Independence this included not only the introduction of Latin and
@@ -671,7 +730,7 @@ applicability helps the Lord of the Rings function as a retroactive mythology
 because the pivotal symbols can be reapplied to as many circumstances as needed
 there will always be an analogy for the One Ring because there is always
 something that will corrupt even the best of us even if the thing changes over
-time and from culture to culture but is this what's going on in Attack on Titan
+time and from culture to culture but is this what's going on in *Attack on Titan*
 and if it is what is being made applicable there are direct allegories to real
 world events such as the ghettos and the armbands but are these meant to be
 symbols that draw the audience's attention to whatever the applicability is bear
@@ -698,7 +757,7 @@ itself falls under applicability when we think of soldiers Goose stepping down a
 street our brains immediately go to the German fascists but look at the Soviets
 the Chinese the North Koreans these countries adopted the look and pomp of Nazi
 fascism for their own brand because it worked but those are all examples of bad
-things problem with applicability and Attack on Titan is that these applicable
+things problem with applicability and *Attack on Titan* is that these applicable
 concepts are good and or bad depending on the circumstance applicability
 functions so well in The Lord of the Rings because the moralization around the
 applied symbol is universal the ring is always bad and those who intend to use
@@ -708,15 +767,15 @@ ultimate power left over just lying around those that want the Ring's power
 cannot be trusted with it and those who do not want the Ring's power aren't
 immune to it either one could argue that the same line of thinking can be
 applied to the power of the Titans that even under the best intentions those
-with the power of the nine universally Resort to evil and that Aaron and Zeke
-especially fall prey to the godly power of the founding Titan but Zeke and Aaron
+with the power of the nine universally Resort to evil and that Eren and Zeke
+especially fall prey to the godly power of the founding Titan but Zeke and Eren
 were flawed from the beginning and they had intentions for the power of the
-founder even before they had a plan to use it furthermore Aaron had the power of
+founder even before they had a plan to use it furthermore Eren had the power of
 the founding Titan for almost the entire duration of the series and yet his
 personality made no shift from before and after he received it even his ability
 to transform into the attack Titan did not corrupt him and he used both the
 attack Titan and the founding Titan to help the civilians and soldiers of
-parodies survived the Titan Onslaught applicability in Attack on Titan loses a
+parodies survived the Titan Onslaught applicability in *Attack on Titan* loses a
 lot of the Finesse in nuances meant to drive drama in the plot even once held
 truths of Titan's bad is turned on its head when the Gallant Heroes learned that
 Titans are or once were humans which does fit into a rhetoric around
@@ -753,14 +812,14 @@ believe it or not but most entertainers just want to entertain that isn't to say
 they aren't methodical insightful or elegant people it just means that sometimes
 they just want to push the boundaries of how many ways they can use artificial
 blood provided that isayama offered a similar answer about art being in the eye
-of the beholder maybe all the tragedy and militarism and Attack on Titan is just
+of the beholder maybe all the tragedy and militarism and *Attack on Titan* is just
 meant for spectacle maybe all the imagery is meant to have no deeper
 significance than to set the stage for a world that only really seems to
 function because of war and to allow the audience to understand how these
 characters interact with trauma the way they do maybe there is no statement
 about the nature of military regime Doctrine and the manifestations of Martial
 law maybe it's just about a bunch of sad people who don't know anything but War
-because that's what they grew up in that doesn't mean Attack on Titan has no
+because that's what they grew up in that doesn't mean *Attack on Titan* has no
 value with or without fascistic messaging there are plenty of reasons to like it
 and there are plenty of reasons to dislike it personal taste is enough of a
 justification media needs to neither be grand nor demonic to facilitate an
@@ -771,9 +830,9 @@ may or may not even be there to justify that their interpretation is the correct
 one and that if everyone else could just see like they do it would either be the
 Masterpiece or Pariah that it ought to be arguing that it's the greatest piece
 of art ever created or the most destructive or two extremes that refuse to see
-the Shades of Gray in between Attack on Titan is good because I say so attack on
-Titan is dangerous because I say so all eldians are evil because I say so all
-Marlins are evil because I say so we don't live in a black and white world of
+the Shades of Gray in between *Attack on Titan* is good because I say so attack on
+Titan is dangerous because I say so all Eldians are evil because I say so all
+Marleyans are evil because I say so we don't live in a black and white world of
 perfection and inferiority where nothing is okay where things can only be great
 or horrible in this world good and evil rarely exist as absolutes a world of
 absolutes can't really exist the only truly absolute thing is death itself which
@@ -787,11 +846,11 @@ is the absolute then all other things exist as nuances in Shades of Gray
 ascribing absolute values of good or evil is to reject the range of experience
 that life has to offer the more we cling to absolutes in anything in life the
 more we can sign ourselves to a path with no way to turn around or change course
-that's what Aaron did he decided that the greater good was worth trapping
+that's what Eren did he decided that the greater good was worth trapping
 himself on a doomed road that would only end in his premature death that's what
 hatred does to people hatred traps you hatred removes your options hatred takes
 away your freedom and it tricks you into thinking those you hate are the ones
-who have taken your freedom away and like the characters in Attack on Titan we
+who have taken your freedom away and like the characters in *Attack on Titan* we
 exist in a world so full of hatred that it's hard not to get mired in it
 sometimes it's our job to reject hate and those who propagate it not to hate
 them in return but to pity them they've let their intolerance control their
