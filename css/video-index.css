@@ -27,6 +27,9 @@ body:not(.new) .video-card.post-callout {
 body:not(.old) .video-card.pre-callout {
 	display: none;
 }
+body.done .video-card:not(.finished) {
+	display: none;
+}
 
 .video-list {
     min-height: 60vh;

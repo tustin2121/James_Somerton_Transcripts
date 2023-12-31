@@ -30,6 +30,7 @@
 			document.getElementById('view-old').addEventListener('change', updateView);
 			document.getElementById('view-new').addEventListener('change', updateView);
 			document.getElementById('view-pod').addEventListener('change', updateView);
+			document.getElementById('view-done').addEventListener('change', updateView);
 			
 			let view = Cookies.get('view');
 			view ??= 'old pod';
@@ -38,6 +39,7 @@
 			document.getElementById('view-old').checked = view.includes('old');
 			document.getElementById('view-new').checked = view.includes('new');
 			document.getElementById('view-pod').checked = view.includes('pod');
+			document.getElementById('view-done').checked = view.includes('done');
 			
 			updateView();
 		}
@@ -46,12 +48,13 @@
 			if (document.getElementById('view-old').checked) { view.push('old'); }
 			if (document.getElementById('view-new').checked) { view.push('new'); }
 			if (document.getElementById('view-pod').checked) { view.push('pod'); }
+			if (document.getElementById('view-done').checked) { view.push('done'); }
 			if (view.length == 0) {
 				view.push('old');
 				document.getElementById('view-old').checked = true;
 			}
 			Cookies.set('view', view.join(' '));
-			document.body.classList.remove('old', 'new', 'pod');
+			document.body.classList.remove('old', 'new', 'pod', 'done');
 			document.body.classList.add(...view);
 		}
 	</script>

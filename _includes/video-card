@@ -4,6 +4,8 @@
 	{%- elsif include.video.notes contains "post-callout" %} post-callout
 	{%- else %} pre-callout
 	{%- endif -%}
+	{%- if include.video.status == "Finished" %} finished{% endif -%}
+	{%- if include.video.status == "Complete" %} finished{% endif -%}
 ">
 	<div class="title">
 		<a href="{{ include.video.url | relative_url }}">{{ include.video.title }}</a>

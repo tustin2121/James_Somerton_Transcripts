@@ -79,6 +79,7 @@ Transcript Statuses:
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
   <label><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">
 {% assign vidList = site.videos | sort: 'date' | reverse %}
