@@ -31,7 +31,7 @@ cite:
     haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     misattributed: "James misattributes a quote from a news article as being from a book."
   plagiarized: !!map
-    wiki_film: { color: 2, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", url:"https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production" }
+    wiki_film: { color: 2, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production" }
     bkr_video: { color: 1, short: "(Be Kind Rewind, 2021)", full: "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=jb-C4fcn2E0" }
     
 ---
