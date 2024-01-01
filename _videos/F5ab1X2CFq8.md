@@ -14,9 +14,9 @@ notes:
   - custom-start
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: "Tustin2121"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin
   factcheck: 
     - "[/u/Altruistic_County222](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn)"
 

@@ -15,12 +15,11 @@ notes:
   - script-diff
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: "Tustin2121"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
-  formatting: Tustin2121
+  formatting: $cite$tustin
 
 cite:
   clips: !!map

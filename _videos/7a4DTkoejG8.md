@@ -14,7 +14,7 @@ notes:
   - podcast
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   formatting:
     - "[tobi-cat](https://github.com/tobi-cat)"
     - Tustin2121

@@ -143,6 +143,8 @@ compare :is(from, comment, clip, credits) > .header
 	border-bottom: var(--box-header-color) 1px solid;
 	padding: 2px 4px 0px;
 }
+compare :is(from, comment, clip, credits) > .header .timecode::before { content: '('; }
+compare :is(from, comment, clip, credits) > .header .timecode::after { content: ')'; }
 compare from > .header::before { content: 'Source:'; }
 compare clip > .header::before { content: 'Video Clip:'; }
 compare comment > .header::before { content: 'Comment:'; }

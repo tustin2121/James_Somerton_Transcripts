@@ -11,7 +11,7 @@ links: !!seq
 # description: "a video essay on...?"
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[@vaspider](https://www.tumblr.com/vaspider/725020819984629760/honestly-yes-and-thats-part-of-the-reason-im)"
     - "[/u/badwolf_910](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvq8br)"

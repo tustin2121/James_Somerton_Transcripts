@@ -19,15 +19,15 @@ notes:
 
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
-  formatting: "Tustin2121"
+  formatting: $cite$tustin
   factcheck: 
     - "[/u/gentlybeepingheart](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/)"
     - "[u/superninja109](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/)"
-    - "[sciclone](https://github.com/sciclone1984)"
-    - "[\"Former Fans\" Discord](https://discord.com/channels/1180822793420554241/1180822793420554244) contributors (including LVance, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman)"
+    - $cite$sciclone1984
+    - "[\"Former Fans\" Discord](https://discord.com/channels/1180822793420554241/1180822793420554244) contributors (including lvence, lemmy, IceBear, and Cap'n Yaqub Abd al-Rahman)"
   citations:
     - "[Hbomberguy's plagiarism video](https://www.youtube.com/watch?v=yDp3cB5fHXQ)"
-    - "LVance on Discord"
+    - $cite$lvence
 
 cite:
   clips: !!map
@@ -73,6 +73,8 @@ cite:
 ---
 {% assign hbomb = site.data.cite.hbomb %}
 {% assign tustin = site.data.cite.tustin %}
+{% assign lvence = site.data.cite.lvence %}
+{% assign sciclone = site.data.cite.sciclone1984 %}
 
 <div>
   <div style="font-size: x-small; text-align: center;">(You can click on a paragraph blow to jump to the start of that section.)</div>
@@ -206,11 +208,11 @@ The fear of the unknown, <mark>according to the American Psychological Associati
 
 </james> 
 <comment id="fear_unknown">
-<div class="header"><a class="citation" href="https://github.com/tustin2121/James_Somerton_Transcripts/pull/5">sciclone</a></div>
+{{ sciclone.header | replace: '#', "https://github.com/tustin2121/James_Somerton_Transcripts/pull/5" }}
 
 The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
 
-<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1190157790329708635">LVence</a></div>
+{{ lvence.header | replace: '#', "https://discord.com/channels/1180822793420554241/1180822793420554244/1190157790329708635"}}
 
 > First of all he omits the author name, second it was NOT published by the APA, but instead Elsevier. I assume he read the summary from this website and immediately thought if it's from the APA website APA wrote it.
 

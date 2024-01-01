@@ -14,9 +14,11 @@ notes:
   - custom-start
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[Be Kind Rewind](https://twitter.com/bkrewind/status/1731341792254075259)"
+    - $ref$lvence$https://discord.com/channels/1180822793420554241/1180822793420554244/1191464164548423780
+  formatting: $cite$tustin
 
 cite:
   clips: !!map
@@ -26,7 +28,12 @@ cite:
     joy_behar: { short: "Joy Behar", full: "TODO Joy Behar Say Anything show clip" }
   yikes: !!map
   misinformation: !!map
+    haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
+    misattributed: "James misattributes a quote from a news article as being from a book."
   plagiarized: !!map
+    wiki_film: { color: 2, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", url:"https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production" }
+    bkr_video: { color: 1, short: "(Be Kind Rewind, 2021)", full: "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=jb-C4fcn2E0" }
+    
 ---
 {% assign tustin = site.data.cite.tustin %}
 
@@ -71,23 +78,32 @@ Written by Nick Herrgott & James Somerton
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span="2" {% include timecode %}>
 
-Susan Sontag, in her essay "Notes on Camp", often cited as the quintessential document on camp culture, remarks in association between gays and camp. And as she was writing in the 1960s she was highlighting a very retroactive depiction from her upbringing. *Baby Jane* had only just come out when this paper was published. This indicates that gay attraction to overwrought and badly depicted feminine archetypes was well solidified *long* before 1981, when the infamous *Mommie Dearest* premiered: the purported true story of growing up with movie star Joan Crawford as a mother. 
+<mark>Susan Sontag</mark>, in her essay "<mark>Notes on Camp</mark>", often cited as the quintessential document on camp culture, remarks an association between gays and camp. And as she was writing in the 1960s, she was highlighting a very retroactive depiction from her upbringing. *Baby Jane* had only just come out when this paper was published. This indicates that gay attraction to overwrought and badly depicted feminine archetypes was well solidified *long* before 1981, when the infamous *Mommie Dearest* premiered: the purported true story of growing up with movie star Joan Crawford as a mother. 
 
 </james>
+<from {% include citation for=page.cite.plagiarized.bkr_video at="(24:10)" %}>
+
+[...] I'm going to use <mark>Susan Sontag</mark>'s *<mark>Notes on Camp</mark>* as a guide. Though not the be-all end-all of the camp discourse, it helps put to words why *Mommy Dearest* fascinates audiences. [...]
+
+</from>
 <from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Through the process of imitation, Baby Jane, Cleopatra, Martha, Eve Harrington, and Crawford herself are imitated here. To the point, wherein Faye Dunaway's mind playing Joan Crawford, this is a *perfectly* nuanced depiction of Hollywood's archetypal movie star. John Waters described *Mommie Dearest* as <q>"The first drag queen role played by a woman."</q> And he's not wrong.
+Through the process of imitation, Baby Jane, Cleopatra, Martha, Eve Harrington, and Crawford herself are imitated here. To the point, wherein Faye Dunaway's mind playing Joan Crawford, this is a *perfectly* nuanced depiction of Hollywood's archetypal movie star. <mark>John Waters described *Mommie Dearest* as <q>"The first drag queen role played by a woman."</q></mark> And he's not wrong.
 
 But it seems to be *completely* by accident. Films that are accidental camp are kind of rare. Without clear intent, failed camp either goes so big that it looks cheap and we disconnect, or they don't go big enough. Either way, we don't make a point of remembering those movies, so when one *does* manage to hit the right buttons, we hold on to it for dear life. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.bkr_video at="(25:18)" %}>
+
+[...] really is key to this whole thing. <mark>John Waters once called it "The first drag queen role played by a woman."</mark> The sheer excess of it is difficult to take seriously. At the same time, it's absolutely captivating to watch. You cannot, and don't want to, look away. [...]
+
+</from>
 </compare>
 
 <compare>
@@ -450,6 +466,7 @@ There are some suggestions that Joan wrote them out of the will because she hear
 <james {% include timecode %}>
 
 Now, as with all great camp movies, half of the fun is the gossip. And the making of *Mommie Dearest* is no exception. As mentioned *Mommie Dearest* was a celebrity expose. Christina's account is a pained, tormented struggle between loving her mother and recalling good memories of Joan, but also living through some... *very* traumatic abuse and behavior. Though the way Hollywood figures talk about it, *especially* those who are close to Joan, even Betty Davis herself, Christina makes Joan out to be a demon... that she wasn't.
+{% assign timecode = "15:30" %}
 
 </james>
 <from></from>
@@ -457,7 +474,7 @@ Now, as with all great camp movies, half of the fun is the gossip. And the makin
 
 \[James added on screen]: "Bettie Davis on the Tonight Show"
 
-Host: "Who's one of the *worst* people you know in Hollywood?
+Host: "So who's one of the *worst* people you know in Hollywood?
 
 Bettie: "That I worked with?"
 
@@ -466,6 +483,23 @@ Host: "Or that you wouldn't want to work with again? If you don't-- You don't ha
 Bettie: "One-- One million dollars: Faye Dunaway."
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
+
+[...] alongside Betty Davis, which I guess didn't go very well.
+
+\[Clip of Bettie Davis on the Tonight Show]
+
+Host: "So who's one of the *worst* people you know in Hollywood?
+
+Bettie: "That I worked with?"
+
+Host: "Or that you wouldn't want to work with again? If you don't-- You don't have to comment on that--"
+
+Bettie: "One-- One million dollars: Faye Dunaway."
+
+<div class="footer">Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></div>
+
+</from>
 </compare>
 
 <compare>
@@ -554,6 +588,18 @@ Joy Behar: "Is that anywhere near the way Joan Crawford actually acted?"
 Christina: "...only the makeup."
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.bkr_video at="(25:37)" %}>
+
+[...] She didn't really give us an idea of who Joan Crawford was.
+
+\[Clip from *Joy Behar: Say Anything*, them showing a clip from the movie, then cutting to interview:]
+
+Joy: "Is that anywhere near the way Joan Crawford actually acted?"
+
+Christina: "Only the makeup."
+
+<div class="footer">It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.</div>
+</from>
 </compare>
 
 <compare>
@@ -578,14 +624,26 @@ Faye was a bit of a... *hassle*, you see. On top of being a prima donna in gener
 
 \[Cutaway to visual only shot of Faye-as-Joan screaming and wailing.]
 
-...*that* on camera, the crew and cast had to *live* with that for *weeks*. Rutanya Alda, who played Joan's assistant in the film, wrote a behind the scenes memoir about the filming experience. She wrote:
+...*that* on camera, the crew and cast had to *live* with that for *weeks*. <mark>Rutanya Alda</mark>, who played Joan's assistant in the film, <mark>wrote a behind the scenes memoir about the filming experience</mark>. She wrote:
 
-> "People despised Faye... because she was rude to people. Everyone was on pins and needles when she worked, and relaxed when she didn't." [~Rutanya Alda]
+> <mark>"People despised Faye...because she was rude to people. Everyone was on pins and needles when she worked, and relaxed when she didn't."</mark> [~Rutanya Alda]
 
-To name a few things, Faye allegedly manipulated the director to rob other actors of their screen time to pull it to herself. She also insisted that people on set needed to turn away from her while she was performing, because... she didn't want an audience. 
+To name a few things, Faye allegedly <mark>manipulated the director to rob other actors of their screen time</mark> to pull it to herself. She also insisted that people on set needed to <mark>turn away from her</mark> while she was performing, because... <mark>she didn't want an audience</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_film at="Production, ¶ 2" %}>
+
+In 2015, actress <mark>Rutanya Alda</mark> (Carol Ann) <mark>published a behind-the-scenes memoir, detailing the making of the film</mark>, *The Mommie Dearest Diary: Carol Ann Tells All*.<sup>[8]</sup> In it, she describes the difficulty of working with Dunaway, whose method approach to playing Joan seemed to absorb her and make her difficult to the cast and crew.<sup>[9]</sup> In an interview with the *Bay Area Reporter*, Alda stated, <mark>"People despised Faye...because she was rude to people. Everyone was on pins and needles when she worked, and relaxed when she didn't."</mark><sup>[10]</sup> Alda described the process of acting opposite Dunaway very unfavorably by claiming that she <mark>manipulated the director to deprive the other actors of screen time</mark> and required the members of the cast to <mark>turn their backs</mark> when not in the shot so <mark>she would have no audience</mark>.<sup>[9]</sup> She also claimed that Dunaway was "out of control" while filming the scene where Joan attacks Christina in front of a reporter (Jocelyn Brando) and Carol Ann has to pull her off. Alda was hit hard in the chest and knocked over several times, while Jocelyn Brando, who was scripted to help Alda pull Dunaway off of Diana Scarwid, refused to get near her for fear of being injured.<sup>[10]</sup>
+
+<div class="footer">
+
+8. Leon Acord (December 4, 2015). ["What's the Most Shocking Thing About Tell-All 'Mommie Dearest Diary'?"](https://www.huffingtonpost.com/leon-acord/whats-the-most-shocking-t_b_8713984.html). Huffington Post. [Archived](https://web.archive.org/web/20160127090252/http://www.huffingtonpost.com/leon-acord/whats-the-most-shocking-t_b_8713984.html) from the original on January 27, 2016. Retrieved May 17, 2017.
+9. Karina Longworth (September 16, 2016). ["The Illusion of Perfection:A new diary tells the story of what happened when Faye Dunaway played Joan Crawford in Mommie Dearest"](http://www.slate.com/articles/podcasts/you_must_remember_this/2016/09/faye_dunaway_in_mommie_dearest_the_real_story.html). Slate Magazine. [Archived](https://web.archive.org/web/20170530211735/http://www.slate.com/articles/podcasts/you_must_remember_this/2016/09/faye_dunaway_in_mommie_dearest_the_real_story.html) from the original on May 30, 2017. Retrieved May 17, 2017.
+10. Tara Aquino (February 21, 2016). ["12 Over-the-Top Facts About Mommie Dearest"](http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest). mentalfloss.com. [Archived](https://web.archive.org/web/20190819213657/http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest) from the original on August 19, 2019. Retrieved August 19, 2019.
+
+</div>
+<div class="footer" id="misattributed">Note: Quote is misattributed to Rutanya Alda's book ("She wrote:"), when instead it was an interview with the [*Bay Area Reporter*](https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people.). (Also, Wikipedia cites the source <em>third-hand</em>.)</div>
+</from>
 </compare>
 
 <compare>
@@ -598,7 +656,15 @@ Regarding her [air quotes] "method acting"... (and we'll avoid a discussion abou
 So I *think* what happened is that Faye was so engaged with the *memory* of Joan that she may have spurred a vindictive streak against Christina. And so she kind of took out all that bottled up rage on the effigy of Christina. Which is why you got all this aggression, I think. While there was an initial wave of critics who... hailed her performance, it didn't take long for the public perception to *swing* the other way. Going down as one of the best-*bad* performances of all time.
 
 </james>
-<from></from>
+<comment id="haunted">
+{{ tustin.header }}
+
+James seems to invent this quote out of whole cloth? Or at least out of pieces of the following?
+
+> Roger Ebert visited the set, and when he first saw Dunaway in costume, he didn’t recognize her as Faye Dunaway. He exclaimed, “My God, she looks just like Joan Crawford!” But embodying a dead woman was no picnic for Dunaway. There was a physical toll to the part: To make her face look like Crawford’s, Dunaway had to contort the muscles around her mouth just so and hold it, all day long. And then, Dunaway started to feel like she couldn’t clock out when shooting wrapped during the day. As she wrote, “At night I would go home to the house we had rented in Beverly Hills, and felt Crawford in the room with me, this tragic, haunted soul just hanging around. … It was as if she couldn’t rest.”
+
+<div class="footer">Longworth, K. (2018, Sep 16). <em>The Illusion of Perfection</em> [Article]. Slate. Retrieved Jan 1, 2024, from <a href="https://slate.com/culture/2016/09/the-illusion-of-perfection.html">https://slate.com/culture/2016/09/the-illusion-of-perfection.html</a></div>
+</comment>
 </compare> 
 
 <compare>

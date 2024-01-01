@@ -12,7 +12,7 @@ notes:
   - hbomb
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
 
 cite:
   clips: !!map

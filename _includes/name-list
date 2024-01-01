@@ -1,2 +1,21 @@
-{%- comment %} Expected: name parameter {% endcomment -%}
-{{ include.name | join: ", " | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+{%- comment %} Expected: name parameter, possibly $cite$name$replace {% endcomment -%}
+{%- capture __list -%} 
+	{%- for n in include.name -%}
+		{%- if forloop.length > 1 and forloop.last == true %} and {% endif -%}
+		{%- assign __check = n | split: "$" -%}
+		{%- if __check[0] == blank -%}
+			{%- case __check[1] -%}
+				{%- when "cite" -%}
+					{{ site.data.cite | map: __check[2] | map: "citation" }}
+				{%- when "ref" -%}
+					{{ site.data.cite | map: __check[2] | map: "reference" | join: '' | replace: '#', __check[3] }}
+				{% else %}
+					ERROR[{{ n }}]
+			{%- endcase -%}
+		{%- else -%}
+			{{ n }}
+		{%- endif -%}
+		{%- if forloop.length > 2 and forloop.last == false %}, {% endif -%}
+	{%- endfor -%}
+{%- endcapture -%}
+{{ __list | markdownify | remove: '<p>' | remove: '</p>' | strip }}

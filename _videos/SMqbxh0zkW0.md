@@ -19,7 +19,7 @@ podcast:
 
 contributors:
   transcription: "[Malia @catfishingwords](https://cohost.org/catfishingwords/post/3830077-transcript-of-james) on cohost ([direct link to original](https://docs.google.com/document/d/1-icsIQT9sQ3uFLrSWY7TVUk5zLx7wO05ViCFcom803s/edit))"
-  formatting: Tustin2121
+  formatting: $cite$tustin
   factcheck: "[Malia @catfishingwords](https://cohost.org/catfishingwords/post/3830077-transcript-of-james)"
 
 cite:

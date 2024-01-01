@@ -20,7 +20,7 @@ notes:
 
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
-  formatting: Tustin2121
+  formatting: $cite$tustin
 
 cite:
   clips:

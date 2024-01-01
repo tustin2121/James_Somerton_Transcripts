@@ -24,7 +24,7 @@ notes:
   - custom-start
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
 

@@ -22,7 +22,7 @@ notes:
   - script-diff
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[@kermitlesbian / Radhika Mohan](https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha)"
     - "[/u/yaniism](https://www.reddit.com/r/hbomberguy/comments/18aowau/looking_for_the_sourcesplagarism_victims_for/kc1ii8l/)"
