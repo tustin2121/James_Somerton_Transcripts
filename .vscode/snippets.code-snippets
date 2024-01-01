@@ -109,9 +109,9 @@
 		"prefix": "clip",
 		"body": [
 			"<compare>",
-			"<clip {% include citation for=page.cite.clip.hannibal %}>",
+			"<clip {% include citation for=page.cite.clips.$1 %}>",
 			"",
-			"$TM_SELECTED_TEXT$1",
+			"$TM_SELECTED_TEXT$0",
 			"",
 			"</clip>".
 			"</compare>".
