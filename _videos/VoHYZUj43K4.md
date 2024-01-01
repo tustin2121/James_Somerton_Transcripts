@@ -23,6 +23,11 @@ notes:
   - hbomb
   - custom-start
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  citation: 
+    - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
+
 cite:
   clips: !!map
     aot: { short: "Attack on Titan (Wit Studio, 2013)", full: "Kinoshita, T., Tateishi, K., Maeda, T., et al. (Producers). Araki, T.,Hayashi, Y., et al. (Directors.) (2013) <em>Shingeki no Kyojin; Attack on Titan</em> [Television series]. Wit Studio, MAPPA." }
@@ -32,6 +37,7 @@ cite:
   plagiarized: !!map
     wiki_aot: { color: 1, short: "Attack on Titan (Wikipedia, 2022)", full: "Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533" }
     seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
+    cultural_review: { color: 3, short: "(Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
 ---
 {% assign tustin = site.data.cite.tustin %}
 {% assign hbomb = site.data.cite.hbomb %}
@@ -111,10 +117,20 @@ This comes before the content warning. (Also, the card is wrong, the original vi
 <compare>
 <james {% include timecode %}>
 
-Since it premiered in 2013, the *Attack on Titan* anime has been called "the greatest anime ever produced", "the most overrated anime ever produced", and "the most dangerous anime ever produced". But which opinion is right? Maybe, just maybe... they're all wrong.
+<mark>Since it premiered in 2013, the *Attack on Titan*</mark> anime has been called "the greatest anime ever produced", "the most overrated anime ever produced", and "the most dangerous anime ever produced". But which opinion is right? Maybe, just maybe... they're all wrong.
 
-I didn't watch *Attack on Titan* at first because I was in my "anime is for kids" phase and only really got into it earlier this year when countless people online were telling me how gay the relationship between Levi
-and Erwin was. After watching the show... I have no idea what they were talking about. I don't see gay going on anywhere between these two. 
+</james>
+<from {% include citation for=page.cite.plagiarized.cultural_review at="¶ 1" %}>
+
+<mark>Since its premiere in 2013, Attack on Titan</mark> has been one of the largest multi-media brands in the world. Its manga concluded in June 2021 and the anime is finishing its final season now. It’s been adapted into live-action movies, spin-off mangas, and merchandised into oblivion, becoming one of the most popular Japanese IPs in the past decade. Its critically acclaimed anime adaptation has just finished the season finale of the second to last part of the final season, the finale of which is set to release in 2023.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+I didn't watch *Attack on Titan* at first because I was in my "anime is for kids" phase and only really got into it earlier this year when countless people online were telling me how gay the relationship between Levi and Erwin was. After watching the show... I have no idea what they were talking about. I don't see gay going on anywhere between these two. 
 
 Historia and Ymir? Yes! Obviously! Ymir loudly proclaimed that she wanted to marry Historia. 
 
@@ -122,8 +138,17 @@ Jean and Marco? Absolutely! In my mind, they loved each other. But Marco didn't 
 
 But Levi and Erwin? I just don't see it. But even though I didn't see the gayness, your ship is valid. 😊 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Regardless, I still found myself becoming utterly transfixed by this show, to the point where I ended up
-watching all 87 episodes in about three days. But not everyone is so in love with the series. The show and manga on which its base have been attacked for portraying the Eldians (the race of people who live inside the walls) as an analog for Jewish people. And since Eldians can turn into man-eating monsters -- something Jewish people have been accused of being able to do in the past, believe it or not -- the analogous connection has made more than a few people... uneasy. 
+watching all 87 episodes in about three days. 
+
+But not everyone is so in love with the series. The show and manga on which its base have been attacked for portraying the Eldians (the race of people who live inside the walls) as an analog for Jewish people. And since Eldians can turn into man-eating monsters -- something Jewish people have been accused of being able to do in the past, believe it or not -- the analogous connection has made more than a few people... uneasy. 
 {% assign timecode = "1:21" %}
 
 </james>
@@ -133,19 +158,22 @@ watching all 87 episodes in about three days. But not everyone is so in love wit
 <compare>
 <james {% include timecode %}>
 
-The fact that actual white nationalists have tried to embrace *Attack on Titan* as a story that expresses *their* theory the Jews are purposefully oppressing and attempting to eliminate European people through mass migration and... *brainwashing* hasn't helped the show's defense.
+The fact <mark>that actual white nationalists have tried to embrace *Attack on Titan* as a story that expresses *their*</mark> <mark>theory the Jews</mark> <mark>are purposefully oppressing and attempting to eliminate European people through mass migration and... *brainwashing*</mark> hasn't helped the show's defense.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.cultural_review at="¶ 10" %}>
+
+It hasn’t helped the case defending the show though <mark>that actual white nationalists have tried embracing Attack on Titan as a story that expresses their</mark> emotional frustration with white genocide – the <mark>theory that Jews</mark> and other elites <mark>are purposely oppressing and attempting to eliminate European peoples through mass migration and brainwashing.</mark> Although many aren’t embracing it for its depictions of Jews but as a defense of racialist collectivism.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Many of these people are embracing it not for its representation of a Jewish analogy as fighting to survive against a much larger force, but as a defense of white nationalism. They seem to see the opposite of what normal fans see. They see themselves as the oppressed Eldians while the oppressing Marleyans are the Jewish analog to them, because they failed every media literacy course they ever took.
 
 But they still gravitate toward the story nonetheless, which many find problematic. I say we shouldn't be letting the alt-right take ownership of... well anything, but that's me. 
-
-So yeah. *Attack on Titan* is handling incredibly charged issues and bringing some extremely radical people into its midst, some of whom appear to be rooting for the mass genocide at the end of the story. Rather than realizing that every lead character, minus one, from the first three seasons sees it as awful and wrong. Most of the show's principles are articulated in a clumsy manner and it's clear why some people have been alarmed by how it's portrayed. 
-
-That doesn't excuse people from not being fair to the show simply because some members of the alt-right enjoy it in some ways though. *Attack on Titan* may not be inherently fascist, but it speaks to a fascist urge. In *Attack on Titan*, the nature of oppressor and oppressed is fluid and ambiguous. The humanity stuck between those who assume these identities don't really recognize or comprehend them. 
-
-When their skulls are crushed and the survivors reflect on watching their loved ones perish in agony, all that is left of our life stories are the deeply personal horrors of humankind's inhumanity toward other humans, and the horror that your precious life can be drained from your body in an instant by forces you do not even comprehend. 
-
-So let's bite into this world -- Let's rip open the nape of its neck -- and see what's inside this franchise that has become one of the best-selling mangas in history, one of the most watched animes ever, and one of the most hotly debated pieces of media of the new millennium.
 
 </james>
 <from></from>
@@ -154,9 +182,46 @@ So let's bite into this world -- Let's rip open the nape of its neck -- and see 
 <compare>
 <james {% include timecode %}>
 
+<mark>So yeah. *Attack on Titan* is handling incredibly charged issues and bringing some extremely radical people into its midst,</mark> some of <mark>whom appear to be rooting for the mass genocide at the end of the story</mark>. Rather than <mark>realizing that every lead character</mark>, minus one, from the first three seasons <mark>sees it as awful and wrong</mark>. <mark>Most of the show's principles are articulated in a clumsy manner and it's</mark> clear <mark>why some people have been alarmed by how it's portrayed</mark>. 
+
+That doesn't excuse people from <mark>not being fair to the show simply because some members of the alt-right enjoy it in some ways though</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.cultural_review at="¶ 13" %}>
+
+<mark>So yes, *Attack on Titan* is juggling extremely loaded themes and attracting some very radical people into its midst,</mark> <mark>who appear to be rooting for the mass genocide at the end of the fourth season</mark>, instead of <mark>recognizing that every character</mark> in the show <mark>sees it as horrific and wrong</mark> (at least ironically, I could be wrong). <mark>Most of the shows’ ideas are inelegant in their articulation and it is</mark> somewhat understandable <mark>why some people have had their alarm bells set off by how it’s portrayed</mark>. That doesn’t take leftists off the hook though for <mark>not being fair to *Attack on Titan*, just because part of the Alt-Right happens to like the show in some respect</mark>. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>*Attack on Titan* may not be inherently fascist, but it speaks to a fascist urge</mark>. <mark>In *Attack on Titan*, the nature of oppressor and oppressed is fluid and ambiguous</mark>. <mark>The humanity stuck between those who assume these identities don't really recognize or comprehend them.</mark> 
+
+<mark>When their skulls are crushed</mark> and <mark>the survivors reflect on watching their loved ones perish in agony, all that is left of our life stories are the deeply personal horrors of humankind's inhumanity toward other humans, and the horror that your precious life can be drained from your body in an instant by forces you do not even comprehend. </mark>
+
+
+</james>
+<from {% include citation for=page.cite.plagiarized.cultural_review at="¶ 18" %}>
+
+<mark>*Attack on Titan* isn’t necessarily fascist, but it understands the fascist impulse</mark>, the nature of radicalization, and the real temptation for the oppressed to become the oppressor. <mark>In *Attack on Titan*, the nature of oppressor and oppressed is fluid and unclear</mark>, because <mark>the humanity caught between the people wearing those labels don’t know or understand them.</mark> <mark>When their skulls are crushed</mark>, when their bones are powderized, when <mark>the survivors reflect on watching their loved ones die agonizing deaths, all that remains of our narratives are the deeply personal horrors of man’s inhumanity to man and the horror that your precious life can be drained out of your material body in an instant by forces you don’t understand.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So let's bite into this world -- Let's rip open the nape of its neck -- and see what's inside this franchise that has become one of the best-selling mangas in history, one of the most watched animes ever, and one of the most hotly debated pieces of media of the new millennium.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
 But first! How about you stomp that subscribe button below and ring that Bell so YouTube actually does what it's supposed to and lets you know when I put a new video out! And if you like this video check out my patreon, linked in the description. There's a bunch of really cool perks that come with being a patron so don't miss out.
 
-Alright now let's make like Hange and figure out what's going on inside this monster called *Attack on Titan*
+Alright now let's make like Hange and figure out what's going on inside this monster called *Attack on Titan*.
 
 </james>
 <from></from>
