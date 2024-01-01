@@ -37,7 +37,8 @@ cite:
   plagiarized: !!map
     wiki_aot: { color: 1, short: "Attack on Titan (Wikipedia, 2022)", full: "Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533" }
     seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
-    cultural_review: { color: 3, short: "(Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
+    cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
+    vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan" }
 ---
 {% assign tustin = site.data.cite.tustin %}
 {% assign hbomb = site.data.cite.hbomb %}
@@ -396,20 +397,42 @@ Okay... now let's talk about the drama.
 <compare>
 <james {% include timecode %}>
 
-To a large extent, people started feeling uneasy about *Attack on Titan* once the manga explained the Titan's origins, finally answering the series spanning question "what is in Eren's family's House's basement?" 
+To a large extent, <mark>people started feeling uneasy</mark> about *Attack on Titan* <mark>once the manga explained the Titan's origin</mark>s, finally answering the series spanning question "what is in Eren's family's House's basement?" 
 
-Eren's father Grisha left behind a journal outlining that the outside world isn't uninhabited at all. That there is a wide world out beyond the walls. The people of Paradis are of a race called Eldians. All of whom have the ability to transform into Titans under certain circumstances. Who are the descendants of the first Titan, Ymir. And in this outside world, Eldians are corralled into ghettos and forced to wear armbands to distinguish them. 
+Eren's father Grisha left behind a journal outlining that <mark>the outside world isn't uninhabited at all</mark>. That there is a wide world out beyond the walls. The people of Paradis are of a race called Eldians. All of whom have the ability to transform into Titans under certain circumstances. Who are the descendants of the first Titan, Ymir. And in this outside world, <mark>Eldians are corralled into ghettos and forced to wear armbands to distinguish them.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 8" %}>
+
+The <mark>discomfort with the story</mark> of *Attack on Titan* began in earnest <mark>when the manga revealed where the Titans come from</mark>. When the lead character Eren Yaeger first left home to join the military and fight Titans, his father gave him a key to his basement, saying that he should return to investigate it when it's safe. In the basement there are books that reveal that <mark>the outside world isn't uninhabited at all</mark>, and that the Eldians, the race to which Eren and his father belong, <mark>are being kept in ghettos in a fascist society where they wear armbands to identify themselves</mark> amongst their oppressors, the Marleyans.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 They spend their lives being told how their Titan ancestors ruled the world with an Iron Fist and that they must atone for the sins of their tyrannical ancestors, regardless of the fact that there isn't really any *proof* that said Eldian empire ever actually existed. Its existence is only spoken of by people who would have been told about it via anti-Eldian propaganda. Regardless the people of Marley, the continent across the shores from Paradis, constantly fear the reprisal of this mythical Eldian war machine, where the wicked Eldians from Paradis will rise up and use the power of the Titans to rule or destroy the world once more. So Eldians in Marley, who live inside ghettos, must toil in labor to prove that they aren't like the devils from within the walls of Paradis.
 
 Eren's father held different philosophy, that the founding Titan Ymir was actually a benevolent goddess. She used her Titan blood to carve roads, erect grand buildings, and defend her people from the interloping forces. And that it was the people of Marley who jealously seized the power of the Titans, cast Ymir's descendants away, and forged a false history of propaganda to suppress those Eldians who did not flee to Paradis. Grisha Yeager believed that the Eldians were not devils, but the chosen people of God, which in Euro-American rhetoric, "chosen people of God" carries a very specific meaning. And in conjunction with the ghettos and armbands, there seems to be a direct comparison.
 
-This leads some viewers who interpret this storyline as being *too similar* to anti-semitic conspiracies which typically assert the Jewish people govern the world via some sort of ancient illuminati-esque cabal. For instance there is a well-respected Eldian family in Marley, the Tibers, who owe their honorary Marleyan and status to their role in driving the Eldian royalty away from the continent a hundred years ago. And though they may be Eldian, the Tiber family has, for generations, used their wealth and influence to manipulate global politics. Which may mirror real-world conspiracies that say that secret Jewish organizations already secretly run the world.
-
-This facet of the show has helped others, such as Dot Pixis's character, to stand out. The creator and writer, Hajime Isayama, has said that the character of Pixis, a military general, was based on the real life World War II General Akiyama Yoshifuru, who Isayama said he respected and is revered by many in Japan, despite having committed war crimes, particularly in Korea.
-
 </james>
 <from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This leads some viewers who interpret this storyline as being *too similar* to <mark>anti-semitic conspiracies</mark> which typically assert <mark>the Jewish people govern the world via some sort of ancient illuminati-esque cabal</mark>. For instance there is a well-respected <mark>Eldian family in Marley, the Tyburs, who owe their honorary Marleyan</mark> and status to their role in driving the Eldian royalty away from the continent a hundred years ago. And though they may be Eldian, the Tybur family has, for generations, used their wealth and influence to manipulate global politics. Which may mirror real-world conspiracies that say that secret <mark>Jewish organizations already secretly run the world</mark>.
+
+<mark>This facet of the show has helped others</mark>, such as <mark>Dot Pixis</mark>'s character, to <mark>stand out</mark>. The <mark>creator and writer, Hajime Isayama</mark>, has said that the character of <mark>Pixis, a military general</mark>, <mark>was based on the real life World War II General Akiyama Yoshifuru, who</mark> Isayama said he respected and <mark>is revered by many in Japan, despite having committed war crimes, particularly in Korea.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 11" %}>
+
+To some fans, it all feels a little too close to the broad arc of most <mark>antisemitic conspiracy theories</mark>, which say that <mark>the Jews rule the world through an ancient conspiracy</mark>. In some variations of the theory, <mark num=4>Jewish people already secretly run the world</mark> government, <mark num=3>just like the Eldian Tybur family does in Marley, where they live as honorary Marleyans</mark> and secretly control the other noble families. <mark>This aspect of the series has made other parts</mark> of *Attack on Titan* <mark num=7>stand out</mark>, especially the character of <mark num=6>Dot Pixis</mark>. According to the <mark>artist and writer of the series, Hajime Isamaya</mark>, <mark>Pixis, a military general</mark> in *Attack on Titan*, <mark>was inspired by real world World War II general Akiyama Yoshifuru, who</mark> <mark>is considered a hero in Japan, but also has committed war crimes against China and Korea.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -536,13 +559,17 @@ The show introduced many people to anime and manga, which is what makes criticis
 <compare>
 <james {% include timecode %}>
 
-At first sight, *Attack on Titan* seems like it could be easily written off as plainly pro-fascist. The central character *is* a pro-military fanatic who uses his pariah status to justify mass extinction. The militarism of the story is reflected in the opening sequence of the anime's first season, with the lyric "I am a soldier"
-
-Granted, when it comes to all things fashy<sup class="add">[eg, fascist-like]</sup> in *Attack on Titan*, viewers always have to read into it. Characters never specifically come out and talk *about* fascism, either methods or ideology. In specific terms, this may include discussion about oppression, indoctrination, propaganda, and dehumanization of a national enemy. And while all of these elements may be deployed in a fascist regime, they are not exclusive *to* fascism. 
+<mark>At first sight</mark>, *Attack on Titan* seems like <mark>it could be easily written off</mark> <mark>as plainly pro-fascist</mark>. The central character *is* a pro-military fanatic who uses his pariah status to justify mass extinction. The <mark>militarism of the story</mark> is reflected in <mark>the opening sequence of the anime's first season</mark>, with the lyric "<mark>I am a soldier</mark>"
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 17" %}>
+
+<mark>At first glance</mark>, <mark>it would be easy just to dismiss</mark> *Attack on Titan* <mark>as being unambiguously pro-fascist</mark>. The anime plays into the <mark>militarism at the heart of the story</mark>;<mark> the show's first theme</mark>, a certified banger and classic meme, opens on the lyric "Are you prey? No, <mark>we are the hunters</mark>," sung in German. 
+
+</from>
 <james {% include timecode %}>
+
+Granted, when it comes to all things fashy<sup class="add">[eg, fascist-like]</sup> in *Attack on Titan*, viewers always have to read into it. Characters never specifically come out and talk *about* fascism, either methods or ideology. In specific terms, this may include discussion about oppression, indoctrination, propaganda, and dehumanization of a national enemy. And while all of these elements may be deployed in a fascist regime, they are not exclusive *to* fascism. 
 
 In fact not all fascism is the same. The term is often deployed against things that specifically draw from the posturing and methodology of the Third Reich. Though, while it *is true* to say that all Nazis were fascist, not all fascists were Nazis. That said, when it comes to the specific elements of *Attack on Titan* that are implicitly drawn from the Third Reich, these elements are mostly visual. The Eldian ghettos in Marley are never *called* "ghettos", for instance. We pick up on that from the way they directly resemble ghettos from the 30s and 40s. 
 
@@ -636,24 +663,37 @@ Sometimes a character's death yields opportunity. Other times it's just a pointl
 <from></from>
 <james {% include timecode %}>
 
-And it's not like fascist-esque imagery and Anime and manga is rare. On the subject, anime YouTuber Joe Yang said:
+And it's not like fascist-esque imagery and Anime and manga is rare. On the subject, anime YouTuber <mark num=1>Joe Yang</mark> said:
 
-> "It's important to note that the use of fascistic, war, or even Nazi imagery is not necessarily an endorsement of these ideas or regimes, as strange as it may sound."
-
-The fascist and anti-semitic elements in *Attack on Titan* shouldn't be controversial to bring up. The question the audience and the critics need to answer is whether or not the series is actively *harmful* because of them. That is, whether the audience is directed to sympathize with characters and themes that represent and are represented by these elements.
+> <mark num=2>"It's important to note that the use of fascistic, war, or even Nazi imagery is not necessarily an endorsement of these ideas or regimes, as strange as it may sound."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 18" %}>
+
+<mark num=2>"It’s important to note that the use of fascistic, war, or even Nazi imagery is not necessarily an endorsement of these ideas or regimes, as strange as it may sound,"</mark> <mark num=1>Joe Yang</mark>, who makes videos about anime at the YouTube channel Pause and Select, told Motherboard.
+
+</from>
 <james {% include timecode %}>
 
-Some media commentators even admitted to not watching *Attack on Titan* because they were afraid of the backlash they would receive for discussing the show's political undertones. YouTuber Jeff THU argues:
+The fascist and anti-semitic elements in *Attack on Titan* <mark>shouldn't be controversial</mark> to bring up. The question the audience and the critics need to answer is <mark>whether or not the series is actively *harmful*</mark> because of them. That is, whether the audience is directed to sympathize with characters and themes that represent and are represented by these elements.
 
-> "It's because this discussion keeps happening, but it's also not. There's some really good criticism of Attack on Titan, and I think it's important to criticise it, but a lot of people come at it strong and condemn it.
+Some media commentators even admitted to not watching *Attack on Titan* because they were <mark>afraid of the backlash they would receive for discussing the show's political undertones</mark>. YouTuber Geoff Thew argues:
+
+> <mark>"It's because this</mark> discussion <mark>keeps happening, but it's also not.</mark> <mark>There's some really good criticism of Attack on Titan, and I think it's important to criticise it, but a lot of people come at it strong and condemn it.</mark>
 >
-> That does as much to kill the conversation as people being like, 'shut the hell up about politics,' because it reinforces the argument that people are just trying to cancel this good show that you like."
+> <mark>That does as much to kill the conversation as people being like, 'shut the hell up about politics,' because it reinforces the argument that people are just trying to cancel this good show that you like</mark>."
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 23-25" %}>
+
+It <mark>should not be controversial</mark> to suggest that *Attack on Titan* includes fascist and antisemitic themes. What the fanbase and critics must grapple with is how to talk about them and <mark>whether the show is actively causing damage.</mark>
+
+Thew told Motherboard that he hadn't totally caught up on Attack on Titan because he was kind of <mark>dreading unpacking its controversial politics,</mark> especially on his channel. Part of it is because talking about Attack on Titan and its relationship to fascism is so complicated. Another part of it is because the fandom has, by this point, dug in its heels.
+
+<mark>"It's because this</mark> conversation <mark>keeps happening, but it's also not,</mark>" Thew said. "<mark>There's some really good criticism of Attack on Titan, and I think it's important to criticize it, but a lot of people come at it strong and condemn it.</mark> <mark>That does as much to kill the conversation as people being like, 'shut the up about politics,' because it reinforces the argument that people are just trying to cancel this good show that you like</mark> for flimsy reasons."
+
+<div class="footer">Yes, really, he changed the direct quote. And he changed "criticize" from the american to the UK spelling, because reasons. Also, I don't know what happened to the "hell" in Vice's quote. {{ tustin.signature }}</div>
+</from>
 <james {% include timecode %}>
 
 For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world. Anime fans have generally avoided discussing the political content of their favorite shows because the art form was, until recently, a niche that was sometimes wrongly characterized as being obscene and dangerous. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
@@ -662,32 +702,42 @@ For a long time, anime fans had no way of knowing what their favorite writers an
 <from></from>
 <james {% include timecode %}>
 
-Andrea Horbinski, a scholar with a doctorate in New Media studies and history, said:
+<mark num=5>Andrea Horbinski, a scholar with a doctorate in New Media studies and history</mark>, said:
 
-> "Some Anglophone and American anime fans say that politics in anime is too foreign to comprehend.
+> "<mark num=1>Some Anglophone and American anime fans say that politics in anime is too foreign to comprehend</mark>.
 >
-> A lot more people these days seem to have some accurate knowledge about the socio-cultural politics in Japan,
+> <mark num=2>A lot more people these days seem to have some accurate knowledge about</mark> the socio-cultural <mark num=3>politics in Japan,</mark>
 >
-> but in my experience they're equally likely to combine a dollop of knowledge about current circumstances in Japan with their own preconceptions about Japan and Japanese Society.
+> <mark num=4>but in my experience they're equally likely to combine a dollop of knowledge about current circumstances in Japan with their own preconceptions about Japan and Japanese Society</mark>.
 >
-> Ironically, while it's never been easier to access cultural and political discussions directly from Japan thanks to the internet, relying on their own preconceptions,
+> <mark>Ironically, while it's never been easier to access cultural and political discussions directly from Japan thanks to the internet, relying on their own preconceptions</mark>,
 >
-> and only taking on board information that supports them, definitely does keep anime fans in this position from appreciating the range of views in anime generally."
+> <mark>and only taking on board information that supports them, definitely does keep anime fans in this position from appreciating the range of views in anime generally."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 27" %}>
+
+"<mark>Some Anglophone and American anime fans say that politics in anime is too foreign to comprehend</mark>, I think that's a minority position. <mark>A lot more people these days seem to have some accurate knowledge about</mark> sociocultural <mark>politics in Japan,</mark> <mark>but in my experience they're equally likely to combine a dollop of knowledge about current circumstances in Japan with their own preconceptions about Japan and Japanese society</mark>," <mark>Andrea Horbinski, an independent scholar with a doctorate in new media studies and history</mark>, told Motherboard. "<mark>Ironically, while it's never been easier to access cultural and political discussions directly from Japan thanks to the internet, relying on their own preconceptions</mark> <mark>and only taking on board information that supports them definitely does keep anime fans in this position from appreciating the range of views in anime generally."</mark>
+
+</from>
 <james {% include timecode %}>
 
-This may color certain anime viewers perceptions of shows with feminist or queer themes, as well as shows like *Attack on Titan*. Right-wing anime viewers, according to herbinsky, demand the inclusion of western-style political themes. As they put it:
+This may color certain anime viewers perceptions of shows with feminist or queer themes, as well as shows like *Attack on Titan*. Right-wing anime viewers, <mark>according to Horbinski</mark>, demand the inclusion of western-style political themes. As they put it:
 
-> "These fans insist that feminism and LGBTQ people don't exist in Japan and that any anime depicting either is woke garbage or similar.
+> <mark>"These fans insist that feminism and</mark> LGBTQ <mark>people don't exist in Japan and that any anime depicting either is woke garbage or similar.</mark>
 >
-> These fans are extremely angry at attempts to discuss the depictions of female characters in anime as something that could often use improvement, or the inclusion of LGBT characters period.
+> <mark>These fans are extremely angry at attempts to discuss the depictions of female characters in anime as something that could often use improvement, or the inclusion of</mark> LGBT <mark>characters period.</mark>
 >
-> They may cite 'evidence' to support their views that is wholly out of context. Attempts by Japanese feminists and LGBTQ activists to provide corrective information online do not go down well, particularly on Twitter."
+> <mark>They may cite 'evidence' to support their views that is wholly out of context</mark>. <mark>Attempts by Japanese feminists and LGBTQ activists to provide corrective information online do not go down well, particularly on Twitter."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 28-29" %}>
+
+This doesn't just affect how fans view shows like *Attack on Titan*, but also how some anime fans might view shows that deal with feminist themes or LGBT content. <mark>According to Horbinski</mark>, some right wing fans of anime insist that certain kinds of political themes must be imported from western culture.
+
+"<mark>[These fans] insist that feminism and</mark> trans <mark>people don't exist in Japan and that any anime depicting either is 'woke garbage' or similar.</mark> <mark>These fans are extremely angry at attempts to discuss the depiction of female characters in anime as something that could often use improvement, or the inclusion of</mark> trans <mark>characters period.</mark>" Horbinski said. "<mark>They may cite 'evidence' to support their views that is wholly out of context</mark>, or they may just insist that their views about Japan are correct because they're correct. <mark>Attempts by Japanese feminists and LGBTQ activists to provide corrective information online do not go down well, particularly on Twitter."</mark>
+
+</from>
 <james {% include timecode %}>
 
 Which is funny, because these kinds of regressionists praise anime for its narrative complexity, but at the same time deny the presence of political complexity. At least when it's politics that challenges their preconceptions. Again we're in a situation where media "being political" only really applies to media that promotes opinions outside the viewer's comfort zone. Regardless if that media, as *Attack on Titan* does, borrows heavily from real world politics and historical references. There is a contingent of the audience who is so over-accustomed to having their viewpoints unchallenged that they will default to an assumption that the media they enjoy is simple and uncomplicated.
