@@ -96,8 +96,6 @@ Written by Nick Herrgott & James Somerton
 
 Through the process of imitation, Baby Jane, Cleopatra, Martha, Eve Harrington, and Crawford herself are imitated here. To the point, wherein Faye Dunaway's mind playing Joan Crawford, this is a *perfectly* nuanced depiction of Hollywood's archetypal movie star. <mark>John Waters described *Mommie Dearest* as <q>"The first drag queen role played by a woman."</q></mark> And he's not wrong.
 
-But it seems to be *completely* by accident. Films that are accidental camp are kind of rare. Without clear intent, failed camp either goes so big that it looks cheap and we disconnect, or they don't go big enough. Either way, we don't make a point of remembering those movies, so when one *does* manage to hit the right buttons, we hold on to it for dear life. 
-
 </james>
 <from {% include citation for=page.cite.plagiarized.bkr_video at="(25:18)" %}>
 
@@ -109,10 +107,25 @@ But it seems to be *completely* by accident. Films that are accidental camp are 
 <compare>
 <james {% include timecode %}>
 
-So, enter *Mommie Dearest*: first published as a book by Christina Crawford in 1978 describing her torturous relationship with her mother Joan one year after Joan's death in 1977. The story is about a daughter who is struggling to reconcile her love for an abusive parent, which... would have made a great movie! In no time at all, studios snatched up the rights to the story and Christina herself wrote a script. When Faye Dunaway was cast in the lead role, riding on her Oscar from 1977's *Network*, the studio, and Feye herself, wanted to restructure the script to center around Crawford. With Faye's husband, who she managed to make a producer on the film, trying to "sanitize" Joan, and *Christina's* husband being accused of trying to turn Joan into a monster. So, what Joan did we get? 
+But it seems to be *completely* by accident. Films that are accidental camp are kind of rare. Without clear intent, failed camp either goes so big that it looks cheap and we disconnect, or they don't go big enough. Either way, we don't make a point of remembering those movies, so when one *does* manage to hit the right buttons, we hold on to it for dear life. 
+
+So, enter *Mommie Dearest*: first published as a book by Christina Crawford in 1978 describing her torturous relationship with her mother Joan one year after Joan's death in 1977. The story is about a daughter who is struggling to reconcile her love for an abusive parent, which... would have made a great movie! In no time at all, studios snatched up the rights to the story and Christina herself wrote a script. 
 
 </james>
 <from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+When Faye Dunaway was cast in the lead role, riding on her Oscar from 1977's *Network*, the studio, and Feye herself, wanted to restructure the script to center around Crawford. With Faye's husband, who she managed to make a producer on the film, <mark>trying to "sanitize" Joan</mark>, and *Christina's* husband being accused of trying to turn Joan <mark>into a monster</mark>. So, what Joan did we get? 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_film at="Production ¶ 1" %}>
+
+According to Dunaway, producer Frank Yablans promised her in the casting process that he wished to portray Joan Crawford in a more moderate way than she was portrayed in Christina Crawford's book. In securing the rights to the book, Christina's husband David Koontz was given an executive producer credit, though he had no experience producing films. Dunaway likewise demanded that her own husband, photographer Terry O'Neill, be given a producer credit so he could advocate for her on set. According to Yablans, the two husbands jostled over Dunaway's portrayal of Crawford: "I had two husbands to deal with, David driving me crazy that Faye was <mark>trying to sanitize Joan</mark>, and Terry worried we were pushing Faye too far and <mark>creating a monster</mark>."[7]
+
+</from>
 </compare>
 
 <compare>
