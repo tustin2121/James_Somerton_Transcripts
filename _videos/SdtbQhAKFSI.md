@@ -1,3 +1,25 @@
+---
+date: 2023-03-15
+title: Hollywood's Golden Age (of Queer Coding)
+parent: pW_RjbZYi1s
+status: Auto
+aka: !!seq
+  - "The Queer History of Hollywood (Thumbnail)"
+topics: !!seq
+links: !!seq
+notes:
+  - hbomb
+
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+
+cite:
+  clips: !!map
+  yikes: !!map
+  misinformation: !!map
+  plagiarized: !!map
+---
+
 this video is brought to you by manscaped in Hollywood's early years
 homosexuality found its way on screen in ways both secret and obvious to the
 filmmakers behind the camera audiences rarely pushed back against these

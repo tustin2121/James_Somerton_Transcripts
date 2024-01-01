@@ -1,3 +1,26 @@
+---
+date: 2023-04-15
+title: America v. Homosexuality
+parent: pW_RjbZYi1s
+status: Auto
+aka: !!seq
+  - "America's War on the Gays (and Communists)"
+  - "The Lavender Menace (Thumbnail)"
+topics: !!seq
+links: !!seq
+notes:
+  - hbomb
+
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+
+cite:
+  clips: !!map
+  yikes: !!map
+  misinformation: !!map
+  plagiarized: !!map
+---
+
 as the second world war ended and masses of servicemen returned home to America
 having spent almost all of their time away exclusively with other men there
 seemed to be an opening of the minds of the American populace when it came to

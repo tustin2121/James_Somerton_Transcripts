@@ -1,6 +1,7 @@
 ---
 date: 2022-11-10
 title: The Traumatic Camp of "Mommie Dearest"
+parent: Tk9wh5rBmW0
 status: Auto
 aka: !!seq
 topics: !!seq

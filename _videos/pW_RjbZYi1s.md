@@ -3,17 +3,17 @@ date: 2023-07-13
 title: The History of Gay Hollywood
 status: Auto
 aka: !!seq
-  - "How Hollywood Was Born Gay"
-  - "Hollywood's Golden Age (of Queer Coding)"
-  - "America's War on the Gays (and Communists)"
-  - "Where The 'Bury Your Gays' Trope Came From"
-  - "When Hollywood Came Out of the Closet"
-  - "America v. Homosexuality"
-  - "The Birth of Gay Hollywood (Thumbnail)"
   - "The Queer History of Hollywood (Thumbnail)"
-  - "The Lavender Menace (Thumbnail)"
-  - "Opening Hollywood's Closet (Thumbnail)"
-  - "Dying to be Gay (Thumbnail)"
+  # - "How Hollywood Was Born Gay"
+  # - "Hollywood's Golden Age (of Queer Coding)"
+  # - "America's War on the Gays (and Communists)"
+  # - "Where The 'Bury Your Gays' Trope Came From"
+  # - "When Hollywood Came Out of the Closet"
+  # - "America v. Homosexuality"
+  # - "The Birth of Gay Hollywood (Thumbnail)"
+  # - "The Lavender Menace (Thumbnail)"
+  # - "Opening Hollywood's Closet (Thumbnail)"
+  # - "Dying to be Gay (Thumbnail)"
 topics: !!seq
   - "<media>"
 links: !!seq
@@ -42,31 +42,31 @@ cite:
 Originally released 2023-02-15
 notes:
   - hbomb
-[-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) (Status: Script)
+[-Zcf3uNGbq4](-Zcf3uNGbq4.md) (Status: Script)
 
 # Transcript of "Hollywood's Golden Age (of Queer Coding)"
 Originally released 2023-03-15
 notes:
   - hbomb
-[SdtbQhAKFSI](_videos/SdtbQhAKFSI.md) (Status: Auto)
+[SdtbQhAKFSI](SdtbQhAKFSI.md) (Status: Auto)
 
 # Transcript of "America v. Homosexuality"
 Originally released 2023-04-15
 notes:
   - hbomb
-[iJ3M_DhPlI0](_videos/iJ3M_DhPlI0.md) (Status: Auto)
+[iJ3M_DhPlI0](iJ3M_DhPlI0.md) (Status: Auto)
 
 # Transcript of "Where The "Bury Your Gays" Trope Came From"
 Originally released 2023-05-11
 notes:
   - hbomb
-[UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) (Status: Auto)
+[UtRyi-e_HTc](UtRyi-e_HTc.md) (Status: Auto)
 
 # Transcript of "When Hollywood Came Out of the Closet"
 Originally released 2023-05-18
 notes:
   - hbomb
-[fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) (Status: Auto)
+[fzN9x4XgtwY](fzN9x4XgtwY.md) (Status: Auto)
 
 
 

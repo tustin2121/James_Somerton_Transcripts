@@ -87,10 +87,23 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} --- Complete: {{ vids_com
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">
+
 {% assign vidList = site.videos | sort: 'date' | reverse %}
 {% for video in vidList %}
-{%- include video-card video=video -%}
+  {%- if video.parent -%}{%- continue -%}{%- endif -%}
+  {%- include video-card video=video -%}
+  
+  {%- assign vid = video.id | split: '/' | last -%}
+  {%- assign subList = site.videos | where: 'parent', vid | reverse -%}
+  {%- if subList.size > 0 -%} 
+    <div class="video-list {%- include video-filter video=video -%}">
+      {%- for subVid in subList -%} 
+        {%- include video-card video=subVid -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
 {% endfor %}
+
 </div>
 
 {% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}

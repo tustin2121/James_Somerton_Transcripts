@@ -34,3 +34,10 @@ body.done .video-card:not(.finished) {
 .video-list {
     min-height: 60vh;
 }
+.video-list > .video-list {
+	margin-inline: 2em 1em;
+	min-height: unset;
+}
+.video-list > .video-list > .video-card {
+	filter: saturate(2);
+}

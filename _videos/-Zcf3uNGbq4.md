@@ -1,4 +1,24 @@
+---
+date: 2023-02-15
+title: How Hollywood was Born Gay
+parent: pW_RjbZYi1s
+status: Script
+aka: !!seq
+  - "The Birth of Gay Hollywood (Thumbnail)"
+topics: !!seq
+links: !!seq
+notes:
+  - hbomb
 
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+
+cite:
+  clips: !!map
+  yikes: !!map
+  misinformation: !!map
+  plagiarized: !!map
+---
 This video is brought to you by ATLAS VPN. 
 Over the last several years there have been 
 

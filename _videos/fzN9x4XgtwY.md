@@ -1,3 +1,25 @@
+---
+date: 2023-03-15
+title: When Hollywood Came Out of the Closet
+parent: pW_RjbZYi1s
+status: Auto
+aka: !!seq
+  - "Opening Hollywood's Closet (Thumbnail)"
+topics: !!seq
+links: !!seq
+notes:
+  - hbomb
+
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+
+cite:
+  clips: !!map
+  yikes: !!map
+  misinformation: !!map
+  plagiarized: !!map
+---
+
 this video is brought to you by Squarespace this film is not about lesbianism
 it's about the power of lies to destroy people's lives this film is not about
 homosexuality it's about loneliness this film is not about homosexuality it's

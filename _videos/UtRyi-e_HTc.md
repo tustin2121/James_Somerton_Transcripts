@@ -1,3 +1,25 @@
+---
+date: 2023-05-11
+title: 'Where The "Bury Your Gays" Trope Came From'
+parent: pW_RjbZYi1s
+status: Auto
+aka: !!seq
+  - "Dying to be Gay (Thumbnail)"
+topics: !!seq
+links: !!seq
+notes:
+  - hbomb
+
+contributors:
+  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+
+cite:
+  clips: !!map
+  yikes: !!map
+  misinformation: !!map
+  plagiarized: !!map
+---
+
 this video is brought to you by ag1 as the film industry moved away from
 Suburban Perfection the extensive efforts made by Hollywood to conceal
 homosexuality in film during the post-war lavender scare era began to
