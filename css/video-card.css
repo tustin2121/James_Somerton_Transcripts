@@ -128,7 +128,7 @@
     text-indent: -1em;
 }
 .video-card > .aka p.desc {
-	color: initial;
+	color: var(--color-fg-default);
 }
 .video-card .title a:first-child {
     margin-inline-end: 5px;
