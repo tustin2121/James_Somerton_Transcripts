@@ -38,7 +38,7 @@ cite:
 {% assign tustin = site.data.cite.tustin %}
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 If it wasn't camp, it would just be true.
 

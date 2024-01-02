@@ -167,6 +167,7 @@ compare james[mid-text]::before             { content: 'James: ' attr(mid-text) 
 
 compare credits.opening::before { content: 'Opening Credits:'; }
 compare credits.closing::before { content: 'Closing Credits:'; }
+compare credits.desc::before { content: 'Video Description:'; }
 compare credits[header]::before { content: attr(header); }
 compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 

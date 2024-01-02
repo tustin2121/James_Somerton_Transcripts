@@ -44,7 +44,7 @@ cite:
 {% assign tustin = site.data.cite.tustin %}
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 From the toxic love of 'Hannibal' to the immortal gaslighting in Anne Rice's Vampire Chronicles...
 Why are LGBT people so attracted to society's monsters?

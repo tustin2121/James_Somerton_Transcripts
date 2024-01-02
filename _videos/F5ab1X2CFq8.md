@@ -30,7 +30,7 @@ cite:
 ---
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 [Sponsor link]
 

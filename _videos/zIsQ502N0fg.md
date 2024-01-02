@@ -31,7 +31,7 @@ cite:
 ---
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 Stop using China as an excuse for Hollywood's lack of LGBTQ content.  
 PATREON: [link]

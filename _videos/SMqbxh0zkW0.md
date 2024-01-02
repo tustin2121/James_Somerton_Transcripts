@@ -34,7 +34,7 @@ cite:
 
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 Join YouTuber and independent filmmaker James Somerton for a discussion with his podcast partner, author N. T. Herrgott, about what it’s like to grow up queer in Canada with an American-dominated media space. Bring your questions for our speakers for this live event, which will also be live streamed on our YouTube channel. 
 

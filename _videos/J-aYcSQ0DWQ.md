@@ -45,7 +45,7 @@ factcheck:
 {% assign tustin = site.data.cite.tustin %}
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 What started as a look at the anime "Banana Fish" turned into a deep exploration of why crime might just be essential to gay life.
 
