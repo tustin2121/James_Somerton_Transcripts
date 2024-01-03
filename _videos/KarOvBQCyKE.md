@@ -92,7 +92,7 @@ EVERYTHING
 
 However, one of the most significant aspects of the show is its representation of queer characters. One of the most prominent gay characters in *The Last of Us* is Bill. 
 
-In the game, Bill is a loner and an expert in surviving in this infected world. However, his past is revealed to the player through notes and diary entries scattered throughout the game, where it is revealed that he had a partner named Frank, who was infected. Bill's story is tragic and his portrayal in the game is sympathetic and nuanced, avoiding the common stereotypes the queer characters are often subjected to. 
+In the game, Bill is a loner and an expert in surviving in this infected world. However, his past is revealed to the player through notes and diary entries scattered throughout the game, where it is revealed that he had a partner named Frank, who was infected. <mark>Bill's story is tragic and his portrayal in the game is sympathetic and nuanced, avoiding the common stereotypes the queer characters are often subjected to.</mark> 
 
 The TV show expands on his character's backstory. In episode 3, we see the full story of Bill and Frank. Their relationship is depicted in a heartfelt and authentic manner. A long-lasting relationship between two men who create a sort of paradise for themselves in the middle of the horrors of the infected world. The show also explores the trauma that Bill experiences as a result of the idea of losing Frank. Because in this apocalyptic world, neither of them could imagine living without the other.
 
