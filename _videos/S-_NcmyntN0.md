@@ -17,7 +17,7 @@ notes:
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map

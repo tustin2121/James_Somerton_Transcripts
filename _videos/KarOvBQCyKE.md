@@ -22,7 +22,7 @@ description: "a video essay on spoiler culture and how it's caused our media to 
 
 contributors:
   downloaded: $cite$TerraJRiley
-  formatting: [ $cite$tustin, Github Copilot]
+  formatting: [ $cite$tustin2121, Github Copilot]
   
 cite:
   clips: !!map

@@ -21,7 +21,7 @@ contributors:
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[Katelyn Burns](https://twitter.com/transscribe/status/1731395381584400417)"
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map

@@ -17,7 +17,7 @@ notes:
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
   citation: 
     - "[/u/glitter408](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvpdib)"
     - "[/u/theogays](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2whl0)"

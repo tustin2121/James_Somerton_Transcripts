@@ -24,7 +24,7 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>

@@ -16,7 +16,7 @@ notes:
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
   factcheck: 
     - "[/u/Altruistic_County222](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn)"
 

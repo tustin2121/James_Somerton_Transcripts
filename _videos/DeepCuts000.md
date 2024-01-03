@@ -19,7 +19,7 @@ notes:
 
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
   factcheck: 
     - "[/u/gentlybeepingheart](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/)"
     - "[u/superninja109](https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/)"
@@ -72,7 +72,7 @@ cite:
     alex_london: { color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/" }
 ---
 {% assign hbomb = site.data.cite.hbomb %}
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
 {% assign sciclone = site.data.cite.sciclone1984 %}
 

@@ -18,7 +18,7 @@ contributors:
   citation: 
     - "[Be Kind Rewind](https://twitter.com/bkrewind/status/1731341792254075259)"
     - $ref$lvence$https://discord.com/channels/1180822793420554241/1180822793420554244/1191464164548423780
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -35,7 +35,7 @@ cite:
     bkr_video: { color: 1, short: "(Be Kind Rewind, 2021)", full: "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=jb-C4fcn2E0" }
     
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
 <credits class="desc">

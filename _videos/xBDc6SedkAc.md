@@ -20,7 +20,7 @@ notes:
 
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips:
@@ -36,7 +36,7 @@ cite:
     wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
 {% assign todd = site.data.cite.todd %}
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
 <james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>

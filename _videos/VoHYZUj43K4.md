@@ -40,7 +40,7 @@ cite:
     cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
     vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan" }
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>

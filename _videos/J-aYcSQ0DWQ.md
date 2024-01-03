@@ -20,7 +20,7 @@ notes:
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
@@ -43,7 +43,7 @@ cite:
 factcheck:
   cinnamorollmiku: { short: "lapin" }
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
 <credits class="desc">

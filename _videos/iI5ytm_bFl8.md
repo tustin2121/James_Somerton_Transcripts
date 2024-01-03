@@ -16,7 +16,7 @@ contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   citation: 
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -24,7 +24,7 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 {% assign timecode = "0:00" %}
 
 <compare>

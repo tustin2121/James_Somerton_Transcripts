@@ -18,7 +18,7 @@ contributors:
   transcription: "[an anonymous pastebin user](https://pastebin.com/zDXsHrFv)"
 
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
 <james {% include timecode %}>

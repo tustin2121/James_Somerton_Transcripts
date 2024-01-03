@@ -19,7 +19,7 @@ contributors:
   downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
-  formatting: $cite$tustin
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -38,7 +38,7 @@ cite:
     indie_wire_article: { color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/" }
     fanfest_russia: { color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/" }
 ---
-{% assign tustin = site.data.cite.tustin %}
+{% assign tustin = site.data.cite.tustin2121 %}
 {% assign timecode = "0:00" %}
 
 <compare>
