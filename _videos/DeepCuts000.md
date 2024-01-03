@@ -164,7 +164,7 @@ Not included in the credits, though they should have been:
 <compare>
 <james {% include timecode %} id="para01" mid-text="Paragraph-01">
 
-Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
+Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark fc>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
 
 </james>
 <comment id="homo_erectus">
@@ -204,7 +204,7 @@ And so the queer entered into the horror canon. Centuries before hollywood even 
 <compare>
 <james {% include timecode %}>
 
-The fear of the unknown, <mark>according to the American Psychological Association</mark>, is one of the most prominent causes for anxiety among people in both the first and third world.
+The fear of the unknown, <mark fc>according to the American Psychological Association</mark>, is one of the most prominent causes for anxiety among people in both the first and third world.
 
 </james> 
 <comment id="fear_unknown">
@@ -465,7 +465,7 @@ As mentioned before, the connection between witches and homosexuality has gone b
 <compare>
 <james {% include timecode %}>
 
-In modern Wicca, homosexuality is highly embraced. <mark>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
+In modern Wicca, homosexuality is highly embraced. <mark fc>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
 
 </james>
 <comment id="wicca_homo">

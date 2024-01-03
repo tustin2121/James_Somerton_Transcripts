@@ -125,19 +125,17 @@
 				
 				{%- if page.notes contains "podcast" -%}
 					<compare>
-						<james>
+						<james example>
 							<p>Video transcript is on the left.</p>
 						</james>
-						<comment>
+						<comment example>
 							<div class="header"><a class="citation" href="#">Source (Author, 2000)</a></div>
 							<p>Fact-checking commentary is on the right for comparison.</p>
 						</comment>
-					</compare>
-					<compare>
-						<nick>
+						<nick example>
 							<p>Auto-text is cleaned up somewhat to remove excessive "um"s and vocal tics.</p>
 						</nick>
-						<comment>
+						<comment example>
 							<div class="header"><a class="citation" href="#">{{ page.podcast.comment-author }}</a></div>
 							<p>{{ page.podcast.comment | default: "Text" | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 						</comment>
@@ -145,10 +143,10 @@
 					{% assign hr_due = true %}
 				{%- elsif page.notes contains "unscripted" -%}
 					<compare>
-						<james>
+						<james example>
 							<p>Video transcript is on the left.</p>
 						</james>
-						<comment>
+						<comment example>
 							<div class="header"><a class="citation" href="#">Commenter</a></div>
 							<p>Commentary is on the right.</p>
 						</comment>
@@ -156,7 +154,7 @@
 					{% assign hr_due = true %}
 				{%- else -%}
 					<compare>
-						<james>
+						<james example>
 							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
 							
 							{%- if page.notes contains "script-diff" -%}
@@ -164,7 +162,7 @@
 								Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
 							{%- endif -%}
 						</james>
-						<from>
+						<from example>
 							<div class="header"><a class="citation" href="#">Plagiarized article (Author, 2000)</a></div>
 							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
 							<mark>Plagiarized text is highlighted.</mark></p>
@@ -205,6 +203,21 @@
 	<script>
 		// Mark all external links as opening in a new tab
 		Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = "_blank");
+		
+	{% if jekyll.environment == "development" %}
+		
+		let nodes = Array.from(document.querySelectorAll("james:not([example])")).map(n => {
+			let txt = n.innerText.split(" ");
+			let mrk = Array.from(n.querySelectorAll("mark:not([fc])")).map(m => m.innerText.split(" ")).flat();
+			return { num: txt.length, marks: mrk.length };
+		});
+		let fine = nodes.reduce((a, b) => ({ num: a.num + b.num, marks: a.marks + b.marks }));
+		let coarse = nodes.map(n => n.marks > 0 ? 1 : 0).reduce((a, b) => a + b);
+		console.log(`Plagiarized words: ${fine.marks} / ${fine.num} (${Math.round((fine.marks / fine.num) * 100)}%)`);
+		console.log(`Plagiarized sections: ${coarse} / ${nodes.length} (${Math.round((coarse / nodes.length) * 100)}%)`);
+		console.log(nodes);
+		
+	{% endif %}
 	</script>
 </body>
 </html>
