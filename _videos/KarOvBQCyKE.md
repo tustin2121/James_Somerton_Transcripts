@@ -22,7 +22,9 @@ description: "a video essay on spoiler culture and how it's caused our media to 
 
 contributors:
   downloaded: $cite$TerraJRiley
-  formatting: [ $cite$tustin2121, Github Copilot]
+  formatting: [ $cite$tustin2121, Github Copilot ]
+  factcheck:
+    - "[quinnelope](https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261) from the Former Fans Discord"
   
 cite:
   clips: !!map
@@ -32,6 +34,7 @@ cite:
     star_trek: { short: "Star Trek", full: "TODO Star Trek Kahn" }
   yikes: !!map
   misinformation: !!map
+    bill_frank: "James makes some incorrect assumptions about video game characters based solely on the TV show adaptation."
   plagiarized: !!map
 ---
 
@@ -80,25 +83,35 @@ EVERYTHING
 
 *The Last of Us* TV show on HBO was one of the most anticipated TV shows of recent years. Based on the hit video game of the same name, *The Last of Us* follows the story of Joel and Ellie, two survivors in a post-apocalyptic world ravaged by a deadly fungal infection. The show garnered a lot of attention for its high production values, talented cast, and faithful adaptation of the game's story. 
 
-However, one of the most significant aspects of the show is its representation of queer characters. One of the most prominent gay characters in *The Last of Us* is Bill. In the game, Bill is a loner and an expert in surviving in this infected world. However, his past is revealed to the player through notes and diary entries scattered throughout the game, where it is revealed that he had a partner named Frank, who was infected. Bill's story is tragic and his portrayal in the game is sympathetic and nuanced, avoiding the common stereotypes the queer characters are often subjected to. 
-
 </james>
 <from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+However, one of the most significant aspects of the show is its representation of queer characters. One of the most prominent gay characters in *The Last of Us* is Bill. 
+
+In the game, Bill is a loner and an expert in surviving in this infected world. However, his past is revealed to the player through notes and diary entries scattered throughout the game, where it is revealed that he had a partner named Frank, who was infected. Bill's story is tragic and his portrayal in the game is sympathetic and nuanced, avoiding the common stereotypes the queer characters are often subjected to. 
 
 The TV show expands on his character's backstory. In episode 3, we see the full story of Bill and Frank. Their relationship is depicted in a heartfelt and authentic manner. A long-lasting relationship between two men who create a sort of paradise for themselves in the middle of the horrors of the infected world. The show also explores the trauma that Bill experiences as a result of the idea of losing Frank. Because in this apocalyptic world, neither of them could imagine living without the other.
 
-But Bill and Frank are only in one episode, a mostly self-contained episode, that particularly homophobic viewers could skip over without missing out much. But with Ellie they have no such luxury. Ellie is really the main protagonist of the show. She's not only a well-rounded character with complex motivations and storylines, but she's also a representation of queer youth that has been *rarely* seen in mainstream media. The representation of Ellie as a queer character in the show is important because it may help to normalize queer identities and create a sense of sympathy and understanding for queer people among the straight audience.
-
 </james>
-<from></from>
+<comment id="bill_frank">
+<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261">quinnelope</a></div>
+
+\[Quoted, formatted for readability]
+>  James is misrepresenting Bill in the last of us (the video game). I've watched full playthroughs of both games & the HBO show.
+> 
+> Bill and Frank were almost entirely rewritten for the show - if I remember correctly, in the game, it's implied that their relationship was strained. The player can find Frank's last words (he left a note behind), and he was frustrated (or angry?) with Bill. Their relationship seems to have embittered Bill by the time the player meets him, and it isn't even confirmed that Bill and Frank were romantic partners (ellie finding one of Bill's gay erotic magazines, if that's what they're called, is also the only indication of either character's sexuality). None of these aspects were part of the show's versions of these characters - the main idea that the video game and show share is just the basic idea of Bill being a loner and a survivalist.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+But Bill and Frank are only in one episode, a mostly self-contained episode, that particularly homophobic viewers could skip over without missing out much. But with Ellie they have no such luxury. Ellie is really the main protagonist of the show. She's not only a well-rounded character with complex motivations and storylines, but she's also a representation of queer youth that has been *rarely* seen in mainstream media. The representation of Ellie as a queer character in the show is important because it may help to normalize queer identities and create a sense of sympathy and understanding for queer people among the straight audience.
 
 But unlike many queer characters in media, Ellie's sexuality is not a defining characteristic of her personality, but rather just one aspect of her identity. It is not used as a plot device or a means to further the story in a negative way. Instead, her tragically short relationship with Riley is portrayed as a natural and beautiful part of her life. And unlike Bill and Frank, whose episode can be skipped over, Ellie's queerness isn't going anywhere and will only become a more prominent aspect of the ongoing story in the second season when she's with Dina. By centering the only real romantic relationships in the show around Bill and Frank and Ellie and Riley, the show is pushing back against the idea that heterosexuality is the only acceptable form of romantic love.
 
