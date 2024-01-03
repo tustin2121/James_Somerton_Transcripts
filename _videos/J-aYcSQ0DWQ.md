@@ -20,6 +20,7 @@ notes:
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
