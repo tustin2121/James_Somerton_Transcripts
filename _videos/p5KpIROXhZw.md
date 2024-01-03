@@ -26,11 +26,13 @@ cite:
     silence_lambs_movie: { short: "Silence of the Lambs (Demme, 1991)", full: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions." }
   yikes: !!map
   misinformation: !!map
+    pratchett: "James makes up a legend about the origins of Good Omens when the truth is actually easily researchable."
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
     helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."
   plagiarized: !!map
 ---
 {% assign hbomb = site.data.cite.hbomb %}
+{% assign todd = site.data.cite.todd %}
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
@@ -126,10 +128,16 @@ The displeasure at seeing queer experiences on the screen clearly indicated that
 <compare>
 <james {% include timecode %}>
 
-Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind. Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
+Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. <mark fc>According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind.</mark> Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
 
 </james>
-<from></from>
+<comment id="pratchett">
+{{ todd.video.header | replace: '#', "46m50s" }}
+
+This is just not what happened. It *was* Gaiman’s concept originally, but it started off as a few pages that Gaiman sent to all of his author friends. Pratchett contacted Gaiman about it a year later and they decided to write it together (since Pratchett was already a published author). This story has been told by them a few times, so there's no reason why James couldn't fact check this.
+
+{% include footer-citation for=todd.video at="(46:50)" %}
+</comment>
 </compare>
 
 <compare>
@@ -508,13 +516,15 @@ And this is part of the consequences of being part of a community that has been 
 <compare>
 <james {% include timecode %}>
 
-Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
+Do any of you realize <mark fc>how many comments I still get on the [Yuri on Ice video](QxRveV0x2-o.md)</mark> to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
 </james>
-<comment id="yuri_comments" {% include citation for=hbomb.video at="(2:46:18)" %}>
+<comment id="yuri_comments">
+{{ hbomb.video.header | replace: '#', "2h46m18s" }}
 
 Hbomberguy attempted to find these comments mentioned, and found no such comments in the last year on that video. Also how does he know they're straight women? James is lying.
 
+{% include footer-citation for=hbomb.video at="(2:46:18)" %}
 </comment>
 </compare>
 
@@ -674,7 +684,7 @@ The more complicated reality of good representation is that it’s very difficul
 <compare>
 <james {% include timecode %}>
 
-For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.
+For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. <mark fc>Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.</mark>
 
 </james>
 <comment id="helen_of_try">

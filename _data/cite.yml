@@ -28,11 +28,13 @@ todd: # assign todd = site.data.cite.todd
     short: "Fact Check Video (Todd, 2023)"
     full: "Todd in the Shadows. (2023, Dec 3) <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=A6_LW1PkmnY"
+    header: '<div class="header"><a class="citation" href="https://youtu.be/A6_LW1PkmnY?t=#" >Todd in the Shadows</a></div>'
   forrest_gump:  # Todd in the Shadow's unlisted video on Forrest Gump
     color: "todd"
     short: "Forrest Gump (Todd, 2023)"
     full: "Todd in the Shadows. (2023, Dec 4) <em>James Somerton doesn't like Forrest Gump</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=azIgg6hbYbM"
+    header: '<div class="header"><a class="citation" href="https://youtu.be/azIgg6hbYbM?t=#" >Todd in the Shadows</a></div>'
 
 hbomb: # assign hbomb = site.data.cite.hbomb
   citation: "[hbomberguy](https://www.youtube.com/@hbomberguy)"
@@ -43,3 +45,4 @@ hbomb: # assign hbomb = site.data.cite.hbomb
     short: "Plagiarism Video (Hbomb, 2023)"
     full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"
+    header: '<div class="header"><a class="citation" href="https://youtu.be/yDp3cB5fHXQ?t=#" >hbomberguy</a></div>'

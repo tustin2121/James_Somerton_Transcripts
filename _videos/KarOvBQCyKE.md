@@ -631,18 +631,23 @@ It's amazing that people alive today get to say that we're living through a gold
 <compare>
 <james {% include timecode %}>
 
-Nothing exemplified this quite like *Game of Thrones*, the HBO series adapted from George RR Martin's game-changing *Song of Ice and Fire* book series, and nothing else has *ever* exemplified *just how far* a once in a lifetime television phenomenon can go out of its way to almost completely tarnish its reputation forever, and it's because of spoiler culture. When the showrunners ran out of the source material, because Martin takes so long to write, some fans noticed a *marked decrease* in writing quality. The pacing picked up too fast. The methodical development was replaced with fan service payoffs. Granted, many also thought that at this point they'd earned some of that... but I don't. 
+Nothing exemplified this quite like *Game of Thrones*, the HBO series adapted from George RR Martin's game-changing *Song of Ice and Fire* book series, and nothing else has *ever* exemplified *just how far* a once in a lifetime television phenomenon can go out of its way to almost completely tarnish its reputation forever, and it's because of spoiler culture. 
 
-The problem for everyone else came when it seemed like fans were beginning to predict how the series was going to end. Up until then, the showrunners had enjoyed a strong reputation for presenting the unexpected. The book series was famous for killing off characters who seemingly should have had plot armor. And for shocking political plots that completely upset what seemed to be a plot projection. Spoiler alert: lots of people die; don't get attached. But sometimes they do get resurrected.
+When the showrunners ran out of the source material, because Martin takes so long to write, some fans noticed a *marked decrease* in writing quality. The pacing picked up too fast. The methodical development was replaced with fan service payoffs. Granted, many also thought that at this point they'd earned some of that... but I don't. 
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-So when fans of the series began to connect the dots between certain characters who *did* end up having a kind of plot armor, it's like the showrunners didn't know how to generate tension anymore. Their solution? Just flip the script whenever someone figured it out! I don't know why they thought this was a solid plan, because fan theories about the books were going to inevitably bleed over into the discourse of the series. So certain things were rushed. Perhaps these events were meant to happen? But didn't happen the way they should have. And it ended up being that the only real *twist* was twisting the plot's arm to guarantee that expectations would be subverted. Rather than being ambivalent to an expectation and just making good art.
+The problem for everyone else came when it seemed like fans were beginning to predict how the series was going to end. Up until then, the showrunners had enjoyed a strong reputation for presenting the unexpected. The book series was famous for killing off characters who seemingly should have had plot armor. And for shocking political plots that completely upset what seemed to be a plot projection. Spoiler alert: lots of people die; don't get attached. But sometimes they do get resurrected.
+
+So when fans of the series began to connect the dots between certain characters who *did* end up having a kind of plot armor, it's like the showrunners didn't know how to generate tension anymore. Their solution? Just flip the script whenever someone figured it out! I don't know why they thought this was a solid plan, because fan theories about the books were going to inevitably bleed over into the discourse of the series. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+So certain things were rushed. Perhaps these events were meant to happen? But didn't happen the way they should have. And it ended up being that the only real *twist* was twisting the plot's arm to guarantee that expectations would be subverted. Rather than being ambivalent to an expectation and just making good art.
 
 As I said, for years fans had predicted the end of Martin's books, and he knew it. Some of them, he claims, are a dead match for his outlines. But his response to that was that he wasn't going to change his plans because some people had figured them out. 
 
