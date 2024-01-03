@@ -212,26 +212,36 @@ compare :is(james, clip) mark {
 	background-color: var(--mark-stolen-bg) !important;
 	color: var(--mark-stolen-text) !important;
 }
-compare from mark  {
+compare from mark {
 	background-color: var(--mark-source-bg) !important;
 	color: var(--mark-source-text) !important;
 	background-color: color-mix(in srgb, var(--source-color) 30%, var(--color-canvas-default)) !important;
 	color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default)) !important;
 }
 
-compare :is(james, from) mark
+compare :is(james, from, comment) mark
 {
 	counter-increment: marker-num;
 	position: relative;
 }
-compare :is(james, from) mark::before
+compare :is(james, from, comment) mark:empty
+/* For use to mark the little number without highlighting it. */
+{
+	background-color: unset !important;
+	color: unset !important;
+}
+compare :is(james, from, comment) mark::before
 {
 	content: counter(marker-num);
 	vertical-align: super;
 	font-size: x-small;
 	color: var(--color-accent-fg);
 }
-compare :is(james, from) mark[num]::before
+compare :is(james, from, comment) mark[fc]::before
+{
+	content: none;
+}
+compare :is(james, from, comment) mark[num]::before
 {
 	content: attr(num);
 }

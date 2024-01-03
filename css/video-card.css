@@ -18,18 +18,18 @@
 @media (prefers-color-scheme: light) {
 	:root {
 		color-scheme: light;
-		--video-box-bg-color-def: #b2ccfb;
-		--video-box-bg-color-new: #fdc2c2;
+		--video-box-bg-color-def: #dae5f9;
+		--video-box-bg-color-new: #fddddd;
 		--video-box-bg-color-pod: #ffd699;
 		
-		--video-box-stolen-text: #8705ae;
-		--video-box-stolen-bg: #f0eaf2;
-		--video-box-fabricated-text: #82071e;
-		--video-box-fabricated-bg: #ffebe9;
-		--video-box-yikes-text: #4f6706;
-		--video-box-yikes-bg: #feffd7;
+		--video-box-stolen-text: #3e104d;
+		--video-box-stolen-bg: #ca7ee3;
+		--video-box-fabricated-text: #281116;
+		--video-box-fabricated-bg: #ee857b;
+		--video-box-yikes-text: #1b2207;
+		--video-box-yikes-bg: #afd050;
 		
-		--video-box-topic-color: #973900;
+		--video-box-topic-color: #ce0000;
 	}
 }
 
@@ -82,9 +82,17 @@
 	text-align: center;
 	align-self: self-end;
 }
-.status.alert { color: var(--color-danger-fg); }
-.status.ready { color: var(--color-prettylights-syntax-markup-list); }
-.status.complete { color: var(--color-prettylights-syntax-entity-tag); }
+.status.alert { 
+	color: var(--color-danger-fg); 
+}
+.status.ready { 
+	color: var(--color-prettylights-syntax-markup-list); 
+	font-weight: 600;
+}
+.status.complete { 
+	color: var(--color-prettylights-syntax-entity-tag); 
+	font-weight: 600;
+}
 .video-card > .aka {
 	grid-area: aka;
 	color: grey;
@@ -96,24 +104,43 @@
 	grid: auto / 1fr 1fr 1fr;
 	grid-template-areas:
 		"plag fake yikes";
+	padding: 0;
+	position: relative;
+	
+	--bar-height: 4px;
+	margin-top: calc(var(--bar-height));
 }
-.video-card > .score > .plagiarized {
+.video-card > .score .plagiarized {
 	grid-area: plag;
 	text-align: center;
 	background-color: var(--video-box-stolen-bg);
 	color: var(--video-box-stolen-text);
 }
-.video-card > .score > .misinfo {
+.video-card > .score .misinfo {
 	grid-area: fake;
 	text-align: center;
 	background-color: var(--video-box-fabricated-bg);
 	color: var(--video-box-fabricated-text);
 }
-.video-card > .score > .yikes {
+.video-card > .score .yikes {
 	grid-area: yikes;
 	text-align: center;
 	background-color: var(--video-box-yikes-bg);
 	color: var(--video-box-yikes-text);
+}
+.video-card > .score > .bar {
+	position: absolute;
+	top: calc(-1 * (var(--bar-height) + 4px));
+	left: 0; right: 0;
+	
+	border-radius: 6px;
+	display: flex;
+	height: var(--bar-height);
+	background-color: var(--color-border-default);
+	overflow: hidden;
+}
+.video-card > .score > .bar span {
+	border-inline-end: 1px solid var(--color-canvas-default);
 }
 .video-card > .topics {
 	grid-area: topic;

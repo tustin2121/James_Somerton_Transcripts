@@ -241,7 +241,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 <compare>
 <james {% include timecode %}>
 
-Egypt had gay and lesbian and (<span class="baa">by all accounts</span>) transgender pharaohs and queens.
+<mark fc>Egypt had gay and lesbian and (<span class="baa">by all accounts</span>) transgender pharaohs and queens.</mark> Mesopotamia had gay kings. 
 
 </james>
 <comment>
@@ -272,21 +272,9 @@ Egypt had gay and lesbian and (<span class="baa">by all accounts</span>) transge
 
 </details>
 </comment>
-</compare> 
-
-<compare>
 <james {% include timecode %}>
 
-Mesopotamia had gay kings. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Most of the ancient Greek philosophers were gay or bisexual.
+<mark fc>Most of the ancient Greek philosophers were gay or bisexual.</mark> Rome had gay emperors and senators. 
 
 </james>
 <comment>
@@ -308,21 +296,9 @@ Most of the ancient Greek philosophers were gay or bisexual.
 
 </details>
 </comment>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Rome had gay emperors and senators. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Even early Christianity was more or less accepting of gay men.
+<mark fc>Even early Christianity was more or less accepting of gay men.</mark>
 
 But that didn't last.
 
@@ -858,12 +834,12 @@ Needy goes to Jennifer's home and breaks into her bedroom. She fights Jennifer a
 <compare>
 <james {% include timecode %}>
 
-Though loathed upon release, the film has more recently been reevaluated as a modern horror classic.
+Though loathed upon release, the film has more recently been reevaluated as a modern <mark>horror classic</mark>.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Release / Critical response / Later assessment ¶ 3" %}>
 
-In 2020, the film was categorized as a horror classic.<sup>[53]</sup>
+In 2020, the film was categorized as a <mark>horror classic</mark>.<sup>[53]</sup>
 
 <div class="footer">
 
@@ -1496,7 +1472,7 @@ Here, especially, the film’s resonance with AIDS anxieties gains greater relev
 <compare>
 <james {% include timecode %}>
 
-But anyone who mentioned that they were using the drug, commonly known as PrEP, immediately found themselves being slut-shamed. Many doctors could be judgmental of patients asking for the once-a-day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PrEP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
+But anyone who mentioned that they were using the drug, commonly known as <mark>PrEP, immediately found themselves being slut-shamed</mark>. Many doctors could be judgmental of patients asking for the once-a-day pill, thrusting their moral opinions on a medical issue. And so, for some time, many people in the gay community refused to ask their doctors for a prescription. Shaming people for wanting to add an extra layer of safety to their sex life. PrEP is much more common now, resulting in transmission rates of the HIV virus dropping dramatically. 
 
 But, for a time, right around the release of *It Follows* the shame of being seen as promiscuous by doctors or friends stopped a lot of people from getting the new little blue pill. Until then anything but monogamy, even with a condom, was looked at as a risky, dangerous, and irresponsible behavior in much of the queer community. 
 
@@ -1549,6 +1525,10 @@ But just like how PrEP has not completely disposed of HIV, the monster in *It Fo
 <james {% include timecode %} id="para15" mid-text="Paragraph-15">
 
 Not all horror movies deal with the supernatural. Some are more than happy to terrify you with what you know best. Your friends, your family, your home, turning something mundane into something truly terrifying, bringing horror to a place that it never should have been. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
 
 That's something that horror expert Wes Craven did all too well. By making the violent killer of a film someone you would have usually sympathized with in *The Last House on the Left*. Perverting the relative safety of dreams with *A Nightmare on Elm Street*. Blurring the lines between horror and real life with *His New Nightmare*. And then bringing horror to the safest of all places in Clinton America, the suburbs, with *Scream*.
 
@@ -1735,6 +1715,10 @@ Narcissism seems very much at work, and in homophobic terms, in the depiction of
 A queer reading becomes more obvious at, least to me, when the pair of killers decide they need to stab each other in order to frame Sydney for the killings, penetrating one another to show their devotion, replicating the pain of virginal anal sex. 
 
 *Scream* with its queer coding, delicious dialogue, and willingness to reach into camp territory when necessary, has become a classic slasher among the queer community. While we watch it as a smart send up of the genre, which was well and dead in 1996, many people of the more hetero persuasion see the film a bit differently. Ut's the horror of danger coming to the suburbs, a place of safety being perverted, where nice white families fled to in order to escape the poor, black, and queer horrors that filled the city streets. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
 
 And in *Scream*, the queer horror penetrated that safety. It also tore apart the idea of the ideal American family. Billy's family was torn asunder when Sydney's mother had an affair with his father, leading to a divorce and his mother leaving town. And so he took Sydney's mother away from her too. The fragility of the straight nuclear family coming to a bloody end just as the new millennium dawned, showing us all that families, though a nice idea, can lead to unexpected horrors.
 {% assign timecode = "1:02:18" %}
@@ -1966,7 +1950,7 @@ The Babadook is creative (remember the pop-up book) and a distinctive dresser. I
 
 But is the Babadook gay? When asked about this in 2019, director Jennifer Kent simply replied...
 
-> "Of course."
+> "<mark fc>Of course.</mark>"
 
 Sometimes it's just that simple. Sometimes the monster, the queer, can be accepted. Sometimes suburbia isn't so bad. But sometimes... *it*... can be a nightmare.
 {% assign timecode = "1:12:00" %}
@@ -1983,7 +1967,7 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 > 
 > “That was mad,” Kent said. “That was crazy.”
 > 
-> “<mark>Of course</mark>, I love that story,” she continued. “I think it’s crazy and just kept him alive. I thought ah, you bastard. He doesn’t want to die so he’s finding ways to become relevant.”
+> “<mark fc>Of course</mark>, I love that story,” she continued. “I think it’s crazy and just kept him alive. I thought ah, you bastard. He doesn’t want to die so he’s finding ways to become relevant.”
 
 <div class="footer">Topel, F. (2019, Jan 30). <em>Director Jennifer Kent Comments on Those LGBTQ ‘Babadook’ Memes [Interview]</em> [Article]. Bloody Disgusting. Retrieved Dec 24, 2023, from <a href="https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/">https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/</a></div>
 </comment>
@@ -2120,7 +2104,7 @@ In a later scene, <mark>Stephen King singles out Eddie as being “delighted” 
 <compare>
 <james {% include timecode %}>
 
-Another member of the Losers Club that hits home with queer readers is Richie, a character many people -- even straight readers! -- have interpreted as being bisexual. <mark>He, like most of the boys in the group, has at least a bit of a crush on Beverly, the lone girl,</mark> but also a clear connection with Eddie as well. 
+Another member of the Losers Club that hits home with queer readers is Richie, a character many people -- even straight readers! -- have interpreted as being bisexual. <mark fc>He, like most of the boys in the group, has at least a bit of a crush on Beverly, the lone girl,</mark> but also a clear connection with Eddie as well. 
 
 </james>
 <comment>

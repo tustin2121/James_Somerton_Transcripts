@@ -27,7 +27,7 @@ contributors:
   formatting: [ $cite$tustin2121, Github Copilot ]
   factcheck:
     - "[quinnelope](https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261) from the Former Fans Discord"
-  
+
 cite:
   clips: !!map
     the_simpsons: { short: "The Simpsons", full: "TODO The Simpsons" }
