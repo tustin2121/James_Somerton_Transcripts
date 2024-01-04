@@ -36,6 +36,7 @@ cite:
     star_trek: { short: "Star Trek", full: "TODO Star Trek Kahn" }
   yikes: !!map
   misinformation: !!map
+    golden_age: 'James "commonly credits" the start of the Golden Age of Television to a show that ran about a decade into said Age.'
     bill_frank: "James makes some incorrect assumptions about video game characters based solely on the TV show adaptation."
   plagiarized: !!map
 ---
@@ -625,7 +626,12 @@ As much as the primary responsibility should be put on the corporate production 
 It's amazing that people alive today get to say that we're living through a golden age. For us, it seems we're living in the Golden Age of Television. Commonly credited to have begun with *Breaking Bad*, television, and streaming services especially, experienced an unprecedented creative expansion of the kinds of content that could be put on the small screen. And in many ways the big screen was given a run for its money through not only content but also the use of newly available high definition and 4K cameras to introduce cinematic lighting and dynamic range to TV. From *Breaking Bad*, we got *Hannibal*. From *Hannibal*, we've now got *Interview with a Vampire*. Who needs Oscar bait?!
 
 </james>
-<from></from>
+<comment id="golden_age">
+<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1192284660672241715" >KenM</a></div>
+
+The [modern "Golden Age of Television"](https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s%E2%80%93present)) is *actually* commonly credited to have begun with *The Sapranos* in 1999, not *Breaking Bad* in 2008. 
+
+</comment>
 </compare>
 
 <compare>
