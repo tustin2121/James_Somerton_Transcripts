@@ -127,6 +127,14 @@
 		"description": "Surround with inline quote"
 	},
 	
+	"video-on-off": {
+		"prefix": "wbr",
+		"body": [
+			"<wbr on$1 />"
+		],
+		"description": "Add video on marker."
+	},
+	
 	"by-all-accounts": {
 		"prefix": "by-all-accounts",
 		"body": [
