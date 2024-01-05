@@ -132,7 +132,7 @@ compare :is(james, nick, clip, credits, from, comment)[span="18"] { grid-row: sp
 compare :is(james, nick, clip, credits, from, comment)[span="19"] { grid-row: span 19; }
 compare :is(james, nick, clip, credits, from, comment)[span="20"] { grid-row: span 20; }
 
-compare :is(from, comment, clip, credits) > .header
+compare :is(from, comment, clip, credits) > header
 {
 	display: flex;
 	flex-direction: row;
@@ -143,11 +143,11 @@ compare :is(from, comment, clip, credits) > .header
 	border-bottom: var(--box-header-color) 1px solid;
 	padding: 2px 4px 0px;
 }
-compare :is(from, comment, clip, credits) > .header .timecode::before { content: '('; }
-compare :is(from, comment, clip, credits) > .header .timecode::after { content: ')'; }
-compare from > .header::before { content: 'Source:'; }
-compare clip > .header::before { content: 'Video Clip:'; }
-compare comment > .header::before { content: 'Comment:'; }
+compare :is(from, comment, clip, credits) > header .timecode::before { content: '('; }
+compare :is(from, comment, clip, credits) > header .timecode::after { content: ')'; }
+compare from > header::before { content: 'Source:'; }
+compare clip > header::before { content: 'Video Clip:'; }
+compare comment > header::before { content: 'Comment:'; }
 
 compare :is(james, nick, credits)::before
 {
@@ -171,7 +171,7 @@ compare credits.desc::before { content: 'Video Description:'; }
 compare credits[header]::before { content: attr(header); }
 compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 
-compare .footer {
+compare footer {
 	font-size: small;
 	color: var(--box-header-color);
 	border-top: var(--box-header-color) 1px solid;

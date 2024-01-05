@@ -66,7 +66,7 @@ THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE
 
 </james>
 <comment id="first_line">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+{% include header name="/u/Altruistic_County222" link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn" %}
 
 (Quoted, formatted for easier reading:)
 
@@ -108,7 +108,7 @@ America can either confront the grim reality of late-stage McCarthyism its in or
 
 </james>
 <comment id="page_10">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+{% include header name="/u/Altruistic_County222" link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn" %}
 
 (Quoted, formatted for easier reading:)
 

@@ -104,7 +104,7 @@ The TV show expands on his character's backstory. In episode 3, we see the full 
 
 </james>
 <comment id="bill_frank">
-<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261">quinnelope</a></div>
+{% include header name="quinnelope" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261" %}
 
 \[Quoted, formatted for readability]
 >  James is misrepresenting Bill in the last of us (the video game). I've watched full playthroughs of both games & the HBO show.
@@ -627,7 +627,7 @@ It's amazing that people alive today get to say that we're living through a gold
 
 </james>
 <comment id="golden_age">
-<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1192284660672241715" >KenM</a></div>
+{% include header name="KenM" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1192284660672241715" %}
 
 The [modern "Golden Age of Television"](https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s%E2%80%93present)) is *actually* commonly credited to have begun with *The Sapranos* in 1999, not *Breaking Bad* in 2008. 
 

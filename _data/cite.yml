@@ -2,47 +2,65 @@
 from-script:
   citation: "James Somerton & Nick Herrgott (script used as closed captioning)"
 tustin2121:
-  citation: '[Tustin2121](https://github.com/tustin2121/)'
-  reference: '[Tustin2121](#)'
-  signature: '<div class="signature">--Tustin2121, former patron of James</div>'
-  header: '<div class="header"><a class="citation" href="#" >Tustin2121</a></div>'
+  name: Tustin2121
+  descriptive: former patron of James
+  link: "https://github.com/tustin2121/"
+  # citation: '[Tustin2121](https://github.com/tustin2121/)'
+  # reference: '[Tustin2121](#)'
+  # signature: '<div class="signature">--Tustin2121, former patron of James</div>'
+  # header: '<div class="header"><a class="citation" href="#" >Tustin2121</a></div>'
 lvence:
-  citation: 'LVence from the Former Fans Discord'
-  reference: '[LVence](#) from the Former Fans Discord'
-  signature: '<div class="signature">--LVence</div>'
-  header: '<div class="header"><a class="citation" href="#" >LVence</a></div>'
+  name: LVence
+  descriptive: from the Former Fans Discord
+  link: ""
+  # citation: 'LVence from the Former Fans Discord'
+  # reference: '[LVence](#) from the Former Fans Discord'
+  # signature: '<div class="signature">--LVence</div>'
+  # header: '<div class="header"><a class="citation" href="#" >LVence</a></div>'
 TerraJRiley:
-  citation: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  name: TerraJRiley
+  descriptive: project creator
+  link: "https://github.com/TerraJRiley/James_Somerton_Transcripts"
+  # citation: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
 sciclone1984:
-  citation: "[sciclone](https://github.com/sciclone1984)"
-  reference: '[sciclone](#)'
-  header: '<div class="header"><a class="citation" href="#" >sciclone</a></div>'
+  name: sciclone1984
+  descriptive: project contributor
+  link: "https://github.com/sciclone1984"
+  # citation: "[sciclone](https://github.com/sciclone1984)"
+  # reference: '[sciclone](#)'
+  # header: '<div class="header"><a class="citation" href="#" >sciclone</a></div>'
 
 # Common video citations
 todd: # assign todd = site.data.cite.todd
-  citation: "[Todd in the Shadows](https://www.youtube.com/@ToddintheShadows)"
-  reference: '[Todd in the Shadows](#)'
-  header: '<div class="header"><a class="citation" href="#" >Todd in the Shadows</a></div>'
+  name: Todd in the Shadows
+  descriptive: "Pop Music Reviewer / YouTuber"
+  link: "https://www.youtube.com/@ToddintheShadows"
+  # citation: "[Todd in the Shadows](https://www.youtube.com/@ToddintheShadows)"
+  # reference: '[Todd in the Shadows](#)'
+  # header: '<div class="header"><a class="citation" href="#" >Todd in the Shadows</a></div>'
   video: # Todd in the Shadow's fact-checking video
     color: "todd"
-    short: "Fact Check Video (Todd, 2023)"
+    short: "Fact Check (Todd in the Shadows, 2023)"
     full: "Todd in the Shadows. (2023, Dec 3) <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=A6_LW1PkmnY"
-    header: '<div class="header"><a class="citation" href="https://youtu.be/A6_LW1PkmnY?t=#" >Todd in the Shadows</a></div>'
+    # header: '<div class="header"><a class="citation" href="https://youtu.be/A6_LW1PkmnY?t=#" >Todd in the Shadows</a></div>'
   forrest_gump:  # Todd in the Shadow's unlisted video on Forrest Gump
     color: "todd"
-    short: "Forrest Gump (Todd, 2023)"
+    short: "Forrest Gump (Todd in the Shadows, 2023)"
     full: "Todd in the Shadows. (2023, Dec 4) <em>James Somerton doesn't like Forrest Gump</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=azIgg6hbYbM"
-    header: '<div class="header"><a class="citation" href="https://youtu.be/azIgg6hbYbM?t=#" >Todd in the Shadows</a></div>'
+    # header: '<div class="header"><a class="citation" href="https://youtu.be/azIgg6hbYbM?t=#" >Todd in the Shadows</a></div>'
 
 hbomb: # assign hbomb = site.data.cite.hbomb
-  citation: "[hbomberguy](https://www.youtube.com/@hbomberguy)"
-  reference: '[hbomberguy](#)'
-  header: '<div class="header"><a class="citation" href="#" >hbomberguy</a></div>'
+  name: H.Bomberguy
+  descriptive: "YouTuber who made a video on plagiarism"
+  link: "https://www.youtube.com/@hbomberguy"
+  # citation: "[hbomberguy](https://www.youtube.com/@hbomberguy)"
+  # reference: '[hbomberguy](#)'
+  # header: '<div class="header"><a class="citation" href="#" >hbomberguy</a></div>'
   video: # Hbomb's plagiarism video
     color: "hbomb"
-    short: "Plagiarism Video (Hbomb, 2023)"
+    short: "Plagiarism Video (Hbombergy, 2023)"
     full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
     url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"
-    header: '<div class="header"><a class="citation" href="https://youtu.be/yDp3cB5fHXQ?t=#" >hbomberguy</a></div>'
+    # header: '<div class="header"><a class="citation" href="https://youtu.be/yDp3cB5fHXQ?t=#" >hbomberguy</a></div>'

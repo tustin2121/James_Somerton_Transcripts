@@ -64,7 +64,7 @@ And believe me, the queer community has a heep of that. For instance, trans men 
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 I can't find much about "trans men like rats" and even less about "enbies like rats". What I can find is people asking if the former stereotype is actually a thing. Consensus seems to be "eh?".
 
@@ -132,7 +132,7 @@ Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Ome
 
 </james>
 <comment id="pratchett">
-{{ todd.video.header | replace: '#', "46m50s" }}
+{% include header video=todd.video at="46m50s" %}
 
 This is just not what happened. It *was* Gaiman’s concept originally, but it started off as a few pages that Gaiman sent to all of his author friends. Pratchett contacted Gaiman about it a year later and they decided to write it together (since Pratchett was already a published author). This story has been told by them a few times, so there's no reason why James couldn't fact check this.
 
@@ -520,7 +520,7 @@ Do any of you realize <mark fc>how many comments I still get on the [Yuri on Ice
 
 </james>
 <comment id="yuri_comments">
-{{ hbomb.video.header | replace: '#', "2h46m18s" }}
+{% include header video=hbomb.video at="2h46m18s" %}
 
 Hbomberguy attempted to find these comments mentioned, and found no such comments in the last year on that video. Also how does he know they're straight women? James is lying.
 
@@ -688,7 +688,7 @@ For instance, when it comes to men writing women, there was either not a whole l
 
 </james>
 <comment id="helen_of_try">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate Troy (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens.
 

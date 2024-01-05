@@ -41,7 +41,7 @@ cite:
 <compare>
 <james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad. 
 
@@ -66,7 +66,7 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: I am including the entire plot summary from wikipedia below, lined up with James's summary, for comparison. He doesn't seem to "borrow" too much from there, and there's only so much that you can deviate when you're summarizing a movie. Take this comparison as you will.
 
@@ -566,7 +566,7 @@ it's great! It's good. It's fine.
 
 </james>
 <comment id="sex_broccoli">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 "How do you know you don't like X if you haven't tried it," works where X = food. But when X = sex, it's acephobic. Asexual people don't have to "try sex" to know they don't like it, and forcing someone to have sex when they don't want to is... well, have a word for that.
 
@@ -644,7 +644,7 @@ And, no, you can't go back and fix it. Like I came out when I was 12 and I haven
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 James has repeated this personal anecdote on stream, so it may be genuine.
 

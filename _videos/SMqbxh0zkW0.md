@@ -24,7 +24,8 @@ contributors:
 
 cite:
   malia:
-    header: '<div class="header"><a href="https://docs.google.com/document/d/1-icsIQT9sQ3uFLrSWY7TVUk5zLx7wO05ViCFcom803s/edit">Malia @catfishingwords</a></div>'
+    name: "Malia @catfishingwords"
+    link: "https://docs.google.com/document/d/1-icsIQT9sQ3uFLrSWY7TVUk5zLx7wO05ViCFcom803s/edit"
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
@@ -44,7 +45,7 @@ An advocate for the importance of producing content outside of corporate oversig
 
 </credits>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 There were several parts I had trouble comprehending when audience members spoke because they either didn't have a microphone or the audio quality was much poorer than for James and Nick, and so I apologize for the incomplete nature of this transcript and if parts don't make sense when that occurs. I do not do this sort of thing professionally so I also apologize for any general difficulties in reading it.
 
@@ -60,7 +61,7 @@ My TL;DR overall impression: This talk isn’t completely full of misinformation
 
 <compare>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 [I am skipping the introduction by the facilitator because I can't hear it well enough to transcribe and it's likely negligible.]
 
@@ -104,7 +105,7 @@ Oh yeah, we can give you a blow by blow of the Stonewall Riots, but ask us about
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 [It came out in 2000](https://www.imdb.com/title/tt0210070/). (This is a benign mistake, I’m just nitpicking here.) 
 
@@ -138,7 +139,7 @@ Whereas, two, I think it was two years before, um, you know, San Francisco had s
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Canada legalized same-sex marriage in 2005.
 
@@ -190,7 +191,7 @@ Um, and that that's for a number of reasons why Canada is in this very unique po
 
 </nick>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 I couldn’t find anything on how much imported German media makes up Netherland’s media consumption. I don't think Nick is lying, to be clear, I just have no info on hand.
 
@@ -224,7 +225,7 @@ And it's not just America, there's lots of countries, um specifically the ones t
 
 </james>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 There are multiple federal public resources for financing filmmaking in Canada, even within singular organizations (Canada Council for the Arts, Canada Media Fund, Telefilm Canada, and other organizations I’m missing), as well as tax credits. Eligibility requirements seem to differ between organizations (such as independence of production) but primarily focus on production companies being based in Canada and controlled by Canadian citizens.
 
@@ -266,7 +267,7 @@ Something like Schitt’s Creek basically became popular in the United States by
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Schitt’s Creek was pitched to and significantly funded by CBC, but was also funded and distributed by Pop (formerly known as the TV Guide Network), an American cable channel.
 
@@ -293,7 +294,7 @@ And you know, that's on purpose, because if they said we're going to Toronto to 
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 This anecdotal evidence and just my subjective opinion, but I just think this is silly to say. No one I have ever talked to or seen or read has commented that media like Scott Pilgrim and Turning Red are too Canadian to get, or have gotten so confused about Toronto that they had to stop engaging.
 
@@ -308,7 +309,7 @@ So we're in a very interesting position as Canadian creators, and I know in Jame
 
 </nick>
 <comment span="5">
-{{ malia.header }}
+{% include header for=malia %}
 
 As noted before, I can't find any evidence on the funding claims he makes here at all for Titanic or Avatar, and they just seem dubious to me in general.
 
@@ -344,7 +345,7 @@ A huge fortune! And the Canadian populace lost out on that, and we lost out on t
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Funny enough, this does seem to be an issue, but mainly regarding streaming and algorithm regulations in Canada.
 
@@ -366,7 +367,7 @@ Yeah, Denis Villeneuve, who is from Quebec, wanted that to take place in Ontario
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Why would he say that. It’s so easy to fact-check.
 
@@ -408,7 +409,7 @@ We have a service industry that is much more popular among American filmmakers t
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Canada being considered an extension of Hollywood film production is true.
 
@@ -427,7 +428,7 @@ Uh, well, it also limits the ability for Canadian creators to make content that 
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I don’t know why they’re implying Star Wars received direct US federal funding?
 
@@ -468,7 +469,7 @@ But I think you would be hard-pressed to be able, asking a queer person in the U
 
 </james>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 These are generally true facts, though with some complexities and nuances.
 
@@ -496,7 +497,7 @@ I know that before Stonewall uh, there were several riots in America that had se
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 It is true various LGBTQ+ bar raids occurred in the US before Stonewall (1969).
 
@@ -526,7 +527,7 @@ There are interesting Canadian queer figures and Canadian queer stories like the
 
 </nick>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 Let me preface this now that the tale they’re about to “retell” is not a genuine legend or folklore.
 
@@ -542,7 +543,7 @@ Which, I'm surprised, but like I find it so hard to find information about that,
 
 </nick>
 <comment span="12">
-{{ malia.header }}
+{% include header for=malia %}
 
 So this is actually a subplot of a queer horror novel, Red X, by a gay, Canadian writer, David Demchuk (published in 2021). There are elements of real Canadian history present, such as Alexander Wood, a Canadian merchant, originally from Scotland, who was caught up in a sex scandal and accused of sodomy in 1810. But the “twinkie boyfriend” and werewolf elements are fictional and created by Demchuk.
 
@@ -631,7 +632,7 @@ Oh God, I can't remember. Um, but like they will know that and even those of us 
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 This was/is a noted issue with Youtube, to the point that some Youtubers tried filing a lawsuit in 2019, though it was ultimately dismissed.
 
@@ -668,7 +669,7 @@ Like as a teenager I could tell you like, chapter and verse American history, fr
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 This is true. https://en.m.wikipedia.org/wiki/John_A._Macdonald 
 
@@ -698,7 +699,7 @@ There's a, there's a focus. Like Canadians will we kind of hyper focus on queer 
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 He is referring to changes to Policy 713, a set of standards for how New Brunswick schools should treat LGBTQ+ students. Specifically, there’s a lot of controversy around not mandating teachers to use a student’s preferred name and pronouns if the student is under 16 as well as pushing for (though not necessarily requiring) parental consent to do so formally.
 
@@ -837,7 +838,7 @@ And I think it was in season four they went to Canada on a, on a charity bike ri
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 This episode exists.
 
@@ -865,7 +866,7 @@ Where we don't really have interests in our rights, or histories, or kind of pro
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Just a side note: Canada passed a bill banning conversion therapy in late 2021, taking effect in 2022.
 
@@ -882,7 +883,7 @@ Yeah we do, we do get that a lot that like, “Oh everything's great in Canada l
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Again, pretty close, 2005.
 
@@ -904,7 +905,7 @@ Yeah, and you know, there were so many Americans I remember like being online, c
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 This is true.
 
@@ -933,7 +934,7 @@ I’d rather have a job and be openly gay than get married, between the two. Uh,
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I have no idea if this is the case, and Nick is a different person, but given James’s previous weaponization of alluded-to online harassment in order to drum up sympathy and stop criticism of his behavior, I would take this statement with a large grain of salt, even if Nick is somewhat joking.
 
@@ -945,7 +946,7 @@ But um, it's this kind of idea that marriage was and is the be-all end-all of ev
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Legally, marriage is a federal status which grants participants the same legal rights no matter what region of Canada they live in, while common-law is a provincial status, and thus what rights and privileges participants have can vary depending on provincial law. There are advantages and disadvantages to choosing either.
 
@@ -971,7 +972,7 @@ Well again, in America like, and apparently it's also just the structure of how 
 
 </nick>
 <comment span="5">
-{{ malia.header }}
+{% include header for=malia %}
 
 In 2010, before same-sex marriage was legalized, Obama issued a memorandum requesting that the Department of Health and Human Services create more equitable and non-discriminatory rules for hospitals that participated in Medicare or Medicaid. In 2011, the Centers for Medicare & Medicaid Services released their rules which required eligible hospitals to provide patients the right to choose who may visit them, have written visitation policies, and grant equal rights for all allowed visitors
 
@@ -1018,7 +1019,7 @@ Employment non-discrimination—
 
 </james>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 Is James implying that no one has been working on non-discrimination activism in the US? What? There have been many public fights over this very issue for decades, including many federal SCOTUS cases and federal bills that have been introduced but never fully passed, both before and after same-sex marriage became legalized.
 
@@ -1076,7 +1077,7 @@ Yeah, I know way more Americans who know what uh, Bon Cop, Bad Cop is.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 https://en.wikipedia.org/wiki/Bon_Cop,_Bad_Cop# 
 
@@ -1157,7 +1158,7 @@ That’s it! Yes!
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I don’t know what movie(s) they are referring to in this exchange.
 
@@ -1177,7 +1178,7 @@ I was actually working for uh Halifax Pride uh, when Elliot Page was going aroun
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I think he’s referring to this documentary?
 https://en.wikipedia.org/wiki/There%27s_Something_in_the_Water 
@@ -1191,7 +1192,7 @@ And that was, that was actually, I remember when Juno first came out, like every
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 There was a bit of controversy at the time of awards season that Juno wasn’t deemed Canadian enough for the Genies because of its American funding (though apparently it was just never submitted for the Genies). It did still win two Canadian Comedy awards.
 
@@ -1221,7 +1222,7 @@ And it's like, that cycle keeps repeating itself, that there are these movies th
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I don’t know why Canada is being brought up regarding Aliens. Obviously James Cameron wrote and directed it, but besides that it stayed with the same American production and distribution companies that Alien had. Also Aliens was filmed mostly in England.
 
@@ -1241,7 +1242,7 @@ A discussion about a bureaucratic board of politicians deciding what is—
 
 </nick>
 <comment span="5">
-{{ malia.header }}
+{% include header for=malia %}
 
 I think they are talking about the Canadian Radio-television and Telecommunications Commission (CRTC), which does state that one of their goals is to “ensure that Canadian broadcasting content meets the needs and interests of Canadians by delivering compelling, high-quality Canadian-made creative content from diverse sources on a variety of platforms.” The policies and system they’ve developed are called “CanCon” colloquially.
 
@@ -1317,7 +1318,7 @@ They're not anonymous but they're, most people don't know who they are.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Yeah. https://crtc.gc.ca/eng/acrtc/organ.htm 
 
@@ -1331,7 +1332,7 @@ Well, I mean like, you know, like, it's uh, the policies, I'm more spiritual, yo
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 ReBoot was produced in Canada by Canadian animation studios and production companies, though I will note that its creators were all British people who moved to Vancouver for production because the costs were cheaper.
 
@@ -1366,7 +1367,7 @@ And so we're in a situation where a sense of Canadianness is a set of quantifiab
 
 </nick>
 <comment span="6">
-{{ malia.header }}
+{% include header for=malia %}
 
 They’re joking obviously, but the implication is that the CanCon guidelines are content-driven in an abstract, nationalist sense, when they’re more about the production team and financing being Canadian-based.
 
@@ -1499,7 +1500,7 @@ Well Margaret Atwood's an example of, she just left, she tried being published, 
 
 </james>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 This is not true. You can check out the publishing companies of her earlier books on Wikipedia, but even The Handmaid’s Tale was first published by a Canadian publisher, McClelland & Stewart. She was in general, very popular as a Canadian author and literary figure.
 
@@ -1538,7 +1539,7 @@ It was written in the 1800s, called A Strange Manuscript Found on a Copper Cylin
 
 </nick>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 This is a little complicated, but basically early colonies of Canada were united and granted self-governance in 1867, but as a British dominion. Canada did not receive full independence from the UK until 1982.
 
@@ -1576,7 +1577,7 @@ It’s the political version of colonial—imperialism, very anti-imperialist. U
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 James De Mille. The philosopher he’s referring to, I think is John Stuart Mill? I’m not sure. And Arthur Miller (at least, probably the one being mixed up in this case) is an American writer.
 
@@ -1600,7 +1601,7 @@ Yeah and like, for instance, this was something that, Nick wrote a novel called 
 
 </james>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 I don’t want to completely dismiss that Nick’s novel was disqualified from Canadian literary awards due to this, but I had a hard time finding any Canadian awards that specifically disqualify books for being set outside of Canada. Most of the disqualifying elements that would apply to Nick’s novel, Gentleman’s Club, are attributes such as it being a full-length YA novel, it being his only published work, being self-published, Nick (likely) not being from an award’s respective regional focus (British Columbia, Quebec, etc.), and other factors.
 
@@ -1688,7 +1689,7 @@ The basketball commercial.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 https://youtu.be/xiJJIacdF-E?si=yIFL0hFbfXFBCdcI 
 
@@ -1716,7 +1717,7 @@ Take something like a Letterkenny, which is popular in Canada, not my style, but
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I have no way to verify this claim. I’ll just call it as true enough since it’s kind of subjective and I don’t know anything significant about the marketing, distribution, or viewer ratings/data of Letterkenny. It’s currently on Hulu, but I know that wasn’t always the case, and previously it was hard to legally watch if you were outside of Canada for some time.
 
@@ -1728,7 +1729,7 @@ Yeah, and again, that comes back to Schitt’s Creek which was, you know, Canadi
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Addressed previously.
 
@@ -1753,7 +1754,7 @@ Because we can talk about like, developmental producers and stuff, and like, the
 
 </nick>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 I’m not exactly sure what qualifies for here, but looking up the executive producers of Schitt’s Creek (two of which were also main actors on the show), a little over half of them did sign deals for new projects after the show ended (Eugene Levy, Dave Levy, David West Read, and Andrew Barnsley).
 
@@ -1787,7 +1788,7 @@ Well, what my question is is if, why would they have to go to Hollywood for that
 
 </nick>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I’m not sure what exactly he’s getting at here? I’m not sure what rules he’s referring to? Schitt’s Creek was sold to CBC? 
 
@@ -1801,7 +1802,7 @@ And there was a hot minute right after um, Schitt’s Creek won like every Emmy 
 
 </james>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 The Emmys ceremony when Schitt’s Creek won would’ve been in September, 2020 and I couldn’t find specific news on this within a 2018-2021 timeframe, besides the previously mentioned bills that regulate online platforms. But I very well could’ve missed something more local or casual.
 
@@ -1911,7 +1912,7 @@ Well, Turning Red took place in Canada.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Yes. https://en.wikipedia.org/wiki/Turning_Red 
 
@@ -2000,7 +2001,7 @@ Yeah, like I the only time that I'm like “Oh, this is Canadian,” is when I c
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 CanCon rules on music: https://crtc.gc.ca/eng/INFO_SHT/R1.htm 
 
@@ -2054,7 +2055,7 @@ I really like it when Americans learn about the house hippo.
 
 </credits>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 https://en.wikipedia.org/wiki/House_hippo 
 
@@ -2091,7 +2092,7 @@ The arm comes off, yeah.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 It’s an old safety PSA.
 
@@ -2229,7 +2230,7 @@ And as for your second question, um, at least for me, I grew up in a really smal
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 https://en.m.wikipedia.org/wiki/Kiss_Me,_Guido 
 
@@ -2245,7 +2246,7 @@ So I, um, I sadly will probably never be able to think of a “ring of keys” m
 
 </nick>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 “Ring of keys” is likely referring to the eponymous song from the Broadway musical adaptation of Alison Bechdel’s Fun Home in which a young Alison sees a butch lesbian wearing a ring of keys at a diner and feels validated for the first time and feels like she’s found someone else like her. Or it could be referring to that original scene in the graphic novel.
 
@@ -2327,7 +2328,7 @@ There’s one, there’s basically one place to be distributed.
 
 </james>
 <comment span="5">
-{{ malia.header }}
+{% include header for=malia %}
 
 Cineplex is the dominant movie theater chain in Canada, with reports saying it makes up about 75% of the movie theaters. In comparison, while I couldn’t find a solid percentage for US theater chains, even the most dominant theater chain (AMC) is not nearly as monopolizing.
 
@@ -2389,7 +2390,7 @@ And so you do need that international distribution, and there's basically nowher
 
 </james>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 I think what he means by this is that there are no Canadian film distributors that distribute on a wide international scale, say Warner Bros. Pictures and Universal Pictures which are American companies that have multiple international distribution branches. As far as I could tell, most Canadian distributors distribute either domestic-made films or international films, but don’t have the same kind of reach. The only one I could find that seemed to distribute internationally is Entertainment One (eOne).
 
@@ -2412,7 +2413,7 @@ What I'm gathering from this, and this is including the early discussion, is tha
 
 </nick>
 <comment span="2">
-{{ malia.header }}
+{% include header for=malia %}
 
 Again, there are various public grants as well as tax credits available for filmmakers in development and production stages. I have no idea if the government getting involved in international distribution is a thing.
 
@@ -2435,7 +2436,7 @@ Yeah, because there are like in the United States, there are tons of distributio
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Re: Oscars eligibility, that’s generally true though the qualifying cities aren’t just NYC and LA. Oscar eligibility for the Best Picture award is slightly changing though to be tougher about this.
 
@@ -2454,7 +2455,7 @@ There's, there's Maple, um, which it does mostly, um, uh, uh, horror stuff and a
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Maple Pictures is defunct currently, since 2011.
 
@@ -2580,7 +2581,7 @@ Well it’s like, I—So the question was about, um, the contradict—not the co
 
 </nick>
 <comment span="6">
-{{ malia.header }}
+{% include header for=malia %}
 
 I won’t dispute the claims about Germany publicly funding films about the Holocaust. Germany has quite a bit of public funding available for films in general (including international productions) and it is known that Germany has a lot of active, public memorialization of the victims and impact of the Holocaust. So it would make sense for these two factors to go together. But I can’t find a definitive record on films about the Holocaust funded by the German government.
 
@@ -2683,7 +2684,7 @@ Yes!
 
 <compare>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 [Important note for the following part of the transcript:
 
@@ -2730,7 +2731,7 @@ Very openly you know hack characters talk about a lot of political political Can
 
 </credits>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I think maybe they are discussing J. Phillipe Rushton? But I couldn’t find what Kids in the Hall did on this.
 
@@ -2849,7 +2850,7 @@ which I actually think maybe because I just live my whole life in such a governm
 
 </credits>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 I couldn’t make out or find by searching online what films they’re talking about.
 
@@ -2918,7 +2919,7 @@ specifically targeting mainly people of color completely people didn't even have
 
 </credits>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 Unsure what serial killer they’re talking about.
 
@@ -2942,7 +2943,7 @@ I think that we are sitting on the precipice of like, 15 or more very serious me
 
 </nick>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 While not an exact or objective metrics of legacy or current discourse, Forrest Gump has over 2.5 million views on Letterboxd and over 2 million ratings on IMDB. It was also chosen for the United States National Film Registry.
 
@@ -3007,7 +3008,7 @@ Like, the, I am convinced that the fact that there has not been a, like, a serie
 
 </james>
 <comment span="3">
-{{ malia.header }}
+{% include header for=malia %}
 
 James is talking about a series of murders by Bruce McArthur (a white gay man) that took place in 2010 - 2017 in Toronto that targeted gay and queer men. Most of the victims were of Central and South Asian descent. The Netflix series he’s referring to would be the second season of Catching Killers in 2022.
 
@@ -3042,7 +3043,7 @@ Like that's an HBO miniseries waiting to happen, they made Dahmer, like, Jesus.
 
 </james>
 <comment>
-{{ malia.header }}
+{% include header for=malia %}
 
 To be clear, Netflix produced Dahmer.
 

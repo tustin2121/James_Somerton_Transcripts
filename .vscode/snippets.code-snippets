@@ -124,7 +124,14 @@
 		"body": [
 			"{% include citation for=page.cite.plagiarized.$0 at=\"¶ ?\" %}"
 		],
-		"description": "Surround with inline quote"
+		"description": "Insert citation for a <from> block."
+	},
+	"header": {
+		"prefix": "header",
+		"body": [
+			"{% include header name=\"$1\" link=\"$2\" %}"
+		],
+		"description": "Insert a header for a <comment> block."
 	},
 	
 	"video-on-off": {

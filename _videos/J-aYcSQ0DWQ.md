@@ -126,7 +126,7 @@ Which, sadly, led to my hometown getting the nickname of CottonTown, because Oxy
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 He seems to be talking about Nova Scotia. See [this Canadian Encyclopedia article](https://www.thecanadianencyclopedia.ca/en/article/illicit-trade-in-oxycontin-plagues-atlantic-provinces).
 

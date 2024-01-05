@@ -62,7 +62,7 @@ Patron: [link]
 
 </credits>
 <comment span="2">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
 
@@ -102,7 +102,7 @@ Fascism and Anime
 
 </credits>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 The re-upload had a title card at the start of the video reading:
 
@@ -348,7 +348,7 @@ Season 4, Part 2: the "exposition" season.
 
 </james>
 <comment id="aot_infiltrate">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 James just entirely makes up the infiltration thing in the second paragraph there, diverting from his script entirely...
 
@@ -446,7 +446,7 @@ During which <mark>the Japanese Army enforced changing Korean names to Japanese 
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: This box was cut out of the reupload of the video.
 
@@ -493,7 +493,7 @@ Looking at some of the major characters, <mark>would Hange not be just as disgus
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: This box was cut out of the reupload of the video.
 
@@ -634,7 +634,7 @@ Armin: "[To rise above monsters... We have to abandon our humanity...](https://w
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: James says this line while showing a painting of Hitler talking to a bunch of people in a beer hall, with Nazi flag behind him.
 
@@ -692,7 +692,7 @@ Thew told Motherboard that he hadn't totally caught up on Attack on Titan becaus
 
 <mark>"It's because this</mark> conversation <mark>keeps happening, but it's also not,</mark>" Thew said. "<mark>There's some really good criticism of Attack on Titan, and I think it's important to criticize it, but a lot of people come at it strong and condemn it.</mark> <mark>That does as much to kill the conversation as people being like, 'shut the up about politics,' because it reinforces the argument that people are just trying to cancel this good show that you like</mark> for flimsy reasons."
 
-<div class="footer">Yes, really, he changed the direct quote. And he changed "criticize" from the american to the UK spelling, because reasons. Also, I don't know what happened to the "hell" in Vice's quote. {{ tustin.signature }}</div>
+<footer>Yes, really, he changed the direct quote. And he changed "criticize" from the american to the UK spelling, because reasons. Also, I don't know what happened to the "hell" in Vice's quote. {{ tustin.signature }}</footer>
 </from>
 <james {% include timecode %}>
 

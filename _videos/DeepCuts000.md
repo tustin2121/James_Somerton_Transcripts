@@ -141,7 +141,8 @@ Alex London
 Society and Queer Horror
 
 </credits>
-<comment {% include citation for=hbomb.video %}>
+<comment>
+{% include header for=tustin %}
 
 Not included in the credits, though they should have been:
 - Andrew Park
@@ -155,6 +156,7 @@ Not included in the credits, though they should have been:
 
 (Also, the name is "Darren Elliott-Smith", not just "Elliot".)
 
+{% include footer-citation for=hbomb.video at="(2:46:18)" %}
 </comment>
 </compare>
 {% assign timecode = "1:14" %}
@@ -168,7 +170,7 @@ Mankind has always found an innate horror in things that are different. An evolu
 
 </james>
 <comment id="homo_erectus">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 This is a whole lot of speculation with nothing to back it up. For one, "Homo erectus" ***is*** a "human being", in that scientists classify them as [one of the "human species"](https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html#:~:text=H.%20erectus%20is%20the%20longest%20lived%20of%20all%20human%20species). And we have no way of knowing if other species of early humans found them terrifying.
 
@@ -208,15 +210,15 @@ The fear of the unknown, <mark fc>according to the American Psychological Associ
 
 </james> 
 <comment id="fear_unknown">
-{{ sciclone.header | replace: '#', "https://github.com/tustin2121/James_Somerton_Transcripts/pull/5" }}
+{% include header for=sciclone link="https://github.com/tustin2121/James_Somerton_Transcripts/pull/5" %}
 
 The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
 
-{{ lvence.header | replace: '#', "https://discord.com/channels/1180822793420554241/1180822793420554244/1190157790329708635"}}
+{% include header for=lvence link="https://discord.com/channels/1180822793420554241/1180822793420554244/1190157790329708635" %}
 
 > First of all he omits the author name, second it was NOT published by the APA, but instead Elsevier. I assume he read the summary from this website and immediately thought if it's from the APA website APA wrote it.
 
-<div class="footer">Carleton, R.N. (2016). Fear of the unknown: One fear to rule them all? [Article]. <em>Journal of Anxiety Disorders. Volume 41.</em> (pp5-21) ISSN 0887-6185. <a href="https://doi.org/10.1016/j.janxdis.2016.03.011">https://doi.org/10.1016/j.janxdis.2016.03.011</a>.</div>
+<footer>Carleton, R.N. (2016). Fear of the unknown: One fear to rule them all? [Article]. <em>Journal of Anxiety Disorders. Volume 41.</em> (pp5-21) ISSN 0887-6185. <a href="https://doi.org/10.1016/j.janxdis.2016.03.011">https://doi.org/10.1016/j.janxdis.2016.03.011</a>.</footer>
 </comment>
 </compare>
 
@@ -245,7 +247,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 </james>
 <comment>
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/">/u/gentlybeepingheart</a></div>
+<header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/">/u/gentlybeepingheart</a></header>
 <details>
 <summary>[Summarized, click to open for full quote.] His claim is shaky at best: Queer people existed in Egypt, but there's not a lot of info on them. If pharaohs and queens had same-gender consorts, it's not recorded. And the only "transgender pharaoh" we have info on is Hatshepsut, who is not actually transgender, but rather wanted to be a pharaoh and not a queen, and "pharaoh" is a male-gendered title.</summary>
 
@@ -278,7 +280,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 </james>
 <comment>
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/">/u/superninja109</a></div>
+<header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/">/u/superninja109</a></header>
 <details>
 <summary>[Summarized, click to open for full quote.] There were <em>many</em> Greek philosophers who were possibly bisexual, though, they didn't have the concept of sexual identities back then, and assigning such identities to them steamrolls a lot of nuance.</summary>
 
@@ -304,11 +306,11 @@ But that didn't last.
 
 </james>
 <comment id="early_church">
-<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" >LVence</a></div>
+<header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" >LVence</a></header>
 
 > [His take on early Christianity] Isn't correct. The early church father and Christian authorities unanimously condemned homosexuality. He might have taken this from John Boswell, but this is disputed by religious scholars. [https://en.m.wikipedia.org/wiki/History_of_Christianity_and_homosexuality](https://en.wikipedia.org/wiki/History_of_Christianity_and_homosexuality#Early_Christianity)
 
-<div class="header"><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898">lemmy</a></div>
+<header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898">lemmy</a></header>
 
 > It's an incredibly vague take too. Which early Christians were accepting of homosexuality? There were like, several dozen Christian sects and cults running around during the early days of Christianity, most of which did not survive into modernity, you got to get specific if you want to make that point.
 
@@ -325,7 +327,7 @@ And that is where our story of gay horror picks up. Hundreds of years later, wit
 
 </james>
 <comment id="medieval">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 The term "warlock" means "male witch" only in modern times. It means ["oath-breaker"](https://en.wikipedia.org/wiki/Warlock#Etymology_and_terminology) (as in breaking your oath to god) in Old English, and thus would be gender-neutral. "Witch" is similarly gender-neutral in Old English, [having male and female forms](https://en.wikipedia.org/wiki/Witch_(word)#Etymology).
 
@@ -445,7 +447,7 @@ In modern Wicca, homosexuality is highly embraced. <mark fc>Although heteronorma
 
 </james>
 <comment id="wicca_homo">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 There seems to be very little information on Wiccans prior to the 1950's, when [Gerald Gardner introduced it to the public](https://en.wikipedia.org/wiki/Wicca). We don't know anything about such a rule. The only maybe inkling to something like this was [accusations of homophobia](https://en.wikipedia.org/wiki/Gerald_Gardner#Homophobia) against Gardner.
 
@@ -534,11 +536,11 @@ Peirce also sees the story as a superhero origin story, which she also relates t
 
 <mark>“I think another queer part of the narrative is that Carrie gets super powers, and those super powers are like a queer person understanding they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it’s okay. Because that’s literally what Carrie says. She says to her mom, ‘There are other people out there like me. I am normal, I am okay, even if you don’t think so.’ I’ve talked to lots of [gay] people about this movie and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her. It’s an echo of what a queer person could write as a kind of corrective narrative.”</mark>
 
-<div class="footer">
+<footer>
 
 Note: This quote from the director is found in exactly one article at time of writing. Usually quotes like this are found in multiple articles and we can just attribute the quote to the person, but since this is found in literally one article on Google, I'm going to add it to the "plagiarism" count.
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -668,12 +670,12 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <mark>Benshoff’s book bases itself on the theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examined the ways in which horror films reflect</mark> the surplus <mark>repression in contemporary society</mark>. This serious study of a genre, one which has generally been regarded as something almost anti-intellectual, <mark>attempts to shine a light on the shapes that lurk in the</mark> darkness <mark>, and the way that the introduction of the Monster disrupts society. According to Wood, the basic formula of the horror film is that “normality is threatened by the Monster.”</mark> <sup>4</sup> This equation simplifies the engine that propels the horror film into the parts of the collective psyche that we’d seldom willingly explore, and allows for a discussion on how the genre may be used as a podium to express political ideas that fall far outside the mainstream.
 
-<div class="footer">
+<footer>
 
 3. Benshoff, Harry M. *Monsters in the Closet: Homosexuality and the Horror Film*. (New York: Manchester University Press, 1997). p. 262  
 4. Wood, Robin. “An Introduction to the American Horror Film.” *The American Nightmare*, eds, Robin Wood and Richard Lippe. (Toronto: The Festival of Festival, 1979). p. 14 
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -689,12 +691,12 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” 5 <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” 6
 
-<div class="footer">
+<footer>
 
 5. Wood 24   
 6. Jenkins, Henry. “Monstrous Beauty and Mutant Aesthetics: Rethinking Matthew Barney’s Relationship to the Horror Genre.” http://web.mit.edu/cms/People/henry3/horror.html, accessed April 2nd, 2010.
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -713,12 +715,12 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <mark>Even if one accepts that the queer images in *Hellraiser* film are not positive ones, how does that make these representations reprehensibly</mark> reactionary? <mark>To a large extent, the queers in *Hellraiser* belong to a pantheon of hyperbolically monstrous gay characters</mark> that appeared long before the outrageous stereotypes seen in <mark>John Waters</mark>, and extends well beyond the subculture sociopaths that populate the films of Gregg Araki. <mark>In his analysis of character construction in gay narrative film, Tom Waugh points out</mark> <mark>“the irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues,”</mark> and asks the reader to ponder the following question: “Is the attraction to the ‘negative image’ by the gay author simply a question of self-oppression” <sup>7</sup> or is it something else entirely? He goes on to provide a laundry list of possible explanations before concluding that these questions have been side-stepped for too long, and that people have relied “instead on reductive moralism instead of criticism.” <sup>8</sup>
 
-<div class="footer">
+<footer>
 
 7. Thomas Waugh, “The Third Body: Patterns in the Construction of the Subject in Gay Male Narrative Film,” in *The Visual Culture Reader*, ed. Nicholas Mirzoeff (New York and London: Routledge, 1998). p. 441  
 8. Waugh 442  
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -841,11 +843,11 @@ Though loathed upon release, the film has more recently been reevaluated as a mo
 
 In 2020, the film was categorized as a <mark>horror classic</mark>.<sup>[53]</sup>
 
-<div class="footer">
+<footer>
 
 53. ["Megan Fox Is Thrilled Jennifer's Body Is Finally Recognized as a Horror Classic"](https://www.cbr.com/megan-fox-thrilled-jennifers-body-horror-classic/). CBR. August 31, 2020. Retrieved September 1, 2020.
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -1390,11 +1392,11 @@ Dylan: "The only question is how you check out. Do you want it on your feet or o
 
 <mark>The monster in *It Follows* may be a supernatural being, but the ilm’s true source of horror is living under a regime of sexual shame wherein our heteronormative culture compels sexual subjects toward monogamy—even at the risk of their overall well-being</mark>. <mark>Although nearly all critics observed</mark> that the film’s conceit was a <mark>clever reworking of the “have-sex-and-die” cliché</mark> commonly associated with the fate of disposable teenage characters in 1970s and <mark>1980s horror films, few</mark> critics grasped the film’s most subversive implications: the curse would become moot in a society embracing the value of a multiplicity of sexual partners in conjunction with an ethos of open communication and mutual support. In other words, the characters’ failings illustrate how the film’s logic finds monogamy (serial or otherwise) as promising perpetual danger, whereas one’s survival would be far better ensured through what Michael Warner has called an “ethics of queer life.”<sup>2</sup>
 
-<div class="footer">
+<footer>
 
 2. Michael Warner, *The Trouble with Normal: Sex, Politics, and the Ethics of Queer Life* (New York: Free Press, 1999)
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -1409,7 +1411,7 @@ Dylan: "The only question is how you check out. Do you want it on your feet or o
 
 **Contagion, Queer Intimacies, and the Normative Couple.** <mark>At first glance, *It Follows* would seem an unlikely candidate for a queer reading, since it features neither protagonists nor monsters that might be coded as “queer”</mark> in an identity-based sense. Following Harry Benshoff’s influential 1997 study *Monsters in the Closet: Homosexuality and the Horror Film*, most academic discussions of queer horror cinema have tended to explore how the genre’s depictions of monstrosity can be read as symbolizing the supposed “threat” of homosexuality, offering both pleasures and misgivings among gay and lesbian viewers.<sup>3</sup> <mark>Nor does *It Follows* register any of the overtly homoerotic appeal exhibited in</mark>, say, David DeCoteau’s<sup>†</sup> beefcake horror films that represent “part of the ongoing hegemonic negotiation of exactly what the phrase ‘queer horror film’ might actually signify.”<sup>4</sup> For understandable reasons of political reclamation,established minoritarian identities like “gay” and “lesbian” remain the dominant points of reference in much of this critical literature. Although the previously cited authors do highlight how queerness can operate in these films in multivalent ways for different audiences, “queer” ultimately tends to operate in these accounts as more of an umbrella term for a variety of same-sex-desiring identities rather than to suggest a fluidity of (nonnormative) desires that would evade or blur the very boundaries of minoritarian identities—or, as Eve Kosofsky Sedgwick puts it in her famous definition:“[T]he open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning when the constituent elements of anyone’s gender, of anyone’s sexuality aren’t made (or *can’t be* made) to signify <mark>monolithically</mark>.”<sup>5</sup>
 
-<div class="footer">
+<footer>
 
 3. Harry M. Benshoff, *Monsters in the Closet: Homosexuality and the Horror Film* (Manchester, UK: ManchesterUniversity Press, 1997).
 4. Harry M. Benshoff, “‘Way Too Gay to Be Ignored’: The Production and Reception of Queer Horror Cinema in theTwenty-First Century,” in *Speaking of Monsters: A Teratological Anthology*, ed. Caroline Joan S. Picart and JohnEdgar Browning (New York: Palgrave Macmillan, 2012), 134. Also see Glyn Davis, “A Taste for *Leeches!* DVDs,Audience Conﬁgurations, and Generic Hybridity,” in *Film and Television after DVD*, ed. James Bennett and TomBrown (New York: Routledge, 2008), 45–62.
@@ -1417,7 +1419,7 @@ Dylan: "The only question is how you check out. Do you want it on your feet or o
 
 † None of the films James mentions are listed as [David DeCoteau's filmography](https://en.wikipedia.org/wiki/David_DeCoteau).
 
-</div>
+</footer>
 </from>
 </compare>
 
@@ -1478,7 +1480,7 @@ But, for a time, right around the release of *It Follows* the shame of being see
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 The article James is stealing from goes on a several-paragraph diversion...
  
@@ -1488,7 +1490,7 @@ James doesn't copy anything word-for-word, but does summarize Church's points.
 
 David Church cites [this Huffington Post contributor piece](https://www.huffpost.com/entry/truvada-whores_b_2113588).
 
-<div class="footer">Duran, D. (2012, Nov 12). <em>Truvada Whores?</em> [Article]. Huffington Post. Retrieved Dec 23, 2023, from <a href="https://www.huffpost.com/entry/truvada-whores_b_2113588">https://www.huffpost.com/entry/truvada-whores_b_2113588</a>.</div>
+<footer>Duran, D. (2012, Nov 12). <em>Truvada Whores?</em> [Article]. Huffington Post. Retrieved Dec 23, 2023, from <a href="https://www.huffpost.com/entry/truvada-whores_b_2113588">https://www.huffpost.com/entry/truvada-whores_b_2113588</a>.</footer>
 </comment>
 </compare>
 
@@ -1957,7 +1959,7 @@ Sometimes it's just that simple. Sometimes the monster, the queer, can be accept
 
 </james>
 <comment id="quote_mine1">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 As far as I can tell, she never said this. This *might* be what James was "quoting".
 
@@ -1969,7 +1971,7 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 > 
 > “<mark fc>Of course</mark>, I love that story,” she continued. “I think it’s crazy and just kept him alive. I thought ah, you bastard. He doesn’t want to die so he’s finding ways to become relevant.”
 
-<div class="footer">Topel, F. (2019, Jan 30). <em>Director Jennifer Kent Comments on Those LGBTQ ‘Babadook’ Memes [Interview]</em> [Article]. Bloody Disgusting. Retrieved Dec 24, 2023, from <a href="https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/">https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/</a></div>
+<footer>Topel, F. (2019, Jan 30). <em>Director Jennifer Kent Comments on Those LGBTQ ‘Babadook’ Memes [Interview]</em> [Article]. Bloody Disgusting. Retrieved Dec 24, 2023, from <a href="https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/">https://bloody-disgusting.com/interviews/3543658/sundance-2019-jennifer-kent-says-lgbtq-babadook-memes-kept-bastard-alive-exlcusive/</a></footer>
 </comment>
 </compare>
 
@@ -2108,7 +2110,7 @@ Another member of the Losers Club that hits home with queer readers is Richie, a
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 This paragraph doesn't seem plagiarized so much as summarizing the back half of {% include inline-citation for=page.cite.plagiarized.rachel_brands %}, the section...
 

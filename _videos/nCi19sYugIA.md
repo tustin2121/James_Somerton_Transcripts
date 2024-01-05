@@ -361,7 +361,7 @@ Joan (wailing): "You--! You *delibrately* embarrsed me in front of a reporter!" 
 
 </clip>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Mmm! The scenery here is just so yummy! \*nom nom nom\*
 
@@ -413,7 +413,7 @@ In the film, this encounter is depicted with Joan... *screaming* into the boardr
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 It should be noted here that James has had a Pepsi can sitting next to him on his right this whole time, clearly in frame.
 
@@ -425,7 +425,7 @@ Joan: "*DON'T FUCK WITH ME, FELLAS!!*"
 
 </clip>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: The word "fuck" is censored out of James's video, though it's obvious what she's saying.
 
@@ -510,7 +510,7 @@ Host: "Or that you wouldn't want to work with again? If you don't-- You don't ha
 
 Bettie: "One-- One million dollars: Faye Dunaway."
 
-<div class="footer">Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></div>
+<footer>Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></footer>
 
 </from>
 </compare>
@@ -611,7 +611,7 @@ Joy: "Is that anywhere near the way Joan Crawford actually acted?"
 
 Christina: "Only the makeup."
 
-<div class="footer">It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.</div>
+<footer>It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.</footer>
 </from>
 </compare>
 
@@ -648,15 +648,19 @@ To name a few things, Faye allegedly <mark>manipulated the director to rob other
 
 In 2015, actress <mark>Rutanya Alda</mark> (Carol Ann) <mark>published a behind-the-scenes memoir, detailing the making of the film</mark>, *The Mommie Dearest Diary: Carol Ann Tells All*.<sup>[8]</sup> In it, she describes the difficulty of working with Dunaway, whose method approach to playing Joan seemed to absorb her and make her difficult to the cast and crew.<sup>[9]</sup> In an interview with the *Bay Area Reporter*, Alda stated, <mark>"People despised Faye...because she was rude to people. Everyone was on pins and needles when she worked, and relaxed when she didn't."</mark><sup>[10]</sup> Alda described the process of acting opposite Dunaway very unfavorably by claiming that she <mark>manipulated the director to deprive the other actors of screen time</mark> and required the members of the cast to <mark>turn their backs</mark> when not in the shot so <mark>she would have no audience</mark>.<sup>[9]</sup> She also claimed that Dunaway was "out of control" while filming the scene where Joan attacks Christina in front of a reporter (Jocelyn Brando) and Carol Ann has to pull her off. Alda was hit hard in the chest and knocked over several times, while Jocelyn Brando, who was scripted to help Alda pull Dunaway off of Diana Scarwid, refused to get near her for fear of being injured.<sup>[10]</sup>
 
-<div class="footer">
+<footer>
 
 8. Leon Acord (December 4, 2015). ["What's the Most Shocking Thing About Tell-All 'Mommie Dearest Diary'?"](https://www.huffingtonpost.com/leon-acord/whats-the-most-shocking-t_b_8713984.html). Huffington Post. [Archived](https://web.archive.org/web/20160127090252/http://www.huffingtonpost.com/leon-acord/whats-the-most-shocking-t_b_8713984.html) from the original on January 27, 2016. Retrieved May 17, 2017.
 9. Karina Longworth (September 16, 2016). ["The Illusion of Perfection:A new diary tells the story of what happened when Faye Dunaway played Joan Crawford in Mommie Dearest"](http://www.slate.com/articles/podcasts/you_must_remember_this/2016/09/faye_dunaway_in_mommie_dearest_the_real_story.html). Slate Magazine. [Archived](https://web.archive.org/web/20170530211735/http://www.slate.com/articles/podcasts/you_must_remember_this/2016/09/faye_dunaway_in_mommie_dearest_the_real_story.html) from the original on May 30, 2017. Retrieved May 17, 2017.
 10. Tara Aquino (February 21, 2016). ["12 Over-the-Top Facts About Mommie Dearest"](http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest). mentalfloss.com. [Archived](https://web.archive.org/web/20190819213657/http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest) from the original on August 19, 2019. Retrieved August 19, 2019.
 
+</footer>
+<footer id="misattributed">
+
+Note: Quote is misattributed to Rutanya Alda's book ("She wrote:"), when instead it was an interview with the [*Bay Area Reporter*](https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people.). (Also, Wikipedia cites the source <em>third-hand</em>.)
+
 </div>
-<div class="footer" id="misattributed">Note: Quote is misattributed to Rutanya Alda's book ("She wrote:"), when instead it was an interview with the [*Bay Area Reporter*](https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people.). (Also, Wikipedia cites the source <em>third-hand</em>.)</div>
-</from>
+</footer>
 </compare>
 
 <compare>
@@ -670,13 +674,13 @@ So I *think* what happened is that Faye was so engaged with the *memory* of Joan
 
 </james>
 <comment id="haunted">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 James seems to invent this quote out of whole cloth? Or at least out of pieces of the following?
 
 > Roger Ebert visited the set, and when he first saw Dunaway in costume, he didn’t recognize her as Faye Dunaway. He exclaimed, “My God, she looks just like Joan Crawford!” But embodying a dead woman was no picnic for Dunaway. There was a physical toll to the part: To make her face look like Crawford’s, Dunaway had to contort the muscles around her mouth just so and hold it, all day long. And then, Dunaway started to feel like she couldn’t clock out when shooting wrapped during the day. As she wrote, “At night I would go home to the house we had rented in Beverly Hills, and felt Crawford in the room with me, this tragic, haunted soul just hanging around. … It was as if she couldn’t rest.”
 
-<div class="footer">Longworth, K. (2018, Sep 16). <em>The Illusion of Perfection</em> [Article]. Slate. Retrieved Jan 1, 2024, from <a href="https://slate.com/culture/2016/09/the-illusion-of-perfection.html">https://slate.com/culture/2016/09/the-illusion-of-perfection.html</a></div>
+<footer>Longworth, K. (2018, Sep 16). <em>The Illusion of Perfection</em> [Article]. Slate. Retrieved Jan 1, 2024, from <a href="https://slate.com/culture/2016/09/the-illusion-of-perfection.html">https://slate.com/culture/2016/09/the-illusion-of-perfection.html</a></footer>
 </comment>
 </compare> 
 

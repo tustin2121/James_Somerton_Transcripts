@@ -1,1 +1,1 @@
-<div class="footer">{{ include.for.full }} <a href="{{ include.for.url }}">{{ include.for.url }}</a> {{ include.at }}</div>
+<footer>{{ include.for.full }} <a href="{{ include.for.url }}">{{ include.for.url }}</a> {{ include.at }}</footer>

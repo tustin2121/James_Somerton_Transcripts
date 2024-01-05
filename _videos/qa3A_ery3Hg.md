@@ -152,7 +152,7 @@ he said. Essentially saying that any child whose family can’t afford a progres
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagiarized.indian_exp_article.short }}.
 
@@ -200,7 +200,7 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 President Biden's tweet (sent Feb 8th): https://twitter.com/POTUS/status/1491186973511458818
 
@@ -344,7 +344,7 @@ Meanwhile, on the gay front, Netflix’s ever-expanding library of LGBTQ-content
 
 </james>
 <comment id="newton_fight">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18gudty/new_james_somerton_plagiarism_discoveries_since/kd5alt9/?context=3">u/DHLawrence_sGhost</a></div>
+{% include header name="/u/DHLawrence_sGhost" link="https://www.reddit.com/r/hbomberguy/comments/18gudty/new_james_somerton_plagiarism_discoveries_since/kd5alt9/?context=3" %}
 
 The famous fighting between [Leibniz](https://plato.stanford.edu/entries/leibniz/) and Newton was over who discovered calculus first, rather than over Newton's theory of optics.
 
@@ -621,7 +621,7 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Sourced from Abigail Disney's tweet (from March 2, 2022): https://twitter.com/abigaildisney/status/1499513391236501507
 
@@ -713,7 +713,7 @@ And someone is easier to exploit if the government is consistently de-valuing th
 
 </james>
 <comment id="slave_population">
-{{ tustin.header }}
+{% include header for=tustin %}
 
 1. This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
 
@@ -800,7 +800,7 @@ Rose Ophelia Shepard
 
 </credits>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Rose is a YouTube user with about 7 subscribers and no videos. They commented on the reupload of this video, remarking on the credit here:
 

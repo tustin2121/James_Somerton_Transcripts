@@ -133,14 +133,14 @@
 							<p>Video transcript is on the left.</p>
 						</james>
 						<comment example>
-							<div class="header"><a class="citation" href="#">Source (Author, 2000)</a></div>
+							<header><a class="citation" href="#">Source (Author, 2000)</a></header>
 							<p>Fact-checking commentary is on the right for comparison.</p>
 						</comment>
 						<nick example>
 							<p>Auto-text is cleaned up somewhat to remove excessive "um"s and vocal tics.</p>
 						</nick>
 						<comment example>
-							<div class="header"><a class="citation" href="#">{{ page.podcast.comment-author }}</a></div>
+							<header><a class="citation" href="#">{{ page.podcast.comment-author }}</a></header>
 							<p>{{ page.podcast.comment | default: "Text" | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 						</comment>
 					</compare>
@@ -151,7 +151,7 @@
 							<p>Video transcript is on the left.</p>
 						</james>
 						<comment example>
-							<div class="header"><a class="citation" href="#">Commenter</a></div>
+							<header><a class="citation" href="#">Commenter</a></header>
 							<p>Commentary is on the right.</p>
 						</comment>
 					</compare>
@@ -167,7 +167,7 @@
 							{%- endif -%}
 						</james>
 						<from example>
-							<div class="header"><a class="citation" href="#">Plagiarized article (Author, 2000)</a></div>
+							<header><a class="citation" href="#">Plagiarized article (Author, 2000)</a></header>
 							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
 							<mark>Plagiarized text is highlighted.</mark></p>
 						</from>

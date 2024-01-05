@@ -338,7 +338,7 @@ And not to be an alarmist, but we ARE losing ground. <mark>Conservatives are suc
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 It doesn't look like James plagerized this bit, but it *does* look like James was plagiarized *from*. While spot-checking for more plagiarism, I found [a student-run magazine](https://anyflip.com/bnill/qcrh/basic) which ran an article entitled "The Importance of Heartstopper's Queer Optimism" (pages 18-21). The marked line is how I found that this article (published 2023) copied *from this video* (published 2022). It's a plagiarism centipede!
 

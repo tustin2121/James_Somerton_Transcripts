@@ -715,7 +715,7 @@ And then came *Dracula* by Bram Stoker, who many believe to have been a closeted
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 The article {% include inline-citation for=page.cite.plagiarized.vampires_r_us %} continues to talk about *Dracula*, but only the book. This section doesn't directly pull any sentences, but James summarizes bits of it.
 
@@ -923,7 +923,7 @@ Queer people have a fascination with costumes — and this is something document
 
 </james>
 <comment>
-{{ tustin.header }}
+{% include header for=tustin %}
 
 Note: James is in a Hannibal Lector-eqsue muzzle costume for this segment. And the camera has a tendency to zoom unsettlingly into his eyes. It's likely one of the most... ambitious? interesting? weird? costumes he's donned during a video essay.
 

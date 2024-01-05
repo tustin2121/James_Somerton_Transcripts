@@ -6,9 +6,11 @@
 		{%- if __check[0] == blank -%}
 			{%- case __check[1] -%}
 				{%- when "cite" -%}
-					{{ site.data.cite | map: __check[2] | map: "citation" }}
+					{%- assign __name = site.data.cite | map: __check[2] | first -%}
+					<a href="{{ __name.link }}">{{ __name.name }}</a>
 				{%- when "ref" -%}
-					{{ site.data.cite | map: __check[2] | map: "reference" | join: '' | replace: '#', __check[3] }}
+					{%- assign __name = site.data.cite | map: __check[2] | first -%}
+					<a href="{{ __check[3] }}">{{ __name.name }}</a>
 				{% else %}
 					ERROR[{{ n }}]
 			{%- endcase -%}

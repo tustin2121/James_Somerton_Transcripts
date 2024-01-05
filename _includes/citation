@@ -1,8 +1,8 @@
 class="color-{{ include.for.color }}" >
-<div class="header">
+<header>
 	{%- if timecode -%}
 		<span class="timecode">{{ timecode }}</span>
 		{%- assign timecode = nil -%}
 	{%- endif -%}
 	<a class="citation" href="#{{ include.for.short | slugify }}">{{ include.for.short }} {{ include.at }}</a>
-</div
+</header
