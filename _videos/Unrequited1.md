@@ -1,4 +1,5 @@
 ---
+# cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
 status: In Progress
@@ -25,6 +26,7 @@ cite:
     sherlock: { short: "Sherlock", full: "TODO Sherlock" }
   yikes: !!map
   misinformation: !!map
+    historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
   plagiarized: !!map
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -949,9 +951,13 @@ And even though there is nary an uncoded queer moment on the show, Merlin is sti
 
 ### Sherlock 
 
+<compare>
+<james {% include timecode %}>
+
 Sherlock began its on-again-off-again run on the BBC in 2010. A modern reimagining of Sir Arthur Conan Doyle's Victorian mystery novels, Sherlock explores the lives of the residents of 221 B. Baker Street London. Those being John Watson and Sherlock Holmes. The gay question is actually brought up before they even move in together.
 
-<compare>
+</james>
+<from></from>
 <clip {% include citation for=page.cite.clips.sherlock %}>
 
 Watson: "You don't have a girlfriend then?"
@@ -986,11 +992,15 @@ Watson: (to Waiter) "I'm not his date."
 </clip>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
 So one must presume that Sherlock has brought men here before. And Sherlock isn't the one to deny it. John is. Emphatically.
 
 Another person who knows Sherlock very well would be his land lady, who also assumes Watson to be Sherlock's boyfriend.
 
-<compare>
+</james>
+<from></from>
 <clip {% include citation for=page.cite.clips.sherlock %}>
 
 Watson: "I've met someone."
@@ -1139,8 +1149,587 @@ So, does Sherlock love John? Yes. He might be the only person he *does* love. Do
 
 ### Harry Potter
 
+<compare>
+<james {% include timecode %}>
 
-God damn it British people I said we'd be getting back to the Wizards didn't I Harry Potter and the cursed child is a two-night play that's been dominating the West End and Broadway since it first opened in 2016 now since it's a play without a whole lot of live footage we'll be relying on quotes from The Script here but before I even start Alvis Potter and Scorpio Malfoy are gay don't care what anyone says not going to change Chang my mind now why do I think this well let's start off with how they meet Albus and his cousin Rose are on their way to their first year at Hogwarts Albus opens a door to look in on a lonely blonde kid Scorpius in an otherwise empty compartment alus smiles scorpus smiles back well that's innocent enough two boys smiling at each other doesn't scream gay agenda to me eventually rose leaves the two and we get this description Scorpius and Albus look at each other and something passes between them things pass between me and my Straight friends all the time when we were starting puberty no big deal the play moves on to follow the lives of our two boys over the next few years focused obviously on Albus since he's Harry Potter's kid and all we learned more about albus's life at home his awkward relationship with his family he feels like he doesn't fit in especially after being sorted into Slytherin with a family entirely made up of gryffindors say same for Scorpius he doesn't live up to his father's expectations either he's a bit weird kind of a goofball which doesn't fly with the Malfoy family so although they both feel alienated from their families they feel at home with each other a safe harbor in an otherwise Rocky sea Harry tried to make Albus feel welcome but he just doesn't understand his son it's an easy allegory for parents of queer kids trying to be accepting but they're just can't get it right Scorpius is the only person that alus feels comfortable with alibus hugs his friend with fierceness they hold for a beat Scorpius is surprised by this okay uh hello um have we hugged before do we hug the two boys awkwardly dislocate alus will not hug his father or family but he'll hug Scorpius fiercely with passion so because the structure of this play is a bit off we're in year four now and Albus wants to go back to his father's fourth year and save Cedric diory from being murdered because that's something his father couldn't do so he and Scorpius ditched the train to Hogwarts in order to find the last surviving Time Turner and save Cedric if we're doing this we're doing it together tagging along with them is a girl who in case you haven't seen the play or read the script I don't want to say who she really is because it's a spoiler and stupid but there's a girl named Deli or delie and Albus kind of digs her and Scorpius is conflicted about this Scorpius appears at the back of the stage he looks at his friend talking to a girl and part of him likes it part of him doesn't delie won't be going back in time with them though because reasons as they make their way through the Forbidden Forest the pair talk about their lives and Albus reveals how how much he hates it at Hogwarts how terrible it is for him not for me Albus looks at his friend shocked all I ever wanted to do was go to Hogwarts and have a mate to get up to Mayhem with just like Harry Potter and I got his son how crazily fortunate is that they more or less succeed in Saving Cedric but when they return to their time everything is odd Albus is in Gryffindor now and Harry doesn't want him seeing scorpus anymore I need you to stay away from Scorpius Malfoy what Scorpius I don't know how you became friends in the first place but you did and now I I need you to my best friend my only friend he's dangerous this reads painfully like a parent finding out that their son has a boyfriend and telling them that under no circumstances are they to see them again alus gives in and Promises not to see Scorpius anymore alibus you're okay that's fantastic he's completely cured and we've got to go alvus looks up at Scorpius and his heart breaks he walks on are you mad at me what's going on alus stops and turns to Scorpius did it work did any of it work no but Albus Albus whatever gibberish you're talking you need to stop it now this is your final warning Albus looks torn between his dad and his friend I can't okay you can't what just we'll be better off without each other okay Scorpius is left looking up after him heartbroken Harry's a dick hell even Draco becomes the voice of reason confronting Harry about the situation I'm not here to to antagonize you but my son is in tears and I am his father and so I'm here to ask you why you would keep apart two good friends not keeping them apart you've changed School timetables you've threatened both teachers and Albus himself why Harry looks at Draco carefully and then turns away I have to protect my son again Harry is a dick later on delie approaches Scorpius Albus needs you Scorpius that's a wonderful thing he needs me to do what that's the thing isn't it about friendships you don't know what he needs you only know he needs it find him Scorpius you two you belong together scorpius's life is even worse now that alvus isn't in it the two eventually have a fevered argument that leaves Scorpius even more distraught and lost people think he's the son of Voldemort complicated very complicated stupidly complicated he thinks he's a terrible person that maybe all the horrible things said about him are true Albus disagrees no they're not true and I'll tell you why because I don't think Voldemort is capable of having a kind son and you're kind scorpus to the depths of your belly to the tips of your fingers I truly believe V Voldemort couldn't have a child like you be Scorpius is moved by this that's nice that's that's a nice thing to say and it's something I should have said a long time ago in fact you're probably the best person I know and you don't you couldn't hold me back you you make me stronger when Dad forced us apart without you I didn't much like my life without you in it either the two boys reconcile finally realizing that they need each other in their lives they go back in time again to fix the mistakes and the timeline but they screw it up even worse so bad now that Albus doesn't even exist Dolores Umbridge is head Mistress of Hogwarts and baldemort is still alive time travel is problematic in this new timeline Scorpius is super popular the guy everyone wants to be but he hates it he wants his old life even with how unhappy he was none of this new happy life is worth it because he can't have Albus with him Scorpius finds out that Snape is still alive and approaches him to help in getting Albus back Snape along with alternate timeline Ron and Hermione agree to help Scorpius in the process Ron and Hermione are attacked by Dementors Albus is terrified but Snape tells him that the memory of one person one person who makes you so happy that memory is enough to defeat the Dementors Snape even compares how Scorpius feels about Albus to how he felt about Lily Potter as problematic as Snape's infatuation with Lily is he loved her and he sees that scorpus feels the same way for Albus taking the Albus scorpus relationship Beyond even a teenage romance and into a love that lasts for decades the death murder war and Magic cannot stop and unlike with Snape and Lily though Albus feels the same way they're completely devoted to one another scorpus succeeds in bringing Albus back and is speechless when he sees him again though Albus is completely unaware of what's taking place and thinks he's only blacked out for a couple of minutes Scorpius grabs him and hugs him tight the rest of the play is pretty much a hot mess eventually dark Wizards are after them ready to go in for the kill so we hide in a hole as pleasurable as it will be to hide in a hole with you for the next 40 years they'll find us and we'll die and time will be stuck in the wrong position no we we need something we can control something we know he'll get exactly the right time we need to there's nothing still if I had to choose a companion to be at the return of Eternal Darkness with I'd choose you Good Winds out over evil of course and Albus and scorpius's lives go back to normal and at the very end of the damn play we get a forced scene where scorpus acts like he has interest in a girl because even the writers knew these two were in love with each other but families were going to go see this so God forbid we don't know omo them as hard as possible in the last 5 minutes so she who must not be named has said there will never be a cursed Child movie which Warner Brothers might disagree with considering how well this play is doing but I think she's right because no one will be able to watch this movie and not see these two boys as gay no matter how many no homo endings you tag on honestly Harry Draco kind of helped create modern gay fan fiction and then alvus and Scorpius were this close to making a version of it Canon this close I am thoroughly convinced that at some point in the writing process the playwrights did intend on them being gay and it got switched somewhere along the line it's not unheard of it's not the first time that's happened the reboot SL sequel to The Oceans 11 franchise Stars an amazing almost all female cast including Sandra Bullock Kate Blanchett Aquafina Sarah palson an hathway Rihanna Helena bottom Carter the first time I watched the movie I was honestly shocked at how a major movie with some of the biggest stars in the world had two lesbian leading characters but then the movie ended and oh they're not lesbians I call [ __ ] Debbie ocean played by Sandra bulock and Lou played by Kate Blanchett are essentially a couple I don't care if it's never stated in the movie they're a couple or at least they were a couple before Debbie landed in The Slammer and I wasn't the only one who saw this queer people around the world noticed it even straight people one could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime but nothing of the sort is ever stated outright in the movie so why did so many people read it that way well first off blanchett's character is coded extremely gay the outfits that she wears are crafted to queer Perfection but if you look past the aesthetic glory of the film you'll see that there's a real love between Debbie and Lou coming at this film with a queer lens I initially felt like the filmmakers were saying it without actually saying it giving us queer characters whose whole point in life isn't just being queer characters while telling about her history of running Cons with Lou Debbie refers to Lou as as her partner business partner life partner yes when recalling a rock bottom moment for the two when they were pulling scams at a retirement home's Bingo night Debbie refers to this as their rough patch were they strapped for cash or On the Rocks romantically again yes queer people would read this phrasing as an obvious admission of their lesbian relationship while straight people would just read it as a they're such good friends because straight people can be clueless like that there's actually a term for this obliviousness in the gay community it's called the Great straight divide when straight people are so clueless they actually believe that two men are roommates or two women who have lived together for 20 years are Gallop Pals additionally there's physical flirtation between the duo in a diner Sandra spoon feeds Kate a bite of her food in a very intimate lady in the [ __ ] esque manner I don't know about you but I never delicately play sporkful of diner food onto my platonic friend's tongues whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other so for me nothing about their relationship points to just being friends and honestly I could keep going on but it's actually been confirmed Sarah Edwards costume designer for the movie said in an interview after the film's release you know early there was an idea that Lou and Debbie having been in a relationship might have been the case but we seem to move away from that as shooting went on so when they started production Lou and Debbie had been in a relationship but by the time they'd wrapped that was no longer the case secret lesbians confirmed Now give me a sequel so they can kiss [Music] already oh God here we go hitting TV screens in 2011 the MTV show became famous for its propensity to show nearly naked men in nearly every episode maybe it was their way of paying reparations for the I'm not a [ __ ] I'm a werewolf line from the 1985 movie the whole show is pretty gay if we're being honest kind of like a teenage version of True Blood in more ways than one but the relationship that drove the series into will they won't they territory was between lovable nerd Styles and brooding Alpha werewolf Derek fondly known online by the couple name sterk much like with Merlin the pair start the series off on a bad paw but over the course of a few seasons end up in a scenario that if they a man and a woman would undoubtedly end in a relationship but because they're two guys well Dad there's a conversation that we you're not gay I could be not dress like that uh I thought you like girls I do like girls you absolutely great so you also like boys absolutely do you so pretty quickly it set up that style is bisexual is it set outright no of course not that would be too easy but is it made painfully obvious I don't think Danny likes me very much I asked Alison on a date and now we're hanging out am I not attractive to gay guys I make first line and the team captain wants to destroy me and now I'm going to be late for work wait Scott you didn't am I attractive to gayot you didn't answer my question everyone wants you you know you're like the hot girl that every guy wants hey come on Jackson you're way too pretty to be out here all by yourself we should maybe take this upstairs he's might tyght okay how you can come too and I also got to say this new found heroism has making me very attracted to you shut up no seriously try make it out for a second just to see how it feels yes yes it is when Styles and the main character Scott go to a gay bar Styles even gets frustrated when a guy buys a drink for Scott and not for him why are they at a gay bar because it's Teen Wolf why would wouldn't they be at a gay bar one more question what do you find me attractive someone needs to have sex with me like today like someone needs to sex me right now all right I'll do it what come to my place at 9:00 plan to stay the night I like to cuddle that was so sweet are you kidding yes I'm kidding okay you know you don't toy with a guy's emotions like that Danny it's not attractive all right okay this is becoming a look how queer Styles his clip show so let's move on to Derek Derek is straight very straight he has all the girlfriends he's emotionally distant locked off and doesn't like being touched but Styles can't get him off his mind no more questions no more talk about the alpha or Derek especially Derek in one episode Derrik is paralyzed by a monster and has to be held afloat in the middle of a pool by Styles because the monster can't swim Styles holds him up for over two hours much like Merlin Styles risks his life for Derek over and over and over again and becomes visibly jealous when girls show interest in his hunky wear crush his feelings for Derek are not subtle and this is not an accident even the action is pointing toward romance whether it's obvious or not take this scene where they're both paralyzed again Styles files on top of Derek the same way that we've seen women fall on top of men in a 100 romantic comedies the way they lock eyes time and time again the way they annoy each other needle each other but always come to the rescue this is not subtle this is on purpose in an interview with after Elton Show creator Jeff Davis said said I'm trying to create a world where there's no racism there's no sexism there's no homophobia and I know it's not real life but I kind of don't care I'd like to create a world where none of that matters you have the supernatural creatures for that to work as an analogy in my mind if you can create a world like that on TV maybe Life Starts to imitate it that's a very Noble Pursuit but it's not realistic to even try to achieve it there are plenty of out queer characters on Teen Wolf but none of them are leads the steric fandom became rabbit online with art and fanfiction becoming just as popular as the show itself some of the cast encouraged the shipping including Dylan O'Brien and Tyler hin who would cuddle with each other at Fan events they baited sterk as a couple they baited Styles as sexuality with absolutely no intention on following through the reason this is so onerous is because the queer baiting didn't even stay in the show they moved it over into real life Styles wasn't just coded adorably bisexual they used queer baiting to get you to do something for them vote for us uh it's Team Wolf for best summer show yeah team Choice summer show something just find Team Wolf and vote for it just whenever you see Teen Wolf fill in that Circle cuz we really appreciate it and we'll take more naps like these for you maybe on you screen yeah now I'm going to be stuck to that Derek all the way I don't know maybe I'm inordinately frustrated by this because Dylan O'Brien's so cute this is probably the most obvious example of queer baiting to have ever existed in monitored media but it wasn't the most well-known bringing out the big guns now arguably the three biggest media franchises in the world right now are Star Wars Frozen and the Marvel Cinematic Universe they all have a few things in common they're all owned by Disney and they've all been accused of queer baiting Disney is actually kind of terrible for this not only do they queerbait their characters they actually create queer media and then yank it away from you love Victor was a sequel TV series to the hit film love Simon it was announced alongside Disney plus as one of the big reasons to buy into the service but then when the show actually had gay content Disney shafted it over to Hulu which is not available in nearly as many places as Disney plus essentially segregating a gay show that they had promised their viewers putting it on a service with a fraction of the subscribers that way when the ratings aren't that great they can just say it wasn't popular and let it die maybe even use it as an example as to why queer content doesn't sell like I said in my Stonewall film effect video as far as executives are concerned a queer movie or show or book that fails always fails because it's queer never because of the circumstances around it okay r over [Music] Frozen there's not a whole lot to show about Frozen because most of the queer coding is in song and Disney will come down on me with the intellectual property Hammer if I play a song from Frozen but the first film was read as super queer by a sizable portion of the population so much so that homophobic bloggers accuse Disney of indoctrinating children with the gay agenda but they wouldn't have anything to WR about if children weren't being indoctrinated in the gay agenda so let's ignore them but actual lgbtq fans of the film latched on to Elsa being the first potentially queer Disney princess creating the Evergreen social media Trend #g Elsa a girlfriend Let It Go became a sort of a gay anthem and the film featured queer icon ad Menzel in the lead and gay heart throb and my future husband Jonathan gra voicing Kristoff so fans were hoping for a lot when Frozen 2 finally hit theaters this past year while the film didn't State Elsa SE uality one way or another it left the door open hinting at a gay relationship between her and honey Maron and the new song show yourself while not a cultural phenomenon like Let It Go became a gay anthem I mean with these lyrics how could it not every inch of me is trembling but not from the cold something is familiar like a dream I can reach but not quite hold I can sense you there like a friend I've always known I'm arriving and it feels like I am home I have always been a fortress cold Secrets deep inside you have secrets too but you don't have to hide show yourself I'm dying to meet you that's right Elsa you run down that ice vagina but seriously though those lyrics sound like an email I wrote to my online boyfriend in Ohio in the seventh grade so is Elsa gay uh maybe Frozen 3 is in development so Elsa might climb out of her safic slump or Disney will continue to not say yes but not say no either just like they did with one of their other Global spanning [Music] IPS Star Wars the Force awakens introduced us to PO and Finn a rebellious pilot and a stormtrooper who meet up by chance Escape together and fall madly in love well they didn't tell us they fell madly in love but the actors certainly showed it when they escaped the first order they crashed land when Finn comes to he searches for po but he's nowhere to be found Assuming he's dead Finn is heartbroken and takes POS jacket as a reminder of [Music] him Finn is then set up for what would usually be a love story with the lead female character Ry but no that doesn't go anywhere Finn shows interest for sure but it's not reciprocated leaving the door open for Finn to fall in love with someone else else maybe and eventually we find out that PO is still alive and we get this [Music] scene H what happened to you what happened I got thrown from the crash I woke up at night no you no ship nothing you completed my mission Finn that's my jacket oh oh no no no no keep it it suits you the eye [ __ ] oh my God before the movie was released the cast went on to the Ellen show it's very subtle romance that's happening you know you have to just look very close you have to watch it a few times to see the little hints but there was at least I was playing romance I was in the cockpit I was playing there was a very deep romance I see so though it wasn't obvious Oscar Isaac and John boa were certainly playing it that way so would it be more obvious in The Last Jedi well leading up to the release of The Last Jedi Star Wars producer Kathleen Kennedy was asked about the potential relationship she said we've talked about it but I think you're not going to see that in the Last Jedi in the next 6 or eight months we will have some meetings about the stories that we will develop next after 40 Years of Adventures people have a lot of information and a lot of theories about the path these stories can take and sometimes those theories that come up are new ideas for us to listen to read and pay attention to so not the Last Jedi okay running out of time here guys about rise of Skywalker well JJ Abrams teased for months before the film's release that there would be real LGBT representation in the film a gay kiss even obviously fans thought it would be Po and Finn but no instead Abrams made sure to give po a female love interest neuter fin entirely and tossed in and out of focus blinking you miss at lesbian kiss between two ascended extras after the release of Rise of Skywalker Oscar Isaac had this to say in an interview like there was an Absol absolute natural chemistry with him uh I I immediately felt very connected to him I remember uh it was an audition and the two of us just like did that first scene back to back butt to butt you know just like doing the scene together practicing it in this room and like it was just like immediately all you know all kind of artifice everything just collapsed and there was like an intimacy that was very just like there and um and I think the fact that neither of us shied away from that while we were shooting as well I think it just was like these are two guys that you know are he happy being intimate with each other emotionally and that um so it wasn't actually a total shock that you know you know people you know wanted to you know saw that in there personally I I kind of hoped and wished that maybe that would have been T taken further uh in the other films but you know I don't have control over that so he wasn't happy about it the fans shipping Fino weren't happy about it the gay community wasn't happy about it and the rise of Skywalker became the lowest grossing film of the new Trilogy Star Wars is now in brand rehab at Disney who are trying to figure out what to do with the property after it seemed like no one could agree on any of their Five Star Wars movies that they made to date with solo bombing at the box office and Rise of Skywalker coming nail-bitingly close to losing money I'm not saying making Po and Finn gay would have saved the box office probably the opposite to be honest but at least Disney could have said that they did something before any other Studio that they put gay characters in a giant cinematic spectacle before most studios are willing to even give us a movie at all but this is the company that tossed love Victor back into the streaming closet so what else would we expect I mean I'm sure Disney hasn't done anything like this before what was [Music] that Steve Rogers AKA Captain am America AKA Chris Evans because he's the real superhero and Bucky Burns AKA The Winter Soldier are two of the many many many characters in the Disney owned Marvel Cinematic Universe they were originally created way back in the 1940s when Bucky was actually Steve's kid sidekick because every superhero had to have a kid sidekick fast forward 70 years and about 100 iterations later and we see the pairing that become known the world over as Stucky right from the off there's a sort of Chemistry Between them with Bucky kind of acting as a big brother figure to Steve who needs help fighting the bullies in his life Steve's got a big heart but that's about the only part of him that's big wait does the Super Soldier serum make your one of the things I noticed the first time I saw the movie which was the first MCU movie I saw by the way was that Steve seemed way more interested in joining the Army than being with girls it's easy to read this as him just being so darn patriotic but it was actually extremely common for gay men in the first half of the 20th century to join the military and all male environment seemed pretty appealing to a lot of gay men at the time even if you did run the risk of getting shot by a Nazi but at least you'd die a hero instead of people back home finding out that you're a queer and dying ashamed and alone there's also a hint of gay shame Steve feels like he's not good enough not a real man and he wants so badly to be like everyone else that he's willing to go through a very risky procedure to make it happen was this gay coding in the 1940s of course not it was just a superhero origin story it may not be allegorical but it's certainly applicable which is something that makes superheroes so Timeless no matter who you are no matter where or when you live you can project yourself onto a superhero but I'm not here to say that Captain America and Bucky Barnes are gay I'm here to say that the mcu's Captain America and Bucky burns are gay now of course Steve is madly in love with Peggy Carter but look at the woman she's smart she's gorgeous she's a badass how could you not help but fawn over her she's not just any woman she's one hell of an exceptional woman and also the obligatory love interest but she's awesome so we'll ignore that you must have danced well that's going a woman to dance always seems so terrifying in the past few years just didn't seem to matter that much figured I'd wait for what right partner interesting use of the word partner there could have said the right girl so after Steve becomes Captain America Bucky is captured and presumed killed by Hydra the super Nazis and Steve goes out to save him Bucky means the world to him and if there's even a chance of him being alive he's not going to lose him cap Saves the Day of course and this tiny gesture I don't know it really caught my attention the first time I saw the movie as they're escaping the facility begin begins to melt down but Bucky refuses to leave without Steve eventually they both escape and the dynamic between them changes Steve is no longer the little guy looking up to his Bud bucky bucky is now admiring Steve becoming his partner fighting the Nazis with him until Bucky falls from a train into a frozen European Wasteland below this breaks Steve the All-American man of men superhero breaks down into tears the loss of Bucky he's seen so Much Death in this war so much Carnage so much loss but it's the loss of Bucky that breaks him then Steve decides to die rather than be with Peggy and crashes a Nazi super plane into a glacier where he's found a few decades later and resurrected because superheroes then in Winter Soldier we find out that Bucky isn't dead he's been kept Alive by Hydra all this time and is an assassin for them again because superheroes so while Steve is slowly acclimating to living in the 21st century the return of Bucky shakes him to his core a part of his life he thought he'd lost forever is back Steve's already seen Peggy but she's not the Peggy he knew she's aged dying he still cares for her of course but Bucky's the same age as Steve give or take he's like a memory plucked from the past and placed smack dab in Steve's present like Steve he's a part of a world that no longer exists so even though Bucky has been brainwashed and has the blood of hundreds of murdered people on his hands Steve cannot bring himself to kill him not his Bucky not in this world of a new millennium where being LGBT Isn't So frowned upon and maybe he and Bucky could be a real thing Peggy even kind of gives Steve permission the world has changed none of us can go back all we can do is our best and sometimes the best that we can do is to start over and Bucky's the only person in this whole wide crazy world that Steve feels he can really connect with though Bucky doesn't remember Steve and everyone around him tells him Bucky needs to be taken down Steve refuses he hopes Beyond hope that he can bring Bucky back not just to save Bucky but to save himself to be not so alone after fighting in a doomed Helicarrier Steve backs off takes off his helmet and bears his soul to Bucky literally dropping his shield something he hasn't done before something that's only worth it because it's for Bucky he does this again in Civil War literally and metaphorically letting his guard down for one person and one person only when Bucky holds Steve's life in his hand about to land the killing blow Steve tells him to do it then finish it CU I'm with you to the end of the line Steve trusts Bucky even now in this demented State he trusts him with his life and we can see in Bucky's eyes he's remembering he's remembering his friend looking down into his face he sees someone he loves he can't kill him and when Steve falls from the Helicarrier with Bucky Left Alive he could just let him fall and drown in the water below but he saves him just like Steve saved him back in World War II so even after being reprogrammed a 100 times by Hydra the memory of his love for Steve is so strong platonic or romantic it doesn't matter their bond is so strong that he overrides all of that programming and saves the most important person in the world to him Bucky disappears in Into The Ether after that but Steve knows he's alive out there and he won't give up looking for him a mission that culminates in Captain America Civil War in Civil War Steve is willing to let the Avengers fall apart to save Bucky he's willing to let the might of the whole world come down on his shoulders to save Bucky even after it's revealed that Bucky killed Tony's parents he still won't let him go and by abandoning his shield he's even willing to leave the identity of Captain America America behind because he doesn't need to be Captain America anymore he doesn't need to be an Avenger because he's got Bucky so Steven Bucky love each other even Joe Russo the director of Civil War said so calling the movie a love story between the two Heroes now you can say James they're just good friends these arguments often start out under the guise of progressive thought making claims like they's so few examples of non-toxic masculinity and media so we need more portrayals of a positive friendship between two men this sounds like a good argument at first until you think about it for a minute or two and remember that almost all media is about male relationships and male friendships when it comes to Captain America and Bucky Barnes specifically that well has been tapped quite thoroughly the relationship between two men who fought alongside each other in a war has been the topic of many stories throughout Millennia it's one of the most popular male friendship stories ever and why shouldn't that relationship go beyond just a friendship does it ruin the value of the Friendship if it's also nonplatonic The Iliad story of Achilles and Patrick's relationship should serve as an early Counterpoint here ideally people in a relationship with one another would also be friends if the idea of characters being in a relationship ruins that for you then perhaps you should think about why you feel that way and flip the coin for a second say Bucky's a woman watching these movies seeing this relationship would you think for even a second that these two people aren't going to end up together in the end really but of course they don't because [ __ ] Disney and oddly enough the Stucky pairing would probably be the most Disney friendly gay relationship they could have because fans of the proposed couple aren't fans because of the expected sex sure there's plenty of porn online of the two of them if you're willing to go look for it but that's not what draws people to them it's a bond between them it's a bond that lasts for decades travels through time goes through Hellen back and yet in the end they're still dedicated to each other it's a love story I don't even think it was done on purpose to be honest unlike Teen Wolf and Sherlock I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into loving them we were going to go see Chris Evans anyway it's just kind of happened a natural outgrowth of the Chemistry Between the two actors playing two characters that are innately drawn to one another I think it's a beautiful accident that can be read as either platonic or romantic love the fact that so many gay people read it as being a queer Love Story just shows how starved we are for representation in movies just like in the days of queer coding we're willing to dig deep into our favorite media to find any hint of us possibly being represented whether those golden nuggets are actually there or not but we keep looking and looking someday hopefully very soon there will be a gold rush even if right now we're only finding Fool's Gold this video has been a long time coming I originally started working on it about a year ago and it was called for the love of Stucky and was just a look at the Stucky relationship to say it's grown a bit as a bit of an understatement uh I'm hoping to get another video out oh maybe sooner than a year from now uh you can check out my patreon if you'd like to help out in the production of these videos or just like share and subscribe nothing gets this channel out there more than that you can also follow me on Twitter at Jor Summerton or check out my Community page to vote on what video I'll be doing next so thank you so much for watching I hope you enjoyed this Beast of a video uh I will be back soon with more content I promise so until then take care stay
+God damn it, British people. I said we'd be getting back to the wizards, didn't I? *Harry Potter And The Cursed Child* is a two-night play that's been dominating the West End and Broadway since it first opened in 2016. Now, since it's a play without a whole lot of live footage, we'll be relying on quotes from the script here. But before I even start, Albus Potter and Scorpius Malfoy are gay. Don't care what anyone says! Not going to change my mind!
+
+Now why do I think this? Well, let's start off with how they meet. Albus and his cousin Rose are on their way to their first year at Hogwarts.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+\[Quote from script on screen]:
+> Albus opens a door- to look in on a lonely blonde kid, Scorpius - in an otherwise empty compartment. 
+> 
+> Albus smiles. Scorpius smiles back.
+
+</james>
+<comment>
+{% include header for=tustin %}
+
+Transcription note: James shows the script on screen over black during this section, presumably copied from the book. He doesn't read out character name markers, and I'll <del>mark</del> anything else he leaves off.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Well, that's innocent enough. Two boys smiling at each other doesn't... *scream* gay agenda to me. Eventually, Rose leaves the two and we get this description:
+
+> Scorpius and Albus look at each other and something passes between them.
+
+Things pass between me and my straight friends all the time when we were starting puberty, no big deal. The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus, since he's Harry Potter's kid and all. 
+
+We learned more about Albus's life at home, his awkward relationship with his family -- he feels like he doesn't fit in, especially after being sorted into Slytherin with a family entirely made up of Gryffindors. Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So although they both feel alienated from their families, they feel at home with each other. A safe harbor in an otherwise rocky sea. Harry *tried* to make Albus feel welcome, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. Scorpius is the only person that Albus feels comfortable with. 
+
+> Albus hugs his friend.  
+> With fierceness.  
+> They hold for a beat. Scorpius is surprised by this. 
+> 
+> **Scorpius**  
+> Okay. <ins>uh,</ins> Hello. Um, have we hugged before? Do we hug?
+>
+> The two boys awkwardly dislocate.
+
+Albus *will not* hug his father or family. But he'll hug Scorpius. Fiercely. With passion.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So because the structure of this play is a bit... off we're in year four now! And Albus wants to go back to his father's fourth year and save Cedric Diggory from being murdered. Because that's something his father couldn't do. So he and Scorpius ditch the train to Hogwarts in order to find the last surviving Time Turner and save Cedric.
+
+> **SCORPIUS:**
+> If we're doing this, we're doing it <del>(he puts on a pair of familiar-looking glasses with a smile)</del> together.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Tagging along with them is a girl who -- in case you haven't seen the play or read the script... I don't want to say who she *really* is because it's a spoiler and... stupid. But there's a girl named Delphi<sup>[Del-fi]</sup> or Delphi<sup>[Del-Fee]</sup> and Albus kind of *digs her* and... Scorpius is conflicted about this.
+
+> SCORPIUS appears at the back of the stage. He looks at his friend talking to a girl -- and part of him likes it and part of him doesn't.
+
+Delphi won't be going back in time with them though because... reasons. As they make their way through the Forbidden Forest, the pair talk about their lives. And Albus reveals how how much he hates it at Hogwarts, how terrible it is for him.
+
+> **SCORPIUS:** Not for me.
+>
+> ALBUS looks at his friend, shocked.
+>
+> All I ever wanted to do was go to Hogwarts and have a mate to get up to mayhem with. Just like Harry Potter. And I got his son. How crazily fortunate is that?
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+They more or less succeed in saving Cedric but... when they return to their time everything is odd. Albus is in Gryffindor now and Harry doesn't want him seeing Scorpius anymore.
+
+> **HARRY:** I need you to stay away from Scorpius Malfoy.  
+> **ALBUS:** What? Scorpius?  
+> **HARRY:** I don't know how you became friends in the first place, but you did, and now -- <ins>I-</ins>I need you to --  
+> **ALBUS:** My best friend? My only friend?  
+> **HARRY:** He's dangerous.  
+
+This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again. Albus gives in and promises not to see Scorpius anymore.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+> **SCORPIUS:** Albus? You're okay. That's fantastic.
+>
+> **HARRY:** He's completely cured. And we've got to go.
+> 
+> ALBUS looks up at SCORPIUS and his heart breaks. He walks on.
+> 
+> **SCORPIUS:** Are you mad at me? What's going on?
+>
+> ALBUS stops and turns to SCORPIUS.
+>
+> **ALBUS:** Did it work? Did any of it work?
+> 
+> **SCORPIUS:** No . . . But, Albus--
+> 
+> **HARRY:** Albus. Whatever gibberish you're talking, you need to stop it, now. This is your final warning.
+>
+> ALBUS looks torn between his dad and his friend.
+> 
+> **ALBUS:** I can't, okay?
+> 
+> **SCORPIUS:** You can't what?
+> 
+> **ALBUS:** Just -- we'll be better off without each other, okay?
+>
+> **SCORPIUS** is left looking up after him. Heartbroken.
+
+Harry's a dick. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Hell, even *Draco* becomes the voice of reason, confronting Harry about the situation.
+
+> **DRACO:** I'm not here to to antagonize you. But my son is in tears and I am his father and so I'm here to ask you why you would keep apart two good friends.
+>
+> **HARRY:** I'm not keeping them apart.
+>
+> **DRACO:** You've changed school timetables, you've threatened both teachers and Albus himself. why?
+> 
+> HARRY looks at DRACO carefully and then turns away.
+>
+> **HARRY:** I have to protect my son.
+
+Again, Harry is a dick.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Later on Delphi approaches Scorpius.
+
+> **DELPHI:** Albus needs you, Scorpius. That's a wonderful thing.
+>
+> **SCORPIUS:** He needs me to do what?
+>
+> **DELPHI:** That's the thing, isn't it? About friendships. You don't know what he needs. You only know he needs it. Find him, Scorpius. You two -- you belong together.
+
+Scorpius's life is even worse now that Albus isn't in it. The two eventually have a fevered argument that leaves Scorpius even more distraught and lost. People think he's the son of Voldemort. (It's complicated, very complicated, stupidly complicated.)
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+He thinks he's a terrible person. That maybe all the horrible things said about him are true. Albus disagrees.
+
+> **ALBUS:** No. They're not true. And I'll tell you why. Because I don't think Voldemort is capable of having a kind son -- and you're kind, Scorpius. To the depths of your belly, to the tips of your fingers. I truly believe Voldemort -- Voldemort couldn't have a child like you.
+>
+> Beat. SCORPIUS is moved by this.
+>
+> **SCORPIUS:** That's nice -- <ins>that's-</ins> that's a nice thing to say.
+>
+> **ALBUS:** And it's something I should have said a long time ago. In fact, you're probably the best person I know. And you don't -- you couldn't -- hold me back. <ins>You-</ins>You make me stronger -- <del>and</del> when Dad forced us apart -- without you --
+>
+> **SCORPIUS:** I didn't much like my life without you in it either.
+
+The two boys reconcile, finally realizing that they need each other in their lives. They go back in time again to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that Albus doesn't even exist. Dolores Umbridge is head Mistress of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In this new timeline, Scorpius is super popular. The guy everyone wants to be, but he hates it. He wants his old life. Even with how unhappy he was, none of this new happy life is worth it, because he can't have Albus with him.
+
+Scorpius finds out that Snape is still alive and approaches him to help in getting Albus back. Snape, along with alternate timeline Ron and Hermione, agree to help Scorpius. In the process, Ron and Hermione are attacked by Dementors. Albus is terrified, but Snape tells him that the memory of one person, one person who makes you s*o happy, that memory is enough to defeat the Dementors. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Snape even compares how Scorpius feels about Albus to how h*e felt about Lily Potter. As problematic as Snape's infatuation with Lily is, he loved her. And he sees that Scorpius feels the same way for Albus. Taking the Albus Scorpius relationship beyond even a teenage romance, and into a love that lasts for decades. That death, murder, war, and magic cannot stop.
+
+And unlike with Snape and Lily, though, Albus feels the same way. They're completely devoted to one another. Scorpius succeeds in bringing Albus back and is speechless when he sees him again, though Albus is completely unaware of what's taken place and thinks he's only blacked out for a couple of minutes. Scorpius grabs him and hugs him tight. 
+
+The rest of the play is pretty much a hot mess. Eventually dark wizards are after them, ready to go in for the kill. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+\[There's a completely unrelated quote that is now scrolling on screen, but James is reading it like it's part of the Cursed Child script. The quote on screen is as follows:]
+
+<blockquote class="del">"You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."</blockquote>
+
+\[What James is reading out:]
+
+<blockquote class="add">
+
+So, we hide in a hole? 
+
+As pleasurable as it will be to hide in a hole with you for the next 40 years, they'll find us and we'll die, and time will be stuck in the wrong position. No, we-we need something we can control, something we know he'll get [at] exactly the right time. we need a-- 
+
+There's nothing. 
+
+Still, if I had to choose a companion to be at the return of Eternal Darkness with, I'd choose you.
+
+</blockquote>
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Good wins out over evil, of course, and Albus and Scorpius's lives go back to normal. And at the very end of the *damn play*, we get a *forced* scene where Scorpius acts like he has *interest* in a *girl*. Because even *the writers* knew these two were in love with each other, but families were going to go see, this so *God **forbid*** we don't *no-homo* them as *hard as possible* in the *last 5 minutes!* 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+So, She-Who-Must-Not-Be-Named has said there will never be a *Cursed Child* movie. (Which Warner Brothers might disagree with considering how well this play is doing.) But, I think she's right. Because no one will be able to watch this movie and not see these two boys as gay, no matter *how many* no-homo endings, you tag<sup class="add">[sic: tack]</sup> on. Honestly, Harry-Draco helped kind of helped create modern gay fan fiction, and then Albus and Scorpius were *this close* to making a version of it canon. *This close.* 
+
+I am thoroughly convinced that at some point in the writing process, the playwrights *did* intend on them being gay. And it got switched somewhere along the line. It's not unheard of, it's not the first time that's happened.
+{% assign timecode = "1:00:25" %}
+
+</james>
+<from></from>
+</compare>
+
+### Ocean's Eleven
+
+<compare>
+<james {% include timecode %}>
+
+The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple. I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. Queer people around the world noticed it. Even straight people!
+
+One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie. So... why did so many people read it that way?
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection. But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou. Coming at this film with a queer lens, I initially felt like the filmmakers were saying it without actually saying it, giving us queer characters whose whole point in life isn't just being queer characters. While telling about her history of running Cons with Lou, Debbie refers to Lou as as her partner. Business partner? Life partner? Yes.
+
+When recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch". Were they strapped for cash? Or on the Rocks romantically? Again, yes. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that. <mark fc>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+
+</james>
+<comment id="historians">
+{% include header for=tustin %}
+
+I have never heard of this term before in my life. I've also asked and several other people in the Former Fans discord have never heard of this term either.
+
+It's definitely a thing that online queer people make fun of all the time, but usually in terms of, like, "historians", eg, ["Historians will say that they were Just Friends"](https://www.reddit.com/r/AskHistorians/comments/kqkmk3/historians_say_they_were_just_friends_but_they/) or ["I'm the historian"](https://www.reddit.com/r/aaaaaaacccccccce/comments/vhrzj2/were_all_the_historian_once_in_a_while/) (and obligatory mention of [/r/SapphoAndHerFriend](https://www.reddit.com/r/SapphoAndHerFriend/) and [/r/AchillesAndHisPal](https://www.reddit.com/r/AchillesAndHisPal/)). Or the whole ["omg, they were roommates" meme](https://knowyourmeme.com/memes/oh-my-god-they-were-roommates).
+
+</comment>
+<james {% include timecode %}>
+
+Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other. So for me nothing about their relationship points to just being friends. And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer, for the movie said in an interview after the film's release:
+
+\[Quote from above now placed correctly, scrolling on screen]:
+> "You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."
+
+So when they started production, Lou and Debbie had been in a relationship, but by the time they'd wrapped, that was no longer the case. Secret lesbians confirmed. Now give me a sequel so they can kiss already!
+
+</james>
+<from></from>
+</compare>
+
+### Teen Wolf
+
+<compare>
+<james {% include timecode %}>
+
+Oh God, here we go...
+
+<wbr on />Hitting TV screens in 2011, the MTV show became famous for its propensity to show nearly naked men in nearly every episode. Maybe it was their way of paying reparations for the "I'm not a fag. I'm a werewolf" line from the 1985 movie. The whole show is pretty gay, if we're being honest, kind of like a teenage version of *True Blood* in more ways than one, but the relationship that drove the series into will-they-won't-they territory was between lovable nerd Stiles and brooding alpha werewolf Derek. Fondly known online by the couple name "Sterek". 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Much like with Merlin, the pair start the series off on a bad paw. But over the course of a few seasons, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.<wbr off /> But because they're *two guys*... 
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Garage]
+
+Stiles: "Well, Dad, there's a conversation that we--"
+
+Dad: "You're not gay."
+
+Stiles: (balks) "Wha-- I could be!"
+
+Dad: "Not dressed like that."
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Dance club]
+
+Stiles: "Uh, I thought you liked girls."
+
+Girl: "I do like girls. Do you?"
+
+Stiles: "Absolutely."
+
+Girl: "Great."
+
+Stiles: "So you also like boys?"
+
+Girl: "Absolutely. Do you?"
+
+Music in background: "*I said I love you!*"
+
+</clip>
+<james {% include timecode %}>
+
+So pretty quickly, it set up that Stiles is bisexual. Is it said outright? *No!* Of course <wbr on />not! That would be too easy.<wbr off /> But is it made painfully obvious?
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Walking down school hallway]
+
+Stiles: "I don't think Danny likes me very much."
+
+Scott: "I asked Alison on a date and now we're hanging out."
+
+Stiles: "Am I not attractive to gay guys?"
+
+Scott: "I make first lineup and the team captain wants to destroy me, and now... I'm going to be late for work."
+
+Stiles: "Wait, Scott! You didn't--! Am I attractive to gay guy--!? You didn't answer my question."
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+Guy (to Derek): "Everyone wants you. You know, you're like the hot girl that every guy wants."
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Stiles shouting out a car window]
+
+Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+Man: "We should, maybe, take this upstairs?"
+
+Girl: "He's my type."
+
+\[Meaningful looks all around]
+
+Stiles: (scratches neck) "Okay, Issac can come too."
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+[School hallway]
+
+Stiles: (sighs) "And I also got to say, this new-found heroism has making me very attracted to you."
+
+Scott: "Shut up."
+
+Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott pushes him) "Just to see how it feels!"
+
+</clip>
+<james {% include timecode %}>
+
+Yes, yes, it is.
+
+When Stiles and the main character, Scott, go to a gay bar, Stiles even gets frustrated when a guy buys a drink for *Scott* and not for him. Why are they at a gay bar? Because it's *Teen Wolf*, why would wouldn't they be at a gay bar?
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Classroom]
+
+Stiles: "One more question?"
+
+Danny: "What?!"
+
+Stiles: "Do you find me attractive?"
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Locker Room]
+
+Stiles: "Someone needs to have sex with me, like *today*. Like someone needs to sex me *right now*."
+
+Danny: (slams locker, turns, smiling) "Alright, I'll do it."
+
+Stiles: (screams in alarm) "Wh-What?!"
+
+Danny: "Come to my place at 9:00. Plan to stay the night. I like to cuddle."
+
+Stiles: (exchanges surprised looks with Scott) "That was so sweet. Are you kidding?"
+
+Danny: "Yes. I'm kidding!"
+
+Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it's not attractive! Alright?!"
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Classroom]
+
+\[Previous scene, Stiles is apparently waiting for Danny to answer, falls over and causes clattering.]
+
+</clip>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+\[Cafeteria]
+
+\[Stiles sits akwardly between Danny and another girl.]
+
+</clip>
+</compare>
+
+\[Over Black screen]: Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
+
+<wbr on />Derek is straight. Very straight. He has all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.<wbr off /> But Stiles can't get him off his mind.
+
+<compare>
+<clip {% include citation for=page.cite.clips.teenwolf %}>
+
+Stiles: "No more questions. No more talk about the alpha, or Derek. Especially Derek." (Thousand-yard stare)
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<wbr on />In one episode, Derek is paralyzed by a monster and has to be held afloat in the middle of a pool by Stiles, because... the monster can't swim. Stiles holds him up for over two hours. Much like Merlin, Stiles risks his life for Derek *over and over and over* again, and becomes visibly jealous when girls show interest in his hunky were-crush. His feelings for Derek are *not* subtle.<wbr off />
+
+And this is not an accident. Even the action is pointing toward romance, whether it's obvious or not. <wbr on />Take this scene, where they're both paralyzed (a-again). Stiles files on top of Derek the same way that we've seen women fall on top of men in a hundred romantic comedies. The way they lock eyes, time and time again. The way they *annoy* each other, needle each other, but always come to the rescue.<wbr off />
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+👏 This 👏 is 👏 not 👏 subtle! 👏 This is on purpose.
+
+In an interview, with after Elton Show creator Jeff Davis said:
+
+> "I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
+
+That's a very noble pursuit, but it's not realistic to even try to achieve it. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<wbr on />There are plenty of out queer characters on Teen Wolf, but none of them are leads. The Sterek fandom became rabid online with art and fan fiction, becoming just as popular as the show itself. Some of the cast encouraged the shipping, including Dylan O'Brien and Tyler Hoechlin, *who would cuddle with each other at fan events*.<wbr off /> They baited Sterek as a couple, they baited Stiles's sexuality, with absolutely *no* intention on following through. 
+
+The reason this is so onerous is because the queer baiting didn't even stay in the show! They moved it over into real life. Stiles wasn't just coded adorably bisexual, they used *queer baiting* to get you to *do something* for them! 
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.teenwolf_advert %}>
+
+[Dylan O'Brien and Tyler Hoechlin on a boat, in one another's arms.]
+
+Tyler: "Vote for us. Uh, it's *Teen Wolf* for best... summer show?" (to Dylan)
+
+Dylan: "Yeah, Teen Choice Summer Show."
+
+Tyler: "Something. Just find *Teen Wolf* and vote for it." (puts head down on Dylan's back lovingly.)
+
+Dylan: "Just whenever you see *Teen Wolf*, fill in that circle, cuz we really appreciate it."
+
+(Tyler gives a thumbs up while still cuddling)
+
+Dylan: "And we'll take more naps like these for you. Maybe on UStream. Uh, yeah, and now I'm going to be stuck to that."
+
+(Meanwhile, Tyler puts his finger near Dylan's mouth, and Dylan licks it.)
+
+Dylan: "Sterek all the way."
+
+</clip>
+<james {% include timecode %}>
+
+*I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. [Shrugs]
+
+<wbr on />This is probably the most obvious example of queer baiting to have ever existed in monitored media.<wbr off /> But it wasn't the most well-known. Bringing out the big guns now.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Arguably, the three biggest media franchises in the world right now are Star Wars, Frozen, and the Marvel Cinematic Universe. They all have a few things in common: they're all owned by Disney and they've all been accused of queer baiting. Disney is actually kind of terrible for this. Not only do they queerbait their characters, they actually create queer media... and then *yank it away* from you! 
+
+*Love, Victor* was a sequel TV series to the hit film *Love, Simon*. It was announced alongside Disney Plus as one of the big reasons to buy into the service. But then when the show actually *had gay content*, Disney shafted it over to Hulu. Which is not available in nearly as many places as Disney Plus, essentially segregating a gay show that they had promised their viewers. Putting it on a service with a fraction of the subscribers. That way when the ratings aren't that great, they can just say it wasn't popular, and let it die. Maybe even use it as an example as to why queer content doesn't sell! Like I said in my [Stonewall Film Effect video](4YWslnyUxcs.md), as far as executives are concerned, a queer movie or show or book that fails *always* fails because it's queer, never because of the circumstances around it.
+
+Okay. Rant over. Frozen!
+
+</james>
+<from></from>
+</compare>
+
+### Frozen
+
+There's not a whole lot to show about Frozen because most of the queer coding is in song and Disney will come down on me with the intellectual property Hammer if I play a song from Frozen but the first film was read as super queer by a sizable portion of the population so much so that homophobic bloggers accuse Disney of indoctrinating children with the gay agenda but they wouldn't have anything to WR about if children weren't being indoctrinated in the gay agenda so let's ignore them but actual lgbtq fans of the film latched on to Elsa being the first potentially queer Disney princess creating the Evergreen social media Trend #g Elsa a girlfriend Let It Go became a sort of a gay anthem and the film featured queer icon ad Menzel in the lead and gay heart throb and my future husband Jonathan gra voicing Kristoff so fans were hoping for a lot when Frozen 2 finally hit theaters this past year while the film didn't State Elsa SE uality one way or another it left the door open hinting at a gay relationship between her and honey Maron and the new song show yourself while not a cultural phenomenon like Let It Go became a gay anthem I mean with these lyrics how could it not every inch of me is trembling but not from the cold something is familiar like a dream I can reach but not quite hold I can sense you there like a friend I've always known I'm arriving and it feels like I am home I have always been a fortress cold Secrets deep inside you have secrets too but you don't have to hide show yourself I'm dying to meet you that's right Elsa you run down that ice vagina but seriously though those lyrics sound like an email I wrote to my online boyfriend in Ohio in the seventh grade so is Elsa gay uh maybe Frozen 3 is in development so Elsa might climb out of her safic slump or Disney will continue to not say yes but not say no either just like they did with one of their other Global spanning [Music] IPS Star Wars the Force awakens introduced us to PO and Finn a rebellious pilot and a stormtrooper who meet up by chance Escape together and fall madly in love well they didn't tell us they fell madly in love but the actors certainly showed it when they escaped the first order they crashed land when Finn comes to he searches for po but he's nowhere to be found Assuming he's dead Finn is heartbroken and takes POS jacket as a reminder of [Music] him Finn is then set up for what would usually be a love story with the lead female character Ry but no that doesn't go anywhere Finn shows interest for sure but it's not reciprocated leaving the door open for Finn to fall in love with someone else else maybe and eventually we find out that PO is still alive and we get this [Music] scene H what happened to you what happened I got thrown from the crash I woke up at night no you no ship nothing you completed my mission Finn that's my jacket oh oh no no no no keep it it suits you the eye [ __ ] oh my God before the movie was released the cast went on to the Ellen show it's very subtle romance that's happening you know you have to just look very close you have to watch it a few times to see the little hints but there was at least I was playing romance I was in the cockpit I was playing there was a very deep romance I see so though it wasn't obvious Oscar Isaac and John boa were certainly playing it that way so would it be more obvious in The Last Jedi well leading up to the release of The Last Jedi Star Wars producer Kathleen Kennedy was asked about the potential relationship she said we've talked about it but I think you're not going to see that in the Last Jedi in the next 6 or eight months we will have some meetings about the stories that we will develop next after 40 Years of Adventures people have a lot of information and a lot of theories about the path these stories can take and sometimes those theories that come up are new ideas for us to listen to read and pay attention to so not the Last Jedi okay running out of time here guys about rise of Skywalker well JJ Abrams teased for months before the film's release that there would be real LGBT representation in the film a gay kiss even obviously fans thought it would be Po and Finn but no instead Abrams made sure to give po a female love interest neuter fin entirely and tossed in and out of focus blinking you miss at lesbian kiss between two ascended extras after the release of Rise of Skywalker Oscar Isaac had this to say in an interview like there was an Absol absolute natural chemistry with him uh I I immediately felt very connected to him I remember uh it was an audition and the two of us just like did that first scene back to back butt to butt you know just like doing the scene together practicing it in this room and like it was just like immediately all you know all kind of artifice everything just collapsed and there was like an intimacy that was very just like there and um and I think the fact that neither of us shied away from that while we were shooting as well I think it just was like these are two guys that you know are he happy being intimate with each other emotionally and that um so it wasn't actually a total shock that you know you know people you know wanted to you know saw that in there personally I I kind of hoped and wished that maybe that would have been T taken further uh in the other films but you know I don't have control over that so he wasn't happy about it the fans shipping Fino weren't happy about it the gay community wasn't happy about it and the rise of Skywalker became the lowest grossing film of the new Trilogy Star Wars is now in brand rehab at Disney who are trying to figure out what to do with the property after it seemed like no one could agree on any of their Five Star Wars movies that they made to date with solo bombing at the box office and Rise of Skywalker coming nail-bitingly close to losing money I'm not saying making Po and Finn gay would have saved the box office probably the opposite to be honest but at least Disney could have said that they did something before any other Studio that they put gay characters in a giant cinematic spectacle before most studios are willing to even give us a movie at all but this is the company that tossed love Victor back into the streaming closet so what else would we expect I mean I'm sure Disney hasn't done anything like this before what was [Music] that Steve Rogers AKA Captain am America AKA Chris Evans because he's the real superhero and Bucky Burns AKA The Winter Soldier are two of the many many many characters in the Disney owned Marvel Cinematic Universe they were originally created way back in the 1940s when Bucky was actually Steve's kid sidekick because every superhero had to have a kid sidekick fast forward 70 years and about 100 iterations later and we see the pairing that become known the world over as Stucky right from the off there's a sort of Chemistry Between them with Bucky kind of acting as a big brother figure to Steve who needs help fighting the bullies in his life Steve's got a big heart but that's about the only part of him that's big wait does the Super Soldier serum make your one of the things I noticed the first time I saw the movie which was the first MCU movie I saw by the way was that Steve seemed way more interested in joining the Army than being with girls it's easy to read this as him just being so darn patriotic but it was actually extremely common for gay men in the first half of the 20th century to join the military and all male environment seemed pretty appealing to a lot of gay men at the time even if you did run the risk of getting shot by a Nazi but at least you'd die a hero instead of people back home finding out that you're a queer and dying ashamed and alone there's also a hint of gay shame Steve feels like he's not good enough not a real man and he wants so badly to be like everyone else that he's willing to go through a very risky procedure to make it happen was this gay coding in the 1940s of course not it was just a superhero origin story it may not be allegorical but it's certainly applicable which is something that makes superheroes so Timeless no matter who you are no matter where or when you live you can project yourself onto a superhero but I'm not here to say that Captain America and Bucky Barnes are gay I'm here to say that the mcu's Captain America and Bucky burns are gay now of course Steve is madly in love with Peggy Carter but look at the woman she's smart she's gorgeous she's a badass how could you not help but fawn over her she's not just any woman she's one hell of an exceptional woman and also the obligatory love interest but she's awesome so we'll ignore that you must have danced well that's going a woman to dance always seems so terrifying in the past few years just didn't seem to matter that much figured I'd wait for what right partner interesting use of the word partner there could have said the right girl so after Steve becomes Captain America Bucky is captured and presumed killed by Hydra the super Nazis and Steve goes out to save him Bucky means the world to him and if there's even a chance of him being alive he's not going to lose him cap Saves the Day of course and this tiny gesture I don't know it really caught my attention the first time I saw the movie as they're escaping the facility begin begins to melt down but Bucky refuses to leave without Steve eventually they both escape and the dynamic between them changes Steve is no longer the little guy looking up to his Bud bucky bucky is now admiring Steve becoming his partner fighting the Nazis with him until Bucky falls from a train into a frozen European Wasteland below this breaks Steve the All-American man of men superhero breaks down into tears the loss of Bucky he's seen so Much Death in this war so much Carnage so much loss but it's the loss of Bucky that breaks him then Steve decides to die rather than be with Peggy and crashes a Nazi super plane into a glacier where he's found a few decades later and resurrected because superheroes then in Winter Soldier we find out that Bucky isn't dead he's been kept Alive by Hydra all this time and is an assassin for them again because superheroes so while Steve is slowly acclimating to living in the 21st century the return of Bucky shakes him to his core a part of his life he thought he'd lost forever is back Steve's already seen Peggy but she's not the Peggy he knew she's aged dying he still cares for her of course but Bucky's the same age as Steve give or take he's like a memory plucked from the past and placed smack dab in Steve's present like Steve he's a part of a world that no longer exists so even though Bucky has been brainwashed and has the blood of hundreds of murdered people on his hands Steve cannot bring himself to kill him not his Bucky not in this world of a new millennium where being LGBT Isn't So frowned upon and maybe he and Bucky could be a real thing Peggy even kind of gives Steve permission the world has changed none of us can go back all we can do is our best and sometimes the best that we can do is to start over and Bucky's the only person in this whole wide crazy world that Steve feels he can really connect with though Bucky doesn't remember Steve and everyone around him tells him Bucky needs to be taken down Steve refuses he hopes Beyond hope that he can bring Bucky back not just to save Bucky but to save himself to be not so alone after fighting in a doomed Helicarrier Steve backs off takes off his helmet and bears his soul to Bucky literally dropping his shield something he hasn't done before something that's only worth it because it's for Bucky he does this again in Civil War literally and metaphorically letting his guard down for one person and one person only when Bucky holds Steve's life in his hand about to land the killing blow Steve tells him to do it then finish it CU I'm with you to the end of the line Steve trusts Bucky even now in this demented State he trusts him with his life and we can see in Bucky's eyes he's remembering he's remembering his friend looking down into his face he sees someone he loves he can't kill him and when Steve falls from the Helicarrier with Bucky Left Alive he could just let him fall and drown in the water below but he saves him just like Steve saved him back in World War II so even after being reprogrammed a 100 times by Hydra the memory of his love for Steve is so strong platonic or romantic it doesn't matter their bond is so strong that he overrides all of that programming and saves the most important person in the world to him Bucky disappears in Into The Ether after that but Steve knows he's alive out there and he won't give up looking for him a mission that culminates in Captain America Civil War in Civil War Steve is willing to let the Avengers fall apart to save Bucky he's willing to let the might of the whole world come down on his shoulders to save Bucky even after it's revealed that Bucky killed Tony's parents he still won't let him go and by abandoning his shield he's even willing to leave the identity of Captain America America behind because he doesn't need to be Captain America anymore he doesn't need to be an Avenger because he's got Bucky so Steven Bucky love each other even Joe Russo the director of Civil War said so calling the movie a love story between the two Heroes now you can say James they're just good friends these arguments often start out under the guise of progressive thought making claims like they's so few examples of non-toxic masculinity and media so we need more portrayals of a positive friendship between two men this sounds like a good argument at first until you think about it for a minute or two and remember that almost all media is about male relationships and male friendships when it comes to Captain America and Bucky Barnes specifically that well has been tapped quite thoroughly the relationship between two men who fought alongside each other in a war has been the topic of many stories throughout Millennia it's one of the most popular male friendship stories ever and why shouldn't that relationship go beyond just a friendship does it ruin the value of the Friendship if it's also nonplatonic The Iliad story of Achilles and Patrick's relationship should serve as an early Counterpoint here ideally people in a relationship with one another would also be friends if the idea of characters being in a relationship ruins that for you then perhaps you should think about why you feel that way and flip the coin for a second say Bucky's a woman watching these movies seeing this relationship would you think for even a second that these two people aren't going to end up together in the end really but of course they don't because [ __ ] Disney and oddly enough the Stucky pairing would probably be the most Disney friendly gay relationship they could have because fans of the proposed couple aren't fans because of the expected sex sure there's plenty of porn online of the two of them if you're willing to go look for it but that's not what draws people to them it's a bond between them it's a bond that lasts for decades travels through time goes through Hellen back and yet in the end they're still dedicated to each other it's a love story I don't even think it was done on purpose to be honest unlike Teen Wolf and Sherlock I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into loving them we were going to go see Chris Evans anyway it's just kind of happened a natural outgrowth of the Chemistry Between the two actors playing two characters that are innately drawn to one another I think it's a beautiful accident that can be read as either platonic or romantic love the fact that so many gay people read it as being a queer Love Story just shows how starved we are for representation in movies just like in the days of queer coding we're willing to dig deep into our favorite media to find any hint of us possibly being represented whether those golden nuggets are actually there or not but we keep looking and looking someday hopefully very soon there will be a gold rush even if right now we're only finding Fool's Gold this video has been a long time coming I originally started working on it about a year ago and it was called for the love of Stucky and was just a look at the Stucky relationship to say it's grown a bit as a bit of an understatement uh I'm hoping to get another video out oh maybe sooner than a year from now uh you can check out my patreon if you'd like to help out in the production of these videos or just like share and subscribe nothing gets this channel out there more than that you can also follow me on Twitter at Jor Summerton or check out my Community page to vote on what video I'll be doing next so thank you so much for watching I hope you enjoyed this Beast of a video uh I will be back soon with more content I promise so until then take care stay
 [Music]
 safe
 

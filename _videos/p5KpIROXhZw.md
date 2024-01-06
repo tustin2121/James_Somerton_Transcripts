@@ -369,13 +369,11 @@ The nightmares Brute and Glob were replaced by another nightmare entirely, Gault
 
 It’s worth noting however, that there is simply much more *Sandman* content in the Netflix series than the corresponding comics. The existing narrative was beefed up to flush[^sic] out a whole season (unlike the Final Fantasy 7 remake). However, the padding here doesn’t seem as apparent, in fact if you’re reading the comics after watching this series you may find that some of the most outstanding moments are missing altogether.
 
-The paddings in this series, outside of the adjustments I mentioned earlier, mesh so well into the Netflix adaptation because they seem to be flushing[^sic] out side-plots that simply were never explored in the comics, though strongly indicated. And it may shock you to know that these expanded indicated plots... were about queer people.
+The paddings in this series, outside of the adjustments I mentioned earlier, mesh so well into the Netflix adaptation because they seem to be flushing out<sup class="add">[sic: fleshing out]</sup> side-plots that simply were never explored in the comics, though strongly indicated. And it may shock you to know that these expanded indicated plots... were about queer people.
 
 </james>
 <from></from>
 </compare>
-
-[^sic]: James uses "flushing out". The correct term is "fleshing out".
 
 ## Vers Three: Of Good & Evil
 

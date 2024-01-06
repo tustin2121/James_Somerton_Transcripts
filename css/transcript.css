@@ -179,6 +179,9 @@ compare footer {
 	margin-top: auto;
 }
 
+compare clip hr {
+	margin: 0 3em 1em !important;
+}
 
 compare credits blockquote {
 	color: unset !important;
@@ -192,13 +195,18 @@ compare blockquote {
     background-color: var(--color-canvas-subtle);
 }
 
-span.add, sup.add {
+*.add, ins {
 	background-color: var(--color-prettylights-syntax-markup-inserted-bg); 
 	color: var(--color-prettylights-syntax-markup-inserted-text);
 }
-span.del, sup.del {
+*.del, del {
 	background-color: var(--color-prettylights-syntax-markup-deleted-bg); 
 	color: var(--color-prettylights-syntax-markup-deleted-text);
+}
+*.add, ins {
+	text-decoration: underline;
+}
+*.del, del {
 	text-decoration: line-through;
 }
 

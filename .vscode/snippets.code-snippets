@@ -39,14 +39,14 @@
 	"del": {
 		"prefix": "del",
 		"body": [
-			"<span class=\"del\">$TM_SELECTED_TEXT</span>$0"
+			"<del>$TM_SELECTED_TEXT</del>$0"
 		],
 		"description": "Strike text"
 	},
 	"add": {
 		"prefix": "add",
 		"body": [
-			"<span class=\"add\">$1</span>"
+			"<ins>$TM_SELECTED_TEXT$1</ins>"
 		],
 		"description": "Add replacement"
 	},
