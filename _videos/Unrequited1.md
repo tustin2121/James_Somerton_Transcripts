@@ -24,6 +24,14 @@ cite:
     rebel_without_cause: { short: "Rebel Without A Cause", full: "TODO Rebel Without A Cause" }
     merlin: { short: "Merlin", full: "TODO Merlin" }
     sherlock: { short: "Sherlock", full: "TODO Sherlock" }
+    teenwolf: { short: "teenwolf", full: "TODO teenwolf" }
+    not_star_wars: { short: "not_star_wars", full: "TODO not_star_wars" }
+    star_wars_7: { short: "star_wars_7", full: "TODO star_wars_7" }
+    ellen_starwars: { short: "ellen_starwars", full: "TODO ellen_starwars" }
+    starwars_interview: { short: "starwars_interview", full: "TODO starwars_interview" }
+    captain_america: { short: "captain_america", full: "TODO captain_america" }
+    winter_soldier: { short: "winter_soldier", full: "TODO winter_soldier" }
+    
   yikes: !!map
   misinformation: !!map
     historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
@@ -1639,9 +1647,16 @@ Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it
 </clip>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
 \[Over Black screen]: Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
 
 <wbr on />Derek is straight. Very straight. He has all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.<wbr off /> But Stiles can't get him off his mind.
+
+</james>
+<from></from>
+</compare>
 
 <compare>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
@@ -1729,7 +1744,312 @@ Okay. Rant over. Frozen!
 
 ### Frozen
 
-There's not a whole lot to show about Frozen because most of the queer coding is in song and Disney will come down on me with the intellectual property Hammer if I play a song from Frozen but the first film was read as super queer by a sizable portion of the population so much so that homophobic bloggers accuse Disney of indoctrinating children with the gay agenda but they wouldn't have anything to WR about if children weren't being indoctrinated in the gay agenda so let's ignore them but actual lgbtq fans of the film latched on to Elsa being the first potentially queer Disney princess creating the Evergreen social media Trend #g Elsa a girlfriend Let It Go became a sort of a gay anthem and the film featured queer icon ad Menzel in the lead and gay heart throb and my future husband Jonathan gra voicing Kristoff so fans were hoping for a lot when Frozen 2 finally hit theaters this past year while the film didn't State Elsa SE uality one way or another it left the door open hinting at a gay relationship between her and honey Maron and the new song show yourself while not a cultural phenomenon like Let It Go became a gay anthem I mean with these lyrics how could it not every inch of me is trembling but not from the cold something is familiar like a dream I can reach but not quite hold I can sense you there like a friend I've always known I'm arriving and it feels like I am home I have always been a fortress cold Secrets deep inside you have secrets too but you don't have to hide show yourself I'm dying to meet you that's right Elsa you run down that ice vagina but seriously though those lyrics sound like an email I wrote to my online boyfriend in Ohio in the seventh grade so is Elsa gay uh maybe Frozen 3 is in development so Elsa might climb out of her safic slump or Disney will continue to not say yes but not say no either just like they did with one of their other Global spanning [Music] IPS Star Wars the Force awakens introduced us to PO and Finn a rebellious pilot and a stormtrooper who meet up by chance Escape together and fall madly in love well they didn't tell us they fell madly in love but the actors certainly showed it when they escaped the first order they crashed land when Finn comes to he searches for po but he's nowhere to be found Assuming he's dead Finn is heartbroken and takes POS jacket as a reminder of [Music] him Finn is then set up for what would usually be a love story with the lead female character Ry but no that doesn't go anywhere Finn shows interest for sure but it's not reciprocated leaving the door open for Finn to fall in love with someone else else maybe and eventually we find out that PO is still alive and we get this [Music] scene H what happened to you what happened I got thrown from the crash I woke up at night no you no ship nothing you completed my mission Finn that's my jacket oh oh no no no no keep it it suits you the eye [ __ ] oh my God before the movie was released the cast went on to the Ellen show it's very subtle romance that's happening you know you have to just look very close you have to watch it a few times to see the little hints but there was at least I was playing romance I was in the cockpit I was playing there was a very deep romance I see so though it wasn't obvious Oscar Isaac and John boa were certainly playing it that way so would it be more obvious in The Last Jedi well leading up to the release of The Last Jedi Star Wars producer Kathleen Kennedy was asked about the potential relationship she said we've talked about it but I think you're not going to see that in the Last Jedi in the next 6 or eight months we will have some meetings about the stories that we will develop next after 40 Years of Adventures people have a lot of information and a lot of theories about the path these stories can take and sometimes those theories that come up are new ideas for us to listen to read and pay attention to so not the Last Jedi okay running out of time here guys about rise of Skywalker well JJ Abrams teased for months before the film's release that there would be real LGBT representation in the film a gay kiss even obviously fans thought it would be Po and Finn but no instead Abrams made sure to give po a female love interest neuter fin entirely and tossed in and out of focus blinking you miss at lesbian kiss between two ascended extras after the release of Rise of Skywalker Oscar Isaac had this to say in an interview like there was an Absol absolute natural chemistry with him uh I I immediately felt very connected to him I remember uh it was an audition and the two of us just like did that first scene back to back butt to butt you know just like doing the scene together practicing it in this room and like it was just like immediately all you know all kind of artifice everything just collapsed and there was like an intimacy that was very just like there and um and I think the fact that neither of us shied away from that while we were shooting as well I think it just was like these are two guys that you know are he happy being intimate with each other emotionally and that um so it wasn't actually a total shock that you know you know people you know wanted to you know saw that in there personally I I kind of hoped and wished that maybe that would have been T taken further uh in the other films but you know I don't have control over that so he wasn't happy about it the fans shipping Fino weren't happy about it the gay community wasn't happy about it and the rise of Skywalker became the lowest grossing film of the new Trilogy Star Wars is now in brand rehab at Disney who are trying to figure out what to do with the property after it seemed like no one could agree on any of their Five Star Wars movies that they made to date with solo bombing at the box office and Rise of Skywalker coming nail-bitingly close to losing money I'm not saying making Po and Finn gay would have saved the box office probably the opposite to be honest but at least Disney could have said that they did something before any other Studio that they put gay characters in a giant cinematic spectacle before most studios are willing to even give us a movie at all but this is the company that tossed love Victor back into the streaming closet so what else would we expect I mean I'm sure Disney hasn't done anything like this before what was [Music] that Steve Rogers AKA Captain am America AKA Chris Evans because he's the real superhero and Bucky Burns AKA The Winter Soldier are two of the many many many characters in the Disney owned Marvel Cinematic Universe they were originally created way back in the 1940s when Bucky was actually Steve's kid sidekick because every superhero had to have a kid sidekick fast forward 70 years and about 100 iterations later and we see the pairing that become known the world over as Stucky right from the off there's a sort of Chemistry Between them with Bucky kind of acting as a big brother figure to Steve who needs help fighting the bullies in his life Steve's got a big heart but that's about the only part of him that's big wait does the Super Soldier serum make your one of the things I noticed the first time I saw the movie which was the first MCU movie I saw by the way was that Steve seemed way more interested in joining the Army than being with girls it's easy to read this as him just being so darn patriotic but it was actually extremely common for gay men in the first half of the 20th century to join the military and all male environment seemed pretty appealing to a lot of gay men at the time even if you did run the risk of getting shot by a Nazi but at least you'd die a hero instead of people back home finding out that you're a queer and dying ashamed and alone there's also a hint of gay shame Steve feels like he's not good enough not a real man and he wants so badly to be like everyone else that he's willing to go through a very risky procedure to make it happen was this gay coding in the 1940s of course not it was just a superhero origin story it may not be allegorical but it's certainly applicable which is something that makes superheroes so Timeless no matter who you are no matter where or when you live you can project yourself onto a superhero but I'm not here to say that Captain America and Bucky Barnes are gay I'm here to say that the mcu's Captain America and Bucky burns are gay now of course Steve is madly in love with Peggy Carter but look at the woman she's smart she's gorgeous she's a badass how could you not help but fawn over her she's not just any woman she's one hell of an exceptional woman and also the obligatory love interest but she's awesome so we'll ignore that you must have danced well that's going a woman to dance always seems so terrifying in the past few years just didn't seem to matter that much figured I'd wait for what right partner interesting use of the word partner there could have said the right girl so after Steve becomes Captain America Bucky is captured and presumed killed by Hydra the super Nazis and Steve goes out to save him Bucky means the world to him and if there's even a chance of him being alive he's not going to lose him cap Saves the Day of course and this tiny gesture I don't know it really caught my attention the first time I saw the movie as they're escaping the facility begin begins to melt down but Bucky refuses to leave without Steve eventually they both escape and the dynamic between them changes Steve is no longer the little guy looking up to his Bud bucky bucky is now admiring Steve becoming his partner fighting the Nazis with him until Bucky falls from a train into a frozen European Wasteland below this breaks Steve the All-American man of men superhero breaks down into tears the loss of Bucky he's seen so Much Death in this war so much Carnage so much loss but it's the loss of Bucky that breaks him then Steve decides to die rather than be with Peggy and crashes a Nazi super plane into a glacier where he's found a few decades later and resurrected because superheroes then in Winter Soldier we find out that Bucky isn't dead he's been kept Alive by Hydra all this time and is an assassin for them again because superheroes so while Steve is slowly acclimating to living in the 21st century the return of Bucky shakes him to his core a part of his life he thought he'd lost forever is back Steve's already seen Peggy but she's not the Peggy he knew she's aged dying he still cares for her of course but Bucky's the same age as Steve give or take he's like a memory plucked from the past and placed smack dab in Steve's present like Steve he's a part of a world that no longer exists so even though Bucky has been brainwashed and has the blood of hundreds of murdered people on his hands Steve cannot bring himself to kill him not his Bucky not in this world of a new millennium where being LGBT Isn't So frowned upon and maybe he and Bucky could be a real thing Peggy even kind of gives Steve permission the world has changed none of us can go back all we can do is our best and sometimes the best that we can do is to start over and Bucky's the only person in this whole wide crazy world that Steve feels he can really connect with though Bucky doesn't remember Steve and everyone around him tells him Bucky needs to be taken down Steve refuses he hopes Beyond hope that he can bring Bucky back not just to save Bucky but to save himself to be not so alone after fighting in a doomed Helicarrier Steve backs off takes off his helmet and bears his soul to Bucky literally dropping his shield something he hasn't done before something that's only worth it because it's for Bucky he does this again in Civil War literally and metaphorically letting his guard down for one person and one person only when Bucky holds Steve's life in his hand about to land the killing blow Steve tells him to do it then finish it CU I'm with you to the end of the line Steve trusts Bucky even now in this demented State he trusts him with his life and we can see in Bucky's eyes he's remembering he's remembering his friend looking down into his face he sees someone he loves he can't kill him and when Steve falls from the Helicarrier with Bucky Left Alive he could just let him fall and drown in the water below but he saves him just like Steve saved him back in World War II so even after being reprogrammed a 100 times by Hydra the memory of his love for Steve is so strong platonic or romantic it doesn't matter their bond is so strong that he overrides all of that programming and saves the most important person in the world to him Bucky disappears in Into The Ether after that but Steve knows he's alive out there and he won't give up looking for him a mission that culminates in Captain America Civil War in Civil War Steve is willing to let the Avengers fall apart to save Bucky he's willing to let the might of the whole world come down on his shoulders to save Bucky even after it's revealed that Bucky killed Tony's parents he still won't let him go and by abandoning his shield he's even willing to leave the identity of Captain America America behind because he doesn't need to be Captain America anymore he doesn't need to be an Avenger because he's got Bucky so Steven Bucky love each other even Joe Russo the director of Civil War said so calling the movie a love story between the two Heroes now you can say James they're just good friends these arguments often start out under the guise of progressive thought making claims like they's so few examples of non-toxic masculinity and media so we need more portrayals of a positive friendship between two men this sounds like a good argument at first until you think about it for a minute or two and remember that almost all media is about male relationships and male friendships when it comes to Captain America and Bucky Barnes specifically that well has been tapped quite thoroughly the relationship between two men who fought alongside each other in a war has been the topic of many stories throughout Millennia it's one of the most popular male friendship stories ever and why shouldn't that relationship go beyond just a friendship does it ruin the value of the Friendship if it's also nonplatonic The Iliad story of Achilles and Patrick's relationship should serve as an early Counterpoint here ideally people in a relationship with one another would also be friends if the idea of characters being in a relationship ruins that for you then perhaps you should think about why you feel that way and flip the coin for a second say Bucky's a woman watching these movies seeing this relationship would you think for even a second that these two people aren't going to end up together in the end really but of course they don't because [ __ ] Disney and oddly enough the Stucky pairing would probably be the most Disney friendly gay relationship they could have because fans of the proposed couple aren't fans because of the expected sex sure there's plenty of porn online of the two of them if you're willing to go look for it but that's not what draws people to them it's a bond between them it's a bond that lasts for decades travels through time goes through Hellen back and yet in the end they're still dedicated to each other it's a love story I don't even think it was done on purpose to be honest unlike Teen Wolf and Sherlock I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into loving them we were going to go see Chris Evans anyway it's just kind of happened a natural outgrowth of the Chemistry Between the two actors playing two characters that are innately drawn to one another I think it's a beautiful accident that can be read as either platonic or romantic love the fact that so many gay people read it as being a queer Love Story just shows how starved we are for representation in movies just like in the days of queer coding we're willing to dig deep into our favorite media to find any hint of us possibly being represented whether those golden nuggets are actually there or not but we keep looking and looking someday hopefully very soon there will be a gold rush even if right now we're only finding Fool's Gold this video has been a long time coming I originally started working on it about a year ago and it was called for the love of Stucky and was just a look at the Stucky relationship to say it's grown a bit as a bit of an understatement uh I'm hoping to get another video out oh maybe sooner than a year from now uh you can check out my patreon if you'd like to help out in the production of these videos or just like share and subscribe nothing gets this channel out there more than that you can also follow me on Twitter at Jor Summerton or check out my Community page to vote on what video I'll be doing next so thank you so much for watching I hope you enjoyed this Beast of a video uh I will be back soon with more content I promise so until then take care stay
-[Music]
-safe
+<compare>
+<james {% include timecode %}>
+
+There's not a whole lot to show about Frozen because most of the queer coding is in song. And Disney will come down on me with the Intellectual Property Hammer<sup>TM</sup> if I play a song from Frozen. But the first film was read as *super queer* by a sizable portion of the population. So much so that homophobic bloggers accused Disney of "indoctrinating children" with the gay agenda. (But they wouldn't have anything to *write* about if children *weren't* being indoctrinated in the gay agenda, so let's ignore them!)
+
+But actual LGBTQ fans of the film latched on to Elsa being the first potentially queer Disney princess, creating the Evergreen social media trend #GiveElsaAGirlfriend. "Let It Go" became a sort of a gay anthem, and the film featured queer icon Idina Menzel in the lead and gay heart throb and (my future husband) Jonathan Groff voicing Kristoff. So fans were hoping for *a lot* when *Frozen 2* finally hit theaters this past year. While the film didn't state Elsa's sexuality one way or another, it left the door *open*, *hinting* at a gay relationship between her and Honeymaren. And the new song "Show Yourself", while not a cultural phenomenon like "Let It Go", became a gay anthem. I mean, with these lyrics how could it not?
+
+</james>
+<from></from>
+<james {% include timecode %}>
+<div class="lyrics">
+Every inch of me is trembling
+But not from the cold
+Something is familiar
+Like a dream I can reach but not quite hold
+I can sense you there
+Like a friend I've always known
+I'm arriving
+And it feels like I am home
+
+I have always been a fortress
+Cold secrets deep inside
+You have secrets, too
+But you don't have to hide
+
+Show yourself
+I'm dying to meet you
+</div>
+</james>
+<from></from>
+<james {% include timecode %}>
+
+\[About the clip playing at that moment]:  
+...That's right, Elsa, you run down that ice vagina.
+
+But seriously though, those lyrics sound like an email I wrote to my online boyfriend in Ohio in the seventh grade. So is Elsa gay? Eh... maybe? *Frozen 3* is in development, so Elsa might climb out of her sapphic slump, or Disney will continue to not say "yes" but not say "no" either, just like they did with one of their other Global spanning IPs.
+
+</james>
+<from></from>
+</compare>
+
+### Star Wars
+
+<compare>
+<james {% include timecode %}>
+
+*Star Wars: the Force* awakens introduced us to Po and Finn, a rebellious pilot and a stormtrooper who meet up by chance, escape together, and fall madly in love. Well, they didn't tell us "they fell madly in love", but the actors certainly showed it. When they escaped the first order, they crash land. When Finn comes to, he searches for Po, but he's nowhere to be found. Assuming he's dead, Finn is heartbroken and takes Po's jacket as a reminder of him. 
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.not_star_wars %}>
+
+[Clip from something that isn't Star Wars, where a man is sniffing someone's blue denim jacket.]
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Finn is then set up for what would *usually* be a love story with the lead female character Rey, but no, that doesn't go anywhere! Finn shows *interest*, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...* And eventually, we find out that Po is still alive. And we get this scene:
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.star_wars_7 %}>
+
+\[Clip posturized to avoid copyright. Onscreen:] "Disney wasn't too pleased with me using this scene so I had to mess with it a bit."
+
+Po: (in the distance) "It's so good to see you."
+
+Finn: (in awe, starting to run) "Po?"
+
+----
+
+Po: "What happened to you?!"
+
+Finn: "What happened?! I got thrown from the crash! I woke up that night: no you! No ship! Nothing!"
+
+Po: "You completed my mission, Finn! I--" (noticing) "That's my jacket."
+
+Finn: "Oh, oh..." (Begins taking off the jacket)
+
+Po: (stopping him) "no no no no! Keep it. It suits you." (Bites lip)
+
+</clip>
+<james {% include timecode %}>
+
+The eye fucking! Oh my God! 
+
+Before the movie was released, the cast went on to the Ellen show. 
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.ellen_starwars %}>
+
+\[Oscar Issac (Po) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
+
+Oscar: "It's very subtle romance that's happening... you know, you have to just look very close-- you have to watch it a few times to see the little hints, but there was... At least I was playing romance."
+
+[General laughter]
+
+John: "I was playing--"
+
+Oscar: "In the cockpit, I was playing, there was a very deep romance happening."
+
+Ellen: "I--! I see!"
+
+
+</clip>
+<james {% include timecode %}>
+
+So though it wasn't obvious, Oscar Isaac and John Boyega were certainly playing it that way. So would it be more obvious in *The Last Jedi*? Well, leading up to the release of *The Last Jedi*, *Star Wars* producer Kathleen Kennedy was asked about the potential relationship. She said:
+
+\[Quote scrolling on screen like a Star Wars opening text crawl]:
+> We've talked about it, but I think you're not going to see that in The Last Jedi. In the next six or eight months we will have some meetings about the stories that we will develop next... After 40 years of adventures, people have a lot of information and a lot of theories about the path these stories can take, and sometimes those theories that come up are new ideas for us to listen to, read and pay attention to.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So not *The Last Jedi*, okay. Running out of time here guys. How about *Rise Of Skywalker*? Well, JJ Abrams teased for months before the film's release that there *would* be *real* LGBT representation in the film. A gay kiss, even. Obviously fans thought it would be Po and Finn. But no, instead, Abrams made sure to give Po a female love interest, neuter Finn entirely, and tossed in an out-of-focus, blink-and-you'll-miss-it lesbian kiss between two ascended extras. 
+
+After the release of *Rise Of Skywalker*, Oscar Isaac had "this" to say in an interview:
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.starwars_interview %}>
+
+Oscar: "It's like, there was an absolute natural chemistry with him. uh, I-I *immediately* felt very connected to him. I remember, uh, it was an audition and the two of us just like did that first scene back-to-back, butt-to-butt, you know, just like doing the scene together practicing it in this room, and like it was just like immediately, all you know all kind of artifice, everything just collapsed, and there was like an intimacy that was very just like there. And um and I think the fact that neither of us shied away from that while we were shooting as well... I think it just was like these are two guys that you know are... he's happy being intimate with each other emotionally, and that um...
+
+Oscar: "So it wasn't actually a total shock that, you know, you know, people, you know, wanted to, you know-- s-saw that in there. Personally, I-I kind of hoped and wished that maybe that would have been taken further uh, in the other films but... you know I don't have control over that..."
+
+</clip>
+<james {% include timecode %}>
+
+So he wasn't happy about it. The fans shipping Finn-Po weren't happy about it. The gay community wasn't happy about it. And the *Rise Of Skywalker* became the lowest grossing film of the new trilogy. *Star Wars* is now in brand-rehab at Disney, who are trying to figure out what to do with the property after it seemed like no one could agree on *any* of their Five Star Wars movies that they made to date! With *Solo* bombing at the box office, and *Rise Of Skywalker* coming *nail-bitingly* close to losing money.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+I'm not saying making Po and Finn gay would have saved the box office, probably the opposite, to be honest. But at least Disney could have said that they did something before any other studio. That they put gay characters in a giant cinematic spectacle before most studios are willing to even *give us a movie at all*. But this is the company that tossed *Love, Victor* back into the streaming closet, so what else would we expect? 
+
+I mean, I'm sure Disney hasn't done anything like this before. [Turning as if someone's speaking to him from off-screen] What was that?
+
+</james>
+<from></from>
+</compare>
+
+### Marvel
+
+<compare>
+<james {% include timecode %}>
+
+Steve Rogers, AKA Captain America, (AKA Chris Evans, because he's the real superhero), and Bucky Burns, AKA The Winter Soldier, are two of the many many many characters in the Disney-owned Marvel Cinematic Universe. They were originally created *way back* in the 1940s, when Bucky was actually Steve's kid sidekick. Because every superhero had to have a kid sidekick.
+
+Fast forward seventy years and about a hundred iterations later, and we see the pairing that become known *the world over* as "Stucky". <wbr on />Right from the off, there's a sort of chemistry between them, with Bucky kind of acting as a big brother figure to Steve, who needs help fighting the bullies in his life. Steve's got a big heart, but that's about the only part of him that's big.<wbr off /> (Wait, does the Super Soldier serum make your--?)
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<wbr on />One of the things I noticed the first time I saw the movie, which was the first MCU movie I saw, by the way, was that Steve *seemed way* more interested in joining the Army than being with girls. It's easy to read this as him just being *so darn patriotic*, but it was actually extremely common for gay men in the first half of the 20th century to join the military. An all male environment seemed pretty appealing to a lot of gay men at the time. Even if you *did* run the risk of getting shot by a Nazi. But at least you'd die a *hero* instead of people back home finding out that you're a queer, and dying ashamed and alone.<wbr off />
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+There's also a hint of gay shame. Steve feels like he's not good enough, <wbr on />ot a real man, and he wants *so badly* to be like everyone else that he's willing to go through a very risky procedure to make it happen. Was this gay coding in the 1940s? Of course not! It was just a superhero origin story. It may not be allegorical, but it's certainly applicable. Which is something that makes superheroes so timeless: no matter who you are no matter where or when you live, you can project yourself onto a superhero.<wbr off />
+
+But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm here to say that the *MCU's* Captain America and Bucky Barnes are gay. Now, of course, Steve is madly in love with Peggy Carter, but look at the woman: she's smart, she's gorgeous, she's a badass, how could you not *help* but fawn over her? She's not just any woman, she's one hell of an *exceptional* woman. And also the obligatory love interest, but she's awesome, so we'll ignore that.
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.captain_america %}>
+
+Peggy: "You must have danced."
+
+Steve: "well, asking a woman to dance always seemed so terrifying. In the past few years, just didn't seem to matter that much. Figured I'd wait."
+
+Peggy: "For what?"
+
+Steve: "Right partner."
+
+(Peggy smiles)
+
+</clip>
+<james {% include timecode %}>
+
+Interesting use of the word "partner", there. Could have said "the right girl". 
+
+<wbr on />So, after Steve becomes Captain America, Bucky is captured and presumed killed by Hydra, the super Nazis, and Steve goes out to save him. Bucky means the world to him, and if there's even a *chance* of him being alive, he's not going to lose him. Cap saves the day, of course, and this tiny gesture...<wbr off /> 
+
+[Showed clip of Cap putting a hand on the back of Bucky's neck for a second.]
+
+I don't know, it really caught my attention the first time I saw the movie. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<wbr on />As they're escaping, the facility begin begins to melt down, but Bucky refuses to leave without Steve. Eventually they both escape, and the dynamic between them changes. Steve is no longer the little guy looking up to his bud Bucky. Bucky is now admiring Steve. Becoming his partner. Fighting the Nazis with him. Until... Bucky falls from a train into a frozen European Wasteland below.
+
+This breaks Steve. The All-American man of men superhero breaks down into tears the loss of Bucky. He's seen so much death in this war, so much carnage, so much loss, but it's the loss of Bucky that breaks him. Then Steve decides to *die* rather than be with Peggy, and crashes a Nazi super plane into a glacier, where he's found a few decades later and resurrected. Because superheroes.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Then in *Winter Soldier*, we find out that Bucky isn't dead. He's been kept alive by Hydra all this time, and is an assassin for them. Again, because superheroes. So while Steve is slowly acclimating to living in the 21st century, the return of Bucky shakes him to his core. A part of his life he thought he'd lost forever is back. 
+
+Steve's already seen Peggy, but she's not the Peggy he knew. She's aged, dying. He still cares for her, of course, but Bucky's the same age as Steve, give or take. He's like a memory, plucked from the past and placed smack dab in Steve's present. Like Steve, he's a part of a world that no longer exists. So even though Bucky has been brainwashed and has the blood of *hundreds* of murdered people on his hands, Steve cannot bring himself to kill him. Not his Bucky. Not in this world of a new millennium, where being LGBT isn't so frowned upon, and maybe he and Bucky could be a real thing.<wbr off /> Peggy even kind of gives Steve permission.
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.winter_soldier %}>
+
+Peggy: "The world has changed. None of us can go back. All we can do is our best, and sometimes the best that we can do is to start over." (coughing fit)
+
+</clip>
+<james {% include timecode %}>
+
+And Bucky's the only person in this whole wide crazy world that Steve feels he can really connect with. <wbr on />Though Bucky doesn't remember Steve and everyone around him tells him Bucky *needs* to be taken down, Steve refuses. He hopes beyond hope that he can bring Bucky back, not just to save Bucky but to save himself. To be not so alone.
+
+After fighting in a doomed helicarrier, Steve backs off, takes off his helmet, and bears his soul to Bucky, literally dropping his shield, something he hasn't done before. Something that's only *worth it* because it's for Bucky. He does this again in Civil War, literally and metaphorically letting his guard down. For one person, and one person only. When Bucky holds Steve's life in his hand, about to land the killing blow, Steve tells him to do it:
+
+</james>
+<from></from>
+<clip {% include citation for=page.cite.clips.winter_soldier %}>
+
+Steve: "Then finish it. 'Cuz I'm with you to the end of the line."
+
+</clip>
+<james {% include timecode %}>
+
+Steve trusts Bucky, even now in this demented state. He trusts him with his life. And we can see in Bucky's eyes, he's remembering. He's remembering his friend. Looking down into his face, he sees someone he loves. He can't kill him. And when Steve falls from the helicarrier with Bucky left alive, he could just let him fall and drown in the water below. But he saves him. Just like Steve saved him back in World War II. So even after being reprogrammed a hundred times by Hydra, the memory of his love for Steve is so strong,<wbr off /> platonic or romantic, it doesn't matter, their bond is so strong that he overrides *all* of that programming, and saves the most important person in the world to him.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<wbr on />Bucky disappears in into the ether after that, but Steve knows he's alive out there, and he won't give up looking for him. A mission that culminates in *Captain America: Civil War*. In *Civil War*, Steve is willing to let the Avengers fall apart to save Bucky. He's willing to let the might of the *whole world* come down on his shoulders to save Bucky, even after it's revealed that Bucky killed Tony's parents, he still won't let him go, and by abandoning his shield he's even willing to leave the identity of Captain America behind. Because he doesn't need to be Captain America anymore, he doesn't need to be an Avenger, because he's got Bucky. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So Steve and Bucky love each other. Even Joe Russo, the director of *Civil War*, said so! Calling the movie a love story between the two heroes. Now you can say, "James, they're just good friends." 
+These arguments often start out under the guise of progressive thought, making claims like "there's so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men." This sounds like a good argument at first, until you think about it for a minute or two and remember that *almost all* media is about male relationships and male friendships. When it comes to Captain America, and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who fought alongside each other in a war has been the topic of *many* stories throughout Millennia. It's one of the most popular male friendship stories ever.
+
+And why shouldn't that relationship go beyond just a friendship? Does it ruin the value of the friendship if it's also nonplatonic? *The Iliad*'s story of Achilles and Patroclus's relationship should serve as an early counterpoint here. Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship *ruins* that for you, then perhaps you should think about why you feel that way. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+And flip the coin for a second, say Bucky's a woman. Watching these movies, seeing this relationship, would you think for even a second that these two people *aren't* going to end up together in the end? Really? But of course, they don't, because fucking Disney. 
+
+And oddly enough the Stucky pairing would probably be the most Disney friendly gay relationship they could have. Because fans of the proposed couple aren't fans because of the expected sex. (Sure, there's plenty of porn online of the two of them, if you're willing to go look for it.) But that's not what draws people to them. It's a bond between them. It's a bond that lasts for decades, travels through time, goes through hell and back, and yet in the end, they're still dedicated to each other. It's a love story.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+I don't even think it was done on purpose, to be honest. Unlike *Teen Wolf* and *Sherlock*, I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into <wbr on />loving them. We were going to go see Chris Evans anyway it's just kind of happened.<wbr off /> A natural outgrowth of the chemistry between the two actors, playing two characters that are innately drawn to one another. I think it's a beautiful accident that can be read as either platonic or romantic love. The fact that so many gay people read it as being a queer love story just shows how starved we are for representation in movies. Just like in the days of queer coding, we're willing to dig deep into our favorite media to find any hint of us possibly being represented. Whether those golden nuggets are actually there or not. But we keep looking and looking, someday, hopefully very soon, there will be a gold rush. Even if right now we're only finding fool's gold.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This video has been a long time coming. I originally started working on it about a year ago, and it was called "For the Love of Stucky" and was just a look at the Stucky relationship. To say it's grown a bit as a bit of an understatement. uh, I'm hoping to get another video out, oh, maybe *sooner* than a year from now? Uh, you can check out my patreon if you'd like to help out in the production of these videos, or... just like, share, and subscribe. Nothing gets this channel out there more than that. You can also follow me on Twitter, @je_summerton, or check out my Community page to vote on what video I'll be doing next. So, thank you, *so much* for watching. I hope you enjoyed this beast of a video. uh, I will be back soon with more content, I promise. So until then take care stay safe.
+
+</james>
+</compare>
+
+<compare>
+<credits {% include timecode %} class="closing">
+
+> Special thanks to my patrons:  
+[Three patron names]
+
+> Written, Filmed, and Edited:  
+James Somerton
+
+> Research Assistant:  
+Nick Herrgott
+
+> Music from:  
+Kenton Chen  
+MusicLFiles  
+DepasRec  
+
+> In Memory of Vito Russo
+
+</credits>
+</compare>
 
