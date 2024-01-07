@@ -54,10 +54,10 @@ PATRON: [link]
 #Hannibal #AnneRice #interviewwiththevampire
 
 {% include chapter-link at="00:00" for="Introduction" %}  
-{% include chapter-link at="06:28" for="Part 1: They Eat Your Heart" %}  
-{% include chapter-link at="25:38" for="Part 2: They Suck The Life Out Of You" %}  
-{% include chapter-link at="45:40" for="Part 3: They Take Away Your Friends" %}  
-{% include chapter-link at="59:35" for="Part 4: They Isolate You" %}  
+{% include chapter-link at="06:28" for="Part 1: They Eat Your Heart" slug="Part I: They Eat Your Heart" %}  
+{% include chapter-link at="25:38" for="Part 2: They Suck The Life Out Of You" slug="Part II: They Suck The Life Out Of You" %}  
+{% include chapter-link at="45:40" for="Part 3: They Take Away Your Friends" slug="Part III: They Take Away Your Friends" %}  
+{% include chapter-link at="59:35" for="Part 4: They Isolate You" slug="Part IV: They Isolate You" %}  
 
 </credits>
 </compare>
@@ -207,7 +207,8 @@ But far more insidious is the monster that wants to eat your mind. Your self wor
 <from></from>
 </compare>
 
-## Part 1: They Eat Your Heart
+## Part I: They Eat Your Heart
+{% assign timecode = "6:32" %}
 
 <compare>
 <james {% include timecode %}>
@@ -595,7 +596,7 @@ When you stick a bunch of traumatized people into a community, you’re going to
 <from></from>
 </compare>
 
-## Part 2: They Suck The Life Out Of You
+## Part II: They Suck The Life Out Of You
 
 <compare>
 <james {% include timecode %}>
@@ -1042,29 +1043,39 @@ And regardless of the behaviour… That one person ‘got’ you. They understoo
 <compare>
 <james {% include timecode %}>
 
-So much of queer horror is about the aspects of our culture that straight people fear, that straight society fears: women's strength and independence, men's vulnerability and intimacy, the upending of gender and family roles, the rejection of the primacy of reproduction, the hollowness and bankruptcy of the dominant social structures, and challenges to the Church's pronouncements. And our inherent invisibility, our cunning—that we might be anyone, anywhere, lurking in plain sight. I have to confess, there's something delectable about the fact that we would cause so much anxiety, and anguish, and unreasonable, unwarranted fear simply by existing. There seems to be great power in that. 
-
-Aside from the obvious, what are queer people terrified of? Of course, we are scared of death, as well as violence, torture, sickness, and suffering, as well as being exposed, humiliated, shunned, and persecuted. We are concerned about being erased, unseen, or forgotten. We're terrified of being alone. 
+<mark>So much of queer horror is about the aspects of our culture that straight people fear, that straight society fears: women's strength and independence, men's vulnerability and intimacy, the upending of gender and family roles, the rejection of the primacy of reproduction, the hollowness and bankruptcy of the dominant social structures, and challenges to the Church's pronouncements. And our inherent invisibility, our cunning—that we might be anyone, anywhere, lurking in plain sight. I have to confess, there's something delectable about the fact that we would cause so much anxiety</mark>, and anguish, and unreasonable, unwarranted fear simply by existing. There seems to be great power in that. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 9" %}>
+
+I’ve had to reckon with my own personal history with queer horror, how it has shaped my view of my community and of myself. <mark>So much of it is about the aspects in queer culture that straight people fear, that straight society fears: strength and independence in women; vulnerability and intimacy in men; the upending of gender and family roles; the repudiation of the primacy of reproduction; the hollowness and bankruptcy of the dominant social structures; challenges to the pronouncements of the Church. And our intrinsic invisibility, our insidiousness—that we could be anyone, anywhere, hiding in plain sight. I have to admit, there is something delicious in that—that we would provoke so much unease</mark>, so much discomfort, so much irrational, unfounded terror just by existing.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-But being queer is sometimes about all of those things; they are at the heart of our history and the source of our oppression. Being queer sometimes means being cast out; other times, it means casting ourselves out, walking or running away from abusive families and partners while we still can. Being queer sometimes means being the sympathetic beast. Frankenstein’s monster. Just yearning to be left alone. To live our lives. 
+<mark>Aside from the obvious, what are queer people terrified of?</mark> <mark>Of course, we are scared of death, as well as violence, torture, sickness, and suffering, as well as being exposed, humiliated, shunned, and persecuted. We are concerned about being erased, unseen, or forgotten. We're terrified of being alone.</mark> 
+
+<mark>But being queer is sometimes about all of those things; they are at the heart of our history and the source of our oppression. Being queer sometimes means being cast out; other times, it means casting ourselves out, walking or running away</mark> from abusive families and partners <mark>while we still can. Being queer sometimes means being the</mark> sympathetic beast. Frankenstein’s monster. Just yearning to be left alone. To live our lives. 
 
 Depending upon where in the world you live being queer can mean losing your family, your friends, your religion. The pillars of society that held you up and now you’re left alone, forced to fight for yourself because sometimes no one else is willing to fight for you. Like the victim of a slasher movie, you’ve watched as everything and everyone you held dear drops around you. 
 
-But there’s strength there. Because sometimes, after everything and everyone has been stripped from us, sometimes being queer means being the last one standing.
+But there’s strength there. Because <mark>sometimes, after everything and everyone has been stripped from us, sometimes being queer means being the last one standing.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.monsters_made at="¶ 10" %}>
+
+<mark>But what are queer people afraid of, apart from the obvious?</mark> I asked myself this as I was writing my first novel, *The Bone Mother*, which included an array of queer and trans people among its many monstrous and human characters. <mark>We are afraid of death, of course, of violence and torture and sickness and suffering, of being exposed and humiliated and shunned and persecuted. We are afraid of being erased, or unseen, or forgotten. We are afraid of being alone.</mark> <mark>Sometimes being queer is about all those things; they are at the heart of our history and the root of our oppression. Sometimes being queer is about being cast out; sometimes it’s about casting ourselves out, walking or running away</mark> <mark>while we still can. Sometimes being queer is about being</mark> the monster, the one who corrupts, the one who devours. <mark>Sometimes—after everything and everyone has been stripped from us—sometimes being queer is about being the last one standing.</mark>
+
+</from>
 </compare>
 
 <compare>
 <credits class="closing">
+
+\[Credits scrolling over [Chopin's "Raindrop" (Prelude in D-Flat Major, Op. 28, No. 15)](https://www.youtube.com/watch?v=J_6APTb3RNQ)]
 
 > Excerpts from the works of  
 Sheridan Le Fanu  
