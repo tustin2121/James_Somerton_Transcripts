@@ -42,6 +42,7 @@ cite:
   plagiarized: !!map
     peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: ""}
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
+    aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -98,7 +99,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 <from></from>
 <james {% include timecode %}>
 
-<span visual>But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Po and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
+<span visual>But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Poe and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
 
 </james>
 <from></from>
@@ -803,7 +804,7 @@ So now that the caveats are out of the way...
 <from></from>
 </compare>
 
-### Merlin
+## Merlin
 {% assign timecode = "36:04" %}
 
 <compare>
@@ -1217,7 +1218,7 @@ But they weren't the only show on the BBC that realized what kind of audience qu
 <from></from>
 </compare>
 
-### Sherlock 
+## Sherlock 
 
 <compare>
 <james {% include timecode %}>
@@ -1415,7 +1416,7 @@ So, does Sherlock love John? Yes. He might be the only person he *does* love. Do
 <from></from>
 </compare>
 
-### Harry Potter
+## Harry Potter
 
 <compare>
 <james {% include timecode %}>
@@ -1689,7 +1690,7 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 <from></from>
 </compare>
 
-### Ocean's Eleven
+## Ocean's Eleven
 
 <compare>
 <james {% include timecode %}>
@@ -1746,7 +1747,7 @@ So when they started production, Lou and Debbie had been in a relationship, but 
 <from></from>
 </compare>
 
-### Teen Wolf
+## Teen Wolf
 
 <compare>
 <james {% include timecode %}>
@@ -2002,7 +2003,7 @@ Okay. Rant over. Frozen!
 <from></from>
 </compare>
 
-### Frozen
+## Frozen
 
 <compare>
 <james {% include timecode %}>
@@ -2045,12 +2046,14 @@ But seriously though, those lyrics sound like an email I wrote to my online boyf
 <from></from>
 </compare>
 
-### Star Wars
+## Star Wars
 
 <compare>
 <james {% include timecode %}>
 
-*Star Wars: the Force* awakens introduced us to Po and Finn, a rebellious pilot and a stormtrooper who meet up by chance, escape together, and fall madly in love. Well, they didn't tell us "they fell madly in love", but the actors certainly showed it. When they escaped the first order, they crash land. When Finn comes to, he searches for Po, but he's nowhere to be found. Assuming he's dead, Finn is heartbroken and takes Po's jacket as a reminder of him. 
+<span class="visual">*Star Wars: the Force* awakens introduced us to Poe and Finn, a rebellious pilot and a stormtrooper who meet up by chance, escape together, and fall madly in love.</span>
+
+Well, they didn't tell us "they fell madly in love", <span class="visual">but the actors certainly showed it. When they escaped the first order, they crash land. When Finn comes to, he searches for Poe, but he's nowhere to be found. Assuming he's dead, Finn is heartbroken and takes Poe's jacket as a reminder of him. </span>
 
 </james>
 <from></from>
@@ -2064,42 +2067,79 @@ But seriously though, those lyrics sound like an email I wrote to my online boyf
 <compare>
 <james {% include timecode %}>
 
-Finn is then set up for what would *usually* be a love story with the lead female character Rey, but no, that doesn't go anywhere! Finn shows *interest*, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...* And eventually, we find out that Po is still alive. And we get this scene:
+<span class="visual">Finn is then set up for <mark>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
+
+<span class="visual">And eventually, we find out that Poe is still alive. And we get this scene:</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_finnpoe at="(2:32)" %}>
+
+So then Finn meets Rey, and as I watched the movie I thought, <mark>"here we go: the lead woman in the man meet, brace yourselves for the love story"</mark>. But I was surprised. Though <mark>Finn does find Rey attractive and shows interest</mark>, it's not officially canon, in a sense. Rey and Finn certainly like each other, as in they're becoming good friends. But it's unclear as to whether Rey is completely interested in anything besides friendship. 
+
+</from>
 <clip {% include citation for=page.cite.clips.star_wars_7 %}>
 
 \[Clip posturized to avoid copyright. Onscreen:] "Disney wasn't too pleased with me using this scene so I had to mess with it a bit."
 
-Po: (in the distance) "It's so good to see you."
+Poe: (in the distance) "It's so good to see you."
 
-Finn: (in awe, starting to run) "Po?"
+Finn: (in awe, starting to run) "Poe?"
 
 ----
 
-Po: "What happened to you?!"
+Poe: "What happened to you?!"
 
 Finn: "What happened?! I got thrown from the crash! I woke up that night: no you! No ship! Nothing!"
 
-Po: "You completed my mission, Finn! I--" (noticing) "That's my jacket."
+Poe: "You completed my mission, Finn! I--" (noticing) "That's my jacket."
 
 Finn: "Oh, oh..." (Begins taking off the jacket)
 
-Po: (stopping him) "no no no no! Keep it. It suits you." (Bites lip)
+Poe: (stopping him) "no no no no! Keep it. It suits you." (Bites lip)
 
 </clip>
+</compare>
+
+<compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_finnpoe %}>
+{% assign atg = page.cite.plagiarized.aretheygay_finnpoe.color %}
+
+James likely lifts the clip of Ellen from Are They Gay's video on Finn and Poe
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 The eye fucking! Oh my God! 
 
-Before the movie was released, the cast went on to the Ellen show. 
+<mark>Before the movie was released, the cast went on to the Ellen show. </mark>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.ellen_starwars %}>
+<from span="2" {% include citation for=page.cite.plagiarized.aretheygay_finnpoe at="(6:10)" %}>
 
-\[Oscar Issac (Po) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
+<mark>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
+
+\[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
+
+Oscar: "It's very subtle romance that's happening... you know, you have to just look very close-- you have to watch it a few times to see the little hints, but there was... At least I was playing romance."
+
+[General laughter]
+
+John: "I was playing--"
+
+Oscar: "In the cockpit, I was playing, there was a very deep romance happening."
+
+Ellen: "I--! I see! And so it's subtle, but you were playing romance. So when we're watching you, that's what we should be aware of."
+
+Oscar: "I won't say with which character." [More laughter]
+
+Ellen: "In your head, you were having romance with someone."
+[...]
+
+</from>
+<clip visual={{atg}} on="6:21" off="6:33" {% include citation for=page.cite.clips.ellen_starwars %}>
+
+\[Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
 
 Oscar: "It's very subtle romance that's happening... you know, you have to just look very close-- you have to watch it a few times to see the little hints, but there was... At least I was playing romance."
 
@@ -2111,8 +2151,10 @@ Oscar: "In the cockpit, I was playing, there was a very deep romance happening."
 
 Ellen: "I--! I see!"
 
-
 </clip>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 So though it wasn't obvious, Oscar Isaac and John Boyega were certainly playing it that way. So would it be more obvious in *The Last Jedi*? Well, leading up to the release of *The Last Jedi*, *Star Wars* producer Kathleen Kennedy was asked about the potential relationship. She said:
@@ -2122,12 +2164,9 @@ So though it wasn't obvious, Oscar Isaac and John Boyega were certainly playing 
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-So not *The Last Jedi*, okay. Running out of time here guys. How about *Rise Of Skywalker*? Well, JJ Abrams teased for months before the film's release that there *would* be *real* LGBT representation in the film. A gay kiss, even. Obviously fans thought it would be Po and Finn. But no, instead, Abrams made sure to give Po a female love interest, neuter Finn entirely, and tossed in an out-of-focus, blink-and-you'll-miss-it lesbian kiss between two ascended extras. 
+So not *The Last Jedi*, okay. Running out of time here guys. How about *Rise Of Skywalker*? Well, JJ Abrams teased for months before the film's release that there *would* be *real* LGBT representation in the film. A gay kiss, even. *Obviously* fans thought it would be Poe and Finn. But no, instead, Abrams made sure to give Poe a female love interest, neuter Finn entirely, <span class="visual">and tossed in an out-of-focus, blink-and-you'll-miss-it lesbian kiss between two ascended extras.</span>
 
 After the release of *Rise Of Skywalker*, Oscar Isaac had "this" to say in an interview:
 
@@ -2142,13 +2181,13 @@ Oscar: "So it wasn't actually a total shock that, you know, you know, people, yo
 </clip>
 <james {% include timecode %}>
 
-So he wasn't happy about it. The fans shipping Finn-Po weren't happy about it. The gay community wasn't happy about it. And the *Rise Of Skywalker* became the lowest grossing film of the new trilogy. *Star Wars* is now in brand-rehab at Disney, who are trying to figure out what to do with the property after it seemed like no one could agree on *any* of their Five Star Wars movies that they made to date! With *Solo* bombing at the box office, and *Rise Of Skywalker* coming *nail-bitingly* close to losing money.
+So he wasn't happy about it. The fans shipping FinnPoe weren't happy about it. The gay community wasn't happy about it. And the *Rise Of Skywalker* became the lowest grossing film of the new trilogy. *Star Wars* is now in brand-rehab at Disney, who are trying to figure out what to do with the property after it seemed like no one could agree on *any* of their five *Star Wars* movies that they made to date! With *Solo* bombing at the box office, and *Rise Of Skywalker* coming *nail-bitingly* close to losing money.
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-I'm not saying making Po and Finn gay would have saved the box office, probably the opposite, to be honest. But at least Disney could have said that they did something before any other studio. That they put gay characters in a giant cinematic spectacle before most studios are willing to even *give us a movie at all*. But this is the company that tossed *Love, Victor* back into the streaming closet, so what else would we expect? 
+I'm not saying making Poe and Finn gay would have saved the box office, probably the opposite, to be honest. But at least Disney could have said that they did something before any other studio. <span class="visual">That they put gay characters in a giant cinematic spectacle before most studios are willing to even *give us a movie at all*.</span> But this is the company that tossed *Love, Victor* back into the streaming closet, so what else would we expect? 
 
 I mean, I'm sure Disney hasn't done anything like this before. [Turning as if someone's speaking to him from off-screen] What was that?
 
@@ -2156,7 +2195,7 @@ I mean, I'm sure Disney hasn't done anything like this before. [Turning as if so
 <from></from>
 </compare>
 
-### Captain America
+## Captain America
 
 <compare>
 <james {% include timecode %}>
