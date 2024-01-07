@@ -31,7 +31,10 @@
 				<pre id="font-matter-update"></pre>
 			{% endif %}
 			
-			<div class="content {% if page.notes contains "podcast" -%}podcast{% endif %}">
+			<div class="content
+				{%- if page.notes contains "podcast" %} podcast{%- endif -%}
+				{%- if page.notes contains "visual" %} visual{%- endif -%}
+			">
 				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 				<h1>"{{ page.title }}" Transcript</h1>
 				<div class="video-list">
@@ -145,6 +148,33 @@
 						</comment>
 					</compare>
 					{% assign hr_due = true %}
+				{%- elsif page.notes contains "visual" -%}
+					<compare>
+						<visual example class="color-3">
+							<header><a class="citation" href="#">Plagiarized video (Author, 2000)</a></header>
+							<p>Commentary about what was stolen from the video.</p>
+						</visual>
+						<james example>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
+							
+							{%- if page.notes contains "script-diff" -%}
+								<p>(This transcript was created from the original script uploaded as closed captioning. 
+								Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
+							{%- endif -%}
+							
+							<p>There are various parts of this video that have been ripped off of other videos.
+								<span class="visual" james="2:40" on="3:12" off>Parts which have footage from another video will be marked with a bar between
+								the two columns like such, linking up to a box in which the original video is described
+								and linked.</span>
+							</p>
+						</james>
+						<from example>
+							<header><a class="citation" href="#">Plagiarized article (Author, 2000)</a></header>
+							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
+							<mark>Plagiarized text is highlighted.</mark></p>
+						</from>
+					</compare>
+					{% assign hr_due = true %}
 				{%- elsif page.notes contains "unscripted" -%}
 					<compare>
 						<james example>
@@ -207,6 +237,41 @@
 	<script>
 		// Mark all external links as opening in a new tab
 		Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = "_blank");
+		
+		function markVisuals() {
+			document.querySelectorAll("visual-line").forEach(e => {
+				while (e.firstChild){ e.firstChild.remove(); }
+			});
+			let visuals = Array.from(document.querySelectorAll("visual-line"));
+			visuals.forEach((line, i) => {
+				let parent = line.parentElement;
+				if (parent.tagName != "COMPARE") return; // Sanity check
+				
+				line.style.gridRowStart = parent.querySelectorAll("visual").length + 1;
+				line.style.gridRowEnd = (window.getComputedStyle(parent).gridTemplateRows.split(" ").length + 1);
+				
+				let visDots = Array.from(parent.querySelectorAll("[visual]"));
+				for (let dot of visDots) {
+					if (dot.offsetParent != parent) continue; // Sanity check
+					if (line.offsetParent != parent) continue; // Sanity check
+					let on = dot.getAttribute("on");
+					let off = dot.getAttribute("off");
+					if (!on && !off) continue; // Sanity check
+					on ??= ""; off ??= "";
+					
+					let dotLine = document.createElement("span");
+					dotLine.innerHTML = `<a>${on}</a><a>${off}</a>`;
+					dotLine.style.top = (dot.offsetTop - line.offsetTop) + "px";
+					dotLine.style.height = (dot.offsetHeight - 3) + "px"; // 3px is the border
+					dotLine.classList.add("color-"+dot.getAttribute("visual"));
+					if (dot.hasAttribute("on")) dotLine.classList.add("on");
+					if (dot.hasAttribute("off")) dotLine.classList.add("off");
+					line.appendChild(dotLine);
+				}
+			});
+		}
+		markVisuals();
+		window.addEventListener("resize", markVisuals);
 		
 	{% if jekyll.environment == "development" %}
 		let update = ["# Goes in _data/volume.yml", "{{ page.id | split: "/" | last }}:"];

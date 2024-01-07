@@ -22,6 +22,13 @@
 		],
 		"description": "Surround text with <mark> tags"
 	},
+	"mark-num": {
+		"prefix": "mark-num",
+		"body": [
+			"<mark num=$1>$TM_SELECTED_TEXT</mark>"
+		],
+		"description": "Surround text with <mark> tags"
+	},
 	"sup": {
 		"prefix": "sup",
 		"body": [
@@ -135,9 +142,9 @@
 	},
 	
 	"video-on-off": {
-		"prefix": "wbr",
+		"prefix": "video-on-off",
 		"body": [
-			"<wbr on$1 />"
+			"<span class=\"visual\">$TM_SELECTED_TEXT</span>"
 		],
 		"description": "Add video on marker."
 	},

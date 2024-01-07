@@ -10,6 +10,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - custom-start
+  - visual
   - hbomb
 
 contributors:
@@ -35,7 +36,12 @@ cite:
   yikes: !!map
   misinformation: !!map
     historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
+    wrong_names:
+      _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
+      richard_dyer: "Richard Dyer"
   plagiarized: !!map
+    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: ""}
+    aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -45,6 +51,21 @@ cite:
 \[Lost]
 
 </credits>
+<comment>
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="00:00" for="Part One: Cracking the Code" %}  
+{% include chapter-link at="00:00" for="Part Two: Taking the Bait" %}  
+{% include chapter-link at="36:04" for="Merlin" %}  
+{% include chapter-link at="00:00" for="Sherlock" %}  
+{% include chapter-link at="00:00" for="Harry Potter" %}  
+{% include chapter-link at="00:00" for="Ocean's Eleven" %}  
+{% include chapter-link at="00:00" for="Teen Wolf" %}  
+{% include chapter-link at="00:00" for="Frozen" %}  
+{% include chapter-link at="00:00" for="Star Wars" %}  
+{% include chapter-link at="00:00" for="Captain America" %}  
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -67,9 +88,9 @@ Queer Baiting
 <compare>
 <james vid {% include timecode %}>
 
-<wbr on />The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not. For over a century of film and television, we've probably been the most underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist. <wbr off /> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
+<span visual>The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not. For over a century of film and television, we've probably been the most underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist.</span> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
 
-<wbr on />At the same time, it's become a culturally agreed upon fact among cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America. <wbr off />
+<span visual>At the same time, it's become a culturally agreed upon fact among cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America.</span>
 
 The funny thing is, this isn't entirely false. I mean, we're not trying to corrupt the youth of America; growing up alone in the suburbs is doing a fine job of that all on its own. 
 
@@ -77,7 +98,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 <from></from>
 <james {% include timecode %}>
 
-<wbr on /> But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Po and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.<wbr off /> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
+<span visual>But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Po and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
 
 </james>
 <from></from>
@@ -85,7 +106,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 
 "Queer coding" is when you're unable to show actual queer characters on screen, either because of the laws or morals of the day, or because studio executives just won't let you. So you create characters that the right audience will *obviously* view as gay, lesbian, bi, or transgender, to allow for LGBT representation when the entire world is telling you not to. A little golden nugget hidden deep underground for the people who are willing to dig for it. 
 
-<wbr on /> While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so. One is an effort to give LGBT audiences at least a taste of representation, while the other is used to reel in said audience with an implied promise of queer characters without ever actually intending on fulfilling that promise. <wbr off />
+<span visual>While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so. One is an effort to give LGBT audiences at least a taste of representation, while the other is used to reel in said audience with an implied promise of queer characters without ever actually intending on fulfilling that promise.</span>
 
 It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "2:51" %}
@@ -94,7 +115,7 @@ It's like the cinematic equivalent of edging without the money shot.
 <from></from>
 <james {% include timecode %}>
 
-<wbr on />So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have an out LGBT superhero in the MCU.
+<span visual>So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have an out LGBT superhero in the MCU.</span>
 
 </james>
 <from></from>
@@ -109,7 +130,7 @@ It's like the cinematic equivalent of edging without the money shot.
 
 > "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
-> -Richard Dryer, film historian
+> <mark fc id="richard_dyer">-Richard Dryer, film historian</fc>
 
 </james>
 <from></from>
@@ -783,25 +804,75 @@ So now that the caveats are out of the way...
 </compare>
 
 ### Merlin
+{% assign timecode = "36:04" %}
 
 <compare>
-<james {% include timecode %}>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_merlin %}>
+{% assign atg = page.cite.plagiarized.aretheygay_merlin.color %}
 
-<wbr on />Merlin premiered on the BBC in September of 2008 and almost immediately became fodder for gay fan fiction. And it's no wonder why: Colin Moran's Merlin and Bradley James's Prince Arthur (he's not a king yet) have so much sexual tension between them you could cut it with a knife.
+Most of the clips of the show below James lifts from Alexander Avila's *Are They Gay?* video.
 
-Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). Merlin has become the apprentice of Gaius the king's potions master. Merlin, in case you didn't know, also has the ability to use magic, but he needs to keep it secret from everyone, because the King Arthur's father Uther is homophobic--<wbr off /> I-I mean he hates magic! <wbr on />Hates it so much, that he believes people ought to be executed if they have magical powers. Because it's simply not natural.
+</visual>
+<visual class="color-none">
+{% include header for=tustin %}
+
+Clips marked in gray I cannot find in the above video, and so therefore must be from some compilation video on YouTube, as they include emphasis zooms and thought-text.
+
+</visual>
+<visual-line></visual-line>
+<james {% include timecode %} span="2">
+
+<span visual>Merlin premiered on the BBC in September of 2008 and almost immediately became fodder for gay fan fiction. And it's no wonder why: Colin Moran's Merlin and Bradley James's Prince Arthur (he's not a king yet) have so much sexual tension between them you could cut it with a knife.</span>
+
+<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
+
+<span visual={{atg}} james="36:40" on="1:01" off="1:05">-- the King Arthur's father Uther is homophobic--</span> I-I mean he hates magic!
+
+<span visual={{atg}} on="2:49" off="2:53"><mark>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(0:14)" %}>
 
-We soon meet his annoyingly arrogant son Arthur, and I mean... yeah I'd probably be annoyingly arrogant too, if I looked like that. When Merlin meets the prince, they don't quite get along. But, while at a royal function as Gaius's guest, Merlin ends up saving Arthur's life. To thank him for his bravery, King Uther bestows Merlin the *wondrous* honor of being Arthur's manservant. (I mean there could be *worse* jobs.)<wbr off />
+For those of you who don't know: Merlin is set in arthurian legend, A time when king Arthur ruled over Albion. Which is a nerdy way of saying England. There's a lot of stories about king Arthur like: The round table, the holy grail and Monty Python!
 
-Merlin, though, is not happy. But he decides to go along with it after meeting a dragon that informs him that Arthur is his destiny.
+</from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(1:02)" %}>
+
+Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark>So bad, in fact, that he thinks people should be executed for it.</mark>
+
+<footer>Avila says "physician", but his subtitles say "positions", and James says "potions". So, did James rip off Avila's subtitles...?</footer>
+</from>
+{% assign timecode = "36:54" %}
+<james {% include timecode %} span=2>
+
+<span visual={{atg}} james="36:54-37:00" on="0:55" off="0:59">We soon meet his annoyingly <mark num=1>arrogant son, Arthur</mark>, and I mean... yeah I'd probably be annoyingly arrogant too, if I looked like that.</span> <mark num=2>When Merlin meets the prince, they don't quite get along.</mark> 
+
+<span visual={{atg}} on="2:19" off="2:32">But, while at a <mark num=3>royal function as Gaius's guest</mark>, Merlin ends up <mark num=4>saving Arthur's life. To thank him</mark> for his bravery, King <mark num=5>Uther bestows Merlin the *wondrous* honor of being Arthur's manservant</mark>.</span> (I mean there could be *worse* jobs.)<wbr off />
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(1:26)" %}>
+
+Along with Uther, there's his <mark num=1>arrogant son, Arthur</mark>. And his kind of daughter Morgana who also secretly has magic. And also turns evil.
+
+<mark num=2>When Merlin and Prince Arthur meet, they don't like each other.</mark> At all. It's like the beginning of one of those high school animes. That I (uh) definitley don't watch and definitely wouldn't know ANYTHING about. Since I... never watched one. Never. *WEEB MUSIC*
+
+</from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(2:14)" %}>
+
+And so our story kind of begins now with Merlin attending <mark num=3>a kingdom event with his friend Gayus</mark>. And he happens to <mark num=4>save Arthur's life. As thanks</mark>, <mark num=5>Uther decides to give Merlin the previlege of being Arthur's manservant</mark>. It really is like a romantic comedy.
+
+</from>
+<james {% include timecode %}>
+
+<mark>Merlin, though, is not happy</mark>. But he decides to go along with it after meeting a dragon that <mark>informs him that Arthur is his destiny.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(2:55)" %}>
+
+<mark>Merlin isn't happy</mark> about being this dude's servant. He doesn't like Arthur at all. So imagine his thoughts, when he meets a dragon that tells him something outrageous. A dragon named Kilgharrah. That <mark>tells him that Arthur is his ... destiny.</mark>
+
+</from>
+<clip visual={{atg}} on="3:46" off="4:01" {% include citation for=page.cite.clips.merlin %}>
 
 Merlin: "How can it my destiny to protect someone who hates me?"
 
@@ -812,20 +883,54 @@ Merlin: "Oh, great, just what I needed: another riddle."
 Dragon: "That your and Arthur's path lies together is but the truth."
 
 </clip>
-</compare>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(3:46)" %}>
 
-<compare>
+Merlin: "How can it my destiny to protect someone who hates me?"
+
+Dragon: "A half cannot truly hate that which makes it whole."
+
+Merlin: "Oh, great, just what I needed: another riddle."
+
+Dragon: "That your and Arthur's path lies together is but the truth."
+
+</from>
 <james {% include timecode %}>
 
-If you've read Plato Symposium, that whole two halves making a whole thing will mean a lot. Or if you're *not* a nerd and just understand romantic language tropes. As a quick aside, as TV dragons go, can you believe Game of Thrones came came out just 3 years after this?
-
-So, how is it that these two characters who hate each other could become friends? Each other's destiny. Oh come on, you've seen a romantic comedy, you know how this works! <wbr on />By episode 4, they've grown *so* close, that when Merlin has been poisoned, Prince Arthur risks his life to save him by venturing into the cave of an evil *beast* in order to get a flower that acts as the antidote to the poison.<wbr off /> Arthur, who starts off as a pompous ass, is willing to risk his own life to save the life of his *servant*, one that could *easily* be replaced, maybe even by someone who *doesn't* need a limb so much.
-
-<wbr on />By the end of the first season, they're both willing to drink poison to save the other's life.<wbr off /> But even after that, there's a *tension* between them, since Arthur is a prince and Merlin is just a lowly servant.
+If you've read Plato Symposium, that whole "two halves making a whole" thing will mean a lot. Or if you're *not* a nerd and just understand romantic language tropes. As a quick aside, as TV dragons go, can you believe Game of Thrones came came out just 3 years after this?
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<james {% include timecode %} span="3">
+
+So, <mark num=1>how is it that these two characters who hate each other could become friends?</mark> Each other's destiny? Oh come on, you've seen <mark num=2>a romantic comedy</mark>, you know how this works! 
+
+<span visual={{atg}} on="4:42" off="4:57">By <mark num=3>episode 4</mark>, they've grown *so* close, that when <mark num=4>Merlin has been poisoned</mark>, <mark num=5>Prince Arthur risks his life to save him</mark> by venturing into the <mark num=6>cave of an evil *beast* in order to get a flower</mark> that acts as the antidote to the poison.</span>
+
+Arthur, who starts off as a pompous ass, is willing to risk his own life to save the life of <mark num=7>his *servant*</mark>, one that could *easily* be replaced, maybe even by someone who *doesn't* need a limb so much.
+
+<span visual={{atg}} on="5:08" off="5:13"><mark num=8>By the end of the first season</mark>, <mark num=9>they're both willing to drink poison to save the other's life</mark>.</span> But even after that, <mark num=10>there's a *tension* between them</mark>, <mark num=11>since Arthur is a prince and Merlin is just a lowly servant</mark>.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(4:11)" %}>
+
+So, the question is: <mark num=1>How is it, that these two that hate each other become friends</mark> or - dare I say? - Lovers?
+
+</from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(2:30)" %}>
+
+It really is like <mark num=2>a romantic comedy</mark>.
+
+</from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(4:39)" %}>
+
+In fact, in <mark num=3>episode 4</mark>, they're already risking their lives for each other. When the weekly life-or-death situation is happening and <mark num=4>Merlin was dying from poison</mark> the only thing that could save him is that <mark num=6>special flower that's guarded by this venemous beast</mark>. <mark num=5>Arthur wanted to take that risk of his own life to save Merlin</mark>. <mark num=7>For a servant</mark>. 
+
+<mark num=8>Towards the end of the first season</mark> Arthur and Merlin are faced with two Goblet/challice/fancy cup things. It's like... It's like a princess bride situation Except... both of them are willing to die for each other. <mark num=9>Willing to poison themselves, so the other could live</mark>.
+
+Even though they're self-sacrificial for each other, <mark num=10>there's still a disconnect between them</mark>. There's the issue that <mark num=11>Merlin is a servant and Arthur is a prince</mark>. And that they could never be friends.
+
+</from>
+<clip visual={{atg}} on="5:31" off="5:44" {% include citation for=page.cite.clips.merlin %}>
 
 Arthur: "All right, I know I'm a prince, so we can't be friends. But if I wasn't a prince--"
 
@@ -836,40 +941,104 @@ Arthur: "Well then... think we'd probably get on."
 \[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.]
 
 </clip>
-</compare>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(5:31)" %}>
 
-<compare>
+Arthur: "All right, I know I'm a prince, so we can't be friends. But if I wasn't a prince--"
+
+Merlin: "What."
+
+Arthur: "Well then... think we'd probably get on."
+
+\[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.] \*Gay ass music\*
+
+</from>
 <james {% include timecode %}>
 
-<wbr on />As the seasons go on, Merlin's feelings for Arthur become more prevalent. He becomes incredibly jealous when women show affection to Arthur. There's a running gag about him wanting to *hug* Arthur. And he's not shy about ripping Arthur's pants off.<wbr off /> 
-
-But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <wbr on />And Arthur's own father would execute Merlin if he found out about him. In fact the show doesn't exactly *hide* that magic is a metaphor for homosexuality. It's on the level of obviousness of *X-Men 2*. Even in the language used, no one ever says they *practice* magic, they say that they *have* magic. It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.
+<span visual=none on=? off=?>As the seasons go on, Merlin's feelings for Arthur become more prevalent. He becomes incredibly jealous when women show affection to Arthur. There's a running gag about him wanting to *hug* Arthur. And he's not shy about ripping Arthur's pants off.</span>
 
 </james>
 <from></from>
+<james {% include timecode %}>
+
+But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(6:33)" %}>
+
+But we can't ignore the obvious here. Merlin has magic and Camelot is strictly anti-magic which brings us to our sub point.
+
+\[On screen]: "2. magic is gay"
+
+<mark>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
+
+\[Various clips from the show as a big rainbow flag slowly grows over the screen]:  
+"What if... magic isn't something you choose?"  
+"Face it, man, we're really alike."  
+"I've always been taught... magic is evil."  
+"That it corrupts yourself."  
+"You don't know what it's like to be an outsider!"  
+"To be ashamed of how you were born, to have to hide who you are!"  
+"Until then ... we go unmarked in death as in life." 
+
+<mark>It's not even "I practice magic" it's "I have magic".</mark> Merlin has to deal with that shame while at the same time using magic to save Arthur's life and never getting recognition. He speaks out about his frustrations;
+
+</from>
 <clip {% include citation for=page.cite.clips.merlin %}>
 
-Woman: "What if... magic isn't something you choose? What if it chooses you?"
+Morgana: "What if... magic isn't something you choose? What if it chooses you?"
 
 \[Merlin looks contemplative.]
 
 </clip>
+<comment>
+{% include header for=tustin %}
+
+This clip James did *not* lift directly from Are They Gay. Because in the Are They Gay video, this clip plays under a slowly encroaching pride flag, and thus was unusable for James. So he had to get it elsewhere, but knew about it from Avila's video.
+
+</comment>
 <james {% include timecode %}>
 
-Magic is Merlin's greatest weapon, though, and he uses it to save Arthur's life time and time again throughout the series. Merlin is so close to Arthur, so drawn to him, despite the servant-master divide between them, that he's willing to risk his *life*, not just to save Arthur's life but to even be *around* him. If he were to accidentally use magic in front of the wrong person, it would be the end of him. He even hides his magic from Arthur because he fears Arthur would hate him if he found out, a feeling all too familiar to queer kids developing crushes on their presumed straight friends.
+<span visual={{atg}} on="20:48" off="21:05">Magic is Merlin's greatest weapon, though, and he uses it to save Arthur's life time and time again throughout the series. Merlin is so close to Arthur, so drawn to him, despite the servant-master divide between them, that he's willing to risk his *life*, not just to save Arthur's life but to even be *around* him.</span>
+
+<span visual={{atg}} on="24:18" off="24:33">If he were to accidentally use magic in front of the wrong person, it would be the end of him. He even hides his magic from Arthur because he fears Arthur would hate him if he found out, a feeling all too familiar to queer kids developing crushes on their... presumed straight friends.</span>
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
-
-As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as it means Arthur *can* love a servant. And when Merlin goads Arthur into revealing his true feelings about Gwen,<wbr off /> it sounds like he's talking about Merlin.
+<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(10:00)" %}>
+
+If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
+
+</from>
+<james {% include timecode %}>
+
+And when Merlin goads Arthur into revealing his true feelings about Gwen,</span> it sounds like he's talking about Merlin.
+
+</james>
+<from span="2" {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(15:51)" %}>
+
+jeez I mean even when Arthur's talking about Gwen it sounds like he's talking about Merlin.
+
+"Just say it!" 
+
+"I can't!" 
+
+"How can i admit that..." "I think about it all the time?" 
+
+"Merlin" 
+
+"Or that I care about her more than anyone?"
+
+"How can I admit that..." "I don't know what I'd do if any harm comes to her."
+
+"To admit my feelings knowing that..." "Hurts too much"
+
+</from>
+{% assign timecode = "41:00" %}
+<clip visual={{atg}} on="16:03" off="16:31" {% include citation for=page.cite.clips.merlin %}>
 
 Merlin: "Just say it!"
 
@@ -899,18 +1068,50 @@ Arthur: "To admit my feelings, knowing that... hurts... too much."
 But even Gwen's not blind to how Arthur feels about Merlin.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<from span="2" {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(16:31)" %}>
 
-Man: "Why would he want to help you?"
+And the comparisons to Gwen don't end there. When Gwen's bro Elliot is gossiping with her about Arthur he uses the fact that Arthur would rescue her, a servant, as evidence that Arthur loves her. 
+
+Gwen: "Maybe Arthur can think of something."
+
+Ellion: "Arthur?" 
+
+Gwen: "Prince Arthur." "I came with him."
+
+Ellion: "Prince Arthur of Camelot?" 
+
+Gwen: "Yes, Ellion, Prince Arthur of Camelot." 
+
+Ellion: "Why would he want to help you?"
+
+Gwen: "Why shouldn't he?" 
+
+Ellion: "Ha. Cause he's a prince and you're a servant?" 
+
+Gwen: "He doesn't care about that sorta thing, he's..." "You know." "Chivalrous." 
+
+Ellion: "Alright." "So he's like that with all the maids in Camelot?"
+
+Gwen: "No." 
+
+\[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"
+
+"Yes." "I mean..."
+
+\[On screen, next to her, like Gwen is thinking this]: "wait a second..."
+
+</from>
+<clip visual={{atg}} on="16:56" off="17:18" {% include citation for=page.cite.clips.merlin %}>
+
+Ellion: "Why would he want to help you?"
 
 Gwen: "Why shouldn't he?"
 
-Man: "Cuz he's a prince and you're a servant?"
+Ellion: "Cuz he's a prince and you're a servant?"
 
 Gwen: "He doesn't care about that sort of thing. He's... you know, chivalrous."
 
-Man: "Right... so he's like that with all the maids that come up?"
+Ellion: "Right... so he's like that with all the maids that come up?"
 
 Gwen: "No."
 
@@ -921,37 +1122,81 @@ Gwen: "Yes. I mean..."
 \[On screen, next to her, like Gwen is thinking this]: "wait a second..."
 
 </clip>
+{% assign timecode = "41:55" %}
+<james {% include timecode %}>
+
+And then, Arthur's father dies. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for Arthur to become his own person, a king. He can think the way he wants to and love who he wants to.</span> 
+
+<footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
+</james>
+<from></from>
+<james {% include timecode %}>
+
+So it's telling that at a single point in the show where he feels the most isolated emotionally, the most down, the most defeated... he <span visual on="19:31" off="19:45">looks to Merlin with longing. He realizes he's not alone, that he'll never be alone, because Merlin is with him. And from that point on, he not only shows real respect for Merlin, but admiration.</span>
+
+When Merlin is in danger, Arthur rides to his rescue. The king doesn't send his Knights to save his servant, he goes himself to save his partner. 
+
+</james>
+<from></from>
+
+<james {% include timecode %}>
+
+<span visual={{atg}} on="30:27" off="30:35">At the end of the series, after a battle with Morgana and Mordred leaves Arthur mortally wounded, his final words are for no one but Merlin.</span>
+
+</james>
+<from span="3" {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(30:50)" %}>
+
+But Arthur's giving up with Arthur dying Merlin's hope for himself and the future dies as well. Arthur starts to say his last words and they're for no one else but Merlin. 
+
+Merlin: *panting*
+
+Arthur: "All your magic, Merlin..." "can't save my life."
+
+Merlin: "I can! I'm not going to leave you!"
+
+Arthur: "Just... just... "Just hold me..." 
+
+Merlin: *heavy panting* 
+
+Arthur: "Please."
+
+I think that the speaks for itself. Wanting to be held by your lover as you die.
+
+</from>
+<clip visual={{atg}} on="30:50" {% include citation for=page.cite.clips.merlin %}>
+
+Arthur: "All your magic, Merlin, you... can't save my life."
+
+Merlin: "I can. I'm not going to lose you."
+
+Arthur: "just-- just-- just hold me, please."
+
+</clip>
+{% assign timecode = "43:03" %}
+<james {% include timecode %}>
+
+<span visual={{atg}} off="31:29">Wanting to be held by the person most important to you, your best friend and partner. A small comfort at the end of your life.</span> 
+
+<span visual={{atg}} on="32:43" off="32:49">A final prophecy foretells that Arthur will one day return, and so Merlin, the immortal wizard--</span> 
+
+<span visual={{atg}} on="33:34" off="33:39">--wanders the earth, waiting for that day, when they can be reunited.</span>
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual="none" on=? off=?>fan fiction. Fan fiction that made it to the showrunners, who decided to give those fans a little bit more red meat as each new season went on. </span>
+
+<span visual=none on=? off=?>And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.</span>
+
+</james>
+<from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-And then, Arthur's father dies. And since he was the homophobic-- I mean, magic-phobic? -- <wbr on />son of a bitch that was making everyone's lives so difficult, it's the catalyst for Arthur to become his own person, a king. He can think the way he wants to and love who he wants to.<wbr off /> So it's telling that at a single point in the show where he feels the most isolated emotionally, the most down, the most defeated... he <wbr on />looks to Merlin with longing. He realizes he's not alone, that he'll never be alone, because Merlin is with him. And from that point on, he not only shows real respect for Merlin, but admiration.<wbr off />
-
-When Merlin is in danger, Arthur rides to his rescue. The king doesn't send his Knights to save his servant, he goes himself to save his partner. At the end of the series, after a battle with Morgana and Mordred leaves Arthur mortally wounded, his final words are for no one but Merlin.
-
-</james>
-<from></from>
-<clip {% include citation for=page.cite.clips.merlin %}>
-
-Arthur: "We will magic(?) [inaudible] That'll save my life."
-
-Merlin: "I can't. I'm not going to lose you."
-
-Arthur: "just-- just-- just hold me, please."
-
-</clip>
-<james {% include timecode %}>
-
-Wanting to be held by the person most important to you, your best friend and partner. A small comfort at the end of your life. A final prophecy foretells that Arthur will one day return, and so Merlin, the immortal wizard, wanders the earth, waiting for that day, when they can be reunited.<wbr off />
-
-Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <wbr on />fan fiction. Fan fiction that made it to the showrunners, who decided to give those fans a little bit more red meat as each new season went on. 
-
-</james>
-<from></from>
-<james {% include timecode %}>
-
-And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.<wbr off /> But they weren't the only show on the BBC that realized what kind of audience queer baiting could bring you.
+But they weren't the only show on the BBC that realized what kind of audience queer baiting could bring you.
 
 </james>
 <from></from>
@@ -1896,7 +2141,7 @@ I mean, I'm sure Disney hasn't done anything like this before. [Turning as if so
 <from></from>
 </compare>
 
-### Marvel
+### Captain America
 
 <compare>
 <james {% include timecode %}>

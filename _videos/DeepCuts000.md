@@ -156,7 +156,7 @@ Not included in the credits, though they should have been:
 
 (Also, the name is "Darren Elliott-Smith", not just "Elliot".)
 
-{% include footer-citation for=hbomb.video at="(2:46:18)" %}
+{% include footer-citation for=hbomb.video at="(2:33:53)" %}
 </comment>
 </compare>
 {% assign timecode = "1:14" %}
