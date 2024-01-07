@@ -1125,28 +1125,44 @@ Gwen: "Yes. I mean..."
 {% assign timecode = "41:55" %}
 <james {% include timecode %}>
 
-And then, Arthur's father dies. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for Arthur to become his own person, a king. He can think the way he wants to and love who he wants to.</span> 
+And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
 
 <footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(18:34)" %}>
+
+And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark>Arthur he starts to think for himself</mark>. That is not without his friend's help.
+
+</from>
 <james {% include timecode %}>
 
-So it's telling that at a single point in the show where he feels the most isolated emotionally, the most down, the most defeated... he <span visual on="19:31" off="19:45">looks to Merlin with longing. He realizes he's not alone, that he'll never be alone, because Merlin is with him. And from that point on, he not only shows real respect for Merlin, but admiration.</span>
+So it's telling that at <mark>a single point in the show where he feels the most isolated emotionally</mark>, the most down, the most defeated... he <span visual on="19:31" off="19:45"><mark>looks to Merlin with longing. He realizes he's not alone</mark>, that he'll never be alone, because Merlin is with him. And from that point on, he not only shows real respect for Merlin, but admiration.</span>
 
-When Merlin is in danger, Arthur rides to his rescue. The king doesn't send his Knights to save his servant, he goes himself to save his partner. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(19:24)" %}>
 
+He starts to realize that he doesn't need those old age ideas. He realizes that class isn't everything and <mark>at that point where he feels the most alone</mark> there's a moment when the camera makes this sneaky but powerful move. <mark>He looks at merlin and realizes that he isn't alone</mark>. It's that first shot that smile of reassurance that Merlin gives him. An onward Arthur starts actually giving him compliments and more importantly fully reciprocating the eye sex.
+
+</from>
 <james {% include timecode %}>
 
-<span visual={{atg}} on="30:27" off="30:35">At the end of the series, after a battle with Morgana and Mordred leaves Arthur mortally wounded, his final words are for no one but Merlin.</span>
+When Merlin is in danger, Arthur rides to his rescue. The king doesn't send his Knights to <mark num=1>save his servant</mark>, <mark num=2>he goes himself</mark> to save his partner.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(20:22)" %}>
+
+When merlin is presumed to be dead in "A Servant of two masters" Arthur cannot accept that Merlin is dead and <mark num=2>the freakin king of Camelot goes by himself</mark> [On screen: "(Not by himself)"] <mark num=1>to look for a servant</mark>! Guys this isn't a one-time thing! It keeps happening.
+ 
+</from>
+<james {% include timecode %}>
+
+<span visual={{atg}} on="30:27" off="30:35">At the end of the series, after a battle with Morgana and Mordred leaves Arthur mortally wounded, <mark num=1>his final words are for no one but Merlin.</mark></span>
 
 </james>
 <from span="3" {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(30:50)" %}>
 
-But Arthur's giving up with Arthur dying Merlin's hope for himself and the future dies as well. Arthur starts to say his last words and they're for no one else but Merlin. 
+But Arthur's giving up with Arthur dying Merlin's hope for himself and the future dies as well. Arthur starts to say <mark num=1>his last words and they're for no one else but Merlin.</mark> 
 
 Merlin: *panting*
 
@@ -1160,7 +1176,7 @@ Merlin: *heavy panting*
 
 Arthur: "Please."
 
-I think that the speaks for itself. Wanting to be held by your lover as you die.
+I think that the speaks for itself. <mark num=2>Wanting to be held by your lover as you die.</mark>
 
 </from>
 <clip visual={{atg}} on="30:50" {% include citation for=page.cite.clips.merlin %}>
@@ -1175,14 +1191,13 @@ Arthur: "just-- just-- just hold me, please."
 {% assign timecode = "43:03" %}
 <james {% include timecode %}>
 
-<span visual={{atg}} off="31:29">Wanting to be held by the person most important to you, your best friend and partner. A small comfort at the end of your life.</span> 
+<span visual={{atg}} off="31:29"><mark num=2>Wanting to be held by the person most important to you, your best friend and partner</mark>. A small comfort at the end of your life.</span> 
 
 <span visual={{atg}} on="32:43" off="32:49">A final prophecy foretells that Arthur will one day return, and so Merlin, the immortal wizard--</span> 
 
 <span visual={{atg}} on="33:34" off="33:39">--wanders the earth, waiting for that day, when they can be reunited.</span>
 
 </james>
-<from></from>
 <james {% include timecode %}>
 
 Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual="none" on=? off=?>fan fiction. Fan fiction that made it to the showrunners, who decided to give those fans a little bit more red meat as each new season went on. </span>
