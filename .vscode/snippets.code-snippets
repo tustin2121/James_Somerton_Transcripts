@@ -144,7 +144,7 @@
 	"video-on-off": {
 		"prefix": "video-on-off",
 		"body": [
-			"<span class=\"visual\">$TM_SELECTED_TEXT</span>"
+			"<span visual=$1 on=\"?\" off=\"\">$TM_SELECTED_TEXT</span>"
 		],
 		"description": "Add video on marker."
 	},

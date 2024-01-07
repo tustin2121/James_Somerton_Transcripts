@@ -43,6 +43,7 @@ cite:
     peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: ""}
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
+    aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -1221,13 +1222,50 @@ But they weren't the only show on the BBC that realized what kind of audience qu
 ## Sherlock 
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_sherlock %}>
+{% assign atg = page.cite.plagiarized.aretheygay_sherlock.color %}
+
+James lifts clips of the show from Alexander Avila's *Are They Gay?* video. 
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
-Sherlock began its on-again-off-again run on the BBC in 2010. A modern reimagining of Sir Arthur Conan Doyle's Victorian mystery novels, Sherlock explores the lives of the residents of 221 B. Baker Street London. Those being John Watson and Sherlock Holmes. The gay question is actually brought up before they even move in together.
+Sherlock began its on-again-off-again run on the BBC in 2010. A modern reimagining of Sir Arthur Conan Doyle's Victorian mystery novels, Sherlock explores the lives of the residents of 221 B. Baker Street London. Those being John Watson and Sherlock Holmes. 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<james {% include timecode %}>
+
+The gay question is actually brought up before they even move in together.
+
+</james>
+<from span="2" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(1:35)" %}>
+
+John has always questioned Sherlock's sexuality. In fact, when they first meet, it's one of the first things to come out.
+
+> Watson: "You don't have a girlfriend then?"
+> 
+> Sherlock: "Girlfriend? No, not really my area."
+> 
+> Watson: "Alright." "Do you have a boyfriend?" "Which is fine by the way-" 
+> 
+> Sherlock: "I know it's fine."
+> 
+> Watson: "So you got a boyfriend?" 
+> 
+> Sherlock: "No."
+> 
+> Watson: "Alright, okay." (licks lips) 
+> 
+> \[Avila adds "lick" on screen]
+> 
+> Watson: "No one attached, just like me."
+
+John assumed that Sherlock was gay when he said that women weren't his area and Sherlock didn't even deny the question of having a boyfriend right away. Instead he went right away to saying he knows it's fine. 
+
+</from>
+<clip visual={{atg}} on="1:40" off="2:00" {% include citation for=page.cite.clips.sherlock %}>
 
 Watson: "You don't have a girlfriend then?"
 
@@ -1246,11 +1284,66 @@ Watson: "Right, okay."
 </clip>
 <james {% include timecode %}>
 
-Sherlock then does assume John is coming on to him, and explains he's too wrapped up in his work to be in a relationship. While this could easily be read as a fun misunderstanding, Sherlock is a *master* at reading people. He's practically psychic at times. So if he read the situation as if John had a hard-on for him... well, maybe he did! Hell, when the waiter approaches Sherlock, he assumes John is his date!
+<mark num=1>Sherlock then does assume John is coming on to him</mark>, and <mark num=2>explains he's too wrapped up in his work to be in a relationship</mark>. While this could easily be read as a fun misunderstanding, <mark num=3>Sherlock is a *master* at reading people.</mark> He's practically psychic at times. <mark num=4>So if he read the situation as if John had a hard-on for him... well, maybe he did!</mark> 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(2:41)" %}>
+
+And then Sherlock goes on to reject John coming on to Sherlock by saying:
+
+> Sherlock: "John, um, I think you should know that <mark num=2>I consider myself married to my work</mark> and while I'm flattered by your interest, I'm really not looking for any-" 
+> 
+> Watson: "No, I'm not asking- No. I'm just saying, it's all fine."  
+\[End clip]
+
+<mark num=1>Sherlock assumed that John was interested</mark>. Sherlock isn't stupid. He knows when people are romantically attached to him. He knows the science of attraction. <mark num=3>He's the master of body language and deduction</mark>, <mark num=4>so why did he read John as coming on to him? Maybe it was because he was.</mark>
+
+</from>
+<james {% include timecode %}>
+
+Hell, <mark>when the waiter approaches Sherlock, he assumes John is his date!</mark>
+
+</james>
+<from span="4" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(4:12)" %}>
+
+Let's also think about the beginning of the restaurant scene. <mark>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
+
+> Waiter: "Sherlock. Anything on the menu, whatever you want: free. On the house for you, and for your date." 
+> 
+> Sherlock: "Do you want to eat?" 
+> 
+> Watson: "I'm not his date." 
+
+And Sherlock brushes it off and doesn't even comment about it. But why would Angelo assume John is Sherlock's date? Surely Angelo and Sherlock have a long history together since Angelo and Sherlock are both very friendly to each other. So, after all these years Angelo made the conclusion that Sherlock is attracted to men? <mark num=2>And Sherlock doesn't even deny it</mark>, he just went with the flow. 
+
+Who else has known Sherlock for a long time? His landlady, Mrs. Hudson. And she assumed that Sherlock and John were a couple too:
+
+> Watson: "I've met someone."
+> 
+> Landlady: (squeal, claps hands) "Oh, lovely!"
+> 
+> Watson: "Yeah, we're getting married. Well, I'm gonna ask anyway."
+> 
+> Landlady: "So soon after Sherlock?"
+> 
+> Watson: "Hm, well yes."
+> 
+> Landlady: (smile falters for a few seconds) "What's his name?"
+> 
+> Watson: (sighs) "It's a woman."
+> 
+> Landlady: "A woman?!"
+> 
+> Watson: "Yes, of course, it's a woman!"
+> 
+> Landlady: (laughs) "You really have moved on, haven't you?"
+> 
+> Watson: "Mrs. Hudson! How many times? Sherlock was NOT my boyfriend."
+> 
+> Landlady: "Live and let live, that's my motto."
+
+</from>
+<clip visual={{atg}} on="4:17" off="4:25" {% include citation for=page.cite.clips.sherlock %}>
 
 Waiter: "Sherlock... anything on the menu whatever you want, free. On 'e house for you and for your date."
 
@@ -1259,18 +1352,14 @@ Sherlock: (to Watson) "Do you want to eat?"
 Watson: (to Waiter) "I'm not his date."
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-So one must presume that Sherlock has brought men here before. And Sherlock isn't the one to deny it. John is. Emphatically.
+So one must presume that Sherlock has brought men here before. <mark num=2>And Sherlock isn't the one to deny it.</mark> John is. Emphatically.
 
 Another person who knows Sherlock very well would be his land lady, who also assumes Watson to be Sherlock's boyfriend.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{atg}} on="4:48" off="5:06" {% include citation for=page.cite.clips.sherlock %}>
 
 Watson: "I've met someone."
 
@@ -1291,16 +1380,17 @@ Landlady: "A woman?!"
 Watson: "Yes, of course, it's a woman!"
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Yet another person to assume Watson to to be at least incredibly close with Sherlock is Moriarty, who knows John is the one person he can threaten and Sherlock will actually give a damn.
+<mark></mark>Yet another person to assume Watson to to be at least incredibly close with Sherlock is Moriarty, who knows John is the one person he can threaten and Sherlock will actually give a damn.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(6:26)" %}>
+
+And when Moriarty - Sherlock's evil big bad enemy - is doing his big bad plan, he uses JOHN as Sherlock's sensitive spot. Moriarty is an evil genius. He knows how to get to people. He knew to use John because of the affection Sherlock has for him.
+
+</from>
+<clip visual={{atg}} on="7:03" off="7:12" {% include citation for=page.cite.clips.sherlock %}>
 
 Watson: "I'm glad no one saw that."
 
@@ -1308,60 +1398,165 @@ Sherlock: "Hm?"
 
 Watson: "You ripping my clothes off in a darkened swimming pool. People might talk."
 
+<footer>Note: The music heard in the background of James's clip is music that AreTheyGay added to the video.</footer>
 </clip>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(6:26)" %}>
+
+And also this happens:
+> Sherlock: "Alright?" "Are you alright?"
+> 
+> Watson: "Yeah yeah."
+> 
+> Watson: "I'm glad no one saw that."
+>
+> Sherlock: "Hm?"
+>
+> Watson: "You. Ripping my clothes off in a darkened swimming pool. People might talk."
+
+What are you thinking about John? You're so defensive when it comes to people saying he was gay.
+
+</from>
 <james {% include timecode %}>
 
-John is so no-homo it hurts. He's so no-homo, in fact, that he dates a string of unremarkable women, all of whom he chooses Sherlock over.
+John is so no-homo it hurts. He's so no-homo, in fact, <mark>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
 
 </james>
-<from></from>
-</compare>
+<from span="2" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(16:25)" %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<mark>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
+
+> Watson: "I'm really sorry."
+> 
+> Woman: "You know, my friends are so wrong about you." 
+>
+> Watson: "Hm?"
+>
+> Woman: "You're a great boyfriend."
+> 
+> Watson: (Taken aback) "Okay, that's good." "I mean, I always thought I was great -"
+> 
+> "And Sherlock Holmes is a very lucky man."
+> 
+> Watson: "Oh.... Janette, please -" [...]
+
+</from>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.sherlock %}>
 
 Woman: "You're a great boyfriend."
 
-Watson: "okay, that's good. I mean I always thought I was great."
+Watson: (Taken aback) "Okay, that's good. I mean I always thought I was great."
 
 Woman: (looking at watch) "And Sherlock Holmes is a very lucky man."
 
 [Watson groans.]
 
+<footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner.</footer>
 </clip>
 <james {% include timecode %}>
 
-Even they think he's gay. But after Sherlock (quote-unquote) "dies", John is left broken. He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When his therapist asks him to say it now, he can't. He can't bring himself to say it out loud to another person. It was *only* for Sherlock.
+Even they think he's gay. 
+
+But <mark>after Sherlock</mark> (quote-unquote) <mark>"dies", John is left broken.</mark> 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(17:16)" %}>
+
+So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
+
+\[Sudden sirens and full majenta warning screen]: 
+> FOUR YEAR SPOILER FOR THE REICHENBACH FALL KIND OF, I GUESS???
+
+--<mark>dies, John is broken.</mark> Heartbroken. HEARTBROKEN.
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
+
+</james>
+<from span="3" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(9:56)" %}>
+
+John also has a similar scene where <mark>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
+
+> [There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]
+> 
+> Therapist: "The stuff that you wanted to say..." "... but didn't say it."
+>
+> Watson: "Yeah."
+>
+> Therapist: "Say it now."
+>
+> Watson: "No." (Long pause) "Sorry, I can't."
+
+<mark>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
+
+<footer> When James stole this clip, he cuts around the on-screen text.</footer>
+
+</from>
+<clip visual={{atg}} on="10:25" off="10:36" {% include citation for=page.cite.clips.sherlock %}>
 
 Therapist: "Say it now."
 
-Watson: (shakes head) "Sorry, I can't."
+Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 
 </clip>
 <james {% include timecode %}>
 
-What could it have been...? Irene Adler knows...
+<mark>What could it have been...? </mark>
 
 </james>
-<from></from>
+<james {% include timecode %}>
+
+<mark num=1>Irene Adler</mark> knows...
+
+</james>
+<from span="3" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(14:28)" %}>
+
+<mark num=1>Irene Adler</mark> confronts him about this:
+> Adler: "You jealous?"
+> 
+> Watson: "We're not a couple."
+> 
+> Adler: "Yes, you are."
+>
+> [Watson looks confused]
+> 
+> Adler: "There." "I'm not dead." "Let's have dinner."
+>
+> Watson: "Who the hell knows about Sherlock Holmes, but, for the record, if anyone out there still cares:" "I'm not actually gay."
+>
+> Adler: "Well I am." "Look at us both."
+>
+> [Watson stares off. On screen, added by Avila: "2soon"]
+
+What Irene is saying here, ASSERTING, is that John and Sherlock are a couple. She doesn't even deny it, she just says: "Yes, you are." John returns with the usual "I'm not THAT way response", but Irene dismisses that excuse with "Well, I am." 
+
+<mark num=3>As in they're both primarily attracted to women, but somehow they fell in love with Sherlock.</mark> Irene isn't one to get these sorts of things wrong. <mark num=2>She's an expert of sorts on human sexuality</mark>. She knows what she sees. John stands there in silence: not in denial, but in defeat. As in: "Oh. She got me."
+
+</from>
 <clip {% include citation for=page.cite.clips.sherlock %}>
 
-Watson: "We're not a couple."
+<span visual=none on="?">Watson: "We're not a couple."</span>
 
-Adler: (not looking up from phone) "Yes you are."
+<span visual=none off="?">Adler: (not looking up from phone) "Yes you are."</span>
 
-Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."
+----
+
+<span visual=none on="?">Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."</span>
 
 Adler: "Well I am. Look at us both."
 
+<span visual=none off="?">[Watson stares off, and scoffs.]</span>
+
+<footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner, and are not a subset of usable footage of Avila's.</footer>
+
 </clip>
 <james {% include timecode %}>
 
-An expert in human sexuality and how men's minds work. Her statement that she is in fact gay is interesting, since she's *obviously* in love with Sherlock. Saying, in essence, that you can be primarily attracted to *women*, but still fall in love with Sherlock Holmes.
+<mark num=2>An expert in human sexuality</mark> and how men's minds work. Her statement that she is in fact gay is interesting, since she's *obviously* in love with Sherlock. <mark num=3>Saying, in essence, that you can be primarily attracted to *women*, but still fall in love with Sherlock Holmes.</mark>
+
+</james>
+<james {% include timecode %}>
 
 Moving forward, John gets *so incredibly jealous whenever Sherlock* comes in contact with a woman. And Sherlock gets incredibly jealous whenever John interacts with another man. 
 
@@ -1400,12 +1595,21 @@ Bride: "Mm hmm." (affirmative)
 Sherlock: "Ah. He's bouncing around him like a puppy."
 
 </clip>
+<james {% include timecode %} span="2">
+
+<span visual=none on="?" off="?">Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a thruple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
+
+</james>
+<comment>
+
+AreTheyGay goes into Mary, but not for very long or this deep. So this must be sourced from elsewhere.
+
+</comment>
+<from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
-<wbr on />Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a thruple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.<wbr off />
 
 So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the shows creators, Mark Gatiss, is gay himself! 
 
