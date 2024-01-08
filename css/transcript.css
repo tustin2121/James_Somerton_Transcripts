@@ -286,6 +286,15 @@ compare from mark {
 	color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default)) !important;
 }
 
+compare :is(james, clip) mark[x] {
+	background-color: unset !important;
+	border: solid 2px var(--mark-stolen-bg) !important;
+}
+compare :is(james, clip) mark[fc] {
+	background-color: unset !important;
+	border: solid 1px red !important;
+}
+
 compare :is(james, from, comment) mark
 {
 	counter-increment: marker-num;

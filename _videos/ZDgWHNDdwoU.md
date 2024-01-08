@@ -39,7 +39,7 @@ cite:
   misinformation: !!map
   plagiarized: !!map 
     monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
-    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/" }
+    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
 --- 
 {% assign tustin = site.data.cite.tustin2121 %}
 

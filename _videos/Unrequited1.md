@@ -831,11 +831,11 @@ Clips marked in gray I cannot find in the above video, and so therefore must be 
 
 <span visual>Merlin premiered on the BBC in September of 2008 and almost immediately became fodder for gay fan fiction. And it's no wonder why: Colin Moran's Merlin and Bradley James's Prince Arthur (he's not a king yet) have so much sexual tension between them you could cut it with a knife.</span>
 
-<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
+<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark x>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark x>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
 
 <span visual={{atg}} james="36:40" on="1:01" off="1:05">-- the King Arthur's father Uther is homophobic--</span> I-I mean he hates magic!
 
-<span visual={{atg}} on="2:49" off="2:53"><mark>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
+<span visual={{atg}} on="2:49" off="2:53"><mark x>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(0:14)" %}>
@@ -845,7 +845,7 @@ For those of you who don't know: Merlin is set in arthurian legend, A time when 
 </from>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(1:02)" %}>
 
-Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark>So bad, in fact, that he thinks people should be executed for it.</mark>
+Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark x>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark x>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark x>So bad, in fact, that he thinks people should be executed for it.</mark>
 
 <footer>Avila says "physician", but his subtitles say "positions", and James says "potions". So, did James rip off Avila's subtitles...?</footer>
 </from>
@@ -967,7 +967,7 @@ Arthur: "Well then... think we'd probably get on."
 <from></from>
 <james {% include timecode %}>
 
-But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
+But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark x> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(6:33)" %}>
@@ -976,7 +976,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 
 \[On screen]: "2. magic is gay"
 
-<mark>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
+<mark x>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
 
 \[Various clips from the show as a big rainbow flag slowly grows over the screen]:  
 "What if... magic isn't something you choose?"  
@@ -1012,12 +1012,12 @@ This clip James did *not* lift directly from Are They Gay. Because in the Are Th
 </james>
 <from></from>
 <james {% include timecode %}>
-<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
+<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark x>it means Arthur *can* love a servant</mark>.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(10:00)" %}>
 
-If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
+If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark x>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
 
 </from>
 <james {% include timecode %}>
@@ -1132,13 +1132,13 @@ Gwen: "Yes. I mean..."
 {% assign timecode = "41:55" %}
 <james {% include timecode %}>
 
-And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
+And then, Arthur's <mark x>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark x>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
 
 <footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(18:34)" %}>
 
-And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark>Arthur he starts to think for himself</mark>. That is not without his friend's help.
+And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark x>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark x>Arthur he starts to think for himself</mark>. That is not without his friend's help.
 
 </from>
 <james {% include timecode %}>
@@ -1307,12 +1307,12 @@ And then Sherlock goes on to reject John coming on to Sherlock by saying:
 </from>
 <james {% include timecode %}>
 
-Hell, <mark>when the waiter approaches Sherlock, he assumes John is his date!</mark>
+Hell, <mark x>when the waiter approaches Sherlock, he assumes John is his date!</mark>
 
 </james>
 <from span="4" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(4:12)" %}>
 
-Let's also think about the beginning of the restaurant scene. <mark>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
+Let's also think about the beginning of the restaurant scene. <mark x>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
 
 > Waiter: "Sherlock. Anything on the menu, whatever you want: free. On the house for you, and for your date." 
 > 
@@ -1424,12 +1424,12 @@ What are you thinking about John? You're so defensive when it comes to people sa
 </from>
 <james {% include timecode %}>
 
-John is so no-homo it hurts. He's so no-homo, in fact, <mark>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
+John is so no-homo it hurts. He's so no-homo, in fact, <mark x>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(16:25)" %}>
 
-<mark>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
+<mark x>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
 
 > Watson: "I'm really sorry."
 > 
@@ -1477,12 +1477,12 @@ So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
 </from>
 <james {% include timecode %}>
 
-<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
+<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark x>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
 
 </james>
 <from span="3" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(9:56)" %}>
 
-John also has a similar scene where <mark>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
+John also has a similar scene where <mark x>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
 
 > [There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]
 > 
@@ -1494,7 +1494,7 @@ John also has a similar scene where <mark>his therapist asks him to say what he 
 >
 > Watson: "No." (Long pause) "Sorry, I can't."
 
-<mark>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
+<mark x>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
 
 <footer> When James stole this clip, he cuts around the on-screen text.</footer>
 
@@ -1508,7 +1508,7 @@ Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 </clip>
 <james {% include timecode %}>
 
-<mark>What could it have been...? </mark>
+<mark x>What could it have been...? </mark>
 
 </james>
 <james {% include timecode %}>
@@ -1659,7 +1659,7 @@ Eventually, <mark>Rose leaves </mark>the two and we get this description:
 
 > <mark></mark>Scorpius and Albus look at each other and something passes between them.
 
-<mark>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
+<mark x>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(1:38)" %}>
@@ -1674,14 +1674,14 @@ Albus and Scorpius exchange an awkward introduction, and soon after <mark>Rose l
 
 > <mark></mark>Scorpius and Albus look at each other, and something passes between them. 
 
-Come on, <mark>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
+Come on, <mark x>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
 
 </from>
 <james {% include timecode %}>
 
 <mark>The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus</mark>, since he's Harry Potter's kid and all. 
 
-We learned more about Albus's life at home, his awkward relationship with his family -- <mark>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
+We learned more about Albus's life at home, his awkward relationship with his family -- <mark x>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
 
 Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
 
@@ -1702,7 +1702,7 @@ Both Scorpius and Albus don't live up to other people's expectations. <mark>but 
 <compare>
 <james {% include timecode %}>
 
-<mark>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
+<mark x>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
 
 > <mark></mark>Albus hugs his friend.  
 > With fierceness.  
@@ -1774,14 +1774,14 @@ Except <mark>Albus and Scorpius decide to ditch the train to school</mark> so th
 <compare>
 <james {% include timecode %}>
 
-> **SCORPIUS:**
+> <mark></mark>**SCORPIUS:**
 > If we're doing this, we're doing it <del>(he puts on a pair of familiar-looking glasses with a smile)</del> together.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(5:35)" %}>
 
 They can't be apart from each other even when they're saving this guy in the past, they have to do it together
-> SCORPIUS: No, no way, José. If we're doing this, we're doing it *(he puts on a pair of familiar looking glasses with a smile)* together.
+> <mark></mark>SCORPIUS: No, no way, José. If we're doing this, we're doing it *(he puts on a pair of familiar looking glasses with a smile)* together.
 
 </from>
 </compare>
@@ -1815,7 +1815,7 @@ Naturally, a bro is happy for his bro finding a person that they're interested i
 <compare>
 <james {% include timecode %}>
 
-Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
+Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark x>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
 
 > <mark></mark>**SCORPIUS:** Not for me.
 >
@@ -1854,7 +1854,7 @@ They more or less <mark>succeed</mark> in saving Cedric but... when they return 
 > 
 > **HARRY:** He's dangerous.  
 
-<mark>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
+<mark x>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(8:22)" %}>
@@ -1999,7 +1999,7 @@ And so Scorpius and Albus meet up again and discuss how to fix the mess they've 
 <compare>
 <james {% include timecode %}>
 
-<mark id="scorpius_life">Scorpius's life is even worse now that Albus isn't in it.</mark> The two eventually have a fevered argument that leaves Scorpius even more distraught and lost. People think he's the <mark>son of Voldemort</mark>. (It's complicated, very complicated, stupidly complicated.)
+<mark x id="scorpius_life">Scorpius's life is even worse now that Albus isn't in it.</mark> The two eventually have a fevered argument that leaves Scorpius even more distraught and lost. People think he's the <mark>son of Voldemort</mark>. (It's complicated, very complicated, stupidly complicated.)
 
 He thinks he's a terrible person. That maybe all the horrible things said about him are true. Albus disagrees.
 
@@ -2048,7 +2048,7 @@ Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpi
 <compare>
 <james {% include timecode %}>
 
-<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark num=4>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
+<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark x num=4>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
 
 <mark num=5>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
 
@@ -2567,7 +2567,7 @@ Well, they didn't tell us "they fell madly in love", <span class="visual">but th
 <compare>
 <james {% include timecode %}>
 
-<span class="visual">Finn is then set up for <mark>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
+<span class="visual">Finn is then set up for <mark x>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
 
 <span class="visual">And eventually, we find out that Poe is still alive. And we get this scene:</span>
 
@@ -2612,12 +2612,12 @@ James likely lifts the clip of Ellen from Are They Gay's video on Finn and Poe
 
 The eye fucking! Oh my God! 
 
-<mark>Before the movie was released, the cast went on to the Ellen show. </mark>
+<mark x>Before the movie was released, the cast went on to the Ellen show. </mark>
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_finnpoe at="(6:10)" %}>
 
-<mark>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
+<mark x>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
 
 \[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
 

@@ -53,7 +53,7 @@ cite:
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
     randy_shulman: { color: 3, short: "(Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: "https://www.metroweekly.com/2013/10/queer-as-carrie/" }
-    darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx" }
+    darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx", type: "academic" }
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
     wikipedia_jennifer: { color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948" }
@@ -61,10 +61,10 @@ cite:
     dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
     michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
     bart_bishop: { color: 7, short: "(Bishop, 2019)", full: "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/" }
-    jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
+    jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
     david_church: { color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows" }
-    david_greven: { color: 16, short: "(Greven, 2014)", full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: "https://archive.org/details/readingbromanceh0000unse" }
-    claire_sisco_king: { color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_" }
+    david_greven: { color: 16, short: "(Greven, 2014)", full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: "https://archive.org/details/readingbromanceh0000unse", type: "academic" }
+    claire_sisco_king: { color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_", type: "academic" }
     amanda_howell: { color: 14, short: "(Howell, 2017)", full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK" }
     jessica_roy: { color: 12, short: "(Roy, 2017)", full: "Roy, J. (2017, Jun 9). <em>The Babadook as an LGBT icon makes sense. No, really</em> [Article]. Los Angeles Times. Retrieved Dec 24, 2023, from", url: "https://www.latimes.com/entertainment/movies/la-et-mn-babadook-gay-icon-lgbt-history-20170609-story.html" }
     rachel_brands: { color: 3, short: "(Brands, 2019)", full: "Brands, R. (2019, Nov 4). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: "https://www.thefandomentals.com/queer-subtext-it-part-1/" }
@@ -343,7 +343,7 @@ Also, though it may have happened occasionally, it doesn't look like attributing
 
 *The Craft*, released in 1996, holds an odd appeal within the lgbt community. There are no queer characters but... the coding...
 
-The film follows the story of <mark>four teenage girls who each grow up feeling different</mark>, in one way or another. <mark>Special</mark> and above the fray of their peers, or <mark>rejected</mark> by them entirely, <mark>as so many queer teens have experienced</mark>. Either being praised for their artistic prowess in theater, art, or dance, or roundly rejected by the populace at large for being different.
+The film follows the story of <mark>four teenage girls who each grow up feeling different</mark>, in one way or another. <mark>Special</mark> and above the fray of their peers, or <mark>rejected</mark> by them entirely, <mark stat:id="sub-queer">as so many queer teens have experienced</mark>. Either being praised for their artistic prowess in theater, art, or dance, or roundly rejected by the populace at large for being different.
 {% assign timecode = "5:55" %}
 
 By happenstance the four <mark>girls end up in the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to a hookup, which for them is going shopping for candles after school.</mark> 
@@ -363,7 +363,7 @@ The movie is about <mark>four teenage girls who each grow up feeling different</
 
 The most memorable character, <span stat:id="baa">by all accounts</span>, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
 
-<mark>Bonnie</mark> is a girl with <mark>self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet</mark> <mark>she fears</mark> that in the end that's exactly the thing that will happen: that <mark>she'll grow up lonely</mark>, never finding love.
+<mark>Bonnie</mark> is a girl with <mark>self-image issues, due to scars that cover her arms and back. Like so many <span stat:id="sub-queer">queer kids</span>, she just wants to be left alone, yet</mark> <mark>she fears</mark> that in the end that's exactly the thing that will happen: that <mark>she'll grow up lonely</mark>, never finding love.
 
 <mark>Rochelle</mark>, <mark>the only Black character</mark>, <mark>faces racist comments from the other students</mark>, <mark>angering her but only insofar as pouting</mark> about <mark>what they did to her cashmere sweater</mark>. This isn't a movie about racism, after all, it's about <mark>witchaphobia</mark>.
 
@@ -403,7 +403,7 @@ Nancy: "We are the weirdos, mister." [smiles]
 </clip>
 <james {% include timecode %}>
 
-<mark num=3>Gay icon confirmed.</mark>
+<mark x num=3>Gay icon confirmed.</mark>
 
 </james>
 </compare>
@@ -689,7 +689,7 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 </james>
 <from {% include citation for=page.cite.plagiarized.colon_arason at="¶ 4" %}>
 
-<mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” 5 <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” 6
+<mark>One of the controversial aspects of Wood’s article is the distinction that he makes between what he perceives to be progressive and reactionary</mark> <mark>movements within the genre</mark>. In the third section of the article he unleashes a vicious attack on the early films of David Cronenberg, and states of the deviously subversive *Shivers* (1975) that “with its unremitting ugliness and crudity, it is very rare in its achievement of total negation.” <sup>5</sup> <mark>This notion of reactionary horror continues to be a presence in *Monsters in the Closet*, and it would appear that this attitude contributes greatly to Benshoff’s general disdain for Barker’s work.</mark> <mark>While there</mark> does seem to be some <mark>merit to the criticism that there is a lack of positive queer representations in</mark> Barker’s cinematic oeuvre, <mark>the logic applied by both Wood and Benshoff remains deeply problematic</mark> for a number of reasons. <mark>Their argument revolves around the notion that films like</mark> *Shivers* and *<mark>Hellraiser* want us to reject the sights we see as being repugnant or negative, when the reality is that these directors find these images to be compelling and horror film audiences are more likely to be fascinated than disgusted</mark>. As Henry Jenkins observes, “The best artists working in the genre don’t just want to provoke horror or revulsion, they want to slowly reshape our sensibilities so that we come to look at some of the most outré images as aesthetically pleasing and erotically desirable.” <sup>6</sup>
 
 <footer>
 
@@ -821,7 +821,7 @@ A month later, Jennifer has become pale. She accepts a date with school goth/emo
 <compare>
 <james {% include timecode %}>
 
-<mark>Discovering that Jennifer is now a succubus</mark> <mark>who will feed off of human life to sustain herself</mark>, Needy decides to take action. After a failed attempt that <mark>leaves her boyfriend dead</mark>, <mark>she manages to kill Jennifer and the demon inside her</mark>, <mark>just in time for Jennifer's mother to discover her on top of her daughter's corpse</mark>. <mark>So off to Briarcliff she goes</mark>. 
+<mark>Discovering that Jennifer is now a succubus</mark> <mark x>who will feed off of human life to sustain herself</mark>, Needy decides to take action. After a failed attempt that <mark x>leaves her boyfriend dead</mark>, <mark>she manages to kill Jennifer and the demon inside her</mark>, <mark>just in time for Jennifer's mother to discover her on top of her daughter's corpse</mark>. <mark x>So off to Briarcliff she goes</mark>. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 4" %}>
@@ -854,7 +854,7 @@ In 2020, the film was categorized as a <mark>horror classic</mark>.<sup>[53]</su
 <compare>
 <james {% include timecode %}>
 
-<mark num=1>It's fun</mark>, <mark num=2>messy, mean, sad, campy, and self-aware</mark>. <mark num=3>It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply*</mark> flawed, portraying it as a sexy thriller in order <mark num=4>to play off of star Megan Fox's hotness</mark>. <mark num=5>It attempted to appeal to the male fans of the *Transformers* franchise</mark> -- <mark num=6>entirely the wrong audience</mark>. 
+<mark num=1>It's fun</mark>, <mark num=2>messy, mean, sad, campy, and self-aware</mark>. <mark num=3>It's worth mentioning that the advertising campaign for *Jennifer's Body* was *deeply*</mark> flawed, portraying it as a sexy thriller in order <mark num=4>to play off of star Megan Fox's hotness</mark>. <mark x num=5>It attempted to appeal to the male fans of the *Transformers* franchise</mark> -- <mark x num=6>entirely the wrong audience</mark>. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 2-3" %}>
@@ -906,8 +906,6 @@ The actual <mark>beating heart</mark> of the story <mark>is a messy</mark> <mark
 
 For instance, <mark>early on in the movie</mark>, <mark>Chip stands helplessly by while the girls, giggling amongst themselves, enter into a play pushing fight, until Jennifer pushes Needy just a little too hard.</mark> Instantly reading like a scene from an elementary school <mark>playground</mark> where a boy plays a bit too <mark>rough</mark> with a girl <mark>because he likes her</mark>. 
 
-<mark>The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer</mark> to the aforementioned concert. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin.</mark> 
-
 </james>
 <from {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 10-11" %}>
 
@@ -920,6 +918,8 @@ Instantly, at least for me, this was reminiscent of every stray remark about boy
 
 <compare>
 <james {% include timecode %}>
+
+<mark>The undercurrent of tension or even hostility is soon mirrored by Needy herself when she accompanies Jennifer</mark> to the aforementioned concert. <mark>She looks on uncomfortably as Jennifer plays up the role of the sweet awkward doe-eyed girl in the hopes of getting the lead singer's romantic attention... and retreats until she overhears the band talking about Jennifer being a virgin.</mark> 
 
 <mark>Needy takes this as her cue to storm up to the band, taking on what looks to be a protector role, insisting that Jennifer *is* a virgin which is something she knows to be untrue.</mark> 
 
@@ -1008,7 +1008,7 @@ By the time she finally <mark>crawls into bed, she finds Jennifer</mark> already
 <compare>
 <james {% include timecode %}>
 
-This scene of <mark>vulnerability</mark> culminates with an <mark>actual kiss between the two girls</mark>. <mark>Needy pulls away</mark>, <mark>demanding</mark> to know what Jennifer has been up to. She tells her her story ending it with the line:
+This scene of <mark>vulnerability</mark> culminates with an <mark x>actual kiss between the two girls</mark>. <mark>Needy pulls away</mark>, <mark>demanding</mark> to know what Jennifer has been up to. She tells her her story ending it with the line:
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.zoe_fortier at="¶ 23, 27-28" %}>
@@ -1088,7 +1088,7 @@ But for young women how can you tell if another girl is interested in you in a r
 <compare>
 <james {% include timecode %} id="para10" mid-text="Paragraph-10"><!-- also 11, technically -->
 
-1979's *Alien*, directed by <mark>Ridley Scott</mark>, <mark>is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory.</mark> <mark>It's also monstrously queer</mark>. <!-- 10 ends here -->
+1979's *Alien*, directed by <mark>Ridley Scott</mark>, <mark>is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory.</mark> <mark stat:id="sub-queer">It's also monstrously queer</mark>. <!-- 10 ends here -->
 
 <mark>Not only is Ellen Ripley</mark> a <mark>strong butch heroine</mark>, who does not *at all* fit the usual sci-fi or horror female archetype, but <mark>according to <span id="david_mcintee">David McEntee</span>, author of *Beautiful Monsters*</mark>, the film also <mark>plays very deliberately with male fears of female reproduction</mark>. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
 
@@ -1137,7 +1137,7 @@ The crew are constructed as gender neutral through the use of identical genderle
 <compare>
 <james {% include timecode %}>
 
-<mark>Once cast, and the actors were given the freedom to play their parts as masculine or feminine</mark>, star Sigourney <mark>Weaver</mark> decided to play her character as <mark>completely gender-neutral</mark>. In horror, <mark>especially at the time of release</mark>, <mark>female characters were *always* portrayed</mark> as victims or <mark>damsels in distress</mark>. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
+<mark>Once cast, and the actors were given the freedom to play their parts as masculine or feminine</mark>, star Sigourney <mark>Weaver</mark> decided to play her character as <mark>completely gender-neutral</mark>. In horror, <mark x>especially at the time of release</mark>, <mark x>female characters were *always* portrayed</mark> as victims or <mark>damsels in distress</mark>. While in *Alien*, Ripley is neither of those things. She's strong and self-reliant. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.michaela_barton at="¶ 2-3" %}>
@@ -1228,7 +1228,7 @@ Frost: "It doesn't matter when it's Arcturian!"
 <compare>
 <james {% include timecode %}>
 
-So the butch space marine <mark>slept with a man.</mark> And nobody makes a big deal out of it, except for Frost who <mark>wants to do it again. And he is wholeheartedly supported.</mark> T<mark>his isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.</mark>
+So the butch space marine <mark>slept with a man.</mark> And nobody makes a big deal out of it, except for Frost who <mark>wants to do it again. And he is wholeheartedly supported.</mark> <mark>This isn't just queer behavior being portrayed in a positive manner, but one of the many ways that the movie obfuscates gender and supports a pansexual ethos.</mark>
 
 
 </james>
@@ -1244,7 +1244,7 @@ Not only did Frost have sex with a man, he’s vocal about it and <mark>wants to
 <compare>
 <james {% include timecode %}>
 
-The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. <mark>But is she herself queer?</mark> The actress who played her, Jeanette <mark>Goldstein, weighed in on that question in 2016</mark>:
+The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. <mark x stat:id="sub-queer">But is she herself queer?</mark> The actress who played her, Jeanette <mark>Goldstein, weighed in on that question in 2016</mark>:
 
 \[Quote on screen]:
 > "<mark>She's an outsider -- she was just who she was.</mark> <mark>With Vasquez, I never said she was straight or gay, because to her it was nobody's business</mark>. 
@@ -1268,7 +1268,7 @@ Again, this would suggest that gender standards have evolved in the future, as D
 <compare>
 <james {% include timecode %}>
 
-Elsewhere in the film is <mark>Bishop</mark>, another <mark>sexless cyborg</mark> like the first film's Ash. <mark>David Greven in *Demeter and Persephone in Space*</mark> observes:
+Elsewhere in the film is <mark>Bishop</mark>, another <mark x>sexless cyborg</mark> like the first film's Ash. <mark>David Greven in *Demeter and Persephone in Space*</mark> observes:
 
 > <mark>Bishop, the cyborg retooled as</mark> a <mark>queer suffering body, is an example of a resistant masculinity devoid of any obvious sexual desire. Such figures suggest queer sexuality in films and television</mark> <mark>in that their refusal of the normative codes of masculinity suggest</mark> <mark>an alternative to them.</mark>
 >
@@ -1579,7 +1579,7 @@ Billy and Stu, however, <mark>have no such lofty philosophical ambitions.</mark>
 <compare>
 <james {% include timecode %}>
 
-<mark>*Scream* also offers contrasting portraits of masculinity, but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to queerdom is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch.</mark> The killer <mark>then jumps out of her closet instead.</mark> 
+<mark>*Scream* also offers contrasting portraits of masculinity, but only in order to intensify its vision of an increasing cultural depravity. Perhaps the first touch that links the killers to <span stat:id="sub-queer">queerdom</span> is Ghostface's first appearance to Sydney. He tries to trick her into believing that he's on her front porch.</mark> The killer <mark>then jumps out of her closet instead.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.david_greven at="p.90" %}>
@@ -1923,7 +1923,7 @@ And there's an odd draw to the black and white monster for queer people. Outside
 
 > <mark>"For many lgbt people, that's what it feels like to be in your own family sometimes."</mark>
 
-<mark>Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" out loud to be read as queer, or to become queer icons.</mark>
+<mark>Naturally, there are counter arguments. The Babadook never says he's gay, he never displays physical attraction to another person, but historically fictional characters haven't needed to say "I am gay" out loud to be read as <span stat:id="sub-queer">queer</span>, or to become <span stat:id="sub-queer">queer</span> icons.</mark>
 
 > <mark>"So many LGBT people have been barred from seeing themselves represented in popular culture, so we've had to project ourselves into so many of these figures."</mark>
 
@@ -2000,7 +2000,7 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 When <mark>Eddie first encounters Pennywise</mark>, the titular "It", he's at <mark>a place known to attract hobos and drifters. It takes the form of</mark> a hobo who's <mark>stricken with disease. It uses a leper to frighten Eddie</mark> instead of your typical horror movie monster.
 
 \[Quote shown on screen:]
-> One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
+> <mark></mark>One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
 > 
 > "I-I don't have a quarter" Eddie said, backing toward his bike.
 >
@@ -2020,7 +2020,7 @@ Eddie is so obviously gay coded that I’m a little surprised I have to write an
 
 <blockquote class="book-excerpt">
 
-One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
+<mark></mark>One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
 
 "I-I don't have a quarter" Eddie said, backing toward his bike.
 
@@ -2039,7 +2039,7 @@ One of these fellows had crawled out from under the porch of the house at 29 Nei
 
 <mark>Eddie's physical manifestation of fear has symbolic meaning that is linked to his abusive upbringing. Eddie sees it as a leper because his mother's insistence that he is sickly and delicate has made him afraid of disease. Eddie is horrified of the leper's appearance, but the real terror doesn't set in until he realizes that he could catch its illness.</mark> The leper uses the offer <mark>of sexual favors to scare him.</mark> Nowhere else in the story does <mark>Pennywise threaten the children with sexual assault, so its decision to do so *here* is an important distinction.</mark>
 
-<mark>This metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and *its* combination of these things shows us a deep fear Eddie has, unknown even to himself.</mark> <mark>Eddie's afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is queer-coded. Because he is *groomed* to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him.</mark> 
+<mark>This metaphor is significant because the leper is a sickly diseased man offering oral sex to Eddie and *its* combination of these things shows us a deep fear Eddie has, unknown even to himself.</mark> <mark>Eddie's afraid of doing sexual things with men because he believes he will get a disease and die. Its use of the leper as a manifestation of Eddie's fear is our first clue that Eddie is <span stat:id="sub-queer">queer-coded</span>. Because he is *groomed* to fear disease and sickness, he fears his own homosexuality and views it as something that could kill him.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 5-7" %}>
@@ -2069,15 +2069,14 @@ We <mark>get some interesting religious imagery as Eddie thinks back to the root
 <compare>
 <james {% include timecode %}>
 
-<mark>It's interesting that Eddie fears going to hell, even though he's never done anything to warrant it.</mark> <mark>Reading Eddie's inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he's done.</mark> 
+<mark x>It's interesting that Eddie fears going to hell, even though he's never done anything to warrant it.</mark> <mark>Reading Eddie's inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he's done.</mark> 
 
 <mark>Another coded aspect of Eddie's hidden sexuality is how he interacts with the other Losers.</mark>
-
 
 </james>
 <from {% include citation for=page.cite.plagiarized.rachel_brands at="¶ 17-19" %}>
 
-This flashback shows how Eddie’s mother has shaped his life. She constantly scared him about illnesses like cancer and polio, which instills in him a fear of any activity that could result in disease or injury. <mark>It’s interesting how a young Eddie worries about being sent to hell because it’s unlikely that he has done anything that would warrant this fear.</mark> He worries about going to hell a lot for a child who was never very religious.
+This flashback shows how Eddie’s mother has shaped his life. She constantly scared him about illnesses like cancer and polio, which instills in him a fear of any activity that could result in disease or injury. <mark x>It’s interesting how a young Eddie worries about being sent to hell because it’s unlikely that he has done anything that would warrant this fear.</mark> He worries about going to hell a lot for a child who was never very religious.
 
 <mark>Reading Eddie’s inner turmoil as the result of suppressed homosexual feelings, it makes sense for Eddie to wonder about going to hell because of who he is, rather than something he has done.</mark> The common belief about the gay and trans movement in the 1950s, gay men in particular, is that they are committing dirty, sinful acts that will give them diseases and damn them to hell. Eddie’s fearful feelings towards illness and religion have a more in-depth meaning if you consider that this narrative is popularized by society as Eddie grows up.
 
@@ -2191,13 +2190,13 @@ An era update makes sense, with ’80s nostalgia reaching an all-time high with 
 <compare>
 <james {% include timecode %}>
 
-<mark>The second scene that reveals Richie is queer</mark> doesn't happen until <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotion that he has to be hauled out of the sewer by his friends. Adult Richie doesn't seem to fit into a 2019 narrative. Not everyone can come out in America</mark>, <mark>but Richie works as a comedian in Los Angeles; even if he chose to keep his sexuality close to the vest, the idea that</mark> gay marriage and giant pride parades c<mark>ould miss a white man working in Hollywood doesn't make sense. If it did, highlighting that fact would be vital to understanding the character.</mark>
+<mark>The second scene that reveals Richie is queer</mark> doesn't happen until <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotion that he has to be hauled out of the sewer by his friends. Adult Richie doesn't seem to fit into a 2019 narrative. Not everyone can come out in America</mark>, <mark>but Richie works as a comedian in Los Angeles; even if he chose to keep his sexuality close to the vest, the idea that</mark> gay marriage and giant pride parades <mark>could miss a white man working in Hollywood doesn't make sense. If it did, highlighting that fact would be vital to understanding the character.</mark>
 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.joelle_monique at="¶ 8" %}>
 
-<mark>The second scene that reveals Richie as queer</mark> happens when <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotions he has to be hauled out of the sewer by his friends. Adult Richie doesn’t seem to fit into a 2019 narrative. Not everyone can come out in America</mark>. There are many different reasons for remaining in the proverbial closet. Some careers, like a being a professional athlete or conservative analyst, can be difficult for an openly gay man to maintain. <mark>But Richie works as a comedian in Los Angeles. Even if he chose to keep his sexual orientation close to the vest, the idea that</mark> the ’00s marriage legalization or the ’90s coming out celebration c<mark>ould miss a white man working in Hollywood doesn’t make sense. If it did, highlighting that fact is vital to understanding the character.</mark> 
+<mark>The second scene that reveals Richie as queer</mark> happens when <mark>Eddie dies. Everyone is sad, but Richie is beside himself, so overcome with emotions he has to be hauled out of the sewer by his friends. Adult Richie doesn’t seem to fit into a 2019 narrative. Not everyone can come out in America</mark>. There are many different reasons for remaining in the proverbial closet. Some careers, like a being a professional athlete or conservative analyst, can be difficult for an openly gay man to maintain. <mark>But Richie works as a comedian in Los Angeles. Even if he chose to keep his sexual orientation close to the vest, the idea that</mark> the ’00s marriage legalization or the ’90s coming out celebration <mark>could miss a white man working in Hollywood doesn’t make sense. If it did, highlighting that fact is vital to understanding the character.</mark> 
 
 </from>
 </compare>

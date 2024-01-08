@@ -47,7 +47,7 @@
 		{%- endif -%}
 		<div class="bar">
 			{%- assign vid = include.video.id | split: "/" | last -%}
-			{%- assign bar = site.data.volume | map: vid | map: "sections" | first -%}
+			{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
 			{%- if bar -%}
 				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
 				<span class="misinfo" style="width:{{ bar.m }}%"></span>

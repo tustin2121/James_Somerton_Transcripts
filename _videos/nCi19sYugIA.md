@@ -12,6 +12,7 @@ links: !!seq
 description: "a video essay on Mommie Dearest and all the drama surrounding it."
 notes:
   - custom-start
+  - visual
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -473,9 +474,6 @@ There are some suggestions that Joan wrote them out of the will because she hear
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Now, as with all great camp movies, half of the fun is the gossip. And the making of *Mommie Dearest* is no exception. As mentioned *Mommie Dearest* was a celebrity expose. Christina's account is a pained, tormented struggle between loving her mother and recalling good memories of Joan, but also living through some... *very* traumatic abuse and behavior. Though the way Hollywood figures talk about it, *especially* those who are close to Joan, even Betty Davis herself, Christina makes Joan out to be a demon... that she wasn't.
@@ -483,7 +481,17 @@ Now, as with all great camp movies, half of the fun is the gossip. And the makin
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.tonight_show %}>
+</compare>
+
+<compare>
+<visual {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
+{% assign bkr = page.cite.plagiarized.bkr_video.color %}
+
+James takes several clips and visuals from BeKindRewind's video on Mommie Dearest.
+
+</visual>
+<visual-line></visual-line>
+<clip visual={{bkr}} on="12:29" off="12:??" {% include citation for=page.cite.clips.tonight_show %}>
 
 \[James added on screen]: "Bettie Davis on the Tonight Show"
 
@@ -497,6 +505,7 @@ Bettie: "One-- One million dollars: Faye Dunaway."
 
 <footer stat:id="blatant-bgm">Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></footer>
 </clip>
+{%- comment -%}
 <from {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
 
 [...] alongside Betty Davis, which I guess didn't go very well.
@@ -512,6 +521,8 @@ Host: "Or that you wouldn't want to work with again? If you don't-- You don't ha
 Bettie: "One-- One million dollars: Faye Dunaway."
 
 </from>
+{%- endcomment -%}
+<from></from>
 </compare>
 
 <compare>
@@ -593,13 +604,21 @@ Christina actually did not feel that Dunaway's performance accurately depicted h
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.joy_behar %}>
+<visual {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
+{% assign bkr = page.cite.plagiarized.bkr_video.color %}
+
+It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.
+
+</visual>
+<visual-line></visual-line>
+<clip visual={{bkr}} on="25:37" off="25:??" {% include citation for=page.cite.clips.joy_behar %}>
 
 Joy Behar: "Is that anywhere near the way Joan Crawford actually acted?"
 
 Christina: "...only the makeup."
 
-</clip>
+</clip> 
+{% comment -%}
 <from {% include citation for=page.cite.plagiarized.bkr_video at="(25:37)" %}>
 
 [...] She didn't really give us an idea of who Joan Crawford was.
@@ -612,6 +631,8 @@ Christina: "Only the makeup."
 
 <footer>It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.</footer>
 </from>
+{%- endcomment -%}
+<from></from>
 </compare>
 
 <compare>
@@ -658,7 +679,6 @@ In 2015, actress <mark>Rutanya Alda</mark> (Carol Ann) <mark>published a behind-
 
 Note: Quote is misattributed to Rutanya Alda's book ("She wrote:"), when instead it was an interview with the [*Bay Area Reporter*](https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people.). (Also, Wikipedia cites the source <em>third-hand</em>.)
 
-</div>
 </footer>
 </compare>
 
@@ -681,9 +701,6 @@ James seems to invent this quote out of whole cloth? Or at least out of pieces o
 
 <footer>Longworth, K. (2018, Sep 16). <em>The Illusion of Perfection</em> [Article]. Slate. Retrieved Jan 1, 2024, from <a href="https://slate.com/culture/2016/09/the-illusion-of-perfection.html">https://slate.com/culture/2016/09/the-illusion-of-perfection.html</a></footer>
 </comment>
-</compare> 
-
-<compare>
 <james {% include timecode %}>
 
 A serious actress like Faye Dunaway did not cotton to that idea. She blamed the director for not reeling her back. She blamed the editors and the producers for taking her depiction of a window into a tormented soul and making it camp. She blamed Christina and her husband. She blamed Christina's book. And worst of all, she blamed her audience for not taking away her intended interpretation. 

@@ -7,9 +7,9 @@
 	<link rel="stylesheet" href="{{ "/css/markdown-github.css" | relative_url  }}" type="text/css" />
 	<link rel="stylesheet" href="{{ "/css/video-index.css" | relative_url  }}" type="text/css" />
 	
-	<title>{{ full_title }}</title>
-	<meta property="og:title" content="{{ full_title }}" />
-	<meta property="og:description" content="{{ content | strip_html | string_with_newlines | truncatewords: 24 }}" />
+	<title>{{ page.title }}</title>
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:description" content="{{ page.desc | default: content | strip_html | string_with_newlines | truncatewords: 24 }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 	<meta property="og:locale" content="en_US" />

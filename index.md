@@ -48,6 +48,10 @@ Video archives:
       <div class="plagiarized">P</div>
       <div class="misinfo">M</div>
       <div class="yikes">Y</div>
+      <div class="bar">
+        <span class="plagiarized" style="width:31%"></span>
+        <span class="misinfo" style="width:20%"></span>
+      </div>
     </div>
     <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
   </div>
@@ -60,6 +64,7 @@ Score Squares:
 - <span style="background-color: var(--video-box-stolen-bg); color: var(--video-box-stolen-text)">P = Number of sources plagiarized</span>
 - <span style="background-color: var(--video-box-fabricated-bg); color: var(--video-box-fabricated-text)">M = Number of instances of misinformation</span>
 - <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
+- The bar above the squares indicates how much of the video<br/>was plagiarized or misinformation by volume.
 
 </div>
 <div>
@@ -78,7 +83,7 @@ Transcript Statuses:
 {%  assign vids_fin = site.videos | where: 'status', 'Finished' -%}
 {%- assign vids_comp = site.videos | where: 'status', 'Complete' -%}
 {%- assign vids_fin = vids_fin | concat: vids_comp -%}
-Finished: {{ vids_fin.size }} / {{ site.videos.size }} --- Complete: {{ vids_comp.size }} / {{ site.videos.size }}  
+Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete: {{ vids_comp.size }} / {{ site.videos.size }} &nbsp; | &nbsp; [Other "fun" stats](stats.md)
 
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>

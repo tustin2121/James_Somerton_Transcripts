@@ -18,7 +18,7 @@
 	"mark": {
 		"prefix": "mark",
 		"body": [
-			"<mark>$TM_SELECTED_TEXT</mark>"
+			"<mark$1>$TM_SELECTED_TEXT</mark>"
 		],
 		"description": "Surround text with <mark> tags"
 	},
@@ -26,6 +26,13 @@
 		"prefix": "mark-num",
 		"body": [
 			"<mark num=$1>$TM_SELECTED_TEXT</mark>"
+		],
+		"description": "Surround text with <mark> tags"
+	},
+	"mark-inexact": {
+		"prefix": "mark-inexact",
+		"body": [
+			"<mark x$1>$TM_SELECTED_TEXT</mark>"
 		],
 		"description": "Surround text with <mark> tags"
 	},

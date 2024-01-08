@@ -89,9 +89,19 @@
 				
 				<hr />
 				{% assign hr_due = false %}
+				{%- assign vid = page.id | split: "/" | last -%}
+				{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
+				{%- capture plagrep -%}
+					{%- if bar -%}
+						About {{ bar.p | round }}% of this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s)
+						{%- if bar.w > 0 %} ({{ bar.w }}% of it word-for-word){% endif -%}:
+					{% else %}
+						This video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):
+					{%- endif -%}
+				{%- endcapture -%}
 				
 				{% if page.cite.plagiarized.size > 0 -%}
-					<ul class="refs plagiarized" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
+					<ul class="refs plagiarized" header="{{ plagrep }}">
 						{% for item in page.cite.plagiarized %}
 							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
@@ -128,12 +138,21 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				
+				{%- if bar -%}
+					<p>
+					{% if bar.v > 0 %}
+						{{ bar.v }} video clips have been stolen from some of the plagiarized sources above. (See below for details.)
+					{% endif %}
+					</p>
+					{% assign hr_due = true %}
+				{%- endif -%}
+				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
 				{%- if page.notes contains "podcast" -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left.</p>
+							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark></p>
 						</james>
 						<comment example>
 							<header><a class="citation" href="#">Source (Author, 2000)</a></header>
@@ -157,7 +176,7 @@
 						</visual>
 						<visual-line></visual-line>
 						<james example>
-							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.</p>
 							
 							{%- if page.notes contains "script-diff" -%}
 								<p>(This transcript was created from the original script uploaded as closed captioning. 
@@ -181,7 +200,7 @@
 				{%- elsif page.notes contains "unscripted" -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left.</p>
+							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark></p>
 						</james>
 						<comment example>
 							<header><a class="citation" href="#">Commenter</a></header>
@@ -192,7 +211,7 @@
 				{%- else -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.</p>
 							
 							{%- if page.notes contains "script-diff" -%}
 								<p>(This transcript was created from the original script uploaded as closed captioning. 

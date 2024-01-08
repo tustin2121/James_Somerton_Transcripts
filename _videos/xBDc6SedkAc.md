@@ -76,10 +76,10 @@ Note: I am including the entire plot summary from wikipedia below, lined up with
 <compare>
 <james {% include timecode %}>
 
-In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of <mark>Prince Phillip, the eldest grandson of England's Monarch</mark>. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
+In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of <mark num=1>Prince Phillip, the eldest grandson of England's Monarch</mark>. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
 
 Among the swirl of dignitaries and celebrities is an individual who
-attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's <mark>the dynamic son of Ellen Claremont</mark>, a trailblazer who shattered glass ceilings by becoming the <mark>first woman to become the president of the United States</mark>.
+attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's <mark num=2>the dynamic son of Ellen Claremont</mark>, a trailblazer who shattered glass ceilings by becoming the <mark x num=3>first woman to become the president of the United States</mark>.
 
 However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and <mark>Prince Henry, the younger sibling of the groom</mark>. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake, providing juicy content for the eager tabloids on both sides of the pond. 
 
@@ -87,7 +87,7 @@ However this evening amidst the sparkling chandeliers of the Grand Ballroom, som
 <from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
 <h1>Plot</h1>
 
-Alex Claremont-Diaz, <mark>the son of Ellen Claremont</mark>, <mark>the first female president of the United States</mark>, attends the wedding of <mark>Prince Phillip, the eldest grandson of the King of England</mark>. Alex has a long-standing feud with <mark>Prince Henry, Phillip's younger brother</mark> and the "spare" to the British Throne. During the reception, Alex and Henry get into an altercation, resulting in embarrassing reports in the following morning's newspapers.
+Alex Claremont-Diaz, <mark num=2>the son of Ellen Claremont</mark>, <mark num=3>the first female president of the United States</mark>, attends the wedding of <mark num=1>Prince Phillip, the eldest grandson of the King of England</mark>. Alex has a long-standing feud with <mark>Prince Henry, Phillip's younger brother</mark> and the "spare" to the British Throne. During the reception, Alex and Henry get into an altercation, resulting in embarrassing reports in the following morning's newspapers.
 
 </from>
 </compare>
