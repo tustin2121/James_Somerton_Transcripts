@@ -420,7 +420,7 @@ The main difference is that… one of them knowingly eats people.
 \[Meme cutaway to show someone unwrapping a human leg.]  
 \[James takes a bite of the food in front of him.]
 
-And this is just the thing, right? It’s very clearly gay without saying it is. In fact, <span class="baa">by all accounts</span>, Bryan Fuller fully intended to give Will and Hannibal an explicit romantic arc. Mads Michelson said that during the filming of the last scene of Season 3, he was trying very hard not to kiss Hugh Dancy. That’s… not acting, apparently. 
+And this is just the thing, right? It’s very clearly gay without saying it is. In fact, <span stat:id="baa">by all accounts</span>, Bryan Fuller fully intended to give Will and Hannibal an explicit romantic arc. Mads Michelson said that during the filming of the last scene of Season 3, he was trying very hard not to kiss Hugh Dancy. That’s… not acting, apparently. 
 
 The intention to canonize the Hannibal and Will relationship may also be one of the reasons why NBC didn’t move ahead with a 4th season. Because although there were lesbian characters on the show, lesbians are famously more easy to sell to advertisers. Which is why you see a lot more lesbian rep in kids cartoons these days. 
 

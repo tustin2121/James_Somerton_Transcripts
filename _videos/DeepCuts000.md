@@ -243,7 +243,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 <compare>
 <james {% include timecode %}>
 
-<mark fc>Egypt had gay and lesbian and (<span class="baa">by all accounts</span>) transgender pharaohs and queens.</mark> Mesopotamia had gay kings. 
+<mark fc>Egypt had gay and lesbian and (<span stat:id="baa">by all accounts</span>) transgender pharaohs and queens.</mark> Mesopotamia had gay kings. 
 
 </james>
 <comment>
@@ -361,7 +361,7 @@ The movie is about <mark>four teenage girls who each grow up feeling different</
 <compare>
 <james {% include timecode %}>
 
-The most memorable character, <span class="baa">by all accounts</span>, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
+The most memorable character, <span stat:id="baa">by all accounts</span>, <mark>is Nancy</mark>. And <mark>she's already out as a witch</mark>, openly <mark>practicing the craft</mark>. <mark>She wears goth lipstick and black laced up Stevie Nicks boots. She has a sexual history and a noose hanging in her locker.</mark>
 
 <mark>Bonnie</mark> is a girl with <mark>self-image issues, due to scars that cover her arms and back. Like so many queer kids, she just wants to be left alone, yet</mark> <mark>she fears</mark> that in the end that's exactly the thing that will happen: that <mark>she'll grow up lonely</mark>, never finding love.
 

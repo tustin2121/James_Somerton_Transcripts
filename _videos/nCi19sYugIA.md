@@ -495,7 +495,7 @@ Host: "Or that you wouldn't want to work with again? If you don't-- You don't ha
 
 Bettie: "One-- One million dollars: Faye Dunaway."
 
-<footer counter="blatant-bgm">Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></footer>
+<footer stat:id="blatant-bgm">Note: The audio of the Tonight Show clip starts a second or two before the visual cuts in on both videos. James's version of the clip even fades in. Also, <em>you can hear the background music that BKR added in the background of James's clip.</em></footer>
 </clip>
 <from {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
 

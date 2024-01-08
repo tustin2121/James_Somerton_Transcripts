@@ -23,6 +23,7 @@ contributors:
 cite:
   clips: !!map
     kreia: { short: "(<em>Star Wars: KotOR2</em>, 2004)", full: "<em>Star Wars: Knights of the Old Republic II: The Sith Lords</em> [Video game]. (2004). Obsidian Entertainment, LucasArts." }
+  yikes: !!map
   misinformation: !!map
     first_line: "James literally gets the dates wrong in the very first line of this video."
     page_10: "James clearly hasn't read the source material if he's claiming up to page 10 is all you need."

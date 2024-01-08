@@ -60,16 +60,16 @@ cite:
 <comment>
 
 {% include chapter-link at="00:00" for="Introduction" %}  
-{% include chapter-link at="00:00" for="Part One: Cracking the Code" %}  
-{% include chapter-link at="00:00" for="Part Two: Taking the Bait" %}  
+{% include chapter-link at="03:06" for="Part One: Cracking the Code" %}  
+{% include chapter-link at="33:11" for="Part Two: Taking the Bait" %}  
 {% include chapter-link at="36:04" for="Merlin" %}  
-{% include chapter-link at="00:00" for="Sherlock" %}  
-{% include chapter-link at="00:00" for="Harry Potter" %}  
-{% include chapter-link at="00:00" for="Ocean's Eleven" %}  
-{% include chapter-link at="00:00" for="Teen Wolf" %}  
-{% include chapter-link at="00:00" for="Frozen" %}  
-{% include chapter-link at="00:00" for="Star Wars" %}  
-{% include chapter-link at="00:00" for="Captain America" %}  
+{% include chapter-link at="44:05" for="Sherlock" %}  
+{% include chapter-link at="49:25" for="Harry Potter" %}  
+{% include chapter-link at="1:00:25" for="Ocean's Eleven" %}  
+{% include chapter-link at="1:03:39" for="Teen Wolf" %}  
+{% include chapter-link at="1:10:57" for="Frozen" %}  
+{% include chapter-link at="1:13:03" for="Star Wars" %}  
+{% include chapter-link at="1:17:49" for="Captain America" %}  
 
 </comment>
 </compare>
@@ -128,6 +128,7 @@ It's like the cinematic equivalent of edging without the money shot.
 </compare>
 
 ## Part One: Cracking the Code
+{% assign timecode = "3:06" %}
 
 <compare>
 <james {% include timecode %}>
@@ -816,13 +817,13 @@ So now that the caveats are out of the way...
 <visual {% include citation for=page.cite.plagiarized.aretheygay_merlin %}>
 {% assign atg = page.cite.plagiarized.aretheygay_merlin.color %}
 
-Most of the clips of the show below James lifts from Alexander Avila's *Are They Gay?* video.
+Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
 
 </visual>
 <visual class="color-none">
 {% include header for=tustin %}
 
-Clips marked in gray I cannot find in the above video, and so therefore must be from some compilation video on YouTube, as they include emphasis zooms and thought-text.
+Clips marked in gray I cannot find in the above video, and so therefore must be from some compilation video on YouTube, as they include emphasis zooms and overlaid text to indicate comedic thoughts.
 
 </visual>
 <visual-line></visual-line>
@@ -1224,6 +1225,7 @@ But they weren't the only show on the BBC that realized what kind of audience qu
 </compare>
 
 ## Sherlock 
+{% assign timecode = "44:05" %}
 
 <compare>
 <visual {% include citation for=page.cite.plagiarized.aretheygay_sherlock %}>
@@ -1402,7 +1404,7 @@ Sherlock: "Hm?"
 
 Watson: "You ripping my clothes off in a darkened swimming pool. People might talk."
 
-<footer>Note: The music heard in the background of James's clip is music that AreTheyGay added to the video.</footer>
+<footer stat:id="blatant-bgm">Note: The music heard in the background of James's clip is music that AreTheyGay added to the video.</footer>
 </clip>
 <from {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(6:26)" %}>
 
@@ -1625,6 +1627,7 @@ So, does Sherlock love John? Yes. He might be the only person he *does* love. Do
 </compare>
 
 ## Harry Potter
+{% assign timecode = "49:25" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2184,6 +2187,7 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 </compare>
 
 ## Ocean's Eleven
+{% assign timecode = "1:00:25" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2241,6 +2245,7 @@ So when they started production, Lou and Debbie had been in a relationship, but 
 </compare>
 
 ## Teen Wolf
+{% assign timecode = "1:03:39" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2497,6 +2502,7 @@ Okay. Rant over. Frozen!
 </compare>
 
 ## Frozen
+{% assign timecode = "1:10:57" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2540,6 +2546,7 @@ But seriously though, those lyrics sound like an email I wrote to my online boyf
 </compare>
 
 ## Star Wars
+{% assign timecode = "1:13:03" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2689,27 +2696,28 @@ I mean, I'm sure Disney hasn't done anything like this before. [Turning as if so
 </compare>
 
 ## Captain America
+{% assign timecode = "1:17:49" %}
 
 <compare>
 <james {% include timecode %}>
 
 Steve Rogers, AKA Captain America, (AKA Chris Evans, because he's the real superhero), and Bucky Burns, AKA The Winter Soldier, are two of the many many many characters in the Disney-owned Marvel Cinematic Universe. They were originally created *way back* in the 1940s, when Bucky was actually Steve's kid sidekick. Because every superhero had to have a kid sidekick.
 
-Fast forward seventy years and about a hundred iterations later, and we see the pairing that become known *the world over* as "Stucky". <wbr on />Right from the off, there's a sort of chemistry between them, with Bucky kind of acting as a big brother figure to Steve, who needs help fighting the bullies in his life. Steve's got a big heart, but that's about the only part of him that's big.<wbr off /> (Wait, does the Super Soldier serum make your--?)
+Fast forward seventy years and about a hundred iterations later, and we see the pairing that become known *the world over* as "Stucky". <span visual=none on="?" off="?">Right from the off, there's a sort of chemistry between them, with Bucky kind of acting as a big brother figure to Steve, who needs help fighting the bullies in his life. Steve's got a big heart, but that's about the only part of him that's big.</span> (Wait, does the Super Soldier serum make your--?)
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-<wbr on />One of the things I noticed the first time I saw the movie, which was the first MCU movie I saw, by the way, was that Steve *seemed way* more interested in joining the Army than being with girls. It's easy to read this as him just being *so darn patriotic*, but it was actually extremely common for gay men in the first half of the 20th century to join the military. An all male environment seemed pretty appealing to a lot of gay men at the time. Even if you *did* run the risk of getting shot by a Nazi. But at least you'd die a *hero* instead of people back home finding out that you're a queer, and dying ashamed and alone.<wbr off />
+<span visual=none on="?" off="?">One of the things I noticed the first time I saw the movie, which was the first MCU movie I saw, by the way, was that Steve *seemed way* more interested in joining the Army than being with girls. It's easy to read this as him just being *so darn patriotic*, but it was actually extremely common for gay men in the first half of the 20th century to join the military. An all male environment seemed pretty appealing to a lot of gay men at the time. Even if you *did* run the risk of getting shot by a Nazi. But at least you'd die a *hero* instead of people back home finding out that you're a queer, and dying ashamed and alone.</span>
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-There's also a hint of gay shame. Steve feels like he's not good enough, <wbr on />ot a real man, and he wants *so badly* to be like everyone else that he's willing to go through a very risky procedure to make it happen. Was this gay coding in the 1940s? Of course not! It was just a superhero origin story. It may not be allegorical, but it's certainly applicable. Which is something that makes superheroes so timeless: no matter who you are no matter where or when you live, you can project yourself onto a superhero.<wbr off />
+There's also a hint of gay shame. Steve feels like he's not good enough, <span visual=none on="?" off="?">not a real man, and he wants *so badly* to be like everyone else that he's willing to go through a very risky procedure to make it happen. Was this gay coding in the 1940s? Of course not! It was just a superhero origin story. It may not be allegorical, but it's certainly applicable. Which is something that makes superheroes so timeless: no matter who you are no matter where or when you live, you can project yourself onto a superhero.</span>
 
-But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm here to say that the *MCU's* Captain America and Bucky Barnes are gay. Now, of course, Steve is madly in love with Peggy Carter, but look at the woman: she's smart, she's gorgeous, she's a badass, how could you not *help* but fawn over her? She's not just any woman, she's one hell of an *exceptional* woman. And also the obligatory love interest, but she's awesome, so we'll ignore that.
+But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm here to say that the *MCU's* Captain America and Bucky Barnes are gay. <span visual=none on="?" off="?">Now, of course, Steve is madly in love with Peggy Carter, but look at the woman: she's smart, she's gorgeous, she's a badass, how could you not *help* but fawn over her? She's not just any woman, she's one hell of an *exceptional* woman.</span> And also the obligatory love interest, but she's awesome, so we'll ignore that.
 
 </james>
 <from></from>
@@ -2725,6 +2733,7 @@ Steve: "Right partner."
 
 (Peggy smiles)
 
+<!-- This is not ripped off from AreTheyGay. Not a subset. -->
 </clip>
 <james {% include timecode %}>
 
@@ -2780,7 +2789,12 @@ Steve: "Then finish it. 'Cuz I'm with you to the end of the line."
 Steve trusts Bucky, even now in this demented state. He trusts him with his life. And we can see in Bucky's eyes, he's remembering. He's remembering his friend. Looking down into his face, he sees someone he loves. He can't kill him. And when Steve falls from the helicarrier with Bucky left alive, he could just let him fall and drown in the water below. But he saves him. Just like Steve saved him back in World War II. So even after being reprogrammed a hundred times by Hydra, the memory of his love for Steve is so strong,<wbr off /> platonic or romantic, it doesn't matter, their bond is so strong that he overrides *all* of that programming, and saves the most important person in the world to him.
 
 </james>
-<from></from>
+<from>
+{% include header for=tustin %}
+
+[TODO This section seems a lot like AreTheyGay's video on Stucky? But other sections don't quite?](https://youtu.be/oFh_DRZoa2k?t=812)
+
+</from>
 <james {% include timecode %}>
 
 <wbr on />Bucky disappears in into the ether after that, but Steve knows he's alive out there, and he won't give up looking for him. A mission that culminates in *Captain America: Civil War*. In *Civil War*, Steve is willing to let the Avengers fall apart to save Bucky. He's willing to let the might of the *whole world* come down on his shoulders to save Bucky, even after it's revealed that Bucky killed Tony's parents, he still won't let him go, and by abandoning his shield he's even willing to leave the identity of Captain America behind. Because he doesn't need to be Captain America anymore, he doesn't need to be an Avenger, because he's got Bucky. 

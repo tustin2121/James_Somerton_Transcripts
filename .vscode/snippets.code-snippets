@@ -144,7 +144,7 @@
 	"video-on-off": {
 		"prefix": "video-on-off",
 		"body": [
-			"<span visual=$1 on=\"?\" off=\"\">$TM_SELECTED_TEXT</span>"
+			"<span visual=none$1 on=\"?\" off=\"?\">$TM_SELECTED_TEXT</span>"
 		],
 		"description": "Add video on marker."
 	},
@@ -152,8 +152,16 @@
 	"by-all-accounts": {
 		"prefix": "by-all-accounts",
 		"body": [
-			"<span class=\"baa\">$TM_SELECTED_TEXT</span>"
+			"<span stat:id=\"baa\">$TM_SELECTED_TEXT</span>"
 		],
 		"description": "Insert \"by all accounts\""
 	},
+	"statistic": {
+		"prefix": "statistic",
+		"body": [
+			"<span stat:id=\"$1\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert statistic attribute"
+	},
+	}
 }
