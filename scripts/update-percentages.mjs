@@ -11,7 +11,7 @@ const OUTPUT_FILE = `../_data/volume.yml`;
 const STAT_FILE = `../_data/stats.json`;
 
 let sources = new Set();
-let stats = { sources:0, lies:0, yikes:0 };
+let stats = { sources:0, lies:0, yikes:0, wiki:0 };
 let list = [];
 
 let files = await readdir(INPUT_PATH, { withFileTypes: true });
@@ -105,6 +105,7 @@ function countStatistics(document, fm) {
 	stats.yikes += Object. keys(fm.cite.yikes).length;
 	for (const source of Object.values(fm.cite.plagiarized)) {
 		sources.add(`${source.full} ${source.url}`);
+		if (source.url.startsWith("https://en.wikipedia.org/")) stats.wiki++;
 	}
 }
 
