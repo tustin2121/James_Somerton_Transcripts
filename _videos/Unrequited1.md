@@ -36,6 +36,9 @@ cite:
   yikes: !!map
   misinformation: !!map
     historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
+    misinterpretation:
+      _desc_: James has a propensity to misunderstand what he's playwriting from, like
+      scorpius_life: the time he said Scorpius's life was worse with Albus in it
     wrong_names:
       _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
       richard_dyer: "Richard Dyer"
@@ -44,6 +47,7 @@ cite:
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
     aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
+    aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -1627,25 +1631,11 @@ So, does Sherlock love John? Yes. He might be the only person he *does* love. Do
 
 God damn it, British people. I said we'd be getting back to the wizards, didn't I? *Harry Potter And The Cursed Child* is a two-night play that's been dominating the West End and Broadway since it first opened in 2016. Now, since it's a play without a whole lot of live footage, we'll be relying on quotes from the script here. But before I even start, Albus Potter and Scorpius Malfoy are gay. Don't care what anyone says! Not going to change my mind!
 
-Now why do I think this? Well, let's start off with how they meet. Albus and his cousin Rose are on their way to their first year at Hogwarts.
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-\[Quote from script on screen]:
-> Albus opens a door- to look in on a lonely blonde kid, Scorpius - in an otherwise empty compartment. 
-> 
-> Albus smiles. Scorpius smiles back.
-
 </james>
 <comment>
 {% include header for=tustin %}
 
-Transcription note: James shows the script on screen over black during this section, presumably copied from the book. He doesn't read out character name markers, and I'll <del>mark</del> anything else he leaves off.
+Transcription note: In lieu of showing clips, James shows the script on screen over black during this section, presumably copied from the book. He doesn't read out character name markers, and I'll <del>mark</del> anything else he leaves off.
 
 </comment>
 </compare>
@@ -1653,24 +1643,65 @@ Transcription note: James shows the script on screen over black during this sect
 <compare>
 <james {% include timecode %}>
 
-Well, that's innocent enough. Two boys smiling at each other doesn't... *scream* gay agenda to me. Eventually, Rose leaves the two and we get this description:
+Now why do I think this? Well, let's start off with how they meet. <mark>Albus and his cousin Rose are on their way to their first year at Hogwarts.</mark>
 
-> Scorpius and Albus look at each other and something passes between them.
+\[Quote from script on screen]:
+> <mark></mark>Albus opens a door- to look in on a lonely blonde kid, Scorpius - in an otherwise empty compartment. 
+> 
+> Albus smiles. Scorpius smiles back.
 
-Things pass between me and my straight friends all the time when we were starting puberty, no big deal. The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus, since he's Harry Potter's kid and all. 
+Well, that's innocent enough. Two boys smiling at each other doesn't... *scream* gay agenda to me. 
 
-We learned more about Albus's life at home, his awkward relationship with his family -- he feels like he doesn't fit in, especially after being sorted into Slytherin with a family entirely made up of Gryffindors. Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
+Eventually, <mark>Rose leaves </mark>the two and we get this description:
+
+> <mark></mark>Scorpius and Albus look at each other and something passes between them.
+
+<mark>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(1:38)" %}>
+
+<mark>Albus and his cousin Rose are going to start their first year at Hogwarts.</mark> Rose believes that when they enter the train they're going to have to decide who they're gonna be BFFs for life with. They get into the train, and Albus opens the door where conveniently the son of his father's rival is sitting because destiny of course. [Saxophone solo plays]
+
+> <mark></mark>*ALBUS opens <del>a</del><ins>the</ins> door — to look in on a lonely blond kid — SCORPIUS — in an otherwise empty compartment. ALBUS smiles. SCORPIUS smiles back.* 
+
+Ok. That's definitely Very Straight and Platonic.
+
+Albus and Scorpius exchange an awkward introduction, and soon after <mark>Rose leaves </mark>after being the third wheel or something.
+
+> <mark></mark>Scorpius and Albus look at each other, and something passes between them. 
+
+Come on, <mark>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
+
+</from>
+<james {% include timecode %}>
+
+<mark>The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus</mark>, since he's Harry Potter's kid and all. 
+
+We learned more about Albus's life at home, his awkward relationship with his family -- <mark>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
+
+Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
+
+So although they both feel alienated from their families, <mark>they feel at home with each other.</mark> A safe harbor in an otherwise rocky sea. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(2:31)" %}>
+
+<mark>As this play goes on, it follows Albus and Scorpius's lives over the next few years. Mainly focusing on Albus</mark> because, you know son of... main character.
+
+We start to explore Albus's past, his relationship with his father, Harry, and the tension there. Albus has a lot to live up to under his father's name, And <mark>he feels like a black sheep in the Potter family</mark> at every turn. He's <mark>sorted into *Slytherin*</mark> while his family are notoriously from the Gryffindor house, He and his friends are outcasts, 
+
+Both Scorpius and Albus don't live up to other people's expectations. <mark>but they still have each other.</mark> And despite the other relationships that are built in this story, Albus and Scorpius's story is the heart of the play. Their need for each other is emphasized throughout the story.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-So although they both feel alienated from their families, they feel at home with each other. A safe harbor in an otherwise rocky sea. Harry *tried* to make Albus feel welcome, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. Scorpius is the only person that Albus feels comfortable with. 
+<mark>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
 
-> Albus hugs his friend.  
+> <mark></mark>Albus hugs his friend.  
 > With fierceness.  
 > They hold for a beat. Scorpius is surprised by this. 
 > 
@@ -1679,64 +1710,177 @@ So although they both feel alienated from their families, they feel at home with
 >
 > The two boys awkwardly dislocate.
 
-Albus *will not* hug his father or family. But he'll hug Scorpius. Fiercely. With passion.
+Albus *will not* hug his father or family. But he'll hug Scorpius. F<mark>iercely. With passion.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(3:19)" %}>
+
+So going back to Albus's narrative <mark>Harry tries to reconcile things with a son</mark>, but there's a disconnect. Albus still feels like an outsider like he's not enough for his dad. <mark>The only person he's comfortable with is... Scorpius.</mark>
+
+At the start of their fourth year, they share a moment of intimacy, one that Albus doesn't really show with other people.
+
+> <mark></mark>*ALBUS hugs his friend. With fierceness. They hold for a beat. SCORPIUS is surprised by this.*
+>
+> Okay. Hello. Um, Have we hugged before? Do we hug?
+>
+> *The two boys awkwardly dislocate.*
+
+That is a unique thing between them. Albus is desperate for someone to care for, and when he believed that no one else could give him love. He turns in desperation to Scorpius. He hugs him. And not only hugs him, but note the language: <mark>With Fierceness. That is passion.</mark> A passion we have only seen for Scorpius so far.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-So because the structure of this play is a bit... off we're in year four now! And Albus wants to go back to his father's fourth year and save Cedric Diggory from being murdered. Because that's something his father couldn't do. So he and Scorpius ditch the train to Hogwarts in order to find the last surviving Time Turner and save Cedric.
+So because the structure of this play is a bit... *off*, <mark>we're in year four now!</mark> And <mark>Albus wants to</mark> go back to his father's fourth year and <mark>save Cedric Diggory</mark> from being murdered. Because that's something his father couldn't do. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(4:19)" %}>
+
+\[Flashing on-screen]: "CONFUSING TIME TRAVEL PLOT??? (because they all are)"
+
+So now it's Albus and Scorpius's <mark>4th year at Hogwarts</mark>, and <mark>Albus wants to</mark> <mark>save Cedric Diggory</mark> (Aka Edward Cullen.) because... Albus believes it was a mistake that he had to die.
+
+And after talking to Amos Diggory, Cedric's father kind of, uh, wants to, uh. [mumbles] fix ...the past or something... 
+
+\[Suddenly meme cutaway to Back to the Future poster, with "Back In Time" by Huey Lewis and the News]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So <mark>he and Scorpius ditch the train to Hogwarts</mark> in order to find the last surviving <mark>Time Turner</mark> and <mark>save Cedric</mark>.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(5:03)" %}>
+
+So Albus and Scorpius are gonna start their fourth year, And they're at the train station ready to go to Hogwarts!
+
+Except <mark>Albus and Scorpius decide to ditch the train to school</mark> so that they can go find a time-traveling device called the <mark>Time Turner</mark>, so they can go back in Time-- 
+
+\["Back In Time" meme cutaway again]
+
+--then <mark>save Cedric</mark>! Because they're super rebellious now!
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 > **SCORPIUS:**
 > If we're doing this, we're doing it <del>(he puts on a pair of familiar-looking glasses with a smile)</del> together.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(5:35)" %}>
+
+They can't be apart from each other even when they're saving this guy in the past, they have to do it together
+> SCORPIUS: No, no way, José. If we're doing this, we're doing it *(he puts on a pair of familiar looking glasses with a smile)* together.
+
+</from>
+</compare>
+
+<compare>
+<james span=2 {% include timecode %}>
+
+Tagging along with them is a girl who -- in case you haven't seen the play or read the script... I don't want to say who she *really* is because it's a spoiler and... stupid. But there's a girl named Delphi<sup>[Del-fi]</sup> or Delphi<sup>[Del-Fee]</sup> and Albus kind of *digs her* and... <mark num=2>Scorpius is conflicted</mark> about this.
+
+> <mark num=1></mark>SCORPIUS appears at the back of the stage. He looks at his friend talking to a girl -- and part of him likes it and part of him doesn't.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(5:24)" %}>
+
+They join up with Delphi Diggory who claims to be Cedric's cousin... okay?
+
+</from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(5:51)" %}>
+
+It's not just the two of them like it's always been. They're accompanied by... *an unnecessary love Interest~* (so pointless) 
+
+or *is* she an unnecessary love interest? You see, Scorpius isn't too fond of the way Albus has suddenly taken an interest in Delphi and how she's suddenly splitting the pair apart. 
+
+> <mark num=1></mark>*SCORPIUS appears at the back of the stage. He looks at his friend talking to a girl. and part of him likes it and part of him doesn't.*
+
+Naturally, a bro is happy for his bro finding a person that they're interested in but <mark num=2>Scorpius is conflicted</mark>. He isn't sure whether he should be happy, or if he should just be jealous
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Tagging along with them is a girl who -- in case you haven't seen the play or read the script... I don't want to say who she *really* is because it's a spoiler and... stupid. But there's a girl named Delphi<sup>[Del-fi]</sup> or Delphi<sup>[Del-Fee]</sup> and Albus kind of *digs her* and... Scorpius is conflicted about this.
+Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
 
-> SCORPIUS appears at the back of the stage. He looks at his friend talking to a girl -- and part of him likes it and part of him doesn't.
-
-Delphi won't be going back in time with them though because... reasons. As they make their way through the Forbidden Forest, the pair talk about their lives. And Albus reveals how how much he hates it at Hogwarts, how terrible it is for him.
-
-> **SCORPIUS:** Not for me.
+> <mark></mark>**SCORPIUS:** Not for me.
 >
 > ALBUS looks at his friend, shocked.
 >
 > All I ever wanted to do was go to Hogwarts and have a mate to get up to mayhem with. Just like Harry Potter. And I got his son. How crazily fortunate is that?
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(7:32)" %}>
+
+Alone and leave Delphi behind, because apparently she'll stand out too much? I don't know. Just read the boo--
+
+And as Scorpius <mark>make their way through the Forbidden Forest</mark> alone, they spill their hearts out to each other. <mark>Albus is talking about Hogwarts and how much of a horrible experience it is</mark>. But Scorpius doesn't see it that way. He thinks that Albus has made it worth it. 
+
+> <mark></mark>SCORPIUS: <del>Not for me.</del>
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> <del>*ALBUS looks at his friend, shocked.*</del>
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> All I ever wanted to do was go to Hogwarts and have a mate to get up to do mayhem with. Just like Harry Potter And I got his son. How crazily fortunate is that.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-They more or less succeed in saving Cedric but... when they return to their time everything is odd. Albus is in Gryffindor now and Harry doesn't want him seeing Scorpius anymore.
+They more or less <mark>succeed</mark> in saving Cedric but... when they return to their time everything is odd. <mark>Albus is in Gryffindor</mark> now and Harry doesn't want him seeing Scorpius anymore.
 
-> **HARRY:** I need you to stay away from Scorpius Malfoy.  
+> <mark></mark>**HARRY:** I need you to stay away from Scorpius Malfoy.  
+> 
 > **ALBUS:** What? Scorpius?  
+> 
 > **HARRY:** I don't know how you became friends in the first place, but you did, and now -- <ins>I-</ins>I need you to --  
+> 
 > **ALBUS:** My best friend? My only friend?  
+> 
 > **HARRY:** He's dangerous.  
 
-This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again. Albus gives in and promises not to see Scorpius anymore.
+<mark>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(8:22)" %}>
+
+They <mark>succeed</mark>, but they don't really because when they get back to their future, They've made a messed up world where <mark>Albus is a Gryffindor</mark>, and it's all weird, and also Rose doesn't exist because Ron and Hermione never got together.
+
+Harry is also telling Albus that he and Scorpius can't be together because the centaur told them that Scorpius is a black cloud around Albus. And Albus isn't happy about it at all. 
+
+> <mark></mark>HARRY: I need you to stay away from Scorpius Malfoy.  
+> 
+> ALBUS: What? Scorpius? 
+> 
+> HARRY: I don't know how you became friends in the first place, but you did, and now I need you to—  
+> 
+> ALBUS: My best friend? My only friend?
+> 
+> HARRY: He's dangerous. 
+
+<mark>It's also kind of an experience that mirrors a homophobic father telling his son to stop seeing his boyfriend. It's eerily similar. Maybe it's not intentional, but as a queer person it reminded me of the experience. </mark>
+
+So for whatever reason, <mark>Albus gives into it</mark>. To please his father? To prove something to himself? To say "It's just a prank bro!" 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-> **SCORPIUS:** Albus? You're okay. That's fantastic.
+> <mark></mark>**SCORPIUS:** Albus? You're okay. That's fantastic.
 >
 > **HARRY:** He's completely cured. And we've got to go.
 > 
@@ -1765,15 +1909,45 @@ This reads painfully like a parent finding out that their son has a boyfriend, a
 Harry's a dick. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(9:32)" %}>
+
+> <mark></mark>SCORPIUS: Albus? You're okay! That's fantastic! 
+>
+> HARRY: He's completely cured. And we've gotta go.
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> *ALBUS looks up at SCORPIUS and his heart breaks. He walks on.*
+>
+> Scorpius: Are you mad at me? What's going on?
+>
+> <span style="visibility:hidden">SCORPIUS:</span> *ALBUS stops and turns to SCORPIUS.* 
+> 
+> ALBUS: Did it work? Did... did any of it work?
+>
+> SCORPIUS: No . . . but Albus—
+>
+> Harry: Albus, whatever gibberish you're talking you need to stop it now. This is your final warning 
+>
+> <span style="visibility:hidden">SCORPIUS:</span> *ALBUS looks torn between his dad and his friend.*
+>
+> ALBUS: I... I can't, okay? 
+>
+> SCORPIUS: You can't what?
+> 
+> ALBUS: Just — we'll be better off without each other, okay?
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> *SCORPIUS is left looking up after him. Heartbroken.*
+
+And then begins the sequence of heartbreaks Their time apart makes them realize how much they need each other. One cannot exist without the other. And we know Albus doesn't like it just as much as Scorpius doesn't like it. The love is mutual.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Hell, even *Draco* becomes the voice of reason, confronting Harry about the situation.
+Hell, even *Draco* becomes the voice of reason, <mark>confronting Harry about the situation</mark>.
 
-> **DRACO:** I'm not here to to antagonize you. But my son is in tears and I am his father and so I'm here to ask you why you would keep apart two good friends.
+> <mark></mark>**DRACO:** I'm not here to to antagonize you. But my son is in tears and I am his father and so I'm here to ask you why you would keep apart two good friends.
 >
 > **HARRY:** I'm not keeping them apart.
 >
@@ -1785,33 +1959,48 @@ Hell, even *Draco* becomes the voice of reason, confronting Harry about the situ
 
 Again, Harry is a dick.
 
-</james>
-<from></from>
-</compare>
+Later on <mark>Delphi approaches Scorpius</mark>.
 
-<compare>
-<james {% include timecode %}>
-
-Later on Delphi approaches Scorpius.
-
-> **DELPHI:** Albus needs you, Scorpius. That's a wonderful thing.
+> <mark></mark>**DELPHI:** Albus needs you, Scorpius. That's a wonderful thing.
 >
 > **SCORPIUS:** He needs me to do what?
 >
 > **DELPHI:** That's the thing, isn't it? About friendships. You don't know what he needs. You only know he needs it. Find him, Scorpius. You two -- you belong together.
 
-Scorpius's life is even worse now that Albus isn't in it. The two eventually have a fevered argument that leaves Scorpius even more distraught and lost. People think he's the son of Voldemort. (It's complicated, very complicated, stupidly complicated.)
-
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(12:13)" %}>
+
+And that's what we're seeing here Draco even <mark>confronts Harry about this</mark> and asks him for his reasoning.
+
+> <mark></mark>DRACO: I'm not here to antagonize you but my son is in tears, and I am his father. So I'm here to ask you why you would keep apart to good friends 
+
+And then, <mark>Delphi confronts Scorpius</mark> directly. Someone needs to tell him how much it's broken them both. 
+
+> DELPHI: And that's why Cedric has to wait. It's all become quite confused, and you're entirely right to be keeping hold of the Time-Turner, Scorpius. But what I mean was — someone's got to do something about the two of you.
+>
+> SCORPIUS: Oh. 
+>
+> DELPHI: You're best friends. Every owl he sends I can feel your absence. He's destroyed by it. 
+
+> <mark></mark>DELPHI: Albus needs you, Scorpius. That's a wonderful thing. 
+>
+> SCORPIUS: He needs me to do what? 
+>
+> DELPHI: That's the thing isn't it? About friendships. You don't know what he needs. You only know that he needs it. Find him Scorpius. You two — you belong together.
+
+And so Scorpius and Albus meet up again and discuss how to fix the mess they've made and then as they're beginning to talk about their plan, it starts getting personal, very personal, and the truth comes out~ 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
+<mark id="scorpius_life">Scorpius's life is even worse now that Albus isn't in it.</mark> The two eventually have a fevered argument that leaves Scorpius even more distraught and lost. People think he's the <mark>son of Voldemort</mark>. (It's complicated, very complicated, stupidly complicated.)
+
 He thinks he's a terrible person. That maybe all the horrible things said about him are true. Albus disagrees.
 
-> **ALBUS:** No. They're not true. And I'll tell you why. Because I don't think Voldemort is capable of having a kind son -- and you're kind, Scorpius. To the depths of your belly, to the tips of your fingers. I truly believe Voldemort -- Voldemort couldn't have a child like you.
+> <mark></mark>**ALBUS:** No. They're not true. And I'll tell you why. Because I don't think Voldemort is capable of having a kind son -- and you're kind, Scorpius. To the depths of your belly, to the tips of your fingers. I truly believe Voldemort -- Voldemort couldn't have a child like you.
 >
 > Beat. SCORPIUS is moved by this.
 >
@@ -1821,34 +2010,122 @@ He thinks he's a terrible person. That maybe all the horrible things said about 
 >
 > **SCORPIUS:** I didn't much like my life without you in it either.
 
-The two boys reconcile, finally realizing that they need each other in their lives. They go back in time again to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that Albus doesn't even exist. Dolores Umbridge is head Mistress of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
-
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(15:35)" %}>
+
+<mark>Scorpius feels worthless. Even with Albus in his life who makes it bearable</mark>, he thinks his life is a mess. Even in a different world, his life is a bigger mess and Albus doesn't understand Scorpius' side of the situation.
+
+It's that disconnect of communication, of intimacy Albus and Scorpius are not used to being close with other people besides each other, and for Scorpius to reveal and expose himself to Albus is... something big for him.
+
+Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpius is <mark>Voldemort's son</mark>. And then the hidden love confession starts. Scorpius has just exposed the angry part of himself but now Albus is exposing how he really feels, too. [another sax solo]
+
+> <mark></mark>ALBUS: No, they're not true. And I'll tell you why. Because I don't think Voldemort is capable of having a kind son — and you're kind Scorpius. To the depths of your belly, to the tips of your fingers. I truly believe Voldemort — Voldemort couldn't have a child like you.
+>
+> <span style="visibility:hidden">SCORPIUS:</span> *Beat. SCORPIUS is moved by this.*
+>
+> SCORPIUS: That's a nice — that's a nice thing to say. 
+> 
+> ALBUS: And something I should have said a long time ago. In fact, you're probably the best person I know and you don't — you couldn't — hold me back. You make me stronger — and when Dad forced us apart — without you —
+> 
+> SCORPIUS: I didn't much like my life without you in it either 
+> 
+> ALBUS: Friends?
+> 
+> SCORPIUS: Always. 
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> *SCORPIUS extends his hand. ALBUS pulls SCORPIUS into a hug.*
+> 
+> <span style="visibility:hidden">SCORPIUS:</span> That's the second time you've done that.
+>
+><span style="visibility:hidden">SCORPIUS:</span> *The two boys break apart and smile.*
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In this new timeline, Scorpius is super popular. The guy everyone wants to be, but he hates it. He wants his old life. Even with how unhappy he was, none of this new happy life is worth it, because he can't have Albus with him.
+<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark num=4>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
 
-Scorpius finds out that Snape is still alive and approaches him to help in getting Albus back. Snape, along with alternate timeline Ron and Hermione, agree to help Scorpius. In the process, Ron and Hermione are attacked by Dementors. Albus is terrified, but Snape tells him that the memory of one person, one person who makes you s*o happy, that memory is enough to defeat the Dementors. 
+<mark num=5>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(17:27)" %}>
+
+So <mark>their friendship is reconciled</mark> and now Scorpius and Albus continue with the plan. In the meantime, Harry realizes he's being a dick, and all the adults partner together to find their children.
+
+<mark>Albus and Scorpius go back in time</mark> to do their stupid plan and *succeed*, quote-unquote. Then they get back and their plan failed so badly that <mark>Albus stopped existing</mark>. I felt bad when I got a D on my history test But at least I *existed*, geez
+
+<mark num=5>And in this new universe they've created, Scorpius is popular.</mark> He's not a loner or a loser. He's respected.
+
+Also that <mark num=4>teacher everyone hates is headmistress</mark>:
+
+> DELORES UMBRIDGE: Scorpius, I've thought a long time that you have Head Boy potential, as you know. Pure-Blooded, a natural leader, wonderfully athletic...
+
+Polly Chapman is even his romantic interest. I guess in this universe he's straight? I don't know. Oh yeah, and also Voldemort exists. Nice. 
+
+But Scorpius doesn't want respect and popularity. <mark>He prefers his old life</mark>. Maybe there's more nuance to this, But he prefers a life with Albus. <mark>Even his old life, which he claims to be unhappy with</mark>, is far better than a world without Albus.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Snape even compares how Scorpius feels about Albus to how h*e felt about Lily Potter. As problematic as Snape's infatuation with Lily is, he loved her. And he sees that Scorpius feels the same way for Albus. Taking the Albus Scorpius relationship beyond even a teenage romance, and into a love that lasts for decades. That death, murder, war, and magic cannot stop.
+<mark>Scorpius finds out that Snape is still alive</mark> and approaches him to help in getting Albus back. Snape, along with <mark>alternate timeline Ron and Hermione</mark>, agree to help Scorpius. In the process, <mark>Ron and Hermione are attacked by Dementors</mark>. Albus is terrified, but Snape tells him that the memory of one person, one person who makes you *so* happy, that memory is enough to defeat the Dementors. 
 
-And unlike with Snape and Lily, though, Albus feels the same way. They're completely devoted to one another. Scorpius succeeds in bringing Albus back and is speechless when he sees him again, though Albus is completely unaware of what's taken place and thinks he's only blacked out for a couple of minutes. Scorpius grabs him and hugs him tight. 
+<mark num=4>Snape even compares how Scorpius feels about Albus to how *he* felt about Lily Potter.</mark> As problematic as Snape's infatuation with Lily is, <mark num=5>he loved her</mark>. And he sees that Scorpius feels the same way for Albus. <mark>Taking the Albus Scorpius relationship beyond even a teenage romance,</mark> and into a love that lasts for decades. That death, murder, war, and magic cannot stop.
+
+And unlike with Snape and Lily, though, Albus feels the same way. <mark>They're completely devoted to one another. </mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(18:46)" %}>
+
+So <mark>he learns that Snape is still alive</mark> and decides to risk it. By the way, if you for some reason don't know who Snape is because you live under a rock [...] why are you watching this video? Go home y'all!
+
+So Scorpius asked Snape for help to get his lover back. He tells Snape all about Albus and how he needs to get back to his timeline. So Snape brings in two <mark>alternate timeline Hermione and Ron</mark>, who are now secret Anti-Voldemort rebels. 
+
+As they attempt in helping Scorpius to get back to fix the past, Scorpius watches <mark>Hermione and Ron's souls get sucked out of them by dementors</mark>. It makes Scorpius reluctant. But Snape offers him words of encouragement.
+
+> SNAPE: Listen to Me, Scorpius. Think about Albus. You're giving up your kingdom for Albus, right?
+>
+> <span style="visibility:hidden">SCORPIUS:</span> *SCORPIUS is helpless. Consumed by all the dementor is making him feel.*
+>
+> <span style="visibility:hidden">SCORPIUS:</span> One person All it takes is one person. I couldn't save Harry for Lily. So now I give my allegiance to the cause that she believed in, and it's possible — that along the way, I started believing in <del>it</del> myself.
+
+This comparison is incredibly important. Snape cared for Harry's mother Lily,
+Beyond just an adolescent crush. <mark num=5>He loves her deeply.</mark> It was romantic and it was also a simple and deep affection. <mark num=4>Snape compares his lifelong attachment to Lily with Scorpius's affection to Albus.</mark> 
+
+This is what makes Albus and Scorpius's relationship so important and obvious. <mark>It goes beyond the heterosexual adolescent crushes that are deemed as love interests.</mark> And it goes beyond a simple awesome friendship. This comparison serves to show that this is a romantic love story. <mark>Between two boys that are completely devoted to each other.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Scorpius succeeds in bringing Albus back and is speechless when he sees him again, though Albus is completely unaware of what's taken place and thinks he's only blacked out for a couple of minutes. Scorpius grabs him and hugs him tight. 
 
 The rest of the play is pretty much a hot mess. Eventually dark wizards are after them, ready to go in for the kill. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(20:58)" %}>
+
+Then Scorpius succeeds in fixing the past and sees Albus again for the first time.
+
+> *<del>Breathing deep, panicked breaths.</del> He looks up at the sky the sky certainly seems — bluer than before*
+>
+> [...]
+>
+> SCORPIUS: You have no idea how good it is to see you again.
+>
+> ALBUS: You just saw me two minutes ago. 
+>
+> SCORPIUS hugs ALBUS in the water, a difficult task.
+
+Another hug and another display of intimacy.
+
+</from>
 </compare>
 
 <compare>
@@ -1862,18 +2139,30 @@ The rest of the play is pretty much a hot mess. Eventually dark wizards are afte
 
 <blockquote class="add">
 
-So, we hide in a hole? 
+<mark></mark>SCORPIUS: So, we hide in a hole? 
 
-As pleasurable as it will be to hide in a hole with you for the next 40 years, they'll find us and we'll die, and time will be stuck in the wrong position. No, we-we need something we can control, something we know he'll get [at] exactly the right time. we need a-- 
+ALBUS: As pleasurable as it will be to hide in a hole with you for the next 40 years, they'll find us and we'll die, and time will be stuck in the wrong position. No, we-we need something we can control, something we know he'll get [at] exactly the right time. we need a-- 
 
-There's nothing. 
-
-Still, if I had to choose a companion to be at the return of Eternal Darkness with, I'd choose you.
+SCORPIUS: There's nothing. Still, if I had to choose a companion to be at the return of Eternal Darkness with, I'd choose you.
 
 </blockquote>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(24:36)" %}>
+
+> SCORPIUS: Got it! We deliver it ourselves — we wait 40 years — we deliver it —
+> 
+> ALBUS: Not a chance — Once Delphi has set the time the way she wants, she'll send armies to find us — <ins>and</ins> kill us —
+> 
+> <mark></mark>SCORPIUS: So we hide in a hole? 
+>
+> ALBUS: As pleasurable as it <del>will be</del><ins>is</ins> to hide in a hole with you for the next 40 years . . . they'll find us. And we'll die and time will be stuck in the wrong position. No. We need something we can control Something we know he'll get at the exact right time. We need a —
+> 
+> SCORPIUS: There's nothing. Still, if I had to choose a companion to be at the return of eternal darkness with, I'd choose you.
+>
+> ALBUS: No offense, but I'd choose someone massive and really good at magic.
+
+</from>
 </compare>
 
 <compare>

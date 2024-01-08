@@ -1,5 +1,5 @@
 ---
-date: 2023-03-15
+date: 2023-05-18
 title: When Hollywood Came Out of the Closet
 parent: pW_RjbZYi1s
 status: Auto
