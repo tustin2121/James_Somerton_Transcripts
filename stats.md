@@ -1,8 +1,11 @@
 ---
 layout: default
+full_title: James Somerton's Statistics
 ---
 
 # "Fun" statistics!
+
+The following table to statistics is calculated from the video transcripts while this website is being built. If you are helping with the code and want to add to these statistics, feel free to mark things with `stat:id="stat-name"`. If the statistic is new, you'll need to remember to add the name to the below table manually.
 
 {% assign stats = site.data.stats %}
 
