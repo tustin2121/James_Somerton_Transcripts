@@ -128,7 +128,7 @@ The displeasure at seeing queer experiences on the screen clearly indicated that
 <compare>
 <james {% include timecode %}>
 
-Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. <mark fc>According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind.</mark> Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
+Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. <mark fc=false>According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind.</mark> Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
 
 </james>
 <comment id="pratchett">
@@ -514,7 +514,7 @@ And this is part of the consequences of being part of a community that has been 
 <compare>
 <james {% include timecode %}>
 
-Do any of you realize <mark fc>how many comments I still get on the [Yuri on Ice video](QxRveV0x2-o.md)</mark> to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
+Do any of you realize <mark fc=false>how many comments I still get on the [Yuri on Ice video](QxRveV0x2-o.md)</mark> to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
 </james>
 <comment id="yuri_comments">
@@ -682,7 +682,7 @@ The more complicated reality of good representation is that it’s very difficul
 <compare>
 <james {% include timecode %}>
 
-For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. <mark fc>Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.</mark>
+For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. <mark fc=false>Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.</mark>
 
 </james>
 <comment id="helen_of_try">

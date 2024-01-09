@@ -166,7 +166,7 @@ Not included in the credits, though they should have been:
 <compare>
 <james {% include timecode %} id="para01" mid-text="Paragraph-01">
 
-Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark fc>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
+Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark fc=false>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
 
 </james>
 <comment id="homo_erectus">
@@ -206,7 +206,7 @@ And so the queer entered into the horror canon. Centuries before hollywood even 
 <compare>
 <james {% include timecode %}>
 
-The fear of the unknown, <mark fc>according to the American Psychological Association</mark>, is one of the most prominent causes for anxiety among people in both the first and third world.
+The fear of the unknown, <mark fc=false>according to the American Psychological Association</mark>, is one of the most prominent causes for anxiety among people in both the first and third world.
 
 </james> 
 <comment id="fear_unknown">
@@ -243,7 +243,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 <compare>
 <james {% include timecode %}>
 
-<mark fc>Egypt had gay and lesbian and (<span stat:id="baa">by all accounts</span>) transgender pharaohs and queens.</mark> Mesopotamia had gay kings. 
+<mark fc=false>Egypt had gay and lesbian and (<span stat:id="baa">by all accounts</span>) transgender pharaohs and queens.</mark> Mesopotamia had gay kings. 
 
 </james>
 <comment>
@@ -276,7 +276,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 </comment>
 <james {% include timecode %}>
 
-<mark fc>Most of the ancient Greek philosophers were gay or bisexual.</mark> Rome had gay emperors and senators. 
+<mark fc=false>Most of the ancient Greek philosophers were gay or bisexual.</mark> Rome had gay emperors and senators. 
 
 </james>
 <comment>
@@ -300,7 +300,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 </comment>
 <james {% include timecode %}>
 
-<mark fc>Even early Christianity was more or less accepting of gay men.</mark>
+<mark fc=false>Even early Christianity was more or less accepting of gay men.</mark>
 
 But that didn't last.
 
@@ -443,7 +443,7 @@ As mentioned before, the connection between witches and homosexuality has gone b
 <compare>
 <james {% include timecode %}>
 
-In modern Wicca, homosexuality is highly embraced. <mark fc>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
+In modern Wicca, homosexuality is highly embraced. <mark fc=false>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
 
 </james>
 <comment id="wicca_homo">
@@ -1952,7 +1952,7 @@ The Babadook is creative (remember the pop-up book) and a distinctive dresser. I
 
 But is the Babadook gay? When asked about this in 2019, director Jennifer Kent simply replied...
 
-> "<mark fc>Of course.</mark>"
+> "<mark fc=false>Of course.</mark>"
 
 Sometimes it's just that simple. Sometimes the monster, the queer, can be accepted. Sometimes suburbia isn't so bad. But sometimes... *it*... can be a nightmare.
 {% assign timecode = "1:12:00" %}

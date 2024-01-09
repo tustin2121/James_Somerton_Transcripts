@@ -254,7 +254,7 @@ The age of sexual enlightenment that flourished in prewar Berlin spawned the fir
 <span visual=none on="?" off="?"><mark>The subtitle “the story of the third sex" suggests that any narrative that deals</mark> <mark num=7>with gay love</mark>, <mark num=8>regardless of how seriously</mark> it does so,</span> <mark>is considered to be a story about homosexuality, while stories that deal with *heterosexual love* are simply seen as *stories*</mark>. <mark>This appears to be just as much of an issue for American filmmakers and producers today</mark>, as they appear to be <mark>*unable* to conceive of the existence of <span stat:id="sub-queer">queer</span> characters in a movie, unless the subject matter of the movie is</mark> <ins>itself</ins> being <span stat:id="sub-queer">queer</span>, as understood and depicted by... *mostly* straight people.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p22" %}>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p22-23" %}>
 
 <mark>The film, adapted from Hermann Bang's novel *Mikael*, played briefly in America in 1926 under confusing circumstances.</mark> <mark num=4>The censors objected to its first American release title, *The Inverts*</mark>, so it <mark num=3>ran for a short time at New York's Fifth Avenue Playhouse</mark> as <mark num=2>*Chained: The Story of the Third Sex*</mark>, with a "scientific lecture" tacked on and without credit to Dreyer as the director. <mark>The title changes illustrate perfectly the American mentality with regard to homosexuality</mark>. <mark>The subtitle, *The Story of the Third Sex*, reveals how any story dealing</mark>, <mark num=8>however seriously</mark>, <mark num=7>with homosexual love</mark> <mark>is taken to be a story about homosexuality while stories dealing with heterosexual love are seen as stories</mark> about the individual people they portray. <mark>This is as much a problem today for American filmmakers</mark> who <mark>cannot conceive of the presence of gay characters in a film unless the specific subject of the film is</mark> homosexuality. Lesbians and gay men are thereby classified as purely sexual creatures, people defined solely by their sexual urges.
 
@@ -264,37 +264,61 @@ The age of sexual enlightenment that flourished in prewar Berlin spawned the fir
 <compare>
 <james {% include timecode %}>
 
-This discussion of gay men shouldn’t suggest that lesbians didn’t also get attention. <span visual=none on="?" off="?">In the film ‘Pandora's Box,’ which was originally shown in Germany in 1929, there is a figure who is most likely the first lesbian on screen to be portrayed overtly. The film presented the story of the great unrequited love and passion between two women, the countess Geschwitz and the lady she is enamored with, Lulu.</span> 
+This discussion of gay men shouldn’t suggest that lesbians didn’t also get attention. <span visual=none on="?" off="?">In the film ‘<mark>Pandora's Box</mark>,’ which was originally shown in Germany in <mark>1929</mark>, there is a figure <mark>who is most likely the first lesbian on screen to be portrayed overtly</mark>. <mark x>The film presented the story of the great unrequited love and passion between two women, the countess Geschwitz and the lady she is enamored with, Lulu.</mark></span> 
+
+<span visual=none on="?" off="?"><mark>Although the love that Geschwitz feels for Lulu is referred to as ‘sterile’ within the context of the movie, it is a driving force in the action, and it makes the introduction of a sapphic passion onscreen an exciting and historical cinematic event</mark>.</span> 
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p24" %}>
 
-<span visual=none on="?" off="?">Although the love that Geschwitz feels for Lulu is referred to as ‘sterile’ within the context of the movie, it is a driving force in the action, and it makes the introduction of a sapphic passion onscreen an exciting and historical cinematic event.</span> An event American audiences likely would never know of. British censors deleted the character of Countess Geschwitz from the film before prints were sent <ins>off</ins> to America. Though original German prints *did eventually* make it across the pond in the 1960s.
+G. W. Pabst's <mark>Pandora's Box</mark> (Die Büchse der Pandora, <mark>1929</mark>) featured <mark>what is probably the first explicitly drawn lesbian character on film</mark>. <mark x>The adaptation of Frank Wedekind's two-part drama about Lulu, a woman "driven by insatiable lusts," starred Louise Brooks as Lulu and Belgian actress Alice Roberts as her passionate lesbian admirer, the Countess Geschwitz.</mark> Pabst explores the personality of Geschwitz with great range, manipulating the performance of Alice Roberts to achieve a believable woman with a lesbian nature. At first the countess is an angry, repressed woman whose nostrils flare in her jealousy of Lulu's affair with her ow stepson, Alwa. Later, when the pain and self. destruction of Lulu and Alwa's dissolute life threaten to destroy them, Geschwitz proves her love by engaging in a heterosexual blackmail ploy to raise money for Lulu. She submits to a crude yet powerful man who beats and humiliates her for her efforts. <mark>Although the love Geschwitz feels for Lulu is officially considered "sterile" in the context of both the Wedekind drama and the film, it is a motivating force in the action and it makes the debut of Sapphic passion onscreen an exciting cinematic event</mark>.
 
-When it comes to *American-made* gay characters, one of the earliest direct references to homosexuality was a parody. Which is… predictable, I suppose. 
+</from>
+<james span=2 {% include timecode %}>
+
+An event <mark>American audiences</mark> likely would never know of. <mark>British censors deleted the character of Countess Geschwitz from the film</mark> before prints were sent <ins>off</ins> to America. Though original German prints *did eventually* make it across the pond <mark fc>in the 1960s</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p25" %}>
+
+<mark>American audiences</mark> were spared such scintillating discussion, for the <mark>British censors deleted the character of Geschwitz from Pandora's Box</mark>, and she did not appear in the initial release version of the film in the United States (the character was later restored).
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+[Wikipedia](https://en.wikipedia.org/wiki/Pandora%27s_Box_(1929_film)#Rediscovery_and_restoration) states that the movie was "rediscovered" in the 1950s. [A much more in-depth source](http://filmint.nu/louise-brooks-and-the-exhibition-history-of-pandoras-box-1929-thomas-gladysz/) says that it started in wider circulation in the 1962 after decades of occasional showings.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span visual=none on="?">The one-reel comedy short ‘The Soilers’, starring Stan Laurel, was a parody of the successful western *‘The Spoilers’*. A drawn-out battle sequence between the film's lead, Laurel, and a corrupt sheriff takes up the majority of the running time. But another, very gay, cowboy suddenly appears on the scene in the middle of the brawl. As the two men continue to quarrel, he makes a show of batting his eyes at both of them and primping a little bit before sashaying out of the room. </span>
+When it comes to *American-made* gay characters, <mark>one of the earliest direct references to homosexuality</mark> was a parody. Which is… <mark>predictable</mark>, I suppose. 
 
-<span visual=none off="?">Laurel wins the fight against the sheriff, but no one appears to care. As a result, he is left sitting outside the tavern, looking disheartened. The gay cowboy pokes his head out of a second-floor window and lavishly blows Laurel a kiss while mouthing the words ‘my hero.’ When Laurel rejects him, he drops a flower pot on his head. </span>
+<span visual=none on="?">The <mark num=3>one-reel comedy short ‘The Soilers’</mark>, starring <mark num=4>Stan Laurel</mark>, was a <mark>parody of the successful western *‘The Spoilers’*.</mark> <mark>A drawn-out battle sequence between the film's lead, Laurel, and a corrupt sheriff</mark> takes up the majority of the running time. But another, very gay, cowboy suddenly appears on the scene in the middle of the brawl. As the two men continue to quarrel, he makes a show of <mark>batting his eyes at both of them</mark> and <mark>primping a little bit before sashaying out of the room</mark>. </span>
+
+<span visual=none off="?"><mark>Laurel wins the fight against the sheriff, but no one appears to care.</mark> As a result, he is left <mark>sitting outside the tavern, looking disheartened</mark>. <mark>The gay cowboy pokes his head out of a second-floor window and lavishly blows Laurel a kiss while mouthing the words ‘my hero.’</mark> <mark>When Laurel rejects him</mark>, he <mark>drops a flower pot on his head</mark>. </span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p25" %}>
+
+<mark>One of the earliest direct references to male homosexuality</mark> in an American film came, <mark>predictably</mark>, in a comedy spoof. <mark num=4>Stan Laurel</mark>'s <mark num=3>one-reel comedy short *The Soilers*</mark> (1923) was a <mark>takeoff on Rex Beach's popular 1914 western *The Spoilers*.</mark> Set in Alaska during the gold rush, the film offers Stan Laurel as Bob Cannister, a patsy who strikes it rich only to be fleeced by an unscrupulous local sheriff. Most of the action consists of<mark> a drawn out fight scene between Laurel and the sheriff</mark>, who brawl the entire length of an old-time saloon During the fight, an ordinary-looking cowboy flounces gaily onto the set, hand on hip. He <mark>bats his eyes at both men</mark>, fluffs his hair before a mirror and <mark>primps a bit before sashaying out of the room</mark> as the two men continue to fight. <mark>Laurel beats the villain, but nobody seems to care</mark>, and he ends up <mark>sitting dejectedly outside the saloon</mark>, his face buried in his hands. <mark>The gay cowboy pokes his head out of a second floor window and extravagantly blows Laurel a kiss, mouthing the words "My Hero"</mark> (reinforced by a flowered title card). <mark>When Laurel spums him</mark> with a disgusted wave of his hand, the miffed cowboy <mark>drops a potted petunia on his head</mark>. In the final shot, the street cleaner sweeps Laurel away with the trash.
+
+</from>
 <james {% include timecode %}>
 
-This is one of the first examples of the use of the ‘harmless sissy’ image to present homosexuality in film. But in the context of rough-and-tough men in the soon-to-be industry-dominant western genre, we were laying the foundations of the trope from the word ‘GO.’ 
+<mark>This is one of the first examples of the use of the ‘harmless sissy’ image to present homosexuality</mark> in film. But in the context of rough-and-tough men in the soon-to-be industry-dominant western genre, we were laying the foundations of the trope from the word ‘GO.’ 
 
-There is a very overt connection between the effeminate and apparent homosexual in this film. <span visual=none on="?" off="?">Even though the cowboy was not supposed to be impersonating a woman, the primping and fussing characteristics that he displayed were unmistakably those of a woman.</span> At least as men at the time expected women to act. 
+<mark>There is a very overt connection between the effeminate and apparent homosexual</mark> in this film. <span visual=none on="?" off="?"><mark num=2>Even though the cowboy was not supposed to be impersonating a woman</mark>, the <mark num=3>primping and fussing characteristics</mark> that he displayed were <mark num=4>unmistakably those of a woman</mark>.</span> At least as men at the time expected women to act. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p26" %}>
+
+<mark>This is one of the first examples of the use of the "harmless sissy" image to present homosexuality</mark>. <mark>The sometimes silent connection between effeminate and homosexual</mark> was unmistakably evident here because the gay cowboy looked not like a woman but like any other cowboy in the film. The difference was that he preferred men- and therefore "behaved" like a woman. The <mark num=3>primping and fussing mannerisms</mark> of the cowboy were <mark num=4>certainly woman-identified</mark>, <mark num=2>even though female impersonation was not a factor</mark>. Yet this was exactly [...]
+
+</from>
 <james {% include timecode %}>
 
 <span visual=none on="?" off="?">The comedy here was highlighting how out-of-place this sissy boy was in this rough-and-tumble world of the men who won the west.</span> The irony of course is that… there is *significant* historical evidence to suggest that the west was in fact RIFE with gay men (many from Europe) and was largely settled by women in sex work. 
@@ -308,25 +332,42 @@ However even though *The Soilers* is a mockery of queerness, among other things,
 <compare>
 <james {% include timecode %}>
 
-However, this was precisely the kind of event that the censors were keeping an eye out for. Public Ordinances already enabled censoring organizations around the country to look at pictures in advance of their public showing. Although all of those such entities had little *actual* authority, their rules for morality in the movies clearly mentioned ‘sex perversion’ as a key "don’t". Even if queerness was the subject of ridicule. 
+However, <mark>this was precisely the kind of event that the censors were</mark> keeping an eye out for. Public <mark>Ordinances already enabled censoring organizations</mark> around the country <mark>to look at pictures in advance of their public showing</mark>. <mark>Although all of those such entities had little *actual* authority, their rules for morality in the movies clearly mentioned ‘sex perversion’ as a key "don’t".</mark> Even if queerness was the subject of ridicule. 
 
-The United States Supreme Court ruled in 1915: 
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p26" %}>
 
-> “The exhibition of motion pictures is business, pure and simple and is conducted for-profit, like other spectacles not to be regarded or intended to be regarded as a part of the presence of the nation or the organs of public opinion." 
+[...] was not a factor. Yet <mark>this was exactly the sort of thing the censors were</mark> watching for. <mark>Ordinances already empowered censorship bodies</mark> <mark>to look at films in advance of their public showing</mark>, and <mark>although such groups had no real clout, their guidelines for morality in the movies specifically included "sex perversion" as a *don't*.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The <mark num=2>United States Supreme Court ruled</mark> <mark num=2>in 1915</mark>: 
+
+> “<mark>The exhibition of motion pictures is</mark> <mark>business, pure and simple</mark> and is <mark>conducted for-profit, like other spectacles not to be regarded or intended to be regarded</mark> <mark>as a part of the presence of the nation or the organs of public opinion</mark>." 
+
+This decision <mark>meant that movies were not protected by the First Amendment guarantee of free speech.</mark> Due to this ruling, harsh censorship legislation was eventually enacted in the states of <mark num=7>New York, Florida, Massachusetts, Maryland, and Virginia</mark> within a <ins>just</ins> <mark num=8>few years following this judgment</mark>. 
+
+The gold standard in the United States was in <mark>the New York</mark> statute that was passed <mark>in 1921</mark>. It stated that: 
+
+> “<mark>A film should be licensed by the state, unless such a film or</mark> a <mark>part thereof is of such a character that its exhibition would tend to corrupt morals or incite crime.”</mark> 
+
+<mark>Indecency, immorality, and obscenity were nowhere described or defined in the statute, and thus there was considerable latitude for interpretations.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p26" %}>
+
+<mark num=2>In 1915</mark> the <mark num=2>U.S. Supreme Court had ruled</mark> that "<mark>the exhibition of motion pictures is</mark> a <mark>business, pure and simple</mark>, originated and <mark>conducted for profit, like other spectacles, not to be regarded or intended to be regarded</mark> . . . <mark>as a part of the press of the nation or as organs of public opinion</mark>." This <mark>meant that the movies were not covered by the First Amendment guarantee of freedom of speech.</mark> Within a <mark num=8>few years of the ruling</mark>, censorship laws were passed in <mark num=7>New York, Florida, Massachusetts, Maryland and Virginia</mark>. <mark>The New York</mark> law, enacted <mark>in 1921</mark>, was typical; it provided that "<mark>a film should be licensed by the State unless such a film or</mark> <mark>part thereof is of such a character that its exhibition would tend to corrupt morals or incite crime."</mark> <mark>Indecency, immorality and obscenity were nowhere described or defined in the statute, and thus there was considerable latitude for interpretation.</mark>
+
+</from>
+<james {% include timecode %}>
 
 </james>
 <from></from>
 <james {% include timecode %}>
-
-This decision meant that movies were not protected by the First Amendment guarantee of free speech. Due to this ruling, harsh censorship legislation was eventually enacted in the states of New York, Florida, Massachusetts, Maryland, and Virginia within a <ins>just</ins> few years following this judgment. 
-
-</james>
-<from></from>
-<james {% include timecode %}>
-
-The gold standard in the United States was in the New York statute that was passed in 1921. It stated that: 
-
-> “A film should be licensed by the state, unless such a film or a part thereof is of such a character that its exhibition would tend to corrupt morals or incite crime.” 
 
 </james>
 <from></from>
@@ -335,7 +376,7 @@ The gold standard in the United States was in the New York statute that was pass
 <compare>
 <james {% include timecode %}>
 
-Indecency, immorality, and obscenity were nowhere described or defined in the statute, and thus there was considerable latitude for interpretations. Essentially giving free reign to wealthy, white, right-wing, Christian men to dictate what could and could not be in any given film released in these states. 
+Essentially giving free reign to wealthy, white, right-wing, Christian men to dictate what could and could not be in any given film released in these states. 
 
 <span visual=none on="?" off="?">One of the first instances of lesbians kissing on screen was in a brief orgy scene in Cecil B DeMille's ‘Manslaughter’ in 1922.</span> The vision of two passionate women locked in a forbidden embrace, was used by DeMille to *condemn* the excesses of sex <span visual=none on="?" off="?">that he was portraying so graphically, and excessively.</span> 
 

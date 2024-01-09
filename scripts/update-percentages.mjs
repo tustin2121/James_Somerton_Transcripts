@@ -90,7 +90,7 @@ function determineVolume(window, document) {
 			p += clips.map(m => m.textContent.split(" ")).flat().length;
 		}{
 			let marks = Array.from(n.querySelectorAll("mark[fc]"));
-			marks = marks.filter(m => m.getAttribute("fc") !== "true");
+			marks = marks.filter(m => m.getAttribute("fc") === "false");
 			m = marks.map(m => m.textContent.split(" ")).flat().length;;
 		}{
 			y = 0; // Not yet implemented

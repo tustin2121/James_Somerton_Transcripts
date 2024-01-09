@@ -137,7 +137,7 @@ It's like the cinematic equivalent of edging without the money shot.
 
 > "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
-> <mark fc id="richard_dyer">-Richard Dryer, film historian</fc>
+> <mark fc=false id="richard_dyer">-Richard Dryer, film historian</fc>
 
 </james>
 <from></from>
@@ -2214,7 +2214,7 @@ When recalling a rock bottom moment for the two, when they were pulling scams at
 <from></from>
 <james {% include timecode %}>
 
-Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that. <mark fc>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that. <mark fc=false>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
 
 </james>
 <comment id="historians">

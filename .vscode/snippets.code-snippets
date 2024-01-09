@@ -147,6 +147,13 @@
 		],
 		"description": "Insert a header for a <comment> block."
 	},
+	"header-for": {
+		"prefix": "header",
+		"body": [
+			"{% include header for=$1 %}"
+		],
+		"description": "Insert a header for a <comment> block."
+	},
 	
 	"video-on-off": {
 		"prefix": "video-on-off",

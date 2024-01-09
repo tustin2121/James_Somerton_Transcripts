@@ -63,7 +63,7 @@ THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE
 <compare>
 <james {% include timecode %}>
 
-*No. 6* is <mark fc>a manga that began in 2011 and concluded in 2016</mark>, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. 
+*No. 6* is <mark fc=false>a manga that began in 2011 and concluded in 2016</mark>, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. 
 
 </james>
 <comment id="first_line">
@@ -105,7 +105,7 @@ Truth be told, I feel like this is less of a matter of taste and more of a matte
 
 America can either confront the grim reality of late-stage McCarthyism its in or raise the bar a little higher and wait until the government starts imposing curfew with walrus-tiger hybrid clones which bear the faces of deceased relatives. And THEN we might start thinking about writing an angry letter to your district overlord. 
 
-<mark fc>But as far as statements *No.6* makes about society, you really don’t need to read past page 10…</mark> beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
+<mark fc=false>But as far as statements *No.6* makes about society, you really don’t need to read past page 10…</mark> beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
 
 </james>
 <comment id="page_10">
