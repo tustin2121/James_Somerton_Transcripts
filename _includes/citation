@@ -1,4 +1,6 @@
-class="color-{{ include.for.color }}" >
+class="color-{{ include.for.color }}
+{%- if include.for.style %} srcstyle-{{ include.for.style }}{%- endif -%}
+" >
 <header>
 	{%- if timecode -%}
 		<span class="timecode">{{ timecode }}</span>
