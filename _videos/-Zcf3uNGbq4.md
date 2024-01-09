@@ -32,6 +32,7 @@ cite:
   misinformation: !!map
   plagiarized: !!map
     sophie_cleghorn: { color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62" }
+    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -53,22 +54,28 @@ This video is brought to you by ATLAS VPN.
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span="2" {% include timecode %}>
 
 Over the last several years there have been demands for more LGBTQ represention in Hollywood movies. But something that many people don’t know is that the first movie to ever win Best Picture at the Academy Awards, was also <mark x num=1>the first major Hollywood film to show a gay kiss</mark>. 
 
 <mark num=2>William A. Wellman</mark>’s film *Wings*. Released <mark num=3>in 1927</mark>. In "Wings," <mark>two World War I aviators</mark> <mark>compete for the affections of the same woman while coming to terms with their growing feelings for one another. Despite being labeled a "friendship" for the duration of the film</mark> (perhaps to circumvent censorship requirements), <mark>it is evident that these two men are developing romantic feelings for one another</mark>. Made clear by the climactic <mark>dramatic kiss</mark>. 
 
-Wellman's silent film captures one of the earliest examples of LGBTQ cinema by carefully toeing the censorship line; the film examines the expressed passions of two men entangled in the conflict of WWI and the emotional torment of a forbidden connection. 
+<mark x>Wellman's silent film captures one of the earliest examples of LGBTQ</mark> cinema <mark x>by carefully toeing the censorship line</mark>; the film examines the expressed passions of two men entangled in the conflict of WWI and the emotional torment of a forbidden connection. 
 
-Wings went on to be a box office smash, and even at a time when the film industry was quickly transitioning to sound, became the only truly silent film to win Best Picture. 
+<mark x>*Wings* went on to be a box office smash</mark>, and even at a time when the film industry was quickly transitioning to sound, became the only truly silent film <mark x>to win Best Picture</mark>. 
 
 </james>
+<comment>
+{% include header for=tustin %}
+
+Confirmed: The winner of the [First Academy Awards](https://en.wikipedia.org/wiki/1st_Academy_Awards)'s (then) "Outstanding Picture" category was [Wings](https://en.wikipedia.org/wiki/Wings_(1927_film)).
+
+</comment>
 <from {% include citation for=page.cite.plagiarized.sophie_cleghorn at="¶ 2" %}>
 
 Prior to the Production Code, LGBT characters were somewhat prevalent, if heavily stereotyped and exploited, in a number of major films. The 1920s especially were a time of shifting societal norms and expanding artistic experimentation. As women rode the first wave of feminism and prohibition was increasingly challenged, filmmakers began to expand their boundaries and feature more controversial plotlines. This set the stage for *Wings* which was directed by <mark num=2>William A. Wellman</mark> <mark num=3>in 1927</mark> and featured what is considered <mark x num=1>the first gay kiss in an American film</mark>.
 
-Wings follows <mark>two Air Force pilots in World War I,</mark> Jack and Dave, who <mark>compete for the affections of a beautiful girl before discovering the true love they feel for each other. While the relationship is referred to repeatedly as a friendship</mark>, the acting and directing of the film make i<mark>t obvious that the men’s feelings were romantic</mark>. The storyline ends when one of the men is fatally injured. He dies in his lover’s arms after a <mark>passionate kiss</mark>. Despite the condemnation of gay men in society as a whole at this time period, the film is surprisingly respectful of love between the two characters (Denesi). The camera remains mostly still in a tight shot of Jack and Dave embracing as they share a final goodbye. Jack assures Dave as he nears death that nothing meant more to him than their relationship. A swell of romantic string instruments play in the background as Jack mourns over Dave’s still body. The directing choices made by Wellman humanized both characters and allowed the audience to experience the tragedy without exploiting the perceived exoticness of a relationship between two men. This film is exemplary of many films featuring gay characters in the 1920s. Wellman escaped criticism over his inclusion of gay characters by very carefully walking the line between friends and lovers. To anyone not paying close attention, Jack and Dave could easily pass as close friends. The movie was incredibly well-received and was chosen as Best Picture for the 1927–1928 cycle. However, not all films featuring LGBT characters handled the issue as sensitively as Wings. One of the earliest kisses featuring two women was featured in Morocco, a 1930 film directed by Josef Von Sternberg.
+Wings follows <mark>two Air Force pilots in World War I,</mark> Jack and Dave, who <mark>compete for the affections of a beautiful girl before discovering the true love they feel for each other. While the relationship is referred to repeatedly as a friendship</mark>, the acting and directing of the film make <mark>it obvious that the men’s feelings were romantic</mark>. The storyline ends when one of the men is fatally injured. He dies in his lover’s arms after a <mark>passionate kiss</mark>. Despite the condemnation of gay men in society as a whole at this time period, the film is surprisingly respectful of love between the two characters (Denesi). The camera remains mostly still in a tight shot of Jack and Dave embracing as they share a final goodbye. Jack assures Dave as he nears death that nothing meant more to him than their relationship. A swell of romantic string instruments play in the background as Jack mourns over Dave’s still body. The directing choices made by Wellman humanized both characters and allowed the audience to experience the tragedy without exploiting the perceived exoticness of a relationship between two men. <mark x>This film is exemplary of many films featuring gay characters in the 1920s</mark>. Wellman escaped criticism over his inclusion of gay characters <mark x>by very carefully walking the line</mark> between friends and lovers. To anyone not paying close attention, Jack and Dave could easily pass as close friends. <mark x>The movie was incredibly well-received</mark> and was <mark x>chosen as Best Picture for the 1927–1928 cycle</mark>. However, not all films featuring LGBT characters handled the issue as sensitively as *Wings*. One of the earliest kisses featuring two women was featured in Morocco, a 1930 film directed by Josef Von Sternberg.
 
 </from>
 <james {% include timecode %}>
@@ -138,43 +145,51 @@ These stupid titles are impossible to read because the font is so thin, spaced o
 <compare>
 <james {% include timecode %}>
 
-The love that dared not speak its name in *America* was surprisingly fluent when speaking German throughout the silent era of film. <span visual=none on="?" off="?">While America was using its new toy to glorify the Old West, recreating the fading dreams of its own mythology, European cinema was shaping a more realistic look at the diversity of sex and gender.</span>
+<mark>The love that dared not speak its name in</mark> *America* <mark>was surprisingly fluent</mark> when speaking <mark>German throughout the silent era</mark> of film. <span visual=none on="?" off="?"><mark>While America was using its new toy to</mark> glorify the Old West, <mark>recreating the fading dreams of its own mythology, European cinema was shaping</mark> <mark>a more realistic look at the</mark> diversity of sex and gender.</span> In much of <mark>Europe</mark> at the time, <mark>homosexuality was often just another aspect of the panorama of human relationships.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p18" %}>
+
+<mark>The love that dared not speak its name in</mark> English <mark>was surprisingly fluent</mark> in <mark>German throughout the silent era</mark>. <mark>While America was using its new toy to</mark> play cowboys and Indians, <mark>recreating the fading dreams of its own mythology, European cinema was shaping</mark> the older lessons of life into <mark>a more realistic look at the</mark> battle of the sexes. In America the battle of the sexes was Marie Dresser throwing dishes at Wallace Beery; in <mark>Europe</mark> <mark>homosexuality was often just another aspect of the panorama of human relationships.</mark> This has always been true. In 1956, theatrical producers had a lot of trouble producing Robert Anderson's Tea and Sympathy in France. A French producer told Anderson, "So the boy thinks he is a homosexual and the wife of the headmaster gives herself to him to prove he's not- but what is the problem, please?"
+
+</from>
 <james {% include timecode %}>
 
-In much of Europe at the time, homosexuality was often just another aspect of the panorama of human relationships. The Institute for Sexual Science, <span visual=none on="?" off="?">founded by Dr. Magnus Hirschfeld, became ground zero in the fight against Germany's anti-gay paragraph 175, which criminalized homosexual actions between men, during the era of sexual enlightenment that occurred in pre-war Berlin.</span>
+The <mark num=1>Institute for Sexual Science</mark>, <span visual=none on="?" off="?">founded by <mark num=2>Dr. Magnus Hirschfeld</mark>, became <mark>ground zero in the fight against Germany's anti-gay paragraph 175, which criminalized homosexual actions between men</mark>, during the era of sexual enlightenment that occurred in pre-war Berlin.</span>
 
-It also produced the first film to discuss homosexuality openly, and to contain many of the fundamental issues of the gay liberation movement. <span visual=none on="?" off="?">Directed by Richard Oswald, *‘Different from the Others,’* released in 1919 openly pleaded tolerance, for what is termed the third sex. The program given out at screenings even read:</span>
+<mark>It also produced the first film to discuss homosexuality openly, and to contain many of the fundamental issues of the gay liberation movement.</mark> <span visual=none on="?" off="?"><mark>Directed by Richard Oswald</mark>, *‘<mark>Different from the Others</mark>,’* <mark>released in 1919 openly pleaded tolerance, for what is termed the third sex.</mark> The program given out at screenings even read:</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p19" %}>
+
+The age of sexual enlightenment that flourished in prewar Berlin spawned the first gay liberation movement, led by <mark num=2>Doctor Magnus Hirschfeld</mark>, whose <mark num=1>Institute for Sexual Science</mark> was <mark>the focal point of the battle against the anti gay Paragraph 175 which outlawed homosexual acts between men</mark>. <mark>It also produced the first film to discuss homosexuality openly and to contain many of the seedling issues of the gay liberation movement.</mark> <mark>Directed by Richard Oswald</mark> and starring Conrad Veidt, Anders als die Anderen (<mark>Different from the Others</mark>), <mark>released in 1919, openly pleaded tolerance for what it termed the Third Sex.</mark> The following are excerpts translated from the original program distributed at the showings and sent recently to a West Berlin gay liberation group by an anonymous gay man who was there.
+
+</from>
 <james {% include timecode %}>
 
 \[Quote shown on screen]:
-> “False beliefs and unjustified prejudices concerning a sector of male and female sexual behavior known as homosexuality, or love of the same sex, have been predominant up to the present and still influence a large part of our population. 
+> “<mark>False beliefs and unjustified prejudices concerning a sector of male and female sexual behavior known as homosexuality, or love of the same sex, have been predominant up to the present and still influence a large part of our population.</mark> 
 >
-> These homosexual men and women who are attracted to persons of their own sex, are often regarded as wicked criminals and libertines. But scientific research has determined that homosexuality is an inborn tendency for which the individual cannot be held responsible… 
+> <mark>These homosexual men and women who are attracted to persons of their own sex, are often regarded as wicked criminals and libertines. But scientific research has determined that homosexuality is an inborn tendency for which the individual cannot be held responsible</mark>… 
 >
-> There are homosexuals in every class, among the educated and among the uneducated, and in the highest and lowest sectors of the population, in the great cities and the small towns, among the strict moralists and among the most easygoing; that love for one's own sex can be just as pure and noble as love for the opposite sex, the only difference being the object of desire, not the nature of one's love.” 
+> <mark>There are homosexuals in every class, among the educated and among the uneducated, and in the highest and lowest sectors of</mark> the <mark>population, in the great cities and the small towns, among the strict moralists and among the most easygoing; that love for one's own sex can be just as pure and noble as love for the opposite sex, the only difference being the object of desire, not the nature of one's love.</mark>” 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p19" %}>
+
+> <mark>False beliefs and unjustified prejudices concerning a sector of male and female sexual behavior known as homosexuality, or love of the same sex, have been predominant up to the present and still influence a large part of our population.</mark>
+> 
+> <mark>These homosexual men and women who are attracted to persons of their own sex, are often regarded as wicked criminals and libertines. But scientific research has determined that homosexuality is an inborn tendency for which the individual cannot be held responsible</mark>; that in Germany as well as in many other countries, every thirtieth person has homosexual tendencies; that <mark>there are homosexuals in every class, among the educated and among the uneducated, and in the highest and lowest sectors of</mark> our <mark>population, in the great cities and the small towns, among the strict moralists and among the most easygoing; that love for one's own sex can be just as pure and noble as love for the opposite sex, the only difference being the object of desire, not the nature of one's love.</mark>
+
+<footer>Quote seems to continue for another page, though with the way the book formats block quotes, it's hard to tell the difference between quote and normal text.</footer>
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">The film, along with other works from the same era that dealt with topics such as abortion, incest, sex education, and venereal disease, was propagandistic in its approach.</span> In the early 1930s, Nazis were responsible for the destruction of most prints of the film. <span visual=none on="?" off="?">Christopher Isherwood recalls that at the time, Nazis frequently disrupted screenings of the film.</span> In Vienna, one of them discharged a handgun into the crowd, injuring multiple people. 
+<span visual=none on="?" off="?"><mark x>The film, along with other works from the same era that dealt</mark> with topics such as <mark>abortion, incest, sex education, and venereal disease, was propagandistic in</mark> its approach.</span> <mark x>In the early 1930s, Nazis were responsible for the destruction of most prints of the film.</mark> <span visual=none on="?" off="?"><mark>Christopher Isherwood recalls that</mark> at the time, <mark x>Nazis frequently disrupted screenings of the film</mark>.</span> <mark x>In Vienna, one of them discharged a handgun into the crowd, injuring multiple people.</mark>
 
-</james>
-<from></from>
-</compare>
+<span visual=none on="?" off="?"><mark>In his book “Christopher and his kind,” Isherwood provides a first-person description of the movie</mark>: </span>
 
-<compare>
-<james {% include timecode %}>
-
-<span visual=none on="?" off="?">In his book “Christopher and his kind,” Isherwood provides a first-person description of the movie: </span>
-
-> “Three scenes remain in my memory.  
+> <mark></mark>“Three scenes remain in my memory.  
 > One is that a ball at which the dancers  
 > — all male —  
 > are standing, fully clothed in what seems  
@@ -197,29 +212,57 @@ It also produced the first film to discuss homosexuality openly, and to contain 
 > pleading tolerance for the third sex.” 
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p20" %}>
 
-And so it was that the very first gay man to ever be portrayed on film met his tragic end by taking his own life. This would determine the future of LGBT characters on film and television for many years to come. <span visual=none on="?" off="?">The suicide of Veidt and the idea of blackmail predicted the fates of American screen characters who would suffer for *their* sexuality in like manner when American cinema reached a similar point of inclusion</span> about 50 years later.
+<mark x>Oswald's film, like others of that time dealing</mark> with <mark>abortion, incest, sex education and venereal disease, was propagandistic in</mark> treatment; Hirschfeld himself appeared as resident expert. Only one print of Anders als die Anderen, a fragmented copy, survives. It has never been seen in the United States. <mark x>Other prints were destroyed by the Nazis in the early Thirties.</mark> <mark>Christopher Isherwood recalls that</mark> <mark x>performances of the film were broken up by the Nazis</mark>. <mark x>In Vienna one of them fired a revolver into the audience, wounding several patrons.</mark> <mark>In his memoir Christopher and His Kind, Isherwood gives a firsthand account of the film</mark>.
 
-It would appear that the recognition of the "third sex" in Europe was not associated with a particular concept of masculinity, as was the case in the United States. The focus of the drama and intrigue was not on the sexual aspects of the passions that were awakened in human relationships; rather, the emotional qualities of the passions that were aroused in human relationships. 
+> <mark></mark>Three scenes remain in my memory. One is at a ball at which the dancers, all male, are standing fully clothed in what seems about to become a daisy chain. It is here that the character played by Conrad Veidt meets the blackmailer who seduces him and then ruins him. The next scene is a vision which Veidt has of a long procession of kings, poets, scientists, philosophers and other famous victims of homophobia, moving slowly and sadly with heads bowed. Dr. Hirschfeld himself appears. I think the corpse of Veidt, who has committed suicide, is lying in the background. Hirschfeld delivers a speech (that is to say a series of titles) pleading tolerance for the Third Sex.
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-<span visual=none on="?" off="?">In *‘Mikhail,’* produced in 1924, we see a gay love story in which a famous artist falls in love with his young male model. The model, however, is an opportunist who saps his benefactor’s artistic spirit, eventually spurning his affections for the more promising charms of a wealthy young princess. In the end, the artist leaves all of his possessions to the youth, and on his deathbed declares: "I can die in peace. I have known a great love” </span>
-
-The film, which was adapted from the book of the same name, *was* released in America for a limited time in 1926 under... murky circumstances. <span visual=none on="?" off="?">What would come to be titled: ‘Chained: The Story of The Third Sex’ ran for a short time at New York's Fifth Avenue Playhouse.</span> American censors objected to its first issued English title: ‘The Inverts.’ The modifications to the titles provide an excellent illustration to the American thinking about homosexuality <del>at</del><ins>during</ins> that time <ins>period</ins>. 
-
-</james>
-<from></from>
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">The subtitle “the story of the third sex" suggests that any narrative that deals with gay love, regardless of how seriously it does so,</span> is considered to be a story about homosexuality, while stories that deal with *heterosexual love* are simply seen as *stories*. This appears to be just as much of an issue for American filmmakers and producers today, as they appear to be *unable* to conceive of the existence of queer characters in a movie, unless the subject matter of the movie is <ins>itself</ins> being queer, as understood and depicted by... *mostly* straight people.
+<mark>And so</mark> it was that <mark>the very first gay man</mark> <mark x>to ever be portrayed on film met his tragic end by taking his own life</mark>. <mark x stat:id="sub-queer">This would determine the future of LGBT characters on film and television for</mark> many <mark>years to come</mark>. <span visual=none on="?" off="?"><mark>The suicide of Veidt and the idea of blackmail predicted the fates of American screen characters who would suffer for *their* sexuality in like manner when American cinema reached a similar</mark> point of inclusion</span> <mark>about 50 years later</mark>.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p21" %}>
+
+<mark>And so</mark> <mark>the very first gay man</mark> <mark x>to be presented on film ended in the obligatory suicide</mark> <mark x>that would mark the fate of screen gays for</mark> <mark>years to come</mark>. <mark>The suicide of Veidt and the images of blackmail presaged the fates of American screen characters who would suffer for their sexuality in like manner when the U.S. cinema reached a similar</mark> starting point <mark>almost fifty years later</mark>.
+
+</from>
+<james {% include timecode %}>
+
+<mark x>It would appear that the recognition of the "third sex" in Europe was not associated with a particular concept of masculinity, as was the case in the United States.</mark> <mark num=2>The focus of the drama and intrigue</mark> was not on <mark num=3>the sexual aspects of the passions</mark> that were <mark num=4>awakened in human relationships</mark>; <mark num=5>rather</mark>, <mark num=6>the emotional qualities of the passions</mark> that were aroused in human relationships. 
+
+<span visual=none on="?" off="?">In <mark>*‘Mikhail,’* produced in 1924,</mark> we see <mark>a gay love story in which a famous artist</mark> <mark>falls in love with his young male model</mark>. <mark>The model, however, is an opportunist who saps his benefactor’s artistic spirit</mark>, <mark>eventually spurning his affections for the more promising charms of a wealthy young princess</mark>. In the end, <mark>the artist leaves all of his possessions to the youth, and on his deathbed declares: "I can die in peace. I have known a great love”</mark> </span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p22" %}>
+
+<mark x>The acknowledgment of the Third Sex in Europe was apparently not bound up in a definition of masculinity as it was in America.</mark> <mark num=6>The emotional qualities of the passions</mark> <mark num=4>aroused in human relationships</mark> <mark num=5>rather</mark> than <mark num=3>the sexual characteristics of such relations</mark> were <mark num=2>the focus of the drama and intrigue</mark>. Carl Theodor Dreyer's <mark>Mikael (1924)</mark> is <mark>a homosexual love story in which a famous artist</mark> named Zoret (Benjamin Christiansen) <mark>falls in love with his young male model</mark> Mikael (Walter Slezak), whose nude portrait he has painted as Siegfried. <mark>Mikael, however, is an ungrateful opportunist who saps his benefactor's artistic spirit</mark> and uses his money, <mark>eventually spurning his affections for the more promising charms of a wealthy young princess</mark>. In spite of Mikael's indifference, <mark>Zoret leaves all his possessions to the youth and, on his deathbed, declares, "I can die in peace. I have known a great love."</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The film, which was adapted from the book of the same name, *was* released in America for a limited time in 1926 under... murky circumstances.</mark> <span visual=none on="?" off="?">What would come to be titled: <mark num=2>‘Chained: The Story of The Third Sex’</mark> <mark num=3>ran for a short time at New York's Fifth Avenue Playhouse</mark>.</span> <mark num=4>American censors objected to its first issued English title: ‘The Inverts.’</mark> <mark>The modifications to the titles provide an excellent illustration to the American thinking about homosexuality</mark> <del>at</del><ins>during</ins> that time <ins>period</ins>. 
+
+<span visual=none on="?" off="?"><mark>The subtitle “the story of the third sex" suggests that any narrative that deals</mark> <mark num=7>with gay love</mark>, <mark num=8>regardless of how seriously</mark> it does so,</span> <mark>is considered to be a story about homosexuality, while stories that deal with *heterosexual love* are simply seen as *stories*</mark>. <mark>This appears to be just as much of an issue for American filmmakers and producers today</mark>, as they appear to be <mark>*unable* to conceive of the existence of <span stat:id="sub-queer">queer</span> characters in a movie, unless the subject matter of the movie is</mark> <ins>itself</ins> being <span stat:id="sub-queer">queer</span>, as understood and depicted by... *mostly* straight people.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p22" %}>
+
+<mark>The film, adapted from Hermann Bang's novel *Mikael*, played briefly in America in 1926 under confusing circumstances.</mark> <mark num=4>The censors objected to its first American release title, *The Inverts*</mark>, so it <mark num=3>ran for a short time at New York's Fifth Avenue Playhouse</mark> as <mark num=2>*Chained: The Story of the Third Sex*</mark>, with a "scientific lecture" tacked on and without credit to Dreyer as the director. <mark>The title changes illustrate perfectly the American mentality with regard to homosexuality</mark>. <mark>The subtitle, *The Story of the Third Sex*, reveals how any story dealing</mark>, <mark num=8>however seriously</mark>, <mark num=7>with homosexual love</mark> <mark>is taken to be a story about homosexuality while stories dealing with heterosexual love are seen as stories</mark> about the individual people they portray. <mark>This is as much a problem today for American filmmakers</mark> who <mark>cannot conceive of the presence of gay characters in a film unless the specific subject of the film is</mark> homosexuality. Lesbians and gay men are thereby classified as purely sexual creatures, people defined solely by their sexual urges.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 This discussion of gay men shouldn’t suggest that lesbians didn’t also get attention. <span visual=none on="?" off="?">In the film ‘Pandora's Box,’ which was originally shown in Germany in 1929, there is a figure who is most likely the first lesbian on screen to be portrayed overtly. The film presented the story of the great unrequited love and passion between two women, the countess Geschwitz and the lady she is enamored with, Lulu.</span> 
 

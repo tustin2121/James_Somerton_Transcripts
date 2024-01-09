@@ -285,8 +285,8 @@
 	compare from mark {
 		background-color: var(--mark-source-bg);
 		color: var(--mark-source-text);
-		background-color: color-mix(in srgb, var(--source-color) 30%, var(--color-canvas-default));
-		color: color-mix(in srgb, var(--source-color) 30%, var(--color-fg-default));
+		background-color: color-mix(in oklab, var(--source-color) 20%, var(--color-canvas-default));
+		color: color-mix(in oklab, var(--source-color) 20%, var(--color-fg-default));
 	}
 	
 	compare :is(james, nick, clip) mark[x] {
@@ -311,6 +311,8 @@
 		content: counter(marker-num);
 		vertical-align: super;
 		font-size: x-small;
+		font-family: sans-serif;
+		font-weight: 600;
 		color: var(--color-accent-fg);
 	}
 	compare :is(james, from, comment) mark[fc]::before {
