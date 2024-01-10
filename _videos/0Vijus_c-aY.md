@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Manta sleep hi this video has nothing to do with
 Forrest Gump Forrest Gump is a 1994 inspirational drama starring Tom Hanks and
 is one of his most famous roles that is until he became famous for just being

@@ -20,6 +20,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Hey everyone!
 
 Before we start the video I just

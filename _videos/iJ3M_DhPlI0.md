@@ -20,6 +20,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 as the second world war ended and masses of servicemen returned home to America
 having spent almost all of their time away exclusively with other men there

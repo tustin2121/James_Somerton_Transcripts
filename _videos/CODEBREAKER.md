@@ -11,7 +11,6 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
-  - custom-start
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"

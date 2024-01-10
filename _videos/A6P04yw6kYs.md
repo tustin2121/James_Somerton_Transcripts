@@ -19,6 +19,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 This video is brought to you by SquareSpace. Cabaret is a film that serves as a
 stark reminder
 

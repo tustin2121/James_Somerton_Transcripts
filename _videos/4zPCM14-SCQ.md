@@ -21,6 +21,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 
 # Transcript of "Monsters in the Closet: The Modern Ganymede"
 Originally released between 2017-07-01 and 2018-05-28

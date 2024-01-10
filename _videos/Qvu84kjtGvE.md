@@ -19,6 +19,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob
 Iger announced Disney's latest World conquering Venture Disney plus a Digital
 streaming service dub a Netflix Killer by many in the media that would make

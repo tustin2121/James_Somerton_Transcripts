@@ -18,7 +18,6 @@ description: "a video essay on postmodernism, symbolism, and gender roles; where
 notes: 
   - short-advert
   - unreleased
-  - custom-start
 
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"

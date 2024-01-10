@@ -21,6 +21,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hardcore porn both of the straight and gay varieties entered mainstream american
 culture in the 1970s as the sexual revolutions swept away many of the cultural
 and moral inhibitions that had been keeping the country's proverbial knees

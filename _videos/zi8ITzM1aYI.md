@@ -16,6 +16,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 coming up on the Drop Zone cap do you do anything fun Saturday night well all
 the guys in my barbershop quartet are dead so no not really you know if you ask
 Kristen out from statistics you'd probably say yes that's why I don't ask too

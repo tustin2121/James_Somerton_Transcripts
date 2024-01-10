@@ -25,6 +25,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 at the 1984 Democratic National Convention Bobby Campbell a prominent AIDS
 activist argued for a presidential candidate who would actually address the AIDS
 crisis unlike the Reagan Administration whose mandate regarding the growing

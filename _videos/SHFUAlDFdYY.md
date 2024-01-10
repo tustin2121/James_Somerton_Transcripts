@@ -14,6 +14,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone my name is james and today i'm going to explain to you how marvel
 comics accidentally created a gay power couple and despite their best efforts to
 avoid it how disney might be giving us our first big screen gay superheroes

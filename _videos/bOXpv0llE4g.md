@@ -15,6 +15,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hey everyone 2022 was really a year but one thing that I was shocked by was how
 much amazing media with queer themes and characters actually came out this year
 so I decided to do a top eight queer movies or TV shows of the year and I'm

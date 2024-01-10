@@ -15,6 +15,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Atlas VPN I've been noticing something over the
 last few months years that's been bothering me but I haven't spoken that much
 about it I wonder if you my dear viewers have noticed the same thing that being

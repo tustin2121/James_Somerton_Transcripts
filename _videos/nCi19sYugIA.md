@@ -11,7 +11,6 @@ links: !!seq
   - "https://www.youtube.com/watch?v=A72beWKKnCc" # Reuploads channel
 description: "a video essay on Mommie Dearest and all the drama surrounding it."
 notes:
-  - custom-start
   - visual
 
 contributors:

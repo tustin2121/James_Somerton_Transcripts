@@ -34,6 +34,17 @@ cite:
     potter_day_article: { color: 3, short: "Harry Potter Day (National Today, n.d.)" , full: "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", url: "https://nationaltoday.com/harry-potter-day/" }
     # vox_terf_article: { color: 4, short: "(Burns, 2019)" , full: "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em>. Retrieved December 14, 2023" url: "https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 <compare>
 <credits>

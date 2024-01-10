@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to gays Behaving Badly the show where we talk about
 stuff the Pete booty judge doesn't want us to talk about my name is James I'm
 Nick so what are we talking about today today we are talking about dating apps

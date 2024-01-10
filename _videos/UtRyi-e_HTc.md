@@ -19,6 +19,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 this video is brought to you by ag1 as the film industry moved away from
 Suburban Perfection the extensive efforts made by Hollywood to conceal

@@ -14,6 +14,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone my name is James and welcome to gay geek theory today I would
 like to talk about something that I'm calling the Stonewall effect or maybe the
 Stonewall film effect as someone who has gone to film school worked in the film

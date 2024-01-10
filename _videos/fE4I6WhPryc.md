@@ -22,6 +22,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 cars is a Disney Pixar animated film released in 2006 and was the seventh film
 released by Pixar Animation Studios this film followed a string of emotionally
 evocative and intellectually stimulating films just two movies after the

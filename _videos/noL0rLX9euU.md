@@ -14,6 +14,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 foreign so the Hollywood Summer movie season is drawing to a close and the
 prevailing message of the summer seems to be according to Industry professionals
 at least that people are getting tired of the summer blockbuster with a few

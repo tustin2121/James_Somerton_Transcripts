@@ -15,7 +15,6 @@ notes:
   - highlighted
   - hbomb
   - dec2-delete
-  - custom-start
 
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"

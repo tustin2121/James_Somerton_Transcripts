@@ -18,7 +18,6 @@ notes:
   - hbomb
   - dec5-delete
   - commentary
-  - custom-start
   - script-diff
 
 contributors:

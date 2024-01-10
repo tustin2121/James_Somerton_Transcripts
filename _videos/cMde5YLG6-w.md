@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Whenever I think I’ve dropped the mic on
 
 Disney, something like the summer of 2021 happens. Where do we start? With the

@@ -16,6 +16,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 you so far the Marvel Cinematic Universe has been broken up into phases phase
 one was the creation of the Avengers phase 2 has been the aftermath and some
 further world building and will culminate with the Avengers 2 age of Ultron and

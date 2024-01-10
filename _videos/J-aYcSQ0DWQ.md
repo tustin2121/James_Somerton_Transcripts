@@ -14,7 +14,6 @@ links: !!seq
   - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
-  - custom-start
   - script-diff
 
 contributors:

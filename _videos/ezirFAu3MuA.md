@@ -15,6 +15,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it
 and yet has there ever been anything so coveted that is so vaguely defined what

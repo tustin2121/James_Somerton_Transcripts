@@ -21,6 +21,16 @@ contributors:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
+<compare>
 <james {% include timecode %}>
 
 Hi, everyone. I'm sorry for taking so long to make this video or to say anything. I'm in the hospital; I've been here for a little over a week. I tried to do something really stupid. I'm only here now because, before I did it, I called my dad to talk to him one more time. He figured out something was wrong, called paramedics or 911, and they got here. I woke up in the hospital, and yeah, anyway, I'm not trying to make this a story; I'm just trying to explain why I've been so quiet.

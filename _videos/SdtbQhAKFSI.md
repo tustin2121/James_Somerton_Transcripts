@@ -19,6 +19,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 this video is brought to you by manscaped in Hollywood's early years
 homosexuality found its way on screen in ways both secret and obvious to the

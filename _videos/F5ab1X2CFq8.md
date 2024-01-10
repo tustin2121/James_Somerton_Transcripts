@@ -11,7 +11,6 @@ links: !!seq
 description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
 notes:
   - script-diff
-  - custom-start
 
 contributors:
   transcription: $cite$from-script

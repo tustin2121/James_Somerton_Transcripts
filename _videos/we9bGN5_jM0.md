@@ -16,6 +16,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 it could be said that I'm a bit of a Harry Potter fan I jumped onto the series
 when I was 12 just after coming out yes I came out that young which was also
 just after the release of Goblet of Fire I devoured the first four books between

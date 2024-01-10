@@ -23,6 +23,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 For anyone who has followed my channel for
 
 any amount of time, and certainly anyone who follows me on Twitter or watches my

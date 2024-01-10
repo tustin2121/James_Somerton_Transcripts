@@ -35,6 +35,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 <!-- Ace Couple podcast 1:17:24 for a note for the opening credits. -->
 

@@ -12,7 +12,6 @@ description: "a live chat put on by the Ottawa Public Library (Biblio publique d
 notes:
   - mirror
   - podcast
-  - custom-start
 
 podcast:
   comment: "The following is a transcript originally published [here](https://docs.google.com/document/d/1-icsIQT9sQ3uFLrSWY7TVUk5zLx7wO05ViCFcom803s/edit). It has been copied and adapted to the format used on this site. I have further attempted to clean up and annotate. This transcript was last updated 2023-12-30."

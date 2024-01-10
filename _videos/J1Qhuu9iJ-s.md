@@ -15,6 +15,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to my tier ranking of the uh it was gonna be 50 but i
 added two more so 52 best with big ass quotes lgbtq movies ever made i created
 this list by going through about 16 or 17 best queer movies ever made lists

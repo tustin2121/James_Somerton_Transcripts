@@ -12,7 +12,6 @@ links: !!seq
   - "https://www.youtube.com/watch?v=v_KG7r3ClZc" # Reuploads channel
 # description: "a video essay on...?"
 notes:
-  - custom-start
   - short-advert
 
 cite:

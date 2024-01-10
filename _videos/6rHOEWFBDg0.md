@@ -25,6 +25,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Squarespace there has arguably never been a
 human civilization in history that did not exist under the threat of vampires in
 a universal context they represent our fears of not only death but unrest in

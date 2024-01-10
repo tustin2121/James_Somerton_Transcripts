@@ -20,7 +20,6 @@ links: !!seq
   - "https://www.youtube.com/watch?v=qNxoyHlVM48" # Reuploads channel
 description: "a video essay on spoiler culture and how it's caused our media to get worse over time. Uses the phrase 'spoiler alert' 21 times."
 notes:
-  - custom-start
 
 contributors:
   downloaded: $cite$TerraJRiley

@@ -36,6 +36,16 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
+<compare>
 	<james {% include timecode %}>This video is brought to you by SquareSpace</james>
 </compare>
 

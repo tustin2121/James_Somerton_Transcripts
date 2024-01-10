@@ -20,6 +20,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 why are queer men hyper focused on body image it may involve a social philosophy
 called objectification which is the act of treating persons as objects or things
 dehumanizing them and making them sexual objects instead of real people gay men

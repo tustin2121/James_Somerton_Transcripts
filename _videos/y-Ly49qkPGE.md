@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to episode 21 of the padreon my name is James and
 this week um I think this episode may be another episode that goes out live on
 to um my YouTube channel because this is something that I feel like needs to be

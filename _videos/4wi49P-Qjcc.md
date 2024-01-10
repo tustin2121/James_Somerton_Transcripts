@@ -19,6 +19,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 we all like True Crime if the glut of True Crime series is any indication it's
 very suddenly become one of the most engaging forms of contemporary
 entertainment and there's no sign of it stopping from streaming to YouTube to

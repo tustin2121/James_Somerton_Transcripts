@@ -20,6 +20,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 SO, Back to the increasingly popular world
 
 of Korean Manhwa we go! After the Killing Stalking video came out

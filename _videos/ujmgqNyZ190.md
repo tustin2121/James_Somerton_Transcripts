@@ -23,6 +23,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 i just wanted to drop a content warning here as both physical and psychological
 abuse are discussed in this video i also wanted to thank chaos opus studio who
 composed the score in this video they're also an animal welfare charity that

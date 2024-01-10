@@ -14,6 +14,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 now the guardians of the galaxy a little-known property if ever there was one
 has become a worldwide box office smash for marvel i decided to have a look at
 some of the other lesser-known marvel characters who i'd like to see take the

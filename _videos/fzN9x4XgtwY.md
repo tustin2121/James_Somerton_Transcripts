@@ -19,6 +19,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 
 this video is brought to you by Squarespace this film is not about lesbianism
 it's about the power of lies to destroy people's lives this film is not about

@@ -27,12 +27,23 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
 
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 {% assign timecode = "0:00" %}
+
 <compare>
 <credits>
 
-\[New Station Ident intro screen]
+\[News Station Ident intro screen]
 
 > Gay News  
 LIVE! 

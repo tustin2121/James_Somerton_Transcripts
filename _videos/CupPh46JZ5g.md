@@ -21,6 +21,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Squarespace in 1996 the musical theater world
 was changed Forever by a small Off-Broadway musical gaining the attention of
 critics and fans alike rent was promptly moved to a proper Broadway Theater

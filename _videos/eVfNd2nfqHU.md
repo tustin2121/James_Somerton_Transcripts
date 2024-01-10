@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to episode 17 of the padreon which I'm actually going
 to release as a special public episode um so it's not just for patrons this one
 the next episode will go back to being patreon exclusive but this one I wanted

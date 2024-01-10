@@ -17,6 +17,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by atlasvpn hi everyone welcome to the second
 episode of gays Behaving Badly my name is James I'm Nick and there will be a
 Chiron under your name giving all your information stuff and I assume a Chiron

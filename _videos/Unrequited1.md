@@ -9,7 +9,6 @@ links: !!seq
   - "https://www.youtube.com/watch?v=cLWZV-SHmeY"
 # description: "a video essay on...?"
 notes:
-  - custom-start
   - visual
   - hbomb
 

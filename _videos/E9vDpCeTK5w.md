@@ -18,6 +18,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by our patrons for as little as a dollar a month
 you can gain Early Access to new videos see behind the scenes content listen to
 our Patron exclusive podcast the patreon and much more for 2023 we're developing

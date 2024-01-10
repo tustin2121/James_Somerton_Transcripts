@@ -24,6 +24,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Victory whenever I'm playing OverWatch I've started gravitating toward Soldier
 76 when my favorite killer robot with PTSD Bastion is impr practical I didn't
 play as soldier for the first few years the game was out though but then blizzard the company behind OverWatch

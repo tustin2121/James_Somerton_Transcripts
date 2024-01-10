@@ -18,6 +18,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 the rags to riches story is a classic narrative Trope that has captured the
 hearts of audiences for Generations one of the most enduring and popular
 variations of this tale is the story of a nobody becoming a star this narrative

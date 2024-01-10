@@ -234,12 +234,6 @@
 				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
-				{%- unless page.notes contains "custom-start" -%}
-					{% include transcript-start %}
-				{% else %}
-					{% assign hr_due = true %}
-				{%- endunless -%}
-				
 				{{ content }}
 				
 				{% comment %} {% if page.cite.plagiarized.size > 0 -%}

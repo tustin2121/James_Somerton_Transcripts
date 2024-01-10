@@ -19,6 +19,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Yuri on Ice is a 2016 anime about Yuri Katsukai,
 
 a 24 year old figure skater from Japan whose pretty much convinced that he’s past his
