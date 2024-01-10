@@ -14,6 +14,8 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=cXCfeN7idJo"
   - "https://www.youtube.com/watch?v=SH3DkDmMTAk"
+  - "https://archive.org/details/james-somerton-public-records/How+Hollywood+was+Born+Gay.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230215+-Zcf3uNGbq4+How+Hollywood+was+Born+Gay.webm"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."
 notes:
   - hbomb
@@ -41,7 +43,20 @@ cite:
 <compare>
 <credits class="desc">
 
-[Lost]
+[Sponsor plug]
+
+The first in a series of eight videos looking back at the queer history of Hollywood from the beginning of the film industry to modern blockbusters and streaming. 
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:37" for="Chapter 1" %}  
+{% include chapter-link at="12:53" for="Chapter 2" %}  
+{% include chapter-link at="22:00" for="Chapter 3" %}  
+
+#documentary #lgbt #movies
 
 </credits>
 </compare>
@@ -54,7 +69,6 @@ cite:
 This video is brought to you by ATLAS VPN. 
 
 </james>
-<from></from>
 </compare>
 
 <compare>
@@ -99,11 +113,10 @@ But before we get too deep into this history, let me tell you about the sponsor 
 <!--ATLAS VPN. Many of the films we’ll be talking about in this series may not actually be streamable in your country, but by using ATLAS VPN’s geolocation features you can unlock access to the wide history of queer cinema that doesn’t always make it to streaming services everywhere. ATLAS VPN also keeps your internet and google search history safe from prying eyes, so you can still look up and watch these films without certain, maybe unaccepting, members of your family finding out. And now is a great time to sign up because ATLAS VPN is currently offering a special, limited time offer where their premium service is just $1.83 per month + 3 months for free! All with a 30-day money-back guarantee. But be quick because it’s only a limited-time offer! Explore the history of queer cinema without restrictions and get many other benefits of Atlas VPN for this ridiculously low price. Check the link in the description for more information and to sign up today. -->
 
 </james>
-<from></from>
 </compare>
 
 <compare>
-<credits {% include timecode %} style="letter-spacing: 6px; font-family: serif;">
+<credits class="opening" {% include timecode %} style="letter-spacing: 6px; font-family: serif;">
 
 > Telos Pictures  
 > <span style="font-size:small;">presents</span>
@@ -139,9 +152,11 @@ These stupid titles are impossible to read because the font is so thin, spaced o
 Also, this is the only "movie" that Telos Pictures ever put its branding on.
 
 </comment>
+{% assign timecode = "3:37" %}
 <credits {% include timecode %}>
+<header>Title card:</header>
 
-\[Over black]:
+<span id="chapter-1"></span>\[Over black]:
 
 > Episode One
 >
@@ -351,9 +366,10 @@ However, <mark>this was precisely the kind of event that the censors were</mark>
 </compare>
 
 <compare>
+{% assign timecode = "12:55" %}
 <james {% include timecode %}>
 
-The <mark num=2>United States Supreme Court ruled</mark> <mark num=2>in 1915</mark>: 
+<span id="chapter-2"></span>The <mark num=2>United States Supreme Court ruled</mark> <mark num=2>in 1915</mark>: 
 
 > “<mark>The exhibition of motion pictures is</mark> <mark>business, pure and simple</mark> and is <mark stat:id="changed-quote">conducted for-profit, like other spectacles not to be regarded or intended to be regarded</mark> <mark>as a part of the presence of the nation or the organs of public opinion</mark>." 
 
@@ -556,9 +572,10 @@ All of this was meant to connect the queer underworld with the underworld run, *
 <mark>Although the character of Joel Cairo</mark> (Peter Lorre) <mark>in *The Maltese Falcon*</mark> (1941) <mark>is identified by Sam Spade's secretary in</mark> Dashiell Hammett's novel <mark>as a homosexual</mark>, <mark>the film version</mark> <mark>just turns him into a perfumed</mark> fop <mark>with lace hankies</mark>. A brief, sarcastic reference by a venomous Mary Astor to "that young boy in Istanbul," the character with whom Cairo had a little trouble, is murky and unexplored. <mark>Elisha Cook, Jr., as Sidney Greenstreet's bodyguard Wilmer, however, is implicitly homosexual. He is referred to as "sonny." "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark> <mark>Since about 1915,</mark> bums and <mark>prisoners had used the German word</mark> *gansel* or *gosling*, corrupted to <mark>*gunsel*, for a passive sodomite, especially a young, inexperienced</mark> boy compan&shy;ion. From the mid 1920s it gradually came to mean a sneaky or disreputable person of any kind. By the 1930s it meant petty gangster or hoodlum. That film characters like Wilmer and the taxi driver in *Blood Money* shared a feminine status is obvious. The only variation was the degree to which that equation was carried to its common underworld conclusion.
 
 </from>
+{% assign timecode = "22:00" %}
 <james {% include timecode %}>
 
-This “fear the queer” mindset was brought to its *logical* conclusion <mark num=1>in the horror films of the 1930s</mark>, <span visual=none on="?" off="?">where <mark num=2>gays appeared as predatory, twilight creatures with a sense of style</mark>. <mark>The equation of horror with the sins of the flesh is easily seen in monster movies of the period. Creatures like Frankenstein’s monster and Count Dracula were almost always linked with the baser instincts of human beings</mark>.</span> The essence of homosexuality as a predatory weakness permeates the depiction of gay characters in horror films. 
+<span id="chapter-3"></span>This “fear the queer” mindset was brought to its *logical* conclusion <mark num=1>in the horror films of the 1930s</mark>, <span visual=none on="?" off="?">where <mark num=2>gays appeared as predatory, twilight creatures with a sense of style</mark>. <mark>The equation of horror with the sins of the flesh is easily seen in monster movies of the period. Creatures like Frankenstein’s monster and Count Dracula were almost always linked with the baser instincts of human beings</mark>.</span> The essence of homosexuality as a predatory weakness permeates the depiction of gay characters in horror films. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p48" %}>

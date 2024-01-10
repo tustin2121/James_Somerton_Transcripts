@@ -5,7 +5,12 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="stylesheet" href="{{ "/css/markdown-github.css" | relative_url  }}" type="text/css" />
+	<link rel="stylesheet" href="{{ "/css/transcript.css" | relative_url }}" type="text/css" />
 	<link rel="stylesheet" href="{{ "/css/video-index.css" | relative_url  }}" type="text/css" />
+	<style>
+		section.footnotes { margin: initial; }
+		section.footnotes::before { content: none; }
+	</style>
 	
 	<title>{{ page.title }}</title>
 	<meta property="og:title" content="{{ page.title }}" />
@@ -26,5 +31,46 @@
 			</div>
 		</div>
 	</div>
+{% if page.include-script %}
+	<script>
+		// Mark all external links as opening in a new tab
+		Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = "_blank");
+		
+		function markVisuals() {
+			document.querySelectorAll("visual-line").forEach(e => {
+				while (e.firstChild){ e.firstChild.remove(); }
+			});
+			let visuals = Array.from(document.querySelectorAll("visual-line"));
+			visuals.forEach((line, i) => {
+				let parent = line.parentElement;
+				if (parent.tagName != "COMPARE") return; // Sanity check
+				
+				line.style.gridRowStart = parent.querySelectorAll("visual").length + 1;
+				line.style.gridRowEnd = (window.getComputedStyle(parent).gridTemplateRows.split(" ").length + 1);
+				
+				let visDots = Array.from(parent.querySelectorAll("[visual]"));
+				for (let dot of visDots) {
+					if (dot.offsetParent != parent) continue; // Sanity check
+					if (line.offsetParent != parent) continue; // Sanity check
+					let on = dot.getAttribute("on");
+					let off = dot.getAttribute("off");
+					if (!on && !off) continue; // Sanity check
+					on ??= ""; off ??= "";
+					
+					let dotLine = document.createElement("span");
+					dotLine.innerHTML = `<a>${on}</a><a>${off}</a>`;
+					dotLine.style.top = (dot.offsetTop - line.offsetTop) + "px";
+					dotLine.style.height = (dot.offsetHeight - 3) + "px"; // 3px is the border
+					dotLine.classList.add("color-"+dot.getAttribute("visual"));
+					if (dot.hasAttribute("on")) dotLine.classList.add("on");
+					if (dot.hasAttribute("off")) dotLine.classList.add("off");
+					line.appendChild(dotLine);
+				}
+			});
+		}
+		markVisuals();
+		window.addEventListener("resize", markVisuals);
+	</script>
+{% endif %}
 </body>
 </html>

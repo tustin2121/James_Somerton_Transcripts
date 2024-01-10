@@ -41,7 +41,23 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[Sponsor plug]
+
+Join us on Patreon to see videos up to six months early!  
+[link]
+
+Let's talk about happy gay media, and why some gay people really, really, hate it... and why they're justified.
+
+#heartstopper   #youngroyals   #redwhiteandroyalblue 
+
+{% include chapter-link at="00:00" for="Disclaimer" %}  
+{% include chapter-link at="00:38" for="Synopsis" %}  
+{% include chapter-link at="07:42" for="Chapter 1" slug="Chapter 1: Missionary Suppression" %}  
+{% include chapter-link at="15:37" for="Chapter 2" slug="Chapter 2: Cute and Caged" %}  
+{% include chapter-link at="20:32" for="Chapter 3" slug="Chapter 3: Straight Interrupted" %}  
+{% include chapter-link at="26:50" for="Chapter 4" slug="Chapter 4: Trauma and FOMO" %}  
+{% include chapter-link at="33:33" for="Chapter 5" slug="Chapter 5: Real Life and Fantasy" %}  
+{% include chapter-link at="38:30" for="Chapter 6" slug="Chapter 6: Inclusive Invisibility" %}  
 
 </credits>
 </compare>
@@ -49,7 +65,7 @@ cite:
 {% include transcript-start %}
 
 <compare>
-<james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
+<james meta {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
 <comment>
 {% include header for=tustin %}
 
@@ -267,7 +283,7 @@ Henry: *[shy]* He is.
 <compare>
 <james {% include timecode %}>
 
-And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
+And yeah it got heat, of the... not-so-great kind. Uh, we're talking about <mark fc=false>think pieces from places like The Huffington Post and the BBC</mark> getting their knickers in a Twist over the movie's "excessive sexiness".
 
 The twist? Some of these naysayers were gay men. It's a bit of a "the call is coming from inside of the house" moment when queer people themselves openly admit to being comfortable watching straight sex in movies, but are turned away by the sight of boys kissing. Especially due to how relatively tame *Red, White, and
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
@@ -289,7 +305,7 @@ Todd could not find anything but a negative review on the BBC, which just though
 <compare>
 <james {% include timecode %}>
 
-The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
+The bulk of criticism however was found on social media, <mark fc=false>where straight people seemed to be confused and shocked that gay men had sex at all.</mark> The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
 
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
@@ -332,7 +348,7 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 <compare>
 <james {% include timecode %}>
 
-However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
+However, they were *so* taken aback, <mark fc=false>that they criticized the film for having an *excessive* amount of sexual content</mark> which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
 <comment id="sex_backlash" {% include citation for=todd.video at="(18:35)" %}>

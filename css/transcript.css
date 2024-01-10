@@ -517,8 +517,10 @@
 	}
 	
 	compare :is(from, comment, clip, visual, credits) > header,
+	compare credits::before,
 	compare footer {
 		font-family: var(--def-font-families);
 		text-indent: initial;
+		letter-spacing: initial;
 	}
 }

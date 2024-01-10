@@ -7,6 +7,10 @@ aka: !!seq
   - "The Queer History of Hollywood (Thumbnail)"
 topics: !!seq
 links: !!seq
+  - "https://www.youtube.com/watch?v=MrXDLbiiMD8"
+  - "https://www.youtube.com/watch?v=17lkL9KwUOY"
+  - "https://archive.org/details/james-somerton-public-records/Hollywood's+Golden+Age+(of+Queer+Coding).mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230315+SdtbQhAKFSI+Hollywood's+Golden+Age+(of+Queer+Coding).webm"
 notes:
   - hbomb
 
