@@ -99,7 +99,7 @@ Now while queer creators are finally getting a chance to tell their own stories,
 <from></from>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 
 ## Vers One: Of Angles & Demons
 

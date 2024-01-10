@@ -62,7 +62,7 @@ await writeFile(OUTPUT_FILE, output.join('\n'));
 //-----------------------------------------------------------------------------
 
 function determineVolume(window, document) {
-	let nodes = Array.from(document.querySelectorAll("james")).map(n => {
+	let nodes = Array.from(document.querySelectorAll("james:not([meta])")).map(n => {
 		let total = n.textContent.split(" ").length;
 		let p = 0; //plagiarism
 		let m = 0; //misinformation

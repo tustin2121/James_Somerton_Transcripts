@@ -120,7 +120,7 @@ America can either confront the grim reality of late-stage McCarthyism its in or
 </comment>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 <!-- THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE 
 
 I’ve actually used Skill Share for years, and I’ve found it really helpful even with making these videos. One of the biggest things it's helped me with is using Adobe After Effects, which can be labyrinthian in its complexities. And which I use to create the opening titles for these videos. In particular the Create Motion Graphics Templates with After Effects course on Skillshare. It’s shorter than a Pixar movie and helped me learn to create some great dynamic opening sequences. With everyone changing careers or starting their own businesses, a site like Skill Share can be incredibly useful. From learning a new skill to help increase the quality of the work, like me, or learning how to do your own accounting, or even learning a whole new skillset without spending 4 more years in school to do it. My business partner, Nick, is taking a photography course on Skillshare right now. And right now Skillshare is offering one month free to allof my viewers that use the link in the description box, but only for the rest of April. But they’re running an even better offer! If you’re ready to start learning today with Skillshare, you can get 40% off your first year using my link! I’m going to leave both links down in the description so you can choose the best one for you. But either way you get started, Skill Share is a legitimately great resource. I can’t recommend it enough. So once you’ve finished this video, head on down to the description and start learning a new skill with Skillshare today.  -->

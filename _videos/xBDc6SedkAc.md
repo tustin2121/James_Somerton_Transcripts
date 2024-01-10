@@ -211,7 +211,7 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 </from>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
 ## Chapter 1: Missionary Suppression

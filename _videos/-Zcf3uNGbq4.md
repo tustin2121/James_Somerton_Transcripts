@@ -2,7 +2,7 @@
 date: 2023-02-15
 title: How Hollywood was Born Gay
 parent: pW_RjbZYi1s
-status: Finished
+status: Complete
 aka: !!seq
   - "The Birth of Gay Hollywood (Thumbnail)"
 topics: !!seq
@@ -13,7 +13,8 @@ topics: !!seq
   - Rocky Horror Picture Show
 links: !!seq
   - "https://www.youtube.com/watch?v=cXCfeN7idJo"
-description: "a video essay covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."
+  - "https://www.youtube.com/watch?v=SH3DkDmMTAk"
+description: "a video essay — I mean, a reading of Vito Russo's book — covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."
 notes:
   - hbomb
   - custom-start
@@ -21,8 +22,7 @@ notes:
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
-  citation: 
-    - $cite$lvence
+  citation-plus: $cite$lvence
 
 cite:
   clips: !!map
@@ -48,7 +48,7 @@ cite:
 {% include transcript-start %}
 
 <compare>
-<james {% include timecode %}>
+<james meta {% include timecode %}>
 
 This video is brought to you by ATLAS VPN. 
 
@@ -90,11 +90,11 @@ But *Wings* is actually not where our story begins. The history of Hollywood has
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james meta {% include timecode %}>
 
 But before we get too deep into this history, let me tell you about the sponsor of this video. 
 
-&gt; Sponser Read &lt;
+[Sponsor Read]
 <!--ATLAS VPN. Many of the films we’ll be talking about in this series may not actually be streamable in your country, but by using ATLAS VPN’s geolocation features you can unlock access to the wide history of queer cinema that doesn’t always make it to streaming services everywhere. ATLAS VPN also keeps your internet and google search history safe from prying eyes, so you can still look up and watch these films without certain, maybe unaccepting, members of your family finding out. And now is a great time to sign up because ATLAS VPN is currently offering a special, limited time offer where their premium service is just $1.83 per month + 3 months for free! All with a 30-day money-back guarantee. But be quick because it’s only a limited-time offer! Explore the history of queer cinema without restrictions and get many other benefits of Atlas VPN for this ridiculously low price. Check the link in the description for more information and to sign up today. -->
 
 </james>
@@ -133,10 +133,14 @@ James Somerton
 
 These stupid titles are impossible to read because the font is so thin, spaced out, miniscule, and white over yellow most of the time. If I had to suffer, so should you, muahahaha.
 
+![](../media/hollywood_title.jpg)
+
+Also, this is the only "movie" that Telos Pictures ever put its branding on.
+
 </comment>
 <credits {% include timecode %}>
 
-/[Over black]:
+\[Over black]:
 
 > Episode One
 >
@@ -386,8 +390,7 @@ Essentially giving free reign to wealthy, white, right-wing, Christian men to di
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p27" %}>
 
-Early efforts of the film colony to regulate itself proved clearly inadequate to moral and religious leaders. To complicate matters, there were inconsistencies as a result of local interpretations of the laws. Scores of films dealing with supposedly forbidden subject matter, including homosexuality, slipped through the censors' fingers. Comedies such as *The Soilers* were passed as harmless.
-Other films were clearly passed or rejected as concessions to certain attitudes and prejudices. <mark>One of the first instances of lesbians kissing onscreen was in a brief orgy scene in Cecil B. De Mille's *Manslaughter* (1922)</mark>. <mark>The vision of two passionate women locked in a forbidden embrace was used by De Mille to condemn the excesses</mark> he was busy <mark>portraying so graphically</mark>. <mark>In return for his judgment on the "crime," he was consistently allowed to paint a more explicit picture of evil, especially sexual sins, than was ordinarily permitted</mark>. <mark>This was particularly true when the evil transpired in a biblical city.</mark> <mark>Quoting scripture on their title cards, De Mille's films became moral lessons rather than exploitation.</mark> <mark>They also became box office</mark>.
+Early efforts of the film colony to regulate itself proved clearly inadequate to moral and religious leaders. To complicate matters, there were inconsistencies as a result of local interpretations of the laws. Scores of films dealing with supposedly forbidden subject matter, including homosexuality, slipped through the censors' fingers. Comedies such as *The Soilers* were passed as harmless. Other films were clearly passed or rejected as concessions to certain attitudes and prejudices. <mark>One of the first instances of lesbians kissing onscreen was in a brief orgy scene in Cecil B. De Mille's *Manslaughter* (1922)</mark>. <mark>The vision of two passionate women locked in a forbidden embrace was used by De Mille to condemn the excesses</mark> he was busy <mark>portraying so graphically</mark>. <mark>In return for his judgment on the "crime," he was consistently allowed to paint a more explicit picture of evil, especially sexual sins, than was ordinarily permitted</mark>. <mark>This was particularly true when the evil transpired in a biblical city.</mark> <mark>Quoting scripture on their title cards, De Mille's films became moral lessons rather than exploitation.</mark> <mark>They also became box office</mark>.
 
 <footer signed="{{ tustin.name }}">They became box office... What?! Box office what?! Vito, I think you forgot a very important there.</footer>
 
@@ -676,33 +679,25 @@ Probably the "gayest" film yet made by a major studio and an excellent spoof of 
 </from>
 <james {% include timecode %}>
 
-</james>
-<from></from>
-<james {% include timecode %}>
+<mark>As both a catalog, and a spoof of old monster movies and science fiction films</mark>, ‘The Rocky Horror Picture Show’ <mark>becomes almost dizzying in its references, but its most *expert* satire is of the age-old fear with which</mark> mainstream <mark>society encounters deviant sexuality.</mark> <mark>And is then followed through to the very end, when Frank N Furter is destroyed “for the good of society.”</mark>
 
-As both a catalog, and a spoof of old monster movies and science fiction films, ‘The Rocky Horror Picture Show’ becomes almost dizzying in its references, but its most *expert* satire is of the age-old fear with which mainstream society encounters deviant sexuality. And is then followed through to the very end, when Frank N Furter is destroyed “for the good of society.” 
+<mark>Nevertheless, he</mark> has one last chance in <mark>life to perform with the entire cast, an underwater ballet version of the film’s main message “Don’t dream it. Be it.”</mark> A <mark>song that becomes a message of hope for</mark> everyone who feels like they’re not quite who they’re supposed to be just yet. 
 
-Nevertheless, he has one last chance in life to perform with the entire cast, an underwater ballet version of the film’s main message “Don’t dream it. Be it.” A song that becomes a message of hope for everyone who feels like they’re not quite who they’re supposed to be just yet. 
+<mark>Tim Curry's performance, especially in his rendition of "Sweet Transvestite," is the essence of what every parent in America feared would happen if our sexual standards were relaxed. It becomes the living horror of making deviant sexuality visible and tangible in the only kind of setting in which it could possibly work, an old dark house populated by</mark> <span stat:id="sub-queer">every letter of the LGBTQ</span> alphabet soup, as they <mark>sing rock and roll to seduce the innocent youth of America.</mark> 
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-Tim Curry's performance, especially in his rendition of "Sweet Transvestite," is the essence of what every parent in America feared would happen if our sexual standards were relaxed. It becomes the living horror of making deviant sexuality visible and tangible in the only kind of setting in which it could possibly work, an old dark house populated by every letter of the LGBTQ alphabet soup, as they sing rock and roll to seduce the innocent youth of America. 
-
-Hollywood didn't know what to do with the *Rocky Horror Picture Show* then and probably wouldn't know what to do with it now. But despite its shabby treatment it has grossed *hundreds* of millions of dollars over the years and continues to play throughout the world to audiences made up of largely young people who attend screenings with bags of rice, stale toast, corsets, boas, and fishnets. 
+<mark>Hollywood didn't know what to do with *The Rocky Horror Picture Show*</mark> then and probably wouldn't know what to do with it now. <mark>But despite its shabby treatment it has grossed</mark> *hundreds* of millions of dollars over the years and <mark>continues to play throughout the</mark> world <mark>to audiences made up</mark> of largely <mark>young people who</mark> attend screenings with bags of rice, stale toast, corsets, boas, and fishnets. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p52-53" %}>
+
+<mark>As both catalogue and spoof of old monster movies and science fiction films</mark>, *Rocky Horror* <mark>becomes almost dizzying in its references, but its most expert satire is of the age-old fear with which</mark> straight <mark>society encounters deviant sexuality.</mark> This is established at the beginning of the film (Janet says, "Brad, there's something unhealthy about this place") <mark>and is followed through to the very end, when Frank N Furter is destroyed "for the good of society."</mark> having been carried by Rocky, in the manner of King Kong, to the top of the RKO-Radio Pictures tower. <mark>Nevertheless he</mark> returns to <mark>life to perform, with the entire cast, an underwater ballet version of the film's message, "Don't Just Dream It, Be It,"</mark> and the <mark>song becomes an anthem of hope for</mark> an androgy&shy;nous world. <mark>Tim Curry's performance, especially in his rendition of "Sweet Transvestite," is the essence of what every parent in America fears will happen if our sexual standards are relaxed. It becomes the living horror of making deviant sexuality visible and tangible in the only kind of setting in which it could possibly work, an old dark house populated by</mark> lesbians, transvestites, acid freaks and goons who <mark>sing rock and roll as they seduce the innocent youth of America.</mark> <mark>Hollywood didn't know what to do with *The Rocky Horror Picture Show*</mark> when it had been completed, <mark>but despite its shabby treatment, it has grossed</mark> a fortune as a popular cult film, and it <mark>continues to play through out the</mark> country <mark>to audiences made up</mark> largely of <mark>young people who</mark> dress for the showings like the characters in the film.
+
+</from>
 <james {% include timecode %}>
 
 *Rocky Horror* was shining a spotlight on the *dimly* lit representation of queer monsters in the 1930s golden age of Hollywood. Giving them one last hurrah as a posthumous victory against the Hayes code, which collapsed *entirely* just a few years before its release. 
 
 But back in the 1930s, filmmakers still had to be clever about coding the characters, specifically to make it past the censors. 
-
-</james>
-<from></from>
-<james {% include timecode %}>
 
 General American audiences though could easily see through the coding. However, it wasn’t long before the easily read coding... was forced to become almost, if not completely illegible. 
 
@@ -711,14 +706,14 @@ General American audiences though could easily see through the coding. However, 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james meta {% include timecode %}>
 
 \[Patron credits start rolling as James talks in a small screen at the bottom.]
 
 Thank you for watching this video, which is actually the first of eight videos I’ll be releasing over the next few months exploring the history of queer representation in Hollywood. If you’d like to see more historical videos like this, as well as my usual video essays, podcasts, behind the scenes videos, and a whole lot more, please consider joining my Patreon, linked in the description. YouTube does have a habit of hiding queer content, especially educational queer content, so it’s only because of my patrons that I can do videos like this. And for as little as a dollar a month you can join this surprisingly awesome community that keeps this channel going. Okay, Now that I’ve awkwardly promoted my Patreon, I’ll let the credits roll and I’ll see you soon for "Unrequited Episode 2: The Invisible Men".
 
 </james>
-<credits {% include timecode %} class="ending">
+<credits {% include timecode %} class="closing">
 
 \[Patreon credits continue to roll]
 

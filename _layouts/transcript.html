@@ -67,23 +67,28 @@
 				
 				{% if page.contributors %} 
 					<p>
-					{% if page.contributors.transcription and page.contributors.downloaded %}
+					{%- if page.contributors.transcription and page.contributors.downloaded -%}
 						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
 						Transcript downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
-					{% elsif page.contributors.transcription %}
+					{%- elsif page.contributors.transcription -%}
 						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
-					{% elsif page.contributors.downloaded %}
+					{%- elsif page.contributors.downloaded -%}
 						Auto-transcribed by YouTube, downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
-					{% endif %}
-					{% if page.contributors.formatting %}
+					{%- endif -%}
+					{%- if page.contributors.formatting -%}
 						Formatted by {% include name-list name=page.contributors.formatting -%}.<br/>
-					{% endif %}
-					{% if page.contributors.factcheck %}
+					{%- endif -%}
+					{%- if page.contributors.factcheck -%}
 						Fact-checked by {% include name-list name=page.contributors.factcheck -%}.<br/>
-					{% endif %}
-					{% if page.contributors.citation %}
-						Special thanks to {% include name-list name=page.contributors.citation %} for finding the original sources.<br/>
-					{% endif %}
+					{%- endif -%}
+					{%- if page.contributors.citation-plus -%}
+						Thanks to {% include name-list name=page.contributors.citation-plus %} for tracking down and highlighting the sources.<br/>
+					{%- elsif page.contributors.citation -%}
+						Thanks to {% include name-list name=page.contributors.citation %} for finding the sources.<br/>
+					{%- endif -%}
+					{%- if page.contributors.thanks -%}
+						Special thanks to {% include name-list name=page.contributors.thanks %}.<br/>
+					{%- endif -%}
 					</p>
 				{% endif %}
 				
