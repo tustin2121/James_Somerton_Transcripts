@@ -626,22 +626,30 @@ And Aldrich, who WAS a company director, if not an incredibly good one, would ha
 <compare>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">Frankenstein’s monster was the creation that would eventually destroy its creator </span>just as Whale’s own ‘aberration’ would eventually destroy his career. <span visual=none on="?" off="?">The monster in ‘Frankenstein’ bears the brunt of society's reaction to his existence, and in the sequel, the bride of Frankenstein, the monster himself is *painfully* aware of his own... unnaturalness. </span>
+<mark><span visual=none on="?" off="?">Frankenstein’s monster was the creation that would eventually destroy its creator </span>just as Whale’s own ‘aberration’ would eventually destroy his career.</mark> <span visual=none on="?" off="?"><mark>The monster in ‘Frankenstein’ bears the brunt of society's reaction to his existence, and in the sequel, *The Bride of Frankenstein*, the monster himself is *painfully* aware of his own... unnaturalness.</mark> </span>
 
-In ‘Frankenstein,’ it is the monster who limits Henry Frankenstein's contact with the normal world. The old Baron, Frankenstein's father, continually begs his son to "leave <del>this</del><ins>the</ins> madness," to come home, and marry the young Elizabeth. Finally the father, Elizabeth and Henry's best friend go to the lab and *force* him, for his own good, to leave his creation behind… to be free from his "obsession". To be normal. 
+<mark>In ‘Frankenstein,’ it is the monster who limits Henry Frankenstein's contact with the normal world. The old Baron, Frankenstein's father, continually begs his son to "leave <del>this</del><ins>the</ins> madness," to come home, and marry the young Elizabeth. Finally the father, Elizabeth and Henry's best friend go to the lab and *force* him, for his own good, to leave his creation</mark> behind… <mark>to be free from his "obsession".</mark> To be normal. 
 
-Later the monster fulfills Mary Shelley's initial prophecy by joining his creator on his wedding night, <del>carrying off Elizabeth,</del> and thereby preventing the consummation of the heterosexual marriage. The monster is then hunted by the townspeople. 
+<mark>Later the monster fulfills Mary Shelley's initial prophecy by joining his creator on his wedding night, <del>carrying off Elizabeth,</del> and thereby preventing the consummation of the</mark> heterosexual <mark>marriage. The monster is then hunted by the townspeople</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p50-51" %}>
+
+Whale's <mark>Frankenstein monster was the creation that would eventually destroy its creator, just as Whale's own "aberration" would eventually destroy his career.</mark> <mark>The monster in Frankenstein bears the brunt of society's reaction to his existence, and in the sequel, *The Bride of Frankenstein*, the monster himself is painfully aware of his own unnaturalness.</mark> In a graveyard scene, character actor Emest Thesiger, a friend of Whale and a man who played the effete sissy with as much verve and wit as Franklin Pangborn or Grady Sutton, listens as the monster confesses his knowledge of his own creation. <mark>In *Frankenstein*, it is the monster who limits Henry Frankenstein's contact with the normal world. The old baron, Frankenstein's father, continually beseeches his son to "leave this madness," to come home and marry the young Elizabeth. Finally, the father, Elizabeth and Henry's best friend go to the castle and force him, for his health and sanity, to leave his creation</mark>, <mark>to be free from his "obsession."</mark> <mark>Later the monster fulfills Mary Shelley's prophecy by joining his creator on his wedding night, carrying off Elizabeth and thereby preventing the consummation of the</mark> impending <mark>marriage. The monster is then hunted by the townspeople</mark> in the same way that groups of men in silent comedies had once run effeminate men off piers and out of town. Their outrage echoes again and again in film. "What is this creature? I abhor it!"
+
+</from>
 <james {% include timecode %}>
 
-In ‘The Bride of Frankenstein,’ it is the odd, sissified Dr. Praetorius who comes to entice Henry Frankenstein from his bridal bed in the middle of the night. Praetorius too has created life, and Henry's curiosity again overcomes his "good" instincts and proves his downfall. Praetorius proclaims himself to be in love with evil and professes to detest goodness. 
+<mark>In ‘The Bride of Frankenstein,’ it is the odd, sissified Dr. Praetorius</mark> <mark>who comes to entice Henry Frankenstein from his bridal bed in the middle of the night. Praetorius too has created life, and Henry's curiosity again overcomes his "good" instincts and proves his downfall. Praetorius proclaims himself to be in love with evil and professes to detest goodness.</mark> 
 
-No accident, then, that the monster, seeing the unnaturalness and folly of his own existence, takes the evil Praetorius with him when he pulls the lever to destroy himself and his bride, crying out to the young heterosexual couple of Henry and Elizabeth: 
+<mark>No accident, then, that the monster, seeing the unnaturalness and folly of his own existence, takes the evil Praetorius with him when he pulls the lever to destroy himself and his bride, crying out to</mark> the young heterosexual couple of Henry and Elizabeth: 
 
 </james>
-<from></from>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="p51" %}>
+
+<mark>In *The Bride of Frankenstein*, it is the odd, sissified Dr. Praetorius</mark> (Ernest Thesiger) <mark>who comes to entice Henry Frankenstein from his bridal bed in the middle of the night. Praetorius too has created life, and Henry's curiosity again overcomes his "good" instincts and proves his downfall. Praetorius pro&shy;claims himself to be in love with evil and professes to detest goodness.</mark> <mark>No accident, then, that the monster, seeing the unnaturalness and folly of his own existence, takes the evil Praetorius with him when he pulls the lever to destroy himself and his bride, crying out to</mark> Henry and Elizabeth, "Go! You live. We belong dead."
+
+</from>
 <clip {% include citation for=page.cite.clips.bride_frankenstien %}>
 
 Monster: "Go! You live. Go!" (turns to Praetorius) "You stay. We belong dead!"
@@ -652,17 +660,21 @@ Monster: "Go! You live. Go!" (turns to Praetorius) "You stay. We belong dead!"
 <compare>
 <james {% include timecode %}>
 
-In later decades, the queerness of the Frankenstein story would reach its logical camp conclusion with ‘The Rocky Horror Picture Show.’ A cult-classic rock-musical that Twentieth Century-Fox never gave a proper wide release in the United States. And it’s unlikely that, now that they own it, Disney will either. 
+In later decades, the queerness of the Frankenstein story would reach its logical camp conclusion with <mark>‘The Rocky Horror Picture Show.’ A cult-classic rock-musical that Twentieth Century-Fox never gave a proper wide release in the United States.</mark> And it’s unlikely that, now that they own it, Disney will either. 
 
-Since 1976, the film has been playing midnight shows in cities throughout the country. A truly subversive film on the subjects of sexuality, movies, sex roles, and the queer-as-monster, Rocky Horror features two innocent, presumed straight protagonists (Brad and Janet) who have car troubles not far from a dubious <del>mansion</del><ins>manor</ins>. 
+<mark>Since 1976, the film has been playing midnight shows in cities throughout the country. A truly subversive film on the subjects of sexuality, movies, sex roles, and the <span stat:id="sub-queer">queer</span>-as-monster, *Rocky Horror* features two innocent</mark>, presumed straight protagonists (Brad and Janet) who have car troubles <mark>not far from a dubious</mark> <del>mansion</del><ins>manor</ins>. 
+
+This foreboding <del>manor</del><ins>mansion</ins> is the residence of one <mark>Dr. Frank N Furter</mark>, <mark>the apotheosis of deviant sexuality, who introduces himself</mark> as “<mark>a Sweet Transvestite from Transsexual, Transylvania." Frank N Furter is an androgynous alien from outer space</mark>. <mark>When the timid straight couple arrive, he is in the process of showing off his latest creation, a hunky blond named Rocky, who is straight off the slab and wears nothing but tight gold trunks.</mark> 
+
+<mark>Pointing to Rocky, Frank N Furter sings a lusty "In Just Seven Days, I Can Make You a Man," then proceeds to introduce Brad and Janet to</mark>... well, his penis. Possible penis. We can’t know for certain. He is an alien, after all. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p52" %}>
+
+Probably the "gayest" film yet made by a major studio and an excellent spoof of gay/horror conventions is <mark>*The Rocky Horror Picture Show*, a cult rock musical that Twentieth Century Fox has never given a proper release in the United States.</mark> <mark>Since 1976 the film has been playing midnight shows in cities throughout the country. A truly subversive and anarchistic film on the subjects of sexuality, movies, sex roles and the homosexual as monster, *Rocky Horror* features two innocents</mark> (Susan Sarandon and Barry Bostwick) whose car runs out of gas <mark>not far from a haunted</mark> mansion that appears to be a parody of the creepy mansion in James Whale's *The Old Dark House*. In it they discover <mark>Dr. Frank N Furter</mark> (Tim Curry), <mark>the apotheosis of deviant sexual&shy;ity, who introduces himself</mark> by singing a sizzling "I'm <mark>a Sweet Transvestite from Transsexual, Transylvania." Frank N Furter is an androgyne who comes from outer space</mark>, from a galaxy called Transsexual and a planet called Transul&shy;vania. <mark>When the timid couple arrive, he is in the process of showing off his latest creation, a hunky blond named Rocky, who is straight off the slab and wears nothing but tight gold lame trunks.</mark> <mark>Pointing to Rocky, Frank N Furter sings a lusty "In Just Seven Days, I Can Make You a Man," then proceeds to introduce Brad and Janet to</mark> the joys of the unmentionable.
+
+</from>
 <james {% include timecode %}>
-
-This foreboding <del>manor</del><ins>mansion</ins> is the residence of one Dr. Frank N Furter, the apotheosis of deviant sexuality, who introduces himself as “a Sweet Transvestite from Transsexual, Transylvania." Frank N Furter is an androgynous alien from outer space. When the timid straight couple arrive, he is in the process of showing off his latest creation, a hunky blond named Rocky, who is straight off the slab and wears nothing but tight gold trunks. 
-
-Pointing to Rocky, Frank N Furter sings a lusty "In Just Seven Days, I Can Make You a Man," then proceeds to introduce Brad and Janet to... well, his penis. Possible penis. We can’t know for certain. He is an alien, after all. 
 
 </james>
 <from></from>
