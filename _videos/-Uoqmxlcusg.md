@@ -188,7 +188,7 @@ Enokido characterized the production of Utena as marked by "an agreeable sense o
 
 Since then, *Revolutionary Girl Utena* has garnered a chorus of <mark>praise, both at home in Japan and across the international stage.</mark> For all that *Sailor Moon* takes the lion's share of public discussion, Utena's influence can be felt in the development of anime to this very day.
 
-In 1997, the series won the coveted <mark>Animation Kobe award for the "Best Television" category</mark>. And as the years rolled on, <mark>in 2017, NHK</mark> (the network behind Utena) <mark>conducted a national poll to determine the one hundred greatest anime in commemoration of the 100th anniversary of the medium, in which Utena placed 19th.</mark>
+In 1997, the series won the coveted <mark>Animation Kobe award for the "Best Television" category</mark>. And as the years rolled on, <mark>in 2017, NHK</mark> (the network behind Utena) <mark>conducted a national poll to determine the one hundred greatest anime in commemoration of the 100th anniversary of the medium, in which Utena placed <span stat:id="changed-number">19th</span>.</mark>
 
 Utena has graced multiple "best of" lists with his presence, <mark>*Anime Insider* hailed it as one of the top 10 best anime ever</mark>. <mark>Writer Mike Toole, in his review, declared the series to be "the most important anime of the 90s".</mark>
 

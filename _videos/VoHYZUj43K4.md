@@ -679,7 +679,7 @@ The fascist and anti-semitic elements in *Attack on Titan* <mark>shouldn't be co
 
 Some media commentators even admitted to not watching *Attack on Titan* because they were <mark>afraid of the backlash they would receive for discussing the show's political undertones</mark>. YouTuber Geoff Thew argues:
 
-> <mark>"It's because this</mark> discussion <mark>keeps happening, but it's also not.</mark> <mark>There's some really good criticism of Attack on Titan, and I think it's important to criticise it, but a lot of people come at it strong and condemn it.</mark>
+> <mark>"It's because this</mark> <span stat:id="changed-quote">discussion</span> <mark>keeps happening, but it's also not.</mark> <mark>There's some really good criticism of Attack on Titan, and I think it's important to criticise it, but a lot of people come at it strong and condemn it.</mark>
 >
 > <mark>That does as much to kill the conversation as people being like, 'shut the hell up about politics,' because it reinforces the argument that people are just trying to cancel this good show that you like</mark>."
 

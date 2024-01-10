@@ -30,6 +30,9 @@ cite:
     bride_frankenstien: { short: "bride_frankenstien", full: "TODO bride_frankenstien" }
   yikes: !!map
   misinformation: !!map
+    meanings:
+      _desc_: "James has a habit of changing the meaning of what he's copying, such as"
+      inverted: "Vito's use of the word \"always\""
   plagiarized: !!map
     sophie_cleghorn: { color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62" }
     celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
@@ -181,7 +184,7 @@ The age of sexual enlightenment that flourished in prewar Berlin spawned the fir
 > 
 > <mark>These homosexual men and women who are attracted to persons of their own sex, are often regarded as wicked criminals and libertines. But scientific research has determined that homosexuality is an inborn tendency for which the individual cannot be held responsible</mark>; that in Germany as well as in many other countries, every thirtieth person has homosexual tendencies; that <mark>there are homosexuals in every class, among the educated and among the uneducated, and in the highest and lowest sectors of</mark> our <mark>population, in the great cities and the small towns, among the strict moralists and among the most easygoing; that love for one's own sex can be just as pure and noble as love for the opposite sex, the only difference being the object of desire, not the nature of one's love.</mark>
 
-<footer>Quote seems to continue for another page, though with the way the book formats block quotes, it's hard to tell the difference between quote and normal text.</footer>
+<footer signed="{{ tustin.name }}">Quote seems to continue for another page, though with the way the book formats block quotes, it's hard to tell the difference between quote and normal text.</footer>
 </from>
 <james {% include timecode %}>
 
@@ -347,7 +350,7 @@ However, <mark>this was precisely the kind of event that the censors were</mark>
 
 The <mark num=2>United States Supreme Court ruled</mark> <mark num=2>in 1915</mark>: 
 
-> “<mark>The exhibition of motion pictures is</mark> <mark>business, pure and simple</mark> and is <mark>conducted for-profit, like other spectacles not to be regarded or intended to be regarded</mark> <mark>as a part of the presence of the nation or the organs of public opinion</mark>." 
+> “<mark>The exhibition of motion pictures is</mark> <mark>business, pure and simple</mark> and is <mark stat:id="changed-quote">conducted for-profit, like other spectacles not to be regarded or intended to be regarded</mark> <mark>as a part of the presence of the nation or the organs of public opinion</mark>." 
 
 This decision <mark>meant that movies were not protected by the First Amendment guarantee of free speech.</mark> Due to this ruling, harsh censorship legislation was eventually enacted in the states of <mark num=7>New York, Florida, Massachusetts, Maryland, and Virginia</mark> within a <ins>just</ins> <mark num=8>few years following this judgment</mark>. 
 
@@ -365,169 +368,259 @@ The gold standard in the United States was in <mark>the New York</mark> statute 
 </from>
 <james {% include timecode %}>
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
 Essentially giving free reign to wealthy, white, right-wing, Christian men to dictate what could and could not be in any given film released in these states. 
 
-<span visual=none on="?" off="?">One of the first instances of lesbians kissing on screen was in a brief orgy scene in Cecil B DeMille's ‘Manslaughter’ in 1922.</span> The vision of two passionate women locked in a forbidden embrace, was used by DeMille to *condemn* the excesses of sex <span visual=none on="?" off="?">that he was portraying so graphically, and excessively.</span> 
-
 </james>
 <from></from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">In return for his judgment <del>of</del><ins>on</ins> the ‘crime’ he was consistently allowed to paint a more explicit picture of evil, especially sexual sins, then was ordinarily permitted by Hollywood censors. Showing things like sex, homosexuality, interracial relationships, and other such things was *fine*, as long the participants were punished.</span> This was particularly true when the retribution transpired in a biblical city. 
+<span visual=none on="?" off="?"><mark>One of the first instances of lesbians kissing on screen was in a brief orgy scene in Cecil B DeMille's ‘Manslaughter’ in 1922</mark>.</span> <mark>The vision of two passionate women locked in a forbidden embrace, was used by DeMille to *condemn* the excesses</mark> of sex <span visual=none on="?" off="?">that he was <mark>portraying so graphically</mark>, and excessively.</span> 
 
-<span visual=none on="?" off="?">Quoting Scripture on their title cards, DeMille films became moral lessons, rather than exploitation. Or so was said.</span> <span visual=none on="?" off="?">They also became box office extravaganzas.</span> Which… leads me to wonder just how far back the connection between these *distinctly* American sets of pop-Christianity neo-puritanical values and American entertainment really goes. 
+<span visual=none on="?" off="?"><mark>In return for his judgment <del>of</del><ins>on</ins> the ‘crime’ he was consistently allowed to paint a more explicit picture of evil, especially sexual sins, then was ordinarily permitted</mark> by Hollywood censors. Showing things like sex, homosexuality, interracial relationships, and other such things was *fine*, as long the participants were punished.</span> <mark>This was particularly true when the retribution transpired in a biblical city.</mark> 
+
+<span visual=none on="?" off="?"><mark>Quoting Scripture on their title cards, DeMille films became moral lessons, rather than exploitation.</mark> Or so was said.</span> <span visual=none on="?" off="?"><mark>They also became box office</mark> extravaganzas.</span> Which… leads me to wonder just how far back the connection between these *distinctly* American sets of pop-Christianity neo-puritanical values and American entertainment really goes. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p27" %}>
+
+Early efforts of the film colony to regulate itself proved clearly inadequate to moral and religious leaders. To complicate matters, there were inconsistencies as a result of local interpretations of the laws. Scores of films dealing with supposedly forbidden subject matter, including homosexuality, slipped through the censors' fingers. Comedies such as *The Soilers* were passed as harmless.
+Other films were clearly passed or rejected as concessions to certain attitudes and prejudices. <mark>One of the first instances of lesbians kissing onscreen was in a brief orgy scene in Cecil B. De Mille's *Manslaughter* (1922)</mark>. <mark>The vision of two passionate women locked in a forbidden embrace was used by De Mille to condemn the excesses</mark> he was busy <mark>portraying so graphically</mark>. <mark>In return for his judgment on the "crime," he was consistently allowed to paint a more explicit picture of evil, especially sexual sins, than was ordinarily permitted</mark>. <mark>This was particularly true when the evil transpired in a biblical city.</mark> <mark>Quoting scripture on their title cards, De Mille's films became moral lessons rather than exploitation.</mark> <mark>They also became box office</mark>.
+
+<footer signed="{{ tustin.name }}">They became box office... What?! Box office what?! Vito, I think you forgot a very important there.</footer>
+
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">By 1922 there were censorship bills before the legislatures of 32 states,</span> and throughout the nation the distinct rank of moral indignation was wafting its way toward an industry that at times seemed to embody <span visual=none on="?" off="?">wicked behavior of all <del>sorts</del><ins>kinds</ins>.</span> 
+<mark><span visual=none on="?" off="?">By 1922 there were censorship bills before the legislatures of 32 states,</span> and throughout the nation the distinct rank of moral indignation was wafting its way toward an industry that at times seemed to embody <span visual=none on="?" off="?">wicked behavior of all <del>sorts</del><ins>kinds</ins>.</span></mark>
 
-<span visual=none on="?" off="?">The censors were *horrified* by *‘Salome,’* a 1923 film with a reportedly *all* queer cast made in tribute to Oscar Wilde. Forcing several sequences to be cut all together, including one showing the gay relationship between two Syrian soldiers.</span> The handwritten report of the examining censor in New York concluded: 
+<span visual=none on="?" off="?"><mark>The censors were *horrified* by *‘Salome,’*</mark> a 1923 film with a reportedly *all* queer cast made in tribute to Oscar Wilde. <mark>Forcing several sequences to be cut all together, including one showing the gay relationship between two Syrian soldiers.</mark></span> <mark>The handwritten report of the examining censor in New York</mark> <mark>concluded:</mark> 
 
-> "This picture is in no way religious in theme or interpretation. In my judgment, it is a story of depravity and immorality made worse because of its biblical background. 
+> <mark>"This picture is in no way religious in theme or interpretation. In my judgment, it is a story of depravity and immorality made worse because of its biblical background.</mark> 
 >
-> Absolutely sacrilegious.” 
+> <span stat:id="changed-quote">Absolutely</span> <mark>sacrilegious.</mark>” 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p27-29" %}>
+
+<mark>By 1922 there were censorship bills before the legislatures of thirty-two states, and throughout the nation the distinct odor of moral indignation was rising at an industry that at times seemed to embody wicked behavior of all sorts.</mark> <mark>The censors were horrified by *Salome*</mark> and <mark>ordered the elimination of several sequences, including one that made clear a homosexual relationship between two Syrian soldiers.</mark> <mark>The handwritten report of the examining censor in New York</mark>, filled out at a screening in 1923, <mark>concluded:</mark> <mark>"This picture is in no way religious in theme or interpretation. In my judgment, it is a story of depravity and immorality made worse because of its biblical background.</mark> <mark>Sacrilegious.</mark>"
+
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">American censors became even more potent in the late 1920s and early 30s. The inclusion of audio into what were briefly dubbed as ‘talkies’ brought a new element of realism to the screen,</span> <span visual=none on="?" off="?">and public morality watch dogs began to bear down on the industry.</span> 
+<span visual=none on="?" off="?">American <mark>censors</mark> became even more potent <mark>in the late 1920s and early 30s.</mark> <mark>The inclusion of audio</mark> into what were briefly dubbed as ‘talkies’ <mark>brought a new element of realism to the screen,</mark></span> <span visual=none on="?" off="?"><mark>and public morality watch dogs began to bear down on the industry</mark>.</span> 
 
-But while censorship laws were becoming more specific, their outlook on *gay* representation was kept vaguely broad. <span visual=none on="?" off="?">You didn’t need two men or women kissing to get banned.</span> Cross dressing, weakness or softness in male characters, and even *overly intellectual* male characters were enough to draw the ire of censors. 
+<mark>But while censorship laws were becoming more specific</mark>, their outlook on *gay* representation was kept vaguely broad. <span visual=none on="?" off="?">You didn’t need two men or women kissing to get banned.</span> <mark>Cross dressing, weakness</mark> or softness in male characters, and even <mark>*overly intellectual*</mark> male characters were enough to draw the ire of censors. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p30" %}>
+
+The <mark>censors</mark> <mark>in the late Twenties and early Thirties</mark> were not interested in what was or was not fabulous. They were under pressure from all quarters. In 1926 a Photoplay magazine film critic decried the use of "disgusting perverts" in Rex Ingram's Mare Nostrum, which featured a vaguely lesbian spy. <mark>The arrival of sound</mark> <mark>brought a new element of realism to the screen,</mark> <mark>and the watchdogs of the public morality began to bear down on the industry</mark>. <mark>But while censorship laws were becoming more specific</mark> and explicit homosexuality remained a forbidden subject in every statute, it was clear that cross dressing, weakness in men and <mark>over&shy;intellect&shy;ualism</mark> were sometimes direct statements about deviant sexuality. And whether expressed directly or not, the classic definition of homosexual men as frivolous, asexual sissies was firmly established during the last of the pre-Code years.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">Will Hayes was appointed president of the Motion Picture Producers and Distributors of America — or MPPDA — in the late 1920s. Hayes served as both an elder in the Presbyterian church and as a former Postmaster General of the United States. That was the extent of his qualifications.</span> 
+<span visual=none on="?" off="?"><mark num=1>Will Hayes</mark> was <mark num=2>appointed president of the Motion Picture Producers and Distributors of America</mark> — or MPPDA — <mark num=3>in the late 1920s</mark>. Hayes served as both an <mark num=4>elder in the Presbyterian church</mark> and as a <mark num=5>former Postmaster General of the United States</mark>. That was the extent of his qualifications.</span> 
 
-The organization was established primarily with the goals of fostering positive public relations for the studios and shielding the business from the potential for more restrictions from the outside world, <span visual=none on="?" off="?">which they mostly achieved in 1930 when the motion picture production code, which served as the basis for the industry's self-regulation and censorship, was actually written.</span> 
+The <mark num=6>organization was established primarily</mark> with the goals of <mark num=7>fostering positive public relations for the studios</mark> and <mark num=8>shielding the business</mark> from the potential for more <mark>restrictions from the outside world</mark>, <span visual=none on="?" off="?">which they mostly <mark>achieved in 1930 when the motion picture production code</mark>, which served as the basis for the <mark>industry's self-regulation</mark> and censorship, was actually written.</span> 
+
+When <mark num=12>the code was strengthened in 1934</mark> <mark num=13>under *intense* pressure from the Catholic Church</mark>, <mark>even gently alluded gay characters</mark> began to disappear. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p31" %}>
+
+<mark num=3>In the late 1920s</mark> <mark num=1>Will Hays</mark>, a <mark num=5>former postmaster general of the United States</mark> and a <mark num=4>Hoosier Presbyterian elder</mark>, had been <mark num=2>drafted to head the Motion Picture Producers and Distributors of America</mark>, an <mark num=6>organization formed mainly</mark> to provide <mark num=7>favorable public relations for the studios</mark> and to <mark num=8>protect the industry</mark> from the <mark>threat of outside censorship</mark>. The latter goal was <mark>achieved in 1930 with the creation of the Motion Picture Production Code</mark>, by which the <mark>industry regulated itself</mark>. The Code survived under different names until the late Sixties, often taking the name of its current administrator. Thus, at various times it was called the Johnston Office, the Hays Office and the Breen Office. When, <mark num=13>under tremendous pressure from the Catholic Church</mark> and other civic and religious groups, <mark num=12>the Code was strengthened in 1934</mark>, <mark>borderline gay characters</mark> fell into well-worn innuendo and reliable sissy credentials, but said the same things.
+
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">When the code was strengthened in 1934 under *intense* pressure from the Catholic Church,</span> even gently alluded gay characters began to disappear. <span visual=none on="?" off="?">The image of the film business as being harsh and manly, with no tolerance for foolishness,</span> <span visual=none on="?" off="?">was in continual conflict with the industry's reputation for being effeminate.</span> <span visual=none on="?" off="?">The censors used the ‘sissy’ archetype to target on-screen characters, using it as a thinly-veiled scapegoat to put pressure on a relatively *progressive* media industry which had been a safe haven for queer creators of all types up to then.</span> 
+The <mark>image of the film business</mark> as being harsh and manly, with no tolerance for foolishness, <mark>was in continual conflict with the industry's reputation for being effeminate</mark>. The censors <mark>used the ‘sissy’ archetype</mark> to target on-screen characters, using it as a thinly-veiled <mark>scapegoat</mark> to put pressure on a relatively *progressive* media industry which had been a safe haven for queer creators of all types up to then. 
 
-But filmmakers knew how to skirt the censors in many cases. The fact that most early movie ‘sissies’ were only gay if one chose to see them as being gay was simply a reflection of the fact that the existence of queer people in society was acknowledged only when society chose to do so. Instead of being overtly queer — characters like, say, the femme cowboy from *The Soilers*,were viewed as symbols for ‘failed’ masculinity, rather than actual homosexuals. And so they were allowed to stick around. 
+But filmmakers knew how to skirt the censors in many cases. <mark>The fact that most early movie ‘sissies’ were only gay if one chose to see them as being gay was simply a reflection of the fact that the existence of <span stat:id="sub-queer">queer</span> people in society was acknowledged only when society chose to do so.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p32" %}>
+
+The rough, no nonsense masculine <mark>image of the film business</mark> <mark>was constantly at odds with its reputation for feyness</mark>, just as was journalism. <mark>The sissy was used</mark> onscreen and off, as both <mark>scapegoat</mark> and weapon, to expose a mistrust of brightness or wit in men who were not also pushy or aggressive. In his book *See No Evil*, censor Jack Vizzard recalls an informal chat with Columbia Pictures head Harry Cohn at which several other Hays Office representatives were present. Cohn was describing how he had planned to have his current big star, Grace Moore, sing "La Marseillaise" at the fall of the Bastille in her new film, and censor Geoffrey Shurlock interrupted with, "You can't do it, Harry. The Marseillaise wasn't written until three years after the fall of the Bastille."
+
+"Who cares?" Cohn shouted. "Who would know a thing like that but a queer like you, anyway?"
+
+Onscreen this kind of hostility was stated hardly more delicately, but since homosexuality did not officially exist, the thrust of such basically homophobic sentiment was directed elsewhere. Symbols of masculinity were defended by the use of sumbols for homosexuality. <mark>The fact that most early movie sissies were homosexual only if one chose to see them as being homosexual was simply a reflection of the fact that the existence of homosexuals in society was acknowledged only when society chose to do so.</mark> Although the presence of sissies in the Thirties and Forties did not imply that homosexuality in fact existed, it implied that homosexuals could exist if things were topsy-turvy, and it provided a subtextual reminder that the basic illusion of America was pretty shabby. Sissies were an outlet for unspeakable ideas.
+
+</from>
+<james span=2 {% include timecode %}>
+
+Instead of being overtly queer — characters like, say, the femme cowboy from *The Soilers*, were viewed as <mark>symbols for ‘failed’ masculinity</mark>, rather than <mark>actual homosexuals</mark>. And so they were allowed to stick around. 
+
+<mark>Most ‘sissies’ during the reign of the code were not</mark> necessarily <mark>demeaned, nor were they used in cruel or offensive ways. It was not the sissy, but what he *stood for* that was offensive.</mark> <span visual=none on="?" off="?"><mark>Some actors created memorable galleries of gossipy snoops</mark> and <mark>snippy shopkeepers, who were often a little on the innocent side</mark>. <mark fc=false>But not always.</mark></span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p33" %}>
+
+Because they were only <mark>symbols for failed masculinity</mark> and therefore did not represent the threat of <mark>actual homosexuals</mark>, <mark>most sissies during the reign of the Code were not</mark> <mark>demeaned, nor were they used in cruel or offensive ways. It was not the sissy but what he stood for that was offensive.</mark> <mark>Some actors created memorable galleries of gossipy snoops</mark>, harried professors and <mark>snippy shopkeepers who were always a little on the innocent side</mark>, even in malice. To say that Franklin Pangbor played a sissy in the Thirties would be like saying that Michael Dunn played a dwarf in Ship of Fools. An inventive satirist with expert timing, Pangborn seized on his brief screen moments and made them shine. An indication of his coming glory can be seen in D. W.
+
+</from>
+<comment id="inverted">
+{% include header for=tustin %}
+
+James literally inverted Vito's meaning. Vito says "always", and James says "but not always".
+
+</comment>
 <james {% include timecode %}>
 
-Most ‘sissies’ during the reign of the code were not necessarily demeaned, nor were they used in cruel or offensive ways. It was not the sissy, but what he *stood for* that was offensive. <span visual=none on="?" off="?">Some actors created memorable galleries of gossipy snoops and snippy shopkeepers, who were often a little on the innocent side. But not always.</span>
+Gays were also associated with dangerous revolutionaries hiding beneath the surface of normal society. <span visual=none on="?" off="?"><mark>The ghetto was one otherworld in which</mark> gay characters might frequently be seen <mark>on-screen *before* and *after* the reign of the Motion Picture Production Code.</mark> <mark>This represented the reality of the majority of Gay experiences</mark> at the time, <mark>which had been restricted to manifestations in slums of one kind or another</mark>. The underground life as a shelter for gays is a common theme.</span>
 
-Gays were also associated with dangerous revolutionaries hiding beneath the surface of normal society. <span visual=none on="?" off="?">The ghetto was one otherworld in which gay characters might frequently be seen on-screen *before* and *after* the reign of the Motion Picture Production Code. This represented the reality of the majority of Gay experiences at the time, which had been restricted to manifestations in slums of one kind or another. The underground life as a shelter for gays is a common theme.</span>
+<span visual=none on="?" off="?">In many instances, <mark>the gay ghetto has been linked to the criminal underground</mark>. This is due to the fact that whenever there is an <mark>increase in illegal activity</mark> of *any* kind, even homosexuality, <mark>organized crime moves in to take control</mark> of the situation <mark>and make a profit</mark>. </span>(Though it should be noted that organized crime functions VERY differently than Hollywood often depicts, and in some cases, especially from the 40s and onward, can be beneficial to growing a community and preventing gentrification and climbing rental rates.) 
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-<span visual=none on="?" off="?">In many instances, the gay ghetto has been linked to the criminal underground. This is due to the fact that whenever there is an increase in illegal activity of *any* kind, even homosexuality, organized crime moves in to take control of the situation and make a profit. </span>(Though it should be noted that organized crime functions VERY differently than Hollywood often depicts, and in some cases, especially from the 40s and onward, can be beneficial to growing a community and preventing gentrification and climbing rental rates.) 
-
-<span visual=none on="?" off="?">Though as far as Hollywood played into misconceptions of criminal behavior, homosexuals were widely considered to be a criminal group,</span> which differentiated them from other types of minority groups. Crime rates might be high in some majority non-white areas, but just being a person of color was not, itself, *technically* illegal. (Though representatives and law enforcement may act otherwise.) 
+<span visual=none on="?" off="?">Though as far as Hollywood played into misconceptions of criminal behavior, <mark x>homosexuals were widely considered to be a criminal group</mark>,</span> which differentiated them from other types of minority groups. <mark x>Crime rates might be high in some majority non-white areas, but just being a person of color was not, itself, *technically* illegal.</mark> (Though representatives and law enforcement may act otherwise.) 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p43" %}>
+
+<mark>The ghetto was one otherworld in which</mark> gays could regularly be found <mark>onscreen both before and after the reign of the Code.</mark> The underworld life as a haven for homosexuals is a staple of music and literature, and of course <mark>this reflects the reality of most gay experience</mark>, <mark>which has been limited to expression in ghettos of one sort or another</mark> since the beginning of time. <mark>The gay ghetto has often been connected with the underworld</mark> to the extent that wherever <mark>illicit activity flourishes</mark>, <mark>organized crime moves in to control</mark> it <mark>and turn a profit</mark>. Also, unlike other minority groups, <mark x>homosexuals hold criminal status in most places</mark>. <mark x>A black ghetto may be crime ridden but the people who live there are not criminals for being black.</mark> In Bessie, his book on blues singer Bessie Smith, Chris Albertson discusses the singer's lesbian experiences, which are detailed further by historian Jonathan Katz in Gay American History. In an interview with Smith's niece (available on record in a blues and jazz collection of homosexually oriented songs from the Twenties and Thirties), Albertson sees homosexuality as a part of the jazz subculture. Describing a "buffet flat" of the early 1930s, Smith's niece says, "A buffet flat [was] nothing but a bunch of faggots and bull dykers everything. Everything went on in that place. Everything that was in the life." In the life.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">The film ‘Blood Money,’ released in 1933, showed a great deal of ambiguous sexual tension in a wider underworld. In the movie, the existence of homosexuality is openly acknowledged in the subculture that is a shelter on the fringes of acceptable society. In the film, Sandra Shaw is featured in several sequences as a fun-loving blonde who likes men's clothes.</span> 
+<span visual=none on="?" off="?">The film <mark num=1>‘Blood Money,’</mark> released <mark num=2>in 1933</mark>, showed <mark>a great deal of ambiguous sexual tension in a wider underworld</mark>. In the movie, <mark>the existence of homosexuality is openly acknowledged in the subculture that</mark> is a shelter <mark>on the fringes of acceptable society</mark>. In the film, <mark>Sandra Shaw is featured in several sequences as a fun-loving blonde who likes men's clothes.</mark></span> 
 
-At one point in the film, her boyfriend is preparing for a date along with his sister, a nightclub owner, who warns him about the kind of women he's running with, but he waves her fears aside. 
+At one point in the film, <mark>her boyfriend</mark> is preparing for a date along with his sister, a nightclub owner, who warns him about the kind of women he's running with, but he waves her fears aside. 
 
 </james>
-<from></from>
-</compare>
+<from span="3" {% include citation for=page.cite.plagiarized.celluloid_closet at="p44" %}>
 
-<compare>
+<mark num=2>In 1933</mark>, Rowland Brown's gritty and atmospheric <mark num=1>*Blood Money*</mark> created <mark>a great deal of ambiguous sexual tension in a wider underworld</mark> than that of Call Her Savage. In *Blood Money* <mark>the existence of homosexuality is openly acknowledged in the subculture that</mark> shelters it <mark>on the fringes of acceptable society</mark>. <mark>Sandra Shaw is featured in several sequences as a fun-loving blonde who likes men's clothes.</mark> Wearing a full-dress tuxedo and sporting a monocle as she awaits the arrival of <mark>her boyfriend</mark> at a nightclub bar, she provides a sounding board for a few in-jokes and some innuendo. Offered a cigar by the star of the film, George Bancroft. Shaw throws back her head and roars with laughter at his blase attitude.
+
+"Why, you big sissy!" she snorts, slapping him on the shoulder. Although it is not apparent in society in general, such feigned recognition is classic in gay surroundings, where it signals that the dress or demeanor of a person has communicated the unspeakable.
+
+Shaw's boyfriend, meanwhile, the younger brother of the glamorous nightclub owner (Judith Anderson), is upstairs preparing for their date. Anderson wars him about the kind of women he has been running around with she calls them "french pastry"-but he waves her fears aside. "Oh, don't worry, Sis, this one's different. <mark num=8>Wears a tuxedo.</mark>"
+
+Anderson arches an eyebrow and shrugs in relief. "Oh. <mark num=9>Then you're safe.</mark>" <mark num=10>Getting her meaning</mark>, he tells her it's not what she thinks, that the girl is just full of fun. But <mark num=11>later in the film Shaw turns up again in</mark> double-breasted tweeds, <mark num=12>this time</mark> not with Anderson's brother but <mark num=13>with another woman in tow</mark>.
+
+</from>
 <clip {% include citation for=page.cite.clips.blood_money %}>
 
-Man: “Oh this one is nothing but class. Wears a monocle and a man’s tuxedo.”
+Man: “Oh this one is nothing but class. <mark num=8>Wears a monocle and a man’s tuxedo.</mark>”
 
-Woman: “Then you’re safe.” 
+Woman: “<mark num=9>Then you’re safe.</mark>” 
 
 </clip>
 <james {% include timecode %}>
 
-Though he gets what she means, and *protests*, <span visual=none on="?" off="?">later in the film Shaw turns up again in a tweed jacket, this time with another woman in tow.</span> 
-
-Movies like this were what led to further intensification of censorship in the mid 1930s. In addition to strengthening the Code, Will Hays reacted to criticism by inserting morality clauses into the contracts of actors, and compiled a "doom book" of 117 names of those deemed "unsafe" because of their personal lives. Homosexuality was denied as fervently *off-screen* as it was on, a literally unspeakable part of the culture. 
+Though <mark num=10>he gets what she means</mark>, and *protests*, <span visual=none on="?" off="?"><mark num=11>later in the film Shaw turns up again in</mark> a tweed jacket, <mark num=12>this time</mark> <mark num=13>with another woman in tow</mark>.</span> 
 
 </james>
-<from></from>
 <james {% include timecode %}>
 
-Hollywood has always been more restrained on the screen than in real life. <span visual=none on="?" off="?">In “blood money” homosexuality is just another pocket of an underworld that exists outside the law.</span> Sexual connotations often surrounded the attitude of powerful men toward hired boys, or servile companions. <span visual=none on="?" off="?">Although the villainous character of Joel Cairo in “The Maltese Falcon,” is identified by Sam Spade's secretary in the *novel*</span> as homosexual, <span visual=none on="?" off="?">the film version, instead, just turns him into a perfume wearing, cane kissing, ‘sissy’ with lace hankies.</span> 
+Movies like this were what led to further intensification of censorship in the mid 1930s. <mark>In addition to strengthening the Code</mark>, <mark>Will Hays reacted to criticism by inserting morality clauses into the contracts of actors, and compiled a "doom book" of 117 names of those deemed "unsafe" because of their personal lives. Homosexuality was denied as fervently *off-screen* as it was on, a literally unspeakable part of the culture.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p45" %}>
+
+<mark>In addition to strengthening the Code</mark> in 1934, <mark>Will Hays reacted to criticism by inserting morals clauses in the contracts of performers and compiling a "doom book" of 117 names of those deemed "unsafe" because of their personal lives. Homosexuality was denied as assiduously offscreen as it was on, a literally unspeakable part of the culture.</mark> By 1940 even harmless sex-role farces such as Hal Roach's Turnabout were considered perilous in some quarters. The film, about a married couple (Carole Landis and John Hubbard) who switch roles by wishing on an Oriental statue, was described by the Catholic Legion of Decency as dealing with "subject matter which may provide references dangerous to morality, wholesome concepts of human relationships and the dignity of man."
+
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">Elisha Cook jr. as Sidney Greenstreet's bodyguard Wilmer, however, is *implicitly* homosexual. He is referred to as "sonny," "boy" and "kid," and Bogart derisively calls him a "gunsel."</span> Since about 1915, prisoners had used the German word gunsel to mean a bottom, especially young inexperienced *criminal* bottoms. All of this was meant to connect the queer underworld with the underworld run, *mostly*, by the Sicillian mafia who, due to movies like Scarface and Public Enemy, were roundly feared across the country. 
-
-This “fear the queer” mindset was brought to its *logical* conclusion in the horror films of the 1930s, <span visual=none on="?" off="?">where gays appeared as predatory, twilight creatures with a sense of style. The equation of horror with the sins of the flesh is easily seen in monster movies of the period. Creatures like Frankenstein’s monster and Count Dracula were almost always linked with the baser instincts of human beings.</span> The essence of homosexuality as a predatory weakness permeates the depiction of gay characters in horror films. 
+Hollywood has always been more restrained on the screen than in real life. <span visual=none on="?" off="?"><mark>In “blood money”</mark> <mark>homosexuality is just another pocket of an underworld that exists outside the law.</mark></span> <mark>Sexual connotations often surrounded the attitude of powerful men toward hired boys, or servile companions.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p46" %}>
+
+<mark>In *Blood Money*</mark> and *Call Her Savage*, <mark>homosexuality is just another pocket of an underworld that exists outside the law.</mark> The gay presence in such subcul tures was sometimes reflected in the language, especially in the use of slang, in films dealing with lawless people. In *Blood Money*, the word fag is used without reference to homosexuality. When George Bancroft wars a timid taxi driver not to betray his destination to the police, he threatens, "Lissen, fag"-and is rebuked by Judith Anderson for "scaring the little fellow half to death." <mark>Sexual connotations often surrounded the attitude of powerful men toward hired boys or servile companions.</mark> This remark in *Blood Money* was perhaps the first time fag was used onscreen in this context. Taken from its use in British boarding schools as a term for underclassmen "fagging" for upperclassmen, the word in underworld jargon denoted a subservient person or lackey, especially young men "used" for favors. Edward G. Robinson's side kick Johnny in Little Caesar (1931) was such a character, when he decides to give up the rackets to be a tap dancer, Robinson cracks, "Dancin' just ain't my idea of a man's game."
+
+</from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">In *Dracula's Daughter*, Countess Maria Zalesca has a special attraction to women, a preference that was even highlighted in some of the original ads for the film. </span>
+<span visual=none on="?" off="?"><mark>Although the villainous character of Joel Cairo</mark> <mark>in “The Maltese Falcon,”</mark> <mark>is identified by Sam Spade's secretary in</mark> the *novel*</span> <mark>as homosexual</mark>, <span visual=none on="?" off="?"><mark>the film version</mark>, instead, <mark>just turns him into a perfume</mark> wearing, cane kissing, ‘sissy’ <mark>with lace hankies</mark>.</span> 
 
-<span visual=none on="?" off="?">Queer parallels in 1931’s ‘Frankenstein’ and its 1935 sequel, ‘The Bride of Frankenstein,’</span> arose from a vision both films had of the monster as an impossible, antisocial figure in the same way that gay people were "things" that should not have happened. 
+<span visual=none on="?" off="?"><mark>Elisha Cook jr. as Sidney Greenstreet's bodyguard Wilmer, however, is *implicitly* homosexual. He is referred to as "sonny," "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark></span> <mark>Since about 1915,</mark> <mark>prisoners had used the German word</mark> <mark>gunsel to mean a bottom, especially young inexperienced</mark> *criminal* bottoms. 
+
+All of this was meant to connect the queer underworld with the underworld run, *mostly*, by the Sicillian mafia who, due to movies like *Scarface* and *Public Enemy*, were roundly feared across the country. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p46" %}>
+
+<mark>Although the character of Joel Cairo</mark> (Peter Lorre) <mark>in *The Maltese Falcon*</mark> (1941) <mark>is identified by Sam Spade's secretary in</mark> Dashiell Hammett's novel <mark>as a homosexual</mark>, <mark>the film version</mark> <mark>just turns him into a perfumed</mark> fop <mark>with lace hankies</mark>. A brief, sarcastic reference by a venomous Mary Astor to "that young boy in Istanbul," the character with whom Cairo had a little trouble, is murky and unexplored. <mark>Elisha Cook, Jr., as Sidney Greenstreet's bodyguard Wilmer, however, is implicitly homosexual. He is referred to as "sonny." "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark> <mark>Since about 1915,</mark> bums and <mark>prisoners had used the German word</mark> *gansel* or *gosling*, corrupted to <mark>*gunsel*, for a passive sodomite, especially a young, inexperienced</mark> boy compan&shy;ion. From the mid 1920s it gradually came to mean a sneaky or disreputable person of any kind. By the 1930s it meant petty gangster or hoodlum. That film characters like Wilmer and the taxi driver in *Blood Money* shared a feminine status is obvious. The only variation was the degree to which that equation was carried to its common underworld conclusion.
+
+</from>
+<james {% include timecode %}>
+
+This “fear the queer” mindset was brought to its *logical* conclusion <mark num=1>in the horror films of the 1930s</mark>, <span visual=none on="?" off="?">where <mark num=2>gays appeared as predatory, twilight creatures with a sense of style</mark>. <mark>The equation of horror with the sins of the flesh is easily seen in monster movies of the period. Creatures like Frankenstein’s monster and Count Dracula were almost always linked with the baser instincts of human beings</mark>.</span> The essence of homosexuality as a predatory weakness permeates the depiction of gay characters in horror films. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p48" %}>
+
+<mark num=2>Gays as predatory, twilight creatures were a matter of style</mark> and personal interpretation <mark num=1>in the horror films of the 1930s</mark>. <mark>The equation of horror with the sins of the flesh is easily seen in monster movies of the period. Creatures like the Frankenstein monster and Dracula were almost always linked with the baser instincts of human beings</mark>; Frankenstein especially is a film character created outside every boundary the film calls normal.
+
+</from>
+<james {% include timecode %}>
+
+<span visual=none on="?" off="?"><mark>In *Dracula's Daughter*</mark>, <span stat:id="correction">Countess Maria Zalesca</span> <mark>has a special attraction to women, a preference that was even highlighted in some of the original ads for the film.</mark> </span>
+
+<mark><span visual=none on="?" off="?"><span stat:id="sub-queer">Queer</span> parallels in 1931’s ‘Frankenstein’ and its 1935 sequel, ‘The Bride of Frankenstein,’</span> arose from a vision both films had of the monster as an</mark> impossible, <mark>antisocial figure in the same way that gay people were "things" that should not have happened.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p49" %}>
+
+The essence of homosexuality as a predatory weakness permeates the depic tion of gay characters in horror films. <mark>In *Dracula's Daughter*</mark> (1936), Countess Alesca (Gloria Holden) <mark>has a special attraction to women, a preference that was even highlighted in some of the original ads for the film.</mark> ("Save the women of London from Dracula's Daughter!") Roger Vadim's *Blood and Roses* (1960) and Joseph Larraz' *Vampyres* (1974) both deal with lesbian vampires. <mark>Homosexual parallels in *Frankenstein* (1931) and *The Bride of Frankenstein* (1935) arose from a vision both films had of the monster as an</mark> <mark>antisocial figure in the same way that gay people were "things" that should not have happened.</mark> 
+
+<footer signed="{{ tustin.name }}">Countess Maria Zalesca is the name of the character in <a href="https://en.wikipedia.org/wiki/Dracula%27s_Daughter"><em>Dracula's Daughter</em></a>. I don't know where Vito got "Countess Alesca" from. James must have corrected this. </footer>
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In both films, the homosexuality of director James Whale may have been the spark of the vision. Robert Aldrich, director of camp progenitor: ‘Whatever Happened to Baby Jane,’ recalls that:
+<mark>In both films, the homosexuality of director James Whale may have been the spark of the vision.</mark> <mark>Robert Aldrich, director</mark> of camp progenitor ‘Whatever Happened to Baby Jane,’ recalls that:
 
-> ”Jimmy Whale was the first guy who was blackballed because he refused to stay in the closet. 
+> ”<mark>Jimmy Whale was the first guy who was blackballed because he refused to stay in the closet.</mark> 
 >
-> Mitchell Leisen and all those other guys played it straight, and they were onboard, but Whale said, “f*ck it, I'm a great director and I don't have to put up with this bullshit!"
+> <mark>Mitchell Leisen and all those other guys played it straight, and they were onboard, but Whale said, “f*ck it, I'm a great director and I don't have to put up with this bullshit!"</mark>
 >
-> And he was a great director, not just a company director. And he was just unemployed after that...  
-> Never worked again.” 
+> <mark>And he was a great director, not just a company director. And he was just unemployed after that</mark>...  
+> <mark>Never worked again</mark>.” 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p50" %}>
+
+<mark>In both films the homosexuality of director James Whale may have been a force in the vision.</mark> <mark>Director Robert Aldrich</mark> recalls that "<mark>Jimmy Whale was the first guy who was blackballed because he refused to stay in the closet.</mark> <mark>Mitchell Leisen and all those other guys played it straight, and they were onboard, but Whale said, fuck it, I'm a great director and I don't have to put up with this bullshit'</mark> <mark>and he was a great director, not just a company director. And he was just unemployed after that</mark> <mark>never worked again</mark>." Accord&shy;ing to Aldrich, an obviously [...]
+
+</from>
 <james {% include timecode %}>
 
-It should be noted that many articles on James Whale do not reference his refusal to be closeted, nor the Hayes Code in general, as a reason for the decline of his career. In spite of available first-hand testimonials demonstrating that it wasn’t just a contributing factor — that it was THE main reason. 
+It should be noted that many articles<sup cn></sup> on James Whale do not reference his refusal to be closeted, nor the Hayes Code in general, as a reason for the decline of his career. In spite of available first-hand testimonials demonstrating that it wasn’t just a contributing factor — that it was THE main reason. 
 
 And Aldrich, who WAS a company director, if not an incredibly good one, would have been in-the-know about what producers and studio heads were saying behind the scenes. 
 
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span="2" {% include timecode %}>
 
-According to Aldrich, an obviously lesbian director like Dorthy Arzner got away with her lifestyle because she was officially closeted. A gay woman keeping her ‘lifestyle’ on the sly was fine because “it made her one of the boys.” But a man who, like Whale, openly admitted to his loving relationship with another man, in this case producer David Lewis, did not stand a chance. 
+<mark>According to Aldrich, an obviously lesbian director like</mark> <span stat:id="changed-name">Dorthy</span> <mark>Arzner got away with her lifestyle because she was officially closeted</mark>. A gay woman keeping her ‘lifestyle’ on the sly was fine <mark>because “it made her one of the boys.”</mark> <mark>But a man who, like Whale, openly admitted to his loving relationship with another man, in this case producer David Lewis, did not stand a chance.</mark> 
 
-Although James Whale <del>worked</del><ins>did work</ins> again briefly in 1943, he fell into obscurity soon after. In 1957 he was found dead at the bottom of his swimming pool. 
+<mark>Although James Whale <del>worked</del><ins>did work</ins> again briefly in 1943, he fell into obscurity soon after.</mark> <mark fc=true stat:id="correction">In 1957</mark> <mark>he was found dead at the bottom of his swimming pool</mark>. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p50" %}>
+
+[...] never worked again." <mark>Accord&shy;ing to Aldrich, an obviously lesbian director like</mark> Dorothy <mark>Arzner got away with her lifestyle because she was officially closeted</mark> and <mark>because "it made her one of the boys."</mark> <mark>But a man who, like Whale, openly admitted his love relationship with another man, in this case producer David Lewis, did not stand a chance.</mark> <mark>Although James Whale worked again briefly in 1943, he fell into obscurity soon after.</mark> In 1961 <mark>he was found dead at the bottom of his swimming pool</mark>, and there has never been a full investigation of the circum&shy;stances surrounding the event.
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+[Wikipedia](https://en.wikipedia.org/wiki/James_Whale) states that James Whale actually died in 1957, making Vito's date incorrect. James or Nick must have actually corrected this mistake.
+
+</comment>
 </compare>
 
 <compare>

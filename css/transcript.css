@@ -197,9 +197,6 @@
 		color: var(--box-header-color);
 		border-bottom: var(--box-header-color) 1px solid;
 		padding: 2px 4px 0px;
-		
-		font-family: var(--def-font-families);
-		text-indent: initial;
 	}
 	compare :is(from, comment, clip, visual, credits) > header .timecode::before { content: '('; }
 	compare :is(from, comment, clip, visual, credits) > header .timecode::after { content: ')'; }
@@ -236,6 +233,9 @@
 		border-top: var(--box-header-color) 1px solid;
 		padding: 0px 4px 2px;
 		margin-top: auto;
+	}
+	compare footer[signed]::after {
+		content: ' --' attr(signed);
 	}
 	
 	compare clip hr {
@@ -514,5 +514,11 @@
 	.srcstyle-book {
 		font-family: serif;
 		text-indent: 3ch;
+	}
+	
+	compare :is(from, comment, clip, visual, credits) > header,
+	compare footer {
+		font-family: var(--def-font-families);
+		text-indent: initial;
 	}
 }

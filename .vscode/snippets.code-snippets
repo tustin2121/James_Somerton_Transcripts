@@ -148,7 +148,7 @@
 		"description": "Insert a header for a <comment> block."
 	},
 	"header-for": {
-		"prefix": "header",
+		"prefix": "header-for",
 		"body": [
 			"{% include header for=$1 %}"
 		],
@@ -177,5 +177,11 @@
 		],
 		"description": "Insert statistic attribute"
 	},
-	}
+	"signed": {
+		"prefix": "signed",
+		"body": [
+			"{% include signed for=tustin$1 %}"
+		],
+		"description": "Insert signed attribute"
+	},
 }

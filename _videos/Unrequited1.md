@@ -137,7 +137,7 @@ It's like the cinematic equivalent of edging without the money shot.
 
 > "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
-> <mark fc=false id="richard_dyer">-Richard Dryer, film historian</fc>
+> <mark fc=false id="richard_dyer" stat:id="changed-name">-Richard Dryer, film historian</fc>
 
 </james>
 <from></from>

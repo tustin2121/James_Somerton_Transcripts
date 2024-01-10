@@ -1090,7 +1090,7 @@ But for young women how can you tell if another girl is interested in you in a r
 
 1979's *Alien*, directed by <mark>Ridley Scott</mark>, <mark>is often considered as one of the first "feminist" science fiction movies. With its powerful central female character and themes of reproduction and sexual violence, the film has become lauded for being a cornerstone in feminist film theory.</mark> <mark stat:id="sub-queer">It's also monstrously queer</mark>. <!-- 10 ends here -->
 
-<mark>Not only is Ellen Ripley</mark> a <mark>strong butch heroine</mark>, who does not *at all* fit the usual sci-fi or horror female archetype, but <mark>according to <span id="david_mcintee">David McEntee</span>, author of *Beautiful Monsters*</mark>, the film also <mark>plays very deliberately with male fears of female reproduction</mark>. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
+<mark>Not only is Ellen Ripley</mark> a <mark>strong butch heroine</mark>, who does not *at all* fit the usual sci-fi or horror female archetype, but <mark>according to <span id="david_mcintee" stat:id="changed-name">David McEntee</span>, author of *Beautiful Monsters*</mark>, the film also <mark>plays very deliberately with male fears of female reproduction</mark>. Forcing the gestation of life onto male characters and literally tearing them apart during birth. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.dani_leever at="¶ 1-2" %}>
@@ -1915,7 +1915,7 @@ And there's an odd draw to the black and white monster for queer people. Outside
 
 > <mark>"Someone was like, 'How could "The Babadook" become a gay film,' and the answer was readily available."</mark> 
 
-...<mark>said <span id="karen_tongson">Karen Thompson</span>, an associate professor of gender studies in English at USC</mark>.
+...<mark>said <span id="karen_tongson" stat:id="changed-name">Karen Thompson</span>, an associate professor of gender studies in English at USC</mark>.
 
 > <mark>"He lives in a basement, he's weird and flamboyant, he's living adjacently to a single mother in this kind of queer kinship structure."</mark>
 

@@ -24,6 +24,10 @@ The following table of statistics is calculated from the video transcripts autom
 | | |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
+| {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |
+| {{stats.changed-name }} | Times James just got a person's name wrong. |
+| {{stats.changed-quote }} | Times James inexplicably changed a quote he was copying. |
+| {{stats.correction }} | Times James actually corrected an incorrect source he was copying from. |
 | {{stats.baa }} | Times James uses the phrase "by all accounts". |
 
 [^v]: This is only the misinformation in his videos, not the ones that he told his audience about external things, like "death threats" and the like.
