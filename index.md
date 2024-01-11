@@ -74,8 +74,8 @@ Transcript Statuses:
 - <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
 - <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
 - <span class="status">In Progress</span> = Transcript has some work done
-- <span class="status ready">Finished</span> = Transcript is complete, attributions needed.
-- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things attributed
+- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
+- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things cited.
 
 </div>
 </div>
