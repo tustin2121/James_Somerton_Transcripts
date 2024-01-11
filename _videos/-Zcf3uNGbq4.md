@@ -163,6 +163,12 @@ Also, this is the only "movie" that Telos Pictures ever put its branding on.
 > The Birth of Gay Hollywood
 
 </credits>
+<comment>
+{% include header for=tustin %}
+
+In the compilation video, this title is instead much more colorful, over some blue shimmering backdrop.
+
+</comment>
 </compare>
 
 <compare>

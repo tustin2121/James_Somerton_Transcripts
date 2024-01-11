@@ -8,6 +8,9 @@ aka: !!seq
   - "The Lavender Menace (Thumbnail)"
 topics: !!seq
 links: !!seq
+  - "https://www.youtube.com/watch?v=V2--C3AQfSE"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230415+iJ3M_DhPlI0+America+v.+Homosexuality.webm"
+  - "https://archive.org/details/james-somerton-public-records/America%E2%80%99s+War+on+the+Gays+(and+Communists).mp4"
 notes:
   - hbomb
 

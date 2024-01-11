@@ -71,7 +71,7 @@
 		grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
 	}
 	
-	compare :is(james, nick, clip, credits, from, comment, visual) {
+	compare :is(james, nick, clip, credits, from, comment, visual, subvideo) {
 		display: block;
 		border: white 1px solid;
 		padding: 0px 8px;
@@ -105,6 +105,10 @@
 		border-color: var(--box-border-comment); 
 		font-size: smaller;
 	}
+	compare subvideo {
+		grid-column: j-start / f-end;
+		border-color: var(--box-border-comment); 
+	}
 	
 	/* Visual Blocks */
 	.visual compare {
@@ -129,10 +133,10 @@
 		text-align: center;
 		border-right: var(--source-color) 3px solid;
 		margin-right: -3px;
-			overflow-y: hidden;
-			display: flex;
-			flex-direction: column;
-			justify-content: space-between;
+		overflow-y: hidden;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
 	}
 	compare visual-line span.on {
 		border-top: var(--source-color) 2px solid;
@@ -205,7 +209,7 @@
 	compare clip > header::before { content: 'Video Clip:'; }
 	compare comment > header::before { content: 'Comment:'; }
 	
-	compare :is(james, nick, credits)::before
+	compare :is(james, nick, credits, subvideo)::before
 	{
 		display: block;
 		font-size: small;
@@ -410,6 +414,45 @@
 		margin: 0.5em 0;
 		text-align: center;
 	}
+}
+
+@layer site {
+	compare subvideo {
+		background-color: var(--color-canvas-default);
+		box-shadow: 0px 0px 3em 2em black;
+		margin: -4px 4px 4px -4px;
+	}
+	compare subvideo::before { 
+		content: 'Insert Video Here:';
+	}
+	
+	subvideo .video-card {
+		margin-inline: auto;
+		max-width: 800px;
+	}
+	
+	:is(james, nick, clip)[fade] {
+		position: relative;
+		z-index: -10;
+	}
+	:is(james, nick, clip)[fade="out"] {
+		margin-bottom: -4em;
+	}
+	:is(james, nick, clip)[fade="in"] {
+		margin-top: -4em;
+	}
+	/* :is(james, nick, clip)[fade]::after {
+		content: ' ';
+		position: absolute;
+		top: -1px; left: -1px; right: -1px; bottom: -1px;
+		z-index: 100;
+	}
+	:is(james, nick, clip)[fade="out"]::after {
+		background: linear-gradient(to bottom, transparent 20%, var(--color-canvas-default) 80%);
+	}
+	:is(james, nick, clip)[fade="in"]::after {
+		background: linear-gradient(to top, transparent 20%, var(--color-canvas-default) 80%);
+	} */
 }
 
 @layer source {

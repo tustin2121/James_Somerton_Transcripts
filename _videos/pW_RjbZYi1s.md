@@ -37,15 +37,181 @@ cite:
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
+{%- assign vid = page.id | split: "/" | last -%}
+{%- assign subvids = site.videos | where: "parent", vid -%}
+
 <compare>
 <credits class="desc">
 
-[???]
+Hollywood, despite the best efforts of executives and studio heads, has been gay since the day it was born. In this video we'll explore the first seventy years of Tinsel Town's not-so-private closet. From silent film and federal investigations to the golden age of coding and the rise of out and proud queer cinema. 
+
+[patreon link]
+
+#hollywood #lgbt #history 
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:02" for="Part One - The Birth of Gay Hollywood" %}  
+{% include chapter-link at="28:53" for="Part Two - The Invisible Men" %}  
+{% include chapter-link at="53:46" for="Part Three - Black Listed" %}  
+{% include chapter-link at="01:17:12" for="Part Four - Dying To Be Gay" %}  
+{% include chapter-link at="01:41:58" for="Part Five - A Crack in the Closet" %}  
 
 </credits>
 </compare>
 
 {% include transcript-start %}
+
+<compare>
+<credits {% include timecode %}>
+
+> This video was originally released in five parts:
+>
+> "How Hollywood Was Born Gay"  
+> "Hollywood's Golden Age (of Queer Coding"<sup>[sic: )]</sup>  
+> "America's War on the Gays (and Communists)"  
+> "Where The 'Bury Your Gays' Trope Came From"  
+> "And "When Hollywood Came Out of the Closet"
+>
+> These have been collected here as one video  
+> To make it easy to watch the whole story.
+
+</credits>
+<comment>
+{% include header for=tustin %}
+
+Note: This video is a compilation of five previous videos. In lieu of copy-pasting the previous transcripts, to facilitate not having multiple copies of things lying around, I will be linking out to the previous videos' transcripts. I will make note if anything has changed between the previous video and this one.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This video is brought to you by my patrons. If you'd like to support my channel and get access to extras like audio commentaries, a patron exclusive podcast, and uncut videos, you can join by clicking the link in the description.
+
+\[On screen]: "Thank You Patrons"
+
+</james>
+</compare>
+
+
+<compare>
+<james fade=out {% include timecode %}>
+
+Over the last several years there have been demands for more LGBTQ represention in Hollywood movies. But something that many people don’t know is that the first movie to ever win Best Picture at the Academy Awards, was also the first major Hollywood film to show a gay kiss. 
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[0] -%}
+{% include video-card video=subvid %}
+
+TODO double check everything 
+
+</subvideo>
+<james fade=in>
+
+General American audiences though could easily see through the coding. However, it wasn’t long before the easily read coding... was forced to become almost, if not completely illegible. 
+
+</james>
+</compare>
+
+## Chapter Two - The Invisible Men
+
+<compare>
+<james fade=out {% include timecode %}>
+
+Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
+
+Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[1] -%}
+{% include video-card video=subvid %}
+
+</subvideo>
+<james fade=in>
+
+Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+
+</james>
+</compare>
+
+## Chapter 3
+
+<compare>
+<james fade=out {% include timecode %}>
+
+Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
+
+Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[2] -%}
+{% include video-card video=subvid %}
+
+</subvideo>
+<james fade=in>
+
+Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+
+</james>
+</compare>
+
+## Chapter 4
+
+<compare>
+<james fade=out {% include timecode %}>
+
+Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
+
+Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[3] -%}
+{% include video-card video=subvid %}
+
+</subvideo>
+<james fade=in>
+
+Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+
+</james>
+</compare>
+
+## Chapter 5
+
+<compare>
+<james fade=out {% include timecode %}>
+
+Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
+
+Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[4] -%}
+{% include video-card video=subvid %}
+
+</subvideo>
+<james fade=in>
+
+Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+
+</james>
+</compare>
+
+
+
+
+{% comment %}
 
 <!-- Ace Couple podcast 1:17:24 for a note for the opening credits. -->
 
@@ -83,9 +249,13 @@ notes:
 
 # Whole Video Transcript
 
-this video is brought to you by my patrons if you'd like to support my channel
+this video is brought to you by my patrons 
+if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
-uncut videos you can join by clicking the link in the description over the last
+uncut videos, you can join by clicking the link in the description.
+
+
+ over the last
 several years there have been demands for more lgbtq representation in Hollywood
 movies but something that many people don't know is that the first movie to ever
 win best picture at the Academy Awards was also the first major Hollywood film
@@ -1695,10 +1865,9 @@ gay men followed by a cluster of pneumocystis pneumonia cases in San Francisco
 and New York and then gay men across the world began dying and suddenly
 Hollywood's opinion of us didn't matter so much
 
-
-
 ---------------
 
+{% endcomment %}
 {% comment %}
 
 https://discord.com/channels/224921177532006400/1181019607604133938/1181776983999389746
@@ -1715,8 +1884,6 @@ Congressional Investigations and the Lavender Scare Summer 2016, Vol. 48, No. 2 
 [9:00 PM]Mo: (i found these through the tried and true method of "simply google the words he's saying")
 
 -----
-
-
 
 
 {% endcomment %}

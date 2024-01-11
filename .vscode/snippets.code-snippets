@@ -132,6 +132,34 @@
 		],
 		"description": "Insert compare block with clip block"
 	},
+	"subvideo-block": {
+		"prefix": "subvideo-block",
+		"body": [
+			"<compare>",
+			"<james fade=out {% include timecode %}>",
+			"",
+			"Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.",
+			"",
+			"Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.",
+			"",
+			"</james>",
+			"<subvideo>",
+			"",
+			"{%- assign subvid = subvids[0] -%}",
+			"{% include video-card video=subvid %}",
+			"",
+			"</subvideo>",
+			"<james fade=in>",
+			"",
+			"Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Non cillum aliquip in sint tempor et laboris non Lorem anim occaecat fugiat ipsum.",
+			"",
+			"Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.",
+			"",
+			"</james>",
+			"</compare>",
+		],
+		"description": "Insert compare block with clip block"
+	},
 	
 	"citation": {
 		"prefix": "citation",

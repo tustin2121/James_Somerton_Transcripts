@@ -7,6 +7,8 @@ aka: !!seq
   - "Opening Hollywood's Closet (Thumbnail)"
 topics: !!seq
 links: !!seq
+  - "https://www.youtube.com/watch?v=PimkEyKQqoQ"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230518+fzN9x4XgtwY+When+Hollywood+Came+Out+of+the+Closet.webm"
 notes:
   - hbomb
 

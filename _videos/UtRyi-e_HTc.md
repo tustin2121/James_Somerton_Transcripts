@@ -7,6 +7,8 @@ aka: !!seq
   - "Dying to be Gay (Thumbnail)"
 topics: !!seq
 links: !!seq
+  - "https://www.youtube.com/watch?v=8gOOSspflfA"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230511+UtRyi-e_HTc+Where+The+%EF%BC%82Bury+Your+Gays%EF%BC%82+Trope+Came+From.webm"
 notes:
   - hbomb
 
