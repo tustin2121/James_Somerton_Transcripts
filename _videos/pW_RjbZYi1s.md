@@ -26,6 +26,8 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $cite$lvence
   citation: 
     - "[/u/heyheyitsmo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6glja)"
 
@@ -94,9 +96,8 @@ This video is brought to you by my patrons. If you'd like to support my channel 
 </james>
 </compare>
 
-
 <compare>
-<james fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %} id="ch1-in">
 
 Over the last several years there have been demands for more LGBTQ represention in Hollywood movies. But something that many people don’t know is that the first movie to ever win Best Picture at the Academy Awards, was also the first major Hollywood film to show a gay kiss. 
 
@@ -104,12 +105,12 @@ Over the last several years there have been demands for more LGBTQ represention 
 <subvideo>
 
 {%- assign subvid = subvids[0] -%}
-{% include video-card video=subvid %}
+{% include video-card video=subvid anchor="parent-start" %}
 
 TODO double check everything 
 
 </subvideo>
-<james fade=in>
+<james meta fade=in id="ch1-out">
 
 General American audiences though could easily see through the coding. However, it wasn’t long before the easily read coding... was forced to become almost, if not completely illegible. 
 
@@ -119,7 +120,7 @@ General American audiences though could easily see through the coding. However, 
 ## Chapter Two - The Invisible Men
 
 <compare>
-<james fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %}>
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -132,7 +133,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james fade=in>
+<james meta fade=in>
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 
@@ -142,7 +143,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 ## Chapter 3
 
 <compare>
-<james fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %}>
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -155,7 +156,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james fade=in>
+<james meta fade=in>
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 
@@ -165,7 +166,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 ## Chapter 4
 
 <compare>
-<james fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %}>
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -178,7 +179,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james fade=in>
+<james meta fade=in>
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 
@@ -188,7 +189,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 ## Chapter 5
 
 <compare>
-<james fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %}>
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -201,7 +202,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james fade=in>
+<james meta fade=in>
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 

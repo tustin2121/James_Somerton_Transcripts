@@ -1,7 +1,7 @@
 {% comment %} Expected: video parameter {% endcomment %}
 <div class="video-card {%- include video-filter video=include.video -%}">
 	<div class="title">
-		<a href="{{ include.video.url | relative_url }}">{{ include.video.title }}</a>
+		<a href="{{ include.video.url | relative_url }}{%- if include.anchor -%}#{{ include.anchor }}{%- endif -%}">{{ include.video.title }}</a>
 		{% comment %} {{ include.video.notes }} {% endcomment %}
 		{%- include notes notes=include.video.notes -%}
 	</div>

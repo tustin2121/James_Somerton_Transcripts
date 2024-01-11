@@ -61,7 +61,7 @@ Follow me on Twitter: [link]
 </credits>
 </compare>
 
-<div class="spoiler-notice">Note: Spoilers ahead for <em>Banana Fish</em>.</div>
+<div class="notice-banner">Note: Spoilers ahead for <em>Banana Fish</em>.</div>
 
 {% include transcript-start %}
 {% assign timecode = "0:00" %}
