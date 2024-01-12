@@ -28,7 +28,21 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Why did Disney cancel The Owl House? Oh we know.
+
+Patreon: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:34" for="Part One - A Nest of Owls" %}  
+{% include chapter-link at="14:45" for="Part Two - The Pedlar" %}  
+{% include chapter-link at="25:47" for="Part Three - The Garden of Earthly Delights" %}  
+{% include chapter-link at="31:28" for="Part Four - A Ship of Fools" %}  
+{% include chapter-link at="37:30" for="Part Five - Hell" %}  
+{% include chapter-link at="42:19" for="Part Six - Ecco Homo" %}  
+{% include chapter-link at="48:05" for="Part Seven - Beset By Devils" %}  
+{% include chapter-link at="55:09" for="Part Eight - The Last Judgement" %}  
+
+#Disney #owlhouse #DisneyPlus #theowlhouse
 
 </credits>
 </compare>

@@ -22,7 +22,9 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[patreon link]
+
+#bros #gay #movies
 
 </credits>
 </compare>

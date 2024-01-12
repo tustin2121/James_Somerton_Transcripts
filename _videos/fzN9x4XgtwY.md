@@ -26,7 +26,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+[patreon link]
+[website link]
+
+00:00 Introduction  
+08:06 Chapter One  
+17:13 Chapter Two  
+22:53 Chapter Three  
+#lgbt #lgbtq  
 
 </credits>
 </compare>

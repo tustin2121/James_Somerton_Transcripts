@@ -43,7 +43,12 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+As a company, Disney has so much influence that they've forced copyright laws to change over and over. And yet they keep quiet when it comes to the health and safety of queer youth.
+
+SUPPORT TELOS: [link]  
+PATREON: [link]  
+
+#Disney
 
 </credits>
 </compare>

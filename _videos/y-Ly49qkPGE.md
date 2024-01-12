@@ -22,7 +22,11 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+We need to talk about the horrible situation that "fans" put Kit Connor in. 
+
+PATREON: [link]
+
+#kitconnor #heartstopper #gay
 
 </credits>
 </compare>

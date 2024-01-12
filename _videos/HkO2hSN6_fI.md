@@ -22,7 +22,11 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+PATREON LINK: [link]
+James's Twitter: [link]
+Nicks Twitter: [link]
 
 </credits>
 </compare>

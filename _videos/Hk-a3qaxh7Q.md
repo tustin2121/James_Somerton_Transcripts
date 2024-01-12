@@ -6,7 +6,7 @@ aka: !!seq
   - "The Hit Gay Show We Forgot"
   - "No Apologies (Thumbnail)"
 topics: !!seq
-  - "<media>"
+  - "Queer as Folk"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
@@ -28,7 +28,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Queer as Folk revolutionized the portrayal of gay and lesbian characters on TV. So why did we forget about it?
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:47" for="Part One" %}  
+{% include chapter-link at="09:29" for="Part Two" %}  
+{% include chapter-link at="16:03" for="Part Three" %}  
+
+#Pride #lgbt #queerasfolk
 
 </credits>
 </compare>

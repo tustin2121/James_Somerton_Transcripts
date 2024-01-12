@@ -28,7 +28,20 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+The second in a series of eight videos looking back at the queer history of Hollywood from the beginning of the film industry to modern blockbusters and streaming. 
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+00:00 Introduction  
+03:04 Chapter 1  
+12:05 Chapter 2  
+18:49 Chapter 3  
+
+#Documentary #lgbt #movies
 
 </credits>
 </compare>

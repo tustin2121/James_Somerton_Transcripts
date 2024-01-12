@@ -28,7 +28,19 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Harry Potter and All The Crap 
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+00:00 Introduction  
+03:12 Part One  
+16:00 Part Two  
+24:33 Part Three  
+32:40 Part Four  
+
+#lgbt #lgbtq
 
 </credits>
 </compare>

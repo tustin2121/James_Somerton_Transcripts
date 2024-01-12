@@ -25,7 +25,13 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+A lot of horrible things have happened because of the rise of the far right. But would you guess that the gay body image crisis is one of them?
+
+00:00 Introduction  
+10:25 1. The Axis  
+19:46 2. A Model Citizen  
+27:13 3. Industrialization  
+36:50 4. The Ubermensch  
 
 </credits>
 </compare>

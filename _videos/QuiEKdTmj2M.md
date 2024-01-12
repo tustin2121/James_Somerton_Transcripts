@@ -8,7 +8,7 @@ aka: !!seq
 topics: !!seq
   - Heartstopper
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220423+QuiEKdTmj2M+Heartstopper+and+Queer+Optimism.webm"
 description: "a video essay on Heartstopper and how it's just what we need right now."
 notes:
   - dec5-delete
@@ -31,7 +31,15 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Heartstopper by @aliceoseman is charming, cute, corny, adorable, and something we absolutely need right now.
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="02:12" for="Part One - What Is Heart Stopper?" %}  
+{% include chapter-link at="10:48" for="Part Two - Why It Is So Important Right Now" %}  
+
+#HeartStopper #AliceOseman #Netflix
 
 </credits>
 </compare>

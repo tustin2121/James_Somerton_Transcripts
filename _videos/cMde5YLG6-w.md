@@ -22,7 +22,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Disney has always had a problem with LGBT representation… but in the summer of 2021 they took it to a new level.
+
+#Disney #Luca #Raya
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="06:20" for="Falcon and the Winter Soldier" %}  
+{% include chapter-link at="15:40" for="Loki" %}  
+{% include chapter-link at="23:00" for="Raya and the Last Dragon" %}  
+{% include chapter-link at="25:48" for="Luca" %}  
+{% include chapter-link at="29:50" for="Real Talk" %}  
 
 </credits>
 </compare>

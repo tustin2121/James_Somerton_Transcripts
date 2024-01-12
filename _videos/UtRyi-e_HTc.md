@@ -26,7 +26,17 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+MERCH: [link]  
+
+00:00 Introduction  
+07:49 Before The Court Decision  
+20:20 After The Court Decision  
+
+#lgbt #lgbtq
 
 </credits>
 </compare>

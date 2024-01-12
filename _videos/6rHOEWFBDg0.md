@@ -37,7 +37,20 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+Join us on Patreon to see videos up to six months early!
+[link]
+
+Vampires have been a part of queer culture for as long as queer culture has existed. But why?
+#horrorstories #lgbt #halloween #gay
+
+00:00 Introduction  
+10:17 Part 1: You’re Dead  
+19:38 Part 2: Lady Killers  
+26:42 Part 3: Start Crossed  
+39:42 Part 4 De-Fanged  
+48:22 Part 5: The Sun Rises  
 
 </credits>
 </compare>

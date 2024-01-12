@@ -19,7 +19,21 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+How did Marvel accidentally create a gay power couple? And what exactly does the Scarlet Witch have to do with it?
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+#Marvel #disney+ #Kang
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:04" for="The Kids Are Not Alright" %}  
+{% include chapter-link at="07:23" for="A Witch Called Wanda" %}  
+{% include chapter-link at="19:26" for="The Wizard and the Warrior" %}  
+{% include chapter-link at="28:58" for="Identity Marketing" %}  
 
 </credits>
 </compare>

@@ -42,7 +42,20 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Nostalgia can be fun and whimsical... but it may also lead to the downfall of society. 
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Prologue " %}  
+{% include chapter-link at="04:24" for="Chapter One" %}  
+{% include chapter-link at="13:59" for="Chapter Two" %}  
+{% include chapter-link at="26:51" for="Chapter Three" %}  
+{% include chapter-link at="46:35" for="Chapter Four" %}  
+{% include chapter-link at="59:38" for="Chapter Five" %}  
+{% include chapter-link at="01:09:03" for="Chapter Six" %}  
+{% include chapter-link at="01:14:09" for="Chapter Seven" %}  
+
+#strangerthings #nostalgia
 
 </credits>
 </compare>
