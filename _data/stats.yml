@@ -1,21 +1,22 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  sources: 51
+  sources: 73
   lies: 32
   yikes: 4
-  changed-number: 1
-  p-wiki: 6
+  changed-number: 2
+  p-wiki: 11
   sub-queer: 15
-  changed-quote: 3
+  changed-quote: 4
   correction: 2
   changed-name: 4
-  p-book: 1
+  p-book: 3
+  p-student: 4
   baa: 3
   p-academic: 4
+  p-news: 9
   blatant-bgm: 2
   p-youtube: 5
-  p-news: 7
 -Uoqmxlcusg:
   vol: { p: 11.6, m: 0.0, y: 0.0, w: 4.7, v: 0 }
 -Zcf3uNGbq4:
@@ -41,8 +42,10 @@ Unrequited1:
 VoHYZUj43K4:
   vol: { p: 24.7, m: 0.0, y: 0.0, w: 15.3, v: 0 }
 xBDc6SedkAc:
-  vol: { p: 4.6, m: 0.0, y: 0.0, w: 1.0, v: 0 }
+  vol: { p: 4.7, m: 4.7, y: 0.0, w: 1.0, v: 0 }
 xLuNGhQPDHM:
   vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
 ZDgWHNDdwoU:
   vol: { p: 13.2, m: 0.0, y: 0.0, w: 7.8, v: 0 }
+zIsQ502N0fg:
+  vol: { p: 30.3, m: 0.0, y: 0.0, w: 12.3, v: 0 }
