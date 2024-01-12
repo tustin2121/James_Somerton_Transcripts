@@ -34,9 +34,9 @@ Just how bad is Secrets of Dumbledore as a movie? And... what does it say about 
 PATREON: [link]
 TWITTER: [link]
 
-{% include chapter-link at="00:00" for"Introduction" %}  
-{% include chapter-link at="01:00" for"Part One" %}  
-{% include chapter-link at="12:11" for"Part Two" %}  
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="01:00" for="Part One" %}  
+{% include chapter-link at="12:11" for="Part Two" %}  
 
 </credits>
 </compare>
