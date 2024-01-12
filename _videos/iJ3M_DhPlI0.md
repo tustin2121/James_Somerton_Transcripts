@@ -28,7 +28,15 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+For more information on this era in history check out the documentary “The Lavender Scare” (2017)
+
+00:00 Introduction  
+03:44 Part One  
+15:58 Part Two  
+
+#lgbt #lgbtq
 
 </credits>
 </compare>

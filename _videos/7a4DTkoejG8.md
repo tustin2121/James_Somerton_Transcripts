@@ -31,7 +31,9 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Something new to the channel! Maybe something we'll keep doing? Let us know what you think of this format!
+
+[patreon link]
 
 </credits>
 </compare>

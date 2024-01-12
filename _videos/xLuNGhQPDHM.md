@@ -39,7 +39,18 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+JK Rowling has made her opinion of trans people clear, but where she stands in the hearts of the fans isn't nearly as obvious. Is enjoying Harry Potter also supporting Rowling by default? Or... can there be Harry Potter without JK Rowling?
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="01:12" for="Part One: The Philosopher's Denial" %}  
+{% include chapter-link at="09:02" for="Part Two: The Chamber of Anger" %}  
+{% include chapter-link at="16:26" for="Part Three: The Prisoner of Gender" %}  
+{% include chapter-link at="23:13" for="Part Four: The Goblet of Bargaining" %}  
+{% include chapter-link at="32:05" for="Part Five: The Order of Foundations" %}  
+{% include chapter-link at="44:40" for="Part Six: The Half-Depressed YouTuber" %}  
+{% include chapter-link at="51:25" for="Part Seven: The Deathly Acceptance" %}  
+
+#HarryPotter #JKRowling #LGBTQ
 
 </credits>
 </compare>

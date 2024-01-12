@@ -22,7 +22,18 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+How much influence has adult media had on the development of gay and bisexual men?
+
+PATREON LINK:[link]  
+James's Twitter:[link]  
+Nicks Twitter:[link]  
+
+00:00 Introduction  
+03:14 Segment 1  
+13:21 Segment 2  
+27:46 Segment 3  
 
 </credits>
 </compare>

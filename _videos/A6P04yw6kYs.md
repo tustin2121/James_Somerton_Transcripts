@@ -24,7 +24,21 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+How the media's cooption of fascist imagery, and it's constant "greyness" of villains has lead to a society that waves REAL fascism away.
+
+[patreon link]
+[website link]
+
+00:00 Introduction  
+02:55 Sponsor  
+04:57 Part One - Sitting Pretty  
+12:54 Part Two - So What?  
+26:10 Part Three - Main Herr  
+36:34 Part Four - Maybe This Time  
+
+#lgbt #lgbtq
 
 </credits>
 </compare>

@@ -27,7 +27,19 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
+
+PATREON: [link]
+
+00:00 Introduction  
+12:03 Part 1 - Genre F***  
+22:46 Part 2 - Mr. Rogers' Neighbourhood  
+29:33 Part 3 - Gate Kept  
+36:41 Part 4 - Size Queen  
+46:33 Part 5 - Targeted Audience  
+52:04 Part 6 - Raise Hell  
+
+#helluvaboss #hazbinhotel
 
 </credits>
 </compare>

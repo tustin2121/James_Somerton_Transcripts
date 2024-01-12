@@ -21,7 +21,13 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+A look at gay themes in JK Rowling's Harry Potter series. From Philosopher's Stone to Fantastic Beasts!
+
+Twiter
+@rantyravejames
+
+Patreon  
+[link]
 
 </credits>
 </compare>

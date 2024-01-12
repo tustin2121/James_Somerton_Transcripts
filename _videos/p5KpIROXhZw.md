@@ -38,7 +38,21 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+Join us on Patreon to see videos up to six months early!  
+[link]
+
+How is it that a straight writer creates some of the best queer characters in fiction?
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:00" for="Vers One" %}  
+{% include chapter-link at="11:32" for="Vers Two" %}  
+{% include chapter-link at="17:49" for="Vers Three" %}  
+{% include chapter-link at="22:25" for="Vers Four" %}  
+{% include chapter-link at="29:06" for="Vers Five" %}  
+{% include chapter-link at="35:51" for="Vers Six" %}  
+{% include chapter-link at="39:18" for="Vers Seven" %}  
 
 </credits>
 </compare>
@@ -46,7 +60,7 @@ cite:
 {% include transcript-start %}
 
 <compare>
-	<james {% include timecode %}>This video is brought to you by SquareSpace</james>
+<james {% include timecode %}>This video is brought to you by SquareSpace</james>
 </compare>
 
 <compare>

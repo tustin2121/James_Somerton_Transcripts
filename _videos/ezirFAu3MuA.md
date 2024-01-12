@@ -20,7 +20,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Why is it that, for queer people, perfection is a necessity instead of an option?
+
+PATREON: [link]
+
+00:00 Introduction  
+03:50 Chapter 1  
+12:00 Chapter 2  
+18:55 Chapter 3  
+31:27 Chapter 4  
+40:29 Chapter 5  
 
 </credits>
 </compare>

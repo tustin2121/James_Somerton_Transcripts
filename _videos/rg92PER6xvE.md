@@ -25,7 +25,17 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Nintendo has always had an odd relationship with gender representation and presentation. So let's talk it about it!
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="01:57" for="Part One - Lore" %}  
+{% include chapter-link at="06:28" for="Part Two - Assigned Game At Launch" %}  
+{% include chapter-link at="22:19" for="Part Three - Homo Hyrule" %}  
+{% include chapter-link at="33:18" for="Part Four - I Choose You!" %}  
+{% include chapter-link at="40:48" for="Part Five - Player Choice" %}  
+{% include chapter-link at="50:15" for="Part Six - Cheat Code" %}  
 
 </credits>
 </compare>

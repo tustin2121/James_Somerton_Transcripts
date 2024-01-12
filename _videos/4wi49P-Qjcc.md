@@ -24,7 +24,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+There's always been an attraction to fictional monsters, but what happens when that monster is real?
+
+PATREON: [link]
+
+00:00 Introduction  
+03:04 Part 1 - Framed  
+11:09 Part 2 - In Frame  
+20:24 Part 3 - Re-Framed  
+
+#dahmer #KillingStalking #truecrime
 
 </credits>
 </compare>

@@ -26,7 +26,12 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+A feature length video essay looking at the history of LGBT represenation in horror cinema.
+
+Inspired by the book of the same name by Harry M. Benshoff
+
+PATREON: [link]  
+TWITTER: [link]  
 
 </credits>
 </compare>

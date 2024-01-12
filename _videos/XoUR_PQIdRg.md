@@ -29,7 +29,22 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+SPOILERS AHEAD
+
+How “Our Flag Means Death” portrays the struggle of being your true self in a world that expects you to lie.
+
+Join my Patreon: [link]  
+Follow me on Twitter: [handle]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:16" for="Part One - It’s a Pirate Life, Hunty!" %}  
+{% include chapter-link at="12:30" for="Part Two - The Booty" %}  
+{% include chapter-link at="19:47" for="Part Three - A Man of Fortune" %}  
+{% include chapter-link at="27:06" for="Part Four - Dead Men Spill No Tea" %}  
+{% include chapter-link at="36:46" for="Part Five - Feelings in a Bottle" %}  
+{% include chapter-link at="42:04" for="Part Six - Buried Pleasure" %}  
+
+#OurFlagMeansDeath #GraceAndFrankie #VideoEssay
 
 </credits>
 </compare>

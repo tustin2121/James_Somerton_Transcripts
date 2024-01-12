@@ -21,7 +21,18 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+*Re-upload*
+
+The Q word is a very contentious one these days. But gay words have always been contentious. Let's have a look at their history, and what we can do to take the "hate" out of "hate speech".
+
+00:00 Intro  
+01:28 Part One  
+06:50 Part Two  
+12:51 Part Three  
+18:25 Part Four  
+24:10 Part Five  
+28:18 Part Six  
+34:36 Part Seven  
 
 </credits>
 </compare>

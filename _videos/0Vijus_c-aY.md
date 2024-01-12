@@ -22,7 +22,19 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+How Barbie is a masterpiece of modern camp, and why queer people connected with it so much.
+
+00:00 Introduction  
+08:53 Sponsor  
+09:56 Part 1  
+15:42 Part 2  
+21:56 Part 3  
+30:52 Part 4  
+38:20 Part 5  
+
+#Barbie #videoessay
 
 </credits>
 </compare>

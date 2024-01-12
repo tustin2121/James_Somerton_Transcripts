@@ -25,7 +25,17 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+What's more tragic? Being poor or being rich? You might be surprised at how media portrays it.
+
+PATREON: [link]
+
+Introduction 00:00
+Part One 03:52
+Part Two 15:16
+Part Three 25:41
+Part Four 32:02
+Part Five 38:08
+Part Six 47:50
 
 </credits>
 </compare>

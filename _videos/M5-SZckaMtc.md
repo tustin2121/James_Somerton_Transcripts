@@ -22,7 +22,10 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+[sponsor plug]
+
+[patreon link]
+[website link]
 
 </credits>
 </compare>

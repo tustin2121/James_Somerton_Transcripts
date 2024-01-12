@@ -20,7 +20,24 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Nick's Book!
+Amazon: [link]
+Everywhere Else: [link]
+
+My Instagram 
+[link]
+
+00:00 Intro
+01:09 Sandman
+04:54 Heartstopper
+08:23 Everything Everywhere All At Once
+11:28 Interview With The Vampire
+14:36 What We Do In The Shadows
+18:33 Chucky
+21:51 Out Flag Means Death
+24:04 American Horror Story
+
+#Bestof #Bestof2022
 
 </credits>
 </compare>

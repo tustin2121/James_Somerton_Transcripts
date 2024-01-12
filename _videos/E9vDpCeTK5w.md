@@ -23,7 +23,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Experience the queer joy in the multiverse of Everything Everywhere All At Once
+
+PATREON: [link]
+
+00:00 Introduction  
+01:40 Part One  
+11:56 Part Two  
+19:49 Part Three  
+
+#everythingeverywhereallatonce #Oscars #academyawards
 
 </credits>
 </compare>

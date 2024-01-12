@@ -20,7 +20,16 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+I went through a bunch of lists of “the best” LGBTQ movies and decided to put them in their place.
+
+[patreon link]
+
+00:00 Intro and Channel Update  
+03:12 1-10  
+13:09 11-20  
+20:21 21-30  
+31:21 31-40  
+42:19 41-52  
 
 </credits>
 </compare>

@@ -32,7 +32,23 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:42" for="All About Eve" %}  
+{% include chapter-link at="10:48" for="Whatever Happened To Baby Jane?" %}  
+{% include chapter-link at="25:28" for="Who's Afraid if Virginia Woolf?" %}  
+{% include chapter-link at="37:52" for="Mommie Dearest" %}  
+{% include chapter-link at="59:46" for="Intermission" %}  
+{% include chapter-link at="01:00:39" for="Clue" %}  
+{% include chapter-link at="01:07:02" for="Death Becomes Her" %}  
+{% include chapter-link at="01:20:13" for="Elvira" %}  
+{% include chapter-link at="01:26:17" for="Batman" %}  
+{% include chapter-link at="01:38:47" for="Drag Queen Road Trips" %}  
+{% include chapter-link at="01:46:36" for="But I'm a Cheerleader" %}  
+{% include chapter-link at="01:52:56" for="Climax" %}  
+
+#gay #lgbt #videoessay
 
 </credits>
 </compare>

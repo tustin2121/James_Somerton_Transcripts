@@ -30,7 +30,20 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Horror movies have been getting queerer in the new millennium.  
+[patreon link]
+
+#horrorstories #movies #gay 
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:56" for="Part One - The Monsters Are Real" %}  
+{% include chapter-link at="11:23" for="Part Two - The Evolution of Tolerance" %}  
+{% include chapter-link at="19:06" for="Chapter Three - Laugh Yourself To Death" %}  
+{% include chapter-link at="24:32" for="Chapter Four - Horror Becomes Real" %}  
+{% include chapter-link at="29:32" for="Chapter Five - All About The Dolls" %}  
+{% include chapter-link at="37:02" for="Chapter Six - We’re All The Final Girl" %}  
+{% include chapter-link at="45:24" for="Chapter Seven - Horrific Transitions" %}  
+{% include chapter-link at="52:04" for="Chapter Eight - They Always Get Up" %}  
 
 </credits>
 </compare>
