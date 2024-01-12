@@ -15,15 +15,22 @@ notes:
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
-    - "[/u/fairguinevere](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxm4lg)"
-    - "[/u/catie_cat_3183](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbzhm8u)"
-    - "[/u/maddrgnqueen](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbx03xz)"
+    - "[Todd in the Shadows](https://twitter.com/ShadowTodd/status/1731373746920022070)" #processed
+    - "[Hbomberguy](https://twitter.com/Hbomberguy/status/1731399574630355324)" #processed
+    - "[/u/fairguinevere](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxm4lg)" #processed
+    - "[/u/catie_cat_3183](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbzhm8u)" #processed
 
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    jon_tyler_thesis: { color: 10, short: "(Tyler, 2017)", full: "Tyler, J. (2017). The trail of blood : queer history through vampire literature [Thesis]. In <em>Theses.</em> Item 221. University of Alabama in Huntsville. Retrieved Jan 12, 2024, from", url: "https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses", type: "student" } #at 1476s
+    will_tringali_thesis: { color: 8, short: "(Tringali, 2016)", full: "Tringali, W.A. (2016, May 12). Not Just Dead, But Gay! Queerness and the Vampire [Thesis]. In <em>BSU Honors Program Theses and Projects</em>. Item 138. Available at: https://vc.bridgew.edu/honors_proj/138. Bridgewater State University. Retrieved Jan 12, 2024, from", url: "https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses", type: "student" }
+    vox_article: { color: 6, short: "(Abad-Santos, 2022)", full: "Abad-Santos, A. (2022, Oct 14). <em>The messy, thrilling queer allegory in Interview with the Vampire</em> [Article]. Vox.com. Retrieved Jan 12, 2024, from", url: "https://www.vox.com/culture/2022/10/14/23404308/interview-with-the-vampire-gay" }
+    
+    # Todd: Sometimes he will just plain forget who he's stealing from. He gives Fae Basir a "based on" credit in his vampire video, but Fae Basir has only written one thing, about queer themes in "Let the Right One In," which James never discusses. I gues he intended to steal and forgot. # Hbomb: That is literally what happened (include media\GAcqtmZa4AAYkor.png)
+    fae_basir: { color: 2, short: "", full: "", url: "https://www.fangoria.com/original/oskar-loves-eli-let-the-right-one-in-and-trans-romance/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -36,6 +43,9 @@ cite:
 </compare>
 
 {% include transcript-start %}
+
+
+
 
 this video is brought to you by Squarespace there has arguably never been a
 human civilization in history that did not exist under the threat of vampires in

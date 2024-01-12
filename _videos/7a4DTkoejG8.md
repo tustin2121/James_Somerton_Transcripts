@@ -17,7 +17,7 @@ contributors:
   downloaded: $cite$TerraJRiley
   formatting:
     - "[tobi-cat](https://github.com/tobi-cat)"
-    - Tustin2121
+    - $cite$Tustin2121
 
 cite:
   clips: !!map

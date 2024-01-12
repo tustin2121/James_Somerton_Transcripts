@@ -16,12 +16,21 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation:
+    - "[/u/heyheyitsmo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6glja/)" #processed
+    - "[/u/PrestigiousWhiskers](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcc8szv/?context=3)" #processed
 
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    judith_adkins: { color: 4, short: "(Adkins, 2016)", full: "Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).", url: "https://www.archives.gov/publications/prologue/2016/summer/lavender.html" }
+    johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book" }
+    nyt_1950: { color: 5, short: "", full: "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", url: "https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html" }
+    wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
+    wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
+    #  I found that a portion of his section on the Hollywood blacklist is taken from this random conspiracy theory blog that has a fair bit of antisemitic content on it. My browser (and those of friends) initially flagged it as unsafe to access. The page he's reading from is this: https://www.greatdreams.com/political/communism.html 
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

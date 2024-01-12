@@ -18,7 +18,9 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.p-wiki }} | &nbsp;&nbsp;&nbsp;&nbsp; Wikipedia articles plagiarized. |
 | {{stats.p-youtube }} | &nbsp;&nbsp;&nbsp;&nbsp; YouTube videos plagiarized. |
 | {{stats.p-news }} | &nbsp;&nbsp;&nbsp;&nbsp; News articles plagiarized. |
+| {{stats.p-book }} | &nbsp;&nbsp;&nbsp;&nbsp; Published books plagiarized. |
 | {{stats.p-academic }} | &nbsp;&nbsp;&nbsp;&nbsp; Journal-published academic articles plagiarized. |
+| {{stats.p-student }} | &nbsp;&nbsp;&nbsp;&nbsp; University student academic papers plagiarized (yes, really). |
 | {{stats.lies }} | Number of lies James has told in his videos.[^v] |
 | {{stats.yikes }} | Problematic takes in James's videos. |
 | | |

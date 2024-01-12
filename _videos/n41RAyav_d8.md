@@ -11,11 +11,17 @@ links: !!seq
 notes:
   - hbomb
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $cite$lvence
+
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
