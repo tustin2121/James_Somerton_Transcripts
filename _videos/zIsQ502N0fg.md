@@ -17,6 +17,8 @@ contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
+  citation-plus:
+    - "[jordantullis](https://github.com/tustin2121/James_Somerton_Transcripts/issues/6)"
   citation: 
     - "[/u/glitter408](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvpdib)"
     - "[/u/theogays](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2whl0)"
@@ -27,6 +29,11 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_china: { color: 1, short: "China (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644" }
+    wiki_addicted: { color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215" }
+    wiki_untamed: { color: 4, short: "Untamed (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551" }
+    vice_article: { color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq" }
+    ap_article: { color: 5, short: "China bans men (McDonald, 2021)", full: "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", url: "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f" }
 ---
 
 <compare>
@@ -222,18 +229,49 @@ And it’s all across the globe. Europe, South America, Australia, and most of A
 <compare>
 <james {% include timecode %}>
 
-Filmmaking had taken off in China in the 1930s when Chinese filmmakers, sick and tired of Hollywood’s racist and offensive depictions of the Chinese people, began making their own feature films. But After the communist revolution of 1949, domestic films that were already released and a selection of foreign films were banned. Despite this though, movie attendance increased sharply. 
-
-But then during the Cultural Revolution, the film industry was severely restricted, coming almost to a standstill from 1967 to 1972. But in the years immediately following the Cultural Revolution, the film industry flourished as a medium of popular entertainment. Production rose steadily, from 19 movies in 1977 to 125 movies in 1986. And the numbers of films just kept rising from there, though a pretty big chunk of the movies released were actually propaganda films financed by the Chinese government. 
+Filmmaking had taken off in China in the 1930s when Chinese filmmakers, sick and tired of Hollywood’s racist and offensive depictions of the Chinese people, began making their own feature films. But <mark>After the communist revolution of 1949, domestic films that were already released and a selection of foreign films were banned</mark>. <mark>Despite this</mark> though, <mark>movie attendance increased sharply.</mark> But then <mark>during the Cultural Revolution, the film industry was severely restricted, coming almost to a standstill from 1967 to 1972.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_china at="Intro ¶ 2" %}>
+
+After the end of the war, a second golden age took place, with production in Shanghai resuming. *Spring in a Small Town* (1948) was named the best Chinese-language film at the 24th Hong Kong Film Awards. <mark>After the communist revolution in 1949, domestic films that were already released and a selection of foreign films were banned</mark> in 1951, marking a tirade of film censorship in China.[6] <mark>Despite this</mark>, <mark>movie attendance increased sharply.</mark> <mark>During the Cultural Revolution, the film industry was severely restricted, coming almost to a standstill from 1967 to 1972.</mark> The industry flourished following the end of the Cultural Revolution, including the "scar dramas" of the 1980s, such as *Evening Rain* (1980), *Legend of Tianyun Mountain* (1980) and *Hibiscus Town* (1986), depicting [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Following the international commercial success of films like *Crouching Tiger, Hidden Dragon* and *Hero*, Hollywood started to take notice of the growing power of the Chinese market. And so they began a campaign to have more and more Hollywood movies released in China, which the government at the time was more than willing to let happen because it helped the nation feel further legitimized by the international community. 
+But <mark>in the years immediately following the Cultural Revolution, the film industry flourished as a medium of popular entertainment. Production rose steadily, from 19 movies in 1977 to 125 movies in 1986.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_china at="Films of the Cultural Revolution ¶ 2" %}>
+
+<mark>In the years immediately following the Cultural Revolution, the film industry again flourished as a medium of popular entertainment. Production rose steadily, from 19 features in 1977 to 125 in 1986.</mark><sup>[51]</sup> Domestically produced films played to large audiences, and tickets for foreign film festivals sold quickly. The industry tried to revive crowds by making more innovative and "exploratory" films like their counterparts in the West. 
+
+<footer>
+
+51. Bordwell and Thompson (2010). *Film History: An Introduction* (Third ed.). New York: McGraw-Hill Companies, Inc. p. 638. ISBN 978-0-07-338613-3. 
+
+</footer>
+</from>
+<james {% include timecode %}>
+
+And the numbers of films just kept rising from there, though a pretty big chunk of the movies released were actually propaganda films financed by the Chinese government. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<mark>Following the international commercial success of films like *Crouching Tiger, Hidden Dragon*</mark> and <mark>*Hero*</mark>, Hollywood started to take notice of the growing power of the Chinese market. And so they began a campaign to have more and more Hollywood movies released in China, which the government at the time was more than willing to let happen because it helped the nation feel further legitimized by the international community. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_china at="Intro ¶ 4" %}>
+
+<mark>Following the international commercial success of films such as *Crouching Tiger, Hidden Dragon*</mark> (2000) and <mark>*Hero*</mark> (2002), the number of co-productions in Chinese-language cinema has increased and there has been a movement of Chinese-language cinema into a domain of large scale international influence. After *The Dream Factory* (1997) demonstrated [...]
+
+</from>
+<james {% include timecode %}>
 
 China wasn’t a communist backwater nation like North Korea. It was a growing economy with happy citizens who wanted to enjoy films from all over the world. How happy their citizens really *were* is up for debate but that’s the narrative the Chinese government propagated. 
 
@@ -289,12 +327,25 @@ In recent years Chinese audiences have also shown a reticence to Hollywood movie
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-The Chinese Government, via their censorship bureau, is also making it increasingly difficult for Hollywood movies to get released in China at all. In November of 2016, China passed a law banning content deemed harmful to the “dignity, honor, and interests” of the People's Republic and encouraging the promotion of “socialist core values," approved by the National People's Congress Standing Committee. 
+The Chinese Government, via their censorship bureau, is also making it increasingly difficult for Hollywood movies to get released in China at all. <mark>In November of 2016, China passed a law banning content deemed harmful to the “dignity, honor, and interests” of the People's Republic and encouraging the promotion of “socialist core values," approved by the National People's Congress Standing Committee.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_china at="¶ 8" %}>
+
+<mark>In November 2016, China passed a film law banning content deemed harmful to the “dignity, honor and interests” of the People's Republic and encouraging the promotion of “socialist core values", approved by the National People's Congress Standing Committee.</mark><sup>[13]</sup> Due to industry regulations, films are typically allowed to stay in theaters for one month. However, studios may apply to regulators to have the limit extended.<sup>[14]</sup>
+
+<footer>
+
+13. Edwards, Russell (15 November 2016). "New law, slowing sales take shine off China's box office". *Atimes.com*. Retrieved 16 November 2016.
+
+14. Lin, Lilian (4 March 2016). "Making Waves: In Blow to Foreign Films, China Gives 'Mermaid' Three-Month Boost". *Wall Street Journal*.
+
+</footer>
+
+</from>
+<james {% include timecode %}>
 
 So basically any movie that portrays China in anything but the most glowing light will be banned immediately. 
 
@@ -381,115 +432,225 @@ The internet propelled the global growth and popularity of Boys’ Love, as non-
 <compare>
 <james {% include timecode %}>
 
-Subtle gay dramas and love stories, adapted from boys’ love webnovels, have become a very lucrative business in China. But even with the censorship laws, the appetite for queer content is just too big to ignore. A demand that comes mostly not from gay men, mind you, but straight women. 
+<mark>Subtle gay dramas</mark> and love stories, <mark>adapted from boys’ love webnovels, have become a very lucrative business in China</mark>. <mark x>But even with the censorship laws</mark>, <mark>the appetite for queer content is just too big to ignore. A demand that comes mostly not from gay men,</mark> mind you, but <mark>straight women.</mark> 
 
-At least eight shows adapted from novels with boys’ love romances premiered in 2021 across China’s major streaming platforms. The stories range from historical-fantasy action flicks to modern mystery thrillers and teenage melodramas. 
+<mark>At least eight shows adapted from novels with boys’ love romances</mark> <mark>premiered in 2021 across China’s major streaming platforms</mark>. <mark>The stories range from historical-fantasy action flicks to modern mystery thrillers and teenage melodramas.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 3-4" %}>
+
+<mark>Subtle gay dramas</mark>, <mark>adapted from boys’ love webnovels, has become a lucrative business in China</mark>, where <mark x>censorship of anything LGBTQ-related is tight</mark>. But <mark>the appetite for queer content is just too big to ignore, a demand that comes not from gay men,</mark> but mostly <mark>straight women.</mark>
+
+<mark>At least eight shows adapted from novels with boys’ love romances</mark> are expected to <mark>premiere this year across China’s major streaming platforms</mark>, including Alibaba’s Youku, Tencent Video, Mango TV, and iQIYI. <mark>The stories range from historical-fantasy action flicks to modern mystery thrillers and teenage melodramas.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Making and showing BL dramas in China is a tightly wound tight rope act between the profit-driven entertainment industry and the homophobic censorship of the Xi Jinping regime. In 2016, the hit teen series *Addicted* (also known as *Heroin*), a drama with explicit gay scenes premiered. It grabbed the attention of the Chinese government’s censors when it first aired in January of that year. 
+<mark>Making and showing BL dramas in China is</mark> a tightly wound tight rope act <mark>between the profit-driven entertainment industry and the homophobic censorship</mark> of the Xi Jinping <mark>regime.</mark> <mark>In 2016, the hit teen series *Addicted* (also known as *Heroin*), a drama with explicit gay scenes</mark> premiered. It grabbed the attention of the Chinese government’s censors when it first aired in January of that year. 
 
-The first episode garnered 10 million views in the span of 24 hours setting the record of the highest number of views on the first day in China's streaming television history. In less than a month, the series reached over 100 million views. It became a massive trending topic on Weibo, basically Chinese Twitter, with the show’s hashtag being viewed 849 million times. 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 7-8" %}>
+<h3>High risk, high returns</h3>
 
-<compare>
+<mark>Making and showing boys’ love dramas in China is</mark> a cat-and-mouse game <mark>between the profit-driven entertainment industry and the homophobic censorship</mark> <mark>regime.</mark>
+
+<mark>In 2016, the hit teen series *Addicted* (also known as *Heroin*), a drama with explicit gay scenes</mark>, was pulled from online streaming platform iQIYI before it could release its last three episodes. In 2018, the sci-fi drama Guardian went offline on video hosting site Youku two months after its release, even though the original gay romance storyline was rewritten as friendship. But the demand for boys’ love was clearly insatiable — before it was banned from Youku, Guardian had already racked up over a billion views.
+
+</from>
 <james {% include timecode %}>
 
-But then on February 23, all episodes of the show were removed from all Chinese video streaming websites three episodes before the season finale. This was by the order of the NRTA, or National Radio and Television Administration, due to "the gay and explicit content". 
+The <mark>first episode</mark> <mark>garnered 10 million views in the span of 24 hours</mark> <mark>setting the record of the highest number of views on the first day in China's streaming television history.</mark> <mark>In less than a month, the series reached over 100 million views</mark>. It <mark>became a massive trending topic on Weibo</mark>, basically Chinese Twitter, <mark>with the show’s hashtag being viewed <span stat:id="changed-number">849</span> million times</mark>. 
 
-The show is now impossible to view or access via mainland China’s internet. The last three episodes of the first season were uploaded to YouTube a few days later to make them accessible to viewers outside of mainland China. The censorship of the series sparked rampant criticism. Online discussions on Weibo with the hashtag "removal of Addiction" received more than 110 million views within a *day* of its cancellation. The Wall Street Journal and Time Magazine even published articles about it. 
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_addicted at="Reception ¶ 1" %}>
+<h2>Reception</h2>
+<h3>Audience viewership</h3>
+
+On January 29, 2016, the series' <mark>first episode</mark> premiered on Tencent Video, iQiyi, and other video sites and <mark>garnered 10 million views in the span of 24 hours</mark> after its initial online release, <mark>setting the record of the highest number of views on the first day in China's streaming television history.</mark><sup>[3][4]</sup> <mark>In less than a month, the series reached over 100 million views</mark>,<sup>[3][5]</sup> and it became the second most-watched show on iQiyi and the most-watched show on other video sites.<sup>[1][4]</sup> 
+
+<h3>Social media</h3>
+
+The series <mark>became a viral topic on Weibo</mark> and other social platforms. The word 上瘾 (Shàngyǐn) was mentioned more than 3.9 million times on Weibo in the week of 21 – 27 February 2016,<sup>[2]</sup> and <mark>the hashtag #上阴网络剧# (Shàngyǐn web drama) has been viewed over 840 million times</mark>.<sup>[3]</sup> A Weibo user wrote about how the series was a phenomenal success: 
+
+</from>
+<james {% include timecode %}>
+
+But then <mark>on February 23</mark>, <mark>all episodes of the show were removed from all Chinese video streaming websites three episodes before the season finale.</mark> This was <mark>by the order of the NRTA</mark>, or National Radio and Television Administration, <mark>due to "the gay and explicit content"</mark>. 
+
+The show is now impossible to view or access via mainland China’s internet. <mark>The last three episodes of the first season were uploaded</mark> to YouTube <mark>a few days later</mark> to make them <mark>accessible to viewers outside of mainland China.</mark> <mark>The censorship of the series sparked rampant criticism</mark>. <mark>Online discussions on Weibo with the hashtag "removal of Addiction" received more than 110 million views within a *day* of its cancellation.</mark> <mark>The Wall Street Journal and Time</mark> Magazine even <mark>published articles about</mark> it. 
 
 But despite the Chinese government’s best efforts to erase the show from existence, it’s gained a huge following outside of The Middle Kingdom, and a second season is coming soon, but production and distribution will be done in Taiwan. A country where the BL genre has become an industry all by itself. But I think that’s a <span class="add">whole</span> different video. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_addicted at="Censorship ¶ 1" %}>
+<h2>Censorship</h2>
+
+Despite the groundbreaking success, <mark>on February 23</mark>, 2016, <mark>all episodes of the drama were abruptly removed from all Chinese video streaming websites (three episodes before the season finale)</mark> <mark>by the order of SAPPRFT (now NRTA)</mark> <mark>due to "the gay and explicit content"</mark> and are no longer accessible to Chinese viewers,<sup>[2][6][7][8][9]</sup> much to the series viewers outrage.<sup>[10]</sup> <mark>The last three episodes of the first season were uploaded</mark> <mark>a few days later</mark> to the official YouTube channel of Huace Film & TV, <mark>accessible to viewers outside of mainland China.</mark> 
+
+<h3>Reaction</h3>
+
+<mark>The censorship of the series sparked criticisms</mark>, questions, and discussions about the taboo topic of homosexuality and the acceptance of LGBT community in authoritarian mainland China.<sup>[12]</sup> <mark>Online discussions on Weibo with the hashtag "removal of Addiction" received more than 110 million views within a day of its cancellation.</mark><sup>[1][12]</sup> American news media <mark>The Wall Street Journal and Time</mark> also <mark>published articles about</mark> the censorship.<sup>[1][13]</sup>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In 2018, the sci-fi drama *Guardian* went offline two months after its release, even though the original gay romance storyline was re-written as a friendship to try to appeal to the censors. They didn’t care about the rewrite though because Chinese viewers were shipping the characters whether they were written gay or not. 
-
-Before it was banned, *Guardian* had already pulled in over a billion views. The potential for some serious money encouraged companies to continue with the BL genre in China, but with a more understated tone that could possibly bypass the government censors. 
+<mark>In 2018, the sci-fi drama *Guardian* went offline</mark> <mark>two months after its release, even though the original gay romance storyline was re-written as a friendship</mark> to try to appeal to the censors. They didn’t care about the rewrite though because Chinese viewers were shipping the characters whether they were written gay or not. <mark>Before it was banned</mark>, <mark>*Guardian* had already pulled in over a billion views.</mark> 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 8" %}>
 
-<compare>
+In 2016, the hit teen series *Addicted* (also known as *Heroin*), a drama with explicit gay scenes, was pulled from online streaming platform iQIYI before it could release its last three episodes. <mark>In 2018, the sci-fi drama *Guardian* went offline</mark> on video hosting site Youku <mark>two months after its release, even though the original gay romance storyline was rewritten as friendship</mark>. But the demand for boys’ love was clearly insatiable — <mark>before it was banned</mark> from Youku, <mark>*Guardian* had already racked up over a billion views.</mark>
+
+</from>
 <james {% include timecode %}>
 
-The 2019 fantasy series *The Untamed*, featuring an unlikely bond between a man with magic powers and a stoic prince, started an online craze over the pair’s implicit romance. But the show’s promotion focused on its portrayal of Chinese traditional culture — a push consistent with Chinese Communist Party propaganda. 
-
-The show was queer baity, but the novel on which it was based certainly was not. That featured a very explicit love story between the two main characters, but was self-censored when adapted to meet the censorship guidelines of the Xi Jinping government. But it didn’t matter. Like so much queer baiting before, people saw through the weak venere<sup class"add">[sic: veneer]</sup> of heterosexuality. They took the bait, so to speak. 
+<mark>The potential for some serious money encouraged companies to continue</mark> with the BL genre in China, but with a more understated tone that could possibly bypass the government censors.  <mark>The 2019 fantasy series *The Untamed*, featuring an unlikely bond between a man with magic powers and a stoic prince, started an online craze over the pair’s implicit romance. But the show’s promotion focused on its portrayal of Chinese traditional culture — a push consistent with Chinese Communist Party propaganda.</mark> 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 9" %}>
 
-<compare>
+<mark>The potential for serious profits encourages companies to continue</mark> queerbaiting while trying to please censors by incorporating elements from official state ideology. <mark>The 2019 fantasy series *The Untamed*, featuring an unlikely bond between a cheeky magic-wielder and a stoic ice prince, started an online craze over the pair’s implicit romance. But the show’s promotion focused on its portrayal of Chinese traditional culture — a push consistent with Chinese Communist Party propaganda.</mark>
+
+</from>
 <james {% include timecode %}>
 
-The series has accumulated a total of 9.5 *billion* views in China, as of this summer, and had also received an international release via Netflix. It was described as a global phenomenon, taking off like no BL series before it. Making its way all around Asia and, with the Netflix deal, all across Europe and North America as well. TenCent, the Chinese streaming platform it originated on saw 2.6 million new subscribers to the service when it was released. And WeTV, an app that lets you watch BL content anywhere in the world, saw growth of 250% while the show was airing. 
-
-In January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included <q>Bangkok, Singapore, Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</q>, but it was cancelled due to COVID19. 
+The show was queer baity, but the <mark x>novel on which it was based certainly was not. That featured a very explicit love story between the two main characters</mark>, but was <mark x>self-censored when adapted to meet the censorship guidelines</mark> of the Xi Jinping government. But it didn’t matter. Like so much queer baiting before, people saw through the weak venere<sup class"add">[sic: veneer]</sup> of heterosexuality. They took the bait, so to speak. 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.wiki_untamed at="¶ 3" %}>
 
-<compare>
+The Untamed was a critical and commercial success, both locally and internationally, with critics praising its strong plot, well-rounded characters, and elaborate clothing and makeup.<sup>[7][8]</sup> While the <mark x>original web novel depicted an explicit romance between the two main male characters</mark>, <mark x>the adaptation was censored with homoerotic subtexts instead due to China's ban of LGBT portrayals</mark> in films.<sup>[9][10][11]</sup> It became one of the highest-earning dramas of 2019.<sup>[12][13]</sup> According to the "Research Report on China's Internet Audiovisual Development" for 2019 and the beginning of 2020, "The Untamed" ranked first in terms of popularity index.[14] Due to the series' success, two spin-off movies focusing on the supporting characters have been released: Fatal Journey (2019), and The Living Dead (2020).<sup>[15]</sup> The series passed 9.5 billion views on Tencent Video in June 2021, a few days before the second anniversary of its airing date, making it one of the highest-viewed Chinese dramas on the platform.<sup>[16]</sup> A mobile game based on the series is also set to be released by NetEase Games.<sup>[17]</sup> 
+
+</from>
 <james {% include timecode %}>
 
-Even the Chinese government has endorsed it. The overseas popularity of these romantic sword-wielding heroes is often highlighted in Chinese media coverage, focusing in on the massive overseas streaming numbers and its ability to build a growing appreciation for the charm of Chinese culture. 
-
-Meanwhile, production houses and streaming sites have snapped up the adaptation rights of other popular BL novels. Priest, author of *Guardian* and *Word of Honor*, will see at least four more of her novels adapted into live action series or movies. 
+<mark num=1>The series has accumulated a total of 9.5 *billion* views</mark> in China, <mark num=2>as of this summer</mark>, and had also received an international release via <mark num=3>Netflix</mark>. It was <mark num=4>described as a global phenomenon</mark>, taking off like no BL series before it. Making its way all around Asia and, with the Netflix deal, all across Europe and North America as well. TenCent, the Chinese streaming platform it originated on saw 2.6 million new subscribers to the service when it was released. And WeTV, an app that lets you watch BL content anywhere in the world, saw growth of 250% while the show was airing. 
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.wiki_untamed at="Reception ¶ 1" %}>
+<h2>Reception</h2>
 
-<compare>
+<mark num=1>The series has accumulated a total of 9.5 billion views</mark> on Tencent Video, <mark num=2>as of June 2021</mark>.<sup>[63]</sup> One of the major reasons for the series' popularity is its faithfulness to the original novel.<sup>[64]</sup> It was praised by People's Daily for its "wonderful presentation of Chinese characteristics"; showcasing traditional cultural elements through exquisite costumes, traditional Chinese music instruments; as well as transmitting positive values such as courage, chivalry and love for one's country.<sup>[65]</sup> China News Service similarly highlighted the exquisite costumes and showcase of traditional etiquette, while also praising the suspenseful plot and well-connected storyline.<sup>[66]</sup> Wang Yibo was initially criticized by viewers for his blank acting style in the first few episodes, which he later improved upon with the help of director's instructions.<sup>[67]</sup>
+
+The show has also garnered significant exposure and popularity globally for its strong plot, well-rounded characters, and elaborate clothing, makeup and stage production.<sup>[7][8]</sup> Film Daily <mark num=4>described the drama as a "Global Phenomenon,"</mark> and credited it for contributing to the increased presence and popularity of Asian content on popular streaming sites such as <mark num=3>Netflix</mark>.<sup>[68]</sup> The heroic story with modern values was said to have struck a chord globally, and helps promotes Chinese style and traditional culture to the world, leading to a wave of interest in Chinese dramas.<sup>[7]</sup>
+
+</from>
 <james {% include timecode %}>
 
-Knowing viewers jokingly call the homoerotic relationships in these dramas “socialist brotherhoods,” a reference to how on-screen homosexuality has to be disguised as <span class="add">a</span> bromance<span class="del">s</span> in line with official state ideology. I’m surprised that moniker hasn’t been taken up by some of my subscribers, to be honest. 
-
-But the rise of BL in China, sadly, doesn’t mean the Chinese government is going to soften its stance on LGBTQ rights anytime soon. For all its appeal to homoeroticism, the BL business in China survives by avoiding any discussion of these rights while focusing on the physical attractiveness of its male characters. 
+<mark>In January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><q><mark>Bangkok, Singapore,</mark> <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark></q>, <mark>but it was cancelled</mark> <mark>due to COVID19</mark>.
 
 </james>
-<from></from>
+<from>
+<from {% include citation for=page.cite.plagiarized.wiki_untamed at="Reception ¶ 7" %}>
+
+Responding to the demand of sold-out fan meetings in Thailand and China, <mark>in January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><mark>Bangkok, Singapore,</mark> Ho Chi Minh City, <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark>, <mark>but was cancelled</mark> after the Bangkok concert <mark>due to the recent pandemic</mark>.<sup>[74]</sup>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
+
+Even the <mark x>Chinese government has endorsed it</mark>. <mark>The overseas popularity of these romantic sword-wielding heroes is often highlighted in Chinese media coverage</mark>, <mark>focusing in on the massive overseas streaming numbers</mark> and its ability to build a growing appreciation for <mark>the charm of Chinese culture.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 11" %}>
+
+And so, boys’ love period dramas seem to have nestled <mark x>into official endorsement</mark> as a mascot of Chinese soft power. <mark>The overseas popularity of these romantic sword-wielding heroes is often highlighted in Chinese media coverage</mark> of boys’ love period dramas, <mark>zooming in on epic overseas streaming numbers</mark> and <mark>the charm of Chinese culture.</mark>
+
+</from>
+<james {% include timecode %}>
+
+<mark>Meanwhile, production houses and streaming sites have snapped up the adaptation rights of other popular BL novels. Priest, author of *Guardian* and *Word of Honor*, will see at least four more of her novels adapted into</mark> live action series or movies. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 13" %}>
+
+<mark>Meanwhile, production houses and streaming sites have snapped up the adaptation rights of other popular boys’ love novels. Priest, author of *Guardian* and *Word of Honor*, will see at least four more of her novels adapted into</mark> dramas.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Knowing viewers jokingly call the homoerotic relationships in these dramas “socialist brotherhoods,” a reference to how on-screen homosexuality has to be disguised as <span class="add">a</span> bromance<span class="del">s</span> in line with official state ideology.</mark> I’m surprised that moniker hasn’t been taken up by some of my subscribers, to be honest. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 16" %}>
+
+<mark>Knowing viewers jokingly call homoerotic relationships in these dramas “socialist brotherhood,” a reference to how on-screen homosexuality has to be disguised as bromances in line with official state ideology.</mark>
+
+</from>
+<james {% include timecode %}>
+
+But the rise of BL in China, sadly, doesn’t mean the Chinese government is going to soften its stance on LGBTQ rights anytime soon. <mark>For all its appeal to homoeroticism, the BL business in China survives by avoiding any discussion of these rights while focusing on the physical attractiveness of its male characters</mark>. 
 
 Ge Liang, a researcher at King’s College London said: 
 
 \[Quote scrolling on screen]:
-> “By hinting at male homoerotic love, the directors and actors are appropriating the interest of… gay life, trying to turn these into cash and traffic. But instead of speaking up for the LGBTQ community, they stay in line with China’s official policy on gay people: ‘keep them silent and keep them sinful.’” 
+> <mark>“By hinting at male homoerotic love, the directors and actors are appropriating the interest of</mark>… <mark>gay life, trying to turn these into cash and traffic</mark>. <mark>But instead of speaking up for the LGBTQ community, they stay in line with China’s official policy on gay people: ‘keep</mark> <span stat:id="changed-quote">them</span> <mark>silent and keep them sinful</mark>.’” 
 
-Most gay people in China still face prevalent discrimination in households, schools, and workplaces. But these struggles are invisible to the public eye, as state censors ban almost all representation of obvious homosexuality in mass media. In 2018, a writer was sentenced to more than 10 years in jail for writing and selling gay erotica. 
-
-However, some members of the gay community see BL dramas as a precious platform for queer stories. Where Chinese state media often portrays gay men as enemies to traditional values, and sources of social instability, subtle BL dramas have perhaps become the best form of queer representation in China’s state-sanctioned pop culture. 
+<mark>Most gay people in China still face prevalent discrimination in households, schools, and workplaces. But these struggles are invisible to the public eye, as state censors ban almost all representation of obvious homosexuality in mass media. In 2018, a writer was sentenced to more than 10 years in jail for writing and selling gay</mark> erotica. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 27-29" %}>
+<h2>Queerbaiting for cash</h2>
+
+<mark>For all its appeal to homoeroticism, the boys’ love business in China survives by avoiding any discussion of LGBTQ rights while focusing on the physical attractiveness of its male characters</mark> — a combination academics say has contributed to the silencing of sexual minorities in Chinese society.
+
+<mark>“By hinting at male homoerotic love, the directors and actors are appropriating the interest of</mark> funü and <mark>gay life, trying to turn these into cash and traffic</mark>,” said Ge Liang, a researcher at King’s College London who studies boys’ love literature in China. “<mark>But instead of speaking up for the LGBTQ community, they stay in line with China’s official policy on gay people: keep</mark> <mark>silent and keep them sinful</mark>.”
+
+<mark>Most gay people in China still face prevalent discrimination in households, schools, and workplaces. But these struggles are invisible to the public eye, as state censors ban almost all representation of homosexuality in mass media. In 2018, a writer was sentenced to more than 10 years in jail for writing and selling a gay</mark> porn novel; months later, when the film Bohemian Rhapsody was released in China, parts depicting Freddie Mercury’s relationships with men were unceremoniously cut. 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-But in March of this year, just as new series *Word of Honor* earned an impressive score of 8.6 out of 10 on review site Douban, an op-ed published via the state-run News Agency warned against the <q>“negative influence” of BL on impressionable teenagers</q>. Many feared this signalled an imminent crackdown on the genre. 
+<mark>However, some members of the gay community see BL dramas as a precious platform for queer stories. Where Chinese state media often portrays gay men as</mark> <mark>enemies to traditional values, and sources of social instability, subtle BL dramas have perhaps become the best form of queer representation in China’s state-sanctioned pop culture.</mark> 
 
-And then… The Chinese Government officially banned any representation of men in media that did not fit perfectly within the ideal of masculinity. No more bromances. No more coding. No more lingering looks or soft touches. President Xi Jinping has called for a ‘national rejuvenation,’ with tighter Communist Party control of business, education, culture, and religion. Companies and the public are under increasing pressure to align with its vision for a more powerful China. 
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 33" %}>
+<h2>Best we’ve got</h2>
+
+<mark>However, some members of the gay community see boys’ love dramas as a precious platform for queer stories. Where Chinese state media often portrays gay men as</mark> victims of crime, <mark>enemies to traditional values, and sources of social instability, subtle boys’ love dramas have perhaps become the best form of queer representation in China’s state-sanctioned pop culture.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But <mark>in March</mark> of this year, <mark>just as</mark> new series <mark>*Word of Honor* earned an impressive score of 8.6 out of 10 on review site Douban, an op-ed published via the state-run News Agency warned against the <q>“negative influence” of BL on impressionable teenagers</q>. Many feared this signalled an imminent crackdown on the</mark> <mark>genre.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 40" %}>
+
+But as Chinese censorship goes, the red line is vague and constantly shifting. <mark>In March</mark>, <mark>just as</mark> <mark>*Word of Honor* earned an impressive score of 8.6 out of 10 on review site Douban, an op-ed published on state-run Xinhua News Agency warned against the “negative influence” of boys’ love dramas on impressionable teenagers. Many fear this signals an imminent crackdown on the</mark> boys’ love <mark>genre.</mark>
+
+</from>
+<james {% include timecode %}>
+
+And then… The Chinese Government officially banned any representation of men in media that did not fit perfectly within the ideal of masculinity. No more bromances. No more coding. No more lingering looks or soft touches. <mark>President Xi Jinping has called for a ‘national rejuvenation,’ with tighter Communist Party control of business, education, culture, and religion. Companies and the public are under increasing pressure to align with its vision for a more powerful China</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.ap_article at="¶ 1-2" %}>
+
+BEIJING (AP) — China’s government banned effeminate men on TV and told broadcasters Thursday to promote “revolutionary culture,” broadening a campaign to tighten control over business and society and enforce official morality.
+
+<mark>President Xi Jinping has called for a “national rejuvenation,” with tighter Communist Party control of business, education, culture and religion. Companies and the public are under increasing pressure to align with its vision for a more powerful China</mark> and healthier society.
+
+</from>
+<james {% include timecode %}>
 
 Which… if you look to your history books, when a country starts locking down the media and attacking a *very specific* minority group as being the propagator of all the nation’s ails, as the Chinese government is now doing with what they describe as ‘sissy men’... That usually means the government is on the ropes, whether we see it publicly or not. 
 {% assign timecode = "24:24" %}

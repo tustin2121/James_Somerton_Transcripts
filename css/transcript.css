@@ -241,6 +241,12 @@
 	compare footer[signed]::after {
 		content: ' --' attr(signed);
 	}
+	compare footer li > p {
+		margin-block: 0;
+	}
+	compare footer li > p:last-child {
+		margin-bottom: 0;
+	}
 	
 	compare clip hr {
 		margin: 0 3em 1em !important;
