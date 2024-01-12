@@ -82,9 +82,10 @@
 						Fact-checked by {% include name-list name=page.contributors.factcheck -%}.<br/>
 					{%- endif -%}
 					{%- if page.contributors.citation-plus -%}
-						Thanks to {% include name-list name=page.contributors.citation-plus %} for tracking down and highlighting the sources.<br/>
-					{%- elsif page.contributors.citation -%}
-						Thanks to {% include name-list name=page.contributors.citation %} for finding the sources.<br/>
+						Thanks to {% include name-list name=page.contributors.citation-plus %} for tracking down and highlighting various sources.<br/>
+					{%- endif -%}
+					{%- if page.contributors.citation -%}
+						{%- if page.contributors.citation-plus -%}Additional thanks{%-else-%}Thanks{%-endif %} to {% include name-list name=page.contributors.citation %} for finding various sources.<br/>
 					{%- endif -%}
 					{%- if page.contributors.thanks -%}
 						Special thanks to {% include name-list name=page.contributors.thanks %}.<br/>
