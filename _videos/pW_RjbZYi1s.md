@@ -1,9 +1,10 @@
 ---
 date: 2023-07-13
 title: The History of Gay Hollywood
-status: Auto
+status: In Progress
 aka: !!seq
   - "The Queer History of Hollywood (Thumbnail)"
+  - "(This is essentially an expanded version of Unrequited.)"
   # - "How Hollywood Was Born Gay"
   # - "Hollywood's Golden Age (of Queer Coding)"
   # - "America's War on the Gays (and Communists)"
@@ -15,7 +16,7 @@ aka: !!seq
   # - "Opening Hollywood's Closet (Thumbnail)"
   # - "Dying to be Gay (Thumbnail)"
 topics: !!seq
-  - "<media>"
+  - "Unrequited"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
   - "https://www.youtube.com/watch?v=4shTfS6hyjE" # Reuploads channel
@@ -203,9 +204,7 @@ By December of that year 4,954 suspected homosexuals had been removed from emplo
 <compare>
 <james meta fade=out {% include timecode %} id="ch3-in">
 
-Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
-
-Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+As the second world war ended and masses of servicemen returned home to America having spent almost *all* of their time away exclusively with other men, there seemed to be an opening of the minds of the American populace when it came to homosexuality. 
 
 </james>
 <subvideo>
@@ -216,7 +215,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 </subvideo>
 <james meta fade=in id="ch3-out">
 
-Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+But even with deep *deep* coding... there was a catch anyone confirmed to be gay or even heavily coded to be... wouldn't have it easy. And to live a life true to themselves they might just have to die for it.
 
 </james>
 </compare>
