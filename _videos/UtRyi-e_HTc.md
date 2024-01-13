@@ -20,6 +20,11 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+    wiki_summer: { color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843" }
+    wiki_childhour: { color: 4, short: "The Children's Hour (Wikipedia, 2023)", full: "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913" }
+    wiki_advise: { color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205" }
+    wiki_victim: { color: 6, short: "Victim (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
