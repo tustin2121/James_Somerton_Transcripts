@@ -2,7 +2,7 @@
 date: 2023-05-11
 title: 'Where The "Bury Your Gays" Trope Came From'
 parent: pW_RjbZYi1s
-status: Fiished
+status: Finished
 aka: !!seq
   - "Dying to be Gay (Thumbnail)"
 topics: !!seq
