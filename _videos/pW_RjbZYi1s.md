@@ -104,10 +104,70 @@ Over the last several years there have been demands for more LGBTQ represention 
 </james>
 <subvideo>
 
+See Video 1 for the Cold Open
+
 {%- assign subvid = subvids[0] -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
-TODO double check everything 
+</subvideo>
+<james meta fade=in id="title-in">
+
+tradespeople that helped turn Hollywood from a backwater orange grove in California to the city in which thousands of young dreamers make their way each year in hopes of becoming a star. It’s a long story. And like most classic American tales… it actually doesn’t begin in America at all. 
+
+</james>
+</compare>
+
+<compare>
+<credits class="opening" {% include timecode %} style="letter-spacing: 6px; font-family: serif;">
+
+> Telos Pictures  
+> <span style="font-size:small;">presents</span>
+
+> Written by  
+James Somerton  
+
+> Adapted From The Book  
+> "The Celluloid Closet"  
+> <span style="font-size: larger;">by VITO RUSSO</span>  
+
+> Executive Producers  
+[Eleven Patron Names]
+
+> Executive Producers  
+[Ten Patron Names]
+
+> Executive Producers  
+[Ten Patron Names]
+
+> <span style="font-size: xx-large;">UNREQUITED</span>  
+> <span style="font-size: x-small;">The History of Queer Hollywood</span>
+
+</credits>
+<comment>
+{% include header for=tustin %}
+
+These stupid titles are impossible to read because the font is so thin, spaced out, miniscule, and white over yellow most of the time. If I had to suffer, so should you, muahahaha.
+
+![](../media/hollywood_title.jpg)
+
+Also, this is the only "movie" that Telos Pictures ever put its branding on.
+
+</comment>
+{% assign timecode = "3:08" %}
+</compare>
+
+## Chapter One - The Birth of Gay Hollywood
+
+<compare>
+<james meta fade=out {% include timecode %} id="title-out">
+
+The love that dared not speak its name in *America* was surprisingly fluent when speaking German throughout the silent era of film. While America was using its new toy to glorify the Old West, recreating the fading dreams of its own mythology, 
+
+</james>
+<subvideo>
+
+{%- assign subvid = subvids[0] -%}
+{% include video-card video=subvid anchor="title-end" %}
 
 </subvideo>
 <james meta fade=in id="ch1-out">
@@ -120,11 +180,9 @@ General American audiences though could easily see through the coding. However, 
 ## Chapter Two - The Invisible Men
 
 <compare>
-<james meta fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %} id="ch2-in">
 
-Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
-
-Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+In Hollywood's early years, homosexuality found its way on screen in ways both secret *and* obvious to the filmmakers behind the camera. Audiences *rarely* pushed back against these depictions, but those who *did* were loud, if not legion. Women's suffrage groups and the Catholic Church were the most dedicated to removing gay and lesbian content from Hollywood movies.
 
 </james>
 <subvideo>
@@ -133,17 +191,17 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james meta fade=in>
+<james meta fade=in id="ch2-out">
 
-Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+By December of that year 4,954 suspected homosexuals had been removed from employment in the federal government. The Lavender Scare was gripping Washington, and with the help of a future president, would soon dig its claws deep into Hollywood as well.
 
 </james>
 </compare>
 
-## Chapter 3
+## Chapter Three - Black Listed
 
 <compare>
-<james meta fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %} id="ch3-in">
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -156,7 +214,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james meta fade=in>
+<james meta fade=in id="ch3-out">
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 
@@ -166,7 +224,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 ## Chapter 4
 
 <compare>
-<james meta fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %} id="ch4-in">
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -179,7 +237,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james meta fade=in>
+<james meta fade=in id="ch4-out">
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 
@@ -189,7 +247,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 ## Chapter 5
 
 <compare>
-<james meta fade=out {% include timecode %}>
+<james meta fade=out {% include timecode %} id="ch5-in">
 
 Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
 
@@ -202,7 +260,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 {% include video-card video=subvid %}
 
 </subvideo>
-<james meta fade=in>
+<james meta fade=in id="ch5-out">
 
 Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
 

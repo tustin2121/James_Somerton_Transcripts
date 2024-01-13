@@ -106,6 +106,8 @@ But *Wings* is actually not where our story begins. The history of Hollywood has
 <from></from>
 </compare>
 
+<div class="notice-banner" id="title-start">For the compilation video, see <a href="{{ page.parent | slugify }}.html#title-in">the opening credits. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+
 <compare>
 <james meta {% include timecode %}>
 
@@ -151,7 +153,7 @@ These stupid titles are impossible to read because the font is so thin, spaced o
 
 ![](../media/hollywood_title.jpg)
 
-Also, this is the only "movie" that Telos Pictures ever put its branding on.
+Note: The compilation video's titles are slightly different. In fact, this seems to be the only video which has Nick as a writer.
 
 </comment>
 {% assign timecode = "3:37" %}
@@ -165,13 +167,9 @@ Also, this is the only "movie" that Telos Pictures ever put its branding on.
 > The Birth of Gay Hollywood
 
 </credits>
-<comment>
-{% include header for=tustin %}
-
-In the compilation video, this title is instead much more colorful, over some blue shimmering backdrop.
-
-</comment>
 </compare>
+
+<div class="notice-banner" id="title-end"><a href="{{ page.parent | slugify }}.html#title-out"><i class="fa-solid fa-right-to-bracket"></i> For the compilation video</a>, resume here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -352,7 +350,7 @@ When it comes to *American-made* gay characters, <mark>one of the earliest direc
 </from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?">The comedy here was highlighting how out-of-place this sissy boy was in this rough-and-tumble world of the men who won the west.</span> The irony of course is that… there is *significant* historical evidence to suggest that the west was in fact RIFE with gay men (many from Europe) and was largely settled by women in sex work. 
+<span visual=none on="?" off="?">The comedy here was highlighting how out-of-place this sissy boy was in this rough-and-tumble world of the men who won the west.</span> The irony of course is that… there is *significant* historical evidence to suggest that the west was in fact RIFE with gay men (many from Europe) and was largely settled by women in sex work.<sup cn></sup> 
 
 However even though *The Soilers* is a mockery of queerness, among other things, the use of satire indicates that Homosexuality, especially in the context of it existing in traditionally masculine spaces, *was* on the mind of the public at large. Satire can’t function well if it’s not deriving <del>content</del><ins>context</ins> from popular ideas. <span visual=none on="?" off="?">Even as the sissy cowboy isn’t flattering, though he is slaying,</span> his inclusion indicates that the public was, perhaps at the time, willing to accept us as harmless, though strange and out of place.
 
@@ -503,7 +501,7 @@ James literally inverted Vito's meaning. Vito says "always", and James says "but
 
 Gays were also associated with dangerous revolutionaries hiding beneath the surface of normal society. <span visual=none on="?" off="?"><mark>The ghetto was one otherworld in which</mark> gay characters might frequently be seen <mark>on-screen *before* and *after* the reign of the Motion Picture Production Code.</mark> <mark>This represented the reality of the majority of Gay experiences</mark> at the time, <mark>which had been restricted to manifestations in slums of one kind or another</mark>. The underground life as a shelter for gays is a common theme.</span>
 
-<span visual=none on="?" off="?">In many instances, <mark>the gay ghetto has been linked to the criminal underground</mark>. This is due to the fact that whenever there is an <mark>increase in illegal activity</mark> of *any* kind, even homosexuality, <mark>organized crime moves in to take control</mark> of the situation <mark>and make a profit</mark>. </span>(Though it should be noted that organized crime functions VERY differently than Hollywood often depicts, and in some cases, especially from the 40s and onward, can be beneficial to growing a community and preventing gentrification and climbing rental rates.) 
+<span visual=none on="?" off="?">In many instances, <mark>the gay ghetto has been linked to the criminal underground</mark>. This is due to the fact that whenever there is an <mark>increase in illegal activity</mark> of *any* kind, even homosexuality, <mark>organized crime moves in to take control</mark> of the situation <mark>and make a profit</mark>. </span>(Though it should be noted that organized crime functions VERY differently than Hollywood often depicts, and in some cases, especially from the 40s and onward, can be beneficial to growing a community and preventing gentrification and climbing rental rates.)<sup cn></sup> 
 
 <span visual=none on="?" off="?">Though as far as Hollywood played into misconceptions of criminal behavior, <mark x>homosexuals were widely considered to be a criminal group</mark>,</span> which differentiated them from other types of minority groups. <mark x>Crime rates might be high in some majority non-white areas, but just being a person of color was not, itself, *technically* illegal.</mark> (Though representatives and law enforcement may act otherwise.) 
 
@@ -568,18 +566,22 @@ Hollywood has always been more restrained on the screen than in real life. <span
 </from>
 <james {% include timecode %}>
 
-<span visual=none on="?" off="?"><mark>Although the villainous character of Joel Cairo</mark> <mark>in “The Maltese Falcon,”</mark> <mark>is identified by Sam Spade's secretary in</mark> the *novel*</span> <mark>as homosexual</mark>, <span visual=none on="?" off="?"><mark>the film version</mark>, instead, <mark>just turns him into a perfume</mark> wearing, cane kissing, ‘sissy’ <mark>with lace hankies</mark>.</span> 
+<span visual=none on="?" off="?"><mark>Although the villainous character of Joel Cairo</mark> <mark>in “The Maltese Falcon,”</mark> <mark>is identified by Sam Spade's secretary in</mark> the </span> <mark>*novel*as homosexual</mark>, <span visual=none on="?" off="?"><mark>the film version</mark>, instead, <mark>just turns him into a perfume</mark> wearing, cane kissing, ‘sissy’ <mark>with lace hankies</mark>.</span> 
 
 <span visual=none on="?" off="?"><mark>Elisha Cook jr. as Sidney Greenstreet's bodyguard Wilmer, however, is *implicitly* homosexual. He is referred to as "sonny," "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark></span> <mark>Since about 1915,</mark> <mark>prisoners had used the German word</mark> <mark>gunsel to mean a bottom, especially young inexperienced</mark> *criminal* bottoms. 
-
-All of this was meant to connect the queer underworld with the underworld run, *mostly*, by the Sicillian mafia who, due to movies like *Scarface* and *Public Enemy*, were roundly feared across the country. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p46" %}>
 
-<mark>Although the character of Joel Cairo</mark> (Peter Lorre) <mark>in *The Maltese Falcon*</mark> (1941) <mark>is identified by Sam Spade's secretary in</mark> Dashiell Hammett's novel <mark>as a homosexual</mark>, <mark>the film version</mark> <mark>just turns him into a perfumed</mark> fop <mark>with lace hankies</mark>. A brief, sarcastic reference by a venomous Mary Astor to "that young boy in Istanbul," the character with whom Cairo had a little trouble, is murky and unexplored. <mark>Elisha Cook, Jr., as Sidney Greenstreet's bodyguard Wilmer, however, is implicitly homosexual. He is referred to as "sonny." "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark> <mark>Since about 1915,</mark> bums and <mark>prisoners had used the German word</mark> *gansel* or *gosling*, corrupted to <mark>*gunsel*, for a passive sodomite, especially a young, inexperienced</mark> boy compan&shy;ion. From the mid 1920s it gradually came to mean a sneaky or disreputable person of any kind. By the 1930s it meant petty gangster or hoodlum. That film characters like Wilmer and the taxi driver in *Blood Money* shared a feminine status is obvious. The only variation was the degree to which that equation was carried to its common underworld conclusion.
+<mark>Although the character of Joel Cairo</mark> (Peter Lorre) <mark>in *The Maltese Falcon*</mark> (1941) <mark>is identified by Sam Spade's secretary in</mark> Dashiell Hammett's <mark>novel as a homosexual</mark>, <mark>the film version</mark> <mark>just turns him into a perfumed</mark> fop <mark>with lace hankies</mark>. A brief, sarcastic reference by a venomous Mary Astor to "that young boy in Istanbul," the character with whom Cairo had a little trouble, is murky and unexplored. <mark>Elisha Cook, Jr., as Sidney Greenstreet's bodyguard Wilmer, however, is implicitly homosexual. He is referred to as "sonny." "boy" and "kid," and Bogart derisively calls him a "gunsel."</mark> <mark>Since about 1915,</mark> bums and <mark>prisoners had used the German word</mark> *gansel* or *gosling*, corrupted to <mark>*gunsel*, for a passive sodomite, especially a young, inexperienced</mark> boy compan&shy;ion. From the mid 1920s it gradually came to mean a sneaky or disreputable person of any kind. By the 1930s it meant petty gangster or hoodlum. That film characters like Wilmer and the taxi driver in *Blood Money* shared a feminine status is obvious. The only variation was the degree to which that equation was carried to its common underworld conclusion.
 
 </from>
+<james {% include timecode %}>
+
+All of this was meant to connect the queer underworld with the underworld run, *mostly*, by the Sicillian mafia who, due to movies like *Scarface* and *Public Enemy*, were roundly feared across the country.<sup cn></sup>
+
+</james>
+<from></from>
 {% assign timecode = "22:00" %}
 <james {% include timecode %}>
 
@@ -626,9 +628,9 @@ The essence of homosexuality as a predatory weakness permeates the depic tion of
 </from>
 <james {% include timecode %}>
 
-It should be noted that many articles<sup cn></sup> on James Whale do not reference his refusal to be closeted, nor the Hayes Code in general, as a reason for the decline of his career. In spite of available first-hand testimonials demonstrating that it wasn’t just a contributing factor — that it was THE main reason. 
+It should be noted that many articles<sup cn></sup> on James Whale do not reference his refusal to be closeted, nor the Hayes Code in general, as a reason for the decline of his career.<sup cn></sup> In spite of available first-hand testimonials demonstrating that it wasn’t just a contributing factor — that it was THE main reason. 
 
-And Aldrich, who WAS a company director, if not an incredibly good one, would have been in-the-know about what producers and studio heads were saying behind the scenes. 
+And Aldrich, who WAS a company director, if not an incredibly good one, would have been in-the-know about what producers and studio heads were saying behind the scenes.
 
 </james>
 <from></from>
@@ -711,7 +713,7 @@ Probably the "gayest" film yet made by a major studio and an excellent spoof of 
 
 <mark>Tim Curry's performance, especially in his rendition of "Sweet Transvestite," is the essence of what every parent in America feared would happen if our sexual standards were relaxed. It becomes the living horror of making deviant sexuality visible and tangible in the only kind of setting in which it could possibly work, an old dark house populated by</mark> <span stat:id="sub-queer">every letter of the LGBTQ</span> alphabet soup, as they <mark>sing rock and roll to seduce the innocent youth of America.</mark> 
 
-<mark>Hollywood didn't know what to do with *The Rocky Horror Picture Show*</mark> then and probably wouldn't know what to do with it now. <mark>But despite its shabby treatment it has grossed</mark> *hundreds* of millions of dollars over the years and <mark>continues to play throughout the</mark> world <mark>to audiences made up</mark> of largely <mark>young people who</mark> attend screenings with bags of rice, stale toast, corsets, boas, and fishnets. 
+<mark>Hollywood didn't know what to do with *The Rocky Horror Picture Show*</mark> then and probably wouldn't know what to do with it now. <mark>But despite its shabby treatment it has grossed</mark> *hundreds* of millions of dollars<sup cn></sup> over the years and <mark>continues to play throughout the</mark> world <mark>to audiences made up</mark> of largely <mark>young people who</mark> attend screenings with bags of rice, stale toast, corsets, boas, and fishnets. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p52-53" %}>
