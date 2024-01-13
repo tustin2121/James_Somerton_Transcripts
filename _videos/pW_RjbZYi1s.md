@@ -4,7 +4,6 @@ title: The History of Gay Hollywood
 status: In Progress
 aka: !!seq
   - "The Queer History of Hollywood (Thumbnail)"
-  - "(This is essentially an expanded version of Unrequited.)"
   # - "How Hollywood Was Born Gay"
   # - "Hollywood's Golden Age (of Queer Coding)"
   # - "America's War on the Gays (and Communists)"
@@ -20,7 +19,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
   - "https://www.youtube.com/watch?v=4shTfS6hyjE" # Reuploads channel
-# description: "a video essay on...?"
+description: "a remake of his Unrequited video, ripping off the book instead of the documentary this time."
 notes: 
   - multipart
   - hbomb
@@ -121,6 +120,8 @@ tradespeople that helped turn Hollywood from a backwater orange grove in Califor
 <compare>
 <credits class="opening" {% include timecode %} style="letter-spacing: 6px; font-family: serif;">
 
+\[Opening credits of gold playing over ["The Abstract Glitch" by Alex Menco](https://www.youtube.com/watch?v=CGRQt_7d8Ws)]
+
 > Telos Pictures  
 > <span style="font-size:small;">presents</span>
 
@@ -189,7 +190,7 @@ In Hollywood's early years, homosexuality found its way on screen in ways both s
 <subvideo>
 
 {%- assign subvid = subvids[1] -%}
-{% include video-card video=subvid %}
+{% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
 <james meta fade=in id="ch2-out">
@@ -204,13 +205,13 @@ By December of that year 4,954 suspected homosexuals had been removed from emplo
 <compare>
 <james meta fade=out {% include timecode %} id="ch3-in">
 
-As the second world war ended and masses of servicemen returned home to America having spent almost *all* of their time away exclusively with other men, there seemed to be an opening of the minds of the American populace when it came to homosexuality. 
+In the early 20th century, the United States experienced a period of political persecution and anxiety known as the "Red Scare". There were two different eras in American history that are collectively known as the Red Scare, both of which were marked by widespread anxiety over communism and other leftist ideas.
 
 </james>
 <subvideo>
 
 {%- assign subvid = subvids[2] -%}
-{% include video-card video=subvid %}
+{% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
 <james meta fade=in id="ch3-out">
@@ -220,30 +221,28 @@ But even with deep *deep* coding... there was a catch anyone confirmed to be gay
 </james>
 </compare>
 
-## Chapter 4
+## Chapter Four - Dying to be Gay
 
 <compare>
 <james meta fade=out {% include timecode %} id="ch4-in">
 
-Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.
-
-Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.
+As the film industry moved away from suburban perfection, the extensive efforts made by Hollywood to conceal homosexuality in film during the post-war Lavender Scare era began to deteriorate. And then Hollywood came to realize that they were ignoring a large audience. No, not gays.
 
 </james>
 <subvideo>
 
 {%- assign subvid = subvids[3] -%}
-{% include video-card video=subvid %}
+{% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
 <james meta fade=in id="ch4-out">
 
-Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.
+gay people to the attention of the general public, and then the gay inclusive x-rated *Midnight Cowboy* won the Oscar for Best Picture, the norms surrounding the depiction of gay characters in film began to disintegrate. Gay people could now exist in Hollywood. But for how long?
 
 </james>
 </compare>
 
-## Chapter 5
+## Chapter Five - A Crack in the Closet
 
 <compare>
 <james meta fade=out {% include timecode %} id="ch5-in">
@@ -256,7 +255,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 <subvideo>
 
 {%- assign subvid = subvids[4] -%}
-{% include video-card video=subvid %}
+{% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
 <james meta fade=in id="ch5-out">

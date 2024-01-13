@@ -552,19 +552,19 @@ A Famous Instance Of Gay Coding Being Too Obvious, Even For The Production Code 
 <from></from>
 <clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- no filter? -->
 
-Master: "Do you eat oysters?"
+Crassius: "Do you eat oysters?"
 
 Antoninus: "When I have them, master."
 
-Master: "Do you eat snails?"
+Crassius: "Do you eat snails?"
 
 Antoninus: "No, master."
 
-Master: "Do you consider the eating of oysters to be moral, and the eating of snails to be immoral?"
+Crassius: "Do you consider the eating of oysters to be moral, and the eating of snails to be immoral?"
 
 Antoninus: "No, master."
 
-Master: "Of course not. My taste includes... both snails and oysters."<wbr off />
+Crassius: "Of course not. My taste includes... both snails and oysters."<wbr off />
 
 </clip>
 <james {% include timecode %}>
@@ -677,7 +677,7 @@ Hallie: "I'll change!"
 Jo: "Of course, you'll change! But haven't you said that so many times before?! But go on and tell him! Tell them about the days and nights of Hallie Gerard! Tell them about the mud you've rolled in for years! Well, tell him!!"
 
 </clip>
-<clip {% include citation for=page.cite.clips. %}>
+<clip {% include citation for=page.cite.clips.the_detective %}>
 
 \[Clip from *The Detective* (1968)]:
 

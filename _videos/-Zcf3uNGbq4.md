@@ -418,7 +418,7 @@ Early efforts of the film colony to regulate itself proved clearly inadequate to
 <footer signed="{{ tustin.name }}">They became box office... What?! Box office what?! Vito, I think you forgot a very important there.</footer>
 
 </from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark><span visual=none on="?" off="?">By 1922 there were censorship bills before the legislatures of 32 states,</span> and throughout the nation the distinct rank of moral indignation was wafting its way toward an industry that at times seemed to embody <span visual=none on="?" off="?">wicked behavior of all <del>sorts</del><ins>kinds</ins>.</span></mark>
 
@@ -426,7 +426,7 @@ Early efforts of the film colony to regulate itself proved clearly inadequate to
 
 > <mark>"This picture is in no way religious in theme or interpretation. In my judgment, it is a story of depravity and immorality made worse because of its biblical background.</mark> 
 >
-> <span stat:id="changed-quote">Absolutely</span> <mark>sacrilegious.</mark>” 
+> <mark fc stat:id="changed-quote">Absolutely</mark> <mark>sacrilegious.</mark>” 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p27-29" %}>
@@ -434,6 +434,10 @@ Early efforts of the film colony to regulate itself proved clearly inadequate to
 <mark>By 1922 there were censorship bills before the legislatures of thirty-two states, and throughout the nation the distinct odor of moral indignation was rising at an industry that at times seemed to embody wicked behavior of all sorts.</mark> <mark>The censors were horrified by *Salome*</mark> and <mark>ordered the elimination of several sequences, including one that made clear a homosexual relationship between two Syrian soldiers.</mark> <mark>The handwritten report of the examining censor in New York</mark>, filled out at a screening in 1923, <mark>concluded:</mark> <mark>"This picture is in no way religious in theme or interpretation. In my judgment, it is a story of depravity and immorality made worse because of its biblical background.</mark> <mark>Sacrilegious.</mark>"
 
 </from>
+<comment>
+{% include header for=tustin %}
+<p>What is it with James and changing direct quotes? He does it so much, <a href="../stats.html">we have a statistic for it.</a></p>
+</comment>
 <james {% include timecode %}>
 
 <span visual=none on="?" off="?">American <mark>censors</mark> became even more potent <mark>in the late 1920s and early 30s.</mark> <mark>The inclusion of audio</mark> into what were briefly dubbed as ‘talkies’ <mark>brought a new element of realism to the screen,</mark></span> <span visual=none on="?" off="?"><mark>and public morality watch dogs began to bear down on the industry</mark>.</span> 

@@ -18,6 +18,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=V2--C3AQfSE"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230415+iJ3M_DhPlI0+America+v.+Homosexuality.webm"
   - "https://archive.org/details/james-somerton-public-records/America%E2%80%99s+War+on+the+Gays+(and+communists).mp4"
+# description: "a video essay — I mean, a reading of Vito Russo's book — covering the "
 notes:
   - hbomb
 
@@ -60,8 +61,6 @@ For more information on this era in history check out the documentary “The Lav
 
 {% include transcript-start %}
 
-<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch3-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
-
 <compare>
 <james {% include timecode %}>
 
@@ -74,8 +73,6 @@ And so began the Red Scare in Washington DC, as politicians led a crusade agains
 </james>
 <from></from>
 </compare>
-
-<div class="notice-banner" id="title-start">For the compilation video, skip to next section. <i class="fa-solid fa-arrow-turn-down"></i></div>
 
 <compare>
 <james {% include timecode %}>
@@ -135,7 +132,7 @@ James Somerton
 </credits>
 </compare>
 
-<div class="notice-banner" id="title-end"><i class="fa-solid fa-right-to-bracket"></i> For the compilation video, resume here.</div>
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch3-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -326,7 +323,7 @@ Of the people working in Hollywood that the House Un-American Activities Committ
 On Monday, October 27th, the hearings last phase began, and members of the Committee for the First Amendment traveled in from throughout the country to participate. Only one of the 11 "unfriendly" witnesses writer Bertolt Breck, agreed to speak with the committee, after which he fled the country. Ten others declined, claiming their right to free expression and assembly under the First Amendment. The question:
 
 > Are you now...  
-> Or have you ever been...
+> Or have you ever been...  
 > A member of the Communist Party? 
 
 was one which they flat out refused to answer. The committee formally accused these ten of Contempt of Congress, and began criminal proceedings against them in the full House of Representatives. The House Un-American Activities Committee hearings failed to turn up *any* evidence that Hollywood was secretly disseminating communist propaganda, but the industry was nonetheless transformed.
@@ -346,13 +343,19 @@ Producers and studio heads were now on the watch for any and all anti-American a
 
 The echoes of McCarthyism were sounding loudly in the Hollywood Hills, and the association between gay and communist were inseparable by then. And as mentioned in previous episodes Hollywood was more or less stuffed full of gay men and women working in any one of a multitude of roles in the industry. This resulted in multiple well-respected directors moving to Europe and sending many more up-and-coming and well-established actors even further into the closet. 
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 Suddenly films about the fear of extraterrestrials became hot tickets in Hollywood as a narrative device to help instill fear of anything even slightly different to the masses of the growing Suburban America. These monsters from outer space were communists, gays, and people of color. These aliens could be *anything and everything* John and Martha were afraid of, which (thanks to Senator McCarthy) was a lot of things.
+
+But no theme was more prevalent than the alien shapeshifter, the ones who could live alongside the normal people, corrupting them from within. Communists coming for your husbands. Gays coming for your sons. 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-But no theme was more prevalent than the alien shapeshifter, the ones who could live alongside the normal people, corrupting them from within. Communists coming for your husbands. Gays coming for your sons. The Red Scare and the dread of communist infiltration into American culture are commonly seen as metaphors in the 1956 science fiction classic *Invasion of the Body Snatchers*. The film has also been seen as a homosexual allegory by any number of reviewers and Scholars throughout the years. 
+The Red Scare and the dread of communist infiltration into American culture are commonly seen as metaphors in the 1956 science fiction classic *Invasion of the Body Snatchers*. The film has also been seen as a homosexual allegory by any number of reviewers and Scholars throughout the years. 
 
 The film's narrative revolves around an extraterrestrial invasion of Earth and the subsequent infiltration of soulless carbon copy humans developed in pods. The pod inhabitants begin to symbolize, as the film unfolds, a society that is driven by uniformity and tries to eliminate individuality and uniqueness. This uniformity and conformity theme has been linked to the gay experience in the 1950s ever since. Many gay individuals in the past were pressured to conceal their identities and mask their sexual orientation because of the widespread stigma associated with being gay at the time. 
 
@@ -443,14 +446,14 @@ But even with deep *deep* coding... there was a catch anyone confirmed to be gay
 <compare>
 <james {% include timecode %}>
 
-\[James talks in a small box on black.]
+\[James talks in a small box on black. ["Inspiring Message" by Cash_up plays.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]
 
 As we close out this episode I'd really like to thank all of our patrons. It's only because of you that videos like this are even possible. YouTube isn't all too friendly when it comes to pushing LGBTQ content, in fact in most cases they try their best to keep it hidden. So our amazing patrons are the only reason this channel keeps chugging along. Thank you all so much. From the bottom of my heart thank you. um... if you'd like to become a part of this seriously *amazing* community you can do so for as little as a dollar a month at the link in the pinned comment. Alright, now I'll let their credits roll and I'll see you soon for Unrequited Episode 4: Dying to be Queer.
 
 </james>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits start to roll over piano music.]
+\[Patreon credits start to roll over ["Inspiring Message" by Cash_up.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]
 
 </credits>
 </compare>

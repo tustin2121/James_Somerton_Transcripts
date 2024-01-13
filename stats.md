@@ -28,7 +28,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
 | {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |
 | {{stats.changed-name }} | Times James just got a person's name wrong. |
-| {{stats.changed-quote }} | Times James inexplicably changed a quote he was copying. |
+| {{stats.changed-quote }} | Times James inexplicably changed a direct quote he was copying. |
 | {{stats.correction }} | Times James actually corrected an incorrect source he was copying from. |
 | {{stats.baa }} | Times James uses the phrase "by all accounts". |
 
