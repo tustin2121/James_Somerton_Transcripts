@@ -303,7 +303,7 @@
 		background-color: unset;
 		border: solid 2px var(--mark-stolen-bg);
 	}
-	compare :is(james, nick, clip) mark[fc] {
+	compare :is(james, nick, clip, from) mark[fc] {
 		background-color: unset;
 		border: solid 1px red;
 	}

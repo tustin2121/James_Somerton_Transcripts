@@ -36,9 +36,11 @@ cite:
   yikes: !!map
     love_simon: "James continues to show his dislike of <em>Love, Simon</em> by positing that queer people don't engage with dream-like love stories."
   misinformation: !!map
+    fan-fiction: "James takes an anecdote about Anne Rice and presents it as fact."
   plagiarized: !!map 
     monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
     vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
+    ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
 --- 
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -758,16 +760,41 @@ After the tragic loss of her young daughter to leukaemia, an aspiring San Franci
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-Now before we get TOO far into Mrs. Rice I want to cover the sticky subject of her opinion on fan-fiction, since I know it’s a hot button issue. The Anne Rice V Fan Fiction war began around the release of her novel *Merrick*, at the dawn of the e-book revolution. Her publisher, believing physical books were dying, wanted to publish *Merrick* as an e-book exclusive release. And so they told Rice that any fan fiction available online would cannibalize those ebook sales, advising her to file a cease and desist against all fan fiction websites. 
+Now before we get TOO far into Mrs. Rice I want to cover the sticky subject of <mark x num=1>her opinion on fan-fiction</mark>, since I know it’s a hot button issue. The Anne Rice V Fan Fiction war began around the release of her novel *Merrick*, <mark x num=2>at the dawn of the e-book revolution.</mark> Her publisher, <mark num=3>believing physical books were dying</mark>, wanted to <mark num=4>publish *Merrick* as an e-book exclusive release</mark>. And <mark num=5>so they told Rice that any fan fiction available online would cannibalize those ebook sales</mark>, <mark num=6>advising her to file a cease and desist</mark> <mark x num=7>against all fan fiction websites</mark>. 
 
-The e-book exclusive of *Merrick* ended up doing absolutely terrible sales, because e-books were not taking over the world and most people barely even knew they existed at the time, and so a physical copy was eventually released. But, due to some advice from her publisher, Anne Rice has been known <span class="add">ever since</span> as the lady who hates fan-fiction <span class="del">ever since</span>. Even though in 2012 she said: 
+<mark num=8>The e-book exclusive of *Merrick* ended up doing absolutely terrible sales,</mark> because e-books were not taking over the world and most people barely even knew they existed at the time, and <mark x num=9>so a physical copy was eventually released</mark>. But, <mark num=10>due to some advice from her publisher</mark>, <mark x num=11>Anne Rice has been known <span class="add">ever since</span> as the lady who hates fan-fiction <span class="del">ever since</span>.</mark> <mark x num=12>Even though in 2012</mark> she said: 
 
-> "Maybe [writing] fan-fiction is a transitional phase. Whatever gets you there, gets you there."
+> <mark x num=13></mark>"Maybe [writing] fan-fiction is a transitional phase. [Whatever gets you there, gets you there](https://metro.co.uk/2012/11/11/how-fan-fiction-is-conquering-the-internet-and-shooting-up-book-charts-617396/#:~:text=But%20maybe%20fan%20fiction%20is%20a%20transitional%20phase%3A%20whatever%20gets%20you%20there%2C%20gets%20you%20there.)."
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ranking_video at="(52:59)" %}>
+
+So you *may* have heard a little story about <mark x num=1>Anne Rice and fan-fiction</mark>. There was a... *debacle* on the interwebs about 20 years ago where where Anne Rice proclaimed that she would *not* tolerate any fan fiction of her books, *especially* The Vampire Chronicles, and that any website hosting it must *cease* and *desist*. Back then, this mostly just meant fanfiction.net. (She couldn't find us on livejournal!) Tons of fan works were deleted from the internet and lost to the sands of time and everyone was super salty about it. 
+
+Anne Rice has since come back around and says that <mark x num=13>while she doesn't understand the appeal of fan fiction, she won't begrudge anyone for writing it anymore</mark>, and you do you. Live and let live, she says. <mark x num=12>That retraction was in... 2012, so it's been a while now</mark>. Vampire Chronicles fan fiction is cool again, you all! Join me on a03!
+
+But, what most people don't know is the reason *why* she came down so hard on fanfic. She never liked it, sure, and she said she was afraid it would block her own writing, but she hadn't actually done anything about it before the year 2000. 
+
+<mark fc>Now, I don't have specific sources for this anymore. I used to, but I can't find them now, but! *The story goes*</mark> that when this book, Merrick, was coming out, <mark x num=2>her publisher decided that with e-books on the rise,</mark> <mark num=3>print publishing was dying</mark>. *The advent of the e-book were dark times, full of terrors.* And her publisher *had* to get ahead of the industry! So, they thought it would be a *great idea* to <mark num=4>release Merrick as an e-book exclusive</mark>.
+
+<mark num=5>So, they told Anne Rice that all the fan fiction out there would cannibalize her shiny new ebook sales</mark> and mess with her copyright. And *they* <mark num=6>advised her to put the cease and desist</mark> <mark x num=7>on the fanfic</mark> in order to protect her brand. And she believed them. Because e-books were still *new and scary and who even really knew how these things worked* back then?!
+
+So, yeah, <mark num=10>she got some really bad advice</mark> and followed it and <mark x num=11>it ended up pretty disastrous for her reputation</mark> in certain circles... and then, *of course*, <mark num=8>the ebook exclusive of Merrick did *terribly*,</mark> <mark x num=9>so they ended up releasing it in print after all</mark>, as you can plainly see. So, it was all for naught in the end. 
+
+So.... Merrick left a bitter taste and a lot of mouths. But, yes! In case you haven't heard, Anne Rice regrets her actions towards fan fiction in the past, and she is cool with it! And has been for eight years now!
+
+</from>
+<comment id="fan-fiction">
+{% include header name="ElisaInTime" link="https://twitter.com/ElisaInTime/status/1731299522381320397" %}
+
+> A little over a year ago, fans shared one of James Somerton’s vampire videos in my server, and when I watched it, I noticed he repeated something from one of my videos almost exactly. It was an anecdote I explained I’d lost the source for, so to take it with a grain of salt.
+
+> He stated it as if it was all clear facts. I DMed him to very politely ask if he’d found my lost source and he ignored me (meanwhile following practically ALL of my Youtuber friends on Twitter but not me).  
+> Turns out I was his source.
+
+</comment>
 </compare>
 
 <compare>
