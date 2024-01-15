@@ -17,11 +17,14 @@ contributors:
   downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/astrienluna](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxuzey)"
+    - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/place_your_plagiarism_discoveries_and_queer/kgnwq7u/?context=3)"
+    
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    stockholm: { color: 1, short: "", full: "", url: "https://www.medicalnewstoday.com/articles/stockholm-syndrome" } # at 14:00
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
