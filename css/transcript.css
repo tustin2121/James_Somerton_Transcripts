@@ -75,7 +75,6 @@
 		display: block;
 		border: white 1px solid;
 		padding: 0px 8px;
-		counter-reset: marker-num;
 		display: flex;
 		flex-direction: column;
 	}
@@ -308,28 +307,47 @@
 		border: solid 1px red;
 	}
 	
-	compare :is(james, from, comment) mark {
-		counter-increment: marker-num;
-		position: relative;
-	}
-	compare :is(james, from, comment) mark:empty {
+	compare :is(james, from, comment, clip, credits) mark:empty {
 		/* For use to mark the little number without highlighting it. */
 		background-color: unset;
 		color: unset;
 	}
-	compare :is(james, from, comment) mark::before {
-		content: counter(marker-num);
+	compare :is(james, from, comment, clip, credits) mark::before {
 		vertical-align: super;
 		font-size: x-small;
 		font-family: sans-serif;
 		font-weight: 600;
 		color: var(--color-accent-fg);
 	}
-	compare :is(james, from, comment) mark[fc]::before {
+	compare :is(james, from, comment, clip, credits) mark[fc]::before {
 		content: none;
 	}
-	compare :is(james, from, comment) mark[num]::before {
+	compare :is(james, from, comment, clip, credits) mark[num]::before {
 		content: attr(num);
+	}
+}
+
+@layer markup {
+	compare :is(james, nick, clip, credits):not([mark]) { 
+		counter-reset: left-count;
+	}
+	compare :is(james, nick, clip, credits) mark::before {
+		content: counter(left-count);
+	}
+	compare :is(james, nick, clip, credits) mark {
+		counter-increment: left-count;
+		position: relative;
+	}
+	
+	compare :is(from, comment, visual, subvideo):not([mark]) { 
+		counter-reset: right-count;
+	}
+	compare :is(from, comment) mark::before {
+		content: counter(right-count);
+	}
+	compare :is(from, comment) mark {
+		counter-increment: right-count;
+		position: relative;
 	}
 }
 

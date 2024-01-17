@@ -14,15 +14,22 @@ The following table of statistics is calculated from the video transcripts autom
 
 |  |  |
 |:----:|:------------|
-| {{stats.sources }} | Number of unique sources James plagiarized. |
+| {{stats.p-total }} | Number of unique sources James plagiarized. |
 | {{stats.p-wiki }} | &nbsp;&nbsp;&nbsp;&nbsp; Wikipedia articles plagiarized. |
 | {{stats.p-youtube }} | &nbsp;&nbsp;&nbsp;&nbsp; YouTube videos plagiarized. |
 | {{stats.p-news }} | &nbsp;&nbsp;&nbsp;&nbsp; News articles plagiarized. |
 | {{stats.p-book }} | &nbsp;&nbsp;&nbsp;&nbsp; Published books plagiarized. |
 | {{stats.p-academic }} | &nbsp;&nbsp;&nbsp;&nbsp; Journal-published academic articles plagiarized. |
 | {{stats.p-student }} | &nbsp;&nbsp;&nbsp;&nbsp; University student academic papers plagiarized (yes, really). |
-| {{stats.lies }} | Number of lies James has told in his videos.[^v] |
-| {{stats.yikes }} | Problematic takes in James's videos. |
+| | |
+| {{stats.m-total }} | Number of lies James has told in his videos.[^v] |
+| {{stats.m-context }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misinformation by stripping context from what he's plagiarizing. |
+| | |
+| {{stats.y-total }} | Problematic takes in James's videos.[^y] |
+| {{stats.y-misogyny }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misogyny. |
+| {{stats.y-transphobia }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of transphobia. |
+| {{stats.y-acephobia }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of acephobia. |
+| {{stats.y-exclusion }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of any of the above by exclusion. |
 | | |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
@@ -33,3 +40,4 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.baa }} | Times James uses the phrase "by all accounts". |
 
 [^v]: This is only the misinformation in his videos, not the ones that he told his audience about external things, like "death threats" and the like.
+[^y]: Sub-stats of problematic takes are all not mutually exclusive of each other. eg, James can have one take that is both misogyny and transphobia, both by exclusion, and all three will have one added each.
