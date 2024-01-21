@@ -33,12 +33,14 @@ cite:
     utena: { short: "Revolutionary Girl Utena (Noriko, 1997)", full: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff." }
     lotr: { short: "LotR (Jackson, 2002)", full: "Jackson, P. (Director). (2002). <em>Lord of the Rings</em> [Film]. New Line Cinema, WingNut Films." }
   yikes: !!map
+    bi_vibes: "James makes a sexual joke about Touga and Akio, one of whom is underage."
   misinformation: !!map
     # deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
     thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
     wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
 <credits header="Video Thumbnail:">
@@ -971,16 +973,26 @@ Student council monologue: "If it cannot break out of its shell, the chick will 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Utena echoes a particular anxiety of growing up in Japan in the 1990s, when the nation was in one of the worst Financial depressions in its history. To many, it did feel like the end of the world. And discourse around Revolution was not far off. (We'll get more into that in an upcoming *Evangelion* video, I promise.)
 
 And if Japanese Youth of the 90s got it anything like Millennials of the late 2000s got it, then it would have seemed like the entire weight of the world was imparted on *their* shoulders to fix things, all the while the powers at be insisting that fixing things was the responsibility of the nation's youth, simultaneously *scolded* them for talking about upsetting The Establishment Values that led to these hardships in the first place.
 
-Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?
+Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark fc>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
 
 </james>
 <from></from>
+<comment id="bi_vibes">
+{% include header name="Beckyhop13" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/9" %}
+
+> Touga is a highschooler and Akio is an adult, so painting this as "chaotic Bi vibes" and "a casual approach to sexuality" is super gross.
+
+{% include header for=tustin %}
+
+This especially after James made a point in his narration to point out that Utena is supposed to be a middle schooler, and explicitly instructed us to remember that.
+
+</comment>
 </compare>
 
 ## 7. Shut Up and Derive
