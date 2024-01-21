@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -17,6 +17,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+How Barbie is a masterpiece of modern camp, and why queer people connected with it so much.
+
+00:00 Introduction  
+08:53 Sponsor  
+09:56 Part 1  
+15:42 Part 2  
+21:56 Part 3  
+30:52 Part 4  
+38:20 Part 5  
+
+#Barbie #videoessay
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Manta sleep hi this video has nothing to do with
 Forrest Gump Forrest Gump is a 1994 inspirational drama starring Tom Hanks and
 is one of his most famous roles that is until he became famous for just being

@@ -13,11 +13,10 @@ notes:
   - script-diff
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: "Tustin2121"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
   citation: 
-  formatting: Tustin2121
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -25,6 +24,24 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Just how bad is Secrets of Dumbledore as a movie? And... what does it say about its creator?
+
+PATREON: [link]
+TWITTER: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="01:00" for="Part One" %}  
+{% include chapter-link at="12:11" for="Part Two" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 {% assign timecode = "0:00" %}
 
 <compare>
@@ -38,11 +55,10 @@ Okay, now, let’s talk about this train wreck.
 
 </james>
 <comment>
-<div class="header"></div>
+{% include header for=tustin %}
 
 This video was released in the wake of his pleading video where he lied to everyone about how he was going to have to close down the channel without more patrons, and a whole bunch of patreons rushed to up their pledges or sign up for patreon, thus giving him more money than he ever needed.
 
-{{ site.tustin.signature }}
 
 </comment>
 </compare>

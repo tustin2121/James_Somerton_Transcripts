@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=qTuK0RiEy88" # Reuploads channel
-description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+# description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast
 
@@ -17,6 +17,29 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+How much influence has adult media had on the development of gay and bisexual men?
+
+PATREON LINK:[link]  
+James's Twitter:[link]  
+Nicks Twitter:[link]  
+
+00:00 Introduction  
+03:14 Segment 1  
+13:21 Segment 2  
+27:46 Segment 3  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by atlasvpn hi everyone welcome to the second
 episode of gays Behaving Badly my name is James I'm Nick and there will be a
 Chiron under your name giving all your information stuff and I assume a Chiron

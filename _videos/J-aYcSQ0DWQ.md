@@ -14,26 +14,38 @@ links: !!seq
   - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
-  - custom-start
   - script-diff
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
   citation: 
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
+  factcheck:
+    - "lapin (on the [Former Fans discord](https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320))"
 
 cite:
   clips: !!map
     banana_fish: { short: "Banana Fish (Utsumi, 2018)", full: "Utsumi, H. (Director). (2018). <em>Banana Fish</em> [Television show]. Fuji TV." }
   yikes: !!map
+    black_and_poor: "While James was copy-pasting Keown's article, he seems to have <em>cut out</em> the fact that the two people in the story were black and poor."
   misinformation: !!map
+    ash_death: "James completely misinterprets the ending of the anime."
+    eiji_character: "James characterizes Eiji as 'pure and innocent' when he's not."
   plagiarized: !!map
+    wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
+    pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
+    irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
+
+factcheck:
+  cinnamorollmiku: { short: "lapin" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 What started as a look at the anime "Banana Fish" turned into a deep exploration of why crime might just be essential to gay life.
 
@@ -48,6 +60,8 @@ Follow me on Twitter: [link]
 
 </credits>
 </compare>
+
+<div class="notice-banner">Note: Spoilers ahead for <em>Banana Fish</em>.</div>
 
 {% include transcript-start %}
 {% assign timecode = "0:00" %}
@@ -100,8 +114,6 @@ Because the island I grew up on had its economy completely collapse in the 1980s
 
 And since so many people had been injured on the job throughout the years, taking pain killers to keep working, they were suddenly without the ability to pay for the meds too. So they had to start buying pain meds from family who had pensioned out, and therefore had drug plans, in order to do the backbreaking jobs that they could manage to find.
 
-Which, sadly, led to my hometown getting the nickname of CottonTown, because OxyContin was its main import. 
-
 </james>
 <from></from>
 </compare>
@@ -109,7 +121,19 @@ Which, sadly, led to my hometown getting the nickname of CottonTown, because Oxy
 <compare>
 <james {% include timecode %}>
 
-This video isn’t my autobiography though, or about the town I grew up. There’s been enough news coverage about that little island going to hell in a hand basket for a hundred video essays. 
+Which, sadly, led to my hometown getting the nickname of CottonTown, because OxyContin was its main import. This video isn’t my autobiography though, or about the town I grew up. There’s been enough news coverage about that little island going to hell in a hand basket for a hundred video essays. 
+
+</james>
+<comment>
+{% include header for=tustin %}
+
+He seems to be talking about Nova Scotia. See [this Canadian Encyclopedia article](https://www.thecanadianencyclopedia.ca/en/article/illicit-trade-in-oxycontin-plagues-atlantic-provinces).
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But I just wanted to set the scene so you understand where I’m coming when I talk about the necessity of crime in certain situations. How not all criminals are bad people, and how a lot of people are shunted into the category of criminal because of where society has placed them, and how successful society will allow them to become. 
 
@@ -189,53 +213,65 @@ But really, REALLY, it's about the relationship between the tough American stree
 <compare>
 <james {% include timecode %}>
 
-The series cold opens during the Iraq war, an American soldier named Griffin fires on his own squad in an apparent mental breakdown. He is subdued when Max, a friend and fellow soldier, shoots him in the legs. As Griffin collapses, he mutters… "banana fish". 
+The series cold opens during the Iraq war, an <mark>American soldier named Griffin fires on his own squad</mark> in an apparent mental breakdown. <mark>He is subdued when Max</mark>, <mark>a friend and fellow soldier, shoots him in the legs. As Griffin collapses, he mutters… "banana fish".</mark> 
 
-Twelve years later, <span class="add">and</span> Griffin, now essentially catatonic, is cared for by his younger brother Ash, the leader of a street gang in New York. One night, Ash encounters a dying man who gives him a vial of an unknown substance and an address in California; the man says the words "banana fish" before dying. 
+<mark>Twelve years later,</mark> <span class="add">and</span> <mark>Griffin, now essentially catatonic, is cared for by his younger brother Ash, the leader of a</mark> street gang in New York. <mark>One night, Ash encounters a dying man who gives him a vial of an unknown substance and an address in California; the man says the words "banana fish" before dying.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_banana_fish %}>
+<h2>Part 1: Prologue</h2>
+
+During the Vietnam War[^war] in 1973, <mark>American soldier Griffin Callenreese fires on his own squadron</mark> in a dazed frenzy. <mark>He is subdued when Max</mark> Glenreed, <mark>a friend and fellow soldier, shoots him in the legs. As Griffin collapses, he speaks the words "banana fish".</mark>
+
+[^war]: The anime substitutes the Iraq War for the Vietnam War. So James does not get this part wrong in his recap of the anime; there just wasn't a plot summary on Wikipedia specifically *for* the anime that he could copy from.
+
+<h2>Part 2: The Mystery of Banana Fish</h2>
+
+<mark>Twelve years later,</mark> <mark>Griffin—now severely mentally unwell—is cared for by his younger brother Ash, the leader of a</mark> gang of street kids in New York City. <mark>One night, Ash encounters a mortally wounded man who gives him a vial of an unknown substance and an address in California; the man utters the words "banana fish" before dying.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who has groomed Ash as a child to be his sex slave and heir to his criminal empire. He’s not very happy that Ash has managed to gain some independence, and wants his trophy boy back.
+<mark>Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who has groomed Ash as a child to be his sex slave and heir to his criminal empire.</mark> He’s not very happy that Ash has managed to gain some independence, and wants his trophy boy back.
 
-In the course of Ash’s investigation, Ash meets Eiji Okumura, a photographer’s assistant, who travelled from Japan to report on street gangs. He’s immediately intrigued by the older boys innocence and his… pole vaulting prowess. I’m sure there’s a double entendre there. 
+<mark>In the course of Ash’s investigation,</mark> Ash meets <mark>Eiji Okumura</mark>, a photographer’s <mark>assistant, who travelled from Japan to report on street gangs</mark>. He’s immediately intrigued by the older boys innocence and his… pole vaulting prowess. I’m sure there’s a double entendre there. 
 
-When Ash ends up in prison after being, more or less, framed for murder, he’s visited by Eiji and slips him a note by, well, sticking his tongue down his throat. Which Eiji really doesn’t seem to mind one bit. The note gives Eiji directions on how to help Ash via getting word to an associate in ChinaTown. 
+When <mark>Ash ends up in prison</mark> after being, more or less, <mark>framed for murder</mark>, he’s visited by Eiji and slips him a note by, well, sticking his tongue down his throat. Which Eiji really doesn’t seem to mind one bit. The note gives Eiji directions on how to help Ash via getting word to an associate in ChinaTown.
+
+Things go awry though. One thing leads to another and Ash’s brother, <mark>Griffin is killed in the crossfire between two gangs.</mark> Ash soon makes bail, finds out about his brother's death, and swears revenge on the people who killed him. Eiji, being a wee bit <span class="add">too</span> pig-headed <span class="add">for his own good</span>, demands to come too, along with a few other people who more or less want to help Ash revenge his way across New York’s underworld. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_banana_fish %}>
+
+<mark>Ash begins to investigate the meaning of "banana fish", though he is impeded by Dino Golzine, a Corsican mob boss who groomed Ash as a child to be his sex slave and heir to his criminal empire.</mark> <mark>In the course of his investigation,</mark> Ash gathers several allies: Shunichi Ibe, a photojournalist, and <mark>Eiji Okumura</mark>, his <mark>assistant, who traveled from Japan to report on street gangs</mark>; Shorter Wong, a gang leader who controls Chinatown; and Max, whom <mark>Ash encounters in prison</mark> while detained on a <mark>false murder charge</mark>. <mark>When Griffin is shot and killed in a fight with Golzine's men</mark>, the group sets out to solve the mystery of "banana fish" together.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Things go awry though. One thing leads to another and Ash’s brother, Griffin is killed in the crossfire between two gangs. Ash soon makes bail, finds out about his brother's death, and swears revenge on the people who killed him. Eiji, being a wee bit <span class="add">too</span> pig-headed <span class="add">for his own good</span>, demands to come too, along with a few other people who more or less want to help Ash revenge his way across New York’s underworld. 
+But first they need to take a <mark>trip to California</mark>, <mark>to the address</mark> Ash was given by the dying man. On their way there they make a little stop over in the small hamlet Ash spent most of his early childhood in. This is where we see the hardened criminal open up to Eiji, using the process of teaching him how to handle a pistol to get close to him. After Gozine’s men find them though, a shootout ensues, but our main team make it out alive and get back on the road to California. 
 
-But first they need to take a trip to California, to the address Ash was given by the dying man. On their way there they make a little stop over in the small hamlet Ash spent most of his early childhood in. This is where we see the hardened criminal open up to Eiji, using the process of teaching him how to handle a pistol to get close to him. After Gozine’s men find them though, a shootout ensues, but our main team make it out alive and get back on the road to California. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Once there they find a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users — turning them into near thoughtless murder machines. Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist and leftist regimes in South America. 
+Once there they find <mark>a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users</mark> — turning them into near thoughtless murder machines. <mark>Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist</mark> and leftist regimes <mark>in South America.</mark> 
 
 This sounds absurd, but look up some of the stuff Regan did in South America in the 1980s. It’s not that far-fetched. 
 
+The group is almost immediately <mark>captured by Golzine's men</mark> and taken back to New York. Once there, Shorter Wong, Ash’s best friend, is <mark>injected with the Banana Fish</mark> serum to show off what it can do. He’s <mark>instructed to kill Eiji.</mark> Shorter attacks Eiji in a frenzy, though in <mark>a moment of lucidity</mark>, he is able to <mark>beg Ash to kill him</mark>. Ash is given a gun with one bullet… Kill Shorter, or kill himself. He shoots and kills his best friend to prevent him from killing Eiji. 
+
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_banana_fish %}>
+
+Ash and his allies travel <mark num=2>to the address</mark> <mark num=1>in California</mark>, finding <mark>a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users</mark>. <mark>Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist</mark> governments <mark>in South America.</mark> The group is subsequently <mark>captured by Golzine's men</mark>, who <mark>inject Shorter with Banana Fish</mark> and <mark>instruct him to kill Eiji.</mark> When Shorter <mark num=10>begs Ash to kill him</mark> in <mark num=9>a moment of lucidity</mark>, Ash fatally shoots him.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
-The group is almost immediately captured by Golzine's men and taken back to New York. Once there, Shorter Wong, Ash’s best friend, is injected with the Banana Fish serum to show off what it can do. He’s instructed to kill Eiji. Shorter attacks Eiji in a frenzy, though in a moment of lucidity, he is able to beg Ash to kill him. Ash is given a gun with one bullet… Kill Shorter, or kill himself. He shoots and kills his best friend to prevent him from killing Eiji. 
 
 This sends Ash into a violent spiral, and he ends up cutting a bloody swath through Golzine’s mansion in order to save Eiji once again, after he’d been locked away by the mob boss’s men. Ash rescues him and the mansion is set ablaze. 
 
@@ -272,12 +308,21 @@ Ash kills the assailant, but may be mortally wounded himself. He manages to brin
 
 *[RECORD SCRATCH!]* 
 
-No he doesn’t die, goddammit. And this isn’t me saying, no he doesn’t die because he and Eiji are too cute together, and he doesn’t deserve to die. I have proof! As the show was airing the banana fish website kept an up to date tracker of which major characters were dead, and which were alive. More and more characters having their image and names greyed out as the show went along. When the series finale first aired, Ash’s photo and name became greyed out but very soon after, went back to color. Which means… he’s not dead. Like I said. 
+No he doesn’t die, goddammit. And this isn’t me saying, no he doesn’t die because he and Eiji are too cute together, and he doesn’t deserve to die. I have proof! As the show was airing, the *Banana Fish* website kept an up to date tracker of which major characters were dead, and which were alive. More and more characters having their image and names greyed out as the show went along. When the series finale first aired, Ash’s photo and name became greyed out but very soon after, went back to color. Which means… he’s not dead. Like I said. 
 
 He DOES die in the manga, but plenty changed from the Manga to the Anime, And since we see Ash take a hell of a lot more punishment than a knife wound throughout the series, I’m not willing to believe that he’s dead. And there’s too many plot threads left open for a sequel. So you’re not going to change my mind on this. Our blond Mary Sue with the dead eye aim, master hacker capabilities, and sky high IQ is alive. Anyway. 
 
 </james>
-<from></from>
+<comment id="ash_death" {% include citation for=page.factcheck.cinnamorollmiku %}>
+
+(Quoted; formatted and arranged for easier reading:)
+> This is PAINFUL. Ash died because [the way he saw it], if he went with Eiji to japan, he’d corrupt him. The ending was legit suicide because he thought Eiji would always be in danger. It was his last act of love!
+> 
+> It links back to [his] girlfriend dying. Ash *also* kept his distance from Eiji due to trauma with watching his first love, his girlfriend, die bc of papa dino. Eiji got attacked and Ash blames himself. Even tho Eiji recovered, he still viewed it as his fault.
+> 
+> Anyone who [Ash] loves risks being in danger. He bled out for 6 hours in the library clutching Eiji's letter. It’s important ash died like c'mon!
+
+</comment>
 </compare>
 
 <compare>
@@ -305,6 +350,20 @@ Ash: "Stay by my side. I won't ask 'forever.' Just for now."
 <james {% include timecode %}>
 
 Eiji, on the other hand, begins the story as an innocent, almost damsel in distress type. Who, over the course of the series, becomes willing to break more and more laws, but only to save Ash’s life. In a series filled with criminals of all ranks and sorts, Eiji is only willing to become one to save the life of the person he loves. Showing the audience that desperate times can make a criminal out of anyone. Even the most innocent, sweet hearted boy in the world. 
+
+</james>
+<comment id="eiji_character" {% include citation for=page.factcheck.cinnamorollmiku %}>
+
+(Quoted; formatted for easier reading:)
+> Dude mischaracterizes Eiji. “He’s so pure and innocent.” He’s not. He’s just not in depth with the streets. 
+> 
+> Ash is Eiji's mentor for the world of gang violence, and Eiji is Ash’s mentor for the “real world”, in a sense. Eiji deadass gets caught in several situations and manages to find his own way out. (Eiji is also implied to experience sexual violence at the hands of Dino, but of course [James] skipped over [that].)
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Ash even gets angry with him when he does break the law, even to rescue Ash, because he wants Eiji to keep being the good guy, and not get drawn into this world. Crime, for Ash, is a way of life. It’s how he survived as long as he has. 
 
@@ -547,27 +606,48 @@ However, persecution against queer people was especially harsh because there was
 <compare>
 <james {% include timecode %}>
 
-Some of us… even vogued for the gunmen and commanded respect. Dorian Corey began her career as a dancer in the 1960s. She had risen to become the house mother of the House of Corey by the late 1970s, walking the catwalk in underground drag balls and appearing in shows all <span class="del">throughout</span><span class="add">around</span> Harlem. Aside from her famed performances, Corey was known for her elaborate ball gowns, which included a 30-<span class="del">by</span><span class="add">to</span>-40-foot feather cape that took multiple assistants to carry behind her. 
-
-It was that reputation as a seamstress that led Corey’s friend and caretaker Lois Taylor to enter her apartment on West 140th Street in October 1993. Corey had died two months before of AIDS-related complications and had directed Taylor to take the costumes she wanted and sell the rest. Once inside, Taylor discovered a drycleaning bag containing the partially mummified body of a man eventually identified as Robert Worley, who had been missing since 1968. Worley's body was wrapped in plastic wrap and Naugahyde and doused in baking soda. 
-
-The case remains a mystery to this day, despite the fact that many people believe Corey killed Worley in self-defence. Both Corey, a drag queen, and Worley, an addict, both of which built a distrust of authority, especially police. With their deaths, the chance to know their complete <span class="del">stories</span><span class="add">history</span> vanished, leaving true-crime websites and podcasts of varying quality to reassemble the pieces of their lives. 
+Some of us… even vogued for the gunmen and commanded respect. <mark>Dorian Corey began her career as a dancer</mark> <mark>in the 1960s.</mark> She had risen to become the house <mark>mother of the House of Corey</mark> <mark>by the late 1970s</mark>, walking the catwalk <mark>in underground drag balls</mark> and <mark>appearing in shows all <span class="del">throughout</span><span class="add">around</span> Harlem</mark>. <mark>Aside from her famed performances</mark>, Corey was known for her elaborate ball gowns, which <mark>included a 30-<span class="del">by</span><span class="add">to</span>-40-foot feather cape that took multiple assistants to carry behind her.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.pose_article at="¶ 1" %}>
+
+<mark>Dorian Corey began her career as a dancer</mark> in the Pearl Box Revue sometime <mark>in the 1960s.</mark> <mark num=4>By the late 1970s</mark>, she was the <mark num=3>mother of the House of Corey</mark>, strutting the runway <mark>in underground drag balls</mark> and <mark>performing in shows around Harlem</mark>. <mark>In addition to her legendary performances</mark>, Corey earned a reputation for the spectacular ball costumes that she sewed for herself, <mark>including a 30-by-40-foot feather cape that required two attendants to carry it behind her.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Fans of <span class="add">the show</span> *Pose* will recognize this story as the inspiration for Elektra Evangelista, played by Dominique Jackson, in a two-season plot arc. Elektra is working as a BDSM mistress when one of her clients dies in her room from a drug overdose. Elektra, like Dorian, understands that the police will not assist a Black transgender sex worker. 
+<mark>It was that reputation as a seamstress that led Corey’s friend and caretaker Lois Taylor to enter her apartment on West 140th Street in October 1993. Corey had died</mark> <mark>two months before</mark> <mark>of AIDS-related complications</mark> and had directed Taylor to <mark>take the costumes she wanted and sell the rest.</mark> Once inside, <mark>Taylor discovered a drycleaning bag containing the partially mummified body of a man eventually identified as Robert Worley, who had been missing since 1968. Worley's body</mark> was <mark>wrapped in plastic wrap and Naugahyde</mark> and <mark>doused in baking soda</mark>. 
 
-However, unlike in Dorian's story, audiences know that Elektra has friends to call. They use skills learned in making ball gowns to assist her in sewing the man into a garment bag and packing him in a trunk. When Elektra is arrested in season three, she uses her one phone call to inform her house family that the trunk in which the body is hidden must be moved before the cops search her house. 
-
-Elektra's one-time daughter and now a house mother herself, Blanca (played by MJ Rodriguez), offers Elektra unconditional love and support. In this storyline, viewers get to see the pain in Elektra’s past, as well as the camaraderie and joy on which she is able to draw in the present. 
+<mark>The case remains a mystery</mark> to this day, despite the fact that many people believe <mark>Corey killed Worley in self-defence</mark>. <mark>Both Corey, a drag queen, and Worley, an addict,</mark> <mark>both of which built a distrust of authority, especially police.</mark> <mark>With their deaths, the chance to know their complete <span class="del">stories</span><span class="add">history</span> vanished, leaving true-crime websites and podcasts of varying quality to reassemble the pieces of their lives.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.pose_article at="¶ 2" %}>
+
+<mark>It was that reputation as a seamstress that led Corey’s friend and caretaker Lois Taylor to enter her apartment on West 140th Street in October 1993. Corey had died</mark> <mark num=3>of AIDS-related complications</mark> <mark num=2>two months earlier</mark>, and had, according to Taylor, instructed her to “<mark>take the costumes I wanted and sell the rest.</mark>” In the course of her search, <mark>Taylor found a green-plaid hanging bag, which contained the partially mummified corpse of a man later identified as Robert Worley, who had been missing since 1968. Worley’s body</mark> was <mark num=7>covered in baking soda</mark>, and <mark num=6>sewn up in layers of plastic wrap and Naugahyde</mark>. To this day, while many insist that <mark num=9>Corey killed Worley in an act of self-defense</mark>, <mark num=8>the case remains a mystery</mark>.[1] <mark>Both Corey, a queer drag queen, and Worley, who suffered addiction,</mark> <u id="black_and_poor">were Black and poor</u>, <mark>both of which built a distrust of authority, especially police.</mark> As victims of AIDS and homicide, Edward Conlon notes, “they embodied two of the main statistical bases for abbreviated life expectancy in Harlem.” <mark>With their deaths, the chance to know their complete stories vanished, leaving true-crime websites and podcasts of varying quality to reassemble the pieces of their lives.</mark> As Lois Taylor herself remarked, “Honey, the boy’s gone, right? She’s gone, right? So don’t nobody knows but her and the boy.”
+
+\1. According to the New York Magazine article, Corey’s friends insisted that she left a note with the body that read “This poor man broke into my home and was trying to rob me;” Worley’s brother, Fred, stated that Worley and Corey were in some form of relationship around the time he disappeared.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Fans of <span class="add">the show</span> *Pose* will recognize this story as the inspiration for</mark> <mark>Elektra Evangelista, played by Dominique Jackson</mark>, in a two-season plot arc. <mark>Elektra is working as a BDSM mistress when</mark> one of her <mark>clients dies in her room from a drug overdose</mark>. <mark>Elektra, like Dorian,</mark> understands <mark>that the police will</mark> not assist <mark>a Black transgender sex worker</mark>. 
+
+However, unlike in Dorian's story, <mark>audiences know that Elektra has friends to call.</mark> They use <mark>skills learned in making ball gowns</mark> to assist her in <mark>sewing the man into a garment bag</mark> and packing him in a trunk. <mark>When Elektra is arrested in season three, she uses her one phone call to inform her house family that the trunk in which the body is hidden must be moved before the cops search her house.</mark> 
+
+<mark>Elektra's one-time daughter and now a house mother herself</mark>, <mark>Blanca (played by MJ Rodriguez)</mark>, offers Elektra <mark>unconditional love and support</mark>. <mark>In this storyline, viewers get to see the pain in Elektra’s past, as well as the camaraderie and joy on which she is able to draw in the present.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.pose_article at="¶ 3" %}>
+
+<mark>Fans of Pose will recognize this story as the inspiration for</mark> a two-season-long narrative arc featuring <mark>Elektra Evangelista, played by Dominique Jackson</mark>. <mark>Elektra is working as a BDSM mistress when</mark> a <mark>client dies of a drug overdose in her room</mark>. <mark>Like Dorian, Elektra</mark> knows <mark>that the police will</mark> be of no help to <mark>a Black trans sex worker</mark>. However, where uncertainty swirls around Dorian’s story, <mark>audiences know that Elektra has friends to call.</mark> They help her <mark num=10>sew the man into a garment bag</mark>, using <mark num=9>skills honed in crafting their ball fashions</mark>. <mark>When Elektra is arrested in season three, she uses her one phone call to alert her house family that the trunk in which the body is hidden needs to be moved before the police search her home.</mark> <mark num=13>Blanca (played by MJ Rodriguez)</mark>, <mark num=12>Elektra’s one-time daughter and now a house mother herself</mark>, offers <mark>unconditional support and love</mark> to Elektra. <mark>In this storyline, viewers get to see the pain in Elektra’s past, as well as the comradery and joy on which she is able to draw in the present.</mark> As co-writer Janet Mock explained, “we weren’t interested in only telling a story about trauma . . . our show is a celebration of the everyday intimacies.” Those everyday moments are at the emotional core of Pose, but the fact that they take inspiration from real people and events makes its power not just personal, but political, as well.
+
+</from>
 </compare>
 
 <compare>
@@ -595,10 +675,25 @@ Is it their first choice of career? Not likely. One character, Angel, played by 
 <compare>
 <james {% include timecode %}>
 
-Indya Moore themself was once a sex worker. They told ES magazine: 
+Indya Moore themself was once a sex worker. They <mark>told ES magazine:</mark> 
 
 \[Quote scrolling on screen:]
 > “It has really destigmatised sex work, not only for people watching the show but for me, too – I had internalised so much shame. I felt really ashamed of having been a sex worker and, coming into this industry, it was something that I feared I would be outed for and that it would harm me.” 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.irish_indie at="¶ 3-4" %}>
+
+Moore, who use they/them pronouns, <mark>told ES magazine:</mark> <mark>“It has really destigmatised sex work, not only for people watching the show but for me, too – I had internalised so much shame.</mark>
+
+<mark>“I felt really ashamed of having been a sex worker and, coming into this industry, it was something that I feared I would be outed for and that it would harm me.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+They started in the field because, as a trans non-binary youth who’d grown up in the foster system, with no money and no real social safety net in America, let alone health coverage, they needed to find a way to pay for the hormones required to be comfortable in their own body. And since decent paying jobs aren't exactly plentiful when you’re a queer, person of Haitian, Puerto Rican, and Dominican descent, they did what they had to do. 
 
 </james>
 <from></from>
@@ -606,8 +701,6 @@ Indya Moore themself was once a sex worker. They told ES magazine:
 
 <compare>
 <james {% include timecode %}>
-
-They started in the field because, as a trans non-binary youth who’d grown up in the foster system, with no money and no real social safety net in America, let alone health coverage, they needed to find a way to pay for the hormones required to be comfortable in their own body. And since decent paying jobs aren't exactly plentiful when you’re a queer, person of Haitian, Puerto Rican, and Dominican descent, they did what they had to do. 
 
 That’s how pretty much every character on *Pose* who breaks the law ends up doing so. Nobody is doing it… *Mostly* nobody is doing it for shits and giggles, and nobody is doing it specifically to hurt other people. They’re doing it out of necessity. They’re doing it to survive. 
 
@@ -911,7 +1004,7 @@ So be gay. Do crime. And have a good time while you do it.
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon credits roll over silence (or perhaps copyrighted music that was removed).
+\[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]
 
 </credits>
 </compare>

@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=blJ-Z1A3Ixw" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -15,6 +15,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Why is it that, for queer people, perfection is a necessity instead of an option?
+
+PATREON: [link]
+
+00:00 Introduction  
+03:50 Chapter 1  
+12:00 Chapter 2  
+18:55 Chapter 3  
+31:27 Chapter 4  
+40:29 Chapter 5  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it
 and yet has there ever been anything so coveted that is so vaguely defined what

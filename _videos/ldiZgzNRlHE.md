@@ -8,7 +8,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=_99Gj5aGIyY"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -16,6 +16,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 you so far the Marvel Cinematic Universe has been broken up into phases phase
 one was the creation of the Avengers phase 2 has been the aftermath and some
 further world building and will culminate with the Avengers 2 age of Ultron and

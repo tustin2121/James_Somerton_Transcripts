@@ -14,9 +14,9 @@
 		{%- if page.description -%}{{ page.description }}{%- endif -%}
 	{%- endcapture -%}
 	<title>{{ page.title }} | Transcript</title>
-	<meta property="og:title" content="{{ page.title }} | Transcript" />
-	<!-- <meta property="og:description" content="{{ content | strip_html | string_with_newlines | truncatewords: 24 }}" /> -->
-	<meta property="og:description" content="{{ ogdesc }}" />
+	<meta name="description" content="{{ ogdesc | escape_once }}" />
+	<meta property="og:title" content="{{ page.title | escape_once }} | Transcript" />
+	<meta property="og:description" content="{{ ogdesc | escape_once }}" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ site.github.url }}{{ page.url }}" />
 	<meta property="og:locale" content="en_US" />
@@ -27,7 +27,14 @@
 <body>
 	<div class="wrapper">
 		<div class="markdown-body">
-			<div class="content {% if page.notes contains "podcast" -%}podcast{% endif %}">
+			{% if jekyll.environment == "development" %}
+				<pre id="font-matter-update"></pre>
+			{% endif %}
+			
+			<div class="content
+				{%- if page.notes contains "podcast" %} podcast{%- endif -%}
+				{%- if page.notes contains "visual" %} visual{%- endif -%}
+			">
 				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 				<h1>"{{ page.title }}" Transcript</h1>
 				<div class="video-list">
@@ -60,88 +67,194 @@
 				
 				{% if page.contributors %} 
 					<p>
-					{% if page.contributors.transcription and page.contributors.downloaded %}
+					{%- if page.contributors.transcription and page.contributors.downloaded -%}
 						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
 						Transcript downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
-					{% elsif page.contributors.transcription %}
+					{%- elsif page.contributors.transcription -%}
 						Transcribed by {% include name-list name=page.contributors.transcription -%}.<br/>
-					{% elsif page.contributors.downloaded %}
+					{%- elsif page.contributors.downloaded -%}
 						Auto-transcribed by YouTube, downloaded by {% include name-list name=page.contributors.downloaded -%}.<br/>
-					{% endif %}
-					{% if page.contributors.formatting %}
+					{%- endif -%}
+					{%- if page.contributors.formatting -%}
 						Formatted by {% include name-list name=page.contributors.formatting -%}.<br/>
-					{% endif %}
-					{% if page.contributors.factcheck %}
+					{%- endif -%}
+					{%- if page.contributors.factcheck -%}
 						Fact-checked by {% include name-list name=page.contributors.factcheck -%}.<br/>
-					{% endif %}
-					{% if page.contributors.citation %}
-						Special thanks to {% include name-list name=page.contributors.citation %} for finding the original sources.<br/>
-					{% endif %}
+					{%- endif -%}
+					{%- if page.contributors.citation-plus -%}
+						Thanks to {% include name-list name=page.contributors.citation-plus %} for tracking down and highlighting various sources.<br/>
+					{%- endif -%}
+					{%- if page.contributors.citation -%}
+						{%- if page.contributors.citation-plus -%}Additional thanks{%-else-%}Thanks{%-endif %} to {% include name-list name=page.contributors.citation %} for finding various sources.<br/>
+					{%- endif -%}
+					{%- if page.contributors.thanks -%}
+						Special thanks to {% include name-list name=page.contributors.thanks %}.<br/>
+					{%- endif -%}
 					</p>
 				{% endif %}
 				
 				<hr />
 				{% assign hr_due = false %}
 				
-				{% if page.cite.plagiarized.size > 0 -%}
-					<ul class="refs" header="It is proven that this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s):">
-						{% for item in page.cite.plagiarized %}
+				
+				
+				{%- assign vid = page.id | split: "/" | last -%}
+				{%- assign plaglist = page.cite.plagiarized -%}
+				{%- assign mislist = page.cite.misinformation -%}
+				{%- assign yikeslist = page.cite.yikes -%}
+				
+				{% if page.notes contains "multipart" %}
+					{% comment %} 
+						The update script will pull in plagiarism info from all children videos,
+						ensure uniqueness, and then put the info in data/multi-info.yml
+					{% endcomment %}
+					{% assign plaglist = site.data.multi-info | map: vid | map: "plagiarized" %}
+					{% assign mislist = site.data.multi-info | map: vid | map: "misinformation" %}
+					{% assign yikeslist = site.data.multi-info | map: vid | map: "yikes" %}
+				{% endif %}
+				
+				
+				{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
+				{%- capture plagrep -%}
+					{%- if bar -%}
+						About {{ bar.p | round }}% of this video has been plagiarized from {{ page.cite.plagiarized.size }} source(s)
+						{%- if bar.w > 0 %} ({{ bar.w }}% of it word-for-word){% endif -%}:
+					{% else %}
+						This video has been plagiarized from {{ plaglist.size }} source(s):
+					{%- endif -%}
+				{%- endcapture -%}
+				
+				{% if plaglist.size > 0 -%}
+					<ul class="refs plagiarized" header="{{ plagrep }}">
+						{% for item in plaglist %}
+							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
 						{% endfor %}
 					</ul>
 					{% assign hr_due = true %}
 				{% endif %}
-				{% if page.cite.misinformation.size > 0 -%}
-					<ul class="refs" header="This video has {{ page.cite.misinformation.size }} instance(s) of misinformation:">
-						{% for item in page.cite.misinformation %}
+				{% if mislist.size > 0 -%}
+					<ul class="refs misinfo" header="This video has {{ mislist.size }} instance(s) of misinformation:">
+						{% for item in mislist %}
+							{% if item[1]._desc_ %} {% comment %} Test for if it's a map {% endcomment %}
+								<li>
+									{{ item[1]._desc_ }}
+									{% for n in item[1] -%}
+										{%- if n[0] == "_desc_" -%}{% continue %}{%- endif -%}
+										{%- if forloop.length > 2 and forloop.last == true %} and {% endif -%}
+										{{ n[1] }} <a href="#{{ n[0] }}">(here <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a>
+										{%- if forloop.length > 3 and forloop.last == false %}, {% endif -%}
+									{%- endfor -%}
+								</li>
+							{% else %}
+								<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+					{% assign hr_due = true %}
+				{% endif %}
+				{% if yikeslist.size > 0 -%}
+					<ul class="refs yikes" header="This video has {{ yikeslist.size }} problematic take(s):">
+						{% for item in yikeslist %}
 							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
 						{% endfor %}
 					</ul>
 					{% assign hr_due = true %}
 				{% endif %}
-				{% if page.cite.yikes.size > 0 -%}
-					<ul class="refs" header="This video has {{ page.cite.yikes.size }} problamatic take(s):">
-						{% for item in page.cite.yikes %}
-							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
-						{% endfor %}
-					</ul>
+				
+				{%- if bar -%}
+					<p>
+					{% if bar.v > 0 %}
+						{{ bar.v }} video clips have been stolen from some of the plagiarized sources above. (See below for details.)
+					{% endif %}
+					</p>
 					{% assign hr_due = true %}
-				{% endif %}
+				{%- endif -%}
+				
+				
+				
+				
+				
+				
+				
 				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
 				{%- if page.notes contains "podcast" -%}
 					<compare>
-						<james>
-							<p>Video transcript is on the left.</p>
+						<james example>
+							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
+							For more info, see <a href="instructions.html">how to read this site</a></p>
 						</james>
-						<comment>
-							<div class="header"><a class="citation" href="#">Source (Author, 2000)</a></div>
+						<comment example>
+							<header><a class="citation" href="#">Source (Author, 2000)</a></header>
 							<p>Fact-checking commentary is on the right for comparison.</p>
 						</comment>
-					</compare>
-					<compare>
-						<nick>
+						<nick example>
 							<p>Auto-text is cleaned up somewhat to remove excessive "um"s and vocal tics.</p>
 						</nick>
-						<comment>
-							<div class="header"><a class="citation" href="#">Tustin2121</a></div>
-							<p>Note: there tends to be a lot of cross-talk in these podcasts. I'll attempt to fill in where possible, but I make no promises. There's a reason I didn't listen to these podcast episodes in the first place...</p>
+						<comment example>
+							<header><a class="citation" href="#">{{ page.podcast.comment-author }}</a></header>
+							<p>{{ page.podcast.comment | default: "Text" | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+						</comment>
+					</compare>
+					{% assign hr_due = true %}
+				{%- elsif page.notes contains "visual" -%}
+					<compare>
+						<visual example class="color-3">
+							<header><a class="citation" href="#">Plagiarized video (Author, 2000)</a></header>
+							<p>There are various parts of this video that have been ripped off another video by someone else. 
+								Commentary about what was stolen from the video goes here.</p>
+						</visual>
+						<visual-line></visual-line>
+						<james example>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
+							For more info, see <a href="instructions.html">how to read this site</a></p>
+							
+							{%- if page.notes contains "script-diff" -%}
+								<p>(This transcript was created from the original script uploaded as closed captioning. 
+								Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
+							{%- endif -%}
+							
+							<p><span visual=3 on="3:12" off="3:31">Parts which have footage from another video will be marked with 
+								a highlight bar between the two columns. The numbers in the middle bar highlights are the start and 
+								end timestamps in the original video.</span>
+								The highlight is positioned to roughly match up in the left-side transcript
+								with when in the video the stolen footage is shown.
+							</p>
+						</james>
+						<from example>
+							<header><a class="citation" href="#">Plagiarized article (Author, 2000)</a></header>
+							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
+							<mark>Plagiarized text is highlighted.</mark></p>
+						</from>
+					</compare>
+					{% assign hr_due = true %}
+				{%- elsif page.notes contains "unscripted" -%}
+					<compare>
+						<james example>
+							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
+							For more info, see <a href="instructions.html">how to read this site</a></p>
+						</james>
+						<comment example>
+							<header><a class="citation" href="#">Commenter</a></header>
+							<p>Commentary is on the right.</p>
 						</comment>
 					</compare>
 					{% assign hr_due = true %}
 				{%- else -%}
 					<compare>
-						<james>
-							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted.</mark></p>
+						<james example>
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
+							For more info, see <a href="instructions.html">how to read this site</a></p>
 							
 							{%- if page.notes contains "script-diff" -%}
 								<p>(This transcript was created from the original script uploaded as closed captioning. 
 								Differences where James <span class="del">skipped over</span><span class="add">diverged from the script</span> are highlighted.)</p>
 							{%- endif -%}
 						</james>
-						<from>
-							<div class="header"><a class="citation" href="#">Plagiarized article (Author, 2000)</a></div>
+						<from example>
+							<header><a class="citation" href="#">Plagiarized article (Author, 2000)</a></header>
 							<p>Fact-checking commentary or found plagiarized content is on the right for comparison
 							<mark>Plagiarized text is highlighted.</mark></p>
 						</from>
@@ -151,21 +264,8 @@
 				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
 				
-				{%- unless page.notes contains "custom-start" -%}
-					{% include transcript-start %}
-				{% else %}
-					{% assign hr_due = true %}
-				{%- endunless -%}
-				
 				{{ content }}
 				
-				{% comment %} {% if page.cite.plagiarized.size > 0 -%}
-					<ul class="refs" header="References:">
-						{% for item in page.cite.plagiarized %}
-							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
-						{% endfor %}
-					</ul>
-				{%- endif %} {% endcomment %}
 				{% if page.cite.clips.size > 0 -%}
 					<ul class="refs" header="Clips used:">
 						{% for item in page.cite.clips %}
@@ -177,5 +277,75 @@
 			</div>
 		</div>
 	</div>
+	
+	<script>
+		// Mark all external links as opening in a new tab
+		Array.from(document.links).filter(link => link.hostname != window.location.hostname).forEach(link => link.target = "_blank");
+		
+		function markVisuals() {
+			document.querySelectorAll("visual-line").forEach(e => {
+				while (e.firstChild){ e.firstChild.remove(); }
+			});
+			let visuals = Array.from(document.querySelectorAll("visual-line"));
+			visuals.forEach((line, i) => {
+				let parent = line.parentElement;
+				if (parent.tagName != "COMPARE") return; // Sanity check
+				
+				line.style.gridRowStart = parent.querySelectorAll("visual").length + 1;
+				line.style.gridRowEnd = (window.getComputedStyle(parent).gridTemplateRows.split(" ").length + 1);
+				
+				let visDots = Array.from(parent.querySelectorAll("[visual]"));
+				for (let dot of visDots) {
+					if (dot.offsetParent != parent) continue; // Sanity check
+					if (line.offsetParent != parent) continue; // Sanity check
+					let on = dot.getAttribute("on");
+					let off = dot.getAttribute("off");
+					if (!on && !off) continue; // Sanity check
+					on ??= ""; off ??= "";
+					
+					let dotLine = document.createElement("span");
+					dotLine.innerHTML = `<a>${on}</a><a>${off}</a>`;
+					dotLine.style.top = (dot.offsetTop - line.offsetTop) + "px";
+					dotLine.style.height = (dot.offsetHeight - 3) + "px"; // 3px is the border
+					dotLine.classList.add("color-"+dot.getAttribute("visual"));
+					if (dot.hasAttribute("on")) dotLine.classList.add("on");
+					if (dot.hasAttribute("off")) dotLine.classList.add("off");
+					line.appendChild(dotLine);
+				}
+			});
+		}
+		markVisuals();
+		window.addEventListener("resize", markVisuals);
+		
+	{% if jekyll.environment == "development" %}
+		let update = ["# Goes in _data/volume.yml", "{{ page.id | split: "/" | last }}:"];
+		let nodes = Array.from(document.querySelectorAll("james:not([example])")).map(n => {
+			let total = n.innerText.split(" ").length;
+			let p = Array.from(n.querySelectorAll("mark:not([fc])")).map(m => m.innerText.split(" ")).flat().length;
+			let m = Array.from(n.querySelectorAll("mark[fc]")).map(m => m.innerText.split(" ")).flat().length;
+			let y = 0; // Not yet implemented
+			
+			return { p, m, y, total };
+		});
+		{
+			let p = nodes.map(n => n.p).reduce((a, b) => a + b);
+			let m = nodes.map(n => n.m).reduce((a, b) => a + b);
+			let y = nodes.map(n => n.y).reduce((a, b) => a + b);
+			let total = nodes.map(n => n.total).reduce((a, b) => a + b);
+			console.log(`Plagiarized words: ${p} / ${total} (${Math.round((p / total) * 100)}%)`, `volumeWords: { p: ${p}, m: ${m}, y: ${y}, total: ${total} }`);
+			update.push(`  words: { p: ${((p/total)*100).toFixed(1)}, m: ${((m/total)*100).toFixed(1)}, y: ${((y/total)*100).toFixed(1)} }`);
+		}{
+			let p = nodes.map(n => n.p > 0 ? 1 : 0).reduce((a, b) => a + b);
+			let m = nodes.map(n => n.m > 0 ? 1 : 0).reduce((a, b) => a + b);
+			let y = nodes.map(n => n.y > 0 ? 1 : 0).reduce((a, b) => a + b);
+			let total = nodes.map(n => n.total > 0 ? 1 : 0).reduce((a, b) => a + b);
+			console.log(`Plagiarized sections: ${p} / ${total} (${Math.round((p / total) * 100)}%)`, `volumeSections: { p: ${p}, m: ${m}, y: ${y}, total: ${total} }`);
+			update.push(`  sections: { p: ${((p/total)*100).toFixed(1)}, m: ${((m/total)*100).toFixed(1)}, y: ${((y/total)*100).toFixed(1)} }`);
+		}
+		console.log("Data:", nodes);
+		document.getElementById("font-matter-update").innerText = update.join("\n");
+		
+	{% endif %}
+	</script>
 </body>
 </html>

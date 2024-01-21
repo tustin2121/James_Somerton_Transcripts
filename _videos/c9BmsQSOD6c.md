@@ -16,22 +16,52 @@ topics: !!seq
   - The Sound of Music
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
   - commentary
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
-    - "[Todd in the Shadows](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc12hss) (also [here](https://twitter.com/shadowtodd/status/1731823192820560368))"
+    - "[Todd in the Shadows](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc12hss) (also [here](https://twitter.com/shadowtodd/status/1731823192820560368))" #processed
 
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    kristen_miller_hill: { color: 2, short: "(Hill, 2021)", full: "Hill, K. M. (2021). ‘We lie best when we lie to ourselves’: Stephen King’s It and the horrors of nostalgia. <em>Horror Studies, 12</em>(Reappraising Stephen King), 249–263. doi:10.1386/host_00041_1", url: "https://intellectdiscover.com/content/journals/10.1386/host_00041_1" } # Have to buy the article for 25$ ???
+    guardian_abbey: { color: 3, short: "(Groskp, 2014)", full: "Groskp, V. (2014, Sep 17). <em>Downton Abbey’s class nostalgia is another toxic British export</em> [Article]. The Guardian. ", url: "https://www.theguardian.com/commentisfree/2014/sep/17/downton-abbey-nostalgia-british-export-stereotypes" }
+    tablet_abbey: { color: 4, short: "(Telushkin, 2018)", full: "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", url: "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television" }
+    history_today: { color: 5, short: "(deGroot, 2011)", full: "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", url: "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past" }
+    politico_abbey: { color: 6, short: "(Weiss, 2019)", full: "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", url: "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Nostalgia can be fun and whimsical... but it may also lead to the downfall of society. 
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Prologue " %}  
+{% include chapter-link at="04:24" for="Chapter One" %}  
+{% include chapter-link at="13:59" for="Chapter Two" %}  
+{% include chapter-link at="26:51" for="Chapter Three" %}  
+{% include chapter-link at="46:35" for="Chapter Four" %}  
+{% include chapter-link at="59:38" for="Chapter Five" %}  
+{% include chapter-link at="01:09:03" for="Chapter Six" %}  
+{% include chapter-link at="01:14:09" for="Chapter Seven" %}  
+
+#strangerthings #nostalgia
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description nostalgia has

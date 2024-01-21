@@ -6,7 +6,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -14,6 +14,32 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+How did Marvel accidentally create a gay power couple? And what exactly does the Scarlet Witch have to do with it?
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+#Marvel #disney+ #Kang
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:04" for="The Kids Are Not Alright" %}  
+{% include chapter-link at="07:23" for="A Witch Called Wanda" %}  
+{% include chapter-link at="19:26" for="The Wizard and the Warrior" %}  
+{% include chapter-link at="28:58" for="Identity Marketing" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone my name is james and today i'm going to explain to you how marvel
 comics accidentally created a gay power couple and despite their best efforts to
 avoid it how disney might be giving us our first big screen gay superheroes

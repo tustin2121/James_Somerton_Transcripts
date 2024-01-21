@@ -8,10 +8,10 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[@vaspider](https://www.tumblr.com/vaspider/725020819984629760/honestly-yes-and-thats-part-of-the-reason-im)"
     - "[/u/badwolf_910](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvq8br)"
@@ -22,6 +22,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
+
+PATREON: [link]
+
+00:00 Introduction  
+12:03 Part 1 - Genre F***  
+22:46 Part 2 - Mr. Rogers' Neighbourhood  
+29:33 Part 3 - Gate Kept  
+36:41 Part 4 - Size Queen  
+46:33 Part 5 - Targeted Audience  
+52:04 Part 6 - Raise Hell  
+
+#helluvaboss #hazbinhotel
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 cars is a Disney Pixar animated film released in 2006 and was the seventh film
 released by Pixar Animation Studios this film followed a string of emotionally
 evocative and intellectually stimulating films just two movies after the

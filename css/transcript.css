@@ -1,312 +1,593 @@
-@media (prefers-color-scheme: dark) {
-	:root {
-		color-scheme: dark;
-		--box-border-cite: gray;
-		--box-border-james: orange;
-		--box-border-nick: blue;
-		--box-border-clip: gray;
-		--box-border-credits: gray;
-		--box-border-from: #00b500;
-		--box-border-comment: gray;
-		--box-header-color: gray;
-		
-		--mark-stolen-text: #c9d1d9;
-		--mark-stolen-bg: #412900;
-		--mark-source-text: #c9d1d9;
-		--mark-source-bg: #033a16;
+@layer site {
+	@media (prefers-color-scheme: dark) {
+		:root {
+			color-scheme: dark;
+			--box-border-cite: gray;
+			--box-border-james: orange;
+			--box-border-nick: blue;
+			--box-border-clip: gray;
+			--box-border-credits: gray;
+			/* --box-border-from: #00b500; */
+			--box-border-comment: gray;
+			--box-header-color: gray;
+			
+			--mark-stolen-text: #ffcced;
+			--mark-stolen-bg: #47005b;
+			--mark-source-text: #c9d1d9;
+			--mark-source-bg: #033a16;
+		}
 	}
-}
-@media (prefers-color-scheme: light) {
-	:root {
-		color-scheme: light;
-		--box-border-cite: gray;
-		--box-border-james: orange;
-		--box-border-nick: blue;
-		--box-border-clip: gray;
-		--box-border-credits: gray;
-		--box-border-from: green;
-		--box-border-comment: gray;
-		--box-header-color: gray;
-		
-		--mark-stolen-text: #000000;
-		--mark-stolen-bg: #f3ecd2;
-		--mark-source-text: #000000;
-		--mark-source-bg: #abf1c4;
+	@media (prefers-color-scheme: light) {
+		:root {
+			color-scheme: light;
+			--box-border-cite: gray;
+			--box-border-james: orange;
+			--box-border-nick: blue;
+			--box-border-clip: gray;
+			--box-border-credits: gray;
+			/* --box-border-from: green; */
+			--box-border-comment: gray;
+			--box-header-color: gray;
+			
+			--mark-stolen-text: #41003a;
+			--mark-stolen-bg: #f4ccff;
+			--mark-source-text: #000000;
+			--mark-source-bg: #abf1c4;
+		}
 	}
+
+	/* body {
+		height: 100%;
+		background-color: var(--color-canvas-default);
+	} */
+	.wrapper {
+		max-width: 1200px;
+		margin-inline: auto;
+	}
+
+	.video-list {
+		margin-inline: auto;
+		width: fit-content;
+		min-width: 70%;
+	}
+
+	p:last-child {
+		margin-bottom: 0.3em;
+	}
+
 }
 
-body {
-	height: 100%;
-	background-color: var(--color-canvas-default);
-}
-.wrapper {
-	max-width: 1200px;
-	margin-inline: auto;
-}
-
-.video-list {
-	margin-inline: auto;
-	width: fit-content;
-	min-width: 70%;
-}
-
-
-compare {
-	display: grid;
-	grid: auto-flow / 1fr 1fr;
-	grid-template-areas: "j f";
-	column-gap: 4px;
-	row-gap: 4px;
-	margin-block: 1em;
-}
-compare james, 
-compare nick, 
-compare clip, 
-compare credits, 
-compare from, 
-compare cite, 
-compare comment 
-{
-	display: block;
-	border: white 1px solid;
-	padding: 0px 8px;
-}
-compare cite    {
-	grid-area: s; 
-	border-color: var(--box-border-cite);
-    text-align: end;
-    font-size: small;
-    color: var(--color-fg-muted);
-}
-compare james {
-	grid-area: j; 
-	border-color: var(--box-border-james);
-}
-compare nick {
-	grid-area: j; 
-	border-color: var(--box-border-nick);
-}
-compare clip {
-	grid-area: j; 
-	border-color: var(--box-border-clip);
-}
-compare credits {
-	grid-area: j; 
-	border-color: var(--box-border-credits);
-}
-compare from    {
-	grid-area: f; 
-	border-color: var(--box-border-from);
-}
-compare comment {
-	grid-area: f; 
-	border-color: var(--box-border-comment); 
-	font-size: smaller;
-}
-
-
-compare james::before, 
-compare nick::before, 
-compare credits::before
-{
-	display: block;
-	font-size: small;
-	color: var(--box-header-color);
-	border-bottom: var(--box-header-color) 1px solid;
-	padding: 2px 4px 0px;
-}
-compare james::before   { content: 'James:'; }
-compare nick::before    { content: 'Nick:'; }
-compare james[timecode]::before   { content: 'James: (' attr(timecode) ')'; text-align-last: justify; }
-compare nick[timecode]::before    { content: 'Nick: (' attr(timecode) ')'; text-align-last: justify; }
-
-
-.podcast compare {
-	grid-template-areas: unset;
-	grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
-}
-compare james {
-	grid-area: unset; 
-	grid-column: j-start / j-end;
-}
-compare nick {
-	grid-area: unset; 
-	grid-column: n-start / n-end;
-}
-compare from, compare comment {
-	grid-area: unset; 
-	grid-column: f-start / f-end;
-}
-
-compare from > .header,
-compare comment > .header,
-compare clip > .header,
-compare credits > .header
-{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
+@layer site {
+	compare {
+		display: grid;
+		position: relative;
+		grid-template-rows: auto-flow;
+		grid-template-columns: [j-start n-start] 1fr [j-end n-end f-start] 1fr [f-end];
+		column-gap: 4px;
+		row-gap: 6px;
+		margin-block: 6px;
+	}
+	.podcast compare {
+		grid-template-columns: [j-start] 1fr [n-start] 3fr [j-end] 1fr [n-end f-start] 5fr [f-end];
+	}
 	
-	font-size: small;
-	color: var(--box-header-color);
-	border-bottom: var(--box-header-color) 1px solid;
-	padding: 2px 4px 0px;
-}
-compare from > .header::before { content: 'Source:'; }
-compare clip > .header::before { content: 'Video Clip:'; }
-compare comment > .header::before { content: 'Comment:'; }
+	compare :is(james, nick, clip, credits, from, comment, visual, subvideo) {
+		display: block;
+		border: white 1px solid;
+		padding: 0px 8px;
+		display: flex;
+		flex-direction: column;
+	}
+	compare james {
+		grid-column: j-start / j-end;
+		border-color: var(--box-border-james);
+	}
+	compare nick {
+		grid-column: n-start / n-end;
+		border-color: var(--box-border-nick);
+	}
+	compare clip {
+		grid-column: j-start / n-end;
+		border-color: var(--box-border-clip);
+	}
+	compare credits {
+		grid-column: j-start / n-end;
+		border-color: var(--box-border-credits);
+	}
+	compare from {
+		grid-column: f-start / f-end;
+		/* border-color: var(--box-border-from); */
+		border-color: var(--source-color);
+	}
+	compare comment {
+		grid-column: f-start / f-end;
+		border-color: var(--box-border-comment); 
+		font-size: smaller;
+	}
+	compare subvideo {
+		grid-column: j-start / f-end;
+		border-color: var(--box-border-comment); 
+	}
+	
+	/* Visual Blocks */
+	.visual compare {
+		grid-template-columns: [j-start n-start] 1fr [v-start] 1fr [j-end n-end mid-start] 5ch [mid-mid mid-end f-start] 1fr [v-end] 1fr [f-end];
+	}
+	.visual compare visual {
+		grid-column: v-start / v-end;
+		border-color: var(--source-color);
+	}
+	compare visual-line {
+		display: block;
+		position: relative;
+		grid-column: mid-start / mid-mid;
+		border-right: gray 3px dashed;
+		margin-top: -6px; /* row-gap of compare*/
+	}
+	compare visual-line span {
+		position: absolute;
+		font-family: monospace;
+		font-size: small;
+		left: 0; right: 0;
+		text-align: center;
+		border-right: var(--source-color) 3px solid;
+		margin-right: -3px;
+		overflow-y: hidden;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	compare visual-line span.on {
+		border-top: var(--source-color) 2px solid;
+		background: linear-gradient(to bottom, var(--source-color) -30%, var(--color-canvas-default) 50%);
+	}
+	compare visual-line span.off {
+		border-bottom: var(--source-color) 2px solid;
+		background: linear-gradient(to bottom, var(--color-canvas-default) 50%, var(--source-color) 130%);
+	}
+	compare visual-line span.on.off {
+		background: linear-gradient(to bottom, var(--source-color) -30%, var(--color-canvas-default) 50%, var(--source-color) 130%);
+	}
 
-compare credits.opening::before { content: 'Opening Credits:'; }
-compare credits.closing::before { content: 'Closing Credits:'; }
-compare credits[header]::before { content: attr(header); }
-
-compare credits blockquote {
-	color: unset !important;
-    text-align: center;
-    background-color: var(--color-canvas-subtle);
-    border-inline: 0.25em solid var(--color-border-default);
+	@media (max-width: 800px) {
+		.visual compare {
+			grid-template-columns: [j-start n-start] 1fr [v-start] 3fr [j-end n-end mid-start] 8px [mid-mid mid-end f-start] 3fr [v-end] 1fr [f-end];
+		}
+		compare visual-line {
+			border-right-width: 1px;
+		}
+		compare visual-line span {
+			font-size: 0;
+			border-right-width: 1px;
+			margin-right: -1px;
+		}
+	}
+	
+	.podcast compare james[crosstalk] {
+		grid-column: j-start / n-start;
+	}
+	.podcast compare nick[crosstalk] {
+		grid-column: j-end / n-end;
+	}
+	
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="2"] { grid-row: span 2; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="3"] { grid-row: span 3; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="4"] { grid-row: span 4; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="5"] { grid-row: span 5; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="6"] { grid-row: span 6; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="7"] { grid-row: span 7; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="8"] { grid-row: span 8; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="9"] { grid-row: span 9; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="10"] { grid-row: span 10; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="11"] { grid-row: span 11; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="12"] { grid-row: span 12; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="13"] { grid-row: span 13; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="14"] { grid-row: span 14; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="15"] { grid-row: span 15; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="16"] { grid-row: span 16; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="17"] { grid-row: span 17; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="18"] { grid-row: span 18; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="19"] { grid-row: span 19; }
+	compare :is(james, nick, clip, credits, from, visual, comment)[span="20"] { grid-row: span 20; }
+	
+	compare :is(from, comment, clip, visual, credits) > header
+	{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		
+		font-size: small;
+		color: var(--box-header-color);
+		border-bottom: var(--box-header-color) 1px solid;
+		padding: 2px 4px 0px;
+	}
+	compare :is(from, comment, clip, visual, credits) > header .timecode::before { content: '('; }
+	compare :is(from, comment, clip, visual, credits) > header .timecode::after { content: ')'; }
+	compare from > header::before { content: 'Source:'; }
+	compare visual > header::before { content: 'Source video:'; }
+	compare clip > header::before { content: 'Video Clip:'; }
+	compare comment > header::before { content: 'Comment:'; }
+	
+	compare :is(james, nick, credits, subvideo)::before
+	{
+		display: block;
+		font-size: small;
+		color: var(--box-header-color);
+		border-bottom: var(--box-header-color) 1px solid;
+		padding: 2px 4px 0px;
+	}
+	compare james::before   { content: 'James:'; }
+	compare nick::before    { content: 'Nick:'; }
+	compare james[timecode]::before   { content: 'James: (' attr(timecode) ')'; text-align-last: justify; }
+	compare nick[timecode]::before    { content: 'Nick: (' attr(timecode) ')'; text-align-last: justify; }
+	
+	compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
+	compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
+	
+	compare credits.opening::before { content: 'Opening Credits:'; }
+	compare credits.closing::before { content: 'Closing Credits:'; }
+	compare credits.desc::before { content: 'Video Description:'; }
+	compare credits[header]::before { content: attr(header); }
+	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
+	
+	compare footer {
+		font-size: small;
+		color: var(--box-header-color);
+		border-top: var(--box-header-color) 1px solid;
+		padding: 0px 4px 2px;
+		margin-top: auto;
+	}
+	compare footer[signed]::after {
+		content: ' --' attr(signed);
+	}
+	compare footer li > p {
+		margin-block: 0;
+	}
+	compare footer li > p:last-child {
+		margin-bottom: 0;
+	}
+	
+	compare clip hr {
+		margin: 0 3em 1em !important;
+	}
+	
+	compare credits blockquote {
+		color: unset !important;
+			text-align: center;
+			background-color: var(--color-canvas-subtle);
+			border-inline: 0.25em solid var(--color-border-default);
+	}
+	
+	compare blockquote {
+		color: unset !important;
+			background-color: var(--color-canvas-subtle);
+	}
+	
 }
 
-compare blockquote {
-	color: unset !important;
-    background-color: var(--color-canvas-subtle);
-}
-
-span.add, sup.add {
-	background-color: var(--color-prettylights-syntax-markup-inserted-bg); 
-	color: var(--color-prettylights-syntax-markup-inserted-text);
-}
-span.del, sup.del {
-	background-color: var(--color-prettylights-syntax-markup-deleted-bg); 
-	color: var(--color-prettylights-syntax-markup-deleted-text);
-	text-decoration: line-through;
-}
-
-sup[cn]::before {
-	content: "[citation needed]";
-	color: var(--color-accent-fg);
-	font-style: italic;
-}
-
-compare james mark {
-	background-color: var(--mark-stolen-bg) !important;
-	color: var(--mark-stolen-text) !important;
-}
-compare from mark  {
-	background-color: var(--mark-source-bg) !important;
-	color: var(--mark-source-text) !important;
-}
-
-compare from:empty {
-	filter: opacity(0.50);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    position: relative;
-	border: unset;
-}
-compare from:empty::before {
-    position: absolute;
-    left: 4px;
-    top: 4px;
-    right: 4px;
-}
-compare from:empty::after {
-	content: 'No plagiarism found yet';
-	font-size: smaller;
-	color: var(--color-fg-muted);
-	align-self: center;
-}
-
-compare from h1,
-compare from h2,
-compare from h3,
-compare from h4,
-compare from h5,
-compare from h6 {
-	margin-block: 0 4px !important;
-}
-
-.refs {
-	font-size: smaller;
-}
-.refs::before {
-	content: attr(header);
-	margin-left: -2em;
-	font-size: larger;
-}
-:target {
-	background-color: rgb(255 255 0 / 15%);
-}
-
-.transcript-start {
-	color: gray;
-	text-align: center;
-	font-size: 12px;
-    margin-bottom: 2rem !important;
-}
-.transcript-start::before {
-	content: 'Transcript Start';
-}
-section.footnotes {
-	position: relative;
-	margin-top: 3rem;
-}
-section.footnotes::before {
-	content: 'End Transcript';
-	position: absolute;
-	top: -2rem;
-	left: 0; right: 0;
-	text-align: center;
-}
-
-.lyrics {
-    margin-inline: auto;
-    width: max-content;
-    /* min-width: 600px; */
-    font-family: serif;
-    white-space: pre;
-}
-@media (max-width: 600px) {
-	.lyrics {
-		width: 100%;
-		min-width: 0;
+@layer markup {
+	*.add, ins {
+		background-color: var(--color-prettylights-syntax-markup-inserted-bg); 
+		color: var(--color-prettylights-syntax-markup-inserted-text);
+	}
+	*.del, del {
+		background-color: var(--color-prettylights-syntax-markup-deleted-bg); 
+		color: var(--color-prettylights-syntax-markup-deleted-text);
+	}
+	*.add, ins {
+		text-decoration: underline;
+	}
+	*.del, del {
+		text-decoration: line-through;
+	}
+	
+	sup[cn]::before {
+		content: "[citation needed]";
+		color: var(--color-accent-fg);
+		font-style: italic;
+	}
+	
+	compare :is(james, nick, clip) mark {
+		background-color: var(--mark-stolen-bg);
+		color: var(--mark-stolen-text);
+	}
+	compare from mark {
+		background-color: var(--mark-source-bg);
+		color: var(--mark-source-text);
+		background-color: color-mix(in oklab, var(--source-color) 20%, var(--color-canvas-default));
+		color: color-mix(in oklab, var(--source-color) 20%, var(--color-fg-default));
+	}
+	
+	compare :is(james, nick, clip) mark[x] {
+		background-color: unset;
+		border: solid 2px var(--mark-stolen-bg);
+	}
+	compare :is(james, nick, clip, from) mark[fc] {
+		background-color: unset;
+		border: solid 1px red;
+	}
+	
+	compare :is(james, from, comment, clip, credits) mark:empty {
+		/* For use to mark the little number without highlighting it. */
+		background-color: unset;
+		color: unset;
+	}
+	compare :is(james, from, comment, clip, credits) mark::before {
+		vertical-align: super;
+		font-size: x-small;
+		font-family: sans-serif;
+		font-weight: 600;
+		color: var(--color-accent-fg);
+	}
+	compare :is(james, from, comment, clip, credits) mark[fc]::before {
+		content: none;
+	}
+	compare :is(james, from, comment, clip, credits) mark[num]::before {
+		content: attr(num);
 	}
 }
 
-q::before { content: none; }
-q::after { content: none; }
-q {
-	margin: 0;
-    border-left: 0.25em solid var(--color-border-default);
-    border-right: 0.25em solid var(--color-border-default);
-	background-color: var(--color-canvas-subtle);
+@layer markup {
+	compare :is(james, nick, clip, credits):not([mark]) { 
+		counter-reset: left-count;
+	}
+	compare :is(james, nick, clip, credits) mark::before {
+		content: counter(left-count);
+	}
+	compare :is(james, nick, clip, credits) mark {
+		counter-increment: left-count;
+		position: relative;
+	}
+	
+	compare :is(from, comment, visual, subvideo):not([mark]) { 
+		counter-reset: right-count;
+	}
+	compare :is(from, comment) mark::before {
+		content: counter(right-count);
+	}
+	compare :is(from, comment) mark {
+		counter-increment: right-count;
+		position: relative;
+	}
 }
 
-from.color-hbomb { border-color: hsl(59, 100%, 30%); }
-from.color-hbomb mark { background-color: hsla(59, 100%, 30%, 0.30) !important; }
-from.color-todd { border-color: hsl(0, 75%, 40%); }
-from.color-todd mark { background-color: hsla(0, 75%, 40%, 0.30) !important; }
-from.color-1 { border-color: hsl(118, 100%, 30%); }
-from.color-1 mark { background-color: hsla(118, 100%, 30%, 0.30) !important; }
-from.color-2 { border-color: hsla(187, 100%, 50%, 1.0); }
-from.color-2 mark { background-color: hsla(187, 100%, 50%, 0.30) !important; }
-from.color-3 { border-color: hsl(0, 52%, 32%); }
-from.color-3 mark { background-color: hsla(0, 52%, 32%, 0.30) !important; }
-from.color-4 { border-color: hsl(66, 100%, 50%); }
-from.color-4 mark { background-color: hsla(66, 100%, 50%, 0.30) !important; }
-from.color-5 { border-color: hsl(318, 65%, 49%); }
-from.color-5 mark { background-color: hsla(318, 65%, 49%, 0.30) !important; }
-from.color-6 { border-color: hsl(221, 100%, 50%); }
-from.color-6 mark { background-color: hsla(221, 100%, 50%, 0.30) !important; }
-from.color-7 { border-color: hsl(34, 98%, 34%); }
-from.color-7 mark { background-color: hsla(34, 98%, 34%, 0.30) !important; }
-from.color-8 { border-color: hsl(273, 72%, 33%); }
-from.color-8 mark { background-color: hsla(273, 72%, 33%, 0.30) !important; }
-from.color-9 { border-color: hsl(197, 47%, 31%); }
-from.color-9 mark { background-color: hsla(197, 47%, 31%, 0.30) !important; }
-from.color-10 { border-color: hsl(357, 92%, 43%); }
-from.color-10 mark { background-color: hsla(357, 92%, 43%, 0.30) !important; }
-from.color-11 { border-color: hsl(138, 100%, 47%); }
-from.color-11 mark { background-color: hsla(138, 100%, 47%, 0.30) !important; }
+@layer site {
+	compare from:empty {
+		filter: opacity(0.50);
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		position: relative;
+		border: unset;
+	}
+	compare from:empty::before {
+		position: absolute;
+		left: 4px;
+		top: 4px;
+		right: 4px;
+	}
+	compare from:empty::after {
+		content: 'No plagiarism found yet';
+		font-size: smaller;
+		color: var(--color-fg-muted);
+		align-self: center;
+	}
 
+	compare comment:empty {
+		filter: opacity(0.50);
+		border: unset;
+	}
+	compare comment a {
+		word-break: break-word;
+	}
+
+	compare from :is(h1,h2,h3,h4,h5,h6) {
+		margin-block: 0 4px !important;
+	}
+
+	.refs {
+		font-size: smaller;
+	}
+	.refs::before {
+		content: attr(header);
+		margin-left: -2em;
+		font-size: larger;
+		border-bottom: 3px solid black;
+	}
+	.refs.plagiarized::before {
+		border-bottom-color: var(--video-box-stolen-bg);
+	}
+	.refs.misinfo::before {
+		border-bottom-color: var(--video-box-fabricated-bg);
+	}
+	.refs.yikes::before {
+		border-bottom-color: var(--video-box-yikes-bg);
+	}
+	:target {
+		background-color: rgb(255 255 0 / 15%);
+	}
+
+	.transcript-start {
+		color: gray;
+		text-align: center;
+		font-size: 12px;
+		margin-bottom: 2rem !important;
+	}
+	.transcript-start::before {
+		content: 'Transcript Start';
+	}
+	section.footnotes {
+		position: relative;
+		margin-top: 3rem;
+	}
+	section.footnotes::before {
+		content: 'End Transcript';
+		position: absolute;
+		top: -2rem;
+		left: 0; right: 0;
+		text-align: center;
+	}
+	
+	sup.footnote-ref a::before { content: '['; }
+	sup.footnote-ref a::after { content: ']'; }
+	
+	.notice-banner {
+		background-color: var(--color-canvas-subtle);
+		border: 1px solid var(--color-border-default);
+		padding: 0.5em;
+		margin: 0.5em 0;
+		text-align: center;
+	}
+}
+
+@layer site {
+	compare subvideo {
+		background-color: var(--color-canvas-default);
+		box-shadow: 0px 0px 3em 2em black;
+		margin: -4px 4px 4px -4px;
+	}
+	compare subvideo::before { 
+		content: 'Insert Video Here:';
+	}
+	
+	subvideo .video-card {
+		margin-inline: auto;
+		max-width: 800px;
+	}
+	
+	:is(james, nick, clip)[fade] {
+		position: relative;
+		z-index: -10;
+	}
+	:is(james, nick, clip)[fade="out"] {
+		margin-bottom: -4em;
+	}
+	:is(james, nick, clip)[fade="in"] {
+		margin-top: -4em;
+	}
+	/* :is(james, nick, clip)[fade]::after {
+		content: ' ';
+		position: absolute;
+		top: -1px; left: -1px; right: -1px; bottom: -1px;
+		z-index: 100;
+	}
+	:is(james, nick, clip)[fade="out"]::after {
+		background: linear-gradient(to bottom, transparent 20%, var(--color-canvas-default) 80%);
+	}
+	:is(james, nick, clip)[fade="in"]::after {
+		background: linear-gradient(to top, transparent 20%, var(--color-canvas-default) 80%);
+	} */
+}
+
+@layer source {
+	a[href^="http:"]::after, 
+	a[href^="https:"]::after {
+		content: "\f08e";
+		font-family: "Font Awesome 6 Free";
+		-webkit-font-smoothing: antialiased;
+		display: var(--fa-display,inline-block);
+		font-style: normal;
+		font-variant: normal;
+		line-height: 1;
+		text-rendering: auto;
+		font-weight: 900;
+		padding-left: 0.4em;
+	}
+	
+	james a[href^="http:"]::after, 
+	james a[href^="https:"]::after {
+		font-size: smaller;
+	}
+	
+	.video-card a[href^="http:"]::after, 
+	.video-card a[href^="https:"]::after {
+		/* content: none !important; */
+		content: revert-layer;
+	}
+}
+
+@layer source {
+	.lyrics {
+		margin-inline: auto;
+		width: max-content;
+		/* min-width: 600px; */
+		font-family: serif;
+		white-space: pre;
+	}
+	@media (max-width: 600px) {
+		.lyrics {
+			width: 100%;
+			min-width: 0;
+		}
+	}
+	
+	q::before { content: none; }
+	q::after { content: none; }
+	q {
+		margin: 0;
+		border-left: 0.25em solid var(--color-border-default);
+		border-right: 0.25em solid var(--color-border-default);
+		background-color: var(--color-canvas-subtle);
+	}
+	
+	blockquote.book-excerpt {
+		font-family: serif;
+		text-indent: 2em;
+	}
+	blockquote.book-excerpt > p {
+		margin-block: 0;
+	}
+	
+	details[open] > summary {
+		border-bottom: 1px solid currentColor;
+		padding-bottom: 0.7em;
+		margin-bottom: 0.7em;
+	}
+}
+
+@layer site {
+	:root {
+		--source-color: hsl(120, 100%, 50%);
+	}
+}
+@layer source {
+	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
+	.color-todd  { --source-color: hsl(0, 75%, 40%); }
+	.color-none  { --source-color: hsl(0, 0%, 30%); }
+	.color-1     { --source-color: hsl(118, 100%, 30%); }
+	.color-2     { --source-color: hsl(187, 100%, 50%); }
+	.color-3     { --source-color: hsl(357, 92%, 43%); }
+	.color-4     { --source-color: hsl(71, 100%, 52%); }
+	.color-5     { --source-color: hsl(232, 100%, 47%); }
+	.color-6     { --source-color: hsl(138, 100%, 47%); }
+	.color-7     { --source-color: hsl(251, 100%, 75%); }
+	.color-8     { --source-color: hsl(0, 52%, 32%); }
+	.color-9     { --source-color: hsl(66, 100%, 35%); }
+	.color-10    { --source-color: hsl(37, 100%, 16%); }
+	.color-11    { --source-color: hsl(34, 98%, 34%); }
+	.color-12    { --source-color: hsl(164, 57%, 36%); }
+	.color-13    { --source-color: hsl(187, 90%, 19%); }
+	.color-14    { --source-color: hsl(342, 27%, 54%); }
+	.color-15    { --source-color: hsl(221, 100%, 50%); }
+	.color-16    { --source-color: hsl(273, 72%, 33%); }
+	.color-17    { --source-color: hsl(197, 47%, 31%); }
+	.color-18    { --source-color: hsl(318, 65%, 49%); }
+	.color-19    { --source-color: hsl(187, 100%, 39%); }
+	
+	compare credits[header="Audience-member:"] {
+		border-color: var(--video-box-stolen-bg);
+	}
+	
+	.srcstyle-book {
+		font-family: serif;
+		text-indent: 3ch;
+	}
+	
+	compare :is(from, comment, clip, visual, credits) > header,
+	compare credits::before,
+	compare footer {
+		font-family: var(--def-font-families);
+		text-indent: initial;
+		letter-spacing: initial;
+	}
+}

@@ -10,7 +10,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=7PA6EsHhKxI" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 
@@ -20,6 +20,24 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+A lot of horrible things have happened because of the rise of the far right. But would you guess that the gay body image crisis is one of them?
+
+00:00 Introduction  
+10:25 1. The Axis  
+19:46 2. A Model Citizen  
+27:13 3. Industrialization  
+36:50 4. The Ubermensch  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 why are queer men hyper focused on body image it may involve a social philosophy
 called objectification which is the act of treating persons as objects or things
 dehumanizing them and making them sexual objects instead of real people gay men

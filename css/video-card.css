@@ -1,113 +1,173 @@
-@media (prefers-color-scheme: dark) {
-	:root {
-		color-scheme: dark;
-		--video-box-stolen-text: #f0eaf2;
-		--video-box-stolen-bg: #8705ae;
-		--video-box-fabricated-text: #ffdcd7;
-		--video-box-fabricated-bg: #850810;
-		--video-box-yikes-text: #feffd7;
-		--video-box-yikes-bg: #4f6706;
+@layer site {
+	
+	@media (prefers-color-scheme: dark) {
+		:root {
+			color-scheme: dark;
+			--video-box-bg-color-def: #0a1a31;
+			--video-box-bg-color-new: #2d0a0a;
+			--video-box-bg-color-pod: #3b270a;
+			
+			--video-box-stolen-text: #f0eaf2;
+			--video-box-stolen-bg: #8705ae;
+			--video-box-fabricated-text: #ffdcd7;
+			--video-box-fabricated-bg: #850810;
+			--video-box-yikes-text: #feffd7;
+			--video-box-yikes-bg: #4f6706;
+			
+			--video-box-topic-color: #ffa657;
+		}
 	}
-}
-@media (prefers-color-scheme: light) {
-	:root {
-		color-scheme: light;
-		--video-box-stolen-text: #8705ae;
-		--video-box-stolen-bg: #f0eaf2;
-		--video-box-fabricated-text: #82071e;
-		--video-box-fabricated-bg: #ffebe9;
-		--video-box-yikes-text: #4f6706;
-		--video-box-yikes-bg: #feffd7;
+	@media (prefers-color-scheme: light) {
+		:root {
+			color-scheme: light;
+			--video-box-bg-color-def: #dae5f9;
+			--video-box-bg-color-new: #fddddd;
+			--video-box-bg-color-pod: #ffd699;
+			
+			--video-box-stolen-text: #3e104d;
+			--video-box-stolen-bg: #ca7ee3;
+			--video-box-fabricated-text: #281116;
+			--video-box-fabricated-bg: #ee857b;
+			--video-box-yikes-text: #1b2207;
+			--video-box-yikes-bg: #afd050;
+			
+			--video-box-topic-color: #ce0000;
+		}
 	}
-}
-
-
-.video-card {
-	max-width: 1000px;
-	background-color: var(--color-canvas-subtle);
-	margin: 6px;
-	padding: 2px 8px;
-	display: grid;
-	box-shadow: 3px 3px 4px 0px black;
-	grid: auto-flow / auto auto 1fr auto auto;
-	grid-template-areas:
-		"date  title title links"
-		"stat  aka   topic topic"
-		"score aka   topic topic";
-}
-.video-card > div {
-	padding: 2px 6px;
-}
-.video-card > .title {
-	grid-area: title;
-}
-.video-card > .vidlinks {
-	grid-area: links;
-}
-.video-card > .date {
-	grid-area: date;
-	font-family: monospace;
-	font-size: small;
-	align-self: center;
-}
-.video-card > .status {
-	grid-area: stat;
-	text-align: center;
-}
-.status.alert { color: var(--color-danger-fg); }
-.status.ready { color: var(--color-prettylights-syntax-markup-list); }
-.status.complete { color: var(--color-prettylights-syntax-entity-tag); }
-.video-card > .aka {
-	grid-area: aka;
-	color: grey;
-	font-size: smaller;
-}
-.video-card > .score {
-	grid-area: score;
-	display: grid;
-	grid: auto / 1fr 1fr 1fr;
-	grid-template-areas:
-		"plag fake yikes";
-}
-.video-card > .score > .plagiarized {
-	grid-area: plag;
-	text-align: center;
-	background-color: var(--video-box-stolen-bg);
-	color: var(--video-box-stolen-text);
-}
-.video-card > .score > .misinfo {
-	grid-area: fake;
-	text-align: center;
-	background-color: var(--video-box-fabricated-bg);
-	color: var(--video-box-fabricated-text);
-}
-.video-card > .score > .yikes {
-	grid-area: yikes;
-	text-align: center;
-	background-color: var(--video-box-yikes-bg);
-	color: var(--video-box-yikes-text);
-}
-.video-card > .topics {
-	grid-area: topic;
-	color: var(--color-prettylights-syntax-variable);
-    font-size: smaller;
-    text-align: right;
-}
-.video-card > .aka p,
-.video-card > .topics p {
-	margin: 0;
-	padding-left: 1em;
-    text-indent: -1em;
-}
-.video-card .title a:first-child {
-    margin-inline-end: 5px;
-}
-.video-card .note {
-    margin-inline: 4px;
-}
-
-.signature {
-	font-size: smaller;
-	color: grey;
-	text-align: right;
+	
+	.video-card {
+		max-width: 1000px;
+		background-color: var(--video-box-bg-color-def);
+		margin: 6px;
+		padding: 2px 8px;
+		display: grid;
+		box-shadow: 3px 3px 4px 0px black;
+		grid-template:
+			"date  title title links" auto
+			"score aka   topic topic" auto
+			"stat  aka   topic topic" 1fr
+			/ 6rem 1fr   auto  auto;
+		text-shadow: 0px 0px 0px black;
+	}
+	.video-card.podcast {
+		background-color: var(--video-box-bg-color-pod);
+	}
+	.video-card.post-callout {
+		background-color: var(--video-box-bg-color-new);
+	}
+	
+	.video-card.podcast {
+		background-color: var(--video-box-bg-color-pod);
+	}
+	.video-card.post-callout {
+		background-color: var(--video-box-bg-color-new);
+	}
+	
+	.video-card > div {
+		padding: 2px 6px;
+	}
+	.video-card > .title {
+		grid-area: title;
+	}
+	.video-card > .vidlinks {
+		grid-area: links;
+	}
+	.video-card > .date {
+		grid-area: date;
+		font-family: monospace;
+		font-size: small;
+		align-self: center;
+	}
+	.video-card > .status {
+		grid-area: stat;
+		text-align: center;
+		align-self: self-end;
+	}
+	.status.alert { 
+		color: var(--color-danger-fg); 
+	}
+	.status.ready { 
+		color: var(--color-prettylights-syntax-markup-list); 
+		font-weight: 600;
+	}
+	.status.complete { 
+		color: var(--color-prettylights-syntax-entity-tag); 
+		font-weight: 600;
+	}
+	.video-card > .aka {
+		grid-area: aka;
+		color: grey;
+		font-size: smaller;
+	}
+	.video-card > .score {
+		grid-area: score;
+		display: grid;
+		grid: auto / 1fr 1fr 1fr;
+		grid-template-areas:
+			"plag fake yikes";
+		padding: 0;
+		position: relative;
+		
+		--bar-height: 4px;
+		margin-top: calc(var(--bar-height));
+	}
+	.video-card > .score .plagiarized {
+		grid-area: plag;
+		text-align: center;
+		background-color: var(--video-box-stolen-bg);
+		color: var(--video-box-stolen-text);
+	}
+	.video-card > .score .misinfo {
+		grid-area: fake;
+		text-align: center;
+		background-color: var(--video-box-fabricated-bg);
+		color: var(--video-box-fabricated-text);
+	}
+	.video-card > .score .yikes {
+		grid-area: yikes;
+		text-align: center;
+		background-color: var(--video-box-yikes-bg);
+		color: var(--video-box-yikes-text);
+	}
+	.video-card > .score > .bar {
+		position: absolute;
+		top: calc(-1 * (var(--bar-height) + 4px));
+		left: 0; right: 0;
+		
+		border-radius: 6px;
+		display: flex;
+		height: var(--bar-height);
+		background-color: var(--color-border-default);
+		overflow: hidden;
+	}
+	.video-card > .score > .bar span {
+		border-inline-end: 1px solid var(--color-canvas-default);
+	}
+	.video-card > .topics {
+		grid-area: topic;
+		color: var(--video-box-topic-color);
+		 font-size: smaller;
+		 text-align: right;
+	}
+	.video-card > .aka p,
+	.video-card > .topics p {
+		margin: 0;
+		padding-left: 1em;
+		 text-indent: -1em;
+	}
+	.video-card > .aka p.desc {
+		color: var(--color-fg-default);
+	}
+	.video-card .title a:first-child {
+		 margin-inline-end: 5px;
+	}
+	.video-card .note {
+		 margin-inline: 4px;
+	}
+	
+	.signature {
+		font-size: smaller;
+		color: grey;
+		text-align: right;
+	}
 }

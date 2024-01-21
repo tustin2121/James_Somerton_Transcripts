@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -15,6 +15,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+With the release of "Knock At The Cabin", we decided to take a look at the growing attacks on the queer community's privacy and security. 
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+00:00 Introduction  
+05:57 Part One - Full Coverage  
+18:18 Part Two - Policy Reminder  
+23:40 Part Three - Terms and Conditions  
+31:30 Part Four - The Fine Print  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Atlas VPN I've been noticing something over the
 last few months years that's been bothering me but I haven't spoken that much
 about it I wonder if you my dear viewers have noticed the same thing that being

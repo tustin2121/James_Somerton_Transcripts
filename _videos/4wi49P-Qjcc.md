@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 
@@ -19,6 +19,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+There's always been an attraction to fictional monsters, but what happens when that monster is real?
+
+PATREON: [link]
+
+00:00 Introduction  
+03:04 Part 1 - Framed  
+11:09 Part 2 - In Frame  
+20:24 Part 3 - Re-Framed  
+
+#dahmer #KillingStalking #truecrime
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 we all like True Crime if the glut of True Crime series is any indication it's
 very suddenly become one of the most engaging forms of contemporary
 entertainment and there's no sign of it stopping from streaming to YouTube to

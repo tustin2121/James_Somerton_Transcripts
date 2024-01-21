@@ -8,7 +8,7 @@ topics: !!seq
   - "Gay Porn"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
   - dec5-delete
@@ -21,6 +21,43 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Men, Murder, and Monopolies
+
+"Making It Big" is a feature-length video essay about the history of gay erotic films in America. From Beefcake to bareback, this video explores the changing social attitudes surrounding porn, the people who made it happen, and the technological advances that made it all possible.
+
+Based on the book "Bigger than Life" by Jeffrey Escoffier
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:34" for="Part 1: Beefcake" %}  
+{% include chapter-link at="09:36" for="Part 2: Softcore Boiled" %}  
+{% include chapter-link at="14:13" for="Part 3: Sex on the Beach" %}  
+{% include chapter-link at="20:36" for="Part 4: Flight of the Falcon" %}  
+{% include chapter-link at="25:38" for="Part 5: Aspen" %}  
+{% include chapter-link at="30:31" for="Part 6: Catalina" %}  
+{% include chapter-link at="35:54" for="Part 7: Sex in the Ruins" %}  
+{% include chapter-link at="47:59" for="Part 8: Requiem" %}  
+{% include chapter-link at="53:44" for="Part 9: More of a Man" %}  
+{% include chapter-link at="01:01:30" for="Part 10: Cyber Sexuality" %}  
+{% include chapter-link at="01:03:32" for="Part 11: Cobra" %}  
+{% include chapter-link at="01:16:44" for="Part 12: Rise of the Geeks" %}  
+{% include chapter-link at="01:22:11" for="Epilogue" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hardcore porn both of the straight and gay varieties entered mainstream american
 culture in the 1970s as the sexual revolutions swept away many of the cultural
 and moral inhibitions that had been keeping the country's proverbial knees

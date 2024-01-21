@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 
@@ -19,6 +19,31 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+A deep dive into the history of LGBT representation (or lackthereof) in Disney films. From the Silly Symphonies to Star Wars and Marvel. 
+
+Based on the book "Tinker Belles and Evil Queens" by Sean P. Griffin
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="06:06" for="The Days of Walt Disney" %}  
+{% include chapter-link at="29:46" for="The New Blood" %}  
+{% include chapter-link at="58:51" for="A New Era" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob
 Iger announced Disney's latest World conquering Venture Disney plus a Digital
 streaming service dub a Netflix Killer by many in the media that would make

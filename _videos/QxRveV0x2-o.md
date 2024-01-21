@@ -9,7 +9,7 @@ topics: !!seq
   - "Yuri On Ice"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - odd-linebreaks
 
@@ -19,6 +19,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+What kind of representation actually counts as gay representation? What counts as pandering? What counts as baiting? And what's the difference? When is nuance enough? 
+
+#BoysLove #Anime #gay
+
+{% include chapter-link at="00:00" for="Intro" %}  
+{% include chapter-link at="04:24" for="Part 1: Implausible Deniability" %}  
+{% include chapter-link at="11:14" for="Part 2: Explicit Content" %}  
+{% include chapter-link at="20:29" for="Part 3: A Hidden Creation" %}  
+{% include chapter-link at="26:19" for="Part 4: Good and Bad Representation" %}  
+{% include chapter-link at="35:54" for="Part 5: The Climax Comes So Early" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Yuri on Ice is a 2016 anime about Yuri Katsukai,
 
 a 24 year old figure skater from Japan whose pretty much convinced that he’s past his

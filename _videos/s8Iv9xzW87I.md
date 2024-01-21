@@ -9,13 +9,13 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
   - dec5-delete
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/francistimestwo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcaaf2k)"
 
@@ -25,6 +25,31 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Horror movies have been getting queerer in the new millennium.  
+[patreon link]
+
+#horrorstories #movies #gay 
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:56" for="Part One - The Monsters Are Real" %}  
+{% include chapter-link at="11:23" for="Part Two - The Evolution of Tolerance" %}  
+{% include chapter-link at="19:06" for="Chapter Three - Laugh Yourself To Death" %}  
+{% include chapter-link at="24:32" for="Chapter Four - Horror Becomes Real" %}  
+{% include chapter-link at="29:32" for="Chapter Five - All About The Dolls" %}  
+{% include chapter-link at="37:02" for="Chapter Six - We’re All The Final Girl" %}  
+{% include chapter-link at="45:24" for="Chapter Seven - Horrific Transitions" %}  
+{% include chapter-link at="52:04" for="Chapter Eight - They Always Get Up" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 at the 1984 Democratic National Convention Bobby Campbell a prominent AIDS
 activist argued for a presidential candidate who would actually address the AIDS
 crisis unlike the Reagan Administration whose mandate regarding the growing

@@ -100,3 +100,5 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [AlyJl0ddcPs](_videos/AlyJl0ddcPs.md) | The Gay Horror Manga You Should Be Reading
 | [xBDc6SedkAc](_videos/xBDc6SedkAc.md) | Gay Happiness and Mainstream Media
 | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | Neil Gaiman & Queering Fantasy
+| [SMqbxh0zkW0](_videos/SMqbxh0zkW0.md) | Canadian Queer Identity with James Somerton
+

@@ -18,7 +18,7 @@ notes:
 
 contributors:
   trascription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"
-  formatting: Tustin2121
+  formatting: $cite$tustin2121
 
 cite:
   clips:
@@ -26,13 +26,41 @@ cite:
     silence_lambs_movie: { short: "Silence of the Lambs (Demme, 1991)", full: "Demme, J. (Director). (1991). <em>The Silence of the Lambs</em> [Film]. Strong Heart Productions." }
   yikes: !!map
   misinformation: !!map
+    pratchett: "James makes up a legend about the origins of Good Omens when the truth is actually easily researchable."
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
     helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."
   plagiarized: !!map
 ---
+{% assign hbomb = site.data.cite.hbomb %}
+{% assign todd = site.data.cite.todd %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-	<james {% include timecode %}>This video is brought to you by SquareSpace</james>
+<credits class="desc">
+
+[sponsor plug]
+
+Join us on Patreon to see videos up to six months early!  
+[link]
+
+How is it that a straight writer creates some of the best queer characters in fiction?
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:00" for="Vers One" %}  
+{% include chapter-link at="11:32" for="Vers Two" %}  
+{% include chapter-link at="17:49" for="Vers Three" %}  
+{% include chapter-link at="22:25" for="Vers Four" %}  
+{% include chapter-link at="29:06" for="Vers Five" %}  
+{% include chapter-link at="35:51" for="Vers Six" %}  
+{% include chapter-link at="39:18" for="Vers Seven" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
+<compare>
+<james {% include timecode %}>This video is brought to you by SquareSpace</james>
 </compare>
 
 <compare>
@@ -60,7 +88,7 @@ And believe me, the queer community has a heep of that. For instance, trans men 
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 I can't find much about "trans men like rats" and even less about "enbies like rats". What I can find is people asking if the former stereotype is actually a thing. Consensus seems to be "eh?".
 
@@ -95,7 +123,7 @@ Now while queer creators are finally getting a chance to tell their own stories,
 <from></from>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 
 ## Vers One: Of Angles & Demons
 
@@ -124,10 +152,16 @@ The displeasure at seeing queer experiences on the screen clearly indicated that
 <compare>
 <james {% include timecode %}>
 
-Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind. Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
+Gaiman’s renown as an writer truly began in 1990 when he co authored *Good Omens* with literary giant Terry Pratchett. <mark fc=false>According to legend, Neil pitched the idea to Pratchett off hand at a convention to which Pratchett seems agreeable. Though Neil assumed that he was just being let down gently and put it out of his mind.</mark> Sometime later, Neil got a phone call from Pratchett who wanted to know how this misplaced antichrist idea might play out. 
 
 </james>
-<from></from>
+<comment id="pratchett">
+{% include header video=todd.video at="46m50s" %}
+
+This is just not what happened. It *was* Gaiman’s concept originally, but it started off as a few pages that Gaiman sent to all of his author friends. Pratchett contacted Gaiman about it a year later and they decided to write it together (since Pratchett was already a published author). This story has been told by them a few times, so there's no reason why James couldn't fact check this.
+
+{% include footer-citation for=todd.video at="(46:50)" %}
+</comment>
 </compare>
 
 <compare>
@@ -359,13 +393,11 @@ The nightmares Brute and Glob were replaced by another nightmare entirely, Gault
 
 It’s worth noting however, that there is simply much more *Sandman* content in the Netflix series than the corresponding comics. The existing narrative was beefed up to flush[^sic] out a whole season (unlike the Final Fantasy 7 remake). However, the padding here doesn’t seem as apparent, in fact if you’re reading the comics after watching this series you may find that some of the most outstanding moments are missing altogether.
 
-The paddings in this series, outside of the adjustments I mentioned earlier, mesh so well into the Netflix adaptation because they seem to be flushing[^sic] out side-plots that simply were never explored in the comics, though strongly indicated. And it may shock you to know that these expanded indicated plots... were about queer people.
+The paddings in this series, outside of the adjustments I mentioned earlier, mesh so well into the Netflix adaptation because they seem to be flushing out<sup class="add">[sic: fleshing out]</sup> side-plots that simply were never explored in the comics, though strongly indicated. And it may shock you to know that these expanded indicated plots... were about queer people.
 
 </james>
 <from></from>
 </compare>
-
-[^sic]: James uses "flushing out". The correct term is "fleshing out".
 
 ## Vers Three: Of Good & Evil
 
@@ -506,13 +538,15 @@ And this is part of the consequences of being part of a community that has been 
 <compare>
 <james {% include timecode %}>
 
-Do any of you realize how many comments I still get on the Yuri on Ice video to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
+Do any of you realize <mark fc=false>how many comments I still get on the [Yuri on Ice video](QxRveV0x2-o.md)</mark> to this day aggressively arguing that the anime is bad representation because you don’t see lips touching during the kiss. Then again that video still gets comments from -- usually straight women... no... hating, but still -- who *incessantly* deny that there’s any queerness coded or otherwise present in that series.
 
 </james>
-<comment id="yuri_comments" {% include citation for=site.yt.hbomb_video at="(2:46:18)" %}>
+<comment id="yuri_comments">
+{% include header video=hbomb.video at="2h46m18s" %}
 
 Hbomberguy attempted to find these comments mentioned, and found no such comments in the last year on that video. Also how does he know they're straight women? James is lying.
 
+{% include footer-citation for=hbomb.video at="(2:46:18)" %}
 </comment>
 </compare>
 
@@ -672,11 +706,11 @@ The more complicated reality of good representation is that it’s very difficul
 <compare>
 <james {% include timecode %}>
 
-For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.
+For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. <mark fc=false>Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.</mark>
 
 </james>
 <comment id="helen_of_try">
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate Troy (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens.
 
@@ -779,7 +813,12 @@ For all that we create our dreams without thinking, it’s still possible, thoug
 </james>
 <from></from>
 </compare>
+<compare>
+<credits class="closing" {% include timecode %}>
 
 &lt;Patreon plug&gt;
 
-Patreon names roll over piano music (as of yet unidentified).
+\[Patreon names roll over piano music (as of yet unidentified).]
+
+</credits>
+</compare>

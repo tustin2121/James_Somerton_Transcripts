@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=Lj_WYIOeCiM" # reuploads channel
-description: "a podcast episode on <xyz>."
+# description: "a podcast episode on <xyz>."
 notes:
   - podcast
 
@@ -17,6 +17,21 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+[patreon link]
+[website link]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Squarespace hello everyone and welcome to gays
 Behaving Badly the YouTube show where we pretend George Santos doesn't exist
 because that's the only way we can get through the day my name is James I'm Nick

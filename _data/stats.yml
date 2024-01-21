@@ -1,0 +1,56 @@
+# This file is auto-generated using scripts/update-percentages.mjs
+# Do not commit this file.
+_global:
+  sources: 78
+  lies: 34
+  yikes: 5
+  changed-number: 2
+  p-wiki: 15
+  sub-queer: 15
+  changed-quote: 5
+  correction: 2
+  changed-name: 4
+  p-book: 5
+  p-student: 4
+  baa: 3
+  p-academic: 4
+  p-news: 9
+  y-exclusion: 1
+  y-misogyny: 1
+  y-transphobia: 1
+  blatant-bgm: 2
+  p-youtube: 6
+-Uoqmxlcusg:
+  vol: { p: 11.6, m: 0.0, y: 0.0, w: 4.7, v: 0 }
+-Zcf3uNGbq4:
+  vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
+DeepCuts000:
+  vol: { p: 74.2, m: 5.6, y: 0.0, w: 54.8, v: 0 }
+F5ab1X2CFq8:
+  vol: { p: 0.0, m: 4.3, y: 0.0, w: 0.0, v: 0 }
+J-aYcSQ0DWQ:
+  vol: { p: 10.3, m: 0.0, y: 0.0, w: 6.0, v: 0 }
+KarOvBQCyKE:
+  vol: { p: 0.0, m: 1.9, y: 0.0, w: 0.0, v: 0 }
+QuiEKdTmj2M:
+  vol: { p: 20.8, m: 0.0, y: 0.0, w: 6.2, v: 0 }
+SdtbQhAKFSI:
+  vol: { p: 89.1, m: 2.2, y: 0.0, w: 68.4, v: 0 }
+Unrequited1:
+  vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
+VoHYZUj43K4:
+  vol: { p: 24.7, m: 0.0, y: 0.0, w: 15.3, v: 0 }
+ZDgWHNDdwoU:
+  vol: { p: 14.7, m: 0.0, y: 0.0, w: 8.3, v: 0 }
+nCi19sYugIA:
+  vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
+p5KpIROXhZw:
+  vol: { p: 0.0, m: 4.8, y: 0.0, w: 0.0, v: 0 }
+qa3A_ery3Hg:
+  vol: { p: 46.8, m: 0.0, y: 0.0, w: 14.7, v: 0 }
+xBDc6SedkAc:
+  vol: { p: 4.7, m: 4.7, y: 0.0, w: 1.0, v: 0 }
+xLuNGhQPDHM:
+  vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
+zIsQ502N0fg:
+  vol: { p: 30.3, m: 0.0, y: 0.0, w: 12.3, v: 0 }

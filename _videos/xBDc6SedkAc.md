@@ -20,7 +20,7 @@ notes:
 
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
-  formatting: Tustin2121
+  formatting: $cite$tustin2121
 
 cite:
   clips:
@@ -35,15 +35,42 @@ cite:
   plagiarized: !!map
     wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
+{% assign todd = site.data.cite.todd %}
+{% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-<james {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
+<credits class="desc">
+
+[Sponsor plug]
+
+Join us on Patreon to see videos up to six months early!  
+[link]
+
+Let's talk about happy gay media, and why some gay people really, really, hate it... and why they're justified.
+
+#heartstopper   #youngroyals   #redwhiteandroyalblue 
+
+{% include chapter-link at="00:00" for="Disclaimer" %}  
+{% include chapter-link at="00:38" for="Synopsis" %}  
+{% include chapter-link at="07:42" for="Chapter 1" slug="Chapter 1: Missionary Suppression" %}  
+{% include chapter-link at="15:37" for="Chapter 2" slug="Chapter 2: Cute and Caged" %}  
+{% include chapter-link at="20:32" for="Chapter 3" slug="Chapter 3: Straight Interrupted" %}  
+{% include chapter-link at="26:50" for="Chapter 4" slug="Chapter 4: Trauma and FOMO" %}  
+{% include chapter-link at="33:33" for="Chapter 5" slug="Chapter 5: Real Life and Fantasy" %}  
+{% include chapter-link at="38:30" for="Chapter 6" slug="Chapter 6: Inclusive Invisibility" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
+<compare>
+<james meta {% include timecode %}>This video is brought to you by SquareSpace / Lilo</james>
 <comment>
-<div class="header"></div>
+{% include header for=tustin %}
 
 Prior to this video being released, James was complaining on discord about how he was having trouble getting the sponsorship read from Lilo (a sex toy company) to not get the video age-gated. He eventually gave up and released this video with a Squarespace ad. 
 
-{{ site.tustin.signature }}
 
 </comment>
 </compare>
@@ -65,7 +92,7 @@ So let's hit the ground running and talk about *Red, White, and Royal Blue*, the
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 Note: I am including the entire plot summary from wikipedia below, lined up with James's summary, for comparison. He doesn't seem to "borrow" too much from there, and there's only so much that you can deviate when you're summarizing a movie. Take this comparison as you will.
 
@@ -75,10 +102,10 @@ Note: I am including the entire plot summary from wikipedia below, lined up with
 <compare>
 <james {% include timecode %}>
 
-In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of <mark>Prince Phillip, the eldest grandson of England's Monarch</mark>. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
+In the heart of the city of London, The Majestic Wedding Bells echo, announcing the matrimony of <mark num=1>Prince Phillip, the eldest grandson of England's Monarch</mark>. The historic streets lined with iconic landmarks buzz with anticipation and excitement.
 
 Among the swirl of dignitaries and celebrities is an individual who
-attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's <mark>the dynamic son of Ellen Claremont</mark>, a trailblazer who shattered glass ceilings by becoming the <mark>first woman to become the president of the United States</mark>.
+attracts attention like a moth to a flame: Alex Claremont-Diaz. He isn't just any attendee; he's <mark num=2>the dynamic son of Ellen Claremont</mark>, a trailblazer who shattered glass ceilings by becoming the <mark x num=3>first woman to become the president of the United States</mark>.
 
 However this evening amidst the sparkling chandeliers of the Grand Ballroom, something is amiss. The air thickens with tension and hush whispers traverse the room. At the heart of these murmur are Alex and <mark>Prince Henry, the younger sibling of the groom</mark>. Their contentious relationship is the stuff of social media legend. The simmering animosity between them reaches its crescendo when a relatively minor misunderstanding leads to them swimming in wedding cake, providing juicy content for the eager tabloids on both sides of the pond. 
 
@@ -86,7 +113,7 @@ However this evening amidst the sparkling chandeliers of the Grand Ballroom, som
 <from {% include citation for=page.cite.plagiarized.wiki_rwrb %}>
 <h1>Plot</h1>
 
-Alex Claremont-Diaz, <mark>the son of Ellen Claremont</mark>, <mark>the first female president of the United States</mark>, attends the wedding of <mark>Prince Phillip, the eldest grandson of the King of England</mark>. Alex has a long-standing feud with <mark>Prince Henry, Phillip's younger brother</mark> and the "spare" to the British Throne. During the reception, Alex and Henry get into an altercation, resulting in embarrassing reports in the following morning's newspapers.
+Alex Claremont-Diaz, <mark num=2>the son of Ellen Claremont</mark>, <mark num=3>the first female president of the United States</mark>, attends the wedding of <mark num=1>Prince Phillip, the eldest grandson of the King of England</mark>. Alex has a long-standing feud with <mark>Prince Henry, Phillip's younger brother</mark> and the "spare" to the British Throne. During the reception, Alex and Henry get into an altercation, resulting in embarrassing reports in the following morning's newspapers.
 
 </from>
 </compare>
@@ -210,7 +237,7 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 </from>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
 ## Chapter 1: Missionary Suppression
@@ -256,13 +283,13 @@ Henry: *[shy]* He is.
 <compare>
 <james {% include timecode %}>
 
-And yeah it got heat, of the... not-so-great kind. Uh, we're talking about think pieces from places like The Huffington Post and the BBC getting their knickers in a Twist over the movie's "excessive sexiness".
+And yeah it got heat, of the... not-so-great kind. Uh, we're talking about <mark fc=false>think pieces from places like The Huffington Post and the BBC</mark> getting their knickers in a Twist over the movie's "excessive sexiness".
 
 The twist? Some of these naysayers were gay men. It's a bit of a "the call is coming from inside of the house" moment when queer people themselves openly admit to being comfortable watching straight sex in movies, but are turned away by the sight of boys kissing. Especially due to how relatively tame *Red, White, and
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
 
 </james>
-<comment id="think_pieces" {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="think_pieces" {% include citation for=todd.video at="(18:35)" %}>
 
 Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
 
@@ -278,12 +305,12 @@ Todd could not find anything but a negative review on the BBC, which just though
 <compare>
 <james {% include timecode %}>
 
-The bulk of criticism however was found on social media, where straight people seemed to be confused and shocked that gay men had sex at all. The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
+The bulk of criticism however was found on social media, <mark fc=false>where straight people seemed to be confused and shocked that gay men had sex at all.</mark> The blowjob references and the **one** particular sex scene (which seemed like a Rubik's Cube to some straight viewers) were too much for an audience that had been raised on the sexless gay best friend sidekick character. It's *almost* as if someone asked "Do gay characters have sexual encounters? How do they do this when they're both facing each other? What kind of witchcraft is this?!"
 
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
 </james>
-<comment id="missionary_tweets" {% include citation for=site.yt.todd_video at="(22:55)" %}>
+<comment id="missionary_tweets" {% include citation for=todd.video at="(22:55)" %}>
 
 Todd looked for evidence of this, and found the following two articles:
 
@@ -321,10 +348,10 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 <compare>
 <james {% include timecode %}>
 
-However, they were *so* taken aback, that they criticized the film for having an *excessive* amount of sexual content which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
+However, they were *so* taken aback, <mark fc=false>that they criticized the film for having an *excessive* amount of sexual content</mark> which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
-<comment id="sex_backlash" {% include citation for=site.yt.todd_video at="(18:35)" %}>
+<comment id="sex_backlash" {% include citation for=todd.video at="(18:35)" %}>
 
 It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
 
@@ -565,7 +592,7 @@ it's great! It's good. It's fine.
 
 </james>
 <comment id="sex_broccoli">
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 "How do you know you don't like X if you haven't tried it," works where X = food. But when X = sex, it's acephobic. Asexual people don't have to "try sex" to know they don't like it, and forcing someone to have sex when they don't want to is... well, have a word for that.
 
@@ -643,11 +670,10 @@ And, no, you can't go back and fix it. Like I came out when I was 12 and I haven
 
 </james>
 <comment>
-<div class="header"></div>
+{% include header for=tustin %}
 
 James has repeated this personal anecdote on stream, so it may be genuine.
 
-{{ site.tustin.signature }}
 
 </comment>
 </compare>

@@ -5,12 +5,13 @@ status: Auto
 aka: !!seq
   - 'Good "Bad" Media and the Death of Satire'
   - "Culture and the death of Satire (Thumbnail)"
-  - "Sex & Satire"
+  - "Sex, Violence, and Advanced Media Literacy (Title Card)"
+  - "Sex & Satire ; Good Bad"
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=4fEjYHiEDU8" # reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -18,6 +19,35 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[Sponsor plug]
+
+Modest Proposal Art by Henry Behrens
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="4:58" for="The Bad Movies Club" %}  
+{% include chapter-link at="12:44" for="Isn't It Iconic?" %}  
+{% include chapter-link at="22:06" for="Please Sir, I Want Some Gore" %}  
+{% include chapter-link at="31:01" for="Basic" %}  
+{% include chapter-link at="37:32" for="Showtime!" %}  
+{% include chapter-link at="38:23" for='"BAD"' %}  
+{% include chapter-link at="46:03" for="Suspension of Disbelief" %}  
+{% include chapter-link at="51:43" for="Re-Examination" %}  
+{% include chapter-link at="56:35" for="Climax" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 the rags to riches story is a classic narrative Trope that has captured the
 hearts of audiences for Generations one of the most enduring and popular
 variations of this tale is the story of a nobody becoming a star this narrative

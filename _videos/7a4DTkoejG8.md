@@ -14,10 +14,10 @@ notes:
   - podcast
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   formatting:
     - "[tobi-cat](https://github.com/tobi-cat)"
-    - Tustin2121
+    - $cite$Tustin2121
 
 cite:
   clips: !!map
@@ -26,6 +26,20 @@ cite:
     conversion_therapy: "Nick claims that asexual people don't get targeted with conversion therapy."
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Something new to the channel! Maybe something we'll keep doing? Let us know what you think of this format!
+
+[patreon link]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 
 <compare>
 <james {% include timecode %}>

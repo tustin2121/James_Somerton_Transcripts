@@ -15,9 +15,9 @@ notes:
   - script-diff
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: Tustin2121
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -27,12 +27,33 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
 
+<compare>
+<credits class="desc">
+
+Why does the family-friendly empire of Disney, and society as a whole, hold such animosity toward gay kids?
+
+Previous video: [https://youtu.be/cMde5YLG6-w](cMde5YLG6-w.md)
+
+#Disney #Luca #Disneyplus
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:54" for="Part 1 - Why Disney?" %}  
+{% include chapter-link at="11:36" for="Part 2 - Show Business" %}  
+{% include chapter-link at="17:55" for="Part 3 - A Creeping Normal" %}  
+{% include chapter-link at="26:02" for="Part 4 - Queer Fear" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 {% assign timecode = "0:00" %}
+
 <compare>
 <credits>
 
-\[New Station Ident intro screen]
+\[News Station Ident intro screen]
 
 > Gay News  
 LIVE! 

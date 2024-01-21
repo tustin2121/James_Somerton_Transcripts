@@ -3,9 +3,27 @@
 		"css/transcript.css"
 	],
 	"cSpell.words": [
+		"badass",
+		"bloodborne",
+		"cisgendered",
+		"hbomb",
+		"Hbombergy",
 		"Herrgott",
-		"Somerton"
+		"heteronormative",
+		"heteronormativity",
+		"Huffpost",
+		"misgendered",
+		"Narratively",
+		"pansexual",
+		"polyamorous",
+		"Somerton",
+		"timecode",
+		"victimhood"
 	],
+	"files.associations": {
+        "**/_includes/*": "liquid",
+        "**/_layouts/*": "liquid",
+    },
 	"[markdown]": {
 		"editor.hover.delay": 6000,
 		// "editor.unicodeHighlight.ambiguousCharacters": false,
@@ -20,5 +38,8 @@
 		// "cSpell.fixSpellingWithRenameProvider": true,
 		// "cSpell.advanced.feature.useReferenceProviderWithRename": true,
 		// "cSpell.advanced.feature.useReferenceProviderRemove": "/^#+\\s/"
-	}
+	},
+	"cSpell.enableFiletypes": [
+		"liquid"
+	]
 }

@@ -10,9 +10,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=v_KG7r3ClZc" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
-  - custom-start
   - short-advert
 
 cite:
@@ -23,7 +22,7 @@ cite:
 ---
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 [Sponsor plug]
 
