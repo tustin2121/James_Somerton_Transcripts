@@ -1,7 +1,7 @@
 ---
 date: 2014-08-27
 title: "Film Theory #1: Is The Blockbuster Dying"
-status: Auto
+status: Finished
 aka: !!seq
 topics: !!seq
   - "The Amazing Spider-Man 2"
@@ -12,6 +12,10 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=GG-23DBASUs"
 description: "a video essay on genre fatigue and the potential causes of declining box office sales"
+
+contributors:
+  downloaded: $cite$TerraJRiley
+  formatted: "[cam-ball](https://github.com/tustin2121/James_Somerton_Transcripts/pull/8)"
 
 cite:
   clips: !!map
