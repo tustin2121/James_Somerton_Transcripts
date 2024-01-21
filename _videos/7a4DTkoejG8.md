@@ -1,7 +1,7 @@
 ---
 date: 2022-11-16 
 title: The Queer Erasure of Asexuality (A Discussion)
-status: In Progress
+status: Finished
 aka: !!seq
 topics: !!seq
   - Aro/Ace

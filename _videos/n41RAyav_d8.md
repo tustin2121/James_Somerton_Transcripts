@@ -1,6 +1,6 @@
 ---
 date: 2022-08-13
-title: How Disney Tore Down *The Owl House*
+title: How Disney Tore Down The Owl House
 status: Auto
 aka: !!seq
 topics: !!seq
