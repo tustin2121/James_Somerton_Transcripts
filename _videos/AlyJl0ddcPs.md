@@ -1,7 +1,7 @@
 ---
 date: 2023-10-29
 title: The Gay Horror Manga You Should Be Reading
-status: Script
+status: Finished
 aka: !!seq
   - "Monsters will be Boys (Thumbnail)"
   - "The Summer Hikaru Died #horrorstories #manga (Short)" # Prepend the title to this. It was too long for the UI
@@ -13,12 +13,13 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - short-advert
+  - script-diff
 
 contributors:
   downloaded: $cite$TerraJRiley
   formatting:
     - "[Scary-Library](https://github.com/tustin2121/James_Somerton_Transcripts/pull/12)"
-    - $cite$Tustin2121
+    - $cite$tustin2121
 
 cite:
   clips: !!map
@@ -160,7 +161,7 @@ Curiosity gnawing at him, Yoshiki longs to understand how Hikaru took the spirit
 <compare>
 <james>
 
-This is a pivotal scene for framing the whole of the series, and cementing this story as not only containing gay characters, but presenting gay experiences. Without being explicit, this scene portrays a representation of sexual experimentation. While Hikaru’s enjoyment is apparent, Yoshiki is confused as to whether he likes the sensation or not. Hikaru, while abiding by consent, does push boundaries — a bit too fast for Yoshiki. Moving at different speeds is also a hallmark of developing queer identity. To Yoshiki, there is an element of danger with this. And this danger articulates an ongoing theme in the series about the-thing-that replaced-Hikaru: should we be afraid of it or not? Because an act of Hikaru’s ‘just playing around’ is a horror to Yoshiki. 
+This is a pivotal scene for framing the whole of the series, and cementing this story as not only containing gay characters, but presenting gay experiences. Without being explicit, this scene portrays a representation of sexual experimentation. While Hikaru’s enjoyment is apparent, Yoshiki is confused as to whether he likes the sensation or not. Hikaru, while abiding by consent, does push boundaries — a bit too fast for Yoshiki. Moving at different speeds is also a hallmark of developing queer identity. To Yoshiki, there is an element of danger with this. And this danger articulates an ongoing theme in the series about the-thing-that replaced-Hikaru: should we be afraid of it or not? Because an act of Hikaru<ins>’s</ins> ‘just playing around’ is a horror to Yoshiki. 
 
 </james>
 <from></from>
@@ -178,7 +179,7 @@ Regardless that Hikaru himself is aware of the difference between ‘play’ and
 <compare>
 <james>
 
-In the fever of this internal struggle, he has a chance encounter with a woman from town. She does not recognize him… but she recognizes something about him. She reveals that she used to sense an ominous presence emanating from the mountainous forest… the very mountains where Hikaru met his end. However, she remarks that the malevolence that once resided far away has now crossed into the village. And she spies that this malevolence has touched Yoshiki. Expressing concern for him, she explains that as humans draw closer to the spirits and the realm of spirits, they become ‘mixed.’ She warns that Yoshiki is doomed if he continues his entanglement with the-thing-that-replaced-Hikaru. The first of a series of warnings against ‘mixing’ with others who should remain separate. 
+In the fever of this internal struggle, he has a chance encounter with a woman from town. She does not recognize him… but she recognizes something about him. She reveals that she used to sense an ominous presence emanating from the mountainous forest… the very mountains where Hikaru met his end. However, she remarks that the malevolence that once resided far away has now crossed into the village. And she spies that this malevolence has touched Yoshiki. Expressing concern for him, she explains that as humans draw closer to <ins>the</ins> spirits and the realm of spirits, they become ‘mixed.’ She warns that Yoshiki is doomed if he continues his entanglement with the-thing-that-replaced-Hikaru. The first of a series of warnings against ‘mixing’ with others who should remain separate. 
 
 </james>
 <from></from>
@@ -187,7 +188,7 @@ In the fever of this internal struggle, he has a chance encounter with a woman f
 <compare>
 <james>
 
-This revelation deepens Yoshiki's disquiet around Hikaru, though guilt gnaws at him whenever they are together, for Hikaru is unfailingly kind, professing that just being near Yoshiki brings him joy. But that’s not a mutual feeling for Yoshiki. The way Hikaru looks, sounds, talks, it’s all Hikaru… but he’s not Hikaru. But the spirit can’t let Yoshiki go because he feels everything Hikaru felt. He liked him too much. His feelings for Yoshiki were so strong that even after death they remained, and they bind the spirit to him.
+This revelation deepens Yoshiki's disquiet around Hikaru, though guilt gnaws at him whenever they are together, for Hikaru is unfailingly kind, professing that just being near Yoshiki brings him joy. But that’s not a mutual feeling for Yoshiki. The way Hikaru looks, sounds, talks, it’s all Hikaru… but he’s not Hikaru. But the spirit can’t let Yoshiki go because he feels everything Hikaru felt. He liked him too much. His feelings for Yoshiki were so strong that even after death they remain<ins>ed</ins>, and they bind the spirit to him.
 
 </james>
 <from></from>
@@ -262,7 +263,7 @@ Asako has a familial history of sensing spirits. Some may see them as faint shad
 <compare>
 <james>
 
-While other characters who are aware of spirits believe that not all spirits are malevolent, they hold the caveat that — because *some* are dangerous, that we must be suspicious of all of them. Asako simply does not have this outlook. Instead, showing a willingness to allow the spirit to show its true colours. Just as she affords that same opportunity to the-thing-that-replaced-Hikaru. 
+While other characters who are aware of spirits believe that not all spirits are malevolent, they hold the caveat that — because *some* are dangerous, that we must be suspicious of all <ins>of them</ins>. Asako simply does not have this outlook. Instead, showing a willingness to allow the spirit to show its true colours. Just as she affords that same opportunity to the-thing-that-replaced-Hikaru. 
 
 Noticing for the first time that she can see him differently than others, the-thing-that-replaced-Hikaru tries to show her his true form, that which he can only describe to Yoshiki. Perhaps she can see him for what he truly is, stripped of the physical form. He does, after all, repeatedly mention that spirits are lonely, and long to be seen — is he truly so different? 
 
@@ -320,7 +321,7 @@ Overwhelmed by despair, Yoshiki realises that things can never return to the way
 <compare>
 <james>
 
-Deciding to move forward as friends, the boys stand before another hurdle: to truly trust each other, they need to know what the-thing-that-replaced-Hikaru was before it became Hikaru. The why and the how are already known. Yoshiki takes the fragment of Hikaru’s spirit and decides to help him find out what he really is. 
+Deciding to move forward as friends, the boys stand before another hurdle: to truly trust each other, they need to know what the-thing-that-replaced-Hikaru was before it became Hikaru. The why and the how <ins>are</ins> already known. Yoshiki takes the fragment of Hikaru’s spirit and decides to help him find out what he really is. 
 
 </james>
 <from></from>
@@ -329,7 +330,7 @@ Deciding to move forward as friends, the boys stand before another hurdle: to tr
 <compare>
 <james>
 
-During their investigation they discover that their little village, called Mount Hope, was once a much larger domain, but near the end of the Edo period, split into the five smaller villages it exists as today. The split was caused by famine, economic strife, and a number of strange, unexplainable deaths. Locals attribute those deaths now to the Lord Brain Snatcher, a malevolent god within the mountainous forest that plagued the people of the domain. But it’s believed to have been trapped within the boundaries of the forest ever since the famine. Like the deaths might have actually been sacrifices in a protective ritual against it. And Hikaru’s family, for centuries, have been the protectors of the boundary. 
+During their investigation they discover <ins>that</ins> their little village, called Mount Hope, was once a much larger domain, but near the end of the Edo period, split into the five smaller villages it exists as today. The split was caused by famine, economic strife, and a number of strange, unexplainable deaths. Locals attribute those deaths now to the Lord Brain Snatcher, a malevolent god within the mountainous forest that plagued the people of the domain. But it’s believed to have been trapped within the boundaries of the forest ever since the famine. Like the deaths might have actually been sacrifices in a protective ritual against it. And Hikaru’s family, for centuries, have been the protectors of the boundary. 
 
 </james>
 <from></from>
