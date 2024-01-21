@@ -1248,28 +1248,102 @@ Or they did-- or they would and then it would ruin the fantasy because then they
 
 Yeah, when I say that asexual people can be some of the horniest and kinkiest people you'll ever encounter, it's because that outside of the puritism-- purism of asexuality, there are a myriad of different ways that the human brain is just really weird about sex. Not weird as in bad, but weird as in like, it's... it's complicated, it's complicated. It's uh, "she's *complex*." [laughs] 
 
-But um, so yeah like there are-- these are things that are the subject of research and the subject of academic fascination, even if there isn't really a lot of academic interest in these things. Some people are and we're gonna see start seeing a little bit more of this, but there is a bit of a distinction between these-- between, you know, these sort of more psychological elements of asexual and the more self-identifying ones which, you know, there are *legion* of flags, um because you know, the asexual community has been kind of... ignored, like we said, by the queer community at large, so I feel like there is a... overtendency to self-identify, and to sort of construct a... version of asexuality around specific, you know, circumstances. And I feel like the
-pure the gatekeeping the purest gatekeeping of asexual aromanticism has led to
-that like you can't be asexual because you enjoy sex and these circumstances and
-it's like but yeah I'm still you know I'm still weird about it um and so like
-it's I I feel like this is a situation where self-identified having the openness
-do I just identify self-identifies asexual meaning like I don't fit the sexual
-Norm of either the CIS had hegemony or the queer community so I I need to belong
-here because I don't belong anywhere anywhere else yeah um and I really hope we
-can start moving towards that because I hate seeing so much fragmentation within
-within sub communities yeah because it it does cut I feel like there is an
-extent like yeah it's important to recognize the distinction between gays and
-lesbians and bisexual people and how uh and especially trans people in the LGBT
-and how the assistant hegemony uniquely persecutes against each of these camps
-of people and yeah different cocktails of privilege that they might that gay men
-will in particular kind of push back against all the other letters in the
-alphabet
+But um, so yeah like there are-- these are things that are the subject of research and the subject of academic fascination, even if there isn't really a lot of academic interest in these things. Some people are and we're gonna see start seeing a little bit more of this, but there is a bit of a distinction between these-- between, you know, these sort of more psychological elements of asexual and the more self-identifying ones which, you know, there are a *legion* of flags, um because you know, the asexual community has been kind of... ignored, like we said, by the queer community at large, so I feel like there is a... overtendency to self-identify, and to sort of construct a... version of asexuality around specific, you know, circumstances. 
+
+And I feel like the pure- the gatekeeping, the purest gatekeeping of asexual aromanticism has led to that. Like, you can't be asexual because you enjoy sex in these circumstances, and it's like, but... yeah, I'm still, you know, I'm still weird about it. Um, and so like it's-- I feel like this is a situation where self-identified-- having the openness to just identify, self-identify as asexual, meaning like, I don't fit the sexual norm of either the cishet hegemony *or* the queer community so I need to belong here, because I don't belong anywhere-- anywhere else. 
+
+Um, and I really hope we can start moving towards that, because I hate seeing so much fragmentation within-- within sub communities. Because it-- it does cut-- I feel like there is an extent, like yeah, it's important to recognize the distinction between gays and lesbians and bisexual people and how, uh, and especially trans people in the LGB*T*, and how the cishet hegemony *uniquely* persecutes against each of these camps of people, and different cocktails of privilege that they might enjoy--
 
 </nick>
 </compare>
 <compare>
 <james {% include timecode %}>
 
+That gay men will, in particular, kind of push back against all the other letters in the alphabet.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+That's- that's- honey, that's a whole other discussion, I'm talking about how the persecution of a gay man is different than a gay woman.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Is different from a bisexual man, is different from a bisexual woman...
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+And especially it gets different when you factor in people of color, and how these respective communities approach queerness.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Very different. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Uh, and so like, there is-- it is important to recognize the difference in discrimination and the difference in the dynamics, of social dynamics as they fit into the society at large but-- And so I feel like if, if your version of this thing doesn't really change the dynamic of persecution against you, or the manifestation of your relationship with the culture, then I don't- I don't feel like it's... like, it's fine if you want to kind of have this sort of label on yourself, but make sure you're putting the label there yourself, don't let anyone else label you but you. Um...that's fine, but I feel like a formal definition or distinction of this kind of does take away from a lot of the discussion especially when you get cis people- straight people- cis straight people who are like, [in a mocking voice] "There are so many more letters than there used to be, I just can't keep up," and it's like, don't try. [laughs]
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah that's- you know, we made a whole video talking about why we need to just get rid of the letters and just go for an umbrella term--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Oh yeah, describing it to like, um--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And a big part of that I think is, you know, if there was "queer" as an umbrella term, then all the different flavors of asexuality would be, you know, you wouldn't have-- you couldn't devalue different kinds of asexual, because, you know they're all on the same turf as all the other ones. That an asexual who is incredibly horny but only for a specific type of person, you know, is on the same level as an asexual who has absolutely no interest in sex whatsoever and they just want to, you know, play D&D. Um, and that's one of the reasons I do think--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Funny fact, um, people who play D&D get laid more than you would believe. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+But yeah that's, that's-- like I said, that's why I think there should be an overarching term that isn't so, uh... 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+And I don't blame the, the... fragmentation on individuals needing to be special stars, I blame it on... purist gatekeeping.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh absolutely, absolutely.
 
 
 </james>
@@ -1277,143 +1351,436 @@ alphabet
 <compare>
 <nick>
 
-31:43
+And I want to be clear about that, like I-- you know. 
 
-  yeah  well that's that's honey oh that's a whole that's a whole other
-discussion I'm talking about how the persecution of a gay man is different than
-a gay woman yeah um is different from bisexual man is different from a bisexual
-and especially it gets different when you factor in people of color and how
-these respective communities approach queerness very different uh and so like I
-there is it is important to recognize the difference in discrimination and the
-difference in the Dynamics of social dynamics as they fit into the society at
-large but and so I feel like if if your version of this thing doesn't really
-change the dynamic of persecution against issue or the manifestation of your
-relationship with the culture and I don't I don't feel like it's like it's fine
-if you want to kind of have this sort of label on yourself but make sure you're
-putting the label there yourself don't let anyone else label you about you but
-you yeah um that's fine but I feel like a formal definition or distinction of
-this kind of does take away from a lot of the discussion especially when you get
-CIS people straight people so straight people who are like there are so many
-more letters than there used to be I just can't keep up and it's like don't try
-yeah that's you know we made a whole video talking about why we need to just get
-rid of the letters and just go first describing it to like um and a big part of
-that I think is you know if there was Queer as an umbrella term then all the
-different flavors of asexuality would be you know you would have you couldn't
-devalue different kinds of asexual because you know they're all on the same Turf
-as all the other ones that an asexual who is incredibly horny but only for a
-specific type of person you know is on the same level as an asexual who has abs
-absolutely no interest in sex whatsoever and they just want to you know play D D
-um and that's one of the reasons I do think funny fact um people who play D get
-laid more than you would believe but yeah that's that's like I said that's why I
-think there should be an overarching term that isn't so uh and I don't blame the
-the fragmentation on individuals needing to be special Stars I blame it on
-purist gatekeeping oh absolutely and that's kind of I know I want to be clear
-about that like I you know like the the gold star gay yeah thing the Platinum
-star gay yeah I had a C-section yeah like I was born via C-section were you yeah
-oh I wasn't 48 hours at Labor beforehand but um before we continue we will do
-one last break and uh then we'll come back with our final thoughts and welcome
-back to the show gaze Behaving Badly that's what we're called we haven't really
-behaving that badly today so yeah in you know closing thoughts section would be
-kind of uh you were saying that uh we just watched hell of a boss uh yeah and
-you watched the husband hotel which was the thing that's spun off of yeah and
-you said that there is an asexual character and you quite enjoyed that well
-they're identified in the wiki as asexual like they don't say it in the show but
-because you know they only have one episode he only Pops in at the end of the
-episode um but the Creator and the in the wiki they are I think identified as
-asexual um and I thought that was cool because basically has been between has
-been hotel and hell of a boss every letter of the eye every one of them um
-because apparently even in Hell of the boss Moxie is bisexual I buy that which I
-didn't I I didn't Roxy's the cute little boy right well he's not a little boy
-but like he's a no Boi like he's yeah he's adorable he's a boy um I mean like I
-buy that like not that pegging or getting pegged makes you buy makes you queer
-but like but um I I've seen him kind of be flustered around the boys yeah yeah
-but yeah there's you know a character who is at least in the wiki identified as
-asexual and you wouldn't guess it from his character because you know he's not
-the Sheldon or the data or the and he I like that in hell of a boss uh
-monogamous is the um is the taboo that's the one that nobody likes to talk about
-or like is hell yeah yeah I I just really really enjoyed that sort of flipping
-the script yeah but I would like to see more of that going forward even if it's
-if it's characters that are uh identified as asexual that would be great but for
-whom the well like ASAP like asexual does like does there need to be a
-declaration made or sort of a specification made or is just the plot
-acknowledging that there is no romantic future for this character that sounds so
-Bleak but there is no intended romantic future for this character yeah um and
-this character is comfortable with that yeah is just writing that into the
-character and into the plot enough or a is that good enough or does there need
-to be a soapbox moment yeah and I mean that's that's kind of a question with gay
-stuff too is it okay to just have a gay character who is a great character or do
-they have to have a boyfriend to confirm the gayness yeah um you know it's like
-in wakanda forever there is a lesbian character and she's pretty badass
-throughout the movie she only has you know that one moment where it's confirmed
-that she is queer and a lot of people say you know that's really good
-representation and a lot of people say that doesn't count because it can be
-sucked out for for screening which it is being it's the movie's not getting a
-Chinese a Chinese release um but it is being um uh it has been requested to be
-removed by Kuwait um so it's short enough to be removed and so does it count if
-it is so insubstantial that it is removable yeah that's a whole other discussion
-that'll be a video yeah not necessarily about wakanda forever but about that
-whole thing when it comes to gay people I like I I don't like having the soapbox
-moment because I don't think straight when you have gay representation when you
-want to have gay representation straight people don't need gay representation
-gay people need gay queer people need queer representation yeah um so having
-that soapbox moment where you explain to queer P to straight people that it's
-okay to be gay that's not useful to us because we already have these messages we
-already have and the ways that gay people or queer people would interpret
-self-acceptance is different than the way that straight people wouldn't
-interpret accepting queer people yeah so there's need to be two very different
-manifestations of how this media handles that thing and you know with a gay
-character I think you know I I am growing more okay with the incidental well I
-like the incidentally queer characters um the ones that there is no soapbox
-moment yeah I like it if maybe they actively show their attraction to someone of
-the same sex but for an asexual character I think it would be enough like lose
-from the owl house I think that is like she's not asexual bisexual she's
-bisexual but like that kind kind of attitude where it's apparent but it's never
-made a deal out of no one really questions and she doesn't need to get in a
-soapbox because everyone's like oh okay yeah but with an asexual character I
-think it would be enough to have another character kind of say you know like the
-stereotypical you just need to get laid Yeah like oh you're stressed out you
-just need to get laid and then be like I don't like doing that but yeah like and
-then that's enough and I've always kind of felt like there are ways instead of
-having that soapbox moment driving that identification you can do that but also
-there are ways that uh queer people asexual people bisexual people they interact
-with the world differently than other people of different sort of camps yeah so
-as long as you write that in and you do it earnestly and I think your opinion as
-an asexual person your opinion on this matters more than mine but like I also
-don't want to speak for the entire Ace Community I think that you do need a
-balance of soapbox moments as well as you need to have that incidental
-incidental representation yeah like I feel like the soapbox moments should be
-like on Disney plus we all be made on for TV shows for movies for kids and
-teenagers but I think you also need that mix of uh fastos from um eternals where
-like his motivation was Inseparable from his you know really from his gay gay
-marriage oh yeah absolutely yeah um I I do think that kind of representation is
-important I think we need a mix and that's the thing that you know CIS straight
-Holly males old white yeah they think they get is that they think okay this is
-how we do representation instead of as a formula because it's like as long as we
-do this and they'll be happy and it's like think but you got to do other things
-too and it's like that's too much yeah like I think which which and that's like
-a sort of thing which representation do we use for this media and it's like you
-need to let a creative person do that in which they point they their heads start
-spinning around and they start throwing up um the soup and God forbid let a
-creative person do something so I think that's kind of the message of this is
-Maybe Maybe to any Executives listening let the creative people tell the stories
-because you know there are plenty of straight people who've told great gay
-stories God knows there's plenty of gay people who've told great straight
-stories right and there are plenty of people out there who are asexual who have
-stories to tell that might be hilarious comedies or might be very oh asexuality
-is absolutely hilarious I can everything that I've kind of said in here that's
-kind of like oh poor Nick no it can be funny with a different well yeah I look
-at the same time like like it can be really funny stories they can be comedies
-they could be dramas and they have stories to tell so maybe let them tell them
-instead of having someone who is definitely not asexual say this is what I think
-one of them is okay so that's the end of the first episode of gays Behaving
-Badly yeah tell us what you think we know you will yeah um I know you will um if
-you liked it let us know in the comments if you didn't um if you liked our show
-tell everyone that if you think this sucks keep your pig it's from it's the um
-the uh I've heard that before it's from The Producers it's their Encore all
-right right yeah um so yeah let us know in the comments if you like this style
-if so we'll do one a month um and if there's any topics that we try to avoid as
-a community but you think are kind of important to talk about leave them down in
-the comments um so until maybe next month or the next video or the next podcast
-or the next padreon or whatever next thing whatever's happening next my name is
-James I'm Nick and thank you for watching the first episode of gays Behaving
-Badly go behave badly [Music] thank you
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Like the gold star gay thing. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, the platinum star gay. [laughs] [in a mocking voice] "I had a C-section."  
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah, like I was born via C-section.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Were you? 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah! 48 hours at labor beforehand. But um, before we continue we will do
+one last break and uh, then we'll come back with our final thoughts.
+
+</james>
+</compare>
+{% assign timecode = "35:29" %} 
+
+## Segment 4
+
+<compare>
+<james {% include timecode %}>
+
+And welcome back to the show, Gays Behaving Badly, that's what we're called.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+We haven't really been behaving that badly today. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+So yeah, in, you know, closing thoughts section would be kind of... uh... 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+You were saying that, uh, we'd just watched *Helluva Boss*, uh and you watched the... 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+*Hazbin Hotel*.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+... which was the thing that's a spin off of, and you said that there is an asexual character and you quite enjoyed that. I haven't watched it, so...
+
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Well, they're identified in the wiki as asexual, like they don't say it in the show, but because, you know, they only have one episode, he only pops in at the end of the episode. Um, but the creator and the-- in the wiki, they are, I think, identified as asexual. Um, and I thought that was cool because basically Hazbin-- between *Hazbin Hotel* and *Helluva Boss*, every letter of the alphabet is identified, every one of them. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[laughs] They cover *all* the sexualities.
+
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Um... because apparently even in *Helluva Boss*, Moxxie is bisexual.
+
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+... I buy that.
+
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Which I didn't-- I- I didn't read that. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Moxxie's the cute little boy, right? 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Well he's not a *little boy*, Nick. He's--
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+I know, but like he's-- no, b-o-i.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah, he's adorable.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+He's a boi. I mean like I buy that, like not that pegging or getting pegged makes you bi, makes you queer, but like... I-I've seen him kind of be flustered around the boys. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+But yeah there's, you know, a character who is, at least in the wiki, identified as asexual, and you wouldn't guess it from his character. Because, you know, he's not the Sheldon or the Data or the alien-- 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+And he, uh, I like that in *Helluva Boss*, um, monogamous is the, um... is the taboo. That's the one that nobody likes to talk about, or is so annoyed--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Well, because it's hell.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah yeah, I- I just really, really enjoyed that, sort of flipping the script. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah. But I would like to see more of that going forward, even if it's-- If it's characters that are, uh, identified as asexual, that would be great.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+But for whom the-- well like, like asexual, does like-- does there need to be a declaration made, or sort of a specification made, or is just the plot acknowledging that there is no romantic future for this character - ergh, that sounds so bleak - but there is no *intended* romantic future for this character. Um, and this character is comfortable with that. Is just writing that into the character and into the plot enough, or uh... is that good enough, or does there need to be a soapbox moment? 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah, and I mean that's that's kind of a question with gay stuff too, is it okay to just have a gay character who is a great character, or do they *have* to have a boyfriend to confirm the gayness. Um, you know it's like, in *Wakanda Forever*, there is a lesbian character, and she's pretty badass throughout the movie. She only has, you know, that one moment where it's *confirmed* that she is queer and a lot of people say, you know, "that's really good representation," and a lot of people say, "that doesn't count because--" 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+... it can be sucked out for, for screening in China. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Which it is being, it's-- the movie's not getting a Chinese release, um, but it is being, uh, it has been *requested* to be removed by Kuwait. Um, so it's short enough to be removed, and so does it count if it is so insubstantial that it is removable. Now that's a whole other discussion, that'll be a video. Not necessarily about *Wakanda Forever* but about that whole thing, um... 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+When it comes to gay people, I like, I- I don't like having the soapbox moment, because I don't think straight-- when you have gay representation, when you want to have gay representation, straight people don't need gay representation, gay people need gay-- queer people need queer representation. Um, so having that soapbox moment where you explain to queer-- to *straight* people that it's okay to be gay... that's not useful to us, because we already have these messages, we already have-- And the ways that gay people, or queer people would interpret self-acceptance is different than the way that straight people would interpret accepting queer people. So there needs to be two very different manifestations of how this media handles that thing. So--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And, you know, with a gay character I think, you know, I- I am growing more okay with the incidental-- well I like the incidentally queer characters, um, the ones-- that there is no soapbox moment. I like it if maybe they actively show their attraction to someone of the same sex. But for an asexual character, I think it would be enough--
+
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Like Luz, from *The Owl House*! I think that is like--
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+She's not asexual. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Bisexual, she's bisexual, but like that kind of attitude, where it's apparent but it's never made a deal out of, no one really questions it and she doesn't need to get on a soapbox because everyone's like, "oh, okay."
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+ Yeah, but with an asexual character, I think it would be enough to have another character kind of say, you know, like the stereotypical, "you just need to get laid," like "oh you're stressed out, you just need to get laid." And then they'd be like, "I don't *like* doing that." And then that's enough.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+But yeah like-- and I've always kind of felt like there are ways-- instead of having that soapbox moment driving that identification, you *can* do that, but also there are ways that uh, queer people, asexual people, bisexual people, they interact with the world differently than other people of different sort of camps. So as long as you write that in and you do it earnestly-- 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And I think your opinion-- as an asexual person, your opinion on this matters more than mine does. [laughs]
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+But like, I also don't want to speak for the entire ace community, I think that you do need a balance of soapbox moments, as well as you need to have that incidental representation.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah, like I feel like the soapbox moments should be like, on Disney+, should be made on- for TV shows, for movies for kids and teenagers. 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+But I think you also need that mix of uh, Phastos from... *Eternals*, where like, his motivation was inseparable from his, you know, really, from his gay- gay marriage.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Oh yeah, absolutely! Yeah um, I- I do think that kind of representation is
+important, I think we need a *mix*, and that's the thing that, you know, cis straight Holly-- males, old white Hollywood executives don't get is, they think that, "okay, this is how we do representation" instead of saying-- 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+As a-- as a formula, because it's like, "as long as we do *this* then they'll be happy" and it's like, but you gotta do other things too. And it's like, "that's too much." Which- which-- and that's like the sort of thing, which representation do we use for this media, and it's like, you need to let a creative person do that, in which they point, they-- their heads start spinning around and they start throwing up um, pea soup. And God forbid let a creative person do something.[laughs]
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+So I think that's kind of the message of this, is maybe, maybe, to any executives listening, let the creative people tell the stories. Because you know, there are plenty of straight people who have told great gay stories, God knows there's plenty of gay people who have told great straight
+stories.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Oh my god, right.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And there are plenty of people out there who are asexual, who have stories to tell, that might be hilarious comedies or might be very-- 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Oh, asexuality is absolutely hilarious, I can-- everything that I've kind of said in here that's kind of like, "oh, poor Nick," no, it can be funny with a different-- [laughs]
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Well yeah, like at the same time, like it can be really funny stories, they can be comedies, they could be dramas, and they have stories to tell, so maybe let them tell them instead of having someone who is definitely not asexual say, "this is what I think one of them is."
+
+So that's the end of the first episode of Gays Behaving Badly!
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Yeah, tell us what you think, we know you will. [laughs]
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Yeah, um, we know you will. Um, if you liked it, let us know in the comments, if you didn't, um... 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+[singing] "If you liked our show, tell everyone that. And if you think this sucks, keep your big--" [normal voice] It's from, it's the um...
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+I've heard that before...
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+It's from *The Producers*, it's their encore. 
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+Ohh, right right right. Yeah, um, so yeah, let us know in the comments if you like this style. If so, we'll do one a month. Um, and if there's any topics that we try to avoid as a community but you think are kind of important to talk about, leave them down in the comments. 
+
+Um, so until maybe next month, or the next video, or the next podcast, or the next podreon, or whatever next thing we put out-- 
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+Whatever's happening next.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+My name is James.
+
+</james>
+</compare> 
+<compare>
+<nick>
+
+I'm Nick.
+
+</nick>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+And thank you for watching the first episode of Gays Behaving Badly. Go behave badly.
+  
+</james>
+</compare>  
+<compare>
+<credits class="closing" {% include timecode %}>
+
+Patreon names roll over the track "Night Out in LA" by Mdstocksound.
+
+</credits>
+</compare>
