@@ -24,6 +24,7 @@ The following table of statistics is calculated from the video transcripts autom
 | | |
 | {{stats.m-total }} | Number of lies James has told in his videos.[^v] |
 | {{stats.m-context }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misinformation by stripping context from what he's plagiarizing. |
+| {{stats.m-inverse }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of James flipping the meaning of what he's copying. |
 | | |
 | {{stats.y-total }} | Problematic takes in James's videos.[^y] |
 | {{stats.y-misogyny }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misogyny. |
@@ -36,6 +37,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |
 | {{stats.changed-name }} | Times James just got a person's name wrong. |
 | {{stats.changed-quote }} | Times James inexplicably changed a direct quote he was copying. |
+| {{stats.made-quote }} | Times James turned something that wasn't a direct quote into a direct quote. |
 | {{stats.correction }} | Times James actually corrected an incorrect source he was copying from. |
 | {{stats.baa }} | Times James uses the phrase "by all accounts". |
 

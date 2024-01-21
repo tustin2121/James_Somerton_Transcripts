@@ -10,7 +10,7 @@ const INPUT_PATH = `../_videos`;
 const OUTPUT_FILE = `../_data/stats.yml`;
 
 let sources = new Set();
-let stats = { sources:0, lies:0, yikes:0 };
+let stats = { 'p-total':0, 'm-total':0, 'y-total':0 };
 let list = [];
 
 let files = await readdir(INPUT_PATH, { withFileTypes: true });
@@ -42,7 +42,7 @@ for (const { name, id } of list) {
 output.push('');
 
 // Fill in any extra stats
-stats.sources = sources.size;
+stats["p-total"] = sources.size;
 
 { // Prepend global stats
 	let lines = [ `_global:` ];
@@ -123,8 +123,8 @@ function countStatistics(document, fm) {
 	});
 	
 	if (fm.cite === undefined) return;
-	stats.lies += Object.keys(fm.cite.misinformation).length;
-	stats.yikes += Object. keys(fm.cite.yikes).length;
+	stats["m-total"] += Object.keys(fm.cite.misinformation).length;
+	stats["y-total"] += Object. keys(fm.cite.yikes).length;
 	for (const source of Object.values(fm.cite.plagiarized)) {
 		sources.add(`${source.full} ${source.url}`);
 		
