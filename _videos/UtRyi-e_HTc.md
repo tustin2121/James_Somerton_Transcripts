@@ -74,7 +74,7 @@ This video is brought to you by AG1.
 
 As the film industry moved away from suburban perfection, the extensive efforts made by Hollywood to conceal homosexuality in film during the post-war Lavender Scare era began to deteriorate. And then Hollywood came to realize that they were ignoring a large audience. No, not gays.
 
-At the time the lifeblood of Hollywood was relationship dramas, Disney and fleisure, cartoons and biblical epics. However, they ultimately realized that a group of Americans with disposable income but little to spend it on was being excluded: teenagers. Who were *incensed* to fight back against their parents conservative confining outlook on life. 
+At the time the lifeblood of Hollywood was relationship dramas, Disney and Fleischer, cartoons and biblical epics. However, they ultimately realized that a group of Americans with disposable income but little to spend it on was being excluded: teenagers. Who were *incensed* to fight back against their parents conservative confining outlook on life. 
 
 
 </james>
