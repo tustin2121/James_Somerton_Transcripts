@@ -213,39 +213,13 @@ Generally Disney channel animated shows tend to run for fewer seasons when compa
 
 But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today. Terrace has previously offered some insight into why *The Owl House* wasn't renewed for a full third season, which boiled down to a frustratingly simple reason that had nothing to do with reviews (all good) or viewership (also good). Someone decided that the show didn't fit Disney's brand.
 
-
-</james>
-<from></from>
-</compare>
-<compare>
-<james>
-
 \[Quotes shown on screen. Nick is reading them out with a grainy audio filter.]
-><mark>"They just wanted to be done with *The Owl House* and this was the perfect chance to do that. Even getting the consolation season 3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be part of any conversation until I was just... told."</mark>
+>"They just wanted to be done with *The Owl House* and this was the perfect chance to do that. Even getting the consolation season 3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be part of any conversation until I was just... told."
 
-><mark>"At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guides decided *The Owl House* just didn't fit that brand. The story is serialized (BARELY compared to any average anime lmao), our audience skews older and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is.</mark>
+>"At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guides decided *The Owl House* just didn't fit that brand. The story is serialized (BARELY compared to any average anime lmao), our audience skews older and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is.
 
-><mark>"While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA."</mark>
+>"While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA.
 
-</james>
-<from>
-
-Reddit post by Dana Terrace, dated October 5, 2021. https://www.reddit.com/r/TheOwlHouse/comments/q1x1uh/ama_except_by_anything_i_mean_these_questions_only/
-
-*Why is Owl House ending so soon? Why was s3 cut?*
-
-*Was it the LGBT+ rep?* <mark>While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA.</mark>
-
-*Was it covid/budget related reasons?* Every show had to tighten their belts. Budgets were constrained and episodes were cut across the board. But we took the biggest bullet and I wasn't given the option of a "season 4 when parks open again". <mark>They just wanted to be done with TOH and this was the perfect chance to do that. Even getting the consolation s3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be a part of any conversations until I was just... Told.</mark> Wasn't even allowed to present my case. LOVE the transparency and openness here (this is sarcasm).
-
-*So it was the ratings.* That argument doesn't hold water either. Our ratings were GOOD (for a Channel show during the streaming wars lmao) but they were also incomplete. This decision was made, to my knowledge, before Agony of a Witch premiered and WELL before we were on Disney +. Also, how are you gonna judge ratings when you don't rerun the show you're trying to measure? Get OUTTA here you silly billies.
-
-*SO WHAT WAS IT?!* <mark>At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guys decided TOH didn't fit that "brand". The story is serialized (BARELY compared to any average anime lmao), our audience skews older, and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is. </mark>
-</from>
-</compare>
-
-<compare>
-<james>
 Don't worry Dana, I'll assume the bad faith for you. 
 
 So it was one guy's tastes, one guy. One guy, who could be that one guy, who could that one guy be? Though not officially confirmed, I'm willing to bet it's this guy, Bob Chapek, the current CEO of the Walt Disney Company. Who earlier this year made a name for himself by not speaking out about Florida's "Don't Say Gay" bill until it
