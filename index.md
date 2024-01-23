@@ -15,8 +15,8 @@ Contributors:
 - Project creator: [TerraJRiley](https://github.com/TerraJRiley)
 - Contributors: 
 	- [Tustin2121](https://github.com/tustin2121)
-	- [/u/DHLawrence_sGhost](https://www.reddit.com/u/DHLawrence_sGhost)
   - [sciclone](https://github.com/sciclone1984)
+	- [/u/DHLawrence_sGhost](https://www.reddit.com/u/DHLawrence_sGhost)
 
 </div><div>
 

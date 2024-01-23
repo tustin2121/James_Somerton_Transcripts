@@ -5,7 +5,7 @@ import { readFile, writeFile, readdir } from "fs/promises";
 import fm from "front-matter";
 import * as PATH from 'path';
 
-const TYPE = 'readme'; //'tasklist';
+const TYPE = 'titles'; //'tasklist';
 const INPUT_PATH = `../_videos`;
 const OUTPUT_FILE = `output.csv`;
 
@@ -32,6 +32,7 @@ switch (TYPE) {
 		output.push(`| Video ID | Status | Title |`);
 		output.push(`|:---|:---:|:----|`);
 		break;
+	case 'titles': break;
 }
 
 for (const { name, id } of list) {
@@ -46,6 +47,7 @@ for (const { name, id } of list) {
 			case 'tasklist': line = line_tasklist(data); break;
 			case 'issues': line = line_issues(data); break;
 			case 'readme': line = line_readme(data); break;
+			case 'titles': line = line_titles(data); break;
 		}
 		
 		output.push(line.join(',')); // Add the line to the output
@@ -100,6 +102,9 @@ function line_issues(data) {
 }
 function line_readme(data) {
 	return [`| [${data.id}](_videos/${data.id}.md) | ${data.attributes["status"].concat(" ".repeat(12)).slice(0, 11)} | ${data.attributes["title"]}`];
+}
+function line_titles(data) {
+	return [`[${data.id}] ${data.attributes["title"]}`];
 }
 
 
