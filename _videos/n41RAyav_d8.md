@@ -24,6 +24,8 @@ cite:
     Disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
     kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
     julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php/"}
+    fandom_65: {color: 9, short: "(Fandom, 2022)", url: "https://disney.fandom.com/wiki/65th_Episode_Rule?oldid=4933016/"}
+    petrana_radulovic: {color: 10, short: "(Radulovic, 2022)", url: "https://www.polygon.com/23055769/the-owl-house-reveal-season-2"}
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -211,9 +213,38 @@ But is this anti-establishment sentiment why Disney, a massive corporation with 
 <compare>
 <james {% include timecode %}>
 
-Generally Disney channel animated shows tend to run for fewer seasons when compared to their network counterparts. Look at *Adventure Time* and *Steven Universe*, which clocked in at 283 and 160 episodes respectively, and compare them to popular Disney channel shows like *Gravity Falls* - 41 episodes - and *Star vs The Forces of Evil* - 77 episodes. Once upon a time Disney even had the 65 episode rule where no animated show on the Disney Channel could go past 65 episodes. It's an outdated business practice that Disney clung onto a lot longer than most producers. With 65 episodes, one episode could be broadcast each weekday, reaching the 65th episode at the end of the 13th week. Thirteen weeks is one quarter of a year. four 65 episode shows can be broadcast in a single calendar year in the same time slot. It took shows like *Gargoyles* and *DuckTales* to end that trend.
+<mark>Generally, Disney Channel animated shows tend to run for fewer seasons when compared to their network counterparts. Look at *Adventure Time* and *Steven Universe*, which clocked in at 283 and 160 episodes respectively, and compare them to popular Disney channel shows like *Gravity Falls* (41 episodes) and *Star vs. The Forces of Evil* (77 episodes).</mark>
 
-But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today. Terrace has previously offered some insight into why *The Owl House* wasn't renewed for a full third season, which boiled down to a frustratingly simple reason that had nothing to do with reviews (all good) or viewership (also good). Someone decided that the show didn't fit Disney's brand.
+</james>
+<from {% include citation for=page.cite.plagiarized.petrana_radulovic at= p.6 %}>
+
+<mark>Generally, Disney Channel animated shows tend to run for fewer seasons compared to other network counterparts. Take *Adventure Time* and *Steven Universe*, for instance, which clocked in at 283 and 160 episodes respectively</mark> (not including their respective spinoff series), <mark>and compare them to popular Disney Channel shows like *Gravity Falls* (41 episodes) and *Star vs. the Forces of Evil* (77 episodes).</mark>
+
+</from>
+</compare>
+<compare>
+<james>
+
+Once upon a time Disney even had the 65 episode rule where no animated show on the Disney Channel could go past 65 episodes. It's an outdated business practice that Disney clung onto a lot longer than most producers. <mark>With 65 episodes, one episode could be broadcast each weekday, reaching the 65th episode at the end of the 13th week. Thirteen weeks is one quarter of a year. Four 65 episode shows can be broadcast in a single calendar year</mark> in the same time slot. It took shows like *Gargoyles* and *DuckTales* to end that trend.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.fandom_65 at = p.7 %}>
+<mark>With 65 episodes, one episode can be broadcast each weekday, reaching the 65th episode at the end of the 13th week</mark> (5 x 13 = 65). <mark>Thirteen weeks is one quarter of a year. Four 65-episode shows can be broadcast in a calendar year.</mark>
+</from>
+</compare>
+
+<compare>
+<james>
+But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today. <mark>Terrace has previously offered some insight into why *The Owl House* wasn't renewed for a full third season, which boiled down to a frustratingly simple reason that had nothing to do with reviews (all good) or viewership (also good): Someone decided that the show didn't fit Disney's brand.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.petrana_radulovic at= p.7 %}>
+<mark>Terrace previously offered some insight into why *The Owl House* wasn’t renewed for a full third season, which boiled down to a frustratingly simple reason that had nothing to do with reviews (all good) or viewership (also good): Someone decided that the show didn’t fit Disney’s brand.</mark> 
+
+</from>
+</compare>
+<compare>
+<james>
 
 \[Quotes shown on screen. Nick is reading them out with a grainy audio filter.]
 >"They just wanted to be done with *The Owl House* and this was the perfect chance to do that. Even getting the consolation season 3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be part of any conversation until I was just... told."
@@ -234,7 +265,7 @@ So it was one guy's tastes, one guy. One guy, who could be that one guy, who cou
 <james {% include timecode %}>
 Chapek made his name in the company by running the Disney parks. Many feel he ran them into the ground. <mark>Disenchantment with the parks from diehard Disney lovers has been at an all-time high</mark> ever since he got control of the parks, let alone the company. <mark>Massive price increases in everything from food to ticket prices to accommodations have made a Disney vacation more difficult to afford than ever, to the point where a suite at the Disneyland Hotel costs more than staying at the Palace of Versailles in France. At the same time, the company has eliminated perks like the formerly free Magical Express transportation to and from Walt Disney World from the Orlando airport. Genie Plus has made stand-by lines regularly exceed an hour for rides that used to average 15 minutes.</mark> 
 </james>
-<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.11" %>
+<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.11" %}>
 
 While this is the first time employees have publicly criticized Chapek on this scale, dissatisfaction is already common among fans. Even before this scandal, <mark>disenchantment with the company from die-hard Disney lovers has been at what seems like an all-time high.</mark> <mark>Massive price increases in everything from food to ticket prices to accommodations have made a Disney vacation more difficult to afford than ever, to the point where a suite at the Disneyland Hotel costs more than staying at the Palace of Versailles in France. At the same time, the company has eliminated perks like the formerly free Magical Express transportation to and from Walt Disney World from the Orlando airport. Genie Plus has made stand-by lines regularly exceed an hour for rides that used to average a 15 minute wait.</mark> 
 
