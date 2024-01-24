@@ -74,7 +74,7 @@ let output = [];
 { // Prepend global stats
 	output.push(YAML.dump({ _global: stats }, { flowLevel: 2, quotingType: '"' }));
 }{
-	output.push(YAML.dump({ _all: [...sources.values()] }, { flowLevel: 2, quotingType: '"' }));
+	output.push(YAML.dump({ _all: [...sources.values()] }, { flowLevel: 3, quotingType: '"' }));
 }
 for (const [id, obj] of info) {
 	let x = [];

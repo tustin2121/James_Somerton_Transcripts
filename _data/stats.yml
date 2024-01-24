@@ -25,84 +25,330 @@ _global:
   made-quote: 1
 
 _all:
-  - {color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", url: http://gallery.minitokyo.net/view/93510}
-  - {color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479}
-  - {color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62}
-  - {color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up, type: book, style: book}
-  - {color: 10, short: "(Tyler, 2017)", full: "Tyler, J. (2017). The trail of blood : queer history through vampire literature [Thesis]. In <em>Theses.</em> Item 221. University of Alabama in Huntsville. Retrieved Jan 12, 2024, from", url: https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses, type: student}
-  - {color: 8, short: "(Tringali, 2016)", full: "Tringali, W.A. (2016, May 12). Not Just Dead, But Gay! Queerness and the Vampire [Thesis]. In <em>BSU Honors Program Theses and Projects</em>. Item 138. Available at: https://vc.bridgew.edu/honors_proj/138. Bridgewater State University. Retrieved Jan 12, 2024, from", url: https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1172&context=honors_proj, type: student}
-  - {color: 6, short: "(Abad-Santos, 2022)", full: "Abad-Santos, A. (2022, Oct 14). <em>The messy, thrilling queer allegory in Interview with the Vampire</em> [Article]. Vox.com. Retrieved Jan 12, 2024, from", url: https://www.vox.com/culture/2022/10/14/23404308/interview-with-the-vampire-gay}
-  - {color: 2, short: "(Hill, 2021)", full: "Hill, K. M. (2021). ‘We lie best when we lie to ourselves’: Stephen King’s It and the horrors of nostalgia. <em>Horror Studies, 12</em>(Reappraising Stephen King), 249–263. doi:10.1386/host_00041_1", url: https://intellectdiscover.com/content/journals/10.1386/host_00041_1}
-  - {color: 3, short: "(Groskp, 2014)", full: "Groskp, V. (2014, Sep 17). <em>Downton Abbey’s class nostalgia is another toxic British export</em> [Article]. The Guardian. ", url: https://www.theguardian.com/commentisfree/2014/sep/17/downton-abbey-nostalgia-british-export-stereotypes}
-  - {color: 4, short: "(Telushkin, 2018)", full: "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", url: https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television}
-  - {color: 5, short: "(deGroot, 2011)", full: "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", url: https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past}
-  - {color: 6, short: "(Weiss, 2019)", full: "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", url: https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/}
-  - {color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820}
-  - {color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend}
-  - {color: 3, short: "(Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: https://www.metroweekly.com/2013/10/queer-as-carrie/}
-  - {color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx, type: academic}
-  - {color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019}
-  - {color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: https://offscreen.com/view/hellraiser}
-  - {color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", url: https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948}
-  - {color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/}
-  - {color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5}
-  - {color: 9, short: "(Barton, )", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/}
-  - {color: 7, short: "(Bishop, 2019)", full: "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/}
-  - {color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from", url: https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings}
-  - {color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows}
-  - {color: 16, short: "(Greven, 2014)", full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: https://archive.org/details/readingbromanceh0000unse, type: academic}
-  - {color: 15, short: "(King, 2018)", full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from", url: https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_, type: academic}
-  - {color: 14, short: "(Howell, 2017)", full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from", url: https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK}
-  - {color: 12, short: "(Roy, 2017)", full: "Roy, J. (2017, Jun 9). <em>The Babadook as an LGBT icon makes sense. No, really</em> [Article]. Los Angeles Times. Retrieved Dec 24, 2023, from", url: https://www.latimes.com/entertainment/movies/la-et-mn-babadook-gay-icon-lgbt-history-20170609-story.html}
-  - {color: 3, short: "(Brands, 2019)", full: "Brands, R. (2019, Nov 4). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", url: https://www.thefandomentals.com/queer-subtext-it-part-1/}
-  - {color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/}
-  - {color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/}
-  - {color: 4, short: "(Adkins, 2016)", full: "Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).", url: https://www.archives.gov/publications/prologue/2016/summer/lavender.html}
-  - {color: 7, short: "(Johnson, 2004)", full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: https://archive.org/details/lavenderscarecol00john_0, type: book}
-  - {color: 5, short: "", full: "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", url: https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html}
-  - {color: 8, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176}
-  - {color: 6, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102}
-  - {color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468}
-  - {color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/}
-  - {color: 2, short: "(Hunt, 2019)", full: "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html}
-  - {color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing, type: student}
-  - {color: 2, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production}
-  - {color: 1, short: "(Be Kind Rewind, 2021)", full: "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=jb-C4fcn2E0}
-  - {color: 4, short: "", full: TODO Richard Plant's book The Pink Triangle, url: "", type: book}
-  - {color: 3, short: "(Rokakis, 2013)", full: "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", url: https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors, type: student}
-  - {color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/}
-  - {color: 3, short: "Disney on FL Law (Masters, 2022)", full: "Masters, K. (2022, Mar 2). <em>Why Disney Won’t Say Much About Florida’s “Don’t Say Gay” Bill</em> [News article]. The Hollywood Reporter. Retrieved December 17, 2023, from", url: https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/}
-  - {color: 4, short: "Trans in TX (Torchinsky, 2022)", full: "Torchinsky, R. (2022, Feb 25). <em>In Texas, an unrelenting assault on trans rights is taking a mental toll</em> [News article]. NPR. Retrieved December 17, 2023, from", url: https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas}
-  - {color: 5, short: "FL School Walkouts (Lavietes, 2022)", full: "Lavietes, M. (2022, Mar 3). <em>Florida students stage school walkouts over 'Don't Say Gay' bill</em> [News article]. NBC News. Retrieved December 17, 2023, from", url: https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-students-stage-school-walkouts-dont-say-gay-bill-rcna18600}
-  - {color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/}
-  - {color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/}
-  - {color: 1, short: "Anita Bryant (Eugenios, 2022)", full: "Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from", url: https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215}
-  - {color: 1, short: "", full: "", url: https://www.medicalnewstoday.com/articles/stockholm-syndrome}
-  - {color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: ""}
-  - {color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=6BkOoEhtxTs}
-  - {color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=NVompS_JoJw}
-  - {color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=RpItybDHavo}
-  - {color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=MNntQQ1qHuo}
-  - {color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843"}
-  - {color: 4, short: "The Children's Hour (Wikipedia, 2023)", full: "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913}
-  - {color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205}
-  - {color: 6, short: "Victim (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811}
-  - {color: 1, short: "Attack on Titan (Wikipedia, 2022)", full: "Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from", url: https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533}
-  - {color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: https://seldomusings.wordpress.com/2013/10/19/migiteorerno/}
-  - {color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/}
-  - {color: 4, short: "Vice (Jackson, 2021)", full: "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan}
-  - {color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381"}
-  - {color: 1, short: "Vox Article (Burns, 2019)", full: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from", url: https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf}
-  - {color: 2, short: "Scotsman Article (Burns, 2019)", full: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", url: https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977}
-  - {color: 3, short: "Harry Potter Day (National Today, n.d.)", full: "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", url: https://nationaltoday.com/harry-potter-day/}
-  - {color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: https://hazlitt.net/feature/where-monsters-are-made}
-  - {color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: https://glreview.org/article/vampires-are-us/, type: academic}
-  - {color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s}
-  - {color: 1, short: "China (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644}
-  - {color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215}
-  - {color: 4, short: "Untamed (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", url: https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551}
-  - {color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq}
-  - {color: 5, short: "China bans men (McDonald, 2021)", full: "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", url: https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f}
+  - color: 2
+    short: Wallpaper (eeee, 2005)
+    full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from"
+    url: http://gallery.minitokyo.net/view/93510
+  - color: 1
+    short: Revolutionary Girl Utena (Wikipedia, n.d.)
+    full: Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from
+    url: https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479
+  - color: 1
+    short: (Cleghorn, 2017)
+    full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from"
+    url: https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62
+  - color: 2
+    short: (Russo, 1987)
+    full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row."
+    url: https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up
+    type: book
+    style: book
+  - color: 10
+    short: (Tyler, 2017)
+    full: "Tyler, J. (2017). The trail of blood : queer history through vampire literature [Thesis]. In <em>Theses.</em> Item 221. University of Alabama in Huntsville. Retrieved Jan 12, 2024, from"
+    url: https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses
+    type: student
+  - color: 8
+    short: (Tringali, 2016)
+    full: "Tringali, W.A. (2016, May 12). Not Just Dead, But Gay! Queerness and the Vampire [Thesis]. In <em>BSU Honors Program Theses and Projects</em>. Item 138. Available at: https://vc.bridgew.edu/honors_proj/138. Bridgewater State University. Retrieved Jan 12, 2024, from"
+    url: https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1172&context=honors_proj
+    type: student
+  - color: 6
+    short: (Abad-Santos, 2022)
+    full: Abad-Santos, A. (2022, Oct 14). <em>The messy, thrilling queer allegory in Interview with the Vampire</em> [Article]. Vox.com. Retrieved Jan 12, 2024, from
+    url: https://www.vox.com/culture/2022/10/14/23404308/interview-with-the-vampire-gay
+  - color: 2
+    short: (Hill, 2021)
+    full: "Hill, K. M. (2021). ‘We lie best when we lie to ourselves’: Stephen King’s It and the horrors of nostalgia. <em>Horror Studies, 12</em>(Reappraising Stephen King), 249–263. doi:10.1386/host_00041_1"
+    url: https://intellectdiscover.com/content/journals/10.1386/host_00041_1
+  - color: 3
+    short: (Groskp, 2014)
+    full: "Groskp, V. (2014, Sep 17). <em>Downton Abbey’s class nostalgia is another toxic British export</em> [Article]. The Guardian. "
+    url: https://www.theguardian.com/commentisfree/2014/sep/17/downton-abbey-nostalgia-british-export-stereotypes
+  - color: 4
+    short: (Telushkin, 2018)
+    full: "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. "
+    url: https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television
+  - color: 5
+    short: (deGroot, 2011)
+    full: "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today."
+    url: https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past
+  - color: 6
+    short: (Weiss, 2019)
+    full: Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.
+    url: https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/
+  - color: 2
+    short: (Park, 2014)
+    full: Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from
+    url: https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820
+  - color: 13
+    short: (Kohr, 2020)
+    full: Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from
+    url: https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend
+  - color: 3
+    short: (Shulman, 2013)
+    full: Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from
+    url: https://www.metroweekly.com/2013/10/queer-as-carrie/
+  - color: 6
+    short: (Elliot-Smith, 2009)
+    full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156"
+    url: https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx
+    type: academic
+  - color: 8
+    short: (Gonzalez, 2019)
+    full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from"
+    url: https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019
+  - color: 4
+    short: (Arason, 2014)
+    full: Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from
+    url: https://offscreen.com/view/hellraiser
+  - color: 16
+    short: (Wikipedia, 2020)
+    full: Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from
+    url: https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948
+  - color: 10
+    short: (Fortier, 2020)
+    full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from"
+    url: https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/
+  - color: 11
+    short: (Leever, 2017)
+    full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from"
+    url: https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5
+  - color: 9
+    short: (Barton, )
+    full: Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from
+    url: https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/
+  - color: 7
+    short: (Bishop, 2019)
+    full: Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from
+    url: https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/
+  - color: 17
+    short: (Sargent, 2015)
+    full: Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from
+    url: https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings
+  - color: 18
+    short: (Church, 2018)
+    full: Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from
+    url: https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows
+  - color: 16
+    short: (Greven, 2014)
+    full: "Greven, D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from"
+    url: https://archive.org/details/readingbromanceh0000unse
+    type: academic
+  - color: 15
+    short: (King, 2018)
+    full: "King, C.S. (2018). “If It's in A Word”: Intersectional Feminism, Precarity, and The Babadook. In B. M. Calafell (ed.), <em>The Popular Culture Studies Journal</em> (vol 6). Midwest PCA/ACA. Retrieved Dec 23, 2023, from"
+    url: https://www.academia.edu/40189328/_If_Its_in_a_Word_Intersectional_Feminism_Precarity_and_The_Babadook_
+    type: academic
+  - color: 14
+    short: (Howell, 2017)
+    full: "Howell, A. (2017). <em>The Terrible Terrace: Australian Gothic Reimagined and the (Inner) suburban Horror of the Babadook</em>. Retrieved Dec 23, 2023, from"
+    url: https://www.academia.edu/32079678/THE_TERRIBLE_TERRACE_AUSTRALIAN_GOTHIC_REIMAGINED_AND_THE_INNER_SUBURBAN_HORROR_OF_THE_BABADOOK
+  - color: 12
+    short: (Roy, 2017)
+    full: Roy, J. (2017, Jun 9). <em>The Babadook as an LGBT icon makes sense. No, really</em> [Article]. Los Angeles Times. Retrieved Dec 24, 2023, from
+    url: https://www.latimes.com/entertainment/movies/la-et-mn-babadook-gay-icon-lgbt-history-20170609-story.html
+  - color: 3
+    short: (Brands, 2019)
+    full: "Brands, R. (2019, Nov 4). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article]."
+    url: https://www.thefandomentals.com/queer-subtext-it-part-1/
+  - color: 1
+    short: (Monique, 2019)
+    full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter"
+    url: https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/
+  - color: 5
+    short: (London, 2019)
+    full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article]."
+    url: https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/
+  - color: 4
+    short: (Adkins, 2016)
+    full: Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).
+    url: https://www.archives.gov/publications/prologue/2016/summer/lavender.html
+  - color: 7
+    short: (Johnson, 2004)
+    full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press."
+    url: https://archive.org/details/lavenderscarecol00john_0
+    type: book
+  - color: 5
+    short: ""
+    full: New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from
+    url: https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html
+  - color: 8
+    short: (Wikipedia, 2023)
+    full: Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176
+  - color: 6
+    short: (Wikipedia, 2023)
+    full: Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102
+  - color: 3
+    short: (Wikipedia, 2021)
+    full: Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from
+    url: https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468
+  - color: 1
+    short: (Keown, 2021)
+    full: Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from
+    url: https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/
+  - color: 2
+    short: (Hunt, 2019)
+    full: Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from
+    url: https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html
+  - color: 5
+    short: (Borello, 2014)
+    full: Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from
+    url: https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing
+    type: student
+  - color: 2
+    short: (Wikipedia, 2022)
+    full: Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production
+  - color: 1
+    short: (Be Kind Rewind, 2021)
+    full: Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=jb-C4fcn2E0
+  - color: 4
+    short: ""
+    full: TODO Richard Plant's book The Pink Triangle
+    url: ""
+    type: book
+  - color: 3
+    short: (Rokakis, 2013)
+    full: Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.
+    url: https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors
+    type: student
+  - color: 2
+    short: Don't Say Gay explainer (Indian Express, 2022)
+    full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from"
+    url: https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/
+  - color: 3
+    short: Disney on FL Law (Masters, 2022)
+    full: Masters, K. (2022, Mar 2). <em>Why Disney Won’t Say Much About Florida’s “Don’t Say Gay” Bill</em> [News article]. The Hollywood Reporter. Retrieved December 17, 2023, from
+    url: https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/
+  - color: 4
+    short: Trans in TX (Torchinsky, 2022)
+    full: Torchinsky, R. (2022, Feb 25). <em>In Texas, an unrelenting assault on trans rights is taking a mental toll</em> [News article]. NPR. Retrieved December 17, 2023, from
+    url: https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas
+  - color: 5
+    short: FL School Walkouts (Lavietes, 2022)
+    full: Lavietes, M. (2022, Mar 3). <em>Florida students stage school walkouts over 'Don't Say Gay' bill</em> [News article]. NBC News. Retrieved December 17, 2023, from
+    url: https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-students-stage-school-walkouts-dont-say-gay-bill-rcna18600
+  - color: 6
+    short: Abigail Disney (Bergeson, 2022)
+    full: Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from
+    url: https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/
+  - color: 7
+    short: No Russian Releases (FanFest, 2022)
+    full: FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from
+    url: https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/
+  - color: 1
+    short: Anita Bryant (Eugenios, 2022)
+    full: Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from
+    url: https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215
+  - color: 1
+    short: ""
+    full: ""
+    url: https://www.medicalnewstoday.com/articles/stockholm-syndrome
+  - color: 2
+    short: (Howell, 2014)
+    full: Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.
+    url: ""
+  - color: 1
+    short: Merlin (Avila, 2016)
+    full: Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=6BkOoEhtxTs
+  - color: 3
+    short: Poe/Finn (Avila, 2016)
+    full: Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=NVompS_JoJw
+  - color: 4
+    short: Johnlock (Avila, 2016)
+    full: Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=RpItybDHavo
+  - color: 5
+    short: Albus/Scorpius (Avila, 2016)
+    full: Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=MNntQQ1qHuo
+  - color: 3
+    short: Suddenly, Last Summer (Wikipedia, 2023)
+    full: Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843
+  - color: 4
+    short: The Children's Hour (Wikipedia, 2023)
+    full: Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913
+  - color: 5
+    short: Advise & Consent (Wikipedia, 2023)
+    full: Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205
+  - color: 6
+    short: Victim (Wikipedia, 2023)
+    full: Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811
+  - color: 1
+    short: Attack on Titan (Wikipedia, 2022)
+    full: Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from
+    url: https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533
+  - color: 2
+    short: (seldomusings, 2013)
+    full: seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from
+    url: https://seldomusings.wordpress.com/2013/10/19/migiteorerno/
+  - color: 3
+    short: Cultural Revue (Hummel, 2022)
+    full: Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from
+    url: https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/
+  - color: 4
+    short: Vice (Jackson, 2021)
+    full: Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from
+    url: https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan
+  - color: 1
+    short: RWRB Movie (Wikipedia, 2023)
+    full: Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from
+    url: https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381
+  - color: 1
+    short: Vox Article (Burns, 2019)
+    full: Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from
+    url: https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf
+  - color: 2
+    short: Scotsman Article (Burns, 2019)
+    full: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from"
+    url: https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977
+  - color: 3
+    short: Harry Potter Day (National Today, n.d.)
+    full: National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from
+    url: https://nationaltoday.com/harry-potter-day/
+  - color: 1
+    short: (Demchuk, 2021)
+    full: Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from
+    url: https://hazlitt.net/feature/where-monsters-are-made
+  - color: 2
+    short: (Primuth, 2014)
+    full: Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from
+    url: https://glreview.org/article/vampires-are-us/
+    type: academic
+  - color: 3
+    short: (Hansen, 2020)
+    full: Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.
+    url: https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s
+  - color: 1
+    short: China (Wikipedia, 2021)
+    full: Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644
+  - color: 3
+    short: Addicted (Wikipedia, 2021)
+    full: Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215
+  - color: 4
+    short: Untamed (Wikipedia, 2021)
+    full: Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from
+    url: https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551
+  - color: 2
+    short: Flirting boys (Zhou, 2021)
+    full: Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from
+    url: https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq
+  - color: 5
+    short: China bans men (McDonald, 2021)
+    full: McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from
+    url: https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f
 
 -Uoqmxlcusg:
   vol: { p: 11.6, m: 0.0, y: 0.0, w: 4.7, v: 0 }
