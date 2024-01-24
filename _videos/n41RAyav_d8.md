@@ -22,8 +22,8 @@ cite:
   misinformation: !!map
   plagiarized: !!map
     disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
-    kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", url: https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/}
-    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php")}
+    kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
+    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php"}
     
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
