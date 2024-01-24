@@ -31,6 +31,8 @@ Video archives:
 </div>
 </div>
 
+[List of all plagiarized sources](allSources.md)
+
 # Transcript Index
 
 <div>
