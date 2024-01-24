@@ -21,10 +21,9 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
+    Disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
     kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
-    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php"}
-    
+    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php/"}
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -344,7 +343,7 @@ Time for me to use that marketing degree. <mark>Simply put, a brand is a promise
 > <mark>"We need to create joy not for children... But for the children in each of us."</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.disney_brand_paper at="p.6" %}>
+<from {% include citation for=page.cite.plagiarized.Disney_brand_paper at="p.6" %}>
 
 <mark>Simply put, a brand is a promise to your customer. When describing a brand, it’s tempting to simply list the attributes for your business, describe your product line or point to your logo and tagline. But a brand is more than that – it is a unique benefit for your customers. The Walt Disney Company is more than just a business, is an authentic American icon.</mark> <mark>The Walt Disney Company’s promise has always been to be bringers of joy, as Walt as said “We need to create joy not for children but for the child in each of us”.</mark>
 
@@ -356,7 +355,7 @@ Time for me to use that marketing degree. <mark>Simply put, a brand is a promise
 <mark>The brand identity of any brand consists of the way the company identifies itself through the products or services sold and the image it presents. <mark>In the case of Disney, the company is named after Walt Disney's proper name. He even inspired the logo of the company through his handwritten signature, which is part of the brand identity of Disney to this day.</mark> There are entire font families based on Walt's handwriting. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.disney_brand_paper at="p.4" %}>
+<from {% include citation for=page.cite.plagiarized.Disney_brand_paper at="p.4" %}>
 
 <mark>The brand identity of anybrand consists in the way the company identify itself through the product or service sold.</mark> More specifically, a brand is characterized by several elements such as a brand name, a logo, a symbol, a specific design or a combination of them in order to intend to identify goods or services that a company willing to differentiate from competitors.
 
