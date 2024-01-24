@@ -50,731 +50,238 @@ Thumbnail art by https://twitter.com/ghostlyday?s=21
 
 {% include transcript-start %}
 
-I never knew I was into shipping as 
+<compare>
+<james {% include timecode %}>
 
-much as I apparently am until I, well,
-found out what shipping was. My whole life I’d 
+I never knew I was into shipping as much as I apparently am until I, well, found out what shipping was. My whole life I’d been shipping characters with one another because, as a gay kid, how the hell else was I supposed to have gay characters in anything? The Ryan Murphy-verse was a good two decades away so gay characters in movies and YV were pretty damn rare. Unless they were dying of AIDS or a coded serial killer. 
 
-been shipping characters with one another because,
-as a gay kid, how the hell else was I 
+So instead, my innocent little brain turned elsewhere for gay relationships. Funnily enough, as someone who’s said multiple times over the past couple of years that I was never that big a fan of anime, my first big ships came from anime. Namely Gohan and Trunks from *DragonBall Z* (yes, I know there’s a problematic age difference but there’s also time travel so leave me alone), as well as Heero and Duo, and Trowa and Qautre from *Gundam Wing*. And who can forget my first rivals to boyfriends pairing, Matt and Tai from *Digimon*. Never once in any of these series are any of these characters even hinted at being gay. But did I care? Hell no. They were in love, and you were not going to tell my prepubescent brain otherwise. Especially Matt and Tai. That was a ship that could weather any storm. 
 
-supposed to have gay characters in anything?
-The Ryan Murphy-verse was a good two decades 
+It got a lot easier when *Queer as Folk* came on TV and the gay pairings were made obvious. Around the time *Queer as Folk* started airing I also started watching more “adult” media. Deciding wholeheartedly that I was going to go to film school, I started watching the classics. *Gone with the Wind*, *Citizen Kane*, *Whose<sup class="add">[sic: Who's]</sup> Afraid of Viginia Woolf*, *The Boys in the Sand. You know, real proper cinema. Not those silly cartoons from Japan. And then after finishing film school I spent another decade married to the idea that I was too good for anything but the best of cinema (becoming a huge David Fincher stan in the process).
 
-away so gay characters in movies and tv
-were pretty damn rare. Unless they were 
+And then, accidentally, I was exposed to the torid<sup class="add">[sic: torrid]</sup> world of shipping once again. When I, despite not having seen any other MCU movies, went to see *Captain America* on opening night. Because, you know, Chris Evans. And I left that theatre absolutely, utterly,convinced that Steve Rogers and Bucky Barnes were in love. It was so clear! Steve flew a plane into an arctic ice-cap instead of being with a woman, but tried everything to save Bucky. It had to be true! It was so obvious. 
 
-dying of aids or a coded serial killer. So instead, my innocent little brain turned 
+There must be other people on the internet seeing the same way that I was feeling. And there was. And they’d even seen gay relationships in media I hadn’t read into! Oh my god, you’re right! Sherlock is totally queer! Remus and Sirius? Of course! Sirius, The<sup class="add">[sic: the]</sup> confirmed bachelor, and Remus, the guy who didnt<sup class="add">[sic: didn't]</sup> even contemplate being with a girl until Sirius was dead. Xena and Gabrielle. How the hell had I never seen that before?! Was I blind?! There were so many examples, and whole mythologies worth of fan fiction, or slash fiction, describing how these couples worked. I even spotted some Matt and Tai stuff. 
 
-elsewhere for gay relationships. Funnily enough,
-as someone who’s said multiple times over the 
+So yeah, I found out that shipping was a thing. Never been the same since. 
 
-past couple of years that I was never that
-big a fan of anime, my first big ships came from 
+</james>
+<from></from>
+</compare>
 
-anime. Namely Gohan and Trunks from DragonBall Z
-(yes, I know there’s a problematic age difference 
+<compare>
+<credits>
 
-but there’s also time travel so leave me alone),
-as well as Heero and Duo, and 
+\[Titles play intercut with pictures of some of the gay anime pairings discussed, with funky music]
 
-Trowa and Qautre from Gundam Wing.
-And who can forget my first rivals to 
+> James Somerton Presents
 
-boyfriends pairing, Matt and Tai from Digimon. Never once in any of these series 
+> Written by 
+Nick Herrgott & James Somerton 
 
-are any of these characters even
-hinted at being gay. But did I 
+> Produced by
+[Fifteen Patron Names]
 
-care? Hell no. They were in love,
-and you were not going to tell my prepubescent 
+> Executive Producers
+[Seven Patron Names]
 
-brain otherwise. Especially Matt and Tai. That was a ship that could weather any storm. It got a lot easier when Queer as Folk came 
+> Shipping: A Nuanced Argument
 
-on TV and the gay pairings were made obvious. Around the time Queer as Folk started 
+</credits>
+</compare>
+{% assign timecode = "3:27" %}
 
-airing I also started watching more
-“adult” media. Deciding wholeheartedly that I was 
+## Part One: The Truth Untold
 
-going to go to film school, I started watching the
-classics. Gone with the Wind, Citizen Kane, Whose 
+<compare>
+<james {% include timecode}>
 
-Afraid of Viginia Woolf, The Boys in the Sand.
-You know, real proper cinema. Not 
+One thing that they will not, under any circumstances, teach you in college is that we owe the bulk of humanity’s literature to plagiarism. Heracles was a pan-hellenic<sup class="add">[sic: Hellenic]</sup> hero who was the focus and topic of plays and poems for the duration of ancient Greece, but also throughout Rome. And then kind of moved into being this point of reference for heroic stories in the Middle Ages of Europe and Byzantium. It’s unlikely that whoever was the first to write about Heracles was the only one developing content about the character in their own lifetime. But in ancient cultures, they also didn’t hold the same values about intellectual property as we do now. Because there was no central institution about owning copyright, they did not really believe that one could own a character. Especially when a core component of Heracles is that he is the son of Zeus<del>. Zeus</del>, who was the chief deity of a religion. It would be like Disney making a story about Jesus’s bumbling younger brother, Bob. And then trying to copyright “Jesus” as a character. 
 
-those silly cartoons from Japan. And then after finishing film school I spent 
+Keep in mind, Disney is the same company that tried to file copyright claims on ‘Odin,’ ‘Loki’ and ‘Thor.’ Because, yes, they have several movies featuring characters of those names who draw influence from the Norse pantheon. However, in copyright law, there would not be a clear way to distinguish the ‘Odin’ in Disney movies from the ‘Odin’ of mythology. In writing, at least. Because Marvel’s Odin has a look. But when copyrighting the name itself, that could get messy. Because… Odin is still openly revered in parts of the world — namely Iceland. Norse beliefs are still openly practised, and what happens when you pay homage to a god whose likeness is owned by an American media monopoly? To say nothing of Wagner’s *Ring Cycle* and other prominent media about Norse Mythology. Would Disney own copyright on those characters? 
 
-another decade married to the idea that I was too
-good for anything but the best of cinema (becoming 
+Also the fact that Marvel’s Odin is based on a comic book character which was created in the 1960s by Stan Lee, who passed away recently. Indicating that… ownership of the comic book Thor… is not necessarily ownership of <ins>the</ins> Movie Thor… Which brings to me a question of… when — or how — movie Thor could ever pass into public domain? Will he enter public domain at the same time as Comic book Thor? And like… given that they’re all based on characters who were already in public domain… 
 
-a huge David Fincher stan in the process).
-And then, accidentally, I was exposed to the 
+See — Jack Kirby got around this problem by making all the Eternals’ names slightly different than their modern spellings. 
 
-torid world of shipping once again. When I,
-despite not having seen any other MCU movies, went 
+</james>
+<clip>
 
-to see Captain America on opening night. Because,
-you know, Chris Evans. And I left that theatre absolutely, utterly, 
+<ins>Kid: So Dad said you're the goddess Athena.</ins>
 
-convinced that Steve Rogers and Bucky Barnes were
-in love. It was so clear! Steve flew a plane into 
+Thena: “<del>It’s just</del> ‘Thena.’ Drop the A.” 
 
-an arctic ice-cap instead of being with a woman,
-but tried everything to save Bucky. It 
+</clip>
+<james {% include timecode%}>
 
-had to be true! It was so obvious. There
-must be other people on the internet 
+But in the antiquated world, they didn’t even bother with these hang-ups. Using another creator’s creations was seen as a kind of reverence to the original poet, playwright, or bard. In fact, even writing under their name was seen as an homage — for instance, there’s some scholarly debate if the Odyssey was written by Homer, or if it was written after his death. 
 
-seeing the same way that I was feeling. And there was. And they’d even seen gay 
+But the fact that we, in our modern society, do have copyright laws should automatically signal just how natural it seems to us to simply appropriate existing fiction into new fiction. Though the phrase is mistakenly associated with Picasso, the phrase ‘Good artists create; Great artists steal’ seems to be the lynchpin that literary traditions have been built off of. Every great Greek and Roman play was constructed on a mythological cycle that had existed for centuries prior. *The Divine Comedy* and *Paradise Lost*, were both built off of Christian myth and folklore. 
 
-relationships in media I hadn’t read into! Oh my god, you’re right! 
+So yes… as most of literature exists because it was, as it would be considered now, a kind of fan-fiction — shipping, by extension, is also a valid method of narrative creation. Half of Greek myth is shipping. Pairing off different Gods, Kings, Heroes, and Deities together is the backbone of the mythological cycle. It’s how Gods like Pan, Zagreus, and even Aphrodite have uncertain or conflicting parentage. 
 
-Sherlock is totally queer! Remus and Sirius? Of course! Sirius, 
+In our society, perhaps more so out of a need to categorise everything and less out of respect, we consider the creator to be the authority on a creation, even after they’re long dead and their creations are used by the masses. As an example: it doesn’t really matter which version of Sherlock Holmes we’re observing, we generally default to Sir Aurther Conan Doyle as the authority on the figure, in a way we do not generally attribute creative licences made by Stephen Moffat as ‘canonical.’ 
 
-The confirmed bachelor, and Remus,
-the guy who didnt even contemplate 
+So in a classical context, there was little to no friction when using other writers’ characters. In part, because most of the characters worth referencing had been created hundreds if not thousands of years before. But in a modern context, you know. Copyright — for better and for worse. <del>I mean,</del> I think there’s a lot of ways that copyright does protect creators, but there are ways that corporations and well-known, fabulously wealthy creators abuse it. Given that
+media awareness has shifted from the classics to contemporary characters, if you want to
+write about characters that already exist, as the vast majority of writers in history have, these days, you are probably writing about characters that are protected by copyright. Which even though all that usually means is that you can’t make money off of what you’re writing,that really doesn’t seem to deter people. Popular fanfiction websites like Archive of Our Own get a dizzying amount of content every day. If ever there was an argument against people acting exclusively for profit it would be fanfiction. 
 
-being with a girl until Sirius was dead. Xena and Gabrielle. How the hell had I 
+One of the most popular forms of which is taking central characters and putting them in romantic entanglements with either characters in the plot with whom they share<del>d</del> good chemistry, or inventing entirely new characters. This is what is referred to as ‘shipping.’ As per a relation-ship. These are non-canonical relationships that make up the bulk of fanfiction now, and throughout literature. It can be argued that all fanfiction is, in some way ‘shipping.’ Because fanfiction changes the way in which characters interact with each-other. 
 
-never seen that before?! Was I blind?! There were so many examples, and whole mythologies 
+And even though there’s a kind of literary stigma against fanfiction in general, though specifically shipping, there are elements of society that can find a use for it. YOU may not be able to get paid for your ships and fan fiction, but that shouldn’t suggest that there isn’t money to be made off of it <del>somehow</del><ins>somewhere</ins>. It’s just a question of who 
+gets <del>that</del><ins>the</ins> money and how. 
 
-worth of fan fiction, or slash fiction,
-describing how these couples worked. I 
+{% assign timecode = "9:49" %}
 
-even spotted some Matt and Tai stuff. So yeah, I found out that shipping was 
+</james>
+</compare>
 
-a thing. Never been the same since. One thing that they will not, under 
+## Part Two: Boy In Luv
 
-any circumstances, teach you in college
-is that we owe the bulk of 
+<compare>
+<james {% include timecode %}>
 
-humanity’s literature to plagiarism.
-Heracles was a pan-hellenic hero who was the 
+Though shipping has its roots in antiquity, there is a somewhat concrete instance for when it shifted into the modern world. And it was actually earlier than most people would expect — Kirk and Spock from the original *Star Trek* series.
 
-focus and topic of plays and poems for the
-duration of ancient Greece, but also throughout 
+</james>
+<clip>
 
-Rome. And then kind of moved into being this
-point of reference for heroic stories in 
+<ins>LEGO figure: FRIENDSHIP!!!</ins>
 
-the Middle Ages of Europe and Byzantium. It’s unlikely that whoever was the first to write 
+</clip>
+<james {% include timecode %}>
 
-about Heracles was the only one developing content
-about the character in their own lifetime. But 
+This was a unique instance of shipping for several reasons, though namely the fact that it was not a ship that was done with characters in public domain. This was based around contemporary characters whose personalities and plots were unfolding over three seasons. Fans had something new and tangible to cling on to, with promises of new material to come that would further enrich the fictional romance. And, for those in the 60s and even today, the romantic and/or sexual tension between Kirk and Spock was palpable. 
 
-in ancient cultures, they also didn’t hold the
-same values about intellectual property 
+It may not be right to say that it was the first ship in a given fandom. There may have been local book clubs which chose to read into the companionship between Sam and Frodo, for instance. However, *Star Trek* was one of the first fictional properties to host significantly large conventions for the fandom at large. The open-venue atmosphere generated a place to find like-minded niches within the fandom, which, itself, was niche. Finding queer or queer-friendly fans who openly read into latent, perhaps unintentional queerness was easier than it had ever been. So in an era before the internet, developing these physical spaces was necessary for developing fan theories and having head-cannon spread throughout the entire fanbase. Head-cannon, for reference, is an element of the story that, while not confirmed or able to be confirmed by the creator, is a theory, or a story that the majority of a fanbase has accepted. For more on the Star Trek shipping phenomen check out Jessie Gender’s video linked below. 
 
-as we do now. Because there was no central
-institution about owning copyright, they did not 
+So how do we go from fans filling in the blanks in a fictitious social-utopia — to me having very conflicting gay thoughts about a popular anime about skateboarding? One that leans on a shonan<sup class="add">[sic: shōnen]</sup> aesthetic for extra flavour, but owing most
+of it’s<sup class="add">[sic: its]</sup> popularity to multiple ambiguously obvious queer relationships. And a cat boy. This is the future progressives are giving you. 
 
-really believe that one could own a character. Especially when a core component 
+*Sk8 The Infinity* is a 2021 Anime directed by Hikoro<sup class="add">[sic: Hiroko]</sup> Utsumi,
+the director of similarly queer baited and shipped anime *Free!* and *Banana Fish*. *Sk8* tells the story of Reki, a Japanese teenager obsessed with skateboarding, and Langa, a Japanese Canadian who used to be a championship snowboarder [James accidentally says "skateboarder," the correction is shown on screen]. until the death of his father. The pair meet up and Langa discovers that skateboarding isn’t that different from snowboarding! It actually is but let’s go with it. Together they start attending underground skateboarding tournaments called S, organised by Adam, an embezzling businessman in *Digimon* villain drag. 
 
-of Heracles is that he is the son
-of Zeus. Zeus, who was the chief deity of a 
+In an oddly generous offering of gay ships, *Sk8* serves up not one <del>by</del><ins>but</ins> three potential gay pairings for fans to write and create art about. First up we’ve got the main pair Reki and Langa. While it all began at least sort of casually - they were classmates before becoming friends – their relationship eventually grew into some more… close. Something more close — let’s go with close. However, fans immediately started seeing a lot of the hints that Reki and Langa might wind up as more than just friends, but this never officially happened, of course, 
+leaving the fans no choice but to ship them. 
 
-religion. It would be like Disney making a story
-about Jesus’s bumbling younger brother, Bob. And 
+Next <del>up</del> we’ve got Joe and Cherry, or as they’re fondly known online: Cherry Blossom, or matchablossom. These two appear to be a real couple in every way, yet they refuse to admit it. 
 
-then trying to copyright “Jesus” as a character. Keep in mind, Disney is the same company that 
+</james>
+<clip>
 
-tried to file copyright claims on ‘Odin,’
-‘Loki’ and ‘Thor.’ Because, yes, they have 
+<ins>Miya: What's with the parasol?
 
-several movies featuring characters of those names
-who draw influence from the Norse pantheon. 
+Joe: *Precious* doesn't want to get a tan. He's delicate.
 
-However, in copyright law, there would not
-be a clear way to distinguish the ‘Odin’ in 
+Miya: Where are your clothes, bro?
 
-Disney movies from the ‘Odin’ of mythology. In writing, at least. Because Marvel’s Odin has a 
+Cherry: He's charring his chesticles for locals in heat. Such a *thirsty* gorilla.</ins>
 
-look. But when copyrighting the name itself, that
-could get messy. Because… Odin is still openly 
+</clip>
+<james {% include timecode %}
 
-revered in parts of the world — namely Iceland.
-Norse beliefs are still openly 
+It’s beyond easy to read into the idea that these two were once an item, broke up, and now simultaneously love and hate each other. But mostly love. They bicker like a married couple, act as surrogate parents to our younger group of skaters, and have a tumultuous past relationship with Myotismon over here. 
 
-practised, and what happens when
-you pay homage to a god whose likeness 
+Speaking of Adam. He’s a part of the third ship in the series along with his personal assistant, Tadashi. A pairing the internet has named… LoveDog. If you’ve seen the show you know why. This is… a problematic yet obvious ship. It’s clear that these two have some kind of relationship beyond official duties, but goddamn it’s abusive! I’ve already made three videos about abusive gay relationships in media so I’m not going to go into the gritty details. But there is some hardcore gaslighting going on here. 
 
-is owned by an American media monopoly? To say nothing of Wagner’s Ring Cycle and 
+But let’s focus on our main pair. Reki and Langa. Since they’re the whole reason I’m making this video. Throughout the series these two are given multiple moments scientifically designed to urge on the potential shippers. Whether it’s Reki teaching Langa how to skateboard in a really cute montage, or Langa’s now notorious “Reki, my love (of skateboarding)” line. [brief fade in to Langa saying the line.] As the series progresses Reki becomes more and more a cheerleader of Langa, ever more enthusiastic, even though Langa is much more reserved and shy. Until the final episode when he excitedly jumps into Reki’s arms after winning a race. 
 
-other prominent media about Norse Mythology.
-Would Disney own copyright on those characters? 
+The pair even play out a typical rom-com break up scenario as the show crests into the third act. But don’t worry they get back together. That’s when they create a special fist bump that, YOU KNOW,if one of them was a girl that damn fist bump woulda been a kiss. It’s their way of kissing. Am I the only one seeing— 
 
-Also the fact that Marvel’s Odin is based on a
-comic book character which was created in the 
+This is also when Langa realises how important their friendship is and tells Reki,
 
-1960s by Stan Lee, who passed away recently.
-Indicating that… ownership of the comic book 
+</james>
+<clip>
 
-Thor… is not necessarily ownership of Movie Thor… Which brings to me a question 
+Langa: Let’s do it. I want to skate infinitely with you.
 
-of… when — or how — movie Thor
-could ever pass into public domain? Will he 
+[Cutaway to James staring blankly as another clip plays behind him.]
 
-enter public domain at the same time as Comic
-book Thor? And like… given that they’re all based 
+Victor: That sounded like a marriage proposal.
 
-on characters who were already in public domain… See — Jack Kirby got around this problem by
-making all the Eternals’ names slightly 
+</clip>
+<james {% include timecode%}>
 
-different than their modern spellings. ————— ETERNALS — Thena: “It’s 
+<del>So</del> on one hand *Sk8 the Infinity* has a very simple, if not entirely unremarkable plot.It’s a typical rookie-makes-the-big-leagues narrative. You can pretty much assume the broad strokes and outcomes of almost every set-up. It’s the relationships that make it stand out. *Sk8* shines in the grace notes and nuances that build the story. What’s really meant to be entertaining, animation aside, are the colourful characters, sardonic comedy, wild antics, a couple of neurodivergent characters who find a peer group that accepts them (which is one of the more touching elements of the story, actually) and, the adorable boys being boys and doing 
+boy things. Very<del>…</del> heterosexual boy things. 
 
-just ‘Thena.’ Drop the A.” ————— But in the antiquated world, they didn’t 
+</james>
+<clip>
 
-even bother with these hang-ups. Using
-another creator’s creations was seen as a kind 
+[Slow pan up on Miya riding a skateboard, with background audio.]
 
-of reverence to the original poet, playwright,
-or bard. In fact, even writing under their name 
+</clip>
+<james {% include timecode%}>
 
-was seen as an homage — for instance, there’s
-some scholarly debate if the Odyssey was written 
+Oh look a catboy. 
 
-by Homer, or if it was written after his death. But the fact that we, in our modern society, do 
+And, in spite of what issues with the show that I bring up, my opinion of it remains net-positive… Conditionally. The series doesn’t seem entirely sure whether it wants to conform to rookie-narrative tropes or subvert them. A lot of the time the show wants to push an emotional moment for the sake of driving characters' pathos. But then usually will turn right around and break the in-universe rules about how fast skateboards can go. But this is forgivable because when it comes to this anime, actual skateboarding is ironically one of the last things you’re meant to pay attention to. 
 
-have copyright laws should automatically signal
-just how natural it seems to us to simply 
+Another difficulty the show tends to have is saying one thing in spoken dialogue, but completely rebutting that message with visuals and plot beats. While on one hand Reki’s personal narrative is partly about him coming to terms with the fact that he doesn’t need to be the best skateboarder.That he has value on and off of the track. On the other hand Reki is given this pep-talk by a character — the owner of a skate shop — who is… basically not in the plot. And then immediately after that, Reki decides he wants to skateboard-race Adam, who, in a prior race, served him a broken arm and a molestation allegory. Trauma which was there to drive interpersonal drama, but then disappeared when it was no longer convenient to the plot. This has some really dodgy subtext when it comes to <ins>the</ins> villains. 
 
-appropriate existing fiction into new fiction.
-Though the phrase is mistakenly associated 
+But this — this isn’t that video. This video is about the subtext you’re meant to read into. The shipping. Turns out the shonen anime’s take on <del>the</del> Japanese skateboarding is that everybody’s gay. 
 
-with Picasso, the phrase ‘Good artists create;
-Great artists steal’ seems to be the lynchpin 
+</james>
+<clip>
 
-that literary traditions have been built off of. Every great Greek and Roman play was 
+Adam: HEY BITCHES, <ins>AND</ins> BROS, AND NONBINARY HOES.
 
-constructed on a mythological cycle
-that had existed for centuries prior. 
+</clip>
+<james {% include timecode %}
 
-The Divine Comedy and Paradise Lost,
-were both built off of 
+Like… if you’re going to make the villain woke and awesome at the same time, can we ease off the assault and battery against minors? And the… creepy obsession he has with teenagers? I really wanted to LIKE him but like… it’s just so uncomfortable. 
 
-Christian myth and folklore. So yes… as most of literature exists because 
+But right, the non-problematic couple. There’s an entire industry of buzz built around the ways in which these homo-ambiguous teenagers are almost a gay couple. Articles on websites as disparate as CBR.com, Kotoku, and The Advocate. And the fervour of this community on twitter, reddit, and fan-discords may very well be a pivotal reason why this show has risen to the kind of popularity it has. There’s even a two night stage show for god’s sake. That I really wanna see. COVID, can you go away I <del>really</del> wanna see that. 
 
-it was, as it would be considered now,
-a kind of fan-fiction — shipping, by 
+This media knows you’re going to ship these characters… in fact, it seems to be expected. We, the audience, are expected to read into the suggested ship, to draw fan art, to write fan fiction, to engage in an entire constructed community around how these two characters would interact if the ship was cannon. And how<del>…</del> do we feel about that? 
 
-extension, is also a valid method of
-narrative creation. Half of Greek myth is 
+{% assign timecode = "18:29"}
 
-shipping. Pairing off different Gods, Kings,
-Heroes, and Deities together is the backbone of 
+</james>
+</compare>
 
-the mythological cycle. It’s how Gods like Pan,
-Zagreus, and even Aphrodite have 
+## Part Three: Pied Piper
 
-uncertain or conflicting parentage. In our society, perhaps more so out 
+<compare>
+<james {% include timecode%}>
 
-of a need to categorise everything and
-less out of respect, we consider 
+Why couldn’t we just get the gay sk8er boys? Why couldn’t we get the gay sk8er dads? It seems clear that not only does the audience want this, but that the studio knows this and wants to play to that audience. If everyone wants it… why hold back? What’s the rationale? What’s the reason? 
 
-the creator to be the authority on
-a creation, even after they’re long dead 
+It seems that the queerness is being deliberately withheald where it would otherwise fit into the plot. And if this is deliberate, then we can gauge the ethical merits of the situation. Really… *Sk8* doesn’t seem like the kind of series that would spurr on an hour long discussion about ethics of representation. But as much as the writing does seem to be on the wall about gay coupling in this show, it is — once again — a big load of ‘almost’ representation. And the show goes pretty far to ‘almost’ show gay romance. But it’s that last <ins>like</ins> ten yards that we’re not crossing for some reason. So what’s stopping media like this from making the final step? 
 
-and their creations are used by the masses.
-As an example: it doesn’t really matter which 
+My theory is that shipping is a component of audience engagement that is filling in for something that mass media has lost: merchandising. Seeing <ins>as</ins> how merchandising and boys’ love(or more commonly known as BL because it sounds less creepy) are both things that saw great advancement within Japanese media in the 1990s, it’s probably best to start there. There had been times when Anime had broken into American Airwaves, like *Astro Boy*, *Speed Racer*, Simba (i mean *Kimba*), and *Sailor Moon*. And anime from the 80s like *Akira* have been incredibly
+influential in modern Hollywood. 
 
-version of Sherlock Holmes we’re observing,
-we generally default to Sir Aurther Conan 
+However, among consumer masses, nothing hit quite like *Pokémon*. It used to be that cartoons made for kids were created solely as 20 minute commercials to sell you toys. Like with the *Transformers* series. For a couple years *Transformers* dominated toy shelves and Television. It was *Pokémon* before *Pokémon*. But *Pokémon*… has been around for twenty years. So has Transformers — longer, actually — but *Pokémon* never went away. *Pokémon* was a game-changer, not only because it was an anime tie-in to a video game that was already popular, but it was incredibly toyetic. And being able to make toys from characters, creatures, and objects in a piece of visual media is something that American companies had proven to be cash cows before. Look at Star Wars. With this merchandising angle, a producer can double or even quintuple income by
+constructing an ongoing series in a way where the plot is intrinsically tied to something that can very easily be made into a toy.Especially when you have a way to refresh <del>the</del><ins>that</ins> toy line every few years. 
 
-Doyle as the authority on the figure,
-in a way we do not generally attribute creative 
+But where *Pokémon* was more successful... is how characters were so simple and so recognizable that you can stick them on a T-shirt and everyone will know its<sup class="add">[sic: it's]</sup> Pikachu. Whereas, to the layman, Starscream and Megatron might not be so easy to tell apart in robot form. There’s another problematic ship for you. 
 
-licences made by Stephen Moffat as ‘canonical.’ So in a classical context, there was little to 
+When it comes to *Pokémon*, enter the Japanese word and concept — kawaii. Contrary to popular belief, kawaii does not mean ‘cute.’ It means something much deeper. When something is kawaii, it means that it cannot not be cute. It means that this idol has been reduced to a state of existence where the ONLY opinion that can exist about it is that it’s cute. *Pokémon* is a prime example, specifically with mascot characters like Pikachu, Bulbasaur, Eevee — and nearly all first-stage evolutions. But the example that typifies this process is Hello Kitty. 
 
-no friction when using other writers’ characters.
-In part, because most of the 
-
-characters worth referencing
-had been created hundreds if 
-
-not thousands of years before. But in a modern context, you know. Copyright 
-
-— for better and for worse. I mean, I think
-there’s a lot of ways that copyright does 
-
-protect creators, but there are ways that
-corporations and well-known, fabulously 
-
-wealthy creators abuse it. Given that
-media awareness has shifted from the classics 
-
-to contemporary characters, if you want to
-write about characters that already exist, as 
-
-the vast majority of writers in history have,
-these days, you are probably writing about 
-
-characters that are protected by copyright. Which even though all that usually means is that 
-
-you can’t make money off of what you’re writing,
-that really doesn’t seem to deter people. Popular 
-
-fanfiction websites like Archive of Our Own get a
-dizzying amount of content every 
-
-day. If ever there was an argument
-against people acting exclusively 
-
-for profit it would be fanfiction. One of the most popular forms of which is taking 
-
-central characters and putting them in romantic
-entanglements with either characters in the 
-
-plot with whom they shared good chemistry,
-or inventing entirely new characters. This is what is referred to as 
-
-‘shipping.’ As per a relation-ship. These are non-canonical relationships 
-
-that make up the bulk of fanfiction now,
-and throughout literature. It can be 
-
-argued that all fanfiction is, in some way
-‘shipping.’ Because fanfiction changes the way 
-
-in which characters interact with each-other. And even though there’s a kind of literary 
-
-stigma against fanfiction in general,
-though specifically shipping, there are 
-
-elements of society that can find a use for it.
-YOU may not be able to get paid 
-
-for your ships and fan fiction,
-but that shouldn’t suggest that there 
-
-isn’t money to be made off of it somehow. It’s just a question of who 
-
-gets that money and how. Though shipping has its roots in 
-
-antiquity, there is a somewhat
-concrete instance for when it shifted into 
-
-the modern world. And it was actually earlier
-than most people would expect — Kirk and 
-
-Spock from the original star trek series. This was a unique instance of 
-
-shipping for several reasons,
-though namely the fact that it was not a ship 
-
-that was done with characters in public domain.
-This was based around contemporary characters 
-
-whose personalities and plots were unfolding over
-three seasons. Fans had something 
-
-new and tangible to cling on to,
-with promises of new material to come that 
-
-would further enrich the fictional romance. And, for those in the 60s and even today,
-the romantic and/or sexual tension 
-
-between Kirk and Spock was palpable. It may not be right to say that it was the 
-
-first ship in a given fandom. There may
-have been local book clubs which chose to read 
-
-into the companionship between Sam and Frodo,
-for instance. However, Star Trek was one 
-
-of the first fictional properties to host
-significantly large conventions 
-
-for the fandom at large. The open-venue atmosphere generated a place 
-
-to find like-minded niches within the fandom,
-which, itself, was niche. Finding queer or 
-
-queer-friendly fans who openly read into latent,
-perhaps unintentional queerness 
-
-was easier than it had ever been. So in an era before the internet, 
-
-developing these physical spaces was
-necessary for developing fan theories and having 
-
-head-cannon spread throughout the entire fanbase. Head-cannon, for reference, is an element of 
-
-the story that, while not confirmed or able
-to be confirmed by the creator, is a theory, or a 
-
-story that the majority of a fanbase has accepted. For more on the Star Trek shipping phenomen 
-
-check out Jessie Gender’s video linked below. So how do we go from fans filling in the 
-
-blanks in a fictitious social-utopia — to
-me having very conflicting gay thoughts 
-
-about a popular anime about skateboarding?
-One that leans on a shonan aesthetic 
-
-for extra flavour, but owing most
-of it’s popularity to multiple ambiguously 
-
-obvious queer relationships. And a cat boy. This is the future progressives are giving you. Sk8 The Infinity is a 2021 
-
-Anime directed by Hikoro Utsumi,
-the director of similarly queer baited and shipped 
-
-anime Free! and Banana Fish. Sk8 tells the story
-of Reki, a Japanese teenager obsessed with 
-
-skateboarding, and Langa, a Japanese Canadian
-who used to be a championship snowboarder 
-
-until the death of his father. The pair meet
-up and Langa discovers that skateboarding 
-
-isn’t that different from snowboarding! It actually is but let’s go with it. Together they start attending underground 
-
-skateboarding tournaments called S,
-organised by Adam, an embezzling 
-
-businessman in Digimon villain drag. In an oddly generous offering of gay ships, 
-
-Sk8 serves up not one by three potential gay
-pairings for fans to write and create art about. 
-
-First up we’ve got the main pair Reki and Langa. While it all began at least 
-
-sort of casually - they were
-classmates before becoming friends – their 
-
-relationship eventually grew into some more…
-close. Something more close — let’s go 
-
-with close. However, fans immediately
-started seeing a lot of the hints that Reki and 
-
-Langa might wind up as more than just friends,
-but this never officially happened, of course, 
-
-leaving the fans no choice but to ship them. Next up we’ve got Joe and Cherry, or as 
-
-they’re fondly known online: Cherry Blossom,
-or matchablossom. These two appear to be a real 
-
-couple in every way, yet they refuse to admit it. It’s beyond easy to read into the 
-
-idea that these two were once an item,
-broke up, and now simultaneously 
-
-love and hate each other.
-But mostly love. They bicker like a married 
-
-couple, act as surrogate parents to our
-younger group of skaters, and have a tumultuous 
-
-past relationship with Myotismon over here. Speaking of Adam. He’s a part of the 
-
-third ship in the series along with
-his personal assistant, Tadashi. 
-
-A pairing the internet has named…
-LoveDog. If you’ve seen the show you know why. 
-
-This is… a problematic yet obvious ship. It’s
-clear that these two have some kind of 
-
-relationship beyond official duties, but
-goddamn it’s abusive! I’ve already made three 
-
-videos about abusive gay relationships in media so
-I’m not going to go into the gritty details. But 
-
-there is some hardcore gaslighting going on here. But let’s focus on our main 
-
-pair. Reki and Langa. Since
-they’re the whole reason I’m making this video. Throughout the series these two are given 
-
-multiple moments scientifically designed
-to urge on the potential shippers. Whether it’s 
-
-Reki teaching Langa how to skateboard in a really
-cute montage, or Langa’s now notorious 
-
-“Reki, my love (of skateboarding)” line. As the series progresses Reki becomes 
-
-more and more a cheerleader of Langa,
-ever more enthusiastic, even though 
-
-Langa is much more reserved and shy.
-Until the final episode when he excitedly 
-
-jumps into Reki’s arms after winning a race. The pair even play out a typical 
-
-rom-com break up scenario as the show
-crests into the third act. But don’t worry 
-
-they get back together. That’s when they
-create a special fist bump that, YOU KNOW, 
-
-if one of them was a girl that damn fist
-bump woulda been a kiss. It’s their way 
-
-of kissing. Am I the only one seeing— This is also when Langa realises how 
-
-important their friendship is and tells Reki,
-“Let’s do it. I want to 
-
-skate infinitely with you.” (Blank stare)
-
-“That sounded like a marriage proposal” So on one hand Sk8 the Infinity has a very 
-
-simple, if not entirely unremarkable plot.
-It’s a typical rookie-makes-the-big-leagues 
-
-narrative. You can pretty much assume the broad
-strokes and outcomes of almost every set-up. 
-
-It’s the relationships that make it stand out. Sk8 shines in the grace notes and nuances 
-
-that build the story. What’s really meant
-to be entertaining, animation aside, are 
-
-the colourful characters, sardonic comedy,
-wild antics, a couple of neurodivergent characters 
-
-who find a peer group that accepts them (which is
-one of the more touching elements 
-
-of the story, actually) and,
-the adorable boys being boys and doing 
-
-boy things. Very… heterosexual boy things. Oh look a catboy. And, in spite of what issues 
-
-with the show that I bring up,
-my opinion of it remains 
-
-net-positive… Conditionally. The series doesn’t seem entirely sure whether 
-
-it wants to conform to rookie-narrative tropes
-or subvert them. A lot of the time the 
-
-show wants to push an emotional moment
-for the sake of driving characters' pathos. 
-
-But then usually will turn right around
-and break the in-universe rules 
-
-about how fast skateboards can go. But this is forgivable because 
-
-when it comes to this anime,
-actual skateboarding is ironically one of the 
-
-last things you’re meant to pay attention to. Another difficulty the show tends to have 
-
-is saying one thing in spoken dialogue,
-but completely rebutting that 
-
-message with visuals and plot beats.
-While on one hand Reki’s personal narrative is 
-
-partly about him coming to terms with the fact
-that he doesn’t need to be the best skateboarder. 
-
-That he has value on and off of the track. On the other hand Reki is given this pep-talk by 
-
-a character — the owner of a skate shop — who is…
-basically not in the plot. And then immediately 
-
-after that, Reki decides he wants to
-skateboard-race Adam, who, in a prior race, served 
-
-him a broken arm and a molestation allegory.
-Trauma which was there to 
-
-drive interpersonal drama,
-but then disappeared when it was 
-
-no longer convenient to the plot. This has some really dodgy subtext when it comes 
-
-to villains. But this — this isn’t that video.
-This video is about the subtext you’re 
-
-meant to read into. The shipping. Turns out the shonen anime’s take on the 
-
-Japanese skateboarding is that everybody’s gay. “HEY BITCHES, BROS, AND NONBINARY HOES.” Like… if you’re going to make the villain 
-
-woke and awesome at the same time, can we
-ease off the assault and battery against minors? 
-
-And the… creepy obsession he has with teenagers? I really wanted to LIKE him but 
-
-like… it’s just so uncomfortable. But right, the non-problematic couple. There’s an entire industry of buzz built around 
-
-the ways in which these homo-ambiguous teenagers
-are almost a gay couple. Articles on websites as 
-
-disparate as CBR.com, Kotoku, and The Advocate.
-And the fervour of this community on 
-
-twitter, reddit, and fan-discords may
-very well be a pivotal reason why this show 
-
-has risen to the kind of popularity it has. There’s even a two night 
-
-stage show for god’s sake.
-That I really wanna see. COVID, can 
-
-you go away I really wanna see that. This media knows you’re going to ship these 
-
-characters… in fact, it seems to be expected.
-We, the audience, are expected 
-
-to read into the suggested ship,
-to draw fan art, to write fan fiction, to 
-
-engage in an entire constructed community
-around how these two characters would 
-
-interact if the ship was cannon. And how… do we feel about that? Why couldn’t we just get the gay sk8er boys? 
-
-Why couldn’t we get the gay sk8er dads?
-It seems clear that not only does the audience 
-
-want this, but that the studio knows this and
-wants to play to that audience. If 
-
-everyone wants it… why hold back? What’s the rationale? What’s the reason? It seems 
-
-that the queerness is being deliberately withheald
-where it would otherwise fit into 
-
-the plot. And if this is deliberate,
-then we can gauge the ethical 
-
-merits of the situation. Really… Sk8 doesn’t seem like the kind of series 
-
-that would spurr on an hour long discussion about
-ethics of representation. But as much as the 
-
-writing does seem to be on the wall about gay
-coupling in this show, it is — once again 
-
-— a big load of ‘almost’ representation. And the show goes pretty far to ‘almost’ show gay 
-
-romance. But it’s that last ten yards that we’re
-not crossing for some reason. So what’s stopping 
-
-media like this from making the final step? My theory is that shipping is a 
-
-component of audience engagement
-that is filling in for something that 
-
-mass media has lost: merchandising. Seeing how merchandising and boys’ love (or 
-
-more commonly known as BL because it sounds
-less creepy) are both things that saw great 
-
-advancement within Japanese media in the 1990s,
-it’s probably best to start there. There had been times when Anime had broken into 
-
-American Airwaves, like Astro Boy, Speed Racer,
-Simba (i mean Kimba), and Sailor Moon. And anime 
-
-from the 80s like Akira have been incredibly
-influential in modern Hollywood. However, among 
-
-consumer masses, nothing hit quite like Pokémon. It used to be that cartoons made for kids were 
-
-created solely as 20 minute commercials to sell
-you toys. Like with the transformers series. 
-
-For a couple years Transformers dominated toy
-shelves and Television. It was Pokémon 
-
-before Pokémon. But Pokémon… has been
-around for twenty years. So has Transformers — 
-
-longer, actually — but Pokémon never went away. Pokémon was a game-changer, not 
-
-only because it was an anime
-tie-in to a video game that was already 
-
-popular, but it was incredibly toyetic.
-And being able to make toys from characters, 
-
-creatures, and objects in a piece of visual
-media is something that American companies had 
-
-proven to be cash cows before. Look at Star Wars. With this merchandising angle, a producer 
-
-can double or even quintuple income by
-constructing an ongoing series in a way 
-
-where the plot is intrinsically tied
-to something that can very 
-
-easily be made into a toy.
-Especially when you have a way to 
-
-refresh the toy line every few years. But where Pokémon was more successful... is how 
-
-characters were so simple and so recognizable
-that you can stick them on a T-shirt and everyone 
-
-will know its Pikachu. Whereas, to the layman,
-Starscream and Megatron might not be 
-
-so easy to tell apart in robot form. There’s another problematic ship for you. When it comes to Pokémon, enter the 
-
-Japanese word and concept — kawaii. Contrary to popular belief, kawaii does not mean 
-
-‘cute.’ It means something much deeper. When
-something is kawaii, it means that it cannot 
-
-not be cute. It means that this idol has been
-reduced to a state of existence where the ONLY 
-
-opinion that can exist about it is that it’s cute. Pokémon is a prime example, specifically with 
-
-mascot characters like Pikachu, Bulbasaur, Eevee —
-and nearly all first-stage evolutions. But the 
-
-example that typifies this process is Hello Kitty. Hello Kitty, as a brand, is fascinating,
-but I won’t get into it here. 
-
-Hold on, I need my cat ears— Hello Kitty didn’t even have a piece of media 
-
-it was attached to right away, but this little
-cartoon kitty seemed to be like something you 
-
-would see in a TV special. But it wasn’t until
-the brand was already a national sensation 
-
-in Japan that there was any visual media. The process that makes Hello Kitty kawaii 
-
-is an aesthetic exercise in minimalism and
-abstractism. You take a cat, and you gradually 
-
-reduce features until you have a bare minimum
-amount of details that allow you to recognize 
-
-this as a cat. Or Keroppi as a frog. Et cetera. With so little features, this is 
+Hello Kitty, as a brand, is fascinating, but I won’t get into it here. Hold on, I need my cat ears— Hello Kitty didn’t even have a piece of media it was attached to right away, but this little
+cartoon kitty seemed to be like something you would see in a TV special. But it wasn’t until
+the brand was already a national sensation in Japan that there was any visual media. The process that makes Hello Kitty kawaii is an aesthetic exercise in minimalism and
+abstractism. You take a cat, and you gradually reduce features until you have a bare minimum amount of details that allow you to recognize <ins>that</ins> this as a cat. Or Keroppi as a frog. Et cetera. With so little features, this is 
 
 not just a cat. Your imagination
 makes you pack-bond with the idea of a cat. But when it comes to using toyetics 
 
 to sell a given brand… well,
-Pokémon did it so well that nothing else 
+*Pokémon* did it so well that nothing else 
 
 has managed to come close. Even Disney.
-And Pokémon has only been around 
+And *Pokémon* has only been around 
 
 half as long as Hello Kitty. It’s still not clear — even to cultural 
 
-analysts — why or how Pokémon completely
+analysts — why or how *Pokémon* completely
 dominated culture to the point of traumatising 
 
 Burger King employees. Things were ‘cute’ before
-Pokémon. Things have been ‘cute’ after Pokémon. 
+*Pokémon*. Things have been ‘cute’ after *Pokémon*. 
 
-So it's not really clear why it stands out. But as Pokémon was first 
+So it's not really clear why it stands out. But as *Pokémon* was first 
 
 and foremost a video game,
 it managed to retain its market 
@@ -787,12 +294,12 @@ switch from action figures to games. It’s difficult to make a cartoon or anime
 a strong merchandise tie-in because video games
 occupy so much of the childrens’ market now. 
 
-Pokémon endured because there was a monopoly.
+*Pokémon* endured because there was a monopoly.
 It’s almost not fair for any franchise to assess 
 
-its success if Pokémon is seen as the standard. We’re not here to talk about Pokémon — an anime 
+its success if *Pokémon* is seen as the standard. We’re not here to talk about *Pokémon* — an anime 
 
-with actually visible queer representation. We’re here to talk about how Pokémon’s industry 
+with actually visible queer representation. We’re here to talk about how *Pokémon*’s industry 
 
 dominance has made it difficult for new media
 to focus their branding strategy around 
@@ -1263,7 +770,7 @@ hint of evidence but people want the 
 relationship to be a thing anyway,
 like my own personal ship of James and Butch 
 
-from the Pokémon anime. Who are obviously bitter
+from the *Pokémon* anime. Who are obviously bitter
 exes. Or Rachel and Quinn from Glee. Magneto and 
 
 Professor X. Cap and Ironman. Spiderman and Venom. There’s not really any textual, 
