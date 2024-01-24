@@ -74,7 +74,7 @@ let output = [];
 { // Prepend global stats
 	output.push(YAML.dump({ _global: stats }, { flowLevel: 2, quotingType: '"' }));
 }{
-	output.push(YAML.dump({ _all: [...sources.values()] }, { flowLevel: 3, quotingType: '"' }));
+	output.push(YAML.dump({ _all: [...sources.values()] }, { flowLevel: 2, forceQuotes:true, quotingType: '"' }));
 }
 for (const [id, obj] of info) {
 	let x = [];
@@ -83,7 +83,7 @@ for (const [id, obj] of info) {
 			plagiarized: obj.sources,
 			misinformation: obj.misinfo,
 			yikes: obj.yikes,
-		}}, { flowLevel: 3, quotingType: '"' }));
+		}}, { flowLevel: 3, forceQuotes:true, quotingType: '"' }));
 	}
 	if (obj.vol) {
 		if (x.length === 0) x.push(`${id}:`);
