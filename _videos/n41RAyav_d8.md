@@ -21,7 +21,10 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    Disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
+    disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
+    kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", url: https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/}
+    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php")}
+    
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -216,31 +219,104 @@ But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today.
 \[Quotes shown on screen. Nick is reading them out with a grainy audio filter.]
 >"They just wanted to be done with *The Owl House* and this was the perfect chance to do that. Even getting the consolation season 3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be part of any conversation until I was just... told."
 
->"At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guides decided *The Owl House* just didn't fit that brand. The story is serialized (BARELY compared to any average anime lmao), our audience skews older and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is.
+>"At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guides decided *The Owl House* just didn't fit that brand. The story is serialized (BARELY compared to any average anime lmao), our audience skews older and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is."
 
->"While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA.
+>"While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA."
 
 Don't worry Dana, I'll assume the bad faith for you. 
 
-So it was one guy's tastes, one guy. One guy, who could be that one guy, who could that one guy be? Though not officially confirmed, I'm willing to bet it's this guy, Bob Chapek, the current CEO of the Walt Disney Company. Who earlier this year made a name for himself by not speaking out about Florida's "Don't Say Gay" bill until it
-was too late to do anything about it, and was infamously forcing Disney and Pixar filmmakers to cut queer content from their films. 
+So it was one guy's tastes, one guy. One guy, who could be that one guy, who could that one guy be? Though not officially confirmed, I'm willing to bet it's this guy, Bob Chapek, the current CEO of the Walt Disney Company. Who earlier this year made a name for himself by not speaking out about Florida's "Don't Say Gay" bill until it was too late to do anything about it, and was infamously forcing Disney and Pixar filmmakers to cut queer content from their films. 
 
-Chapek made his name in the company by running the Disney parks. Many feel he ran them into the ground.Disenchantment with the parks from diehard Disney lovers has been at an all-time high ever since he got control of the parks, let alone the company. Massive price increases in everything from food to ticket prices to accommodations have made a Disney vacation more difficult to afford than ever, to the point where a suite at the Disneyland Hotel costs more than staying at the Palace of Versailles in France. At the same time, the company has eliminated perks like the formerly free Magical Express transportation to and from Walt Disney World from the Orlando airport. Genie Plus has made standby lines regularly exceed an hour for rides that used to average 15 minutes. 
+</james>
+<from></from>
+</compare>
 
-Even Bob Iger, the former Disney CEO and the man who hand-picked Chapek, has had regrets. Several Disney sources and people who are familiar with Iger's thinking have indicated that Iger has spent the time since announcing Chapek as his successor regretting what he has called, "one of his worst business decisions." According to a former Disney executive, Iger has said that he didn't realize Chapek was such a novice when it came to handling complex issues like talent management and political battles, and that Chapek was arrogant and uninterested in other people's opinions. He's also not fond of the fact that Chapek is a crypto enthusiast who wants NFTs to become particularly important parts of Disney going forward. He's even started consulting with Warner Brothers on how to rebuild the DC EU. *That's* how much he wants Chapek to fail.
+<compare>
+<james {% include timecode %}>
+Chapek made his name in the company by running the Disney parks. Many feel he ran them into the ground. <mark>Disenchantment with the parks from diehard Disney lovers has been at an all-time high</mark> ever since he got control of the parks, let alone the company. <mark>Massive price increases in everything from food to ticket prices to accommodations have made a Disney vacation more difficult to afford than ever, to the point where a suite at the Disneyland Hotel costs more than staying at the Palace of Versailles in France. At the same time, the company has eliminated perks like the formerly free Magical Express transportation to and from Walt Disney World from the Orlando airport. Genie Plus has made stand-by lines regularly exceed an hour for rides that used to average 15 minutes.</mark> 
+</james>
+<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.11" %>
 
-Chapek has also come under harsh criticism for treatment of cast members (that's what Disney calls park employees). Many full-time park employees struggle to provide food and basic necessities for their families.Earlier this year, Abigail Disney, grandniece of Walt Disney and granddaughter of company co-founder Roy Disney, released a documentary about the Walt Disney Company's obligation to do better for its employees. Which you'd think would have got on Chapek's nerves, but, at least in public, he seemed unfazed. 
+While this is the first time employees have publicly criticized Chapek on this scale, dissatisfaction is already common among fans. Even before this scandal, <mark>disenchantment with the company from die-hard Disney lovers has been at what seems like an all-time high.</mark> <mark>Massive price increases in everything from food to ticket prices to accommodations have made a Disney vacation more difficult to afford than ever, to the point where a suite at the Disneyland Hotel costs more than staying at the Palace of Versailles in France. At the same time, the company has eliminated perks like the formerly free Magical Express transportation to and from Walt Disney World from the Orlando airport. Genie Plus has made stand-by lines regularly exceed an hour for rides that used to average a 15 minute wait.</mark> 
 
-Profit has been his main defense. He took over as CEO of the company on February 25th, 2020, as the pandemic was just starting to be taken seriously as a significant global concern. Less than a month later, he took the unprecedented step of closing all Disney theme parks around the world. In Florida, the shutdown lasted from March to July of 2020. In California,it lasted for 13 month. In the first fiscal quarter of 2022, Chapek reported 7.2 billion dollars in revenue from Disney parks, experiences and products, boasting all-time high revenues. Rick Munarriz, a financial analyst, said that while posting that kind of profit is helpful, it's not the largest indicator of how well the company is doing overall, since Disney was the worst performing stock of the DOW 30 in 2021. Mostly due to the fact that Disney Plus, under Chapek's guidance, isn't set to turn a profit until at least 2024 at best, which means he needs to squeeze every penny out of every other part of the company that he can in the meantime, so that he doesn't look even worse to stockholders. 
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
 
-But the cuts and what some fans perceive as unabashedly putting profits over people has led to discontentment among fans, reaching such a fever pitch that it's extending far beyond the echo chamber of Disney blogs. 
+Even Bob Iger, the former Disney CEO and the man who hand-picked Chapek, has had regrets. <mark>Several Disney sources and people who are "familiar with Iger's thinking" have indicated that Iger has spent the time since announcing Chapek as his successor regretting what he has called, "one of his worst business decisions."</mark> <mark>According to a former Disney executive, Iger has said that he didn't realize Chapek was "such a 'novice'" when it came to handling complex issues like talent management and political battles, and that Chapek was arrogant and uninterested in other people's opinions.</mark> He's also not fond of the fact that Chapek is a crypto enthusiast who wants NFTs to become particularly important parts of Disney going forward. He's even started consulting with Warner Brothers on how to rebuild the DC EU. *That's* how much he wants Chapek to fail.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.kelly_oliveros at="p.4,18" %}>
+
+<mark>Several Disney sources and people who are “familiar with Iger’s thinking” have indicated that Iger also spent that time period “regretting what he has called one of his worst business decisions: the selection of Bob Chapek as his successor.”</mark>
+
+<mark>According to a former Disney executive, Iger has said that he didn’t realize Chapek was “such a ‘novice’ when it came to handling complex issues like talent management and political battles, and that Chapek was arrogant and uninterested in other people’s opinions.”</mark>
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+<mark>Chapek has also come under harsh criticism for treatment of cast members (that's what Disney calls park employees). Many full-time park employees struggle to provide food and basic necessities for their families. Earlier this year, Abigail Disney, grandniece of Walt Disney and granddaughter of company co-founder Roy Disney, released a documentary about the Walt Disney Company's obligation to do better for its employees.</mark> Which you'd think would have got on Chapek's nerves, but, at least in public, he seemed unfazed. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.12" %>
+<mark>Chapek,</mark> and to a lesser degree his predecessor Bob Iger, who is seen as more of a “nice guy” who prioritizes fan experience over money, <mark>have come under harsh criticism for treatment of cast members, what Disney calls its park employees. Many full-time park employees struggle to provide food and basic necessities for their families. Earlier this year, Abigail Disney, grand-niece of Walt Disney and granddaughter of company co-founder Roy Disney, released a documentary about the Walt Disney Company’s obligation to do better for its employees.</mark>
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+<mark>Profit has been his main defense. He took over as CEO of the company on February 25th, 2020, as the pandemic was just starting to be taken seriously as a significant global concern. Less than a month later, he took the unprecedented step of closing all Disney theme parks around the world. In Florida, the shutdown lasted from March to July of 2020. In California, it lasted for 13 months.</mark> <mark>In the first fiscal quarter of 2022, Chapek reported 7.2 billion dollars in revenue from Disney parks, experiences and products, boasting all-time high revenues.</mark> <mark>Rick Munarriz, a financial analyst, said that while posting that kind of profit is helpful, it's not the largest indicator of how well the company is doing overall, since Disney was the worst performing stock of the Dow 30 in 2021.</mark> <mark>Mostly due to the fact that Disney Plus, under Chapek's guidance, isn't set to turn a profit until at least 2024 at best, which means he needs to squeeze every penny out of every other part of the company that he can in the meantime, so that he doesn't look even worse to stockholders.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.14,17,18,21" %}>
+
+<mark>Profit, though, has been Chapek’s main defense. He took over as CEO of the company on Feb. 25, 2020, as the pandemic was just starting to be taken seriously as a significant global concern. Less than a month later, he took the unprecedented step of closing all Disney theme parks around the world. In Florida, the shutdown lasted from March to July of 2020. In California, it lasted 13 months.</mark>
+
+[...]
+
+<mark>On the first quarterly fiscal 2022 earnings call, on Feb. 9, Chapek reported $7.2 billion in revenue from Disney parks, experiences and products, saying the division “achieved all-time revenue and operating income records” in the previous three months.</mark>  
+
+<mark>Munarriz said that while posting that kind of profit is helpful to Disney stock, it’s not the largest indicator of how well the company is doing overall, especially in its stock valuation. In fact, he noted, Disney was the worst-performing stock of the Dow 30 in 2021,</mark> which he attributed to last year’s slower-than-expected subscriber growth in Disney Plus.
+
+[...]
+
+<mark>“Disney has said that Disney Plus is not going to turn a profit until fiscal year 2024,” Munarriz said. “That's a long [time] to wait for something to be profitable. And the rest of the divisions have to make up for that slack.”</mark> 
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+<mark>But the cuts and what some fans perceive as unabashedly putting profits over people has led to discontentment among fans, reaching such a fever pitch that it's extending far beyond the echo chamber of Disney blogs.</mark> 
 
 \[Quote shown on screen as James reads it.] 
->"When you spend the most amount of money you've ever spent and you go and you have a substandard experience worse than before - and this is multiplied by the fact that it's so crowded - these are all things that kind of entice this... extreme dissatisfaction,"
+><mark>"When you spend the most amount of money you've ever spent and you go and you have a substandard experience worse than before - and this is multiplied by the fact that it's so crowded - these are all things that kind of entice this... extreme dissatisfaction,"
 
-Theme park expert Scott Smith told the Washington Post earlier this year. Isn't it wild that theme park expert is a job?
+<mark>Theme park expert Scott Smith told the Washington Post earlier this year.</mark> Isn't it wild that theme park expert is a job?
 
-Chapek, though, is in a unique position as far as CEOs of multi-billion dollar corporations go. Disney is first and foremost in the business of making money, but unlike almost every other giant corporation, it doesn't want to be seen that way by the general public. People feel as though they have a personal investment in Disney because Disney markets itself as having a personal investment in the happiness of its fans. By creating the idea that Disney is a safe place for people, a place where they will feel loved and supported the same way that they do or want to in their own homes, they create a higher standard of relationship between the company and its customers. That's why Disney doesn't use that term at all. Rather, customers are *guests*, always. But it's also why, because Chapek has been so transparent in his monetary motivations and so apparently blind to guests' unhappiness, so many of the people who have bought into this idea feel like he's letting them down. And because fans of the company are losing faith, so are many who work for the House of Mouse.
+<mark>Chapek, though, is in a unique position as far as CEOs of multi-billion dollar corporations go. Disney is first and foremost in the business of making money, but unlike almost every other giant corporation, it doesn't want to be seen that way by the general public. People feel as though they have a personal investment in Disney because Disney markets itself as having a personal investment in the happiness of its fans.</mark> <mark>By creating the idea that Disney is a safe place for people, a place where they will feel loved and supported the same way that they do (or want to) in their own homes, they create a higher standard of relationship between the company and its customers. That's why Disney doesn't use that term at all. Rather, customers are "guests" always. But it's also why, because Chapek has been so transparent in his monetary motivations and so apparently blind to guests' unhappiness, so many of the people who have bought into this idea feel like he's letting them down.</mark> And because fans of the company are losing faith, so are many who work for the House of Mouse.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.julie_tremaine at="p.22,23,24,26" %}>
+
+In a way, perk cuts and added costs in the parks are making up for the investment in Disney Plus. <mark>But the cuts, and what some fans perceive as unabashedly putting profits over people, has led to discontentment among fans reaching such a fever pitch that it’s extending far beyond the echo chamber of Disney blogs.</mark>
+
+<mark>“When you spend the most amount of money you’ve ever spent and you go and have a substandard experience worse than before — and this is multiplied by the fact that it’s so crowded — these are all things that kind of entice this … extreme dissatisfaction,” theme park expert Scott Smith told the Washington Post.</mark>
+
+<mark>Chapek, though, is in a unique position as far as CEOs of multibillion dollar corporations go. Disney is, first and foremost, in the business of making money. But it doesn’t want to be seen that way. People feel as though they have a personal investment in Disney because Disney markets itself as having a personal investment in the happiness of every customer.</mark>
+
+[...]
+
+<mark>By creating the idea that Disney is a safe place for people, a place where they will feel loved and supported the same way they do (or want to) in their own homes, they create a higher standard of relationship between the company and its customers. That’s why Disney doesn’t use that term at all. Rather, customers are “guests” always. But it’s also why, because Chapek has been so transparent in his monetary motivations and so apparently blind to guests’ unhappiness, so many of the people who have bought into this idea feel like he is letting them down. </mark>
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
 
 It's an odd situation for the company to be in. Over the last three decades, Disney has only had two CEOs, one of whom oversaw the Disney Animation Renaissance, and the other oversaw Disney becoming the biggest media company in the world. Enough goodwill among fans was built up over those last three decades that many people defaulted to, "let Disney have it, they'll do it right," any time a particular franchise was floundering. And now people are looking at Disney with derision. 
 
@@ -262,14 +338,38 @@ The further queering of the show in Season Two probably didn't sit well with a C
 <compare>
 <james {% include timecode %}>
 
-Time for me to use that marketing degree. Simply put, a brand is a promise to your customer. When describing a brand, it's tempting to simply list the attributes of a business, describe the product line or point to the logo and tagline, but a brand is more than that. It's a unique benefit for your customers. The Walt Disney Company presents itself as more than just a business. It is an authentic American icon. An honest-to-goodness rags-to-riches story of one man who struck out and made it big - and did everything he could to crush unions along the way. But the Walt Disney Company's promise has always been to be bringers of joy. As Walt said,
+Time for me to use that marketing degree. <mark>Simply put, a brand is a promise to your customer. When describing a brand, it's tempting to simply list the attributes of a business, describe the product line or point to the logo and tagline. But a brand is more than that. It's a unique benefit for your customers. The Walt Disney Company presents itself is more than just a business. It is an authentic American icon.</mark> An honest-to-goodness rags-to-riches story of one man who struck out and made it big - and did everything he could to crush unions along the way. <mark>But the Walt Disney Company's promise has always been to be bringers of joy. As Walt said,</mark>
 
 \[Quote shown on screen as James reads it.] 
-> "We need to create joy not for children... But for the children in each of us."
+> <mark>"We need to create joy not for children... But for the children in each of us."</mark>
 
-The brand identity of any brand consists of the way the company identifies itself through the products or services sold and the image it presents. In the case of Disney, the company is named after Walt Disney's proper name. He even inspired the logo of the company through his handwritten signature, which is part of the brand identity of Disney to this day. There are entire font families based on Walt's handwriting. This direct connection to its founder is also a part of the Disney brand, as the Walt Disney company is one of the very few corporations in the world with a founder mythology. 
+</james>
+<from {% include citation for=page.cite.plagiarized.disney_brand_paper at="p.6" %}>
 
-Now, Disney is unique for a lot of reasons, but this one is kind of bonkers. Disney has fostered a clear sense of identity built just as much around Walt Disney himself, as it is the media it produces. Other corporations and even studios tend to lean away from using their own founders as a mascot for various reasons. A person is singular, and a person can be fallible, but more importantly, a person is boring. "Who stands for this company? Just a dude? Okay..." People pack bond easier with a mascot, like Tony the Tiger. Walt Disney perpetuated a sense of personality to the company. It's easy to strip the fursuit mascot away and realize that it's just a sad old capitalist man working for Kellogg's, but with Disney you push the cardboard cutout of Mickey Mouse down, and there's kindly Mr. Disney! It's an extra layer of deception that Walt fostered in his own lifetime. 
+<mark>Simply put, a brand is a promise to your customer. When describing a brand, it’s tempting to simply list the attributes for your business, describe your product line or point to your logo and tagline. But a brand is more than that – it is a unique benefit for your customers. The Walt Disney Company is more than just a business, is an authentic American icon.</mark> <mark>The Walt Disney Company’s promise has always been to be bringers of joy, as Walt as said “We need to create joy not for children but for the child in each of us”.</mark>
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+<mark>The brand identity of any brand consists of the way the company identifies itself through the products or services sold and the image it presents. <mark>In the case of Disney, the company is named after Walt Disney's proper name. He even inspired the logo of the company through his handwritten signature, which is part of the brand identity of Disney to this day.</mark> There are entire font families based on Walt's handwriting. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.disney_brand_paper at="p.4" %}>
+
+<mark>The brand identity of anybrand consists in the way the company identify itself through the product or service sold.</mark> More specifically, a brand is characterized by several elements such as a brand name, a logo, a symbol, a specific design or a combination of them in order to intend to identify goods or services that a company willing to differentiate from competitors.
+
+[...]
+
+<mark>In the case of Disney, the well-known company is for instance named after Walter Ellias Disney’s proper name:</mark> we call such a brand name a “Blanket Family Name”; memorability of the brand name is therefore assured. <mark>Furthermore, he inspired the logo of the company through his handwritten signature which is totally part of the brand identity of Disney ever since.</mark>
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+This direct connection to its founder is also a part of the Disney brand, as the Walt Disney company is one of the very few corporations in the world with a founder mythology. Now, Disney is unique for a lot of reasons, but this one is kind of bonkers. Disney has fostered a clear sense of identity built just as much around Walt Disney himself, as it is the media it produces. Other corporations and even studios tend to lean away from using their own founders as a mascot for various reasons. A person is singular, and a person can be fallible, but more importantly, a person is boring. "Who stands for this company? Just a dude? Okay..." People pack bond easier with a mascot, like Tony the Tiger. Walt Disney perpetuated a sense of personality to the company. It's easy to strip the fursuit mascot away and realize that it's just a sad old capitalist man working for Kellogg's, but with Disney you push the cardboard cutout of Mickey Mouse down, and there's kindly Mr. Disney! It's an extra layer of deception that Walt fostered in his own lifetime. 
 
 We don't think about the founders of corporations. Look at 20th Century Fox! Before the merger, Fox Studios was founded by William Fox. Both the "G" and "M" of MGM were named for Samuel Goldwyn and Louis B. Mayer. Disney not only wants Walt Disney to remain relevant in a modern discussion of media, but almost venerates this man in a way few corporations do of their founders. The only companies I can think of with a founder mythology are like, Apple? But Steve Jobs notoriously gave zero f words about how other people perceived him. Very early on, Walt Disney established the production company as a family brand. Family owned, family operated, family safe. A movie studio that would produce films the whole family could enjoy, from the youngest children to the oldest grandparents, enchanting young kids and bringing adults back to their childhoods. He's quoted as saying:
 
@@ -347,8 +447,7 @@ This is where the "just be yourself" messaging in the 90s came from in children'
 
 But then you realize that the Boiling Isles themselves are an escape from Luz's life, where she's being forced into one of these projected paths in the human realm. It's not a stretch to say that the principal allegory of the show is Luz abandoning contemporary society in lieu of a queer society, akin to a country kid moving to the big city for college, and then learning that this magical queer world isn't quite how YA literature makes it out to be. There isn't the social scape of a bunch of disparate scrappy folks working together to facilitate community values - there's fragmentation, tribalism, internalized queerphobia and thrice as many gatekeepers as there are distinguishable identities. Luz faces the same challenges: the second she gets to magic school, she's forced into a spell track that will determine what school of magic she will study for the rest of her life. Her friend Willow already demonstrated how difficult it can be to change this track. And by the end of Season One, we discover that the fate which awaits those who do not conform is imprisonment in the Conformatorium. And that's only for witches who passively avoid the system - for witches like Eda who directly challenge the establishment, they await public shame and execution. 
 
-Luz struggles with conformity. She wants the simple things by witch standards. However, she is immediately faced with
-criticism simply because humans lack the anatomy to perform typical magic. And even though Luz discovers how to study magic through discovering four combinable glyphs around the isles, she is constantly decried as a fake witch. It's a struggle for her to convince classmates and grown-ups to take her seriously. Many don't believe she has a place in the Boiling Isles, the place she escaped to in order to reject conformity. And suddenly Luz is in an escapist environment which has the very trappings of the conformist society from which she fled. Welcome to the queer community! [party noisemaker sound] 
+Luz struggles with conformity. She wants the simple things by witch standards. However, she is immediately faced with criticism simply because humans lack the anatomy to perform typical magic. And even though Luz discovers how to study magic through discovering four combinable glyphs around the isles, she is constantly decried as a fake witch. It's a struggle for her to convince classmates and grown-ups to take her seriously. Many don't believe she has a place in the Boiling Isles, the place she escaped to in order to reject conformity. And suddenly Luz is in an escapist environment which has the very trappings of the conformist society from which she fled. Welcome to the queer community! [party noisemaker sound] 
 {% assign timecode = "48:06" %}
 
 </james>
@@ -359,6 +458,7 @@ criticism simply because humans lack the anatomy to perform typical magic. And e
 
 <compare>
 <james {% include timecode %}>
+
 Where we don't have covens, we have flags. And it's remarkable that a community that recognizes genderfluid as an identity is so inflexible about their thinking about a range of identities. These are just labels that describe who you are at a given time, they're not your destiny. Having the same label all your life is okay, but there's also no rules against taking them off and putting them on at will. People change! But because we are entering hegemonistic spaces, we need to fit into the boxes that the hegemony likes to use to classify everything that is outside the norm. It's like the only way we can get accepted is if they get to ascribe neat clinical titles to us, like biologists discovering a new species. Our acceptance seems to be conditional on classification. And as with *The Owl House*, if we can be classified, then an authority can control us. 
 
 And unfortunately, a prime example of this latent process of conditioning, as it affects us, is present within *The Owl House*. Because while there are lesbian and bisexual women depicted, and even fluent use of they/them pronouns for an incidentally nonbinary character, the limited depiction of gay men uses probably my least favorite trope: the gay dads. I'm generally bothered by the gay dads trope. A secondary character, not the main character, but a character whose parents are significant enough that they could be featured in an episode or two, will have two dads for parents. In this case, Luz's best friend Willow. Which in itself is not a bad thing - some people have gay dads. Some people *are* gay dads! Gay dads have spent a lot of the last century fighting for the ability to raise children. But the problem becomes when that's all we have, as if that's the only way executives are comfortable depicting gay men at all. 
@@ -371,92 +471,55 @@ If this is you, then that's your truth to live, but there is a sense of badgerin
 
 But bear in mind, the gatekeeping agenda of the Boiling Isles was not enforced by natural magic users. Emperor Belos was a human disguising himself as a witch. His control and compartmentalization of magic was always conducted with the objective of eradicating witches. Is that also a parallel for the world's queer gatekeeping? We, like the witches of the Boiling Isles, fear public scrutiny and violence against us. There, the imaginary threat of wild magic is used to justify oppression and violence, even though wild magic never seems to cause any harm to anyone. Is that really any different from recent debates about kink at pride parades? Many within the community blame regressive anti-queer legislation and book bannings on sex-positive sentiments that we display. So we attack ourselves, because some of us don't want to give straight people a reason to harm us. Regardless of the fact that many of these talking points, i.e "I did not consent to your kink" were used verbatim against trans people in public in the 80s and earlier, and that historically speaking the hateful straights do not often need a reason to use violence against us. 
 
-Just like Belos as a human pretending to be a witch in order to hunt them, the sentiments of self-oppression and gatekeeping in the queer community are either derived from internalized phobias or reactions to violence, threats, and regressive laws. If we live in fear of the heterohegemony, then the hegemony can still control us. And instead, we develop these queer life tracks to rock the boat as little as possible in the misguided belief that it will give us more political clout to expand our rights. Because that's going swimmingly, apparently. [Text on screen: LGBTQ youth in middle or high school: 42% report seriously considering suicide.] 
+Just like Belos is a human pretending to be a witch in order to hunt them, the sentiments of self-oppression and gatekeeping in the queer community are either derived from internalized phobias or reactions to violence, threats, and regressive laws. If we live in fear of the heterohegemony, then the hegemony can still control us. And instead, we develop these queer life tracks to rock the boat as little as possible in the misguided belief that it will give us more political clout to expand our rights. Because that's going swimmingly, apparently. [Text on screen: LGBTQ youth in middle or high school: 42% report seriously considering suicide.] 
 
-What comes to mind is that observing the last century queer rites hit their greatest strides when
-community attitudes were more radical periods where we put on suits get offices
-and follow the appropriate channels are when we make compromises and various
-letters to the acronym get left behind when critics call us groomers for even
-existing shriveling up and molding ourselves to be what they want isn't going to
-advance our causes just like Democrats cowering at Republicans threatening to
-stage a filibuster is just shows us that Democrats can be coerced and it's hard
-to be taken seriously when history shows that you back down from a fight at the
-slightest sign of resistance [Music] thinking about it Disney could have used
-*The Owl House* to gain so much good will from the queer community just as Jay
-goes off the rails and becomes a flaming bigot here comes this new franchise
-filled with witches and wizards and queer acceptance and representation around
-every corner it could have been a replacement for all the people who felt let
-down by what she'd done and said Disney could have positioned it as the harry
-potter for all those abandoned by she who must not be named but they didn't
-instead they killed it they couldn't let it die because it was thriving with a
-growing fan base instead they killed it they took this beautiful queer story
-this house where us weirdos are accepted and embraced and they tore it down and
-we didn't say a thing about it the fans did sure but the queer community as a
-whole was just sort of silent we've been doing that a lot lately not just us
-queers but a lot of people when we need to be loudest we go quiet we weren't
-always this way you know I mean the queer community we used to rise up and
-demand our rights and protections look at the AIDS crisis in the 80s and 90s
-sure there were a painful amount of gays and nice cushy jobs telling everyone to
-just keep quiet and wait for the cdc and fda to do their job to do their
-research to spend a few years maybe a decade running tests and trials to find
-something that might help you not die of HIV and AIDS just shut up and wait but
-too many of us didn't have the luxury of waiting we were in crisis we needed to
-help now and so act up was formed act up protested outside the new york stock
-exchange the fda offices the cdc offices inside of churches outside of congress
-and even outside the homes of anti-gay politicians its members were arrested
-over and over again they were demonized by straight society lambasted by
-establishment gays the people with power looked at them like buzzing flies that
-needed to be zapped but in the end they did get more funding for AIDS research
-they did get new drugs into a speedier pipeline than the decade-long wait that
-fda trials could take it was their activism their fighting that helped turn HIV
-and AIDS from a death sentence to a condition you can not only live with but
-live a perfectly normal life with that reminds me of *The Owl House* to be honest
-there's a lot of passive resistance to Emperor Belos in *The Owl House* people
-inside and outside his sphere of power doing a little bit here and there to
-shake up his rule but nothing too major he's even convinced multiple witches to
-join his side promising them influence and power once his plans come to fruition
-just like so many queers bend the knee to establishment power in real life for a
-chance to get some power of their own but just like in real life Belos doesn't
-plan on ever giving them power once he's finished they'll be dead and he'll be
-all the more powerful for it they're nothing but pawns in his great chess match
-when people followed the right track they set out before them they were stabbed
-in the back just like the queer community gets stabbed in the back look at
-same-sex marriage we did everything the right way we took it through the courts
-and we won but less than a decade later and it looks like that same court with a
-few different members might just reverse that decision even though we did as we
-were told and followed the rules at the end of season two Eda and Lilith send King and Luz away on what they think will be a long wild goose chase of a quest
-so long that they will be spared from what will happen when Emperor Belos's
-plans reach their zenith and what will Eda and Lilith do in the meantime give up
-what more can they do and i'm worried that a lot of people of my generation and
-those older than me are in the same mindset right now an activist conservative
-Supreme Court is systemically removing rights from people all over the country
-but other than some angry tweets and a couple of peaceful protests i'm not
-seeing a whole lot of pushback are we exhausted have we been fighting the good
-fight for too long have we given up are we surrendering the battle while
-shielding the next generation from it so they can fight it later maybe it's a
-rude awakening but the next generation isn't being shielded or protected and
-they know they're a part of the battle every person with a uterus seeing the
-Supreme Court deleting their bodily autonomy every trans kid being kicked off
-their sports team or out of the bathroom every gay kid being outed by homophobic
-teachers and queer kids in general watching as their states again and again take
-away their rights they know the battle is happening and just like Luz and Amity
-and Gus and Willow and Hunter they're not backing down from the fight they're
-fighting back against the destruction of their special magical world passive
-resistance doesn't work it's never worked it's always been a band-aid we slap
-onto a gaping wound to say we did our part we say it's necessary so that the
-systems will accept us into the club that we can't kick up too much of a stink
-or else they'll get mad at us and not give us what we need why do we expect to
-be given anything we should be taking what we need not just queer people but
-women and people of color and disabled people and everyone being crushed by the
-weight of the overpowered minority of rich white cisgender men that dictates
-what rights we're allowed to have we bend to their whims and do as they say but
-becoming what they want us to be doesn't advance our cause it just advances
-theirs so I think like king at the end of season two of *The Owl House* maybe we
-need to introduce a little bit of chaos into the system show them that their
-control over us is an illusion they've tricked themselves into believing we've
-been beaten down pretty hard before by politicians and plagues but we still
-fought back we still rose up and we still won and so how pathetic are the cishet
-power players of the world that they couldn't beat us at our worst so go forth
-witches toppled the Emperor Belos of the world and conformity I know we can do
-it we're kind of magical like that [Music] [Applause] [Applause] so [Music] so
-[Music] [Applause] [Music] [Music] [Music] [Music] you
+What comes to mind is that observing the last century, queer rights hit their greatest strides when community attitudes were more radical. Periods where we put on suits, get offices and follow the appropriate channels are when we make compromises and various letters to the acronym get left behind. When critics call us groomers for even existing, shriveling up and molding ourselves to be what they want isn't going to advance our causes. Just like Democrats cowering at Republicans threatening to stage a filibuster is-- just shows us that Democrats can be coerced. And it's hard to be taken seriously when history shows that you back down from a fight at the slightest sign of resistance.
+{% assign timecode = "55:10" %}
+
+</james>
+<from></from>
+</compare>
+
+## Chapter Eight: The Last Judgement
+
+<compare>
+<james {% include timecode %}>
+
+Thinking about it, Disney could have used *The Owl House* to gain so much good will from the queer community. Just as J [bleep] goes off the rails and becomes a flaming bigot, here comes this new franchise filled with witches and wizards and queer acceptance and representation around every corner. It could have been a replacement for all the people who felt let down by what she'd done and said. Disney could have positioned it as the *Harry Potter* for all those abandoned by she-who-must-not-be-named. But they didn't. Instead they killed it. They couldn't let it die because it was thriving with a growing fanbsae, instead they killed it. They took this beautiful queer story, this house where us weirdos are accepted and embraced, and they tore it down. 
+
+And we didn't say a thing about it. The fans did, sure, but the queer community as a whole was just sort of... silent. We've been doing that a lot lately. Not just us queers, but a lot of people. When we need to be loudest, we go quiet. 
+
+We weren't always this way, you know. I mean the queer community, we used to rise up and demand our rights and protections. Look at the AIDS crisis in the 80s and 90s. Sure, there were a painful amount of gays in nice cushy jobs telling everyone to just keep quiet and wait for the CDC and FDA to do their job, to do their research, to spend a few years, maybe a decade, running tests and trials to find something that *might* help you *not* die of HIV and AIDS. "Just shut up and wait!" But too many of us didn't have the luxury of waiting. We were in crisis. We needed help now.
+
+And so ACT UP was formed. ACT UP protested outside the New York Stock Exchange, the FDA offices, the CDC offices, inside of churches, outside of Congress, and even outside the homes of anti-gay politicians. Its members were arrested over and over again. They were demonized by straight society, lambasted by establishment gays, the people with power looked at them like buzzing flies that needed to be zapped. 
+
+But in the end, they did get more funding for AIDS research. They did get new drugs into a speedier pipeline than the decade-long wait that FDA trials could take. It was their activism, their fighting, that helped turn HIV and AIDS from a death sentence to a condition you can not only live with but live a perfectly normal life with. 
+
+That reminds me of *The Owl House*, to be honest. There's a lot of passive resistance to Emperor Belos in *The Owl House*. People inside and outside his sphere of power doing a little bit here and there to shake up his rule, but nothing too major. He's even convinced multiple witches to join his side, promising them influence and power once his plans come to fruition, just like so many queers bend the knee to establishment power in real life, for a chance to get some power of their own. But just like in real life, Belos doesn't plan on ever giving them power. Once he's finished, they'll be dead and he'll be all the more powerful for it. They're nothing but pawns in his great chess match.
+
+When people followed the right track they set out before them, they were stabbed in the back. Just like the queer community gets stabbed in the back. Look at same-sex marriage. We did everything the right way. We took it through the courts and we won. But less than a decade later and it looks like that same court with a few different members might just reverse that decision. Even though we did as we were told and followed the rules. 
+
+At the end of Season Two, Eda and Lilith send King and Luz away on what they think will be a long wild goose chase of a quest, so long that they will be spared from what will happen when Emperor Belos's plans reach their zenith. And what will Eda and Lilith do in the meantime? Give up. What more can they do? 
+
+And I'm worried that a lot of people of my generation and those older than me are in the same mindset right now. An activist conservative Supreme Court is systemically removing rights from people all over the country, but other than some angry tweets and a couple of peaceful protests, I'm not seeing a whole lot of pushback. Are we exhausted? Have we been fighting the good fight for too long? Have we given up? Are we surrendering the battle while shielding the next generation from it so they can fight it later? 
+
+Maybe it's a rude awakening, but the next generation isn't being shielded or protected, and they know they're a part of the battle. Every person with a uterus seeing the Supreme Court deleting their bodily autonomy, every trans kid being kicked off their sports team or out of the bathroom, every gay kid being outed by homophobic teachers, and queer kids in general watching as their states again and again take away their rights. They know the battle is happening. And just like Luz and Amity and Gus and Willow and Hunter, they're not backing down from the fight. They're fighting back against the destruction of their special magical world. 
+
+Passive resistance doesn't work. It's never worked. It's always been a Band-Aid we slap onto a gaping wound to say we did our part. We say it's necessary so that the cishets will accept us into the club, that we can't kick up too much of a stink or else they'll get mad at us and not give us what we need. Why do we expect to be *given* anything? We should be *taking* what we need, not just queer people, but women and people of color and disabled people and everyone being crushed by the weight of the overpowered minority of rich white cisgender men that dictates what rights we're allowed to have. We bend to their whims and do as they say, but becoming what they want us to be doesn't advance our cause, it just advances theirs. 
+
+So I think, like King at the end of Season Two of *The Owl House*, maybe we need to introduce a little bit of chaos into the system. Show them that their control over us is an illusion they've tricked themselves into believing. We've been beaten down pretty hard before by politicians and plagues, but we still fought back. We still rose up and we still won. And so how pathetic are the cishet power players of the world that they couldn't beat us at our worst? 
+
+So go forth witches, topple the Emperor Beloses of the world and conformity. I know we can do it. We're kind of magical like that.
+{% assign timecode = "1:02:01" %}
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<credits class="closing" {% include timecode %}>
+
+Patreon names roll over orchestal music.
+
+</credits>
+</compare>
