@@ -126,10 +126,7 @@
 				
 				{% if plaglist.size > 0 -%}
 					<ul class="refs plagiarized" header="{{ plagrep }}">
-						{% for item in plaglist %}
-							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
-							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
-						{% endfor %}
+						{% include plag-cite-chain list=plaglist %}
 					</ul>
 					{% assign hr_due = true %}
 				{% endif %}

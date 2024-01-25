@@ -406,6 +406,9 @@
 	.refs.other::before {
 		border-bottom-color: gray;
 	}
+	.refs .chain-prefix {
+		color: gray;
+	}
 	:target {
 		background-color: rgb(255 255 0 / 15%);
 	}
