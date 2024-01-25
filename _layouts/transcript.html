@@ -159,7 +159,14 @@
 					{% assign hr_due = true %}
 				{%- endif -%}
 				
-				
+				{% if page.cite.other.size > 0 -%}
+					<ul class="refs other" header="Additional notes:">
+						{% for item in page.cite.other %}
+							{% include misinfo-link item=item video=page %}
+						{% endfor %}
+					</ul>
+					{% assign hr_due = true %}
+				{% endif %}
 				
 				
 				

@@ -2,7 +2,7 @@
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
-status: In Progress
+status: Finished
 aka: !!seq
 topics: !!seq
 links: !!seq
@@ -14,12 +14,12 @@ notes:
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=cLWZV-SHmeY)"
-  formatting: 
+  formatting: $cite$tustin2121
   citation: 
 
 cite:
   clips: !!map
-    celluoid_closet: { short: "The Celluoid Closet", full: "TODO The Celluoid Closet" }
+    celluloid_closet: { short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office." }
     cabaret: { short: "Cabaret", full: "TODO Cabaret" }
     rebel_without_cause: { short: "Rebel Without A Cause", full: "TODO Rebel Without A Cause" }
     merlin: { short: "Merlin", full: "TODO Merlin" }
@@ -42,7 +42,8 @@ cite:
       _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
       richard_dyer: "Richard Dyer"
   plagiarized: !!map
-    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: ""}
+    celluloid_closet: { color: 10, short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", url: "https://www.youtube.com/watch?v=YndHaKuD6MI" }
+    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
     aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
@@ -158,7 +159,7 @@ This type of representation of gay men was not appreciated.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Quentin Crisp: "We're always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs."
 
@@ -169,7 +170,7 @@ This wasn't the only representation though. <wbr on />The 1927 film *Wings* feat
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <wbr on />\[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]<wbr off />
 
@@ -260,7 +261,7 @@ The Federation of Women's Club was one of the loudest voices of the era calling 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <wbr on />Woman: "We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open."<wbr off />
 
@@ -271,7 +272,7 @@ In 1930, the code was agreed upon by the studios and put into effect, essentiall
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <wbr on />Man: "The Code sets up high standards of performance for motion picture producers. it states the considerations which good taste and community value make necessary in this universal form of entertainment."<wbr off />
 
@@ -287,7 +288,7 @@ Joe Breen ran the code office for two decades. His position authorized him to ch
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Joe Breen(?): "Cockeyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff!"
 
@@ -319,7 +320,7 @@ representation of queer women was more subtle in 1950s *Young Man With A Horn*, 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Amy: "It was interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."
 
@@ -414,7 +415,7 @@ And now for an abrupt segue!
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Gore Vidal (being interviewed): "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
 
@@ -457,7 +458,7 @@ Ben-Hur wasn't the only surprising movie you'd find queer coding in as the produ
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
 \[Black and white cowboy movie]
 
@@ -468,7 +469,7 @@ Cowboy A: "Can I see it?"
 B: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice. You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
 \[Technicolor western movie]
 
@@ -477,7 +478,7 @@ Cowgirl A: (staring at girl in ballerina dress up and down in awe) "Gosh almight
 Ballerina: (freaks out) "Please!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
 Cowgirl B: (in awe, staring up at C) "I'm going to kill you."
 
@@ -493,7 +494,7 @@ Characters Meeting The Obvious Gay Stereotypes Even Started Popping Up In Mainst
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
 Man: "Yeah?"
 
@@ -517,7 +518,7 @@ And straight characters started acting gay in order to get a woman in bed. Funni
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
 
@@ -533,7 +534,7 @@ Rock Hudson: "Tell me about your job. Must be... very exciting working with all 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 A: "Men!"
 
@@ -550,7 +551,7 @@ A Famous Instance Of Gay Coding Being Too Obvious, Even For The Production Code 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}><!-- no filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- no filter? -->
 
 Crassius: "Do you eat oysters?"
 
@@ -578,7 +579,7 @@ An adaptation of the Tennessee Williams play, *Cat on a Hot Tin Roof*, also had 
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 Brick "What are you suggesting?"
 
 Big Daddy: "Nothing, but..."
@@ -642,7 +643,7 @@ But though the film's depiction of homosexuality and reactions to it are flawed,
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 \[Clip from *Walk on the Wild Side*]:
 
@@ -700,7 +701,7 @@ And that self-loathing, inevitably, turned to death, suicide, murder, whatever i
 </compare> 
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 \[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]<wbr off />
 {% assign timecode = "29:07" %}
@@ -737,7 +738,7 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluoid_closet %}>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 \[Montage of various movies to ["I'm Coming Out" by Diana Ross](https://www.youtube.com/watch?v=F-mjl63e0ms) (severely pitch-shifted and sped up to avoid copyright).]
 {% assign timecode = "31:08" %}

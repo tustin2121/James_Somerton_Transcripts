@@ -403,6 +403,9 @@
 	.refs.yikes::before {
 		border-bottom-color: var(--video-box-yikes-bg);
 	}
+	.refs.other::before {
+		border-bottom-color: gray;
+	}
 	:target {
 		background-color: rgb(255 255 0 / 15%);
 	}
