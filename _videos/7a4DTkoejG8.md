@@ -16,17 +16,23 @@ notes:
 contributors:
   downloaded: $cite$TerraJRiley
   formatting:
-    - "[tobi-cat](https://github.com/tobi-cat)"
-    - $cite$Tustin2121
+    - $cite$tobicat
+    - $cite$tustin2121
+  factcheck:
+    - "[The Ace Couple](https://www.youtube.com/watch?v=kGIZIuTXWvg&t=25m06s) via [their podcast #116](https://theacecouple.com/episode116/) on Dec 13, 2023 entitled \"We were personally victimized by James Somerton\""
 
 cite:
   clips: !!map
   yikes: !!map
+    no-persecution: "Nick claims that asexual people aren't persecuted the same way gay people are."
+    conversion-therapy: "Nick claims that asexual people don't get targeted with conversion therapy."
+    moderation: "James claimed that he would moderate the video's comments, but outright gave hostility against ace people a pass in his comments section."
   misinformation: !!map
-    conversion_therapy: "Nick claims that asexual people don't get targeted with conversion therapy."
+    uk-study: "Nick's claim about conversion therapy has been disproven."
   plagiarized: !!map
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign ace_couple = site.data.cite.ace_couple.ep116 %}
 
 <compare>
 <credits class="desc">
@@ -36,6 +42,16 @@ Something new to the channel! Maybe something we'll keep doing? Let us know what
 [patreon link]
 
 </credits>
+<comment id="moderation">
+{% include header video=ace_couple at="1h23m33s" %}
+
+> **Courtney:** But he *did* add a pinned post under that video that said something along the lines of, “Just remember, this is *one Ace’s experience*. We’re not talking for all of the Aces that exist out there.” But he said, “My comments section is gonna be a safe place for Aces to share their experience. I will be moderating.” [...] He added that after this, you know, this livestream, this blowing up on Twitter about all this...
+>
+> **Courtney:** And so, *just for funsies*, I went through every single comment on that video, of which there were ***thousands***. And, uh, either he wasn’t moderating at all and he just lied, or <span stat:id="y-acephobia">he’s really okay with acephobia</span> and his moderating leaves a lot to be desired. Because I saw tons of personal attacks. I saw several Aces *sharing* their honest to God personal experiences about facing conversion therapy, as a direct result of what they said in that video, and there were people in the comments being like, “Okay, but Aces literally don’t have it as bad as gays. Stop pretending like you have it as bad as we gays have it,” to people saying, like, “Yeah, I got sent to a conversion therapy camp,” or, like, “Yeah, my doctor tried to cure my Asexuality.” Those did not get moderated. I saw vile things being said to Aces in the comments that did not get removed. 
+>
+> **Courtney:** I saw slurs. [...] So they take the F-slur, replace the first three letters with A-C-E. So there are people who will, like, call us “acegot,” which we’ve made fun of on this podcast before, actually. [...] It doesn’t exactly roll off the tongue. It’s clunky. [...]  I saw that several times in that comments section. And that I could have given a pass on. Like, maybe you don’t know enough about the Asexual community in order to appropriately moderate that, because it’s a bit obscure [...] But the outright attacks talking about, “Don’t pretend like you have it as bad as us gays” — it’s like, was that not what this video was supposed to be about, was telling gays not to do that anymore? Literally.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -63,8 +79,24 @@ And Gays Behaving Badly is basically a podcast with cameras. We will be discussi
 Uh this first episode we're going to be talking about the... kind of queer Erasure of all of asexual and asexuality and aromanticism from the LGBTQ+-ness.
 
 </james>
-</compare>
-<compare>
+<comment span=4>
+{% include header video=ace_couple at="26m42s" %}
+
+> **Courtney:** But immediately off the bat watching this episode, we were like, “Oh no. We gave this guy money to do Ace rep. What have we done?” It was bad, y’all.
+
+The Ace Couple explain in their podcast that they had given Telos Pictures CAD$ 1500+ in hopes that they could help/encourage the studio when it came to ace representation in their media.
+
+> **Courtney:** Right off the bat it was bad. I’m not going to say every single thing in that episode was bad, because later on, there was more of Nick talking about their own experiences and their perspective on things. And that was fine, and that was great, and I think those sections was what more people in the Ace community really resonated with as they were tuning in. 
+>
+> **Courtney:** But before getting to the point of sharing personal experiences, there were a lot of blanket statements that were absolutely factually wrong. And not only factually wrong, but very much erasing the real Ace experience, which was — the subject of this podcast was “We can’t keep doing this to Aces! We shouldn’t be erasing them.” 
+>
+> **Courtney:** And yet, the impression I got: James is clearly allosexual. He does not understand the Ace experience. Nick does identify as Ace and has his own personal experience. That’s fine and well and good. But I very much got the impression watching this that Nick perhaps first identified as gay before later learning about the components of Asexuality that are applicable to them. 
+> 
+> **Courtney:** And that’s fine, that happens. That *absolutely* happens a lot in the Ace community. There’s nothing wrong with that. But there seemed to be a lot of blind spots in the broader Ace experience and issues actually faced en masse by the community. Nick seemed a lot more educated on gay issues than Ace issues. So despite being Ace, I’m pretty sure Nick has not spent a lot of quality time in and around the Ace community.
+
+They proceed to talk about how they made a Twitter thread, gently correcting the information in this video.
+
+</comment>
 <nick>
 
 Yeah, the ace spectrum. Um... that's kind of one of the um...
@@ -72,15 +104,11 @@ Yeah, the ace spectrum. Um... that's kind of one of the um...
 It's in a lot of ways considered one of the ugly stepchildren of the queer community and um... When I was working in queer circles I... there was that kind of discussion...
 
 </nick>
-</compare>
-<compare>
 <james {% include timecode %}>
 
 You worked for a pride organization once.
 
 </james>
-</compare>
-<compare>
 <nick>
 
 There was that discussion, very innocently had, about like.... like, they wanted to make sure that only queer groups got like a... There was kind of a... a kiosk sort of station, where were different groups and organizations would set up kiosks that people could visit. And there was a-- and they wanted to make sure that only queer people could *have* these spots, because what would happen is people would just kind of get a spot. Even though they had nothing really to do with queerness.
@@ -131,20 +159,52 @@ We should just call this "Disclaimer: the Podcast".
 
 My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
 
-And while there might be no specific persecution for asexual people in the way that *gay* people have faced, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
+And <mark fc=false id="no-persecution" stat:id="y-acephobia">while there might be no specific persecution for asexual people in the way that *gay* people have faced</mark>, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
 
 Correct me if I'm wrong. But like... when you are asexual you do see a myriad of ways that, uh, there's basically a psychological warfare against you. *Every* piece of media is focused around a romance or sexual attraction. It's seen as a for-granted thing for almost every piece of media, almost everyone there's that sexual expectation...
 
 </nick>
-</compare>
-<compare>
+<comment span=4 id="uk-study">
+{% include header video=ace_couple at="30m40s" %}
+
+In this part of the podcast, they begin reading to the record [the twitter thread they wrote](https://twitter.com/The_Ace_Couple/status/1593065297061498880) ([nitter mirror](https://nitter.net/The_Ace_Couple/status/1593065297061498880)):
+
+> We were excited to see @je_somerton center Asexual issues. It's rare and we desperately need more allyship for & from all corners of the queer community, but [by] 4 minutes we were disappointed at the inaccuracy. Respectfully we want to add to the conversation.
+>
+> Statements like "<mark>While there might be no specific persecution for asexual people in the way that gay people have faced</mark>" and "<mark>While there isn't really any conversion therapy directed at asexuals</mark>" are factually incorrect and we'd like to set the record straight.
+>
+> UK studies have shown that 10% of asexuals have been offered or undergone conversion therapy as opposed to the 7% figure for the entirety of the queer community overall. Aces are only beaten in percentage by trans conversion therapy sitting at 13% [banconversiontherapy.com](https://www.banconversiontherapy.com/)
+>
+> The full report also shows asexuals reporting the lowest levels of life satisfaction and are least likely to be out. [[link to summary report](https://assets.publishing.service.gov.uk/media/5b3cb6b6ed915d39fd5f14df/GEO-LGBT-Survey-Report.pdf)]
+
+This is the report the website cites: The Government Equalities Office's [National LGBT Survey](https://www.gov.uk/government/publications/national-lgbt-survey-summary-report) from July 2018.
+
+Twitter thread continues:
+> Nearly every ace who has joined an asexual group on facebook has been inundated with ads for libido medication. We aren't always safe to come out to doctors. Thankfully the video mentioned asexuality still being considered a mental health disorder, this only scratches the surface.
+>
+> We understand that Nick who made this claim is Ace and on matters of opinion alone, we try not to correct our fellow aces, but we are still subject to many medical discriminations and outright stating that conversion therapy is not one of them is incompetent.
+>
+> As married Aces, we've also spoken at length about the legal issues pertaining to asexual marriages in the US. Asexual persecutions happen, they just don't make news headlines and are rarely reported appropriately. Same can be said with hate crimes.
+
+They quote-tweet [a previous thread](https://twitter.com/The_Ace_Couple/status/1564757917454286848#m) ([nitter mirror](https://nitter.net/The_Ace_Couple/status/1564757917454286848#m)) about their 4 part series of episodes about religious and political discrimination: [part 1](https://theacecouple.com/episode045/), [part 2](https://theacecouple.com/episode046/), [part 3](https://theacecouple.com/episode047/), and [part 4](https://theacecouple.com/episode048/).
+
+Twitter thread continues:
+> A few years ago, an ace teenage girl was very publicly murdered by an incel. It wasn't reported a hate crime. Even though she'd come out and engaged with the ace online community, her parents did not believe she was ace and accused us of "pushing our agenda" when we were mourning.
+>
+> Aces are also proven to be evaluated more negatively, viewed as less human, and less valued as contact partners, relative to heterosexuals and other sexual minorities. [[Link to research article](https://journals.sagepub.com/doi/10.1177/1368430212442419)]
+>
+> We appreciate that James mentioned that he doesn't agree with the takes that asexuals aren't queer because we aren't persecuted, but please don't then simultaneously ignore or minimize the issues that we DO face.
+>
+> We were very excited to donate to Telos Pictures and we still have hopes that you will help produce some more much needed, positive Ace representation, but we also hope that you will speak to more Aces from a wider variety of backgrounds in order to do us proper justice.
+
+[The thread continues...](#autistic)
+
+</comment>
 <james {% include timecode %}>
 
 And even when there's not, it's... Viewers will *assume* that (especially if there's a male and female character), if there isn't a romance between them viewers will assume by the end of the movie or the TV show that there *will* be.
 
 </james>
-</compare>
-<compare>
 <nick>
 
 Right, absolutely, and-- and outside of media in like sort of... polite discussion... There's a way that people kind of, you know, when you're outside of polite discussion, and you're kind of being more personal with someone, there's a comfort with sex that is taken for granted. Like, you know, if you're having, you know, a rough time, your close friend might say, "just go out and shag someone".
@@ -152,18 +212,11 @@ Right, absolutely, and-- and outside of media in like sort of... polite discussi
 And that's kind of seen as just like a universal. So it's a lot of very subtle ways that the hegemony reminds you that you're not really welcome. Or that you should be different. Or that you're there's something wrong with you. 
 
 </nick>
-</compare>
-<compare>
 <nick>
 
-<mark>And while there isn't really any conversion therapy directed to the asexual people...</mark> and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
+<mark fc=false id="conversion-therapy" stat:id="y-acephobia">And while there isn't really any conversion therapy directed to the asexual people...</mark> and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
 
 </nick>
-<comment id="conversion_therapy">
-
-Those in the ace community do very much get targeted by conversion therapy. [TODO link to The Ace Couple]
-
-</comment>
 </compare>
 <compare>
 <james {% include timecode %}>
@@ -708,29 +761,41 @@ Yeah, that "this is what gayness as is as an adult. This is what gayness is in h
 But the- the- the other side of that, is this kind of-- And that you have that, and that conflicts with the perception of asexuality. Which is the "doesn't have sex" and-- in media, this is very often the case, and a lot of asexual people are kind of upset by this, asexuality is represented by robots, aliens, and autistic people. And as it happens a lot--
 
 </nick>
-</compare>
-<compare>
+<comment span=6 id="autistic">
+{% include header video=ace_couple at="36m08s" %}
+
+Twitter thread continues from above:
+> We're *now* at the discussion of representation and Aces always being portrayed as Autistic. There is a legitimate point to be made that there in the instances where asexuality is simply a lazy shorthand for the character being "weird" and "less-human", but many Aces ARE autistic
+>
+> In fact, one of our favorite instances of Asexual representation in media is an Autistic character. There are good ways and bad ways to do Ace rep regardless of neurodivergence. [[Link to podcast episode about "Everything's Gonna Be Okay](https://theacecouple.com/episode027/)]
+> 
+> Australian studies have show that gender and sexual diversity is far more common in the Autistic community than it is for our allistic counterparts. We think this should be celebrated rather than distanced from or treated as a "harmful stereotype". [[Link to Spectrum News](https://www.spectrumnews.org/news/gender-and-sexuality-in-autism-explained/)]
+>
+> Unfortunately, due to the heavy medicalization and pathologization of our orientation and due to good 'ol fashioned ableism, the Ace community is really quick to distance from any kind of diagnosis and this harms Disabled and Neurodivergent Aces who also deserve meaningful rep
+>
+> We appreciate your work and look forward to what is to come, but we'd also like to extend an invitation to discuss a wider variety of asexual issues and perspectives with us. We do a lot of work pertaining to media representation, ace discrimination, disability, and anti-racism.
+>
+> We've been engaged in Ace issues for over decade, been a married Ace couple for 8.5 years, run an Ace podcast for just over a year, written about Ace history, helped organize the international asexuality conference, and founded several community projects. We have stories FOR DAYS.
+>
+> And we're happy to share them with you and/or help consult on future efforts toward Ace representation. Feel free to DM or email us if you're interested in talking personally and more in-depth. Thank you @je_somerton.
+
+
+</comment>
 <james {% include timecode %}>
 
 And rarely confirmed in any of those cases.
 
 </james>
-</compare> 
-<compare>
 <nick>
 
 Yeah. A lot of-- Or completely unconfirmed and just not acknowledged, like with Elsa. In a lot of those cases like, asexual people don't really like that, because we can be incredibly vibrant, colorful, zany people uh--
 
 </nick>
-</compare>
-<compare>
 <james {% include timecode %}>
 
 Well, yeah, I don't know any asexual people who are like Sheldon or Data. 
 
 </james>
-</compare> 
-<compare>
 <nick>
 
 And even then, like... I think that's... 
@@ -738,15 +803,11 @@ And even then, like... I think that's...
 Data was snarky, though.
 
 </nick>
-</compare>
-<compare>
 <james {% include timecode %}>
 
 I've never seen Star Trek, I'm just going by YouTube clips.
 
 </james>
-</compare> 
-<compare>
 <nick>
 
 When I was younger, my mom said that I was a carbon copy of Data. I always loved the character, because my mom had Star Trek on a lot when I was younger. And like, I think that's a discredit to autistic people too. I identify as somewhere on the spectrum. I don't know what, but-- because like autistic people can be incredibly hypersexual, and that's perfectly fine too! And so like kind of pigeonholing these identities together because you know this privileged-- writer of privilege, this creator of privilege, has this one experience with this one person, thinks "oh, this one this must be what it's like for everyone".
@@ -786,7 +847,7 @@ That's something that I was really trying to push in the video about Black Swan.
 <compare>
 <james {% include timecode %}>
 
-Which if we haven't watched that video yet, [go watch it](ezirFAu3MuA.md).
+Which if we haven't watched that video yet, [go watch it](ezirFAu3MuA).
 
 </james>
 </compare> 
@@ -904,7 +965,7 @@ The loveliness of shooting with three cameras and an external microphone.
 <compare>
 <nick>
 
-[laughs] Growing pains! Um, "asexual enough," and that is aquestion for the ages in the Ace Community. Uh, 'cause it is... large in the sense of there are a lot of people in it and not so much large in the sense that ev--
+[laughs] Growing pains! Um, "asexual enough," and that is a question for the ages in the Ace Community. Uh, 'cause it is... large in the sense of there are a lot of people in it and not so much large in the sense that ev--
  
 
 </nick>
@@ -1028,7 +1089,7 @@ Yeah, it didn't build-- it didn't lead up to my expectations. It wasn't what--
 <compare>
 <james {% include timecode %}>
 
-So is it that itdidn't meet your-- your expectations or did you just flat out not enjoy it?
+So is it that it didn't meet your-- your expectations or did you just flat out not enjoy it?
 
 </james>
 </compare> 
@@ -1794,7 +1855,7 @@ And thank you for watching the first episode of Gays Behaving Badly. Go behave b
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon names roll over the track "Night Out in LA" by Mdstocksound.
+Patreon names roll over the track ["Night Out in LA" by Mdstocksound](https://mdstocksound.com/royalty-free-music/night-out-in-la-60sec/).
 
 </credits>
 </compare>

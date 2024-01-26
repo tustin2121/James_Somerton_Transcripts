@@ -711,11 +711,17 @@ battles that rose out of the AIDS epidemic for gay people where access to
 marriage and military service when Once the queer Community was focused on
 creating the best art and living lives worth telling stories about the 1990s
 brought on a new goal how best to fit in as the brilliant friend Leibowitz has
+
+
+
 said many times the first people who died of AIDS were the interesting ones the
 artists there's a reason that Art became Ghostbusters and cats in the 1980s
 because all of the really talented artists were dying the rule Breakers ones who
 weren't afraid to shake things up and the audience died with them now we don't
 have any kind of discerning audience when that audience died and that audience
+
+
+
 died in five minutes literally people didn't die faster in a war and it allowed
 of course like the second third fourth tier to rise up to the front because of
 course the first people who died of AIDS were the people who I don't know how to
@@ -797,3 +803,17 @@ in return it's time for us to start considering whose opinions about us actually
 matter and to start seeing ourselves as we are as Worthy because you're worth so
 much more than a column on a spreadsheet [Music] foreign [Music] [Applause]
 [Music] [Music] thank you [Music] foreign [Music]
+
+
+{% comment %}
+
+<comment>
+{% include header video=ace_116 at="2h8s" %}
+
+Courtney: But I’ve also — very unfortunately, it’s been brought to my attention that he has, in a video, talked about how, you know, queer media is *bad* now, because all of the good, fun, exciting gays died during the AIDS crisis. Because they were the cool ones. They were the artists who were sleeping around with a bunch of people. Which, *what a flippant, disrespectful way* to talk about the AIDS crisis, even just on its surface, as like, “Oh, you know, the fun artists are the ones who died. They’re the cool ones.” Like, first of all, that’s awful, but then to also be like, “The only people who didn’t die were the boring ones. The boring ones who weren’t having a lot of sex. Like, and that’s why their art is bad and why queer media has gotten bad”? Alright, just say you hate Aces and any gays who don’t have a ton of sex or casual sex or sex with a lot of different partners. Like, *what are we doing here?*
+
+Royce: That’s a statement that just gets worse the longer you think about it.
+
+</comment>
+
+{% endcomment %}

@@ -296,8 +296,10 @@ internet organizations have been revolutionary for the disabled the deaf and
 hard of hearing or any other communities that are mostly ignored through random
 sampling which is why Elon musk's Twitter meltdowns would be hilarious if it
 wasn't for the fact that the platform is essential for a lot of people's
-advocacy organizing in the modern world if anything else the gays are Savvy I
-may have recently come under criticism for claiming that the AIDS epidemic took
+advocacy organizing in the modern world if anything else the gays are Savvy 
+
+
+I may have recently come under criticism for claiming that the AIDS epidemic took
 a grand majority of our brilliant creative minds leaving out exceptions like
 Andy Warhol who by some accounts was asexual or Elton John who by all accounts
 was not naturally not all interesting gay people were horny and not all of them
