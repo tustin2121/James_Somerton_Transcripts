@@ -169,13 +169,13 @@ Next <del>up</del> we’ve got Joe and Cherry, or as they’re fondly known onl
 </james>
 <clip>
 
-<ins>Miya: What's with the parasol?
+<ins>Miya: What's with the parasol?</ins>
 
-Joe: *Precious* doesn't want to get a tan. He's delicate.
+<ins>Joe: *Precious* doesn't want to get a tan. He's delicate.</ins>
 
-Miya: Where are your clothes, bro?
+<ins>Miya: Where are your clothes, bro?</ins>
 
-Cherry: He's charring his chesticles for locals in heat. Such a *thirsty* gorilla.</ins>
+<ins>Cherry: He's charring his chesticles for locals in heat. Such a *thirsty* gorilla.</ins>
 
 </clip>
 <james {% include timecode %}
@@ -197,7 +197,7 @@ Langa: Let’s do it. I want to skate infinitely with you.
 
 [Cutaway to James staring blankly as another clip plays behind him.]
 
-Victor: That sounded like a marriage proposal.
+Victor (from *Yuri on Ice*): That sounded like a marriage proposal.
 
 </clip>
 <james {% include timecode%}>
@@ -249,1149 +249,227 @@ Why couldn’t we just get the gay sk8er boys? Why couldn’t we get the gay sk
 
 It seems that the queerness is being deliberately withheald where it would otherwise fit into the plot. And if this is deliberate, then we can gauge the ethical merits of the situation. Really… *Sk8* doesn’t seem like the kind of series that would spurr on an hour long discussion about ethics of representation. But as much as the writing does seem to be on the wall about gay coupling in this show, it is — once again — a big load of ‘almost’ representation. And the show goes pretty far to ‘almost’ show gay romance. But it’s that last <ins>like</ins> ten yards that we’re not crossing for some reason. So what’s stopping media like this from making the final step? 
 
-My theory is that shipping is a component of audience engagement that is filling in for something that mass media has lost: merchandising. Seeing <ins>as</ins> how merchandising and boys’ love(or more commonly known as BL because it sounds less creepy) are both things that saw great advancement within Japanese media in the 1990s, it’s probably best to start there. There had been times when Anime had broken into American Airwaves, like *Astro Boy*, *Speed Racer*, Simba (i mean *Kimba*), and *Sailor Moon*. And anime from the 80s like *Akira* have been incredibly
-influential in modern Hollywood. 
+My theory is that shipping is a component of audience engagement that is filling in for something that mass media has lost: merchandising. Seeing <ins>as</ins> how merchandising and boys’ love(or more commonly known as BL because it sounds less creepy) are both things that saw great advancement within Japanese media in the 1990s, it’s probably best to start there. There had been times when Anime had broken into American Airwaves, like *Astro Boy*, *Speed Racer*, Simba (i mean *Kimba*), and *Sailor Moon*. And anime from the 80s like *Akira* have been incredibly influential in modern Hollywood. 
 
-However, among consumer masses, nothing hit quite like *Pokémon*. It used to be that cartoons made for kids were created solely as 20 minute commercials to sell you toys. Like with the *Transformers* series. For a couple years *Transformers* dominated toy shelves and Television. It was *Pokémon* before *Pokémon*. But *Pokémon*… has been around for twenty years. So has Transformers — longer, actually — but *Pokémon* never went away. *Pokémon* was a game-changer, not only because it was an anime tie-in to a video game that was already popular, but it was incredibly toyetic. And being able to make toys from characters, creatures, and objects in a piece of visual media is something that American companies had proven to be cash cows before. Look at Star Wars. With this merchandising angle, a producer can double or even quintuple income by
-constructing an ongoing series in a way where the plot is intrinsically tied to something that can very easily be made into a toy.Especially when you have a way to refresh <del>the</del><ins>that</ins> toy line every few years. 
+However, among consumer masses, nothing hit quite like *Pokémon*. It used to be that cartoons made for kids were created solely as 20 minute commercials to sell you toys. Like with the *Transformers* series. For a couple years *Transformers* dominated toy shelves and Television. It was *Pokémon* before *Pokémon*. But *Pokémon*… has been around for twenty years. So has Transformers — longer, actually — but *Pokémon* never went away. *Pokémon* was a game-changer, not only because it was an anime tie-in to a video game that was already popular, but it was incredibly toyetic. And being able to make toys from characters, creatures, and objects in a piece of visual media is something that American companies had proven to be cash cows before. Look at Star Wars. With this merchandising angle, a producer can double or even quintuple income by constructing an ongoing series in a way where the plot is intrinsically tied to something that can very easily be made into a toy.Especially when you have a way to refresh <del>the</del><ins>that</ins> toy line every few years. 
 
 But where *Pokémon* was more successful... is how characters were so simple and so recognizable that you can stick them on a T-shirt and everyone will know its<sup class="add">[sic: it's]</sup> Pikachu. Whereas, to the layman, Starscream and Megatron might not be so easy to tell apart in robot form. There’s another problematic ship for you. 
 
-When it comes to *Pokémon*, enter the Japanese word and concept — kawaii. Contrary to popular belief, kawaii does not mean ‘cute.’ It means something much deeper. When something is kawaii, it means that it cannot not be cute. It means that this idol has been reduced to a state of existence where the ONLY opinion that can exist about it is that it’s cute. *Pokémon* is a prime example, specifically with mascot characters like Pikachu, Bulbasaur, Eevee — and nearly all first-stage evolutions. But the example that typifies this process is Hello Kitty. 
+</james>
+</compare>
 
-Hello Kitty, as a brand, is fascinating, but I won’t get into it here. Hold on, I need my cat ears— Hello Kitty didn’t even have a piece of media it was attached to right away, but this little
-cartoon kitty seemed to be like something you would see in a TV special. But it wasn’t until
-the brand was already a national sensation in Japan that there was any visual media. The process that makes Hello Kitty kawaii is an aesthetic exercise in minimalism and
-abstractism. You take a cat, and you gradually reduce features until you have a bare minimum amount of details that allow you to recognize <ins>that</ins> this as a cat. Or Keroppi as a frog. Et cetera. With so little features, this is 
+<compare>
+<james {% include timecode %}>
 
-not just a cat. Your imagination
-makes you pack-bond with the idea of a cat. But when it comes to using toyetics 
+When it comes to *Pokémon*, enter the Japanese word and concept — kawaii. 
 
-to sell a given brand… well,
-*Pokémon* did it so well that nothing else 
+</james>
+<comment>
 
-has managed to come close. Even Disney.
-And *Pokémon* has only been around 
+On screen, the word "kawai" appears, with the corresponding katakana (カワイ) beneath. However, "Kawai" is a Japanese piano brand; the word "kawaii" is spelled differently in katakana (カワイイ), and is more commonly spelled in hiragana (かわいい) or occasionally kanji (可愛い).
 
-half as long as Hello Kitty. It’s still not clear — even to cultural 
+</comment>
+</compare>
 
-analysts — why or how *Pokémon* completely
-dominated culture to the point of traumatising 
+<compare>
+<james {% include timecode%}>
 
-Burger King employees. Things were ‘cute’ before
-*Pokémon*. Things have been ‘cute’ after *Pokémon*. 
+Contrary to popular belief, kawaii does not mean ‘cute.’ It means something much deeper. When something is kawaii, it means that it cannot not be cute. It means that this idol has been reduced to a state of existence where the ONLY opinion that can exist about it is that it’s cute. *Pokémon* is a prime example, specifically with mascot characters like Pikachu, Bulbasaur, Eevee — and nearly all first-stage evolutions. But the example that typifies this process is Hello Kitty. Hello Kitty, as a brand, is fascinating, but I won’t get into it here. Hold on, I need my cat ears— 
 
-So it's not really clear why it stands out. But as *Pokémon* was first 
+Hello Kitty didn’t even have a piece of media it was attached to right away, but this little cartoon kitty seemed to be like something you would see in a TV special. But it wasn’t until the brand was already a national sensation in Japan that there was any visual media. The process that makes Hello Kitty kawaii is an aesthetic exercise in minimalism and abstractism. You take a cat, and you gradually reduce features until you have a bare minimum amount of details that allow you to recognize <ins>that</ins> this as a cat. Or Keroppi as a frog. Et cetera. With so little features, this is not just a cat. Your imagination makes you pack-bond with the idea of a cat. 
 
-and foremost a video game,
-it managed to retain its market 
+But when it comes to using toyetics to sell a given brand… well, *Pokémon* did it so well that nothing else has managed to come close. Even Disney. And *Pokémon* has only been around half as long as Hello Kitty. It’s still not clear — even to cultural analysts — why or how *Pokémon* completely dominated culture to the point of traumatising Burger King employees. Things were ‘cute’ before *Pokémon*. Things have been ‘cute’ after *Pokémon*. So it's not really clear why it stands out. But as *Pokémon* was first and foremost a video game, it managed to retain its market relevance as a video game when kids began making the christmas-list switch from action figures to games. It’s difficult to make a cartoon or anime with a strong merchandise tie-in because video games occupy so much of the childrens’ market now. *Pokémon* endured because there was a monopoly. It’s almost not fair for any franchise to assess its success if *Pokémon* is seen as the standard. We’re not here to talk about *Pokémon* — an anime with actually visible queer representation. We’re here to talk about how *Pokémon*’s industry dominance has made it difficult for new media to focus their branding strategy around merchandising visually-distinct elements. 
 
-relevance as a video game when
-kids began making the christmas-list 
+So for lack of up-front merchandisable effigies, how can you really make your media stick? Well, that’s where shipping ties in… 
 
-switch from action figures to games. It’s difficult to make a cartoon or anime with 
+I’m sure more than a few marketing directors noticed that there was a pattern of how certain media developed cult followings. Sometimes a TV series or movie will manage to stand the test of time specifically because it has a strong gay or gay-friendly following. And this following is full of shippers. And when your audience is taking to social media to discuss non-canonical relationship dynamics, you can say that they’re pretty engaged. 
 
-a strong merchandise tie-in because video games
-occupy so much of the childrens’ market now. 
+As online fan communities dedicated themselves to filling in the blanks with fanfiction and fan art, networks across Japan and America realised they didn’t need a line of toys to tie-in to their franchise. An engaged audience is one that keeps tuning in, which means a longer-running show and increased ad revenue. And apparently a stage production. Branding executives said: “hold on a second… let’s lean into it and see what happens?” Queer… became the new kawaii. And maybe that was even better because there’s a whole lot less commitment involved in putting two young men in suggestively romantic situations than hiring an entire design team to create and focus-group a number of mascot figures in the hopes that just one of them would break through into cultural permeance. 
 
-*Pokémon* endured because there was a monopoly.
-It’s almost not fair for any franchise to assess 
+Similar to how kawaii functions by minimalizing and removing features, so does the process of gay-baiting. You take what is ostensibly a romance between two people. Whether it’s a gender-swap straight romance dynamic, or two bros who are too close to function. And then you remove explicitly romantic language until there is plausible deniability. What remains in the plot is a collection of romantic visual cues, a very hot, intense, dedication, and devoted personal investment between two characters. 
 
-its success if *Pokémon* is seen as the standard. We’re not here to talk about *Pokémon* — an anime 
+Now, ships can take many forms — even in *Sk8*. You’ve got the strong, pining commitment, but you also have the more distant, nobody-else-but-you, friend-<ins>to-</ins>rivals who rush to each other's side when the other gets physically assaulted in a skateboard race… which everyone seems perfectly fine with, by the way. You also have the abusive relationship with <ins>the</ins> suggested ‘he can change’ tenderness. And you even have an alluded bitter friends-to-enemies scenario. With a catboy. 
 
-with actually visible queer representation. We’re here to talk about how *Pokémon*’s industry 
+It’s hard to really gauge what exact qualities a pairing needs to have to be shippable, because everyone has their preferred ship dynamic and honestly… I think at this point people will ship any two-or-more characters for any reason. Just look at *Avatar the Last Airbender* and *Legend of Kora<sup class="add">[sic: Korra]</sup>*. There really aren’t any limits. What two characters do need to have to get shipped is just literally any kind of chemistry. But this chemistry needs to be BIG. 
 
-dominance has made it difficult for new media
-to focus their branding strategy around 
+And of course I’m not saying ‘modern shipping bad.’ There are plenty of examples in media where you have two characters who are meant to be just friends. Believe it or not, there is still a demand for straight romances and creators willing to depict them. I know! I know… As a result, there are a lot of instances where a creator makes a property with no intended queer reading, for which there is an audience who fully enjoys shipping two men in the plot. 
 
-merchandising visually-distinct elements. So for lack of up-front merchandisable effigies, 
+The thing about *Sk8* is that there’s a lot in here that’s genuinely entertaining. Great comedic timing, coupled with a carnivalesque approach to mixing skateboard culture, shonen melodrama, and good ol’ camp. That said. Would I have watched it if it wasn’t for people recommending it to me because of the queer references? … No. No… p… probably would not. When it comes to media I do consume, I just gravitate towards gay stuff. Sorry. I spent the first 25 years of my life being dominated by heterosexual characters. And now that I’m making the decision to consume media about characters with whom I can identity<sup class="add">[sic: identify]</sup>… …I’m still consuming straight meida<sup class="add">[sic: media]</sup>. 
 
-how can you really make your media stick? Well, that’s where shipping ties in… I’m sure more than a few marketing directors 
+Because in spite of the fact that *Sk8* goes out of it’s<sup class="add">[sic: its]</sup> way to imply that multiple characters are in queer pairings, it also goes out of it’s<sup class="add">[sic: its]</sup> way to ‘confirm’ heterosexuality of one half of each couple. Either Reki’s random fawning over the girl in one episode for five minutes, or Joe’s chronic boob’d arm candy. 
 
-noticed that there was a pattern of how certain
-media developed cult followings. Sometimes a 
+Funnily — the implicit ship that there isn’t any heterosexuality confirmation is… the villain. The villain who openly admits to ‘loving’ underage skater-boys. Which happens to be a recurring pattern within… media.. in general. For decades! The gay predator: still at large in 2022. Even if the heroes are implied to be gay, the villain has the most pluasibly<sup class="add">[sic: plausibly]</sup> confirmed queerness. I’m not willing to say that this is carrying deliberate homophobic subtextual messaging, though there is a role that bigotry has in modern queer baiting.But when it comes to Adam from *Sk8* or Gozine from *Banana Fish*, their queerness, is much more explicit than that of our more understated heroes. 
 
-TV series or movie will manage to stand the
-test of time specifically because it has 
+Compare and contrast to *Yuri!!! On ICE*. We’re already talking about Anime, might as well jump in. And yes, I’ve already talked about it, but that shouldn’t suggest I don’t have evolving feelings on it. I praised *Yuri on Ice* for it’s<sup class="add">[sic: its]</sup> subtle representation of queerness, and I thought it was a greater asset than it was a detractor. Could it have used a kiss…? Without <del>the</del><ins>an</ins> arm blocking the way? Yes. But *Yuri on Ice* was also missing a lot of the staples of the other gay-baits. Mainly, that there was no third-wheel heterosexual love intrest. And of characters who could be considered antagonists, Yuri-o softens as he begins to come into his budding, if only implied, attraction to Otabek. (Though how implied is this REALLY?) And when it comes to JJ. Well, he’s straight, they can have him. 
 
-a strong gay or gay-friendly following. And this following is full of shippers. And 
+And I’m not completely absolving *Yuri On Ice* for concealing queerness, but it does seem like I’m pointing out that there are many ways that queer-baiting can happen. Bear in mind that there is not as much ‘shipping’ of Yuri and Victor as there is with Reki and Langa. By all means, it’s there. But as someone who is not particularly involved in any shipping communities, there is not nearly as much spill-over for *Yuri on Ice* as there is for *Sk8*. It’s also interesting that the 2016 *Yuri on Ice* shippers went over to *Killing Stalking*, but we won’t talk about that. 
 
-when your audience is taking to social media to
-discuss non-canonical relationship dynamics, 
+And this isn’t to speak of the popularity of either series, because years after the fact… and *Yuri on Ice* still seems to retain it’s<sup class="add">[sic: its]</sup> popularity along side *Sk8*, which came out just this past year. A distinction can be made where *Yuri on Ice*, while being much more understated, seems to want to imply that these characters ARE in a relationship. Whereas *Sk8* is going out of it’s<sup class="add">[sic: its]</sup> way to imply that it’s<sup class="add">[sic: its]</sup> characters COULD BE in a relationship. 
 
-you can say that they’re pretty engaged. As online fan communities dedicated themselves to 
+And if we’re interested in getting into the nuance, there is a difference between an implication and a suggestion. As a matter of fact, I can sort queer-implied character pairings into four groups. 
 
-filling in the blanks with fanfiction and fan art,
-networks across Japan and America 
+Of the ones I find tolerable… We have Accidental Ships <ins>which</ins> are when you have a creator who is making no effort to really depict queerness. They’re just making some art, and their audience takes it upon themselves to read into the chemistry between two given characters. Prime example would be Sokka and Zuko from *Avatar the Last Air Bender<sup class="add">[sic: Airbender]</sup>*. Subversive Ships are when a creator actively wants to depict queer characters, but is restricted either by network morality clauses, or national censorship laws. I would include *Yuri On Ice*, as per the ongoing battle to depict the core pairing openly, but also *<ins>The</ins> Legend of Korra*’s Korrasami. As the creators wanted an out, bisexual female couple but had to settle for some hand holding in the very last scene of the very last episode. At least they got to kiss in the comic. 
 
-realised they didn’t need a line of toys
-to tie-in to their franchise. An engaged 
+And of the shipping groups that piss me off… Oblivious Ships don’t annoy me so much but they still bother me. This is when you have creators who include a degree of platonic yearning where it’s not clear how they overlooked ‘gay’ as an option. A sub-sect of oblivious shipping is when you have a creative team that is either so misogynistic or so hyper-masculine that they procedurally eliminate all female characters, or make the women in the story so incredibly boring, that there is no one else to ship but the boys. Think of *Supernatural*. 
 
-audience is one that keeps tuning in,
-which means a longer-running 
+And then, we have my least-favourite category — Industrial Shipping. This is the one I’ve been raising red flags over. An act of soulless, corporate infringement on the identity-centric needs for visible representation. This is what I would refer to as ‘traditional gay baiting.’ And I’ve made multiple whole videos about this. But, for a prime example, see *Teen Wolf*. I consider this malicious enough that it’s a pretty serious accusation to bring up — even when it’s about media that I do like. But am I willing to say that this is what’s going on in *Sk8*? 
 
-show and increased ad revenue. And apparently a stage production. Branding executives said: “hold on a second… 
+If it’s a deliberate branding tactic, then we have to consider who they are marketing to. And just like the largest consumer base of BL in television, anime, manga, and manhua are women, we can extrapolate that they would also be the most significant consumers of gay-baited content. Which isn’t a bad thing in and of itself. There are more women than gay men in general, so the fact that they occupy a larger section of the market is probably something we can just take for granted. And similarly, straight women are also the largest group of creators who choose to depict gay men. But if the suppliers of gay media are straight women… and the audience of gay media are straight women… what about gay men? 
 
-let’s lean into it and see what happens?” Queer… became the new kawaii. And maybe that was even better 
+{% assign timecode = "33:14"}
 
-because there’s a whole lot less
-commitment involved in putting two young 
+</james>
+</compare>
 
-men in suggestively romantic situations
-than hiring an entire design team to create 
+## Part Four: Fake Love
 
-and focus-group a number of mascot figures
-in the hopes that just one of them would 
+<compare>
+<james {% include timecode%}>
 
-break through into cultural permeance. Similar to how kawaii functions by 
+This whole topic of shipping is a sticky situation, isn’t it? Not just because it COULD be queer baiting, but because even the intentional ships aren’t meant for a gay audience. In most cases,they’re meant for a straight female audience. Hell, a very good portion of gay media that isn’t  baited is really meant for a female audience. And a lot of it is even written by women. Just going over some of the things I’ve covered in past videos: *Killing Stalking*, written by a woman.*Painter of the Night*, written by a woman. *Yuri on Ice*, written by a woman. *Banana Fish*, written by a woman. *The Untamed*, based on the books written by a woman. 
 
-minimalizing and removing features,
-so does the process of gay-baiting. You take what is ostensibly a romance between 
+I realise all of those examples come from Asian media, but this is not uniquely an Asian phenomenon. Many, in fact most, of the gay media that manages to reach a mainstream audience in the west is also written by women. *Brokeback Mountain* certainly comes to mind. Gay Young Adult novels have become pretty popular in recent years, but the biggest crossover hits are almost exclusively written by women. *Simon VS The Homosapien<sup class="add">[sic: Homo Sapiens]</sup> Agenda*, also known as *Love, Simon* by Becki Albertali<sup class="add">[sic: Becky Albertalli]</sup>. <mark>*Red, White and Royal Blue* by Casey McQuiston.</mark> [Casey McQuiston is non-binary and they have openly identified as such since the end of 2020.] The *Simon Snow*
+novels by Rainbow Rowell, which are actually high concept *Harry Potter* fanfiction where
+Harry and Draco get together in the end. Though in the *Simon Snow* books the Harry analogue,
+Simon, has dragon wings, and the Draco analogue, Baz, is a vampire. 
 
-two people. Whether it’s a gender-swap straight
-romance dynamic, or two bros who are too 
+</james>
+<comment>
 
-close to function. And then you remove
-explicitly romantic language until 
+Casey McQuiston is non-binary and they have openly identified as such since the end of 2020.
 
-there is plausible deniability. What remains in the plot is a 
+</comment>
+</compare>
 
-collection of romantic visual cues,
-a very hot, intense, dedication, and devoted 
+<compare>
+<james {% include timecode %}>
 
-personal investment between two characters. Now,
-ships can take many forms — even in Sk8. You’ve got the strong, pining commitment, but you 
+Now, I’m not saying that women shouldn’t write gay characters. I’ve read these books and I’ve really enjoyed them. Look. I’ve got them right here. But it is<del>…</del> interesting that the biggest gay books to hit it really big these past years have been written by women and not gay men.Including bestsellers like *The Song of Achilles*, which came out a decade ago, when I first read it, but recently became a mega hit when it was discovered by Book-Tock<sup class="add">[sic: BookTok]</sup>. 
 
-also have the more distant, nobody-else-but-you,
-friend-rivals who rush to each other's side 
+With the exception of books by Adam Silvera, you’d be hard pressed to find gay books that have gone mainstream. And it’s not like they don’t exist. Look at this. Look at this shelf. All of its<sup class="add">[sic: it's]</sup> gay. I’ve read them all and most of them are really good. Some of them are damn brilliant. But I ask, again, why is it that the majority of readers, let alone the general public, would probably only recognize the books written by female authors. Even in the olden times, books like *The Frontrunner<sup class="add">[sic: The Front Runner]</sup>* by Patricia Nell Warren published in 1974, or *The Persian Boy* by Mary Renault published in 1972. Gay books, written about gay men, written by women. 
 
-when the other gets physically assaulted in
-a skateboard race… which everyone 
+So why don’t gay men get to represent themselves in media? At least media that’s widely accepted by the mainstream? <mark>Queer women get to represent themselves. At least sometimes. Look at animated hits like *Stephen<sup class="add">[sic: Steven]</sup> Universe*, or *She-Ra and the Princesses of Power*.</mark> In fact we don’t really see a whole lot of non-canonical shipping among female characters <ins>at all</ins>. With the aforementioned gigantic exception of Xena and Gabrielle. And the ship that actually became canon, Korrasammi. 
 
-seems perfectly fine with, by the
-way. You also have the abusive relationship 
+</james>
+<comment>
 
-with suggested ‘he can change’ tenderness.
-And you even have an alluded bitter 
+The creator of *Steven Universe*, Rebecca Sugar, is genderqueer and identified as such before this video came out. Likewise, the creator of *She-Ra and the Princesses of Power*, ND Stevenson, is nonbinary and transmasculine, and openly identified as such before this video came out.
 
-friends-to-enemies scenario. With a catboy. It’s hard to really gauge what exact 
+</comment>
+</compare>
 
-qualities a pairing needs to have to be
-shippable, because everyone has their 
+<compare>
+<james {% include timecode %}>
 
-preferred ship dynamic and honestly…
-I think at this point people will ship any 
+But media has been much more accepting of out lesbian characters in recent years. Not always, for sure. Gay men dominated LGBT representation in media for a long time. Specifically white gay men. But in recent years, producers, especially of television, have realized that lesbian characters are the perfect way for them to get points on the annual GLAAD Media List for representation. Straight men love lesbians, but usually only the ones who are hyper sexualized, straight women, for the most part, are pretty accepting of lesbians, and the assumption is that everyone on the LGBTQIAPA… D… 2S+... spectrum will be accepting of them as well. Look at this list. This is a pretty comprehensive list of lesbian, or at least women who love women, representation on TV. From shows as diverse as *Hannibal*, *Glee*, *All My Children*, *Orange is the New Black*, *Killing Eve*, *Nancy Drew*, and *Doctor Who*. 
 
-two-or-more characters for any reason. Just
-look at Avatar the Last Airbender and Legend 
+Granted, many of these characters are written by straight male writers, so there is definitely an element of lesbian fetishization to be accounted for. But a whole lot of them are written by lesbian or bisexual women. Which allows the characters to experience a range of storylines, many of which don’t involve their lesbianism at all. Allowing many of them to have some kind of a happy ending. Which explains why there isn’t as much lesbian shipping as there is gay shipping. There doesn’t appear to be as much need for it. Where as a lot of the highest profile representations of gay men in media (*Brokeback Mountain*, *Philadelphia*, *Milk*) certainly do NOT have happy endings.Nothing of the sort. 
 
-of Kora. There really aren’t any limits. What two characters do need 
+This is where the Bury your Gays trope came from. Which forces gay people, and people who want to see happy gay relationships (oddly enough, women) to create imaginary ones with characters who are not actually confirmed to be gay. And so ships are built. Whether they’re pretty understandable, like with Steve and Bucky, Kirk and Spock, Sokka and Zuko, Aang and Zuko… hell, Kitara<sup class="add">[sic: Katara]</sup> and Zuko, Toph and Zuko. Everyone and Zuko. Oh, and one lesbian ship that did happen and I was 100% on board for, Yara and Daenerys from Game of Thrones. Should have happened. Should have been canon. Would have been amazing. And maybe if Dany had been banging a ship captain she wouldn't have forgotten about the iron fleet. Anyway. 
 
-to have to get shipped is just
-literally any kind of chemistry. 
+Not all ships are all that obvious though. Many times there’s not a hint of evidence but people want the relationship to be a thing anyway, like my own personal ship of James and Butch from the *Pokémon* anime. Who are obviously bitter exes. Or Rachel and Quinn from *Glee*. Magneto and Professor X. Cap and Ironman. Spiderman and Venom. There’s not really any textual, or subtextual evidence that these pairings could ever actually be a thing, but since we need to create ships anyway, why not go the whole way and make some up out of whole cloth? 
 
-But this chemistry needs to be BIG. And of course I’m not saying ‘modern shipping 
+For instance, in my point of view anyway, there’s a few pairings that I personally ship in the works of <del>J*K R*W*L*I*N*G</del><ins>[bleep]</ins>. Sirius Black and Remus Lupin are obvious  candidates. As well as Albus Potter and Scorpis Malfoy in the broadway play, *Cursed Child*. Which, apparently, has <del>kind of</del> been confirmed now that the play has been condensed into a one night thing. I cannot confirm myself, since I havent<sup class="add">[sic: haven't]</sup> seen it with my own eyes, but my broadway gays have told me this. And of course the original ship to come out of <del>J*K R*W*L*I*N*G</del><ins>[bleep]</ins>’s work, Harry and Draco themselves. Now I never understood this, personally. I never felt any romantic tension between the two of them but apparently everyone else on the internet did. So much so that the fan-fiction fervour that arose online actually sparked a few producers to insert queer baiting into the text of their media on purpose to bring in fans. Such as with *Teen Wolf* and *Sherlock*. 
 
-bad.’ There are plenty of examples in media
-where you have two characters who are meant 
+Fans have written, literally, billions of words about these ships online. Whole libraries full of stories. All of this work to try and get some gay male couples to have a happy ending. And even this fan fiction, for the most part, is written by women. Gay men, for sure, contribute, but the vast majority of these fan-written works are written by women. Straight women, and lesbians funnily enough. And some of it goes very mainstream. Like the *Blood Right*<sup class="add">[sic: *Bloodright*]</sup> book series, which started its life as <ins>a</ins> Finn/Poe fan fiction before being redeveloped and picked up by a publisher. 
 
-to be just friends. Believe it or not,
-there is still a demand for straight romances and 
+And again, I don’t want to say women shouldn’t write gay characters. The kawaii version of gayness created by these women has gone a long way to creating more acceptance of queer people, mainly queer men, among straight women. But sometimes it gets kind of<del>…</del> creepy. After I released the *Killing Stalking* video you wouldn’t believe the amount of (mostly) straight women who told me they loved *Killing Stalking* because it let them explore extreme kinks without the associated trauma of a woman being involved. Which is just… no. Don’t do that. Do not use gay men as experiments. In real life or fiction. We’re not marionettes to play with for your amusement. Especially when something like *Killing Stalking* becomes a huge success and media producers might look and say “Ah. So this is how we should portray the gays.” 
 
-creators willing to depict them. I know! I know… As a result, there are a lot of instances where 
+Gay readers seem to love messy gay characters. Gay readers even love problematic gay characters. I sure do — I ship Hannibal and Will! Where the line is drawn is difficult to nail down though. But if we — gay men, women, lesbians, trans writers, and even straight men — are going to exist in a community of writers and content creators without gatekeepers, we need to be able to recognize how certain identities would like to be respected. And while there aren’t any hard rules about this, the best way to pick up the guidelines are to listen to what these people have to say about themselves. 
 
-a creator makes a property with no intended queer
-reading, for which there is an audience who 
+{% assign timecode = "41:30"}
 
-fully enjoys shipping two men in the plot. The thing about Sk8 is that there’s a lot 
+</james>
+</compare>
 
-in here that’s genuinely entertaining.
-Great comedic timing, coupled with a carnivalesque
-approach to mixing skateboard culture, 
+## Part Five: Life Goes On
 
-shonen melodrama, and good ol’ camp. That said. Would I have watched it if it wasn’t
-for people recommending it to me 
+<compare>
+<james {% include timecode%}>
 
-because of the queer references? … No. No… p… probably would not. When it comes to media I do consume, 
+I realize this is heavily focused around the psychological condition of gay men. Who are,
+admittedly, probably<ins>, definitely</ins> the most privileged of the whole community. However — my concern comes from the development of a bunch of baby gays who are coming of age now and in the future. With them in mind, they are going to have to fight against a lot of patriarchal or even toxic masculinity. 
 
-I just gravitate towards gay stuff.
-Sorry. I spent the first 25 years of my life 
+(Insert Sean Penn quote) [On screen: Fox News article titled "Sean Penn says American men have become 'feminized,' blames 'cowardly genes']
 
-being dominated by heterosexual characters.
-And now that I’m making the decision to consume 
+Ugh. And insofar as queer acceptance is constructed around assimilation into straight values, the modern depiction of gay-baited pseudo-representation, constructed by straight people to feed into a straight industry, is going to perpetuate those straight values. And it is MUCH more difficult to un-indoctronate oneself from internalized homophobia than it is to model oneself after constructive, and realistic archatypes<sup class="add">[sic: archetypes]</sup> of openly-expressed queerness. 
 
-media about characters with whom I can identity… …I’m still consuming straight meida. Because in spite of the fact that Sk8 goes out 
+Because make no mistake, a growing trend of gay-baiting DOES communicate to gay audiences that the only way you can be visible in society… is to be straight. And coupled with the instances of visible gayness in awards-bait <del>media</del> where gay characters can only exist if they’re sad — we can only be ‘happy’ if we’re straight. Or at least not confirmed to be gay. 
 
-of it’s way to imply that multiple characters
-are in queer pairings, it also goes out 
+And even in this day and age of tolerance, we exist in a world that is consistently trying to shove us back into the closet, to define the acceptable expressions of our gayness, or to put us in dollhouses for the bemusement of a cis-het audience. And so… we ship. We ship characters created by straight writers. And indeed, straight writers are more likely to bury their gays. Is their perspective of queerness that it involves suffering insofar that suffering is the direct result of that queerness? 
 
-of it’s way to ‘confirm’ heterosexuality
-of one half of each couple. Either 
+You will find bury your gays’ much more commonly in visual media. This becomes especially true as a particular piece of media is meant to receive awards. Following the critical and awards-success of *Philadelphia*, starring Tom Hanks, this seemed to be what Hollywood really latched on to as far as what it was willing to depict. Didn’t help that Hollywood’s first big gay love story, *Brokeback Mountain*, which not only featured one dead gay, a surviving gay who had to feel bad about it, and closeted, forbidden love, but it was written by a woman. And as a piece of media made by a woman,  developed into a film made by straight people, featuring straight actors, you naturally miss out on a lot of the nuances of being gay. Like, I don’t know, being blissfully ignorant to the consequences of bottoming without using lube after eating a plate full of beans. 
 
-Reki’s random fawning over the girl
-in one episode for five minutes, 
+But *Brokeback Mountain* itself is a great instance of the ethics behind writing outside your lived experiences. Writer Annie Proulx actually spoke out against a trend among gay men who shipped her *Brokeback* Characters Enis<sup class="add">[sic: Ennis]</sup> and Jack. She did not take kindly to gay men who wrote fan fiction and re-wrote her ending that they both survived and lived happily ever after. Having a dead gay was so important to her that she wrote angry articles about it. She refused to listen to the voices of identities whom she used to expand her platform. Though yes these are her characters, Proulx was writing without the awareness that gay people, go figure, wanted an alternative story where they could be happy. She didn’t seem to understand why gay men would be so interested in re-writing her tragedy into an ending about happy gays. 
 
-or Joe’s chronic boob’d arm candy. Funnily — the implicit ship that there isn’t any 
+By all means, it isn’t just women who do this. *Call Me By Your Name* was written by a straight man. And there were no burried<sup class="add">[sic: buried]</sup> gays, but there was a closeted romance and sad gays. And because, for a significant amount of time, a dead gay was the only thing we could really expect from major media, as a reaction, we had to ship. The alternative to shipping was a world that believed that gay people’s only role in life was to offer up some saucy fashion advice and then die tragically. 
 
-heterosexuality confirmation is… the villain.
-The villain who openly admits to 
+</james>
+</compare>
 
-‘loving’ underage skater-boys. Which happens to be a recurring pattern within… 
+<compare>
+<james {%include timecode%}>
 
-media.. in general. For decades! The gay predator:
-still at large in 2022. Even if the heroes are implied to be gay,
-the villain has the most 
+Shipping our way to a world where we could be happy, however, may have snapped in the other direction. Particularly in publishing. Where queer writers are interested in exploring gay characters as they would factor into different genres of fiction, and exploring queer identity itself insofar as it exists in a world that is designed to cater to cis-het people. <mark>However straight creators either lean to the melodramatically tragic, or the melodramatically…fluffy.</mark> Which is how you get a whole generation of gays who have deblitating FOMO because their life experiences did not match <mark>the experiences about gayness set by straight women with a kawaii idea of two gay people.</mark> 
 
-pluasibly confirmed queerness. I’m not willing to say that this is carrying 
+So there’s this kind of perfect storm of angst as different areas of media interplay off each other and send conflicting messages. You have high-brow fiction telling us to expect tragedy. Which. Thanks for the anxiety. <mark>You have mass-consumption media which takes gay emotions and removes gay expiriences<sup class="add">[sic: experiences]</sup>, leaving a husk of empty gestures and unanswered questions which feels more like a gambling addiction than even implied representation.</mark> And then, in response to that, you have publishing. Where gay authors are trying to depict their own experiences with queerness, but where a lot of content being created is either an overly positive response to gay tragedy-media, or as filling in the blanks that media like *Sk8* refuses to fill in. And in either case that results in this weird rose-tinted world where the beginning and end of the queer expirience is defined by your ability to have a boyfriend and look cute being gay together. 
 
-deliberate homophobic subtextual messaging,
-though there is a role that bigotry 
+</james>
+<comment>
 
-has in modern queer baiting.
-But when it comes to Adam from 
+James shows a clip of *Love, Simon* during the "mass-consumption media" comment, heavily implying that this is an example of straight women appropriating gayness, when the author of the adapted book *Simon vs. the Homo Sapiens Agenda*, Becky Albertalli, came out as bisexual in 2020. Not to mention, the director of *Love, Simon*, Greg Berlanti, is an openly gay man, and the screenwriters, Isaac Aptaker and Elizabeth Berger, could be anything for all we know.
 
-Sk8 or Gozine from Banana Fish,
-their queerness, is much more explicit 
+</comment>
+</compare>
 
-than that of our more understated heroes. Compare and contrast to Yuri!!! On 
+<compare>
+<james {% include timecode %}>
 
-ICE. We’re already talking about Anime,
-might as well jump in. And yes, I’ve already 
+And sure. Yes I did just make a video about how we need to have more queer representation in media directed at children. But just like there are hordes of queer people who literally always knew that they were queer (myself included), it’s just as valid that some people literally don’t have a clue they were gay until they’re in their twenties, thirties, forties, whenever. And while I’d like to say that it’s perfectly valid that teenagers like Reki and Langa don’t have their crap together yet,what about the other two heavily implied pairings that the show is counting on the audience shipping the crap out of? To say nothing of how strongly the show sets up Reki and Langa in visually-romantic settings. And I’d like to say that *Yuri!!! On Ice* has every right to be as understated as it wants to be, because sometimes you do want a relationship drama where the drama does not come from the relationship. 
 
-talked about it, but that shouldn’t suggest
-I don’t have evolving feelings on it. I praised Yuri on Ice for it’s 
+And this would be fine if this was not the (almost) only way we had to consume queer characters. And that understated ‘subtlety’ just starts to feel like a cop-out after a while. It would be nice if this wasn’t the excuse every. Single. Time. And because these instances are so subtle, either by design or necessity, we, L, G, B, T’s, and Q’s have to endure a barrage of straights trying to beat us down. All we really want is the ability to project our shared experiences to re-enforce our community bonds. 
 
-subtle representation of queerness,
-and I thought it was a greater asset than it 
+But somewhere, there’s a straight person saying that we’re ‘forcing gayness’ into everything. But the only reason we have to read queerness into anything is because it’s been ‘forced OUT’ of society for the last couple hundred years. Or that we get ‘crazy’ when people refuse to see the obvious coding of clearly gay characters. Because it’s not enough to say ‘hey. This experience really reminds me of some formative moments of my adolescence.’ There’s some straight person who’s never been worried about being rejected by their family saying that *Luca* is absolutely a cis-het mood. And you’re crazy for thinking otherwise! 
 
-was a detractor. Could it have used a kiss…?
-Without the arm blocking the way? Yes. But Yuri 
+And in order for us to consume actual feel-good gay media that is even remotely happy, we have two options. Watch fictional gay people <del>having</del><ins>who have</ins> expiriences we’re never going to have, or fictional presumed-straight people having pretty gay expiriences that look a whole lot like the ones we have had. 
 
-on Ice was also missing a lot of the staples of
-the other gay-baits. Mainly, that there was 
+Not to mention that there is a quiet homophobia to the celebration of gay-baiting. Our implicit romances are being framed under the pretence of being something forbidden. And I have to say that there is <del>this</del><ins>a</ins> kind of insensitivity around the popularity of forbidden romance. Because here in the queer community, forbidden romance is kind of the EXACT OPPOSITE of what we’re trying to accomplish with our fight for rights. That we need to work so damn incrementally to get real representation is so frustrating. By now we should have gay mainstream movies on the regular, gay TV shows that arent<sup class="add">[sic: aren't]</sup> just about teaching straight men how to wash their asses. Stories that aren’t just fantasy outcomes, or horrible outcomes. 
 
-no third-wheel heterosexual love intrest. And of characters who could be considered 
+But no. We’re stuck here arguing about fish boys, and searching for justification that mens’ figureskating JUST MIGHT be stuffed with glorious queers, and fighting people who insist <ins>that</ins> they’re straight every step of the way. We’re no further ahead than we were when *Queer as Folk* was on TV and *Brokeback Mountain* came out in 2005. SEVENTEEN YEARS AGO. Oh god I feel old.
 
-antagonists, Yuri-o softens as he begins to
-come into his budding, if only implied, attraction 
+You’d think, especially in the world of anime production, the success of shows like *Given*, both its animated and live-action adaptation, would light a fire under producers and make them realize theres<sup class="add">[sic: there's]</sup> a hell of a market out there for non-baited gay content. And I’m not letting Hollywood off the hook either. Half the damn city is gay. Where. Are. My. Gay. Superheroes Marvel!? My marketing brain tells me they’re missing out on so much money,seeing how the writing is on the wall when it comes to BL fiction. Even here in North America,there’s a consumer base far larger than you would expect for subtitled cute-boy gay-drama from Korea and Tailand<sup class="add">[sic: Thailand]</sup> and Taiwan and, yes even Japan. Which forces me through a mental obstacle course to reason why they wouldn’t be capitalising on this! 
 
-to Otabek. (Though how implied is this REALLY?) And when it comes to JJ. Well, 
+And the conclusion I come to is that they are making a comfortable profit off of our titillation. That this rash of gay-baiting is not only deliberate, calculated, and modeled, but that we are encouraged to do it. We, the audience, are encouraged to fill in the blanks that some… corporation has left empty on purpose. And the fact that this kind of gay-bait is looped in with visible queer representation isn’t unintentional either. Producers want this to be tied to other actively queer media to lend it validity, and feed into the fanbase which already ships what they are intended to. Having Reki and Langa doesn’t mean we have more gay representation. Having Hiyori and Ikuya isn’t more gay representation. It’s media gaslighting. It’s malicious. It’s dishonest. It’s fraudulent. It’s telling us we should be satisfied with effigies. 
 
-he’s straight, they can have him. And I’m not completely absolving 
+And the worst part is that it’s working. It’s so successful to the point where corporations encourage us to ship real people. Half of BTS is shipped together. And once upon a time One Direction, when they realised that their fanbase shipped them, even played into it by hugging each other <del>a</del><ins>an awful</ins> lot. And even kissing sometimes. Which has become a staple of almost all k-pop boy-bands. Boy band personalities are all developed by focus groups so they might as well be fiction right? Why not ship them? 
 
-Yuri On Ice for concealing queerness,
-but it does seem like I’m pointing out that there 
+But then there arises the problem of shipping real human beings where; (a) you remove their ability
+to self-declare identity; (b) if it is something like a boy band, or two television costars, you’re feeding into a corperation<sup class="add">[sic: corporation]</sup>’s exploitation of sexual identity as a marketing ploy, and; (c) it is a reduction of gayness to an object of fascination, a charicature<sup class="add">[sic: caricature]</sup> <del>or</del> steryeotype<sup class="add">[sic: stereotype]</sup>, rather than how some people live their lives because that’s who they are. 
 
-are many ways that queer-baiting can happen. Bear in mind that there is not as much 
+So again… is… shipping… bad…? Honestly when it comes to you in your room alone at night I say the sky’s the limit. Ship as much as you want. Ship as much as you need. Even when it comes to making ships that, like the *Blood Right<sup class="add">[sic: Bloodright]</sup>* series, go on to have their IP serial numbers filed off and made into their own standing property, by all means. Show Marvel, and Star Wars, and other gay-baiters that there is an audience out there that they’re missing out on. 
 
-‘shipping’ of Yuri and Victor as there is
-with Reki and Langa. By all means, it’s there. But 
+But when it DOES come to depicting characters that are outside your lived experience, all I ask is that you please be respectful of these communities’ need for self-determination. And if you do reach critical acclaim, please help promote other gay, lesbian, bisexual, and trans creators themselves. And honestly, most authors already do just that. And the favouratism<sup class="add">[sic: favoritism]</sup> of women when it comes to depicting gay men is more of an ‘industry’ problem. My concerns are primarily directed at the ways these industries use shipping as a way to manipulate fanbases.
 
-as someone who is not particularly involved in any
-shipping communities, there is not nearly as much 
+So if you are going to ship, I would advise you to be aware of which series ‘want’ you to ship their characters, because you may very well be nothing more than a cog in their marketing machine. And you’re a person. Not a billboard. And I don’t like that some media producers treat their audiences like that. 
 
-spill-over for Yuri on Ice as there is for Sk8. It’s also interesting that the 2016 Yuri on 
+But how can we separate media that is actively trying to manipulate their audience into shipping, media that is actively trying to subvert conservative values, and media which is full of well-written and flushed<sup class="add">[sic: fleshed]</sup> out characters who share strong chemistry with each other? The only answer I can offer is that… It… depends? On like… a lot of things. But mostly, it depends on intention. Which sucks because that’s the only thing that you really can't gauge. Especially that, if we’re gonna get philosophical, people are rarely honest with themselves. I’m making a monetized video about how it’s bad that corporations are using queerness to sell a product without actually either promoting queer identity, or promoting queer creations. Is there really a way to objectively say that I’m not just making this video for the money? Other than the fact that my YouTube ad revenue is NOT impressive. But there’s no way for you, the audience, to verify if I’m being disingenuous or not. If I’m baiting you anymore or any less than these producers I’ve been ranting about. 
 
-Ice shippers went over to Killing Stalking,
-but we won’t talk about that. And this isn’t to speak of the popularity 
+I’ve spent the last two years on here, on literally every live stream, talking about how my dream is to make movies and series about queer characters that aren’t JUST about being queer. A way to give back to the community, create movies and series, the likes of which I never got to see growing up. Hell, I still don’t get to see them much. But I haven’t actually gone ahead and done that, now have I? You can assume I will actually give back to the community, create works for the community that go above and beyond youtube. But will I? 
 
-of either series, because years after the
-fact… and Yuri on Ice still seems to 
+Just like we assume that creators who encourage shipping, either actively via baiting, or inactively by just supporting fan communities, have the best interest of the queer community at heart. But do they really? Most probably do! But some probably don’t… How the hell are we supposed to know? We used to think that <del>J*K*R*W*I*G</del><ins>[bleep]</ins> was the biggest queer ally in the world, and oh boy did that blow up in our faces. Instead, why not put some power in the hands of queer creators? So we don't have to guess if a pairing is supposed to be a couple for real, if we’re being baited by a corporation, or if we really are just reading too much into things. 
 
-retain it’s popularity along side Sk8,
-which came out just this past year. A distinction can be made where Yuri on 
+So shipping is probably fine, as long as we’re dealing with fictional characters. We keep asking for the real thing, we keep begging for it. For years. Decades. We say “please let me see myself on screen without it being about dying, gay bashing, being depressed, or some completely illogical teen fantasy. Please.” But we don’t get it. So we have to play make-believe. 
 
-Ice, while being much more understated,
-seems to want to imply that these 
+But why play make believe when we can make the real thing ourselves? So I’m starting a production company. Telos Pictures. Which will focus exclusively on queer stories written by queer people for queer audiences. And if the straights wanna watch too, by all means. But I think there’s a pretty sizable audience out there for this kind of thing. After all, 14% of the United States is African American – and Tyler Perry used that to create an empire of afro-american-centric media produced for black audiences. However… Recent polling shows that 1 in 6 adults born after 1989 identify as LGBT. That’s 16 percent! Let’s see what we can do! 
 
-characters ARE in a relationship. Whereas Sk8 is going out of it’s way to imply 
+As much as I believe that people outside the LGBT community can and should write about us, I believe the best way to communicate our experience is to create media that they can use to help expand their understanding of gay, lesbian, trans, bisexual, and nonbinary expiriences. Now I’m <del>going</del><ins>gonna</ins> need some help, and I don’t expect to burst onto the scene with some million dollar movies. We’ll start small and build our way up. If you’re interested in supporting this, or just want to find out more, visit the IndieGoGo link in the description of this video. We’ve got a lot in the works, and I’d love to have you on board. This is a team effort. Let’s show those heteros <ins>that</ins> we mean business.
 
-that it’s characters COULD BE in a relationship. And if we’re interested in getting 
+</james>
+</compare>  
+<compare>
+<credits class="closing" {% include timecode %}>
 
-into the nuance, there is a difference
-between an implication and a 
+Patron names roll over an upbeat rock instrumental.
 
-suggestion. As a matter of fact,
-I can sort queer-implied character 
-
-pairings into four groups. Of the ones I find tolerable… We have Accidental Ships are when you 
-
-have a creator who is making no effort
-to really depict queerness. 
-
-They’re just making some art,
-and their audience takes it upon themselves 
-
-to read into the chemistry between two given
-characters. Prime example would be Sokka 
-
-and Zuko from Avatar the Last Air Bender. Subversive Ships are when a creator actively wants 
-
-to depict queer characters, but is restricted
-either by network morality clauses, or national 
-
-censorship laws. I would include Yuri On Ice,
-as per the ongoing battle to depict the core 
-
-pairing openly, but also Legend of Korra’s
-Korrasami. As the creators wanted an out, bisexual 
-
-female couple but had to settle for some hand
-holding in the very last scene of the very last 
-
-episode. At least they got to kiss in the comic. And of the shipping groups that piss me off… Oblivious Ships don’t annoy me 
-
-so much but they still bother
-me. This is when you have creators who include 
-
-a degree of platonic yearning where it’s not
-clear how they overlooked ‘gay’ as an option. A 
-
-sub-sect of oblivious shipping is when you have
-a creative team that is either so misogynistic 
-
-or so hyper-masculine that they procedurally
-eliminate all female characters, or make 
-
-the women in the story so incredibly boring,
-that there is no one else to ship 
-
-but the boys. Think of Supernatural. And then, we have my least-favourite category 
-
-— Industrial Shipping. This is the one I’ve
-been raising red flags over. An act of soulless, 
-
-corporate infringement on the identity-centric
-needs for visible representation. This is what 
-
-I would refer to as ‘traditional gay baiting.’
-And I’ve made multiple whole videos about 
-
-this. But, for a prime example, see Teen Wolf. I consider this malicious enough that it’s a 
-
-pretty serious accusation to bring up — even when
-it’s about media that I do like. But am I willing 
-
-to say that this is what’s going on in Sk8? If it’s a deliberate branding tactic, then we 
-
-have to consider who they are marketing to.
-And just like the largest consumer base of BL in 
-
-television, anime, manga, and manhua are women,
-we can extrapolate that they would also be the 
-
-most significant consumers of gay-baited content. Which isn’t a bad thing in and of itself. 
-
-There are more women than gay men in general,
-so the fact that they occupy 
-
-a larger section of the market
-is probably something we can just 
-
-take for granted. And similarly,
-straight women are also the largest group 
-
-of creators who choose to depict gay men. But if the suppliers of gay 
-
-media are straight women…
-and the audience of gay media are 
-
-straight women… what about gay men? This whole topic of shipping is 
-
-a sticky situation, isn’t it?
-Not just because it COULD be queer baiting, 
-
-but because even the intentional ships aren’t
-meant for a gay audience. In most cases, 
-
-they’re meant for a straight female audience.
-Hell, a very good portion of 
-
-gay media that isn’t baited
-is really meant for a female audience. 
-
-And a lot of it is even written by women. Just going over some of the things 
-
-I’ve covered in past videos:  Killing Stalking, written by a woman.
-
-Painter of the Night, written by a woman.  Yuri on Ice, written by a woman.
-
-Banana Fish, written by a woman.  The Untamed, based on the 
-
-books written by a woman. I realise all of those examples come from 
-
-Asian media, but this is not uniquely
-an Asian phenomenon. Many, in fact most, of the 
-
-gay media that manages to reach a mainstream
-audience in the west is also written by women. 
-
-Brokeback Mountain certainly comes to mind. Gay Young Adult novels have become pretty popular 
-
-in recent years, but the biggest crossover hits
-are almost exclusively written by women. Simon 
-
-VS The Homosapien Agenda, also known as Love,
-Simon by Becki Albertali. Red, White and 
-
-Royal Blue by Casey McQuiston. The Simon Snow
-novels by Rainbow Rowell, which are actually 
-
-high concept Harry Potter fanfiction where
-Harry and Draco get together in the end. Though 
-
-in the Simon Snow books the Harry analogue,
-Simon, has dragon wings, and the 
-
-Draco analogue, Baz, is a vampire. Now, I’m not saying that women shouldn’t write 
-
-gay characters. I’ve read these books and I’ve
-really enjoyed them. Look. I’ve got them right 
-
-here. But it is… interesting that the biggest gay
-books to hit it really big these past years 
-
-have been written by women and not gay men.
-Including bestsellers like The Song of 
-
-Achilles, which came out a decade ago,
-when I first read it, but recently became a 
-
-mega hit when it was discovered by Book-Tock. With the exception of books by Adam Silvera, 
-
-you’d be hard pressed to find gay books that
-have gone mainstream. And it’s not like they 
-
-don’t exist. Look at this. Look at this shelf.
-All of its gay. I’ve read them all and most 
-
-of them are really good. Some of them are damn
-brilliant. But I ask, again, why is it that the 
-
-majority of readers, let alone the general public,
-would probably only recognize the books written 
-
-by female authors. Even in the olden times,
-books like The Frontrunner by Patricia Nell 
-
-Warren published in 1974, or The Persian Boy by
-Mary Renault published in 1972. Gay books, 
-
-written about gay men, written by women. So why don’t gay men get to represent themselves 
-
-in media? At least media that’s widely accepted
-by the mainstream? Queer women get to 
-
-represent themselves. At least sometimes.
-Look at animated hits like Stephen Universe, 
-
-or She-Ra and the Princesses of Power. In fact we don’t really see a whole lot of 
-
-non-canonical shipping among female characters.
-With the aforementioned gigantic 
-
-exception of Xena and Gabrielle.
-And the ship that actually 
-
-became canon, Korrasammi. But media has been much more accepting of out 
-
-lesbian characters in recent years. Not always,
-for sure. Gay men dominated LGBT 
-
-representation in media for a long time. Specifically white gay men. But in recent 
-
-years, producers, especially of television,
-have realized that lesbian characters are the 
-
-perfect way for them to get points on the annual
-GLAAD Media List for representation. Straight men 
-
-love lesbians, but usually only the ones who are
-hyper sexualized, straight women, for the most 
-
-part, are pretty accepting of lesbians, and the
-assumption is that everyone on the LGBTQIAPA… D… 
-
-2S+... spectrum will be accepting of them as well. Look at this list. This is a pretty comprehensive 
-
-list of lesbian, or at least women who love women,
-representation on TV. From shows as 
-
-diverse as Hannibal, Glee, All My Children,
-Orange is the New Black, Killing Eve, Nancy Drew, 
-
-and Doctor Who. Granted, many of these characters
-are written by straight male writers, so there is 
-
-definitely an element of lesbian fetishization to
-be accounted for. But a whole lot of them 
-
-are written by lesbian or bisexual women.
-Which allows the characters to experience 
-
-a range of storylines, many of which don’t
-involve their lesbianism at all. Allowing many 
-
-of them to have some kind of a happy ending. Which explains why there isn’t as much lesbian 
-
-shipping as there is gay shipping. There doesn’t
-appear to be as much need for it. Where as a lot 
-
-of the highest profile representations of gay men
-in media (Brokeback Mountain, Philadelphia, 
-
-Milk) certainly do NOT have happy endings.
-Nothing of the sort. This is where 
-
-the Bury your Gays trope came from.
-Which forces gay people, and people who want 
-
-to see happy gay relationships (oddly enough,
-women) to create imaginary ones with characters 
-
-who are not actually confirmed to be gay. And so ships are built. Whether they’re pretty 
-
-understandable, like with Steve and Bucky, Kirk
-and Spock, Sokka and Zuko, Aang and Zuko… hell, 
-
-Kitara and Zuko, Toph and Zuko. Everyone and Zuko. Oh, and one lesbian ship that did happen and I 
-
-was 100% on board for, Yara and Daenerys from
-Game of Thrones. Should have happened. Should 
-
-have been canon. Would have been amazing. And
-maybe if Dany had been banging a ship captain 
-
-she wouldn't have forgotten about the iron fleet. Anyway. Not all ships are all that obvious 
-
-though. Many times there’s not a
-hint of evidence but people want the 
-
-relationship to be a thing anyway,
-like my own personal ship of James and Butch 
-
-from the *Pokémon* anime. Who are obviously bitter
-exes. Or Rachel and Quinn from Glee. Magneto and 
-
-Professor X. Cap and Ironman. Spiderman and Venom. There’s not really any textual, 
-
-or subtextual evidence that these
-pairings could ever actually be a thing, 
-
-but since we need to create ships anyway,
-why not go the whole way and make some up 
-
-out of whole cloth? For instance, in my point
-of view anyway, there’s a few pairings that I 
-
-personally ship in the works of J*K R*W*L*I*N*G. Sirius Black and Remus Lupin are obvious 
-
-candidates. As well as Albus Potter and
-Scorpis Malfoy in the broadway play, Cursed 
-
-Child. Which, apparently, has kind of been
-confirmed now that the play has been condensed 
-
-into a one night thing. I cannot confirm myself,
-since I havent seen it with my own eyes, 
-
-but my broadway gays have told me this. And of course the original ship to come out of J*K 
-
-R*W*L*I*N*G’s work, Harry and Draco themselves.
-Now I never understood this, personally. I 
-
-never felt any romantic tension between the
-two of them but apparently everyone else on the 
-
-internet did. So much so that the fan-fiction
-fervour that arose online actually sparked a 
-
-few producers to insert queer baiting into the
-text of their media on purpose to bring in 
-
-fans. Such as with Teen Wolf and Sherlock. Fans have written, literally, billions of words 
-
-about these ships online. Whole libraries full
-of stories. All of this work to try and get 
-
-some gay male couples to have a happy ending.
-And even this fan fiction, for the 
-
-most part, is written by women.
-Gay men, for sure, contribute, but the vast 
-
-majority of these fan-written works are written
-by women. Straight women, and lesbians funnily 
-
-enough. And some of it goes very mainstream. Like the Blood Right book series, which 
-
-started its life as Finn/Poe fan fiction
-before being redeveloped and 
-
-picked up by a publisher. And again, I don’t want to say women 
-
-shouldn’t write gay characters.
-The kawaii version of gayness created 
-
-by these women has gone a long way to
-creating more acceptance of queer people, 
-
-mainly queer men, among straight women. But sometimes it gets kind of… creepy. After 
-
-I released the Killing Stalking video you
-wouldn’t believe the amount of (mostly) straight 
-
-women who told me they loved Killing Stalking
-because it let them explore extreme kinks without 
-
-the associated trauma of a woman being involved.
-Which is just… no. Don’t do that. 
-
-Do not use gay men as experiments.
-In real life or fiction. We’re not marionettes 
-
-to play with for your amusement. Especially when
-something like Killing Stalking becomes a huge 
-
-success and media producers might look and say
-“Ah. So this is how we should portray the gays.” Gay readers seem to love messy gay characters. 
-
-Gay readers even love problematic gay characters.
-I sure do — I ship Hannibal and Will! Where 
-
-the line is drawn is difficult to nail down
-though. But if we — gay men, women, lesbians, 
-
-trans writers, and even straight men — are
-going to exist in a community of writers 
-
-and content creators without gatekeepers,
-we need to be able to recognize how certain 
-
-identities would like to be respected. And while there aren’t any hard rules 
-
-about this, the best way to pick up the
-guidelines are to listen to what these 
-
-people have to say about themselves. I realize this is heavily focused around the 
-
-psychological condition of gay men. Who are,
-admittedly, probably the most privileged of the 
-
-whole community. However — my concern comes from
-the development of a bunch of baby gays who are 
-
-coming of age now and in the future. With them
-in mind, they are going to have to fight against 
-
-a lot of patriarchal or even toxic masculinity. (Insert Sean Penn quote) Ugh. And insofar as queer acceptance is constructed 
-
-around assimilation into straight values,
-the modern depiction of gay-baited 
-
-pseudo-representation, constructed by straight
-people to feed into a straight industry, is going 
-
-to perpetuate those straight values. And it is
-MUCH more difficult to un-indoctronate oneself 
-
-from internalized homophobia than it is to model
-oneself after constructive, and realistic 
-
-archatypes of openly-expressed queerness. Because make no mistake, a growing trend 
-
-of gay-baiting DOES communicate to gay
-audiences that the only way you can be visible 
-
-in society… is to be straight. And coupled with
-the instances of visible gayness in awards-bait 
-
-media where gay characters can only exist if
-they’re sad — we can only be ‘happy’ if we’re 
-
-straight. Or at least not confirmed to be gay. And even in this day and age of tolerance, we 
-
-exist in a world that is consistently trying
-to shove us back into the closet, 
-
-to define the acceptable expressions
-of our gayness, or to put us in dollhouses 
-
-for the bemusement of a cis-het audience. And so… we ship. We ship characters created by 
-
-straight writers. And indeed,
-straight writers are more likely to bury their 
-
-gays. Is their perspective of queerness that it
-involves suffering insofar that suffering 
-
-is the direct result of that queerness? You will find bury your gays’ much more commonly 
-
-in visual media. This becomes especially true
-as a particular piece of media 
-
-is meant to receive awards. Following the critical and awards-success 
-
-of Philadelphia, starring Tom Hanks,
-this seemed to be what Hollywood really latched 
-
-on to as far as what it was willing to depict. Didn’t help that Hollywood’s first big 
-
-gay love story, Brokeback mountain,
-which not only featured one dead gay, a 
-
-surviving gay who had to feel bad about it, and
-closeted, forbidden love, but 
-
-it was written by a woman. And as a piece of media made by a woman, 
-
-developed into a film made by straight people,
-featuring straight actors, you naturally 
-
-miss out on a lot of the nuances
-of being gay. Like, I don’t know, 
-
-being blissfully ignorant to the
-consequences of bottoming without using 
-
-lube after eating a plate full of beans. But Brokeback Mountain itself is a great instance 
-
-of the ethics behind writing outside your lived
-experiences. Writer Annie Proulx actually 
-
-spoke out against a trend among gay men
-who shipped her Brokeback Characters Enis 
-
-and Jack. She did not take kindly to gay men
-who wrote fan fiction and re-wrote her ending that 
-
-they both survived and lived happily ever after.
-Having a dead gay was so important to her 
-
-that she wrote angry articles about it. She refused to listen to the voices of 
-
-identities whom she used to expand her platform. Though yes these are her characters, Proulx was 
-
-writing without the awareness that gay people,
-go figure, wanted an alternative story where they 
-
-could be happy. She didn’t seem to understand why
-gay men would be so interested in re-writing 
-
-her tragedy into an ending about happy gays. By all means, it isn’t just women who do this. 
-
-Call Me By Your Name was written by a straight
-man. And there were no burried gays, but 
-
-there was a closeted romance and sad gays. And because, for a significant amount of time,
-a dead gay was the only thing we 
-
-could really expect from major media,
-as a reaction, we had to ship. The alternative 
-
-to shipping was a world that believed that gay
-people’s only role in life was to offer up some 
-
-saucy fashion advice and then die tragically. Shipping our way to a world where we could be 
-
-happy, however, may have snapped in the other
-direction. Particularly in publishing. Where 
-
-queer writers are interested in exploring gay
-characters as they would factor into different 
-
-genres of fiction, and exploring queer identity
-itself insofar as it exists in a world that 
-
-is designed to cater to cis-het people. However straight creators either 
-
-lean to the melodramatically tragic,
-or the melodramatically…fluffy. Which is how you get a whole generation 
-
-of gays who have deblitating FOMO
-because their life experiences did not match
-the experiences about gayness set by straight 
-
-women with a kawaii idea of two gay people. So there’s this kind of perfect storm of angst as 
-
-different areas of media interplay off each other
-and send conflicting messages. You 
-
-have high-brow fiction telling us
-to expect tragedy. Which. Thanks for the anxiety. You have mass-consumption media which takes 
-
-gay emotions and removes gay expiriences,
-leaving a husk of empty gestures and 
-
-unanswered questions which feels more
-like a gambling addiction than 
-
-even implied representation. And then, in response to that, you have
-publishing. Where gay authors are trying to 
-
-depict their own experiences with queerness,
-but where a lot of content being created is either 
-
-an overly positive response to gay tragedy-media,
-or as filling in the blanks that 
-
-media like Sk8 refuses to fill in.
-And in either case that results in this weird 
-
-rose-tinted world where the beginning and end of
-the queer expirience is defined by your ability to 
-
-have a boyfriend and look cute being gay together. And sure. Yes I did just make a video about how 
-
-we need to have more queer representation in
-media directed at children. But just like there 
-
-are hordes of queer people who literally always
-knew that they were queer (myself included), 
-
-it’s just as valid that some people literally
-don’t have a clue they were gay until they’re 
-
-in their twenties, thirties, forties, whenever. And while I’d like to say that it’s perfectly 
-
-valid that teenagers like Reki and Langa
-don’t have their crap together yet, 
-
-what about the other two heavily
-implied pairings that the show is counting 
-
-on the audience shipping the crap out of?
-To say nothing of how strongly the show sets up 
-
-Reki and Langa in visually-romantic settings. And I’d like to say that Yuri!!! On Ice has every 
-
-right to be as understated as it wants to be,
-because sometimes you do want a relationship 
-
-drama where the drama does not come from the
-relationship. And this would be fine if this 
-
-was not the (almost) only way we had to consume
-queer characters. And that understated ‘subtlety’ 
-
-just starts to feel like a cop-out after a while.
-It would be nice if this wasn’t 
-
-the excuse every. Single. Time. And because these instances are so 
-
-subtle, either by design or necessity,
-we, L, G, B, T’s, and Q’s have 
-
-to endure a barrage of straights
-trying to beat us down. All we really want is 
-
-the ability to project our shared experiences
-to re-enforce our community bonds. But 
-
-somewhere, there’s a straight person saying
-that we’re ‘forcing gayness’ into everything. 
-
-But the only reason we have to read queerness
-into anything is because it’s been ‘forced OUT’ 
-
-of society for the last couple hundred years. Or that we get ‘crazy’ when people 
-
-refuse to see the obvious coding of
-clearly gay characters. Because 
-
-it’s not enough to say ‘hey.
-This experience really reminds me of some 
-
-formative moments of my adolescence.’
-There’s some straight person who’s never been 
-
-worried about being rejected by their family
-saying that Luca is absolutely a cis-het 
-
-mood. And you’re crazy for thinking otherwise! And in order for us to consume actual feel-good 
-
-gay media that is even remotely happy,
-we have two options. Watch fictional gay people 
-
-having expiriences we’re never going to have,
-or fictional presumed-straight people having
-pretty gay expiriences that look a 
-
-whole lot like the ones we have had. Not to mention that there is a quiet 
-
-homophobia to the celebration of gay-baiting.
-Our implicit romances are being framed under 
-
-the pretence of being something forbidden. And I have to say that there is this kind 
-
-of insensitivity around the popularity of
-forbidden romance. Because here in the queer 
-
-community, forbidden romance is kind of
-the EXACT OPPOSITE of what we’re trying 
-
-to accomplish with our fight for rights. That we need to work so damn incrementally 
-
-to get real representation is so
-frustrating. By now we should have 
-
-gay mainstream movies on the regular,
-gay TV shows that arent just about 
-
-teaching straight men how to wash
-their asses. Stories that aren’t just 
-
-fantasy outcomes, or horrible outcomes. But no. We’re stuck here arguing about fish 
-
-boys, and searching for justification that
-mens’ figureskating JUST MIGHT be stuffed 
-
-with glorious queers, and fighting people
-who insist they’re straight every step of 
-
-the way. We’re no further ahead than we
-were when Queer as Folk was on TV and Brokeback 
-
-Mountain came out in 2005. SEVENTEEN YEARS AGO. Oh god I feel old. You’d think, especially in the world of anime 
-
-production, the success of shows like Given,
-both its animated and live-action adaptation, 
-
-would light a fire under producers and make
-them realize theres a hell of a market 
-
-out there for non-baited gay content. And I’m not letting Hollywood off the hook either.
-Half the damn city is gay. Where. 
-
-Are. My. Gay. Superheroes Marvel!? My marketing brain tells me they’re 
-
-missing out on so much money,
-seeing how the writing is on the wall when it 
-
-comes to BL fiction. Even here in North America,
-there’s a consumer base far larger than 
-
-you would expect for subtitled cute-boy
-gay-drama from Korea and Tailand 
-
-and Taiwan and, yes even Japan. Which forces me through a mental 
-
-obstacle course to reason why
-they wouldn’t be capitalising on this! And the 
-
-conclusion I come to is that they are making a
-comfortable profit off of our titillation. That 
-
-this rash of gay-baiting is not only deliberate,
-calculated, and modeled, but that we are 
-
-encouraged to do it. We, the audience,
-are encouraged to fill in the blanks that 
-
-some… corporation has left empty on purpose. And the fact that this kind of gay-bait is 
-
-looped in with visible queer representation
-isn’t unintentional either. Producers want 
-
-this to be tied to other actively queer media
-to lend it validity, and feed into the fanbase 
-
-which already ships what they are intended to. Having Reki and Langa doesn’t mean we have 
-
-more gay representation. Having Hiyori and
-Ikuya isn’t more gay representation. It’s media 
-
-gaslighting. It’s malicious. It’s dishonest.
-It’s fraudulent. It’s telling us we 
-
-should be satisfied with effigies. And the worst part is that it’s working. It’s so successful to the point where 
-
-corporations encourage us to ship
-real people. Half of BTS is shipped together. 
-
-And once upon a time One Direction, when they
-realised that their fanbase shipped them, 
-
-even played into it by hugging each other
-a lot. And even kissing sometimes. Which has 
-
-become a staple of almost all k-pop boy-bands. Boy band personalities are all developed by focus
-groups so they might as well be 
-
-fiction right? Why not ship them? But then there arises the problem of shipping real 
-
-human beings where; (a) you remove their ability
-to self-declare identity; (b) if it is something 
-
-like a boy band, or two television costars,
-you’re feeding into a corperation’s exploitation 
-
-of sexual identity as a marketing ploy, and;
-(c) it is a reduction of gayness to an object 
-
-of fascination, a charicature or steryeotype,
-rather than how some people live their 
-
-lives because that’s who they are. So again… is… shipping… bad…? Honestly when it comes to you in your room 
-
-alone at night I say the sky’s the limit.
-Ship as much as you want. 
-
-Ship as much as you need. Even when it comes to making ships that, like 
-
-the Blood Right series, go on to have their
-IP serial numbers filed off and made into 
-
-their own standing property, by all means. Show Marvel, and Star Wars, 
-
-and other gay-baiters that
-there is an audience out there 
-
-that they’re missing out on. But when it DOES come to depicting characters 
-
-that are outside your lived experience,
-all I ask is that you please be respectful of 
-
-these communities’ need for self-determination.
-And if you do reach critical acclaim, please 
-
-help promote other gay, lesbian, bisexual,
-and trans creators themselves. And honestly, most 
-
-authors already do just that. And the favouratism
-of women when it comes to depicting gay 
-
-men is more of an ‘industry’ problem. My concerns are primarily directed 
-
-at the ways these industries
-use shipping as a way to manipulate fanbases.
-So if you are going to ship, I would advise you to 
-
-be aware of which series ‘want’ you to ship their
-characters, because you may very well be nothing 
-
-more than a cog in their marketing machine. And you’re a person. Not a billboard. And I don’t
-like that some media producers 
-
-treat their audiences like that. But how can we separate media that is actively 
-
-trying to manipulate their audience into shipping,
-media that is actively trying to subvert 
-
-conservative values, and media which is full
-of well-written and flushed out characters 
-
-who share strong chemistry with each other? The only answer I can offer is that… It… depends? On like… a lot of things. But mostly, 
-
-it depends on intention. Which sucks
-because that’s the only thing 
-
-that you really can't gauge.
-Especially that, if we’re gonna get philosophical, 
-
-people are rarely honest with themselves. I’m making a monetized video about how it’s bad 
-
-that corporations are using queerness to sell
-a product without actually either promoting 
-
-queer identity, or promoting queer creations.
-Is there really a way to objectively say 
-
-that I’m not just making this video for
-the money? Other than the fact that my 
-
-YouTube ad revenue is NOT impressive. But there’s no way for you, the audience, 
-
-to verify if I’m being disingenuous or not.
-If I’m baiting you anymore or any less than 
-
-these producers I’ve been ranting about. I’ve spent the last two years on 
-
-here, on literally every live stream,
-talking about how my dream is to make movies 
-
-and series about queer characters that aren’t
-JUST about being queer. A way to give back 
-
-to the community, create movies and series,
-the likes of which I never got to see growing 
-
-up. Hell, I still don’t get to see them much. But I haven’t actually gone 
-
-ahead and done that, now have I?
-You can assume I will actually 
-
-give back to the community,
-create works for the community that go 
-
-above and beyond youtube. But will I? Just like we assume that creators who encourage
-shipping, either actively via baiting, or 
-
-inactively by just supporting fan communities,
-have the best interest of the queer 
-
-community at heart. But do they really?
-Most probably do! But some probably don’t… 
-
-How the hell are we supposed to know? We used to think that J*K*R*W*I*G 
-
-was the biggest queer ally in the
-world, and oh boy did that blow up in our faces. Instead, why not put some power 
-
-in the hands of queer creators?
-So we don't have to guess if a pairing 
-
-is supposed to be a couple for real,
-if we’re being baited by a corporation, or if 
-
-we really are just reading too much into things. So shipping is probably fine, as long as 
-
-we’re dealing with fictional characters. We keep asking for the real thing, we keep 
-
-begging for it. For years. Decades. We say “please
-let me see myself on screen without it being 
-
-about dying, gay bashing, being depressed, or some
-completely illogical teen fantasy. Please.” But 
-
-we don’t get it. So we have to play make-believe.
-But why play make believe when we 
-
-can make the real thing ourselves? So I’m starting a production company. Telos 
-
-Pictures. Which will focus exclusively on
-queer stories written by queer people for queer 
-
-audiences. And if the straights wanna watch too,
-by all means. But I think there’s a pretty 
-
-sizable audience out there for this kind of thing.
-After all, 14% of the United States is African 
-
-American – and Tyler Perry used that to create
-an empire of afro-american-centric 
-
-media produced for black audiences. However… Recent polling shows that 1 in 6 
-
-adults born after 1989 identify as LGBT.
-That’s 16 percent! Let’s see what we can do! As much as I believe that people outside the 
-
-LGBT community can and should write about us,
-I believe the best way to communicate our 
-
-experience is to create media that they can use to
-help expand their understanding of gay, lesbian, 
-
-trans, bisexual, and nonbinary expiriences. Now I’m going need some help, and I don’t expect 
-
-to burst onto the scene with some million dollar
-movies. We’ll start small and build our way 
-
-up. If you’re interested in supporting this,
-or just want to find out more, visit the 
-
-IndieGoGo link in the description of this video.
-We’ve got a lot in the works, and I’d love 
-
-to have you on board. This is a team effort.
-Let’s show those heteros we mean business.
+</credits>
+</compare>
