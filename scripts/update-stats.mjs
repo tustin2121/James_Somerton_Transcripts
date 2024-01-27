@@ -11,6 +11,8 @@ const INPUT_PATH = `../_videos`;
 const OUTPUT_FILE = `../_data/stats.yml`;
 
 let sources = new Map();
+let ironic = [];
+
 let info = new Map();
 let stats = { 'p-total':0, 'm-total':0, 'y-total':0 };
 let list = [];
@@ -32,9 +34,10 @@ for (const { name, id } of list) {
 		const data = fm(await readFile(PATH.join(INPUT_PATH, name), { flag: 'r', encoding:'utf8' }));
 		if (data.frontmatter === undefined) continue;
 		let jsdom = new JSDOM(data.body);
+		data.id = id;
 		
 		let obj = info.get(id);
-		countStatistics(obj, jsdom.window.document, data.attributes);
+		countStatistics(obj, jsdom.window.document, data);
 		determineVolume(obj, jsdom.window, jsdom.window.document);
 		collectForParent(id, data.attributes);
 		
@@ -76,7 +79,7 @@ stats["p-total"] = sources.size;
 
 let output = [];
 { // Prepend global stats
-	output.push(YAML.dump({ _global: stats }, { flowLevel: 2, quotingType: '"' }));
+	output.push(YAML.dump({ _global: stats, _irony: ironic }, { flowLevel: 2, quotingType: '"' }));
 }{
 	output.push(YAML.dump({ _all: [...sources.values()] }, { flowLevel: 2, forceQuotes:true, quotingType: '"' }));
 }
@@ -174,12 +177,16 @@ function determineVolume(obj, window, document) {
  * 
  * @param {Object} obj
  * @param {Document} document 
- * @param {Object} fm 
+ * @param {import("front-matter").FrontMatterResult} data 
  */
-function countStatistics(obj, document, fm) {
+function countStatistics(obj, document, data) {
+	const fm = data.attributes;
 	Array.from(document.querySelectorAll("[stat:id]")).forEach(n => {
 		let id = n.getAttribute("stat:id");
 		stats[id] = (stats[id] ?? 0) + 1;
+	});
+	Array.from(document.querySelectorAll(`[stat:id="irony"]`)).forEach(n => {
+		ironic.push({ source:data.id, id:n.id, quote:n.textContent });
 	});
 	
 	if (fm.cite === undefined) return;

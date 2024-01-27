@@ -2,7 +2,7 @@
 # Do not commit this file.
 _global:
   p-total: 82
-  m-total: 35
+  m-total: 37
   y-total: 9
   changed-number: 2
   p-wiki: 15
@@ -13,8 +13,8 @@ _global:
   p-book: 6
   p-student: 4
   y-acephobia: 4
+  irony: 2
   baa: 3
-  irony: 1
   p-academic: 4
   p-news: 9
   blatant-bgm: 2
@@ -24,6 +24,9 @@ _global:
   y-transphobia: 1
   m-inverse: 1
   made-quote: 1
+_irony:
+  - {id: gay-erasure, quote: "It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?", source: CODEBREAKER}
+  - {id: other-peoples-material, quote: "Richie ended up telling other people’s jokes. He amassed a lot of wealth, but he lives his life alone.", source: DeepCuts000}
 
 _all:
   - {"color": 2, "short": "Wallpaper (eeee, 2005)", "full": "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", "url": "http://gallery.minitokyo.net/view/93510"}
@@ -117,6 +120,8 @@ _all:
   plagiarized: {}
   misinformation: {}
   yikes: {}
+CODEBREAKER:
+  vol: { p: 0.0, m: 5.3, y: 0.0, w: 0.0, v: 0 }
 DeepCuts000:
   vol: { p: 74.2, m: 5.6, y: 0.0, w: 54.8, v: 0 }
 F5ab1X2CFq8:
