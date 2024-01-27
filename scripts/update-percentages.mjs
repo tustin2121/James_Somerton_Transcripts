@@ -53,17 +53,21 @@ for (const { name, id } of list) {
 for (const [id, obj] of info) {
 	if (obj._volRecalc === undefined) continue;
 	let total = obj._volRecalc.reduce((a, b) => a + b.total, 0);
+	let segments = obj._volRecalc.reduce((a, b) => a + b.segments, 0);
 	let p = obj._volRecalc.reduce((a, b) => a + b.p, 0);
 	let m = obj._volRecalc.reduce((a, b) => a + b.m, 0);
 	let y = obj._volRecalc.reduce((a, b) => a + b.y, 0);
 	let w = obj._volRecalc.reduce((a, b) => a + b.w, 0);
 	let v = obj._volRecalc.reduce((a, b) => a + b.v, 0);
 	
-	p = ((p / total) * 100).toFixed(1);
-	m = ((m / total) * 100).toFixed(1);
-	y = ((y / total) * 100).toFixed(1);
+	console.log(`Recalculating volume for ${id}... ${total} words, ${segments} segments (${p} plagiarized, ${m} misinformation, ${y} yikes, ${w} plagiarized exact, ${v} plagiarized video)`)
+	
+	p = ((p / segments) * 100).toFixed(1);
+	m = ((m / segments) * 100).toFixed(1);
+	y = ((y / segments) * 100).toFixed(1);
 	w = ((w / total) * 100).toFixed(1);
 	
+	console.log(`  ${p}% plagiarized, ${m}% misinformation, ${y}% yikes, ${w}% plagiarized exact, ${v} plagiarized video`)
 	obj.vol = { p, m, y, w, v };
 }
 
@@ -154,7 +158,7 @@ function determineVolume(obj, window, document) {
 	let w = nodes.map(n => n.pExact).reduce((a, b) => a + b);
 	let v = nodes.map(n => n.pVid).reduce((a, b) => a + b);
 	
-	obj._words = { p, m, y, w, v, total };
+	obj._words = { p, m, y, w, v, total, segments:nodes.length };
 	if (total === 0) return;
 	if (p === 0 && m === 0 && y === 0 && w === 0 && v === 0) return;
 	

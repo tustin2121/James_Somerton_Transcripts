@@ -1,7 +1,7 @@
 ---
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
-status: Auto
+status: In Progress
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
   - "Codebreakers: a rant by James Somerton (Thumbnail)"
@@ -14,7 +14,7 @@ notes:
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
-  formatting: 
+  formatting: $cite$tustin2121
   citation: 
 
 cite:
@@ -22,6 +22,19 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    film_class:
+      color: 4
+      short: "(DaVega, 2016)"
+      full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
+      url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
+      chain:
+        _desc_: "which took overviews from..."
+        wiki_theory: 
+          full: "Wikipedia. (2009). <em>Film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719"
+          chain:
+            _desc_: "which plagiarized from..."
+            read_film: &read_film { color: 1, short: "(Monaco, 1977)", full: "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", url: "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign hbomb = site.data.cite.hbomb %}

@@ -1,23 +1,24 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  p-total: 78
+  p-total: 82
   m-total: 35
-  y-total: 6
+  y-total: 9
   changed-number: 2
   p-wiki: 15
   sub-queer: 16
   changed-quote: 12
   correction: 2
   changed-name: 5
-  p-book: 5
+  p-book: 6
   p-student: 4
+  y-acephobia: 4
   baa: 3
   irony: 1
   p-academic: 4
   p-news: 9
   blatant-bgm: 2
-  p-youtube: 6
+  p-youtube: 7
   y-exclusion: 1
   y-misogyny: 1
   y-transphobia: 1
@@ -37,6 +38,7 @@ _all:
   - {"color": 4, "short": "(Telushkin, 2018)", "full": "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", "url": "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television"}
   - {"color": 5, "short": "(deGroot, 2011)", "full": "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", "url": "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past"}
   - {"color": 6, "short": "(Weiss, 2019)", "full": "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", "url": "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/"}
+  - {"color": 4, "short": "(DaVega, 2016)", "full": "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College.", "url": "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf", "chain": {"_desc_": "which took overviews from...", "wiki_theory": {"full": "Wikipedia. (2009). <em>Film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719", "chain": {"_desc_": "which plagiarized from...", "read_film": {"color": 1, "short": "(Monaco, 1977)", "full": "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", "url": "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover"}}}}}
   - {"color": 2, "short": "(Park, 2014)", "full": "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", "url": "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820"}
   - {"color": 13, "short": "(Kohr, 2020)", "full": "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", "url": "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend"}
   - {"color": 3, "short": "(Shulman, 2013)", "full": "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", "url": "https://www.metroweekly.com/2013/10/queer-as-carrie/"}
@@ -66,7 +68,7 @@ _all:
   - {"color": 1, "short": "(Keown, 2021)", "full": "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", "url": "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/"}
   - {"color": 2, "short": "(Hunt, 2019)", "full": "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", "url": "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html"}
   - {"color": 5, "short": "(Borello, 2014)", "full": "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", "url": "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", "type": "student"}
-  - {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production"}
+  - {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production", "chain": {"_desc_": "which condensed from...", "_": {"full": "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com.", "url": "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest", "chain": {"_desc_": "which got it from...", "_": {"full": "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com.", "url": "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/", "chain": {"_desc_": "which got it from...", "_": {"full": "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter", "url": "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"}}}}}}}
   - {"color": 1, "short": "(Be Kind Rewind, 2021)", "full": "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=jb-C4fcn2E0"}
   - {"color": 4, "short": "", "full": "TODO Richard Plant's book The Pink Triangle", "url": "", "type": "book"}
   - {"color": 3, "short": "(Rokakis, 2013)", "full": "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", "url": "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", "type": "student"}
@@ -77,8 +79,11 @@ _all:
   - {"color": 6, "short": "Abigail Disney (Bergeson, 2022)", "full": "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", "url": "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/"}
   - {"color": 7, "short": "No Russian Releases (FanFest, 2022)", "full": "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", "url": "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/"}
   - {"color": 1, "short": "Anita Bryant (Eugenios, 2022)", "full": "Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from", "url": "https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215"}
+  - {"color": 3, "short": "(Griffin, 2000)", "full": "Griffin, S. (2000). <em>Tinker Belles and Evil Queens: The Walt Disney Company from the Inside Out</em> New York. New York University Press.", "url": "https://www.jstor.org/stable/j.ctv12pnpj2", "type": "book", "style": "book"}
+  - {"color": 5, "short": "(Tom, 2018)", "full": "Tom, J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", "url": "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/"}
   - {"color": 1, "short": "", "full": "", "url": "https://www.medicalnewstoday.com/articles/stockholm-syndrome"}
-  - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": ""}
+  - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
+  - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
   - {"color": 1, "short": "Merlin (Avila, 2016)", "full": "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
   - {"color": 3, "short": "Poe/Finn (Avila, 2016)", "full": "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=NVompS_JoJw"}
   - {"color": 4, "short": "Johnlock (Avila, 2016)", "full": "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=RpItybDHavo"}
@@ -92,7 +97,7 @@ _all:
   - {"color": 3, "short": "Cultural Revue (Hummel, 2022)", "full": "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", "url": "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/"}
   - {"color": 4, "short": "Vice (Jackson, 2021)", "full": "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", "url": "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan"}
   - {"color": 1, "short": "RWRB Movie (Wikipedia, 2023)", "full": "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381"}
-  - {"color": 1, "short": "Vox Article (Burns, 2019)", "full": "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from", "url": "https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf"}
+  - {"color": 1, "short": "Vox Article (Burns, 2019)", "full": "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from", "url": "https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf", "chain": {"_desc_": "which reused paragraphs from...", "_": {"full": "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em>. Retrieved December 14, 2023, from", "url": "https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical"}}}
   - {"color": 2, "short": "Scotsman Article (Burns, 2019)", "full": "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", "url": "https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977"}
   - {"color": 3, "short": "Harry Potter Day (National Today, n.d.)", "full": "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", "url": "https://nationaltoday.com/harry-potter-day/"}
   - {"color": 1, "short": "(Demchuk, 2021)", "full": "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", "url": "https://hazlitt.net/feature/where-monsters-are-made"}
@@ -143,22 +148,22 @@ pW_RjbZYi1s:
     UtRyi-e_HTc$stewart_stern: "James did not double-check the name of the screenwriter."
   yikes:
     SdtbQhAKFSI$lt-skip: "James, basically reading beat for beat from Russo's book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into."
-  vol: { p: 0.5, m: 0.0, y: 0.0, w: 38.4, v: 0 }
+  vol: { p: 52.6, m: 1.5, y: 0.0, w: 38.4, v: 0 }
 qa3A_ery3Hg:
   vol: { p: 46.8, m: 0.0, y: 0.0, w: 14.7, v: 0 }
 QuiEKdTmj2M:
-  vol: { p: 20.8, m: 0.0, y: 0.0, w: 6.2, v: 0 }
+  vol: { p: 16.7, m: 0.0, y: 0.0, w: 5.8, v: 0 }
 SdtbQhAKFSI:
   vol: { p: 89.1, m: 2.2, y: 0.0, w: 68.4, v: 0 }
 Tk9wh5rBmW0:
   plagiarized:
-    wiki_film: {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production"}
+    wiki_film: {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production", "chain": {"_desc_": "which condensed from...", "_": {"full": "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com.", "url": "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest", "chain": {"_desc_": "which got it from...", "_": {"full": "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com.", "url": "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/", "chain": {"_desc_": "which got it from...", "_": {"full": "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter", "url": "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"}}}}}}}
     bkr_video: {"color": 1, "short": "(Be Kind Rewind, 2021)", "full": "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=jb-C4fcn2E0"}
   misinformation:
     nCi19sYugIA$haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     nCi19sYugIA$misattributed: "James misattributes a quote from a news article as being from a book."
   yikes: {}
-  vol: { p: 0.1, m: 0.0, y: 0.0, w: 2.3, v: 0 }
+  vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
 Unrequited1:
   vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
 UtRyi-e_HTc:

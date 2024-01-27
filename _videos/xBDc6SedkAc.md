@@ -37,6 +37,7 @@ cite:
 ---
 {% assign todd = site.data.cite.todd %}
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
 <credits class="desc">
@@ -591,21 +592,29 @@ it's great! It's good. It's fine.
 [^broccoli]: Fact checked, true: https://www.bbc.com/news/health-50387126
 
 </james>
-<comment id="sex_broccoli">
-{% include header for=tustin %}
+<comment span=2 id="sex_broccoli" stat:id="y-acephobia">
+{% include header video=ace_116 at="1h55m13s" %}
 
-"How do you know you don't like X if you haven't tried it," works where X = food. But when X = sex, it's acephobic. Asexual people don't have to "try sex" to know they don't like it, and forcing someone to have sex when they don't want to is... well, have a word for that.
+> Courtney: [..] And he started comparing it to food. He’s like, “Well, you know broccoli, you don’t actually know if you like broccoli until you try it. And sex is the same way. You don’t know if you like it until you try it. So even a lot of Aces will, you know, experiment.” And it’s like, as true as it might be that some Aces do experiment sexually — either before, during, or after discovering Asexuality — saying outright that you have to have sex to know if you like it? I don’t like that framing. That is not okay.
+>
+> Royce: That’s because it’s framed in the same way that corrective rapists frame it.
+>
+> Courtney: Yeah! The number of fucking men who have heard that I’m Asexual and have said, “I can fix that” or “You just haven’t had the right dick yet.”
+> 
+> Royce: I mean, that’s the same thing. And gay men get that too, if they haven’t had sex with a woman.
+> 
+> Courtney: Yeah, lesbians probably get it a lot more often, but yeah.
+> 
+> Royce: Oh, absolutely. What I was trying to get at is that that is an inherently bigoted argument towards anyone’s orientation. And anyone who is thinking critically about that would see and understand that.
+> 
+> Courtney: Yes! Because you know what they call it when you go to a gay man and say, “No, you need to have sex with a woman so that you understand that you actually like sex with a woman”? They’d call that conversion therapy. [...] there are some sex-repulsed Asexuals who know that they do not want sex. They never want sex. It is not something they feel is missing from their life. Like, I’ve been in that camp myself. I am closer to the sex-repulsed side of the spectrum than a lot of other Aces are. Do you know how incredibly fucked up it is to go to an Asexual person and just be like, “How do you know you don’t like it if you’ve never had it? You’ve got to have it.” That’s what we in our community refer to as compulsory sexuality. A lot of people in the queer community know about compulsory *hetero*sexuality, where everyone’s assumed straight until proven otherwise. But regardless, even the queer community enforces compulsory sexuality.
 
 </comment>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Given society's push to present sex as pleasurable, many start by trying it out and then spend... maybe even years trying to figure out why it's not working for them. Keep in mind that "asexual" doesn't always mean "no sex drive". Ace, like everything else in sexuality, is not only a spectrum but a matrix. This is pertinent as *Heartstopper*'s author, Alice Oseman, self-identifies as asexual themself. Which likely means that as per the Stan Lee rule of "write the stuff you wish you could read", they want romantic drama that *isn't* just focused around sex. And that should be that. It should be abundantly okay for this kind of media to exist, just as it should be abundantly okay for *Young Royals* and *Elite* to exist!
 
 </james>
-<from></from>
 </compare>
 
 <compare>

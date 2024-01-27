@@ -1,0 +1,14 @@
+{%- comment %} Expected: list of sources {% endcomment -%}
+{%- for item in include.list -%}
+	{%- if item[0] == "_desc_" -%}{%- continue -%}{%- endif -%}
+	<li id="{{ item[1].short | slugify }}">
+		{{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a>
+		{%- if item[1].chain -%}
+		{%- if item[1].chain._desc_ %} <span class="chain-prefix">({{ item[1].chain._desc_ }})</span>{% endif -%}
+		<ul>
+			{% assign chain = item[1].chain %}
+			{% include plag-cite-chain list=chain %}
+		</ul>
+		{%- endif -%}
+	</li>
+{%- endfor -%}

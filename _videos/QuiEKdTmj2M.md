@@ -15,12 +15,14 @@ notes:
   - script-diff
 
 contributors:
-  transcription: $cite$from-script
+  transcription: $name$from-script
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
 
 cite:
   clips: !!map
+  other: !!map
+    student-magazine: "Amusingly, James was plagiarized <em>from</em> by a student run newspaper, which even used the exact same title"
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
@@ -352,13 +354,13 @@ And this just happens to be the political landscape we’re currently living in.
 <compare>
 <james {% include timecode %}>
 
-And not to be an alarmist, but we ARE losing ground. <mark>Conservatives are successfully banning the existence of queer people from anywhere children exist</mark>, and people who have convinced themselves that they’re feminists want to erase the existence of trans people from… well, existence. So for a show to come out directed toward teens and preteens that shows queer characters as, not only human beings, but *normal* human beings… with normal problems. With friends and families who care about them. Gay teens, bisexual teens, trans teens, lesbian teens. This feels like a big deal. 
+And not to be an alarmist, but we ARE losing ground. <mark fc>Conservatives are successfully banning the existence of queer people from anywhere children exist</mark>, and people who have convinced themselves that they’re feminists want to erase the existence of trans people from… well, existence. So for a show to come out directed toward teens and preteens that shows queer characters as, not only human beings, but *normal* human beings… with normal problems. With friends and families who care about them. Gay teens, bisexual teens, trans teens, lesbian teens. This feels like a big deal. 
 
 </james>
-<comment>
+<comment id="student-magazine">
 {% include header for=tustin %}
 
-It doesn't look like James plagerized this bit, but it *does* look like James was plagiarized *from*. While spot-checking for more plagiarism, I found [a student-run magazine](https://anyflip.com/bnill/qcrh/basic) which ran an article entitled "The Importance of Heartstopper's Queer Optimism" (pages 18-21). The marked line is how I found that this article (published 2023) copied *from this video* (published 2022). It's a plagiarism centipede!
+It doesn't look like James plagiarized this bit, but it *does* look like James was plagiarized *from*. While spot-checking for more plagiarism, I found [a student-run magazine](https://anyflip.com/bnill/qcrh/basic) which ran an article entitled "The Importance of Heartstopper's Queer Optimism" (pages 18-21). The marked line is how I found that this article (published 2023) copied *from this video* (published 2022). It's a plagiarism centipede!
 
 </comment>
 </compare>
@@ -374,4 +376,10 @@ The producers probably didn’t think it would be as big a deal as it is when th
 <from></from>
 </compare>
 
+<compare>
+<credits {% include timecode %} class="closing">
+
 Patron credits roll over an upbeat song and occasional *Heartstopper* clips.
+
+</credits>
+</compare>
