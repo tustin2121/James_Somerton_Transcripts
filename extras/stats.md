@@ -14,7 +14,7 @@ The following table of statistics is calculated from the video transcripts autom
 
 |  |  |
 |:----:|:------------|
-| {{stats.p-total }} | Number of unique sources James plagiarized. |
+| {{stats.p-total }} | Number of [unique sources James plagiarized](sources.md). |
 | {{stats.p-wiki }} | &nbsp;&nbsp;&nbsp;&nbsp; Wikipedia articles plagiarized. |
 | {{stats.p-youtube }} | &nbsp;&nbsp;&nbsp;&nbsp; YouTube videos plagiarized. |
 | {{stats.p-news }} | &nbsp;&nbsp;&nbsp;&nbsp; News articles plagiarized. |
@@ -32,7 +32,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.y-acephobia }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of acephobia. |
 | {{stats.y-exclusion }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of any of the above by exclusion. |
 | | |
-| {{stats.irony }} | Instances of irony in hindsight. |
+| {{stats.irony }} | Instances of [irony in hindsight.](ironic.md) |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
 | {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |
