@@ -1,12 +1,13 @@
 ---
 date: 2021-06-14
-title: Yuri On Ice - How Gay is Gay Enough?
+title: *Yuri on Ice* - How Gay is Gay Enough?
 status: Script
 aka: !!seq
   - "For The Love of Gay Nuance"
   - "Inexplicit Gay Love (Thumbnail)"
+  - "On Thin Ice - How Gay is Gay Enough?"
 topics: !!seq
-  - "Yuri On Ice"
+  - "*Yuri on Ice*"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
@@ -40,445 +41,186 @@ What kind of representation actually counts as gay representation? What counts a
 
 {% include transcript-start %}
 
-Yuri on Ice is a 2016 anime about Yuri Katsukai,
+<compare>
+<james {% include timecode}>
 
-a 24 year old figure skater from Japan whose pretty much convinced that he’s past his
+*Yuri on Ice* is a 2016 anime about Yuri Katsukai<sup>[sic: Yuuri Katsuki]</sup>, a <del>24</del><ins>23</ins> year old figure skater from Japan whose<sup>[sic: who's]</sup> pretty much convinced that he’s past his prime. Until his idol, world famous Russian figure <ins>skater</ins> Victor Nikiforov shows up in Yuri’s small town to coach him into being a champion himself. 
 
-prime. Until his idol, world famous Russian figure Victor Nikiforov shows up in Yuri’s
+I’ve been told for almost an entire year that I need to watch *Yuri on Ice*. People on YouTube. People on Twitter. People on Facebook. All telling me <ins>that</ins> I need to watch it. That I’d love it, and that it’s super gay. When I mentioned it to a few friends they were honestly shocked <ins>that</ins> I <del>hasn’t</del><ins>hadn't</ins> seen it. So, finally, begrudgingly, I watched it. Spoilers ahead. 
 
-small town to coach him into being a champion himself. I’ve been told for almost an entire year
+</james>
+</compare>
 
-that I need to watch Yuri On Ice. People on YouTube. People on Twitter. People on Facebook.
+<compare>
+<credits class = "opening">
 
-All telling me I need to watch it. That I’d love it, and that it’s super gay. When I
+> James Somerton Presents
 
-mentioned it to a few friends they were honestly shocked I hasn’t seen it. So, finally, begrudgingly,
+> Written by James Somerton & Nick Herrgott
 
-I watched it. Spoilers ahead. And I want to be absolutely blunt, before
+> Produced by [Four Patron Names]
 
-we get into this. I’ve made a kind of career here on YouTube talking about queer coding
+> Executive Producers: [Two Patron Names]
 
-in media. How gay characters are almost never shown, and just hinted at. And it’s incredibly
+> Directed & Edited by James Somerton
 
-frustrating, queer coding that is. And I was warned before watching Yuri on Ice that it
+> On Thin Ice: How Gay is Gay Enough?
 
-was total queer bait, but I watched it anyway. And after watching both the sub’d and dub’d
+</credits>
+</compare>
 
-versions, I can say that this is actually the kind of representation that I’ve been
+<compare>
+<james {% include timecode}>
 
-asking for. Could it have used an on-screen kiss? I mean sure. The arm-in-front-of-mouth
+And I want to be absolutely blunt, before we get into this. I’ve made a kind of career here on YouTube talking about queer coding in media. How gay characters are almost never shown, and just hinted at. And it’s incredibly frustrating, queer coding that is. And I was warned before watching *Yuri on Ice* that it was total queer bait, but I watched it anyway. And after watching both the sub’d and dub’d versions, I can say that this is actually the kind of representation that I’ve been
+asking for. 
 
-felt a little forced when it’s abundantly clear what was going on. But… it didn’t really need two men kissing
+Could it have used an <ins>actual</ins> on-screen kiss? I mean sure. The arm-in-front-of-<ins>the-</ins>mouth felt a little forced when it’s abundantly clear what<del> was</del><ins>'s</ins> going on. But… it didn’t really need two men kissing in public. Because its queerness… wasn’t subtle at all. 
 
-in public. Because its queerness… wasn’t subtle at all. In fact the subtlety was lacking to such an
+</james>
+<clip>
 
-extent that it boggles my mind that there are fans online who argue that Yuri and Victor
+<ins>Christophe: You always come too early.
 
-are straight. Straight. Yes. Absolutely. This is… pique heterosexuality. Granted, the English voice dub is much more
+</clip>
+<james {% include timecode}>
 
-homosexually explicit, whereas the subtitled version is less textual. Granted, a key component
+In fact the subtlety was lacking to such an extent that it boggles my mind that there are fans online who argue that Yuri and Victor are straight. Straight. Yes. Absolutely. This is… pique<sup>[sic: peak]</sup> heterosexuality. <ins>You don't get much straighter than this boys. Stop playing football, it's over.</ins> 
 
-of creative licence in Japanese media is for the audience to take implicit details for
+Granted, the English voice dub is much more homosexually explicit, whereas the subtitled version is less textual. Granted, a key component of creative licence in Japanese media is for the audience to take implicit details for granted. So, in the culture of media consumption in Japan, yes, those little gay cues are meant to be read into. 
 
-granted. So, in the culture of media consumption in Japan, yes, those little gay cues are meant
+</james>
+</compare>
 
-to be read into. Going through it three times total, the gay…ness
+<compare>
+<james {% include timecode}>
 
-of the whole thing became so much more apparent each time that the only way I can possibly
+Going through it three times total, the gay…ness of the whole thing became so much more apparent each time that <mark>the only way I can possibly account for anyone saying that this is straight is a bunch of women and girls who are <del>exercising</del><ins>experiencing</ins> the most willful ignorance I’ve <del>had the displeasure of being exposed to</del><ins>ever seen</ins>.</mark> 
 
-account for anyone saying that this is straight is a bunch of women and girls who are exercising
+</james>
+<comment>
 
-the most willful ignorance I’ve had the displeasure of being exposed to. Which, honestly,
+James, that's misogyny.
 
-if the complete lack of women in this sausage fest isn’t a tip off, the literal only textual
+</comment>
+</compare>
 
-antagonist in this first season is one who refuses to stop shoving his heterosexual lifestyle
+<compare>
+<james {% include timecode}>
 
-in everyone’s faces. I can understand why a lot of North American
+Which, honestly, if the complete lack of women in this sausage fest isn’t a tip off, the literal only textual antagonist in this first season is <ins>the only</ins> one who refuses to stop shoving his heterosexual lifestyle in everyone’s faces. I can understand why a lot of North American viewers wouldn’t get the message though. There’s no grand, bombastic soapbox moment where either Yuri or Victor stand in front of a crowd to declare their sexuality… except the scene where Yuri declares his love for Victor on live TV. But besides that. 
 
-viewers wouldn’t get the message though. There’s no grand, bombastic soapbox moment
+And neither was there a whole media push to promote these gay characters, in which the network and creator can pat themselves on the back, Disney “first gay character” style. If a studio or network isn’t blasting their own self-promotional circle-jerk across the internet, how do we know for certain that a character is gay? And even if they are gay, how do we know it’s gay representation if a giant, money-grubbing straight, family-values corporation isn’t telling a swarm of queers that this is gay representation? How gay is gay enough for it to be gay… without us having to be told it is? 
 
-where either Yuri or Victor stand in front of a crowd to declare their sexuality… except
+{% insert timecode = "4:24"}
 
-the scene where Yuri declares his love for Victor on live TV. But besides that. And neither was there a whole media push to
+</james>
+</compare>
 
-promote these gay characters, in which the network and creator can pat themselves on
+## Part 1: Implausible Deniability
 
-the back, Disney “first gay character” style. If a studio or network isn’t blasting their
+<compare>
+<james {% include timecode %}>
 
-own self-promotional circle-jerk across the internet, how do we know for certain that
+Now, I know what you’re thinking. I’ve spent most of my tenure on YouTube railing against media producers for using copouts when it comes to any kind of representation. Using the whole ‘it’s there if you look for it’ queer coding and baiting doesn’t really fly with me in most cases. But at some point, the question of ‘how gay is gay enough’ must become ‘why do we have to project our gay<ins>ness</ins> all the way <ins>back</ins> to the cheap seats <del>in the back</del>?’ How gay does something need to be for people to appreciate it’s<sup>[sic: its]</sup> gayness? Not even that. At what point are <ins>straight</ins> people gonna stop telling gay people what is or isn’t a gay experience? Because you have something, *Yuri!!! On ICE*, in which the story benefits from subtlety. But apparently, we’re not allowed to have nuanced depictions of gay experiences because unless we’re showing up on a pride float weraring<sup>[sic: wearing]</sup> a leather harness and puppy hood, there’s a whole swath of people who will insist <ins>that</ins> we don’t exist. <ins>And a lot of them don't want us showing up in a puppy hood either.</ins> 
 
-a character is gay? And even if they are gay, how do we know it’s gay representation if
+The thing is… rubbing our sexuality in everyone’s faces just to prove we exist does get exhausting for us, and in order to prove our existence, we get stuck in a cycle where our existence is based solely on our sexuality and sex. And so, our existence is deemed not appropriate for all audiences. Victor shouldn’t NEED to have Yuri bent over a bench in order to justify and demonstrate their sexual and romantic leanings when the emotional simplicity is focused on a much more wholesome depiction. 
 
-a giant, money-grubbing straight, family-values corporation isn’t telling a swarm of queers
+</james>
+<clip>
 
-that this is gay representation? How gay is gay enough for it to be gay… without us
+<ins>Christophe: I think I'm going to come.
 
-having to be told it is? Now, I know what you’re thinking. I’ve
+</clip>
+<james {% include timecode}>
 
-spent most of my tenure on YouTube railing against media producers for using copouts
+Mostly. To the point where… yeah I think this is better queer representation than the overwhelming bulk of American <del>films</del><ins>movies</ins>, <del>television</del><ins>TV</ins> shows, and <del>even</del> comic books have had to offer in recent memory. At which point before going on, I feel obliged to erase any shadow of a doubt to confirm that, yes, even through inference only, this is qualifiabley<sup>[sic:qualifiably]</sup> gay — and maybe even queer - representation. 
 
-when it comes to any kind of representation. Using the whole ‘it’s there if you look
+<ins>Now</ins> To The Network’s credit, they did everything they could to keep as much of the gay out of *Yuri!!! On ICE* <ins>as possible</ins>. From arms-in-front-of-kisses to obscuring as much of the romantic details as possible. There’s no plausible deniability that there are a slew of gay characters in this show <ins>though</ins>… but it is possible. Not plausible, but possible. Straights are great at that. 
 
-for it’ queer coding and baiting doesn’t really fly with me in most cases. But at some point, the question of ‘how
+As I mentioned, Japanese media is meant to be read into — where heavy-handed details are generally frowned upon. What’s inferred is meant to be taken for granted. Both Kristoff<sup>[sic: Christophe]</sup> and Victor, almost naked, jumping into Yuri’s bed in Barcelona itself is not meant to be dismissed as <del>a</del> ‘just friends <del>thing</del>.’ After all, we here in continental America have a joke about male figure skaters all being gay — I can’t imagine that there isn’t that reputation elsewhere. <ins>So</ins> I’m comfortable saying that the show’s displays of affection and romance are meant to co-incide with an already-present expectation <del>of</del><ins>for</ins> male figure skaters. Because scenes like this, with no dialogue contain<del>s</del> a visual language which does not need translation. Seriously… this scene <del>was basically lifted from a 2000s Kate Hudson romance.</del><ins>... Julia Roberts could never.</ins> 
 
-gay is gay enough’ must become ‘why do we have to project our gay all the way to
+Personally, as a visual learner, and <del>a</del> film director, I’m a little disappointed that we are apparently so incapable of trusting visual language here in the West. But that’s a whole other video on its own. Because the vast majority of queer content in *Yuri!!! On ICE* is visual language. I mean… we’ve been demanding to be seen, right? And if a gay person saying: “Hey, this is a pretty gay experience” isn’t enough, there’s more than enough textual evidence to indicate that this is a cast of gay and bi figure skaters. Except for JJ. The straights can <del>have him</del><ins>keep JJ</ins>. Because aside from the airport scene, the engagement, and an overall comfort with nudity, Victor and Yuri routinely share a bed. And then there’s the repudiative public almost-love declarations that are projected at the public during broadcasts. <del>I mean</del> I get that dismantling toxic masculinity involves a process of making it acceptable to tell your best bro that you love him, but there’s a difference between wanting the best for your bro and wanting to $#^% him. 
 
-the cheap seats in the back?’ How gay does something need to be for people
+The engagement scene, and it is an engagement scene, is really the only part of the series that <del>I disliked</del><ins>... bothered me</ins>. It just reads like a no-homo copout that the network made the creators slip in there. Probably as a compromise so that they could have a gay engagement in the first place. 
 
-to appreciate it’s gayness? Not even that. At what point are people gonna
+</james>
+<clip>
 
-stop telling gay people what is or isn’t a gay experience? Because you have something, Yuri!!! On ICE,
+<ins>Victor: That sounded like a marriage proposal.
 
-in which the story benefits from subtlety. But apparently, we’re not allowed to have
+</ins>[Yuuri gasps softly.]
 
-nuanced depictions of gay experiences because unless we’re showing up on a pride float
+</clip>
+<james {% include timecode}>
 
-weraring a leather harness and puppy hood, there’s a whole swath of people who will
+But you also get a scene where two naked men jump into Yuri’s bed and his only objection is about how cold their feet are. Which maybe you could argue this is a straight boy thing, but then we’re getting desperately close to the territory of staged straight-bait porn. [Unknown clip plays, presumably from "staged straight-bait porn"?]
 
-insist we don’t exist. The thing is… rubbing our sexuality in everyone’s
+And couple that with the yearning, the pining, the numerous confessions, the hand<del>,</del> holding, the hugging, the emotional support crying, the complete lack of female love interests. And like. Sure. Take a couple of these things and you can argue that <ins>maybe</ins> it’s straight? If you wanna be mean. <ins>But </ins>Why do you want the gays to have FEWER icons? Jesus. We can still get fired for being gay in most states, can you at least let us have <ins>some</ins> anime male figure skaters? But add all of it together and it simply does not fit the bill for plausible deniability. 
 
-faces just to prove we exist does get exhausting for us, and in order to prove our existence,
+And it’s not like Yuri and Victor are the only queer ones— The show makes it abundantly clear when a figure skater has alleged heterosexual inclinations. Also the… brother and sister who are… very committed. But as for other characters… is it possible for catboys to be straight? [Yurio with the ears.] No really, are there <del>any</del> straight catboys? I’m curious. Aside from joking around <ins>though</ins>, I can’t really think of any other excuse for why a 15 year old, bereft of adult supervision, would so vehemently flee a swarm of rabid fangirls only to wind up riding bitch for a hunky slav. Followed by this scene. On a vista overlooking the sun setting and everything. <ins> I mean</ins> Come on. What more does it have to take? Why is it that not until boys are literally putting their bodies together <del>for skin-on-skin contact</del> that some people will insist that this type of situation is completely hetero. 
 
-we get stuck in a cycle where our existence is based solely on our sexuality and sex.
+I’ve actually heard this is pretty bad <del>for</del><ins>when it comes to</ins> sports anime. 
 
-And so, our existence is deemed not appropriate for all audiences. Victor shouldn’t NEED to have Yuri bent
+</james>
+<clip>
 
-over a bench in order to justify and demonstrate their sexual and romantic leanings when the
+<ins>Langa from *Sk8 the Infinity*: Reki, my love... of skateboarding. It's because of you...
 
-emotional simplicity is focused on a much more wholesome depiction. Mostly. To the point where… yeah I think this is
+</clip>
+<james {% include timecode}>
 
-better queer representation than the overwhelming bulk of American films, television shows,
+<ins> But that's a whole other video... Yeah, it's coming. [The second Christophe clip plays again.]</ins>
 
-and even comic books have had to offer in recent memory. At which point before going on, I feel obliged
+At which point I consider it a failure of Western ’queer representation’, where Western audiences cannot recognize queer characters by inference alone. And so… one has to wonder… what is causing this denial in media analysis? What makes some American audiences require their media to be so much more… explicit?
 
-to erase any shadow of a doubt to confirm that, yes, even through inference only, this
+{% insert timecode = "11:14"}
 
-is qualifiabley gay — and maybe even queer - representation. To The Network’s credit, they did everything
+</james>
+</compare>
 
-they could to keep as much of the gay out of Yuri!!! On ICE. From arms-in-front-of-kisses
+## Part 2: Explicit Content
 
-to obscuring as much of the romantic details as possible. There’s no plausible deniability
+<compare>
+<james>
 
-that there are a slew of gay characters in this show… but it is possible. Not plausible,
+Subtlety as a staple of Japanese storytelling extends not only to modern media but also the mythological cycle, the very way in which ancient Japanese historians recorded their legends, and then re-recorded those documents. Small gentures, like nods or turning one’s head slightly, were recorded in detail, and were meant to signify a clear, nonverbal message. Which not only was used to characterize the individuals in the story, whether fiction, history, or fictionalized history, but to explain and justify the actions of characters or figures. In many instances, a piece of media is meant to be read into. 
 
-but possible. Straights are great at that. As I mentioned, Japanese media is meant to
+This isn’t to say that every piece of Japanese media is meant to be subtle and deeply enriching. [Clip of Goku screaming.] But this does say that this is an audience that has been conditioned to seek out smaller inferences and put it into the context of the work as a whole. An audience which is conditioned to be aware that all aspects of a given piece of fiction are placed there deliberately by the creator, and therefore are meant to ask why that is. And as a result, in order to fully appreciate the media, you, the observer, are invited to extract details. That’s one of the reasons fandom culture is so intense in Japan. 
 
-be read into — where heavy-handed details are generally frowned upon. What’s inferred
+So… scenes which are implicitly romantic in setting, emotional context, and body language seem out of place in an anime which is seemingly exclusively about figure skating. Why is that? No really, would it not seem super weird to dedicate so much time and energy to depicting the ‘platonic’ relationship between a figure skater and a coach in such a sensual way in straight media? As far as implicit gay content goes, *Yuri!!! On ICE* has the writing written more clearly on the wall than <del>some</del> <ins>most</ins> explicit queer content. Due to the complexity of the models and expressions, there is greater permission for more of the story and characters to exist in visual language <ins>alone</ins>. Because visual language does not require a translation, I’d also be willing to say <ins>that</ins> this is a significant reason for the growing global popularity of Anime. This is especially true when we factor in an over-arching element of Japanese culture, which is much more reserved when it comes to public displays of affection — at least next to America. And especially <del>next to</del> Switzerland<ins>, apparently</ins>. [The Christophe clip, again.]
 
-is meant to be taken for granted.Both Kristoff and Victor, almost naked, jumping
+However, as I mentioned, audiences conditioned to expect American media to be very blunt are at the same time more cynical, and unwilling to read into the subtext of a given property. The english voice-dub of *Yuri!!! On ICE* is much more explicit in it’s<sup>[sic: its]</sup> depictions of queerness — which matches the sensibilities of audiences in Americanized nations. <del>And I’m not trying to say that one version of *Yuri!!! On ICE* is better than the other. Honestly the difference in translation is so subtle, that it isn’t that noticeable.</del> <ins>But</ins> The instances of visual language make up the bulk of queer coding in either version. 
 
-into Yuri’s bed in Barcelona itself is not meant to be dismissed as a ‘just friends
+American audiences though, are far more conditioned to overt messaging. <del>Cue another person who thinks that Fightclub is a celebration of toxic masculinity.</del> And I mean it’s not really our fault. Euro-American media as a whole seems to be driven more and more towards an elimination of nuance. Whether that’s because of Hollywood or whether Hollywood has been responding to <del>and</del><ins>the</ins> demand. But it seems that American media has been edging more and more towards a situation where the audience is encouraged to do as little as possible to engage with their media. I hear stories about people going to movie theatres in America, and am <ins>just</ins><del>a little</del> shocked to hear just how… frequently people will have whole conversations while a movie is going on, or just be on their phone <ins>the entire time</ins>. I don’t know how you guys function. Where I am, being in a movie theatre is kinda… sacred. You’re there to watch a movie, not to have a conversation. And put your damn phone away. 
 
-thing.’ After all, we here in continental America have a joke about male figure skaters
+Granted, this culture of movie-theatre discussions go<ins>es</ins> back to the beginning of movie theatres in <del>general</del><ins>America</ins>, where people in city centres would escape summer heat in cinemas — one of the only structures at the time that was <ins>well</ins> air-conditioned.
 
-all being gay — I can’t imagine that there isn’t that reputation elsewhere. I’m comfortable
+A necessity due <del>the to</del><ins>to the</ins> flammability of early nitrate based film. And, as people weren’t necessarily paying attention to what was <ins>going on</ins> on the screen, a film <del>would</del><ins>could</ins> still be received negatively by movie goers if they didn’t know what was going on or if they didn’t pick up on certain details. This lead to a trend in films to reach for grand spectacles instead of nuanced character dramas. Enter Cecil B Demill<sup>[sic: DeMille]</sup> and his biblical epics. 
 
-saying that the show’s displays of affection and romance are meant to co-incide with an
+It wasn’t until the 60s that acting, plots, and direction style shifted to a more natural, humanistic level of expression. The film version of *Who’s Afraid of Virginia <del>Woof</del><ins>Woolf</ins>* was a marked shift in popular styles of filmmaking toward<del>s</del> a more subtle style of realistic nuance. Coupled with the american culture of consuming Television programming, and entertainment was very much something that was there to be on in the background while people went about their <ins>daily</ins> lives. Repeating information to make sure that the message got across. That’s why so many TV shows actually repeat the last bit of the last scene after a commercial break. To this <ins>very</ins> day. And it wasn’t until recently in American <del>Television</del><ins>TV</ins> that shows were designed for you to pick up on subtlety, with examples like *Arrested Development*, the first few seasons of *Game of Thrones*, and especially *Breaking Bad*. 
 
-already-present expectation of male figure skaters. Because scenes like this, with no dialogue
+It may go deeper than Hollywood though. Compare Japanese mythological storytelling conventions to ‘western’ ones. Modern stories, in one way or another, are always constructed on the foundation of ancient mythological cycles. For this, European stories were made on a tradition stemming from Roman and Greek poems, as well as Abrahamic parables. In either case, the narrative convention of these styles very much lean towards the explicit. Dialogue is over-rought, clear in it’s<sup>[sic: its]</sup> delivery, with the intention to convey complete meaning in <del>the</del><ins>its</ins> spoken word alone. Though… it’s really hit or miss with that <ins>now</ins>. Turns out that after 2500 years of the bible, some of the old meaning has been lost in translation. 
 
-contains a visual language which does not need translation. Seriously… this scene
+European theatrical conventions also focused exclusively on an actor’s ability to deliver lines, and what the lines themselves say. In the Elizabethan era, it was common to simply not have a set or props for a given production <ins>at all</ins>. And so, some of you may have noticed that Shakespeare goes to great lengths to have his actors describe what a given set looks like, what the weather is like, how dark it is. The responsibility of the actors was not to show this via acting, but telling via dialogue. They couldn’t really afford to “show don’t tell” until film came along. 
 
-was basically lifted from a 2000s Kate Hudson romance. Personally, as a visual learner, and a film
+Compare and contrast to a Japanese performance art like Kabuki… which has markedly less dialogue and which the audience is more encouraged to read into how a given performer is carrying themselves, their gestures, their expressions. How they move. Why they move. A single look can mean as much as, or more than, a Shakespearean sonnet. That’s why a lot of Western audiences really don’t get why people love <ins>things like</ins> ballet and fashion. That’s ALL show and no tell. In both of those cases — they are not seen as ‘accessable’ because most people have not developed the sensibilities needed to analyze how well a given balerina is pretending to be a swan. 
 
-director, I’m a little disappointed that we are apparently so incapable of trusting
+So yes, among Western audiences there is an expectation that media will hold their hand and guide them through every element of the plot. Thought process being ‘if the creator wants me to know about something in their media, they will tell me <del>that it</del><ins>what</ins> is important.’ Hitchcock famously got around this by SHOWING you something important three times, but not necessarily talking about it even once. That way it’s hard to miss but he’s not spilling the whole mystery for the viewers who are actually paying attention. Conversely, the argument for nuance goes: ‘if the creator has something important to say in this media, they will reward me by letting me figure it out for myself.’ Basically the golden rule of David Lynch. Which way is better? Depends on the storyteller, the story, and the audience. 
 
-visual language here in the West. But that’s a whole other video on its own. Because the vast majority of queer content
+There’s actually been a centuries-long debate within art criticism. Do we, as art critics, observe the work as it was intended, only factoring in the cultural attitudes that the author was deliberately feeding into their art. Or do we analyze in spite of the author’s intentions, factoring other iconographic connections that the author was not necessarily intending, but that enriches the work nevertheless. Many authors, in biographies and interviews will often speak to assumptions of their work: symbolic value, allegory, allusion — and oftentimes they admit that what is being read into their work was never intended. 
 
-in Yuri!!! On ICE is visual language. I mean… we’ve been demanding to be seen,
+For instance, after being consistently questioned on the feminist power of *Carrie*, Stephen King admitted that he had never intended for it to be viewed under such a feminist lens. Instead, he said that after reading his first draft, he noticed a reoccurring pattern of blood. And in subsequent drafts, highlighted these elements further. The result was a story which, under a certain interpretation, spoke to a way that women find power because of and in spite of suffering.  Does King’s lack of deliberate intention diminish the art or the artist? I would argue: no. The ability for an artist to focus on developing a good story, while subliminally including elements that speak to <del>a</del> culture at large is an outstanding talent. 
 
-right? And if a gay person saying: “Hey, this is
+And sadly, many who have this talent are often plagued with lifelong inadequacy issues, imposter complexes, and frequently opt to give up before they hit their stride because others hold them up against artists who <ins>at least</ins> appear to do it all seamlessly… Those who, also, would have openly admitted to not having the slightest clue what they<del>’re</del> <ins>were</ins> doing, but happen to do the right thing so nobody bothers to ask. And in this respect, *Yuri!!! On ICE* exists as a triumph of gay representation. Before it set out to do anything, it was going to tell a good story. Where most stories function around telling people how to succeed, *Yuri!!! On ICE* was primarily about how not to give up. 
 
-a pretty gay experience” isn’t enough, there’s more than enough textual evidence
+</james>
+</compare>
 
-to indicate that this is a cast of gay and bi figure skaters. Except for JJ. The straights can have him. Because aside from the airport scene, the
 
-engagement, and an overall comfort with nudity, Victor and Yuri routinely share a bed. And then there’s the repudiative public
+## Part 3: A Hidden Creation
 
-almost-love declarations that are projected at the public during broadcasts. I mean I
-
-get that dismantling toxic masculinity involves a process of making it acceptable to tell
-
-your best bro that you love him, but there’s a difference between wanting the best for
-
-your bro and wanting to $#^% him. The engagement scene, and it is an engagement
-
-scene, is really the only part of the series that I disliked. It just reads like a no-homo
-
-copout that the network made the creators slip in there. Probably as a compromise so
-
-that they could have a gay engagement in the first place. But you also get a scene where two naked men
-
-jump into Yuri’s bed and his only objection is about how cold their feet are. Which maybe
-
-you could argue this is a straight boy thing, but then we’re getting desperately close
-
-to the territory of staged straight-bait porn. And couple that with the yearning, the pining,
-
-the numerous confessions, the hand, holding, the hugging, the emotional support crying,
-
-the complete lack of female love interests. And like. Sure. Take a couple of these things
-
-and you can argue that it’s straight? If you wanna be mean. Why do you want the gays to have FEWER icons?
-
-Jesus. We can still get fired for being gay in most states, can you at least let us have
-
-anime male figure skaters? But add all of it together and it simply does
-
-not fit the bill for plausible deniability. And it’s not like Yuri and Victor are the
-
-only queer ones— The show makes it abundantly clear when a
-
-figure skater has alleged heterosexual inclinations. Also the… brother and sister who are…
-
-very committed. But as for other characters… is it possible
-
-for catboys to be straight? [Yurio with the ears.] No really, are there any straight catboys?
-
-I’m curious. Aside from joking around, I can’t really
-
-think of any other excuse for why a 15 year old, bereft of adult supervision, would so
-
-vehemently flee a swarm of rabid fangirls only to wind up riding bitch for a hunky slav.
-
-Followed by this scene. On a vista overlooking the sun setting and
-
-everything. Come on. What more does it have to take? Why is it that not until boys are literally
-
-putting their bodies together for skin-on-skin contact that some people will insist that
-
-this type of situation is completely hetero. I’ve actually heard this is pretty bad for
-
-sports anime. At which point I consider it a failure of
-
-Western ’queer representation’, where Western audiences cannot recognize queer characters
-
-by inference alone. And so… one has to wonder… what is causing
-
-this denial in media analysis? What makes some American audiences require their media
-
-to be so much more… explicit? Subtlety as a staple of Japanese storytelling
-
-extends not only to modern media but also the mythological cycle, the very way in which
-
-ancient Japanese historians recorded their legends, and then re-recorded those documents.
-
-Small gentures, like nods or turning one’s head slightly, were recorded in detail, and
-
-were meant to signify a clear, nonverbal message. Which not only was used to characterize the
-
-individuals in the story, whether fiction, history, or fictionalized history, but to
-
-explain and justify the actions of characters or figures. In many instances, a piece of media is meant
-
-to be read into. This isn’t to say that every piece of Japanese media is meant to
-
-be subtle and deeply enriching. But this does say that this is an audience
-
-that has been conditioned to seek out smaller inferences and put it into the context of
-
-the work as a whole. An audience which is conditioned to be aware that all aspects of
-
-a given piece of fiction are placed there deliberately by the creator, and therefore
-
-are meant to ask why that is. And as a result, in order to fully appreciate the media, you,
-
-the observer, are invited to extract details. That’s one of the reasons fandom culture
-
-is so intense in Japan. So… scenes which are implicitly romantic
-
-in setting, emotional context, and body language seem out of place in an anime which is seemingly
-
-exclusively about figure skating. Why is that? No really, would it not seem super weird to
-
-dedicate so much time and energy to depicting the ‘platonic’ relationship between a
-
-figure skater and a coach in such a sensual way in straight media? As far as implicit
-
-gay content goes, Yuri!!! On ICE has the writing written more clearly on the wall than some
-
-explicit queer content. Due to the complexity of the models and expressions,
-
-there is greater permission for more of the story and characters to exist in visual language.
-
-Because visual language does not require a translation, I’d also be willing to say
-
-this is a significant reason for the growing global popularity of Anime. This is especially true when we factor in
-
-an over-arching element of Japanese culture, which is much more reserved when it comes
-
-to public displays of affection — at least next to America. And especially next to Switzerland. However, as I mentioned, audiences conditioned
-
-to expect American media to be very blunt are at the same time more cynical, and unwilling
-
-to read into the subtext of a given property. The english voice-dub of Yuri!!! On ICE is
-
-much more explicit in it’s depictions of queerness — which matches the sensibilities
-
-of audiences in Americanized nations. And I’m not trying to say that one version of
-
-Yuri!!! On ICE is better than the other. Honestly the difference in translation is so subtle,
-
-that it isn’t that noticeable. The instances of visual language make up the bulk of queer
-
-coding in either version. American audiences though, are far more conditioned
-
-to overt messaging. Cue another person who thinks that Fightclub is a celebration of
-
-toxic masculinity. And I mean it’s not really our fault. Euro-American
-
-media as a whole seems to be driven more and more towards an elimination of nuance. Whether
-
-that’s because of Hollywood or whether Hollywood has been responding to and demand. But it
-
-seems that American media has been edging more and more towards a situation where the
-
-audience is encouraged to do as little as possible to engage with their media. I hear stories about people going to movie
-
-theatres in America, and am a little shocked to hear just how… frequently people will
-
-have whole conversations while a movie is going on, or just be on their phone. I don’t
-
-know how you guys function. Where I am, being in a movie theatre is kinda… sacred. You’re
-
-there to watch a movie, not to have a conversation. And put your damn phone away. Granted, this culture of movie-theatre discussions
-
-go back to the beginning of movie theatres in general, where people in city centres would
-
-escape summer heat in cinemas — one of the only structures at the time that was air-conditioned.
-
-A necessity due the to flammability of early nitrate based film. And, as people weren’t necessarily paying
-
-attention to what was on the screen, a film would still be received negatively by movie
-
-goers if they didn’t know what was going on or if they didn’t pick up on certain
-
-details. This lead to a trend in films to reach for grand spectacles instead of nuanced
-
-character dramas. Enter Cecil B Demill and his biblical epics. It wasn’t until the 60s that acting, plots,
-
-and direction style shifted to a more natural, humanistic level of expression. The film version
-
-of ‘Who’s Afraid of Virginia Woof’ was a marked shift in popular styles of filmmaking
-
-towards a more subtle style of realistic nuance. Coupled with the american culture of consuming
-
-Television programming, and entertainment was very much something that was there to
-
-be on in the background while people went about their lives. Repeating information to
-
-make sure that the message got across. That’s why so many TV shows actually repeat the last
-
-bit of the last scene after a commercial break. To this day. And it wasn’t until recently in American
-
-Television that shows were designed for you to pick up on subtlety, with examples like
-
-Arrested Development, the first few seasons of Game of Thrones, and especially Breaking
-
-Bad. It may go deeper than Hollywood though. Compare
-
-Japanese mythological storytelling conventions to ‘western’ ones. Modern stories, in
-
-one way or another, are always constructed on the foundation of ancient mythological
-
-cycles. For this, European stories were made on a tradition stemming from Roman and Greek
-
-poems, as well as Abrahamic parables. In either case, the narrative convention of
-
-these styles very much lean towards the explicit. Dialogue is over-rought, clear in it’s delivery,
-
-with the intention to convey complete meaning in the spoken word alone. Though… it’s
-
-really hit or miss with that. Turns out that after 2500 years of the bible, some of the
-
-old meaning has been lost in translation. European theatrical conventions also focused
-
-exclusively on an actor’s ability to deliver lines, and what the lines themselves say.
-
-In the Elizabethan era, it was common to simply not have a set or props for a given production.
-
-And so, some of you may have noticed that Shakespeare goes to great lengths to have
-
-his actors describe what a given set looks like, what the weather is like, how dark it
-
-is. The responsibility of the actors was not to show this via acting, but telling via dialogue.
-
-They couldn’t really afford to “show don’t tell” until film came along. Compare and contrast to a Japanese performance
-
-art like Kabuki… which has markedly less dialogue and which the audience is more encouraged
-
-to read into how a given performer is carrying themselves, their gestures, their expressions.
-
-How they move. Why they move. A single look can mean as much as, or more than, a Shakespearean
-
-sonnet. That’s why a lot of Western audiences really
-
-don’t get why people love ballet and fashion. That’s ALL show and no tell. In both of
-
-those cases — they are not seen as ‘accessable’ because most people have not developed the
-
-sensibilities needed to analyze how well a given balerina is pretending to be a swan. So yes, among Western audiences there is an
-
-expectation that media will hold their hand and guide them through every element of the
-
-plot. Thought process being ‘if the creator wants me to know about something in their
-
-media, they will tell me that it is important.’ Hitchcock famously got around this by SHOWING
-
-you something important three times, but not necessarily talking about it even once. That
-
-way it’s hard to miss but he’s not spilling the whole mystery for the viewers who are
-
-actually paying attention. Conversely, the argument for nuance goes:
-
-‘if the creator has something important to say in this media, they will reward me
-
-by letting me figure it out for myself.’ Basically the golden rule of David Lynch. Which way is better? Depends on the storyteller,
-
-the story, and the audience. There’s actually been a centuries-long debate
-
-within art criticism. Do we, as art critics, observe the work as it was intended, only
-
-factoring in the cultural attitudes that the author was deliberately feeding into their
-
-art. Or do we analyze in spite of the author’s intentions, factoring other iconographic connections
-
-that the author was not necessarily intending, but that enriches the work nevertheless. Many authors, in biographies and interviews
-
-will often speak to assumptions of their work: symbolic value, allegory, allusion — and
-
-oftentimes they admit that what is being read into their work was never intended. For instance,
-
-after being consistently questioned on the feminist power of Carrie, Stephen King admitted
-
-that he had never intended for it to be viewed under such a feminist lens. Instead, he said that after reading his first
-
-draft, he noticed a reoccurring pattern of blood. And in subsequent drafts, highlighted
-
-these elements further. The result was a story which, under a certain interpretation, spoke
-
-to a way that women find power because of and in spite of suffering. Does King’s lack of deliberate intention
-
-diminish the art or the artist? I would argue: no. The ability for an artist
-
-to focus on developing a good story, while subliminally including elements that speak
-
-to a culture at large is an outstanding talent. And sadly, many who have this talent are often
-
-plagued with lifelong inadequacy issues, imposter complexes, and frequently opt to give up before
-
-they hit their stride because others hold them up against artists who appear to do it
-
-all seamlessly… Those who, also, would have openly admitted to not having the slightest
-
-clue what they’re doing, but happen to do the right thing so nobody bothers to ask. And in this respect, Yuri!!! On ICE exists
-
-as a triumph of gay representation. Before it set out to do anything, it was going to
-
-tell a good story. Where most stories function around telling people how to succeed, Yuri!!!
-
-On ICE was primarily about how not to give up. Really, the nail in the coffin should have
+Really, the nail in the coffin should have
 
 been the direct message from the creator. “Yuri and Victor are gay, and in a relationship.”
 
@@ -536,7 +278,7 @@ relationship with a male supporting character. Eventually going so far as to pus
 
 seasons of the show onto their web only platform because they knew Korra and Asami were going
 
-to hold hands in the final shot and, well, we can’t put that on TV, now can we? And that isn’t to say that Yuri!!! On ICE
+to hold hands in the final shot and, well, we can’t put that on TV, now can we? And that isn’t to say that *Yuri!!! On ICE*
 
 did not suffer it’s own managerial problems. There were insane deadlines on the animation
 
@@ -552,7 +294,7 @@ used the time resources they had to advance the already-constricted plot at the 
 
 as dropping some gay bombs. And, maybe even as a happy accident, used nuance to their
 
-advantage to make queer content that benefitted from having no explicit discussion of homosexuality. Because Yuri!!! On ICE is not about queerness.
+advantage to make queer content that benefitted from having no explicit discussion of homosexuality. Because *Yuri!!! On ICE* is not about queerness.
 
 It’s about queer people, but it’s not about qualifying the validity of their personhood
 
@@ -608,7 +350,7 @@ very androgynous, bending the separation between male and female, if not shatter
 
 the difference between representation, coding, pandering, and baiting? And is drawing a distinction
 
-necessary? After all, it would be unfair to act like Yuri on Ice is the only piece of
+necessary? After all, it would be unfair to act like *Yuri on Ice* is the only piece of
 
 media ever produced to have subtle queer representation. The problem is that in most other cases, the
 
