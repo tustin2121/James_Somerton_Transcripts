@@ -22,6 +22,7 @@ contributors:
     - "[@vaspider](https://www.tumblr.com/vaspider/725020819984629760/honestly-yes-and-thats-part-of-the-reason-im)"
     - "[/u/badwolf_910](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvq8br)"
   factcheck: 
+    - $cite2$todd$video
     - $cite2$ace_couple$ep116
 
 cite:
@@ -31,11 +32,15 @@ cite:
     thirty_rock: { short: "TODO", full: "TODO" }
     brandon_rogers: { short: "TODO", full: "TODO" }
     alex_jones: { short: "TODO", full: "TODO" }
+    public_speaking: { color: 4, short: "Public Speaking (2010)", full: "Lebowitz, F., Scorsese, M., Carter, G., Bodde, M. (Producers). Scorsese, M. (Director). (2010). <em>Public Speaking</em> [Documentary]. HBO Documentary Films, American Express Portraits, Consolidated Documentaries, Sikelia Productions. Retrieved Jan 28, 2024, from", url: "https://www.youtube.com/watch?v=G46BVjjkDfA" }
   yikes: !!map
+    died_from_aids: "The infamous quote where James says that media is bad now because all the 'interesting' gays died during the AIDS crisis."
   misinformation: !!map
+    90s_activists: "James claims that LGBT activities of the 1990's didn't care to work for employment equality protections, when this is provably wrong."
   plagiarized: !!map
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign todd = site.data.cite.todd.video %}
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
@@ -930,51 +935,101 @@ Though we've certainly run into some setbacks.... the progress has seemed rapid 
 
 But if you look at the queer community of today and the queer community of the pre-AIDS era. It feels like there's something missing. Not just the tens of thousands of brilliant minds, talented artists, and loving people who we've lost to that disease, but a sense of something else. The shamelessness. The “be whoever you want to be” attitude that perpetuated within the community before... fighting for our very lives and hospital beds became the only fight we could fight. 
 
-It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service. 
-
-When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.
-
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %} id="died_from_aids">
   
-As the brilliant Fran Leibowitz has said *many* times, "the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
+
+It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service. 
+
+When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.
+
+As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, "the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
 
 \[Quote on screen, read out]:
-> "Now, we don't have any kind of discerning audience. When that audience died &mdash; and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth tier to rise up to the front.
+> "<span stat:id="changed-quote">Now, we don't have any kind of discerning audience.</span> When that audience died &mdash; and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth tier to rise up to the front.
 >
 > Because of course, the first people who died of AIDS were the people who... I don't know how to put this... got laid a lot. OK. Now imagine who didn't get AIDS. That's who was then lauded as like &mdash; the great artists.”  
 > [~ Fran Lebowitz]
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.clips.public_speaking at="(19:06)" %}>
+<details>
+<summary>Click to see whole 3 minute quote.</summary>
+
+Libowitz: When I was young in the early 70's early 80's, my first real audience was from Interview Magazine. And at that time that audience was 99.9 male homosexual. And *that* audience was very important to me. This was part of what formed my voice.
+
+Everyone talks about the effect that AIDS had on the culture in the sense-- I mean, people don't talk about it *anymore*, but when people *did* talk about it -- They talked about what artists were lost. But they never talked about this audience that was lost.
+
+When people talk about why the New York City Ballet was so great -- well, it was because of Balanchine and Jerry Robbins, and people like that -- but also *that audience!* Was *so!* -- I can't even think of the word. [...] There was such a high level of connoisseurship [...] of everything... that made the culture better. A very discerning audience [...] an audience with a high level of connoisseurship is *as* important to the culture as artists. It's *exactly* as important. <mark>Now, we don't have any kind of--</mark>
+
+<mark>When that audience died -- and that audience died in five minutes, literally people didn't die faster in any war -- And it allowed, of course, the second, third, fourth tier to rise to the front. Because of course the first people who died of AIDS were the people who -- I don't know to put this -- got laid a lot. OK, now, imagine who didn't get AIDS. Okay? That's who was then lauded as, like, the great artist! Okay?</mark>
+
+If the other people who died [...] came back to life and I said to them, 'Guess who's a big star. Guess who has a show on Broadway. Guess who's a famous photographer,' they like would fall on the floor! Are you kidding me?! Because everyone else died. Last man standing.
+
+The loss of that audience had a terrible effect, and a terrible effect on me. And not just a sad personal effect on me [...] because everything has to be broader. I mean, I don't do that, but everyone else does. Everything has to be more blatant, more on the nose, broader. Because obviously they're not gonna pick up little subtleties.
+
+Things in the culture which had nothing to DO with the New York City Ballet... it just got dumbed down, dumbed down, dumbed down, all the way down.
+
+</details>
+</from>
+<comment>
+{% include header video=todd at="1h3m57s" %}
+
+I need you to all understand that this is not a serious historical analysis. Libowitz was just talking shit to make a point. That's her entire shtick: she's a shit-talker.
+
+Furthermore, she was talking about the loss of a sophisticated theater audience! She didn't say anything about the priorities of post AIDS activists. This is a snarky quote that's probably about some beef she had with a ballet director in 1996. You don't have to read it and throw out 30 years of culture and activism! She's talking about the Opera!
+
+</comment>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-So many of the gays left alive once the Clinton Administration came into being were, to be frank, the boring ones. The gays who knew nobody and who nobody knew. And they rose to the top of the community and therefore their *priorities* rose to the top of the community, as well. 
+So many of the gays left alive once the Clinton Administration came into being <mark meta>were, to be frank, the boring ones.</mark> The gays who knew nobody and who nobody knew. 
 
-And what did they want? Apparently, they wanted to join the army and have big gay weddings. General employment non-discrimination wasn't all that important to them. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
+And they rose to the top of the community and therefore their *priorities* rose to the top of the community, as well. 
+
+And what did they want? Apparently, they wanted to join the army and have big gay weddings. <mark meta>General employment non-discrimination wasn't all that important to them</mark>. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
 
 Because they were the good gays. Not the naughty gays who were sleeping around and dying of AIDS. Not the poor gays who couldn't make *political* contributions. They were the gays with families and commitment ceremonies and office jobs and houses. They were the good ones the ones who would look *fan-TA-stic* and *incredibly* marketable (when they were interviewed by CNN). They were the gays who straight people would look at and say to themselves “maybe they're not so bad after all. I still don't want *my* kid to be gay but maybe... it's okay if Bob and Henry got married.” 
 
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-  
 The gay rights movement shifted from "accept us for who we are" "to we’ll be whatever you want us to be if you accept us." And it's kind of remained that way over the last 30 year. We've been trained to be offended by queers who step too far out of the mainstream. 
 
 Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter started showing up to Awards shows in dresses. Lots - and I mean *lots* - of gays were unnerved and worried when trans people started coming out of their *own* closets. Some going so far as to disavow the "T" from the LGBT because they were worried people who don't like trans people would lop in the gay men and women in with them. Who needs community when you've already got your house in the suburbs, right?
 
 </james>
-<from></from>
+<comment color={{ace_116.color}}>
+{% include header video=ace_116 at="2h8s" %}
+
+> <mark num=1></mark>Courtney: But I’ve also — very unfortunately, it’s been brought to my attention that he has, in a video, talked about how, you know, queer media is *bad* now, because all of the good, fun, exciting gays died during the AIDS crisis. Because they were the cool ones. They were the artists who were sleeping around with a bunch of people. Which, *what a flippant, disrespectful way* to talk about the AIDS crisis, even just on its surface, as like, “Oh, you know, the fun artists are the ones who died. They’re the cool ones.” Like, first of all, that’s awful, but then to also be like, “The only people who didn’t die were the boring ones. The boring ones who weren’t having a lot of sex. Like, and that’s why their art is bad and why queer media has gotten bad”? Alright, just say you hate Aces and any gays who don’t have a ton of sex or casual sex or sex with a lot of different partners. Like, *what are we doing here?*
+> 
+> Royce: That’s a statement that just gets worse the longer you think about it.
+
+</comment>
+<comment mark=cont color={{todd.color}} id="90s_activists">
+{% include header video=todd at="1h2m19s" %}
+
+<mark num=2></mark>Oho boy... This was the first claim that really got got my attention, and it's the entire reason why I watched the rest of his stuff. Disregarding *whatever else* you want to say about that passage... yes, gay activists were *absolutely* fighting against employment discrimination and for protected status for sexuality! Those were *the fights* of the 90s! I heard about that shit all the time! [There was a big giant movie about it!](https://en.wikipedia.org/wiki/Philadelphia_(film))
+
+During the 90s alone, [LGBT activists got employment protections passed in 17 States](https://en.wikipedia.org/wiki/LGBT_employment_discrimination_in_the_United_States) as well as [an executive order from President Clinton in 1998](https://www.washingtonpost.com/outlook/2018/10/01/how-gay-rights-activists-remade-federal-government/#:~:text=President%20Bill%20Clinton%20issued%20Executive%20Order%2013087%2C%20which%20amended%20an%20equal%20opportunity%20order%20issued%20by%20Richard%20Nixon%20to%20include%20%E2%80%9Csexual%20orientation.%E2%80%9D) protecting them on a federal level, due to pressure from gay organizations.
+
+</comment>
+<comment mark=cont>
+{% include header name="vaspider" link="https://www.tumblr.com/vaspider/725020819984629760/honestly-yes-and-thats-part-of-the-reason-im" %}
+
+> The big pushes for marriage equality and military service were responses to ***things done to us***. They weren't the malicious behavior of a bunch of second-rate, shitty gays (holy fuck, what the fuck, measuring people's artistic prowess and social importance by how much they got laid? James, what the fuck). The push for marriage equality got bigger and louder because of the AIDS epidemic. Because we were denied entry into the hospital rooms and funerals of our loved ones. Because sometimes all families left behind when they cleared out everything in a shared apartment was a [fucking box fan](https://thepastisaroadmap.tumblr.com/post/668134369754513408/image-description-a-photo-of-the-exhibit-and-the). Because people ***lost their homes*** when their partners died. Because people were buried under the wrong names, or unclaimed by family and unable to be claimed by the people who loved them. 
+> 
+> The push for military service equality? That happened as a pushback against [active campaigns to out queer people and drive them out of military service](https://en.wikipedia.org/wiki/Don%27t_ask,_don%27t_tell#Origin). Like it or not, military service has become (by intent on the part of the Department of Defense) a way out of poverty for a lot of people, and queer people? Well, we tend to be poorer than others. Protecting people's ability to serve in the military meant protecting that path out of poverty for a lot of queer people, meant protecting health care, meant protecting housing, meant protecting lots and lots of things.
+
+> Is there a problem with respectability politics in the queer community? Yes. Does that problem with respectability politics undermine our ability to make meaningful change? Yes, absolutely. But we need to refrain from this absolutely fucking asinine and totally untrue reframing of the narrative to blame respectability politics for decisions made out of desperation by people under attack, and we one fucking hundred percent do not need this gross "the survivors were the losers who didn't fuck" narrative, as if one's sexual prowess has anything to do with one's worth as an artist or a human being. 
+>
+> That's ***fucking disgusting***, and James Somerton should be ***ashamed*** for even thinking that, much less putting those words in that order and putting them out into the world. My worth as an artist -- and yes, a queer artist -- has nothing to do with ***who I fuck*** or ***how much I fuck*** or ***how many partners I fuck***. It says a lot about the art world and who gets to rise to the top in it -- the pretty, the popular, the ***fuckable*** -- that people think so, though. 
+
+</comment>
 </compare>
 
 <compare>
@@ -1045,23 +1100,9 @@ It's time for us to start considering whose opinions about us actually matter an
 </compare>
 
 <compare>
-<credits {% include timecode %}>
+<credits {% include timecode %} class="closing">
 
 [Patreon credits roll over black and ["Night Out In LA" by Mdstocksound](https://mdstocksound.com/royalty-free-music/night-out-in-la-60sec/)]
 
 </credits>
 </compare>
-
-
-{% comment %}
-
-<comment>
-{% include header video=ace_116 at="2h8s" %}
-
-Courtney: But I’ve also — very unfortunately, it’s been brought to my attention that he has, in a video, talked about how, you know, queer media is *bad* now, because all of the good, fun, exciting gays died during the AIDS crisis. Because they were the cool ones. They were the artists who were sleeping around with a bunch of people. Which, *what a flippant, disrespectful way* to talk about the AIDS crisis, even just on its surface, as like, “Oh, you know, the fun artists are the ones who died. They’re the cool ones.” Like, first of all, that’s awful, but then to also be like, “The only people who didn’t die were the boring ones. The boring ones who weren’t having a lot of sex. Like, and that’s why their art is bad and why queer media has gotten bad”? Alright, just say you hate Aces and any gays who don’t have a ton of sex or casual sex or sex with a lot of different partners. Like, *what are we doing here?*
-
-Royce: That’s a statement that just gets worse the longer you think about it.
-
-</comment>
-
-{% endcomment %}
