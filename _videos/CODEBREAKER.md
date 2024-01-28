@@ -1,5 +1,7 @@
 ---
-# cSpell:words: Yorgos Lanthimos
+# cSpell:words: Yorgos Lanthimos Zalta Spinks Jani Academus Plys-Garzotto Kuleshov Sergey Rosen Maran Mulvey Doane Slavoj Žižek Lacanian Tsivian André Bazin Selnick Feige Cahiers cinéma Brokeback
+# cSpell:words: Germaine Dulac, Louis Delluc, Jean Epstein, Sergei Eisenstein, Lev Kuleshov, Dziga Vertov, Paul Rotha and film theorists like Rudolf Arnheim, Béla Balázs and Siegfried Kracauer Hattori Hanzō Korra Bolin Veric Edda Eddas Boiotia Halperin Laeurtius Greenberg Erotikos
+# cSpell:words: favourite analysed appetising indexical spectatorship Thanos gaybaiting scène noncontinuity stylised straightwashing civilisation characterised rulebook Codebreakers LGBTQ honourable expositionally pansexuality
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
 status: Complete
@@ -339,7 +341,7 @@ Granted, while film language is not limited to lighting and visual cues, these a
 <compare>
 <james span=2 {% include timecode %}>
 
-<mark>During the 1990s, the digital revolution and image technologies had an impact on film theory in *various* ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists, like Maran Don, Philip Rosen, and Laura Mulvy</mark>. 
+<mark>During the 1990s, the digital revolution and image technologies had an impact on film theory in *various* ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists, like Maran Don, Philip Rosen, and Laura Mulvey</mark>. 
 
 Today there are many different schools of film theory. So let's talk about them: 😊
 
@@ -484,7 +486,7 @@ Queerness doesn't even need to be present in a film to derive a queer reading fr
 
 There can also be a queer reading of *Kill Bill*, my favorite movie. There are no openly queer characters in the film, and for characters who might be queer, their queerness is not at all encoded in the language of the film. However, the bride, when she realized that she was pregnant, immediately wanted to leave behind her atypical chosen family. Instead of raising her daughter among a group of cutthroat assassins, she wanted a better life by forcing herself into the most heteronormative family that she could find on short notice. Because growing up poor in El Paso, Texas, is *so* much better than growing up around rich assassins.
 
-It is this rejection of non-conformity which sends her life into ruins, and spurs the whole bloody affair into action. (And, yes, ator hanzo is totally gay.)
+It is this rejection of non-conformity which sends her life into ruins, and spurs the whole bloody affair into action. (And, yes, Hattori Hanzō is totally gay.)
 
 </james>
 <from></from>
@@ -499,7 +501,7 @@ In essence, Queer Theory is watching a film through a queer lens, reading the fi
 <from></from>
 <james {% include timecode %}>
 
-Even before Queer Theory, we would watch a play or a movie and see a character, and we would look at them and say what they're going through is a queer experience, intended or not. That's easy to do with some movies. The queer subtext in *A Nightmare On Elm Street: Part Two* is so obvious the straight people readily picked it up. The lesbian energy in *Dracula's Daughter*, the bisexual tension erupting from *Rebel Without A Cause*, even the relationship between Captain America and Bucky Burns was read as gay by *millions* of straight movie goers.
+Even before Queer Theory, we would watch a play or a movie and see a character, and we would look at them and say what they're going through is a queer experience, intended or not. That's easy to do with some movies. The queer subtext in *A Nightmare On Elm Street: Part Two* is so obvious the straight people readily picked it up. The lesbian energy in *Dracula's Daughter*, the bisexual tension erupting from *Rebel Without A Cause*, even the relationship between Captain America and Bucky Barnes was read as gay by *millions* of straight movie goers.
 
 </james>
 <from></from>
@@ -676,7 +678,7 @@ I mean, it doesn't help that many of these stories were translated and recopied 
 <compare>
 <james {% include timecode %}>
 
-For instance, the Poetic and <mark fc=false>Prosaic Edda</mark>, the predominant source of what we know of Viking culture, <mark fc=false>was written by a single monk in Iceland</mark>. These stories were collected from oral traditions, runestones, and scavenged from what writings could be found before they were destroyed by Christians. <mark fc>Writings in these Eddas now explicitly decry homosexual acts between men, deeming them as being shameful and unmanly.</mark> 
+For instance, the Poetic and <mark fc=false>Prosaic Edda</mark>, the predominant source of what we know of Viking culture, <mark fc=false>was written by a single monk in Iceland</mark>. These stories were collected from oral traditions, rune stones, and scavenged from what writings could be found before they were destroyed by Christians. <mark fc>Writings in these Eddas now explicitly decry homosexual acts between men, deeming them as being shameful and unmanly.</mark> 
 
 </james>
 <comment id="prose_edda">
@@ -1048,10 +1050,15 @@ The Imitation Game <mark>winds up feeling like one of those films where the real
 
 Ironically, it's *RENT*, despite its multiple queer characters, seems to be one of the *least* queer films I've ever seen. Even as a teenager, though I *adored* the message of "No Day But Today", I barely acknowledged it as a *queer* musical. How could I, after having seen *Hedwig and The Angry Inch* five-thousand times. *RENT* screenwriter Stephen Chbosky and director Chris Columbus's notions of queerness seem... limited. 
 
-The queer characters on display, regardless of whether they're given a song or not, are really secondary to the Gen X whining of extremely flawed straight characters like Mark Roger and Mimi. Instead it's articulated expositionally in tracks like "Tango Maureen", where the bisexual Maureen is described as being the sluttiest slut in all of slutdom, because bisexual. And "I'll Follow You", where queer couple Angel and Collins sing about the near-fantasy life they hope to have together after escaping New York, and assumedly AIDS. 
+The queer characters on display, regardless of whether they're given a song or not, are really secondary to the Gen X whining of extremely flawed straight characters like Mark, Roger, and Mimi. Instead it's articulated expositionally in tracks like "Tango Maureen", <mark>where the bisexual Maureen is described as being the sluttiest slut in all of slutdom, because bisexual.</mark> And "I'll Follow You", where queer couple Angel and Collins sing about the near-fantasy life they hope to have together after escaping New York, and assumedly AIDS. 
 
 </james>
-<from></from>
+<comment>
+{% include header for=tustin %}
+
+This bit feels a lot like Lindsay Ellis's video on RENT, [specifically her line (at 6:37)](https://youtu.be/q0qfFbtIj5w?t=393) "This is also one of the rare representations of a bisexual character, although she, of course, is the Slutty McSlutter-Slutterson who wants to slut it up with every living human, because 'bi.'" Lindsay also talks about the Gen X whining (not those words specifically), and mentions the filming of "I'll Follow You". But I don't know if this is enough to condemn this whole segment for plagiarizing it.
+
+</comment>
 </compare>
 
 <compare>
