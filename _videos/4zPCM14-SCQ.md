@@ -7,7 +7,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
   - multipart
@@ -21,6 +21,23 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+A feature length video essay looking at the history of LGBT represenation in horror cinema.
+
+Inspired by the book of the same name by Harry M. Benshoff
+
+PATREON: [link]  
+TWITTER: [link]  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 
 # Transcript of "Monsters in the Closet: The Modern Ganymede"
 Originally released between 2017-07-01 and 2018-05-28

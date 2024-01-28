@@ -10,7 +10,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -18,6 +18,25 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+#scarletwitch #multiverseofmadness #wandavision
+
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="06:23" for="Part One: Queen Witch" %}  
+{% include chapter-link at="15:18" for="Part Two: She's a Witch, She's a Lover" %}  
+{% include chapter-link at="31:42" for="Part Three: The Witch Is Back" %}  
+{% include chapter-link at="44:57" for="Part Four: Life's A Witch" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Hi everyone. Before we get started with the video I just
 
 want to thank everyone who signed up for the Telos Pictures IndieGoGo campaign.

@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=mgNS_u4eWVU" # reuploads channel
-description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+# description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast
 
@@ -17,6 +17,22 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+PATREON LINK: [link]
+James's Twitter: [link]
+Nicks Twitter: [link]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to gays Behaving Badly the show where we talk about
 stuff the Pete booty judge doesn't want us to talk about my name is James I'm
 Nick so what are we talking about today today we are talking about dating apps

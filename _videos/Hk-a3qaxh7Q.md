@@ -6,14 +6,14 @@ aka: !!seq
   - "The Hit Gay Show We Forgot"
   - "No Apologies (Thumbnail)"
 topics: !!seq
-  - "<media>"
+  - "Queer as Folk"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/Newzab](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc74sro)"
 
@@ -23,6 +23,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Queer as Folk revolutionized the portrayal of gay and lesbian characters on TV. So why did we forget about it?
+
+PATREON: [link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:47" for="Part One" %}  
+{% include chapter-link at="09:29" for="Part Two" %}  
+{% include chapter-link at="16:03" for="Part Three" %}  
+
+#Pride #lgbt #queerasfolk
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by my patrons if you'd like to support my channel
 and get access to extras like audio commentaries a patron exclusive podcast and
 uncut videos you can join by clicking the link in the description it's january

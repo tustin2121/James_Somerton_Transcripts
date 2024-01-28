@@ -1,18 +1,17 @@
 {% comment %} Expected: video parameter {% endcomment %}
-<div class="video-card">
+<div class="video-card {%- include video-filter video=include.video -%}">
 	<div class="title">
-		<a href="{{ include.video.url | relative_url }}">{{ include.video.title }}</a>
+		<a href="{{ include.video.url | relative_url }}{%- if include.anchor -%}#{{ include.anchor }}{%- endif -%}">{{ include.video.title }}</a>
 		{% comment %} {{ include.video.notes }} {% endcomment %}
 		{%- include notes notes=include.video.notes -%}
 	</div>
 	<div class="date">{{ include.video.date | date_to_string }}</div>
-	{%- if include.video.aka -%}
-		<div class="aka">
-			{%- for aka in include.video.aka -%}
-				<p>{{ aka }}</p>
-			{%- endfor -%}
-		</div>
-	{%- endif -%}
+	<div class="aka">
+		<p class="desc">{{ include.video.description | slice: 0 | upcase }}{{ include.video.description |  slice: 1, 5000 }}</p>
+		{%- for aka in include.video.aka -%}
+			<p>{{ aka }}</p>
+		{%- endfor -%}
+	</div>
 	{%- if include.video.topics -%}
 		<div class="topics">
 			{%- for topic in include.video.topics -%}
@@ -46,5 +45,13 @@
 		{%- if include.video.cite.yikes and include.video.cite.yikes.size > 0 -%}
 			<div class="yikes">{{ include.video.cite.yikes.size }}</div>
 		{%- endif -%}
+		<div class="bar">
+			{%- assign vid = include.video.id | split: "/" | last -%}
+			{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
+			{%- if bar -%}
+				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
+				<span class="misinfo" style="width:{{ bar.m }}%"></span>
+			{%- endif -%}
+		</div>
 	</div>
 </div>

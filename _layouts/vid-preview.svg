@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 317.5 166.6875"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#8705ae;stroke-width:0.270919;fill-opacity:1"
+       id="rect1"
+       width="80"
+       height="80"
+       x="20"
+       y="65" />
+    <rect
+       style="fill:#850810;stroke-width:0.270919;fill-opacity:1"
+       id="rect2"
+       width="80"
+       height="80"
+       x="120"
+       y="65" />
+    <rect
+       style="fill:#4f6706;stroke-width:0.270919;fill-opacity:1"
+       id="rect3"
+       width="80"
+       height="80"
+       x="220"
+       y="65" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f0eaf2;fill-opacity:1;stroke-width:0.264583"
+       x="45.684898"
+       y="121.39857"
+       id="text3"><tspan
+         id="tspan4">{{ include.video.cite.plagiarized.size }}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffdcd7;fill-opacity:1;stroke-width:0.264583"
+       x="145.68489"
+       y="121.39857"
+       id="text5"><tspan
+         id="tspan5"
+         x="145.68489"
+         y="121.39857">{{ include.video.cite.misinformation.size }}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#feffd7;fill-opacity:1;stroke-width:0.264583"
+       x="245.68489"
+       y="121.39857"
+       id="text6"><tspan
+         id="tspan6"
+         x="245.68489"
+         y="121.39857">{{ include.video.cite.yikes.size }}</tspan></text>
+  </g>
+</svg>

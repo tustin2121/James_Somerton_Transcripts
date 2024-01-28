@@ -1,7 +1,7 @@
 ---
 date: 2023-04-20
 title: The Queer Dystopia of the LGB Movement
-status: In Progress
+status: Finished
 aka: !!seq
   - "The LGB Dystopia (Thumbnail)"
 topics: !!seq
@@ -11,18 +11,18 @@ links: !!seq
 description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
 notes:
   - script-diff
-  - custom-start
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: "Tustin2121"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
   factcheck: 
     - "[/u/Altruistic_County222](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn)"
 
 cite:
   clips: !!map
     kreia: { short: "(<em>Star Wars: KotOR2</em>, 2004)", full: "<em>Star Wars: Knights of the Old Republic II: The Sith Lords</em> [Video game]. (2004). Obsidian Entertainment, LucasArts." }
+  yikes: !!map
   misinformation: !!map
     first_line: "James literally gets the dates wrong in the very first line of this video."
     page_10: "James clearly hasn't read the source material if he's claiming up to page 10 is all you need."
@@ -30,7 +30,7 @@ cite:
 ---
 
 <compare>
-<credits header="Video Description:">
+<credits class="desc">
 
 [Sponsor link]
 
@@ -62,11 +62,11 @@ THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE
 <compare>
 <james {% include timecode %}>
 
-*No. 6* is a manga that began in 2011 and concluded in 2016, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. 
+*No. 6* is <mark fc=false>a manga that began in 2011 and concluded in 2016</mark>, contained in a neat nine-volume collection. A far cry from some of the sprawling, endless manga that seem to dominate the sales charts. 
 
 </james>
 <comment id="first_line">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+{% include header name="/u/Altruistic_County222" link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn" %}
 
 (Quoted, formatted for easier reading:)
 
@@ -104,11 +104,11 @@ Truth be told, I feel like this is less of a matter of taste and more of a matte
 
 America can either confront the grim reality of late-stage McCarthyism its in or raise the bar a little higher and wait until the government starts imposing curfew with walrus-tiger hybrid clones which bear the faces of deceased relatives. And THEN we might start thinking about writing an angry letter to your district overlord. 
 
-<mark>But as far as statements *No.6* makes about society, you really don’t need to read past page 10…</mark> beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
+<mark fc=false>But as far as statements *No.6* makes about society, you really don’t need to read past page 10…</mark> beyond that is useful, but essentially boils down to elaborating on how this world sucks, gay stuff, and trauma. But before we get into all that, and a whole lot more and how it relates to the LGB movement, let’s hear a word from this video's sponsor. 
 
 </james>
 <comment id="page_10">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn">/u/Altruistic_County222</a></div>
+{% include header name="/u/Altruistic_County222" link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbxhfdn" %}
 
 (Quoted, formatted for easier reading:)
 
@@ -119,7 +119,7 @@ America can either confront the grim reality of late-stage McCarthyism its in or
 </comment>
 </compare>
 
-&lt;Sponsor Read&gt;
+[Sponsor Read]
 <!-- THIS VIDEO IS BROUGHT TO YOU BY SKILLSHARE 
 
 I’ve actually used Skill Share for years, and I’ve found it really helpful even with making these videos. One of the biggest things it's helped me with is using Adobe After Effects, which can be labyrinthian in its complexities. And which I use to create the opening titles for these videos. In particular the Create Motion Graphics Templates with After Effects course on Skillshare. It’s shorter than a Pixar movie and helped me learn to create some great dynamic opening sequences. With everyone changing careers or starting their own businesses, a site like Skill Share can be incredibly useful. From learning a new skill to help increase the quality of the work, like me, or learning how to do your own accounting, or even learning a whole new skillset without spending 4 more years in school to do it. My business partner, Nick, is taking a photography course on Skillshare right now. And right now Skillshare is offering one month free to allof my viewers that use the link in the description box, but only for the rest of April. But they’re running an even better offer! If you’re ready to start learning today with Skillshare, you can get 40% off your first year using my link! I’m going to leave both links down in the description so you can choose the best one for you. But either way you get started, Skill Share is a legitimately great resource. I can’t recommend it enough. So once you’ve finished this video, head on down to the description and start learning a new skill with Skillshare today.  -->

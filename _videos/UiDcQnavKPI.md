@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - dec5-delete
   - odd-linebreaks
@@ -20,6 +20,36 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+What is shipping? Why do we do it? And what does it mean for LGBT representation?
+
+SUPPORT TELOS HERE  
+[link]
+
+Jessie Gender's video  
+https://www.youtube.com/watch?v=vxqQwAVEbM8&t=7937s
+
+Thumbnail art by https://twitter.com/ghostlyday?s=21
+
+#VideoEssay #lgbt #anime  
+&nbsp;
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:27" for="Part One: The Truth Untold" %}  
+{% include chapter-link at="09:49" for="Part Two: Boy In Luv" %}  
+{% include chapter-link at="18:29" for="Part Three: Pied Piper" %}  
+{% include chapter-link at="33:14" for="Part Four: Fake Love" %}  
+{% include chapter-link at="41:30" for="Part Five: Life Goes On" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 I never knew I was into shipping as 
 
 much as I apparently am until I, well,

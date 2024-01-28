@@ -8,7 +8,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -16,6 +16,29 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+*Re-upload*
+
+The Q word is a very contentious one these days. But gay words have always been contentious. Let's have a look at their history, and what we can do to take the "hate" out of "hate speech".
+
+00:00 Intro  
+01:28 Part One  
+06:50 Part Two  
+12:51 Part Three  
+18:25 Part Four  
+24:10 Part Five  
+28:18 Part Six  
+34:36 Part Seven  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 foreign [Music] so I've noticed that a lot of people in the comments take issue
 with my use of the word queer in respect to the whole Squad of CIS hetero
 hegemony resistance some people have told me to just use LGBT others have said

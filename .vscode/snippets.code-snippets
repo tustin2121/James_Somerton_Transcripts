@@ -18,7 +18,21 @@
 	"mark": {
 		"prefix": "mark",
 		"body": [
-			"<mark>$TM_SELECTED_TEXT</mark>"
+			"<mark$1>$TM_SELECTED_TEXT</mark>"
+		],
+		"description": "Surround text with <mark> tags"
+	},
+	"mark-num": {
+		"prefix": "mark-num",
+		"body": [
+			"<mark num=$1>$TM_SELECTED_TEXT</mark>"
+		],
+		"description": "Surround text with <mark> tags"
+	},
+	"mark-inexact": {
+		"prefix": "mark-inexact",
+		"body": [
+			"<mark x$1>$TM_SELECTED_TEXT</mark>"
 		],
 		"description": "Surround text with <mark> tags"
 	},
@@ -32,21 +46,21 @@
 	"spelling": {
 		"prefix": "spelling",
 		"body": [
-			"$TM_SELECTED_TEXT<sup class\"add\">[sic: $TM_SELECTED_TEXT$1]</sup>"
+			"$TM_SELECTED_TEXT<sup class=\"add\">[sic: $TM_SELECTED_TEXT$1]</sup>"
 		],
 		"description": "Correct spelling on a word in [sic] tag."
 	},
 	"del": {
 		"prefix": "del",
 		"body": [
-			"<span class=\"del\">$TM_SELECTED_TEXT</span><span class=\"add\">$1</span>"
+			"<del>$TM_SELECTED_TEXT</del>$0"
 		],
-		"description": "Strike text and add replacement"
+		"description": "Strike text"
 	},
 	"add": {
 		"prefix": "add",
 		"body": [
-			"<span class=\"add\">$1</span>"
+			"<ins>$TM_SELECTED_TEXT$1</ins>"
 		],
 		"description": "Add replacement"
 	},
@@ -61,7 +75,7 @@
 	"timecode": {
 		"prefix": "timecode",
 		"body": [
-			"{% assign timecode = \"$1\" %}"
+			"{% assign timecode = \"$TM_SELECTED_TEXT$1\" %}"
 		],
 		"description": "Insert timecode assignment"
 	},
@@ -77,7 +91,20 @@
 			"<from></from>".
 			"</compare>".
 		],
-		"description": "Insert timecode assignment"
+		"description": "Insert compare block with James block"
+	},
+	"nick-block": {
+		"prefix": "nick",
+		"body": [
+			"<compare>",
+			"<nick {% include timecode %}>",
+			"",
+			"$TM_SELECTED_TEXT$1",
+			"",
+			"</nick>".
+			"</compare>".
+		],
+		"description": "Insert compare block with Nick block"
 	},
 	"credits-block": {
 		"prefix": "credits",
@@ -90,6 +117,99 @@
 			"</credits>".
 			"</compare>".
 		],
-		"description": "Insert timecode assignment"
+		"description": "Insert compare block with credits block"
+	},
+	"clip-block": {
+		"prefix": "clip",
+		"body": [
+			"<compare>",
+			"<clip {% include citation for=page.cite.clips.$1 %}>",
+			"",
+			"$TM_SELECTED_TEXT$0",
+			"",
+			"</clip>".
+			"</compare>".
+		],
+		"description": "Insert compare block with clip block"
+	},
+	"subvideo-block": {
+		"prefix": "subvideo-block",
+		"body": [
+			"<compare>",
+			"<james fade=out {% include timecode %}>",
+			"",
+			"Aliqua ullamco deserunt eu laborum enim aliqua excepteur excepteur consequat irure. In et nisi quis reprehenderit exercitation elit.",
+			"",
+			"Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id.",
+			"",
+			"</james>",
+			"<subvideo>",
+			"",
+			"{%- assign subvid = subvids[0] -%}",
+			"{% include video-card video=subvid %}",
+			"",
+			"</subvideo>",
+			"<james fade=in>",
+			"",
+			"Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt proident adipisicing dolore. Non cillum aliquip in sint tempor et laboris non Lorem anim occaecat fugiat ipsum.",
+			"",
+			"Qui ad qui et ad velit Lorem occaecat occaecat ut labore culpa labore ad ex. Culpa culpa est anim aliquip fugiat nisi fugiat ullamco quis aliqua enim incididunt proident velit nostrud.",
+			"",
+			"</james>",
+			"</compare>",
+		],
+		"description": "Insert compare block with clip block"
+	},
+	
+	"citation": {
+		"prefix": "citation",
+		"body": [
+			"{% include citation for=page.cite.plagiarized.$0 at=\"¶ ?\" %}"
+		],
+		"description": "Insert citation for a <from> block."
+	},
+	"header": {
+		"prefix": "header",
+		"body": [
+			"{% include header name=\"$1\" link=\"$2\" %}"
+		],
+		"description": "Insert a header for a <comment> block."
+	},
+	"header-for": {
+		"prefix": "header-for",
+		"body": [
+			"{% include header for=$1 %}"
+		],
+		"description": "Insert a header for a <comment> block."
+	},
+	
+	"video-on-off": {
+		"prefix": "video-on-off",
+		"body": [
+			"<span visual=none$1 on=\"?\" off=\"?\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Add video on marker."
+	},
+	
+	"by-all-accounts": {
+		"prefix": "by-all-accounts",
+		"body": [
+			"<span stat:id=\"baa\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert \"by all accounts\""
+	},
+	"statistic": {
+		"prefix": "statistic",
+		"body": [
+			"<span stat:id=\"$1\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert statistic attribute"
+	},
+	"signed": {
+		"prefix": "signed",
+		"body": [
+			"{% include signed for=tustin$1 %}"
+		],
+		"description": "Insert signed attribute"
 	},
 }

@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=SzD3JpWNRxE" # Reuploads channel
-description: "a video on <xyz>."
+# description: "a video on <xyz>."
 
 cite:
   clips: !!map
@@ -15,6 +15,35 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Nick's Book!
+Amazon: [link]
+Everywhere Else: [link]
+
+My Instagram 
+[link]
+
+00:00 Intro
+01:09 Sandman
+04:54 Heartstopper
+08:23 Everything Everywhere All At Once
+11:28 Interview With The Vampire
+14:36 What We Do In The Shadows
+18:33 Chucky
+21:51 Out Flag Means Death
+24:04 American Horror Story
+
+#Bestof #Bestof2022
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hey everyone 2022 was really a year but one thing that I was shocked by was how
 much amazing media with queer themes and characters actually came out this year
 so I decided to do a top eight queer movies or TV shows of the year and I'm

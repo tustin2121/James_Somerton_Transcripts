@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -17,6 +17,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+How Barbie is a masterpiece of modern camp, and why queer people connected with it so much.
+
+00:00 Introduction  
+08:53 Sponsor  
+09:56 Part 1  
+15:42 Part 2  
+21:56 Part 3  
+30:52 Part 4  
+38:20 Part 5  
+
+#Barbie #videoessay
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Manta sleep hi this video has nothing to do with
 Forrest Gump Forrest Gump is a 1994 inspirational drama starring Tom Hanks and
 is one of his most famous roles that is until he became famous for just being
@@ -638,3 +662,21 @@ the role we play is deciding which ideas may become real because anything really
 is possible so don't let anyone keep you inside of a box oh and Barbie is
 absolutely asexual [Music] [Applause] [Music] [Applause] [Music] foreign [Music]
 foreign [Music] thank you [Music] thank you [Music]
+
+
+{% comment %}
+
+<comment id="barbie-ace">
+{% include header video=ace_couple at="1h53m47s" %}
+
+> Courtney: We saw some people praising his Barbie video recently, because apparently, he said, like, “By the way, Barbie absolutely is Asexual.” So we were like, “Alright, well, let’s watch that to see if he got anything wrong.” But it wasn’t about Asexuality at all. It started with a rant about Forrest Gump. It was weird.
+> 
+> Royce: The Asexuality line was a very quickly spoken closer. It was the last line in the video.
+> 
+> Courtney: It had nothing to do with the video. It was like, “Here’s a big rant about Forrest Gump. Here’s a big, partially incoherent monologue about Barbie,” which, some of it didn’t make any sense, some of it I didn’t agree with, some of it was totally irrelevant. He then branched off of Barbie to go talk about another movie that I’d never even seen, at one point. And the thesis — like, the lines, did not get connected well enough. But then, at the very end, the last line was, like, “Oh, and, by the way, Barbie’s Asexual.”
+> 
+> Courtney: And it’s like, there is so much we could actually say and analyze about why Barbie is Asexual, what that means, why that is queer, why that is a subversion. We made a video before, or… “a video.” We made a podcast about Barbie being Asexual, even before we saw the Barbie movie. Now that we have seen the Barbie movie, we could probably do one analyzing the movie itself if we really wanted to, but it wasn’t about Asexuality at all. So, given our history with him, it’s like, “You’re just scoring this for points. You are just trying to say, ‘Look, I am an Ace ally. Anyone who’s not examining me critically, praise me for my inclusivity, please.’”
+
+</comment>
+
+{% endcomment %}

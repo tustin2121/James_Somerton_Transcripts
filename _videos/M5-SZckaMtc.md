@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=8UXWQacdLmc" # Reuploads channel
-description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
+# description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast
 
@@ -17,6 +17,21 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+[patreon link]
+[website link]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Squarespace hello everyone and welcome to gays
 Behaving Badly the podcast YouTube show that Neil Patrick Harris will absolutely
 never come on my name is James you okay over there hi I'm Nick I'm I'm Nick

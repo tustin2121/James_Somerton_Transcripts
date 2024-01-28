@@ -8,7 +8,7 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - behind-scenes
 
@@ -24,6 +24,31 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Is being gay a choice? According to mainstream video games… probably.
+
+PATREON : [link]
+
+Thumbnail art by: Xelgot  
+https://xelgot.artstation.com
+
+#LGBT #Hades #VideoGames
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:27" for="Part 1 - Groundbreakers" %}  
+{% include chapter-link at="13:36" for="Part 2 - Homo-Optional" %}  
+{% include chapter-link at="30:46" for="Part 3 - Glass Ceiling" %}  
+{% include chapter-link at="45:30" for="Part 4 - Political Identity" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Victory whenever I'm playing OverWatch I've started gravitating toward Soldier
 76 when my favorite killer robot with PTSD Bastion is impr practical I didn't
 play as soldier for the first few years the game was out though but then blizzard the company behind OverWatch

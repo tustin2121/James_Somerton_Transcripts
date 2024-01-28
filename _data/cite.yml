@@ -1,0 +1,81 @@
+####### Contributor citations #######
+from-script:
+  name: "James Somerton & Nick Herrgott (script used as closed captioning)"
+tustin2121:
+  name: Tustin2121
+  contributor: true
+  descriptive: former patron of James
+  link: "https://github.com/tustin2121/"
+lvence:
+  name: LVence
+  contributor: true
+  descriptive: from the Former Fans Discord
+  link: ""
+tobicat:
+  name: tobicat
+  contributor: true
+  descriptive: from the Former Fans Discord
+  link: "https://github.com/tobi-cat"
+scarylibrary:
+  name: Scary-Library
+  contributor: true
+  descriptive: from the Former Fans Discord
+  link: "https://github.com/Scary-Library"
+penguinstorage:
+  name: penguinstorage
+  contributor: true
+  descriptive: from the Former Fans Discord
+  link: "https://github.com/jordantullis"
+penguinstorage:
+  name: penguinstorage
+  contributor: true
+  descriptive: from the Former Fans Discord
+  link: "https://github.com/jordantullis"
+sciclone1984:
+  name: sciclone1984
+  contributor: true
+  descriptive: project contributor
+  link: "https://github.com/sciclone1984"
+
+TerraJRiley:
+  name: TerraJRiley
+  descriptive: project creator
+  link: "https://github.com/TerraJRiley/James_Somerton_Transcripts"
+
+
+####### Common video citations #######
+todd: # assign todd = site.data.cite.todd
+  name: Todd in the Shadows
+  descriptive: "Pop Music Reviewer / YouTuber"
+  link: "https://www.youtube.com/@ToddintheShadows"
+  video: # Todd in the Shadow's fact-checking video
+    color: "todd"
+    short: "Fact Check (Todd in the Shadows, 2023)"
+    full: "Todd in the Shadows. (2023, Dec 3) <em>I Fact-Checked The Worst Video Essayist On YouTube</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=A6_LW1PkmnY"
+  forrest_gump:  # Todd in the Shadow's unlisted video on Forrest Gump
+    color: "todd"
+    short: "Forrest Gump (Todd in the Shadows, 2023)"
+    full: "Todd in the Shadows. (2023, Dec 4) <em>James Somerton doesn't like Forrest Gump</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=azIgg6hbYbM"
+
+hbomb: # assign hbomb = site.data.cite.hbomb
+  name: H.Bomberguy
+  descriptive: "YouTuber who made a video on plagiarism"
+  link: "https://www.youtube.com/@hbomberguy"
+  video: # Hbomb's plagiarism video
+    color: "hbomb"
+    short: "Plagiarism Video (Hbombergy, 2023)"
+    full: "hbomberguy. (2023, Dec 2) <em>Plagiarism and You(Tube)</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=yDp3cB5fHXQ"
+
+ace_couple:
+  name: The Ace Couple
+  descriptive: "Courtney Lane and Royce, a couple who makes podcasts on asexuality"
+  link: "https://theacecouple.com"
+  ep116:
+    color: "ace_couple"
+    name: "The Ace Couple (via podcast #116)"
+    short: "Ep. 116 (The Ace Couple, 2023)"
+    full: "The Ace Couple. (2023, Dec 13) <em>We were personally victimized by James Somerton</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode116/"
+    url: "https://www.youtube.com/watch?v=kGIZIuTXWvg"

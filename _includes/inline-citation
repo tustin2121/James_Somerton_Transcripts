@@ -1,0 +1,1 @@
+<a class="citation" href="#{{ include.for.short | slugify }}">{{ include.for.short }} {{ include.at }}</a>

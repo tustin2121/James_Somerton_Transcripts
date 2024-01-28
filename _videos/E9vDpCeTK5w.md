@@ -10,7 +10,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=qyQcCzV0lGE" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -18,6 +18,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Experience the queer joy in the multiverse of Everything Everywhere All At Once
+
+PATREON: [link]
+
+00:00 Introduction  
+01:40 Part One  
+11:56 Part Two  
+19:49 Part Three  
+
+#everythingeverywhereallatonce #Oscars #academyawards
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by our patrons for as little as a dollar a month
 you can gain Early Access to new videos see behind the scenes content listen to
 our Patron exclusive podcast the patreon and much more for 2023 we're developing

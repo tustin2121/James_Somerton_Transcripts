@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -15,6 +15,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+I went through a bunch of lists of “the best” LGBTQ movies and decided to put them in their place.
+
+[patreon link]
+
+00:00 Intro and Channel Update  
+03:12 1-10  
+13:09 11-20  
+20:21 21-30  
+31:21 31-40  
+42:19 41-52  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 hello everyone and welcome to my tier ranking of the uh it was gonna be 50 but i
 added two more so 52 best with big ass quotes lgbtq movies ever made i created
 this list by going through about 16 or 17 best queer movies ever made lists

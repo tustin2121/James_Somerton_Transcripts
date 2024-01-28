@@ -9,7 +9,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 
@@ -18,7 +18,34 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    tinker_belles: { color: 3, short: "(Griffin, 2000)", full: "Griffin, S. (2000). <em>Tinker Belles and Evil Queens: The Walt Disney Company from the Inside Out</em> New York. New York University Press.", url: "https://www.jstor.org/stable/j.ctv12pnpj2", type: "book", style: 'book' }
+    queer_mulan: { color: 5, short: "(Tom, 2018)", full: "Tom, J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", url: "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+A deep dive into the history of LGBT representation (or lackthereof) in Disney films. From the Silly Symphonies to Star Wars and Marvel. 
+
+Based on the book "Tinker Belles and Evil Queens" by Sean P. Griffin
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="06:06" for="The Days of Walt Disney" %}  
+{% include chapter-link at="29:46" for="The New Blood" %}  
+{% include chapter-link at="58:51" for="A New Era" %}  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob
 Iger announced Disney's latest World conquering Venture Disney plus a Digital
 streaming service dub a Netflix Killer by many in the media that would make

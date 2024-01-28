@@ -10,7 +10,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes: 
   - odd-linebreaks
 
@@ -20,6 +20,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+There's so much more going on in "Painter of the Night" than just sex and violence.
+
+My Patreon:  
+[link]
+
+{% include chapter-link at="00:00" for="Intro" %}  
+{% include chapter-link at="03:47" for="Part 1 - Spilling Tea" %}  
+{% include chapter-link at="11:15" for="Part 2 - Subjugation Fetish" %}  
+{% include chapter-link at="18:27" for="Part 3 - We Eat Our Own" %}  
+{% include chapter-link at="30:17" for="Part 4 - We Are All Parasites" %}  
+{% include chapter-link at="41:27" for="Part 5 - Class Contrast" %}  
+
+#PainteroftheNight #Manga #VideoEssay
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 SO, Back to the increasingly popular world
 
 of Korean Manhwa we go! After the Killing Stalking video came out

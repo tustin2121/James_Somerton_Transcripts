@@ -7,12 +7,12 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=d72Ze-_Du6s" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 notes:
   - hbomb
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[Mick Abrahamson](https://twitter.com/DaNanoBiologist/status/1731357701127405861)"
     - "[/u/vakama95](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2z5rx)"
@@ -23,6 +23,30 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Harry Potter and All The Crap 
+
+PATREON LINK: [link]  
+James's Twitter: [link]  
+Nicks Twitter: [link]  
+
+00:00 Introduction  
+03:12 Part One  
+16:00 Part Two  
+24:33 Part Three  
+32:40 Part Four  
+
+#lgbt #lgbtq
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 For anyone who has followed my channel for
 
 any amount of time, and certainly anyone who follows me on Twitter or watches my

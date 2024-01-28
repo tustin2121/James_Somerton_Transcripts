@@ -8,7 +8,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=xHPd2xtG5xQ"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -16,6 +16,18 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[???]
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 the marvel cinematic universe has been an incredibly interesting experiment by
 disney and marvel studios it's creating new interest in the comics has almost
 single-handedly turned superhero movies into hollywood's new giant cash cow and

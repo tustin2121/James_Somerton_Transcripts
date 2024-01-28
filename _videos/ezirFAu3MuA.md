@@ -7,7 +7,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=blJ-Z1A3Ixw" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -15,6 +15,27 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+Why is it that, for queer people, perfection is a necessity instead of an option?
+
+PATREON: [link]
+
+00:00 Introduction  
+03:50 Chapter 1  
+12:00 Chapter 2  
+18:55 Chapter 3  
+31:27 Chapter 4  
+40:29 Chapter 5  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it
 and yet has there ever been anything so coveted that is so vaguely defined what
@@ -306,10 +327,13 @@ they put before you some qualifications of otherness are just more visible but I
 hear this echoed within the queer Community to an absurd degree these barriers
 and hurdles and expectations ranging from public speaking contests in high
 school local craft competitions to watching professionals and Publishing
-television and other forms of media people who go out on a limb and break the
-mold and then have their bold advancements parroted by a more conventional
-creator who's then credited with flipping the script or moderately successful
-gay YouTube creators who get left on red by nebula I feel that perhaps we
+television and other forms of media.
+
+
+<span stat:id="irony..." id="parroted"> people who go out on a limb and break the mold and then have their bold advancements parroted by a more... conventional creator. who's then credited with flipping the script (or moderately successful gay YouTube creators who get left on read by nebula). </span>
+
+
+ I feel that perhaps we
 overcompensate for our need to provide ourselves with Legacy we push the limits
 a bit further than our Scholars and corporate overlords are willing to recognize
 perhaps because we seek Legacy and Perfection for its own sake or rather like

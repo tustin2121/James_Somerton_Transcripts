@@ -13,7 +13,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=AgaSGvhUHyE" # Reuploads channel
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 cite:
   clips: !!map
@@ -21,6 +21,33 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+[sponsor plug]
+
+What has RENT gone down in history as THE queer play about HIV/AIDS when it's barely about queer people, barely about AIDS, and a much better play about queer people and HIV/AIDS came out years before it? Let's investigate.
+
+[patreon link]
+[website link]
+
+00:00 Introduction  
+08:31 1. Renter’s Market  
+14:58 2. Penis From Heaven  
+21:13 3. Not All Rainbows  
+27:08 4. You and Me, Easy as AZT  
+33:20 5. Bohemia! What a concept!  
+42:35 6. AIDS in America  
+50:30 7. Manic Pixie Dream Homelessness  
+01:03:17 8. Glory To  
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 this video is brought to you by Squarespace in 1996 the musical theater world
 was changed Forever by a small Off-Broadway musical gaining the attention of
 critics and fans alike rent was promptly moved to a proper Broadway Theater

@@ -9,10 +9,10 @@ topics: !!seq
   - "Our Flag Means Death"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on <xyz>."
+# description: "a video essay on...?"
 
 contributors:
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbx67oj)"
     - "[/u/Acrobatic-Builder-60 & /u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbwy0g5)"
@@ -24,6 +24,33 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+SPOILERS AHEAD
+
+How “Our Flag Means Death” portrays the struggle of being your true self in a world that expects you to lie.
+
+Join my Patreon: [link]  
+Follow me on Twitter: [handle]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="04:16" for="Part One - It’s a Pirate Life, Hunty!" %}  
+{% include chapter-link at="12:30" for="Part Two - The Booty" %}  
+{% include chapter-link at="19:47" for="Part Three - A Man of Fortune" %}  
+{% include chapter-link at="27:06" for="Part Four - Dead Men Spill No Tea" %}  
+{% include chapter-link at="36:46" for="Part Five - Feelings in a Bottle" %}  
+{% include chapter-link at="42:04" for="Part Six - Buried Pleasure" %}  
+
+#OurFlagMeansDeath #GraceAndFrankie #VideoEssay
+
+</credits>
+</compare>
+
+{% include transcript-start %}
+
 Pirates are a bit of a mystery, in their personal 
 
 lives. Which is probably why they maintain such

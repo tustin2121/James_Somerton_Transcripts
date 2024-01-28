@@ -15,12 +15,11 @@ notes:
   - script-diff
 
 contributors:
-  transcription: "James Somerton & Nick Herrgott (script used as closed captioning)"
-  downloaded: "[TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)"
-  formatting: "Tustin2121"
+  transcription: $cite$from-script
+  downloaded: $cite$TerraJRiley
   citation: 
     - "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)"
-  formatting: Tustin2121
+  formatting: $cite$tustin2121
 
 cite:
   clips: !!map
@@ -29,6 +28,7 @@ cite:
   misinformation: !!map
     fab_quote: "James presents a fabricated quote on-screen."
     newton_fight: "Nick makes a joke about Newton's and Leibniz that doesn't quite add up."
+    slave_population: "James says he can't get Rome out of his head, but it's actually Sparta that lives rent free there."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -38,6 +38,22 @@ cite:
     indie_wire_article: { color: 6, short: "Abigail Disney (Bergeson, 2022)", full: "Bergeson, S. (2022, Mar 2). <em>Abigail Disney Calls Out Disney Donations to Florida’s ‘Don’t Say Gay’ Supporters</em> [News article]. Indie Wire. Retrieved December 17, 2023, from", url: "https://www.indiewire.com/features/general/abigail-disney-slams-walt-disney-company-funding-dont-say-gay-bill-1234703717/" }
     fanfest_russia: { color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/" }
 ---
+{% assign tustin = site.data.cite.tustin2121 %}
+
+<compare>
+<credits class="desc">
+
+As a company, Disney has so much influence that they've forced copyright laws to change over and over. And yet they keep quiet when it comes to the health and safety of queer youth.
+
+SUPPORT TELOS: [link]  
+PATREON: [link]  
+
+#Disney
+
+</credits>
+</compare>
+
+{% include transcript-start %}
 {% assign timecode = "0:00" %}
 
 <compare>
@@ -151,7 +167,7 @@ he said. Essentially saying that any child whose family can’t afford a progres
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagiarized.indian_exp_article.short }}.
 
@@ -199,7 +215,7 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 President Biden's tweet (sent Feb 8th): https://twitter.com/POTUS/status/1491186973511458818
 
@@ -343,7 +359,7 @@ Meanwhile, on the gay front, Netflix’s ever-expanding library of LGBTQ-content
 
 </james>
 <comment id="newton_fight">
-<div class="header"><a href="https://www.reddit.com/r/hbomberguy/comments/18gudty/new_james_somerton_plagiarism_discoveries_since/kd5alt9/?context=3">u/DHLawrence_sGhost</a></div>
+{% include header name="/u/DHLawrence_sGhost" link="https://www.reddit.com/r/hbomberguy/comments/18gudty/new_james_somerton_plagiarism_discoveries_since/kd5alt9/?context=3" %}
 
 The famous fighting between [Leibniz](https://plato.stanford.edu/entries/leibniz/) and Newton was over who discovered calculus first, rather than over Newton's theory of optics.
 
@@ -620,7 +636,7 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 
 </james>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
 Sourced from Abigail Disney's tweet (from March 2, 2022): https://twitter.com/abigaildisney/status/1499513391236501507
 
@@ -704,16 +720,19 @@ Right-wing lawmakers have an invested interest in limiting the number of people 
 <compare>
 <james {% include timecode %}>
 
-And also generating a horde of exploitable labor from the underclass. That last part is key. Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.[^romans] They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
-
-[^romans]: This seems very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It also seems to vary greatly based on region.
+And also generating a horde of exploitable labor from the underclass. That last part is key. <mark>Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.</mark> They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
 
 That other 30% — and an even smaller fraction was actually the socially superior ‘Patrician’ class — required a legion of slavery in order for society to function. So if we’re still sitting around wondering why we can’t all just get along, it’s because a collection of social superiors NEED an underclass in order for their lives to function. Costs of labor cut into profits. And if slavery is ‘illegal’ — except for instances of mass-incerceration — the next best thing is to make it as cheap as possible to exploit someone. 
 
 And someone is easier to exploit if the government is consistently de-valuing their identity and their selves. What right do you have to ask for a living wage if the government itself has deemed you as not being suitable to exist? 
 
 </james>
-<from></from>
+<comment id="slave_population">
+{% include header for=tustin %}
+
+1. This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
+
+</comment>
 </compare>
 
 <compare>
@@ -796,9 +815,11 @@ Rose Ophelia Shepard
 
 </credits>
 <comment>
-{{ site.tustin.header }}
+{% include header for=tustin %}
 
-It's unclear who James is thanking here. Searching this name on Google gives us a YouTube user with zero videos and six subscribers, and a bunch of historic obituaries. 
+Rose is a YouTube user with about 7 subscribers and no videos. They commented on the reupload of this video, remarking on the credit here:
+
+> Im the "special thanks to" person, which was nice, but its cause he asked to use a comment i made in an upcoming video, only to not technically give me credit for that contribution, just a special thanks which could mean anything
 
 </comment>
 </compare>
