@@ -34,8 +34,6 @@ Video archives:
 </div>
 </div>
 
-[List of all plagiarized sources](allSources.md)
-
 # Transcript Index
 
 <div>
@@ -88,7 +86,7 @@ Transcript Statuses:
 {%  assign vids_fin = site.videos | where: 'status', 'Finished' -%}
 {%- assign vids_comp = site.videos | where: 'status', 'Complete' -%}
 {%- assign vids_fin = vids_fin | concat: vids_comp -%}
-Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete: {{ vids_comp.size }} / {{ site.videos.size }} &nbsp; | &nbsp; [Other "fun" stats](stats.md) &nbsp; | &nbsp; [How to read this site](instructions.md)
+Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete: {{ vids_comp.size }} / {{ site.videos.size }} &nbsp; | &nbsp; [Other "fun" stats](extras/stats.md) &nbsp; | &nbsp; [How to read this site](instructions.md)
 
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
