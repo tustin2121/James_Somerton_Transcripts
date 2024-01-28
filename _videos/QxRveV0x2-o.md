@@ -230,10 +230,13 @@ Really, the nail in the coffin should have been the direct message from the <ins
 <compare>
 <james {% include timecode %}>
 
-But… Japan has certain laws, such as what time of night a queer-centric show can <ins>actually</ins> be aired on TV. This show was slated for an earlier timeslot in the night because its<sup>[sic: it's]</sup> first a foremost a sports anime. In order for the quiet part to be as loud as the creator wanted, it would have <del>have to air much later at night</del><ins>to have had a much later timeslot</ins> than the network wanted. Probably not reach as wide an audience because of it, and definitely not have the same amount of advertising behind it. What the creator did with presenting an obviously gay story while still appeasing the censorship regulations was… just an all round masterclass in network trolling. 
+<mark>But… Japan has certain laws, such as what time of night a queer-centric show can <ins>actually</ins> be aired on TV. This show was slated for an earlier timeslot in the night because its<sup>[sic: it's]</sup> first a foremost a sports anime. In order for the quiet part to be as loud as the creator wanted, it would have <del>have to air much later at night</del><ins>to have had a much later timeslot</ins> than the network wanted. Probably not reach as wide an audience because of it, and definitely not have the same amount of advertising behind it. What the creator did with presenting an obviously gay story while still appeasing the censorship regulations was… just an all round masterclass in network trolling.</mark>
 
 </james>
 <comment>
+
+Covered by Todd in the Shadows (https://youtu.be/A6_LW1PkmnY&t=2900) and Hbomberguy (https://youtu.be/yDp3cB5fHXQ&t=6773s). [Here's a more comprehensive overview of the topic as well](https://saotome-michi.tumblr.com/post/153430309719/yuri-on-ice-anime-ratings-and-censorship) 
+Basically, *Yuri on Ice* was broadcast late at night, between 1 and 3 am, which is typical for shinya anime (anime marketed towards adults and teenagers). Also, Japan's constitution prohibits censorship, and their law against obscenity is mostly applied to video pornography, and certainly not to men kissing in anime. And though Japan does have a ratings system, it's mostly used for movies and video games, not TV. In addition, anime with canonical gay relationships, such as *No. 6* (2011), have aired on major Japanese television networks before. [It is, however, possible for networks to pressure creators into removing certain content, or for creators to self-censor in an attempt to appeal to the network or audience.](https://saotome-michi.tumblr.com/post/169641478729/hi-well-i-think-they-might-have-changed-the)
 
 </comment>
 </compare>
@@ -253,12 +256,21 @@ Christophe: Yuuri...
 </clip>
 <james {% include timecode %}>
 
-—And wanted to project it out to as large an audience as possible, while still preserving the queer elements of the story. So, she had to compromise her artistic vision, appease the network demands, and develop a quality program that would appeal to <ins>mass</ins> audiences. The easiest thing to do in this situation would be to develop a token straight love interest for Yuri and/or Victor. That way, with heterosexuality confirmed, the creator would have a lot more leeway from the studio to do what she wanted. But instead, and I strongly approve of this, she coded elements of queerness so strongly that they are absolutely unmissable, and yet, she can argue to the network that it matches the straight-leaning sensibility of network standards. <ins>And it's not like Western countries don't have these kind of laws either. There's a reason that, to this day, most shows that have sexual gay characters don't come on TV until after 10pm.</ins> 
+—And wanted to project it out to as large an audience as possible, while still preserving the queer elements of the story. So, she had to compromise her artistic vision, appease the network demands, and develop a quality program that would appeal to <ins>mass</ins> audiences. The easiest thing to do in this situation would be to develop a token straight love interest for Yuri and/or Victor. That way, with heterosexuality confirmed, the creator would have a lot more leeway from the studio to do what she wanted. But instead, and I strongly approve of this, she coded elements of queerness so strongly that they are absolutely unmissable, and yet, she can argue to the network that it matches the straight-leaning sensibility of network standards. <ins>And it's not like Western countries don't have these kind of laws either. There's a reason that, to this day, most shows that have sexual gay characters don't come on TV until after 10pm.<sub cn></sub></ins> 
 
-I don’t know how much you <ins>guys</ins> know about show business but being able to do that without sacrificing the integrity of the project is absolutely incredible. As a comparison of how things can go terribly wrong, Nickelodeon fought tooth and nail against the creative team of *Legend of Korra*, who wanted to present a queer woman of colour. Which were, at the time, three words that the network did not want to hear in a pitch. Unfortunately, for whatever reason, there was little effort made to code Korra as ‘queer’ <ins>in the earlier seasons</ins> — maybe it was even a studio note to force Korra into a number of Love triangles with <del>other men</del><ins>male characters</ins>, and a continuing on-again-off-again relationship with a male supporting character. Eventually going so far as to push the final <ins>two</ins> seasons of the show onto their web only platform because they knew Korra and Asami were going to hold hands in the final shot and, well, we can’t <del>put</del><ins>have</ins> that on TV, now can we? 
+</james>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+I don’t know how much you <ins>guys</ins> know about show business but being able to do that without sacrificing the integrity of the project is absolutely incredible. As a comparison of how things can go terribly wrong, <mark>Nickelodeon fought tooth and nail against the creative team of *Legend of Korra*, who wanted to present a queer woman of colour. Which were, at the time, three words that the network did not want to hear in a pitch. Unfortunately, for whatever reason, there was little effort made to code Korra as ‘queer’ <ins>in the earlier seasons</ins> — maybe it was even a studio note to force Korra into a number of Love triangles with <del>other men</del><ins>male characters</ins>, and a continuing on-again-off-again relationship with a male supporting character. Eventually going so far as to push the final <ins>two</ins> seasons of the show onto their web only platform because they knew Korra and Asami were going to hold hands in the final shot and, well, we can’t <del>put</del><ins>have</ins> that on TV, now can we?</mark> 
 
 </james>
 <comment>
+
+Covered by Todd in the Shadows. (https://youtu.be/A6_LW1PkmnY&t=2260s) Basically, these are rumors that aren't well substantiated. There was definitely sexism against Korra, and Nickelodeon made some questionable decisions regarding the show, and [they did limit how clear the creators could be in depicting Korra and Asami, in regards to the final shot anyway.](https://bryankonietzko.tumblr.com/post/105916338157/korrasami-is-canon-you-can-celebrate-it-embrace) But there's no proof that Korra was ever pitched as a queer character (Bryan assumed it would never happen, because it was Nickolodeon in 2010), and no proof that Nickelodeon moved the series to web-only specifically because of the last scene; if they were that bothered by it, they could've just told the creators "no." It's also... odd to claim that Korra wasn't coded as queer specifically because she had romantic relationships with male characters in the past.
+
 </comment>
 </compare>
 
@@ -347,6 +359,9 @@ Now, as a movie news nerd I followed the production of *Birds of Prey* pretty cl
 
 </james>
 <comment>
+
+Covered by Todd in the Shadows (https://youtu.be/A6_LW1PkmnY&t=5632). The only person who claimed this was Grace Randolph, who has repeatedly just made up stuff about movies or actors. [There was a whole Twitter argument between her and the movie's director, Cathy Yan.](https://www.themarysue.com/dont-fight-directors-cause-youre-wrong/) [Apparently, there was supposed to be a gag in the movie where Roman was depicted as Michaelangelo's *David*, but the creators decided it wouldn't work,](https://www.independent.co.uk/arts-entertainment/films/news/birds-of-prey-director-cathy-yan-pic-storyline-deleted-roman-sionis-a9543501.html) and then this got misinterpreted as "dick pics," and then articles started getting published called "Margot Robbie Birds of Prey Has Pedophilia Elements." 
+
 </comment>
 </compare>
 
@@ -361,11 +376,22 @@ But the queerness of the couple is still abundantly clear. Roman never says he�
 <ins>Roman: Is that a snot bubble? Ew, gross. Oh, I've changed my mind.
 
 </clip>
+</compare>
+
+<compare>
 <james {% insert timecode %}>
 
 Now, the queer community doesn’t really like <ins>the</ins> queer coded villains these days, which is pretty understandable. But in this case, exceptions can and should be made.  Some of the *Birds of Prey* media discussion was focused on how the film despises men or portrays white men as villains. That isn't entirely accurate, but the film does have a slew of terrible men with <del>a</del> similar appearance<ins>s</ins>. What interests me about this is that Roman and Victor are examples of these evil men. They aren't macho clichés of men, and they don't sexualize the female characters in the film. Roman shifting into the Black Mask persona and forcing a woman to pull off her clothing is one example where it doesn't feel like he's doing it for <del>the</del> sexual thrills, but for the control. He also didn't want the dress in his club because it was <ins>a</ins> crime against fashion. And unlike murder, some laws should never be broken.
 
 </james>
+<comment>
+
+I'm not sure how to put this, because I haven't seen the film myself, but like... I don't think it matters *why* Black Mask is doing something, he's still inflicting sexual violence on women  (https://bookriot.com/birds-of-prey-movie-2/), and I don't really like that James is making light of it, or claiming that this is somehow "not sexualizing the female characters."
+
+</comment>
+</compare>
+
+<compare>
 <clip>
 
 Female juror (from *Serial Mom* (1994)): Fashion has changed.
