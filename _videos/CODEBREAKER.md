@@ -2,7 +2,7 @@
 # cSpell:words: Yorgos Lanthimos
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
-status: Finished
+status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
   - "Codebreakers: a rant by James Somerton (Thumbnail)"
@@ -10,11 +10,14 @@ topics: !!seq
   - Poetic / Prose Edda
   - Achilles and Patroclus
   - The Song of Achilles / Troy
+  - The Imitation Game / Rent
+  - The Favorite
 links: !!seq
   - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
-# description: "a video essay on...?"
+description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:
   - hbomb
+  # - visual
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
@@ -86,6 +89,7 @@ cite:
     achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
     wiki_queer_cinema: { color: 8, short: "New queer cinema (Wikipedia, 2020)", full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524" }
     ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
+    mako_visual: { color: 12, short: "Mako x Wu (MoonFlower, 2020)", full: "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", url: "https://www.youtube.com/watch?v=1c-Km4I4bqA" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
@@ -516,20 +520,29 @@ But other movies require a bit more digging. In [Evil Queens](Qvu84kjtGvE), I ta
 </comment>
 </compare>
 
+<div class="visual">
 <compare>
+<visual {% include citation for=page.cite.plagiarized.mako_visual at="(2:31)" %}>
+{% assign mkv = page.cite.plagiarized.mako_visual.color %}
+
+James pulls an FMV from YouTube to use as B-Roll for this part.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 <span visual=none on="?" off="?">In *The Legend Of Korra*, there actually are confirmed bisexual characters. But ask any queer person who's watched the show and they'll tell you every damn character on it is bi or pansexual.</span> It's not wishful thinking; it's a queer reading of the show. 
 
 <span visual=none on="?" off="?">Bolin's close relationship with Veric.</span> 
 
-<span visual=none on="?" off="?">Mako's will-they-won't-they with Prince Woo (which seems to be getting closer to becoming canon in the graphic novels).</span>
+<span visual={{mkv}} on="2:31" off="2:35">Mako's will-they-won't-they with Prince Woo (which seems to be getting closer to becoming canon in the graphic novels).</span>
 
 <footer>James mispronounces Mako's name, using a short-a sound instead of a long a.</footer>
 
 </james>
 <from></from>
 </compare>
+</div>
 
 <compare>
 <james {% include timecode %}>
