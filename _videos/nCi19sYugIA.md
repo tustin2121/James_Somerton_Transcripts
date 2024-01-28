@@ -31,7 +31,26 @@ cite:
     haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     misattributed: "James misattributes a quote from a news article as being from a book."
   plagiarized: !!map
-    wiki_film: { color: 2, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production" }
+    wiki_film: 
+      color: 2
+      short: "(Wikipedia, 2022)"
+      full: "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from"
+      url: "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production"
+      chain:
+        _desc_: "which condensed from..."
+        _:
+          full: "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com."
+          url: "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest"
+          chain:
+            _desc_: "which got it from..."
+            _: 
+              full: "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com."
+              url: "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/"
+              chain:
+                _desc_: "which got it from..."
+                _:
+                  full: "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter"
+                  url: "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"
     bkr_video: { color: 1, short: "(Be Kind Rewind, 2021)", full: "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=jb-C4fcn2E0" }
     
 ---

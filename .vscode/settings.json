@@ -41,5 +41,6 @@
 	},
 	"cSpell.enableFiletypes": [
 		"liquid"
-	]
+	],
+	"git.branchProtectionPrompt": "alwaysCommit",
 }

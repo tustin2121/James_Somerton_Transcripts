@@ -307,22 +307,22 @@
 		border: solid 1px red;
 	}
 	
-	compare :is(james, from, comment, clip, credits) mark:empty {
+	compare :is(james, nick, from, comment, clip, credits) mark:empty {
 		/* For use to mark the little number without highlighting it. */
 		background-color: unset;
 		color: unset;
 	}
-	compare :is(james, from, comment, clip, credits) mark::before {
+	compare :is(james, nick, from, comment, clip, credits) mark::before {
 		vertical-align: super;
 		font-size: x-small;
 		font-family: sans-serif;
 		font-weight: 600;
 		color: var(--color-accent-fg);
 	}
-	compare :is(james, from, comment, clip, credits) mark[fc]::before {
+	compare :is(james, nick, from, comment, clip, credits) mark[fc]::before {
 		content: none;
 	}
-	compare :is(james, from, comment, clip, credits) mark[num]::before {
+	compare :is(james, nick, from, comment, clip, credits) mark[num]::before {
 		content: attr(num);
 	}
 }
@@ -402,6 +402,12 @@
 	}
 	.refs.yikes::before {
 		border-bottom-color: var(--video-box-yikes-bg);
+	}
+	.refs.other::before {
+		border-bottom-color: gray;
+	}
+	.refs .chain-prefix {
+		color: gray;
 	}
 	:target {
 		background-color: rgb(255 255 0 / 15%);
@@ -542,6 +548,11 @@
 		border-bottom: 1px solid currentColor;
 		padding-bottom: 0.7em;
 		margin-bottom: 0.7em;
+	}
+	
+	credits.telos-wide blockquote {
+		letter-spacing: 6px; 
+		font-family: serif;
 	}
 }
 

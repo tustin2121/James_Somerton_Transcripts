@@ -1,0 +1,23 @@
+{%- comment %} 
+	Expected:
+		- `item`, containing the data for the info
+		- `video`, the video this is part of
+{% endcomment -%}
+{%- if include.item[1]._desc_ -%} {% comment %} Test for if it's a map {% endcomment %}
+	<li>
+		{%- assign lx = include.item[0] | split: '$'-%}
+		{{ include.item[1]._desc_ }}
+		{% for n in include.item[1] -%}
+			{%- if n[0] == "_desc_" -%}{% continue %}{%- endif -%}
+			{%- if forloop.length > 2 and forloop.last == true %} and {% endif -%}
+				{%- assign l = n[0] | split: '$'-%}
+				{%- unless l[1] -%}{%- assign l = l | unshift:lx[0] -%}{%- endunless -%}
+				{{ n[1] }} <a href="{{ l[0] | slugify }}#{{ l[1] }}">(here <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a>
+			{%- if forloop.length > 3 and forloop.last == false %}, {% endif -%}
+		{%- endfor -%}
+	</li>
+{%- else -%}
+	{%- assign l = include.item[0] | split: '$'-%}
+	{%- unless l[1] -%}{%- assign l = l | unshift:'' -%}{%- endunless -%}
+	<li> {{ include.item[1] }} <a href="{{ l[0] | slugify }}#{{ l[1] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+{%- endif -%}

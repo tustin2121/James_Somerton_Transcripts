@@ -38,6 +38,7 @@ cite:
   plagiarized: !!map
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 {%- assign vid = page.id | split: "/" | last -%}
 {%- assign subvids = site.videos | where: "parent", vid -%}
@@ -118,7 +119,7 @@ tradespeople that helped turn Hollywood from a backwater orange grove in Califor
 </compare>
 
 <compare>
-<credits class="opening" {% include timecode %} style="letter-spacing: 6px; font-family: serif;">
+<credits span=2 class="opening telos-wide" {% include timecode %}>
 
 \[Opening credits of gold playing over ["The Abstract Glitch" by Alex Menco](https://www.youtube.com/watch?v=CGRQt_7d8Ws)]
 
@@ -153,6 +154,16 @@ These stupid titles are impossible to read because the font is so thin, spaced o
 ![](../media/hollywood_title.jpg)
 
 Also, this is the only "movie" that Telos Pictures ever put its branding on.
+
+</comment>
+<comment>
+{% include header video=ace_116 at="1h16m58s" %}
+
+> **Royce:** [...] there was a later Telos Productions credit roll type of thing that, again, had these 15 Founders on it, and I assume that that poster was made before you made that Twitter thread criticizing [the Ace video](7a4DTkoejG8) and that this later video happened afterwards, because our names were removed.
+> 
+> **Courtney:** [...] it was for the video titled, “The History of Gay Hollywood.” [...] he gives this little introduction, and the credits start rolling, and it says “Telos Pictures Presents” and it has, like, Telos Executive Producers. Um, our name isn’t on there. Our name is not on there. We’re gone.
+> 
+> **Courtney:** So, one of two things happened. Either he just outright removed *our* names because of how viciously we attacked him last year, or he didn’t even look at the people who donated to him on Telos and he just input, like, some of his Patrons, from, like, his highest tier Patreon or something. Either way, you’re putting this on your YouTube video saying “Telos Pictures Presents,” and *excuse me, sir,* but we are Telos *Founders*, we are Telos *Executive Producers*, we *paid* for that *right*, and you are not *crediting us?* Interesting. Interesting. Not that I want my name to be associated with plagiarized content, but *interesting*.
 
 </comment>
 {% assign timecode = "3:08" %}

@@ -662,3 +662,21 @@ the role we play is deciding which ideas may become real because anything really
 is possible so don't let anyone keep you inside of a box oh and Barbie is
 absolutely asexual [Music] [Applause] [Music] [Applause] [Music] foreign [Music]
 foreign [Music] thank you [Music] thank you [Music]
+
+
+{% comment %}
+
+<comment id="barbie-ace">
+{% include header video=ace_couple at="1h53m47s" %}
+
+> Courtney: We saw some people praising his Barbie video recently, because apparently, he said, like, “By the way, Barbie absolutely is Asexual.” So we were like, “Alright, well, let’s watch that to see if he got anything wrong.” But it wasn’t about Asexuality at all. It started with a rant about Forrest Gump. It was weird.
+> 
+> Royce: The Asexuality line was a very quickly spoken closer. It was the last line in the video.
+> 
+> Courtney: It had nothing to do with the video. It was like, “Here’s a big rant about Forrest Gump. Here’s a big, partially incoherent monologue about Barbie,” which, some of it didn’t make any sense, some of it I didn’t agree with, some of it was totally irrelevant. He then branched off of Barbie to go talk about another movie that I’d never even seen, at one point. And the thesis — like, the lines, did not get connected well enough. But then, at the very end, the last line was, like, “Oh, and, by the way, Barbie’s Asexual.”
+> 
+> Courtney: And it’s like, there is so much we could actually say and analyze about why Barbie is Asexual, what that means, why that is queer, why that is a subversion. We made a video before, or… “a video.” We made a podcast about Barbie being Asexual, even before we saw the Barbie movie. Now that we have seen the Barbie movie, we could probably do one analyzing the movie itself if we really wanted to, but it wasn’t about Asexuality at all. So, given our history with him, it’s like, “You’re just scoring this for points. You are just trying to say, ‘Look, I am an Ace ally. Anyone who’s not examining me critically, praise me for my inclusivity, please.’”
+
+</comment>
+
+{% endcomment %}

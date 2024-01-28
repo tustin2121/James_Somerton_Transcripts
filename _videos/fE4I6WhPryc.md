@@ -1091,7 +1091,10 @@ It's telling, I think, that once protease Inhibitors had reached the market and 
 
 <james>
   
-As the brilliant Fran Leibowitz has said many times, the first people who died of AIDS were the interesting ones: the artists. There's a reason that Art became “Ghostbusters” and “CATS” in the 1980s. Because all of the really talented artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
+As the brilliant Fran Leibowitz has 
+
+
+said many times, the first people who died of AIDS were the interesting ones: the artists. There's a reason that Art became “Ghostbusters” and “CATS” in the 1980s. Because all of the really talented artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
 
 </james>
 <from></from>
@@ -1101,7 +1104,10 @@ As the brilliant Fran Leibowitz has said many times, the first people who died o
 
 <james>
   
-[Text on screen also narrated by James: “Now, we don't have any kind of discerning audience. When that audience died - and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth, tier to rise up to the front. Because of course the first people who died of AIDS were the people who.. I don't know how to put this… got laid a lot. OK. Now imagine who didn't get AIDS. That's who was then lauded as like - the great artists.” ~ Fran Lebowitz.]
+[Text on screen also narrated by James: “Now, we don't have any kind of discerning audience. When that audience died - and that audience 
+
+
+died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth, tier to rise up to the front. Because of course the first people who died of AIDS were the people who.. I don't know how to put this… got laid a lot. OK. Now imagine who didn't get AIDS. That's who was then lauded as like - the great artists.” ~ Fran Lebowitz.]
 
 </james>
 <from></from>
@@ -1228,3 +1234,18 @@ So let's stop caring what they think of us and live our lives the way we want to
 </compare>
 
 
+
+
+
+{% comment %}
+
+<comment>
+{% include header video=ace_116 at="2h8s" %}
+
+Courtney: But I’ve also — very unfortunately, it’s been brought to my attention that he has, in a video, talked about how, you know, queer media is *bad* now, because all of the good, fun, exciting gays died during the AIDS crisis. Because they were the cool ones. They were the artists who were sleeping around with a bunch of people. Which, *what a flippant, disrespectful way* to talk about the AIDS crisis, even just on its surface, as like, “Oh, you know, the fun artists are the ones who died. They’re the cool ones.” Like, first of all, that’s awful, but then to also be like, “The only people who didn’t die were the boring ones. The boring ones who weren’t having a lot of sex. Like, and that’s why their art is bad and why queer media has gotten bad”? Alright, just say you hate Aces and any gays who don’t have a ton of sex or casual sex or sex with a lot of different partners. Like, *what are we doing here?*
+
+Royce: That’s a statement that just gets worse the longer you think about it.
+
+</comment>
+
+{% endcomment %}

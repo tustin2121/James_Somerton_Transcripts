@@ -3,8 +3,12 @@ layout: vidindex
 ---
 # James Somerton Transcripts
 
-Project creator TerraJRiley:
-> After HBomberGuy's latest video "Plagiarism and You(Tube)" I was incredibly dissapointed to hear that a creator I followed had been doing a whole bunch of plagiarism.  So, I dusted of my old Google Developer account and grabbed all the transcripts that I could get at the time of writing.  If I'm REALLY lucky then I'll also find an easy way to actually check all of these for plagiarism.
+> After HBomberGuy's latest video "Plagiarism and You(Tube)" I was incredibly dissapointed to hear that a creator I followed had been doing a whole bunch of plagiarism.  So, I dusted of my old Google Developer account and grabbed all the transcripts that I could get at the time of writing.  If I'm REALLY lucky then I'll also find an easy way to actually check all of these for plagiarism.  
+> <span class="signature">--Project creator [TerraJRiley](https://github.com/TerraJRiley/James_Somerton_Transcripts)</span>
+
+> We didn't find an automated and easy way to check all of the transcripts for plagiarism, and so this is a community effort, formatting and marking up the transcripts *by hand* for any and all instances of plagiarism, misinformation, and problematic takes. This project started days after HBomberGuy's video.  
+> <span class="signature">--Project maintainer [Tustin2121](https://github.com/tustin2121/)</span>
+
 
 Feel free to submit an issue [on the repo](https://github.com/tustin2121/James_Somerton_Transcripts) with any plagiarism found, or submit a pull request with new transcripts created.
 
@@ -12,11 +16,10 @@ Feel free to submit an issue [on the repo](https://github.com/tustin2121/James_S
 <div>
 
 Contributors:
-- Project creator: [TerraJRiley](https://github.com/TerraJRiley)
-- Contributors: 
-	- [Tustin2121](https://github.com/tustin2121)
-	- [/u/DHLawrence_sGhost](https://www.reddit.com/u/DHLawrence_sGhost)
-  - [sciclone](https://github.com/sciclone1984)
+{%- assign contributors = site.data.cite | where: "contributor",true -%}
+{%- for name in contributors %}
+- [{{ name.name }}]({{name.link}}) - {{name.descriptive}}
+{%- endfor -%}
 
 </div><div>
 
@@ -83,7 +86,7 @@ Transcript Statuses:
 {%  assign vids_fin = site.videos | where: 'status', 'Finished' -%}
 {%- assign vids_comp = site.videos | where: 'status', 'Complete' -%}
 {%- assign vids_fin = vids_fin | concat: vids_comp -%}
-Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete: {{ vids_comp.size }} / {{ site.videos.size }} &nbsp; | &nbsp; [Other "fun" stats](stats.md) &nbsp; | &nbsp; [How to read this site](instructions.md)
+Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete: {{ vids_comp.size }} / {{ site.videos.size }} &nbsp; | &nbsp; [Other "fun" stats](extras/stats.md) &nbsp; | &nbsp; [How to read this site](instructions.md)
 
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>

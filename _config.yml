@@ -1,4 +1,4 @@
-exclude: [ Archive, scripts, "Gemfile*", "*.ipynb" ]
+exclude: [ Archive, scripts, "Gemfile*", "*.ipynb", ".github", ".vscode" ]
 markdown: GFM
 defaults:
   -

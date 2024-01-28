@@ -106,11 +106,11 @@
 				{% if page.notes contains "multipart" %}
 					{% comment %} 
 						The update script will pull in plagiarism info from all children videos,
-						ensure uniqueness, and then put the info in data/multi-info.yml
+						ensure uniqueness, and then put the info in data/stats.yml
 					{% endcomment %}
-					{% assign plaglist = site.data.multi-info | map: vid | map: "plagiarized" %}
-					{% assign mislist = site.data.multi-info | map: vid | map: "misinformation" %}
-					{% assign yikeslist = site.data.multi-info | map: vid | map: "yikes" %}
+					{% assign plaglist = site.data.stats | map: vid | map: "plagiarized" | first %}
+					{% assign mislist = site.data.stats | map: vid | map: "misinformation" | first %}
+					{% assign yikeslist = site.data.stats | map: vid | map: "yikes" | first %}
 				{% endif %}
 				
 				
@@ -126,29 +126,14 @@
 				
 				{% if plaglist.size > 0 -%}
 					<ul class="refs plagiarized" header="{{ plagrep }}">
-						{% for item in plaglist %}
-							<!-- <li id="{{ item[1].short | slugify }}"> <span class="colorize color-{{item[1].color}}">{{ item[1].full }}</span> <a href="{{ item[1].url }}">{{ item[1].url }}</a></li> -->
-							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
-						{% endfor %}
+						{% include plag-cite-chain list=plaglist %}
 					</ul>
 					{% assign hr_due = true %}
 				{% endif %}
 				{% if mislist.size > 0 -%}
 					<ul class="refs misinfo" header="This video has {{ mislist.size }} instance(s) of misinformation:">
 						{% for item in mislist %}
-							{% if item[1]._desc_ %} {% comment %} Test for if it's a map {% endcomment %}
-								<li>
-									{{ item[1]._desc_ }}
-									{% for n in item[1] -%}
-										{%- if n[0] == "_desc_" -%}{% continue %}{%- endif -%}
-										{%- if forloop.length > 2 and forloop.last == true %} and {% endif -%}
-										{{ n[1] }} <a href="#{{ n[0] }}">(here <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a>
-										{%- if forloop.length > 3 and forloop.last == false %}, {% endif -%}
-									{%- endfor -%}
-								</li>
-							{% else %}
-								<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
-							{% endif %}
+							{% include misinfo-link item=item video=page %}
 						{% endfor %}
 					</ul>
 					{% assign hr_due = true %}
@@ -156,7 +141,7 @@
 				{% if yikeslist.size > 0 -%}
 					<ul class="refs yikes" header="This video has {{ yikeslist.size }} problematic take(s):">
 						{% for item in yikeslist %}
-							<li> {{ item[1] }} <a href="#{{ item[0] }}">(Jump to <i class="fa-solid fa-share-from-square fa-rotate-90"></i>)</a></li>
+							{% include misinfo-link item=item video=page %}
 						{% endfor %}
 					</ul>
 					{% assign hr_due = true %}
@@ -171,7 +156,14 @@
 					{% assign hr_due = true %}
 				{%- endif -%}
 				
-				
+				{% if page.cite.other.size > 0 -%}
+					<ul class="refs other" header="Additional notes:">
+						{% for item in page.cite.other %}
+							{% include misinfo-link item=item video=page %}
+						{% endfor %}
+					</ul>
+					{% assign hr_due = true %}
+				{% endif %}
 				
 				
 				
