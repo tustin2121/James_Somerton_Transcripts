@@ -19,15 +19,21 @@ notes:
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
   formatting: $cite$tustin2121
-  citation: 
+  citation-plus: $cite$lvence
 
 cite:
   clips: !!map
-    the_favorite: { short: "The Favorite (2018)", full: "TODO The Favorite" }
+    the_favorite: { short: "The Favorite (2018)", full: "Lanthimos, Y. (Director). (2018). <em>The Favorite</em> [Film]. Scarlet Films, Element Pictures, Arcana, Film4 Productions, Waypoint Entertainment." }
   yikes: !!map
+    gay-erasure: '"What is the real tangible impact of gay erasure?" James asks, while erasing the name of the man who originally asked this question in a queer culture magazine that has since dropped off the face of the earth.'
   misinformation: !!map
     prose_edda: "James makes up several things about the Prose Edda."
     poetic_edda: "He also makes up things about the Poetic Edda."
+    trans_mummy: "James jumps to conclusions about a mummy with 'drawn-on breasts'."
+    viking_boy_things: "James also knows very little about Vikings and how they were rather hygienic and well kept.."
+    lincoln: "James exaggerates the claims about Lincoln and his bodyguard."
+  other: !!map
+    torrid: "James doesn't know what the word 'torrid' actually means."
   plagiarized: !!map
     film_class:
       color: 4
@@ -37,13 +43,52 @@ cite:
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
-          full: "Wikipedia. (2009). <em>Film theory</em> [Article]."
+          full: "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719"
           chain:
             _desc_: "which plagiarized from..."
             read_film: &read_film { color: 1, short: "(Monaco, 1977)", full: "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", url: "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover" }
+        wiki_structuralist:
+          full: "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"
+        wiki_marxist:
+          full: "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"
+        wiki_screen:
+          full: "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"
+        wiki_formalist:
+          full: "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"
+        encyclopedia_realist:
+          full: "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article]."
+          url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"
+        wiki_feminist:
+          full: "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"
+        wiki_auteur:
+          full: "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"
+        wiki_apparatus:
+          full: "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"
+        wiki_linguistic:
+          full: "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"
+        wiki_psychoanalytic:
+          full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
+        semiotic:
+          full: "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book)."
+          url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+    plato_stanford: { color: 2, short: "Stanford Encyclopedia (Pickett, 2020)", full: "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", url: "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/" }
+    gay_erased: { color: 5, short: "Midlands Zone Magazine (Spinks, 2019)", full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17.", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
+    achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
+    wiki_queer_cinema: { color: 8, short: "New queer cinema (Wikipedia, 2020)", full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524" }
+    ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign lvence = site.data.cite.lvence %}
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
@@ -186,51 +231,63 @@ And so I decided that people are *woefully* undereducated on film theory, which 
 <compare>
 <james {% include timecode %}>
 
-"Film theory" discusses the essence of cinema and provides conceptual frameworks for understanding a film's
-relationship to reality, other arts, individual viewers, and society as a whole. This term is not to be confused with "film analysis", a way of analyzing film which may draw upon ideas from film theory.
+<mark>"Film theory" discusses the essence of cinema and provides conceptual frameworks for understanding a film's relationship to reality, other arts, individual viewers, and society as a whole. This term is not to be confused with "film analysis", a way of analyzing film which may draw upon ideas from film theory.</mark>
 
 \[On screen next to James, he reads it out]:
 
-> Film analysis is the process in  
+> <mark>Film analysis is the process in  
 > which a film is analyzed in terms  
 > of Mise-en-scène,  
 > Montage,  
 > Cinematography,  
 > Sound,  
-> and editing.
+> and editing.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="¶ 1-2" %}>
+<h2>FILM THEORY</h2>
+
+<mark>Film theory debates the essence of the cinema and provides conceptual frameworks for understanding film's relationship to reality, the other arts, individual viewers, and society at large. This term is not to be confused with film analysis, a way of analyzing film, which may draw upon ideas from film theory.</mark>
+
+<h2>FILM ANALYSIS</h2>
+<mark>Film anaylysis<sup class="add">[sic: analysis]</sup> is the process in which a film is analyzed in terms of mise-en-scène, montage, cinematography, sound, and editing.</mark> One way of analyzing films is by the shot-by-shot analysis, though that is typically used only for small clips or scenes.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-As the new popular form of the 20th century, film immediately invited theoretical attempts to define its nature and function, mostly as a result of film's own inferiority complex as the youngest of the arts. The impetus for much of early film theory was to gain a degree of legitimacy. Writers, directors, producers, and critics wanted to slap a philosophical academic lens onto movies so that they could be held in the same esteem as theater, and the novel. 
+<mark>As the new popular art form of the twentieth century, film immediately</mark> <mark>invited theoretical attempts to define its nature and function, mostly as a result of film's own inferiority complex as the youngest of the arts. The impetus for much of early film theory was to gain a degree of legitimacy.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.film_class at="¶ 3" %}>
+<h2>History of Film Theory</h2>
+
+<mark>As the new art form of the twentieth century, film immediately</mark> and continuously <mark>invited theoretical attempts to define its nature and function. Mostly as a result of film's own inferiority complex as the youngest of the arts, the impetus for much of early film theory was to gain a degree of respectability.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Writers, directors, producers, and critics wanted to slap a philosophical academic lens onto movies so that they could be held in the same esteem as theater, and the novel. 
 
 However, much of coding in film, especially queer coding, is rooted in film language itself. And "film language" refers to conventions and patterns in lighting, sound, and visual elements that reinforce the narrative structure. This doesn't necessarily refer to elements of the narrative itself, like something written into the script or an actor's performance. These elements are usually more subtle.
 
+They're used to change the moods or attitudes of a scene highlight, a recurring theme of the film, or convey an unspoken message that the director is trying to get across. That last part is important for queer coding; go watch [my videos on "gaybaiting"](Unrequited1.md) for more on that.
+
 </james>
 <from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
-
-They're used to change the moods or attitudes of a scene highlight, a recurring theme of the film, or convey an unspoken message that the director is trying to get across. That last part is important for queer coding; go watch [my videos on "gaybaiting"](Unrequited1.md) for more on that.
 
 You can see clear examples of lighting used as film language in *Avengers: Infinity War*, where scenes lit with purple highlight Thanos's influence and cruelty. And scenes lit with orange are in resistance to him. *The Last Jedi* -- the absolute best *Star Wars* movie of all time, we can all agree on that -- very deliberately depicts objects being split apart. This can speak to the content of fractured alliances within the movie itself, the divided nature of the fan base as a whole, or making a meta self-aware statement of the director's knowledge of the film's own divisive content.
 
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Granted, while film language is not limited to lighting and visual cues, these are very explicit examples. Most film language is never meant to be picked up by the audience at large, but rather send subliminal messages to influence how you feel about certain scenes and characters. In some respects, all of this was anticipated by the development of film theory at a time when the cinema was just being born. Early theorists emphasized how film differed from reality and how it might be considered a valid art form. 
-
-In the years after World War II, the French film critic and theorist Andre Bezine reacted against this approach to the cinema, arguing that film's essence lay in its ability to mechanically reproduce reality, not in its differences from reality. 
+Granted, while film language is not limited to lighting and visual cues, these are very explicit examples. Most film language is never meant to be picked up by the audience at large, but rather send subliminal messages to influence how you feel about certain scenes and characters. In some respects, all of this was anticipated by the development of film theory at a time when the cinema was just being born. 
 
 </james>
 <from></from>
@@ -239,11 +296,28 @@ In the years after World War II, the French film critic and theorist Andre Bezin
 <compare>
 <james {% include timecode %}>
 
-In the 1960s and 70s, film theory took up residence in academia, importing concepts from established disciplines like
+<mark x>Early theorists</mark> <mark>emphasized how film differed from reality and how it might be considered a valid art form</mark>. 
+
+<mark>In the years after World War II, the French film critic and theorist Andre Bezine reacted against this approach to the cinema, arguing that film's essence lay in its ability to mechanically reproduce reality, not in its differences from reality.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.film_class at="¶ 5-6" %}>
+
+<mark x>Early film theory</mark> arose in the silent era and was mostly concerned with defining the crucial elements of the medium. It largely evolved from the works of directors like Germaine Dulac, Louis Delluc, Jean Epstein, Sergei Eisenstein, Lev Kuleshov, Dziga Vertov, Paul Rotha and film theorists like Rudolf Arnheim, Béla Balázs and Siegfried Kracauer. These individuals <mark>emphasized how film differed from reality and how it might be considered a valid art form</mark>. 
+
+<mark>In the years after World War II, the French film critic and theorist André Bazin reacted against this approach to the cinema, arguing that film's essence lay in its ability to mechanically reproduce reality not in its difference from reality.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>In the 1960s and 70s, film theory took up residence in academia, importing concepts from established disciplines like</mark>
 
 \[On screen next to James, he reads it out]:
 
-> Psychoanalysis  
+> <mark></mark>Psychoanalysis  
 > Gender Studies  
 > Anthropology  
 > Literary Theory  
@@ -251,61 +325,101 @@ In the 1960s and 70s, film theory took up residence in academia, importing conce
 > Linguistics  
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="¶ 7" %}>
+
+<mark>In the 1960s and 1970s, film theory took up residence in academe, importing concepts from established disciplines like</mark> <mark>psychoanalysis, gender studies, anthropology, literary theory, semiotics and linguistics.</mark>
+
+</from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-During the 1990s, the digital revolution and image technologies had an impact on film theory in *various* ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists, like Maran Don, Philip Rosen, and Laura Mulvy. 
+<mark>During the 1990s, the digital revolution and image technologies had an impact on film theory in *various* ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists, like Maran Don, Philip Rosen, and Laura Mulvy</mark>. 
 
 Today there are many different schools of film theory. So let's talk about them: 😊
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="¶ 8" %}>
+
+<mark>During the 1990s the digital revolution in image technologies has had an impact on film theory in various ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists like Mary Ann Doane, Philip Rosen and Laura Mulvey</mark> who was informed by psychoanalysis. From a psychoanalytical perspective, after the Lacanian notion of the Real, Slavoj Žižek offered new aspects of the gaze extensively used in contemporary film analysis. There has also been a historical revisiting of early cinema screenings, practices and spectatorship modes by writers Tom Gunning, Miriam Hansen and Yuri Tsivian.
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+Note: The following sections are still using the university handout as a source, but the university handout is using wikipedia as a source. See the top of the page for the full plagiarism chain.
+
+</comment>
 <james {% include timecode %}>
 
 \[On screen next to James]: "Structuralist Film Theory"
 
-The Structuralist film theory emphasizes how films convey meaning through the use of codes and conventions, not dissimilar to the way languages are used to construct meaning in communication. An example of this is understanding how the simple combination of shots can create an additional idea. The blank expression on a person's face, an appetizing meal, and then back to the person's face. While nothing in this sequence literally expresses hunger or desire, the juxtaposition of the images convey that meaning to the audience.
+<mark>The Structuralist film theory emphasizes how films convey meaning through the use of codes and conventions, not dissimilar to the way languages are used to construct meaning in communication. An example of this is understanding how the simple combination of shots can create an additional idea. The blank expression on a person's face, an appetizing meal, and then back to the person's face. While nothing in this sequence literally expresses hunger or desire, the juxtaposition of the images convey that meaning to the audience.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 1" %}>
+<h3 style="font-weight:700;">structuralist film theory</h3>
+
+<mark>The structuralist film theory emphasizes how films convey meaning through the use of codes and conventions not dissimilar to the way languages are used to construct meaning in communication. An example of this is understanding how the simple combination of shots can create an additional idea: the blank expression on a person's face, an appetising meal, and then back to the person's face. While nothing in this sequence literally expresses hunger—or desire—the juxtaposition of the images convey that meaning to the audience.</mark> Unraveling this additional meaning can become quite complex. Lighting, angle, shot duration, juxtaposition, cultural context, and a wide array of other elements can actively reinforce or undermine a sequence's meaning.
+
+</from>
 <james {% include timecode %}>
 
 \[On screen next to James]: "Marxist Film Theory"
 
-Marxist film theory is one of the oldest forms of film theory. Sergey Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through through film. In fact, the Hegelian Dialectic was considered best displayed in film editing through the development of the montage, a Russian invention. The biggest reason Russian filmmakers began doing this was because they had a serious problem with how Hollywood was making movies. Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist in favor of telling stories where the action is moved by a group, and the story is told through a clash of one image against the next, whether in composition, motion, or idea.
+<mark>Marxist film theory is one of the oldest forms of film theory. Sergey Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through film. In fact, the Hegelian Dialectic was considered best displayed in film editing through the</mark> <mark>development of the montage</mark>, a Russian invention. <mark x>The biggest reason Russian filmmakers began doing this was because they had a serious problem with how Hollywood was making movies.</mark> <mark>Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist</mark> in favor of <mark>telling stories where the action is moved by a group, and the story is told through a clash of one image against the next, whether in composition, motion, or idea.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 2-3" %}>
+<h3 style="font-weight:700;">marxist film theory</h3>
+
+<mark>Marxist film theory is one of the oldest forms of film theory. Sergei Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through film. In fact, the Hegelian dialectic was considered best displayed in film editing through the</mark> Kuleshov Experiment and the <mark>development of montage</mark>. While this structuralist approach to Marxism and filmmaking was used, <mark x>the more vociferous complaint that the Russian filmmakers had was with the narrative structure of Hollywood filmmaking</mark>
+
+<mark>Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist</mark> and <mark>tell stories where the action is moved by the group and the story is told through a clash of one image against the next (whether in composition, motion, or idea)</mark> so that the audience is never lulled into believing that they are watching something that has not been worked over. Eisenstein himself, however, was accused by the Soviet authorities under Stalin of "formalist error," of highlighting form as a thing of beauty instead of portraying the worker nobly.
+
+</from>
 <james {% include timecode %}>
 
 \[On screen next to James]: "Formalist Film Theory"
 
-Formalist film theory is a theory of film study that is focused on the formal or technical elements of a film, i.e the lighting, scoring, sound, set design, use of color, sha-composition, and editing. It's a major theory of film study today. Formalism at its most general considers the synthesis or lack of synthesis of the multiple elements of film production, and the effects, emotional and intellectual, of that synthesis, and of the individual elements. 
+<mark>Formalist film theory is a theory of film study that is focused on the formal, or technical, elements of a film, i.e the lighting, scoring, sound, set design, use of color, shot composition, and editing. It's a major theory of film study today. Formalism at its most general considers the synthesis or lack of synthesis of the multiple elements of film production, and the effects, emotional and intellectual, of that synthesis, and of the individual elements.</mark> 
 
-For example, let's take the single element of editing: A formalist might study how standard Hollywood continuity editing editing creates a more comforting effect, and non-continuity or jump cut editing might become more disconcerting or volatile. A good example of this would be Tarantino's *Pulp Fiction* or the first season of Netflix's *The Witcher*.
+<mark>For example, let's take the single element of editing: A formalist might study how standard Hollywood continuity editing creates a more comforting effect, and non-continuity or jump cut editing might become more disconcerting or volatile.</mark> A good example of this would be Tarantino's *Pulp Fiction*<sup cn></sup> or the first season of Netflix's *The Witcher*.<sup cn></sup>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 8" %}>
+<h3 style="font-weight:700;">formalist film theory</h3>
+
+<mark>Formalist film theory is a theory of film study that is focused on the formal, or technical, elements of a film: i.e., the lighting, scoring, sound and set design, use of color, shot composition, and editing. It is a major theory of film study today. Formalism, at its most general, considers the synthesis (or lack of synthesis) of the multiple elements of film production, and the effects, emotional and intellectual, of that synthesis and of the individual elements.</mark> <mark>For example, let's take the single element of editing. A formalist might study how standard Hollywood "continuity editing" creates a more comforting effect and noncontinuity or jump-cut editing might become more disconcerting or volatile.</mark> Or one might consider the synthesis of several elements, such as editing, shot composition, and music. The shoot-out that ends Sergio Leone's Spaghetti Western "Dollars" trilogy is a valid example of how these elements work together to produce an effect: The shot selection goes from very wide to very close and tense; the length of shots decreases as the sequence progresses towards its end; the music builds. All of these elements, in combination rather than individually, create tension. Formalism is unique in that it embraces both ideological and auteurist branches of criticism. In both these cases, the common denominator for Formalist criticism is style.
+
+</from>
 <james {% include timecode %}>
 
 \[On screen next to James]: "Feminist Film Theory"
 
-Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis regarding the film elements analyzed and their theoretical underpinnings. The development of Feminist film theory was influenced by Second Wave Feminism and the development of Women's Studies within academia. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970s were generally based on Sociological Theory and focused on the function of women characters in particular film narratives or genres, And of stereotypes as a reflection of a society's view of women.
+<mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis regarding the film elements analyzed and their theoretical underpinnings. The development of Feminist film theory was influenced by Second Wave Feminism and the development of Women's Studies within academia. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970s were generally based on Sociological Theory and focused on the function of women characters in particular film narratives or genres, And of stereotypes as a reflection of a society's view of women.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
+<h3 style="font-weight:700;">formalist film theory</h3>
+
+<mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis, regarding the film elements analysed and their theoretical underpinnings. The development of feminist film theory was influenced by second wave feminism and the development of women's studies within the academy. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970’s were generally based on sociological theory and focused on the function of women characters in particular film narratives or genres and of stereotypes as a reflection of a society's view of women.</mark> Works such as Marjorie Rosen’s Popcorn Venus: Women, Movies, and the American Dream (1973) and Molly Haskell’s From Reverence to Rape: The Treatment of Women in Movies (1974) analyzed how the women portrayed in film related to the broader historical context, the stereotypes depicted, the extent to which the women were shown as active or passive, and the amount of screen time given to women.[1]
+
+</from>
 <james {% include timecode %}>
 
 \[On screen next to James]: "Auteur Film Theory"
 
-
-Auteur theory in film holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced, such as David Os Selnick and Kevin Feige. 
+<mark>Auteur theory</mark> in film <mark>holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced</mark>, such as David Os Selnick and Kevin Feige. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
+<h3 style="font-weight:700;">auteur theory</h3>
+
+In film criticism, the 1950s-era <mark>Auteur theory</mark> <mark>holds that a director's films reflect that director's personal creative vision, as if he were the primary "Auteur" (the French word for "author"). In some cases, film producers are considered to have a similar "Auteur" role for films that they have produced</mark>. In law the Auteur is the creator of a film as a work of art, and is the original copyright holder. Under European Union law the film director shall always be considered the author or one of the authors of a film. [1] Auteur theory has had a major impact on film criticism ever since it was advocated by film director and film critic François Truffaut in 1954. "Auteurism" is the method of analyzing films based on this theory or, alternately, the characteristics of a director's work that makes him an Auteur. Both the Auteur theory and the Auteurism method of film analysis are frequently associated with the French New Wave and the film critics who wrote for the influential French film review periodical Cahiers du cinéma.
+
+</from>
 <james {% include timecode %}>
 
 So it's clear that there are many ways of examining film in a critical way. not one school of film theory can fully describe a complete understanding of film itself. So, for using theory in film criticism, a critic usually has to state which theory they're drawing from. This goes to say, however, that film can be criticized with pre-existing schools of thought, like with Marxism and Feminism. In both of these cases, scholars and critics took certain tenants of these studies and applied them to an analysis of film. So if there is a Marxist and Feminist reading of cinema, why not a queer one? 
@@ -388,11 +502,12 @@ Even before Queer Theory, we would watch a play or a movie and see a character, 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 But other movies require a bit more digging. In [Evil Queens](Qvu84kjtGvE), I talked about the queerness of the '90s renaissance disney movies especially *Aladdin* and *The Lion King*. When I first mentioned this to people, they thought I was crazy. Then I explained it to them, and they came around to seeing it my way.
 
 </james>
+<from></from>
 <comment>
 {% include header video=hbomb at="1h59m18s" %}
 
@@ -448,7 +563,45 @@ Suddenly these people just materialized! The complete lack of historical coverag
 
 But you'd be hard pressed to find actual honest queer representation in history. It's not that it doesn't exist though. It's just that our white, cisgender, heterosexual, usually-male historians tend to straight-wash out own history in academia. 
 
-Whether it's Egyptian mummies with XY chromosomes, buried with makeup and a corset, with drawn-on breasts, *puzzling* archaeologists as to why *he* would be buried like that! Or viking burial mounds, where male warriors would be buried with combs, jewels, and mirrors and instead of, you know... [air quotes] "boy things". 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Whether it's Egyptian mummies with XY chromosomes, buried with makeup and a corset, <mark fc=false>with drawn-on breasts</mark>, *puzzling* archaeologists as to why *he* would be buried like that! 
+
+</james>
+<comment id="trans_mummy">
+{% include header for=lvence %}
+<details>
+<summary>
+There is an alternative explanation that the padding added was <a href="https://www.reddit.com/r/SapphoAndHerFriend/comments/elirp0/comment/fdirsj3/?utm_source=share&utm_medium=web2x&context=3">because the person was fat in life</a> and Egyptian mummies imitate life.
+</summary>
+
+> fruskydekke:  
+> The Mutemmenu mummy! The information in this book is a little dated, they've done more research on him now. He was a high-status individual (most likely not a dancer) and the "breasts" and hips were linen stuffing that was probably added, not to make him look like a woman, but to make him look fat. In real life, he was an overweight man, and since mummies (particularly of this period) tried to recreate the look of the person as they had been in life, the embalmers went above and beyond.
+>
+> Note that he also has a stylised beard (the two black lines painted on his face).
+
+</details>
+</comment>
+<james {% include timecode %}>
+
+Or viking burial mounds, where male warriors would be buried with combs, jewels, and mirrors and instead of, you know... [air quotes] "boy things". 
+
+</james>
+<comment id="viking_boy_things">
+{% include header for=lvence %}
+
+[Vikings were hygienic](https://www.worldhistory.org/article/1840/viking-hygiene-clothing--jewelry/), I couldn’t find any historian/archaeologist who was surprised there weren’t more “boys things” at their grave.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Or even something like The Lovers Of Me'dia<sup>1</sup>, petrified, holding hands, who are suddenly the *brothers* of me'dia, or *very good friends* of me'dia... or *roommates* of me'dia. 
 
@@ -463,10 +616,15 @@ Or even something like The Lovers Of Me'dia<sup>1</sup>, petrified, holding hand
 
 And speaking of roommates, what about the *inexplicable mysteries* we will never *truly know the answers to*, like why [Lady Elanor Butler and Sarah Ponsonby](https://en.wikipedia.org/wiki/Ladies_of_Llangollen) would run away from their marriage arrangements, moved <del>to</del> Wales, and adopt a small dog they affectionately named... *Sapphos*. (Mysteries... we will never know...)
 
-And what about Abraham Lincoln, who shared his bed with his bodyguard for his entire tenure in The White House. Surely it was just a matter of different times. Times were different back then. Men expressed manliness in different ways! It was just different times, folks! Different times! No homo president!
+And what about Abraham Lincoln, <mark fc=false>who shared his bed with his bodyguard for his entire tenure in The White House.</mark> Surely it was just a matter of different times. Times were different back then. Men expressed manliness in different ways! It was just different times, folks! Different times! No homo president!
 
 </james>
-<from></from>
+<comment id="lincoln">
+{% include header for=lvence %}
+
+There is an entire article [about Lincoln and his bodyguard](https://quod.lib.umich.edu/j/jala/2629860.0027.205/--did-abraham-lincoln-sleep-with-his-bodyguard-another-look-at?rgn=main;view=fulltext). At the very least, James is wrong about them sharing a bed for Lincoln's whole tenure in office. C. A. Tripp, the original author of this claim, states Derrickson was Lincoln's companion from September 1862 to April 1863.
+
+</comment>
 <james {% include timecode %}>
 
 There also seems to be a strange element of history which *compulsively* tries to impose postcolonial values upon pre-christianized societies. I'm not sure if it's just that we're so indoctrinated into our own social structures or if our (small "L") liberal society needs to believe that our social values are actually *progressing*, and so we will force history to be as regressive as possible to make our own time look better in contrast. 
@@ -483,7 +641,7 @@ But why is it so hard to believe that a Viking society, who believed that a god 
 And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
 
 </james>
-<comment>
+<comment id="torrid">
 {% include header for=tustin %}
 
 "Torrid" means [hot or passionate](https://www.merriam-webster.com/dictionary/torrid), or even just dry heat. It is not a noun for a collective, like James is apparently attempting to use here. There's [not even a word *close* to "torrid"](https://www.wordhippo.com/what-is/another-word-for/collection.html) that might be a collective noun that he was trying to use. So here's some he could have used instead:
@@ -519,7 +677,16 @@ For instance, the Poetic and <mark fc=false>Prosaic Edda</mark>, the predominant
 </comment>
 <james {% include timecode %}>
 
-But there is archaeological evidence that refutes much of what the Eddas say, throwing doubt on on how honest these documents are. Burial mounds have been found with women honored as warrior heroes, or with same-sex couples resembling marriages. Surviving standing stones and wood carvings implicitly suggest same-sex interactions. 
+But there is archaeological evidence that refutes much of what the Eddas say, throwing doubt on on how honest these documents are. <mark fc=true>Burial mounds have been found with women honored as warrior heroes</mark>, or with same-sex couples resembling marriages. Surviving standing stones and wood carvings implicitly suggest same-sex interactions. 
+
+</james>
+<comment>
+{% include header for=lvence %}
+
+We did find 1 [burial mound of a female buried with weapons](https://www.cambridge.org/core/journals/antiquity/article/viking-warrior-women-reassessing-birka-chamber-grave-bj581/7CC691F69FAE51DDE905D27E049FADCD), prior to this shield bearers were considered a myth.
+
+</comment>
+<james {% include timecode %}>
 
 And that does little to say of eyewitness accounts of byzantine merchants and travelers which point out just how sex positive and gender woke this society of barbarians really was. In cultures that place such a strong value on sex, why are heterosexual couplings seen as the only culturally viable way of getting it?
 
@@ -527,44 +694,53 @@ And that does little to say of eyewitness accounts of byzantine merchants and tr
 <from></from>
 <james {% include timecode %}>
 
-As has been frequently noted, the ancient greeks did not have terms or concepts that correspond to the contemporary dichotomy of "heterosexual" and "homosexual". There's a wealth of material from ancient greece pertinent to issues of sexuality, ranging from dialogues of Plato such as the *Symposium* to plays by Aristophanes and greek artwork and vases. 
+<mark>As has been frequently noted, the ancient Greeks did not have terms or concepts that correspond to the contemporary dichotomy of "heterosexual" and "homosexual"</mark>. <mark>There's a wealth of material from ancient Greece pertinent to issues of sexuality, ranging from dialogues of Plato such as the *Symposium* to plays by Aristophanes and greek artwork and vases.</mark> 
 
-Probably the most frequent assumption about sexual orientation, at least by ancient greek authors, is that people can respond erotically to beauty in either sex. Some were noted for their exclusive interest in people of one gender, for example, Alexander the Great was known for his exclusive interest in other men. Such people however are generally portrayed as the exception to the rule.
+<mark>Probably the most frequent assumption about sexual orientation, at least by ancient greek authors, is that people can respond erotically to beauty in either sex.</mark> <mark>Some were noted for their exclusive interest in people of one gender, for example, Alexander the Great</mark> <mark>was known for his exclusive interest in</mark> <mark>other men. Such people however are generally portrayed as the exception</mark> to the rule.
+
+<mark>Furthermore, the issue of what biological sex one is attracted to is seen as an issue of taste or preference, rather than as a moral issue. A character in Plutarch's *Eroticus*</mark> <mark>argues that</mark>:
+
+> <mark></mark>"The noble lover of beauty engages in love wherever he sees excellence and splendid natural endowment without regard to any difference in physiological detail".
+
+Essentially, <mark>gender just becomes an irrelevant detail, and instead the excellence in character and *beauty* is what is most important.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.plato_stanford at="History¶ 1-2" %}>
+
+<mark>As has been frequently noted, the ancient Greeks did not have terms or concepts that correspond to the contemporary dichotomy of ‘heterosexual’ and ‘homosexual’</mark> (e.g., Foucault, 1980). <mark>There is a wealth of material from ancient Greece pertinent to issues of sexuality, ranging from dialogues of Plato, such as the Symposium, to plays by Aristophanes, and Greek artwork and vases.</mark> What follows is a brief description of ancient Greek attitudes, but it is important to recognize that there was regional variation. For example, in parts of Ionia there were general strictures against same-sex eros, while in Elis and Boiotia (e.g., Thebes), it was approved of and even celebrated (cf. Dover, 1989; Halperin, 1990).
+
+<mark>Probably the most frequent assumption about sexual orientation, at least by ancient Greek authors, is that persons can respond erotically to beauty in either sex.</mark> Diogenes Laeurtius, for example, wrote of Alcibiades, the Athenian general and politician of the 5th century B.C., “in his adolescence he drew away the husbands from their wives, and as a young man the wives from their husbands.” (Quoted in Greenberg, 1988, 144) <mark>Some persons were noted for their exclusive interests in persons of one gender. For example, Alexander the Great</mark> and the founder of Stoicism, Zeno of Citium, <mark>were known for their exclusive interest in</mark> boys and <mark>other men. Such persons, however, are generally portrayed as the exception</mark>. <mark>Furthermore, the issue of what biological sex one is attracted to is seen as an issue of taste or preference, rather than as a moral issue. A character in Plutarch’s Erotikos</mark> (Dialogue on Love) <mark>argues that</mark> <mark>“the noble lover of beauty engages in love wherever he sees excellence and splendid natural endowment without regard for any difference in physiological detail”</mark> (ibid., 146). <mark>Gender just becomes irrelevant “detail” and instead the excellence in character and beauty is what is most important.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Furthermore, the issue of what biological sex one is attracted to is seen as an issue of taste or preference, rather than as a moral issue. A character in Plutarch's *Eroticus* argues that:
-
-> "The noble lover of beauty engages in love wherever he sees excellence and splendid natural endowment without regard to any difference in physiological detail".
-
-Essentially, gender just becomes an irrelevant detail, and instead the excellence in character and *beauty* is what is most important. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Plato in the *Symposium* argues for an army to be comprised of same-sex lovers. Thebes did actually form such a regiment, the [Sacred Band of Thebes](https://en.wikipedia.org/wiki/Sacred_Band_of_Thebes), consisting of 500 soldiers, 250 couples.
+<mark>Plato in the *Symposium* argues for an army to be comprised of same-sex lovers. Thebes did</mark> actually <mark>form such a regiment, the [Sacred Band of Thebes](https://en.wikipedia.org/wiki/Sacred_Band_of_Thebes), consisting of 500 soldiers</mark>, 250 couples.
 
 \[On screen, showing footage of some trailer for "Sacred Band of Thebes"]: "Yep. They even make porn about them."
 
-They were renowned in the ancient world for their valor in battle and they're still talked about today. Ancient Rome had many parallels to ancient Greece in its understanding of same-sex attraction, and sexual issues more generally. This is especially true under *the Republic*, yet under the Empire, Roman society slowly became more negative in its views towards sexuality, probably due to social and economic turmoil, even before Christianity became influential. 
+<mark>They were renowned in the ancient world for their valor in battle</mark> and they're still talked about today. <mark>Ancient Rome had many parallels to ancient Greece in its understanding of same-sex attraction, and sexual issues more generally. This is especially true under *the Republic*, yet under the Empire, Roman society slowly became more negative in its views towards sexuality, probably due to social and economic turmoil, even before Christianity became influential.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.plato_stanford at="History¶ 3-4" %}>
+
+[...] While the passive role was thus seen as problematic, to be attracted to men was often taken as a sign of masculinity. Greek gods, such as Zeus, had stories of same-sex exploits attributed to them, as did other key figures in Greek myth and literature, such as Achilles and Hercules. <mark>Plato, in the *Symposium*, argues for an army to be comprised of same-sex lovers. Thebes did</mark> <mark>form such a regiment, the Sacred Band of Thebes, formed of 500 soldiers</mark>. <mark>They were renowned in the ancient world for their valor in battle</mark>.
+
+<mark>Ancient Rome had many parallels to ancient Greece in its understanding of same-sex attraction, and sexual issues more generally. This is especially true under the Republic. Yet under the Empire, Roman society slowly became more negative in its views towards sexuality, probably due to social and economic turmoil, even before Christianity became influential.</mark>
+
+</from>
 <james {% include timecode %}>
 
-Exactly what attitude the New Testament has towards sexuality in general (and same-sex attraction in particular) is a matter of sharp debate. Some say that many passages taken today as condemnations of homosexuality are more concerned with prostitution. Or where same-sex acts are described as unnatural, the meaning is more akin to "out of the ordinary" rather than as "immoral". Yet others have argued that the homophobic conventional contemporary reading is more plausible.
+<mark>Exactly what attitude the New Testament has towards sexuality in general (and same-sex attraction in particular) is a matter of sharp debate.</mark> Some say <mark>that many passages taken today as condemnations of homosexuality are more concerned with prostitution. Or where same-sex acts are described as unnatural, the meaning is more akin to "out of the ordinary" rather than as "immoral"</mark>. <mark>Yet others have</mark> <mark>argued that the</mark> homophobic <mark>conventional contemporary reading is more plausible</mark>.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.plato_stanford at="History¶ 5" %}>
+
+<mark>Exactly what attitude the New Testament has towards sexuality in general, and same-sex attraction in particular, is a matter of sharp debate.</mark> John Boswell argues, in his fascinating *Christianity, Social Tolerance, and Homosexuality*, <mark>that many passages taken today as condemnations of homosexuality are more concerned with prostitution, or where same-sex acts are described as “unnatural” the meaning is more akin to ‘out of the ordinary’ rather than as immoral</mark> (Boswell, 1980, ch.4; see also Boswell, 1994). <mark>Yet others have</mark> criticized, sometimes persuasively, Boswell’s scholarship, <mark>arguing that the</mark> <mark>conventional contemporary reading is more plausible</mark> (see Greenberg, 1988, ch.5). What is clear, however, is that while condemnation of same-sex attraction is marginal to the Gospels and only an intermittent focus in the rest of the New Testament, early Christian church fathers were much more outspoken. In their writings there is a horror at any sort of sex, but in a few generations these views eased, in part due no doubt to practical concerns of recruiting converts. By the fourth and fifth centuries the mainstream Christian view allowed only for procreative sex.
+
+</from>
 </compare>
 
 <compare>
@@ -584,6 +760,8 @@ Though an interesting observation of our own recorded history is how casually hi
 
 Food for thought: the term "companion" in history almost *always* was used to describe romantic or sexual relations,<sup cn></sup> not "buds" or "gal pals". That's why the movie *Long-Term Companion* is called that and not "Long-Term Friend With Benefits". 
 
+It's almost as if our ancestors never really expected homophobia or sex-phobia to be a serious issue. Instead we have to dig through implications, through innuendo, through double-entendres that were meant to be dirty jokes, that somehow survived over centuries, but whose double meanings can be dismissed as... just being from a different time. We have to dig. Maybe not because our ancestors saw same-sex relations and gender non-conformity as *shameful*. But instead because they took all of it completely for granted.
+
 </james>
 <from></from>
 </compare>
@@ -591,18 +769,20 @@ Food for thought: the term "companion" in history almost *always* was used to de
 <compare>
 <james {% include timecode %}>
 
-It's almost as if our ancestors never really expected homophobia or sex-phobia to be a serious issue. Instead we have to dig through implications, through innuendo, through double-entendres that were meant to be dirty jokes, that somehow survived over centuries, but whose double meanings can be dismissed as... just being from a different time. We have to dig. Maybe not because our ancestors saw same-sex relations and gender non-conformity as *shameful*. But instead because they took all of it completely for granted.
+<mark>Any civilization is characterized by its past. It's in looking back</mark> <mark>that we find our collective identity. Nations rise and fall, and people come and go, as do attitudes and societal norms. Yet as a <span stat:id="sub-queer">queer</span> community, the history of our people is often lost to us.</mark> Unlike the societal conditioning we receive from our parents, <mark x>we don't get a queer rule book</mark> when we come out. <mark>Nor are we taught the great deeds of our gay predecessors.</mark> 
 
-Any civilization is characterized by its past. It's in looking back that we find our collective identity. naTions rise and fall, and people come and go, as do attitudes and societal norms. Yet as a queer community, the history of our people is often lost to us. Unlike the societal conditioning we receive from our parents, we don't get a queer rule book when we come out. Nor are we taught the great deeds of our gay predecessors. 
+<mark>So as we start out on our lifelong personal journeys... how do we discover our <span stat:id="sub-queer">queer</span> identity if we don't know much about... those who came before us? </mark>
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-So as we start out on our lifelong personal journeys... how do we discover our queer identity if we don't know much about... those who came before us? What if the accomplishments of historic queers are hidden for us by a thick coat of straightwashing? <span stat:id="irony" id="gay-erasure">It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?</span>
+What if the accomplishments of historic queers are hidden for us by a thick coat of straightwashing? <mark stat:id="irony" id="gay-erasure">It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 4-5" %}>
+
+<mark>Any civilisation is characterised by its past. It is in looking back</mark> with a good dose of navel-gazing <mark>that we find our collective identity. Nations rise and fall and people come and go, as do attitudes and societal norms. Yet as an LGBTQ community, the history of our people is often lost to us.</mark> <mark x>We don't inherit a societal rulebook</mark> from our families, <mark>nor are we taught the great deeds of our gay ancestors.</mark> <mark>So as we start out on our lifelong personal journeys, how do we discover our community identity if we don't know much about those who have gone before us?</mark>
+
+<mark>It provokes a deep and meaningful question: what is the real, tangible impact of gay erasure?</mark>
+
+</from>
 </compare>
 
 ## Part 4: Erasure
@@ -610,21 +790,35 @@ So as we start out on our lifelong personal journeys... how do we discover our q
 <compare>
 <james {% include timecode %}>
 
-Only in recent years, as hard fought for queer rights have been won, have societal attitudes begun to soften. And as this happened, so have academic historians, once reluctant to discuss the sexuality of historical figures *at all* (unless they were straight), begun to move with the times. Younger more liberal historians in particular are leading the charge, more rounded in their outlook and not threatened by sexuality. tHey've started to look back through the archives and sift through the evidence passed down from generation to generation.
+<mark>Only in recent years, as hard fought for <span stat:id="sub-queer">queer</span> rights have been won, have societal attitudes begun to soften. And as this happened, so have academic historians, once reluctant to discuss the sexuality of historical figures</mark> *at all* (unless they were straight), <mark>begun to move with the times.</mark> 
+
+<mark>Younger more liberal historians in particular are leading the charge, more rounded in their outlook and not threatened by sexuality. tHey've started to look back through the archives and sift through the evidence passed down from generation to generation.</mark>
+
+<mark>In so doing, they've discovered the <span stat:id="sub-queer">queer</span> histories of people such as</mark> Alexander the Great, Leonardo da Vinci, Florence Nightingale, King James the Sixth, William Shakespeare, Richard the First, Julius Caesar, Virgil, not to mention half the philosophers in Greece. 
+
+<mark>But not all historians have been so open-minded.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 9-10" %}>
+
+<mark>Only in recent years, as hard-fought-for LGBTQ rights have been won, have societal attitudes begun to soften. And as this has happened, so have academic historians, once reluctant to discuss the sexuality of historical figures</mark>, <mark>begun to move with the times.</mark>
+
+<mark>Younger, more liberal historians in particular are leading the charge, more rounded in their outlook and not threatened by sexuality. They have started to look back through the archives and sift the evidence passed down from generation to generation.</mark> <mark>In so doing, they've discovered the gay histories of people such as</mark> Henry, Lord Darnley - histories which, until now, have simply been ignored or erased. <mark>But not all historians have been so open-minded.</mark>..
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-In so doing, they've discovered the queer histories of people such as Alexander the Great, Leonardo da Vinci, Florence Nightingale, King James the Sixth, William Shakespeare, Richard the First, Julius Caesar, Virgil, not to mention half the philosophers in Greece. 
-
-But not all historians have been so open-minded. Too many old academics, many still writing, remain adamant that some of their key historical subjects couldn't *possibly* have been gay. Too often, characters from history who were close to people of the same sex, and reading between the lines, were clearly an intimate and passionate same-sex relationships, are marked down as "friends" or "*very close* friends" or "*confidants*". 
+<mark>Too many old academics, many still writing, remain adamant that some of their key historical subjects couldn't *possibly* have been gay. Too often, characters from history who were close to people of the same sex, and reading between the lines, were clearly an intimate and passionate same-sex relationships, are marked down as "friends" or "*very close* friends" or "*confidants*".</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 16" %}>
+
+<mark>Too many old academics, many still writing, remain adamant that some of their key historical subjects couldn't possibly have been gay. Too often characters from history who were close to people of the same sex and, reading between the lines, were clearly in intimate and passionate same-sex relationships, are marked down as 'friends', 'very close friends' or 'confidantes'.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -672,7 +866,12 @@ The Greeks saw gender as a continuum.
 Egyptian and Persian women could buy property, own businesses, and manage their own estates. 
 
 </james>
-<from></from>
+<comment>
+{% include header for=lvence %}
+
+His claims about the rights of [Persian](https://www.worldhistory.org/article/1492/women-in-ancient-persia/) and [Egyptian](https://fathom.lib.uchicago.edu/1/777777190170/) women having legal rights checks out.
+
+</comment>
 <james {% include timecode %}>
 
 Roman law allowed a few different ways that unwed women could have political protections. 
@@ -690,12 +889,22 @@ And Norse and Celtic culture held men and women under roughly the same codes of 
 <compare>
 <james {% include timecode %}>
 
-However, with the absence of explicit evidence of graphic sexual activity &mdash; why would most of us leave that behind? &mdash; historians seem happy to view an absence of dirty laundry as an absence of gay fact. This feels like a conscious and concerted attempt to erase our history. The authors of these books hold a prejudice that screams out in their work. The *silence* is *deafening*. 
+However, <mark>with the absence of explicit evidence of graphic sexual activity &mdash; why would most of us leave that behind? &mdash; historians seem happy to view an absence of dirty laundry as an absence of gay fact.</mark> <mark>This feels</mark> <mark>like a conscious and concerted attempt to erase our history. The authors of these books hold a prejudice that screams out in their work. The *silence* is *deafening*.</mark>
 
-Such views damage our collective understanding of our queer past and leave the later generations of gay, lesbian, bi, and trans people without a link to their history. Our ancestors are closeted in death, and *we* are shut in the dark as a result. But sometimes queer representation does manage to pop up...
+<mark>Such views damage our collective understanding of our <span stat:id="sub-queer">queer</span> past and leave the later generations of gay, lesbian, bi, and trans people without a link to their history. Our ancestors are closeted in death, and *we* are</mark> shut in the dark <mark>as a result.</mark> But sometimes queer representation does manage to pop up...
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 17-19" %}>
+
+<mark>With the absence of explicit evidence of graphic sexual activity (why would most of us leave this behind?), historians seem happy to view an absence of dirty laundry as an absence of gay fact.</mark> It's a poor argument.
+
+<h3>CUT ADRIFT FROM GAY PAST</h3>
+
+<mark>This feels</mark> to me <mark>like a conscious and concerted attempt to erase our history. The authors of these books hold a prejudice that screams out in their work; the silence is deafening.</mark>
+
+<mark>Such views damage our collective understanding of our LGBTQ past, and leave the later generations of gay, lesbian, bi and trans people without a link to their history. Our ancestors are closeted in death, and we are</mark> left adrift <mark>as a result.</mark>
+
+</from>
 </compare>
 {% assign timecode = "28:11" %}
 
@@ -704,71 +913,121 @@ Such views damage our collective understanding of our queer past and leave the l
 <compare>
 <james {% include timecode %}>
 
-To some historians, it is the love that launched a thousand warriors, and representation that survived the test of time. To other more pigheaded historians, it is nothing but a friendship. A very good friendship. A friendship which was very... beneficial.
+<mark>To some</mark> historians, <mark>it is the love that launched a thousand warriors, and representation that survived the test of time. To other</mark> more pigheaded historians, <mark>it is</mark> nothing but a <mark>friendship</mark>. A very good friendship. A friendship which was very... beneficial.
 
-However, looking at the relationship between Achilles and Patroclus, scholars have discussed over the years whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed". [Ironic stretching, forced smile]
+<mark>However, looking at the relationship between Achilles and Patroclus, scholars</mark> <mark num=6>have discussed</mark> <mark num=7>over the years</mark> <mark>whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed".</mark> [Ironic stretching, forced smile]
+
+<mark>So how did this affect the current representation of the pair?</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 2-4" %}>
+
+<mark>To some</mark>, <mark>it is the love that launched a thousand warriors and a representation that survived the test of time. To others</mark>, <mark>it is</mark> the intimate <mark>friendship</mark> which brought the wrath of Achilles upon the Trojan walls. But how has homophobia influenced the reading of the Iliad? 
+
+Pederasty was an ancient custom wherein an erastes (an older male in his mid-to-late twenties) and an eromenos (a younger male past puberty but under the age of eighteen) would partake in the pleasures of an intellectual and/or sexual relationship. This was seen to be beneficial to Greek society since the erastes ideally had a teacher-like relationship with the eromenos. This was modelled in the relationship of Zeus and Ganymede, which was ideal due to their age difference; Ganymede was a beautiful boy, granted immortality in exchange for entertaining Zeus.  
+
+<mark>However, when examining the relationship between Achilles and Patroclus, scholars</mark> <mark num=7>over the centuries</mark> <mark num=6>have debated</mark> <mark>whether their relationship fits with our conception of homosexuality today – many scholars argue that the Greeks did not have the same labels for sexuality that we do now. Many argue that Homer’s treatment of Achilles and Patroclus’ relationship in the Iliad is ambiguous. It is unclear whether they were lovers who slept together, or were simply best friends that shared a tent.</mark> <mark>So, how has this influenced modern depictions of the pair?</mark> 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-So how did this affect the current representation of the pair. Well, the movie *Troy* contained *several*... *factual inaccuracies*, which deviated greatly from the story of the *Iliad*. For example, Menelaus and Agamemnon died *far* too prematurely. Another noticeable difference, that changes the whole story, is the suddenly minor role of Patroclus, who is now the *cousin* of Achilles, something akin to a fanboy... While in the *Iliad* he is revered, admired by Achilles and all the soldiers around him, and he *dies* a hero... giving his life for Achilles. In the movie... he's just a dumb cousin.
-
-While the *Iliad* depicts Achilles and Patroclus's relationship as one of respect, in *Troy* Achilles is a blasphemous *brute* acting only for his own glory and... *pleasure*. By reducing Patroclus to a minor character, *Troy* reduces Achilles as a hero. And by rendering its storyline entirely heteronormative, the film manipulates the rage of Achilles into selfish wrath rather than an emotional outburst at the murder of his lover and best friend.
-
-*Troy* compares the relationship between Achilles and Patroclus to that of Hector and Paris, depriving the plot of the nuances of relationships in the *Iliad*... for the sake of heteronormativity in action movies. Deleting any bit of queerness so that they could appeal to straight men. Have quotes spewed by them and posters for the movie peppering dorm room walls. Funnily enough, it was the *much* more accidentally homoerotic *300* that *actually* managed to accomplish this a few years later.
+Well, <mark>the movie *Troy* contained *several*... *factual inaccuracies*, which deviated greatly from the story of the *Iliad*. For example, Menelaus and Agamemnon died *far* too prematurely. Another noticeable difference, that changes the whole story, is the suddenly minor role of Patroclus, who is now the *cousin* of Achilles</mark>, something akin to a fanboy... While <mark>in the *Iliad* he is revered</mark>, admired by Achilles and all the soldiers around him, <mark>and he *dies* a hero</mark>... giving his life for Achilles. In the movie... he's just a dumb cousin.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 5" %}>
+
+<mark>The movie *Troy* featured numerous historical inaccuracies, deviating far from the narrative of the *Iliad*; for example, Menelaus and Agamemnon die far too prematurely. Another noticeable difference that transforms the entire plot is Patroclus' minor role as Achilles’ cousin</mark>; <mark>in the *Iliad*, he is greatly respected</mark> <mark>and dies a hero</mark>. Homer’s ambiguous language is liable to be interpreted in various ways, especially regarding Achilles and Patroclus’ relationship – Hollywood chose to deny any sexual meaning to it.
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-*The Song of Achilles*, Madeline Miller's book, brings the relationship between Achilles and Patroclus in the opposite direction. From Patroclus's point of view, Miller narrates an intense love story from youth to the death of the pair. It embellishes the few known specifics of the youth of Achilles and offers a stirring glimpse into the lives of both heroes. From a mention of Patroclus being a skilled physician in the *Iliad*, Miller constructs Patroclus's lifetime of learning about medicine and links it into Patroclus's decision to fight in the war. She highlights the ambiguities of the *Iliad*, taking Homer's plot and clarifying it in a modern light. Achilles and Patroclus are *pretty damn gay*, and do a whole lot more than just share a tent. And if the ending doesn't just *break* you, emotionally, you have no soul, I'm sorry.
+<mark>While the *Iliad* depicts Achilles and Patroclus's relationship as one of respect, in *Troy* Achilles is a blasphemous *brute* acting only for his own glory and... *pleasure*. By reducing Patroclus to a minor character, *Troy* reduces Achilles as a hero. And by rendering its storyline entirely heteronormative, the film manipulates the rage of Achilles into selfish wrath rather than</mark> an emotional outburst at the murder of his lover and best friend.
+
+<mark>*Troy* compares the relationship between Achilles and Patroclus to that of Hector and Paris, depriving the plot of the nuances of relationships in the *Iliad*... for the sake of heteronormativity in action movies.</mark> Deleting any bit of queerness so that they could appeal to straight men. Have quotes spewed by them and posters for the movie peppering dorm room walls. Funnily enough, it was the *much* more accidentally homoerotic *300* that *actually* managed to accomplish this a few years later.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 6" %}>
+
+In the *Iliad*, Briseis’ relationship with Achilles was assisted by Patroclus, as she claims that Patroclus promised to convince Achilles to marry her. Yet, in *Troy* there was no such relationship, with Patroclus having limited influence over Achilles and his decisions. <mark>Whilst the *Iliad* depicts Achilles and Patroclus’ relationship as one of respect, in *Troy* Achilles is a blasphemous brute, acting only for his own glory and pleasure. By reducing Patroclus to a minor character, *Troy* reduces Achilles as a hero, and by rendering its storyline entirely heteronormative, the film manipulates the rage of Achilles into selfish wrath, rather than</mark> unwavering loyalty to his companion. <mark>*Troy* compares the relationship between Achilles and Patroclus to that of Hector and Paris, depriving the plot of the nuances of relationships in the *Iliad*, for the sake of heteronormativity in action movies.</mark> By depriving the *Iliad* of LGBT+ history, *Troy* imagines the Trojan war to be a human battle for empires, with the evil Menelaus and Agamemnon dying and the honourable Paris and Helen surviving to continue their ‘true love’. Achilles and Patroclus both die, supposedly as punishment for their choices in the war. 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Some recent stories tended to portray Achilles and Patroclus's relationship as close, but ambiguous, such as in Pat Barker's *The Silence Of The Girls*. Some, however, such as Miller, attempt to reclaim the element of the narrative as Emily Howser in *For The Most Beautiful*. Even in DC Comics, Achilles is resurrected as Wonder Woman's gay male counterpart and has a relationship with the reincarnation of Patroclus. And a side quest in the video game *Hades* is plotted around getting Achilles and Patroclus back together after death.
+<mark>*The Song of Achilles*, Madeline Miller's book, brings the relationship between Achilles and Patroclus in the opposite direction.</mark> <mark>From Patroclus's point of view, Miller narrates an intense love story from youth to the death of the pair. It embellishes the few known specifics of the youth of Achilles and offers a stirring glimpse into the lives of both heroes. From a mention of Patroclus being a skilled physician in the *Iliad*, Miller constructs Patroclus's lifetime of learning about medicine and links it into Patroclus's decision to fight in the war. She</mark> highlights <mark>the ambiguities of the *Iliad*, taking Homer's plot and clarifying it in a modern light</mark>. Achilles and Patroclus are *pretty damn gay*, and do a whole lot more than just share a tent. And if the ending doesn't just *break* you, emotionally, you have no soul, I'm sorry.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 7" %}>
+
+<mark>*The Song of Achilles* by Madeline Miller takes Achilles and Patroclus’ relationship in entirely the opposite direction.</mark> In *Troy*, they were cousins who spent a few years together before joining battle. <mark>From Patroclus’ perspective, Miller narrates an intense love story developing from youth until Achilles’ death. She embellishes the few known details about Achilles’ youth and provides stirring insight into the lives of both heroes. From a mention of Patroclus being a skilled physician in the Iliad, Miller constructs Patroclus’ lifetime of learning about medicine and links it into Patroclus’ decision to fight into the war. She</mark> embellishes <mark>the ambiguities of the Iliad, taking Homer’s plot and clarifying it in a modern light</mark>, whilst avoiding the specific label of ‘homosexual’ in the narrative - arguably this is never clarified, though it is certain that Miller intends for Achilles and Patroclus’ relationship to be more intimate than mere companionship.  
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-The debate still continues today as to whether Achilles and Patroclus were lovers or just intimate friends (who spent all their time together and wanted to have their ashes mixed together so that they could be together for eternity)... *FRIENDS!* A very valid interpretation. Valid. You are very valid, you straight-washing, gay-erasing motherf&mdash;
+Some <mark>recent stories tended to portray Achilles and Patroclus's relationship as close, but ambiguous, such as in Pat Barker's *The Silence Of The Girls*</mark>. <mark>Some, however, such as Miller, attempt to reclaim the element of the narrative as Emily Howser in *For The Most Beautiful*. Even in DC Comics, Achilles is resurrected as Wonder Woman's gay male counterpart and has a relationship with the reincarnation of Patroclus.</mark> And a side quest in the video game *Hades* is plotted around getting Achilles and Patroclus back together after death.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 9" %}>
+
+<mark>Recent texts tend to portray Achilles and Patroclus’ relationship as close but ambiguous, such as in Pat Barker’s *The Silence of the Girls*</mark> or Dan Simmons’ *Illium*. <mark>Some, however, such as Miller, attempt to reclaim this element of the narrative, as does Emily Hauser in *For the Most Beautiful*. Even in DC Comics, Achilles is resurrected as Wonder Woman’s male homosexual counterpart and has a relationship with the reincarnation of Patroclus.</mark> 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The debate still continues today as to whether Achilles and Patroclus were lovers or just intimate friends</mark> (who spent all their time together and <mark>wanted to have their ashes mixed together so that they could be together for eternity</mark>)... *FRIENDS!* A very valid interpretation. Valid. You are very valid, you straight-washing, gay-erasing motherf&mdash;
+
+</james>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 10" %}>
+
+<mark>The debate still continues today as to whether Achilles and Patroclus were lovers, or just intimate friends</mark> who <mark>wished to have their ashes mixed together so they could be together for eternity</mark>. Though we will never know for certain what Homer intended, this love story remains heartbreaking to this day.  
+
+</from>
 </compare>
 
 ## Part 6: The "Big Gay Lie"
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 As a film, *The Imitation Game* is... fine. Conventional but not painful to watch. A plethora of critics, queer and not, determined that the film's a safe *desexualized* version of Turing's life at a singular moment, possibly implying that it was a desexualization of Turing himself. The Daily Beast's Tim Teeman argues that the film is <q>one big gay lie</q>, saying:
 
-> "The film winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen."
+> <mark></mark>"<span stat:id="changed-quote">The film</span> winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen."
 
 Gawker accused the film of cowardice, writing:
 
-> "*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest."
+> <mark></mark>"*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest."
 
 The vitriol thrown toward *The Imitation Game* made me consider films with queer characters that were not queer films, and conversely films with straight characters (or at least a lack of queer ones) and yet, they still fit within the categorization of "queer". There's a *lot* of movies with peripheral and incidental queer characters where identity and sexuality aren't at the forefront. 
 
 </james>
-<from></from>
+<from>
+<header></header>
+
+The Imitation Game <mark>winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen.</mark> The producers clearly made a decision not to extensively feature his adult private life.
+
+<footer>Teeman, T. (2015, Feb 3). <em>The Imitation Game’s Big Gay Lie</em> [Article]. The Daily Beast. (¶ 26) <a href="https://www.thedailybeast.com/the-imitation-games-big-gay-lie">https://www.thedailybeast.com/the-imitation-games-big-gay-lie</a></footer>
+</from>
+<from mark=cont>
+<header></header>
+
+<mark>*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest.</mark> Though Cumberbatch's Turing is, in some scenes, more matter of fact about his sexuality than you might expect given the social climate, *The Imitation Game* undersells him there, too. Hodges again:
+
+<footer>Juziak, R. (2014, Nov 26). <em>But Is It Gay Enough?: The Imitation Game</em> [Article]. Gawker. (¶ 13) <a href="https://web.archive.org/web/20230205211059/https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712">https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712</a></footer>
+</from>
 </compare>
 
 <compare>
@@ -794,18 +1053,28 @@ But even these are products of Jonathan Larson and not the filmmakers. It ends u
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Frankly, it doesn't feel like *The Imitation Game* was either. Despite how much it was touted as a queer film around Oscar season, the writer very bluntly said he did not write a gay movie. To come down on a more concrete definition of queer cinema, one may merely look at critic B. Ruby Rich. She described queer cinema as being able to articulate the--
 
-> "gay, lesbian, bisexual, and transgender identity and experience, as well as a form of sexuality that is fluid and subversive in comparison to traditional understandings of sexuality."
+> "<mark stat:id="made-quote">gay, lesbian, bisexual, and transgender identity and experience, as well as a form of sexuality that is fluid and subversive in comparison to traditional understandings of sexuality.</mark>"
 
 As well as heteronormativity. Basically it comes down to the character's lived experience. 
 
 So where does *The Imitation Game* fit in this? That's the funny thing: the film occupies an ambiguous limbo. Perhaps best described as a film that *desperately* wants to qualify as queer (the Oscars do love them some gays), but doesn't know how to do it right. Some of the ingredients are there, but they feel half baked. Alan Turing is *gay*... but... we only know this because of history. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_queer_cinema at="¶ 1" %}>
+
+**"New Queer Cinema"** is a term first coined by the academic B. Ruby Rich in *Sight & Sound*<sup>[1]</sup> magazine in 1992 to define and describe a movement in queer-themed independent filmmaking in the early 1990s. The term developed from use of the word queer in academic writing in the 1980s and 1990s as an inclusive way of describing <mark>gay, lesbian, bisexual and transgender identity and experience, and also defining a form of sexuality that was fluid and subversive of traditional understandings of sexuality.</mark> The major film studio to discuss these issues was aptly named New Line Cinema with its Fine Line Features division. Since 1992, the phenomenon has also been described by various other academics and has been used to describe several other films released since the 1990s. Films of the New Queer Cinema movement typically share certain themes, such as the rejection of heteronormativity and the lives of LGBT protagonists living on the fringe of society.<sup>[2][3]</sup>
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+Once again, James fabricates a quote from something that isn't a quote at all.
+
+</comment>
 </compare>
 
 <compare>
@@ -844,33 +1113,49 @@ But we seem to be making *some* progress? Whether historians like it or not.
 
 *The Favorite*, directed by Yorgos Lanthimos, with the BAFTA and oscar winning Olivia Coleman in the role of Queen Anne. The film focuses on the relationships between Anne and her ladies in waiting: Sarah Duchess of Marlborough, played by Rachel Weisz, and Abigail Masham, played by Emma Stone.
 
-*The Favorite* is queer history in *two* senses of the term, since it depicts what <span stat:id="baa">by all accounts</span> was a real queer relationship between Queen Anne and Lady Sarah Churchill, an 18th century forbearer to Winston. While also extrapolating on what we know, to actively create the relationship's more intimate moments. Queering history.
+<mark>*The Favorite* is queer history in *two* senses of the term, since it depicts what <span stat:id="baa">by all accounts</span> was a real queer relationship between Queen Anne and Lady Sarah Churchill, an 18th century forbearer to Winston. While also extrapolating on what we know, to actively create the relationship's more intimate moments. Queering history.</mark>
+
+<mark>While the details of Sarah and Anne's relationship behind closed doors is unknown,</mark> <mark>the letters between the two women make it hard to pass them off as just "gal pals". The letters contain phrases like "I can't go to bed without seeing you" and "come to me as soon as you can that I may cleave myself to you". In case, it wasn't clear, "cleaving" means sex.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ff2media at="¶ 2" %}>
+
+<mark>*The Favourite* is queer history in two senses of the term, since it depicts what by all accounts was a real queer relationship between Queen Anne and Lady Sarah Churchill (an 18th-century forebear of Winston), while also extrapolating beyond what we know to actively create that relationship’s intimate moments, “queering” history.</mark> <mark>While the details of Sarah and Anne’s relationship behind closed doors is unknown,</mark> and indeed they might never even have consummated their relationship, <mark>the letters between the two women make it hard to pass them off as “gal pals.” The letters contain phrases like “I can’t go to bed without seeing you” and “come to me as soon as you can that I may cleave myself to you.” In case it wasn’t clear, “cleaving” means sex.</mark>
+
+</from>
 <james {% include timecode %}>
 
-While the details of Sarah and Anne's relationship behind closed doors is unknown, the letters between the two women make it hard to pass them off as just "gal pals". The letters contain phrases like "I can't go to bed without seeing you" and "come to me as soon as you can that I may cleave myself to you". In case, it wasn't clear, "cleaving" means sex.
-
-Some would counter the evidence in these letters by arguing that courtly correspondence was *always* this flowery and poetic. It's true, that if we considered every pair of people in that time period who profess their love for each other to actually be lovers, it would mean the whole English cOurt was one big free love commune... which considering the amount of inbreeding... maybe...
+<mark>Some would counter the evidence in these letters by arguing that courtly correspondence was *always* this flowery and poetic. It's true, that if we considered every pair of people in that time period who profess their love for each other to actually be lovers, it would mean the whole English cOurt was one big</mark> free love commune... which considering the amount of inbreeding... maybe...
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ff2media at="¶ 3" %}>
+
+<mark>Some would counter the evidence in these letters by arguing that courtly correspondence was always this flowery and poetic. It’s true that if we considered every pair of people in that time period who professed their “love” for each other to actually be lovers, it would mean the whole English court was one big</mark> polyamorous bacchanal. We can even see examples of this overwrought language between friends over social media today, when girls comment on each other’s Instagrams to say “OMG I’M OBSESSED WITH U.” Mary II, Anne’s sister, once described one of her female courtiers as her “husband”—but how many engagement posts have you seen between female roommates on Facebook?
+
+</from>
 <james {% include timecode %}>
 
-However, there's a difference between enthusiastic *friendship* and the kind of relationship that makes *fathers* recall their daughters from court, because they're getting inappropriately close to Queen Anne. That seems to be what happened with Mary Cornwallis, a lady of the bed chamber in Anne's service. And this, in a situation where the Queen's obsession with their daughter would *typically* be a parent's wildest dream! If that wasn't proof enough, later in life Sarah publicly accused Anne of lesbianism in revenge for being jilted and banished from court. This too can be seen as evidence since Sarah used Anne's letters to her as proof of the queen's inclinations. If Sarah could use those letters to accuse an *even then*, then they must have been *very* erotic, even by the standards of courtly love. 
+<mark>However, there's a difference between enthusiastic *friendship* and the kind of relationship that makes *fathers* recall their daughters from court, because they're getting inappropriately close to Queen Anne. That seems to be what happened with Mary Cornwallis, a lady of the bed chamber in Anne's service. And this, in a situation where the Queen's obsession with their daughter would *typically* be a parent's wildest dream! If that wasn't proof enough, later in life Sarah publicly accused Anne of lesbianism in revenge for being jilted and banished from court. This too can be seen as evidence since Sarah used Anne's letters to her as proof of the queen's inclinations. If Sarah could use those letters to accuse Anne *even then*, then they must have been *very* erotic, even by the standards of courtly love. </mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ff2media at="¶ 4" %}>
+
+<mark>However, there’s a difference between enthusiastic friendship and the kind of relationship that makes fathers recall their daughters from court because they’re getting inappropriately close to Queen Anne. That seems to be what happened with Mary Cornwallis, a Lady of the Bedchamber in Anne’s service—and this in a situation where the queen’s obsession with their daughter would typically be a parent’s wildest dream. If that wasn’t proof enough, later in life Sarah publicly accused Anne of lesbianism as revenge for being jilted and banished from court—this too can be seen as evidence since Sarah used Anne’s letters to her as proof of the queen’s inclinations. If Sarah could use those letters to accuse Anne, then they must have been erotic even by the standards of courtly love.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Of course any film is provocative as *The Favorite* makes people wonder how much of it is really true. How much does the film present queer history and how much is it *queering* history. It's true that when Anne cheekily tells Sarah:
+<mark>Of course any film is provocative as *The Favorite* makes people wonder how much of it is really true. How much does the film present queer history and how much is it *queering* history?</mark> <mark>It's true that when Anne cheekily tells Sarah</mark>:
 
 </james>
-<from></from>
+<from span=3 {% include citation for=page.cite.plagiarized.ff2media at="¶ 5" %}>
+
+<mark>Of course, any film as provocative as *The Favourite* makes people wonder how much of it is really true. How much does the film present queer history, and how much is it “queering” history?</mark> It’s a conversation that happens around even the more mundane period pieces; coverage of a period piece tends to center around “why X’s character would never have really made this choice” or “how Y’s character actually pulled off that OMG moment!!!” And so on. <mark>It’s true that when Anne cheekily tells Sarah</mark> that she likes when her new lady-in-waiting Abigail “puts her tongue inside me,” <mark>the present brings its own humor into the past. The present also inserts itself into the past when the actors speak in accents we can understand, and when the whole thing is recorded on a modern camera because *it’s a movie.*</mark>
+
+</from>
 <clip {% include citation for=page.cite.clips.the_favorite %}>
 
 Anne: "I like it when she puts her tongue inside me."
@@ -878,36 +1163,43 @@ Anne: "I like it when she puts her tongue inside me."
 </clip>
 <james {% include timecode %}>
 
-The present brings its own humor into the past. The present also inserts itself into the past when the actors speak in accents we can actually *understand*, and when the whole thing is recorded on a modern camera because *it's a movie!* 
+<mark>The present brings its own humor into the past. The present also inserts itself into the past when the actors speak in accents we can actually *understand*, and when the whole thing is recorded on a modern camera because *it's a movie!*</mark> 
 
 </james>
-<from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-*The Favorite* is a game-changing period piece because it throws out the rule book for how period pieces relate to truth and reality. *The Favorite* is both queer history and *queering* history, because as director Yorgos Lanthimos clearly knows, our viewpoint of history is never *purely* a reconstruction of the facts. We actively construct history, based on our own opinion. We figure out what *we* know and then we fill in the details with our own incomplete biased and flawed perspectives. 
+<mark>*The Favorite* is a game-changing period piece because it throws out the rule book for how period pieces relate to truth and reality. *The Favorite* is both queer history and *queering* history, because as director Yorgos Lanthimos clearly knows, our viewpoint of history is never *purely* a reconstruction of the facts. We actively construct history</mark>, <mark>based on our own opinion. We figure out what *we* know and then we fill in the details with our own incomplete, biased, and flawed perspectives.</mark> 
 
-Lanthimos dances a beautiful tight rope routine on the line between these two aspects of the period piece, with *The Favorite*'s dead pan accuracy. It's the very *facts* of the period, like men in high heels, that make the world of Queen Anne's court seem absurd to us. Not only is this interplay between the known and the unknowable hilarious at times, it's the basis of good storytelling, in any period piece. Though *The Favorite* certainly takes it farther than anything that has come before it. 
+<mark>Lanthimos dances a beautiful tight rope routine on the line between these two aspects of the period piece, with *The Favorite*'s dead pan accuracy. It's the very *facts* of the period, like men in high heels, that make the world of Queen Anne's court seem absurd to us. Not only is this interplay between the known and the unknowable hilarious at times, it's the basis of good storytelling, in any period piece. Though *The Favorite* certainly takes it farther than anything that has come before it.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ff2media at="¶ 6" %}>
+
+<mark>The Favourite is a game-changing period piece because it throws out the rulebook for how period pieces relate to truth and reality. The Favourite is both queer history and “queering” history because, as director Yorgos Lanthimos clearly knows, our viewpoint of history is never purely a reconstruction of the facts—we actively construct history</mark> as well, <mark>based on our own opinions. We figure out what we know, but then we fill in the details with our own incomplete, biased, and flawed perspectives.</mark> <mark>Lanthimos dances a beautiful tightrope routine on the line between these two aspects of the period piece with The Favourite’s deadpan accuracy—it’s the very facts of the period (like men in high heels) that make the world of Queen Anne’s court seem absurd to us. Not only is this interplay between the known and the unknowable hilarious at times like these, it’s the basis of good storytelling in any period piece, though The Favourite certainly takes it farther than ever before.</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-It also bears mentioning that if a filmmaker doesn't choose to queer history, that doesn't mean they're telling history like it was. It just means they're "straighting" history. Straightifying? Straightening. Replacing the gay agenda with a straight agenda does *not* mean that there's no agenda.
+<mark>It also bears mentioning that if a filmmaker doesn't choose to queer history, that doesn't mean they're telling history like it was. It just means they're "straighting" history.</mark> Straightifying? Straightening. <mark>Replacing the gay agenda with a straight agenda does *not* mean that there's no agenda.</mark>
 
 </james>
-<from></from>
+<from span=2 {% include citation for=page.cite.plagiarized.ff2media at="¶ 8" %}>
+
+<mark>It also bears mentioning that if a filmmaker doesn’t choose to “queer” history, that doesn’t mean they’re telling history like it was—it just means they’re “straighting” history.</mark> <mark>Replacing the gay agenda with the straight agenda does not mean there’s no agenda.</mark> When The Imitation Game shows Alan Turing in a relationship with Keira Knightley despite the fact that he was chemically castrated for being gay, that is the straight agenda. <mark>*Capote* and the Cole Porter biopic *Night and Day* also shortchange their queer subjects, removing or overwriting their sexualities. The question isn’t one of removing agendas from film—it’s a question of which agenda we choose. As the Queer Crisis Collective asks:</mark> <mark>“Who thrives? Who dies? Whose body matters? Whose history survives? Who is missing?”</mark>
+
+</from>
 <james {% include timecode %}>
 
-[Capote](https://en.wikipedia.org/wiki/Capote_(film)) and the Cole Porter biopic [*Night And Day*](https://en.wikipedia.org/wiki/Night_and_Day_(1946_film)) also short-changed their queer subjects, removing or overriding their sexualities. The question isn't one of *removing* agendas from film, it's a question of which agenda we choose. As the queer crisis collective asks: 
+<mark>[Capote](https://en.wikipedia.org/wiki/Capote_(film)) and the Cole Porter biopic [*Night And Day*](https://en.wikipedia.org/wiki/Night_and_Day_(1946_film)) also short-changed their queer subjects, removing or overriding their sexualities. The question isn't one of *removing* agendas from film, it's a question of which agenda we choose. As the queer crisis collective asks:</mark> 
 
 \[Appearing on screen next to James]:
-> Who thrives?  
+> <mark></mark>Who thrives?  
 > Who dies?  
 > Whose body matters?  
 > Whose history survives?  
@@ -916,7 +1208,6 @@ It also bears mentioning that if a filmmaker doesn't choose to queer history, th
 \[Fade to black]
 
 </james>
-<from></from>
 </compare>
 
 <compare>
@@ -924,16 +1215,20 @@ It also bears mentioning that if a filmmaker doesn't choose to queer history, th
 
 \[Fade back in]
 
-Queer stories aren't just for people in their lifetime. They are a beacon for future generations to look back and feel camaraderie and empowerment with people from long ago. Who were like they are now. So we can grow up, never thinking once that we are alone. That we have ever been alone. 
+<mark>Queer stories aren't just for</mark> people in their lifetime. They are a beacon for future generations to look back and feel camaraderie and empowerment with people from long ago. Who were like they are now. So we can grow up, never thinking once that we are alone. That we have ever been alone. 
 
 They should know that the greatest thinkers of Greece were queer. That Sappho (the human version) ran a girls-only poetry school on the island of Lesbos. That Alexander the Great loved men. The great heroes of myth, like Achilles and Heracles, were not bound by heteronormative expectations. That Queen Christina of Sweden ruled the country as an out lesbian. That Chaikovsky, one of the most significant composers in history, was gay, and while closeted to the public, he was accepted by his family. That the great writers of Edwardian England, like Virginia Wolf, *embraced* their queerness. That the man who stopped the Nazi war machine in its *tracks* was inhumanely punished, because he loved men. 
 
-The next generation should know about these men and women. Their stories, their accomplishments, how they change the world. So that they know they too can change the world. To make it that much easier for them. To start feeling around in the dark for the closet door.
+The next generation should know about these men and women. Their stories, their accomplishments, how they change the world. So that they know they too can change the world. To make it that much easier for them. <mark>To start feeling around in the dark for the closet door.</mark>
 
 \[James fades away]
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.ff2media at="¶ 13" %}>
+
+Because the thing is, <mark>queer stories aren’t just for</mark> the queer people that already exist—queering history queers the audience. More millennials identify as LGBTQ than any generation before them, and that’s because millennials grew up knowing that being LGBTQ was a legitimate option. Queer people who are in the closet today can watch these films and see queer people who have been in the closet for all of history, since even if one specific biopic subject wasn’t really in the closet, there have certainly been enough people in the closet throughout history to make up the difference! To wit, queer people who haven’t realized they are queer yet—a much larger proportion of humans who have ever existed than many people believe—can see these films and get the tip-off that leads them <mark>to start feeling around in the dark for the closet door.</mark>
+
+</from>
 <credits {% include timecode %} class="closing">
 
 > Written by  
