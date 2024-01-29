@@ -42,7 +42,7 @@ What kind of representation actually counts as gay representation? What counts a
 {% include transcript-start %}
 
 <compare>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 *Yuri on Ice* is a 2016 anime about Yuri Katsukai<sup>[sic: Yuuri Katsuki]</sup>, a <del>24</del><ins>23</ins> year old figure skater from Japan whose<sup>[sic: who's]</sup> pretty much convinced that he’s past his prime. Until his idol, world famous Russian figure <ins>skater</ins> Victor Nikiforov shows up in Yuri’s small town to coach him into being a champion himself. 
 
@@ -52,7 +52,7 @@ I’ve been told for almost an entire year that I need to watch *Yuri on Ice*. P
 </compare>
 
 <compare>
-<credits class = "opening">
+<credits class="opening">
 
 > James Somerton Presents
 
@@ -70,7 +70,7 @@ I’ve been told for almost an entire year that I need to watch *Yuri on Ice*. P
 </compare>
 
 <compare>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 And I want to be absolutely blunt, before we get into this. I’ve made a kind of career here on YouTube talking about queer coding in media. How gay characters are almost never shown, and just hinted at. And it’s incredibly frustrating, queer coding that is. And I was warned before watching *Yuri on Ice* that it was total queer bait, but I watched it anyway. And after watching both the sub’d and dub’d versions, I can say that this is actually the kind of representation that I’ve been asking for. 
 
@@ -82,7 +82,7 @@ Could it have used an <ins>actual</ins> on-screen kiss? I mean sure. The arm-in-
 <ins>Christophe: You always come too early.
 
 </clip>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 In fact the subtlety was lacking to such an extent that it boggles my mind that there are fans online who argue that Yuri and Victor are straight. Straight. Yes. Absolutely. This is… pique<sup>[sic: peak]</sup> heterosexuality. <ins>You don't get much straighter than this boys. Stop playing football, it's over.</ins> 
 
@@ -92,7 +92,7 @@ Granted, the English voice dub is much more homosexually explicit, whereas the s
 </compare>
 
 <compare>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 Going through it three times total, the gay…ness of the whole thing became so much more apparent each time that <mark>the only way I can possibly account for anyone saying that this is straight is a bunch of women and girls who are <del>exercising</del><ins>experiencing</ins> the most willful ignorance I’ve <del>had the displeasure of being exposed to</del><ins>ever seen</ins>.</mark> 
 
@@ -105,13 +105,13 @@ James, that's misogyny.
 </compare>
 
 <compare>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 Which, honestly, if the complete lack of women in this sausage fest isn’t a tip off, the literal only textual antagonist in this first season is <ins>the only</ins> one who refuses to stop shoving his heterosexual lifestyle in everyone’s faces. I can understand why a lot of North American viewers wouldn’t get the message though. There’s no grand, bombastic soapbox moment where either Yuri or Victor stand in front of a crowd to declare their sexuality… except the scene where Yuri declares his love for Victor on live TV. But besides that. 
 
 And neither was there a whole media push to promote these gay characters, in which the network and creator can pat themselves on the back, Disney “first gay character” style. If a studio or network isn’t blasting their own self-promotional circle-jerk across the internet, how do we know for certain that a character is gay? And even if they are gay, how do we know it’s gay representation if a giant, money-grubbing straight, family-values corporation isn’t telling a swarm of queers that this is gay representation? How gay is gay enough for it to be gay… without us having to be told it is? 
 
-{% assign timecode = "4:24"}
+{% assign timecode = "4:24" %}
 
 </james>
 </compare>
@@ -131,9 +131,9 @@ The thing is… rubbing our sexuality in everyone’s faces just to prove we exi
 <ins>Christophe: I think I'm going to come.
 
 </clip>
-<james {% include timecode}>
+<james {% include timecode %}>
 
-Mostly. To the point where… yeah I think this is better queer representation than the overwhelming bulk of American <del>films</del><ins>movies</ins>, <del>television</del><ins>TV</ins> shows, and <del>even</del> comic books have had to offer in recent memory. At which point before going on, I feel obliged to erase any shadow of a doubt to confirm that, yes, even through inference only, this is qualifiabley<sup>[sic:qualifiably]</sup> gay — and maybe even queer - representation. 
+Mostly. To the point where… yeah I think this is better queer representation than the overwhelming bulk of American <del>films</del><ins>movies</ins>, <del>television</del><ins>TV</ins> shows, and <del>even</del> comic books have had to offer in recent memory. At which point before going on, I feel obliged to erase any shadow of a doubt to confirm that, yes, even through inference only, this is qualifiabley<sup class="add">[sic:qualifiably]</sup> gay — and maybe even queer - representation. 
 
 <ins>Now</ins> To The Network’s credit, they did everything they could to keep as much of the gay out of *Yuri!!! On ICE* <ins>as possible</ins>. From arms-in-front-of-kisses to obscuring as much of the romantic details as possible. There’s no plausible deniability that there are a slew of gay characters in this show <ins>though</ins>… but it is possible. Not plausible, but possible. Straights are great at that. 
 
@@ -151,7 +151,7 @@ The engagement scene, and it is an engagement scene, is really the only part of 
 </ins>[Yuuri gasps softly.]
 
 </clip>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 But you also get a scene where two naked men jump into Yuri’s bed and his only objection is about how cold their feet are. Which maybe you could argue this is a straight boy thing, but then we’re getting desperately close to the territory of staged straight-bait porn. [Unknown clip plays, presumably from "staged straight-bait porn"?]
 
@@ -167,13 +167,13 @@ I’ve actually heard this is pretty bad <del>for</del><ins>when it comes to</in
 <ins>Langa from *Sk8 the Infinity*: Reki, my love... of skateboarding. It's because of you...
 
 </clip>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 <ins> But that's a whole other video... Yeah, it's coming. [The second Christophe clip plays again.]</ins>
 
 At which point I consider it a failure of Western ’queer representation’, where Western audiences cannot recognize queer characters by inference alone. And so… one has to wonder… what is causing this denial in media analysis? What makes some American audiences require their media to be so much more… explicit?
 
-{% assign timecode = "11:14"}
+{% assign timecode = "11:14" %}
 
 </james>
 </compare>
@@ -213,7 +213,7 @@ For instance, after being consistently questioned on the feminist power of *Carr
 
 And sadly, many who have this talent are often plagued with lifelong inadequacy issues, imposter complexes, and frequently opt to give up before they hit their stride because others hold them up against artists who <ins>at least</ins> appear to do it all seamlessly… Those who, also, would have openly admitted to not having the slightest clue what they<del>’re</del> <ins>were</ins> doing, but happen to do the right thing so nobody bothers to ask. And in this respect, *Yuri!!! On ICE* exists as a triumph of gay representation. Before it set out to do anything, it was going to tell a good story. Where most stories function around telling people how to succeed, *Yuri!!! On ICE* was primarily about how not to give up. 
 
-{% assign timecode = "20:29"}
+{% assign timecode = "20:29" %}
 
 </james>
 </compare>
@@ -291,7 +291,7 @@ They know they’re gay. They don’t need to have a heart-to-heart about it bec
 
 In fact, the lack of clarity also affords a, perhaps accidental instance of nonbinary representation, specifically from Yuri. As per elements of the show, he is much more comfortable skating his programs as a woman. He spares no expense to clarify that he feels like he doesn’t belong with the other men, and any time the word ‘man’ is used in the entirety of the show, it is always in a period of great anxiety for Yuri <del>himself</del>. Victor also started out his career looking very androgynous, bending the separation between male and female, if not shattering it<ins> completely</ins>. 
 
-{% assign timecode = "26:19"}
+{% assign timecode = "26:19" %}
 
 </james>
 </compare>
@@ -330,7 +330,7 @@ THE OLD GUARD *The Old Guard* was a 2020 Netflix action movie about a group of f
 </compare>
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 And goddammit it works. This crazy, over the top action movie that would make some of the *Fast and Furious* movies look subtle has, hands down, the best gay representation I’ve ever seen in a Hollywood movie. The gays don’t die. They’re not depressed about being gay. Nobody wants to kill them <ins>specifically</ins> for being gay. It’s just… a thing they are. Something that has, really, nothing to do with the plot. They could have <ins>just</ins> been straight buds but, instead, they’re gay. They just happen to be gay. And it is perfect. Unlike most gay characters they survive to the end and will be in the sequel, which Netflix green-lit earlier this year. The movie was a huge success for Netflix and other than <ins>some</ins> gay media, almost nobody mentioned Joe and Nicky. Why? Because Netflix didn’t put out a press release declaring “WE HAVE A GAY! TWO OF EM!” They just let the gays exist like they would any straight character. They were just there. Their queerness <ins>is</ins> completely incidental to the plot, <mark>just like every other characters<sup>[sic:characters']</sup> straightness.</mark> 
 
@@ -343,7 +343,7 @@ Andy is *definitely* not straight. It's pretty clear subtext in the film, and ex
 </compare>
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 I was so shocked by this that I barely knew what to think when I watched it. An action movie with gay characters. An action movie with gay heroes? An action movie with gay heroes who don’t die? WHAT IS THIS? Opposite land?! Did the pandemic cause <del>a</del><ins>some kind of</ins> new reality to open up? Sadly, no. No new reality, just a single ripple in spacetime that felt a bit different. Not a whole lot of incidentally gay characters popping up in action movies since then. But one did come out just before it: 
 
@@ -353,7 +353,7 @@ I was so shocked by this that I barely knew what to think when I watched it. An 
 </compare>
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 Now, as a movie news nerd I followed the production of *Birds of Prey* pretty closely. So I knew that <del>WB</del><ins>Warner Brothers</ins> actually sent this thing back for reshoots at least once because they decided, late in the game, that a certain plot point was a bit too risque for them. You see, originally, Ewan McGregor’s Black Mask was 100% confirmed to be gay in the movie, and the reason <ins>that</ins> he was after the Bertinelli diamond wasn’t for the money, but because it contained data inside <ins>of it</ins>. Data that, when read, would reveal him in compromised positions. And his dick pics. <del>I’m not kidding.</del>  Black Mask, or Roman Sianos, was a bit of a kinky bottom you see. And heaven help the woman who let that info leak out to the rest of Gotham’s underworld. But WB got cold feet and called for reshoots. Simplifying the plot and vaguely straight washing Roman and his serial killing henchman / dom top, Victor Zazz<sup>[sic: Zsasz]</sup>. Oh the movie we could have had if it weren’t for corporate meddling. 
 
@@ -366,7 +366,7 @@ Covered by Todd in the Shadows (https://youtu.be/A6_LW1PkmnY&t=5632). The only p
 </compare>
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 But the queerness of the couple is still abundantly clear. Roman never says he’s queer but when he’s rocking a pink silk kimono while dancing around with a martini, I don’t think it needs be remarked. Ewan McGregor's acting has a camp<del>y</del> quality to it that reminds me of <ins>a</ins> villain in a John Waters movie. 
 
@@ -379,7 +379,7 @@ But the queerness of the couple is still abundantly clear. Roman never says he�
 </compare>
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 Now, the queer community doesn’t really like <ins>the</ins> queer coded villains these days, which is pretty understandable. But in this case, exceptions can and should be made.  Some of the *Birds of Prey* media discussion was focused on how the film despises men or portrays white men as villains. That isn't entirely accurate, but the film does have a slew of terrible men with <del>a</del> similar appearance<ins>s</ins>. What interests me about this is that Roman and Victor are examples of these evil men. They aren't macho clichés of men, and they don't sexualize the female characters in the film. Roman shifting into the Black Mask persona and forcing a woman to pull off her clothing is one example where it doesn't feel like he's doing it for <del>the</del> sexual thrills, but for the control. He also didn't want the dress in his club because it was <ins>a</ins> crime against fashion. And unlike murder, some laws should never be broken.
 
@@ -401,11 +401,11 @@ Beverly Sutphin: No it hasn't.
 [Beverly strikes the other woman.]
 
 </clip>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 So is Black Mask GOOD representation of queer men? No, of course not. But is he an interesting character with more going <ins>on</ins> for him than just being the gay character. Yes. And that’s what we need. We need characters who are MORE than just the gay one. 
 
-{% assign timecode = "35:54"}
+{% assign timecode = "35:54" %}
 
 </james>
 </compare>
@@ -413,7 +413,7 @@ So is Black Mask GOOD representation of queer men? No, of course not. But is he 
 ## Part 5: The Climax Comes So Early
 
 <compare>
-<james {% insert timecode %}>
+<james {% include timecode %}>
 
 This puts me in a <ins>bit of a</ins> difficult situation, as it may not be clear what I’m advocating for. On one hand, I’m praising <ins>the</ins> various instances of subtlety in media when it comes to queer representation, while condemning other attempts to make more ‘overtly’ queer media. But what I’m saying is that we don’t necessarily need to chose between one or the other. Our representation would get boring if we, as a group, decided that there was only one way to represent us. In that case, it would be a gross disservice to the vast range of diversity in the queer experience. There isn’t one way to be queer — there isn’t even one way to be gay. 
 
