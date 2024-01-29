@@ -1,14 +1,14 @@
 ---
 date: 2022-02-10
 title: SHIPPING - The Good, The Bad, and the Thirsty
-status: Script
+status: Finished
 aka: !!seq
   - "Shipping: A Nuanced Argument"
   - "NOW KISS (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220210+UiDcQnavKPI+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.mp4"
 # description: "a video essay on...?"
 notes:
   - dec5-delete
