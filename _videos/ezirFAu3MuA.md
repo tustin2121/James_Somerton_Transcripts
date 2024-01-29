@@ -327,10 +327,13 @@ they put before you some qualifications of otherness are just more visible but I
 hear this echoed within the queer Community to an absurd degree these barriers
 and hurdles and expectations ranging from public speaking contests in high
 school local craft competitions to watching professionals and Publishing
-television and other forms of media people who go out on a limb and break the
-mold and then have their bold advancements parroted by a more conventional
-creator who's then credited with flipping the script or moderately successful
-gay YouTube creators who get left on red by nebula I feel that perhaps we
+television and other forms of media.
+
+
+<span stat:id="irony..." id="parroted"> people who go out on a limb and break the mold and then have their bold advancements parroted by a more... conventional creator. who's then credited with flipping the script (or moderately successful gay YouTube creators who get left on read by nebula). </span>
+
+
+ I feel that perhaps we
 overcompensate for our need to provide ourselves with Legacy we push the limits
 a bit further than our Scholars and corporate overlords are willing to recognize
 perhaps because we seek Legacy and Perfection for its own sake or rather like

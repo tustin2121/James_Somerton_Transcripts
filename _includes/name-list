@@ -11,6 +11,9 @@
 				{%- when "cite" -%}
 					{%- assign __name = site.data.cite | map: __check[2] | first -%}
 					<a href="{{ __name.link }}">{{ __name.name }}</a>
+				{%- when "cite2" -%}
+					{%- assign __name = site.data.cite | map: __check[2] | map: __check[3] | first -%}
+					<a href="{{ __name.link }}">{{ __name.name }}</a>
 				{%- when "ref" -%}
 					{%- assign __name = site.data.cite | map: __check[2] | first -%}
 					<a href="{{ __check[3] }}">{{ __name.name }}</a>
