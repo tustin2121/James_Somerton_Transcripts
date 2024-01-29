@@ -125,7 +125,7 @@ function determineVolume(obj, window, document) {
 		let pVid = 0; //plagiarized video
 		let pExact = 0; //plagiarized exact text
 		{
-			let marks = Array.from(n.querySelectorAll("mark:not([fc])"));
+			let marks = Array.from(n.querySelectorAll("mark:not([fc]):not([meta])"));
 			p = marks.map(m => m.textContent.split(" ")).flat().length;
 			pExact = p - marks.filter(m => m.hasAttribute("x")).map(m => m.textContent.split(" ")).flat().length;
 			

@@ -19,12 +19,14 @@ links: !!seq
 description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:
   - hbomb
-  # - visual
+  - visual
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
   formatting: $cite$tustin2121
-  citation-plus: $cite$lvence
+  citation-plus: 
+    - $cite$lvence
+    - $cite$penguinstorage
 
 cite:
   clips: !!map
@@ -92,6 +94,7 @@ cite:
     wiki_queer_cinema: { color: 8, short: "New queer cinema (Wikipedia, 2020)", full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524" }
     ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
     mako_visual: { color: 12, short: "Mako x Wu (MoonFlower, 2020)", full: "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", url: "https://www.youtube.com/watch?v=1c-Km4I4bqA" }
+    visual_composition: { color: 13, short: "", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
@@ -292,17 +295,24 @@ They're used to change the moods or attitudes of a scene highlight, a recurring 
 <james {% include timecode %}>
 
 You can see clear examples of lighting used as film language in *Avengers: Infinity War*, where scenes lit with purple highlight Thanos's influence and cruelty. And scenes lit with orange are in resistance to him. *The Last Jedi* -- the absolute best *Star Wars* movie of all time, we can all agree on that -- very deliberately depicts objects being split apart. This can speak to the content of fractured alliances within the movie itself, the divided nature of the fan base as a whole, or making a meta self-aware statement of the director's knowledge of the film's own divisive content.
-
-Granted, while film language is not limited to lighting and visual cues, these are very explicit examples. Most film language is never meant to be picked up by the audience at large, but rather send subliminal messages to influence how you feel about certain scenes and characters. In some respects, all of this was anticipated by the development of film theory at a time when the cinema was just being born. 
+{% assign timecode = "3:02" %}
 
 </james>
 <from></from>
 </compare>
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.visual_composition at="(0:03)" %}>
+{% assign vis = page.cite.plagiarized.mako_visual.color %}
+James pulls from another video essay for his B-Roll here. He uses the opening montage, cutting away to not include that video's title. According to that video's subtitles (which it uses to actually *cite* its sources), the following films are shown in James's video: *American Beauty* (1999), *Eternal Sunshine of The Spotless Mind* (2004), *The Tree of Life* (2011), *Melancholia* (2011), *Ida* (2013), *Gravity* (2013), *Only God Forgives* (2013), *Antichrist* (2009), *Fargo* (1996), *The Good, The Bad and The Ugly* (1966), *12 Years A Slave* (2013), *Raging Bull* (1980), *Barry Lyndon* (1975).
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
-<mark x>Early theorists</mark> <mark>emphasized how film differed from reality and how it might be considered a valid art form</mark>. 
+<span visual={{vis}} on="0:03" off="0:18">Granted, while film language is not limited to lighting and visual cues, these are very explicit examples. Most film language is never meant to be picked up by the audience at large, but rather send subliminal messages to</span>  
+<span visual={{vis}} on="0:22" off="0:30">influence how you feel about certain scenes and characters. In some respects, all of this was anticipated by the development of film theory</span>  
+<span visual={{vis}} on="0:43" off="0:51">at a time when the cinema was just being born. <mark x>Early theorists</mark> <mark>emphasized how film differed from reality and how it might be considered a valid art form</mark>.</span>
 
 <mark>In the years after World War II, the French film critic and theorist Andre Bezine reacted against this approach to the cinema, arguing that film's essence lay in its ability to mechanically reproduce reality, not in its differences from reality.</mark>
 
@@ -522,7 +532,6 @@ But other movies require a bit more digging. In [Evil Queens](Qvu84kjtGvE), I ta
 </comment>
 </compare>
 
-<div class="visual">
 <compare>
 <visual {% include citation for=page.cite.plagiarized.mako_visual at="(2:31)" %}>
 {% assign mkv = page.cite.plagiarized.mako_visual.color %}
@@ -544,7 +553,6 @@ James pulls an FMV from YouTube to use as B-Roll for this part.
 </james>
 <from></from>
 </compare>
-</div>
 
 <compare>
 <james {% include timecode %}>
