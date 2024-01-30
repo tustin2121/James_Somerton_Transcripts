@@ -14,7 +14,10 @@ let sources = new Map();
 let ironic = [];
 
 let info = new Map();
-let stats = { 'p-total':0, 'm-total':0, 'y-total':0 };
+let stats = { 
+	vol: { p:0, m:0, y:0, w:0, v:0, total:0, segments:0 },
+	'p-total':0, 'm-total':0, 'y-total':0
+};
 let list = [];
 
 // Determine the list of files
@@ -63,15 +66,21 @@ for (const [id, obj] of info) {
 	let w = obj._volRecalc.reduce((a, b) => a + b.w, 0);
 	let v = obj._volRecalc.reduce((a, b) => a + b.v, 0);
 	
-	console.log(`Recalculating volume for ${id}... ${total} words, ${segments} segments (${p} plagiarized, ${m} misinformation, ${y} yikes, ${w} plagiarized exact, ${v} plagiarized video)`)
+	p = ((p / segments) * 100).toFixed(1);
+	m = ((m / segments) * 100).toFixed(1);
+	y = ((y / segments) * 100).toFixed(1);
+	w = ((w / total) * 100).toFixed(1);
+	
+	obj.vol = { p, m, y, w, v };
+}{
+	let { p, m, y, w, v, total, segments } = stats.vol;
 	
 	p = ((p / segments) * 100).toFixed(1);
 	m = ((m / segments) * 100).toFixed(1);
 	y = ((y / segments) * 100).toFixed(1);
 	w = ((w / total) * 100).toFixed(1);
 	
-	console.log(`  ${p}% plagiarized, ${m}% misinformation, ${y}% yikes, ${w}% plagiarized exact, ${v} plagiarized video`)
-	obj.vol = { p, m, y, w, v };
+	stats.vol = { p, m, y, w, v };
 }
 
 // Fill in any extra stats
@@ -162,6 +171,14 @@ function determineVolume(obj, window, document) {
 	let v = nodes.map(n => n.pVid).reduce((a, b) => a + b);
 	
 	obj._words = { p, m, y, w, v, total, segments:nodes.length };
+	stats.vol.p += p;
+	stats.vol.m += m;
+	stats.vol.y += y;
+	stats.vol.w += w;
+	stats.vol.v += v;
+	stats.vol.total += total;
+	stats.vol.segments += nodes.length;
+	
 	if (total === 0) return;
 	if (p === 0 && m === 0 && y === 0 && w === 0 && v === 0) return;
 	

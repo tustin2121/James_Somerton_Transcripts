@@ -1,38 +1,41 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  p-total: 87
-  m-total: 40
-  y-total: 10
-  changed-number: 2
-  p-wiki: 16
+  vol: {p: "20.4", m: "1.5", "y": "0.0", w: "11.7", v: 18}
+  p-total: 94
+  m-total: 46
+  y-total: 11
   sub-queer: 21
-  changed-quote: 13
+  changed-quote: 14
   correction: 2
   changed-name: 5
   p-book: 6
   p-student: 4
   y-acephobia: 4
-  irony: 2
-  made-quote: 2
+  irony...: 1
+  p-news: 10
+  p-wiki: 16
+  changed-number: 2
   baa: 4
+  irony: 2
   p-academic: 4
-  p-news: 9
+  change-quote: 1
   blatant-bgm: 2
-  p-youtube: 7
+  p-youtube: 9
+  made-quote: 2
   y-exclusion: 1
   y-misogyny: 1
   y-transphobia: 1
   m-inverse: 1
 _irony:
-  - {source: CODEBREAKER, id: gay-erasure, quote: "It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?"}
-  - {source: DeepCuts000, id: other-peoples-material, quote: "Richie ended up telling other people’s jokes. He amassed a lot of wealth, but he lives his life alone."}
+  - {source: M8Z1NjpdH1M, id: other-peoples-material, quote: "Richie ended up telling other people’s jokes. He amassed a lot of wealth, but he lives his life alone."}
+  - {source: P_mLM6fUhHQ, id: gay-erasure, quote: "It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?"}
 
 _all:
-  - {"color": 2, "short": "Wallpaper (eeee, 2005)", "full": "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", "url": "http://gallery.minitokyo.net/view/93510"}
-  - {"color": 1, "short": "Revolutionary Girl Utena (Wikipedia, n.d.)", "full": "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479"}
   - {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
   - {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
+  - {"color": 4, "short": "", "full": "TODO Richard Plant's book The Pink Triangle", "url": "", "type": "book"}
+  - {"color": 3, "short": "(Rokakis, 2013)", "full": "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", "url": "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", "type": "student"}
   - {"color": 10, "short": "(Tyler, 2017)", "full": "Tyler, J. (2017). The trail of blood : queer history through vampire literature [Thesis]. In <em>Theses.</em> Item 221. University of Alabama in Huntsville. Retrieved Jan 12, 2024, from", "url": "https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses", "type": "student"}
   - {"color": 8, "short": "(Tringali, 2016)", "full": "Tringali, W.A. (2016, May 12). Not Just Dead, But Gay! Queerness and the Vampire [Thesis]. In <em>BSU Honors Program Theses and Projects</em>. Item 138. Available at: https://vc.bridgew.edu/honors_proj/138. Bridgewater State University. Retrieved Jan 12, 2024, from", "url": "https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1172&context=honors_proj", "type": "student"}
   - {"color": 6, "short": "(Abad-Santos, 2022)", "full": "Abad-Santos, A. (2022, Oct 14). <em>The messy, thrilling queer allegory in Interview with the Vampire</em> [Article]. Vox.com. Retrieved Jan 12, 2024, from", "url": "https://www.vox.com/culture/2022/10/14/23404308/interview-with-the-vampire-gay"}
@@ -41,12 +44,16 @@ _all:
   - {"color": 4, "short": "(Telushkin, 2018)", "full": "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", "url": "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television"}
   - {"color": 5, "short": "(deGroot, 2011)", "full": "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", "url": "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past"}
   - {"color": 6, "short": "(Weiss, 2019)", "full": "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", "url": "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/"}
-  - {"color": 4, "short": "(DaVega, 2016)", "full": "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College.", "url": "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf", "chain": {"_desc_": "which took overviews from...", "wiki_theory": {"full": "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719", "chain": {"_desc_": "which plagiarized from...", "read_film": {"color": 1, "short": "(Monaco, 1977)", "full": "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", "url": "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover"}}}, "wiki_structuralist": {"full": "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"}, "wiki_marxist": {"full": "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"}, "wiki_screen": {"full": "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"}, "wiki_formalist": {"full": "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"}, "encyclopedia_realist": {"full": "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article].", "url": "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"}, "wiki_feminist": {"full": "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"}, "wiki_auteur": {"full": "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"}, "wiki_apparatus": {"full": "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"}, "wiki_linguistic": {"full": "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"}, "wiki_psychoanalytic": {"full": "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"}, "semiotic": {"full": "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book).", "url": "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"}}}
-  - {"color": 2, "short": "Stanford Encyclopedia (Pickett, 2020)", "full": "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", "url": "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/"}
-  - {"color": 5, "short": "Midlands Zone Magazine (Spinks, 2019)", "full": "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17.", "url": "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16"}
-  - {"color": 7, "short": "Academus Education (Jani, 2020)", "full": "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", "url": "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani"}
-  - {"color": 8, "short": "New queer cinema (Wikipedia, 2020)", "full": "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524"}
-  - {"color": 9, "short": "(Plys-Garzotto, 2018)", "full": "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", "url": "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", "archive": "https://web.archive.org/web/20210121203358/"}
+  - {"color": 4, "short": "(Adkins, 2016)", "full": "Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).", "url": "https://www.archives.gov/publications/prologue/2016/summer/lavender.html"}
+  - {"color": 7, "short": "(Johnson, 2004)", "full": "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", "url": "https://archive.org/details/lavenderscarecol00john_0", "type": "book"}
+  - {"color": 5, "short": "", "full": "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", "url": "https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html"}
+  - {"color": 8, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176"}
+  - {"color": 6, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102"}
+  - {"color": 3, "short": "(Wikipedia, 2021)", "full": "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468"}
+  - {"color": 1, "short": "(Keown, 2021)", "full": "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", "url": "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/"}
+  - {"color": 2, "short": "(Hunt, 2019)", "full": "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", "url": "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html"}
+  - {"color": 2, "short": "Wallpaper (eeee, 2005)", "full": "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", "url": "http://gallery.minitokyo.net/view/93510"}
+  - {"color": 1, "short": "Revolutionary Girl Utena (Wikipedia, n.d.)", "full": "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479"}
   - {"color": 2, "short": "(Park, 2014)", "full": "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", "url": "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820"}
   - {"color": 13, "short": "(Kohr, 2020)", "full": "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", "url": "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend"}
   - {"color": 3, "short": "(Shulman, 2013)", "full": "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", "url": "https://www.metroweekly.com/2013/10/queer-as-carrie/"}
@@ -67,19 +74,22 @@ _all:
   - {"color": 3, "short": "(Brands, 2019)", "full": "Brands, R. (2019, Nov 4). <em>Queer Subtext in Stephen King's It -- Part 1: 'Reddie' Character Analysis</em> [Article].", "url": "https://www.thefandomentals.com/queer-subtext-it-part-1/"}
   - {"color": 1, "short": "(Monique, 2019)", "full": "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/"}
   - {"color": 5, "short": "(London, 2019)", "full": "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", "url": "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/"}
-  - {"color": 4, "short": "(Adkins, 2016)", "full": "Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).", "url": "https://www.archives.gov/publications/prologue/2016/summer/lavender.html"}
-  - {"color": 7, "short": "(Johnson, 2004)", "full": "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", "url": "https://archive.org/details/lavenderscarecol00john_0", "type": "book"}
-  - {"color": 5, "short": "", "full": "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", "url": "https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html"}
-  - {"color": 8, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176"}
-  - {"color": 6, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102"}
-  - {"color": 3, "short": "(Wikipedia, 2021)", "full": "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468"}
-  - {"color": 1, "short": "(Keown, 2021)", "full": "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", "url": "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/"}
-  - {"color": 2, "short": "(Hunt, 2019)", "full": "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", "url": "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html"}
   - {"color": 5, "short": "(Borello, 2014)", "full": "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", "url": "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", "type": "student"}
+  - {"color": 6, "short": "(Oliveros, 2022)", "full": "Oliveros, K. (2022, Jul 18). <em>Bob Iger Reportedly Regrets Picking Bob Chapek as Disney’s CEO</em> [Blog post]. The Disney Food Blog. Retrieved Jan 24, 2024, from", "url": "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
+  - {"color": 8, "short": "(Tremaine, 2022)", "full": "Tremaine, J. (2022, Mar 18). <em>Can Bob Chapek recover from his latest PR crisis? The complicated legacy of Disney's most contentious CEO.</em> [News article]. SFGate.com. Retrieved Jan 24, 2024, from", "url": "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php/"}
+  - {"color": 9, "short": "(Fandom, 2022)", "full": "Fandom. (n.d.) <em>65th Episode Rule</em> [Article]. The Disney Wiki on Fandom.com.", "url": "https://disney.fandom.com/wiki/65th_Episode_Rule?oldid=4933016/"}
+  - {"color": 10, "short": "(Radulovic, 2022)", "full": "Radulovic, P. (2022, May 3). <em>The Owl House is proving itself to be too good for Disney</em> [Article]. Polygon. Retrieved Jan 24, 2024, from", "url": "https://www.polygon.com/23055769/the-owl-house-reveal-season-2"}
   - {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production", "chain": {"_desc_": "which condensed from...", "_": {"full": "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com.", "url": "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest", "chain": {"_desc_": "which got it from...", "_": {"full": "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com.", "url": "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/", "chain": {"_desc_": "which got it from...", "_": {"full": "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter", "url": "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"}}}}}}}
   - {"color": 1, "short": "(Be Kind Rewind, 2021)", "full": "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=jb-C4fcn2E0"}
-  - {"color": 4, "short": "", "full": "TODO Richard Plant's book The Pink Triangle", "url": "", "type": "book"}
-  - {"color": 3, "short": "(Rokakis, 2013)", "full": "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", "url": "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", "type": "student"}
+  - {"color": 4, "short": "(DaVega, 2016)", "full": "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College.", "url": "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf", "chain": {"_desc_": "which took overviews from...", "wiki_theory": {"full": "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719", "chain": {"_desc_": "which plagiarized from...", "read_film": {"color": 1, "short": "(Monaco, 1977)", "full": "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", "url": "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover"}}}, "wiki_structuralist": {"full": "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"}, "wiki_marxist": {"full": "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"}, "wiki_screen": {"full": "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"}, "wiki_formalist": {"full": "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"}, "encyclopedia_realist": {"full": "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article].", "url": "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"}, "wiki_feminist": {"full": "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"}, "wiki_auteur": {"full": "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"}, "wiki_apparatus": {"full": "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"}, "wiki_linguistic": {"full": "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"}, "wiki_psychoanalytic": {"full": "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"}, "semiotic": {"full": "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book).", "url": "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"}}}
+  - {"color": 2, "short": "Stanford Encyclopedia (Pickett, 2020)", "full": "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", "url": "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/"}
+  - {"color": 5, "short": "Midlands Zone Magazine (Spinks, 2019)", "full": "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17.", "url": "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16"}
+  - {"color": 7, "short": "Academus Education (Jani, 2020)", "full": "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", "url": "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani"}
+  - {"color": 8, "short": "New queer cinema (Wikipedia, 2020)", "full": "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524"}
+  - {"color": 9, "short": "(Plys-Garzotto, 2018)", "full": "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", "url": "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", "archive": "https://web.archive.org/web/20210121203358/"}
+  - {"color": 12, "short": "Mako x Wu (MoonFlower, 2020)", "full": "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", "url": "https://www.youtube.com/watch?v=1c-Km4I4bqA"}
+  - {"color": 13, "short": "", "full": "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=CvLQJReDhic"}
+  - {"color": 1, "short": "Artwork (ewasarts, 2017)", "full": "ewasarts (Artist). (2017, Jul 22). <em>Stormpilot</em> [Artwork]. Retrieved Jan 29, 2024, from", "url": "https://www.deviantart.com/ewasarts/art/Stormpilot-694082207"}
   - {"color": 2, "short": "Don't Say Gay explainer (Indian Express, 2022)", "full": "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", "url": "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/"}
   - {"color": 3, "short": "Disney on FL Law (Masters, 2022)", "full": "Masters, K. (2022, Mar 2). <em>Why Disney Won’t Say Much About Florida’s “Don’t Say Gay” Bill</em> [News article]. The Hollywood Reporter. Retrieved December 17, 2023, from", "url": "https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/"}
   - {"color": 4, "short": "Trans in TX (Torchinsky, 2022)", "full": "Torchinsky, R. (2022, Feb 25). <em>In Texas, an unrelenting assault on trans rights is taking a mental toll</em> [News article]. NPR. Retrieved December 17, 2023, from", "url": "https://www.npr.org/2022/02/25/1082975946/anti-trans-bills-texas"}
@@ -117,28 +127,28 @@ _all:
   - {"color": 2, "short": "Flirting boys (Zhou, 2021)", "full": "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", "url": "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq"}
   - {"color": 5, "short": "China bans men (McDonald, 2021)", "full": "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", "url": "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f"}
 
--Uoqmxlcusg:
-  vol: { p: 11.6, m: 0.0, y: 0.0, w: 4.7, v: 0 }
 -Zcf3uNGbq4:
   vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
 4zPCM14-SCQ:
   plagiarized: {}
   misinformation: {}
   yikes: {}
-CODEBREAKER:
-  vol: { p: 44.7, m: 5.3, y: 0.0, w: 33.8, v: 0 }
-DeepCuts000:
-  vol: { p: 74.2, m: 5.6, y: 0.0, w: 54.8, v: 0 }
 F5ab1X2CFq8:
   vol: { p: 0.0, m: 4.3, y: 0.0, w: 0.0, v: 0 }
 J-aYcSQ0DWQ:
   vol: { p: 10.3, m: 0.0, y: 0.0, w: 6.0, v: 0 }
 KarOvBQCyKE:
   vol: { p: 0.0, m: 1.9, y: 0.0, w: 0.0, v: 0 }
+kvMq2FejBT8:
+  vol: { p: 11.6, m: 0.0, y: 0.0, w: 4.7, v: 0 }
+M8Z1NjpdH1M:
+  vol: { p: 74.2, m: 5.6, y: 0.0, w: 54.8, v: 0 }
+n41RAyav_d8:
+  vol: { p: 20.3, m: 4.3, y: 0.0, w: 10.6, v: 0 }
 nCi19sYugIA:
   vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
 p5KpIROXhZw:
-  vol: { p: 0.0, m: 4.8, y: 0.0, w: 0.0, v: 0 }
+  vol: { p: 0.0, m: 6.3, y: 0.0, w: 0.0, v: 0 }
 pW_RjbZYi1s:
   plagiarized:
     sophie_cleghorn: {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
@@ -159,10 +169,14 @@ pW_RjbZYi1s:
   yikes:
     SdtbQhAKFSI$lt-skip: "James, basically reading beat for beat from Russo's book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into."
   vol: { p: 52.6, m: 1.5, y: 0.0, w: 38.4, v: 0 }
+P_mLM6fUhHQ:
+  vol: { p: 47.4, m: 5.3, y: 0.0, w: 34.0, v: 4 }
 qa3A_ery3Hg:
   vol: { p: 46.8, m: 0.0, y: 0.0, w: 14.7, v: 0 }
 QuiEKdTmj2M:
   vol: { p: 16.7, m: 0.0, y: 0.0, w: 5.8, v: 0 }
+QxRveV0x2-o:
+  vol: { p: 16.7, m: 0.0, y: 0.0, w: 4.2, v: 0 }
 SdtbQhAKFSI:
   vol: { p: 89.1, m: 2.2, y: 0.0, w: 68.4, v: 0 }
 Tk9wh5rBmW0:
@@ -174,6 +188,8 @@ Tk9wh5rBmW0:
     nCi19sYugIA$misattributed: "James misattributes a quote from a news article as being from a book."
   yikes: {}
   vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
+UiDcQnavKPI:
+  vol: { p: 17.1, m: 0.0, y: 0.0, w: 1.7, v: 0 }
 Unrequited1:
   vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
 UtRyi-e_HTc:
