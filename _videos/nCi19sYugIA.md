@@ -719,6 +719,20 @@ James seems to invent this quote out of whole cloth? Or at least out of pieces o
 
 <footer>Longworth, K. (2018, Sep 16). <em>The Illusion of Perfection</em> [Article]. Slate. Retrieved Jan 1, 2024, from <a href="https://slate.com/culture/2016/09/the-illusion-of-perfection.html">https://slate.com/culture/2016/09/the-illusion-of-perfection.html</a></footer>
 </comment>
+</compare>
+
+<compare>
+<visual {% include citation for=page.cite.plagiarized.bkr_video at="(:)" %}>
+
+As [called out by BKR themselves](https://twitter.com/bkrewind/status/1731341792254075259), James takes footage from their video.
+
+<div style="display: grid; grid-template: auto / 1fr 1fr; gap: 5px;">
+<img src="../media/GAb2LJxWAAAc7aF.jpeg" />
+<img src="../media/GAb2LJ2WwAAXiIk.jpeg" />
+</div>
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 A serious actress like Faye Dunaway did not cotton to that idea. She blamed the director for not reeling her back. She blamed the editors and the producers for taking her depiction of a window into a tormented soul and making it camp. She blamed Christina and her husband. She blamed Christina's book. And worst of all, she blamed her audience for not taking away her intended interpretation. 

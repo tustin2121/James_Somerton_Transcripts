@@ -40,6 +40,6 @@
 		min-height: unset;
 	}
 	.video-list > .video-list > .video-card {
-		filter: saturate(2);
+		background-color: #001c4a;
 	}
 }
