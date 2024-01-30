@@ -54,4 +54,11 @@
 			{%- endif -%}
 		</div>
 	</div>
+	{%- assign thumb = "/media/thumbs/" | append: vid | append: ".jpg" -%}
+	{%- assign file = site.static_files | where: "path", thumb |  first -%}
+	{%- if file -%}
+		<img class="thumbnail" src="{{ thumb | relative_url }}" />
+	{%- else -%}
+		<img class="thumbnail" src="{{ "/media/thumbs/missing.jpg" | relative_url }}" />
+	{%- endif -%}
 </div>

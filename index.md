@@ -57,6 +57,7 @@ Video archives:
       </div>
     </div>
     <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
   </div>
 </div>
 
