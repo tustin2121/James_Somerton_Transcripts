@@ -32,9 +32,11 @@ cite:
     wiki_china: { color: 1, short: "China (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644" }
     wiki_addicted: { color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215" }
     wiki_untamed: { color: 4, short: "Untamed (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551" }
+    manga_planet: { color: 6, short: "What is BL (Binimbol, 2020)", full: "Binimbol, H. (2020, Apr 3). <em>What Is Boys' Love (BL)?</em> [Article]. Manga Planet. Retrieved Jan 12, 2024, from", url: "https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/" }
     vice_article: { color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq" }
     ap_article: { color: 5, short: "China bans men (McDonald, 2021)", full: "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", url: "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f" }
 ---
+{% assign penguinstorage = site.data.cite.penguinstorage %}
 
 <compare>
 <credits class="desc">
@@ -118,7 +120,7 @@ But first, let’s have a look at China’s odd, winding journey into the film i
 <compare>
 <credits class="opening">
 
-\[Titles play over sepiatone footage of presumably what's supposed to be China and playing forboding music]
+\[Titles play over sepiatone footage of presumably what's supposed to be China and playing foreboding music]
 
 > James Somerton  
 presents
@@ -130,7 +132,7 @@ and Nick Herrgott
 > Based on the  
 reporting of  
 Viola Zhou  
-& Koh Wew
+& Koh Wew<sup class="add">[sic: Ewe]</sup>
 
 > Executive producers  
 [Six patron names]
@@ -151,6 +153,12 @@ CHINA PROBLEM
 CHINA PROBLEM
 
 </credits>
+<comment>
+{% include header for=penguinstorage %}
+
+The "based on the reporting of" credit is an oblique reference to the most heavily plagiarized source in this video (see the source list at the top of the page), though James spelled one of the authors' names wrong.
+
+</comment>
 </compare>
 {% assign timecode = "3:04" %}
 
@@ -414,19 +422,66 @@ Well! Have I got news for you, dear viewer. Have you ever heard of BL? It’s th
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 So what is BL? Well, I’ll differ to an expert. According to Manga Planet: 
 
 \[Text scrolling on screen]:
-> “Originating in Japan, Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi” by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women. 
+> <mark>“<span stat:id="changed-quote">Originating in Japan,</span></mark> <mark></mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi" <mark></mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.
 >
-> Boys’ Love began as fan works by women fans. Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations. Since then, Japan has produced yaoi media through various platforms.” 
-
-The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga. And one of the largest markets for it... was China. 
+> <mark></mark>Boys’ Love began as fan works by <span stat:id="changed-quote">women</span> <mark></mark>fans. <mark></mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations. <mark></mark>Since then, Japan has produced yaoi media through various platforms.”
 
 </james>
-<from></from>
+<comment>
+<header></header>
+{% include header for=penguinstorage %}
+
+This tiny fragment seems to be from a different article:
+
+> <mark>Originating in Japan,</mark> "boys love" (BL) manga and fiction that focus on romantic or homoerotic male-male relation ships are considered by most of their writers, readers, and scholars to be primarily by women and for women and are purposely differentiated from gay fiction and manga by both commentators and practitioners.
+
+<footer>Tian, X. (2020, Mar 1). <em>Homosexualizing “Boys Love” in China: Reflexivity, Genre Transformation, and Cultural Interaction</em> [Journal Article]. Prism (Volume 17, Issue 1). <a href="https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf">https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf</a></footer>
+
+</comment>
+<from mark=cont>
+<header></header>
+  
+<mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi”</mark> (やおい) <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark> The majority of BL readers are female and referred to as “fujoshi” (腐女子) or “rotten girl.” On the other hand, BL literature also attracts male readers called “fudanshi” (腐男子) or “rotten boy.”
+
+<footer>Binimbol, H. (2020, Apr 3). <em>What is Boys' Love (BL)?</em> [Article]. Manga Planet. (¶ 1) <a href="https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/">https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/</a></footer>
+
+</from>
+<from mark=cont>
+<header></header>
+<h3>A Brief History</h3>
+  
+<mark>Boys’ Love began as fan works by</mark> female <mark>fans.</mark> The female mangaka group Hana no Nijūyo-nen Gumi (花の24年組) was one of the contributing factors for the creation of homoerotic fan fictions. Early fan works showcase platonic relationships between male characters in the form of parodies. One of the members of Hana no Nijūyo-nen Gumi was Keiko Takemiya, the author of the first shonen-ai manga Kaze to Ki no Uta (風と木の詩). It took 9 years before her manga was approved for publishing due to its explicit themes involving rape, drug abuse, homophobia, and violence. The other known origins of boys’ love possibly came from the magazine June in 1978. June was one of the first magazines publishing male-on-male tanbi literature.
+
+<mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> Some of the adapted manga series were Patalliro!, Kaze to Ki no Uta and Earthian. <mark>Since then, Japan has produced yaoi media through various platforms.</mark>
+
+<footer>Binimbol, H. (2020, Apr 3). <em>What is Boys' Love (BL)?</em> [Article]. Manga Planet. (¶ 8-9) <a href="https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/">https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/</a></footer>
+
+</from>
+</compare>
+
+<compare>
+<james span=2 {% include timecode %}>
+  
+<mark>The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga.</mark> And one of the largest markets for it... was China. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.manga_planet at="¶ 10" %}>
+<h3>Modern Usage</h3>
+
+<mark>The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga.</mark> Fans also wrote their fan fiction in forums, online journals or self-publishing websites. They are now able to discover new materials and share them with everyone at the same time. Fans and readers are able to enjoy beautifully-rendered artworks and themes while learning more about themselves.
+
+</from>
+<comment>
+{% include header for=penguinstorage %}
+
+James ends his onscreen quote above, but he sneakily keeps reading the article anyway.
+
+</comment>
 </compare>
 
 <compare>
