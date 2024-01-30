@@ -7,6 +7,9 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=cLWZV-SHmeY"
+  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=4Nx1aD9Khg0" # Part 1... The First 100 Years
+  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=UAv5yxnCGyc" # Part 2... Stage and Small Screen
+  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=_TRnogtBPoI" # Part 3... The Movies
 # description: "a video essay on...?"
 notes:
   - visual

@@ -3,6 +3,11 @@
 # cspell:words: erectus witchaphobia magick othered colour BDSM interdimensional cheerleads cheerleading intercutting Xenomorph Xenomorphs behaviours facehugger facehuggers retcon Arcturian poontang Arcturia decontextualization Weyland-Yutani destigmatizing Truvada condomless Ghostface pathologize Babadook Pennywise
 # cspell:words: Maika Lili Sepe Yara Luccardi Keir Zovatto multiplicitous nightmarishly homonormative Oskar Tozier Kasprak Musgetty Neibolt Georgie Hagerty minoritarian nonnormative Kosofsky Sedgwick
 # cspell:words: subjectivities precarity
+redirect_from:
+  - "/videos/DeepCuts000"
+  - "/videos/deepcuts000"
+  - "/videos/DeepCuts"
+
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
 status: Complete

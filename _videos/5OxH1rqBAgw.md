@@ -1,8 +1,15 @@
 ---
+redirect_from: 
+  - "/video/PnkTriangle"
+  - "/video/pnktriangle"
+  - "/video/PinkTriangles"
+  # - "/video/FeAAqBRL-fc" # Part 1: The Coming Storm
+
 date: 2021-01-11
 title: "Pink Triangles: The History of the Gay Holocaust"
 status: Missing
 aka: !!seq
+  - "The Story of the Gay Holocaust (Complete Documentary)"
   - "The Story of the Gay Holocaust (Thumbnail)"
 topics: !!seq
 links: !!seq

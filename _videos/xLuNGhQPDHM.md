@@ -5,6 +5,7 @@ status: Finished
 aka: !!seq
   - "Confession of a Harry Potter Fan Boy (Thumbnail)"
   - An Overemotional Look at Why JK Rowling is Bad
+  - "The Rowling Question"
 topics: !!seq
   - "Harry Potter"
 links: !!seq

@@ -2,6 +2,11 @@
 # cSpell:words: Yorgos Lanthimos Zalta Spinks Jani Academus Plys-Garzotto Kuleshov Sergey Rosen Maran Mulvey Doane Slavoj Žižek Lacanian Tsivian André Bazin Selnick Feige Cahiers cinéma Brokeback
 # cSpell:words: Germaine Dulac, Louis Delluc, Jean Epstein, Sergei Eisenstein, Lev Kuleshov, Dziga Vertov, Paul Rotha and film theorists like Rudolf Arnheim, Béla Balázs and Siegfried Kracauer Hattori Hanzō Korra Bolin Veric Edda Eddas Boiotia Halperin Laeurtius Greenberg Erotikos
 # cSpell:words: favourite analysed appetising indexical spectatorship Thanos gaybaiting scène noncontinuity stylised straightwashing civilisation characterised rulebook Codebreakers LGBTQ honourable expositionally pansexuality
+redirect_from: 
+  - "/videos/codebreaker"
+  - "/videos/CODEBREAKER"
+  - "/videos/CODEBREAKERS"
+
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
 status: Complete
@@ -95,15 +100,46 @@ cite:
     ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
     mako_visual: { color: 12, short: "Mako x Wu (MoonFlower, 2020)", full: "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", url: "https://www.youtube.com/watch?v=1c-Km4I4bqA" }
     visual_composition: { color: 13, short: "", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
+    thumbnail: { color: 1, short: "Artwork (ewasarts, 2017)", full: "ewasarts (Artist). (2017, Jul 22). <em>Stormpilot</em> [Artwork]. Retrieved Jan 29, 2024, from", url: "https://www.deviantart.com/ewasarts/art/Stormpilot-694082207" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
+<credits header="Video Thumbnail:">
+
+![Alt text](../media/thumbs/P_mLM6fUhHQ.jpg)
+
+</credits>
+<from {% include citation for=page.cite.plagiarized.thumbnail %}>
+
+![Alt text](../media/stormpilot_by_ewasarts_dbh8l9b-414w-2x.jpg)
+
+This thumbnail is [uncredited, stolen artwork](https://www.deviantart.com/ewasarts/art/Stormpilot-694082207) of Poe and Finn by ewasarts.
+
+</from>
+</compare>
+<compare>
 <credits class="desc">
 
-\[Lost]
+A look into what Film Theory is... what Queer Theory is... and why it does matter, actually.
+
+Patreon: [link]
+
+Twitter: @je_somerton  
+@ntherrgott
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+00:00 Introduction  
+01:00 What is Film Theory?  
+07:50 What is Queer Theory?  
+14:23 Yes. We are looking for it.  
+23:48 Erasure  
+28:09 Achilles was a bottom  
+32:03 The Big Gay Lie  
+38:35 Queering History  
 
 </credits>
 <comment>

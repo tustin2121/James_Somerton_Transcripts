@@ -29,6 +29,7 @@ cite:
     nfts: "James claims that Bob Iger hated Chapek in part because of Chapek pushing NFTs, when Iger was fond of NFTs himself."
     marvel: "James claims Iger was consulting with Werner Brothers?"
     gay_marriage: "James claims Bob Iger donated to Obama to get him to support gay marriage when there's no proof of any such thing."
+    disney_funeral: "James outright claims that Disney has a whole industry for princess themed funerals, when in fact Disney has basically the exact opposite."
   plagiarized: !!map
     disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
     kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", full: "Oliveros, K. (2022, Jul 18). <em>Bob Iger Reportedly Regrets Picking Bob Chapek as Disney’s CEO</em> [Blog post]. The Disney Food Blog. Retrieved Jan 24, 2024, from", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
@@ -610,7 +611,7 @@ There's little you can do or say to convince me that there was a rational reason
 There's also nothing saying that the executives wouldn't be aware that Disney Plus was in late stage development and realized that adult audience cartoons tend to do well on streaming services. There's simply no reason why you don't want an incredibly toyetic show directed at an adult audience who have an abundance of expendable income. <mark fc=false>There is, after all, a subindustry at Disney geared at marketing their princesses for themed weddings and... funerals. Yes, funerals.</mark> Times like this make it seem like the executive thought process at Disney is powered by a single gerbil on a wheel.
 
 </james>
-<comment>
+<comment id="disney_funeral">
 {% include header video=todd at="3949s" %}
 
 No, not funerals-- [exasperated sigh]. All right, this could only be considered "true" in the sense that Disney marketing permeates everything, so there are people who would *absolutely* get Disney themed funerals if Disney was willing to sell it to them.

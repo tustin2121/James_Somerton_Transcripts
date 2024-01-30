@@ -2,6 +2,9 @@
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
+redirect_from:
+  - "/videos/5RPsRpk8aKA" # Original upload video id
+
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'
 status: Finished
@@ -18,6 +21,7 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
   # - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230101+VoHYZUj43K4+The+Important+Non-Meaning+of+Attack+on+Titan.webm"  # This is the reupload version
+  # - "https://web.archive.org/web/20220904180035/https://www.youtube.com/watch?v=5RPsRpk8aKA" # Original video?
 description: "a video essay on media literacy, messaging, allegory, applicability, fascist imagery, not dealing in absolutes, and something something 'don't let the hate flow through you'."
 notes: 
   - hbomb

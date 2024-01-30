@@ -6,6 +6,8 @@ aka: !!seq
   - "For The Love of Gay Nuance"
   - "Inexplicit Gay Love (Thumbnail)"
   - "On Thin Ice - How Gay is Gay Enough?"
+  - "When is Gay Nuance Enough? (Thumbnail)"
+  - "YES (Thumbnail)"
 topics: !!seq
   - "Yuri on Ice"
 links: !!seq
