@@ -32,7 +32,8 @@ cite:
   plagiarized: !!map
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
-{% assign ace_couple = site.data.cite.ace_couple.ep116 %}
+{% assign ace_116 = site.data.cite.ace_couple.ep116 %}
+{% assign ace_062 = site.data.cite.ace_couple.ep062 %}
 
 <compare>
 <credits class="desc">
@@ -43,7 +44,7 @@ Something new to the channel! Maybe something we'll keep doing? Let us know what
 
 </credits>
 <comment id="moderation">
-{% include header video=ace_couple at="1h23m33s" %}
+{% include header video=ace_116 at="1h23m33s" %}
 
 > **Courtney:** But he *did* add a pinned post under that video that said something along the lines of, “Just remember, this is *one Ace’s experience*. We’re not talking for all of the Aces that exist out there.” But he said, “My comments section is gonna be a safe place for Aces to share their experience. I will be moderating.” [...] He added that after this, you know, this livestream, this blowing up on Twitter about all this...
 >
@@ -80,7 +81,7 @@ Uh this first episode we're going to be talking about the... kind of queer Erasu
 
 </james>
 <comment span=4>
-{% include header video=ace_couple at="26m42s" %}
+{% include header video=ace_116 at="26m42s" %}
 
 > **Courtney:** But immediately off the bat watching this episode, we were like, “Oh no. We gave this guy money to do Ace rep. What have we done?” It was bad, y’all.
 
@@ -165,7 +166,7 @@ Correct me if I'm wrong. But like... when you are asexual you do see a myriad of
 
 </nick>
 <comment span=4 id="uk-study">
-{% include header video=ace_couple at="30m40s" %}
+{% include header video=ace_116 at="30m40s" %}
 
 In this part of the podcast, they begin reading to the record [the twitter thread they wrote](https://twitter.com/The_Ace_Couple/status/1593065297061498880) ([nitter mirror](https://nitter.net/The_Ace_Couple/status/1593065297061498880)):
 
@@ -484,8 +485,12 @@ and some people can be *very* horny with no romantic attraction.
 Talk to any asexual person and they will tell you that they are incredibly kinky and horny. Since- wait no.
 
 </nick>
-</compare>
-<compare>
+<comment span=2>
+{% include header for=tustin %}
+
+If you want a more in-depth look at how kink and asexuality go together, I recommend [The Ace Couple's Podcast, episode 62](https://theacecouple.com/episode062/). This video even makes a cameo in the episode!
+
+</comment>
 <james {% include timecode %}>
 
 Not *any* asexual person! [laughter] I mean there's plenty of asexual people who have no interest in any sex.
@@ -567,8 +572,14 @@ I can imagine.
 Yeah. Because for me online on Grindr, the things that I will say to people, first of all hopefully will never get leaked into the world, uh... second of all, I... before I meet a guy and this was a historic thing I had to kind of give a disclaimer, like, "hey, heads up I know we've been talking about certain things but I need to tell you that the more you get to know me in person, I'm not as horny as I seem to be." And that's just because I have a very active imagination and I really--
 
 </nick>
-</compare>
-<compare>
+<comment>
+{% include header video=ace_062 at="1h15m31s" %}
+
+> **Courtney:** But the co-host of that podcast, Nick, is Ace, and they did specify at one point, like, “I am Asexual, and here’s my experience in it,” but that wasn’t stated for like, I don’t know, 10 minutes into the video or something, so for–
+>
+> **Evie:** Yeah! It took while where I was like, “Wait I think he’s talking about ‘we,’ not just like ‘these people over here.’” [...]  I think, you know, something to be said for, like, making sure you state up front, like, “Hey, this thing we’re –” and maybe it just seems obvious when you’re in the moment, you’re talking to a friend, and it’s like, “Yeah, I know that he’s Ace,” and, like, you don’t think to even really make it a prominent thing before you start talking about it. 
+
+</comment>
 <james {% include timecode %}>
 
 Yeah, you're a writer.
@@ -762,7 +773,7 @@ But the- the- the other side of that, is this kind of-- And that you have that, 
 
 </nick>
 <comment span=6 id="autistic">
-{% include header video=ace_couple at="36m08s" %}
+{% include header video=ace_116 at="36m08s" %}
 
 Twitter thread continues from above:
 > We're *now* at the discussion of representation and Aces always being portrayed as Autistic. There is a legitimate point to be made that there in the instances where asexuality is simply a lazy shorthand for the character being "weird" and "less-human", but many Aces ARE autistic
@@ -1010,8 +1021,8 @@ And like that's-- I don't think most sides within the gay community would say th
 <compare>
 <nick>
 
-Probably not, no. There are plenty of reasons to not enjoy butt sex aside from just, "I don't like having sexual contact." Um, so
-like-- and the thing about- 
+Probably not, no. There are plenty of reasons to not enjoy butt sex aside from just, "I don't like having sexual contact." Um, so like-- and the thing about- 
+
 </nick>
 </compare>
 <compare>
@@ -1279,7 +1290,7 @@ As you would do.
 <compare>
 <nick>
 
-[laughs] A legacy format where all the queer-ass furries and uh, communists are. Uh, and aegosexual actually means sexuality without the sex. A-*ego*-sexuality. Um, so I like to participate in sex, as a living sort of subject. I examine myself as a fantasy person. So that's== that's the context that I like having sex, and that's why I like, don't like doing it that often, because the actual sensation of having it is less than the imagined sensation of what it appears or how it appears to be. Um... 
+[laughs] A legacy format where all the queer-ass furries and uh, communists are. Uh, and aegosexual actually means sexuality without the sex. A-*ego*-sexuality. Um, so I like to participate in sex, as a living sort of subject. I examine myself as a fantasy person. So that's-- that's the context that I like having sex, and that's why I like, don't like doing it that often, because the actual sensation of having it is less than the imagined sensation of what it appears or how it appears to be. Um... 
 
 </nick>
 </compare>
@@ -1325,41 +1336,54 @@ Yeah, when I say that asexual people can be some of the horniest and kinkiest pe
 
 But um, so yeah like there are-- these are things that are the subject of research and the subject of academic fascination, even if there isn't really a lot of academic interest in these things. Some people are and we're gonna see start seeing a little bit more of this, but there is a bit of a distinction between these-- between, you know, these sort of more psychological elements of asexual and the more self-identifying ones which, you know, there are a *legion* of flags, um because you know, the asexual community has been kind of... ignored, like we said, by the queer community at large, so I feel like there is a... overtendency to self-identify, and to sort of construct a... version of asexuality around specific, you know, circumstances. 
 
+</nick>
+<nick>
+
 And I feel like the pure- the gatekeeping, the purest gatekeeping of asexual aromanticism has led to that. Like, you can't be asexual because you enjoy sex in these circumstances, and it's like, but... yeah, I'm still, you know, I'm still weird about it. Um, and so like it's-- I feel like this is a situation where self-identified-- having the openness to just identify, self-identify as asexual, meaning like, I don't fit the sexual norm of either the cishet hegemony *or* the queer community so I need to belong here, because I don't belong anywhere-- anywhere else. 
 
 Um, and I really hope we can start moving towards that, because I hate seeing so much fragmentation within-- within sub communities. Because it-- it does cut-- I feel like there is an extent, like yeah, it's important to recognize the distinction between gays and lesbians and bisexual people and how, uh, and especially trans people in the LGB*T*, and how the cishet hegemony *uniquely* persecutes against each of these camps of people, and different cocktails of privilege that they might enjoy--
 
 </nick>
-</compare>
-<compare>
+<comment span=6>
+{% include header video=ace_062 at="1h15m47s" %}
+
+> **Evie:** [...] But I think even members of our community, especially if you are more used to, like, being in Gay men’s spaces, you’re seeing that perspective maybe more than the Ace perspective, and you might not fully realize, like, what the extent of reality is, because it’s so erased and not talked about, that, like, yeah, if you don’t ever see the houses on fire, you don’t ever realize that there’s houses on fire. And you know, you got to have somebody point it out to you for you to realize, “Hey, actually, there’s a lot of houses on fire.” It’s not that homes never catch on fire.
+>
+> **Royce:** And there is something to be said for the difference in personal experience. Men are often less likely to need to tell their doctor that they’re Asexual in the first place. You don’t have to deal with the potential of getting pregnancy tests or things like that.
+> 
+> **Courtney:** Yeah, I have faced quite a lot of medical issues. And I do know, too – and I think most Aces who were at least on social media around the time that… oh, I can’t think of the exact drug name, but it was being peddled as like “female Viagra” at one point. 
+> 
+> **Evie:** Yeah. I left that in my comment [on James's Ace video] and was like, “Oh, remember this?”
+>
+> **Courtney:** Oh gosh! I joined some Asexual Facebook groups when I joined Facebook, and I was like, *immediately* after I clicked away from that group, within *minutes* of joining it, it was like, “Here is libido medication for women!” just targeted ad at me every single day, and it’s like, [sighs].
+>
+> **Courtney:** And so yeah, it’s kind of also, you know, what is conversion therapy? And I do think that even Gay men who have not experienced conversion therapy firsthand themselves, sometimes – and I’m not saying that this is specifically James or Nick I’m just talking broadly speaking – a lot of people don’t tend to really even know what conversion therapy looks like or what the full scope of it can be. Because I think – well, *especially*, *especially* straight people just think of it as, like, the Christian camps you get sent to.
+>
+> **Evie:** Yup.
+> 
+> **Courtney:** Which is very much an issue. Do not get me wrong. But there is also medical conversion therapy. And there are things like corrective sexual assault that do get statistically lumped in with types of conversion therapy as well. So there are a lot of different forms conversion therapy can take. And depending on what the orientation is and what form it’s taking, it might not get as much widespread discussion as some of the other ones. [...] I mean, James’s following is huge. We just… we get so many people saying, like, “Well, Aces don’t face conversion therapy, so they’re not oppressed.” And it’s like, *gahhhhh*, I don’t want anything to reinforce that, because [we have seen the studies.](https://www.gov.uk/government/publications/national-lgbt-survey-summary-repor)
+
+</comment>
 <james {% include timecode %}>
 
 That gay men will, in particular, kind of push back against all the other letters in the alphabet.
 
 </james>
-</compare> 
-<compare>
 <nick>
 
 That's- that's- honey, that's a whole other discussion, I'm talking about how the persecution of a gay man is different than a gay woman.
 
 </nick>
-</compare>
-<compare>
 <james {% include timecode %}>
 
 Is different from a bisexual man, is different from a bisexual woman...
 
 </james>
-</compare> 
-<compare>
 <nick>
 
 And especially it gets different when you factor in people of color, and how these respective communities approach queerness.
 
 </nick>
-</compare>
-<compare>
 <james {% include timecode %}>
 
 Very different. 
