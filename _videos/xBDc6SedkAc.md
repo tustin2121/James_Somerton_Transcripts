@@ -586,7 +586,7 @@ Now there's nothing wrong with depicting gay people not having sex. If we want o
 <compare>
 <james {% include timecode %}>
 
-Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
+<mark yikes>Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli.</mark> There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
 it's great! It's good. It's fine.
 
 [^broccoli]: Fact checked, true: https://www.bbc.com/news/health-50387126

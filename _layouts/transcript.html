@@ -53,6 +53,7 @@
 				{%- endif %}
 				{% endcomment %}
 				
+				{%- unless site.data.options.hide_video_links -%}
 				{% if page.links.size > 0 -%}
 					<p>You can view the archive of this video 
 					{% for link in page.links -%}
@@ -64,6 +65,7 @@
 				{%- else -%}
 					<p>No known public archives of this video exist at this time.</p>
 				{%- endif %}
+				{%- endunless -%}
 				
 				{% if page.contributors %} 
 					<p>

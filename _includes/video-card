@@ -29,12 +29,14 @@
 		{%- else -%}
 			<div class="status">{{ include.video.status }}</div>
 	{%- endcase -%}
+	{%- unless site.data.options.hide_video_links -%}
 	<div class="vidlinks">
 		{%- for link in include.video.links -%}
 			{% include archive-link link=link short=true %}
 			{%- unless forloop.last %} | {% endunless -%}
 		{%- endfor -%}
 	</div>
+	{%- endunless -%}
 	<div class="score">
 		{%- if include.video.cite.plagiarized and include.video.cite.plagiarized.size > 0 -%}
 			<div class="plagiarized">{{ include.video.cite.plagiarized.size }}</div>
@@ -51,6 +53,7 @@
 			{%- if bar -%}
 				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
 				<span class="misinfo" style="width:{{ bar.m }}%"></span>
+				<span class="yikes" style="width:{{ bar.y }}%"></span>
 			{%- endif -%}
 		</div>
 	</div>

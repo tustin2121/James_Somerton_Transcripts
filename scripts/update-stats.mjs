@@ -134,7 +134,7 @@ function determineVolume(obj, window, document) {
 		let pVid = 0; //plagiarized video
 		let pExact = 0; //plagiarized exact text
 		{
-			let marks = Array.from(n.querySelectorAll("mark:not([fc]):not([meta])"));
+			let marks = Array.from(n.querySelectorAll("mark:not([fc]):not([meta]):not([yikes])"));
 			p = marks.map(m => m.textContent.split(" ")).flat().length;
 			pExact = p - marks.filter(m => m.hasAttribute("x")).map(m => m.textContent.split(" ")).flat().length;
 			
@@ -157,7 +157,8 @@ function determineVolume(obj, window, document) {
 			marks = marks.filter(m => m.getAttribute("fc") === "false");
 			m = marks.map(m => m.textContent.split(" ")).flat().length;;
 		}{
-			y = 0; // Not yet implemented
+			let marks = Array.from(n.querySelectorAll("mark[yikes]"));
+			y = marks.map(m => m.textContent.split(" ")).flat().length;;
 		}
 		return { p, m, y, pVid, pExact, total };
 	});

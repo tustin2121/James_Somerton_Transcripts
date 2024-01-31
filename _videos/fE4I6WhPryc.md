@@ -941,13 +941,12 @@ But if you look at the queer community of today and the queer community of the p
 
 <compare>
 <james span=2 {% include timecode %} id="died_from_aids">
-  
 
-It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service. 
+It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service.
 
-When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.
+<mark yikes>When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.</mark>
 
-As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, "the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
+As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, <mark yikes>"the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up.</mark> And the audience died with them.
 
 \[Quote on screen, read out]:
 > "<span stat:id="changed-quote">Now, we don't have any kind of discerning audience.</span> When that audience died &mdash; and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth tier to rise up to the front.
@@ -989,17 +988,17 @@ Furthermore, she was talking about the loss of a sophisticated theater audience!
 <compare>
 <james span=3 {% include timecode %}>
 
-So many of the gays left alive once the Clinton Administration came into being <mark meta>were, to be frank, the boring ones.</mark> The gays who knew nobody and who nobody knew. 
+So many of the gays left alive once the Clinton Administration came into being <mark num=1 yikes>were, to be frank, the boring ones.</mark> The gays who knew nobody and who nobody knew. 
 
 And they rose to the top of the community and therefore their *priorities* rose to the top of the community, as well. 
 
-And what did they want? Apparently, they wanted to join the army and have big gay weddings. <mark meta>General employment non-discrimination wasn't all that important to them</mark>. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
+And what did they want? Apparently, they wanted to join the army and have big gay weddings. <mark num=2 fc=false>General employment non-discrimination wasn't all that important to them</mark>. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
 
 Because they were the good gays. Not the naughty gays who were sleeping around and dying of AIDS. Not the poor gays who couldn't make *political* contributions. They were the gays with families and commitment ceremonies and office jobs and houses. They were the good ones the ones who would look *fan-TA-stic* and *incredibly* marketable (when they were interviewed by CNN). They were the gays who straight people would look at and say to themselves “maybe they're not so bad after all. I still don't want *my* kid to be gay but maybe... it's okay if Bob and Henry got married.” 
 
-The gay rights movement shifted from "accept us for who we are" "to we’ll be whatever you want us to be if you accept us." And it's kind of remained that way over the last 30 year. We've been trained to be offended by queers who step too far out of the mainstream. 
+<mark fc=false>The gay rights movement shifted from "accept us for who we are" to "we’ll be whatever you want us to be if you accept us." And it's kind of remained that way over the last 30 year.</mark> We've been trained to be offended by queers who step too far out of the mainstream.
 
-Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter started showing up to Awards shows in dresses. Lots - and I mean *lots* - of gays were unnerved and worried when trans people started coming out of their *own* closets. Some going so far as to disavow the "T" from the LGBT because they were worried people who don't like trans people would lop in the gay men and women in with them. Who needs community when you've already got your house in the suburbs, right?
+Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter started showing up to Awards shows in dresses.<sup cn></sup> Lots - and I mean *lots* - of gays were unnerved and worried when trans people started coming out of their *own* closets. Some going so far as to disavow the "T" from the LGBT because they were worried people who don't like trans people would lop in the gay men and women in with them. Who needs community when you've already got your house in the suburbs, right?
 
 </james>
 <comment color={{ace_116.color}}>

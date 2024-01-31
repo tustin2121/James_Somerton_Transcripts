@@ -15,6 +15,9 @@
 			--mark-stolen-bg: #47005b;
 			--mark-source-text: #c9d1d9;
 			--mark-source-bg: #033a16;
+			--mark-misinfo-border: #ff0000;
+			--mark-yikes-border: #668701;
+			--mark-yikes-text: #f6fdeb;
 		}
 	}
 	@media (prefers-color-scheme: light) {
@@ -33,6 +36,9 @@
 			--mark-stolen-bg: #f4ccff;
 			--mark-source-text: #000000;
 			--mark-source-bg: #abf1c4;
+			--mark-misinfo-border: #ff0000;
+			--mark-yikes-border: #4f6706;
+			--mark-yikes-text: #1b2207;
 		}
 	}
 
@@ -304,7 +310,17 @@
 	}
 	compare :is(james, nick, clip, from) mark[fc] {
 		background-color: unset;
-		border: solid 1px red;
+		/* border: solid 1px var(--mark-misinfo-border); */
+		text-decoration: var(--mark-misinfo-border) wavy underline 1px;
+		text-decoration-style: dotted;
+		text-underline-offset: 2px;
+	}
+	compare :is(james, nick, clip) mark[yikes] {
+		background-color: unset;
+		text-decoration: var(--mark-yikes-border) wavy underline 1px;
+		text-decoration-skip-ink: none;
+		text-underline-offset: 4px;
+		color: var(--mark-yikes-text);
 	}
 	
 	compare :is(james, nick, from, comment, clip, credits) mark:empty {
@@ -319,19 +335,13 @@
 		font-weight: 600;
 		color: var(--color-accent-fg);
 	}
-	compare :is(james, nick, from, comment, clip, credits) mark[fc]::before {
-		content: none;
-	}
-	compare :is(james, nick, from, comment, clip, credits) mark[num]::before {
-		content: attr(num);
-	}
 }
 
 @layer markup {
 	compare :is(james, nick, clip, credits):not([mark]) { 
 		counter-reset: left-count;
 	}
-	compare :is(james, nick, clip, credits) mark::before {
+	compare :is(james, nick, clip, credits) mark:not([fc]):not([yikes])::before {
 		content: counter(left-count);
 	}
 	compare :is(james, nick, clip, credits) mark {
@@ -342,12 +352,16 @@
 	compare :is(from, comment, visual, subvideo):not([mark]) { 
 		counter-reset: right-count;
 	}
-	compare :is(from, comment) mark::before {
+	compare :is(from, comment) mark:not([fc]):not([yikes])::before {
 		content: counter(right-count);
 	}
 	compare :is(from, comment) mark {
 		counter-increment: right-count;
 		position: relative;
+	}
+	
+	compare :is(james, nick, from, comment, clip, credits) mark[num]::before {
+		content: attr(num);
 	}
 }
 

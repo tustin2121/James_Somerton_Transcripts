@@ -982,7 +982,7 @@ Utena echoes a particular anxiety of growing up in Japan in the 1990s, when the 
 
 And if Japanese Youth of the 90s got it anything like Millennials of the late 2000s got it, then it would have seemed like the entire weight of the world was imparted on *their* shoulders to fix things, all the while the powers at be insisting that fixing things was the responsibility of the nation's youth, simultaneously *scolded* them for talking about upsetting The Establishment Values that led to these hardships in the first place.
 
-Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark fc>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
+Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark yikes>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
 
 </james>
 <from></from>

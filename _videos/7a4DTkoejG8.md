@@ -160,7 +160,7 @@ We should just call this "Disclaimer: the Podcast".
 
 My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
 
-And <mark fc=false id="no-persecution" stat:id="y-acephobia">while there might be no specific persecution for asexual people in the way that *gay* people have faced</mark>, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
+And <mark yikes id="no-persecution" stat:id="y-acephobia">while there might be no specific persecution for asexual people in the way that *gay* people have faced</mark>, there is a kind of very quiet persecution for asexuals. It seem as being-- For instance, I think uh asexuality in the American Psychological Journal is still qualified as a mental-- As a psychological disease, a mental health disease.
 
 Correct me if I'm wrong. But like... when you are asexual you do see a myriad of ways that, uh, there's basically a psychological warfare against you. *Every* piece of media is focused around a romance or sexual attraction. It's seen as a for-granted thing for almost every piece of media, almost everyone there's that sexual expectation...
 
@@ -215,7 +215,7 @@ And that's kind of seen as just like a universal. So it's a lot of very subtle w
 </nick>
 <nick>
 
-<mark fc=false id="conversion-therapy" stat:id="y-acephobia">And while there isn't really any conversion therapy directed to the asexual people...</mark> and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
+<mark yikes id="conversion-therapy" stat:id="y-acephobia">And while there isn't really any conversion therapy directed to the asexual people...</mark> and while you think that there wouldn't be because society is kind of geared towards this neopuritan attitude of avoiding sex and avoiding uh sexual attraction at least in public discourse and especially like in public areas... there is that expectation that it's something that *is* going to happen behind closed doors.
 
 </nick>
 </compare>

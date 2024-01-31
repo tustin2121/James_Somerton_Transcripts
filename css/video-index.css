@@ -39,8 +39,15 @@
 		margin-inline: 2em 1em;
 		min-height: unset;
 	}
-	.video-list > .video-list > .video-card {
-		background-color: #001c4a;
+	@media (prefers-color-scheme: dark) {
+		.video-list > .video-list > .video-card {
+			background-color: #001c4a;
+		}
+	}
+	@media (prefers-color-scheme: light) {
+		.video-list > .video-list > .video-card {
+			background-color: #d0e6ff;
+		}
 	}
 	
 	.total-score {

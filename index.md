@@ -21,23 +21,23 @@ Contributors:
 - [{{ name.name }}]({{name.link}}) - {{name.descriptive}}
 {%- endfor -%}
 
-</div><div>
+</div>{%- unless site.data.options.hide_video_links -%}<div>
 
 Video archives:
 - [James Somerton Youtube (2023-12-03)](https://archive.org/details/james-somerton-youtube-2023-12-03) on the Internet Archive
 - [James Somerton Public Records](https://archive.org/details/james-somerton-public-records) on the Internet Archive
 - [James Somerton's videos (backup)](https://archive.org/details/james-somerton-videos-backup) on the Internet Archive
-- [James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube
+- ~~[James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube~~
 - ~~[James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube~~
-- ~~[Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube~~
+- ~~[Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube~~ 
 
-</div>
+</div>{%- endunless -%}
 </div>
 
 <div class="total-score">
   <span class="plagiarized" style="width:{{ site.data.stats._global.vol.p }}%" title="{{ site.data.stats._global.vol.p }}% of James's video output was plagiarized"></span>
   <span class="misinfo" style="width:{{ site.data.stats._global.vol.m }}%" title="{{ site.data.stats._global.vol.m }}% of James's video output was misinformation"></span>
-  <!-- <span class="yikes" style="width:{{ site.data.stats._global.vol.y }}%" title="{{ site.data.stats._global.vol.y }}% of James's video output was problematic takes"></span> -->
+  <span class="yikes" style="width:{{ site.data.stats._global.vol.y }}%" title="{{ site.data.stats._global.vol.y }}% of James's video output was problematic takes"></span>
 </div>
 
 # Transcript Index
@@ -62,7 +62,9 @@ Video archives:
         <span class="misinfo" style="width:20%"></span>
       </div>
     </div>
-    <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    {%- unless site.data.options.hide_video_links -%}
+      <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    {%- endunless -%}
     <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
   </div>
 </div>
