@@ -7,9 +7,7 @@ aka: !!seq
   - "The Queer Panic Defense (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-public-records"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Panic.mp4"
 # description: "a video essay on...?"
 notes: 
   - hbomb
