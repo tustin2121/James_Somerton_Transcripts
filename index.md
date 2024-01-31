@@ -28,10 +28,16 @@ Video archives:
 - [James Somerton Public Records](https://archive.org/details/james-somerton-public-records) on the Internet Archive
 - [James Somerton's videos (backup)](https://archive.org/details/james-somerton-videos-backup) on the Internet Archive
 - [James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube
-- [James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube
-- [Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube
+- ~~[James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube~~
+- ~~[Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube~~
 
 </div>
+</div>
+
+<div class="total-score">
+  <span class="plagiarized" style="width:{{ site.data.stats._global.vol.p }}%" title="{{ site.data.stats._global.vol.p }}% of James's video output was plagiarized"></span>
+  <span class="misinfo" style="width:{{ site.data.stats._global.vol.m }}%" title="{{ site.data.stats._global.vol.m }}% of James's video output was misinformation"></span>
+  <!-- <span class="yikes" style="width:{{ site.data.stats._global.vol.y }}%" title="{{ site.data.stats._global.vol.y }}% of James's video output was problematic takes"></span> -->
 </div>
 
 # Transcript Index
@@ -57,6 +63,7 @@ Video archives:
       </div>
     </div>
     <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
   </div>
 </div>
 

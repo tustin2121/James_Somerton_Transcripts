@@ -12,15 +12,15 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | Video ID | Status | Title |
 |:---|:---:|:----|
 | [-ogPYycNAo8](_videos/-ogPYycNAo8.md) | Auto        | The Problem With Pride
-| [-Uoqmxlcusg](_videos/-Uoqmxlcusg.md) | Finished    | The Real Revolution of Utena
 | [-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) | Complete    | How Hollywood was Born Gay
 | [0Vijus_c-aY](_videos/0Vijus_c-aY.md) | Auto        | The Campy Queer Sensibilities of Barbie
 | [1BHKm-qcfvM](_videos/1BHKm-qcfvM.md) | Auto        | The Gay Body Image Crisis
 | [4wi49P-Qjcc](_videos/4wi49P-Qjcc.md) | Auto        | The Troubling Thirst for Jeffrey Dahmer
 | [4YWslnyUxcs](_videos/4YWslnyUxcs.md) | Auto        | The Stonewall Film Effect - Gay Geek Theory (Video essay)
 | [4zPCM14-SCQ](_videos/4zPCM14-SCQ.md) | Auto        | Monsters in the Closet
+| [5OxH1rqBAgw](_videos/5OxH1rqBAgw.md) | Missing     | Pink Triangles: The History of the Gay Holocaust
 | [6rHOEWFBDg0](_videos/6rHOEWFBDg0.md) | Auto        | Vampires, and the Gays That Love Them
-| [7a4DTkoejG8](_videos/7a4DTkoejG8.md) | Finished    | The Queer Erasure of Asexuality (A Discussion)
+| [7a4DTkoejG8](_videos/7a4DTkoejG8.md) | Complete    | The Queer Erasure of Asexuality (A Discussion)
 | [9YzMQEBRszY](_videos/9YzMQEBRszY.md) | Auto        | The Death of Queer Privacy
 | [A6P04yw6kYs](_videos/A6P04yw6kYs.md) | Finished    | The Dangers of Blissful Ignorance
 | [AlyJl0ddcPs](_videos/AlyJl0ddcPs.md) | Finished    | The Gay Horror Manga You Should Be Reading
@@ -30,15 +30,13 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [Camp-000001](_videos/Camp-000001.md) | Missing     | How The Gays Stole Cinema
 | [Camp-000002](_videos/Camp-000002.md) | Missing     | The Mainstreaming of Camp
 | [cMde5YLG6-w](_videos/cMde5YLG6-w.md) | Auto        | Disney's Gay Cultural Appropriation
-| [CODEBREAKER](_videos/CODEBREAKER.md) | Auto        | CODEBREAKERS: Queer film theory (and why it matters)
 | [crZd-xmhobE](_videos/crZd-xmhobE.md) | Auto        | Geek Theory - Episode #1 "The Marvel Issue"
 | [CupPh46JZ5g](_videos/CupPh46JZ5g.md) | Auto        | Broadway, Living, and Gay Hope
-| [DeepCuts000](_videos/DeepCuts000.md) | Complete    | Deep Cuts: Society and Queer Horror
 | [E9vDpCeTK5w](_videos/E9vDpCeTK5w.md) | Auto        | The Queer Joy of Everything Everywhere All At Once
 | [eVfNd2nfqHU](_videos/eVfNd2nfqHU.md) | Auto        | The Issues With "Bros" (Special Podcast Episode)
 | [ezirFAu3MuA](_videos/ezirFAu3MuA.md) | Auto        | The Harmful Drive for Queer Perfection
 | [F5ab1X2CFq8](_videos/F5ab1X2CFq8.md) | Finished    | The Queer Dystopia of the LGB Movement
-| [fE4I6WhPryc](_videos/fE4I6WhPryc.md) | Auto        | Why Bad Gays Are Good
+| [fE4I6WhPryc](_videos/fE4I6WhPryc.md) | Finished    | Why Bad Gays Are Good
 | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | Auto        | When Hollywood Came Out of the Closet
 | [GayPanicDef](_videos/GayPanicDef.md) | Missing     | The History of Gay Panic
 | [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Missing     | Geek Review: X-men "Days of Future Past"
@@ -51,25 +49,27 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [jJmN2rC1cVM](_videos/jJmN2rC1cVM.md) | Script      | The Real Hogwarts Legacy
 | [KarOvBQCyKE](_videos/KarOvBQCyKE.md) | Finished    | How Spoilers Are Ruining Everything
 | [KR7Ab5d9wno](_videos/KR7Ab5d9wno.md) | Auto        | Sex, Violence, Showgirls, and The American Way
+| [kvMq2FejBT8](_videos/kvMq2FejBT8.md) | Finished    | The Real Revolution of Utena
 | [KXGpVm09GCM](_videos/KXGpVm09GCM.md) | Auto        | Reclaiming the "Q" Word
 | [ldiZgzNRlHE](_videos/ldiZgzNRlHE.md) | Auto        | Days of Marvel Future - Geek Theory Episode 3
 | [Lgsa23IXac8](_videos/Lgsa23IXac8.md) | Auto        | Geek Theory #4: The Fantastic Five!
 | [lTcm9ExjvOI](_videos/lTcm9ExjvOI.md) | Auto        | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
 | [M5-SZckaMtc](_videos/M5-SZckaMtc.md) | Auto        | The Glass Ceiling of Gay Success (A Discussion)
+| [M8Z1NjpdH1M](_videos/M8Z1NjpdH1M.md) | Complete    | Deep Cuts: Society and Queer Horror
 | [Monster0001](_videos/Monster0001.md) | Missing     | Monsters in the Closet: The Modern Ganymede
 | [Monster0002](_videos/Monster0002.md) | Missing     | Monsters in the Closet: America's New Nightmare
 | [Monster0003](_videos/Monster0003.md) | Missing     | Monsters in the Closet: Killer Queens
-| [n41RAyav_d8](_videos/n41RAyav_d8.md) | Auto        | How Disney Tore Down The Owl House
+| [n41RAyav_d8](_videos/n41RAyav_d8.md) | Complete    | How Disney Tore Down The Owl House
 | [nCi19sYugIA](_videos/nCi19sYugIA.md) | Finished    | The Traumatic Camp of "Mommie Dearest"
 | [noL0rLX9euU](_videos/noL0rLX9euU.md) | Finished    | Film Theory #1: Is The Blockbuster Dying
 | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | Finished    | Neil Gaiman & Queering Fantasy
-| [PnkTriangle](_videos/PnkTriangle.md) | Missing     | Pink Triangles: The History of the Gay Holocaust
 | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | In Progress | The History of Gay Hollywood
+| [P_mLM6fUhHQ](_videos/P_mLM6fUhHQ.md) | Complete    | CODEBREAKERS: Queer film theory (and why it matters)
 | [qa3A_ery3Hg](_videos/qa3A_ery3Hg.md) | Complete    | Disney's Silence on Gay Youth
 | [qT6IsmUrHeY](_videos/qT6IsmUrHeY.md) | Auto        | The Role of Adult Media in Gay Identity (A Conversation)
 | [QuiEKdTmj2M](_videos/QuiEKdTmj2M.md) | Finished    | Heartstopper and Queer Optimism
 | [Qvu84kjtGvE](_videos/Qvu84kjtGvE.md) | Auto        | Evil Queens: A Queer Look at Disney History
-| [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | Script      | Yuri On Ice - How Gay is Gay Enough?
+| [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | Script      | Yuri on Ice - How Gay is Gay Enough?
 | [rg92PER6xvE](_videos/rg92PER6xvE.md) | Auto        | Nintendo's Queer Relationship With Gender
 | [S-_NcmyntN0](_videos/S-_NcmyntN0.md) | Finished    | Disney's War on Gay Kids
 | [s8Iv9xzW87I](_videos/s8Iv9xzW87I.md) | Auto        | Queer Representation in Modern Horror
@@ -80,9 +80,9 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [TQNKEkrPEfI](_videos/TQNKEkrPEfI.md) | Auto        | Video Games and the Choice to be Gay
 | [TUmTTb6uX0M](_videos/TUmTTb6uX0M.md) | Script      | How Wanda Became An Accidental Gay Icon
 | [UfpkP6s_g_4](_videos/UfpkP6s_g_4.md) | Auto        | Making It Big：The History of Gay Adult Film (Documentary)
-| [UiDcQnavKPI](_videos/UiDcQnavKPI.md) | Script      | SHIPPING - The Good, The Bad, and the Thirsty
+| [UiDcQnavKPI](_videos/UiDcQnavKPI.md) | Finished    | SHIPPING - The Good, The Bad, and the Thirsty
 | [ujmgqNyZ190](_videos/ujmgqNyZ190.md) | Auto        | “Killing Stalking” and The Romancing of Abuse
-| [Unrequited1](_videos/Unrequited1.md) | In Progress | Unrequited: The History of Queer Baiting
+| [Unrequited1](_videos/Unrequited1.md) | Finished    | Unrequited: The History of Queer Baiting
 | [UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) | Finished    | Where The "Bury Your Gays" Trope Came From
 | [VoHYZUj43K4](_videos/VoHYZUj43K4.md) | Finished    | "Attack on Titan" and the Death of Media Literacy
 | [VToXKOOK4mw](_videos/VToXKOOK4mw.md) | Complete    | I'm sorry

@@ -1,6 +1,10 @@
 ---
 # cspell:words  Utena Tenjou  Anthy Himemiya  Akio Ohtori  Touga Kiryuu  Nanami  Wakaba Shinohara  Shiori Takatsuki  Juri Arisugawa  Souji
 # cspell:words  Ikuhara Kunihiko  Saito Chiho  Hasegawa Shinya  Enokido Yōji  Oguro Yūichirō  Shōjo Kakumei  Sato Junichi  Toei Evangelion Takarazuka Jun'ichi Nakahara Shūji Terayama Seazer Toole
+redirect_from:
+  - "/videos/-Uoqmxlcusg"
+  - "/videos/uoqmxlcusg" # slug version
+
 date: 2023-10-07
 title: The Real Revolution of Utena
 status: Finished
@@ -37,7 +41,7 @@ cite:
   misinformation: !!map
     # deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
-    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (Mar 5, 2005). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
+    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
     wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -45,8 +49,7 @@ cite:
 <compare>
 <credits header="Video Thumbnail:">
 
-![](https://64.media.tumblr.com/98dd86356f1ed4b0fe677b95f8e49f13/eabac75539d7bcb8-5c/s1280x1920/e653978dc877aaa2e7172f5e874971e50d72e77b.jpg)
-<!-- ![Alt text](../media/tumblr_98dd86356f1ed4b0fe677b95f8e49f13_e653978d_1280.jpg) -->
+![Alt text](../media/thumbs/kvMq2FejBT8.jpg)
 
 </credits>
 <from {% include citation for=page.cite.plagiarized.thumbnail %}>

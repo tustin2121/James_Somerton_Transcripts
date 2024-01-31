@@ -75,6 +75,13 @@ ace_couple:
   link: "https://theacecouple.com"
   ep116:
     color: "ace_couple"
+    name: "The Ace Couple (via podcast #116)"
     short: "Ep. 116 (The Ace Couple, 2023)"
     full: "The Ace Couple. (2023, Dec 13) <em>We were personally victimized by James Somerton</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode116/"
     url: "https://www.youtube.com/watch?v=kGIZIuTXWvg"
+  ep062:
+    color: "ace_couple"
+    name: "The Ace Couple (via podcast #62)"
+    short: "Ep. 62 (The Ace Couple, 2023)"
+    full: "The Ace Couple. (2022, Nov 30) <em>Asexuality & Kink ft. Evie Lupine</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode062/"
+    url: "https://www.youtube.com/watch?v=EfL6B-rUfao"

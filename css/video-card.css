@@ -34,6 +34,22 @@
 			--video-box-topic-color: #ce0000;
 		}
 	}
+	:root {
+		--thumb-width: 160px;
+		--thumb-height: 90px;
+	}
+	@media (max-width: 950px) {
+		:root {
+			--thumb-width: 120px;
+			--thumb-height: 67px;
+		}
+	}
+	@media (max-width: 700px) {
+		:root {
+			--thumb-width: 100px;
+			--thumb-height: 56px;
+		}
+	}
 	
 	.video-card {
 		max-width: 1000px;
@@ -43,10 +59,10 @@
 		display: grid;
 		box-shadow: 3px 3px 4px 0px black;
 		grid-template:
-			"date  title title links" auto
-			"score aka   topic topic" auto
-			"stat  aka   topic topic" 1fr
-			/ 6rem 1fr   auto  auto;
+			"date  title title links  thumb" auto
+			"score aka   topic topic  thumb" auto
+			"stat  aka   topic topic  thumb" 1fr
+			/ 6rem 1fr   auto  auto   var(--thumb-width);
 		text-shadow: 0px 0px 0px black;
 	}
 	.video-card.podcast {
@@ -163,6 +179,22 @@
 	}
 	.video-card .note {
 		 margin-inline: 4px;
+	}
+	.video-card > .thumbnail {
+		grid-area: thumb;
+		object-fit: cover;
+		object-position: center;
+		width: var(--thumb-width);
+		height: var(--thumb-height);
+	}
+	@media (max-width: 600px) {
+		:root {
+			--thumb-width: 0;
+			--thumb-height: 0;
+		}
+		.video-card > .thumbnail {
+			display: none;
+		}
 	}
 	
 	.signature {
