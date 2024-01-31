@@ -42,720 +42,246 @@ Part Six 47:50
 
 {% include transcript-start %}
 
-Hey everyone!
+<compare>
+<james {% include timecode %}>
 
-Before we start the video I just
-wanted to thank everyone whose contributed 
+Hey everyone! Before we start the video I just wanted to thank everyone whose<sup>[sic: who's]</sup> contributed to the Telos Pictures IndieGoGo campaign. If you don’t know Telos Pictures is a production company myself and a group of other LGBTQ artists are creating to produce high quality LGBTQ movies and series made for LGBTQ people. No gay best friends, no coming out stories, no “the queer dies at the end” stories. If you want more info, I’ve left a link to the campaign in the description of this video. Since this is the last video I’ll be releasing before the end of the campaign I just wanted to get it out there one more time. Okay. Now on to our feature presentation. 
 
-to the Telos Pictures IndieGoGo campaign.
-If you don’t know Telos Pictures is a production 
+</james>
+</compare>
 
-company myself and a group of other LGBTQ artists
-are creating to produce high quality LGBTQ 
+<compare>
+<credits class="opening" {% include timecode %}>
 
-movies and series made for LGBTQ people. No
-gay best friends, no coming out stories, 
+[The song "Go Get The Money" by ATELLER ft. PhaseOne fades in and plays over the opening credits.]
 
-no “the queer dies at the end” stories.
-If you want more info, I’ve left a link to 
+> James Somerton Presents
 
-the campaign in the description of this video.
-Since this is the last video I’ll be releasing 
+> Written by Nick Herrgot & James Somerton
 
-before the end of the campaign I just wanted to
-get it out there one more time. Okay. 
+> Edited by James Somerton
 
-Now on to our feature presentation. I’ve always found it interesting that economically 
+> Produced by: [Sixteen Patron Names]
 
-disenfranchised people, also known as poor people
-when you’re not trying to make it sound better, 
+> Music by: Christeene Haldane
 
-have a very love-hate relationship with the rich.
-You’d think it would be pure hate, seeing as how 
+> Executive Producers: [Eight Patron Names]
 
-the rich tend to use the poor in any number of
-horrible ways. But there is an odd attraction 
+> Directed by James Somerton
 
-to the rich set, especially the filthy rich. When it comes to media we’re not that interested 
+> The Tragedy of Being Rich
 
-in seeing those who describe themselves as
-comfortable or upper middle class. Because 
+</credits>
+</compare>
 
-those people, who tend to make high six to
-low seven figure salaries a year, 
+<compare>
+<james {% include timecode %}>
 
-know how to keep themselves hidden. They don’t flaunt their wealth in ways that 
+I’ve always found it interesting that economically disenfranchised people, also known as poor people when you’re not trying to make it sound better, have a very love-hate relationship with the rich. You’d think it would be pure hate, seeing as how the rich tend to use the poor in any number of horrible ways. But there is an odd attraction to the rich set, especially the filthy rich. 
 
-stand out from anyone else in a gated suburb.
-Two cars, maybe? Perfect green 
+When it comes to media we’re not that interested in seeing those who describe themselves as comfortable or upper middle class. Because those people, who tend to make high six to low seven figure salaries a year, know how to keep themselves hidden. They don’t flaunt their wealth in ways that stand out from anyone else in a gated suburb. Two cars, maybe? Perfect green lawn? Pool in the backyard? Nothing too extraordinary. Nothing worth making a tv show about, at least. But the filthy rich, well, they just can’t help but broadcast how much money they’ve got. Yachts, multiple houses, fancy cars, diamond engagement rings the size of the hope diamond<sup>[sic: Hope Diamond]</sup>. Trips to space. When you’ve got it, flaunt it! Right? 
 
-lawn? Pool in the backyard?
-Nothing too extraordinary. Nothing 
+</james>
+<from></from>
+</compare>
 
-worth making a tv show about, at least. But the filthy rich, well, they just can’t 
+<compare>
+<james {% include timecode %}>
 
-help but broadcast how much money they’ve got.
-Yachts, multiple houses, fancy cars, diamond 
-engagement rings the size of the hope diamond. Trips to space. When you’ve got it, flaunt it! Right? And we poors and working 
-class folks 
+And we poors and working class folk<del>s</del> find that fascinating, I think. At least I do. That the richest of the rich feel so comfortable that they can’t imagine something like a, say, French Revolution happening. We wouldn’t even need to research who to take to the gallows, they literally publish their wealth on an annual basis. And I think they feel this safety because they feel us lower classes fawning over them in fictional media. Prime time soaps of the 1980s like *Dallas*, *Dynasty*, and *Falcon Crest*. Teen dramas like *Gossip Girl*. Outlandishly best selling novels like those written by Danielle Steele<sup>[sic: Steel]</sup> and Kevin Kwan. We eat up the lifestyles of the rich and famous, and I think that gives them a sense of security. Because this media shows them as rich, yes, but also fallible. They’re stressed out, emotionally unstable, and unable to keep their lives together. Just like us. So this media shows us that, but for a few extra zeroes at the end of their bank balances, we’re no different, really. 
 
-find that fascinating, I think.
-At least I do. That the richest of the rich 
+</james>
+<from></from>
+</compare>
 
-feel so comfortable that they can’t imagine
-something like a, say, French Revolution 
+<compare>
+<james {% include timecode %}>
 
-happening. We wouldn’t even need to research
-who to take to the gallows, they literally 
+But lately that addiction to watching the rich has mostly dissipated. *The Real Housewives of [insert city here]* are still fabulously popular, or infamous, but media about rich people isn’t nearly as ubiquitous as it once was. Except for shows like *Billions* and *Succession* or movies like *The Wolf of Wall Street* where the rich are absolutely not good people. But there does seem to be a caveat to that. We do still love watching media about the rich if they aren’t just rich… but royal. *The Crown* is a good example. But I’m not here to talk about Queen Elizabeth and what that family did to Diana. I’m here to talk about a little Netflix show called *Young Royals*. 
 
-publish their wealth on an annual basis. And I think they feel this safety 
+</james>
+<from></from>
+</compare>
 
-because they feel us lower classes
-fawning over them in fictional media. 
+## Part One
 
-Prime time soaps of the 1980s like Dallas,
-Dynasty, and Falcon Crest. Teen dramas 
+<compare>
+<james {% include timecode %}>
 
-like Gossip Girl. Outlandishly best
-selling novels like those written 
+*Young Royals* is a Netflix drama series focusing on Prince Willhelm<sup>[sic: Wilhelm]</sup> of Sweden, the younger of two royal sons. After a video tape of him getting into a scuffle in a club goes viral, the Royal Family is keen to paint him as an out-of-control delinquent who needs to get shipped off to the country for boarding school. So, off to Hilerska<sup>[sic: Hillerska]</sup> boarding school he goes… like it’s a prison sentence. His brother, the crown prince pulls up in a Ferrari to see him off. We, the audience, are dragged through Willhelm’s discomfort as he poses for photo ops and is greeted by the entire school staff. 
 
-by Danielle Steele and Kevin Kwan. We eat up the lifestyles of the rich and famous, 
+It’s clear that Willhelm<sup>[sic: Wilhelm]</sup> doesn’t like being on camera. He doesn’t like performing, and he doesn’t like the posturing required of the monarchy. The pomp and circumstance grates against his authenticity. The ‘royal life’ is already in opposition to who he is and how he wants to express himself in the first episode. 
 
-and I think that gives them a sense of security.
-Because this media shows them as rich, yes, 
+[mockingly] He’s not like other Royals. 
 
-but also fallible. They’re stressed out,
-emotionally unstable, and unable to keep their 
+</james>
+<from></from>
+</compare>
 
-lives together. Just like us. So this media shows
-us that, but for a few extra zeroes at the end of 
+<compare>
+<james {% include timecode %}>
 
-their bank balances, we’re no different, really. But lately that addiction to watching 
+The storm clouds raining on his parade part briefly when the school rolls out a… choir… for his arrival. OH THE HORRORS OF BIRTHRIGHT. And it’s love at first sight when Willhelm<sup>[sic: Wilhelm]</sup> lays eyes on Simon, who, as the soloist, enchants Willhelm. And who would not be enchanted? 
 
-the rich has mostly dissipated.
-The Real Housewives of insert city here are still 
+The majority of the show focuses around Willhelm<sup>[sic: Wilhelm]</sup> and Simon, and the development of their teenage courtship. In spite of the whole… love at first sight thing — I have to say I really appreciate how earnest the show is in it’s<sup>[sic: its]</sup> depiction of teenage gay boys trying to figure out how to make this whole ‘relationship’ thing work. Nothing is particularly sensationalised. Instead you have two awkward kids with hormones pouring out of their ears trying really hard not to stare at each other. 
 
-fabulously popular, or infamous, but media about
-rich people isn’t nearly as ubiquitous as it 
+</james>
+<from></from>
+</compare>
 
-once was. Except for shows like Billions and
-Succession or movies like The Wolf of Wall Street 
+<compare>
+<james {% include timecode %}>
 
-where the rich are absolutely not good people. But there does seem to be a caveat to that. 
+Problem: Simon is not rich. In fact, Simon is depicted as perhaps on the poor side of middle class. He and his sister are attending Hilerska<sup>[sic: Hillerska]</sup> through scholarships and are not boarding at the school, but instead have to bus to and from every day. Especially with Simon, there is a heap of friction between him and the other boys at school, who come from money. And by ‘come from money’ I mean — getting together, bragging about how much land their family estates have and popping pills. 
 
-We do still love watching media about the rich
-if they aren’t just rich… but royal. 
+</james>
+<from></from>
+</compare>
 
-The Crown is a good example. But I’m
-not here to talk about Queen Elizabeth 
+<compare>
+<james {% include timecode %}>
 
-and what that family did to Diana.
-I’m here to talk about a little 
+Through the duration of this first season, we see the struggles Willhelm<sup>[sic: Wilhelm]</sup> and Simon face as they try to express their feelings for eachother. And at almost every turn, Willhelm feels like his Royal responsibilities prevent him and Simon from being together. Which results in, about twice per episode, Wilhelm flip-flopping back and forth on whether he wants to be with Simon. “Oh I like you,” but “oh I need you to delete my number,” but “oh hey you should spend the weekend with me.” I mean who doesn’t want to be pursued by a handsome prince, but this boy is waving heart-shaped red flags in Simon’s face like it’s valentine's day for the indecisive.
 
-Netflix show called Young Royals. Young Royals is a Netflix drama series 
+</james>
+<from></from>
+</compare>
 
-focusing on Prince Willhelm of Sweden,
-the younger of two royal sons. After a video 
+<compare>
+<james {% include timecode %}>
 
-tape of him getting into a scuffle in a club
-goes viral, the Royal Family is keen to 
+And it’s definitely clear that the show wants to use this ‘two worlds collide’ romance in order to open a discussion about wealth inequality, but there’s very little in the way of worlds colliding. Granted, it IS nice that you don’t have a rich person staring down their nose at the poor and asking: “what’s a microwave?” Though the show does go out of its way to describe SOME kind of class dynamic, at times heavy-handedly, I feel like this is more out of a sense of obligation. You have a literal love-at-first sight fairytale, a kind of queer adaptation of Cinderella. And If you want to write that in this day and age, there is going to be a question about the wealth discrepancy hanging over the plot. 
 
-paint him as an out-of-control delinquent
-who needs to get shipped off to 
+</james>
+<from></from>
+</compare>
 
-the country for boarding school. So, off to Hilerska boarding school 
+<compare>
+<james {% include timecode %}>
 
-he goes… like it’s a prison sentence. His brother, the crown prince pulls 
+But aside from the lack of fancy food, which bothers Simon’s sister Sara to no end, the poors don’t really have to face a whole lot of struggles from their economic situation. We know Simon’s family is struggling, but we don’t know to what extent. Actually, while we may see the poors struggle because they’re poor, we only really see the riches suffer… because they’re rich. 
 
-up in a Ferrari to see him off. We,
-the audience, are dragged through 
+…Hear me out. As the show primarily follows Willhelm<sup>[sic: Wilhelm]</sup>’s POV, we, the audience, are most empathetically drawn to his emotional development. His drama seems to arise from all of the ways that being a royal is an obstacle. With the exception of the death of his brother, his suffering is almost entirely linked to him being wealthy. The show goes to great lengths to describe how and why we should empathise, maybe even pity this literal prince, BECAUSE he’s a prince. From the very clear neglect and distance he feels from his parents, the strain of having to do things he does not want to do, struggling to keep what he wants at arms’ length because he knows he will not be allowed to have it, to being manipulated and hazed by other rich boys. Hazing is illegal for a lot of reasons, due in part to the fact that — at best — they are non consensual rituals of humiliation and establishing power structures. Or as some would say ‘boys being boys.’ And while Willhelm does not consent to this, within the first episode, it’s made very clear that he would not be in this situation if he were not wealthy. 
 
-Willhelm’s discomfort as he poses
-for photo ops and is greeted 
+</james>
+<from></from>
+</compare>
 
-by the entire school staff. It’s clear that Willhelm 
+<compare>
+<james {% include timecode %}>
 
-doesn’t like being on camera.
-He doesn’t like performing, and he doesn’t 
+And while the overall plot of the show is weaved together out of a number of other issues affecting the other principal characters, Willhelm<sup>[sic: Wilhelm]</sup>’s emotional state is always brought to the forefront. From what I can tell, it seems as if the show is making the statement that Willhem’s stunted emotional growth is due specifically to his birthright and responsibilities as a Prince of Sweden. It is, after all, the crown that prevents him from living as he choses. It is the crown which forces him into this school. And then it is the crown that forces him <ins>in</ins>to publicly deny<ins>ing</ins> the existence of a relationship with Simon, even after a sex tape is leaked. 
 
-like the posturing required of the monarchy.
-The pomp and circumstance grates against his 
+</james>
+<from></from>
+</compare>
 
-authenticity. The ‘royal life’ is already in
-opposition to who he is and how he wants 
+<compare>
+<james {% include timecode %}>
 
-to express himself in the first episode. He’s not like other Royals. The storm clouds raining 
+If only there was a poor who could understand… an emotional support poor if you will… who could help him find a reason to sort through all of his emotional BS. Does Simon have his crap together…? I mean honestly, he has the emotional intelligence to spot red flags and put distance between him and someone he slept with so… that’s already leagues ahead of most teenagers. And me. Simon’s conflict doesn’t really stem from his own emotional ties — he struggles with Willhelm<sup>[sic: Wilhelm]</sup>’s emotions. But his role, as this is fiction crafted by authors who have intent, is to look cute and benefit from Willhelm's emotional state. 
 
-on his parade part briefly
-when the school rolls out 
+</james>
+<from></from>
+</compare>
 
-a… choir… for his arrival. OH THE HORRORS OF BIRTHRIGHT. And it’s love at first sight when 
+<compare>
+<james {% include timecode %}>
 
-Willhelm lays eyes on Simon, who,
-as the soloist, enchants Willhelm. 
+I wasn’t being flippant when I said that this was a Cinderella story, it’s just flipped almost entirely in the opposite direction. The Cinderella figure is Willhelm<sup>[sic: Wilhelm]</sup>, who longs to escape his world of fabulous wealth, and you have Simon, who is the escape from that rigid and emotionally negligent world. Simon is the pauper prince charming in this version of the fairytail, not the prince himself. Wilmhelm has money, but in order for him to become a functioning human being, he needs someone to help him navigate all the emotions he’s not allowed to have. 
 
-And who would not be enchanted? The majority of the show focuses around Willhelm 
+Enter the poor person, for whom emotional intelligence is in abundance. Simon’s family life is almost a night-and-day foil to Willhelm<sup>[sic: Wilhelm]</sup>. Little in the way of expendable income, but wealth in emotions, and having an open, honest line of dialogue with his mother. She loves him, cares about him, and wants him to be happy. His gayness is never an issue with her because her son’s emotions, his happiness, come first. Simon has the only thing money can’t buy — a good home. So if emotions are money, it’s Simon who is the emotionally liberated prince who needs to sweep Willhelm off HIS feet. 
 
-and Simon, and the development of their teenage
-courtship. In spite of the whole… love at first 
+One may say that this is an interesting flip… But in Wealth-centric propaganda fiction, the glorification of poverty isn’t exactly new. And based on how successful it is, I can’t see it going away any time soon. We see a lot of media popping up about how hard it is to be wealthy, and especially Royal. How the responsibility of privilege weighs down so much that it crushes the individual. 
 
-sight thing — I have to say I really appreciate
-how earnest the show is in it’s depiction of 
+</james>
+<from></from>
+</compare>
 
-teenage gay boys trying to figure out how to
-make this whole ‘relationship’ thing work. 
+<compare>
+<james {% include timecode %}>
 
-Nothing is particularly sensationalised. Instead you have two awkward kids with 
+This is the focus and topic of *The Crown*. Taking the royals and showcasing their most public moments — taking care to explain that these people WOULD be decent human beings IF ONLY they did not have so many burdens. That obligation stifles the ability to be human and begets more suffering across generations. There are a number of instances but the clearest to me is in Season 3 Episode 6, where Prince Charles is sent to a school he does not want to go to so <ins>that</ins> he can fulfil a royal obligation that his family has arranged against his wishes. Charles has to spend time with a LOWLY professor and his family. At which point the professor’s wife remarks how sad Charles makes her. How he looks at them and their child as if he’s never received so much as a pat on the head from his parents. Again, reinforcing the concept that the poor have a greater wealth of authentic life that the rich could never buy for themselves.
 
-hormones pouring out of their ears
-trying really hard not to stare at each other. Problem: Simon is not rich. In fact, Simon 
+</james>
+<from></from>
+</compare>
 
-is depicted as perhaps on the poor side
-of middle class. He and his sister are 
+<compare>
+<james {% include timecode %}> 
 
-attending Hilerska through scholarships
-and are not boarding at the school, but 
+And this media’s message is that the Rich NEED the poor to help them sort out their crap. Look at *Crazy Rich Asians*, where the Young family NEEDS a poor woman to stand up to the bullying family matriarch. You have a similar setup in Eddie Murphy’s *Coming to America*. Or *Gone With the Wind*, where a fallen-from-grace plantation owner literally cannot function on a base human level without the assistance of a freed slave now-servant. Hmm. One of those things was not like the others. Or *Downton Abbey* which has a VERY optimistic depiction of how upper-and lower-classes interact, and is host to any range of emotional support poors who are there to step in and offer some advice you can’t buy. 
 
-instead have to bus to and from every day. Especially with Simon, there is a heap of 
+</james>
+<from></from>
+</compare>
 
-friction between him and the other boys at school,
-who come from money. And by ‘come 
+<compare>
+<james {% include timecode %}>
 
-from money’ I mean — getting together,
-bragging about how much land their 
+In this media the problem with wealth is that the riches have forgotten to respect and value what services the poor can offer them. Keep in mind, Willhelm<sup>[sic: Wilhelm]</sup>’s infatuation with Simon begins while Simon is literally singing. The wealthy falling in love with the poor because of a song, or a poem, or even natural beauty, is something media has depicted across time. On one hand, it is a message to the rich to value the poor because talent and merit is something that cannot be bought. On the other hand, it is a message to the poor to be as talented as humanly possible in the hopes of attracting a wealthy patron. 
 
-family estates have and popping pills. Through the duration of this first season, 
+By the way, you should totally sign up for my Patreon. Where I post exclusive videos, audio commentaries, behind the scenes videos, and more. Sign up today at the link in the description. 
 
-we see the struggles Willhelm and Simon
-face as they try to express their feelings 
+</james>
+<from></from>
+</compare>
 
-for eachother. And at almost every turn,
-Willhelm feels like his Royal responsibilities 
+<compare>
+<james {% include timecode %}>
 
-prevent him and Simon from being together. Which results in, about twice per episode, Wilhelm 
+Media like this frames wealth as a gilded cage. And while poor people may not have financial stability, they are depicted as having a degree of freedom that is simply not accessible to the wealthy. I’ve never been wealthy, so I can’t say if the former is true, but I can say that depicting poverty as ‘freedom’ is certainly… a take. You COULD say a non-royal <del>poor</del> person can kiss whoever they want without familial consequences or repercussions. But that is looking at poverty with very rose-tinted glasses. 
 
-flip-flopping back and forth on whether he wants
-to be with Simon. “Oh I like you,” but “oh I need 
+</james>
+<from></from>
+</compare>
 
-you to delete my number,” but “oh hey you should
-spend the weekend with me.” I mean who doesn’t 
+<compare>
+<james {% include timecode %}>
 
-want to be pursued by a handsome prince, but this
-boy is waving heart-shaped red flags in Simon’s 
+In spite of the fact that it was a very well-crafted show with plenty of good characters and emotional realism, I did find *Young Royals* was a little guilty of this. If there was more content about Simon’s social standing, it didn’t make it into the final cut or it’s going to be explored in a second season. Which is happening. Yay! 
 
-face like it’s valentine's day for the indecisive. And it’s definitely clear that the 
+And of course, carrying on this discourse framed exclusively around Swedish wage classes, we’re getting into that nasty territory of saying “well it’s not as bad as it is in America, so stop complaining.” And we’re not gonna do that here! But it does re-enforce a toxic romanticization around poverty. This rich vs. poor depiction goes out of its way to make poor viewers grateful that they’re poor. They have something that the rich will never have, and they/we ought to be grateful for it. The REAL wealth is the people you meet along the way, and so on and so forth. 
 
-show wants to use this ‘two worlds
-collide’ romance in order to open a 
+</james>
+<from></from>
+</compare>
 
-discussion about wealth inequality,
-but there’s very little in 
+<compare>
+<james {% include timecode %}>
 
-the way of worlds colliding. Granted, it IS nice that 
+This media tells us that it’s the poors’ responsibility to keep the rich grounded and honest. But one thing this media does not highlight is that their responsibilities and reputations, are themselves, privileges. Even when there’s shame associated with not quite meeting those expectations. But shame… is never something the poor can afford. 
 
-you don’t have a rich person
-staring down their nose at the poor 
+</james>
+<from></from>
+</compare>
 
-and asking: “what’s a microwave?” Though the show does go out of its way 
+## Part Two
 
-to describe SOME kind of class dynamic,
-at times heavy-handedly, I feel like this 
+<compare>
+<james {% include timecode %}>
 
-is more out of a sense of obligation.
-You have a literal love-at-first sight fairytale, 
-a kind of queer adaptation of Cinderella.
-And If you want to write that in this day and age,
-there is going to be a question 
-about the 
+*Shameless* was a Showtime television series that ran for eleven seasons from 2011 to 2021. It followed the story of the Gallaghers, a family living on the south side of Chicago who, depending on their current financial situation, could range from poor to destitute. Though the main character for the first few season was inarguably, Fiona (despite what the Emmy Awards would have you believe) the main romantic draw of the show was not her on again off again relationships with multiple men, but the tense — sometimes hilarious, sometimes heartbreaking — relationship between her brother Ian, and his temperamental bossy bottom of a boyfriend, Mickey. Ian and Mickey are established as enemies early on in the series but quickly turn into lovers, because who could resist Cameron Monaghan? Their relationship is, economically, one of equals. They both come from the same economically devastated neighbourhood, they both grew up with the same crappy parental situations, and they both have sisters who deserve so much more than life is giving them. 
 
-wealth discrepancy hanging over the plot. But aside from the lack of fancy food, 
+The real tension between Ian and Mickey, early on, is much like the tension between Willhelm<sup>[sic: Wilhelm]</sup> and Simon. Mickey isn’t willing to come out of the closet to be with Ian. In fact, when Mickey’s outed he’s forced into a shotgun wedding to Svetlana, a bisexual Russian sex worker. In the end though, they end up in an oddly healthy (at least for them) relationship. Married and everything. 
 
-which bothers Simon’s sister Sara to no end,
-the poors don’t really have to face 
+But their gayness isn’t really where the drama comes from. It would be untenable to try <del>to</del><ins>and</ins> drag out ‘Mickey doesn’t want to come out’ storylines for eleven seasons. The real drama comes from the economic situation. Because of growing up in extreme poverty, Mickey has become a criminal like his father. Not being the least bit shy when it comes to brandishing firearms or breaking into people’s houses. He does time in jail multiple times throughout the series, but never comes out any different, really. Because how could he? He’s been raised to be a certain way, and time in a state pen isn’t going to beat that out of him. 
 
-a whole lot of struggles from their
-economic situation. We know Simon’s family is 
+Ian, on the other hand, isn’t quite the criminal Mickey is. Nothing beyond the mischief most teenagers would get up to, for the most part. Ian just wants to get grades good enough to join the military. That’s his big dream. Which he does join, but does so illegally using his brother’s name and information. When next we see Ian he’s gone AWOL from the military and has become a tweaked out GoGo boy at a gay bar. But luckily our unlikely prince charming, Mickey, swings in and rescues him. But Ian’s acting very strange, and this erratic behaviour increases while Mickey's problems with his wife also intensify. Ian drifts in and out of manic episodes until his relationship with Mickey is fully confirmed, with Mickey outing himself at his son’s christening. The end of the manic episodes leaves Ian in bed, nearly unresponsive. It’s at this point that we discover that Ian, like his mother Monica, has Bipolar Disorder. 
 
-struggling, but we don’t know to what extent. Actually, while we may see the 
+My mother also suffered from Bipolar Disorder so I know that with the right medication and coping mechanisms, this is a condition that can be mostly managed. But there’s a big difference between Ian and my mother. Though I also grew up poor, we lived in Canada. So my mother was able to see the specialists she needed and get the medication she needed without us going homeless. Ian, in Chicago, doesn’t have that luxury. In fact when the diagnosis is first floated, Mickey refuses to allow Ian to be helped because it would, in all likelihood, result in him being institutionalised in a state mental health institution. Which, in case you haven’t heard, aren’t the nicest places. 
 
-poors struggle because they’re poor,
-we only really see the riches 
-suffer… because they’re rich. …Hear me out. As the show primarily follows Willhelm’s POV,
-we, the audience, are most 
-empathetically 
+If Ian had the money to go see the doctors and get the meds he needed, it would be a different situation. But everything deteriorates until Ian goes on a psychological bender, his erratic behaviour increasing to the point where he agrees to do unprotected porn, and abducts a baby. Ending with him forced into a psych ward, where even Mickey agrees he needs treatment. 
 
-drawn to his emotional development. His drama seems to arise from all of the ways 
+Though there are plenty more ups and downs for Ian and Mickey over the next few seasons, with both ending up in jail at one point, they do end up stabilised and happy in the end. But it <ins>does</ins> take<del>s</del> eleven seasons, a lot of heartache, law breaking, violence, and trauma to get there. But even when they do move out of the bad neighbourhood and into a nice building, they have no idea how to act in “proper society”. With the uppity middle class gays trying to be rich gays. They don’t quite fit in with the world above the poverty line. But neither do most of the people on the show, queer or not. 
 
-that being a royal is an obstacle. With the
-exception of the death of his brother, his 
+Fiona, Ian’s big sister and the family mother figure, hops from odd job to odd job, even cleaning out clogged sewage pipes to try and make ends meet. The spiral of just too many bad days eventually leads to her becoming an addict. Which, in turn, leads to the Gallagher family situation becoming even more precarious. Once she gets clean, she works her way up to be the manager of a diner, which growing up poor seemed like a good solid job. But she soon finds out that being a manager isn’t all that different from working a cash register. You just have a lot more responsibilities and not a lot more pay. 
 
-suffering is almost entirely linked to him
-being wealthy. The show goes to great lengths 
+That’s a situation I think a lot of people have been in. Growing up, I always thought that “manager” was the top of the tops. That's the job where you have two cars and a nice house. Where your kids have a college fund, etc.. Because what’s above the manager? But then I actually started working, got myself into a managerial marketing position and realised… Oh… Managers are just employees who are expected to be the bad guy. The people with real power, real money, are the owners. They’re the ones with the nice houses and the cars and the college funds. They don’t really teach you that in high school though. That no matter how hard you work for a company, no matter how high you climb in that company, you’ll always be under somebody else. Not so different from *Young Royals* where no matter what Simon does, no matter what his family does, they will always, always, be below Wilhelm. Because they cannot work their way into the aristocracy.
 
-to describe how and why we should empathise,
-maybe even pity this literal 
+America doesn’t have royals, but they do have millionaires and billionaires. You can work your way into the manager position of a company, but it's near impossible to work your way into the CEO position. That glass ceiling is there, it’s just blocking something other than a crown. CEO’s are the royalty of America, basically. And like the royals of other countries, they are fabulously wealthy and yet still take state funding through tax cuts, tax rebates, and government contracts.
 
-prince, BECAUSE he’s a prince. From the very clear neglect and distance he 
-
-feels from his parents, the strain of having
-to do things he does not want to do, struggling 
-
-to keep what he wants at arms’ length because
-he knows he will not be allowed to have it, to 
-
-being manipulated and hazed by other rich boys. Hazing is illegal for a lot of reasons, due in 
-
-part to the fact that — at best — they are non
-consensual rituals of humiliation and establishing 
-
-power structures. Or as some would say
-‘boys being boys.’ And while Willhelm does not consent 
-
-to this, within the first episode,
-it’s made very clear that he would not be 
-
-in this situation if he were not wealthy. And while the overall plot of the 
-
-show is weaved together out of a
-number of other issues affecting 
-
-the other principal characters,
-Willhelm’s emotional state is always brought 
-
-to the forefront. From what I can tell,
-it seems as if the show is making the 
-
-statement that Willhem’s stunted emotional
-growth is due specifically to his birthright 
-
-and responsibilities as a Prince of Sweden. It is, after all, the crown that prevents him 
-
-from living as he choses. It is the crown which
-forces him into this school. And then it 
-
-is the crown that forces him to publicly
-deny the existence of a relationship with 
-
-Simon, even after a sex tape is leaked. If only there was a poor who could 
-
-understand… an emotional support poor if
-you will… who could help him find a reason 
-
-to sort through all of his emotional BS. Does Simon have his crap together…? I mean 
-
-honestly, he has the emotional intelligence
-to spot red flags and put distance 
-
-between him and someone he slept with so…
-that’s already leagues ahead 
-
-of most teenagers. And me. Simon’s conflict doesn’t really stem from 
-
-his own emotional ties — he struggles with
-Willhelm’s emotions. But his role, as this is 
-
-fiction crafted by authors who have intent,
-is to look cute and benefit 
-
-from Willhelm's emotional state. I wasn’t being flippant when I said that this 
-
-was a Cinderella story, it’s just flipped almost
-entirely in the opposite direction. The Cinderella 
-
-figure is Willhelm, who longs to escape his world
-of fabulous wealth, and you have Simon, who is the 
-
-escape from that rigid and emotionally negligent
-world. Simon is the pauper prince charming in this 
-
-version of the fairytail, not the prince himself. Wilmhelm has money, but in order for 
-
-him to become a functioning human being,
-he needs someone to help him navigate all 
-
-the emotions he’s not allowed to have. Enter the poor person, for whom 
-
-emotional intelligence is in abundance.
-Simon’s family life is almost a 
-
-night-and-day foil to Willhelm.
-Little in the way of expendable income, 
-
-but wealth in emotions, and having an open,
-honest line of dialogue with his mother. She loves 
-
-him, cares about him, and wants him to be happy.
-His gayness is never an issue with her because 
-
-her son’s emotions, his happiness, come first. Simon has the only thing money can’t buy — a good 
-
-home. So if emotions are money, it’s Simon who is
-the emotionally liberated prince who 
-
-needs to sweep Willhelm off HIS feet. One may say that this is an interesting flip… But in Wealth-centric propaganda fiction, 
-
-the glorification of poverty isn’t exactly
-new. And based on how successful it is, I 
-
-can’t see it going away any time soon. We
-see a lot of media popping up about how hard 
-
-it is to be wealthy, and especially Royal.
-How the responsibility of privilege weighs 
-down so much that it crushes the individual. This is the focus and topic of The Crown.
-Taking the royals and showcasing their 
-most 
-
-public moments — taking care to explain that
-these people WOULD be decent human beings 
-
-IF ONLY they did not have so many burdens.
-That obligation stifles the ability to be human 
-
-and begets more suffering across generations. There are a number of instances but the 
-
-clearest to me is in Season 3 Episode 6,
-where Prince Charles is sent to a 
-
-school he does not want to go to
-so he can fulfil a royal obligation that 
-
-his family has arranged against his wishes. Charles has to spend time with a 
-
-LOWLY professor and his family.
-At which point the professor’s wife remarks 
-
-how sad Charles makes her. How he looks at
-them and their child as if he’s never received 
-
-so much as a pat on the head from his parents. Again, reinforcing the concept that the poor have 
-
-a greater wealth of authentic life that the rich
-could never buy for themselves. 
-
-And this media’s message
-is that the Rich NEED the poor 
-
-to help them sort out their crap. Look at Crazy Rich Asians, where 
-
-the Young family NEEDS a poor woman
-to stand up to the bullying family matriarch. 
-
-You have a similar setup in Eddie Murphy’s
-Coming to America. Or Gone With the Wind, where 
-
-a fallen-from-grace plantation owner literally
-cannot function on a base human level without 
-the assistance of a freed slave now-servant. Hmm. One of those things was not like the others. Or Downton Abbey which has a VERY 
-optimistic 
-
-depiction of how upper-and lower-classes interact,
-and is host to any range of emotional support 
-
-poors who are there to step in and offer some
-advice you can’t buy. In this media the 
-
-problem with wealth is that the riches
-have forgotten to respect and value 
-
-what services the poor can offer them. Keep in mind, Willhelm’s infatuation with 
-
-Simon begins while Simon is literally
-singing. The wealthy falling in love with 
-
-the poor because of a song, or a poem,
-or even natural beauty, is something 
-
-media has depicted across time. On one hand, it is a message 
-
-to the rich to value the poor
-because talent and merit is something that cannot 
-
-be bought. On the other hand, it is a message to
-the poor to be as talented as humanly possible 
-
-in the hopes of attracting a wealthy patron. By the way, you should totally sign up for my 
-
-Patreon. Where I post exclusive videos, audio
-commentaries, behind the scenes videos, and more. 
-
-Sign up today at the link in the description. Media like this frames wealth as a gilded cage.
-And while poor people may 
-
-not have financial stability,
-they are depicted as having a degree of freedom 
-
-that is simply not accessible to the wealthy. I’ve never been wealthy, so I 
-
-can’t say if the former is true,
-but I can say that depicting poverty 
-
-as ‘freedom’ is certainly… a take.
-You COULD say a non-royal poor person can kiss 
-
-whoever they want without familial consequences
-or repercussions. But that is looking at 
-
-poverty with very rose-tinted glasses. In spite of the fact that it was a very 
-
-well-crafted show with plenty of good
-characters and emotional realism, I did find 
-
-Young Royals was a little guilty of this.
-If there was more content 
-
-about Simon’s social standing,
-it didn’t make it into the final cut or it’s 
-
-going to be explored in a second season. Which is happening. Yay! And of course, carrying on this discourse 
-framed exclusively around Swedish wage classes,
-we’re getting into that nasty territory of saying
-“well it’s not as bad as it 
-is 
-
-in America, so stop complaining.” And we’re not gonna do that here! But it does re-enforce a toxic 
-
-romanticization around poverty.
-This rich vs. poor depiction goes out 
-
-of its way to make poor viewers grateful
-that they’re poor. They have something that the 
-
-rich will never have, and they/we ought to be
-grateful for it. The REAL wealth is the people 
-
-you meet along the way, and so on and so forth. This media tells us that it’s the 
-
-poors’ responsibility to keep the
-rich grounded and honest. But one 
-
-thing this media does not highlight
-is that their responsibilities and 
-
-reputations, are themselves, privileges.
-Even when there’s shame associated with 
-not quite meeting those expectations. But shame… is never something the poor can afford. Shameless was a Showtime television 
-series 
-
-that ran for eleven seasons from 2011
-to 2021. It followed the story of the Gallaghers, 
-
-a family living on the south side of Chicago who,
-depending on their current financial 
-
-situation, could range from poor to destitute. Though the main character for the first few season 
-
-was inarguably, Fiona (despite what the Emmy
-Awards would have you believe) the main romantic 
-
-draw of the show was not her on again off again
-relationships with multiple men, but the tense 
-
-— sometimes hilarious, sometimes heartbreaking
-— relationship between her brother Ian, and his 
-
-temperamental bossy bottom of a boyfriend, Mickey. Ian and Mickey are established as enemies early 
-
-on in the series but quickly turn into lovers,
-because who could resist Cameron 
-
-Monaghan? Their relationship is,
-economically, one of equals. They both come from 
-
-the same economically devastated neighbourhood,
-they both grew up with the same 
-
-crappy parental situations,
-and they both have sisters who deserve 
-
-so much more than life is giving them. The real tension between Ian and Mickey, 
-
-early on, is much like the tension between
-Willhelm and Simon. Mickey isn’t willing 
-
-to come out of the closet to be with Ian.
-In fact, when Mickey’s outed he’s forced 
-into a shotgun wedding to Svetlana,
-a bisexual Russian sex worker. In the end though,
-they end up in an oddly healthy (at 
-least for 
-
-them) relationship. Married and everything. But their gayness isn’t really where the 
-
-drama comes from. It would be untenable
-to try to drag out ‘Mickey doesn’t want to 
-come out’ storylines for eleven seasons.
-The real drama comes from the economic situation. Because of growing up in extreme 
-poverty, Mickey 
-
-has become a criminal like his father. Not being
-the least bit shy when it comes to brandishing 
-
-firearms or breaking into people’s houses.
-He does time in jail multiple times throughout the 
-
-series, but never comes out any different, really. Because how could he? He’s been 
-
-raised to be a certain way,
-and time in a state pen isn’t 
-
-going to beat that out of him. Ian, on the other hand, isn’t 
-
-quite the criminal Mickey is.
-Nothing beyond the mischief most teenagers 
-
-would get up to, for the most part.
-Ian just wants to get grades good enough 
-
-to join the military. That’s his big dream.
-Which he does join, but does so illegally 
-
-using his brother’s name and information. When next we see Ian he’s gone AWOL 
-
-from the military and has become a
-tweaked out GoGo boy at a gay bar. But 
-
-luckily our unlikely prince charming,
-Mickey, swings in and rescues him. 
-
-But Ian’s acting very strange,
-and this erratic behaviour increases while 
-
-Mickey's problems with his wife also intensify. Ian drifts in and out of manic episodes until his 
-
-relationship with Mickey is fully confirmed, with
-Mickey outing himself at his son’s christening. 
-
-The end of the manic episodes leaves Ian in bed,
-nearly unresponsive. It’s at this 
-
-point that we discover that Ian,
-like his mother Monica, has Bipolar Disorder. My mother also suffered from Bipolar 
-
-Disorder so I know that with the right
-medication and coping mechanisms, this is 
-
-a condition that can be mostly managed.
-But there’s a big difference 
-
-between Ian and my mother. Though I also grew up poor, we lived in Canada. 
-
-So my mother was able to see the specialists she
-needed and get the medication she 
-
-needed without us going homeless. Ian, in Chicago, doesn’t have that luxury. In fact when the diagnosis is first floated, 
-
-Mickey refuses to allow Ian to be helped
-because it would, in all likelihood, result in 
-
-him being institutionalised in a state mental
-health institution. Which, in case you haven’t 
-
-heard, aren’t the nicest places. If Ian had the
-money to go see the doctors and get the meds 
-
-he needed, it would be a different situation. But everything deteriorates until Ian goes on 
-
-a psychological bender, his erratic behaviour
-increasing to the point where he agrees to 
-
-do unprotected porn, and abducts a baby. Ending with him forced into a psych ward, 
-
-where even Mickey agrees he needs treatment. Though there are plenty more ups and downs 
-
-for Ian and Mickey over the next few seasons,
-with both ending up in jail at one point, they 
-
-do end up stabilised and happy in the end. But
-it takes eleven seasons, a lot of heartache, 
-
-law breaking, violence, and trauma to get there. But even when they do move out of the bad 
-
-neighbourhood and into a nice building,
-they have no idea how to act in “proper 
-
-society”. With the uppity middle class gays
-trying to be rich gays. They don’t quite fit 
-
-in with the world above the poverty line.
-But neither do most of the 
-
-people on the show, queer or not. Fiona, Ian’s big sister and the family 
-
-mother figure, hops from odd job to odd job,
-even cleaning out clogged sewage 
-
-pipes to try and make ends meet.
-The spiral of just too many bad days eventually 
-
-leads to her becoming an addict. Which,
-in turn, leads to the Gallagher family 
-
-situation becoming even more precarious. Once she gets clean, she works her way up to be 
-
-the manager of a diner, which growing up poor
-seemed like a good solid job. But she soon finds 
-
-out that being a manager isn’t all that different
-from working a cash register. You just have a 
-
-lot more responsibilities and not a lot more pay. That’s a situation I think a lot 
-
-of people have been in. Growing up,
-I always thought that “manager” was the top of the 
-
-tops. That's the job where you have two cars and
-a nice house. Where your kids have a college 
-
-fund, etc.. Because what’s above the manager? But then I actually started working, got myself 
-
-into a managerial marketing position and realised… Oh… Managers are just employees 
-
-who are expected to be the bad guy.
-The people with real power, 
-
-real money, are the owners.
-They’re the ones with the nice houses 
-
-and the cars and the college funds. They don’t really teach you 
-
-that in high school though.
-That no matter how hard you work for a company, 
-
-no matter how high you climb in that company,
-you’ll always be under somebody else. 
-
-Not so different from Young Royals where
-no matter what Simon does, no matter what 
-
-his family does, they will always, always,
-be below Wilhelm. Because they cannot 
-
-work their way into the aristocracy. America doesn’t have royals, but they do have 
-
-millionaires and billionaires. You can work
-your way into the manager position of a company, 
-
-but it's near impossible to work your way into
-the CEO position. That glass ceiling is there, 
-
-it’s just blocking something other than a crown. CEO’s are the royalty of America, basically. And like the royals of other 
-
-countries, they are fabulously wealthy
-and yet still take state funding through tax 
-
-cuts, tax rebates, and government contracts.
-At least the Royals of Europe are honest 
-
-about it. They just take the money,
-they don’t create five layers of separation 
-
-so that people think they’re ‘creating jobs.’ I think that might be why Americans romanticise 
-
-the royals of Europe so much. They’re not trying
-to convince people that they aren’t as rich as 
-
-they are. Most of them aren’t pretending that
+At least the Royals of Europe are honest about it. They just take the money, they don’t create five layers of separation so that people think they’re ‘creating jobs.’ I think that might be why Americans romanticise the royals of Europe so much. They’re not trying to convince people that they aren’t as rich as they are. Most of them aren’t pretending that
 they’re just like everyone else, a sad performance 
 
 Mark Zuckerberg or Bill Gates try to pull off. REAL royals live in gilded palaces, not 
@@ -797,7 +323,7 @@ that many European countries have strong 
 social safety nets that America lacks.
 Take for instance the depiction of what passes for 
 
-impoverished between Shameless and Young Royals. Simon’s family isn’t rich by any means, but they 
+impoverished between Shameless and *Young Royals*. Simon’s family isn’t rich by any means, but they 
 
 do have a house and their mom does have a car.
 And whatever job she has, it's enough to keep that 
@@ -837,7 +363,7 @@ finds the coffee can with the monthly funds 
 stashed in it and decides to go on a bender? Destitution. One mistake. One oopsie daisy
 and the lives of the whole 
 
-family could come crashing down. While on Young Royals, when Simon demands 
+family could come crashing down. While on *Young Royals*, when Simon demands 
 
 August pay him the money he’s owed,
 getting even slightly aggressive, his friends 
@@ -862,7 +388,7 @@ both, in their most basic forms, tragedies.
 Shameless is a tragedy about the poor thinking 
 
 they can climb their way out of poverty,
-and Young Royals is a tragedy about the rich. Simon, though he may be the 
+and *Young Royals* is a tragedy about the rich. Simon, though he may be the 
 
 audience’s cypher character,
 is not the tragic figure. Wilhelm 
@@ -1103,7 +629,7 @@ for the characters in most media. And it’s in this very roundabout 
 way that, for the sake of argument,
 I’m perfectly willing to qualify both 
 
-Shameless and Young Royals as tragedies. If Aristotle can use ‘logic’ to 
+Shameless and *Young Royals* as tragedies. If Aristotle can use ‘logic’ to 
 
 make exceptions for things he likes,
 and find ways to justify them 
@@ -1182,7 +708,7 @@ very well be what keeps a lot of us from 
 
 crossing over the point of no return. However, compare and contrast to 
 
-Young Royals, where the tragedy is
+*Young Royals*, where the tragedy is
 rooted in emotional unfulfillment. After 
 
 undergoing a degree of emotional growth,
@@ -1209,8 +735,8 @@ he has to be reminded by his mother that 
 
 this is not a burden, it is a privilege. And this is where an analysis of 
 
-Young Royals really gets interesting.
-Because Young Royals can fit very nicely 
+*Young Royals* really gets interesting.
+Because *Young Royals* can fit very nicely 
 
 into that Aristotelian sense of tragedy.
 As the peak of dramatic tension is built 
@@ -1319,7 +845,7 @@ decisions. His mother can also stomach to 
 
 look him in the eye, let alone hug him. Tallying up the score… Kinda makes you 
 
-prefer the idea of being poor. Right? Like, according to Young Royals, being poor is 
+prefer the idea of being poor. Right? Like, according to *Young Royals*, being poor is 
 
 kinda great. Much better than being rich where
 everyone is trying to exploit you. Because, ah, 
@@ -1331,7 +857,7 @@ With his titles and holdings. He’s so oppressed. Which is exactly what his emo
 
 is here to help him through. Saying NO to the man. And it’s not that I’m particularly holding 
 
-this against Young Royals. Like I said,
+this against *Young Royals*. Like I said,
 it’s not alone in the use of an 
 
 emotional support poor to help a
@@ -1565,7 +1091,7 @@ would be good to have that sorted out in advance. I want to specify that I see 
 this as a problem with society,
 and not a problem with any 
 
-singular piece of media. I liked Young Royals. Let’s be clear! When you’re setting out to make a simple 
+singular piece of media. I liked *Young Royals*. Let’s be clear! When you’re setting out to make a simple 
 
 teenage love story that takes place in a
 fancy boarding school, it’s not fair to expect 
@@ -1624,7 +1150,7 @@ author trying to convey about the state of the 
 
 world? What is the author saying needs to change? And quite frankly, I’m 
 
-surprised it took Young Royals
+surprised it took *Young Royals*
 for me to realise this. Because looking 
 
 back, the writing is on the wall. Wake up people. The messaging is obvious. They’ve been 
