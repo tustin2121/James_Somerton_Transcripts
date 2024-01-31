@@ -19,7 +19,7 @@ notes:
   - vimeo
 
 contributors:
-  transcription: $cite$kenm
+  downloaded: $cite$kenm
   citation:
     - "[Todd in the Shadows](https://twitter.com/ShadowTodd/status/1731372737602666638)" #processed
 
