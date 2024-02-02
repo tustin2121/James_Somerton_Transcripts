@@ -1,5 +1,5 @@
 ---
-date: 2018-05-29
+date: 2021-12-16
 title: The History of Gay Panic
 status: Auto Script
 aka: !!seq
