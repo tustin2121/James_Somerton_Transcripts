@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/4zpcm14-scq"
+
 date: 2018-10-22
 title: Monsters in the Closet #- A History of LGBT Representation in Horror Cinema (Video essay)
 status: Auto

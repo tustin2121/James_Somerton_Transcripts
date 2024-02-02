@@ -15,6 +15,16 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	"redirect": {
+		"prefix": "redirect",
+		"body": [
+			"",
+			"redirect_from:",
+			"  - \"/videos/${1:$TM_FILENAME_BASE}\"",
+			""
+		],
+		"description": "Insert a 'redirect_from' front matter"
+	},
 	"mark": {
 		"prefix": "mark",
 		"body": [

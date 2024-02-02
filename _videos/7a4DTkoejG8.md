@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/7a4dtkoejg8"
+
 date: 2022-11-16 
 title: The Queer Erasure of Asexuality (A Discussion)
 status: Complete

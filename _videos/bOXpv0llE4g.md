@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/boxpv0lle4g"
+
 date: 2022-12-16
 title: Best Of Queer Media 2022
 status: Auto

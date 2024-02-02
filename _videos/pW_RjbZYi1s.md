@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/pw_rjbzyi1s"
+
 date: 2023-07-13
 title: The History of Gay Hollywood
 status: In Progress

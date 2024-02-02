@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/quiekdtmj2m"
+
 date: 2022-04-23
 title: Heartstopper and Queer Optimism
 status: Finished

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/uidcqnavkpi"
+
 date: 2022-02-10
 title: SHIPPING - The Good, The Bad, and the Thirsty
 status: Finished

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/6rhoewfbdg0"
+
 date: 2023-10-13
 title: Vampires, and the Gays That Love Them
 status: Auto

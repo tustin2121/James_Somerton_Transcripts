@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/alyjl0ddcps"
+
 date: 2023-10-29
 title: The Gay Horror Manga You Should Be Reading
 status: Finished

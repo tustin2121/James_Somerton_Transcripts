@@ -1,9 +1,13 @@
 ---
+redirect_from:
+  - "/videos/vohyzuj43k4"
+  - "/videos/5RPsRpk8aKA" # Original upload video id
+  - "/videos/5rpsrpk8aka"
+
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
 redirect_from:
-  - "/videos/5RPsRpk8aKA" # Original upload video id
 
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'

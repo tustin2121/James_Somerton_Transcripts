@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/sdtbqhakfsi"
+
 date: 2023-03-15
 title: Hollywood's Golden Age (of Queer Coding)
 parent: pW_RjbZYi1s

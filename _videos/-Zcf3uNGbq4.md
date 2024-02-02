@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/--zcf3ungbq4"
+
 date: 2023-02-15
 title: How Hollywood was Born Gay
 parent: pW_RjbZYi1s

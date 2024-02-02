@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/utryi-e_htc"
+
 date: 2023-05-11
 title: 'Where The "Bury Your Gays" Trope Came From'
 parent: pW_RjbZYi1s

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ltcm9exjvoi"
+
 date: 2013-11-24
 title: 'Geek Theory - Episode #2 "The DC Cinematic Black Hole"'
 status: Auto

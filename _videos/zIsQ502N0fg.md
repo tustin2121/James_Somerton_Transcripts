@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/zisq502n0fg"
+
 date: 2021-11-18
 title: Hollywood's (Gay) China Problem #｜ James Somerton
 status: Finished

@@ -1,5 +1,6 @@
 ---
-redirect_from: 
+redirect_from:
+  - "/videos/5oxh1rqbagw"
   - "/videos/PnkTriangle"
   - "/videos/pnktriangle"
   - "/videos/PinkTriangles"

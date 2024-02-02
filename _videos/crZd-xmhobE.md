@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/crzd-xmhobe"
+
 date: 2013-11-20
 title: 'Geek Theory - Episode #1 "The Marvel Issue"'
 status: Auto

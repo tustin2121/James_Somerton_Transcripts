@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ij3m_dhpli0"
+
 date: 2023-04-15
 title: America v. Homosexuality
 parent: pW_RjbZYi1s

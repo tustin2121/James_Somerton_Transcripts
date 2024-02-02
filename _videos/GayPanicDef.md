@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/gaypanicdef"
+
 date: 2021-12-16
 title: The History of Gay Panic
 status: Auto Script

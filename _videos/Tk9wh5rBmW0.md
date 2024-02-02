@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/tk9wh5rbmw0"
+
 date: 2022-06-14
 title: The Queer Sensibilities of Cinema
 status: Auto

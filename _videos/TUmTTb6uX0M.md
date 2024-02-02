@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/tumttb6ux0m"
+
 date: 2022-02-25
 title: How Wanda Became An Accidental Gay Icon
 status: Script

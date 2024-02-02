@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/h65wg2s4pzy"
+
 date: 2014-05-22
 title: 'Geek Review: X-men "Days of Future Past"'
 status: Auto Script

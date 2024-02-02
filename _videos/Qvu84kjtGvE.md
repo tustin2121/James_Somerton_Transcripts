@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/qvu84kjtgve"
+
 date: 2020-09-10
 title: "Evil Queens: A Queer Look at Disney History"
 status: Auto

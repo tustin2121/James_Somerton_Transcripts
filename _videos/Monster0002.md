@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/monster0002"
+
 date: 2018-05-28
 title: "Monsters in the Closet: America's New Nightmare"
 parent: 4zPCM14-SCQ

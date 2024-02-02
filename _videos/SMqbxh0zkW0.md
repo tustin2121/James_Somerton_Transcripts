@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/smqbxh0zkw0"
+
 date: 2023-08-22
 title: Canadian Queer Identity with James Somerton
 status: Finished

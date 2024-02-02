@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/karovbqcyke"
+
 # cspell:words:  Shyamalan Snape Palpatine Lecter Skywalker Kylo Tibult anaphylactic
 date: 2023-04-29
 title: How Spoilers Are Ruining Everything

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/y-ly49qkpge"
+
 date: 2022-11-01
 title: The Outing of Kit Connor (Special Podcast Episode)
 status: Auto

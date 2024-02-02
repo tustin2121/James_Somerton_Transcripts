@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ufpkp6s_g_4"
+
 date: 2020-08-30
 title: Making It Big：The History of Gay Adult Film (Documentary)
 status: Auto

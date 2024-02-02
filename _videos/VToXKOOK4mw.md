@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/vtoxkook4mw"
+
 date: 2023-12-20
 title: "I'm sorry"
 status: Complete

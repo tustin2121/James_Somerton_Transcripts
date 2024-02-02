@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/tqnkekrpefi"
+
 date: 2021-11-05
 title: Video Games and the Choice to be Gay
 status: Auto

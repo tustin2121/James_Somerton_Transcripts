@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/shfualdfdyy"
+
 date: 2021-02-11
 title: The Scarlet Witch and Marvel’s Gay Power Couple
 status: Auto

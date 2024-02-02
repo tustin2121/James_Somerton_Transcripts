@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/a6p04yw6kys"
+
 date: 2023-05-27
 title: The Dangers of Blissful Ignorance
 status: Finished

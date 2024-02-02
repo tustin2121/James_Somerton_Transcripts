@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/monster0001"
+
 date: 2018-04-28
 title: "Monsters in the Closet: The Modern Ganymede"
 parent: 4zPCM14-SCQ

@@ -1,6 +1,8 @@
 ---
 redirect_from:
-  - "/videos/gQVWepgSvfg"
+  - "/videos/kxgpvm09gcm"
+  - "/videos/gQVWepgSvfg" # original upload
+  - "/videos/gqvwepgsvfg"
 
 date: 2022-09-19
 title: Reclaiming the "Q" Word

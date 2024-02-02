@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/-ogpyycnao8"
+
 date: 2023-06-06
 title: The Problem With Pride #｜ James Somerton
 status: Auto

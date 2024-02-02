@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/s-_ncmyntn0"
+
 date: 2021-09-13
 title: Disney's War on Gay Kids
 status: Finished
