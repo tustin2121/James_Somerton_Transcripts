@@ -79,7 +79,7 @@ This video is brought to you by my patrons. If you'd like to support my channel 
 
 See Part 1 for the Cold Open
 
-{%- assign subvid = subvids[1] -%}
+{%- assign subvid = site.videos | where: "slug", "Camp-000001" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>

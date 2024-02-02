@@ -1,8 +1,8 @@
 ---
 redirect_from: 
-  - "/video/PnkTriangle"
-  - "/video/pnktriangle"
-  - "/video/PinkTriangles"
+  - "/videos/PnkTriangle"
+  - "/videos/pnktriangle"
+  - "/videos/PinkTriangles"
   # - "/video/FeAAqBRL-fc" # Part 1: The Coming Storm
 
 date: 2021-01-11
