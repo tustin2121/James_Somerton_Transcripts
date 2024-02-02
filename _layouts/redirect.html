@@ -2,8 +2,8 @@
 <html lang="en-US">
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="{{ "/css/markdown-github.css" | relative_url }}" type="text/css" />
-	{%- assign vid = page.redirect.to | remove_first: site.url -%}
-	{%- assign video = site.videos | where: 'url', vid | first -%}
+	{% assign vid = page.redirect.to | remove_first: site.github.url | remove_first: site.url -%}
+	{% assign video = site.videos | where: 'url', vid | first -%}
 	
 	{%- capture ogdesc -%}
 		{%- if video.aka -%}aka '{{ video.aka | first }}'{%- endif -%}
