@@ -34,7 +34,7 @@ cite:
     haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     misattributed: "James misattributes a quote from a news article as being from a book."
     director_misquote: "James edited out the context of a quote for director Herbert Kenwith, making it look like he was saying something when he was quoting someone else."
-    coca_cola: "James probably overblows Joan's value to the Coca Cola company."
+    cola_company: "James probably overblows Joan's value to the Pepsi-Cola company."
   plagiarized: !!map
     wiki_film: 
       color: 2
@@ -446,7 +446,7 @@ Fact number two! Is *another* iconic scene: Joan Crawford *was* on the board of 
 In the film, this encounter is depicted with Joan... *screaming* into the boardroom, famously saying--
 
 </james>
-<comment id="coca_cola">
+<comment id="cola_company">
 {% include header name="enoDRtiG" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/60#issuecomment-1920264290" %}
 
 While Pepsi did take quite a while to get anywhere close to Coke, the catching up started long before Joan Crawford married Pepsi president Alfred Steele in 1955. 
