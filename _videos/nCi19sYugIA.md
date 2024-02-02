@@ -22,14 +22,15 @@ contributors:
 
 cite:
   clips: !!map
-    mommie_dearest: { short: "Mommie Dearest", full: "TODO Mommie Dearest" }
-    tonight_show: { short: "Tonight Show", full: "TODO Tonight Show" }
+    mommie_dearest: { short: "Mommie Dearest", full: "Perry, F. (1981). <em>Mommie Dearest</em> [Film]. Paramount Pictures." }
+    tonight_show: { short: "Tonight Show", full: "de Cordova, F., Lassally, P. (Producers). (1988). <em>The Tonight Show starring Johnny Carson</em> [Television broadcast]. NBC Studios." }
     director: { short: "Director Interview", full: "TODO Director Interview" }
     joy_behar: { short: "Joy Behar", full: "TODO Joy Behar Say Anything show clip" }
   yikes: !!map
   misinformation: !!map
     haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     misattributed: "James misattributes a quote from a news article as being from a book."
+    coca_cola: "James probably overblows Joan's value to the Coca Cola company."
   plagiarized: !!map
     wiki_film: 
       color: 2
@@ -416,7 +417,7 @@ Christina (dramatically): "Because I am *not*...! One of your ***FANSSSS!***"
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And *now* we're getting into the territory of Christina's accounts that *can* be backed up by fact. 
 
@@ -424,20 +425,29 @@ Fact number one! ...is that, yes, Joan really did replace Christina [laughing] o
 
 </james>
 <from></from>
-<james span="2" {% include timecode %}>
-
-Fact number two! Is *another* iconic scene: Joan Crawford *was* on the board of directors for PepsiCo, via her husband. The company was a nothing up-start to compete with the behemoth that was Coca-Cola. Joan was brought on as a brand ambassador and basically *made* the company into what it was. Joan married the CEO, and the board of directors *did* try to force her out after his death. 
-
-In the film, this encounter is depicted with Joan... *screaming* into the boardroom, famously saying--
-
-</james>
 <comment>
 {% include header for=tustin %}
 
 It should be noted here that James has had a Pepsi can sitting next to him on his right this whole time, clearly in frame.
 
 </comment>
-<from></from>
+<james {% include timecode %}>
+
+Fact number two! Is *another* iconic scene: Joan Crawford *was* on the board of directors for PepsiCo, via her husband. <mark fc>The company was a nothing up-start to compete with the behemoth that was Coca-Cola. Joan was brought on as a brand ambassador and basically *made* the company into what it was.</mark> Joan married the CEO, and the board of directors *did* try to force her out after his death. 
+
+In the film, this encounter is depicted with Joan... *screaming* into the boardroom, famously saying--
+
+</james>
+<comment id="coca_cola">
+{% include header name="enoDRtiG" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/60#issuecomment-1920264290" %}
+
+While Pepsi did take quite a while to get anywhere close to Coke, the catching up started long before Joan Crawford married Pepsi president Alfred Steele in 1955. 
+
+In 1951, the year after Steele became president of Pepsi-Cola, [Pepsi's gross profit before expenses was $30,216,383](https://archive.org/details/pepsicofritolayannualreports/pepsicola1960/page/n27/mode/2up) while [Coca-Cola's was $123,477,571.54](https://archive.org/details/cocacolacoannualreports/cocacola1951/page/n7/mode/2up), so about a quarter of Coca-Cola's. Which is a lot smaller but not 'nothing'. 
+
+The truth in Somerton's claim is that Steele's tenure as president did see a massive growth in Pepsi-Cola's sales, as the report from 1960 linked above clearly demonstrates, but it was pretty continuous before and after marrying Joan Crawford, <mark>so I doubt she played that big of a role.</mark>
+
+</comment>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
 Joan: "*DON'T FUCK WITH ME, FELLAS!!*"
