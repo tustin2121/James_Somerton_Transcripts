@@ -101,7 +101,7 @@ Written by Nick Herrgott & James Somerton
 </credits>
 </compare>
 
-<div class="notice-banner" id="camp-start"><a href="{{ "Camp-000001" | slugify }}.html#mmd-in"><i class="fa-solid fa-right-to-bracket"></i> "How the Gays Stole Cinema"</a>'s version starts here.</div>
+<div class="notice-banner" id="camp-start"><a href="{{ "Camp-000001" }}#mmd-in"><i class="fa-solid fa-right-to-bracket"></i> "How the Gays Stole Cinema"</a>'s version starts here.</div>
 
 <compare>
 <james span="2" {% include timecode %}>
@@ -789,4 +789,4 @@ The patreon credits were added to the stand-alone version of this video.
 </comment>
 </compare>
 
-<div class="notice-banner" id="camp-end">"How the Gays Stole Cinema"'s segment <a href="{{ "Camp-000001" | slugify }}.html#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="camp-end">"How the Gays Stole Cinema"'s segment <a href="{{ "Camp-000001" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>

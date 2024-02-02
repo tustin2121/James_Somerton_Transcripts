@@ -1,6 +1,8 @@
 ---
 redirect_from:
-  - "/videos/--zcf3ungbq4"
+  - "/videos/-zcf3ungbq4"
+  - "/videos/Zcf3uNGbq4"  # front-dash seems to cause issues
+  - "/videos/zcf3ungbq4"
 
 date: 2023-02-15
 title: How Hollywood was Born Gay
@@ -74,7 +76,7 @@ This video is brought to you by ATLAS VPN.
 </james>
 </compare>
 
-<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch1-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent }}#ch1-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
 
 <compare>
 <james span="2" {% include timecode %}>
@@ -109,7 +111,7 @@ But *Wings* is actually not where our story begins. The history of Hollywood has
 <from></from>
 </compare>
 
-<div class="notice-banner" id="title-start">For the compilation video, see <a href="{{ page.parent | slugify }}.html#title-in">the opening credits. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="title-start">For the compilation video, see <a href="{{ page.parent }}#title-in">the opening credits. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <james meta {% include timecode %}>
@@ -172,7 +174,7 @@ Note: The compilation video's titles are slightly different. In fact, this seems
 </credits>
 </compare>
 
-<div class="notice-banner" id="title-end"><a href="{{ page.parent | slugify }}.html#title-out"><i class="fa-solid fa-right-to-bracket"></i> For the compilation video</a>, resume here.</div>
+<div class="notice-banner" id="title-end"><a href="{{ page.parent }}#title-out"><i class="fa-solid fa-right-to-bracket"></i> For the compilation video</a>, resume here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -740,7 +742,7 @@ General American audiences though could easily see through the coding. However, 
 <from></from>
 </compare>
 
-<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent | slugify }}.html#ch1-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent }}#ch1-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <james meta {% include timecode %}>
