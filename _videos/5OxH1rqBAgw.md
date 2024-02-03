@@ -38,187 +38,707 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+The vastly ignored history of Germany's war on gay men during World War 2.
+
+A special note: Trans women were also persecuted but Germany categorized them as gay men so there's no official records to refer to. 
+
+Patreon: [link]
+
+Twitter: [link]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+#History​ #LGBTQ​ #LGBT​
+
+00:00​ Introduction
+04:34​ Part One: Stormfront Approaching
+09:51​ Part Two: Paragraph 175
+14:49​ Part Three: The Night of the Long Knives
+20:44​ Part Four: The Mad Inquisitor
+26:27​ Part Five: It Begins
+32:35​ Part Six: Legally Admissible
+37:40​ Part Seven: Is He... You Know?
+44:16​ Part Eight: Camp
+01:00:19​ Part Nine: Does It End?
+01:03:48​ Part Ten: Remember
+
+</credits>
+</compare>
+
+<compare>
+<credits class = "opening" >
+
+[Sounds of machinery in the background.]
+
+> James Somerton Presents
+
+> Written by James Somerton and Nick Herrgott
+
+> Based on the works of Richard Plant & Gunter Grau
+
+> The Pink Triangles
 
 </credits>
 </compare>
 
 {% include transcript-start %}
 
-for when the Holocaust has been written or spoken about it's often focused on the
-stories of the millions of Jewish people and political prisoners that were put into concentration camps or killed the
-voices of smaller groups have been lost over the years many of these groups were small before they were imprisoned and
-came out even smaller historians overlooked many of these groups such as the Jehovah's
-Witnesses Romani neuroatypical and gay men after after the war was over because
-many of these groups still had negative stigmas attached to them and still do to this day gay men had it particularly
-rough after the war they were often silenced put in Soviet prisons and left
-off of memorials this eraser of their histories has left minimal sources about the
-subject survivors felt shame for being imprisoned for being gay and often
-stayed quiet about their experiences as the last few home sexual survivors finally began speaking some
-information came forth about what it was like being gay in Germany before and during Hitler's Reign by the turn of the
-20th century it was near impossible to be gay and out anywhere in the world
-cities that today hold huge Pride parades then prosecuted gay men under
-any number of anti-sodomy laws these laws spread across North America Europe
-and Asia but there was an odd bubble of Tolerance in the middle of Europe Berlin
-though Germany had anti-gay laws on the book since it was just a loose collection of independent states they
-were seldom enforced in Germany gay culture thrived and Berlin was
-recognized as the gay capital of the world even during World War I the queer subculture survived many clubs and bars
-restaurants and dance halls all within Berlin's gay district Drew patrons who preferred to be intimate with members of
-their own gender sometimes in these settings it was hard to tell who was a man and who was a
-woman in 1918 the first gay themed movie different from the others was made in
-Germany produced to educate the public about homosexuality it was written by Dr Magnus herfeld a researcher in human
-sexuality the British writer Christopher isherwood left England to live in Berlin in the 1920s because it was a much more
-exciting and welcoming place for gay men in England gay men were still being
-tried as sodomites and sentenced to castration and hard labor while in Berlin it wasn't entirely shocking to
-see two men holding hands or even kissing many years later isherwood's book Christopher and His Kind was
-written about his experiences in Berlin gay men and women as well as groups supporting their rights had even made
-great strides in achieving some form of legal recognition in Germany as well the
-most important goal and end to Legal discrimination had been called for by a number of weighty figures in groups even
-outside the legal and medical professions moreover a number of gay rights organizations had sprung up
-across the country in the big cities especially Berlin and Hamburg widespread tolerance and acceptance of gay people
-was becoming the norm greater public support for changes in the criminal law meant that political parties had also
-been under increasing pressure to take a position on gay rights their different attitudes became apparent in 1929 when
-the right committee on criminal law discussed the draft of a common German penal code and recommended among other
-things the deletion of section 175 the part of the German legal code
-that made homosexuality illegal gay people would be accepted openly in German society and by the
-German government as soon as the early 1930s gay men and women in Europe had
-found their Eden but other winds were blowing through Germany that would scatter any
-meaningful attempt at gay rights part one Stormfront
-approaching in the years after World War I extreme economic crisis widespread
-unemployment unprecedented inflation and bitter civil unrest engulfed to Germany
-with the shock of military defeat at the end of the war fear and insecurity would grip all social
-classes it was a war that left 1.7 million German soldiers dead and another
-another 4 million injured the returning veterans convinced that the leaders of the country had betrayed them believed
-that they had been stabbed in the back most Germans agreed how was it possible for the
-Kaiser's Mighty Army to have been defeated only days before the end hadn't the Army's own press releases promised
-the certain victory of the Sacred German cause what most Germans suspected what
-the Press trumpeted was the traitors at home had caused the Great catastrophe
-War profiteers foreigners from the East Communists and socialists and especially the Jews all were to blame for Germany's
-humiliation the country was swept by a tidal wave of guilt and anger that was felt most prominently by younger men who
-had not seen military service the idea that the Empire the Kaiser and the Golden Age of German
-dominance had been brought down by internal enemies was prevalent enraged former soldiers and
-younger men created violent band hands that roamed across Germany a profound yearning could be felt for stability and
-revenge at all levels of society from farm and Factory workers to middle-class
-businessmen and big city intellectuals the Weare Republic's experiment in democracy and social tolerance was
-gradually undermined by mistrust inequality and violence long before Adolf Hitler entered politics one is
-almost tempted to say that the Republic was not brought down by Hitler he merely saved it from suicide by murdering it
-himself five factors were roing together to bring down the accepted order in
-Germany firstly after World War I the Spectre of Revolution frightened many
-older people it had been accomplished in Russia by the Bolsheviks and they had relied on the spread of revolution in
-Europe to guarantee their survival it seemed to many that the Revolt in Munich in 1918 was but the
-opening shot in a class war secondly in this climate dozens of racist and
-virulently nationalistic groups had begun to flourish each more fanatical
-than the last a third Factor cracked open the thin walls of stability and did more than any other to destroy trust and
-hope the MTH inflation of 1922 and 23 in just 16 months the German mark
-soared from 192 marks to the American dollar to a staggering 4.2
-trillion the financial faith of the country was shattered Beyond repair the
-deepening crisis was compounded by a fourth factor a rapid rise in unemployment especially following the
-crash of the New York Stock Exchange in 1929 which killed half of central Europe's financial institutions the
-number of unemployed workers increased from 1.5 million to 3.2 million the
-actual number is estimated by some Economist to have been more than 6 million a fifth and most toxic
-ingredient had been added added to the social mess the Nazi party as the unemployment rate Rose Nazi
-membership grew the Nazi party not only provided food weapons and a magnificent
-uniform but proclaimed a new purpose a new faith and a new profit inflation and unemployment had
-catapulted into Power a man who promised rebirth to all Aryan Germans regardless
-of economic status but that shouldn't suggest that everyone in Ware Republic
-Germany was destitute during the Republic the homosexual subculture had thrived compared to the rest of the
-world of course those in the spotlight famous actors designers dancers doctors
-politicians directors and lawyers had to live with a certain amount of abuse but many had acquired power money and even
-connections to the Ware government which served as protection as Hitler's influence grew
-the average gay German could go unnoticed and undisturbed though their apparent failure to lose their jobs did
-enrage many Germans as self-employed Artisans many could still sell their
-Wares outside of Germany but the heterosexual majority who worked for
-employers were trapped by the growing inflation police began rethinking their
-leniency on homosexual men the average lesbian on the other hand enjoyed a kind
-of legal immunity during the Ware years organized lesbian costume balls were held
-luxurious lesbian bars and nightclubs flourished their owners never feared a police raid the reason neither the
-second German Empire nor the Ware Republic had ever passed laws forbidding or punishing sexual acts between women
-but sexual tolerance began to disappear just as quickly as Germany's economy began to
-crumble part two paragraph 175 as the Roaring 20s passed and the
-Nazi party began began to gain power there began an increasing fear of
-homosexuality gay men were another scapegoat that the Nazi party could used to explain why Germany was failing as a
-nation homosexuals were portrayed as weak degenerates who had to rely on state aid to get by despite the majority
-being self-employed their behaviors as homosexuals were what made them weak and
-if they were allowed to continue it would corrupt other citizens not to mention that these men were having
-non-procreative sex at a time when the Nazis wanted to have as many strong good German babies as
-possible and so sex without the intention of having children was seen as
-taboo Nazi leader Hinrich Kimler said that homosexuality would deprive Germany
-of the Next Generation they owed her paragraph 175 became the way the Nazis could more efficiently regulate this
-homosexual Behavior the law that prohibited sex between two men but not two women dated
-back to 18 71 when the King of Prussia United various kingdoms into one German
-state with the new constitution paragraph 175 stated a male who commits
-a sex offense with another male or allows himself to be used by another male for a sex offense shall be punished
-with imprisonment the vague language of the law had allowed it to go unenforced but not anymore on May 14th
-1928 the Nazis published a response to a question posed about their stance on
-eliminating paragraph 175 they said it is not necessary that
-you and I live but it is necessary that the German people live and it can only
-live if it can fight for life means fighting and it can only fight if it
-maintains its masculinity it can only maintain its masculinity if it exercises discipline
-especially in matters of Love free love and deviance are undisciplined therefore
-we reject you as we reject anything that hurts our nation anyone who thinks of
-homosexual love is our enemy we reject anything which emasculates our people
-and makes it a play thing for our enemies for we know that life is a fight and it is madness to think that men will
-ever Embrace fraternally Natural History teaches us
-the opposite might makes right this outright public stance
-against homosexuality was only the beginning of many more strengthened laws and
-persecutions Hinrich himler said that homosexuality was not just a criminal act but a danger to the future of the
-Aryan race as soon as Hitler took power he attempted to strengthen anti-homosexuality laws amendments to
-paragraph 175 were put into place which strengthened the previous version
-considerably now any suggestion or suspicion of homosexuality could be punishable by
-arrest whether or not you were caught committing a homosexual act the revised
-wording for paragraph 175 defining a sex offense between males dictated its
-punishment paragraph 175a states that a punishment of 10
-years in prison May apply to any man who one rapes another man two coerces
-another man into sex three has sex with any man under the age of 21 and four has
-sex with a man this revised version of paragraph 175 was much more lengthy than
-the previous version and makes sure there are many more opportunities for men to be caught and persecuted the
-revised version also doesn't explicitly State what constitutes a sex offense between two men so many men were
-prosecuted simply because they hugged another man received a letter from a gay friend or even just had go gossip about
-their behavior going around the neighborhood any and all signs of homosexuality were to be stopped in July
-1932 the Nazi party won the most seats in the German Parliament though far from
-a majority 37% Hitler could now form a government
-in Coalition with other parties eventually the Centrist parties agreed to accept Hitler as leader and in
-January of 1933 he was named chancellor of Germany the next month homosexual
-rights organizations were banned the Nazis moved quickly to suppress any objectors to the new
-regime enemies of the state were rounded up in raids on homes and businesses and
-transported to the newly constructed concentration
-camps part three the night of the Long Knives the years from 1929 to the end of
-the Ware Republic were years of M oun in tension to facilitate power political and militarily the Nazis commissioned a
-militia the brown shirts or the sa and as the Nazis attained even more
-political legitimacy the sa became even more repressively efficient their leader
-Ernst Rome was gay himself and was Hitler's right-hand man through his rise
-to power from early on Rome displayed an irreverent attitude toward those higher
-in rank than he a trait that got him in trouble throughout his career later he would observe that an intelligent
-thinking subordinate is the natural enemy to his Superior Rome often went
-out of his way to let his superiors know that he considered them inept his ill-concealed contempt did not endear
-him to the Army's High command Hitler admired this trait in him though until Rome's criticisms were
-turned toward the furer himself Hitler promised to Germany's youth an endless military parade replete with death
-dashing Insignia Badges and Banners he invented special ranks for sa recruits
-and later for the SS he offered the vision of a brave Sunny world of soldiering for those who
-had given up hope his enemies he threatened with war and Extinction they
-would be eliminated ruthlessly Hitler's favorite word and he enjoyed saying that
-heads would roll rome thought the theatricality was a bit much despite
-their disagreement Hitler made Rome chief of the sa where he recruited thousands of adoring unsophisticated
-young men according to his Recollections and even his most venomous enemies within the Nazi party never disputed
-this he never began a sexual relationship with anyone under his command his sexual habits with men did
-not go unnoticed though and Drew particular ey from himler who was his subordinate at the time but Hitler was
-growing more attached to himler now rather than Rome mostly because himler knew how to stroke his ego and Stoke his
-fear years he convinced him that Rome intended on murdering Hitler and taking lead of the Nazi party himself operation
-hummingbird or more popularly known as the night of the Long Knives was a blood bath that began on June 28th and lasted
-until July 3rd 1934 seeing Adolf Hitler wreck the sa militia and order the
-shooting of its Chief ER strome he no longer needed his oldest Ally whose open homosexuality was becoming a
-liability because Hitler and himler had been secretly building up the SS a black
-shirted crew of bodyguards and thugs on the night of June 28th Hitler fled to
-Berlin accompanied by his usual Entourage and a small cohort of ss bodyguards before the sun fell Ern Drome
-and several of his allies were arrested and transported to stalheim prison meanwhile the Swift Purge was taking its
-toll on Berlin and other German cities about 300 people were killed many in no
-way connected with the SA but hated or feared by someone in the Nazi bureaucracy from Munich Hitler ordered
-the sa regulars to the brown house screaming that they were all homosexual pigs though he well knew that only a few
-in Rome's immediate Entourage Were Gay they were all killed so far Ernst Rome
-had been spared but on July 1st an SS officer entered Rome's prison cell
-handed him a revolver and said I'll be back in 15 minutes you have a choice
-Rome resp responded let Adolf do it himself I'm not going to do his job anymore later that day the SS executed
-him reportedly Hitler didn't have the stomach to kill him himself as The Purge
+<compare>
+<james {% include timecode %}>
+
+<mark>When the Holocaust has been written or spoken about, it's often focused on the stories of the millions of Jewish people and political prisoners that were put into concentration camps or killed.</mark> <mark>The voices of smaller groups have been lost over the years.</mark> <mark>Many of these groups were small before they were imprisoned and came out even smaller.</mark> <mark>Historians overlooked many of these groups, such as the Jehovah's Witnesses, Romani, neuroatypical and gay men after after the war was over, because many of these groups still had negative stigmas attached to them, and still do to this day.</mark> <mark>Gay men had it particularly rough after the war. They were often silenced, put in Soviet prisons and left off of memorials.</mark> <mark>This erasure of their histories has left minimal sources about the subject. Survivors felt shame for being imprisoned for being gay and often stayed quiet about their experiences.</mark> <mark>As the last few homosexual survivors finally began speaking, some information came forth about what it was like being gay in Germany before and during Hitler's Reign.</mark> 
+
+</james>
+<from>
+
+https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors
+
+<mark>When the Holocaust has been written about or spoken of, it is often focused on the stories
+of the millions of Jewish people and political prisoners that were put into concentration camps,
+or killed.</mark> <mark>The voices of some of the smaller groups that were imprisoned have been lost over the years.</mark> <mark>Many of these groups were small before they were imprisoned and came out even smaller.</mark> <mark>Historians overlooked many of these groups, such as the Jehovah's Witnesses, gypsies, criminals, anti-socials, and homosexuals after the war was over, because many of the groups still had negative stigmas attached to them, and still do to this day.</mark> Gypsies are still often poor and have negative stereotypes perpetuated about them. After the war, criminals were still looked down on for their misdeeds. <mark>The homosexual men had it particularly rough after the war. They were often shamed into silence, put in Soviet prisons, and left off of memorials.</mark> <mark>This silencing of their histories has left minimal sources about the subject. Survivors felt shame for being imprisoned for being homosexual, and often stayed quiet about their experiences for years.</mark> <mark>As the last few homosexual survivors are finally speaking, there is some information coming forth about their experiences.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>By the turn of the 20th century, it was near impossible to be gay and out anywhere in the world.</mark> <mark>Cities that today hold huge Pride parades then prosecuted gay men under any number of anti-sodomy laws.</mark>
+
+</james>
+<from>
+
+https://archive.org/details/brandedbypinktri0000sett p.3
+
+Chapter 1: Berlin - Homosexual Capital of Europe
+
+<mark>In the early years of the twentieth century, life was extremely difficult for gay men and women.</mark> <mark>In cities that now celebrate gay pride, homosexuals<sup>(1)</sup> were actively persecuted. Laws prohibited sex between men.</mark> As a result, most homosexuals were forced to lead secret lives and had to establish their own underground networks.
+
+(1) During this period, "homosexuals" referred specifically to men. The word "gay" was not in common use.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+These laws spread across North America, Europe and Asia,<mark>but there was an odd bubble of tolerance in the middle of Europe: Berlin.</mark> <mark>Though Germany had anti-gay laws on the book since it was just a loose collection of independent states, they were seldom enforced.</mark> <mark>In Germany, gay culture thrived and Berlin was recognized as the gay capital of the world.</mark> 
+
+</james>
+<from>
+
+Branded p.3
+
+<mark>Still, there were exceptions - and Berlin was an exceptional city.</mark>
+
+Life for homosexuals in Germany was much easier than it was in the rest of Europe, or indeed the rest of the world.<mark>The German laws that prohibited sex between men were seldom enforced,</mark> <mark>and homosexual culture thrived. Berlin was recognized as its capital.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Even during World War I the queer subculture survived. <mark>Many clubs and bars, restaurants and dance halls, all within Berlin's gay district, drew patrons who preferred to be intimate with members of their own gender. Sometimes in these settings it was hard to tell who was a man and who was a woman.</mark> 
+
+</james>
+<from>
+
+Branded p.5
+
+<mark>Many clubs and bars, restaurants, and popular dance clubs, all within Berlin's gay section, drew patrons who preferred to be intimate with members of their own sex. Sometimes in these settings it was hard to tell who was a man and who was a woman.</mark> 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>In 1918, the first gay-themed movie, *Different from the Others*, was made in Germany. Produced to educate the public about homosexuality, it was written by Dr. Magnus Hirschfeld, a researcher in human sexuality.</mark> 
+
+</james>
+<from>
+
+Branded p.7
+
+<mark>In 1918, the first international gay-themed film, *Anders als die Andern* (Different from the Others) was made in Germany. Producted to educate the public about homosexuality, it was co-written by Dr. Magnus Hirschfeld, a researcher in human sexuality</mark> who also appeared in the film. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The British writer Christopher Isherwood left England to live in Berlin in the 1920s because it was a much more exciting and welcoming place for gay men.</mark> In England, gay men were still being tried as sodomites and sentenced to castration and hard labor, while in Berlin it wasn't entirely shocking to see two men holding hands or even kissing. <mark>Many years later Isherwood's book, *Christopher and His Kind*, was written about his experiences in Berlin.
+
+</james>
+<from>
+
+Branded p.8
+
+<mark>The British writer Christopher Isherwood left England to live in Berlin in the 1920s because it was a much more exciting place to live as a gay man than anywhere else in the world.</mark> <mark>Many years later, when he was famous, he wrote of his experiences in the 1976 book *Christopher and His Kind*.</mark> But the book that made him so famous, *Goodbye to Berlin*, he had written decades earlier; it included descriptions of the characters, energy, and decadence he found in the city. Isherwood wrote about the notorious Kit Kat Club, immortalizing it for future generations. *Goodbye to Berlin* was produced as a play, *I Am a Camera*, and then later made into the award-winning Broadway musical and film *Cabaret*.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Gay men and women, as well as groups supporting their rights, had even made great strides in achieving some form of legal recognition in Germany as well.</mark> <mark>The most important goal, an end to legal discrimination, had been called for by a number of weighty figure and groups even outside the legal and medical professions.</mark> <mark>Moreover, a number of gay rights organizations had sprung up across the country.</mark> <mark>In the big cities, especially Berlin and Hamburg, widespread tolerance and acceptance of gay people was becoming the norm.</mark> 
+
+</james>
+<from>
+
+The Hidden Holocaust?: Gay and Lesbian Persecution in Germany 1933-45 p.2
+
+<mark>1 Homosexual men and women, as well as groups supporting their rights, had made great efforts to achieve some form of social recognition.</mark> <mark>The most important prerequisite, an end to legal discrimintation, had been called for by a number of weighty figures and groups even outside the medical and legal professions.</mark> <mark>Moreover, a number of special organizations and societies had come into being. <mark>In the big cities, especially Berlin and Hamburg, widespread toleration of a specifically homosexual leisure and contacts culture indicated a liberal interpretation of the relevant penal laws.<sup>1</sup></mark> There was also a significant rise in the activities of the lesbian and gay press and the Scientific-Humanitarian Committee founded by Hirschfeld as early as 1897; in 1919 a Sexual Science Institute had also been created in Berlin. Together with the League of Human Rights, these two institutions spoke out particularly for an end to criminal prosecutions and for the social equality of homosexual men and women.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Greater public support for changes in the criminal law meant that political parties had also been under increasing pressure to take a position on gay rights.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law discussed the draft of a common German Penal Code and recommended, among other things, the deletion of Section 175,</mark> the part of the German legal code that made homosexuality illegal.
+
+</james>
+<from>
+
+The Hidden Holocaust? p.2
+
+<mark>2 Greater public sympathy for such changes in the criminal law meant that political parties too had been under increasing pressure to take a position.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law again discussed the draft of a common German Penal code and recommended, among other things, the deletion of Section 175.<sup>2</sup></mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Gay people would be accepted openly in German society and by the German government as soon as the early 1930s. Gay men and women in Europe had found their Eden, but other winds were blowing through Germany that would scatter any meaningful attempt at gay rights.</mark>
+
+</james>
+<from>
+
+Branded p.8
+
+<mark>For many gay men and women in Berlin, life was indeed a cabaret during the 1920s and early 1930s. But as Isherwood's book forecast, there was a very dark cloud looming on the horizon.</mark>
+
+</from>
+</compare>
+
+## Part One: Stormfront Approaching
+
+<compare>
+<james {% include timecode %}>
+
+<mark>In the years after World War I, extreme economic crisis, widespread unemployment, unprecedented inflation and bitter civil unrest engulfed to Germany.</mark> 
+
+</james>
+<from>
+
+The Pink Triangle: The War Against Homosexuals
+
+Chapter 1: Before the Storm 
+
+The Nazi war against Germany's homosexuals, to be properly understood, must be seen against the backdrop of the terrible tensions and social traumas that ultimately were to cause the collapse of the Weimar Republic. <mark>For the severe economic depression, widespread unemployment, galloping inflation, and bitter civil strife that were to engulf Germany in the wake of World War I</mark> also consigned the country's small but vigorous homosexual-rights movement to oblivion. That movement, which began around the turn of the century, would reach its peak in the early 1920s, under the remarkable leadership of Dr Magnus Hirschfeld. It would enjoy its greatest influence at precisely the moment that the larger society whose prejudices it sought to change began to spin out of control. To understand the fate of Germany’s homosexuals it is necessary to grasp not only the specific events and warring ideologies that destroyed the Weimar Republic and created the conditions that permitted the rise of the Nazis, but also the general atmosphere of Germany between 1919 and 1933.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>With the shock of military defeat at the end of the war, fear and insecurity would grip all social classes.</mark> <mark>It was a war that left 1.7 million German soldiers dead and another 4 million injured. The returning veterans, convinced that the leaders of the country had betrayed them, believed that they had been stabbed in the back. Most Germans agreed. How was it possible for the Kaiser's mighty rrmy to have been defeated? Only days before the end, hadn't the army's own press releases promised the certain victory of the "sacred German cause"? What most Germans suspected, what the press trumpeted, was the traitors at home had caused the great catastrophe. War profiteers, foreigners from the East, Communists and Socialists, and especially the Jews - all were to blame for Germany's humiliation.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 2
+
+<mark>The anxiety and insecurity that would come to grip all social classes began with the shock of military defeat at the end of World War I.</mark> <mark>It was a war that had left 1.7 million German soldiers dead and another four million wounded. The returning veterans, convinced that they had been betrayed, claimed to have been "stabbed in the back." Most Germans agreed. How was it possible for the Kaiser's mighty army to have been defeated? Only days before the end, hadn't the army's own press releases promised the certain victory of the "sacred German cause"? What the man in the street suspected, what the press trumpeted, was that traitors at home had caused the great catastrophe. War profiteers, foreigners from the East, Communists and Socialists, and especially the Jews - all were to blame for Germany's humiliation.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The country was swept by a tidal wave of guilt and anger that was felt most prominently by younger men who had not seen military service.</mark> <mark>The idea that the Empire, the Kaiser, and the Golden Age of German dominance had been brought down by internal enemies was prevalent.</mark> <mark>Enraged former soldiers and younger men created violent bands that roamed across Germany.</mark> <mark>A profound yearning could be felt for stability and revenge at all levels of society, from farm and factory workers to middle-class businessmen and big-city intellectuals.</mark> 
+
+<mark>The Weimar Republic's experiment in democracy and social tolerance was gradually undermined by mistrust, inequality and violence,</mark> <mark>long before Adolf Hitler entered politics.</mark> <mark>One is almost tempted to say that the Republic was not brought down by Hitler; he merely saved it from suicide by murdering it himself.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 3
+
+<mark>A tidal wave of shame and resentment, experienced even by younger men who had not seen military service, swept the nation.</mark> Many people tried to digest the bitter defeat by searching furiously for scapegoats. <mark>The belief that internal enemies had brought down the Empire, the Kaiser, and the "Golden Age of German Power" was widespread.</mark> <mark>Enraged ex-soldiers and younger men formed violent bands that roamed Germany.</mark> <mark>A palpable yearning could be felt on all levels of society, from farm and factory workers to middle-class businessmen and big-city intellectuals, for security and vengeance.</mark> The old guard of the Empire had never given up their positions of privilege and power, and no truly democratic government ever really grow strong enough to dislodge them. Arch-conservatives still held most of the leading positions in the army and navy, the universities, the civil service, and especially the courts. <mark>Long before Adolf Hitler entered politics,</mark> long before antisemitism and anti-liberalism had become battle cries for the Nazis, <mark>the Weimar Republic's experiment in democracy and social tolerance was steadily undermined by distrust, injustice, and violence.</mark> <mark>One is almost tempted to say that Hitler did not bring the Republic down; he merely saved it from suicide by murdering it himself.</mark> It was bankrupt long before he appointed himself as Germany's savior.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Five factors were roiling together to bring down the accepted order in Germany:</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 4
+
+<mark>The social hurricane at the heart of the Weimar Republic was prompted and complicated by five factors:</mark> (1) fear of revolution; (2) racist and xenophobic paramilitary groups; (3) unprecedented inflation; (4) extreme unemployment; and (5) the Nazi Party.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Firstly, after World War I, the spectre of revolution frightened many older people.</mark> <mark>It had been accomplished in Russia by the Bolsheviks, and they had relied on the spread of revolution in Europe to guarantee their survival.</mark> <mark>It seemed to many that the Revolt in Munich in 1918 was but the opening shot in a class war.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 5
+
+<mark>Firstly, directly after World War I, many older people were frightened by the specter of revolution.</mark> <mark>The Bolsheviks had accomplished it in Russia, and they had counted on the spreading of revolution in Europe to ensure their survival.</mark> <mark>The revolt in Munich seemed to many to be but the opening shot in a class war.</mark> German newspapers were soon filled with hysterical reports of famine in the Ukraine. Many people feared that a Socialist triumph in Germany would doom the country to Russia's plight.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Secondly, in this climate, dozens of racist and virulently nationalistic groups had begun to flourish, each more fanatical than the last.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 6
+
+<mark>Secondly, dozens of racist and virulently nationalistic groups began to flourish in this climate, each more fanatical than the other.</mark> Many participated in the civil strife that began to break out sporadically all over the country. These guerilla skirmishes especially alienated those Germans (the majority, it is safe to say) who wanted an orderly society in which to live and work.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>A third factor cracked open the thin walls of stability and did more than any other to destroy trust and hope: the mammoth inflation of 1922 and '23. In just sixteen months the German mark soared from 192 marks to the American dollar to a staggering 4.2 *trillion*.</mark> <mark>The financial faith of the country was shattered beyond repair.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 7
+
+<mark>A third factor cracked open the thin walls of stability and did more than any other to destroy trust and hope: the mammoth inflation of 1922-23. In just sixteen months the German mark soared from 192 marks to the American dollar to a staggering 4.2 *trillion*</mark> marks to the dollar.<sup>2</sup> <mark>The financial faith of the country was shattered beyond repair.</mark> The middle class lost its savings and its confidence in government. Persons on fixed incomes, such as pensions, war bonds, and annuities, found their dreams drowned in monetary quicksand. An incomprehensible economic sickness infected everyone, diminishing all salaries and gobbling up savings. Everywhere, pawnshops were packed, and relief rolls lengthened. The labour unions, too, in which many had put their trust, failed. Since the unions’ funds were gone, they could no longer resist the demands of employers: the ten-hour day returned to many industries. Unions began to lose members. Death and suicide rates rose; many children suffered from malnutrition. Those who had left the unions - and there were hundreds upon hundreds of thousands of them - found themselves politically adrift. Neither the left-wing Social Democratic Party (to which most labour unions belonged) nor the liberal or right wing parties offered any prescriptions to cure this epidemic.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The deepening crisis was compounded by a fourth factor: a rapid rise in unemployment, especially following the crash of the New York Stock Exchange in 1929, which killed half of central Europe's financial institutions.</mark> <mark>The number of unemployed workers increased from 1.5 million to 3.2 million. The actual number is estimated by some economists to have been more than 6 million.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 9
+
+<mark>A fourth factor compounded the deepening crisis was the rapid rise in unemployment, especially after 1929 New York Stock Exchange crash, which toppled half of the financial institutions in central Europe.</mark> Austrian banks collapsed first, then a number of leading German banks. In January 1930, <mark>the number of unemployed workers rose from 1.5 million to 3.2 million. Some economists estimate the actual number to have been more than six million by 1933.</mark> Many of the unemployed were teenagers or in their early twenties; they waited in endless lines before the welfare agencies to receive their meagre welfare stamps worth less than twenty dollars a month. On every corner, peddlers offered trinkets nobody wanted; street singers and itinerant musicians played endlessly in courtyards for people who could not afford to drop a few into their empty caps. Many young men, without hope, sullen and bewildered, were filled with a rage that knew no release. Many began to join the extremist parties of both the left and the right; many joined first the left, then the right. The promise of dramatic change suddenly made sense. Men were hungry too long, and now they were angry and desperate.
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>A fifth and most toxic ingredient had been added added to the social mess: the Nazi Party. As the unemployment rate rose, Nazi membership grew.</mark> <mark>The Nazi Party not only provided food, weapons, and a magnificent uniform, but proclaimed a new purpose, a new faith, and a new prophet. Inflation and unemployment had catapulted into power a man who promised rebirth to all "Aryan" Germans, regardless of economic status.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 10
+
+<mark>Into this social cauldron was added the fifth and most poisonous ingredient: the Nazi Party. As the number of unemployed rose, the Nazi membership rolls grew.</mark> To be sure, just before Franz von Papen maneuvered Hitler into the chancellorship in 1933, the Nazis had lost quite a few members. Still, the rise in unemployment and the growing strength of the Nazis were indissolubly linked. <mark>The Nazi Party not only provided food, weapons, and a splendid uniform, it proclaimed a new purpose, a new faith, and a new prophet. Inflation and unemployment catapulted into power a man who promised rebirth to all "Aryan" Germans, regardless of status.</mark> Hitler vowed to avenge the injustices of the Treaty of Versailles, and to punish the culprits who had been responsible for Germany’s defeat. As was so often the case, Hitler’s rhetoric was littered with sexual metaphors. Jews and other minorities, for example, were guilty of the “syphilitization of our people.” In 1935, Nazi lawyer Hans Frank would warn that the “epidemic of homosexuality” was threatening the new Reich. America, too, was an enemy, a “niggerized Jewish country” where women painted their faces- a practice that enraged Nazi moralists. Heinrich Himmler, head of the SS, would later boast that no Aryan woman he knew ever used lipstick. It was Himmler who would mastermind the attacks on homosexuals, whom he endowed with the same subhuman, dangerous qualities as were ascribed to Jews, Communists and Gypsies.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But that shouldn't suggest that everyone in Weimar Republic Germany was destitute. <mark>During the Republic, the homosexual subculture had thrived compared to the rest of the world.</mark> <mark>Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> As Hitler's influence grew, <mark>the average gay German could go unnoticed and undisturbed.</mark> 
+
+</james>
+<from>
+
+Chapter One paragraph 11
+
+<mark>During the Weimar Republic, the homosexual subculture had managed an uneasy coexistence with the larger heterosexual society surrounding it.</mark> <mark>Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> <mark>The average gay man could go unnoticed and undisturbed</mark> unless he fell victim to police entrapment or blackmail.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Though their apparent failure to lose their jobs did enrage many Germans. As self-employed artisans, many could still sell their wares outside of Germany, but the heterosexual majority who worked for employers were trapped by the growing inflation. Police began rethinking their leniency on homosexual men.</mark>
+
+</james>
+<comment>
+
+Shut the fuck up
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The average lesbian,</mark> on the other hand, <mark>enjoyed a kind of legal immunity.</mark> <mark>During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished. Their owners never feared a police raid. The reason: neither the second German Empire nor the Weimar Republic had ever passed laws forbidding or punishing sexual acts between women.</mark>
+
+</james>
+<from>
+
+Chapter One paragraph 11 continued from last sentence
+
+<mark>The average lesbian</mark> <mark>enjoyed a kind of legal immunity.</mark> <mark>During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished,. Their owners never feared a police raid. The reason: neither the second German Empire nor the Weimar Republic had ever promulgated laws forbidding or punishing sexual acts between women.</mark> Lesbian magazines enjoyed healthy circulations, some even featuring popular ads, and a few lesbian plays achieved widespread popularity.<sup>7</sup>
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+<mark>But sexual tolerance began to disappear just as quickly as Germany's economy began to crumble. 
+
+</james>
+<from>
+
+Chapter One pargraph 12
+
+<mark>But the sexual tolerance so often associated with the Weimar republic began to disappear as rapidly as Germany’s economy began to crumble.</mark> (The unemployed are generally less tolerant of contragenics.) Germany, it must be remembered, had never been an ethnically pluralistic society. Almost all German churches were state churches. There were no large ethnic groups or religious sects other than the Jews, the Gypsies, and the Jehovah’s Witnesses - the latter relatively small in number. Homosexuals were an obvious, if largely invisible, scapegoat.
+
+</from>
+</compare>
+
+## Part Two: Paragraph 175
+
+<compare>
+<james {% include timecode %}>
+
+<mark>As the Roaring 20s passed and the Nazi party began to gain power, there began an increasing fear of homosexuality.</mark> <mark>Gay men were another scapegoat that the Nazi party could use to explain why Germany was failing as a nation.</mark> <mark>Homosexuals were portrayed as weak degenerates who had to rely on state aid to get by,</mark> despite the majority being self-employed. <mark>Their behaviors as homosexuals were what made them weak, and if they were allowed to continue, it would corrupt other citizens.</mark> <mark>Not to mention that these men were having non-procreative sex at a time when the Nazis wanted to have as many strong good German babies as possible, and so sex without the intention of having children was seen as taboo.</mark> <mark>Nazi leader Heinrich Himmler said that homosexuality would deprive Germany of the next generation they owed her.</mark> <mark>Paragraph 175 became the way the Nazis could more efficiently regulate this homosexual behavior.</mark> 
+
+</james>
+<from>
+
+https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors 
+p. 8
+
+The Beginning of the Holocaust
+
+*Paragraph 175 Revised*
+
+<mark>As the Golden Twenties passed and the Nazi party started to gain power, there became an increasing fear of homosexuality.</mark> <mark>Homosexuals were another scapegoat that the Nazi party could use as to why Germany was failing as a nation. <mark>Homosexuals were seen as weak degenerates who had to rely on state aid to get by.</mark> <mark>Their behaviors as homosexuals were what made them "weak" and that if they were allowed to continue, it would be "corrupt" other citizens.<sup>20</sup></mark> <mark>Not to mention that these men were having non-procreative sex at a time when the Nazis wanted to have as many strong, good German citizens as possible, and so non-procreative sex was seen as a taboo.<sup>21</sup></mark> <mark>Nazi leader Heinrich Himmler said that homosexuality would deprive Germany of the children that they owed her.<sup>22</sup></mark> <mark>Paragraph 175 became the way that the Nazis could more effectively regulate this homosexual behavior.</mark> 
+
+(20) Richard Plant, "The Pink Triangle" (New York: Henry Holt and Company, 1986), 31.
+(21) Ibid., 87. 
+(22) Paragraph 175, Directed by Rob Epstein and Jeffery Friedman. Germaoy: Channel Four Films, 2000.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The law that prohibited sex between two men,</mark> but not two women, <mark>dated back to 1871, when the King of Prussia united various kingdoms into one German state with a new constitution.</mark> <mark>Paragraph 175 stated, "a male who commits a sex offense with another male or allows himself to be used by another male for a sex offense shall be punished with imprisonment."</mark> 
+
+</james>
+<from>
+
+Branded p. 10
+
+<mark>The law that prohibited sex between men was called Paragraph 175.</mark> <mark>It dated back to 1871, when the King of Prussia united various kingdoms into one German state with a new constitution</mark> and a set of laws. <mark>Paragraph 175 stated, "a male who commits a sex offense with another male or allows himself to be used by another male for a sex offense shall be punished with imprisonment."<sup>(2)</sup></mark>
+
+(2) Epstein, Rob, and Jeffrey Freedman, *Paragraph 175*, DVD, section on F. Heinz
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The vague language of the law had allowed it to go unenforced, but not anymore. <mark>On May 14th, 1928, the Nazis published a response to a question posed about their stance on eliminating Paragraph 175.</mark> <mark>They said,</mark> 
+
+<mark>"It is not necessary that you and I live, but it is necessary that the German people live. And it can only live if it can fight, for life means fighting. And it can only fight if it maintains its masculinity. It can only maintain its masculinity if it exercises discipline, especially in matters of love. Free love and deviance are undisciplined. Therefore, we reject you, as we reject anything that hurts our nation."</mark>
+
+<mark>"Anyone who thinks of homosexual love is our enemy. We reject anything which emasculates our people and makes it a plaything for our enemies, for we know that life is a fight, and it is madness to think that men will ever embrace fraternally. Natural history teaches us the opposite. Might makes right."</mark>
+
+</james>
+<from>
+
+Student paper p.8-9
+
+<mark>On May 14, 1928, the Nazis published a response to a question posed about their stance on reforming Paragraph 175.</mark> This is one of their more outright responses to the issue of homosexuality. <mark>They said,</mark>
+
+<mark>It is not necessary that you and I live, but it is necessary that the German people live. And it can only live if it can fight, for life means fighting. And it can only fight if it maintains its masculinity. It can only maintain its masculinity if it exercises discipline, especially in matters of love. Free love and deviance are undisciplined. Therefore, we reject you, as we reject anything that hurts our nation.<mark>
+
+<mark>Anyone who thinks of homosexual love is our enemy. We reject anything which emasculates our people and makes it a plaything for our enemies, for we know that life is a fight, and it is madness to think that men will ever embrace fraternally. Natural history teaches us the opposite. Might makes right.</mark> The strong will always win over the weak. Let us see to it that we once again become the strong! But this we can achieve only in one way- the Gelman people must once again learn how to exercise discipline. We therefore reject any form of lewdness, especially homosexuality, because it robs us of our last chance to free our people from the bondage which now enslaves it.<sup>23</sup>
+
+23 Richard Plant, "The Pink Triangle" (New York: Henry Holt and Company, 1986), 50.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>This outright public stance against homosexuality was only the beginning of many more strengthened laws and persecutions.</mark> <mark>Heinrich Himmler said that homosexuality was not just a criminal act but a danger to the future of the Aryan race.</mark> <mark>As soon as Hitler took power, he attempted to strengthen anti-homosexuality laws.</mark> <mark>Amendments to paragraph 175 were put into place, which strengthened the previous version considerably.</mark> <mark>Now any suggestion or suspicion of homosexuality could be punishable by arrest, whether or not you were caught committing a homosexual act.</mark> <mark>The revised wording for paragraph 175 defining a sex offense between males dictated its punishment.</mark> 
+
+</james>
+<from>
+
+Student paper p. 9
+
+<mark>This outright, public stance against homosexuality was only the beginning of many more strengthened laws and persecutions.</mark> <mark>Heinrich Himmler said that homosexuality was not just a criminal act but "a danger to the future Aryan race".<sup>24</sup></mark> <mark>As soon as Hitler took power, he attempted to strengthen anti-homosexuality laws.</mark> Just one month after he took office in 1933, homosexual rights organizations were banned.<sup>25</sup> Then, on June 28, 1935, <mark>a revised Paragraph 175 was put in to place, which strengthened the previous version considerably.</mark> <mark>Now, any suggestion or suspicion of homosexuality could be punishable by arrest, whether or not you were caught committing a homosexual act.<sup>26</sup></mark> <mark>The revised wording for Paragraph 175, defining a sex offence between males, goes as follows,</mark>
+
+24 Heinz Heger, "The Men with the Pink Triangle" (Los Angeles: Alyson Publications, 1980), 9.
+25 Richard Plant, "The Pink Triangle" (New York: Henry Holt and Company, 1986), 50.
+26 Heinz Heger, "The Men with the Pink Triangle" (Los Angeles: Alyson Publications, 1980), 9.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Paragraph 175a states that "A punishment of ten years in prison may apply to any man who: (1) rapes another man, (2) coerces another man into sex, (3) has sex with any man under the age of 21, and (4) has sex with a man.
+
+</james>
+<from>
+
+Student paper p. 9-10
+
+175: A male who commits a sex offence with another male or allows himself to be used by another male for a sex offence shall be punished with imprisonment. Where a party was not yet twenty-one years of age at the time of the act, the court may in especially minor cases refrain from punishment.
+
+175a: Penal servitude up to ten years or, where there are mitigating circmnstances,
+imprisomnent of not less than three months shall apply to:
+
+1 A male who, with violence or the threat of present violence to body and soul or life, compels another male to commit a sex offence with him or to allow himself to be abused for a sex offence;
+
+2 A male who, by abusing a relation of dependence based upon service, employment or subordination, induces another male to commit a sex offence with him or to allow himself to be abused for a sex offence;
+
+3 A male over 21 years of age who seduces a male person under twenty-one years to commit a sex offence with him or to allow himself to be abused for a sex offence;
+
+4 A male who publicly commits a sex offence with males or allows himself to be abused by males for a sex offence or offers himself for the same.<sup>27</sup>
+
+27 Gunter Gran, "Hidden Holocaust" (New York: Cassell, 1995), 65-66.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>This revised version of Paragraph 175 was much more lengthy than the previous version and makes sure there are many more opportunities for men to be caught and persecuted. The revised version also doesn't explicitly state what constitutes a sex offense between two men, so many men were prosecuted simply because they hugged another man, received a letter from a gay friend or even just had go gossip about their behavior going around the neighborhood. Any and all signs of homosexuality were to be stopped.</mark>
+
+</james>
+<from>
+
+Student paper p.10
+
+<mark>This revised version of Paragraph 175 is much more lengthy than the previous version, and makes sure there are many more opportunities for males to be "caught" and persecuted. The revised version also doesn't explicitly state what constitutes a "sex offence" between two men, so many men were persecuted simply because they hugged another man, or received a letter from a gay friend, or even just had gossip about their behavior going around the neighborhood.<sup>28</sup> Any and all signs of homosexuality were to be stopped.</mark> Bestiality even took a back seat to homosexuality, as it moved from the main body of the original Paragraph 175, to subsection b of the updated version.<sup>29</sup> This revised Paragraph 175 is what eventually led to the persecution and detention of thousands of males, many of whom were not actually homosexual, but were falsely perceived to be because of the witch hunt tactics of the Nazis and Paragraph 175.
+
+28 Heinz Heger, "The Men with the Pink Triangle" (Los Angeles: Alyson Publications, 1980), 9.
+29 Gunter Grau, "Hidden Holocaust" (New York: Cassell, 1995), 67.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>In July 1932, the Nazi party won the most seats in the German parliament. Though far from a majority - 37%. Hitler could now form a government in coalition with other parties. Eventually, the centrist parties agreed to accept Hitler as leader, and in January of 1933, he was named Chancellor of Germany.</mark> 
+
+</james>
+<from>
+
+Branded p.15
+
+<mark>In July of 1932, the Nazi party won the most seats in the German Parliament, though not a moajority. Hitler could now form a government in coalition with others. Eventually, the parties of the center and right agreed to accept Hitler as leader, and in January 1933, he was named Chancellor of Germany.</mark> 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The next month, homosexual rights organizations were banned. The Nazis moved quickly to suppress any objectors to the new regime. Enemies of the state were rounded up in raids on homes and businesses</mark> and transported to the newly constructed concentration camps.
+
+</james>
+<from>
+
+Branded p.16-17
+
+<mark>The next month, homosexual rights organizations were banned. The Nazis moved quickly to suppress any objectors to the new regime. Enemies of the state were rounded up in raids on homes and businesses.</mark> In an effort to ease the burden on the prison system, Heinrich Himmler, head of the SS (*Schutzstaffel*), the elite protection guard of the Nazi state, set up the first concentration camp at Dachau. It openly shortly after Hitler was appointed Chancellor. Dachau was the first of many camps used as prison for the enemies of the Nazis and the "inferiors" - Jews, Roma and Sinti (commonly referred to at the time as Gypsies), homosexuals, and Jehovah's Witnesses. Among the first prisoners in Dachau were men who had worked in homosexual rights organizations in Berlin.
+
+</from>
+</compare>
+
+## Part Three: The Night of the Long Knives
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The years from 1929 to the end of the Weimar Republic were years of mounting tension.</mark> <mark>To facilitate power political and militarily the Nazis commissioned a militia, the Brown Shirts or the SA, and as the Nazis attained even more political legitimacy, the SA became even more repressively efficient. Their leader, Ernst Roehm, was gay himself and was Hitler's right-hand man through his rise to power.</mark>
+
+</james>
+<from>
+
+Pink Triangles p. 27-28
+
+<mark>The years from 1929 to the end of the Weimar Republic were years of mounting tension.</mark> <mark>The Brown Shirts, or SA, under the leadership of Ernst Roehm, who was himself homosexual and would later be the target of Hitler’s wrath, became even more brutal and more repressively efficient.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>From early on, Roehm displayed an irreverent attitude toward those higher in rank than he, a trait that got him in trouble throughout his career. Later he would observe that "an intelligent, thinking subordinate is the natural enemy to his superior." Roehm often went out of his way to let his superiors know that he considered them inept. His ill-concealed contempt did not endear
+him to the army's high command.</mark>
+
+</james>
+<from>
+
+Pink Triangles p. 57-58
+
+<mark>From early on, he displayed an irreverent attitude toward those higher in rank, a trait that got him in trouble throughout his career. Later he would observe that “an intelligent, thinking subordinate is the natural enemy of his superior.” Roehm often went out of his way to let his superiors know that he considered them inept. His ill-concealed contempt did not endear him to the army’s high command.</mark> During his entire career Roehm battled incessantly with his higher-ups, and quickly gained a reputation for being unnecessarily abrasive. Hitler admired this trait in him though, until Roehm's criticisms were turned toward the Fuhrer himself. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Hitler promised to Germany's youth an endless military parade, replete with dashing insignia, badges, and banners. He invented special ranks for SA recruits and later for the SS. He offered the vision of a brave, sunny world of soldiering for those who had given up hope. His enemies he threatened with war and extinction. They would be eliminated "ruthlessly" (Hitler's favourite word), and he enjoyed saying that "heads would roll."</mark>
+
+</james>
+<from>
+
+Pink Triangles p. 28
+
+<mark>Hitler had promised Germany’s youth life as an endless military parade, replete with dashing insignia, badges, and banners. He invented special ranks for SA recruits and later for the SS. He proffered the vision of a brave, sunny world of soldiering for those who had given up hope. His enemies he threatened with war and extinction. They would be eliminated "ruthlessly" (his favourite word), and "heads would roll."</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Roehm thought the theatricality was a bit much. Despite their disagreements, <mark>Hitler made Roehm chief of the SA, where he recruited thousands of adoring, unsophisticated young men.</mark> <mark>According to his recollections - and even his most venomous enemies within the Nazi party never disputed this - he never began a sexual relationship with anyone under his command.</mark> <mark>His sexual habits with men did not go unnoticed though and drew particular ire from Himmler, who was his subordinate at the time.</mark> 
+
+</james>
+<from>
+
+The Pink Triangle p.61
+
+<mark>Roehm was made chief of the SA and went on to preside over its expansion, recruiting thousands of adoring, unsophisticated young men.</mark> He kept their loyalty until the end. <mark>According to his recollections – and even his most venomous enemies within the Nazi Party never disputed this - he never began a sexual relationship with anyone under his command.</mark> Indeed, Roehm was thirty seven years old when he had sex with another man for the first time. It must have taken a certain amount of bravado for Roehm to conduct his affairs as casually as he did. Whether this was a sign of indifference and courage or just plain foolhardiness is hard to know. What is certain is that <mark>such unabashed behaviour earned him the unending hatred of Himmler and Heydrich, both still nominally under Roehm’s command.</mark> 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But Hitler was growing more attached to Himmler now rather than Roehm, mostly because Himmler knew how to stroke his ego and stoke his fears. He convinced him that Roehm intended on murdering Hitler and taking lead of the Nazi party himself.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Operation Hummingbird, or more <mark>popularly known as the Night of the Long Knives, was a bloodbath that began on June 28th and lasted until July 3rd, 1934, seeing Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm.</mark> He no longer needed his oldest ally whose open homosexuality was becoming a liability. Because Hitler and Himmler had been secretly building up the SS, a black shirted crew of bodyguards and thugs.
+
+</james>
+<from>
+
+The Pink Triangles p. 54
+
+<mark>“THE NIGHT OF THE LONG KNIVES” – THE popular phrase for the bloodbath that began on June 28 and lasted until July 3, 1934 - saw Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm,</mark> the man who, since 1919, had been Hitler’s sponsor and faithful second in command. <mark>Long before Hitler decided to “burn out this pestilential boil,” as he later labelled the SA leadership, he had built up the SS. A black shirted crew of tough body guards well experienced in street fighting, the SS, led by Heinrich Himmler</mark> and his deputy, Reinhard Heydrich, was conceived as an “elite guard” and was originally subordinate to the SA. Himmler’s dislike of Roehm, his superior and a homosexual, was an open secret. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>On the night of June 28th, Hitler fled to Berlin, accompanied by his usual entourage and a small cohort of SS bodyguards.</mark>
+
+</james>
+<from>
+
+The Pink Triangles p. 55
+
+<mark>On the night of June 28, when Hitler flew to Munich, he was accompanied by his usual entourage and a small cohort of SS officers.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Before the sun fell, Ernst Roehm and several of his allies were arrested and transported to Stadelheim Prison.
+
+</james>
+<from>
+
+The Pink Triangles p. 56
+
+Without warning, the SS troopers stormed the hotel. SA Lieutenant Edmund Heines, a Nazi Party stalwart whom Hitler especially disliked, was caught in bed with his young chauffeur. When Heines protested, an SS man smashed his face. Heines was arrested on the spot, handcuffed, and, together with Roehm and five other leaders, transported to Stadelheim, now overcrowded with bruised, uncomprehending SA men. 
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Meanwhile the swift purge was taking its toll on Berlin and other German cities. About three hundred people were killed, many in no way connected with the SA, but hated or feared by someone in the Nazi bureaucracy.</mark>
+
+</james>
+<from>
+
+The Pink Triangles p. 56
+
+<mark>Meanwhile, the swift purge, orchestrated by Heydrich, was taking its toll in Berlin and other German cities. About three hundred people were killed, many in no way connected with the SA but hated or feared by someone in the Nazi bureaucracy.</mark> Among them Gregor Strasser, a veteran Nazi theoretician, suspected of leftist leanings. He was thrown in a prison cell, tortured, and then riddled with bullets. The last Chancellor before Hitler assumed that office, General Kurt von Schleicher, was shot down at his home "while trying to escape arrest."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>From Munich, Hitler ordered the SA regulars to the "Brown House," screaming that they were all homosexual pigs, though he well knew that only a few in Roehm's immediate entourage were gay.</mark> They were all killed. <mark>So far, Ernst Rome had been spared,</mark> <mark>but on July 1st, an SS officer entered Roehm's prison cell, handed him a revolver, and said, "I'll be back in fifteen minutes. You have a choice." Roehm responded, "Let Adolf do it himself. I'm not going to do his job anymore." Later that day, the SS executed him.</mark> Reportedly, Hitler didn't have the stomach to kill him himself.
+
+</james>
+<from>
+
+The Pink Triangles p.56-57
+
+Throughout Germany, old scores were settled. For the first time the Third Reich showed its true face. <mark>In Munich, Hitler ordered the SA regulars to the “Brown House,” screaming that they were all “homosexual pigs,” though he well knew that only a few in Roehm’s immediate entourage were homosexual.</mark> In Berlin, Goring greeted the stunned SA lieutenants with abuse, also calling them “homosexual pigs.”
+
+<mark>So far, Ernst Roehm had been spared.</mark> We will never know whether Hitler was beset by any last minute regrets about his oldest comrade. <mark>In any case, on July 1, an SS officer entered Roehm’s prison cell, handed him a revolver, and said, “I’ll be back in fifteen minutes. You have a choice.” Roehm is supposed to have answered, “Let Adolf do it himself. I’m not going to do his job.” Later that same day, Roehm was finally executed by two SS hitmen,</mark> led by Theodor Eicke, later picked by Himmler to organise the proliferating concentration camps. The corpses of the Stadelheim victims were taken away in a butcher’s tin lined truck.
+
+</from>
+</compare>
+
+as The Purge
 claimed the lives of so many prominent Germans it could hardly be kept secret at first its Architects seemed split on
 how to handle the event Nazi leader Herman Goring instructed police stations to burn all documents concerning the
 actions of the past two days meanwhile Joseph go the Nazi propaganda Minister tried to
