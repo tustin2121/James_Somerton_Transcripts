@@ -790,3 +790,5 @@ The patreon credits were added to the stand-alone version of this video.
 </compare>
 
 <div class="notice-banner" id="camp-end">"How the Gays Stole Cinema"'s segment <a href="{{ "Camp-000001" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+
+<div class="notice-banner" id="camp-end">The compilation video <a href="{{ "Tk9wh5rBmW0" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
