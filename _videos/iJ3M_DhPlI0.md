@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ij3m_dhpli0"
+
 date: 2023-04-15
 title: America v. Homosexuality
 parent: pW_RjbZYi1s
@@ -132,7 +135,7 @@ James Somerton
 </credits>
 </compare>
 
-<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch3-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent }}#ch3-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -441,7 +444,7 @@ But even with deep *deep* coding... there was a catch anyone confirmed to be gay
 <from></from>
 </compare>
 
-<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent | slugify }}.html#ch3-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent }}#ch3-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <james {% include timecode %}>

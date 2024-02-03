@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/zi8itzm1ayi"
+
 date: 2014-04-04
 title: "Geek Movie Review! Captain America: The Winter Solider"
 status: Auto

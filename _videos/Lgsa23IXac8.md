@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/lgsa23ixac8"
+
 date: 2014-08-12
 title: "Geek Theory #4: The Fantastic Five!"
 status: Auto

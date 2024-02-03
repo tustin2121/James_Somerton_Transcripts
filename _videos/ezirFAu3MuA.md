@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ezirfau3mua"
+
 date: 2022-11-05
 title: The Harmful Drive for Queer Perfection
 status: Auto

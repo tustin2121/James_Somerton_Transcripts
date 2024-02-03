@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ldizgznrlhe"
+
 date: 2014-01-20
 title: Days of Marvel Future - Geek Theory Episode 3
 status: Auto

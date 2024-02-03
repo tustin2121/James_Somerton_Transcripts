@@ -1,0 +1,1 @@
+When possible, thumbnails should be 480x270.

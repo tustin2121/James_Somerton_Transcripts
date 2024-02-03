@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/m5-szckamtc"
+
 date: 2023-04-26
 title: The Glass Ceiling of Gay Success (A Discussion)
 status: Auto

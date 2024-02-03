@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/xlunghqpdhm"
+
 date: 2021-05-12
 title: An Overly-Emotional Look at Why JK Rowling is Bad
 status: Finished

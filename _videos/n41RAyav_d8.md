@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/n41rayav_d8"
+
 # cSpell:words: Iger Chapek
 date: 2022-08-13
 title: How Disney Tore Down The Owl House

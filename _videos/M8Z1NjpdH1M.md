@@ -1,13 +1,14 @@
 ---
+redirect_from:
+  - "/videos/m8z1njpdh1m"
+  - "/videos/DeepCuts000" # former name
+  - "/videos/deepcuts000"
+  - "/DeepCuts"    # short link
+
 # cspell:words: Alyx Wiccans Kohr Shulman Hellraiser Arason Hellbound Fortier Phenixx Leever Michaela Flipscreen Greven sisco Disturbia Dani Joelle Bram Eastwick Fairuza Krysta Benshoff Cronenberg Mirzoeff Routledge Kirsty Voorhees Krueger Lesnicki Seyfried O'Bannon O’Bannon Sigourney Selway Goldstein Ulrich Lillard
 # cspell:words: erectus witchaphobia magick othered colour BDSM interdimensional cheerleads cheerleading intercutting Xenomorph Xenomorphs behaviours facehugger facehuggers retcon Arcturian poontang Arcturia decontextualization Weyland-Yutani destigmatizing Truvada condomless Ghostface pathologize Babadook Pennywise
 # cspell:words: Maika Lili Sepe Yara Luccardi Keir Zovatto multiplicitous nightmarishly homonormative Oskar Tozier Kasprak Musgetty Neibolt Georgie Hagerty minoritarian nonnormative Kosofsky Sedgwick
 # cspell:words: subjectivities precarity
-redirect_from:
-  - "/videos/DeepCuts000"
-  - "/videos/deepcuts000"
-  - "/videos/DeepCuts"
-
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
 status: Complete
@@ -89,6 +90,7 @@ cite:
 <credits class="desc">
 
 [Lost]
+<!-- A feature-length video essay delving into the horrors of society, and how they effect the queer population. -->
 
 </credits>
 <comment>

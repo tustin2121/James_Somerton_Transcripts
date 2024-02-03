@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/sdtbqhakfsi"
+
 date: 2023-03-15
 title: Hollywood's Golden Age (of Queer Coding)
 parent: pW_RjbZYi1s
@@ -68,7 +71,7 @@ This video is brought to you by Manscaped.
 </james>
 </compare>
 
-<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch2-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent }}#ch2-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -754,7 +757,7 @@ Vito Russo's chapter goes on to talk about Lesbianism in the 50's: [*All About E
 </comment>
 </compare>
 
-<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent | slugify }}.html#ch2-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent }}#ch2-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <james {% include timecode %}>

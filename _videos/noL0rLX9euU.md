@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/nol0rlx9euu"
+
 date: 2014-08-27
 title: "Film Theory #1: Is The Blockbuster Dying"
 status: Finished

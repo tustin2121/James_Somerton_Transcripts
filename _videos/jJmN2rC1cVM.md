@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/jjmn2rc1cvm"
+
 date: 2023-03-01
 title: The Real Hogwarts Legacy
 status: Script

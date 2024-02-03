@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/utryi-e_htc"
+
 date: 2023-05-11
 title: 'Where The "Bury Your Gays" Trope Came From'
 parent: pW_RjbZYi1s
@@ -67,7 +70,7 @@ This video is brought to you by AG1.
 <from></from>
 </compare>
 
-<div class="notice-banner" id="parent-start"><a href="{{ page.parent | slugify }}.html#ch4-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent }}#ch4-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
 
 <compare>
 <james {% include timecode %}>
@@ -659,7 +662,7 @@ As the 60s came to a close with the Stonewall uprisings, ultimately bringing the
 <from></from>
 </compare>
 
-<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent | slugify }}.html#ch4-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent }}#ch4-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <james {% include timecode %}>

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/zdgwhnddwou"
+
 # cspell:words: Hannibal Lecter
 date: 2021-11-04
 title: '"Hannibal" and the Appeal of Toxic Love'

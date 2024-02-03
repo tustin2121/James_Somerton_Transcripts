@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/c9bmsqsod6c"
+
 date: 2022-07-16
 title: Nostalgia, and Remembering The Bad Times
 status: Auto

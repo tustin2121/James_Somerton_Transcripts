@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/xbdc6sedkac"
+
 date: 2023-11-13
 title: Gay Happiness and Mainstream Media
 status: Finished

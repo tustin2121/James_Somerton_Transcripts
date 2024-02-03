@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/tk9wh5rbmw0"
+
 date: 2022-06-14
 title: The Queer Sensibilities of Cinema
 status: Auto
@@ -54,6 +57,79 @@ PATREON: [link]
 </compare>
 
 {% include transcript-start %}
+
+<compare>
+<credits {% include timecode %}>
+
+</credits>
+<comment>
+{% include header for=tustin %}
+
+Note: This video is a compilation of two previous videos. Additionally, one section of part 1 was spun out into its own video after this compilation video was released.
+
+In lieu of copy-pasting the previous transcripts, to facilitate not having multiple copies of things lying around, I will be linking out to these videos' transcripts. I will make note if anything has changed between the previous video and this one.
+
+</comment>
+</compare>
+
+<compare>
+<james meta fade=out {% include timecode %} id="ch1-in">
+
+This video is brought to you by my patrons. If you'd like to support my channel and get access to extras like audio commentaries, a patron exclusive podcast and uncut videos, you can join by clicking the link in the description. 
+
+</james>
+<subvideo>
+
+See Part 1 for the Cold Open
+
+{%- assign subvid = site.videos | where: "slug", "Camp-000001" | first -%}
+{% include video-card video=subvid anchor="parent-start" %}
+
+</subvideo>
+<james meta fade=in id="title-in">
+
+tradespeople that helped turn Hollywood from a backwater orange grove in California to the city in which thousands of young dreamers make their way each year in hopes of becoming a star. It’s a long story. And like most classic American tales… it actually doesn’t begin in America at all. 
+
+</james>
+</compare>
+
+
+
+
+<compare>
+<credits {% include timecode %} class="opening">
+
+\[Happy music, like something ripped from The Sims; tiny font]
+
+> James Somerton presents
+
+> Written by  
+Nick Herrgott  
+& James Somerton
+
+> Executive Producers  
+[21 patron names in two columns]
+
+> Producers
+[Patron names in columns: 19, 19, 19, and 14 names]
+
+> Edited and Directed by  
+James Somerton
+
+> Whatever Happened  
+To Good Taste?  
+> How the gays used camp to steal Hollywood  
+> and how the straights tried stealing it back  
+
+</credits>
+</compare>
+
+
+
+
+
+
+
 
 
 # Transcript of "How The Gays Stole Cinema"

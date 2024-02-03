@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/xsrv2lxp0by"
+
 date: 2021-07-31
 title: '"Painter of the Night" and the Sadism of Class'
 status: Script

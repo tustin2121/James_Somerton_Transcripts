@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/fe4i6whpryc"
+
 date: 2023-01-14
 title: Why Bad Gays Are Good
 status: Finished

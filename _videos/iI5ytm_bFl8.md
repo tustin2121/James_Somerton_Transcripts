@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ii5ytm_bfl8"
+
 date: 2022-04-17
 title: The Secret Crimes of a Dying Franchise
 status: Finished

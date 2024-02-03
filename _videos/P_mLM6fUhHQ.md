@@ -1,11 +1,13 @@
 ---
+redirect_from:
+  - "/videos/p_mlm6fuhhq"
+  - "/videos/CODEBREAKER" # original name
+  - "/videos/codebreaker"
+  - "/CODEBREAKERS"       # short link
+
 # cSpell:words: Yorgos Lanthimos Zalta Spinks Jani Academus Plys-Garzotto Kuleshov Sergey Rosen Maran Mulvey Doane Slavoj Žižek Lacanian Tsivian André Bazin Selnick Feige Cahiers cinéma Brokeback
 # cSpell:words: Germaine Dulac, Louis Delluc, Jean Epstein, Sergei Eisenstein, Lev Kuleshov, Dziga Vertov, Paul Rotha and film theorists like Rudolf Arnheim, Béla Balázs and Siegfried Kracauer Hattori Hanzō Korra Bolin Veric Edda Eddas Boiotia Halperin Laeurtius Greenberg Erotikos
 # cSpell:words: favourite analysed appetising indexical spectatorship Thanos gaybaiting scène noncontinuity stylised straightwashing civilisation characterised rulebook Codebreakers LGBTQ honourable expositionally pansexuality
-redirect_from: 
-  - "/videos/codebreaker"
-  - "/videos/CODEBREAKER"
-  - "/videos/CODEBREAKERS"
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"

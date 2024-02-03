@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/1bhkm-qcfvm"
+
 date: 2022-12-01
 title: The Gay Body Image Crisis
 status: Auto

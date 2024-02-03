@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/j-aycsq0dwq"
+
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
 status: Finished

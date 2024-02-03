@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/unrequited1"
+
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"

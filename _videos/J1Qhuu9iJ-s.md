@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/j1qhuu9ij-s"
+
 date: 2022-08-26
 title: Ranking "The Best" Gay Movies Of All Time
 status: Auto

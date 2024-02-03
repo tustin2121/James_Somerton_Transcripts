@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/4ywslnyuxcs"
+
 date: 2017-07-01
 title: The Stonewall Film Effect - Gay Geek Theory (Video essay)
 status: Auto

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/bjw8_r89ewa"
+
 date: 2022-03-20
 title: The Tragedy of Being Rich #｜ James Somerton
 status: Script

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/f5ab1x2cfq8"
+
 date: 2023-04-20
 title: The Queer Dystopia of the LGB Movement
 status: Finished

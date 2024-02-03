@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/4wi49p-qjcc"
+
 date: 2022-10-21
 title: The Troubling Thirst for Jeffrey Dahmer
 status: Auto
