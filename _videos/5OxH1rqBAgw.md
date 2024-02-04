@@ -664,12 +664,14 @@ But Hitler was growing more attached to Himmler now rather than Roehm, mostly be
 <compare>
 <james {% include timecode %}>
 
-Operation Hummingbird, or more <mark>popularly known as the Night of the Long Knives, was a bloodbath that began on June 28th and lasted until July 3rd, 1934, seeing Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm.</mark> He no longer needed his oldest ally whose open homosexuality was becoming a liability. Because Hitler and Himmler had been secretly building up the SS, a black shirted crew of bodyguards and thugs.
+Operation Hummingbird, or more <mark>popularly known as the Night of the Long Knives, was a bloodbath that began on June 28 and lasted until July 3, 1934, seeing Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm.</mark> He no longer needed his oldest ally whose open homosexuality was becoming a liability. Because Hitler and Himmler had been secretly building up the SS, a black shirted crew of bodyguards and thugs.
 
 </james>
 <from>
 
 The Pink Triangles p. 54
+
+Chapter 2: The Roehm Affair
 
 <mark>“THE NIGHT OF THE LONG KNIVES” – THE popular phrase for the bloodbath that began on June 28 and lasted until July 3, 1934 - saw Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm,</mark> the man who, since 1919, had been Hitler’s sponsor and faithful second in command. <mark>Long before Hitler decided to “burn out this pestilential boil,” as he later labelled the SA leadership, he had built up the SS. A black shirted crew of tough body guards well experienced in street fighting, the SS, led by Heinrich Himmler</mark> and his deputy, Reinhard Heydrich, was conceived as an “elite guard” and was originally subordinate to the SA. Himmler’s dislike of Roehm, his superior and a homosexual, was an open secret. 
 
@@ -679,7 +681,7 @@ The Pink Triangles p. 54
 <compare>
 <james {% include timecode %}>
 
-<mark>On the night of June 28th, Hitler fled to Berlin, accompanied by his usual entourage and a small cohort of SS bodyguards.</mark>
+<mark>On the night of June 28, Hitler fled to Berlin, accompanied by his usual entourage and a small cohort of SS bodyguards.</mark>
 
 </james>
 <from>
@@ -738,196 +740,640 @@ Throughout Germany, old scores were settled. For the first time the Third Reich 
 </from>
 </compare>
 
-as The Purge
-claimed the lives of so many prominent Germans it could hardly be kept secret at first its Architects seemed split on
-how to handle the event Nazi leader Herman Goring instructed police stations to burn all documents concerning the
-actions of the past two days meanwhile Joseph go the Nazi propaganda Minister tried to
-prevent newspapers from publishing lists of the dead but at the same time used a
-July 2 radio address to describe how Hitler had narrowly prevented Rome from overthrowing the government and throwing
-the country into turmoil then on July 13th 1934 Hitler Justified The Purge in a
-nationally broadcast speech to the Reich in this hour I was responsible for
-the fate of the German people and thereby I became the Supreme judge of the German people concerned with
-presenting the massacre as legally sanctioned Hitler had the cabinet approve a measure on July 3rd that
-declared the measure taken on June 30th July 1st and 2nd to suppress treasonous
-assaults are legal as acts of self-defense by the state Reich Justice
-Minister France gerner a conservative who had been baravarian Justice minister in the years of the Ware Republic
-demonstrated his loyalty to the new regime by drafting the statute which added illegal V near to The Purge signed
-into law by Hitler gerner and the minister of the Interior wilham Frick the law regarding measures of State
-self-defense retroactively legalized any murders committed by the Nazi party Germany's legal establishment further
-capitulated to the regime when the country's leading legal scholar CW Schmidt wrote an article defending
-Hitler it was named the fura upholds the law a special fund was set up for the
-relatives of the murdered from which they were cared for at State cost the widows of the murdered sa leaders
-received between 1,000 and 1,600 marks per month depending upon the rank of the
-murdered person the relatives of Ernst Rome received
-nothing part four the Mad Inquisitor with Rome dead and the sa
-defeated himler and the SS soon emerged as the true Victors alongside Hitler
-within a short time himler would preside over an Empire of death whose Mass
-extermination factories would operate Around the Clock turning non-aryans into
-Ash now he was the second most powerful man in the Third Reich and now like his
-master he had the opportunity to realize his deepest obsessions his every whim
-however perverse or murderous was regarded as law by his SS henchmen the
-huge effort to Institute Hitler's final solution for the Jews of Europe would gradually consume his time and resources
-the Jewish people however were not his only targets himler also turned his
-sights on the gay community of Germany some said he'd concentrate more on the elimination of gay men if Hitler hadn't
-been breathing down his neck about the so-called Jewish issue he was especially appalled by homosexuals who he was
-determined to exterminate whether under the direct orders of Hitler or not in this he had only a partial success
-his raging phobia which was responsible for a violent campaign against German homosexuals struck Terror in the hearts
-of hundreds of thousands of gay men and killed thousands of others there have always been two
-himr the colorless sickly bureaucrat hiding behind his towers of alphabetized
-file cases staying up late to scrutinize the family trees of prospective SS
-officers with a shape of Aryan skulls excavated in Tibet and then the ogre
-the creator of the stunningly efficient gestapo machine the remote control Mass killer
-ordering the elimination of entire populations without any visible sign of remorse the world perceived himler as
-the butcher who ordered all Russian prisoners of War to be killed and as the man who organized the destruction of
-Europe's Jewish population it was himler SS that set up and ran the concentration camps
-beginning in 1933 with a few few criminals communist Catholics liberals socialist Jews Romani and gay men in
-daau and then within 10 years had extended its network of Terror over more
-than half of Europe it was himmler's order of the death's head that supervised the gassing of inmates in the
-salvaging of gold fillings in their teeth to be deposited at the Federal Bank in Berlin by 1935 and 1936 when the
-campaign against non-aryans including gay men began in Earnest himmler's officers were legally entitled to arrest
-Suspects on any pretext for submission of crimes not committed and throw the victims into camps where they were
-without legal recourse next to Reinhard hydrick Chief security officer who was
-assassinated in 1942 himmler's name was the most feared throughout Germany and
-the occupied territories His Image was that of a monster devoid of any shred of humanity
-he did little to dispel that impression in October of 1943 for example he told
-SS leader ERS assembled in posn and Poland what happens to the Russians what happens to the Cs is a matter of utter
-indifference to me whether the other peoples live in Comfort or perish interests me only in so far as we need
-them as slaves for our culture apart from that it is not interest me whether
-or not 10,000 Russian women collapse from exhaustion while digging a tank ditch interests me only in so far as the
-tank ditch is completed for Germany Germany himler said needed a national
-sexual budget to compensate for the loss of more than a million of its soldiers in World War I Germany had experienced
-the sharpest fall in the birth rate of All European nations hitting an extraordinary low in
-1933 veneral diseases had spread throughout the country particularly among younger people in addition the
-Republic had been afflicted by another illness according to estimates more than 2 million homosexuals had been living in
-Germany himler made a quick calculation 2 million men killed or injured in the
-last war plus 2 million homosexuals equal 4 million German women without husbands that he concluded was a
-catastrophe for Germany it was even worse than the half million babies he estimated to have been
-lost through abortion homosexuals himler emphasized corrupted other men making them
-unwilling or unable to produce children if this Vice continues he warned it will
-be the end of Germany a good race producing few children was destined to
-be extinct in 200 years while nations with many children can gained Supremacy
-and Mastery of the world sex therefore was a matter of public concern not a private Affair ancient Germany which he
-claimed had always had masculine dominance knew this Germany's tonic
-forbearers knew what to do with homosexuals they drowned them in bogs No it should not be called
-punishment it was extermination of abnormal existence unfortunately for himler the
-new Germany could not apply the same technique he did not say whether this was due to a scarcity of suitable bogs
-but he would see to it that like stinging nettles we will rip them out throw them on a heap and burn them
-otherwise if we continue to have this Vice predominant in Germany without being able to fight it we'll see the end
-of Germany the end of the dramatic world part five it
-begins when Hitler was appointed Chancellor on January 30th 1933
-Victorious Nazi troops conducted huge marches stomping through the streets of Berlin chanting songs of Revenge Hitler
-never managed to attain a majority of Voters neither in the German Parliament in the reichstag nor among the German
-people the best the Nazi party could ever get was a plurality government by the March 5th election and they only
-managed that by drumming up fears of a communist Uprising whether the Nazis really expected a communist Uprising or
-whether as so often before they simply camouflaged violent action by ascribing them to their opponents Luck came to
-their assistance on February 27th the reichstag or German Parliament went up
-in Flames Hitler proclaimed this is a sign of Providence from above now nobody
-will dare stand in our way when we crush the Communist Menace with our Iron Fist
-immediately afterward a wave of Terror swept through Germany the first of many members of opposition parties found
-themselves on benches in the Berlin Central police station similar arrests engulfed cities and Villages throughout
-Germany the Nazis had started to settle accounts with their enemies when the jails proved not to be large enough
-himler stepped in within less than a month he embarked on the construction of concentration camps beginning with
-daau among the first to be jailed with the directors of homosexual rights organiz ations which had been made
-illegal Just 4 days before the burning of the reichstag held's institute for sexual research was a prime target as
-were CTT Hiller its chairman Felix Hall a legal adviser and Max hoden a
-respected sex reformer whose books on Women's Rights sexual minorities and abortion had annoyed the Nazis for years
-Hiller held's successor and most prominent member of The Institute was shipped to oranburg where he was
-repeatedly tortured the offices of several prominent gay organizations were raided during these early winter weeks
-of 1933 communist and Social Democratic papers were forced to stop printing the
-Nazi propagandists never tired of conjuring up the smoldering debris the smoking wood piles the devastated
-ceilings of the Reich she declared that this fire was only a beginning the
-Communists they said had destroyed the parliament now they would unleash a civil war German citizens could expect
-the worst Only the strongest government measures could save the nation those
-strongest measures followed soon on March 24th the so-called enabling law
-was adopted subtitled the law to remove the stress from people and state in
-reality it did away with the Constitution removed all legal restraints and gave total control to
-Hitler and his thugs it signaled the end of the Ware Republic in the start of the Nazi regime and it remained on the books
-until 1945 the days that consumed the reichstag the later ransacking of held's
-Institute and finally the notorious book burning on May 10th during which fanatical Stormtroopers destroyed the
-works of those who had made German culture great but were now declared to be subhumans should have been seen as a
-signal to every non-nazi the vast majority of Germans that the era of Tolerance and progress had abruptly come
-to an end that a new Dark Age would follow yet most gays hoped that they
-could weather the storm many rushed to join the Nazi party in the belief that they could vanish among the uniformed crowds others hoped for
-the best and although bars and cafes catering to homosexuals were eliminated they tried to continue their lives as
-unobtrusively as possible gradually many realized that their existence was threatened and they lived in constant
-fear of Discovery others joined the Armed Forces over which the gapo was never to gain complete jurisdiction but
-not until Rome and his Confederates were executed did most homosexuals believed that a country like Germany could fall
-back into barbarism now however there could be no mistaking the murderous intentions of the Nazis there could be
-no doubt any longer that the Nazis were as violently opposed to homosexuals as they were to Jews and
-roma a flood of rules and memorandums were soon issued by the Minister of Justice in the headquarters of Berlin's
-gestapo aiming both to micromanage German sex lives and to expand the criminal class the still modest gusto o
-of himler sent a secret circular letter for instance to the police headquarters throughout Germany on the 24th of
-October 1934 they were told to mail lists of all somehow homosexual active persons
-alleged crimes against paragraph 175 had been used from the beginning as a ruse to prosecute individuals whose politics
-displeased those in power charges were quickly concocted for homosexual acts an
-ex-convict who could be persuaded to swear that her X had fondled why could
-always be found by the authorities on June 8th 1935 paragraph 175 was revised
-to extend the concept of criminally indecent activities between men it permitted the authorities to arrest any
-male on the most ludicrous and transparent charges from the beginning courts and judges took it upon
-themselves to decide what in their minds constituted criminal indecency this meant that previous interpretations of
-paragraph 175 as outlying only actions resembling kidus were now seen as too
-narrow mutual masturbation was declared a felony a kiss or a touch could be interpreted as criminally
-indecent the specialists in the ministry of Justice were not satisfied until
-anything that could remotely be considered as sex between men was labeled a transgression himler was
-forced to briefly abandon the attack in August of 1936 some gay bars were allowed to
-reopen and the police were ordered not to mess with foreign homosexuals during the Olympic games in
-Berlin the repre ended quickly though once the Olympics
-ended part six legally admissible on October 26th the Federal
-Security Department for combating abortion and homosexuality was established in the Berlin gestapo
+<compare>
+<james {% include timecode %}>
+
+<mark>As the purge claimed the lives of so many prominent Germans, it could hardly be kept secret. At first, its architects seemed split on how to handle the event. Nazi leader Herman Göring instructed police stations to burn all documents concerning the actions of the past two days. Meanwhile, Joseph Goebbels, the Nazi propaganda minister, tried to prevent newspapers from publishing lists of the dead, but at the same time used a July 2 radio address to describe how Hitler had narrowly prevented Roehm from overthrowing the government and throwing the country into turmoil. Then, on July 13 1934, Hitler justified The Purge in a nationally broadcast speech to the Reich:</mark>
+
+<mark>"In this hour I was responsible for the fate of the German people, and thereby I became the supreme judge of the German people."</mark> 
+
+</james>
+<from>
+
+"Night of Long Knives" Wikipedia (https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835#Aftermath) (December 26, 2020 revision)
+
+Aftermath
+
+<mark>As the purge claimed the lives of so many prominent Germans, it could hardly be kept secret. At first, its architects seemed split on how to handle the event. Göring instructed police stations to burn "all documents concerning the action of the past two days."[52] Meanwhile, Goebbels tried to prevent newspapers from publishing lists of the dead, but at the same time used a July 2 radio address to describe how Hitler had narrowly prevented Röhm and Schleicher from overthrowing the government and throwing the country into turmoil.[46] Then, on July 13, 1934, Hitler justified the purge in a nationally broadcast speech to the Reichstag:</mark>
+
+"If anyone reproaches me and asks why I did not resort to the regular courts of justice, then all I can say is this. <mark>In this hour I was responsible for the fate of the German people, and thereby I became the supreme judge of the German people.</mark> I gave the order to shoot the ringleaders in this treason, and I further gave the order to cauterise down to the raw flesh the ulcers of this poisoning of the wells in our domestic life. Let the nation know that its existence—which depends on its internal order and security—cannot be threatened with impunity by anyone! And let it be known for all time to come that if anyone raises his hand to strike the State, then certain death is his lot."[53][54]
+
+[46] Evans 2005, p. 36. (Evans, Richard (2005). The Third Reich in Power. New York: Penguin Group. ISBN 978-0-14-303790-3.)
+
+[52] Kershaw 1999, p. 517. (Kershaw, Ian (1999). Hitler: 1889–1936 Hubris. New York: W. W. Norton & Company. ISBN 978-0-393-32035-0.)
+
+[53] Shirer 1960, p. 226. (Shirer, William L (1960). The Rise and Fall of the Third Reich. New York: Simon and Schuster. ISBN 978-0-671-72868-7.)
+
+[54] Fest 1974, p. 469. (Fest, Joachim (1974). Hitler. New York: Harcourt. ISBN 978-0-15-602754-0.)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Concerned with presenting the massacre as legally sanctioned, Hitler had the cabinet approve a measure on July 3 that declared, "The measure taken on June 30, July 1 and 2 to suppress treasonous assaults are legal as acts of self-defense by the State." Reich Justice Minister Franz Gürtner, a conservative who had been Bavarian Justice Minister in the years of the Weimar Republic, demonstrated his loyalty to the new regime by drafting the statute, which added a legal veneer to the purge. Signed into law by Hitler, Gürtner, and the Minister of the Interior Wilhelm Frick, the "Law Regarding Measures of State Self-Defence" retroactively legalized any murders committed by the Nazi party. Germany's legal establishment further capitulated to the regime when the country's leading legal scholar, Carl Schmitt, wrote an article defending Hitler. It was named "The Führer Upholds the Law."</mark>
+
+</james>
+<from>
+
+Wikipedia Aftermath paragraph 3
+
+<mark>Concerned with presenting the massacre as legally sanctioned, Hitler had the cabinet approve a measure on July 3 that declared, "The measures taken on June 30, July 1 and 2 to suppress treasonous assaults are legal as acts of self-defence by the State."<sup>[55]</sup> Reich Justice Minister Franz Gürtner, a conservative who had been Bavarian Justice Minister in the years of the Weimar Republic, demonstrated his loyalty to the new regime by drafting the statute, which added a legal veneer to the purge.<sup>[k]</sup> Signed into law by Hitler, Gürtner, and Minister of the Interior Wilhelm Frick, the "Law Regarding Measures of State Self-Defence" retroactively legalized the murders committed during the purge.<sup>[56]</sup> Germany's legal establishment further capitulated to the regime when the country's leading legal scholar, Carl Schmitt, wrote an article defending Hitler's July 13 speech. It was named "The Führer Upholds the Law."<sup>[57][58]</sup></mark>
+
+[55] Fest 1974, p. 468.
+
+[k] Gürtner also declared in cabinet that the measure did not in fact create any new law, but simply confirmed the existing law. If that was indeed true then, as a legal matter, the law was entirely unnecessary and redundant. Kershaw 1999, p. 518
+
+[56] Evans 2005, p. 72.
+
+[57] Kershaw 1999, p. 519.
+
+[58] ["Carl Schmitt-Fuehrer Protects the Law"](https://pdfslide.us/documents/carl-schmitt-fuehrer-protects-the-law.html). pdfslide.us. Retrieved March 1, 2020.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>A special fund was set up for the relatives of the murdered, from which they were cared for at state cost. The widows of the murdered SA leaders received between 1,000 and 1,600 marks per month, depending upon the rank of the murdered person.</mark> <mark>The relatives of Ernst Roehm received nothing.</mark>
+
+</james>
+<from>
+
+<mark>A special fund administered by SS General Franz Breithaupt was set up for the relatives of the murdered, from which they were cared for at state cost. The widows of the murdered SA leaders received between 1,000 and 1,600 marks a month, depending on the rank of the murdered person.</mark> Kurt von Schleicher's stepdaughter received 250 marks per month up to the age of 21 and the son of General von Bredow received a monthly allowance of 150 marks.[59]
+
+[59] ["DER FURCHT SO FERN, DEM TOD SO NAH'"](https://www.spiegel.de/spiegel/print/d-41757458.html). Der Spiegel. May 15, 1957. Retrieved December 31, 2019.
+
+</from>
+<comment>
+
+Hitler offered a pension to Roehm's mother, but she refused, saying "I will not take money from the murderer of my son." (*Ernst Rohm: Hitler's Chief of Staff* by Eleanor Hancock, p. 162)
+
+</commment>
+</compare>
+
+## Part Four: The Mad Inquisitor 
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>With Roehm dead and the SA defeated, Himmler and the SS soon emerged as the true victors alongside Hitler. Within a short time, Himmler would preside over an empire of death whose mass extermination factories would operate around the clock, turning non-aryans into ash. Now he was the second most powerful man in the Third Reich. And now like his master he had the opportunity to realize his deepest obsessions. His every whim, however perverse or murderous, was regarded as law by his SS henchmen. The huge effort to institute Hitler's "Final Solution" for the Jews of Europe would gradually consume his time and resources.</mark> The Jewish people however were not his only targets. Himmler also turned his sights on the gay community of Germany. Some said he'd concentrate more on the elimination of gay men if Hitler hadn't been breathing down his neck about the so-called "Jewish issue."<sup cn></sup> <mark>He was especially appalled by homosexuals who he was determined to exterminate whether under the direct orders of Hitler or not. In this he had only a partial success. His raging phobia, which was responsible for a violent campaign against German homosexuals, struck terror in the hearts of hundreds of thousands of gay men and killed thousands of others.</mark>
+
+</james>
+<from>
+
+The Pink Triangles p. 71
+
+Chapter 3: The Grand Inquisitor
+
+<mark>WITH ROEHM DEAD AND THE SA Vanquished, Himmler and the SS quickly emerged alongside Hitler as the true victors. Within a short time, Himmler would preside over an empire of death whose factories of mass extermination would work around the clock, turning contragenics into ash. He was now the second most powerful man in the Third Reich. And like his master, he now had the opportunity to realise his deepest obsessions. His every whim, however perverse or murderous, was regarded by his SS henchmen as law. The mammoth effort to effect Hitler’s “Final Solution” for Europe’s Jews would increasingly absorb his time and energy.</mark> In this, unfortunately, he was largely successful. <mark>Himmler had a special horror of homosexuals, whom he was determined to exterminate as well. In this he enjoyed only a partial success. His raging homophobia, which was responsible for a vicious campaign against Germany’s homosexuals, struck fear in the hearts of hundreds of thousands of gays, and resulted in the deaths of thousands of others.</mark> In order to understand why he put such an effort into this campaign, we have to try to unravel the strands of his twisted personality.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>There have always been two Himmlers: the colourless, sickly bureaucrat, hiding behind his towers of alphabetised file cases, staying up late to scrutinise the family trees of prospective SS officers, or the shape of "Aryan" skulls excavated in Tibet; and then the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark>
+
+</james>
+</from>
+
+The Pink Triangles p. 72
+
+<mark>There have always been two Himmlers: the colourless, sickly bureaucrat, hiding behind his pince-nez and his towers of alphabetised file cases, staying up late to scrutinise the family trees of prospective SS officers or the shape of “Aryan” skulls excavated in Tibet; and the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark> But most people who met Himmler shared the opinion of Walter Dornberger, the officer in charge of a Nazi experimental rocket base: “He looked to me like an intelligent, elementary school teacher, certainly not a man of violence. I could not for the life of me see anything outstanding or extraordinary about this middle-sized… man in grey SS uniform."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organised the destruction of Europe's Jewish population. It was Himmler's SS that set up and ran the concentration camps, beginning in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, Romani, and gay men in Dachau, and then within 10 years had extended its network of terror over more than half of Europe. It was Himmler's "Order of the Death's Head" that supervised the gassing of inmates and the salvaging of gold fillings in their teeth to be deposited at the federal bank in Berlin.</mark>
+
+</james>
+<from>
+
+The Pink Triangles p. 74
+
+Himmler was obsessed, all right, but it was another type of compulsion- less visible than Hitler’s, more like that of a reclusive miser constantly counting his hoard of gold. This bureaucratic side, however, was not how most of the world saw him. <mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organised the destruction of European Jewry. It was Himmler’s SS that set up and ran the concentration camps, beginning modestly in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, and homosexuals in Dachau, and that, within ten years, had extended its network of terror over more than half of Europe. It was Himmler’s “Order of the Death’s Head” that supervised the gassing of inmates and the salvaging of the gold fillings in their teeth to be deposited at the federal bank in Berlin</mark> in an account credited to the fictitious “Max Heilinger."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>By 1935 and 1936, when the campaign against non-Aryans, including gay men, began in earnest, Himmler's officers were legally entitled to arrest suspects on any pretext, force admission of crimes not committed, and throw the victims into camps where they were without legal recourse. Next to Reinhard Heydrich, chief security officer who was assassinated in 1942, Himmler's name was the most feared throughout Germany and the occupied territories. His image was that of a monster, devoid of any shred of humanity. He did little to dispel that impression. In October of 1943, for example, he told SS leader assembled in Poznan, Poland:</mark> 
+
+<mark>"What happens to the Russians, what happens to the Czechs, is a matter of utter indifference to me… Whether the other peoples live in comfort or perish… interests me only insofar as we need them as slaves for our culture; apart from that it does not interest me. Whether or not ten thousand Russian women collapse from exhaustion while digging a tank ditch, interests me only insofar as the tank ditch is completed for Germany."</mark>
+
+</james>
+<from> 
+
+The Pink Triangles p. 75
+
+<mark>By 1935 and 1936, when the campaign against contragenics, including homosexuals, began in earnest, Himmler’s officers were legally entitled to arrest suspects on any pretext, force admission of crimes not committed, and throw the victims into camps where they were without legal recourse. Next to Reinhard Heydrich, who was assassinated in 1942, Himmler’s name was the most feared throughout Germany and the occupied territories. His image was that of a monster, devoid of any shred of humanity. He did little to dispel that impression. In October 1943, for example, he told SS leaders assembled in Poznan, Poland:</mark>
+
+<mark>What happens to the Russians, what happens to the Czechs, is a matter of utter indifference to me… Whether the other peoples live in comfort or perish… interests me only insofar as we need them as slaves for our culture; apart from that it does not interest me. Whether or not ten thousand Russian women collapse from exhaustion while digging a tank ditch, interests me only insofar as the tank ditch is completed for Germany…</mark> Most of you know what it means to see a hundred corpses lying together, five hundred, or a thousand. To have gone through this and yet, apart from a few exceptions- examples of human weakness- to have remained decent, this has made us hard. This is a glorious page in our history that has never been written.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>Germany, Himmler said, needed a "National Sexual Budget" to compensate for the loss of more than a million of its soldiers in World War I. Germany had experienced the sharpest fall in the birth rate of all European nations, hitting an extraordinary low in 1933.</mark> <mark>Veneral diseases had spread throughout the country, particularly among younger people.</mark> <mark>In addition, the Republic had been afflicted by another illness: according to estimates, more than 2 million homosexuals had been living in Germany. Himmler made a quick calculation: two million men killed or injured in the last war plus two million homosexuals equalled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasized, corrupted other men, making them unwilling or unable to produce children. "If this vice continues," he warned, "it will be the end of Germany."
+
+</james>
+<from>
+
+The Pink Triangles p. 88-89
+
+<mark>Germany, Himmler declared, needed a "National Sexual Budget" to make up for the loss of more than a million of its soldiers killed in World War I. Germany had suffered the sharpest decline in its birth rate of all European nations, reaching an exceptional low in 1933.</mark> To be sure, the battered economy probably had been the chief cause, but there were other, less obvious and more insidious reasons for Germany’s weakened condition – corruption by the Weimar Republic, for instance. <mark>Venereal diseases had spread throughout the country, especially among younger people,</mark> precisely those who could produce children. <mark>In addition, the Republic had been beset by another illness; according to statistics, there were two million homosexuals. Himmler made a quick calculation: two million men killed in the last war plus two million homosexuals equalled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half-million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasised, corrupted other men, making them unwilling or unable to beget children. "If this vice continues," he warned, "it will be the end of Germany."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+<mark>A good race producing few children was destined to be extinct in 200 years, while nations with many children can gained supremacy and mastery of the world. Sex, therefore, was a matter of public concern, not a private affair. Ancient Germany, which he claimed had always had masculine dominance, knew this. "Germany's Teutonic forbearers knew what to do with homosexuals: they drowned them in bogs. No, it should not be called punishment. It was extermination of abnormal  existence." Unfortunately for Himmler, the new Germany could not apply the same technique - he did not say whether this was due to a scarcity of suitable bogs - but he would see to it that "like stinging nettles we will rip them out throw them on a heap and burn them. Otherwise, if we continue to have this vice predominant in Germany without being able to fight it, we'll see the end of Germany, the end of the Germanic world."</mark>
+
+</james>
+<from>
+
+The Pink Triangles p. 89
+
+<mark>A "good race" producing few children was destined to be extinct in two hundred years, while "nations with many children can gain supremacy and mastery of the world." Sex, therefore, was a matter of public concern, not a private affair. Ancient Germany, which had always had "masculine dominance," knew this. Germany’s Teutonic forebears "knew what to do with homosexuals: they drowned them in bogs. No, it should not be called punishment. It was 'extermination of abnormal  existence.'" Unfortunately, the new Germany could not apply the same technique – he did not say whether this was due to a scarcity of suitable bogs - but he would see to it that "like stinging nettles we will rip them out [the homosexuals], throw them on a heap, and burn them. Otherwise, if we continue to have this vice predominant in Germany without being able to fight it, we’ll see the end of Germany, the end of the Germanic world."</mark> Further, "All homosexuals are cowards; they lie just like the Jesuits. Homosexuality leads to a state of mind that doesn’t know what it does." In other words, homosexuals are soft and effeminate; they are not really men; they do not fight. Homosexuality is a crime against nature and must be stamped out.
+
+</from>
+</compare>
+
+## Part Five: It Begins 
+
+<compare>
+<james {% include timecode %}> 
+
+When Hitler was appointed chancellor on January 30, 1933, victorious Nazi troops conducted huge marches, stomping through the streets of Berlin, chanting songs of revenge. Hitler never managed to attain a majority of voters neither in the German Parliament in the reichstag nor among the German people the best the Nazi party could ever get was a plurality government by the March 5th election and they only managed that by drumming up fears of a communist Uprising whether the Nazis really expected a communist Uprising or whether as so often before they simply camouflaged violent action by ascribing them to their opponents Luck came to their assistance on February 27th the reichstag or German Parliament went up in Flames Hitler proclaimed this is a sign of Providence from above now nobody will dare stand in our way when we crush the Communist Menace with our Iron Fist immediately afterward a wave of Terror swept through Germany the first of many members of opposition parties found themselves on benches in the Berlin Central police station similar arrests engulfed cities and Villages throughout Germany the Nazis had started to settle accounts with their enemies when the jails proved not to be large enough himler stepped in within less than a month he embarked on the construction of concentration camps beginning with daau 
+
+</james>
+<from>
+
+The Pink Triangles p. 106
+
+Chapter Four: Persecution
+
+WHEN, ON JANUARY 30, 1933, HITLLER was appointed chancellor, triumphant Nazi troopers staged a massive demonstration, marching with torches through the streets of Berlin, singing songs of vengeance. Still, Hitler did not have the majority of voters needed to win an election on March 5. Whether the Nazis really expected a Communist uprising or whether, as often before, they camouflaged their own wrecking methods by ascribing them to their opponents, luck came to their assistance. On February 27 the Reichstag, Germany’s white-columned, neoclassical parliament building, went up in flames. In no time, Hitler, Goring, and Goebbels turned up among the scorched ruins. Hitler proclaimed: “This is a sign of Providence from above. Now nobody will dare stand in our way when we crush the Communist menace with an iron fist.” Immediately afterward, a wave of terror swept throughout Germany, the first of many. Members of opposition parties found themselves on benches in the Berlin central police station. Similar arrests engulfed cities and villages throughout Germany. The Nazis had started to settle accounts with their enemies. When the jails proved not to be large enough, Himmler stepped in; within less than a month he embarked on the construction of concentration camps, beginning with Dachau.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+among the first to be jailed with the directors of homosexual rights organiz ations which had been made illegal Just 4 days before the burning of the reichstag held's institute for sexual research was a prime target as were CTT Hiller its chairman Felix Hall a legal adviser and Max hoden a respected sex reformer whose books on Women's Rights sexual minorities and abortion had annoyed the Nazis for years Hiller held's successor and most prominent member of The Institute was shipped to oranburg where he was repeatedly tortured the offices of several prominent gay organizations were raided during these early winter weeks of 1933 communist and Social Democratic papers were forced to stop printing the Nazi propagandists never tired of conjuring up the smoldering debris the smoking wood piles the devastated ceilings of the Reich she declared that this fire was only a beginning the Communists they said had destroyed the parliament now they would unleash a civil war German citizens could expect the worst Only the strongest government measures could save the nation those strongest measures followed soon on March 24th the so-called enabling law was adopted subtitled the law to remove the stress from people and state in reality it did away with the Constitution removed all legal restraints and gave total control to Hitler and his thugs it signaled the end of the Ware Republic in the start of the Nazi regime and it remained on the books until 1945 
+
+</james>
+<from>
+
+The Pink Triangles p. 107
+
+Among the first to be jailed were the directors of homosexual rights organisations, which had been proscribed just four days before the burning of the Reichstag. Hirschfeld’s Institute for Sexual Research was a prime target, as were Kurt Hiller, its chairman, Felix Halle, a legal adviser, and Max Hodann, a respected sex reformer whose books on women’s rights, sexual minorities, and abortion had annoyed the Nazis for years. Hiller, Hirschfeld’s successor and the most prominent member of the institute, was shipped to Oranienburg, where he was repeatedly tortured. Through sheer luck he was discharged and later published a vivid account of his experience. The offices of several prominent homosexual organisations were raided during these early winter weeks of 1933. Storm troopers plundered the premises of Friedich Radzuweit, editor of Die Freundschaft (“Friendship”), and took his stepson to jail. Communist and Social Democratic papers were forced to stop printing. The Nazi propagandists never tired of conjuring up the smouldering debris, the smoking woodpiles, the devastated ceilings of the Reichstag, to declare that this fire was only a beginning. The Communists, they said, had destroyed the Parliament; now they would unleash a civil war. German citizens could expect the worst. Only the strongest government measures could save the nation. The strongest measures followed soon. On March 24, the so-called Enabling Law was adopted, subtitled the Law to Remove the Stress from People and State. In reality, it did away with the constitution, removed all legal restraints, and gave total control to Hitler and his thugs. It signalled the end of the Weimar Republic and the start of totalitarianism, and it remained on the books until 1945.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the days that consumed the reichstag the later ransacking of held's Institute and finally the notorious book burning on May 10th during which fanatical Stormtroopers destroyed the works of those who had made German culture great but were now declared to be subhumans should have been seen as a signal to every non-nazi the vast majority of Germans that the era of Tolerance and progress had abruptly come to an end that a new Dark Age would follow  yet most gays hoped that they could weather the storm many rushed to join the Nazi party in the belief that they could vanish among the uniformed crowds others hoped for the best and although bars and cafes catering to homosexuals were eliminated they tried to continue their lives as unobtrusively as possible gradually many realized that their existence was threatened and they lived in constant fear of Discovery others joined the Armed Forces over which the gapo was never to gain complete jurisdiction but not until Rome and his Confederates were executed did most homosexuals believed that a country like Germany could fall back into barbarism now however there could be no mistaking the murderous intentions of the Nazis there could be no doubt any longer that the Nazis were as violently opposed to homosexuals as they were to Jews and roma 
+
+<from>
+
+The Pink Triangle p. 107-108
+
+The blaze that consumed the Reichstag, the later ransacking of Hirschfeld’s institute, and finally the notorious book-burning of May 10, during which fanatical storm troopers destroyed the works of those who had made German culture great but were now declared to be subhumans, should have been seen as a signal to every non-Nazi that an era had abruptly come to an end, that a new dark age would follow. Shortly thereafter- and nearly a year before the Roehm purge- the Law for the Protection of Hereditary Health was enacted, a barely noticed omen of mass killings to come. Here terms such as “racially inferior offspring,” “deviant psychopath,” “criminally insane person,” and “unneeded consumers” were first introduced. Homosexuals should especially have been on their guard; as early as the fall of 1933, some were sent to Dachau and to Fuhlsbuttel, near Hamburg. Yet most gays hoped they could weather the storm. Many rushed to join the Nazi Party in the belief that they could vanish among the uniformed crowds; others hoped for the best, and although bars, cafes, and dancing places catering to homosexuals were eliminated, they tried to continue their lives as unobtrusively as possible. Gradually, many realised that their existence was threatened, and they lived in constant fear of discovery. Others joined the armed forces, over which the Gestapo was never to gain complete jurisdiction. But not until Roehm and his confederates were executed did most homosexuals believe that a country like Germany could fall back into barbarism. Now, however, there could be no mistaking the murderous intentions of the Nazis. There could be no doubt any longer that the Nazis were as violently opposed to sexual deviants as they were to such racial deviants as Jews and Gypsies.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+a flood of rules and memorandums were soon issued by the Minister of Justice in the headquarters of Berlin's gestapo aiming both to micromanage German sex lives and to expand the criminal class the still modest gusto o of himler sent a secret circular letter for instance to the police headquarters throughout Germany on the 24th of October 1934 they were told to mail lists of all somehow homosexual active persons alleged crimes against paragraph 175 had been used from the beginning as a ruse to prosecute individuals whose politics displeased those in power 
+
+</james>
+<from>
+
+The Pink Triangles p.108-109
+
+The Ministry of Justice and the Berlin headquarters of the Gestapo soon released a deluge of regulations and memoranda designed both to regulate the sex lives of German citizens and to widen the categories of crime. On October 24, 1934, for example, Himmler’s still-modest Gestapo sent a secret circular letter to police headquarters throughout Germany. They were instructed to mail in lists of all “somehow homosexually active persons.” If possible, political affiliations of suspects should be noted together with information on previous police records. Especially welcome were names of politically prominent personalities. From the start, alleged offenses against Paragraph 175 were used as a ruse to arrest people whose politics displeased those in power.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+
+charges were quickly concocted for homosexual acts an ex-convict who could be persuaded to swear that her X had fondled why could always be found by the authorities 
+
+
+</james>
+<from>
+
+The Pink Triangles p. 109
+
+Charges of homosexual activities were easily concocted. The authorities could always unearth an ex-convict who could be persuaded to swear that Herr X had fondled Herr Y in a bar. One might even say that the Roehm purge belongs in this category – political assassination dressed up as anti-vice action- the only difference being that Roehm had indeed been a practicing homosexual.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+on June 8th 1935 paragraph 175 was revised to extend the concept of criminally indecent activities between men it permitted the authorities to arrest any male on the most ludicrous and transparent charges from the beginning courts and judges took it upon themselves to decide what in their minds constituted criminal indecency this meant that previous interpretations of paragraph 175 as outlying only actions resembling kidus were now seen as too narrow mutual masturbation was declared a felony a kiss or a touch could be interpreted as criminally indecent the specialists in the ministry of Justice were not satisfied until anything that could remotely be considered as sex between men was labeled a transgression 
+
+</james>
+<from>
+
+The Pink Triangles p.110
+
+On June 28, 1935, Paragraph 175 was revised to extend the concept of “criminally indecent activities between men.” It permitted the authorities to arrest any male on the most ludicrous and transparent. From the beginning, courts and judges took it upon themselves to decide what, in their minds, constituted criminal indecency. This meant that previous interpretations of Paragraph 175 as outlawing only actions resembling coitus were now seen as too narrow. Mutual masturbation was declared a felony; a kiss or a touch could be interpreted as criminally indecent. The specialists in the Ministry of Justice were not satisfied until anything that could remotely be considered as sex between males was labelled a transgression.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+himler was forced to briefly abandon the attack in August of 1936 some gay bars were allowed to reopen and the police were ordered not to mess with foreign homosexuals during the Olympic games in Berlin the repre ended quickly though once the Olympics ended 
+
+</james>
+<from>
+
+The Pink Triangles p. 110-111
+
+<mark>In August 1936, Himmler was compelled to suspend his assault temporarily. During the Olympic Games in Berlin, some gay bars were permitted to reopen and the police were requested not to bother visiting foreign homosexuals. But by the fall of 1936, the campaign was renewed.</mark> On October 10, Himmler delivered one of his rare public speeches. In it he sounded many of his familiar ideological formulas. Germany was “surrounded by enemies ready to destroy this heart of Europe…” He was proud to report that the state had started combatting homosexuality in 1934. “As National Socialists we are not afraid to fight against this plague within our own ranks. Just as we have readopted the ancient Germanic approach to the question of marriage between alien races, so, too, in our judgement of homosexuality- a symptom of racial degeneracy destructive to our race- we have returned to the guiding Nordic principle that degenerates should be exterminated. Germany stands or falls with the purity of its race…
+
+</from>
+</compare>
+
+part six legally admissible 
+
+<compare>
+<james {% include timecode %}> 
+
+on October 26th the Federal Security Department for combating abortion and homosexuality was established in the Berlin gestapo
 headquarters headed up by the SS Captain formerly in charge of redistributing goods that had been stolen from Jewish
 people by 1936 the traditional more conservative police agencies had been
 federalized which meant that himler ruled virtually unchallenged more leeway was given to
 prosecutors while defense attorneys and judges lost control the factual proof
 laws were abolished sentencing relied not only on the seriousness of the alleged criminal act but also on the
 quote psychological form of which the defendant was alleged to belong therefore persons convicted of
-sexual deviance had no chance of escaping prosecution in a Nazi Court the
+sexual deviance had no chance of escaping prosecution in a Nazi Court 
+
+</james>
+<from>
+
+The Pink Triangles p.111-112
+
+<mark>Barely two weeks later, on October 26, the Federal Security Department for Combating Abortion and
+Homosexuality was established in the Berlin Gestapo headquarters. It was headed by SS Captain
+Joseph Meisinger, an ex-policeman from Bavaria who previously had been occupied with the
+distribution of confiscated Jewish properties.</mark> His zeal pleased Himmler at first, but later the SS chief
+had to acknowledge that Meisinger’s intellectual equipment was insufficient. When, in 1938,
+Meisinger mismanaged the von Fritsch affair, he was transferred to Poland. There, as Gestapo
+supervisor, he started a reign of such brutality that even his fascist co-workers denounced him. He
+disappeared into Japan but was surrendered by U.S. authorities to Poland, where a Polish court had
+him executed in March 1947 in Warsaw.
+
+The all-encompassing control of the Nazi police directorates can only be appreciated by grasping the essence of the new jurisprudence. <mark>By 1936 the traditional, more conservative police agencies were
+“federalised,” which meant that Himmler ruled virtually unchallenged. From 1935 and 1936 on,
+higher legal officers were appointed by Wilhelm Frick, the Minister of Interior. Prosecutors were
+granted more leeway, while defence lawyers and judges lost power. The rules of factual evidence
+were abolished. Sentencing depended not only on the severity of the alleged criminal act but on the
+“psychological type” to which the offender supposedly belonged. Thus, people accused of sexual
+deviance had little chance of avoiding conviction by a Nazi court.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the
 newly formulated laws had also been made retroactive a Jewish man for example
 could be imprisoned in 1936 for having had an affair with a non-jewish woman in
 1933 before the crime of racial defilement was defined the same was true for homosexual
-activities the ministry of Justice soon issued new guidelines stating that homosexual offenses
+activities 
+
+</james>
+<from>
+
+The Pink Triangles p.112
+
+The newly devised laws also were made retroactive. A Jewish man, for example, could be jailed in
+1936 for having had an affair with a non-Jewish woman in 1933, before the Nuremburg laws had
+established the crime of “racial defilement.” The same held true for homosexual practices. In
+addition, illegal actions, such as the 1934 Roehm purge, were now declared to have been legal. Few
+members of the legal profession protested; some retired, a handful braved the storm, stayed on,
+and tried to soften the worst excesses of Nazi dominated courts. Still, many lawyers surrendered to
+Hitler’s bullying as easily as did those medical doctors who helped to organise the euthanasia
+programs and the medical experiments on camp inmates. The Third Reich wiped out the
+humanisation and democratisation of jurisprudence that the Enlightenment had brought to
+Germany.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the ministry of Justice soon issued new guidelines stating that homosexual offenses
 did not actually have to be committed to be punishable intent was enough for the
-courts whether real or perceived later courts decided that a lewd glance from
-one man to another was sufficient grounds for prosecution in 1937 a young lawyer named
+courts whether real or perceived 
+
+</james>
+<from>
+
+The Pink Triangles p. 112-113
+
+Two centuries before, King Frederick II of Prussia had abolished torture as a legal instrument for
+extracting confessions or the names of accomplices. Now, in every large city, people were legally
+tortured and executed in the cellars of Gestapo buildings. No one arrested on charges of real or
+trumped-up homosexual activity could count on a fair trial. If, before 1933, homosexuals had been
+second-class citizens, now they were slowly expatriated like the gypsies, denaturalised like the Jews.
+They could be doubly scapegoated, as “incurably sick” and therefore candidates for mercy death, or
+as “congenitally criminal deviants,” to be re-educated in camps. <mark>In December 1934 the Ministry of
+Justice issued new guidelines stating that homosexual offenses did not have actually to be
+committed to be punishable; intent was what mattered.</mark> This emphasis on intent originally had been
+brought to bear in various cases of Jewish men accused of having had sexual relations with non-
+Jewish women. Since both groups were regarded as contagious subhumans, similar strategies could
+be employed against them. There were, however, significant differences in their treatment, as we
+shall see.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+later courts decided that a lewd glance from
+one man to another was sufficient grounds for prosecution 
+
+</james>
+<from>
+
+The Pink Triangles p.113
+
+This catalogue was not inclusive enough for the Nazi ideologues. Later, courts decided that a lewd
+glance from one man to another was sufficient grounds for prosecution.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in 1937 a young lawyer named
 Rudolph Clare wrote a book homosexuality and criminal law it provided the
 ideological under pittings for the war on homosexuals with cla's book SS officers
 in charge of indoctrination could explain to the often ignorant members of the community how their natural healthy
-instincts would be affected by sexual deviance the revision of paragraph 175
+instincts would be affected by sexual deviance 
+
+</james>
+<from>
+
+The Pink Triangles p.113
+
+In 1937 a young lawyer named Rudolf Klare wrote a book, Homosexualitat und Strafrecht, to provide
+the ideological underpinnings for the war on homosexuals. With Klare’s book, SS officers in charge of
+indoctrination could explain to the often ignorant members of the folk community how their natural,
+healthy instincts would be affected by sexual vagrants.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the revision of paragraph 175
 had not banned sexual acts Between Women Claire sought to correct this oversight
 he pleaded to make gross indecencies between women as punishable as those between
 men marriage and childbearing he wrote were the two main pillars on which
-Nordic racial Heritage was based Nazi J ists ignored cla's please and himler
+Nordic racial Heritage was based 
+
+</james>
+<from>
+
+The Pink Triangles p.114
+
+The revision of Paragraph 175 had not banned sexual acts between women. Klare sought to correct
+this oversight. He pleaded to make “gross indecencies” between females as punishable as those
+between males. Marriage and childbearing, he wrote, were the two main pillars on which Nordic
+racial heritage was based. Criminal law must see to it that the folk community remained pure.
+Fortunately, he claimed, it was alien to the German woman to indulge in lesbian activities. On the
+contrary, most German women showed nothing but contempt for it. Klare admitted there were
+problems. Lesbians, unlike some homosexual men, had not developed theories exalting a special,
+same-sex society; they had produced no Hans Bluher. Moreover, women could be tender with other
+women without arousing undue suspicion, and it would be difficult to discover, much less prosecute,
+lesbian acts that were carried out in private. Klare therefore regretfully accepted the fact that, for
+the moment, sexual contacts between women would have to go unpunished, but he hoped this
+would prove only temporary.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+Nazi J ists ignored cla's please and himler
 seemed never to have made any statement about lesbians nevertheless some albe at very
 few german lesbians were caught in the Machinery of the secret police little was known of their fate though some were
 tried and imprisoned with PS the Nazis hoping that they would be raped by French and Russian prisoners in
 fact the PS were promised a special reward for each Act of aggression a
 bottle of schnaps but disappointing the Nazis the PS did
 not violate their fellow prisoners though According to some reports they
-were not so kind to the German guards once the Americans and Russians reached their prisons one group that emerged
+were not so kind to the German guards once the Americans and Russians reached their prisons 
+
+</james>
+<from>
+
+The Pink Triangles p.114-115
+
+Nazi jurists ignored Klare’s pleas, and Himmler seems never to have made any statements about
+lesbians. Nevertheless, some –albeit very few- German lesbians were caught in the machinery of the
+secret police. Little was known of their fate until quite recently. In 1975, Ina Kukuc published an
+account of how some SS officers had arrested and sentenced lesbians. The one victim on whom she
+reports most extensively was brought to court on a charge of treason- which was almost certainly
+false. Helene G. from Schleswig-Holstein had been working for the counterintelligence division of the
+Luftwaffe and sharing her residence with another woman, a lesbian. Toward the end of 1944, a
+young lieutenant wanted to bed Helene’s girlfriend and, when rebuffed, took his revenge. The two
+women were denounced and arrested. Helene, indicted for military subversion, was expelled from
+the air force and sent to Camp Butzow. This violated regulations because Butzow was specially
+designated as a penal camp for recalcitrant prisoners of war. It did not matter. She and five lesbians
+were thrown into an empty cell block, under the command of male constables. “These are the scum
+of the earth,” the guards are reported to have told the French and Russian POWs. “We wouldn’t fuck
+them with a sofa leg.” The prisoners were promised a rare reward: for each woman they penetrated,
+they would be given a bottle of schnapps. This grotesque sport was, of course, a violation of
+Himmler’s orders concerning the purity of the German race. POWs were to be severely punished for
+having had, or having tried to have, intercourse with German women. But then, the entire case, like
+so many others, had no legal foundation and serves only to emphasise the extent to which the SS
+felt itself to be free of all moral and ethical restraint. In the end, the only law that was respected was
+the law of the jungle.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+one group that emerged
 untouched were some of Germany's most prominent and open homosexuals artists
 who had obtained the protection of high Nazi officials sometimes even Hitler himself
+
 reported ly after a long conversation with himler Hitler advised that actors and other artists could be arrested for
-offenses against paragraph 175 only with his personal consent still
+offenses against paragraph 175 only with his personal consent 
+
+</james>
+<from>
+
+The Pink Triangles p. 116
+
+Another group that emerged untouched were some of Germany’s most prominent and open
+homosexuals in the performing and decorative arts, who obtained the protection of high Nazi
+officials. The most famous example is that of the actor Gustaf Grundgens, who was much admired by
+Goring’s actress-wife, Emmy Sonneman. Despite the fact that his homosexual affairs were as
+notorious as those of Roehm’s, Goring appointed him director of the State Theatre, and Grundgens
+quickly became head of theatrical life in the Third Reich. In 1936, Klaus Mann wrote the novel
+Mephisto, a bitter satire of Grudgens who had been married to Mann’s sister, Erika. He wrote the
+book to “analyse the abject type of treacherous intellectual who prostitutes his talent for the sake of
+some tawdry fame and transitory wealth.”
+
+On October 29, 1937, in what appears to have been a concession to Goring’s rule over the arts,
+Himmler advised that actors and other artists could be arrested for offenses against Paragraph 175
+only with his personal consent, unless the police had caught them in flagrante.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+still
 the flood of anti-homosexual injunctions kept Rising on April 4th 1938 the Berlin
 gestapo issued a new directive a man accused of gross indecency with another
 man could be transferred directly to a camp without trial up until then gay men had been
 serving time in prison the camps though were something else
-entirely but himler soon found himself the topic of mockery as more and more
+entirely 
+
+</james>
+<from>
+
+The Pink Triangles p.116-117
+
+Still, the flood of antihomosexual injunctions kept rising. On April 4, 1938, the Berlin Gestapo issued
+a new directive: a man convicted of gross indecency with another man could be transferred directly
+to a camp/ then, on September 27, 1939, the Office for Combating Abortion and Homosexuality was
+reorganised within the Federal Security Bureau to free up more agents for the headhunts.
+
+On July 15, 1940, Himmler added an amendment to his April 1938 directive: men arrested for
+homosexual activities who have seduced more than one partner must be transferred to a camp after
+they have served their prison sentences. This was the usual fate for most people caught in the
+Gestapo net, whether they had committed a burglary, embezzled money, or happened simply to be
+contragenics: after prison they would be shipped to a camp. On September 4, 1941, the Ministry of
+Justice published an extraordinarily vague ruling that anyone who threatened the health of the folk
+community must be put to death.
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+but himler soon found himself the topic of mockery as more and more
 people began to realize that the SS was becoming dominated by gay men leadership positions were teeming
 with homosexuals and it was an Open Secret among many in Germany that if a man were to offer sexual favors to an SS
-officer most any crime could be forgiven and so on November 15th 1941 himler
+officer most any crime could be forgiven 
+
+</james>
+<comment>
+
+Please God No
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+and so on November 15th 1941 himler
 issued the fur's decree relating to Purity in the SS and police henceforth
 any SS or police officer engaging in indecent Behavior with another man or allowing himself to be abused by him for
 indecent purposes was to be condemned to death after the Russians had retaken
 Stalingrad himler advised the Army and Navy Chiefs of Staff that his bureau held jurisdiction over Soldiers and
 Sailors con victed of same seex indecencies as well though homosexual acts among German men did not cease it
 seems that himler was forced to pay attention to more pressing matters than what gay men did in their spare
-time part seven is he you
-know how did the Nazis identify homosexuals not easily gays were
+time 
+
+</james>
+<from>
+
+Pink Triangles p.117
+
+On November 15, 1941, Himmler issued the Fuhrer’s Decree Relating to Purity in the SS and Police.
+Henceforth any SS or police officer engaging in indecent behaviour with another man or allowing
+himself to be abused by him for indecent purposes was to be condemned to death. That Himmler
+had to promulgate such an order suggests that, despite his vigilance, homosexuality within the elite
+SS had not entirely ceased; indeed, Himmler conceded at one point that he had to deal with one
+case a month. In February 1942, the Fuhrer’s purity decree was extended to any male engaging in
+homosexual activities. Finally, on May 19, 1943, after the Russians had retaken Stalingrad, after the
+German forces in Africa had surrendered, Himmler advised the army and navy chiefs of staff that his
+bureau held jurisdiction over soldiers and sailors convicted of same-sex indecencies. This seems to
+have been the last ruling to make Germany homorein (homo-free). The absence of further decrees
+should not be taken to mean that homosexuals were now left alone; the Gestapo kept arresting
+suspects until the Russians had encircled Berlin.
+
+</from>
+</compare>
+
+part seven is he you know 
+
+<compare>
+<james {% include timecode %}> 
+
+how did the Nazis identify homosexuals not easily gays were
 difficult to find unlike Jews and Romani whose religious or racial background s were regularly noted on their birth
 certificates and unlike Communists socialists and social Democrats whose politics could be decided by a glance at
 the membership roles of their parties there were no clear documents or physical identification for homosexuals
 the Central Bureau of the Berlin criminal police which had collected lists of around 20 to 30,000 homosexuals
-in Germany in 1897 was the only exception himler was given a head start
+in Germany in 1897 was the only exception
+
+</james>
+<from>
+
+The Pink Triangles p.123
+
+How were homosexuals identified? The answer is- not easy. Unlike Jews and Gypsies, whose
+religious or ethnic origins were routinely noted on their birth certificates, and unlike Communists,
+Socialists, and Social Democrats, whose politics could be determined merely by a glance through
+their parties’ membership rolls, gays were difficult to discover. No straightforward documents or
+physical identification existed for homosexuals. The single exception was the central bureau of the
+Berlin criminal police, which in 1897 had compiled lists of about twenty to thirty thousand
+homosexuals throughout Germany.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+himler was given a head start
 by the practice of keeping track of as many future undesirables as possible any
 men who may seem flamboyant even in teenage years and the development of a
 massive documentation system the names gained by the first large scale arrests following the Rome Purge were added to
@@ -936,41 +1382,226 @@ found in gay bars or clubs were also noted pressure was imposed on victims to co
 friends and lovers were extracted and himmler's list grew longer occasionally bartenders who were not particularly
 sympathetic to their gay clientele would have names to give one book of addresses
 led to another one name to the next the gay community being used
-against itself fortunately hersfeld scientific humanitarian committee had destroyed its membership rosters in time
+against itself
+
+</james>
+<from>
+
+The Pink Triangles p.123-124
+
+The tradition of keeping track of as many potential undesirables as possible and the building up of a
+huge documentation system gave Himmler a head start. To this aging list were added the names
+obtained by the first large-scale arrests after the Roehm purge. Not only members of the SA, but
+civilians caught in gay bars or clubs were seized, interrogated, their names noted. The Gestapo used
+the same tactics it applied to all enemies of the state: pressure was put on victims to denounce
+others. In 1934 the arresting officers still behaved somewhat guardedly; the courts had not been
+beaten into total submission. Nor had the old Weimar police force been everywhere replaced by
+Nazi fanatics. A well-connected homosexual could sometimes still find a lawyer to obtain release
+from jail. However, after the revision of Paragraph 175, coercion was more openly used. Names of
+friends and lovers were extracted under torture, and Himmler’s list grew longer. Bartenders not overly sympathetic to their gay clientele would occasionally provide names. One address book led to
+another, one name to the next.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+fortunately hersfeld scientific humanitarian committee had destroyed its membership rosters in time
 but it is not known if the larger organization the Friendship League managed to get rid of its archives early
 enough in addition how is it possible for a suspect to prove that he had not
 thrown another man an offensive glance a man was arrested in at least one case
 not because he had been caught having sex with another man but because he was simply glancing at more men than women
+
+</james>
+<from>
+
+The Pink Triangles p.124-125
+
+Fortunately, Hirschfeld’s Scientific-Humanitarian Committee had destroyed its membership rosters
+in time. But it is not known if the larger organisation, the Friendship League, headed by Radzuweit,
+managed to get rid of its archives early enough. Some 28,000 members paid regular yearly fees to
+the League. Their names may well have landed on the desk of Captain Meisinger. Another means of
+identifying suspected homosexuals lay in the confiscated subscription lists of about thirty magazines
+of more or less homosexual orientation then available in larger cities. Although most of these were
+probably purchased on newsstands, some may have been obtained by subscription. By 1938 and
+1939, gay bars, clubs, and organisations had disappeared. Yet informers on all contragenics were
+constantly being trained. The authorities encouraged every citizen to report on all who exhibited the
+slightest evidence of deviance. Moreover, how was it possible for a suspect to prove that he had not
+thrown an “offensive glance” at another man? In at least one instance, a man was arrested not
+because he had been watching a young couple make love in a park, but because he had been seen
+observing the actions of the man more than those of the woman. Julius Streicher, editor of Der
+Sturmer, had urged his readers to write to him about Jewish men suspected of having, or trying to
+establish, relations with non-Jewish women. Denunciatory letters poured in. The same pattern held
+true for other contragenics. It was easy for anyone who wanted to get rid of a competitor to brand
+the rival as a homosexual. With one short anonymous note to the local Gestapo branch, the enemy
+of the state could be taken into protective custody or, at least, thoroughly interrogated. Later, after
+the war had started in earnest, the authorities divided every city into administrative blocks. Each
+block was supervised by a block warden, whose mission was to spy on everybody.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
 still many gay men managed to avoid detection by the authorities survival
 depended on either the suspension of one's sex life or its successful pursuit in secret often Anonymous encounters
-conducted at considerable risk three special programs were launched against homosexuals in Germany and its new
+conducted at considerable risk 
+
+</james>
+<from>
+
+The Pink Triangles p.125
+
+Still, many homosexuals managed to avoid detection by the authorities. Survival depended on either
+the suspension of one’s sex life or its successful pursuit in furtive, secret, often anonymous
+encounters, conducted at considerable risk.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+three special programs were launched against homosexuals in Germany and its new
 satellite States the intent was to use the charge of homosexuality as a pretext to rid the
 Nazi party of suspected opponents these campaigns were directed against the youth movement the Catholic church and
 the armed forces the first was organized by balder Von shirro an aristocratic Drifter
 partly American by descent who had met Hitler in the early 1920s and won his confidence by 1931 sherro held the
 Reigns of the Hitler Youth firmly in his hands he was determined to dissolve the
-competing youth groups to get rid of their leaders and to push their charges into joining the Hitler Youth in 1941
+competing youth groups to get rid of their leaders and to push their charges into joining the Hitler Youth 
+
+</james>
+<from>
+
+The Pink Triangle p.125
+
+Three special offensives were launched against homosexuals, or that used the charge of
+homosexuality as a pretext to rid the regime of suspected opponents. These campaigns were
+directed against the youth movement, the Catholic Church, and the armed forces. The first was
+organised by Baldur von Schirach, an aristocratic drifter, partly American by descent, who had met
+Hitler in the early 1920s and won his confidence. By 1931, Schirach held the reins of the Hitler Youth
+firmly in his hands. He was determined to dissolve the competing youth groups, to get rid of their
+leaders, and to push their charges into joing the Hitler Youth.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in 1941
 Shiro's office issued a manual on the behavior of the young part statistics part indoctrination document part
 prescription for action against violators of the sexual and behavioral code of the Hitler Youth the need to do
 so suggest ests that not all members of the Hitler Youth were always able to conform to the code of Nordic Purity and
 righteousness it was entitled criminality and delinquency of Youth
 once again homosexuality was defined as a dangerous contagious epidemic the Ware
 Republic was accused of standing by quote while this epidemic spread everywhere and even criminal statistics
-did not bother with registering it the book concedes that not all adolescent
+did not bother with registering it 
+
+</james>
+<from>
+
+The Pink Triangle p.126-127
+
+In 1941, Schirach’s office issued a manual on the behaviour of the young, part indoctrinational tract,
+part prescription for action against violators of the sexual and behavioural code of the Hitler Youth.
+The need to do so suggests that not all members of the Hitler Youth were always able to conform to
+the code of Nordic purity and righteousness. It was entitled Criminality and Delinquency of Youth.
+Once again, homosexuality was defined as a dangerous, contagious epidemic. The Weimar Republic
+was accused of standing by “while this epidemic spread everywhere, and even criminal statistics did
+not bother with registering it.” One page illustrates the snowball effect with graphics. A photo of one
+“main seducer” named Hasso Engel is placed in the middle of a chart. Grouped around him are the
+genealogies of those whom he had seduced, those whom the seduced subsequently had seduced
+and so on. Hasso was precocious: he admitted having started his activities at age eight, “a warning
+example of a hereditarily unsound delinquent who had helped spread this epidemic and must be
+viewed as a contamination risk.”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the book concedes that not all adolescent
 sexual behaviors are indicative of real or compulsive homosexuality often out of
 sheer curiosity young people take to Collective masturbation nevertheless it quickly contributes to quote genuine
 perversion and the leaders were primarily engaged in the seduction of younger males in the free youth orders
 this as they grew older LED their victims to similar homosexual crimes thus these sex crimes spread further and
-further like an epidemic according to sta statistics compiled by the Nazis and discovered after the war's end there
+further like an epidemic 
+
+</james>
+<from>
+
+The Pink Triangle p.127
+
+The book concedes that not all sexual activities between adolescents are proof of “true” or
+“compulsive” homosexuality. Sometimes youngsters take to mutual masturbation out of sheer
+curiosity. Still, it easily leads to “genuine perversion, and in the free-youth orders the leaders
+occupied themselves mainly with the seduction of younger males. This led their victims, as they grew
+older, to similar homosexual crimes. Thus, like an epidemic, these crimes spread further and
+further.” It is clear that the book has borrowed from Bluher. The intellectual development of the
+free youth sects led logically to homosexuality. It was supplemented by the idea that "'the Order is
+destiny.' it meant everything to its brother-members, including the sexual sphere. Homosexuality
+was part of the program. Even more, in various political and philosophical disguises it was accepted
+as a basic ideological creed. Thus, the unnatural became the guiding principle."
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+according to sta statistics compiled by the Nazis and discovered after the war's end there
 were roughly 2.4 million teenage boys who are arrested under various charges
 yet only 25,000 of those cases were crimes against paragraph 175 and of that
 only 3,976 were convicted essentially 47 out
 of every 10,000 this was embarrassing sherro like himler was convinced that
 gays formed a greater portion of the criminal population still more embarrassing proved to be a second
 inquiry into samesex felonies within the Hitler Youth 15% of upper management
+
+</james>
+<from>
+
+The Pink Triangle p.128-129
+
+According to statistics compiled by the Nazis and discovered after the war’s end, only 3,976 male
+teenagers between fourteen and eighteen years old, of the more than 25,000 juveniles arrested for
+crimes against Paragraph 175, were convicted between 1933 and 1940. Since the total of juveniles
+during this period amounted to about 2.4 million, this number is relatively small. The legal
+department of the Hitler Youth had researched the cases of 100,000 juveniles convicted of all sorts
+of illegal deeds only to discover that on the average; just forty-seven out of ten thousand crimes
+were of a homosexual nature. This was embarrassing; Schirach, like Himmler, was convinced that
+homosexuals formed a greater portion of the criminal population. Still more embarrassing proved to
+be a second inquiry into same-sex felonies committed between July 1939 and August 1941 within
+the newly purged Hitler Youth. Of those ousted from the organisation, 293 were charged with
+homosexual misdeeds- nearly 15 percent of the total expelled a rather large percentage.
+
+These figures must be treated with caution. They indicate only the number of people arrested and
+sentenced for homosexuality; they tell nothing of the truth of that charge. Further, they reflect only
+the number of arrests and convictions the Nazis decided to record. It was not unusual for people to
+disappear without a trace.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
 shero's closest confidence had been discovered committing homosexual acts and the organization HIIT it from public
 view in fact gays in most parts of the Nazi military machine were excused when
-caught having gay sexual encounters but not all of them were so lucky to
+caught having gay sexual encounters but not all of them were so lucky 
+
+</james>
+<from></from>
+
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+to
 understand what happened to the gay men in the armed forces who did not quote pass that is is those who were caught
 and convicted three factors must be taken into account first after July 1935
 as draft age gays began to grasp the ferocity of the new anti-homosexual laws many decided to volunteer for the Navy
@@ -980,21 +1611,127 @@ eliminated the homosexual sa Elite no halfway intelligent G person was likely to
 had already made it in right under himmler's nose third none of the Armed
 Forces were inclined favorably toward homosexuality statistics from 1940 show
 that the military courts were busy with sexual offenders as more and more young men joined or were drafted
-simultaneously indictments of male civilians for the same felonies stayed the same or dropped slightly in 1942
+simultaneously indictments of male civilians for the same felonies stayed the same or dropped slightly 
+
+</james>
+<from>
+
+The Pink Triangle p.143-144
+
+To understand what happened to those homosexuals in the armed forces who did not “pass” – that
+is, those who were caught and convicted- three factors must be taken into account. First, after July
+1935, as draft-age gays began to grasp the ferocity of the new anti-homosexual laws, many decided
+to volunteer for the navy, army, or the air force. Neither General Keitel of the army, nor Admirals
+Raeder or Doenitz of the navy, nor even Marshal Goring of the air force shared the homophobic
+obsessions of Himmler. Second, after the Roehm purge had eliminated the homosexual SA elite, no
+halfway intelligent gay was likely to join the homophobic SS. Third, none of the armed forces were
+inclined favourably toward homosexuality. Statistics from 1940 show that the military courts were
+busy with sexual offenders as more and more young men joined or were drafted. Simultaneously,
+indictments of male civilians for the same felonies stayed the same or dropped slightly. In 1941,
+about 3,700 civilians were sentenced for same-sex activities. During the same year, the number of
+men indicted for the same crime within the armed forces amounted to just over 1,100.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in 1942
 after much badgering from himler Hitler declared that the armed forces were too lenient in their treatment of sexual
-deviant to his disappointment accused gay soldiers continued to
+deviant 
+
+</james>
+<from>
+
+The Pink Triangle p. 144
+
+In 1942, Hitler declared that the armed forces were too lenient in their treatment of sexual deviants.
+There was probably more behind this than Hitler’s pleasure in the badgering the military. Himmler,
+who a year earlier had prescribed the death penalty for any SS member guilty of homosexual
+actions, had probably pressured Hitler to the armed forces to conform. After all, an SS man caught
+with a sailor could be executed, while the sailor might get away with one or two years in jail. A
+psychiatrist, Otto Wuth, was appointed to alert military jurists to the dangers of all types of
+homosexuality. Wuth, a firm believer in Himmler’s scriptures, disapproved of the distinction
+between full-time libidinal felons and part-time victims. He labelled every male indulging in any type
+of same-sex activities a “compulsive psychopath,” and sought to prove that most homosexuals had
+previous criminal records of one sort or another. Should men convicted of homosexual felonies be
+dismissed from the armed forces? Wuth thought not. He proposed to put them instead into penal
+combat battalions where they had to face direct enemy fire. Wuth argued that if genuine
+psychopaths were discharged from the fighting forces. Heterosexual malingerers might pretend to
+be libidinal felons and use this ruse to get out of service. For repeat offenders, Wuth recommended
+demotion in rank for minor violations, and strict prison sentences for major crimes; all criminals
+were to wear a visible badge denoting their status.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+to his disappointment accused gay soldiers continued to
 serve it was 1943 after all the Russians were advancing the Americans had joined
 the war and Germany had bigger problems than nice Aryan boys having sex with each
-other part eight Camp as you can see gay men even in Nazi
+other 
+
+</james>
+<from>
+
+
+
+</from>
+</compare>
+
+part eight Camp
+
+<compare>
+<james {% include timecode %}> 
+
+as you can see gay men even in Nazi
 Germany had a habit of slipping through the net that was set up to catch homosexuals but not everyone was so
-lucky the first concentration camp to open daa began operation on March 30th
+lucky 
+
+</james>
+<from>
+
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the first concentration camp to open daa began operation on March 30th
 1933 on himmler's orders set up in haste to relieve the prisons which were
 overcrowded after the rag fire the camp was poorly organized the sa arrested and
 sometimes discharged people at random the earliest prisoners included anti-fascists Catholics homosexuals and
 Jews the commandant major Hillmar vur attempted to maintain some order violent
 insubordination and incitement to Disobedience were punishable by death
 still he could not keep his constables in check himler angered by the adverse publicity generated by the murder of
-several prisoners dismiss vakal who was subsequently charged by the Bavarian criminal prosecutor's office in June
+several prisoners dismiss vakal who was subsequently charged by the Bavarian criminal prosecutor's office 
+
+</james>
+<from>
+
+The Pink Tringle p.155-156
+
+The first camp, Dachau, near Munich, was opened on March 30, 1933, on Himmler’s orders. Set up
+in haste to relieve the prisons, which were overcrowded after the Reichstag fire, the camp was
+poorly organised. The SA arrested, and sometimes discharged, people at random. The earliest
+prisoners included antifascists, Catholics, homosexuals, and Jews. The commandant, Major Hilman
+Wackerle, attempted to maintain some order; “violent insubordination” and “incitement to
+disobedience” were punishable by death. Still, he could not keep his constables in check. Himmler,
+angered by the adverse publicity generated by the murder of several prisoners, dismissed Wackerle,
+who was subsequently charged by the Bavarian criminal prosecutor’s office.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in June
 1933 himler appointed Theodore Ike the man who more than anything else shaped
 the character not not only of daau but of concentration camps in general he organized brutality courses for the SS
 novices worked out a graded system of confinements and succeeded in turning the newly born order of the death's head
@@ -1009,23 +1746,175 @@ stemmed from his experience as police Informer terrorist and SS officer or wheth
 a butcher born to the task a bully who enjoyed tyrannizing others remains
 difficult to decide what is incontestable is that it was his policies that shaped The Contours of all
 camps and made them into the indispensable and diabolical instruments of Hitler and himmler's rule by Terror
+
+</james>
+<from>
+
+The Pink Triangle p.156-157
+
+In June 1933, Himmler appointed Theodor Eicke, the man who, more than anything else, shaped the
+character not only of Dachau but of labour camps. He organised brutality courses for the SS novices,
+worked out a graded system of confinements, and succeeded in welding the newly born Order of the
+Death’s Head into a fanatical gang of bullies, imbued with hatred toward the charges they regarded
+as subhumans. Eicke’s favourite slogan, frequently shouted by the guards at newcomers, was,
+“There are enough German oak trees to hang anybody who dares to deft us.” It was Eicke who
+transformed Dachau from a disorderly open-air jail into a place of carefully calibrated punishment
+and deprivation schedules. It was Eicke who provided the model for all later institutions. Men
+trained under him often ended up as high officers in the larger camps. And it was Eicke who brought
+the revolver into Ernst Roehm’s prison cell and, when Roehm refused the proffered suicide, shot him
+on Hitler’s orders, thus bringing to a climax the Night of the Long Knives. Whether Eicke’s governing
+techniques stemmed from his experiences as police informer, terrorist, and SS officer, or whether
+they simply mirrored the mind of a butcher born to the task- a bully who enjoyed tyrannising others-
+remains difficult to decide. What is incontestable is that it was his policies that shaped the epressive
+contours of all camps and made them into the indispensable and diabolical instruments of Hitler’s
+and Himmler’s rule by terror.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
 Ike developed a set of procedures that would breed in the guards a conviction that they were not only carrying out legitimate orders but punishing
 dangerous subversives his brutality Training Academy graduates ruled over almost all later penal institutions
-first those in the west later in the extermination Mills in the east in his
+first those in the west later in the extermination Mills in the east
+
+</james>
+<from>
+
+The Pink Triangle p.157
+
+Basically, Eicke worked out two sets of rules, one for camp personnel, one for inmates. Of the code
+for guards, only certain sections were put on paper; much of it was passed on through indoctrination
+sessions. Foremost, he insisted on unconditional obedience. Every order by a superior officer had to
+be carried out. Frequently he emphasised “that every prisoner be treated with fanatical hatred as an
+enemy of the state.” Eicke developed a set of procedures that would breed in the guards a
+conviction that they were not only carrying out legitimate orders but punishing dangerous
+subversives. He began a “brutality Training Academy” whose graduates ruled over almost all later
+penal institutions- first those in the West, later in the extermination mills in the East. The earlier
+camps, located within German, Austrian, Dutch, French, and Belgian borders, did not dispose of
+inmates by mechanised crematoria. They cannot properly be labelled extermination camps,
+although thousands perished in them.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in his
 guide book on discipline and Order his training drills for the Misfits and malens who made up his armies Ike
 created a nightmarish world of barbarism and doom so far removed from the experience of most western Nations that
-what went on inside the camps was at first not even believed the camps thanks
+what went on inside the camps was at first not even believed
+
+</james>
+<from>
+
+The Pink Triangle p.158-159
+
+In his guidebook on discipline and order, his training drills for the misfits and malcontents who made
+up his armies, Eicke created a nightmarish world of barbarism and doom, so far removed from the
+experience of most Western nations that what went on inside the camps was at first not believed. If
+Himmler was initially ordered to organise the extermination of large minorities, such as Jews and
+antifascists, if he later added the crusades against the smaller groups of contragenics such as Gypsies
+and homosexuals, it was Eicke who provided the needed confinement structures that soon dotted
+three-quarters of Europe.
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the camps thanks
 to himler existed outside any legal restrictions they presented a new type of penal colony where anybody resisting
-the established order could be quickly silenced the entire process of dehumanization upon entering the camps
+the established order could be quickly silenced 
+
+</james>
+<from>
+
+The Pink Triangle p.159
+
+The camps, thanks to Himmler, existed outside any legal restrictions. They presented a new type of
+penal colony where anybody resisting the established order could be quickly silenced. How the
+camps functioned, from exhaustive day to exhaustive day, has been told by so many excellent
+observers and historians that there is no need for detailed analysis here.
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the entire process of dehumanization upon entering the camps
 the stripping in some cases the Shaving of all hair the loss of name and personhood caused profound trauma it was
 accompanied not only by the enduring sensation of powerlessness the victim under d daily assault in one way or
-another also began to realize that nothing he had achieved done or owned counted here but what was the fate of
+another also began to realize that nothing he had achieved done or owned counted here 
+
+</james>
+<from>
+
+The Pink Triangle p.160
+
+The entire process of dehumanisation on entering the camp- the stripping, in some cases the shaving
+of all, even the pubic, hair, the loss of name and personhood, caused profound trauma. The jolt was
+accompanied not only by the enduring sensation of powerlessness; the victim, under daily assault in
+one way or the other, also began to realise that nothing he had achieved, done, or owned counted
+here. It has been said that in the inferno all are equal. But for one group the shock of incarceration
+was not as destructive as for the others. To habitual criminals, the trauma was less intense; they had
+spent years in jails developing a repertoire of survival techniques.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+but what was the fate of
 gay men in the Camp's Nether world how did a homosexual newcomer fit into the
 institutional system set up by the SS to dominate the prisoners and how did he fit into the counter mechanism produced
-to survive after a gay man had arrived at the camp he had the worst Encounter of all the newcomers a profound trauma
+to survive 
+
+</james>
+<from>
+
+The Pink Triangle 162-163
+
+What was the fate of homosexuals in the netherworld of the camps? How did a homosexual
+newcomer fit into the institutional mechanism the SS had set up to dominate the inmates, and how
+did he fit into the counter-mechanism the prisoners had developed to survive? How did homosexual
+prisoners hold their own in the internal feuds between criminals and antifascists?
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+after a gay man had arrived at the camp he had the worst Encounter of all the newcomers a profound trauma
 seized him he was battered slapped beaten vilified homosexuals and Jews were given
 not only the worst beatings according to Witnesses but their pubic hair was shorn
-others lost only the hair on their head a clergyman remanded to daau in September of 1941 described the process
+others lost only the hair on their head
+
+</james>
+<from>
+
+The Pink Triangle p.163
+
+After a homosexual arrived in camp, he underwent the first experience of all newcomers: he was
+seized by a profound trauma. He was battered, kicked, slapped, and reviled. According to at least
+one witness, homosexuals and Jews were not only given the worst bearings, but their pubic hair was
+shorn; others lost only their head hair.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+a clergyman remanded to daau in September of 1941 described the process
 the SS man asked everybody What charges he had been sentenced one man was there on account
 of crimes against paragraph 175 he was cuffed forced to tell in
 detail what he had done and how then they fell upon Him cuffing and
@@ -1035,12 +1924,55 @@ over there you [ __ ] I received several kicks then
 was transferred to an SS sergeant in charge of my block the first first thing I got from
 him was a violent blow to my face that threw me to the ground he brought his knees up hard into my groin so that I
 doubled over in pain he grinned at me and said that was your entrance
-fee another witness testified about his reception at a camp I can swear an oath that because of
+fee
+
+</james>
+<from>
+
+The Pink Triangle p.163
+
+A clergyman, remanded to Dachau in September 1941, describes the process well: “The SS man
+asked everybody what charges he had been sentenced. One man was there on account of crimes
+against Paragraph 175. He was cuffed, forced to tell in detail what he had done and how. Then they
+fell upon him, cuffing and kicking.” Another victim recalls his first day in Sachsenhausen: “When my
+name was called, i stepped forward, gave my name, and mentioned Paragraph 175. With the words
+'You filthy queer, get over there, you butt fucker,' I received several kicks... then was transferred to
+an SS sergeant in charge of my block. The first thing I got from him was a violent blow on my face
+that threw me to the ground... he brought his knees up hard into my groin so that i doubled over
+with pain... he grinned at me and said: `That was your entrance fee, you filthy Viennese swine...”
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+another witness testified about his reception at a camp I can swear an oath that because of
 my triangle I was separated from other inmates an SS Sergeant together with AO
 mistreated me in the most brutal manner three times their fists hit my face
 especially my nose so that I fell on the floor three times when I managed to get up again
 they continued battering and hitting me I then staggered back to my Barracks
-covered with blood survivors have maintained the pink triangles they were forced to wear to
+covered with blood
+
+</james>
+<from>
+
+The Pink Triangle p.164
+
+Another witness testifies about his reception at Camp Natzweiler: “I can swear an oath that because
+of my triangle I was separated from other inmates. An SS sergeant together with a Kapo mistreated
+me in the most brutal manner... three times their fists hit my face, especially my nose, so that I fell
+on the floor three times; when I managed to get up again, they continued battering and hitting me...
+I then staggered back to my barracks, covered with blood.”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+survivors have maintained the pink triangles they were forced to wear to
 signify their reason for imprisonment were always larger than those of other colors even the yellow stars of David
 Camp officials made sure of this as to make them easy targets among other Camp
 victims in dhau gay people were kept apart from other inmates Rudolph hes a
@@ -1048,7 +1980,32 @@ dhau official at the time explained in his Memoirs that he had ordered homosexua
 to control them has also developed the Salvation through work Theory which he
 tried out on gay men in aitz it was intended to make the quote depraved
 deviant work so hard that they nearly collapsed from exhaustion this it was hoped would quote
-straighten them out Hess admitted it never worked hess's
+straighten them out Hess admitted it never worked 
+
+</james>
+<from>
+
+The Pink Triangle p.164
+
+These degradation rituals were applied to crush all novices. That, as some survivors have
+maintained, the pink triangles were always larger than those of other colours, has not been proven.
+Equally uncertain is whether there was ever any order to sequester homosexuals in special barracks
+or to distribute them among the regular barracks population. In Dachau, Flossenburg, and
+Sachsenhausen they were kept apart for a while. Rudolf Hoess, one of Eicke’s prize students, a
+Dachau official, then commandant of Sachsenhausen and Auschwitz, explained in his memoirs that
+he ordered homosexuals isolated to make it easier to control them. Hoess also developed the
+“salvation through work” theory, which he tried out on homosexuals in Sachsenhausen and
+Auschwitz. It was intended to make the depraved deviants work so hard that they nearly collapsed
+from exhaustion. This, it was hoped, would “straighten them out.” Hoess admitted that it did not always work out this way, but he still kept them separated and assigned them to the cement works,
+from which it was nearly impossible to emerge alive.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+hess's
 directives to keep homosexuals strictly controlled apart from all other prisoners was followed in several camps
 One Survivor writes of hess's methods alock was occupied by
 homosexuals with about 250 men in each wing we would sleep only in our night
@@ -1058,13 +2015,62 @@ the blankets there were several checks every night was taken outside and had sev
 buckets of water poured over him before being left standing in the cold for a
 good hour only a few people survived this treatment
 the least result was bronchitis and it was rare for any homosexual taken into the Sick Bay to come out
-alive what put gay men into a low if not the lowest category of prisoner were
+alive 
+
+</james>
+<from>
+
+The Pink Triangle p.165
+
+Hoess’s directives to keep the homosexuals strictly controlled, apart from all other prisoners, was
+followed for a while in several camps. Of Flossenburg, one survivor writes: “Our block was occupied
+by homosexuals, with about 250 men in each wing. We could sleep only in our nightshirts and had to
+keep our hands outside the blankets.” This was to prevent them from masturbating. “The windows
+had several layers of ice on them. Anyone found in bed with his under clothes on, or his hands under
+the blankets- there were several checks every night- was taken outside and had several buckets of
+water poured over him before being left standing in the cold for a good hour. Only a few people
+survived this treatment. The least result was bronchitis, and it was rare for any homosexual taken
+into the sick bay to come out alive.” In other institutions, the gays shared quarters with Gypsies,
+asocials, or foreigners. Occasionally, homosexuals were distributed throughout various barracks and
+were treated no worse than other prisoners.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+what put gay men into a low if not the lowest category of prisoner were
 several factors H for example insisted on sequestering the gays sealed off in their Barracks they could not fraternize
 with the anti-fascist underground which hn occupied key Camp positions like himler hes seems to have
 been convinced that most homosexuals were intellectually above average thus they might serve as useful allies to the
 dangerous anti-fascist power block within the camp H also believed that
 homosexuality was an illness that might spread to other inmates or even to the
-guards there appears to have been an additional Dee rooted Dogma at work that doomed efforts by gay men to associate
+guards 
+
+</james>
+<from>
+
+The Pink Triangle p.165
+
+What put the homosexuals into a low- if not the lowest- category of prisoner were several factors,
+some easy to formulate, others more elusive. Hoess, for example, insisted on sequestering the gays.
+Sealed off in their barracks, they could not fraternise with the antifascist underground, which, Hoess
+knew, occupied key camp positions. Like Himmler, Hoess seems to have been convinced that most
+homosexuals were intellectually above average, and thus they might serve as useful allies to the
+dangerous antifascist power block within the camp. Hoess also believed that homosexuality was an
+illness that might spread to other inmates or even to the guards. Himmler shared this conviction
+and, to counter the danger, installed bordellos in many penal colonies. In Sachsenhausen and
+Auschwitz, Hoess ordered homosexuals to visit the bordellos- perhaps thereby they would be cured
+and become useful camp labourers.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+there appears to have been an additional Dee rooted Dogma at work that doomed efforts by gay men to associate
 with anyone but each other Hess insisted albe it wrongfully that even if they
 were in poor physical shape they always had to indulge their Vice it wasn't only
 hes and other SS rulers who presumed that homosexuals always had sex on their minds and were forever bent on seducing
@@ -1076,7 +2082,37 @@ lead to private relationships perhaps even with copos or guards which might
 endanger the solidarity of the anti-fascist Coalition thus when gay and mate tried
 to join a clandestine Camp committee they were rejected both Nazi overseers
 and their prisoners looked down on the men with the the pink triangles and sought to make their lives as miserable
-as possible there were additional factors complicating the lives of gay prisoners a few SSG guards Were Gay
+as possible 
+
+</james>
+<from>
+
+The Pink Triangle p.165-166
+
+There appears to have been an additional, deep-rooted folkloric dogma at work that doomed efforts
+by gays to associate with one another or with their fellow sufferers. In his reminiscences, Hoess
+observed that “even if they were in poor physical shape, they always had to indulge their vice.” It
+wasn’t only Hoess and other SS rulers who presumed that homosexuals always had sex on their
+minds and were forever bent on seducing heterosexuals. The inmates themselves also tended to
+regard gays as men for whom nothing was more important than their genitalia. After all, that was
+why they were jailed, that was what distinguished them from all other prisoners. In the camps, with
+no women present, even the political prisoners worried that the situation offered the gays too many
+opportunities to approach a sex-starved males. Such contact, in turn, was likely to lead to private
+relationships, perhaps with Kapos or even guards, which might endanger the solidarity of the
+antifascist coalition. Thus, when gay inmates tried to join a clandestine camp committee, they were
+rejected. Both Nazi overseers and their prisoners took it for granted that the men with the Pink
+triangles were somehow biologically programmed to seek nothing but sexual satisfaction.
+Homophobia flourished everywhere, making it nearly impossible for gays to join any effort by
+prisoners to improve conditions in the barracks. They were suspect as a class. Whatever assistance
+they might offer was thought to mask a sexual motive.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+there were additional factors complicating the lives of gay prisoners a few SSG guards Were Gay
 although they risked everything they made some younger inmates usually polish or Russians their quote Dolly boys they
 would also occasionally compete with copos for these teenagers they even Drew lots to determine who should go to whom
 naturally it enraged the other inmates to watch as these youngers received extra food rations and were Exempted
@@ -1085,11 +2121,59 @@ occasionally masturbating while torturing prisoners for such acts the
 gay inmates were held accountable by the non-gay inmates homosexual guards however
 hostile were seen by non-gay prisoners as belonging to the homosexual underclass in the camp thus gay
 prisoners were often tainted by the crimes of the gay guards even though they themselves were
-victims of them cooperation among homosexuals in the camps was rare unlike
+victims of them 
+
+</james>
+<from>
+
+The Pink Triangle p.166-167
+
+There were additional factors complicating the lives of gay prisoners. First, a few SS guards were
+homosexual. Although they risked everything, they made some younger inmates, usually Polish or
+Russians, their “dolly boys” (*Pielpel*). They would also occasionally compete with Kapos for these
+teenagers. They even drew lots to determine who should go to whom. Naturally, it enraged the
+other inmates to watch as these youngsters received extra food rations and were exempted from
+tough work assignments in exchange for sexual favours. There were also some SS guards who took
+special pleasure in occasionally masturbating while torturing prisoners. For such acts, the gay
+inmates were, so to speak, held accountable by the non-gay inmates: homosexual guards, however
+hostile, were seen by non-gay prisoners as belonging to the homosexual underclass. Thus,
+homosexual prisoner were often tainted by the crimes of homosexual guards- even though they
+themselves were often the victims.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+cooperation among homosexuals in the camps was rare unlike
 hardcore criminals the anti-fascists and the Romani the gays came from such widely disperate backgrounds that group
 solidarity was hard to achieve Eugene kogan who survived six years in buen
 Wald as a political prisoner went on to write the still classic account of the camp experience the theory and practice
 of hell he confirms that the lives of gay men were made especially terrible
+
+</james>
+<from>
+
+The Pink Triangle p.167
+
+Cooperation among camp homosexuals was rare. Unlike the hard-core criminals, the antifascist, and
+the Gypsies, the gays came from such widely disparate backgrounds that group solidarity was hard
+to achieve. As Raimund Schnabel has observed in his study of Dachau: “Among the homosexuals
+were exceptional people whose distance could be called tragic; on the other hand [there were] also
+cheap hustlers and blackmailers. The prisoners with the pink triangle never lived long. They were
+exterminated by the SS quickly and systematically.” Eugen Kogon, who survived six years in
+Buchenwald as a political prisoner, went on to write the still classic account of the camp experience,
+The Theory and Practice of Hell. Kogon gives more attention to the fate of contragenic minorities
+than do most other writers. He confirms what Schnabel discovered about Dachau, that the light of
+homosexuals was made especially terrible.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
 this group had a very heterogeneous composition it included individuals of real value in addition to large numbers
 of criminals and especially blackmailers this made the position of the group as a whole very
 precarious homosexual practices were actually very widespread in the camps
@@ -1101,7 +2185,37 @@ maltreatment in shipments to extermination camps such as Nord Housen nutzer and 
 the highest proportionate share if anything could save them at all it was
 to enter into sorted relationships within the camp but this was as likely to endanger their lives as to save
 them theirs was an insoluble predicament and virtually all of them
-perished in the life of every prisoner connections to the outside world played a vital role many survivors remember
+perished 
+
+</james>
+<from>
+
+The Pink Triangle p.168
+
+This group had a very heterogonous composition. It included individuals of real value, in addition to
+large numbers of criminals and especially blackmailers. This made the position of the group as a
+whole very precarious... Homosexual practices were actually very widespread in the camps. The
+prisoners, however, ostracised only those whom the SS marked with the pink triangle. The fate of
+the homosexuals in the concentration camps can only be described as ghastly. They were often
+segregated in special barracks and work details. Such segregation offered ample opportunity to
+unscrupulous elements in positions of power to engage in extortion and maltreatment. Until the fall
+of 1938 the homosexuals at Buchenwald were divided up among the barracks occupied by political
+prisoners, where they led a rather inconspicuous life. In October 1938, they were transferred to the
+penal company in a body and had to slave in the quarry. This consigned them to the lowest caste in
+camp during the most difficult years. In shipments to extermination camps, such as Nordhausen,
+Natzweiler, and Gross-Rosen, they furnished the highest proportionate share, for the camp had an
+understandable tendency to slough off all elements considered least valuable or worthless. If
+anything could save them at all, it was to enter into sordid relationships within the camp, but tis was
+as likely to endanger their lives as to save them. Theirs was an insoluble predicament and virtually all
+of them perished.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in the life of every prisoner connections to the outside world played a vital role many survivors remember
 bitterly how the SS constables together with corrupt copos stole packages or rifled through them and how they
 withheld mail at a whim or as punishment still a few parcels and letters managed
 to slip through to the jailers the incoming male of an inmate meant that he had contacts possibly with officials who
@@ -1111,13 +2225,79 @@ husbands or other relatives accused of crimes against paragraph 175 few gay
 friends would dare to establish communication when such a gesture might endanger their own precarious
 existence in the climate of Terror that the Nazis had created even direct relatives close friends or former lovers
 hesitated to contact homosexual prisoners many gay men in Camp anxious to avoid entangling others sought to
-never initiate contact with the outside world to keep safe the people they loved
-they allowed concent rtion camps to become their entire world perhaps the
+never initiate contact with the outside world
+
+</james>
+<from>
+
+The Pink Triangle p.168-169
+
+In the life of every prisoner, connections with the outside world played a vital part. Many survivors
+remember bitterly how the SS constables, together with corrupt Kapos, stole packages or rifled
+them, and how they withheld mail at a whim or as punishment. Still, a few parcels and letters
+managed to slip through to the jailers, the incoming mail of an inmate meant that he had contacts,
+possibly with officials who might exert pressure or pay money to work out a transfer or even a
+discharge. Most homosexuals, however, were cut off from contacts with the outside world. Very few
+families seem to have been willing to stand by sons, brothers, husbands, or other relatives convicted
+of crimes against Paragraph 175. Few gay friends would dare to establish communications when
+such a gesture might endanger their own precarious existence. In the climate of terror that the Nazis
+had created, even direct relatives, close friends, or former lovers hesitated to contact homosexual
+prisoners. Some homosexuals in camp, anxious to avoid entangling others, sought intentionally
+never to initiate contact with the outside.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+to keep safe the people they loved
+they allowed concent rtion camps to become their entire world 
+
+</james>
+<from>
+
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+perhaps the
 most feared fate for gay men in the camps was to be labeled a medical experiment Eugene kogan has concluded
 that again the number of homosexuals used for these pseudo medical undertakings was disproportionately
 large consider the hormone experiments administered in buken Wald by the Danish endrocrinologist Carl veret thet used
 homosexual inmates exclusively these experiments brought illness and death to the subjects and
-had no scientific value injecting men with random concoctions of chemicals to
+had no scientific value 
+
+</james>
+<from>
+
+The Pink Triangle p.175
+
+Perhaps the most feared assignments were to a detachment marked “Medical Experiments.” Kogon
+has concluded that, again, the number of homosexuals used for these pseudo medical undertakings
+was disproportionately large. Consider the hormone experiments administered in Buchenwald by
+the Danish endocrinologist Carl Vaernet with the German surgeon Gerhard Schiedlausky. These were
+only a few of the many that took place there. I have singled out those by Vaernet because he used
+homosexual inmates exclusively, and beause the sources in Arolsen were sufficient to draw
+conclusions. The hormone tests, however, can stand as a model for virtually all of those tests carried
+out by the Nazis on their human guinea pigs. These experiments brought illness and death to the
+subjects and had no scientific value. Often, physicians and laboratory technicians did not know how
+to proceed; files and samples were incomplete or misplaced; medicine could not be checked for
+purity; and there was no control group. In the case at hand, Allied bombers repeatedly destroyed
+containers carrying blood, urine, and other specimens in transit from Buchenwald to Vaernet’s
+laboratory in Prague
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+injecting men with random concoctions of chemicals to
 see how the body would react massive amounts of hormones to send the body into shock in one such experiment gay
 men were injected with a hormone mixture that made them almost impervious to pain and so they were used as target practice
 in the yard strapped to posts inevitably they would die of blood loss or organ
@@ -1125,17 +2305,72 @@ failure if not once the injections wore off and the pain hit they would go into
 shock and die in late 1944 new experiments were commissioned these
 would test the calcium levels of men before and after castration once again only gay men were
 used for the experiment results showed a mix of normal to lower levels and all
-men with lower levels were executed veret was forced to stop his tests
+men with lower levels were executed 
+
+</james>
+<from>
+
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+veret was forced to stop his tests
 because of the danger of a yellow fever epidemic in the camp the epidemic was not a result of infection from outside
 sources though such as prisoners of war from the East instead it was because he
 had wanted to see the progression of yellow fever on human beings again only gay test subjects and failed to properly
 quarantine them many prisoners and some guards died veret quickly returned to Prague
 but his name appears again in the files for a camp near Hamburg where he attempted to repeat his castration and
-hormone tests these documents do not State whether he actually finished them in other camps
+hormone tests these documents do not State whether he actually finished them 
+
+</james>
+<from>
+
+The Pink Triangle p.178
+
+Vaernet was forced to stop his tests because of the danger of a yellow fever epidemic in the camp.
+The epidemic was not a result of infection from outside sources, such as prisoners of war from the
+East, as frequently happened in other institutions. The Buchenwald outbreak followed experiments
+with the microorganism responsible for yellow fever, which had gotten out of hand. Although
+Buchenwald seems to have provided better isolation wards than most camps, many prisoners –and
+some guards- died. By then Vaernet had probably returned to Prague, but his name appears again in
+the files for Neungamme, a camp near Hamburg, where he attempted to repeat his castration-
+hormone tests. The Neungamme documents do not state whether he actually finished them.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in other camps
 gay men were used as test subjects to see how long a person could survive underwater without drowning dehydration experiments high
 altitude simulations freezing and being used as test subjects for new chemical weapons of
 war but only at booken Wald were gay men used
-exclusively part nine does it end
+exclusively 
+
+</james>
+<from>
+
+The Pink Triangle p.179
+
+From the available records it cannot be determined whether homosexuals were also used for other
+pseudo-medical experiments, administered not only in Buchenwald but in camps like Dachau,
+Sachsenhausen, Ravensbruck, and Auschwitz. Dachau specialised in tests involving malaria, high –
+altitude simulation, and underwater tanks: Buchenwald in yellow fever and sulphur drugs; Auschwitz
+in the sterilisation of women. Most experiments reruite larger numbers of subjects than Vaernet did.
+
+</from>
+</compare>
+
+part nine does it end
+
+<compare>
+<james {% include timecode %}> 
+
 most of the victims of the Holocaust were freed after the war was over most the Americans and Soviets
 helped to free them and tried to restore Germany to order and safety prisoners tried to find surviving family members
 and go back to their hometowns it was disorienting after being in the camps for so long and
@@ -1152,7 +2387,44 @@ did not recognize this the Nazi version of paragraph 175 was kept on the books
 in Germany until 1969 it was the only Nazi law to not be
 immediately overturned one man recalls that he was repeatedly arrested under paragraph 1175
 throughout the 1950s and 60s while other prisoners were trying to make sense of what had happened and rebuild their
-lives and families homosexual prisoners just faced more discrimination and hardships and imprisonment survivors
+lives and families homosexual prisoners just faced more discrimination and hardships and imprisonment 
+
+</james>
+<from>
+
+Student paper p.31
+
+After Liberation
+
+Soviet Imprisonment
+
+Most of the victims of the Holocaust were freed after the war was over. The Americans
+and Soviets helped to free them and tried to restore Germany to order and safety. Prisoners tried
+to find surviving family members and go back to their hometown. It was disorienting, after
+being in the camps for so long and seeing all of the horrors, to go back to a world that did not yet
+understand what happened. However, the homosexual prisoners were liberated from the camps,
+only to face more discrimination. Since they were technically in the concentration camps
+because of a "crime" that they committed, they were sometimes put into Soviet prisons after they
+got out of the camps. Paragraph 175 had been on the books since 1871, and so the Supreme
+Court ruled in 1957 that Paragraph 175 still stood since it was not a law made by the Nazis. As
+noted, however, Paragraph 175 was strengthened by the Nazis and made into a more strict
+version of the law. So homosexuals were more persecuted during the Nazi regime than ever
+before, and in a much more brutal way than before or after the Holocaust, however the court did
+not recognize this. Paragraph 175 was kept on the books in Germany until 1969, meaning
+homosexuality was still thought of as a crime until that year. One man recalls that he was
+repeatedly arrested under Paragraph 175 throughout the 1950s and '60S.<sup>87</sup> While other prisoners
+were trying to make sense of what happened and rebuild their lives and families, homosexual
+prisoners faced even more discrimination, hardships, and imprisonment
+
+87 Paragraph 175, Directed by Rob Epstein and Jeffery Friedman. Germany: Channel Four Films, 2000.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+survivors
 often had to lie about why they were in the camps and keep quiet about their experience prisoners who were in
 specifically homosexual barracks or had had experiments done on them often did not feel like they could share their
 experiences one man was in the concentration camps for over 8 Years yet when he was released he went
@@ -1164,15 +2436,103 @@ a crime this was a common theme between many of the gay survivors of the
 Holocaust shamed into silence the Nazis aimed to eradicate or re-educate
 homosexuals and as professor lotman of the University of Breman put it the
 re-education towards heterosexuality was somewhat achieved by the collective Silence of gay
-victims the world fought for justice for the victims of Hitler's Holocaust but not for gay people Justice
+victims
+
+</james>
+<from>
+
+Student paper p. 32-33
+
+Stigmatization of Survivors/Reparations
+Homosexual survivors of the Holocaust often faced extreme discrimination once they
+were liberated from the camps, even if they were not put into Soviet prisons. Survivors had to go
+back to their towns, and find family and friends, many of now knew the reason that the survivor
+was taken to the camps in the fust place. Survivors often had to lie about why they were in the
+camps and keep quiet about their experiences. Prisoners who were in specifically homosexual
+ban'acks, or had experiments done on them, often kept quiet because they didn't feel that they
+could share their experiences for fear of ridicule or scorn. One man was in the concentration
+camps for over eight years, and when he got out, he went right back to work in his family store.
+He said he never told his mother anything that happened in the camps, he just kept everything
+quiet and went to work. He didn't think that she would be able to hear everything that went on,
+and didn't want her to have to deal with his "crime". He talked about "patiently carrying one's
+burden" and feeling shame about his imprisonment because he was imprisoned as a
+homosexual.<sup>88</sup> It was because of this shame that he never spoke to his mother about what had
+happened to him for over eight years. So much of his life and torture had to be repressed and
+kept a secret from everyone because he felt shame and was unsure how people would react. This
+was a common theme between many of the homosexual survivors of the Holocaust. They were
+shamed into silence. Their experience went unheard for many years because no one wanted to
+hear it, and they felt ashamed to tell it. Prisoners often felt isolated by their neighbors who knew
+that they were a homosexual and stayed away from them.<sup>89</sup> One prisoner recalls that after a
+week or so, no one wanted to hear about his experience anymore. They were horrified by it and
+could not comprehend what had happened, so they didn't want to talk about it anymore. The Nazis aimed to eradicate the homosexuals or "re-educate" them, and as Professor Lautmann of
+the University ofBreman put it, the re-education towards heterosexuality was somewhat
+achieved by the collective silence of the homosexual victims. <sup>90</sup>
+
+88 Paragraph 175, Directed by Rob Epstein and Jeffery Friedman. Germany: Channel Four Fihns, 2000.
+
+89 Heinz Heger, "The Men with the Pink Triangle" (Los Angeles: Alyson Publications, 1980), 117.
+
+90 We Were Marked with a Big A, Directed by Elke Jeanrond and Joseph Weishaupt. Netherlands, 1991.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+the world fought for justice for the victims of Hitler's Holocaust but not for gay people Justice
 for the men beaten and tortured in the camps was not a priority and most politicians were not
 shy to say that when it came to gay people
-many wished that Hitler had finished the job part
-10 remember in the 1990s after the fall of
+many wished that Hitler had finished the job 
+
+</james>
+<from>
+
+
+</from>
+</compare>
+
+part 10 remember
+
+<compare>
+<james {% include timecode %}> 
+
+in the 1990s after the fall of
 the Soviet Union and the reunification of Germany more LGBT rights groups and gay survivors of the Holocaust began
 demanding an official memorial for the gay victims of the Nazi death machine there were already many memorials for
 the other groups persecuted by the Nazis however none for gay people other survivors were not comfortable including
-homosexuals in their memorials and so they remained forgotten by history some
+homosexuals in their memorials and so they remained forgotten by history 
+
+</james>
+<from>
+
+Student paper p.34
+
+Memorialization
+
+In the 1990s, after the reunification of Germany, more LGBT rights groups and
+homosexual survivors of the holocaust began demanding an official memorial for the
+homosexual victims of the Holocaust. There were already many memorials for the other groups
+persecuted by the Nazis however, the homosexuals were routinely left out. Other survivors were
+not comfortable including the homosexuals in their memorials, and so they were left off of group
+memorials, continuing decades of discrimination and hurt. Historians warn that when writing
+about the Holocaust, people must be careful not to engage in, "a crass game of competitive
+victimhood."<sup>94</sup> Everyone suffered horrible tortures in the concentration camp and it would not
+be fair to say who suffered worse or deserves more compensations or memorials. Yet, the
+homosexual victims did not start to be recognized until the 1990s, after they started to demand
+they be heard.
+
+94 Bill Niven and Chloe Paver, editor, "Memorialization in Germany Since 1945" (New York: Palgrave Macmillan, 2010), 146.
+
+</from>
+</compare>
+
+part 10 remember
+
+<compare>
+<james {% include timecode %}> 
+
+some
 Memorial started off as guilla memorials where gay rights groups would go and place wreaths at the concentration camps
 recognizing the gay victims one gay rights group actually got permission to put a memorial with a pink triangle and
 the inscription beaten to death silenced to death at Mosen concentration camp
@@ -1194,22 +2554,173 @@ to the continued shame and secrecy that the homosexual victims faced even after
 the Holocaust ended upon encountering the memorial visitors are faced with watching a
 same-sex encounter and have to deal with their own feelings and potential prejudices about the video
 displayed in this way the memorial is continually challenging
-homophobia and honoring the continued victimization of homosexuals it has been
+homophobia and honoring the continued victimization of homosexuals 
+
+</james>
+<from>
+
+Student paper p. 34-35
+
+Some memorials started off as "guerilla memorials" where gay rights groups would go
+and place wreaths and other types of memorials at the concentration camps recognizing the
+homosexual victims. One gay rights group actually got permission to put a memorial with a pink
+triangle and the inscription "Beaten to Death-Silenced to Death" at Mauthausen concentration
+camp.<sup>95</sup> This memorial not only speaks to the treatment of the homosexual victims within the
+camps, but also the continued silence that happened afterwards. Other memorials to the
+homosexual victims had started to be approved and these victims were fmally gaining some
+recognition for their suffering. Some concentration camps started to put up memorial plaques at
+the sites ofthe homosexual barracks, most notably one in Buchenwald concentration camp,
+where many of the homosexual victims were sent. Other countries like the Netherlands, had
+memorials put up much earlier than in Germany. In 2003, one of Germany's largest and most
+well-known memorials to homosexual victims was approved, and was finished in 2008.
+Officially called the National Memorial for the Homosexual Victims of the Holocaust, it was the
+idea of Michael Elmgreen and Ingar Dragset. It is a large concrete block standing 12 feet tall,
+constmcted in the Tiergarten. It has a small window in it which allows visitors to catch a
+glimpse of a video containing two men (although this is sometimes rotated to show two women)
+having to meet and share a secret kiss in the exact woods where the memorial is located. There
+is very little that indicates this is a memorial to the homosexual Holocaust victims. A small
+plaque and the video are the only clues. This was intentional, however, because Elmgreen and
+Dragset wanted it to be like someone was just randomly happening upon this clandestine
+relationship. They wanted to show the secrecy surrounding homosexual relationships and how
+"a simple kiss could land you in trouble".<sup>96</sup> By being placed in the Tiergarten, and not well
+labeled, the monument is a testament to the continued shame and secrecy that the homosexual
+victims faced, even after the Holocaust. When visitors just happen across this memorial, they are
+faced with watching a same-sex encounter and have to deal with their own feelings and potential
+prejudices about the video displayed. In this way, the memorial is continually challenging
+homophobia and honoring the continued victimization of homosexuals.
+
+95 Ibid., 149.
+96 Ibid., 152.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+it has been
 estimated that over 50,000 men were arrested under paragraph 175 in Germany
 of these men it's estimated around 15,000 were murdered in the camps and
 any number in prison prisons earlier exact numbers cannot be known because
 the Nazis burned many of their records when they knew their end was near many prisoners were quickly liquidated
-without accurate documentation of their deaths and so many historians believe that these numbers are vastly
-underestimated before the Nazis came to power Germany was experiencing more sexual Liberation than anywhere on Earth
+without accurate documentation of their deaths 
+
+</james>
+<from>
+
+Student paper p.36
+
+Conclusion
+
+It has been estimated that over 50,000 men were arrested under Paragraph 175 during the
+time of the Nazi regime. Of those men, it is estimated that around 15,000 were murdered.<sup>97</sup> Exact numbers cannot be known because the Nazis often kept poor records and burned many of
+them when they knew their end was near. Many prisoners were quickly liquidated without
+accurate documentation of their deaths. All of these men suffered under the Nazis and should be
+remembered when discussing the Holocaust.
+
+97 Ibid., 148.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+and so many historians believe that these numbers are vastly
+underestimated 
+
+</james>
+<from>
+
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+before the Nazis came to power Germany was experiencing more sexual Liberation than anywhere on Earth
 especially in Berlin these golden 20s were cut short by the Nazis who strengthened paragraph 175 and started
 to persecute more and more homosexuals and other men who they just believed to be gay they raided and
-burned Magnus held's Institute of sexual research gay men were thrown into separate barracks in the camps and
+burned Magnus held's Institute of sexual research
+
+</james>
+<from>
+
+Student paper p.36
+
+Before the Nazis came to power, Germany was experiencing more sexual liberation than
+ever before, especially in Berlin. There were many gay clubs and organizations, starting to work
+towards gay rights, specifically the repeal of Paragraph 175 which criminalized homosexuality.
+These "Golden Twenties" were cut short by the Nazis, who strengthened Paragraph 175 and
+stmied to persecute more and more homosexuals, and other men who they just believed to be
+homosexuals. They raided and burned Magnus Herschfield's Institute of Sexual Research, and
+assassinated Ernst Rohem, one of Hitler's closest confidants, who flaunted his homosexuality too
+freely. Homosexuality, especially within the Nazi party itself, was seen as a threat to the
+patriarchal behaviors of the party.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+gay men were thrown into separate barracks in the camps and
 forced to do some of the most excruciating labor often resulting in death and were often seen as the lowest
 of the prisoners even by others in the camps they often had experiments done to them that affected them shamed them or
-killed them after the Holocaust homosexual victims were shamed into silence the gay victims
+killed them 
+
+</james>
+<from>
+
+Student paper p.37
+
+Homosexual men were thrown into separate barracks in the camps, and forced to do some
+of the most excruciating labor, which often resulted in death. They were severely punished, and
+were often seen as the lowest of the prisoners, even by the other prisoners. They often had
+medical experiments done to them that affected them and shamed them even after they were
+liberated, if the experiments didn't kill them fIrst. While lesbians weren't specifIcally
+persecuted, many of them still ended up mthe camps and faced discrimination, even though their
+treatment was not as brutal. This was because it was thought that they could just be forced into
+carrying out the Nazis will of Aryan procreation.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+after the Holocaust homosexual victims were shamed into silence the gay victims
 of the Holocaust deserve respect and recognition their voices should be heard and their stories taught alongside the
 other victims of Hitler's Purge if we continue to ignore or silence their voices we are letting the
-Nazis win in many ways the specters of the Third Reich still haunt
+Nazis win 
+
+</james>
+<from>
+
+Student paper p.37
+
+After the Holocaust, homosexual victims were often shamed into silence about their
+treatment in the camps. They faced renewed discrimination and potentially even imprisonment if
+they said why they were in the camps. They did not feel comfortable pushing for reparations and
+memorials until almost 50 years afterthey were liberated. Even today, they are still not well
+recognized or compensated. Only recently have we been able to get some testimony from
+homosexual survivors, many of whom did not want to be identified.
+The homosexual victims of the Holocaust deserve respect and recognition for all of their
+sufferings within the camps. Their voices should be heard and their stories should be taught
+along with the other victims of the Holocaust. If we continue to ignore or silence their voices,
+we are letting the Nazis win, and m;e contributing to the homosexual victim's shame and
+victimization. It is impOliant to keep the memory of these victims alive, especially as we enter
+into a time when many of our homosexual survivors are dying off, some of their stories never
+heard.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}> 
+
+in many ways the specters of the Third Reich still haunt
 us the specters begin to come to life whenever Fanatics of any sect try to
 take over a nation and call for a war against its most vulnerable and vilified
 minorities since the end of World War II in the discovery of the Nazi death machine every Modern Nation across the
@@ -1227,5 +2738,17 @@ hands we must learn the lessons that were taught in Europe and then we must mean
 it we must act when we say
 never
 again
+
+</james>
+<from>
+
+
+</from>
+</compare>
+
+<compare>
+<credits>
+</credits>
+</compare>
 
 
