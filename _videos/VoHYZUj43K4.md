@@ -36,8 +36,8 @@ contributors:
     - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
 
 recs:
-  - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo" }
-  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", by: ["Yvestan", "The Ace Couple"] }
+  - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
+  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["Yvestan", "The Ace Couple"] }
 
 cite:
   clips: !!map
