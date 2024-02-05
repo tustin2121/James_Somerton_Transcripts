@@ -1,12 +1,12 @@
 ---
 redirect_from:
   - "/videos/kvmq2fejbt8"
+  - "/videos/-Uoqmxlcusg" # actually the video id of the short
+  - "/videos/-uoqmxlcusg"
+  - "/videos/uoqmxlcusg" # slug version
 
 # cspell:words  Utena Tenjou  Anthy Himemiya  Akio Ohtori  Touga Kiryuu  Nanami  Wakaba Shinohara  Shiori Takatsuki  Juri Arisugawa  Souji
 # cspell:words  Ikuhara Kunihiko  Saito Chiho  Hasegawa Shinya  Enokido Yōji  Oguro Yūichirō  Shōjo Kakumei  Sato Junichi  Toei Evangelion Takarazuka Jun'ichi Nakahara Shūji Terayama Seazer Toole
-redirect_from:
-  - "/videos/-Uoqmxlcusg"
-  - "/videos/uoqmxlcusg" # slug version
 
 date: 2023-10-07
 title: The Real Revolution of Utena

@@ -78,9 +78,6 @@ Score Squares:
 - <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
 - The bar above the squares indicates how much of the video<br/>was plagiarized or misinformation by volume.
 
-</div>
-<div>
-
 Transcript Statuses: 
 - <span class="status alert">Missing</span> = Transcript is missing though video archive exists
 - <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
@@ -88,6 +85,14 @@ Transcript Statuses:
 - <span class="status">In Progress</span> = Transcript has some work done
 - <span class="status ready">Finished</span> = Transcript is complete, citations needed.
 - <span class="status complete">Complete</span> = Transcript has been fully reviewed and things cited.
+
+</div>
+<div>
+
+Icon legend:
+{% for n in site.data.info.notes -%}
+- <i class="{{ n[1].icon }}"></i> - {{ n[1].desc }}
+{% endfor -%}
 
 </div>
 </div>

@@ -13,6 +13,7 @@ links: !!seq
   - "https://web.archive.org/web/20210111061706/https://www.youtube.com/watch?v=FeAAqBRL-fc"
 # description: "a video essay on...?"
 notes:
+  - comp-delete
 
 contributors:
 
@@ -35,4 +36,4 @@ Six million jewish lost their lives within the hellish borders of death camps ac
 {% include transcript-start %}
 {% assign timecode = "0:00" %}
 
-TODO
+<div class="notice-banner">This transcript is missing, but this video has been superseded by <a href="{{ page.parent }}">its compilation video.<i class="fa-solid fa-arrow-turn-up"></i></a> Please see that video instead.</div>

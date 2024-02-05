@@ -6,6 +6,7 @@ redirect_from:
 
 date: 2023-02-15
 title: How Hollywood was Born Gay
+slug: -Zcf3uNGbq4
 parent: pW_RjbZYi1s
 status: Complete
 aka: !!seq

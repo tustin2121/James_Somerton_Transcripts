@@ -6,6 +6,7 @@ redirect_from:
 
 date: 2023-06-06
 title: The Problem With Pride #｜ James Somerton
+slug: -ogPYycNAo8
 status: Auto
 aka: !!seq
 topics: !!seq

@@ -12,6 +12,7 @@ links: !!seq
   - "https://web.archive.org/web/20210127144305/https://www.youtube.com/watch?v=4RMg1gD_pXU"
 # description: "a video essay on...?"
 notes:
+  - comp-delete
 
 contributors:
 
@@ -50,4 +51,4 @@ This video contains copyrighted material. The use of which has not always been s
 {% include transcript-start %}
 {% assign timecode = "0:00" %}
 
-TODO
+<div class="notice-banner">This transcript is missing, but this video has been superseded by <a href="{{ page.parent }}">its compilation video.<i class="fa-solid fa-arrow-turn-up"></i></a> Please see that video instead.</div>

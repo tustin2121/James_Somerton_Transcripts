@@ -1,0 +1,41 @@
+notes:
+  vimeo:
+    icon: "fa-brands fa-vimeo"
+    desc: "Exclusive to Vimeo for age-gating reasons."
+  unreleased:
+    icon: "fa-solid fa-eye-slash"
+    desc: "Unreleased prior to the plagiarism video."
+  hbomb:
+    icon: "fa-solid fa-bomb"
+    desc: "One of 26 videos HBomberGuy confirmed was plagiarized."
+  multipart:
+    icon: "fa-solid fa-film"
+    desc: "Compilation of multiple previously released videos."
+  odd-linebreaks:
+    icon: "fa-regular fa-file-lines"
+    desc: "Uploaded transcript had unusual line break characters" # prior to cleanup
+  short-advert:
+    icon: "fa-solid fa-rectangle-ad"
+    desc: "Had a YouTube short advertising early release." # of this video on his patreon
+  commentary:
+    icon: "fa-solid fa-file-audio"
+    desc: "Had Patreon-exclusive audio commentary."
+  behind-scenes:
+    icon: "fa-solid fa-file-video"
+    desc: "Had Patreon-exclusive behind-the-scenes."
+  podcast:
+    icon: "fa-solid fa-podcast"
+    desc: "Podcast-style video." # rather than a video essay
+  post-callout:
+    icon: "fa-solid fa-square-rss"
+    desc: "Released post-callout by HBomberGuy."
+  dec2-delete:
+    icon: "fa-solid fa-calendar-xmark"
+    desc: "Deleted on Dec 2nd, less than an hour post-callout."
+  dec5-delete:
+    icon: "fa-regular fa-calendar-xmark"
+    desc: "Deleted on Dec 5th, before deleting everything else on Dec 7th."
+  comp-delete:
+    icon: "fa-solid fa-trash-can"
+    desc: "Deleted in favor of the compilation video."
+  
