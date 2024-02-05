@@ -8,8 +8,9 @@ status: Auto Script
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://web.archive.org/web/20211013114524/https://www.youtube.com/watch?v=H65WG2s4pz"
 # description: "a video essay on...?"
 
 contributors:
@@ -27,7 +28,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+My review of the new X-men movie "Days of Future Past"
 
 </credits>
 </compare>

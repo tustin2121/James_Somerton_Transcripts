@@ -1,8 +1,8 @@
 ---
 redirect_from:
-  - "/videos/-zcf3ungbq4"
-  - "/videos/Zcf3uNGbq4"  # front-dash seems to cause issues
   - "/videos/zcf3ungbq4"
+  - "/videos/-Zcf3uNGbq4" # front-dash seems to cause issues
+  - "/videos/-zcf3ungbq4"
 
 date: 2023-02-15
 title: How Hollywood was Born Gay

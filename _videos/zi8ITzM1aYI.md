@@ -8,9 +8,10 @@ status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=EWxaciY2EqA"
+  - "https://web.archive.org/web/20211013073849/https://www.youtube.com/watch?v=zi8ITzM1aYI"
 # description: "a video essay on...?"
 
 cite:
@@ -24,7 +25,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+My review of Marvel's next blockbuster; Captain America: The Winter Solider.
 
 </credits>
 </compare>

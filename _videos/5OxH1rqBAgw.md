@@ -4,16 +4,16 @@ redirect_from:
   - "/videos/PnkTriangle"
   - "/videos/pnktriangle"
   - "/videos/PinkTriangles"
-  # - "/video/FeAAqBRL-fc" # Part 1: The Coming Storm
 
 date: 2021-01-11
 title: "Pink Triangles: The History of the Gay Holocaust"
 status: Auto
 aka: !!seq
-  - "The Story of the Gay Holocaust (Complete Documentary)"
+  - "The Pink Triangles - The Story of the Gay Holocaust (Complete Documentary)"
 topics: !!seq
 links: !!seq
   - "https://web.archive.org/web/20210425012726/https://www.youtube.com/watch?v=5OxH1rqBAgw"
+  - "https://web.archive.org/web/20210627030740/https://vimeo.com/567992423"
 # description: "a video essay on...?"
 notes: 
   - hbomb
@@ -38,7 +38,15 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+The vastly ignored history of Germany's war on gay men during World War 2.
+
+A special note: Trans women were also persecuted but Germany categorized them as gay men so there's no official records to refer to.
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
 
 </credits>
 </compare>

@@ -21,6 +21,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231007+-Uoqmxlcusg+The+Magic+Realism+of+Revolutionary+Girl+Utena.webm"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
+  - "https://web.archive.org/web/20231007200108/https://www.youtube.com/watch?v=kvMq2FejBT8"
 description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 
   - short-advert
@@ -64,6 +65,24 @@ cite:
 
 </from>
 </compare>
+
+<compare>
+<credits class="desc">
+
+A dive into Revolutionary Girl Utena, and what this iconic anime means today.
+
+00:00 Intro
+06:01 Part 1
+17:45 Part 2
+22:58 Part 3
+31:06 Part 4
+34:29 Part 5
+41:32 Part 6
+48:12 Part 7
+
+</credits>
+</compare>
+
 
 {% include transcript-start %}
 

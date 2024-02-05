@@ -8,9 +8,10 @@ status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=_99Gj5aGIyY"
+  - "https://web.archive.org/web/20220605190931/https://www.youtube.com/watch?v=ldiZgzNRlHE"
 # description: "a video essay on...?"
 
 cite:
@@ -24,7 +25,9 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+A look at what I think will happen in the coming years within the Marvel Cinematic Universe. Share and like! :)
+
+Special thanks to my friend Nick for helping me with this one
 
 </credits>
 </compare>

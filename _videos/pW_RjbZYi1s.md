@@ -107,7 +107,7 @@ Over the last several years there have been demands for more LGBTQ represention 
 
 See Video 1 for the Cold Open
 
-{%- assign subvid = site.videos | where: "slug", "-Zcf3uNGbq4" | first -%}
+{%- assign subvid = site.videos | where: "slug", "Zcf3uNGbq4" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -179,7 +179,7 @@ The love that dared not speak its name in *America* was surprisingly fluent when
 </james>
 <subvideo>
 
-{%- assign subvid = site.videos | where: "slug", "-Zcf3uNGbq4" | first -%}
+{%- assign subvid = site.videos | where: "slug", "Zcf3uNGbq4" | first -%}
 {% include video-card video=subvid anchor="title-end" %}
 
 </subvideo>
@@ -287,7 +287,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 Originally released 2023-02-15
 notes:
   - hbomb
-[-Zcf3uNGbq4](-Zcf3uNGbq4.md) (Status: Script)
+[-Zcf3uNGbq4](Zcf3uNGbq4.md) (Status: Script)
 
 # Transcript of "Hollywood's Golden Age (of Queer Coding)"
 Originally released 2023-03-15
