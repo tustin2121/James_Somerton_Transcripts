@@ -11,14 +11,14 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 
 | Video ID | Status | Title |
 |:---|:---:|:----|
-| [-ogPYycNAo8](_videos/-ogPYycNAo8.md) | Auto        | The Problem With Pride
-| [-Zcf3uNGbq4](_videos/-Zcf3uNGbq4.md) | Complete    | How Hollywood was Born Gay
 | [0Vijus_c-aY](_videos/0Vijus_c-aY.md) | Auto        | The Campy Queer Sensibilities of Barbie
 | [1BHKm-qcfvM](_videos/1BHKm-qcfvM.md) | Auto        | The Gay Body Image Crisis
+| [4Nx1aD9Khg0](_videos/4Nx1aD9Khg0.md) | Missing     | Unrequited: The History of Queer Baiting (Part 1... The First 100 Years)
+| [4RMg1gD_pXU](_videos/4RMg1gD_pXU.md) | Missing     | Pink Triangles (Part 2)
 | [4wi49P-Qjcc](_videos/4wi49P-Qjcc.md) | Auto        | The Troubling Thirst for Jeffrey Dahmer
 | [4YWslnyUxcs](_videos/4YWslnyUxcs.md) | Auto        | The Stonewall Film Effect - Gay Geek Theory (Video essay)
 | [4zPCM14-SCQ](_videos/4zPCM14-SCQ.md) | Auto        | Monsters in the Closet
-| [5OxH1rqBAgw](_videos/5OxH1rqBAgw.md) | Missing     | Pink Triangles: The History of the Gay Holocaust
+| [5OxH1rqBAgw](_videos/5OxH1rqBAgw.md) | Auto        | Pink Triangles: The History of the Gay Holocaust
 | [6rHOEWFBDg0](_videos/6rHOEWFBDg0.md) | Auto        | Vampires, and the Gays That Love Them
 | [7a4DTkoejG8](_videos/7a4DTkoejG8.md) | Complete    | The Queer Erasure of Asexuality (A Discussion)
 | [9YzMQEBRszY](_videos/9YzMQEBRszY.md) | Auto        | The Death of Queer Privacy
@@ -27,19 +27,20 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [BJw8_r89EwA](_videos/BJw8_r89EwA.md) | Script      | The Tragedy of Being Rich
 | [bOXpv0llE4g](_videos/bOXpv0llE4g.md) | Auto        | Best Of Queer Media 2022
 | [c9BmsQSOD6c](_videos/c9BmsQSOD6c.md) | Auto        | Nostalgia, and Remembering The Bad Times
-| [Camp-000001](_videos/Camp-000001.md) | Missing     | How The Gays Stole Cinema
-| [Camp-000002](_videos/Camp-000002.md) | Missing     | The Mainstreaming of Camp
+| [Camp-000001](_videos/Camp-000001.md) | Finished    | How The Gays Stole Cinema
+| [Camp-000002](_videos/Camp-000002.md) | Auto Script | The Mainstreaming of Camp
 | [cMde5YLG6-w](_videos/cMde5YLG6-w.md) | Auto        | Disney's Gay Cultural Appropriation
 | [crZd-xmhobE](_videos/crZd-xmhobE.md) | Auto        | Geek Theory - Episode #1 "The Marvel Issue"
 | [CupPh46JZ5g](_videos/CupPh46JZ5g.md) | Auto        | Broadway, Living, and Gay Hope
+| [digub0QVCho](_videos/digub0QVCho.md) | Auto Script | The History of Gay Panic
 | [E9vDpCeTK5w](_videos/E9vDpCeTK5w.md) | Auto        | The Queer Joy of Everything Everywhere All At Once
 | [eVfNd2nfqHU](_videos/eVfNd2nfqHU.md) | Auto        | The Issues With "Bros" (Special Podcast Episode)
 | [ezirFAu3MuA](_videos/ezirFAu3MuA.md) | Auto        | The Harmful Drive for Queer Perfection
 | [F5ab1X2CFq8](_videos/F5ab1X2CFq8.md) | Finished    | The Queer Dystopia of the LGB Movement
 | [fE4I6WhPryc](_videos/fE4I6WhPryc.md) | Finished    | Why Bad Gays Are Good
+| [FeAAqBRL-fc](_videos/FeAAqBRL-fc.md) | Missing     | Pink Triangles: The History of the Gay Holocaust (Part 1)
 | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | Auto        | When Hollywood Came Out of the Closet
-| [GayPanicDef](_videos/GayPanicDef.md) | Missing     | The History of Gay Panic
-| [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Missing     | Geek Review: X-men "Days of Future Past"
+| [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Auto Script | Geek Review: X-men "Days of Future Past"
 | [Hk-a3qaxh7Q](_videos/Hk-a3qaxh7Q.md) | Auto        | How a Gay Show Changed TV... and Was Forgotten
 | [HkO2hSN6_fI](_videos/HkO2hSN6_fI.md) | Auto        | The Gays and Dating Apps (A Conversation)
 | [iI5ytm_bFl8](_videos/iI5ytm_bFl8.md) | Finished    | The Secret Crimes of a Dying Franchise
@@ -48,20 +49,23 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [J1Qhuu9iJ-s](_videos/J1Qhuu9iJ-s.md) | Auto        | Ranking "The Best" Gay Movies Of All Time
 | [jJmN2rC1cVM](_videos/jJmN2rC1cVM.md) | Script      | The Real Hogwarts Legacy
 | [KarOvBQCyKE](_videos/KarOvBQCyKE.md) | Finished    | How Spoilers Are Ruining Everything
+| [ke9qOMDq3cc](_videos/ke9qOMDq3cc.md) | Missing     | Monsters in the Closet: The Modern Ganymede
 | [KR7Ab5d9wno](_videos/KR7Ab5d9wno.md) | Auto        | Sex, Violence, Showgirls, and The American Way
 | [kvMq2FejBT8](_videos/kvMq2FejBT8.md) | Finished    | The Real Revolution of Utena
+| [kvsjmtku9do](_videos/kvsjmtku9do.md) | Finished    | One Scene For Hope: The Last Jedi
 | [KXGpVm09GCM](_videos/KXGpVm09GCM.md) | Auto        | Reclaiming the "Q" Word
 | [ldiZgzNRlHE](_videos/ldiZgzNRlHE.md) | Auto        | Days of Marvel Future - Geek Theory Episode 3
 | [Lgsa23IXac8](_videos/Lgsa23IXac8.md) | Auto        | Geek Theory #4: The Fantastic Five!
 | [lTcm9ExjvOI](_videos/lTcm9ExjvOI.md) | Auto        | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
 | [M5-SZckaMtc](_videos/M5-SZckaMtc.md) | Auto        | The Glass Ceiling of Gay Success (A Discussion)
+| [m8DRQ9-sCSI](_videos/m8DRQ9-sCSI.md) | Finished    | Unrequited: The History of Queer Baiting
 | [M8Z1NjpdH1M](_videos/M8Z1NjpdH1M.md) | Complete    | Deep Cuts: Society and Queer Horror
-| [Monster0001](_videos/Monster0001.md) | Missing     | Monsters in the Closet: The Modern Ganymede
 | [Monster0002](_videos/Monster0002.md) | Missing     | Monsters in the Closet: America's New Nightmare
 | [Monster0003](_videos/Monster0003.md) | Missing     | Monsters in the Closet: Killer Queens
 | [n41RAyav_d8](_videos/n41RAyav_d8.md) | Complete    | How Disney Tore Down The Owl House
 | [nCi19sYugIA](_videos/nCi19sYugIA.md) | Finished    | The Traumatic Camp of "Mommie Dearest"
 | [noL0rLX9euU](_videos/noL0rLX9euU.md) | Finished    | Film Theory #1: Is The Blockbuster Dying
+| [ogPYycNAo8](_videos/ogPYycNAo8.md)   | Auto        | The Problem With Pride
 | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | Finished    | Neil Gaiman & Queering Fantasy
 | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | In Progress | The History of Gay Hollywood
 | [P_mLM6fUhHQ](_videos/P_mLM6fUhHQ.md) | Complete    | CODEBREAKERS: Queer film theory (and why it matters)
@@ -78,11 +82,12 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [SMqbxh0zkW0](_videos/SMqbxh0zkW0.md) | Finished    | Canadian Queer Identity with James Somerton
 | [Tk9wh5rBmW0](_videos/Tk9wh5rBmW0.md) | Auto        | The Queer Sensibilities of Cinema
 | [TQNKEkrPEfI](_videos/TQNKEkrPEfI.md) | Auto        | Video Games and the Choice to be Gay
+| [TRnogtBPoI](_videos/TRnogtBPoI.md)   | Missing     | Unrequited: The History of Queer Baiting (Part 3... The Movies)
 | [TUmTTb6uX0M](_videos/TUmTTb6uX0M.md) | Script      | How Wanda Became An Accidental Gay Icon
+| [UAv5yxnCGyc](_videos/UAv5yxnCGyc.md) | Missing     | Unrequited: The History of Queer Baiting (Part 2... Stage and Small Screen)
 | [UfpkP6s_g_4](_videos/UfpkP6s_g_4.md) | Auto        | Making It Big：The History of Gay Adult Film (Documentary)
 | [UiDcQnavKPI](_videos/UiDcQnavKPI.md) | Finished    | SHIPPING - The Good, The Bad, and the Thirsty
 | [ujmgqNyZ190](_videos/ujmgqNyZ190.md) | Auto        | “Killing Stalking” and The Romancing of Abuse
-| [Unrequited1](_videos/Unrequited1.md) | Finished    | Unrequited: The History of Queer Baiting
 | [UtRyi-e_HTc](_videos/UtRyi-e_HTc.md) | Finished    | Where The "Bury Your Gays" Trope Came From
 | [VoHYZUj43K4](_videos/VoHYZUj43K4.md) | Finished    | "Attack on Titan" and the Death of Media Literacy
 | [VToXKOOK4mw](_videos/VToXKOOK4mw.md) | Complete    | I'm sorry
@@ -92,7 +97,9 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [xLuNGhQPDHM](_videos/xLuNGhQPDHM.md) | Finished    | An Overly-Emotional Look at Why JK Rowling is Bad
 | [XoUR_PQIdRg](_videos/XoUR_PQIdRg.md) | Script      | The Brilliance of Our Flag Means Death
 | [xsrV2LXP0bY](_videos/xsrV2LXP0bY.md) | Script      | "Painter of the Night" and the Sadism of Class
+| [XYESkleNUSA](_videos/XYESkleNUSA.md) | Complete    | Maybe the end (Not an April Fool's Day Thing)
 | [y-Ly49qkPGE](_videos/y-Ly49qkPGE.md) | Auto        | The Outing of Kit Connor (Special Podcast Episode)
+| [Zcf3uNGbq4](_videos/Zcf3uNGbq4.md)   | Complete    | How Hollywood was Born Gay
 | [ZDgWHNDdwoU](_videos/ZDgWHNDdwoU.md) | Finished    | "Hannibal" and the Appeal of Toxic Love
 | [zi8ITzM1aYI](_videos/zi8ITzM1aYI.md) | Auto        | Geek Movie Review! Captain America: The Winter Solider
 | [zIsQ502N0fg](_videos/zIsQ502N0fg.md) | Finished    | Hollywood's (Gay) China Problem

@@ -1,7 +1,7 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "17.3", m: "1.4", "y": "0.6", w: "10.3", v: 23}
+  vol: {p: "17.4", m: "1.4", "y": "0.7", w: "10.3", v: 23}
   p-total: 94
   m-total: 50
   y-total: 14
@@ -230,7 +230,7 @@ UtRyi-e_HTc:
 VoHYZUj43K4:
   vol: { p: 24.7, m: 0.0, y: 0.0, w: 15.3, v: 0 }
 xBDc6SedkAc:
-  vol: { p: 4.7, m: 4.7, y: 1.6, w: 1.0, v: 0 }
+  vol: { p: 4.7, m: 4.7, y: 3.1, w: 1.0, v: 0 }
 xLuNGhQPDHM:
   vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
 XYESkleNUSA:
