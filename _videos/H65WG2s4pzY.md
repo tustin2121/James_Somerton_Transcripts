@@ -14,7 +14,7 @@ links: !!seq
 # description: "a video essay on...?"
 
 contributors:
-  transcription: "Yvestan (using Premier Pro Auto-Transcription)"
+  transcription: "Yvestan (using Premiere Pro Auto-Transcription)"
   formatting: $cite$tustin
   
 cite:

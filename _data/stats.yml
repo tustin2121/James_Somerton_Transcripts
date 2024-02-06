@@ -1,10 +1,10 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "17.6", m: "1.3", "y": "0.3", w: "10.4", v: 23}
+  vol: {p: "17.5", m: "1.4", "y": "0.6", w: "10.4", v: 23}
   p-total: 94
-  m-total: 49
-  y-total: 12
+  m-total: 50
+  y-total: 14
   p-book: 6
   p-student: 4
   y-acephobia: 4
@@ -26,6 +26,7 @@ _global:
   y-misogyny: 1
   y-transphobia: 1
   m-inverse: 1
+  manip: 2
   correction: 2
 _irony:
   - {source: M8Z1NjpdH1M, id: other-peoples-material, quote: "Richie ended up telling other people’s jokes. He amassed a lot of wealth, but he lives his life alone."}
@@ -209,6 +210,8 @@ xBDc6SedkAc:
   vol: { p: 4.7, m: 4.7, y: 1.6, w: 1.0, v: 0 }
 xLuNGhQPDHM:
   vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
+XYESkleNUSA:
+  vol: { p: 0.0, m: 30.0, y: 80.0, w: 0.0, v: 0 }
 Zcf3uNGbq4:
   vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
 ZDgWHNDdwoU:

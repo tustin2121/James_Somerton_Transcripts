@@ -105,7 +105,8 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
-  <label><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-umm" /> Show unscripted videos</label>
+  <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">
@@ -128,7 +129,6 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 
 </div>
 
-{% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}
 {% comment %}
 Template for new videos
 ---
@@ -144,6 +144,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
+notes:
 
 cite:
   clips: !!map
@@ -151,13 +152,4 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-notes:
-  - hbomb
 {% endcomment %}
-
-[^vimeo]: This video was exclusive to Vimeo for age-gating reasons.
-[^unreleased]: This video was not yet released to the public before the plagiarism video came out.
-[^hbomb-min]: This video is one of the (minimum) 26 HBomberGuy said were confirmed to have plagiarism in his video.
-[^multipart]: This video is a compilation of multiple previously released videos.
-[^odd-linebreaks]: Transcript had unusual line break characters prior to cleanup
-[^short-advert]: Had a short that advertised the early release of this video on his patreon.

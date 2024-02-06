@@ -1,13 +1,13 @@
 notes:
-  vimeo:
-    icon: "fa-brands fa-vimeo"
-    desc: "Exclusive to Vimeo for age-gating reasons."
-  unreleased:
-    icon: "fa-solid fa-eye-slash"
-    desc: "Unreleased prior to the plagiarism video."
   hbomb:
     icon: "fa-solid fa-bomb"
     desc: "One of 26 videos HBomberGuy confirmed was plagiarized."
+  unreleased:
+    icon: "fa-solid fa-eye-slash"
+    desc: "Unreleased prior to the plagiarism video."
+  vimeo:
+    icon: "fa-brands fa-vimeo"
+    desc: "Exclusive to Vimeo for age-gating reasons."
   multipart:
     icon: "fa-solid fa-film"
     desc: "Compilation of multiple previously released videos."
@@ -26,6 +26,9 @@ notes:
   podcast:
     icon: "fa-solid fa-podcast"
     desc: "Podcast-style video." # rather than a video essay
+  unscripted:
+    icon: "fa-solid fa-pen-nib"
+    desc: "(Ostensibly) unscripted video." # rather than a video essay
   post-callout:
     icon: "fa-solid fa-square-rss"
     desc: "Released post-callout by HBomberGuy."

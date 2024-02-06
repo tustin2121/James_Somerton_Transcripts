@@ -4,7 +4,8 @@
 		:root {
 			color-scheme: dark;
 			--video-box-bg-color-def: #0a1a31;
-			--video-box-bg-color-new: #2d0a0a;
+			--video-box-bg-color-new: #0a2d0c;
+			--video-box-bg-color-umm: #2d0a0a;
 			--video-box-bg-color-pod: #3b270a;
 			
 			--video-box-stolen-text: #f0eaf2;
@@ -21,7 +22,8 @@
 		:root {
 			color-scheme: light;
 			--video-box-bg-color-def: #dae5f9;
-			--video-box-bg-color-new: #fddddd;
+			--video-box-bg-color-new: #ddfddf;
+			--video-box-bg-color-umm: #fddddd;
 			--video-box-bg-color-pod: #ffd699;
 			
 			--video-box-stolen-text: #3e104d;
@@ -67,6 +69,9 @@
 	}
 	.video-card.podcast {
 		background-color: var(--video-box-bg-color-pod);
+	}
+	.video-card.unscripted {
+		background-color: var(--video-box-bg-color-umm);
 	}
 	.video-card.post-callout {
 		background-color: var(--video-box-bg-color-new);

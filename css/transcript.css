@@ -341,7 +341,7 @@
 	compare :is(james, nick, clip, credits):not([mark]) { 
 		counter-reset: left-count;
 	}
-	compare :is(james, nick, clip, credits) mark:not([fc]):not([yikes])::before {
+	compare :is(james, nick, clip, credits) mark:not(:is([fc],[yikes]))::before {
 		content: counter(left-count);
 	}
 	compare :is(james, nick, clip, credits) mark {
@@ -352,7 +352,7 @@
 	compare :is(from, comment, visual, subvideo):not([mark]) { 
 		counter-reset: right-count;
 	}
-	compare :is(from, comment) mark:not([fc]):not([yikes])::before {
+	compare :is(from, comment) mark:not(:is([fc],[yikes]))::before {
 		content: counter(right-count);
 	}
 	compare :is(from, comment) mark {
