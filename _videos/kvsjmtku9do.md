@@ -124,7 +124,6 @@ Until Luke Skywalker arrives on the planet and decides to face his nephew, the h
 
 </james>
 <from></from>
-<compare>
 <james {% include timecode %}>
 
 As he distracts the First Order, our heroes flee through a secret passage as Rey, Luke's Protegé, flies above them, offering air support from the Millennium Falcon. When they come to a collapsed tunnel, too tightly compacted for any human to escape through, Rey uses her newfound power to break the barrier and give them the escape they require. They then fly off in the ship that Kylo Ren hates so much. 
