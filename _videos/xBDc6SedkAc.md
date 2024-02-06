@@ -5,7 +5,7 @@ redirect_from:
 date: 2023-11-13
 title: Gay Happiness and Mainstream Media
 runtime: 49:04
-status: Finished
+status: Complete
 aka: !!seq
   - "The Agony / Anguish of Happy Gay Media"
   - "The Gay Agony of Happy Endings (Thumbnail)"

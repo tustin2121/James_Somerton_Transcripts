@@ -673,8 +673,6 @@
 	}
 }
 @layer source {
-	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
-	.color-todd  { --source-color: hsl(0, 75%, 40%); }
 	.color-none  { --source-color: hsl(0, 0%, 30%); }
 	.color-1     { --source-color: hsl(118, 100%, 30%); }
 	.color-2     { --source-color: hsl(187, 100%, 50%); }
@@ -695,6 +693,10 @@
 	.color-17    { --source-color: hsl(197, 47%, 31%); }
 	.color-18    { --source-color: hsl(318, 65%, 49%); }
 	.color-19    { --source-color: hsl(187, 100%, 39%); }
+	
+	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
+	.color-todd  { --source-color: hsl(0, 75%, 40%); }
+	.color-ace_couple { --source-color: hsl(0, 75%, 40%); }
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);

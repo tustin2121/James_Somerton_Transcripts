@@ -12,7 +12,7 @@ links: !!seq
   - https://vimeo.com/908534246?share=copy
   - https://archive.org/details/james-somerton-public-records/One+Scene+For+Hope%3A+The+Last+Jedi.mp4
   - https://web.archive.org/web/20220516024110/https://www.youtube.com/watch?v=kvsjmtku9do&list=WL&index=29
-# description: "a video essay on...?"
+description: 'a short video comparing The Last Jedi with the LGBTQQ fight for rights, made for the "One Scene For Hope" playlist, maintained by Sara, The Fat Culture Critic.'
 notes:
   - w-james-nick
 
@@ -21,6 +21,12 @@ contributors:
   formatting: $cite$tustin2121
 
 cite:
+  fooled_video: 
+    color: 14
+    name: "The Fat Culture Critic"
+    short: "Being Fooled (Fat Culture Critic, 2023)"
+    full: "The Fat Culture Critic. (2023, Dec 5). <em>Learning from Being Fooled</em> [Video]. YouTube."
+    url: "https://www.youtube.com/watch?v=tzaXV874OVc"
   clips: !!map
   yikes: !!map
   misinformation: !!map
@@ -40,8 +46,17 @@ Thank you Sara ( @The Costume Codex ) for helping to bring some hope to YouTube.
 
 </credits>
 <comment>
+{% include header video=page.cite.fooled_video at="7m18s" %}
 
-Presented in Cinemascope aspect ratio.
+In her video "Learning from Being Fooled", releasing shortly after James Somerton was called out, Sara discusses about James and her interactions with him. 
+
+>  I invited him to be part of my One Scene for Hope playlist thing that I did a couple of years ago. And I was, at the time I was a little bit, "hm..."-- a little bit, I don't know, that he didn't attribute the thing in the video that it was *for* the thing and he didn't like link the playlist?
+> 
+> I did the "Oh, well, I must have not explained that part of the point is to like, lift up each other's stuff-- Everybody's stuff." [...] I was trying to do like a whole thing with lots of people. And most people did put [the link in the description] and checked each other's out, and I got to know some new people and we got to know each other, but... he didn't do that and he didn't get to meet the other people. [...] 
+>
+> It's not the first person I've met who's not very good at that kind of networking thing.
+
+This description has her playlist, so he must have been reminded to put it in at some point, but she doesn't mention it.
 
 </comment>
 </compare>
@@ -64,6 +79,12 @@ James Somerton
 "The Last Jedi"
 
 </credits>
+<comment>
+{% include header for=tustin %}
+
+Presented in Cinemascope aspect ratio.
+
+</comment>
 </compare>
 
 <compare>

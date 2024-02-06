@@ -6,7 +6,7 @@ date: 2022-11-10
 title: The Traumatic Camp of "Mommie Dearest"
 runtime: 22:04
 parent: Tk9wh5rBmW0
-status: Finished
+status: Complete
 aka: !!seq
 topics: !!seq
   - Mommie Dearest

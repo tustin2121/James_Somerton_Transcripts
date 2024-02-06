@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
 runtime: 59:15
-status: Finished
+status: Complete
 aka: !!seq
   - "Be Gay, Do Crime (Thumbnail)"
 topics: !!seq

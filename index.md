@@ -79,12 +79,15 @@ Score Squares:
 - The bar above the squares indicates how much of the video<br/>was plagiarized or misinformation by volume.
 
 Transcript Statuses: 
-- <span class="status alert">Missing</span> = Transcript is missing though video archive exists
-- <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
-- <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
+- <span class="status alert">Missing</span> = Transcript is missing
+- <span class="status">Script</span> = Raw transcript data uploaded from a script
+- <span class="status">Auto</span> = Raw auto-transcript
 - <span class="status">In Progress</span> = Transcript has some work done
 - <span class="status ready">Finished</span> = Transcript is complete, citations needed.
-- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things cited.
+- <span class="status complete">Complete</span> = Transcript has been formatted and highlighted.
+  - A "Complete" transcript does *not* mean nothing is left to  
+  be found, just that all the information we know at the  
+  moment has been documented.
 
 </div>
 <div>

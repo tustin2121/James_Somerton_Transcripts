@@ -43,9 +43,9 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Auto Script | Geek Review: X-men "Days of Future Past"
 | [Hk-a3qaxh7Q](_videos/Hk-a3qaxh7Q.md) | Auto        | How a Gay Show Changed TV... and Was Forgotten
 | [HkO2hSN6_fI](_videos/HkO2hSN6_fI.md) | Auto        | The Gays and Dating Apps (A Conversation)
-| [iI5ytm_bFl8](_videos/iI5ytm_bFl8.md) | Finished    | The Secret Crimes of a Dying Franchise
+| [iI5ytm_bFl8](_videos/iI5ytm_bFl8.md) | Complete    | The Secret Crimes of a Dying Franchise
 | [iJ3M_DhPlI0](_videos/iJ3M_DhPlI0.md) | Finished    | America v. Homosexuality
-| [J-aYcSQ0DWQ](_videos/J-aYcSQ0DWQ.md) | Finished    | The Necessity of Gay Crime
+| [J-aYcSQ0DWQ](_videos/J-aYcSQ0DWQ.md) | Complete    | The Necessity of Gay Crime
 | [J1Qhuu9iJ-s](_videos/J1Qhuu9iJ-s.md) | Auto        | Ranking "The Best" Gay Movies Of All Time
 | [jJmN2rC1cVM](_videos/jJmN2rC1cVM.md) | Script      | The Real Hogwarts Legacy
 | [KarOvBQCyKE](_videos/KarOvBQCyKE.md) | Finished    | How Spoilers Are Ruining Everything
@@ -63,7 +63,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [Monster0002](_videos/Monster0002.md) | Missing     | Monsters in the Closet: America's New Nightmare
 | [Monster0003](_videos/Monster0003.md) | Missing     | Monsters in the Closet: Killer Queens
 | [n41RAyav_d8](_videos/n41RAyav_d8.md) | Complete    | How Disney Tore Down The Owl House
-| [nCi19sYugIA](_videos/nCi19sYugIA.md) | Finished    | The Traumatic Camp of "Mommie Dearest"
+| [nCi19sYugIA](_videos/nCi19sYugIA.md) | Complete    | The Traumatic Camp of "Mommie Dearest"
 | [noL0rLX9euU](_videos/noL0rLX9euU.md) | Finished    | Film Theory #1: Is The Blockbuster Dying
 | [ogPYycNAo8](_videos/ogPYycNAo8.md)   | Auto        | The Problem With Pride
 | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | Finished    | Neil Gaiman & Queering Fantasy
@@ -71,7 +71,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [P_mLM6fUhHQ](_videos/P_mLM6fUhHQ.md) | Complete    | CODEBREAKERS: Queer film theory (and why it matters)
 | [qa3A_ery3Hg](_videos/qa3A_ery3Hg.md) | Complete    | Disney's Silence on Gay Youth
 | [qT6IsmUrHeY](_videos/qT6IsmUrHeY.md) | Auto        | The Role of Adult Media in Gay Identity (A Conversation)
-| [QuiEKdTmj2M](_videos/QuiEKdTmj2M.md) | Finished    | Heartstopper and Queer Optimism
+| [QuiEKdTmj2M](_videos/QuiEKdTmj2M.md) | Complete    | Heartstopper and Queer Optimism
 | [Qvu84kjtGvE](_videos/Qvu84kjtGvE.md) | Auto        | Evil Queens: A Queer Look at Disney History
 | [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | Script      | Yuri on Ice - How Gay is Gay Enough?
 | [rg92PER6xvE](_videos/rg92PER6xvE.md) | Auto        | Nintendo's Queer Relationship With Gender
@@ -93,7 +93,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [VToXKOOK4mw](_videos/VToXKOOK4mw.md) | Complete    | I'm sorry
 | [vV3659CQV38](_videos/vV3659CQV38.md) | Script      | The Diversity of "The Rings of Power"
 | [we9bGN5_jM0](_videos/we9bGN5_jM0.md) | Auto        | Harry Potter and The Closet Under The Stairs
-| [xBDc6SedkAc](_videos/xBDc6SedkAc.md) | Finished    | Gay Happiness and Mainstream Media
+| [xBDc6SedkAc](_videos/xBDc6SedkAc.md) | Complete    | Gay Happiness and Mainstream Media
 | [xLuNGhQPDHM](_videos/xLuNGhQPDHM.md) | Finished    | An Overly-Emotional Look at Why JK Rowling is Bad
 | [XoUR_PQIdRg](_videos/XoUR_PQIdRg.md) | Script      | The Brilliance of Our Flag Means Death
 | [xsrV2LXP0bY](_videos/xsrV2LXP0bY.md) | Script      | "Painter of the Night" and the Sadism of Class

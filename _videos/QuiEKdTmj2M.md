@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-04-23
 title: Heartstopper and Queer Optimism
 runtime: 20:40
-status: Finished
+status: Complete
 aka: !!seq
   - "Heartstopper and The Need For Queer Optimism"
   - "It's So Cute! (Thumbnail)"

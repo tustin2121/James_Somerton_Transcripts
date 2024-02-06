@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-04-17
 title: The Secret Crimes of a Dying Franchise
 runtime: 28:11
-status: Finished
+status: Complete
 aka: !!seq
   - "Let It Die (Thumbnail)"
 topics: !!seq
