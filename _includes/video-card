@@ -48,7 +48,7 @@
 			<div class="yikes">{{ include.video.cite.yikes.size }}</div>
 		{%- endif -%}
 		<div class="bar">
-			{%- assign vid = include.video.id | split: "/" | last -%}
+			{%- assign vid = include.video.slug -%}
 			{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
 			{%- if bar -%}
 				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
