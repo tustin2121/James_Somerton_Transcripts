@@ -147,7 +147,7 @@ But as it so happens, fascists usually fight for uniformity and hegemony. So que
 <from></from>
 <james {% include timecode %}>
 
-It also happens that *The Last Jedi* premiered at the end of 2017, our first full year of a Trump presidency, ushering in a federal legitimacy of neo-Naziism and aggressive, homegrown American nationalism.
+It also happens that *The Last Jedi* premiered at the end of 2017, our first full year of a Trump presidency, ushering in a federal legitimacy of neo-Nazism and aggressive, homegrown American nationalism.
 
 Just as the First Order was compared to a hidden American fascist underground coming into the light, the Resistance can be seen in domestic freedom fighters for whom fighting for rights was becoming a more literal battle. And just like Leia Organa's contacts and former friends... When push came to shove, we saw many of our supporters and allies turn a blind eye... when those in power aim their Death Star cannons at us. Especially the trans and non-binary communities.
 
