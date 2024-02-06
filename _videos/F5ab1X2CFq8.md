@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-04-20
 title: The Queer Dystopia of the LGB Movement
+runtime: 43:50
 status: Finished
 aka: !!seq
   - "The LGB Dystopia (Thumbnail)"

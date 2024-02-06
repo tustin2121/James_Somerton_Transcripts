@@ -10,6 +10,7 @@ redirect_from:
 
 date: 2023-10-07
 title: The Real Revolution of Utena
+runtime: 56:52
 status: Finished
 aka: !!seq
   - "The Sapphic Beauty of Warrior Women (Working Title)"

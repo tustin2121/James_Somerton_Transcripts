@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-03-15
 title: Hollywood's Golden Age (of Queer Coding)
+runtime: 30:18
 parent: pW_RjbZYi1s
 status: Complete
 aka: !!seq

@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-04-15
 title: America v. Homosexuality
+runtime: 30:00
 parent: pW_RjbZYi1s
 status: Finished
 aka: !!seq

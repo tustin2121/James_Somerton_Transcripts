@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-01-14
 title: Why Bad Gays Are Good
+runtime: 1:07:33
 status: Finished
 aka: !!seq
 topics: !!seq

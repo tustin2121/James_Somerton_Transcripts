@@ -11,6 +11,7 @@ redirect_from:
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
+runtime: 0
 status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"

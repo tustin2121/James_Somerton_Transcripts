@@ -5,6 +5,7 @@ redirect_from:
 # cspell:words  LGBTQ Telos  Iger Chapek
 date: 2022-03-05
 title: Disney's Silence on Gay Youth
+runtime: 32:16
 status: Complete
 aka: !!seq
   - "The Silence of the Mouse"

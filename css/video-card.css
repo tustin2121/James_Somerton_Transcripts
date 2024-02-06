@@ -191,6 +191,23 @@
 		object-position: center;
 		width: var(--thumb-width);
 		height: var(--thumb-height);
+		position: relative;
+	}
+	.video-card > .thumbnail[duration]::after {
+		content: attr(duration);
+		display: block;
+		position: absolute;
+		bottom: 3px; right: 3px;
+		z-index: 10;
+		background-color: #000d;
+		color: white;
+		font-size: x-small;
+		font-weight: 700;
+		border-radius: 5px;
+		padding: 0px 5px 2px;
+	}
+	.video-card > .thumbnail[duration]:hover::after {
+		display: none;
 	}
 	@media (max-width: 600px) {
 		:root {

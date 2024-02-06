@@ -11,6 +11,7 @@ redirect_from:
 # cspell:words: subjectivities precarity
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
+runtime: 1:24:45
 status: Complete
 aka: !!seq
 topics: !!seq

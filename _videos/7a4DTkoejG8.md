@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2022-11-16 
 title: The Queer Erasure of Asexuality (A Discussion)
+runtime: 44:36
 status: Complete
 aka: !!seq
 topics: !!seq

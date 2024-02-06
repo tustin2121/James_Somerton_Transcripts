@@ -189,7 +189,7 @@ I've loved doing this? So much. This is...
 
 When things got really... if you follow me on Twitter and stuff like that, you know, things got really, really dark for me in December.<sup cn></sup> And, uh... it was being, you know, being able to make videos that-- that kind of-- drew me back out of that. And so I'm really going to miss that. 
 
-So I hope...? [clears throat, like he's trying not to cry<sup cn></sup>]
+So I hope...? [clears throat, like he's trying not to cry]
 
 </james>
 <james {% include timecode %}>

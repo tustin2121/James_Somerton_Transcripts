@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-09-13
 title: Disney's War on Gay Kids
+runtime: 31:04
 status: Finished
 aka: !!seq
   - Disney's War Against Gay Kids #｜ James Somerton

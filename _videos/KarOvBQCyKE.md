@@ -5,6 +5,7 @@ redirect_from:
 # cspell:words:  Shyamalan Snape Palpatine Lecter Skywalker Kylo Tibult anaphylactic
 date: 2023-04-29
 title: How Spoilers Are Ruining Everything
+runtime: 42:35
 status: Finished
 aka: !!seq
   - "How To Stop Caring And Learn To Love Spoilers"

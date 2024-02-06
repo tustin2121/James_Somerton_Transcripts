@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-07-13
 title: The History of Gay Hollywood
+runtime: 2:09:17
 status: In Progress
 aka: !!seq
   - "The Queer History of Hollywood (Thumbnail)"

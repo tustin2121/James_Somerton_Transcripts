@@ -134,6 +134,7 @@ Template for new videos
 ---
 date: 2023‑11‑23
 title: title
+runtime: 0:00
 status: Auto
 aka: !!seq
   - "title"
