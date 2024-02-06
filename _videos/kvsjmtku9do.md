@@ -16,6 +16,10 @@ links: !!seq
 notes:
   - w-james-nick
 
+contributors:
+  transcription: "Yvestan (using Premiere Pro Auto-Transcription)"
+  formatting: $cite$tustin2121
+
 cite:
   clips: !!map
   yikes: !!map
