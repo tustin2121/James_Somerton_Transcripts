@@ -586,9 +586,9 @@ James pulls an FMV from YouTube to use as B-Roll for this part.
 
 <span visual=none on="?" off="?">In *The Legend Of Korra*, there actually are confirmed bisexual characters. But ask any queer person who's watched the show and they'll tell you every damn character on it is bi or pansexual.</span> It's not wishful thinking; it's a queer reading of the show. 
 
-<span visual=none on="?" off="?">Bolin's close relationship with Veric.</span> 
+<span visual=none on="?" off="?">Bolin's close relationship with Varrick.</span> 
 
-<span visual={{mkv}} on="2:31" off="2:35">Mako's will-they-won't-they with Prince Woo (which seems to be getting closer to becoming canon in the graphic novels).</span>
+<span visual={{mkv}} on="2:31" off="2:35">Mako's will-they-won't-they with Prince Wu (which seems to be getting closer to becoming canon in the graphic novels).</span>
 
 <footer>James mispronounces Mako's name, using a short-a sound instead of a long a.</footer>
 
