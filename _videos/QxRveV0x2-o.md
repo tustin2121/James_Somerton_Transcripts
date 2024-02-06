@@ -18,6 +18,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - odd-linebreaks
+  - w-james-nick
 
 cite:
   clips: !!map

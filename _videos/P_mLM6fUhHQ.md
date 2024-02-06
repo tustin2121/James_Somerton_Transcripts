@@ -27,6 +27,7 @@ description: "a video essay on film theory, heteronormativity, erasure, and hist
 notes:
   - hbomb
   - visual
+  - w-james-nick
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"

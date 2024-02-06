@@ -41,4 +41,17 @@ notes:
   comp-delete:
     icon: "fa-solid fa-trash-can"
     desc: "Deleted in favor of the compilation video."
+  w-nick:
+    icon: "wr-nick"
+    desc: "Written by Nick Herrgott."
+  w-james:
+    icon: "wr-james"
+    desc: "Written by James Somerton."
+  w-nick-james:
+    icon: "wr-nick-james"
+    desc: "Written by Nick Herrgott and James Somerton."
+  w-james-nick:
+    icon: "wr-james-nick"
+    desc: "Written by James Somerton and Nick Herrgott."
+
   

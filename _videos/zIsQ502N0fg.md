@@ -15,6 +15,7 @@ description: "a video essay on why China hates queer people and how queer people
 notes:
   - hbomb
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

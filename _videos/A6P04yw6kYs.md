@@ -17,6 +17,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - script-diff
+  - w-nick-james
 
 cite:
   clips: !!map

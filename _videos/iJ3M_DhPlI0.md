@@ -24,6 +24,7 @@ links: !!seq
 # description: "a video essay where James takes a break reading of Vito Russo's book and reads from another book on The Lavender Scare."
 notes:
   - hbomb
+  - w-james
 
 contributors:
   downloaded: $cite$TerraJRiley

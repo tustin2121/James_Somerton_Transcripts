@@ -16,6 +16,7 @@ description: "a video essay on the 'Don't Say Gay' bill and why Disney is saying
 notes:
   - odd-characters  # Lots of non-breaking spaces and also a "Left-to-Right Isolate" character U+2066 from a copied tweet
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

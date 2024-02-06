@@ -27,6 +27,7 @@ links: !!seq
 description: "a video essay on media literacy, messaging, allegory, applicability, fascist imagery, not dealing in absolutes, and something something 'don't let the hate flow through you'."
 notes: 
   - hbomb
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley

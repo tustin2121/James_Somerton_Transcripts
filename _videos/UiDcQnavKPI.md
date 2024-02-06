@@ -16,6 +16,10 @@ links: !!seq
 notes:
   - dec5-delete
   - odd-linebreaks
+  - w-nick-james
+
+contributors:
+# TODO
 
 cite:
   clips: !!map

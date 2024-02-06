@@ -21,6 +21,7 @@ links: !!seq
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the fifties, Ben-Hur, Rope, and skipping over nearly all of the Lesbian and Trans examples."
 notes:
   - hbomb
+  - w-james
 
 contributors:
   downloaded: $cite$TerraJRiley

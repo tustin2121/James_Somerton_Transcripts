@@ -16,6 +16,7 @@ links: !!seq
 description: "a video essay on why it is Disney is so safe and how being gay is not abnormal."
 notes:
   - script-diff
+  - w-nick
 
 contributors:
   transcription: $cite$from-script

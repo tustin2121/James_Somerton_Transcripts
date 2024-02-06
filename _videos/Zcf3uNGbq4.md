@@ -25,6 +25,7 @@ links: !!seq
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."
 notes:
   - hbomb
+  - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley

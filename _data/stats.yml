@@ -1,31 +1,54 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "17.5", m: "1.4", "y": "0.6", w: "10.4", v: 23}
+  vol: {p: "17.3", m: "1.4", "y": "0.6", w: "10.3", v: 23}
   p-total: 94
   m-total: 50
   y-total: 14
+  hbomb: 26
+  comp-delete: 5
+  multipart: 3
+  commentary: 3
+  vimeo: 2
   p-book: 6
   p-student: 4
+  podcast: 8
   y-acephobia: 4
+  script-diff: 11
+  w-nick-james: 9
+  short-advert: 5
   irony...: 1
   changed-quote: 14
+  w-james: 5
+  dec5-delete: 6
   p-news: 10
   p-wiki: 16
+  w-james-nick: 9
   y-exclusion: 2
+  unreleased: 1
   changed-number: 2
+  visual: 3
   changed-name: 5
   blatant-bgm: 2
   p-youtube: 9
+  highlighted: 1
+  dec2-delete: 1
   baa: 4
   sub-queer: 21
   irony: 2
   p-academic: 4
   change-quote: 1
   made-quote: 2
+  odd-characters: 1
+  odd-linebreaks: 4
+  w-nick: 1
   y-misogyny: 1
   y-transphobia: 1
+  mirror: 1
+  behind-scenes: 2
   m-inverse: 1
+  post-callout: 1
+  unscripted: 2
   manip: 2
   correction: 2
 _irony:

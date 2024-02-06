@@ -15,6 +15,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Why+Bad+Gays+Are+Good.mp4"
   - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
 description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Hell of a Boss, Brandon Rogers, and Bros for an hour."
+notes:
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley

@@ -199,6 +199,9 @@ function determineVolume(obj, window, document) {
  */
 function countStatistics(obj, document, data) {
 	const fm = data.attributes;
+	fm.notes?.forEach(n => {
+		stats[n] = (stats[n] ?? 0) + 1;
+	});
 	Array.from(document.querySelectorAll("[stat:id]")).forEach(n => {
 		let id = n.getAttribute("stat:id");
 		stats[id] = (stats[id] ?? 0) + 1;

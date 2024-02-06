@@ -18,6 +18,7 @@ notes:
   - odd-linebreaks
   - hbomb
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

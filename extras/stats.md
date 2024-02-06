@@ -10,27 +10,34 @@ The following table of statistics is calculated from the video transcripts autom
 
 (If you are helping with the code and want to add to these statistics, feel free to mark things with `stat:id="stat-name"`. If the statistic is new, you'll need to remember to add the name to the below table manually.)
 
+{% assign T = "&nbsp;&nbsp;&nbsp;&nbsp;" %}
 {% assign stats = site.data.stats._global %}
 
 |  |  |
 |:----:|:------------|
 | {{stats.p-total }} | Number of [unique sources James plagiarized](sources.md). |
-| {{stats.p-wiki }} | &nbsp;&nbsp;&nbsp;&nbsp; Wikipedia articles plagiarized. |
-| {{stats.p-youtube }} | &nbsp;&nbsp;&nbsp;&nbsp; YouTube videos plagiarized. |
-| {{stats.p-news }} | &nbsp;&nbsp;&nbsp;&nbsp; News articles plagiarized. |
-| {{stats.p-book }} | &nbsp;&nbsp;&nbsp;&nbsp; Published books plagiarized. |
-| {{stats.p-academic }} | &nbsp;&nbsp;&nbsp;&nbsp; Journal-published academic articles plagiarized. |
-| {{stats.p-student }} | &nbsp;&nbsp;&nbsp;&nbsp; University student academic papers plagiarized (yes, really). |
+| {{stats.p-wiki }} | {{T}} Wikipedia articles plagiarized. |
+| {{stats.p-youtube }} | {{T}} YouTube videos plagiarized. |
+| {{stats.p-news }} | {{T}} News articles plagiarized. |
+| {{stats.p-book }} | {{T}} Published books plagiarized. |
+| {{stats.p-academic }} | {{T}} Journal-published academic articles plagiarized. |
+| {{stats.p-student }} | {{T}} University student academic papers plagiarized (yes, really). |
 | | |
 | {{stats.m-total }} | Number of lies James has told in his videos.[^v] |
-| {{stats.m-context }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misinformation by stripping context from what he's plagiarizing. |
-| {{stats.m-inverse }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of James flipping the meaning of what he's copying. |
+| {{stats.m-context }} | {{T}} Instances of misinformation by stripping context from what he's plagiarizing. |
+| {{stats.m-inverse }} | {{T}} Instances of James flipping the meaning of what he's copying. |
 | | |
 | {{stats.y-total }} | Problematic takes in James's videos.[^y] |
-| {{stats.y-misogyny }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of misogyny. |
-| {{stats.y-transphobia }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of transphobia. |
-| {{stats.y-acephobia }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of acephobia. |
-| {{stats.y-exclusion }} | &nbsp;&nbsp;&nbsp;&nbsp; Instances of any of the above by exclusion. |
+| {{stats.y-misogyny }} | {{T}} Instances of misogyny. |
+| {{stats.y-transphobia }} | {{T}} Instances of transphobia. |
+| {{stats.y-acephobia }} | {{T}} Instances of acephobia. |
+| {{stats.y-exclusion }} | {{T}} Instances of any of the above by exclusion. |
+| | |
+| | Videos "Written by"...
+| {{stats.w-nick-james }} | {{T}} Nick Herrgott & James Somerton
+| {{stats.w-james-nick }} | {{T}} James Somerton & Nick Herrgott
+| {{stats.w-james }} | {{T}} James Somerton
+| {{stats.w-nick }} | {{T}} Nick Herrgott
 | | |
 | {{stats.irony }} | Instances of [irony in hindsight.](ironic.md) |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |

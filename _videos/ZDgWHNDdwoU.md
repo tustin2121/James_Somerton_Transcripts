@@ -22,6 +22,7 @@ notes:
   - dec5-delete
   - commentary
   - script-diff
+  - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley
