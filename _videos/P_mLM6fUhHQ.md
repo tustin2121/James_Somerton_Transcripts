@@ -11,6 +11,7 @@ redirect_from:
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
+runtime: 0
 status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
@@ -27,6 +28,7 @@ description: "a video essay on film theory, heteronormativity, erasure, and hist
 notes:
   - hbomb
   - visual
+  - w-james-nick
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"

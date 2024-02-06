@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-11-18
 title: Hollywood's (Gay) China Problem #｜ James Somerton
+runtime: 42:41
 status: Finished
 aka: !!seq
 topics: !!seq
@@ -15,6 +16,7 @@ description: "a video essay on why China hates queer people and how queer people
 notes:
   - hbomb
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

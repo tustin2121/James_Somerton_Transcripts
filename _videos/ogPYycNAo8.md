@@ -1,11 +1,12 @@
 ---
 redirect_from:
-  - "/videos/-ogpyycnao8"
-  - "/videos/ogPYycNAo8"  # front-dash seems to cause issues
   - "/videos/ogpyycnao8"
+  - "/videos/-ogPYycNAo8" # front-dash seems to cause issues
+  - "/videos/-ogpyycnao8"
 
 date: 2023-06-06
 title: The Problem With Pride #｜ James Somerton
+# slug: -ogPYycNAo8
 status: Auto
 aka: !!seq
 topics: !!seq

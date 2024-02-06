@@ -78,16 +78,24 @@ Score Squares:
 - <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
 - The bar above the squares indicates how much of the video<br/>was plagiarized or misinformation by volume.
 
+Transcript Statuses: 
+- <span class="status alert">Missing</span> = Transcript is missing
+- <span class="status">Script</span> = Raw transcript data uploaded from a script
+- <span class="status">Auto</span> = Raw auto-transcript
+- <span class="status">In Progress</span> = Transcript has some work done
+- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
+- <span class="status complete">Complete</span> = Transcript has been formatted and highlighted.
+  - A "Complete" transcript does *not* mean nothing is left to  
+  be found, just that all the information we know at the  
+  moment has been documented.
+
 </div>
 <div>
 
-Transcript Statuses: 
-- <span class="status alert">Missing</span> = Transcript is missing though video archive exists
-- <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
-- <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
-- <span class="status">In Progress</span> = Transcript has some work done
-- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
-- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things cited.
+Icon legend:
+{% for n in site.data.info.notes -%}
+- <i class="{{ n[1].icon }}"></i> - {{ n[1].desc }}
+{% endfor -%}
 
 </div>
 </div>
@@ -100,7 +108,8 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
-  <label><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-umm" /> Show unscripted videos</label>
+  <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">
@@ -123,12 +132,12 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 
 </div>
 
-{% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}
 {% comment %}
 Template for new videos
 ---
 date: 2023‑11‑23
 title: title
+runtime: 0:00
 status: Auto
 aka: !!seq
   - "title"
@@ -139,6 +148,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
+notes:
 
 cite:
   clips: !!map
@@ -146,13 +156,4 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-notes:
-  - hbomb
 {% endcomment %}
-
-[^vimeo]: This video was exclusive to Vimeo for age-gating reasons.
-[^unreleased]: This video was not yet released to the public before the plagiarism video came out.
-[^hbomb-min]: This video is one of the (minimum) 26 HBomberGuy said were confirmed to have plagiarism in his video.
-[^multipart]: This video is a compilation of multiple previously released videos.
-[^odd-linebreaks]: Transcript had unusual line break characters prior to cleanup
-[^short-advert]: Had a short that advertised the early release of this video on his patreon.

@@ -8,9 +8,10 @@ status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=xHPd2xtG5xQ"
+  - "https://web.archive.org/web/20220605191048/https://www.youtube.com/watch?v=crZd-xmhobE"
 # description: "a video essay on...?"
 
 cite:
@@ -24,7 +25,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+I think Marvel has a problem on its hands, and in this video I fill you in on why I think so, and what they need to do to fix it.
 
 </credits>
 </compare>

@@ -8,7 +8,8 @@ status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://web.archive.org/web/20201123071913/https://www.youtube.com/watch?v=4YWslnyUxcs"
 # description: "a video essay on...?"
 
 cite:
@@ -22,7 +23,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+James sits down to talk about the history of gays in film, and what "The Stonewall Film Effect" may mean for the future of gay cinema.
 
 </credits>
 </compare>

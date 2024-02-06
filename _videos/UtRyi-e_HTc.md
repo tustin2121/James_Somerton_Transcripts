@@ -20,6 +20,7 @@ links: !!seq
 # description: "a video essay — I mean, a reading of Vito Russo's book — covering the "
 notes:
   - hbomb
+  - w-james
 
 contributors:
   downloaded: $cite$TerraJRiley

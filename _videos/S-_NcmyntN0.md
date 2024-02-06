@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-09-13
 title: Disney's War on Gay Kids
+runtime: 31:04
 status: Finished
 aka: !!seq
   - Disney's War Against Gay Kids #｜ James Somerton
@@ -16,6 +17,7 @@ links: !!seq
 description: "a video essay on why it is Disney is so safe and how being gay is not abnormal."
 notes:
   - script-diff
+  - w-nick
 
 contributors:
   transcription: $cite$from-script

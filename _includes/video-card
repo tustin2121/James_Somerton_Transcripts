@@ -48,7 +48,7 @@
 			<div class="yikes">{{ include.video.cite.yikes.size }}</div>
 		{%- endif -%}
 		<div class="bar">
-			{%- assign vid = include.video.id | split: "/" | last -%}
+			{%- assign vid = include.video.slug -%}
 			{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
 			{%- if bar -%}
 				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
@@ -57,11 +57,27 @@
 			{%- endif -%}
 		</div>
 	</div>
-	{%- assign thumb = "/media/thumbs/" | append: vid | append: ".jpg" -%}
-	{%- assign file = site.static_files | where: "path", thumb |  first -%}
-	{%- if file -%}
-		<img class="thumbnail" src="{{ thumb | relative_url }}" />
-	{%- else -%}
-		<img class="thumbnail" src="{{ "/media/thumbs/missing.jpg" | relative_url }}" />
-	{%- endif -%}
+	{%- capture runtime -%}
+		{%- if include.video.runtime -%}
+			{%- assign t = include.video.runtime | round -%}
+			{%- assign h = t | divided_by: 3600 -%}
+			{%- assign m = t | modulo: 3600 | divided_by: 60 -%}
+			{%- assign s = t | modulo: 60 -%}
+			duration="
+			{%- if h > 0 -%}
+				{{ h }}:{{ m | prepend: '00' | slice: -2,2 }}:{{ s | prepend: '00' | slice: -2,2 }}
+			{%- else -%}
+				{{ m }}:{{ s | prepend: '00' | slice: -2,2 }}
+			{%- endif -%}"
+		{%- endif -%}
+	{%- endcapture -%}
+	<picture class="thumbnail" {{ runtime }}>
+		{%- assign thumb = "/media/thumbs/" | append: vid | append: ".jpg" -%}
+		{%- assign file = site.static_files | where: "path", thumb |  first -%}
+		{%- if file -%}
+			<img src="{{ thumb | relative_url }}" />
+		{%- else -%}
+			<img src="{{ "/media/thumbs/missing.jpg" | relative_url }}" />
+		{%- endif -%}
+	</picture>
 </div>

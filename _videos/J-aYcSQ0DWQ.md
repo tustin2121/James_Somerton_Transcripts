@@ -4,7 +4,8 @@ redirect_from:
 
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
-status: Finished
+runtime: 59:15
+status: Complete
 aka: !!seq
   - "Be Gay, Do Crime (Thumbnail)"
 topics: !!seq
@@ -18,6 +19,7 @@ links: !!seq
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

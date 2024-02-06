@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-05-12
 title: An Overly-Emotional Look at Why JK Rowling is Bad
+runtime: 57:51
 status: Finished
 aka: !!seq
   - "Confession of a Harry Potter Fan Boy (Thumbnail)"
@@ -18,6 +19,7 @@ notes:
   - odd-linebreaks
   - hbomb
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

@@ -16,6 +16,10 @@ links: !!seq
 notes:
   - dec5-delete
   - odd-linebreaks
+  - w-nick-james
+
+contributors:
+# TODO
 
 cite:
   clips: !!map
@@ -591,7 +595,7 @@ Shipping our way to a world where we could be happy, however, may have snapped 
 So there’s this kind of perfect storm of angst as different areas of media interplay off each other and send conflicting messages. You have high-brow fiction telling us to expect tragedy. Which. Thanks for the anxiety. <mark>You have mass-consumption media which takes gay emotions and removes gay expiriences<sup class="add">[sic: experiences]</sup>, leaving a husk of empty gestures and unanswered questions which feels more like a gambling addiction than even implied representation.</mark> And then, in response to that, you have publishing. Where gay authors are trying to depict their own experiences with queerness, but where a lot of content being created is either an overly positive response to gay tragedy-media, or as filling in the blanks that media like *Sk8* refuses to fill in. And in either case that results in this weird rose-tinted world where the beginning and end of the queer expirience is defined by your ability to have a boyfriend and look cute being gay together. 
 
 </james>
-<comment>
+<comment id="straight-women">
 
 James shows a clip of *Love, Simon* during the "mass-consumption media" comment, heavily implying that this is an example of straight women appropriating gayness, when the author of the adapted book *Simon vs. the Homo Sapiens Agenda*, Becky Albertalli, came out as bisexual in 2020. Not to mention, the director of *Love, Simon*, Greg Berlanti, is an openly gay man, and the screenwriters, Isaac Aptaker and Elizabeth Berger, could be anything for all we know.
 
