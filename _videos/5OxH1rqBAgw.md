@@ -21,6 +21,7 @@ notes:
 
 contributors:
   downloaded: $cite$kenm
+  formatting: $cite$tobicat
   citation:
     - "[Todd in the Shadows](https://twitter.com/ShadowTodd/status/1731372737602666638)" #processed
 
@@ -32,8 +33,8 @@ cite:
     pink_triangle: { color: 4, short: "(Plant, 1986)", full: "Plant, R. (1986). *The Pink Triangle: The Nazi War Against Homosexuals*. Henry Holt and Company.", type: "book" }
     rokakis_thesis: { color: 3, short: "(Rokakis, 2013)", full: "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", url: "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", type: "student" }
     branded_setterington: { color: 8, short: "(Setterington, 2013)", full: "Setterington, K. (2013). *Branded by the Pink Triangle*. Second Story Press.", type: "book" }
-    grau_schoppmann: { color: 10, short: "(Grau & Schoppmann, 1995)", full: "Grau, G., & Schoppmann, C. (1995). *Hidden Holocaust?: Gay and Lesbian Persecution in Germany, 1933-45*. Taylor & Francis.", type: "book"}
-    knives_wikipedia: { color: 11, short: "(Wikipedia, 2020)", full: "Wikipedia (2020), "Night of the Long Knives"", url: "https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835#Aftermath", type: "article"} 
+    grau_schoppmann: { color: 10, short: "(Grau & Schoppmann, 1995)", full: "Grau, G., & Schoppmann, C. (1995). *Hidden Holocaust?: Gay and Lesbian Persecution in Germany, 1933-45*. Taylor & Francis.", type: "book" }
+    knives_wikipedia: { color: 11, short: "(Wikipedia, 2020)", full: "Wikipedia (2020), "Night of the Long Knives"", url: "https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835#Aftermath", type: "article" } 
     
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -92,9 +93,9 @@ This video contains copyrighted material. The use of which has not always been s
 <mark>When the Holocaust has been written or spoken about, it's often focused on the stories of the millions of Jewish people and political prisoners that were put into concentration camps or killed.</mark> <mark>The voices of smaller groups have been lost over the years.</mark> <mark>Many of these groups were small before they were imprisoned and came out even smaller.</mark> <mark>Historians overlooked many of these groups, such as the Jehovah's Witnesses, Romani, neuroatypical and gay men after after the war was over, because many of these groups still had negative stigmas attached to them, and still do to this day.</mark> <mark>Gay men had it particularly rough after the war. They were often silenced, put in Soviet prisons and left off of memorials.</mark> <mark>This erasure of their histories has left minimal sources about the subject. Survivors felt shame for being imprisoned for being gay and often stayed quiet about their experiences.</mark> <mark>As the last few homosexual survivors finally began speaking, some information came forth about what it was like being gay in Germany before and during Hitler's Reign.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.2" %}>
 
-https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors
+**Introduction**
 
 <mark>When the Holocaust has been written about or spoken of, it is often focused on the stories
 of the millions of Jewish people and political prisoners that were put into concentration camps,
@@ -109,9 +110,7 @@ or killed.</mark> <mark>The voices of some of the smaller groups that were impri
 <mark>By the turn of the 20th century, it was near impossible to be gay and out anywhere in the world.</mark> <mark>Cities that today hold huge Pride parades then prosecuted gay men under any number of anti-sodomy laws.</mark>
 
 </james>
-<from>
-
-https://archive.org/details/brandedbypinktri0000sett p.3
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.3" %}>
 
 Chapter 1: Berlin - Homosexual Capital of Europe
 
@@ -128,7 +127,7 @@ Chapter 1: Berlin - Homosexual Capital of Europe
 These laws spread across North America, Europe and Asia,<mark>but there was an odd bubble of tolerance in the middle of Europe: Berlin.</mark> <mark>Though Germany had anti-gay laws on the book since it was just a loose collection of independent states, they were seldom enforced.</mark> <mark>In Germany, gay culture thrived and Berlin was recognized as the gay capital of the world.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.3" %}>
 
 Branded p.3
 
@@ -145,9 +144,7 @@ Life for homosexuals in Germany was much easier than it was in the rest of Europ
 Even during World War I the queer subculture survived. <mark>Many clubs and bars, restaurants and dance halls, all within Berlin's gay district, drew patrons who preferred to be intimate with members of their own gender. Sometimes in these settings it was hard to tell who was a man and who was a woman.</mark> 
 
 </james>
-<from>
-
-Branded p.5
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.5" %}>
 
 <mark>Many clubs and bars, restaurants, and popular dance clubs, all within Berlin's gay section, drew patrons who preferred to be intimate with members of their own sex. Sometimes in these settings it was hard to tell who was a man and who was a woman.</mark> 
 
@@ -160,9 +157,7 @@ Branded p.5
 <mark>In 1918, the first gay-themed movie, *Different from the Others*, was made in Germany. Produced to educate the public about homosexuality, it was written by Dr. Magnus Hirschfeld, a researcher in human sexuality.</mark> 
 
 </james>
-<from>
-
-Branded p.7
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.7" %}>
 
 <mark>In 1918, the first international gay-themed film, *Anders als die Andern* (Different from the Others) was made in Germany. Producted to educate the public about homosexuality, it was co-written by Dr. Magnus Hirschfeld, a researcher in human sexuality</mark> who also appeared in the film. 
 
@@ -175,9 +170,7 @@ Branded p.7
 <mark>The British writer Christopher Isherwood left England to live in Berlin in the 1920s because it was a much more exciting and welcoming place for gay men.</mark> In England, gay men were still being tried as sodomites and sentenced to castration and hard labor, while in Berlin it wasn't entirely shocking to see two men holding hands or even kissing. <mark>Many years later Isherwood's book, *Christopher and His Kind*, was written about his experiences in Berlin.
 
 </james>
-<from>
-
-Branded p.8
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.8" %}>
 
 <mark>The British writer Christopher Isherwood left England to live in Berlin in the 1920s because it was a much more exciting place to live as a gay man than anywhere else in the world.</mark> <mark>Many years later, when he was famous, he wrote of his experiences in the 1976 book *Christopher and His Kind*.</mark> But the book that made him so famous, *Goodbye to Berlin*, he had written decades earlier; it included descriptions of the characters, energy, and decadence he found in the city. Isherwood wrote about the notorious Kit Kat Club, immortalizing it for future generations. *Goodbye to Berlin* was produced as a play, *I Am a Camera*, and then later made into the award-winning Broadway musical and film *Cabaret*.
 
@@ -190,9 +183,7 @@ Branded p.8
 <mark>Gay men and women, as well as groups supporting their rights, had even made great strides in achieving some form of legal recognition in Germany as well.</mark> <mark>The most important goal, an end to legal discrimination, had been called for by a number of weighty figure and groups even outside the legal and medical professions.</mark> <mark>Moreover, a number of gay rights organizations had sprung up across the country.</mark> <mark>In the big cities, especially Berlin and Hamburg, widespread tolerance and acceptance of gay people was becoming the norm.</mark> 
 
 </james>
-<from>
-
-The Hidden Holocaust?: Gay and Lesbian Persecution in Germany 1933-45 p.2
+<from {% include citation for=page.cite.plagiarized.grau_schoppmann at="p.2" %}>
 
 <mark>1 Homosexual men and women, as well as groups supporting their rights, had made great efforts to achieve some form of social recognition.</mark> <mark>The most important prerequisite, an end to legal discrimintation, had been called for by a number of weighty figures and groups even outside the medical and legal professions.</mark> <mark>Moreover, a number of special organizations and societies had come into being. <mark>In the big cities, especially Berlin and Hamburg, widespread toleration of a specifically homosexual leisure and contacts culture indicated a liberal interpretation of the relevant penal laws.<sup>1</sup></mark> There was also a significant rise in the activities of the lesbian and gay press and the Scientific-Humanitarian Committee founded by Hirschfeld as early as 1897; in 1919 a Sexual Science Institute had also been created in Berlin. Together with the League of Human Rights, these two institutions spoke out particularly for an end to criminal prosecutions and for the social equality of homosexual men and women.
 
@@ -205,9 +196,7 @@ The Hidden Holocaust?: Gay and Lesbian Persecution in Germany 1933-45 p.2
 <mark>Greater public support for changes in the criminal law meant that political parties had also been under increasing pressure to take a position on gay rights.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law discussed the draft of a common German Penal Code and recommended, among other things, the deletion of Section 175,</mark> the part of the German legal code that made homosexuality illegal.
 
 </james>
-<from>
-
-The Hidden Holocaust? p.2
+<from {% include citation for=page.cite.plagiarized.grau_schoppmann at="p.2" %}>
 
 <mark>2 Greater public sympathy for such changes in the criminal law meant that political parties too had been under increasing pressure to take a position.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law again discussed the draft of a common German Penal code and recommended, among other things, the deletion of Section 175.<sup>2</sup></mark>
 
@@ -217,14 +206,12 @@ The Hidden Holocaust? p.2
 <compare>
 <james {% include timecode %}>
 
-<mark>Gay people would be accepted openly in German society and by the German government as soon as the early 1930s. Gay men and women in Europe had found their Eden, but other winds were blowing through Germany that would scatter any meaningful attempt at gay rights.</mark>
+Gay people would be accepted openly in German society and by the German government as soon as the early 1930s. Gay men and women in Europe had found their Eden, but other winds were blowing through Germany that would scatter any meaningful attempt at gay rights.
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.8" %}>
 
-Branded p.8
-
-<mark>For many gay men and women in Berlin, life was indeed a cabaret during the 1920s and early 1930s. But as Isherwood's book forecast, there was a very dark cloud looming on the horizon.</mark>
+For many gay men and women in Berlin, life was indeed a cabaret during the 1920s and early 1930s. But as Isherwood's book forecast, there was a very dark cloud looming on the horizon.
 
 </from>
 </compare>
@@ -414,12 +401,9 @@ Yeah the closest thing I could find in the book was a general statement that une
 <mark>As the Roaring 20s passed and the Nazi party began to gain power, there began an increasing fear of homosexuality. Gay men were another scapegoat that the Nazi party could use to explain why Germany was failing as a nation. Homosexuals were portrayed as weak degenerates who had to rely on state aid to get by,</mark> despite the majority being self-employed.<sup cn></sup> <mark>Their behaviors as homosexuals were what made them weak, and if they were allowed to continue, it would corrupt other citizens.</mark> <mark>Not to mention that these men were having non-procreative sex at a time when the Nazis wanted to have as many strong good German babies as possible, and so sex without the intention of having children was seen as taboo. Nazi leader Heinrich Himmler said that homosexuality would deprive Germany of the next generation they owed her. Paragraph 175 became the way the Nazis could more efficiently regulate this homosexual behavior.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.8" %}>
 
-https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors 
-Student paper p.8
-
-The Beginning of the Holocaust
+**The Beginning of the Holocaust**
 
 *Paragraph 175 Revised*
 
@@ -440,9 +424,7 @@ The Beginning of the Holocaust
 <mark>The law that prohibited sex between two men,</mark> but not two women, <mark>dated back to 1871, when the King of Prussia united various kingdoms into one German state with a new constitution.</mark> <mark>Paragraph 175 stated, "a male who commits a sex offense with another male or allows himself to be used by another male for a sex offense shall be punished with imprisonment."</mark> 
 
 </james>
-<from>
-
-Branded by the Pink Triangle by Ken Setterington p. 10
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.10" %}>
 
 <mark>The law that prohibited sex between men was called Paragraph 175.</mark> <mark>It dated back to 1871, when the King of Prussia united various kingdoms into one German state with a new constitution</mark> and a set of laws. <mark>Paragraph 175 stated, "a male who commits a sex offense with another male or allows himself to be used by another male for a sex offense shall be punished with imprisonment."<sup>(2)</sup></mark>
 
@@ -461,13 +443,11 @@ The vague language of the law had allowed it to go unenforced, but not anymore. 
 <mark>"Anyone who thinks of homosexual love is our enemy. We reject anything which emasculates our people and makes it a plaything for our enemies, for we know that life is a fight, and it is madness to think that men will ever embrace fraternally. Natural history teaches us the opposite. Might makes right."</mark>
 
 </james>
-<from>
-
-Student paper p.8-9
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.8-9" %}>
 
 <mark>On May 14, 1928, the Nazis published a response to a question posed about their stance on reforming Paragraph 175.</mark> This is one of their more outright responses to the issue of homosexuality. <mark>They said,</mark>
 
-<mark>It is not necessary that you and I live, but it is necessary that the German people live. And it can only live if it can fight, for life means fighting. And it can only fight if it maintains its masculinity. It can only maintain its masculinity if it exercises discipline, especially in matters of love. Free love and deviance are undisciplined. Therefore, we reject you, as we reject anything that hurts our nation.<mark>
+<mark>It is not necessary that you and I live, but it is necessary that the German people live. And it can only live if it can fight, for life means fighting. And it can only fight if it maintains its masculinity. It can only maintain its masculinity if it exercises discipline, especially in matters of love. Free love and deviance are undisciplined. Therefore, we reject you, as we reject anything that hurts our nation.</mark>
 
 <mark>Anyone who thinks of homosexual love is our enemy. We reject anything which emasculates our people and makes it a plaything for our enemies, for we know that life is a fight, and it is madness to think that men will ever embrace fraternally. Natural history teaches us the opposite. Might makes right.</mark> The strong will always win over the weak. Let us see to it that we once again become the strong! But this we can achieve only in one way- the Gelman people must once again learn how to exercise discipline. We therefore reject any form of lewdness, especially homosexuality, because it robs us of our last chance to free our people from the bondage which now enslaves it.<sup>23</sup>
 
@@ -482,9 +462,7 @@ Student paper p.8-9
 <mark>This outright public stance against homosexuality was only the beginning of many more strengthened laws and persecutions.</mark> <mark>Heinrich Himmler said that homosexuality was not just a criminal act but a danger to the future of the Aryan race.</mark> <mark>As soon as Hitler took power, he attempted to strengthen anti-homosexuality laws.</mark> <mark>Amendments to paragraph 175 were put into place, which strengthened the previous version considerably.</mark> <mark>Now any suggestion or suspicion of homosexuality could be punishable by arrest, whether or not you were caught committing a homosexual act.</mark> <mark>The revised wording for paragraph 175 defining a sex offense between males dictated its punishment.</mark> 
 
 </james>
-<from>
-
-Student paper p. 9
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.9" %}>
 
 <mark>This outright, public stance against homosexuality was only the beginning of many more strengthened laws and persecutions.</mark> <mark>Heinrich Himmler said that homosexuality was not just a criminal act but "a danger to the future Aryan race".<sup>24</sup></mark> <mark>As soon as Hitler took power, he attempted to strengthen anti-homosexuality laws.</mark> Just one month after he took office in 1933, homosexual rights organizations were banned.<sup>25</sup> Then, on June 28, 1935, <mark>a revised Paragraph 175 was put in to place, which strengthened the previous version considerably.</mark> <mark>Now, any suggestion or suspicion of homosexuality could be punishable by arrest, whether or not you were caught committing a homosexual act.<sup>26</sup></mark> <mark>The revised wording for Paragraph 175, defining a sex offence between males, goes as follows,</mark>
 
@@ -501,9 +479,7 @@ Student paper p. 9
 Paragraph 175a states that "A punishment of ten years in prison may apply to any man who: (1) rapes another man, (2) coerces another man into sex, (3) has sex with any man under the age of 21, and (4) has sex with a man.
 
 </james>
-<from>
-
-Student paper p. 9-10
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.9-10" %}>
 
 175: A male who commits a sex offence with another male or allows himself to be used by another male for a sex offence shall be punished with imprisonment. Where a party was not yet twenty-one years of age at the time of the act, the court may in especially minor cases refrain from punishment.
 
@@ -529,9 +505,7 @@ imprisomnent of not less than three months shall apply to:
 <mark>This revised version of Paragraph 175 was much more lengthy than the previous version and makes sure there are many more opportunities for men to be caught and persecuted. The revised version also doesn't explicitly state what constitutes a sex offense between two men, so many men were prosecuted simply because they hugged another man, received a letter from a gay friend or even just had go gossip about their behavior going around the neighborhood. Any and all signs of homosexuality were to be stopped.</mark>
 
 </james>
-<from>
-
-Student paper p.10
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.10" %}>
 
 <mark>This revised version of Paragraph 175 is much more lengthy than the previous version, and makes sure there are many more opportunities for males to be "caught" and persecuted. The revised version also doesn't explicitly state what constitutes a "sex offence" between two men, so many men were persecuted simply because they hugged another man, or received a letter from a gay friend, or even just had gossip about their behavior going around the neighborhood.<sup>28</sup> Any and all signs of homosexuality were to be stopped.</mark> Bestiality even took a back seat to homosexuality, as it moved from the main body of the original Paragraph 175, to subsection b of the updated version.<sup>29</sup> This revised Paragraph 175 is what eventually led to the persecution and detention of thousands of males, many of whom were not actually homosexual, but were falsely perceived to be because of the witch hunt tactics of the Nazis and Paragraph 175.
 
@@ -547,9 +521,7 @@ Student paper p.10
 <mark>In July 1932, the Nazi party won the most seats in the German parliament. Though far from a majority - 37%. Hitler could now form a government in coalition with other parties. Eventually, the centrist parties agreed to accept Hitler as leader, and in January of 1933, he was named Chancellor of Germany.</mark> 
 
 </james>
-<from>
-
-Branded p.15
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.15" %}>
 
 <mark>In July of 1932, the Nazi party won the most seats in the German Parliament, though not a moajority. Hitler could now form a government in coalition with others. Eventually, the parties of the center and right agreed to accept Hitler as leader, and in January 1933, he was named Chancellor of Germany.</mark> 
 
@@ -562,9 +534,7 @@ Branded p.15
 <mark>The next month, homosexual rights organizations were banned. The Nazis moved quickly to suppress any objectors to the new regime. Enemies of the state were rounded up in raids on homes and businesses</mark> and transported to the newly constructed concentration camps.
 
 </james>
-<from>
-
-Branded p.16-17
+<from {% include citation for=page.cite.plagiarized.branded_setterington at="p.16-17" %}>
 
 <mark>The next month, homosexual rights organizations were banned. The Nazis moved quickly to suppress any objectors to the new regime. Enemies of the state were rounded up in raids on homes and businesses.</mark> In an effort to ease the burden on the prison system, Heinrich Himmler, head of the SS (*Schutzstaffel*), the elite protection guard of the Nazi state, set up the first concentration camp at Dachau. It openly shortly after Hitler was appointed Chancellor. Dachau was the first of many camps used as prison for the enemies of the Nazis and the "inferiors" - Jews, Roma and Sinti (commonly referred to at the time as Gypsies), homosexuals, and Jehovah's Witnesses. Among the first prisoners in Dachau were men who had worked in homosexual rights organizations in Berlin.
 
@@ -714,9 +684,7 @@ Throughout Germany, old scores were settled. For the first time the Third Reich 
 <mark>"In this hour I was responsible for the fate of the German people, and thereby I became the supreme judge of the German people."</mark> 
 
 </james>
-<from>
-
-"Night of the Long Knives" Wikipedia (https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835#Aftermath) (December 26, 2020 revision)
+<from {% include citation for=page.cite.plagiarized.knives_wikipedia at="Aftermath para 1-2" %}>
 
 Aftermath
 
@@ -741,9 +709,7 @@ Aftermath
 <mark>Concerned with presenting the massacre as legally sanctioned, Hitler had the cabinet approve a measure on July 3 that declared, "The measure taken on June 30, July 1 and 2 to suppress treasonous assaults are legal as acts of self-defense by the State." Reich Justice Minister Franz Gürtner, a conservative who had been Bavarian Justice Minister in the years of the Weimar Republic, demonstrated his loyalty to the new regime by drafting the statute, which added a legal veneer to the purge. Signed into law by Hitler, Gürtner, and the Minister of the Interior Wilhelm Frick, the "Law Regarding Measures of State Self-Defence" retroactively legalized any murders committed by the Nazi party. Germany's legal establishment further capitulated to the regime when the country's leading legal scholar, Carl Schmitt, wrote an article defending Hitler. It was named "The Führer Upholds the Law."</mark>
 
 </james>
-<from>
-
-Wikipedia Aftermath paragraph 3
+<from {% include citation for=page.cite.plagiarized.knives_wikipedia at="Aftermath para 3" %}>
 
 <mark>Concerned with presenting the massacre as legally sanctioned, Hitler had the cabinet approve a measure on July 3 that declared, "The measures taken on June 30, July 1 and 2 to suppress treasonous assaults are legal as acts of self-defence by the State."<sup>[55]</sup> Reich Justice Minister Franz Gürtner, a conservative who had been Bavarian Justice Minister in the years of the Weimar Republic, demonstrated his loyalty to the new regime by drafting the statute, which added a legal veneer to the purge.<sup>[k]</sup> Signed into law by Hitler, Gürtner, and Minister of the Interior Wilhelm Frick, the "Law Regarding Measures of State Self-Defence" retroactively legalized the murders committed during the purge.<sup>[56]</sup> Germany's legal establishment further capitulated to the regime when the country's leading legal scholar, Carl Schmitt, wrote an article defending Hitler's July 13 speech. It was named "The Führer Upholds the Law."<sup>[57][58]</sup></mark>
 
@@ -766,7 +732,7 @@ Wikipedia Aftermath paragraph 3
 <mark>A special fund was set up for the relatives of the murdered, from which they were cared for at state cost. The widows of the murdered SA leaders received between 1,000 and 1,600 marks per month, depending upon the rank of the murdered person.</mark> <mark fc=false>The relatives of Ernst Roehm received nothing.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.knives_wikipedia at="Aftermath para 4" %}>
 
 <mark>A special fund administered by SS General Franz Breithaupt was set up for the relatives of the murdered, from which they were cared for at state cost. The widows of the murdered SA leaders received between 1,000 and 1,600 marks a month, depending on the rank of the murdered person.</mark> Kurt von Schleicher's stepdaughter received 250 marks per month up to the age of 21 and the son of General von Bredow received a monthly allowance of 150 marks.[59]
 
@@ -1088,7 +1054,7 @@ On October 29, 1937, in what appears to have been a concession to Goring’s rul
 </from>
 <comment>
 
-Himmler made this order, not Hitler. I found no proof that Hitler specfically protected any gay artists.
+Himmler made this order, not Hitler. I found no proof that Hitler specifically protected any gay artists.
 
 </compare>
 
@@ -1250,7 +1216,7 @@ Todd in the Shadows https://youtu.be/A6_LW1PkmnY&t=1039
 Okay, the thing about Somerton is that sometimes he will cite his sources and you can just read along and see where he's adding things. He got most of this video from Richard Plant's *The Pink Triangle* and the passage he's quoting from actually says that 15% of the *teenage boys* kicked out of the Hitler Youth were kicked out for being being gay, not the adult leadership. Also, there's nothing in there about any coverups. And that's also how I know the SS stuff is also made up. Like the book specifically says there couldn't have been gay men in the rabidly homophobic SS, you'd have to be crazy (Plant p. 144). Now I have seen [a different article](https://www.jstor.org/stable/3704558) arguing that Himmler maybe didn't drum out all the gays from the force like he claimed he did, but you know that's more the level of arguing that, you know, the SS was as gay as the general populace, not so gay that they were infamous for coercing gay blowjobs from people. [Also the whole idea of gay Nazis is a wildly homophobic myth and you shouldn't spread it](https://slate.com/human-interest/2018/08/gay-nazi-myth-why-dinesh-dsouzas-misuse-of-history-is-so-galling.html).
 
 ---
-Also, again, gays in the military were not "excused" for "having gay sexual encounters." The book says the exact opposite.
+Also, again, gays in the military were not "excused" for "having gay sexual encounters." The book says the exact opposite. Some of the claims that James makes here and in other places are also found in *The Pink Swastika*, a pseudohistorical book written by an anti-gay rightwinger that promotes the gay Nazi myth. The book's claims have been debunked by many historians and other writers. See, for example, [*The Annotated Pink Swastika*](http://www.qrd.org/qrd/religion/anti/annotated.pink.swastika)
 
 </comment>
 </compare>
@@ -1289,7 +1255,7 @@ To his disappointment, accused gay soldiers continued to serve. It was 1943 afte
 </james>
 <comment>
 
-This is somewhat true, according to the next few pages of *The Pink Triangle*. [However, soldiers were still imprisoned or executed on accusations of homosexuality later in the war.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A30A542D219DAFA5A547022C5A93D44C/S0960777323000644a.pdf/ideology_and_the_application_of_law_in_ss_courts_a_case_study_of_legal_practice_in_the_third_reich.pdf) And "nice Aryan boys having sex with each other" is... an odd way of putting it.
+This is somewhat true, according to the next few pages of *The Pink Triangle*. [However, soldiers were still imprisoned or executed on accusations of homosexuality, even later in the war.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A30A542D219DAFA5A547022C5A93D44C/S0960777323000644a.pdf/ideology_and_the_application_of_law_in_ss_courts_a_case_study_of_legal_practice_in_the_third_reich.pdf) And "nice Aryan boys having sex with each other" is... an odd way of putting it.
 
 </comment>
 </compare>
@@ -1607,13 +1573,11 @@ From the available records it cannot be determined whether homosexuals were also
 <mark>Most of the victims of the Holocaust were freed after the war was over. Most. The Americans and Soviets helped to free them and tried to restore Germany to order and safety. Prisoners tried to find surviving family members and go back to their hometowns. It was disorienting after being in the camps for so long and seeing all of the horrors, to go back to a world that did not yet know what had happened, let alone understand. However, the homosexual prisoners were liberated from the camps, only to face more discrimination. Since they were technically in the concentration camps because of a supposed "crime" they had committed, they were sometimes put into German prisons after they got out of the camps. Others were sent to Soviet prison camps in the north. Paragraph 175 had been on the books since 1871, and so the Supreme Court of Germany ruled in 1957 that Paragraph 175 still stood since it was not a law made by the Nazis. As noted, Paragraph 175 was strengthened by the Nazis and made into a more strict version of the law. So homosexuals were more persecuted during the Nazi regime than before, and in a much more brutal way, however the courts did not recognize this. The Nazi version of Paragraph 175 was kept on the books in Germany until 1969.</mark> <mark fc=false>It was the only Nazi law to not be immediately overturned.</mark> <mark>One man recalls that he was repeatedly arrested under Paragraph 175 throughout the 1950s and 60s. While other prisoners were trying to make sense of what had happened and rebuild their lives and families, homosexual prisoners just faced more discrimination and hardships and imprisonment.</mark></mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.31" %}>
 
-Student paper p.31
+**After Liberation**
 
-After Liberation
-
-Soviet Imprisonment
+*Soviet Imprisonment*
 
 <mark>Most of the victims of the Holocaust were freed after the war was over. The Americans and Soviets helped to free them and tried to restore Germany to order and safety. Prisoners tried to find surviving family members and go back to their hometown. It was disorienting, after being in the camps for so long and seeing all of the horrors, to go back to a world that did not yet understand what happened. However, the homosexual prisoners were liberated from the camps, only to face more discrimination. Since they were technically in the concentration camps because of a "crime" that they committed, they were sometimes put into Soviet prisons after they got out of the camps. Paragraph 175 had been on the books since 1871, and so the Supreme Court ruled in 1957 that Paragraph 175 still stood since it was not a law made by the Nazis. As noted, however, Paragraph 175 was strengthened by the Nazis and made into a more strict version of the law. So homosexuals were more persecuted during the Nazi regime than ever before, and in a much more brutal way than before or after the Holocaust, however the court did not recognize this. Paragraph 175 was kept on the books in Germany until 1969,</mark> meaning homosexuality was still thought of as a crime until that year. <mark>One man recalls that he was repeatedly arrested under Paragraph 175 throughout the 1950s and '60s.<sup>87</sup> While other prisoners were trying to make sense of what happened and rebuild their lives and families, homosexual prisoners faced even more discrimination, hardships, and imprisonment.</mark>
 
@@ -1633,11 +1597,9 @@ Some other Nazi era laws remained on the books, even up until as recently as 202
 <mark>Survivors often had to lie about why they were in the camps and keep quiet about their experience. Prisoners who were in specifically homosexual barracks, or had had experiments done on them, often did not feel like they could share their experiences. One man was in the concentration camps for over eight yearss, yet when he was released, he went right back to work in his family store. Between he and his mother, his time in the camps was unspoken.</mark> It was shameful. Not the abuse that had been done to his body and mind, nor the traumas and trials that he had survived, but the fact that he was a homosexual, his gauntlet of suffering perceived as nothing more than simply enduring the consequences for committing a crime. <mark>This was a common theme between many of the gay survivors of the Holocaust, shamed into silence.</mark> <mark>he Nazis aimed to eradicate or re-educate homosexuals, and as Professor Lautmann of the University of Breman put it, the re-education towards heterosexuality was somewhat achieved by the collective silence of gay victims.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.32-33" %}>
 
-Student paper p. 32-33
-
-Stigmatization of Survivors/Reparations
+*Stigmatization of Survivors/Reparations*
 
 Homosexual survivors of the Holocaust often faced extreme discrimination once they were liberated from the camps, even if they were not put into Soviet prisons. Survivors had to go back to their towns, and find family and friends, many of now knew the reason that the survivor was taken to the camps in the fust place. <mark>Survivors often had to lie about why they were in the camps and keep quiet about their experiences. Prisoners who were in specifically homosexual barracks, or had experiments done on them, often kept quiet because they didn't feel that they could share their experiences for fear of ridicule or scorn. One man was in the concentration camps for over eight years, and when he got out, he went right back to work in his family store. He said he never told his mother anything that happened in the camps, he just kept everything quiet and went to work.</mark> He didn't think that she would be able to hear everything that went on, and didn't want her to have to deal with his "crime". He talked about "patiently carrying one's burden" and feeling shame about his imprisonment because he was imprisoned as a homosexual.<sup>88</sup> It was because of this shame that he never spoke to his mother about what had happened to him for over eight years. So much of his life and torture had to be repressed and kept a secret from everyone because he felt shame and was unsure how people would react. <mark>This was a common theme between many of the homosexual survivors of the Holocaust. They were shamed into silence.</mark> Their experience went unheard for many years because no one wanted to hear it, and they felt ashamed to tell it. Prisoners often felt isolated by their neighbors who knew that they were a homosexual and stayed away from them.<sup>89</sup> One prisoner recalls that after a week or so, no one wanted to hear about his experience anymore. They were horrified by it and could not comprehend what had happened, so they didn't want to talk about it anymore. <mark>The Nazis aimed to eradicate the homosexuals or "re-educate" them, and as Professor Lautmann of the University of Breman put it, the re-education towards heterosexuality was somewhat achieved by the collective silence of the homosexual victims.<sup>90</sup></mark>
 
@@ -1671,11 +1633,9 @@ I could not find any evidence of politicians saying that they "wished that Hitle
 <mark>In the 1990s, after the fall of the Soviet Union and the reunification of Germany, more LGBT rights groups and gay survivors of the Holocaust began demanding an official memorial for the gay victims of the Nazi death machine. There were already many memorials for the other groups persecuted by the Nazis, however none for gay people. Other survivors were not comfortable including homosexuals in their memorials, and so they remained forgotten by history.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.34" %}>
 
-Student paper p.34
-
-Memorialization
+*Memorialization*
 
 <mark>In the 1990s, after the reunification of Germany, more LGBT rights groups and homosexual survivors of the holocaust began demanding an official memorial for the homosexual victims of the Holocaust. There were already many memorials for the other groups persecuted by the Nazis however, the homosexuals were routinely left out. Other survivors were not comfortable including the homosexuals in their memorials, and so they were left off of group memorials, continuing decades of discrimination and hurt.</mark> Historians warn that when writing about the Holocaust, people must be careful not to engage in, "a crass game of competitive victimhood."<sup>94</sup> Everyone suffered horrible tortures in the concentration camp and it would not be fair to say who suffered worse or deserves more compensations or memorials. Yet, the homosexual victims did not start to be recognized until the 1990s, after they started to demand they be heard.
 
@@ -1690,9 +1650,7 @@ Memorialization
 Some memorials started off as "guerilla memorials" where gay rights groups would go and place wreaths at the concentration camps recognizing the gay victims. One gay rights group actually got permission to put a memorial with a pink triangle and the inscription "Beaten to Death-Silenced to Death" at Mauthausen concentration camp. This memorial not only speaks to the treatment of the gay victims within the camps, but also the continued silence that happened afterwards. Other memorials to the the victims began to be approved by the German state over time. Multiple camps started to put up memorial plaques at the sites of the homosexual barracks, most notably the one in Buchenwald. Other countries like the Netherlands, had memorials put up much earlier than in Germany. In 2003, one of Germany's largest and most well-known memorials to homosexual victims was approved, and was finished in 2008. Officially called the National Memorial for the Homosexual Victims of the Holocaust.</mark> <mark>It is a large concrete block standing 12 feet tall, constructed in the Tiergarten. It has a small window in it which allows visitors to catch a glimpse of a video containing two men</mark> <mark>having to meet and share a secret kiss in the exact woods where the memorial is located. There is very little that indicates this is a memorial to the homosexual Holocaust survivors. A small plaque and the video are the only clues. This was intentional, however, because the creators wanted it to be like someone was just randomly happening upon this clandestine relationship. They wanted to show the secrecy surrounding homosexual relationships and how a simple kiss could land you in trouble. By being placed in the Tiergarten, and not well-labeled, the monument is a testament to the continued shame and secrecy that the homosexual victims faced, even after the Holocaust ended. Upon encountering the memorial, visitors are faced with watching a same-sex encounter and have to deal with their own feelings and potential prejudices about the video displayed. In this way, the memorial is continually challenging homophobia and honoring the continued victimization of homosexuals.</mark>
 
 </james>
-<from>
-
-Student paper p. 34-35
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.34-35" %}>
 
 <mark>Some memorials started off as "guerilla memorials" where gay rights groups would go and place wreaths and other types of memorials at the concentration camps recognizing the homosexual victims. One gay rights group actually got permission to put a memorial with a pink triangle and the inscription "Beaten to Death-Silenced to Death" at Mauthausen concentration camp.<sup>95</sup> This memorial not only speaks to the treatment of the homosexual victims within the camps, but also the continued silence that happened afterwards. Other memorials to the homosexual victims had started to be approved and these victims were finally gaining some recognition for their suffering. Some concentration camps started to put up memorial plaques at the sites ofthe homosexual barracks, most notably one in Buchenwald concentration camp, where many of the homosexual victims were sent. Other countries like the Netherlands, had memorials put up much earlier than in Germany. In 2003, one of Germany's largest and most well-known memorials to homosexual victims was approved, and was finished in 2008. Officially called the National Memorial for the Homosexual Victims of the Holocaust,</mark> it was the idea of Michael Elmgreen and Ingar Dragset. It is a large concrete block standing 12 feet tall, constructed in the Tiergarten. It has a small window in it which allows visitors to catch a glimpse of a video containing two men</mark> (although this is sometimes rotated to show two women) <mark>having to meet and share a secret kiss in the exact woods where the memorial is located. There is very little that indicates this is a memorial to the homosexual Holocaust victims. A small plaque and the video are the only clues. This was intentional, however, because Elmgreen and Dragset wanted it to be like someone was just randomly happening upon this clandestine relationship. They wanted to show the secrecy surrounding homosexual relationships and how "a simple kiss could land you in trouble".<sup>96</sup> By being placed in the Tiergarten, and not well labeled, the monument is a testament to the continued shame and secrecy that the homosexual victims faced, even after the Holocaust. When visitors just happen across this memorial, they are faced with watching a same-sex encounter and have to deal with their own feelings and potential prejudices about the video displayed. In this way, the memorial is continually challenging homophobia and honoring the continued victimization of homosexuals.</mark>
 
@@ -1703,7 +1661,7 @@ Student paper p. 34-35
 </from>
 <comment>
 
-James intentionally omits the names of the artists who created the memorial, the duo Michael Elmgreen and Ingar Dragset.
+James, seemingly intentionally, omits the names of the artists who created the memorial, the duo Michael Elmgreen and Ingar Dragset.
 
 The omission of the video being rotated to show two women instead also feels pointed.
 
@@ -1712,10 +1670,10 @@ The omission of the video being rotated to show two women instead also feels poi
 <compare>
 <james {% include timecode %}> 
 
-<mark>It has been estimated that over 50,000 men were arrested under Paragraph 175 in Germany. Of these men, it's estimated around 15,000 were murdered in the camps,</mark> and any number in prisons earlier. <mark>Exact numbers cannot be known because the Nazis burned many of their records when they knew their end was near. Many prisoners were quickly liquidated without accurate documentation of their deaths. And so, many historians believe that these numbers are vastly underestimated.<sup cn></sup>
+<mark>It has been estimated that over 50,000 men were arrested under Paragraph 175 in Germany. Of these men, it's estimated around 15,000 were murdered in the camps,</mark> and any number in prisons earlier. <mark>Exact numbers cannot be known because the Nazis burned many of their records when they knew their end was near. Many prisoners were quickly liquidated without accurate documentation of their deaths.</mark> And so, many historians believe that these numbers are vastly underestimated.<sup cn></sup>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.36" %}>
 
 Student paper p.36
 
@@ -1734,9 +1692,7 @@ Conclusion
 <mark>Before the Nazis came to power, Germany was experiencing more sexual liberation than anywhere on Earth, especially in Berlin.</mark> <mark>These Golden Twenties were cut short by the Nazis, who strengthened Paragraph 175 and started to persecute more and more homosexuals, and other men who they just believed to be gay. They raided and burned Magnus Herschfield's Institute of Sexual Research.</mark>
 
 </james>
-<from>
-
-Student paper p.36
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.36" %}>
 
 <mark>Before the Nazis came to power, Germany was experiencing more sexual liberation than ever before, especially in Berlin.</mark> There were many gay clubs and organizations, starting to work towards gay rights, specifically the repeal of Paragraph 175 which criminalized homosexuality. <mark>These "Golden Twenties" were cut short by the Nazis, who strengthened Paragraph 175 and started to persecute more and more homosexuals, and other men who they just believed to be homosexuals. They raided and burned Magnus Herschfield's Institute of Sexual Research,</mark> and assassinated Ernst Rohem, one of Hitler's closest confidants, who flaunted his homosexuality too freely. Homosexuality, especially within the Nazi party itself, was seen as a threat to the patriarchal behaviors of the party.
 
@@ -1749,9 +1705,7 @@ Student paper p.36
 <mark>Gay men were thrown into separate barracks in the camps, and forced to do some of the most excruciating labor, often resulting in death, and were often seen as the lowest of the prisoners, even by others in the camps. They often had experiments done to them that affected them, shamed them or killed them.</mark>
 
 </james>
-<from>
-
-Student paper p.37
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.37" %}>
 
 <mark>Homosexual men were thrown into separate barracks in the camps, and forced to do some of the most excruciating labor, which often resulted in death. They were severely punished, and were often seen as the lowest of the prisoners, even by the other prisoners. They often had medical experiments done to them that affected them and shamed them even after they were liberated, if the experiments didn't kill them first.</mark> While lesbians weren't specifically persecuted, many of them still ended up mthe camps and faced discrimination, even though their treatment was not as brutal. This was because it was thought that they could just be forced into carrying out the Nazis will of Aryan procreation.
 
@@ -1764,9 +1718,7 @@ Student paper p.37
 <mark>After the Holocaust, homosexual victims were shamed into silence.</mark> <mark>The gay victims of the Holocaust deserve respect and recognition. Their voices should be heard and their stories taught alongside the other victims of Hitler's purge. if we continue to ignore or silence their voices, we are letting the Nazis win.</mark>
 
 </james>
-<from>
-
-Student paper p.37
+<from {% include citation for=page.cite.plagiarized.rokakis_thesis at="p.37" %}>
 
 <mark>After the Holocaust, homosexual victims were often shamed into silence about their treatment in the camps.</mark> They faced renewed discrimination and potentially even imprisonment if they said why they were in the camps. They did not feel comfortable pushing for reparations and memorials until almost 50 years afterthey were liberated. Even today, they are still not well recognized or compensated. Only recently have we been able to get some testimony from homosexual survivors, many of whom did not want to be identified. <mark>The homosexual victims of the Holocaust deserve respect and recognition for all of their sufferings within the camps. Their voices should be heard and their stories should be taught along with the other victims of the Holocaust. If we continue to ignore or silence their voices, we are letting the Nazis win,</mark> and are contributing to the homosexual victim's shame and victimization. It is important to keep the memory of these victims alive, especially as we enter into a time when many of our homosexual survivors are dying off, some of their stories never heard.
 
