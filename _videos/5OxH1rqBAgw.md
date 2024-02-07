@@ -1792,7 +1792,7 @@ James takes this half quote about how people felt the pink triangles were bigger
 </compare>
 
 <compare>
-<james {% include timecode %}> 
+<james span=2 {% include timecode %}> 
 
 Injecting men with random concoctions of chemicals to see how the body would react. Massive amounts of hormones to send the body into shock. <mark fc=false>In one such experiment gay men were injected with a hormone mixture that made them almost impervious to pain, and so they were used as target practice in the yard, strapped to posts. Inevitably, they would die of blood loss or organ failure. If not, once the injections wore off and the pain hit, they would go into shock and die.</mark> In late 1944, new experiments were commissioned. These would test the calcium levels of men before and after castration. Once again, only gay men were used for the experiment. Results showed a mix of normal to lower levels and all men with lower levels were executed.
 
