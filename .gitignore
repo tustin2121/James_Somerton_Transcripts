@@ -74,3 +74,5 @@ $RECYCLE.BIN/
 .videos/
 Gemfile*
 _data/volume.yml
+*.mp4
+*.crdownload

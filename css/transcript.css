@@ -287,11 +287,15 @@
 		text-decoration: line-through;
 	}
 	
-	sup[cn]::before {
-		content: "[citation needed]";
+	sup[cn] {
 		color: var(--color-accent-fg);
 		font-style: italic;
 	}
+	sup[cn]:empty::before {
+		content: "[citation needed]";
+	}
+	sup[cn]:not(:empty)::before { content: "["; }
+	sup[cn]:not(:empty)::after { content: "]"; }
 	
 	compare :is(james, nick, clip) mark {
 		background-color: var(--mark-stolen-bg);

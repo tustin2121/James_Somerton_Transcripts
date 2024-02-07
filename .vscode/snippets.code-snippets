@@ -32,6 +32,13 @@
 		],
 		"description": "Surround text with <mark> tags"
 	},
+	"mark-reverse": {
+		"prefix": "mark-reverse",
+		"body": [
+			"</mark>$TM_SELECTED_TEXT<mark>"
+		],
+		"description": "Surround text with backwards <mark> tags, to split an existing mark tag."
+	},
 	"mark-num": {
 		"prefix": "mark-num",
 		"body": [

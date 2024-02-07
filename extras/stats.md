@@ -32,6 +32,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.y-transphobia }} | {{T}} Instances of transphobia. |
 | {{stats.y-acephobia }} | {{T}} Instances of acephobia. |
 | {{stats.y-exclusion }} | {{T}} Instances of any of the above by exclusion. |
+| {{stats.y-persecution }} | {{T}} Times that James implies that gay men are the only ones being persecuted. |
 | | |
 | | Videos "Written by"...
 | {{stats.w-nick-james }} | {{T}} Nick Herrgott & James Somerton
