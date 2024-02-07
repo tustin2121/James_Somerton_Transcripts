@@ -21,7 +21,9 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin2121 $cite$tobicat
+  formatting: 
+    - $cite$tustin2121 
+    - $cite$tobicat
   citation-plus: $cite$lvence
 
 cite:

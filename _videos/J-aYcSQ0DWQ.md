@@ -400,7 +400,6 @@ Granted, though, <mark fc=false>this was at the same time of European history wh
 
 </james>
 <comment id="gay_italy">
-
 {% include header video=todd at="416s" %}
 
 **4. England had a homophobic propaganda campaign against Italy tourism because Italy was turning their kids gay**
@@ -409,12 +408,11 @@ One challenge I had throughout this list is that it's hard to prove a negative. 
 
 But here he's claiming the existence of a widespread propaganda campaign that allegedly spanned government, religion, and popular culture about a very specific topic. I'd love to track that down, but he doesn't give me a time frame, a quote, a picture, anything that would help me figure out what he's referring to. I tried many different avenues trying to prove it true and I just couldn't find anything. And there are comments on that video that are similarly frustrated and lost trying to track this down. 
 
-Now he'd also brought up this supposed fact about Italy in a previous video, but with a much more toned down claim. ("Reclaiming the Q Word") I'll admit that maybe there's a scrap of truth in there. Italy did decriminalize homosexuality surprisingly early so probably someone said this about Italy at some point, but suspiciously he doesn't mention the associated propaganda that came with it, which I would mention at every opportunity. So based on that, and the fact that I couldn't find anything, and the lack of corroboration. I'm just going to venture that he made it up.
+Now he'd also brought up this supposed fact about Italy in [a previous video](KXGpVm09GCM), but with a much more toned down claim. I'll admit that maybe there's a scrap of truth in there. Italy did decriminalize homosexuality surprisingly early so probably someone said this about Italy at some point, but suspiciously he doesn't mention the associated propaganda that came with it, which I would mention at every opportunity. So based on that, and the fact that I couldn't find anything, and the lack of corroboration. I'm just going to venture that he made it up.
 
 Now maybe I'm wrong, or maybe it's just an exaggeration rather than a lie which is why I can't find it, but if it is real, then I will say that as a fellow YouTuber and one whose videos are much less visual than his, not having these supposed posters and pamphlets on screen is just absolutely terrible videomaking. If they're real, why would you not include that?
 
 </comment>
-<from></from>
 </compare>
 
 <compare>

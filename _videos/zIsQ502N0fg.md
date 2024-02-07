@@ -294,14 +294,15 @@ China wasn’t a communist backwater nation like North Korea. It was a growing e
 
 </james>
 <comment>
-
 {% include header video=todd at="3869s" %}
 
 **25. China keeps jacking up their cut of the profits from imported Hollywood movies**
 
-This is literally the opposite of what happened. Hollywood's cut of the profits has not gone *down* to 25%, it's gone *up* to 25%. China used to take an insanely high percentage ("Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy") and over the years Hollywood has managed to chisel it down to just pretty high. As for the idea that we can't look at the numbers and confirm this for certain, uh, yes we absolutely can. It's an International Trade Agreement, you can just look it up. Hollywood gets 25%.
+This is literally the opposite of what happened. Hollywood's cut of the profits has not gone *down* to 25%, it's gone *up* to 25%. China used to take an insanely high percentage ("Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy") and over the years Hollywood has managed to chisel it down to just pretty high. 
 
-<from></from>
+As for the idea that we can't look at the numbers and confirm this for certain, uh, yes we absolutely can. It's an International Trade Agreement, you can just look it up. Hollywood gets 25%.
+
+</comment>
 </compare>
 
 <compare>
@@ -329,11 +330,11 @@ These reports are all independent, and there’s no financial data reporting thi
 <compare>
 <james {% include timecode %}>
 
-<mark fc=false>In fact a lot of people who work in the industry are pretty convinced that China fudges their numbers all the time. *Avengers Endgame* had been the biggest opening weekend of all time at a domestic box office, with 357 million dollars in the US, and Canada. A record most industry professionals were convinced wouldn’t be broken for years.</mark> 
+<mark fc=false num=1>In fact a lot of people who work in the industry are pretty convinced that China fudges their numbers all the time</mark>. *Avengers Endgame* had been the biggest opening weekend of all time at a domestic box office, with 357 million dollars in the US, and Canada. A record most industry professionals were convinced wouldn’t be broken for years.
 
-<mark fc=false>But then, earlier this year, *Detective Chinatown 3* opened in China to a reported opening weekend of 400 million dollars. These numbers weren’t released by any studio or production company, of course, they were announced by CGTN, China’s Global Television Network. Basically their English Language propaganda channel.</mark> 
+But then, earlier this year, *Detective Chinatown 3* opened in China to a reported opening weekend of 400 million dollars. <mark fc=false num=2>These numbers weren’t released by any studio or production company, of course, they were announced by CGTN, China’s Global Television Network. Basically their English Language propaganda channel.</mark>
 
-<mark fc=false>The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID 19. And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word.</mark>
+<mark fc=false num=3>The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID-19. And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word.</mark>
 
 </james>
 <comment>
@@ -342,18 +343,24 @@ These reports are all independent, and there’s no financial data reporting thi
 
 **12. The record box office for a recent Chinese blockbuster was obviously faked**
 
-The germ of truth here is that [there are reports of Chinese theater chains jacking up ticket sales](https://www.indiewire.com/features/general/china-box-office-fraud-mpaa-phony-ticket-sales-film-industry-1201847763/), [including at least one case that was probably because of pressure from the government](https://www.hollywoodreporter.com/news/general-news/china-film-execs-claim-terminator-820874/). But that was for a specific government propaganda film, not a blockbuster. The only person who suggested that this one movie's numbers are fake is film journalist vlogger Grace Randolph, and she literally has a section of her Wikipedia dedicated to shit she's made up. Now I watched her video, she doesn't have any evidence, she just think it's suspicious that a movie could do that well during COVID.
+The germ of truth here is that [there are reports of Chinese theater chains jacking up ticket sales](https://www.indiewire.com/features/general/china-box-office-fraud-mpaa-phony-ticket-sales-film-industry-1201847763/), including [at least one case that was *probably* because of pressure from the government](https://www.hollywoodreporter.com/news/general-news/china-film-execs-claim-terminator-820874/). But that was for a specific government propaganda film, not a blockbuster. 
 
-"They doubled their last biggest opening and that seems to me like a ridiculous jump. There's no way it would jump that high."
+<mark num=1></mark>The only person who suggested that this one movie's numbers are fake is film journalist/ vlogger Grace Randolph, and she literally has a section of her Wikipedia dedicated to shit she's made up. Now I watched her video, she doesn't have any evidence, she just think it's suspicious that a movie could do that well during COVID.
 
-You know, she's all like, you know, "I'm just asking questions," it's nonsense. Everyone else agrees that this movie's high box office was thoroughly normal 'cause it was a highly anticipated sequel, it had a holiday weekend, [there were a lot of COVID travel restrictions so no one had anywhere else to go](https://www.nytimes.com/2021/02/16/business/china-movies-box-office-detective-chinatown.html), and also China has a lot of people in it. Also, when the government *does* put their thumb on the scale for a movie, rival studios tend to call it out and complain about it. No one did that here.
+\[Clip from Grace's video]:
+> Grace Randolph: "They doubled their last biggest opening and that seems to me like a ridiculous jump. There's no way it would jump that high."
 
-And the idea that China only announced it in English and we have no way to verify it, as far as I can tell, the only source for that is Somerton himself. These numbers get reported on box office tracking sites that track every ticket as they're sold and they get that information directly from the 
-theater chains themselves, not the government or the state media. If there's any fraud happening, it has to come from the theaters. The government actually has to go out and buy tickets or force the theater chain to ring up fake screenings. It's not just, "oh, you know, the government or the media said it so we have to take their word for it," that's not how it works. 
+You know, she's all like, you know, "I'm just asking questions," it's nonsense. 
 
-Also why would they only announce it in English? That doesn't make any sense.
+Everyone else agrees that this movie's high box office was *thoroughly* normal 'cause it was a highly anticipated sequel, it had a holiday weekend, [there were a lot of COVID travel restrictions so no one had anywhere else to go](https://www.nytimes.com/2021/02/16/business/china-movies-box-office-detective-chinatown.html), and also China has a lot of people in it. 
 
-<from></from>
+Also, when the government *does* put their thumb on the scale for a movie, rival studios tend to call it out and complain about it. No one did that here.
+
+And the idea that China only announced it in English and we have no way to verify it, as far as I can tell, the only source for that is Somerton himself. <mark num=2></mark>These numbers get reported on box office tracking sites that track every ticket as they're sold and they get that information directly from the theater chains themselves, not the government or the state media. If there's any fraud happening, it has to come *from* the theaters. The government actually has to go out and buy tickets, or force the theater chain to ring up fake screenings. It's not just, "oh, you know, the government or the media said it so we have to take their word for it," that's not how it works. 
+
+<mark num=3></mark>Also why would they only announce it in English? That doesn't make any sense.
+
+</comment>
 </compare>
 
 <compare>
