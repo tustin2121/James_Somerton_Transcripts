@@ -20,6 +20,7 @@
 		"timecode",
 		"victimhood"
 	],
+	"cSpell.maxNumberOfProblems": 1000,
 	"files.associations": {
         "**/_includes/*": "liquid",
         "**/_layouts/*": "liquid",
