@@ -5,6 +5,7 @@ redirect_from:
 # cspell:words: Hannibal Lecter
 date: 2021-11-04
 title: '"Hannibal" and the Appeal of Toxic Love'
+runtime: 1:04:50
 status: Finished
 aka: !!seq
   - "The Gay Appeal of Toxic Love"
@@ -22,6 +23,7 @@ notes:
   - dec5-delete
   - commentary
   - script-diff
+  - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley

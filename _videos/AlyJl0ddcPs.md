@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-10-29
 title: The Gay Horror Manga You Should Be Reading
+runtime: 31:15
 status: Finished
 aka: !!seq
   - "Monsters will be Boys (Thumbnail)"

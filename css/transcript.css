@@ -341,7 +341,7 @@
 	compare :is(james, nick, clip, credits):not([mark]) { 
 		counter-reset: left-count;
 	}
-	compare :is(james, nick, clip, credits) mark:not([fc]):not([yikes])::before {
+	compare :is(james, nick, clip, credits) mark:not(:is([fc],[yikes]))::before {
 		content: counter(left-count);
 	}
 	compare :is(james, nick, clip, credits) mark {
@@ -352,7 +352,7 @@
 	compare :is(from, comment, visual, subvideo):not([mark]) { 
 		counter-reset: right-count;
 	}
-	compare :is(from, comment) mark:not([fc]):not([yikes])::before {
+	compare :is(from, comment) mark:not(:is([fc],[yikes]))::before {
 		content: counter(right-count);
 	}
 	compare :is(from, comment) mark {
@@ -499,7 +499,7 @@
 	} */
 }
 
-@layer source {
+@layer site {
 	a[href^="http:"]::after, 
 	a[href^="https:"]::after {
 		content: "\f08e";
@@ -513,7 +513,9 @@
 		font-weight: 900;
 		padding-left: 0.4em;
 	}
-	
+}
+
+@layer source {
 	james a[href^="http:"]::after, 
 	james a[href^="https:"]::after {
 		font-size: smaller;
@@ -569,6 +571,101 @@
 		font-family: serif;
 	}
 }
+@layer source {
+	details.recs-list {
+		--recs-color: #bbb000;
+		
+		border: 1px solid var(--recs-color);
+		padding: 0px 10px;
+		border-radius: 10px;
+	}
+	details.recs-list[open] > summary {
+		border-bottom: 1px solid var(--recs-color);
+		padding-bottom: 2px;
+		margin-bottom: 2px;
+	}
+	details.recs-list > summary > span {
+		color: gray;
+	}
+	details.recs-list[open] > summary > span {
+		display: none;
+	}
+	.recs-list > p {
+		padding: 0;
+		margin: 0;
+	}
+	
+	details.recs-list[open] + compare {
+		display: none;
+	}
+	
+	.recs-list > div {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		overflow-x: scroll;
+		padding-block: 6px;
+		/* Neither of the below are valid at time of writing. --tustin2121 2024-02-04 */
+		justify-content: safe space-evenly; /* like "safe center", but space-evenly */
+		justify-content: space-evenly start; /* Theoretical "fallback" syntax */
+	}
+	
+	@supports not ((justify-content: safe space-evenly) or (justify-content: space-evenly start)) {
+		/* https://dev.to/janeori/css-fix-when-justify-content-space-evenly-overflows-un-center-the-content-4l50 */
+		@keyframes detect-scroll {
+			from, to { --can-scroll: ; }
+		}
+		.recs-list > div {
+			--start-if-can-scroll: var(--can-scroll) start;
+			justify-content: var(--start-if-can-scroll, space-evenly);
+			animation: detect-scroll linear;
+			animation-timeline: scroll(self inline);
+		}
+	}
+	
+	.rec {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+		width: 200px;
+		border: 1px dotted gray;
+		padding-inline: 8px;
+		flex: 0 0 auto; /* Make box static in size */
+	}
+	.rec :first-child {
+		align-self: center;
+	}
+	.rec a::after {
+		content: none;
+	}
+	.rec img {
+		width: 160px;
+		height: 90px;
+		object-fit: cover;
+	}
+	.rec h1 {
+		padding: 0; margin: 0;
+		font-size: medium;
+	}
+	.rec h2 {
+		padding: 0; margin: 0;
+		font-size: small;
+	}
+	.rec h3 {
+		padding: 0; margin: 0;
+		font-size: small;
+		font-weight: 400;
+		align-self: flex-end;
+		color: gray;
+		text-align: right;
+	}
+	.rec h3::before {
+		content: 'Recommended by: ';
+	}
+	.rec h3:empty::before {
+		content: none;
+	}
+}
 
 @layer site {
 	:root {
@@ -576,8 +673,6 @@
 	}
 }
 @layer source {
-	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
-	.color-todd  { --source-color: hsl(0, 75%, 40%); }
 	.color-none  { --source-color: hsl(0, 0%, 30%); }
 	.color-1     { --source-color: hsl(118, 100%, 30%); }
 	.color-2     { --source-color: hsl(187, 100%, 50%); }
@@ -598,6 +693,10 @@
 	.color-17    { --source-color: hsl(197, 47%, 31%); }
 	.color-18    { --source-color: hsl(318, 65%, 49%); }
 	.color-19    { --source-color: hsl(187, 100%, 39%); }
+	
+	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
+	.color-todd  { --source-color: hsl(0, 75%, 40%); }
+	.color-ace_couple { --source-color: hsl(0, 75%, 40%); }
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);

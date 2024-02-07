@@ -5,6 +5,7 @@ redirect_from:
 # cSpell:words: Iger Chapek
 date: 2022-08-13
 title: How Disney Tore Down The Owl House
+runtime: 1:04:12
 status: Complete
 aka: !!seq
 topics: !!seq
@@ -20,7 +21,9 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin2121
+  formatting: 
+    - $cite$tustin2121 
+    - $cite$tobicat
   citation-plus: $cite$lvence
 
 cite:
@@ -30,7 +33,7 @@ cite:
   yikes: !!map
   misinformation: !!map
     nfts: "James claims that Bob Iger hated Chapek in part because of Chapek pushing NFTs, when Iger was fond of NFTs himself."
-    marvel: "James claims Iger was consulting with Werner Brothers?"
+    marvel: "James claims Iger was consulting with Warner Brothers?"
     gay_marriage: "James claims Bob Iger donated to Obama to get him to support gay marriage when there's no proof of any such thing."
     disney_funeral: "James outright claims that Disney has a whole industry for princess themed funerals, when in fact Disney has basically the exact opposite."
   plagiarized: !!map
@@ -494,7 +497,7 @@ And where Season One saw Luz and Amity have an obvious crush on each other, Seas
 <comment>
 {% include header for=tobicat %}
 
-Who is this "many"? From the second half of Season Two onwards, Hunter was most commonly shipped with Willow. On AO3 [at time of writing], there are [over 3000 works marked Hunter/Willow](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Willow%20Park/works), while there are <del>zero</del><ins>less than 100</ins> [Hunter/Gus fics](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Gus%20Porter/works) that don't involve a Hunter/Willow/Gus polycule. As for gay pairings, [Gus/Mattholomule](https://archiveofourown.org/tags/Mattholomule*s*Gus%20Porter/works) is quite popular (~800 works), as is [Hunter/Edric](https://archiveofourown.org/tags/Edric%20Blight*s*Hunter%20%7C%20The%20Golden%20Guard/works) (~500 works, despite the characters never interacting). 
+Who is this "many"? From the second half of Season Two onwards, Hunter was most commonly shipped with Willow. On AO3 [at time of writing], there are [over 3000 works marked Hunter/Willow](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Willow%20Park/works), while there are less than 100 [Hunter/Gus fics](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Gus%20Porter/works). As for gay pairings, [Gus/Mattholomule](https://archiveofourown.org/tags/Mattholomule*s*Gus%20Porter/works) is quite popular (~800 works), as is [Hunter/Edric](https://archiveofourown.org/tags/Edric%20Blight*s*Hunter%20%7C%20The%20Golden%20Guard/works) (~500 works, despite the characters never interacting). And just from my own experience, being in the fandom since the time *Labyrinth Runners* came out, I didn't see *anyone* shipping Gus and Hunter, while Hunter/Edric and Gus/Mattholomule were talked about quite regularly, if not as much as the canonical ships.
 
 There also really isn't any subtext between Hunter and Gus. The first clip James shows is just them talking to each other during "Labyrinth Runners." Later, when James talks about the two of them again, while saying they have "strong chemistry," one clip shows Hunter trying to calm Gus down from a panic attack, and another is a zoomed-in clip of Hunter with his arm around Gus at the end of Season 2, in the human realm. 
 
@@ -907,7 +910,7 @@ So go forth witches, topple the Emperor Beloses of the world and conformity. I k
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon names roll over orchestal music.
+Patreon names roll over orchestral music.
 
 </credits>
 </compare>

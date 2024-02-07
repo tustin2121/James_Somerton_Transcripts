@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2022-11-16 
 title: The Queer Erasure of Asexuality (A Discussion)
+runtime: 44:36
 status: Complete
 aka: !!seq
 topics: !!seq
@@ -171,7 +172,7 @@ Correct me if I'm wrong. But like... when you are asexual you do see a myriad of
 <comment span=4 id="uk-study">
 {% include header video=ace_116 at="30m40s" %}
 
-In this part of the podcast, they begin reading to the record [the twitter thread they wrote](https://twitter.com/The_Ace_Couple/status/1593065297061498880) ([nitter mirror](https://nitter.net/The_Ace_Couple/status/1593065297061498880)):
+In this part of the podcast, they begin reading to the record [the twitter thread they wrote](https://twitter.com/The_Ace_Couple/status/1593065297061498880) ({% include twitter-mirror link="https://twitter.com/The_Ace_Couple/status/1593065297061498880" %}):
 
 > We were excited to see @je_somerton center Asexual issues. It's rare and we desperately need more allyship for & from all corners of the queer community, but [by] 4 minutes we were disappointed at the inaccuracy. Respectfully we want to add to the conversation.
 >
@@ -190,7 +191,7 @@ Twitter thread continues:
 >
 > As married Aces, we've also spoken at length about the legal issues pertaining to asexual marriages in the US. Asexual persecutions happen, they just don't make news headlines and are rarely reported appropriately. Same can be said with hate crimes.
 
-They quote-tweet [a previous thread](https://twitter.com/The_Ace_Couple/status/1564757917454286848#m) ([nitter mirror](https://nitter.net/The_Ace_Couple/status/1564757917454286848#m)) about their 4 part series of episodes about religious and political discrimination: [part 1](https://theacecouple.com/episode045/), [part 2](https://theacecouple.com/episode046/), [part 3](https://theacecouple.com/episode047/), and [part 4](https://theacecouple.com/episode048/).
+They quote-tweet [a previous thread](https://twitter.com/The_Ace_Couple/status/1564757917454286848#m) ({% include twitter-mirror link="https://twitter.com/The_Ace_Couple/status/1564757917454286848" %}) about their 4 part series of episodes about religious and political discrimination: [part 1](https://theacecouple.com/episode045/), [part 2](https://theacecouple.com/episode046/), [part 3](https://theacecouple.com/episode047/), and [part 4](https://theacecouple.com/episode048/).
 
 Twitter thread continues:
 > A few years ago, an ace teenage girl was very publicly murdered by an incel. It wasn't reported a hate crime. Even though she'd come out and engaged with the ace online community, her parents did not believe she was ace and accused us of "pushing our agenda" when we were mourning.

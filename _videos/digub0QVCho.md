@@ -1,6 +1,8 @@
 ---
 redirect_from:
   - "/videos/gaypanicdef"
+  - "/videos/GayPanicDef"
+  - "/videos/digub0qvcho"
 
 date: 2021-12-16
 title: The History of Gay Panic
@@ -11,6 +13,8 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Panic.mp4"
+  - "https://web.archive.org/web/20220118151845/https://www.youtube.com/watch?v=digub0QVCho"
+  - "https://web.archive.org/web/20220518171418/https://vimeo.com/701876979"
 # description: "a video essay on...?"
 notes: 
   - hbomb
@@ -25,9 +29,28 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-<credits class="desc">
+<credits header="Video Description (YouTube Original):">
 
-[Lost]
+This formerly Patreon exclusive video essay explores the history of the Gay and Trans Panic Defenses in The United States.
+
+00:00 Content Warning
+03:29 Introduction
+08:38 Law Class
+14:30 David Kammerer
+20:18 William T. Simpson
+26:36 Robert Jackson
+34:46 Scott Amedure
+41:23 Matthew Shepard
+50:38 Billy Jack Gaither
+58:36 My Conflict
+01:00:43 Gwen Araujo
+01:07:09 Angie Zapata
+01:11:46 Islan Nettles
+
+</credits>
+<credits header="Video Description (Vimeo Reupload):">
+
+[None]
 
 </credits>
 </compare>

@@ -4,8 +4,9 @@ redirect_from:
 
 date: 2022-11-10
 title: The Traumatic Camp of "Mommie Dearest"
+runtime: 22:04
 parent: Tk9wh5rBmW0
-status: Finished
+status: Complete
 aka: !!seq
 topics: !!seq
   - Mommie Dearest
@@ -790,3 +791,5 @@ The patreon credits were added to the stand-alone version of this video.
 </compare>
 
 <div class="notice-banner" id="camp-end">"How the Gays Stole Cinema"'s segment <a href="{{ "Camp-000001" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+
+<div class="notice-banner" id="camp-end">The compilation video <a href="{{ "Tk9wh5rBmW0" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>

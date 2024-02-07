@@ -4,7 +4,8 @@ redirect_from:
 
 date: 2022-04-17
 title: The Secret Crimes of a Dying Franchise
-status: Finished
+runtime: 28:11
+status: Complete
 aka: !!seq
   - "Let It Die (Thumbnail)"
 topics: !!seq
@@ -14,6 +15,7 @@ links: !!seq
 description: "a short video essay on how The Crimes of Grindlewald was bad."
 notes:
   - script-diff
+  - dec5-delete
 
 contributors:
   transcription: $cite$from-script

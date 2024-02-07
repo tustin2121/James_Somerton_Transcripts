@@ -11,6 +11,7 @@ redirect_from:
 # cspell:words: subjectivities precarity
 date: 2020-10-04
 title: "Deep Cuts: Society and Queer Horror"
+runtime: 1:24:45
 status: Complete
 aka: !!seq
 topics: !!seq
@@ -89,8 +90,26 @@ cite:
 <compare>
 <credits class="desc">
 
-[Lost]
-<!-- A feature-length video essay delving into the horrors of society, and how they effect the queer population. -->
+A video essay delving into the horrors of society, and how they effect the queer population.
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+00:00 Introduction
+05:11 Sisters of Salem
+11:27 Bullied
+18:26 The Hellbound Heart
+26:55 A Good Girl
+36:46 The Others
+47:36 Death by Monogamy 
+53:53 Disturbia
+01:02:13 Home is Where the Hell Is
+01:11:56 Trauma
+
+#Halloween #LGBT #Gay #Lesbian
 
 </credits>
 <comment>
@@ -202,11 +221,25 @@ In the days and years before the rise of Mesopotamia, Egypt, Greece, Rome, what 
 
 Though like many things existing before the written word, this proved to be untrue, this idea (along with other fanciful creations of pre-history) has survived into the modern age. The notion of homosexuality as a danger to mankind as a whole has been disproven time and time again. But sometimes ancient teachings are hard to be forgotten. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 And so the queer entered into the horror canon. Centuries before hollywood even existed, before horror movies graced the silver screen, before the works of Bram Stoker and Mary Shelley sent chills down reader spines... before the people of Salem burned those accused of being witches alive. Before even the murder of Saint Sebastian.
 {% assign timecode = "3:35" %}
 
 </james>
-<from></from>
+<comment>
+{% include header for=tustin %}
+
+James, [in a pinned comment](https://archive.is/VfDwQ#selection-7449.0-7449.232) shortly after the video went up: 
+
+> Many many people have now made me aware that witches were not burned in Salem, only in Europe lol. Sorry for the mistake. My family comes from Scotland and Russia so Ive only ever heard stories of witches being burned my whole life.
+
+</comment>
 </compare>
 
 <compare>

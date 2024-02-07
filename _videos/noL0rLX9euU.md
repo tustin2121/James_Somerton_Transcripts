@@ -12,8 +12,9 @@ topics: !!seq
   - "Lord of the Rings"
   - "X-Men"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=GG-23DBASUs"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://www.youtube.com/watch?v=GG-23DBASUs"
+  - "https://web.archive.org/web/20211013082700/https://www.youtube.com/watch?v=noL0rLX9euU"
 description: "a video essay on genre fatigue and the potential causes of declining box office sales"
 
 contributors:

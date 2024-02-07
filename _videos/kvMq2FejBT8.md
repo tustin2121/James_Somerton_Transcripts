@@ -1,15 +1,16 @@
 ---
 redirect_from:
   - "/videos/kvmq2fejbt8"
+  - "/videos/-Uoqmxlcusg" # actually the video id of the short
+  - "/videos/-uoqmxlcusg"
+  - "/videos/uoqmxlcusg" # slug version
 
 # cspell:words  Utena Tenjou  Anthy Himemiya  Akio Ohtori  Touga Kiryuu  Nanami  Wakaba Shinohara  Shiori Takatsuki  Juri Arisugawa  Souji
 # cspell:words  Ikuhara Kunihiko  Saito Chiho  Hasegawa Shinya  Enokido Yōji  Oguro Yūichirō  Shōjo Kakumei  Sato Junichi  Toei Evangelion Takarazuka Jun'ichi Nakahara Shūji Terayama Seazer Toole
-redirect_from:
-  - "/videos/-Uoqmxlcusg"
-  - "/videos/uoqmxlcusg" # slug version
 
 date: 2023-10-07
 title: The Real Revolution of Utena
+runtime: 56:52
 status: Finished
 aka: !!seq
   - "The Sapphic Beauty of Warrior Women (Working Title)"
@@ -21,6 +22,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231007+-Uoqmxlcusg+The+Magic+Realism+of+Revolutionary+Girl+Utena.webm"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
+  - "https://web.archive.org/web/20231007200108/https://www.youtube.com/watch?v=kvMq2FejBT8"
 description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 
   - short-advert
@@ -64,6 +66,24 @@ cite:
 
 </from>
 </compare>
+
+<compare>
+<credits class="desc">
+
+A dive into Revolutionary Girl Utena, and what this iconic anime means today.
+
+00:00 Intro
+06:01 Part 1
+17:45 Part 2
+22:58 Part 3
+31:06 Part 4
+34:29 Part 5
+41:32 Part 6
+48:12 Part 7
+
+</credits>
+</compare>
+
 
 {% include transcript-start %}
 

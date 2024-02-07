@@ -1,11 +1,13 @@
 ---
 redirect_from:
-  - "/videos/-zcf3ungbq4"
-  - "/videos/Zcf3uNGbq4"  # front-dash seems to cause issues
   - "/videos/zcf3ungbq4"
+  - "/videos/-Zcf3uNGbq4" # front-dash seems to cause issues
+  - "/videos/-zcf3ungbq4"
 
 date: 2023-02-15
 title: How Hollywood was Born Gay
+runtime: 33:54
+# slug: -Zcf3uNGbq4
 parent: pW_RjbZYi1s
 status: Complete
 aka: !!seq
@@ -24,6 +26,7 @@ links: !!seq
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."
 notes:
   - hbomb
+  - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley

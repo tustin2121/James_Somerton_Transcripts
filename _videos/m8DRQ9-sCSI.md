@@ -1,6 +1,8 @@
 ---
 redirect_from:
+  - "/videos/Unrequited1"
   - "/videos/unrequited1"
+  - "/videos/m8drq9-scsi"
 
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
@@ -11,9 +13,7 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=cLWZV-SHmeY"
   - "https://vimeo.com/907695863"
-  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=4Nx1aD9Khg0" # Part 1... The First 100 Years
-  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=UAv5yxnCGyc" # Part 2... Stage and Small Screen
-  # - "https://web.archive.org/web/20201116143658mp_/https://www.youtube.com/watch?v=_TRnogtBPoI" # Part 3... The Movies
+  - "https://web.archive.org/web/20200703125317/https://www.youtube.com/watch?v=m8DRQ9-sCSI&gl=US&hl=en"
 # description: "a video essay on...?"
 notes:
   - visual
@@ -61,7 +61,18 @@ cite:
 <compare>
 <credits class="desc">
 
-\[Lost]
+A video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.
+
+Patreon: [link]
+
+Twitter: [handle]
+
+(Please ignore the scrolling text at 58:48. It's the wrong text. That's what I get for editing a 90 minute video in one day XD )
+
+A very special thanks to Vito Russo and the producers of "The Celluloid Closet", without whom the first part of this video would have been pretty much impossible. 
+
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
 
 </credits>
 <comment>

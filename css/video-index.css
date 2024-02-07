@@ -25,6 +25,9 @@
 	body:not(.new) .video-card.post-callout {
 		display: none;
 	}
+	body:not(.umm) .video-card.unscripted {
+		display: none;
+	}
 	body:not(.old) .video-card.pre-callout {
 		display: none;
 	}

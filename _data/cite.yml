@@ -4,37 +4,42 @@ from-script:
 tustin2121:
   name: Tustin2121
   contributor: true
-  descriptive: former patron of James
+  descriptive: Maintainer of the project
   link: "https://github.com/tustin2121/"
 lvence:
   name: LVence
   contributor: true
-  descriptive: from the Former Fans Discord
+  descriptive: Highlighter and source contributor
   link: ""
 tobicat:
   name: tobicat
   contributor: true
-  descriptive: from the Former Fans Discord
+  descriptive: Formatter, highlighter, and source contributor
   link: "https://github.com/tobi-cat"
+yvestan:
+  name: Yvestan
+  contributor: true
+  descriptive: Asset contributor
+  link: ""
 scarylibrary:
   name: Scary-Library
   contributor: true
-  descriptive: from the Former Fans Discord
+  descriptive: Formatter
   link: "https://github.com/Scary-Library"
 penguinstorage:
   name: penguinstorage
   contributor: true
-  descriptive: from the Former Fans Discord
+  descriptive: Highlighter and source contributor
   link: "https://github.com/jordantullis"
 kenm:
   name: KenM
   contributor: true
-  descriptive: from the Former Fans Discord
+  descriptive: Fact-checker and source contributor
   link: ""
 sciclone1984:
   name: sciclone1984
   contributor: true
-  descriptive: project contributor
+  descriptive: Project contributor
   link: "https://github.com/sciclone1984"
 
 TerraJRiley:
@@ -79,6 +84,12 @@ ace_couple:
     short: "Ep. 116 (The Ace Couple, 2023)"
     full: "The Ace Couple. (2023, Dec 13) <em>We were personally victimized by James Somerton</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode116/"
     url: "https://www.youtube.com/watch?v=kGIZIuTXWvg"
+  ep118:
+    color: "ace_couple"
+    name: "The Ace Couple (via podcast #118)"
+    short: "Ep. 118 (The Ace Couple, 2023)"
+    full: "The Ace Couple. (2023, Dec 27) <em>This episode is not about James Somerton: It's about Community</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode116/"
+    url: "https://www.youtube.com/watch?v=ZONzlc7Kvsk"
   ep062:
     color: "ace_couple"
     name: "The Ace Couple (via podcast #62)"

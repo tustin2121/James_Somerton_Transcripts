@@ -5,6 +5,7 @@ redirect_from:
 # cspell:words  LGBTQ Telos  Iger Chapek
 date: 2022-03-05
 title: Disney's Silence on Gay Youth
+runtime: 32:16
 status: Complete
 aka: !!seq
   - "The Silence of the Mouse"
@@ -16,6 +17,7 @@ description: "a video essay on the 'Don't Say Gay' bill and why Disney is saying
 notes:
   - odd-characters  # Lots of non-breaking spaces and also a "Left-to-Right Isolate" character U+2066 from a copied tweet
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script

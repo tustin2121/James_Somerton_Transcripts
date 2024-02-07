@@ -1,39 +1,61 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "20.4", m: "1.5", "y": "0.3", w: "11.7", v: 18}
+  vol: {p: "17.4", m: "1.4", "y": "0.7", w: "10.3", v: 23}
   p-total: 94
-  m-total: 47
-  y-total: 12
-  sub-queer: 21
-  changed-quote: 14
-  correction: 2
-  changed-name: 5
+  m-total: 50
+  y-total: 14
+  hbomb: 26
+  comp-delete: 5
+  multipart: 3
+  commentary: 3
+  vimeo: 2
   p-book: 6
   p-student: 4
+  podcast: 8
   y-acephobia: 4
+  script-diff: 11
+  w-nick-james: 9
+  short-advert: 5
   irony...: 1
+  changed-quote: 14
+  w-james: 5
+  dec5-delete: 6
   p-news: 10
   p-wiki: 16
+  w-james-nick: 9
   y-exclusion: 2
+  unreleased: 1
   changed-number: 2
+  visual: 3
+  changed-name: 5
+  blatant-bgm: 2
+  p-youtube: 9
+  highlighted: 1
+  dec2-delete: 1
   baa: 4
+  sub-queer: 21
   irony: 2
   p-academic: 4
   change-quote: 1
-  blatant-bgm: 2
-  p-youtube: 9
   made-quote: 2
+  odd-characters: 1
+  odd-linebreaks: 4
+  w-nick: 1
   y-misogyny: 1
   y-transphobia: 1
+  mirror: 1
+  behind-scenes: 2
   m-inverse: 1
+  post-callout: 1
+  unscripted: 2
+  manip: 2
+  correction: 2
 _irony:
   - {source: M8Z1NjpdH1M, id: other-peoples-material, quote: "Richie ended up telling other people’s jokes. He amassed a lot of wealth, but he lives his life alone."}
   - {source: P_mLM6fUhHQ, id: gay-erasure, quote: "It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?"}
 
 _all:
-  - {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
-  - {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
   - {"color": 4, "short": "", "full": "TODO Richard Plant's book The Pink Triangle", "url": "", "type": "book"}
   - {"color": 3, "short": "(Rokakis, 2013)", "full": "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", "url": "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", "type": "student"}
   - {"color": 10, "short": "(Tyler, 2017)", "full": "Tyler, J. (2017). The trail of blood : queer history through vampire literature [Thesis]. In <em>Theses.</em> Item 221. University of Alabama in Huntsville. Retrieved Jan 12, 2024, from", "url": "https://louis.uah.edu/cgi/viewcontent.cgi?article=1220&context=uah-theses", "type": "student"}
@@ -54,6 +76,12 @@ _all:
   - {"color": 2, "short": "(Hunt, 2019)", "full": "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", "url": "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html"}
   - {"color": 2, "short": "Wallpaper (eeee, 2005)", "full": "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", "url": "http://gallery.minitokyo.net/view/93510"}
   - {"color": 1, "short": "Revolutionary Girl Utena (Wikipedia, n.d.)", "full": "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479"}
+  - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
+  - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
+  - {"color": 1, "short": "Merlin (Avila, 2016)", "full": "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
+  - {"color": 3, "short": "Poe/Finn (Avila, 2016)", "full": "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=NVompS_JoJw"}
+  - {"color": 4, "short": "Johnlock (Avila, 2016)", "full": "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=RpItybDHavo"}
+  - {"color": 5, "short": "Albus/Scorpius (Avila, 2016)", "full": "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=MNntQQ1qHuo"}
   - {"color": 2, "short": "(Park, 2014)", "full": "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", "url": "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820"}
   - {"color": 13, "short": "(Kohr, 2020)", "full": "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", "url": "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend"}
   - {"color": 3, "short": "(Shulman, 2013)", "full": "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", "url": "https://www.metroweekly.com/2013/10/queer-as-carrie/"}
@@ -99,13 +127,8 @@ _all:
   - {"color": 1, "short": "Anita Bryant (Eugenios, 2022)", "full": "Eugenios, J. (2022, Apr 13). <em>How 1970s Christian crusader Anita Bryant helped spawn Florida's LGBTQ culture war.</em> [News article]. NBC News. Retrieved Dec 16, 2023, from", "url": "https://www.nbcnews.com/nbc-out/out-news/1970s-christian-crusader-anita-bryant-helped-spawn-floridas-lgbtq-cult-rcna24215"}
   - {"color": 3, "short": "(Griffin, 2000)", "full": "Griffin, S. (2000). <em>Tinker Belles and Evil Queens: The Walt Disney Company from the Inside Out</em> New York. New York University Press.", "url": "https://www.jstor.org/stable/j.ctv12pnpj2", "type": "book", "style": "book"}
   - {"color": 5, "short": "(Tom, 2018)", "full": "Tom, J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", "url": "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/"}
+  - {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
   - {"color": 1, "short": "", "full": "", "url": "https://www.medicalnewstoday.com/articles/stockholm-syndrome"}
-  - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
-  - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
-  - {"color": 1, "short": "Merlin (Avila, 2016)", "full": "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
-  - {"color": 3, "short": "Poe/Finn (Avila, 2016)", "full": "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=NVompS_JoJw"}
-  - {"color": 4, "short": "Johnlock (Avila, 2016)", "full": "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=RpItybDHavo"}
-  - {"color": 5, "short": "Albus/Scorpius (Avila, 2016)", "full": "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=MNntQQ1qHuo"}
   - {"color": 3, "short": "Suddenly, Last Summer (Wikipedia, 2023)", "full": "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843"}
   - {"color": 4, "short": "The Children's Hour (Wikipedia, 2023)", "full": "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913"}
   - {"color": 5, "short": "Advise & Consent (Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205"}
@@ -118,6 +141,7 @@ _all:
   - {"color": 1, "short": "Vox Article (Burns, 2019)", "full": "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from", "url": "https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf", "chain": {"_desc_": "which reused paragraphs from...", "_": {"full": "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em>. Retrieved December 14, 2023, from", "url": "https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical"}}}
   - {"color": 2, "short": "Scotsman Article (Burns, 2019)", "full": "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", "url": "https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977"}
   - {"color": 3, "short": "Harry Potter Day (National Today, n.d.)", "full": "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", "url": "https://nationaltoday.com/harry-potter-day/"}
+  - {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
   - {"color": 1, "short": "(Demchuk, 2021)", "full": "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", "url": "https://hazlitt.net/feature/where-monsters-are-made"}
   - {"color": 2, "short": "(Primuth, 2014)", "full": "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", "url": "https://glreview.org/article/vampires-are-us/", "type": "academic"}
   - {"color": 3, "short": "(Hansen, 2020)", "full": "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s"}
@@ -127,9 +151,11 @@ _all:
   - {"color": 2, "short": "Flirting boys (Zhou, 2021)", "full": "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", "url": "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq"}
   - {"color": 5, "short": "China bans men (McDonald, 2021)", "full": "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", "url": "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f"}
 
--Zcf3uNGbq4:
-  vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
 4zPCM14-SCQ:
+  plagiarized: {}
+  misinformation: {}
+  yikes: {}
+5OxH1rqBAgw:
   plagiarized: {}
   misinformation: {}
   yikes: {}
@@ -143,31 +169,36 @@ KarOvBQCyKE:
   vol: { p: 0.0, m: 1.9, y: 0.0, w: 0.0, v: 0 }
 kvMq2FejBT8:
   vol: { p: 11.6, m: 0.0, y: 1.4, w: 4.7, v: 0 }
+m8DRQ9-sCSI:
+  plagiarized: {}
+  misinformation: {}
+  yikes: {}
+  vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
 M8Z1NjpdH1M:
-  vol: { p: 74.2, m: 5.6, y: 0.0, w: 54.8, v: 0 }
+  vol: { p: 73.6, m: 5.6, y: 0.0, w: 54.8, v: 0 }
 n41RAyav_d8:
   vol: { p: 20.3, m: 4.3, y: 0.0, w: 10.6, v: 0 }
 nCi19sYugIA:
-  vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
+  vol: { p: 17.1, m: 0.0, y: 0.0, w: 2.3, v: 5 }
 p5KpIROXhZw:
   vol: { p: 0.0, m: 6.3, y: 0.0, w: 0.0, v: 0 }
 pW_RjbZYi1s:
   plagiarized:
-    sophie_cleghorn: {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
-    celluloid_closet: {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
     judith_adkins: {"color": 4, "short": "(Adkins, 2016)", "full": "Adkins, J. (2016). “These People Are Frightened to Death” - Congressional Investigations and the Lavender Scare. <em>Prologue Magazine</em> (Vol 48, issue 2).", "url": "https://www.archives.gov/publications/prologue/2016/summer/lavender.html"}
     johnson_book: {"color": 7, "short": "(Johnson, 2004)", "full": "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", "url": "https://archive.org/details/lavenderscarecol00john_0", "type": "book"}
     nyt_1950: {"color": 5, "short": "", "full": "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", "url": "https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html"}
     wiki_lavender: {"color": 8, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176"}
     wiki_blacklist: {"color": 6, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102"}
+    celluloid_closet: {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
     wiki_summer: {"color": 3, "short": "Suddenly, Last Summer (Wikipedia, 2023)", "full": "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843"}
     wiki_childhour: {"color": 4, "short": "The Children's Hour (Wikipedia, 2023)", "full": "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913"}
     wiki_advise: {"color": 5, "short": "Advise & Consent (Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205"}
     wiki_victim: {"color": 6, "short": "Victim (Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811"}
+    sophie_cleghorn: {"color": 1, "short": "(Cleghorn, 2017)", "full": "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", "url": "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62"}
   misinformation:
-    "-Zcf3uNGbq4$meanings": {"_desc_": "James has a habit of changing the meaning of what he's copying, such as", "inverted": "Vito's use of the word \"always\""}
     SdtbQhAKFSI$misquote: "James continues a 'direct quote' that doesn't exist."
     UtRyi-e_HTc$stewart_stern: "James did not double-check the name of the screenwriter."
+    Zcf3uNGbq4$meanings: {"_desc_": "James has a habit of changing the meaning of what he's copying, such as", "inverted": "Vito's use of the word \"always\""}
   yikes:
     SdtbQhAKFSI$lt-skip: "James, basically reading beat for beat from Russo's book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into."
   vol: { p: 52.6, m: 1.5, y: 0.0, w: 38.4, v: 0 }
@@ -188,20 +219,24 @@ Tk9wh5rBmW0:
   misinformation:
     nCi19sYugIA$haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     nCi19sYugIA$misattributed: "James misattributes a quote from a news article as being from a book."
+    nCi19sYugIA$director_misquote: "James edited out the context of a quote for director Herbert Kenwith, making it look like he was saying something when he was quoting someone else."
+    nCi19sYugIA$cola_company: "James probably overblows Joan's value to the Pepsi-Cola company."
   yikes: {}
-  vol: { p: 10.0, m: 0.0, y: 0.0, w: 2.3, v: 0 }
+  vol: { p: 3.8, m: 0.0, y: 0.0, w: 0.5, v: 5 }
 UiDcQnavKPI:
   vol: { p: 17.1, m: 0.0, y: 0.0, w: 1.7, v: 0 }
-Unrequited1:
-  vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
 UtRyi-e_HTc:
   vol: { p: 71.1, m: 2.6, y: 0.0, w: 64.5, v: 0 }
 VoHYZUj43K4:
   vol: { p: 24.7, m: 0.0, y: 0.0, w: 15.3, v: 0 }
 xBDc6SedkAc:
-  vol: { p: 4.7, m: 4.7, y: 1.6, w: 1.0, v: 0 }
+  vol: { p: 4.7, m: 4.7, y: 3.1, w: 1.0, v: 0 }
 xLuNGhQPDHM:
   vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
+XYESkleNUSA:
+  vol: { p: 0.0, m: 30.0, y: 80.0, w: 0.0, v: 0 }
+Zcf3uNGbq4:
+  vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
 ZDgWHNDdwoU:
   vol: { p: 14.7, m: 0.0, y: 1.5, w: 8.3, v: 0 }
 zIsQ502N0fg:
