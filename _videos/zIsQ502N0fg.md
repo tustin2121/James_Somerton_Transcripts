@@ -33,6 +33,10 @@ cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
+    profits: "James claims that China keeps jacking up their cut of the profits from imported Hollywood moves."
+    profits2: { _desc_: "He also claims in the same segment that there's no way we can confirm the above conspiracy theory because everything's secret, when it's not." }
+    record_box_office: "James claims that a recent Chinese blockbuster was 'obviously' faked."
+    record_box_office2: { _desc_: "In the same breath, he also claims these faked numbers were only announced in English by the state television network." }
   plagiarized: !!map
     wiki_china: { color: 1, short: "China (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644" }
     wiki_addicted: { color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215" }
@@ -293,7 +297,7 @@ China wasn’t a communist backwater nation like North Korea. It was a growing e
 <mark fc=false>All of this lead to today, where China reportedly keeps a whopping 75-80% of the box office returns. With studios getting as little as 20%. There’s no public financial data for representing this because, again, studios like to keep how much their movies make, and where that money comes from, as secret as possible. Lest they be forced to pay their share of taxes.</mark> 
 
 </james>
-<comment>
+<comment id="profits">
 {% include header video=todd at="3869s" %}
 
 **25. China keeps jacking up their cut of the profits from imported Hollywood movies**
@@ -337,8 +341,7 @@ But then, earlier this year, *Detective Chinatown 3* opened in China to a report
 <mark fc=false num=3>The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID-19. And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word.</mark>
 
 </james>
-<comment>
-
+<comment id="record_box_office">
 {% include header video=todd at="1858s" %}
 
 **12. The record box office for a recent Chinese blockbuster was obviously faked**
