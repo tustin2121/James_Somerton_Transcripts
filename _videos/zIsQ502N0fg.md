@@ -23,7 +23,7 @@ contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
   citation-plus:
-    - "[jordantullis](https://github.com/tustin2121/James_Somerton_Transcripts/issues/6)"
+    - $cite$penguinstorage
   citation: 
     - "[/u/glitter408](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvpdib)"
     - "[/u/theogays](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2whl0)"
@@ -475,13 +475,12 @@ Well! Have I got news for you, dear viewer. Have you ever heard of BL? It’s th
 So what is BL? Well, I’ll differ to an expert. According to Manga Planet: 
 
 \[Text scrolling on screen]:
-> <mark>“<span stat:id="changed-quote">Originating in Japan,</span></mark> <mark></mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi" <mark></mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.
+> <mark>“<span stat:id="changed-quote">Originating in Japan,</span></mark> <mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi"</mark> <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark>
 >
-> <mark></mark>Boys’ Love began as fan works by <span stat:id="changed-quote">women</span> <mark></mark>fans. <mark></mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations. <mark></mark>Since then, Japan has produced yaoi media through various platforms.”
+> <mark>Boys’ Love began as fan works by</mark> <span stat:id="changed-quote">women</span> <mark>fans.</mark> <mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> <mark>Since then, Japan has produced yaoi media through various platforms.”</mark>
 
 </james>
 <comment>
-<header></header>
 {% include header for=penguinstorage %}
 
 This tiny fragment seems to be from a different article:
@@ -491,23 +490,17 @@ This tiny fragment seems to be from a different article:
 <footer>Tian, X. (2020, Mar 1). <em>Homosexualizing “Boys Love” in China: Reflexivity, Genre Transformation, and Cultural Interaction</em> [Journal Article]. Prism (Volume 17, Issue 1). <a href="https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf">https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf</a></footer>
 
 </comment>
-<from mark=cont>
-<header></header>
+<from mark=cont {% include citation for=page.cite.plagiarized.manga_planet at="¶ 1" %}>
   
 <mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi”</mark> (やおい) <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark> The majority of BL readers are female and referred to as “fujoshi” (腐女子) or “rotten girl.” On the other hand, BL literature also attracts male readers called “fudanshi” (腐男子) or “rotten boy.”
 
-<footer>Binimbol, H. (2020, Apr 3). <em>What is Boys' Love (BL)?</em> [Article]. Manga Planet. (¶ 1) <a href="https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/">https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/</a></footer>
-
 </from>
-<from mark=cont>
-<header></header>
+<from mark=cont {% include citation for=page.cite.plagiarized.manga_planet at="¶ 8-9" %}>
 <h3>A Brief History</h3>
   
 <mark>Boys’ Love began as fan works by</mark> female <mark>fans.</mark> The female mangaka group Hana no Nijūyo-nen Gumi (花の24年組) was one of the contributing factors for the creation of homoerotic fan fictions. Early fan works showcase platonic relationships between male characters in the form of parodies. One of the members of Hana no Nijūyo-nen Gumi was Keiko Takemiya, the author of the first shonen-ai manga Kaze to Ki no Uta (風と木の詩). It took 9 years before her manga was approved for publishing due to its explicit themes involving rape, drug abuse, homophobia, and violence. The other known origins of boys’ love possibly came from the magazine June in 1978. June was one of the first magazines publishing male-on-male tanbi literature.
 
 <mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> Some of the adapted manga series were Patalliro!, Kaze to Ki no Uta and Earthian. <mark>Since then, Japan has produced yaoi media through various platforms.</mark>
-
-<footer>Binimbol, H. (2020, Apr 3). <em>What is Boys' Love (BL)?</em> [Article]. Manga Planet. (¶ 8-9) <a href="https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/">https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/</a></footer>
 
 </from>
 </compare>
@@ -650,7 +643,6 @@ The show has also garnered significant exposure and popularity globally for its 
 <mark>In January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><q><mark>Bangkok, Singapore,</mark> <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark></q>, <mark>but it was cancelled</mark> <mark>due to COVID19</mark>.
 
 </james>
-<from>
 <from {% include citation for=page.cite.plagiarized.wiki_untamed at="Reception ¶ 7" %}>
 
 Responding to the demand of sold-out fan meetings in Thailand and China, <mark>in January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><mark>Bangkok, Singapore,</mark> Ho Chi Minh City, <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark>, <mark>but was cancelled</mark> after the Bangkok concert <mark>due to the recent pandemic</mark>.<sup>[74]</sup>
