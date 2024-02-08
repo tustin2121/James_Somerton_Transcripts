@@ -1,7 +1,11 @@
 ---
+redirect_from:
+  - "/videos/xbdc6sedkac"
+
 date: 2023-11-13
 title: Gay Happiness and Mainstream Media
-status: Finished
+runtime: 49:04
+status: Complete
 aka: !!seq
   - "The Agony / Anguish of Happy Gay Media"
   - "The Gay Agony of Happy Endings (Thumbnail)"
@@ -501,18 +505,26 @@ Gloria: We have to to be a boss but you can't be mean. You have to lead but you 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 The Madonna whore complex exists for a reason. You marry the nice girl, not the one who'll give you a blowjob in a movie theater. This bothered Alanis Morissette so severely that she made one of the greatest songs of all time because of it!
 
 Suffice to say, women have made it clear that they don't like having the parameters of their sexual qualifications gauged by a group outside of women. And I get it. That's kinda annoying. Because on top of doing what you want to do, there is a looming social decorum of what society not only expects you to do, but will penalize you for not doing. All the while (on the example of sexuality) there are other groups of people who can do all the kinds of sexuality things that they want without any kind of repercussion. 
 
-*Heartstopper* seems to trigger these fears for some gay men. There is a perception that the show is presenting an argument that the typical normal healthy gay teenage relationship *should* only be as physical as hugging and a couple of kisses. For which, this is compounded through several other high-profile instances of gay media, specifically one which made waves in 2018, but that I will not explicitly mention **for reasons**: if you know, you know.[^simon]
-
-[^simon]: He's talking about *Love, Simon*. He's being cagey because the author of the book called him out for calling her a straight women when she is openly bisexual, and James didn't like that.
+*Heartstopper* seems to trigger these fears for some gay men. There is a perception that the show is presenting an argument that the typical normal healthy gay teenage relationship *should* only be as physical as hugging and a couple of kisses. For which, this is compounded through several other high-profile instances of gay media, <mark yikes>specifically one which made waves in 2018, but that I will not explicitly mention **for reasons**: if you know, you know.</mark>
 
 </james>
 <from></from>
+<comment>
+{% include header for=tustin %}
+
+He's talking about *Love, Simon*. He's being cagey because the author of the book called him out for calling her a straight women [in an earlier video](UiDcQnavKPI) when she is openly bisexual, and James didn't like that. I had asked what James meant by this statement, and James outright confirmed it in his discord, saying:
+
+> I mentioned not being the biggest fan of it in a video back in I think 2021 and the author started ripping into me on Twitter and stuff.
+
+Which is not what happened. [See that video](UiDcQnavKPI#straight-women) for more information.
+
+</comment>
 </compare>
 
 <compare>
@@ -586,7 +598,7 @@ Now there's nothing wrong with depicting gay people not having sex. If we want o
 <compare>
 <james {% include timecode %}>
 
-Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli. There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
+<mark yikes>Sex is like broccoli: to know you don't like broccoli, you first kind of have to eat broccoli.</mark> There's even a chemical in broccoli that you can only taste if you have a very specific active gene. Those who have it find broccoli to be rancid.[^broccoli] They physiologically cannot enjoy this vegetable. For everyone else
 it's great! It's good. It's fine.
 
 [^broccoli]: Fact checked, true: https://www.bbc.com/news/health-50387126

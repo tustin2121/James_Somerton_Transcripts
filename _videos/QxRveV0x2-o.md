@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/qxrvev0x2-o"
+
 date: 2021-06-14
 title: Yuri on Ice - How Gay is Gay Enough?
 status: Script
@@ -15,6 +18,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - odd-linebreaks
+  - w-james-nick
 
 cite:
   clips: !!map

@@ -1,14 +1,17 @@
 ---
+redirect_from:
+  - "/videos/p_mlm6fuhhq"
+  - "/videos/CODEBREAKER" # original name
+  - "/videos/codebreaker"
+  - "/CODEBREAKERS"       # short link
+
 # cSpell:words: Yorgos Lanthimos Zalta Spinks Jani Academus Plys-Garzotto Kuleshov Sergey Rosen Maran Mulvey Doane Slavoj Žižek Lacanian Tsivian André Bazin Selnick Feige Cahiers cinéma Brokeback
 # cSpell:words: Germaine Dulac, Louis Delluc, Jean Epstein, Sergei Eisenstein, Lev Kuleshov, Dziga Vertov, Paul Rotha and film theorists like Rudolf Arnheim, Béla Balázs and Siegfried Kracauer Hattori Hanzō Korra Bolin Veric Edda Eddas Boiotia Halperin Laeurtius Greenberg Erotikos
 # cSpell:words: favourite analysed appetising indexical spectatorship Thanos gaybaiting scène noncontinuity stylised straightwashing civilisation characterised rulebook Codebreakers LGBTQ honourable expositionally pansexuality
-redirect_from: 
-  - "/videos/codebreaker"
-  - "/videos/CODEBREAKER"
-  - "/videos/CODEBREAKERS"
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
+runtime: 0
 status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
@@ -25,6 +28,7 @@ description: "a video essay on film theory, heteronormativity, erasure, and hist
 notes:
   - hbomb
   - visual
+  - w-james-nick
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
@@ -38,12 +42,14 @@ cite:
     the_favorite: { short: "The Favorite (2018)", full: "Lanthimos, Y. (Director). (2018). <em>The Favorite</em> [Film]. Scarlet Films, Element Pictures, Arcana, Film4 Productions, Waypoint Entertainment." }
   yikes: !!map
     gay-erasure: '"What is the real tangible impact of gay erasure?" James asks, while erasing the name of the man who originally asked this question in a queer culture magazine that has since dropped off the face of the earth.'
+    women_prosecuted: "Why would James would claim women weren't prosecuted for being gay because lawmakers were squeamish? Did he want it to seem like gay men suffered more? Or is he projecting?"
   misinformation: !!map
     prose_edda: "James makes up several things about the Prose Edda."
     poetic_edda: "He also makes up things about the Poetic Edda."
     trans_mummy: "James jumps to conclusions about a mummy with 'drawn-on breasts'."
     viking_boy_things: "James also knows very little about Vikings and how they were rather hygienic and well kept.."
     lincoln: "James exaggerates the claims about Lincoln and his bodyguard."
+    women_prosecuted: "James claims that women weren't prosecuted for being gay, which is just outright untrue."
   other: !!map
     torrid: "James doesn't know what the word 'torrid' actually means."
   plagiarized: !!map
@@ -104,6 +110,7 @@ cite:
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
+{% assign kenm = site.data.cite.kenm %}
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
@@ -302,8 +309,9 @@ And so I decided that people are *woefully* undereducated on film theory, which 
 
 <compare>
 <james {% include timecode %}>
+<!-- Footage here is of a bunch of early silent films. penguin seems to think this is taken from somewhere, so marking it for if and when it is found. -->
 
-<mark>As the new popular art form of the twentieth century, film immediately</mark> <mark>invited theoretical attempts to define its nature and function, mostly as a result of film's own inferiority complex as the youngest of the arts. The impetus for much of early film theory was to gain a degree of legitimacy.</mark> 
+<span visual=none on="?" off="?"><mark>As the new popular art form of the twentieth century, film immediately</mark> <mark>invited theoretical attempts to define its nature and function, mostly as a result of film's own inferiority complex as the youngest of the arts. The impetus for much of early film theory was to gain a degree of legitimacy.</mark></span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.film_class at="¶ 3" %}>
@@ -312,14 +320,12 @@ And so I decided that people are *woefully* undereducated on film theory, which 
 <mark>As the new art form of the twentieth century, film immediately</mark> and continuously <mark>invited theoretical attempts to define its nature and function. Mostly as a result of film's own inferiority complex as the youngest of the arts, the impetus for much of early film theory was to gain a degree of respectability.</mark>
 
 </from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
+<!-- Footage here is of a bunch of early silent films. -->
 
-Writers, directors, producers, and critics wanted to slap a philosophical academic lens onto movies so that they could be held in the same esteem as theater, and the novel. 
+<span visual=none on="?" off="?">Writers, directors, producers, and critics wanted to slap a philosophical academic lens onto movies so that they could be held in the same esteem as theater, and the novel. However, much of coding in film, especially queer coding, is rooted in film language itself.</span>
 
-However, much of coding in film, especially queer coding, is rooted in film language itself. And "film language" refers to conventions and patterns in lighting, sound, and visual elements that reinforce the narrative structure. This doesn't necessarily refer to elements of the narrative itself, like something written into the script or an actor's performance. These elements are usually more subtle.
+And "film language" refers to conventions and patterns in lighting, sound, and visual elements that reinforce the narrative structure. This doesn't necessarily refer to elements of the narrative itself, like something written into the script or an actor's performance. These elements are usually more subtle.
 
 They're used to change the moods or attitudes of a scene highlight, a recurring theme of the film, or convey an unspoken message that the director is trying to get across. That last part is important for queer coding; go watch [my videos on "gaybaiting"](Unrequited1.md) for more on that.
 
@@ -364,8 +370,9 @@ James pulls from another video essay for his B-Roll here. He uses the opening mo
 
 <compare>
 <james {% include timecode %}>
+<!-- Footage here is of zooming into two photos of François Truffaut. -->
 
-<mark>In the 1960s and 70s, film theory took up residence in academia, importing concepts from established disciplines like</mark>
+<span visual=none on="?" off="?"><mark>In the 1960s and 70s, film theory took up residence in academia, importing concepts from established disciplines like</mark></span>
 
 \[On screen next to James, he reads it out]:
 
@@ -417,10 +424,11 @@ Note: The following sections are still using the university handout as a source,
 
 </from>
 <james {% include timecode %}>
+<!-- Footage used in the bottom corner here is Sergei Eisenstein clips. -->
 
 \[On screen next to James]: "Marxist Film Theory"
 
-<mark>Marxist film theory is one of the oldest forms of film theory. Sergey Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through film. In fact, the Hegelian Dialectic was considered best displayed in film editing through the</mark> <mark>development of the montage</mark>, a Russian invention. <mark x>The biggest reason Russian filmmakers began doing this was because they had a serious problem with how Hollywood was making movies.</mark> <mark>Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist</mark> in favor of <mark>telling stories where the action is moved by a group, and the story is told through a clash of one image against the next, whether in composition, motion, or idea.</mark>
+<span visual=none on="?" off="?"><mark>Marxist film theory is one of the oldest forms of film theory. Sergey Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through film. In fact, the Hegelian Dialectic was considered best displayed in film editing through the</mark> <mark>development of the montage</mark>, a Russian invention. <mark x>The biggest reason Russian filmmakers began doing this was because they had a serious problem with how Hollywood was making movies.</mark> <mark>Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist</mark> in favor of <mark>telling stories where the action is moved by a group, and the story is told through a clash of one image against the next, whether in composition, motion, or idea.</mark></span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 2-3" %}>
@@ -580,9 +588,9 @@ James pulls an FMV from YouTube to use as B-Roll for this part.
 
 <span visual=none on="?" off="?">In *The Legend Of Korra*, there actually are confirmed bisexual characters. But ask any queer person who's watched the show and they'll tell you every damn character on it is bi or pansexual.</span> It's not wishful thinking; it's a queer reading of the show. 
 
-<span visual=none on="?" off="?">Bolin's close relationship with Veric.</span> 
+<span visual=none on="?" off="?">Bolin's close relationship with Varrick.</span> 
 
-<span visual={{mkv}} on="2:31" off="2:35">Mako's will-they-won't-they with Prince Woo (which seems to be getting closer to becoming canon in the graphic novels).</span>
+<span visual={{mkv}} on="2:31" off="2:35">Mako's will-they-won't-they with Prince Wu (which seems to be getting closer to becoming canon in the graphic novels).</span>
 
 <footer>James mispronounces Mako's name, using a short-a sound instead of a long a.</footer>
 
@@ -832,7 +840,7 @@ It's almost as if our ancestors never really expected homophobia or sex-phobia t
 
 <mark>So as we start out on our lifelong personal journeys... how do we discover our <span stat:id="sub-queer">queer</span> identity if we don't know much about... those who came before us? </mark>
 
-What if the accomplishments of historic queers are hidden for us by a thick coat of straightwashing? <mark stat:id="irony" id="gay-erasure">It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?</mark>
+What if the accomplishments of historic queers are hidden for us by a thick coat of straightwashing? <mark yikes stat:id="irony" id="gay-erasure">It provokes a deep and meaningful question, I think: what is the real tangible impact of gay erasure?</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 4-5" %}>
@@ -899,12 +907,23 @@ As early as the 1930s and 40s, people actually did literally believe that sexual
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-Women weren't usually prosecuted for queer acts because lawmakers were usually too squeamish to talk about women and sexuality, so these cases were normally thrown out. That isn't to say that there wasn't a *stigma* attached to it, just that they were more likely to get away with it. 
+<mark fc id="women_prosecuted">Women weren't usually prosecuted for queer acts because lawmakers were usually too squeamish to talk about women and sexuality, so these cases were normally thrown out.</mark><sup cn></sup> That isn't to say that there wasn't a *stigma* attached to it, just that they were more likely to get away with it.
 
 </james>
-<from></from>
+<comment>
+{% include header for=kenm link="https://discord.com/channels/1180822793420554241/1180822793420554244/1201378623177900032" %}
+
+I'd like someone to research this claim because there's no way this is right.Too squeamish to talk about lesbians?? As if they loved talking about gay man sex?
+
+</comment>
+<comment>
+{% include header for=lvence link="https://discord.com/channels/1180822793420554241/1180822793420554244/1202091787036921856" %}
+
+James talks as though this is all in the past but [at least 40 countries worldwide](https://www.humandignitytrust.org/lgbt-the-law/map-of-criminalisation/?type_filter=crim_sex_women#maptab) still criminalize sexual acts between females.
+
+</comment>
 </compare>
 
 <compare>

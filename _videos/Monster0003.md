@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/monster0003"
+
 date: 2018-06-09
 title: "Monsters in the Closet: Killer Queens"
 parent: 4zPCM14-SCQ

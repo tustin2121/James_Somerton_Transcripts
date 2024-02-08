@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/rg92per6xve"
+
 date: 2022-05-08
 title: Nintendo's Queer Relationship With Gender
 status: Auto

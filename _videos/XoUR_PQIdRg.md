@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/xour_pqidrg"
+
 date: 2022-04-10
 title: The Brilliance of Our Flag Means Death
 status: Script

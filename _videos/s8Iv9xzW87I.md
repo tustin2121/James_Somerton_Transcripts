@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/s8iv9xzw87i"
+
 date: 2022-10-09
 title: Queer Representation in Modern Horror
 status: Auto

@@ -53,6 +53,7 @@
 				{%- endif %}
 				{% endcomment %}
 				
+				{%- unless site.data.options.hide_video_links -%}
 				{% if page.links.size > 0 -%}
 					<p>You can view the archive of this video 
 					{% for link in page.links -%}
@@ -64,6 +65,7 @@
 				{%- else -%}
 					<p>No known public archives of this video exist at this time.</p>
 				{%- endif %}
+				{%- endunless -%}
 				
 				{% if page.contributors %} 
 					<p>
@@ -165,18 +167,15 @@
 					{% assign hr_due = true %}
 				{% endif %}
 				
-				
-				
-				
-				
-				
 				{% if hr_due -%}<hr />{%- endif %}{% assign hr_due = false %}
+				
+				{% include recommended-replacements video=page %}
 				
 				{%- if page.notes contains "podcast" -%}
 					<compare>
 						<james example>
 							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
-							For more info, see <a href="instructions.html">how to read this site</a></p>
+							For more info, see <a href="../instructions.html">how to read this site</a></p>
 						</james>
 						<comment example>
 							<header><a class="citation" href="#">Source (Author, 2000)</a></header>
@@ -201,7 +200,7 @@
 						<visual-line></visual-line>
 						<james example>
 							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
-							For more info, see <a href="instructions.html">how to read this site</a></p>
+							For more info, see <a href="../instructions.html">how to read this site</a></p>
 							
 							{%- if page.notes contains "script-diff" -%}
 								<p>(This transcript was created from the original script uploaded as closed captioning. 
@@ -226,7 +225,7 @@
 					<compare>
 						<james example>
 							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
-							For more info, see <a href="instructions.html">how to read this site</a></p>
+							For more info, see <a href="../instructions.html">how to read this site</a></p>
 						</james>
 						<comment example>
 							<header><a class="citation" href="#">Commenter</a></header>
@@ -238,7 +237,7 @@
 					<compare>
 						<james example>
 							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
-							For more info, see <a href="instructions.html">how to read this site</a></p>
+							For more info, see <a href="../instructions.html">how to read this site</a></p>
 							
 							{%- if page.notes contains "script-diff" -%}
 								<p>(This transcript was created from the original script uploaded as closed captioning. 
@@ -264,7 +263,9 @@
 							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
 						{% endfor %}
 					</ul>
+					{% assign hr_due = true %}
 				{%- endif %}
+				
 				<a href="{{ "/" | relative_url }}">&#128281; Back to index</a>
 			</div>
 		</div>

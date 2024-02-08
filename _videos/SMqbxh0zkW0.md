@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/smqbxh0zkw0"
+
 date: 2023-08-22
 title: Canadian Queer Identity with James Somerton
+runtime: 1:20:30
 status: Finished
 aka: !!seq
   - "Live streamed by the Ottawa Public Library (Biblio publique d'Ottawa)"

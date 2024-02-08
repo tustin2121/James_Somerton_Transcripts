@@ -5,7 +5,7 @@ import { readFile, writeFile, readdir } from "fs/promises";
 import fm from "front-matter";
 import * as PATH from 'path';
 
-const TYPE = 'titles'; //'tasklist';
+const TYPE = 'readme'; //'tasklist';
 const INPUT_PATH = `../_videos`;
 const OUTPUT_FILE = `output.csv`;
 

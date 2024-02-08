@@ -1,12 +1,16 @@
 ---
+redirect_from:
+  - "/videos/kvmq2fejbt8"
+  - "/videos/-Uoqmxlcusg" # actually the video id of the short
+  - "/videos/-uoqmxlcusg"
+  - "/videos/uoqmxlcusg" # slug version
+
 # cspell:words  Utena Tenjou  Anthy Himemiya  Akio Ohtori  Touga Kiryuu  Nanami  Wakaba Shinohara  Shiori Takatsuki  Juri Arisugawa  Souji
 # cspell:words  Ikuhara Kunihiko  Saito Chiho  Hasegawa Shinya  Enokido Yōji  Oguro Yūichirō  Shōjo Kakumei  Sato Junichi  Toei Evangelion Takarazuka Jun'ichi Nakahara Shūji Terayama Seazer Toole
-redirect_from:
-  - "/videos/-Uoqmxlcusg"
-  - "/videos/uoqmxlcusg" # slug version
 
 date: 2023-10-07
 title: The Real Revolution of Utena
+runtime: 56:52
 status: Finished
 aka: !!seq
   - "The Sapphic Beauty of Warrior Women (Working Title)"
@@ -18,6 +22,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231007+-Uoqmxlcusg+The+Magic+Realism+of+Revolutionary+Girl+Utena.webm"
   - "https://www.youtube.com/watch?v=7b-6jvAbLyM"
+  - "https://web.archive.org/web/20231007200108/https://www.youtube.com/watch?v=kvMq2FejBT8"
 description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 
   - short-advert
@@ -61,6 +66,24 @@ cite:
 
 </from>
 </compare>
+
+<compare>
+<credits class="desc">
+
+A dive into Revolutionary Girl Utena, and what this iconic anime means today.
+
+00:00 Intro
+06:01 Part 1
+17:45 Part 2
+22:58 Part 3
+31:06 Part 4
+34:29 Part 5
+41:32 Part 6
+48:12 Part 7
+
+</credits>
+</compare>
+
 
 {% include transcript-start %}
 
@@ -982,7 +1005,7 @@ Utena echoes a particular anxiety of growing up in Japan in the 1990s, when the 
 
 And if Japanese Youth of the 90s got it anything like Millennials of the late 2000s got it, then it would have seemed like the entire weight of the world was imparted on *their* shoulders to fix things, all the while the powers at be insisting that fixing things was the responsibility of the nation's youth, simultaneously *scolded* them for talking about upsetting The Establishment Values that led to these hardships in the first place.
 
-Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark fc>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
+Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark yikes>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
 
 </james>
 <from></from>

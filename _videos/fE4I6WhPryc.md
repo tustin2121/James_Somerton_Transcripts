@@ -1,17 +1,23 @@
 ---
+redirect_from:
+  - "/videos/fe4i6whpryc"
+
 date: 2023-01-14
 title: Why Bad Gays Are Good
+runtime: 1:07:33
 status: Finished
 aka: !!seq
 topics: !!seq
-  - Hell of a Boss
+  - Helluva Boss
   - Brandon Rogers
   - Bros / AIDS Quote
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230114+fE4I6WhPryc+Why+Bad+Gays+Are+Good.webm"
   - "https://archive.org/details/james-somerton-public-records/Why+Bad+Gays+Are+Good.mp4"
   - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
-description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Hell of a Boss, Brandon Rogers, and Bros for an hour."
+description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Helluva Boss, Brandon Rogers, and Bros for an hour."
+notes:
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -79,7 +85,7 @@ PATREON: [link]
 
 *Cars* is a Disney Pixar animated film released in 2006 and was the seventh film released by Pixar Animation Studios. This film followed a string of emotionally evocative and intellectually stimulating films just two movies after the industry changing, *Finding Nemo*. The success of the studio was predicated on taking the typical gimmicks of Hollywood animated movies and subverting their juvenility with examinations of emotional depth, creative Visual Direction and stellar voice acting. Pixar defied all expectations, that each subsequent film would fall short of its predecessor. 
 
-Even a sequel to their debut movie, *Toy Story 2*, was far more than just a shallow reprisal of all the same themes of the first; in a period of Hollywood history when sequels were hollow recreations of their prior installments. For the Studio's early history, it seemed that they were the real deal. That even if they were directing their films primarily to be accessible to all ages, they would treat animation with dignity and integrity – in spite of being a subsidiary of Disney. Disney, after all, at the time, was looking for ways to collect prestige without diluting the Disney brand, as per their offshoots of Touchstone pictures and Miramax. 
+Even a sequel to their debut movie, *Toy Story 2*, was far more than just a shallow reprisal of all the same themes of the first; in a period of Hollywood history when sequels were hollow recreations of their prior installments. For the Studio's early history, it seemed that they were the real deal. That even if they were directing their films primarily to be accessible to all ages, they would treat animation with dignity and integrity – in spite of being a subsidiary of Disney. Disney, after all, at the time, was looking for ways to collect prestige without diluting the Disney brand, as per their offshoots of Touchstone Pictures and Miramax. 
 
 </james>
 <from></from>
@@ -92,7 +98,7 @@ Pixar was granting them prestige and animation that typical cartoons could not. 
 
 When it was released, it was decried as soulless and not really having any other purpose but to sell toys. And in spite of the success of Pixar's other films - *Toy Story* notwithstanding - *Cars* was the first to get a sequel. Which is interesting because it also has one of the least impressive box office performances of any pre-pandemic Pixar film. And indeed whatever soul the first movie had, the second one had less. Effectively accomplishing nothing but giving Larry the Cable Guy a feature-length stand-up gig. 
 
-And confirming that 911 occurred in the Cars Universe. Which means that the *Cars* Cold War existed. Which means that there was a *Cars* nuclear arms race. Which means that *Cars* World War II happened. Which demands the existence of *Cars* Hitler. And subsequently the *Cars* assassination of *Cars* Grand Duke Franz Ferdinand. Which, through the *Cars* Holy Roman Empire, we can only extrapolate that there was a Bubonic plague in the *Cars* universe. 
+And confirming that 9/11 occurred in the Cars Universe. Which means that the *Cars* Cold War existed. Which means that there was a *Cars* nuclear arms race. Which means that *Cars* World War II happened. Which demands the existence of *Cars* Hitler. And subsequently the *Cars* assassination of *Cars* Grand Duke Franz Ferdinand. Which, through the *Cars* Holy Roman Empire, we can only extrapolate that there was a Bubonic plague in the *Cars* universe. 
 
 </james>
 <from></from>
@@ -121,7 +127,7 @@ Like any parent lacking responsibility skills, when Disney drops the ball, one o
 <compare>
 <james {% include timecode %}>
   
-*Brave* was the second time that Pixar was really seen as bending their creative vision to appease Disney. After *Wall-E*, the last of the original five Pixar concepts to be released, *Brave* was closer in concept to a Disney princess movie than Pixar's established brand. And indeed Merida is included in Princess merchandise. Disney got what it wanted: a stop gap after *Tangled* and *The Princess and the Frog* underperformed. So they could sort out what to do with *Frozen*, which was then an adaptation of *The Snow Queen* and in Cold development hell. 
+*Brave* was the second time that Pixar was really seen as bending their creative vision to appease Disney. After *Wall-E*, the last of the original five Pixar concepts to be released, *Brave* was closer in concept to a Disney princess movie than Pixar's established brand. And indeed Merida is included in Princess merchandise. Disney got what it wanted: a stop gap after *Tangled* and *The Princess and the Frog* underperformed. So they could sort out what to do with *Frozen*, which was then an adaptation of *The Snow Queen* and in cold development hell. 
 
 Pixar began to incorporate more human focus stories into their feature. The long-awaited sequel to *Finding Nemo* was closer to *Cars 2* than *Toy Story*, where the sequel was built entirely around a takeaway character from the original and the original protagonists were more or less abandoned.
 
@@ -134,7 +140,7 @@ Pixar began to incorporate more human focus stories into their feature. The long
   
 And it's not that Pixar is making bad movies, or that their messaging is lacking, but it seems that they're leaning on... gimmick storytelling to do a whole lot more of the heavy lifting. Like Bing Bong from *Inside Out*, who, from the second he was on screen, was read as an emotional pawn, who was only there to make the audience cry. 
   
-But then there are movies like *Coco*, *Onward*, *Luca*, and *Turning Red*, which, again, were not bad movies. But it's not really clear why these were Pixar movies because they seem like Disney movies, especially with the mouse leaning into plot beats and styles like *Big Hero 6*, *Zootopia*, *Rya and the Last Dragon*, and *Encanto*. It's hard to really qualify why these latest Pixar films seem so distant. And to a large extent, it might be that Disney is just trying to be more like Pixar. 
+But then there are movies like *Coco*, *Onward*, *Luca*, and *Turning Red*, which, again, were not bad movies. But it's not really clear why these were Pixar movies because they seem like Disney movies, especially with the mouse leaning into plot beats and styles like *Big Hero 6*, *Zootopia*, *Raya and the Last Dragon*, and *Encanto*. It's hard to really qualify why these latest Pixar films seem so distant. And to a large extent, it might be that Disney is just trying to be more like Pixar. 
 
 But it does feel like Pixar is taking notes from the top. Developing stories where it is less about a cast of personalities and more about generating settings that younger viewers could imagine themselves in. They focus more on showing this world to the audience. There's a spectacle made of the creative process. Rather than passively depicting characters interacting with the world and trusting the audience to pick up on the defamiliarization. 
 
@@ -195,7 +201,7 @@ Guys, it's okay to like Pixar movies. Please do not go to the comments and say t
 
 But this should be seen as just what happens the more a creative venture gets tangled into a large corporate structure. Pixar Animation Studio has its roots in indie filmmaking. The technology was developed, in large part, by George Lucas, even though each one of the *Star Wars* movies featured the 20th Century Fox logo, each one, with the exception of *Episode 4* was financed and produced *independently* by Lucas himself... until Disney got them. 
 
-Following *Star Wars: Episode 6*, he sunk his hands ever deeper into the technology that makes sound and visuals. He is one of the co-founders of THX. Which, everyone who lived in the 90s and 2000s will recognize as the logo that told you to turn your volume down. 
+Following *Star Wars: Episode Six*, he sunk his hands ever deeper into the technology that makes sound and visuals. He is one of the co-founders of THX. Which, everyone who lived in the 90s and 2000s will recognize as the logo that told you to turn your volume down. 
 
 He didn't really like working for studios, but he did like working with other filmmakers. Famously, the raptors in the kitchen scene of *Jurassic Park* was animated as a digital technology flex by industrial Light & Magic, George Lucas's special effects team. Meanwhile, some cinema empires can't be bothered to properly composite *Mark Ruffalo's head into a scene, for one of the most expensive cinematic projects of all time!* 
 
@@ -260,9 +266,9 @@ Good Ones ❤
 <compare>
 <james {% include timecode %}>
 
-*Hell of a Boss* is a show created by Vivian Medrano in 2020. The show is technically a spin-off of an earlier series she piloted called *Hazbin Hotel*. It's... closer to say it's a spiritual successor. While the shows exist in the same universe, they share few other overlapping elements and are thematically distinct. A key difference is the inclusion of internet celebrity Brandon Rogers as leading voice talent and a major contributor to the series. In conjunction with Medrano's signature care to setting and emotional development, *Hell of a Boss* stands out even among *network* animated series. 
+*Helluva Boss* is a show created by Vivienne Medrano in 2020. The show is technically a spin-off of an earlier series she piloted called *Hazbin Hotel*. It's... closer to say it's a spiritual successor. While the shows exist in the same universe, they share few other overlapping elements and are thematically distinct. A key difference is the inclusion of internet celebrity Brandon Rogers as leading voice talent and a major contributor to the series. In conjunction with Medrano's signature care to setting and emotional development, *Helluva Boss* stands out even among *network* animated series. 
 
-The premise of *Hell of a Boss* follows Blitzo (the O is silent) as he runs a business which offers services to damned souls. For a nominal fee, the Immediate Murder Professionals - or just I.M.P or just IMP - will zip on up to the world of the living to get revenge on behalf of the now-dead person. Usually this involves killing whoever the client blames for them being in Hell. IMP is made up of Blitzo, Moxxie and Millie, a happily married couple, and Blitzo’s adopted furry&mdash; I mean hellhound-daughter, Loona. As much as Moxxie, in particular, longs for appropriate work-life boundaries, Blitzo insists on having a "family environment" at work. 
+The premise of *Helluva Boss* follows Blitzo (the O is silent) as he runs a business which offers services to damned souls. For a nominal fee, the Immediate Murder Professionals - or just I.M.P or just IMP - will zip on up to the world of the living to get revenge on behalf of the now-dead person. Usually this involves killing whoever the client blames for them being in Hell. IMP is made up of Blitzo, Moxxie and Millie, a happily married couple, and Blitzo’s adopted furry&mdash; I mean hellhound-daughter, Loona. As much as Moxxie, in particular, longs for appropriate work-life boundaries, Blitzo insists on having a "family environment" at work. 
 
 </james>
 <comment>
@@ -277,11 +283,11 @@ During this part, James sits at a desk in a red-tinted room with a two-camera se
 <compare>
 <james {% include timecode %}>
   
-Ironically, the one person who actually *wants* to be around Blitzo is someone who he is constantly trying to give the slip. Prince Stolis, one of the principal rulers of Hell, is head over heels for Blitzy. Stolis, himself, is a little bit of a late-bloomer to love and gay sex. Having lived most of his life in a loveless marriage that he's only put up with for the sake of his daughter, Octavia. 
+Ironically, the one person who actually *wants* to be around Blitzo is someone who he is constantly trying to give the slip. Prince Stolas, one of the principal rulers of Hell, is head over heels for Blitzy. Stolas, himself, is a little bit of a late-bloomer to love and gay sex. Having lived most of his life in a loveless marriage that he's only put up with for the sake of his daughter, Octavia. 
 
-As a goetia, either a variation of demon, or a dynastic family, Stolis possesses a grimoire which can open portals to the mortal realm. A book that Blitzy needs in order to get paid. So, in order to borrow it from Stolis, he needs to give the prince of Hell the jerk around to keep him hooked, *just enough*, while still being able to avoid emotional intimacy. 
+As a goetia, either a variation of demon, or a dynastic family, Stolas possesses a grimoire which can open portals to the mortal realm. A book that Blitzy needs in order to get paid. So, in order to borrow it from Stolas, he needs to give the prince of Hell the jerk around to keep him hooked, *just enough*, while still being able to avoid emotional intimacy. 
 
-But, because the book ultimately belongs to Stolis, Blitzo does kinda have to toe the line. Stolis does, on a few occasions, demonstrate why nobody should really get on his bad side. Just your average "pissed-off bottom" stuff, really. 
+But, because the book ultimately belongs to Stolas, Blitzo does kinda have to toe the line. Stolas does, on a few occasions, demonstrate why nobody should really get on his bad side. Just your average "pissed-off bottom" stuff, really. 
 
 The nature of the plot forces Blitzo into a situation where he can either choose to abandon what seems to be a last resort career, or to confront his attachment problems. 
 
@@ -291,12 +297,12 @@ We're getting into spoilers now. Go watch the show. It's on YouTube. You have no
 <from></from>
 </compare>
 
-<div class="notice-banner">Note: Spoilers ahead for <em>Hell of a Boss</em>.</div>
+<div class="notice-banner">Note: Spoilers ahead for <em>Helluva Boss</em>.</div>
 
 <compare>
 <james {% include timecode %}>
 
-As with all of Medrano's content on her channel, Vivzipop, the series is *wrought* with gratuitous cussing, gratuitous violence, and, most of all, gratuitous genderblind sexuality. Which, the first two are nothing particularly *new* for cartoons. And even explicit sexuality isn't anything *too* shocking for those of us old enough to remember that “Drawn Together” was once a thing. 
+As with all of Medrano's content on her channel, Vivziepop, the series is *wrought* with gratuitous cussing, gratuitous violence, and, most of all, gratuitous genderblind sexuality. Which, the first two are nothing particularly *new* for cartoons. And even explicit sexuality isn't anything *too* shocking for those of us old enough to remember that “Drawn Together” was once a thing. 
 
 But the degree to which errant gender is depicted is something that stands out from the norm. Even in comedic animation where queer people are included, we're usually just the butt of the joke. 
 
@@ -304,29 +310,29 @@ But the degree to which errant gender is depicted is something that stands out f
 <from></from>
 <clip {% include citation for=page.cite.clips.drawn_together %}>
 
-(Both princess and warrior laughing. Warrior goes to grab princess.)
+(Both Princess Clara and Xandir laughing. Xandir goes to hug Clara.)
 
-Princess: “Ww! Don’t touch me!”
+Clara: “Eww! Don’t touch me!”
 
 </clip>
 <james {% include timecode %}>
  
-This is Hell, after all. It makes perfect sense why all the purity rules *we* hold would be inverted there. There isn't even an "everybody is bisexual or pansexual" angle, either. It's relatively clear that where some characters have no preference, a character like Stolis simply doesn't have much interest in women whatsoever. The fact that he's leaving his wife for a man is not *scandalous*. The scandal is that he's leaving her for a lesser demon. In Hell, where degeneracy is not only the norm but the social expectation, the only real taboo seems to be affectionate monogamy. 
+This is Hell, after all. It makes perfect sense why all the purity rules *we* hold would be inverted there. There isn't even an "everybody is bisexual or pansexual" angle, either. It's relatively clear that where some characters have no preference, a character like Stolas simply doesn't have much interest in women whatsoever. The fact that he's leaving his wife for a man is not *scandalous*. The scandal is that he's leaving her for a lesser demon. In Hell, where degeneracy is not only the norm but the social expectation, the only real taboo seems to be affectionate monogamy. 
 
 </james>
 <from></from>
 <clip {% include citation for=page.cite.clips.thirty_rock %}>
 
-Woman: "It's a whole new fetish called..."
+Jenna: "It's a whole new fetish called..."
 
-Both man and woman: "Normalling!"
+Jenna and Paul: "Normalling!"
 
 </clip>
 <james {% include timecode %}>
   
 Moxxie and Millie frequently have to face jeers and criticisms about their… relationship. (Though really they-- they could-- they could stand to tone it down just a-- *just a little bit.*) 
 
-The thing that is shocking about *Hell of a Boss*, however, is the very strange, uncompromising quality of the writing. Under the gallows humor, there is a strong underline of very salient emotional beats, consistent characters, and recurring plot themes which challenge these characters. Yes, the plots are outrageous and the setting is outlandish. But when the series wants to be, it can be shockingly real. 
+The thing that is shocking about *Helluva Boss*, however, is the very strange, uncompromising quality of the writing. Under the gallows humor, there is a strong underline of very salient emotional beats, consistent characters, and recurring plot themes which challenge these characters. Yes, the plots are outrageous and the setting is outlandish. But when the series wants to be, it can be shockingly real. 
 
 </james>
 <from></from>
@@ -357,7 +363,7 @@ However, this is also media which depicts parents as being much better at keepin
 <compare>
 <james {% include timecode %}>
   
-*Hell of a Boss*'s Octavia has been living in this home environment for some time. And although she does not seem that upset about the divorce, itself, her concern is that the divorce is going to drain the life out of her parents so they won't have anything left for *her*. Which is quite the nuanced depiction, especially when it would have been easier to just depict the easy route. 
+*Helluva Boss*'s Octavia has been living in this home environment for some time. And although she does not seem that upset about the divorce, itself, her concern is that the divorce is going to drain the life out of her parents so they won't have anything left for *her*. Which is quite the nuanced depiction, especially when it would have been easier to just depict the easy route. 
 
 Especially now that we're into the second season of the series, the creators seem more comfortable with depicting these kinds of interactions. Gotta get the audience hooked with the sex and violence first, though. 
 
@@ -397,9 +403,9 @@ For instance, *Avatar: The Way of Water* didn't break even until it hit 1.1 bill
 <compare>
 <james {% include timecode %}>
 
-But as a crowd-financed web series, *Hell of a Boss* is in a unique situation, Medrano does not strictly need to answer to anyone to approve the content that she wants to fill her media with. As a, more or less, independent creator, she can make media… independently. 
+But as a crowd-financed web series, *Helluva Boss* is in a unique situation, Medrano does not strictly need to answer to anyone to approve the content that she wants to fill her media with. As a, more or less, independent creator, she can make media… independently. 
 
-Strictly speaking, *Hell of a Boss* is independent. But the show from which it spun-off *Hazbin Hotel*, is not *technically* independent anymore. *Hszbin* was picked up by a studio for more episodes. None other than A24, the studio I'd sell my left lung, right kidney, and both nuts to work with.
+Strictly speaking, *Helluva Boss* is independent. But the show from which it spun-off *Hazbin Hotel*, is not *technically* independent anymore. *Hszbin* was picked up by a studio for more episodes. None other than A24, the studio I'd sell my left lung, right kidney, and both nuts to work with.
 
 A24 is a relatively small studio founded in 2012. Though they, themselves, are a bit off the beaten path. The studio gained recent renown for releasing *Everything Everywhere All at Once*, a critical inbox office success.  However, the studio's other noteworthy venues include, *Swiss Army Man*, *Ex Machina*, *Hereditary*, *The Lighthouse*, and *Euphoria*. The studio's history is interesting... but essentially amounts to a rich person throwing small fortunes at creative types to just... mess around and find out. It just so happens that the creative people they throw money at are *exceptionally* talented. 
 
@@ -425,7 +431,7 @@ Artists existed because of patrons. You know, back in the day, when an old money
 
 Not a perfect system, especially because you can't really criticize the wealthy classes directly. But clever artists - and this is one thing that Shakespeare was very good at - would sneak in some real social commentary. He was also apparently pretty good at the gay sex part too. Allegedly. 
 
-So yeah, I'm pretty comfortable qualifying *Hell of a Boss* as Independent Media. Because on top of everything else... Vivzipop has a habit of collaborating with other independent creators in significant ways. And *some* of these creators are people that most corporations in their right mind wouldn't touch with a laser pointer and a hazmat suit.
+So yeah, I'm pretty comfortable qualifying *Helluva Boss* as Independent Media. Because on top of everything else... Vivziepop has a habit of collaborating with other independent creators in significant ways. And *some* of these creators are people that most corporations in their right mind wouldn't touch with a laser pointer and a hazmat suit.
 
 </james>
 <from></from>
@@ -499,7 +505,7 @@ Rogers also has a broad range of characters which he uses to style his comedy he
 <compare>
 <james {% include timecode %}>
   
-Bryce Tank-Thrust, a CEO-turned-president of the United States-turned-disgraced ex-president of the United States, is probably one of the best characterizations of corporate evil I've ever seen. With her *literally* having no heart and raising an army of clones, just to rip their hearts out so that she can keep on being the biggest bitch in America. But even she has had a backstory developed that humanizes her. Because, in the world that Brandon Rogers creates, no one is above being made fun of, and almost no one is too low to sympathize with. 
+Bryce Tankthrust, a CEO-turned-president of the United States-turned-disgraced ex-president of the United States, is probably one of the best characterizations of corporate evil I've ever seen. With her *literally* having no heart and raising an army of clones, just to rip their hearts out so that she can keep on being the biggest bitch in America. But even she has had a backstory developed that humanizes her. Because, in the world that Brandon Rogers creates, no one is above being made fun of, and almost no one is too low to sympathize with. 
 
 Rogers himself is gay and of Portuguese, Filipino, Scottish, and Spanish descent, so he gets a pass for... *pretty* much everyone that he makes fun of in his videos. But even though he's a gay man of color who successfully broken into the insult comic world, dominated by straight white men (and also broken the rules and made it better, in my humble opinion), not all gay people are all too fond of his videos. It's hard not to find gays on Twitter, Reddit, or Tumblr decrying him is bad for the community and giving gays a *bad* name. He's too crass, too juvenile, not setting a good example, not being a (good gay), as it were.
 
@@ -507,7 +513,7 @@ Rogers himself is gay and of Portuguese, Filipino, Scottish, and Spanish descent
 <from></from>
 <clip {% include citation for=page.cite.clips.brandon_rogers %}>
 
-Bryce Tank-Thrust: (Holding blurred out object) “I don't know what you do with these, but I know *you people* will.”
+Bryce Tankthrust: (Holding blurred out object) “I don't know what you do with these, but I know *you people* will.”
 
 Cameraman: “That's a vacuum.” (Object un-blurs, it is a hand-held vacuum.)
 
@@ -597,9 +603,9 @@ But most importantly, all of his characters, no matter how outrageous, are indic
 <compare>
 <james {% include timecode %}>
   
-Ultimately, this is the clear separation between the likes of Parker and Stone, and Rogers. Both can be offensive satire. However, South Park can have a tendency to be *personally* insulting. Rather than Rogers, whose insults are not quite so personal. If I were to qualify, it I would say that the difference would be Roger's comedy targets trends or behaviors themselves, and even if they are indicative of a particular identity, the identity is not the target. Merely their behavior. He humanizes his characters while he's making fun of them. 
+Ultimately, this is the clear separation between the likes of Parker and Stone, and Rogers. Both can be offensive satire. However, *South Park* can have a tendency to be *personally* insulting. Rather than Rogers, whose insults are not quite so personal. If I were to qualify, it I would say that the difference would be Roger's comedy targets trends or behaviors themselves, and even if they are indicative of a particular identity, the identity is not the target. Merely their behavior. He humanizes his characters while he's making fun of them. 
 
-While targeting expressions of an identity, care is taken not to *invalidate* the identity. It is the *character* that is comedic. Whereas, South Park functions... well when it's making fun of white straight people because in the show there are still redeemable white characters to be found. With a limited cast of diverse characters and a set of narrative framing devices that paint these communities with *broad* strokes, the identity itself becomes the target. 
+While targeting expressions of an identity, care is taken not to *invalidate* the identity. It is the *character* that is comedic. Whereas, *South Park* functions... well when it's making fun of white straight people because in the show there are still redeemable white characters to be found. With a limited cast of diverse characters and a set of narrative framing devices that paint these communities with *broad* strokes, the identity itself becomes the target. 
 
 </james>
 <from></from>
@@ -638,9 +644,9 @@ Meanwhile, successful satire tends to hold a reverence for the target of ridicul
 <compare>
 <james {% include timecode %}>
   
-I feel this is indicative of why exactly *Hell of a Boss* holds so much impact. As a writer on most episodes, Rogers seems to be aware of how these characters can reach such carnivalesque heights. While at the same time keeping them identifiable. This sets the stage for when he steps away from the writer's chair for episodes that are intended to be more personal and empathetic - Medrano's brand - without them being tonally jarring.
+I feel this is indicative of why exactly *Helluva Boss* holds so much impact. As a writer on most episodes, Rogers seems to be aware of how these characters can reach such carnivalesque heights. While at the same time keeping them identifiable. This sets the stage for when he steps away from the writer's chair for episodes that are intended to be more personal and empathetic - Medrano's brand - without them being tonally jarring.
 
-Suffice to say, *Hell of a Boss*'s ability to play both camps exceptionally *well* makes it stand out in a way that is refreshing to see. Especially in an era where there is more and more social pressure to go through corporate channels to generate media. Because on the other side of an unspoken shame directed at those who have the moxie, gumption, coordination, drive, determination, grit, skill, talent, and persistence to produce their own media, independent of a corporate structure and agenda, there's a very *loudly* spoken *praise*... for those of us - especially for minority communities - who managed to convince a CEO... to let us make our media. 
+Suffice to say, *Helluva Boss*'s ability to play both camps exceptionally *well* makes it stand out in a way that is refreshing to see. Especially in an era where there is more and more social pressure to go through corporate channels to generate media. Because on the other side of an unspoken shame directed at those who have the moxie, gumption, coordination, drive, determination, grit, skill, talent, and persistence to produce their own media, independent of a corporate structure and agenda, there's a very *loudly* spoken *praise*... for those of us - especially for minority communities - who managed to convince a CEO... to let us make our media. 
 
 </james>
 <from></from>
@@ -651,7 +657,7 @@ Suffice to say, *Hell of a Boss*'s ability to play both camps exceptionally *wel
 <compare>
 <james {% include timecode %}>
   
-When it comes to the success of Vivzipop animation, and especially the prominence of Medrano and Rogers as YouTube creators, there's a discussion to be had about why queer content doesn't seem to translate onto the *big* screen. As well as being touch and go with cable TV. Whereas our visibility seems to *thrive* on streaming and on media sharing platforms like YouTube. It seems like the smaller the screen, the more liable we are to thrive.
+When it comes to the success of Vivziepop animation, and especially the prominence of Medrano and Rogers as YouTube creators, there's a discussion to be had about why queer content doesn't seem to translate onto the *big* screen. As well as being touch and go with cable TV. Whereas our visibility seems to *thrive* on streaming and on media sharing platforms like YouTube. It seems like the smaller the screen, the more liable we are to thrive.
 
 There's an under-discussed discourse for why this may be. The easiest suggestion- and this is Hollywood's favorite- is that gay stories just don't make money. Sure, we are a relatively small community. But so are so many other communities who receive a *wide range* of representation in film. And what it comes down to is that... no we don't really turn out to support movies that *purport* to represent us. 
 
@@ -693,9 +699,9 @@ Eichner is desperately trying to be both Tina Fey and Larry Kramer. However, he'
 <compare>
 <james {% include timecode %}>
   
-Make no mistake, the queer demographic is relatively small, for now. However, we, in conjunction with a broader audience who *are* interested in queer characters and stories, were invested enough to give *Hell of a Boss* the kind of views on YouTube which would have *any* television executive wetting their pants. Given that both *Hell of a Boss* and *Bros* have a similar comfort with curse words and sexuality, why is one so much more successful than the other? 
+Make no mistake, the queer demographic is relatively small, for now. However, we, in conjunction with a broader audience who *are* interested in queer characters and stories, were invested enough to give *Helluva Boss* the kind of views on YouTube which would have *any* television executive wetting their pants. Given that both *Helluva Boss* and *Bros* have a similar comfort with curse words and sexuality, why is one so much more successful than the other? 
 
-Regardless of the platform a *Hell of a Boss* is just ubiquitously more successful. And it was made without the stamp of approval from a major studio. And most importantly, why do queer audiences gravitate towards the YouTube show so strongly whereas queer audiences were likely to turn away from *Bros*?
+Regardless of the platform a *Helluva Boss* is just ubiquitously more successful. And it was made without the stamp of approval from a major studio. And most importantly, why do queer audiences gravitate towards the YouTube show so strongly whereas queer audiences were likely to turn away from *Bros*?
 
 </james>
 <from></from>
@@ -799,7 +805,7 @@ From a creative side, the film is designed to lampoon a very real precedent of q
 <compare>
 <james {% include timecode %}>
   
-For all *Bros* seems to pride itself on being "Thee Gay Movie", it certainly doesn't reach very far to accommodate the people it claims to want to service. And definitely expects that audiences... do the heavy lifting in this relationship with the media. And yet aside from living in this fictitious self-insertion wish fulfillment world of fiction, where everybody *likes* Billy - I mean, Bobby - and takes him *seriously*, every stop is pulled to validate straight opinions of queer identities. 
+For all *Bros* seems to pride itself on being "The Gay Movie", it certainly doesn't reach very far to accommodate the people it claims to want to service. And definitely expects that audiences... do the heavy lifting in this relationship with the media. And yet aside from living in this fictitious self-insertion wish fulfillment world of fiction, where everybody *likes* Billy - I mean, Bobby - and takes him *seriously*, every stop is pulled to validate straight opinions of queer identities. 
 
 "Don't worry, straights! You know all those weird things about gay culture like polyamory and being comfortably single into your 40s? And you know how queer people are just *constantly* arguing about privilege? Yeah don't worry. It *is* dumb and dysfunctional. 'Cause I said so." 
 
@@ -821,9 +827,9 @@ If Eichner really was intent on making *Bros* for us, queer people, then he woul
   
 But if Eichner was sincere in wanting to create media that speaks to and for the queer community... then that dream was always going to be hobbled by a big Hollywood producer, for whom this community is a demographic on a chart. And a small one compared to the straight white men and women aged 18 to 56. 
 
-More confusing, still, is the fact that this group of Executives and creative decision makers (who think they know something about what audiences want, in *spite* of landing their job after coming from the microwave division) that insists that flops like *Bros* are *proof positive* that there's just no demand for queer content.
+More confusing, still, is the fact that this group of executives and creative decision makers (who think they know something about what audiences want, in *spite* of landing their job after coming from the microwave division) that insists that flops like *Bros* are *proof positive* that there's just no demand for queer content.
 
-Meanwhile, roll over to vivzipop's YouTube channel and find views that any television producer would ritualistically sacrifice their first *and* second born to translate into ratings. No demand? *No demand? None?!* Apparently. 
+Meanwhile, roll over to vivziepop's YouTube channel and find views that any television producer would ritualistically sacrifice their first *and* second born to translate into ratings. No demand? *No demand? None?!* Apparently. 
 
 </james>
 <from></from>
@@ -832,7 +838,7 @@ Meanwhile, roll over to vivzipop's YouTube channel and find views that any telev
 <compare>
 <james {% include timecode %}>
   
-And *Hell of a Boss* sashayed right past the limits of bold language and sexuality that *Bros* stopped at. All the while this show *does* incorporate queer aesthetic sensibilities and *does* feel comfortable digging into the issues affected by queerness and *do* all the things that *Bros* cannot or will not *do* because its narrative structure is predicated on the limits of what a corporate body will let it do. 
+And *Helluva Boss* sashayed right past the limits of bold language and sexuality that *Bros* stopped at. All the while this show *does* incorporate queer aesthetic sensibilities and *does* feel comfortable digging into the issues affected by queerness and *do* all the things that *Bros* cannot or will not *do* because its narrative structure is predicated on the limits of what a corporate body will let it do. 
 
 Though her platform is self-made and much smaller, Medrano has reached more audiences than an overwhelming majority of creators who make (as would be considered by many) the *right* kind of queer content. 
 
@@ -922,7 +928,7 @@ The fight for gay rights had been going on *long before* 1993, of course. It's b
   
 We saw gay characters only being allowed on TV after a certain time of night and movies almost universally being rated R if they had a gay character. To Disney, releasing a 200 million dollar animated movie with a gay lead character... even if they did neglect to market it. 
 
-We saw LGBTQ literature go from existing on the fringes with people rushing out of tiny bookstores with non-descript paper bags containing copies of books by authors like Christopher Isherwood, Radcliffe Hall, and James Baldwin, to queer Y.A. books becoming *global* bestsellers and inspiring hit TV shows. 
+We saw LGBTQ literature go from existing on the fringes with people rushing out of tiny bookstores with non-descript paper bags containing copies of books by authors like Christopher Isherwood, Radclyffe Hall, and James Baldwin, to queer Y.A. books becoming *global* bestsellers and inspiring hit TV shows. 
 
 Though we've certainly run into some setbacks.... the progress has seemed rapid and unprecedented. (At least that's what the straights say. They don't seem to realize that people were fighting for gay rights *before* the Clinton Administration.) 
 
@@ -941,13 +947,12 @@ But if you look at the queer community of today and the queer community of the p
 
 <compare>
 <james span=2 {% include timecode %} id="died_from_aids">
-  
 
-It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service. 
+It's telling, I think, that once protease Inhibitors had reached the market and an HIV diagnosis was no longer a *death* sentence, the battles that rose *out* of the AIDS epidemic for gay people were access to marriage and military service.
 
-When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.
+<mark yikes>When, once, the queer community was focused on creating the best art and living lives worth telling stories about, the 1990s brought on a new goal: how best to fit in.</mark>
 
-As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, "the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up. And the audience died with them.
+As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, <mark yikes>"the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up.</mark> And the audience died with them.
 
 \[Quote on screen, read out]:
 > "<span stat:id="changed-quote">Now, we don't have any kind of discerning audience.</span> When that audience died &mdash; and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth tier to rise up to the front.
@@ -989,17 +994,17 @@ Furthermore, she was talking about the loss of a sophisticated theater audience!
 <compare>
 <james span=3 {% include timecode %}>
 
-So many of the gays left alive once the Clinton Administration came into being <mark meta>were, to be frank, the boring ones.</mark> The gays who knew nobody and who nobody knew. 
+So many of the gays left alive once the Clinton Administration came into being <mark num=1 yikes>were, to be frank, the boring ones.</mark> The gays who knew nobody and who nobody knew. 
 
 And they rose to the top of the community and therefore their *priorities* rose to the top of the community, as well. 
 
-And what did they want? Apparently, they wanted to join the army and have big gay weddings. <mark meta>General employment non-discrimination wasn't all that important to them</mark>. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
+And what did they want? Apparently, they wanted to join the army and have big gay weddings. <mark num=2 fc=false>General employment non-discrimination wasn't all that important to them</mark>. Making sexuality and gender identity a protected class along with sex, race, and religion wasn't that important to them. They wanted marriage and military. 
 
 Because they were the good gays. Not the naughty gays who were sleeping around and dying of AIDS. Not the poor gays who couldn't make *political* contributions. They were the gays with families and commitment ceremonies and office jobs and houses. They were the good ones the ones who would look *fan-TA-stic* and *incredibly* marketable (when they were interviewed by CNN). They were the gays who straight people would look at and say to themselves “maybe they're not so bad after all. I still don't want *my* kid to be gay but maybe... it's okay if Bob and Henry got married.” 
 
-The gay rights movement shifted from "accept us for who we are" "to we’ll be whatever you want us to be if you accept us." And it's kind of remained that way over the last 30 year. We've been trained to be offended by queers who step too far out of the mainstream. 
+<mark fc=false>The gay rights movement shifted from "accept us for who we are" to "we’ll be whatever you want us to be if you accept us." And it's kind of remained that way over the last 30 year.</mark> We've been trained to be offended by queers who step too far out of the mainstream.
 
-Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter started showing up to Awards shows in dresses. Lots - and I mean *lots* - of gays were unnerved and worried when trans people started coming out of their *own* closets. Some going so far as to disavow the "T" from the LGBT because they were worried people who don't like trans people would lop in the gay men and women in with them. Who needs community when you've already got your house in the suburbs, right?
+Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter started showing up to Awards shows in dresses.<sup cn></sup> Lots - and I mean *lots* - of gays were unnerved and worried when trans people started coming out of their *own* closets. Some going so far as to disavow the "T" from the LGBT because they were worried people who don't like trans people would lop in the gay men and women in with them. Who needs community when you've already got your house in the suburbs, right?
 
 </james>
 <comment color={{ace_116.color}}>
@@ -1050,7 +1055,7 @@ So it's been absolutely *revelatory* for me, born right around the time the "goo
   
 Brandon Rogers has been the antithesis of the good gays in those old gay marriage commercials for about 15 years now. And his videos are just getting better and more complex as time goes on. Giving us queer characters that mainstream media would be far *far* too squeamish to portray. 
 
-Vivzipop's expanding world of Hell has given us queer assassins, queer princes of Hell, queer demonic drug addicts, and the queer daughter of Lucifer and Lilith themselves who just wants to help people.
+Vivziepop's expanding world of Hell has given us queer assassins, queer princes of Hell, queer demonic drug addicts, and the queer daughter of Lucifer and Lilith themselves who just wants to help people.
 
 Meanwhile Hollywood gives us annoying gays... dying gays... and gays they refuse to market. 
 
@@ -1076,7 +1081,7 @@ Meanwhile, there's a horde of people begging for your attention that we as a who
   
 So, in 2023, I think we need to make a promise: to search out and watch some more independent queer media. And stop jumping for joy every time Marvel happens to cast a queer actor. 
 
-I'd say we're a *long* way off from Disney producing anything nearly as queer as the 2013 Young Avengers run by Kieran Gillen. Holding your breath for this is only going to turn you blue. 
+I'd say we're a *long* way off from Disney producing anything nearly as queer as the 2013 Young Avengers run by Kieron Gillen. Holding your breath for this is only going to turn you blue. 
 
 Support queer creators on Patreon. Buy independently published books by queer authors. Stream web series by queer video producers. And watch all the queer movies and series that somehow make their way onto major streaming services like Netflix and Amazon. 
 

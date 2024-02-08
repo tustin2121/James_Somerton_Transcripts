@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/cmde5ylg6-w"
+
 date: 2021-08-31
 title: Disney's Gay Cultural Appropriation # ｜ James Somerton
 status: Auto

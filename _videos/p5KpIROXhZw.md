@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/p5kpiroxhzw"
+
 date: 2023-11-23
 title: Neil Gaiman & Queering Fantasy
+runtime: 45:26
 status: Finished
 aka: !!seq
   - "Sandman and Queering the Fantastical"

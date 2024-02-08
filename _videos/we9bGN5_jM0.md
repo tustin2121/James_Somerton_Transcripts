@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/we9bgn5_jm0"
+
 date: 2018-06-30
 title: Harry Potter and The Closet Under The Stairs #- Queer themes in Harry Potter (Video essay)
 status: Auto

@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/f5ab1x2cfq8"
+
 date: 2023-04-20
 title: The Queer Dystopia of the LGB Movement
+runtime: 43:50
 status: Finished
 aka: !!seq
   - "The LGB Dystopia (Thumbnail)"
@@ -11,6 +15,7 @@ links: !!seq
 description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
 notes:
   - script-diff
+  - w-nick-james
 
 contributors:
   transcription: $cite$from-script

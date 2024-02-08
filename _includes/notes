@@ -1,16 +1,4 @@
 {%- for n in include.notes -%}
-	{%- case n -%} 
-	{%- when "vimeo" %} <a title="This video was exclusive to Vimeo for age-gating reasons." class="note"><i class="fa-brands fa-vimeo"></i></a>
-	{%- when "unreleased" %} <a title="This video was not yet released to the public before the plagiarism video came out." class="note"><i class="fa-solid fa-eye-slash"></i></a>
-	{%- when "hbomb" %} <a title="This video is one of the (minimum) 26 videos HBomberGuy said were confirmed to have plagiarism in his video." class="note"><i class="fa-solid fa-bomb"></i></a>
-	{%- when "multipart" %} <a title="This video is a compilation of multiple previously released videos." class="note"><i class="fa-solid fa-film"></i></a>
-	{%- when "odd-linebreaks" %} <a title="Transcript had unusual line break characters prior to cleanup" class="note"><i class="fa-regular fa-file-lines"></i></a>
-	{%- when "short-advert" %} <a title="Had a short that advertised the early release of this video on his patreon." class="note"><i class="fa-solid fa-rectangle-ad"></i></a>
-	{%- when "commentary" %} <a title="Had a Patreon-exclusive audio commentary video made for it." class="note"><i class="fa-solid fa-file-audio"></i></a>
-	{%- when "behind-scenes" %} <a title="Had a Patreon-exclusive behind-the-scenes video made for it." class="note"><i class="fa-solid fa-file-video"></i></a>
-	{%- when "podcast" %} <a title="This is a podcast-style video rather than an essay." class="note"><i class="fa-solid fa-podcast"></i></a>
-	{%- when "post-callout" %} <a title="This video was released post-callout by HBomberGuy." class="note"><i class="fa-solid fa-square-rss"></i></a>
-	{%- when "dec2-delete" %} <a title="James deleted this video on Dec 2nd, less than an hour after HBomberGuy's video released." class="note"><i class="fa-solid fa-calendar-xmark"></i></a>
-	{%- when "dec5-delete" %} <a title="James deleted this video on Dec 5th, before deleting everything else on Dec 7th." class="note"><i class="fa-regular fa-calendar-xmark"></i></a>
-	{%- endcase -%}
+	{%- assign ni = site.data.info.notes | map: n | first -%}
+	&nbsp;<a title="{{ ni.desc }}" class="note"><i class="{{ ni.icon }}"></i></a>
 {%- endfor -%}

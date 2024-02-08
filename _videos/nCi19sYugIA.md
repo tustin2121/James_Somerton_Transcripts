@@ -1,8 +1,12 @@
 ---
+redirect_from:
+  - "/videos/nci19syugia"
+
 date: 2022-11-10
 title: The Traumatic Camp of "Mommie Dearest"
+runtime: 22:04
 parent: Tk9wh5rBmW0
-status: Finished
+status: Complete
 aka: !!seq
 topics: !!seq
   - Mommie Dearest
@@ -22,14 +26,16 @@ contributors:
 
 cite:
   clips: !!map
-    mommie_dearest: { short: "Mommie Dearest", full: "TODO Mommie Dearest" }
-    tonight_show: { short: "Tonight Show", full: "TODO Tonight Show" }
-    director: { short: "Director Interview", full: "TODO Director Interview" }
-    joy_behar: { short: "Joy Behar", full: "TODO Joy Behar Say Anything show clip" }
+    mommie_dearest: { short: "Mommie Dearest", full: "Perry, F. (1981). <em>Mommie Dearest</em> [Film]. Paramount Pictures." }
+    tonight_show: { short: "Tonight Show", full: "de Cordova, F., Lassally, P. (Producers). (1988). <em>The Tonight Show starring Johnny Carson</em> [Television broadcast]. NBC Studios." }
+    director: { color: 5, short: "The Hollywood Collection (S2E8) (Feldmen, 1996)", full: "Feldmen, G., Winter, S. (Writers), & Feldman, G. (Director). (1996) Joan Crawford: Always the Star (Season 2, Episode 8) [TV series episode]. In S. Janson (Executive Producer). <em>The Hollywood Collection</em>. Wombat Productions.", url: "https://www.youtube.com/watch?v=e0hsqWUHz7c" }
+    joy_behar: { short: "Joy Behar", full: "Behar, J. (Host). (2013, May 2). Episode 118. In <em>Joy Behar: Say Anything!</em>. Current TV.", url: "https://www.youtube.com/watch?v=x3FG_61gmjM" }
   yikes: !!map
   misinformation: !!map
     haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     misattributed: "James misattributes a quote from a news article as being from a book."
+    director_misquote: "James edited out the context of a quote for director Herbert Kenwith, making it look like he was saying something when he was quoting someone else."
+    cola_company: "James probably overblows Joan's value to the Pepsi-Cola company."
   plagiarized: !!map
     wiki_film: 
       color: 2
@@ -96,6 +102,8 @@ Written by Nick Herrgott & James Somerton
 </credits>
 </compare>
 
+<div class="notice-banner" id="camp-start"><a href="{{ "Camp-000001" }}#mmd-in"><i class="fa-solid fa-right-to-bracket"></i> "How the Gays Stole Cinema"</a>'s version starts here.</div>
+
 <compare>
 <james span="2" {% include timecode %}>
 
@@ -113,7 +121,7 @@ Written by Nick Herrgott & James Somerton
 <compare>
 <james {% include timecode %}>
 
-Through the process of imitation, Baby Jane, Cleopatra, Martha, Eve Harrington, and Crawford herself are imitated here. To the point, wherein Faye Dunaway's mind playing Joan Crawford, this is a *perfectly* nuanced depiction of Hollywood's archetypal movie star. <mark>John Waters described *Mommie Dearest* as <q>"The first drag queen role played by a woman."</q></mark> And he's not wrong.
+Through the process of imitation, *Baby Jane*, *Cleopatra*, *Martha*, *Eve Harrington*, and Crawford herself are imitated here. To the point, wherein Faye Dunaway's mind playing Joan Crawford, this is a *perfectly* nuanced depiction of Hollywood's *archetypal* movie star. <mark>John Waters described *Mommie Dearest* as <q>"The first drag queen role played by a woman."</q></mark> And he's not wrong.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.bkr_video at="(25:18)" %}>
@@ -226,7 +234,9 @@ Joan: "Why are you doing that?! TELL ME!!"
 </clip>
 <james {% include timecode %}>
 
-Joan is so fixated on perfection that she can't handle it when things don't quite fall into place. Following several poor performing films, MGM releases Joan from her contract. This compiles with a string of failed romances and triggers a cascade of Joan's greatest fears. Her beauty, something she felt was her primary asset, is fading. But what terrifies her is that she does not have the talent to make up for it. In her defense, yes, MGM was shafting her. As a human being, she was aging. But they continued to cast her in roles as if she was *The* Joan Crawford that she was 15 years prior, instead of... I don't know, letting her play more *mature* roles. They just cut her loose, because she wasn't ageless.
+Joan is so fixated on perfection that she can't handle it when things don't quite fall into place. Following several poor performing films, MGM releases Joan from her contract. This compiles with a string of failed romances and triggers a cascade of Joan's greatest fears. Her beauty, something she felt was her primary asset, is fading. But what *terrifies* her is that she does not have the talent to make up for it. 
+
+In her defense, yes, MGM was shafting her. As a human being, she was aging. But they continued to cast her in roles as if she was *The* Joan Crawford that she was 15 years prior, instead of... I don't know, letting her play more *mature* roles. They just cut her loose, because she wasn't ageless.
 
 Joan Crawford (it is implied) held herself up to perfection because she (accurately) assumed that a single slip up would have her thrown to the dogs. And when that fear was validated, we can expect some erratic behavior. Which [chuckling] gives us one of the most iconic scenes in camp history. 
 
@@ -276,7 +286,7 @@ Joan: "Bring me the axe!"
 </clip>
 <james {% include timecode %}>
 
-*Thee* axe. *Thee* axe. Not "bring me *an* axe", "bring me *the* axe". In the literal syntactic text of the movie, we can gauge that this is a [laughing] *regular occurrence* at the Crawford household. Because Christina didn't flinch! And she knew exactly which axe to get and where to get it.
+*Thee* axe. *Thee* axe. Not "bring me *an* axe", "bring me *the* axe". In the literal syntactic text of the movie, we can gauge that this is a [laughing] *regular occurrence* at the Crawford household! Because Christina didn't flinch! And she knew exactly which axe to get and where to get it.
 
 </james>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
@@ -416,7 +426,7 @@ Christina (dramatically): "Because I am *not*...! One of your ***FANSSSS!***"
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And *now* we're getting into the territory of Christina's accounts that *can* be backed up by fact. 
 
@@ -424,20 +434,29 @@ Fact number one! ...is that, yes, Joan really did replace Christina [laughing] o
 
 </james>
 <from></from>
-<james span="2" {% include timecode %}>
-
-Fact number two! Is *another* iconic scene: Joan Crawford *was* on the board of directors for PepsiCo, via her husband. The company was a nothing up-start to compete with the behemoth that was Coca-Cola. Joan was brought on as a brand ambassador and basically *made* the company into what it was. Joan married the CEO, and the board of directors *did* try to force her out after his death. 
-
-In the film, this encounter is depicted with Joan... *screaming* into the boardroom, famously saying--
-
-</james>
 <comment>
 {% include header for=tustin %}
 
 It should be noted here that James has had a Pepsi can sitting next to him on his right this whole time, clearly in frame.
 
 </comment>
-<from></from>
+<james {% include timecode %}>
+
+Fact number two! Is *another* iconic scene: Joan Crawford *was* on the board of directors for PepsiCo, via her husband. <mark fc>The company was a nothing up-start to compete with the behemoth that was Coca-Cola. Joan was brought on as a brand ambassador and basically *made* the company into what it was.</mark> Joan married the CEO, and the board of directors *did* try to force her out after his death. 
+
+In the film, this encounter is depicted with Joan... *screaming* into the boardroom, famously saying--
+
+</james>
+<comment id="cola_company">
+{% include header name="enoDRtiG" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/60#issuecomment-1920264290" %}
+
+While Pepsi did take quite a while to get anywhere close to Coke, the catching up started long before Joan Crawford married Pepsi president Alfred Steele in 1955. 
+
+In 1951, the year after Steele became president of Pepsi-Cola, [Pepsi's gross profit before expenses was $30,216,383](https://archive.org/details/pepsicofritolayannualreports/pepsicola1960/page/n27/mode/2up) while [Coca-Cola's was $123,477,571.54](https://archive.org/details/cocacolacoannualreports/cocacola1951/page/n7/mode/2up), so about a quarter of Coca-Cola's. Which is a lot smaller but not 'nothing'. 
+
+The truth in Somerton's claim is that Steele's tenure as president did see a massive growth in Pepsi-Cola's sales, as the report from 1960 linked above clearly demonstrates, but it was pretty continuous before and after marrying Joan Crawford, <mark>so I doubt she played that big of a role.</mark>
+
+</comment>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
 Joan: "*DON'T FUCK WITH ME, FELLAS!!*"
@@ -544,19 +563,31 @@ Bettie: "One-- One million dollars: Faye Dunaway."
 </compare>
 
 <compare>
+<visual {% include citation for=page.cite.clips.director at="(49:46)" %}>
+{% assign thc = page.cite.clips.director.color %}
+
+James uses clips from an episode of The Hollywood Collection ([freely available on YouTube](https://www.youtube.com/@TheHollywoodCollection)) and does not credit them.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 But the book is much *tamer*, especially if your frame of reference is the movie, and honestly a lot of the vitriol that gets slung at Christina is, "well, *I* never saw Joan beat her children."
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.director %}>
+<clip visual={{thc}} on="49:47" off="49:48" {% include citation for=page.cite.clips.director %}>
 
-\[On screen]: "Herbert Kenwith, Director"
+\[On screen (added by James)]: "Herbert Kenwith, Director"
 
-Herbert (in interview): "I never saw this happen."
+Herbert (in interview): <mark meta>"I never saw this happen."</mark>
 
 </clip>
+<from id="director_misquote" {% include citation for=page.cite.clips.director at="(49:46)" %}>
+
+Herbert: These things just didn't happen. She had a wonderful secretary by the name of Betty Barker. Betty was with her for 27, 28 years <mark fc=false>and Betty said,</mark> "I must have been living in another home. <mark>"I never saw this happen."</mark> The twins said the same thing.
+
+</from>
 <james {% include timecode %}>
 
 "Well, *I* never saw Harvey Weinstein rape anybody."
@@ -565,16 +596,18 @@ Which you'd think, in this post-MeToo, believe-victims society, that excuse woul
 
 </james>
 <from></from>
-</compare>
+<clip visual={{thc}} on="50:00" off="50:09" {% include citation for=page.cite.clips.director %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.director %}>
+\[On screen (added by James)]: "Herbert Kenwith, Director"
 
-\[On screen]: "Herbert Kenwith, Director"
-
-Herbert (in interview): "I think christine was very very *envious* of Joan Crawford, and her public, and her popularity, and her beauty."
+Herbert (in interview): "<mark meta>I think christine was very very *envious* of Joan Crawford, and her public, and her popularity, and her beauty</mark>."
 
 </clip>
+<from {% include citation for=page.cite.clips.director at="(50:00)" %}>
+
+Herbert: <mark>I think Christine was very, very envious of Joan Crawford and her public and her popularity and her beauty</mark>, very envious. Joan called me on many occasions to help Christine get a job as an actress which I did on 2 occasions.
+
+</from>
 </compare>
 
 <compare>
@@ -625,53 +658,48 @@ Christina actually did not feel that Dunaway's performance accurately depicted h
 <visual {% include citation for=page.cite.plagiarized.bkr_video at="(12:29)" %}>
 {% assign bkr = page.cite.plagiarized.bkr_video.color %}
 
-It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.
+It's highly likely that James pulled the clips he used in his video from BKR's video, as his clips are an exact subset of the clips they used.
 
 </visual>
 <visual-line></visual-line>
-<clip visual={{bkr}} on="25:37" off="25:??" {% include citation for=page.cite.clips.joy_behar %}>
+<clip visual={{bkr}} on="25:37" off="25:46" {% include citation for=page.cite.clips.joy_behar %}>
 
 Joy Behar: "Is that anywhere near the way Joan Crawford actually acted?"
 
 Christina: "...only the makeup."
 
 </clip> 
-{% comment -%}
-<from {% include citation for=page.cite.plagiarized.bkr_video at="(25:37)" %}>
-
-[...] She didn't really give us an idea of who Joan Crawford was.
-
-\[Clip from *Joy Behar: Say Anything*, them showing a clip from the movie, then cutting to interview:]
-
-Joy: "Is that anywhere near the way Joan Crawford actually acted?"
-
-Christina: "Only the makeup."
-
-<footer>It's highly likely that James pulled the clip he used in his video from BKR's video, as his clip is an exact subset of the clip they used.</footer>
-</from>
-{%- endcomment -%}
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Faye Dunaway specifically went out of her way to manipulate the script, the director, and producers to *humanize* Joan, all the while lambasting the book as tabloid drivel, *only* for the author of that "drivel" to decry the performance for depicting *a monster*. It also didn't help that Dunaway was already kind of a diva. Once again, ironically, Joan Crawford was quoted saying:
+<span visual={{bkr}} on="26:48" off="26:55">Faye Dunaway specifically went out of her way to manipulate the script, the director, and producers to *humanize* Joan</span>,  
+<span visual={{bkr}} on="31:43" off="31:53">all the while lambasting the book as tabloid drivel, *only* for the author of that "drivel" to decry the performance for depicting *a monster*.</span>  
+It also didn't help that Dunaway was already kind of a diva. Once again, ironically, Joan Crawford was quoted saying:
 
 \[Quote on screen:]
 
 > "Of all the actresses, to me, only Faye Dunaway has the talent and the class and the courage it takes to make a real star." [~Joan Crawford]
 
-Dunaway later blamed *Mommie Dearest* for hurting her career, and given that she was a bit of a hot ticket actress *before* the 80s, she was forced into roles in smaller films for the rest of her life. And on one hand, you may say it's because of her performance, but plenty of actors have had bad roles. Maybe nothing so monumental as *this*... but... 
-
 </james>
 <from></from>
+<james {% include timecode %}>
+
+Dunaway later blamed *Mommie Dearest* for hurting her career, and given that she was a bit of a hot ticket actress *before* the 80s, <span visual={{bkr}} on="31:01" off="31:04"><mark x>she was forced into roles in smaller films</mark> for the rest of her life</span>. And on one hand, you may say it's because of her performance, but plenty of actors have had bad roles. Maybe nothing so monumental as *this*... but... <mark x>Faye was a bit of a... *hassle*</mark>, you see. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.bkr_video at="(30:44)" %}>
+
+In 1994, Diane Heithman wrote in the LA Times that Faye Dunaway was unofficially relieved of her movie stardom crown in the 1980s. David Denby, at The New Yorker, was much more blunt: ""Mommy Dearest" finished her career as a star." 
+
+The shift away from that stardom was severe. She moved to the UK, where she basically laid low for about eight years and <mark x>took much smaller, low profile roles</mark>. Of course, the reaction to *Mommy Dearest* was a major factor in this, but more broadly speaking, she had just turned 40 which, as we know, is a curse for women in Hollywood; <mark x>was famously difficult on set</mark>; and happened to give the (quote unquote) "worst performance of her life" just as [...]
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Faye was a bit of a... *hassle*, you see. On top of being a prima donna in general, she allegedly terrorized the set of *Mommie Dearest*. For starters, she refused to drop out of character during production. So on top of delivering...
+On top of being a prima donna in general, she allegedly terrorized the set of *Mommie Dearest*. For starters, she refused to drop out of character during production. So on top of delivering...
 
 \[Cutaway to visual only shot of Faye-as-Joan screaming and wailing.]
 
@@ -707,7 +735,7 @@ Regarding her [air quotes] "method acting"... (and we'll avoid a discussion abou
 
 > "If your mind is on a woman who is dead and you're trying to find out who she was and do right by her, you do feel a presence. I felt it at home at night sometimes. It wasn't pleasant. I felt Joan was not at rest." [~Faye Dunnaway]
 
-So I *think* what happened is that Faye was so engaged with the *memory* of Joan that she may have spurred a vindictive streak against Christina. And so she kind of took out all that bottled up rage on the effigy of Christina. Which is why you got all this aggression, I think. While there was an initial wave of critics who... hailed her performance, it didn't take long for the public perception to *swing* the other way. Going down as one of the best-*bad* performances of all time.
+So I *think* what happened is that Faye was so engaged with the *memory* of Joan that she may have spurred a vindictive streak against Christina. And so she kind of took out all that bottled up rage on the effigy of Christina. Which is why you got all this aggression, I think. 
 
 </james>
 <comment id="haunted">
@@ -735,13 +763,16 @@ As [called out by BKR themselves](https://twitter.com/bkrewind/status/1731341792
 <visual-line></visual-line>
 <james {% include timecode %}>
 
-A serious actress like Faye Dunaway did not cotton to that idea. She blamed the director for not reeling her back. She blamed the editors and the producers for taking her depiction of a window into a tormented soul and making it camp. She blamed Christina and her husband. She blamed Christina's book. And worst of all, she blamed her audience for not taking away her intended interpretation. 
+While there was an initial wave of critics who... hailed her performance, it didn't take long for the public perception to *swing* the other <span visual={{bkr}} on="35:38" off="35:39">way. Going down as one of the best-*bad* performances of all time.</span>
+
+A serious actress like Faye Dunaway did not cotton to that idea. She blamed the director for not reeling her back. She blamed the editors and the producers for taking her depiction of a window into a tormented soul and making it camp. She blamed Christina and her husband. She blamed Christina's book. <span visual={{bkr}} on="34:20" off="34:24">And worst of all, she blamed her audience for not taking away her intended interpretation.</span> 
 
 Though she *has* come around to the unforeseen fandom of the film, but... still doesn't quite *get* what they see in it. Because make no mistake, there is a fandom around this moving picture. Little did Dunaway know, she had opened the floodgates to a whole fandom that had only until then existed in burlesque shows. A fandom that upon the movie's release would hang Christina Crawford in effigy.
 
 </james>
 <from></from>
 </compare>
+
 
 <compare>
 <james {% include timecode %}>
@@ -751,5 +782,14 @@ Though she *has* come around to the unforeseen fandom of the film, but... still 
 *Mommie Dearest* legitimized a *whole* group of audiences and creators who were going to do what Dunaway did, but do it on purpose. With or without the ghost of Joan Crawford.
 
 </james>
-<from></from>
+<comment>
+{% include header for=tustin %}
+
+The patreon credits were added to the stand-alone version of this video.
+
+</comment>
 </compare>
+
+<div class="notice-banner" id="camp-end">"How the Gays Stole Cinema"'s segment <a href="{{ "Camp-000001" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
+
+<div class="notice-banner" id="camp-end">The compilation video <a href="{{ "Tk9wh5rBmW0" }}#mmd-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>

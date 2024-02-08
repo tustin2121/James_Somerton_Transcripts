@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/e9vdpcetk5w"
+
 date: 2023-01-24
 title: The Queer Joy of Everything Everywhere All At Once
 status: Auto

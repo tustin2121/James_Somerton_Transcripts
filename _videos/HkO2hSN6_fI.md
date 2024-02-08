@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/hko2hsn6_fi"
+
 date: 2023-04-05
 title: The Gays and Dating Apps (A Conversation)
 status: Auto
