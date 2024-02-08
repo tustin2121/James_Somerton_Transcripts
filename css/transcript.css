@@ -11,6 +11,7 @@
 			--box-border-comment: gray;
 			--box-header-color: gray;
 			
+			--mark-action-text: gray;			
 			--mark-stolen-text: #ffcced;
 			--mark-stolen-bg: #47005b;
 			--mark-source-text: #c9d1d9;
@@ -32,6 +33,7 @@
 			--box-border-comment: gray;
 			--box-header-color: gray;
 			
+			--mark-action-text: gray;			
 			--mark-stolen-text: #41003a;
 			--mark-stolen-bg: #f4ccff;
 			--mark-source-text: #000000;
@@ -338,6 +340,16 @@
 		font-family: sans-serif;
 		font-weight: 600;
 		color: var(--color-accent-fg);
+	}
+}
+@layer markup {
+	compare u {
+		color: var(--mark-action-text);
+		text-decoration: none;
+	}
+	compare details:not([open]) summary::after {
+		content: " (Click/Tap here for more details)";
+		color: var(--mark-action-text);
 	}
 }
 

@@ -88,6 +88,13 @@
 		],
 		"description": "Surround with inline quote"
 	},
+	"action": {
+		"prefix": "action",
+		"body": [
+			"<u>$TM_SELECTED_TEXT</u>"
+		],
+		"description": "Surround with <u> tags, to indicate non-textual action, such as on-screen movement or callout."
+	},
 	
 	"timecode": {
 		"prefix": "timecode",

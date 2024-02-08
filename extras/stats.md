@@ -29,6 +29,7 @@ The following table of statistics is calculated from the video transcripts autom
 | | |
 | {{stats.y-total }} | Problematic takes in James's videos.[^y] |
 | {{stats.y-misogyny }} | {{T}} Instances of misogyny. |
+| {{stats.y-misgendering }} | {{T}} Instances of misgendering. |
 | {{stats.y-transphobia }} | {{T}} Instances of transphobia. |
 | {{stats.y-acephobia }} | {{T}} Instances of acephobia. |
 | {{stats.y-exclusion }} | {{T}} Instances of any of the above by exclusion. |
