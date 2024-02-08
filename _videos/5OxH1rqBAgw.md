@@ -218,24 +218,25 @@ Even during World War I the queer subculture survived. <mark>Many clubs and bars
 <mark>Gay men and women, as well as groups supporting their rights, had even made great strides in achieving some form of legal recognition in Germany as well.</mark> <mark>The most important goal, an end to legal discrimination, had been called for by a number of weighty figure and groups even outside the legal and medical professions.</mark> <mark>Moreover, a number of gay rights organizations had sprung up across the country.</mark> <mark>In the big cities, especially Berlin and Hamburg, widespread tolerance and acceptance of gay people was becoming the norm.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.grau_schoppmann at="p.2" %}>
+<from {% include citation for=page.cite.plagiarized.grau_schoppmann at="p.1-2" %}>
 
 <mark>1 Homosexual men and women, as well as groups supporting their rights, had made great efforts to achieve some form of social recognition.</mark> <mark>The most important prerequisite, an end to legal discrimintation, had been called for by a number of weighty figures and groups even outside the medical and legal professions.</mark> <mark>Moreover, a number of special organizations and societies had come into being. <mark>In the big cities, especially Berlin and Hamburg, widespread toleration of a specifically homosexual leisure and contacts culture indicated a liberal interpretation of the relevant penal laws.<sup>1</sup></mark> There was also a significant rise in the activities of the lesbian and gay press and the Scientific-Humanitarian Committee founded by Hirschfeld as early as 1897; in 1919 a Sexual Science Institute had also been created in Berlin. Together with the League of Human Rights, these two institutions spoke out particularly for an end to criminal prosecutions and for the social equality of homosexual men and women.
 
-<footer>1. TODO</footer>
+<footer>1. See the exhibition catalogue *Eldorado. Homosexuelle Frauen und Männer in Berlin 1850 bis 1950. Geschichte, Alltag und Kultur*, Berlin 1984; B. Jellonek. *Homosexuelle unter dem Hakenkreuz*, Paderborn 1990, pp. 39ff.; H. Stümke, *Homosexuelle in Deutschland. Eine politische Geschichte*, Munch 1989, pp. 53ff.; R. Plant, *Rosa Winkel, Der Krieg der Nazis gegen die Homosexuellen*, Frankfurt/Main 1991, pp. 31ff. </footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-<mark>Greater public support for changes in the criminal law meant that political parties had also been under increasing pressure to take a position on gay rights.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law discussed the draft of a common German Penal Code and recommended, among other things, the deletion of <q>Section 175</q>,</mark> the part of the German legal code that made homosexuality illegal.
+<mark>Greater public support for changes in the criminal law meant that political parties had also been under increasing pressure to take a position on gay rights.</mark> <mark>Their different attitudes became apparent in 1929 when the Reichstag Committee on Criminal Law discussed the draft of a common German Penal Code and recommended, among other things, the deletion of <q>Section 175</q>,</mark> the part of the German legal code that made homosexuality illegal.
 
-<footer>2. TODO</footer>
 </james>
 <from {% include citation for=page.cite.plagiarized.grau_schoppmann at="p.2" %}>
 
-<mark>2 Greater public sympathy for such changes in the criminal law meant that political parties too had been under increasing pressure to take a position.</mark> <mark>Their different attitudes became apparent in 1929, when the Reichstag Committee on Criminal Law again discussed the draft of a common German Penal code and recommended, among other things, the deletion of Section 175.<sup>2</sup></mark>
+<mark>2 Greater public sympathy for such changes in the criminal law meant that political parties too had been under increasing pressure to take a position.</mark> <mark>Their different attitudes became apparent in 1929 when the Reichstag Committee on Criminal Law again discussed the draft of a common German Penal code and recommended, among other things, the deletion of Section 175.<sup>2</sup></mark>
+
+<footer>2. On the differences in the programmes of the various parties see W.U. Eissler, *Arbeiterparteien und Homosexuellenfrage. Zur Sexualpolitik von SPD und KPD in der Weimarer Republik*, Berlin 1980.</footer>
 
 </from>
 </compare>
@@ -261,13 +262,17 @@ For many gay men and women in Berlin, life was indeed a cabaret during the 1920s
 <mark>In the years after World War I, extreme economic crisis, widespread unemployment, unprecedented inflation and bitter civil unrest engulfed to Germany.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.22" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.21-22" %}>
 
 Chapter 1: Before the Storm 
 
-The Nazi war against Germany's homosexuals, to be properly understood, must be seen against the backdrop of the terrible tensions and social traumas that ultimately were to cause the collapse of the Weimar Republic. <mark>For the severe economic depression, widespread unemployment, galloping inflation, and bitter civil strife that were to engulf Germany in the wake of World War I</mark> also consigned the country's small but vigorous homosexual-rights movement to oblivion. That movement, which began around the turn of the century, would reach its peak in the early 1920s, under the remarkable leadership of Dr Magnus Hirschfeld. It would enjoy its greatest influence at precisely the moment that the larger society whose prejudices it sought to change began to spin out of control. To understand the fate of Germany’s homosexuals it is necessary to grasp not only the specific events and warring ideologies that destroyed the Weimar Republic and created the conditions that permitted the rise of the Nazis, but also the general atmosphere of Germany between 1919 and 1933.<sup>1</sup>
+The Nazi war against Germany's homosexuals, to be properly understood, must be seen against the backdrop of the terrible tensions and social traumas that ultimately were to cause the collapse of the Weimar Republic. <mark>For the severe economic depression, widespread unemployment, galloping inflation, and bitter civil strife that were to engulf Germany in the wake of World War I</mark> also consigned the country's small but vigorous homosexual-rights movement to oblivion. That movement, which began around the turn of the century, would reach its peak in the early 1920s, under the remarkable leadership of Dr. Magnus Hirschfeld. It would enjoy its greatest influence at precisely the moment that the larger society whose prejudices it sought to change began to spin out of control. To understand the fate of Germany’s homosexuals it is necessary to grasp not only the specific events and warring ideologies that destroyed the Weimar Republic and created the conditions that permitted the rise of the Nazis, but also the general atmosphere of Germany between 1919 and 1933.<sup>1</sup>
 
-<footer>1. TODO</footer>
+<footer>
+
+1. On the collapse of the Weimar Republic, see Friedrich, *Before the Deluge*; Bullock, *Hitler*; Craig, *Germany 1866-1945*; and Fest, *Hitler*. On the origins of Germany's homosexual-rights movement, see the seminal study by James D. Steakley, *The Homosexual Emancipation Movement in Germany*. I am indebted to Steakley's work for much of this chapter's historical information.
+
+</footer>
 
 </from>
 </compare>
@@ -286,6 +291,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 </compare>
 
 {% assign timecode = "5:39" %}
+
 <compare>
 <james {% include timecode %}>
 
@@ -317,12 +323,12 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 
 \[On screen:] "The First Factor"
 
-<mark>Firstly, after World War I, the spectre of revolution frightened many older people. It had been accomplished in Russia by the Bolsheviks, and they had relied on the spread of revolution in Europe to guarantee their survival. It seemed to many that the Revolt in Munich in 1918 was but the opening shot in a class war.</mark> 
+<mark>Firstly, after World War I, the specter of revolution frightened many older people. It had been accomplished in Russia by the Bolsheviks, and they had relied on the spread of revolution in Europe to guarantee their survival. It seemed to many that the revolt in Munich in 1918 was but the opening shot in a class war.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.24" %}>
 
-<mark>Firstly, directly after World War I, many older people were frightened by the specter of revolution. The Bolsheviks had accomplished it in Russia, and they had counted on the spreading of revolution in Europe to ensure their survival. The revolt in Munich seemed to many to be but the opening shot in a class war.</mark> German newspapers were soon filled with hysterical reports of famine in the Ukraine. Many people feared that a Socialist triumph in Germany would doom the country to Russia's plight.
+<mark>First, directly after World War I, many older people were frightened by the specter of revolution. The Bolsheviks had accomplished it in Russia, and they had counted on the spreading of revolution in Europe to ensure their survival. The revolt in Munich in 1918 seemed to many to be but the opening shot in a class war.</mark> German newspapers were soon filled with hysterical reports of famine in the Ukraine. Many people feared that a Socialist triumph in Germany would doom the country to Russia's plight.
 
 </from>
 </compare>
@@ -337,7 +343,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.24" %}>
 
-<mark>Secondly, dozens of racist and virulently nationalistic groups began to flourish in this climate, each more fanatical than the other.</mark> Many participated in the civil strife that began to break out sporadically all over the country. These guerilla skirmishes especially alienated those Germans (the majority, it is safe to say) who wanted an orderly society in which to live and work.
+<mark>Second, dozens of racist and virulently nationalistic groups began to flourish in this climate, each more fanatical than the other.</mark> Many participated in the civil strife that began to break out sporadically all over the country. These guerrilla skirmishes especially alienated those Germans (the majority, it is safe to say) who wanted an orderly society in which to live and work.
 
 </from>
 </compare>
@@ -352,9 +358,13 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.24-25" %}>
 
-<mark>A third factor cracked open the thin walls of stability and did more than any other to destroy trust and hope: the mammoth inflation of 1922-23. In just sixteen months the German mark soared from 192 marks to the American dollar to a staggering 4.2 *trillion*</mark> marks to the dollar.<sup>2</sup> <mark>The financial faith of the country was shattered beyond repair.</mark> The middle class lost its savings and its confidence in government. Persons on fixed incomes, such as pensions, war bonds, and annuities, found their dreams drowned in monetary quicksand. An incomprehensible economic sickness infected everyone, diminishing all salaries and gobbling up savings. Everywhere, pawnshops were packed, and relief rolls lengthened. The labour unions, too, in which many had put their trust, failed. Since the unions’ funds were gone, they could no longer resist the demands of employers: the ten-hour day returned to many industries. Unions began to lose members. Death and suicide rates rose; many children suffered from malnutrition. Those who had left the unions - and there were hundreds upon hundreds of thousands of them - found themselves politically adrift. Neither the left-wing Social Democratic Party (to which most labour unions belonged) nor the liberal or right wing parties offered any prescriptions to cure this epidemic.
+<mark>A third factor cracked open the thin walls of stability and did more than any other to destroy trust and hope: the mammoth inflation of 1922-23. In just sixteen months the German mark soared from 192 marks to the American dollar to a staggering 4.2 *trillion*</mark> marks to the dollar.<sup>2</sup> <mark>The financial faith of the country was shattered beyond repair.</mark> The middle class lost its savings and its confidence in government. Persons on fixed incomes, such as pensions, war bonds, and annuities, found their dreams drowned in monetary quicksand. An incomprehensible economic sickness infected everyone, diminishing all salaries and gobbling up savings. Everywhere, pawnshops were packed, and relief rolls lengthened. The labour unions, too, in which many had put their trust, failed. Since the unions’ funds were gone, they could no longer resist the demands of employers: the ten-hour day returned to many industries. Unions began to lose members. Death and suicide rates rose; many children suffered from malnutrition. Those who had left the unions - and there were hundreds upon hundreds of thousands - found themselves politically adrift. Neither the left-wing Social Democratic Party (to which most labour unions belonged) nor the liberal or right-wing parties offered any prescriptions to cure this epidemic.
 
-<footer>2. TODO</footer>
+<footer>
+
+2. Craig, *Germany*, 450.
+
+</footer>
 
 </from>
 </compare>
@@ -369,7 +379,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.25-26" %}>
 
-<mark>A fourth factor compounded the deepening crisis was the rapid rise in unemployment, especially after 1929 New York Stock Exchange crash, which toppled half of the financial institutions in central Europe.</mark> Austrian banks collapsed first, then a number of leading German banks. In January 1930, <mark>the number of unemployed workers rose from 1.5 million to 3.2 million. Some economists estimate the actual number to have been more than six million by 1933.</mark> Many of the unemployed were teenagers or in their early twenties; they waited in endless lines before the welfare agencies to receive their meagre welfare stamps worth less than twenty dollars a month. On every corner, peddlers offered trinkets nobody wanted; street singers and itinerant musicians played endlessly in courtyards for people who could not afford to drop a few into their empty caps. Many young men, without hope, sullen and bewildered, were filled with a rage that knew no release. Many began to join the extremist parties of both the left and the right; many joined first the left, then the right. The promise of dramatic change suddenly made sense. Men were hungry too long, and now they were angry and desperate.
+<mark>A fourth factor compounding the deepening crisis was the rapid rise in unemployment, especially after 1929 New York Stock Exchange crash, which toppled half of the financial institutions of Central Europe.</mark> Austrian banks collapsed first, then a number of leading German banks. In January 1930, <mark>the number of unemployed workers rose from 1.5 million to 3.2 million. Some economists estimate the actual number to have been more than six million by 1933.</mark> Many of the unemployed were teenagers or in their early twenties; they waited in endless lines before the welfare agencies to receive their meager welfare stamps worth less than twenty dollars a month. On every corner, peddlers offered trinkets nobody wanted; street singers and itinerant musicians played endlessly in courtyards for people who could not afford to drop a few pennies into their empty caps. Many young men, without hope, sullen and bewildered, were filled with a rage that knew no release. Many began to join the extremist parties of both the left and the right; many joined first the left, then the right. The promise of dramatic change suddenly made sense. Men were hungry too long, and now they were angry and desperate.
 
 </from>
 </compare>
@@ -384,13 +394,13 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.26-27" %}>
 
-<mark>Into this social cauldron was added the fifth and most poisonous ingredient: the Nazi Party. As the number of unemployed rose, the Nazi membership rolls grew.</mark> To be sure, just before Franz von Papen maneuvered Hitler into the chancellorship in 1933, the Nazis had lost quite a few members. Still, the rise in unemployment and the growing strength of the Nazis were indissolubly linked. <mark>The Nazi Party not only provided food, weapons, and a splendid uniform, it proclaimed a new purpose, a new faith, and a new prophet. Inflation and unemployment catapulted into power a man who promised rebirth to all "Aryan" Germans, regardless of status.</mark> Hitler vowed to avenge the injustices of the Treaty of Versailles, and to punish the culprits who had been responsible for Germany’s defeat. As was so often the case, Hitler’s rhetoric was littered with sexual metaphors. Jews and other minorities, for example, were guilty of the “syphilitization of our people.” In 1935, Nazi lawyer Hans Frank would warn that the “epidemic of homosexuality” was threatening the new Reich.<sup>4</sup> America, too, was an enemy, a “niggerized Jewish country”<sup>5</sup> where women painted their faces- a practice that enraged Nazi moralists. Heinrich Himmler, head of the SS, would later boast that no Aryan woman he knew ever used lipstick. It was Himmler who would mastermind the attacks on homosexuals, whom he endowed with the same subhuman, dangerous qualities as were ascribed to Jews, Communists and Gypsies.<sup>6</sup>
+<mark>Into this social cauldron was added the fifth and most poisonous ingredient: the Nazi Party. As the number of unemployed rose, the Nazi membership rolls grew.</mark> To be sure, just before Franz von Papen maneuvered Hitler into the chancellorship in 1933, the Nazis had lost quite a few members. Still, the rise in unemployment and the growing strength of the Nazis were indissolubly linked. <mark>The Nazi Party not only provided food, weapons, and a splendid uniform, it proclaimed a new purpose, a new faith, and a new prophet. Inflation and unemployment catapulted into power a man who promised rebirth to all "Aryan" Germans, regardless of status.</mark> Hitler vowed to avenge the injustices of the Treaty of Versailles, and to punish the culprits who had been responsible for Germany’s defeat. As was so often the case, Hitler’s rhetoric was littered with sexual metaphors. Jews and other minorities, for example, were guilty of the “syphilitization of our people.” In 1935, Nazi lawyer Hans Frank would warn that the “epidemic of homosexuality” was threatening the new Reich.<sup>4</sup> America, too, was an enemy, a “niggerized Jewish country”<sup>5</sup> where women painted their faces - a practice that enraged Nazi moralists. Heinrich Himmler, head of the SS, would later boast that no Aryan woman he knew ever used lipstick. It was Himmler who would mastermind the attacks on homosexuals, whom he endowed with the same subhuman, dangerous qualities as were ascribed to Jews, Communists and Gypsies.<sup>6</sup>
 
 <footer>
 
-4. TODO
-5. TODO
-6. TODO
+4. Geissler, "Homosexuellen-Gesetzgebung," 64, 77.
+5. Weinberg, *World in the Balance*, 73-74.
+6. Smith and Peterson, *Himmler Geheimreden*, 93-94.
 
 </footer>
 </from>
@@ -399,12 +409,12 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-But that shouldn't suggest that everyone in Weimar Republic Germany was destitute. <mark>During the Republic, the homosexual subculture had thrived compared to the rest of the world. Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> As Hitler's influence grew, <mark>the average gay German could go unnoticed and undisturbed.</mark> 
+But that shouldn't suggest that everyone in Weimar Republic Germany was destitute. <mark>During the Republic, the homosexual subculture had thrived compared to the rest of the world. Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors, and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> As Hitler's influence grew, <mark>the average gay German could go unnoticed and undisturbed.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.27" %}>
 
-<mark>During the Weimar Republic, the homosexual subculture had managed an uneasy coexistence with the larger heterosexual society surrounding it. Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> <mark>The average gay man could go unnoticed and undisturbed</mark> unless he fell victim to police entrapment or blackmail.[...]
+<mark>During the Weimar Republic, the homosexual subculture had managed an uneasy coexistence with the larger heterosexual society surrounding it. Of course, those in the spotlight - famous actors, designers, dancers, doctors, politicians, directors, and lawyers - had to live with a certain amount of abuse. But many had acquired power, money and even connections to the Weimar government, which served as protection.</mark> <mark>The average gay man could go unnoticed and undisturbed</mark> unless he fell victim to police entrapment or blackmail.[...]
 
 </from>
 </compare>
@@ -412,7 +422,7 @@ But that shouldn't suggest that everyone in Weimar Republic Germany was destitut
 <compare>
 <james {% include timecode %}>
 
-Though their apparent failure to lose their jobs did enrage many Germans. <mark fc=false>As self-employed artisans, many could still sell their wares outside of Germany, but the heterosexual majority who worked for employers were trapped by the growing inflation. Police began rethinking their leniency on homosexual men.</mark>
+<mark fc=false>Though their apparent failure to lose their jobs did enrage many Germans. As self-employed artisans, many could still sell their wares outside of Germany, but the heterosexual majority who worked for employers were trapped by the growing inflation. Police began rethinking their leniency on homosexual men.</mark>
 
 </james>
 <comment id="artisans">
@@ -428,15 +438,18 @@ The closest thing I could find in the book was a general statement that unemploy
 <compare>
 <james {% include timecode %}>
 
-<mark>The average lesbian,</mark> on the other hand, <mark>enjoyed a kind of legal immunity. During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished. Their owners never feared a police raid. The reason: neither the second German Empire nor the Weimar Republic had ever passed laws forbidding or punishing sexual acts between women.</mark>
+<mark>The average lesbian,</mark> on the other hand, <mark>enjoyed a kind of legal immunity. During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished. Their owners never feared a police raid. The reason: neither the Second German Empire nor the Weimar Republic had ever passed laws forbidding or punishing sexual acts between women.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.27" %}>
 
-<mark>The average lesbian</mark> <mark>enjoyed a kind of legal immunity. During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished,. Their owners never feared a police raid. The reason: neither the second German Empire nor the Weimar Republic had ever promulgated laws forbidding or punishing sexual acts between women.</mark> Lesbian magazines enjoyed healthy circulations, some even featuring popular ads, and a few lesbian plays achieved widespread popularity.<sup>7</sup>
+<mark>The average lesbian</mark> <mark>enjoyed a kind of legal immunity. During the Weimar years, organized lesbian costume balls were held; luxurious lesbian bars and nightclubs flourished. Their owners never feared a police raid. The reason: neither the Second German Empire nor the Weimar Republic had ever promulgated laws forbidding or punishing sexual acts between women.</mark> Lesbian magazines enjoyed healthy circulations, some even featuring personal ads, and a few lesbian plays achieved widespread popularity.<sup>7</sup>
 
-<footer>7. TODO</footer>
+<footer>
 
+7. For a comprehensive picture of Berlin's lesbian subculture, see Bollé, *Eldorado*.
+
+</footer>
 </from>
 </compare> 
 
@@ -448,9 +461,14 @@ The closest thing I could find in the book was a general statement that unemploy
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.27" %}>
 
-<mark>But the sexual tolerance so often associated with the Weimar republic began to disappear as rapidly as Germany’s economy began to crumble.</mark> (The unemployed are generally less tolerant of contragenics.) Germany, it must be remembered, had never been an ethnically pluralistic society. Almost all German churches were state churches. There were no large ethnic groups or religious sects other than the Jews, the Gypsies, and the Jehovah’s Witnesses - the latter relatively small in number. Homosexuals were an obvious, if largely invisible, scapegoat.
+<mark>But the sexual tolerance so often associated with the Weimar Republic began to disappear as rapidly as Germany’s economy began to crumble.</mark> (The unemployed are generally less tolerant of contragenics.<sup>8</sup>) Germany, it must be remembered, had never been an ethnically pluralistic society. Almost all German churches were state churches. There were no large ethnic groups or religious sects other than the Jews, the Gypsies, and the Jehovah’s Witnesses - the latter relatively small in number. Homosexuals were an obvious, if largely invisible, scapegoat.
 
 </from>
+<footer>
+
+8. Allport, *The Nature of Prejudice*.
+
+</footer>
 </compare>
 
 ## Part Two: Paragraph 175
@@ -651,12 +669,12 @@ The vague language of the law had allowed it to go unenforced, but not anymore. 
 <james {% include timecode %}>
 
 <mark>From early on, Roehm displayed an irreverent attitude toward those higher in rank than he, a trait that got him in trouble throughout his career. Later he would observe that "an intelligent, thinking subordinate is the natural enemy to his superior." Roehm often went out of his way to let his superiors know that he considered them inept. His ill-concealed contempt did not endear
-him to the army's high command.</mark>
+him to the army's high command.</mark> Hitler admired this trait in him though, until Roehm's criticisms were turned toward the Fuhrer himself. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.57-58" %}>
 
-<mark>From early on, he displayed an irreverent attitude toward those higher in rank, a trait that got him in trouble throughout his career. Later he would observe that “an intelligent, thinking subordinate is the natural enemy of his superior.” Roehm often went out of his way to let his superiors know that he considered them inept. His ill-concealed contempt did not endear him to the army’s high command.</mark> During his entire career Roehm battled incessantly with his higher-ups, and quickly gained a reputation for being unnecessarily abrasive. Hitler admired this trait in him though, until Roehm's criticisms were turned toward the Fuhrer himself. 
+<mark>From early on, he displayed an irreverent attitude toward those higher in rank, a trait that got him in trouble throughout his career. Later he would observe that “an intelligent, thinking subordinate is the natural enemy of his superior.” Roehm often went out of his way to let his superiors know that he considered them inept. His ill-concealed contempt did not endear him to the army’s high command.</mark> During his entire career Roehm battled incessantly with his higher-ups, and quickly gained a reputation for being unnecessarily abrasive. 
 
 </from>
 </compare>
@@ -682,7 +700,13 @@ Roehm thought the theatricality was a bit much. Despite their disagreements, <ma
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.61" %}>
 
-<mark>Roehm was made chief of the SA and went on to preside over its expansion, recruiting thousands of adoring, unsophisticated young men.</mark> He kept their loyalty until the end. <mark>According to his recollections – and even his most venomous enemies within the Nazi Party never disputed this - he never began a sexual relationship with anyone under his command.</mark> Indeed, Roehm was thirty seven years old when he had sex with another man for the first time. It must have taken a certain amount of bravado for Roehm to conduct his affairs as casually as he did. Whether this was a sign of indifference and courage or just plain foolhardiness is hard to know. What is certain is that <mark>such unabashed behaviour earned him the unending hatred of Himmler and Heydrich, both still nominally under Roehm’s command.</mark> 
+<mark>Roehm was made chief of the SA and went on to preside over its expansion, recruiting thousands of adoring, unsophisticated young men.</mark> He kept their loyalty until the end. <mark>According to his recollections – and even his most venomous enemies within the Nazi Party never disputed this - he never began a sexual relationship with anyone under his command.</mark> Indeed, Roehm was thirty-seven years old when he had sex with another man for the first time.<sup>11</sup> It must have taken a certain amount of bravado for Roehm to conduct his affairs as casually as he did. Whether this was a sign of indifference and courage or just plain foolhardiness is hard to know. What is certain is that <mark>such unabashed behaviour earned him the unending hatred of Himmler and Heydrich, both still nominally under Roehm’s command.</mark> 
+
+<footer>
+
+11. Strasser and Stern, *Flight from Terror*, 189-90.
+
+</footer>
 
 </from>
 </compare>
@@ -702,11 +726,11 @@ But Hitler was growing more attached to Himmler now rather than Roehm, mostly be
 [Operation Hummingbird](https://en.wikipedia.org/wiki/Night_of_the_Long_Knives), or more <mark>popularly known as the Night of the Long Knives, was a bloodbath that began on June 28 and lasted until July 3, 1934, seeing Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm.</mark> He no longer needed his oldest ally whose open homosexuality was becoming a liability. <mark>Because Hitler and Himmler had been secretly building up the SS, a black shirted crew of bodyguards and thugs.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.54" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.53-54" %}>
 
 Chapter 2: The Roehm Affair
 
-<mark>“THE NIGHT OF THE LONG KNIVES” – THE popular phrase for the bloodbath that began on June 28 and lasted until July 3, 1934 - saw Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm,</mark> the man who, since 1919, had been Hitler’s sponsor and faithful second in command. <mark>Long before Hitler decided to “burn out this pestilential boil,” as he later labelled the SA leadership, he had built up the SS. A black shirted crew of tough body guards well experienced in street fighting, the SS, led by Heinrich Himmler</mark> and his deputy, Reinhard Heydrich, was conceived as an “elite guard” and was originally subordinate to the SA. Himmler’s dislike of Roehm, his superior and a homosexual, was an open secret. 
+<mark>“THE NIGHT OF THE LONG KNIVES” – THE popular phrase for the bloodbath that began on June 28 and lasted until July 3, 1934 - saw Adolf Hitler wreck the SA militia and order the shooting of its chief, Ernst Roehm,</mark> the man who, since 1919, had been Hitler’s sponsor and faithful second-in-command. <mark>Long before Hitler decided to “burn out this pestilential boil,” as he later labeled the SA leadership, he had built up the SS. A black shirted crew of tough body guards well experienced in street fighting, the SS, led by Heinrich Himmler</mark> and his deputy, Reinhard Heydrich, was conceived as an “elite guard” and was originally subordinate to the SA. Himmler’s dislike of Roehm, his superior and a homosexual, was an open secret. 
 
 </from>
 </compare>
@@ -769,9 +793,16 @@ Roehm responded,
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.56-57" %}>
 
-Throughout Germany, old scores were settled. For the first time the Third Reich showed its true face. <mark>In Munich, Hitler ordered the SA regulars to the “Brown House,” screaming that they were all “homosexual pigs,” though he well knew that only a few in Roehm’s immediate entourage were homosexual.</mark> In Berlin, Goring greeted the stunned SA lieutenants with abuse, also calling them “homosexual pigs.”
+Throughout Germany, old scores were settled. For the first time the Third Reich showed its true face. <mark>In Munich, Hitler ordered the SA regulars to the “Brown House,” screaming that they were all “homosexual pigs,” though he well knew that only a few in Roehm’s immediate entourage were homosexual.</mark> In Berlin, Goring greeted the stunned SA lieutenants with abuse, also calling them “homosexual pigs.”<sup>2</sup>
 
-<mark>So far, Ernst Roehm had been spared.</mark> We will never know whether Hitler was beset by any last minute regrets about his oldest comrade. <mark>In any case, on July 1, an SS officer entered Roehm’s prison cell, handed him a revolver, and said,</mark> <mark>“I’ll be back in fifteen minutes.</mark> <mark>You have a choice.”</mark> Roehm is supposed to have answered, <mark>“Let Adolf do it himself. I’m not going to do his job.”</mark> <mark>Later that same day, Roehm was finally executed by two SS hitmen,</mark> led by Theodor Eicke, later picked by Himmler to organise the proliferating concentration camps. The corpses of the Stadelheim victims were taken away in a butcher’s tin lined truck.
+<mark>So far, Ernst Roehm had been spared.</mark> We will never know whether Hitler was beset by any last minute regrets about his oldest comrade. <mark>In any case, on July 1, an SS officer entered Roehm’s prison cell, handed him a revolver, and said,</mark> <mark>“I’ll be back in fifteen minutes.</mark> <mark>You have a choice.”</mark> Roehm is supposed to have answered, <mark>“Let Adolf do it himself. I’m not going to do his job.”<sup>3</sup></mark> <mark>Later that same day, Roehm was finally executed by two SS hitmen,</mark> led by Theodor Eicke, later picked by Himmler to organise the proliferating concentration camps. The corpses of the Stadelheim victims were taken away in a butcher’s tin-lined truck.
+
+<footer>
+
+2. Gallo, *The Night of the Long Knives*, 229, 240. 
+3. Many of Roehm's remarks have been reported secondhand; transcripts frequently do not exist, and where they do, they vary greatly according to the bias of the transcriber. See Gallo, *The Night of the Long Knives*, 229. For another version, see Höhne, *Der Orden unter dem Totenkopf*, vol. 1, 127.
+
+</footer>
 
 </from>
 </compare>
@@ -874,11 +905,11 @@ The Jewish people however were not his only targets. Himmler also turned his sig
 <mark>He was especially appalled by homosexuals who he was determined to exterminate</mark> whether under the direct orders of Hitler or not. <mark>In this he had only a partial success. His raging phobia, which was responsible for a violent campaign against German homosexuals, struck terror in the hearts of hundreds of thousands of gay men and killed thousands of others.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.71" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.71-72" %}>
 
 Chapter 3: The Grand Inquisitor
 
-<mark>WITH ROEHM DEAD AND THE SA Vanquished, Himmler and the SS quickly emerged alongside Hitler as the true victors. Within a short time, Himmler would preside over an empire of death whose factories of mass extermination would work around the clock, turning contragenics into ash. He was now the second most powerful man in the Third Reich. And like his master, he now had the opportunity to realise his deepest obsessions. His every whim, however perverse or murderous, was regarded by his SS henchmen as law. The mammoth effort to effect Hitler’s “Final Solution” for Europe’s Jews would increasingly absorb his time and energy.</mark> In this, unfortunately, he was largely successful. <mark>Himmler had a special horror of homosexuals, whom he was determined to exterminate</mark> as well. <mark>In this he enjoyed only a partial success. His raging homophobia, which was responsible for a vicious campaign against Germany’s homosexuals, struck fear in the hearts of hundreds of thousands of gays, and resulted in the deaths of thousands of others.</mark> In order to understand why he put such an effort into this campaign, we have to try to unravel the strands of his twisted personality.
+<mark>WITH ROEHM DEAD AND THE SA Vanquished, Himmler and the SS quickly emerged alongside Hitler as the true victors. Within a short time, Himmler would preside over an empire of death whose factories of mass extermination would work around the clock, turning contragenics into ash. He was now the second most powerful man in the Third Reich. And like his master, he now had the opportunity to realize his deepest obsessions. His every whim, however perverse or murderous, was regarded by his SS henchmen as law. The mammoth effort to effect Hitler’s “Final Solution” for Europe’s Jews would increasingly absorb his time and energy.</mark> In this, unfortunately, he was largely successful. <mark>Himmler had a special horror of homosexuals, whom he was determined to exterminate</mark> as well. <mark>In this he enjoyed only a partial success. His raging homophobia, which was responsible for a vicious campaign against Germany’s homosexuals, struck fear in the hearts of hundreds of thousands of gays, and resulted in the deaths of thousands of others.</mark> In order to understand why he put such an effort into this campaign, we have to try to unravel the strands of his twisted personality.
 
 </from>
 </compare>
@@ -886,25 +917,30 @@ Chapter 3: The Grand Inquisitor
 <compare>
 <james {% include timecode %}> 
 
-<mark>There have always been two Himmlers: the colourless, sickly bureaucrat, hiding behind his towers of alphabetised file cases, staying up late to scrutinise the family trees of prospective SS officers, or the shape of "Aryan" skulls excavated in Tibet; and then the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark>
+<mark>There have always been two Himmlers: the colorless, sickly bureaucrat, hiding behind his towers of alphabetised file cases, staying up late to scrutinize the family trees of prospective SS officers or the shape of "Aryan" skulls excavated in Tibet; and then the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.72" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.72-73" %}>
 
-<mark>There have always been two Himmlers: the colourless, sickly bureaucrat, hiding behind his pince-nez and his towers of alphabetised file cases, staying up late to scrutinise the family trees of prospective SS officers or the shape of “Aryan” skulls excavated in Tibet; and the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark> But most people who met Himmler shared the opinion of Walter Dornberger, the officer in charge of a Nazi experimental rocket base: “He looked to me like an intelligent, elementary school teacher, certainly not a man of violence. I could not for the life of me see anything outstanding or extraordinary about this middle-sized… man in grey SS uniform."
+<mark>There have always been two Himmlers: the colorless, sickly bureaucrat, hiding behind his pince-nez and his towers of alphabetised file cases, staying up late to scrutinize the family trees of prospective SS officers or the shape of “Aryan” skulls excavated in Tibet; and the ogre, the creator of the stunningly efficient Gestapo machine, the remote-control mass killer, ordering the elimination of entire populations without any visible sign of remorse.</mark> But most people who met Himmler shared the opinion of Walter Dornberger, the officer in charge of a Nazi experimental rocket base: “He looked to me like an intelligent, elementary school teacher, certainly not a man of violence. I could not for the life of me see anything outstanding or extraordinary about this middle-sized… man in grey SS uniform."<sup>1</sup>
 
+<footer>
+
+1. Fest, *The Face of the Third Reich*, 112.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organised the destruction of Europe's Jewish population. It was Himmler's SS that set up and ran the concentration camps, beginning in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, Romani, and gay men in Dachau, and then within 10 years had extended its network of terror over more than half of Europe. It was Himmler's "Order of the Death's Head" that supervised the gassing of inmates and the salvaging of gold fillings in their teeth to be deposited at the federal bank in Berlin.</mark>
+<mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organized the destruction of Europe's Jewish population. It was Himmler's SS that set up and ran the concentration camps, beginning in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, Romani, and gay men in Dachau, and then within 10 years had extended its network of terror over more than half of Europe. It was Himmler's "Order of the Death's Head" that supervised the gassing of inmates and the salvaging of gold fillings in their teeth to be deposited at the federal bank in Berlin.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.74" %}>
 
-Himmler was obsessed, all right, but it was another type of compulsion- less visible than Hitler’s, more like that of a reclusive miser constantly counting his hoard of gold. This bureaucratic side, however, was not how most of the world saw him. <mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organised the destruction of European Jewry. It was Himmler’s SS that set up and ran the concentration camps, beginning modestly in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, and homosexuals in Dachau, and that, within ten years, had extended its network of terror over more than half of Europe. It was Himmler’s “Order of the Death’s Head” that supervised the gassing of inmates and the salvaging of the gold fillings in their teeth to be deposited at the federal bank in Berlin</mark> in an account credited to the fictitious “Max Heilinger."
+Himmler was obsessed, all right, but it was another type of compulsion - less visible than Hitler’s, more like that of a reclusive miser constantly counting his hoard of gold. This bureaucratic side, however, was not how most of the world saw him. <mark>The world perceived Himmler as the butcher who ordered all Russian prisoners of war to be killed, and as the man who organized the destruction of European Jewry. It was Himmler’s SS that set up and ran the concentration camps, beginning modestly in 1933 with a few criminals, Communists, Catholics, liberals, Socialists, Jews, and homosexuals in Dachau, and that, within ten years, had extended its network of terror over more than half of Europe. It was Himmler’s “Order of the Death’s Head” that supervised the gassing of inmates and the salvaging of the gold fillings in their teeth to be deposited at the federal bank in Berlin</mark> in an account credited to the fictitious “Max Heilinger."
 
 </from>
 </compare>
@@ -917,12 +953,17 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 > <mark>What happens to the Russians, what happens to the Czechs, is a matter of utter indifference to me… Whether the other peoples live in comfort or perish… interests me only insofar as we need them as slaves for our culture; apart from that it does not interest me. Whether or not ten thousand Russian women collapse from exhaustion while digging a tank ditch, interests me only insofar as the tank ditch is completed for Germany.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.75" %}> 
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.74-75" %}> 
 
 <mark>By 1935 and 1936, when the campaign against contragenics, including homosexuals, began in earnest, Himmler’s officers were legally entitled to arrest suspects on any pretext, force admission of crimes not committed, and throw the victims into camps where they were without legal recourse. Next to Reinhard Heydrich, who was assassinated in 1942, Himmler’s name was the most feared throughout Germany and the occupied territories. His image was that of a monster, devoid of any shred of humanity. He did little to dispel that impression. In October 1943, for example, he told SS leaders assembled in Poznan, Poland:</mark>
 
-> <mark>What happens to the Russians, what happens to the Czechs, is a matter of utter indifference to me… Whether the other peoples live in comfort or perish… interests me only insofar as we need them as slaves for our culture; apart from that it does not interest me. Whether or not ten thousand Russian women collapse from exhaustion while digging a tank ditch, interests me only insofar as the tank ditch is completed for Germany…</mark> Most of you know what it means to see a hundred corpses lying together, five hundred, or a thousand. To have gone through this and yet, apart from a few exceptions- examples of human weakness- to have remained decent, this has made us hard. This is a glorious page in our history that has never been written.
+> <mark>What happens to the Russians, what happens to the Czechs, is a matter of utter indifference to me… Whether the other peoples live in comfort or perish… interests me only insofar as we need them as slaves for our culture; apart from that it does not interest me. Whether or not ten thousand Russian women collapse from exhaustion while digging a tank ditch, interests me only insofar as the tank ditch is completed for Germany…</mark> Most of you know what it means to see a hundred corpses lying together, five hundred, or a thousand. To have gone through this and yet, apart from a few exceptions- examples of human weakness- to have remained decent, this has made us hard. This is a glorious page in our history that has never been written.<sup>4</sup>
 
+<footer>
+
+4. As translated and quoted in Fest, *The Face of the Third Reich*, 115.
+
+</footer>
 </from>
 </compare>
 
@@ -933,15 +974,20 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 
 \[James shows raw numbers on screen during this calculation]: "2,000,000 +2,000,000 =4,000,000"
 
-&mdash; <mark>two million men killed</mark> or injured <mark>in the last war plus two million homosexuals equalled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasized, corrupted other men, making them unwilling or unable to produce children.</mark> 
+&mdash; <mark>two million men killed</mark> or injured <mark>in the last war plus two million homosexuals equaled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasized, corrupted other men, making them unwilling or unable to produce children.</mark> 
 
 > <mark>"If this vice continues," <ins>he warned,</ins> "it will be the end of Germany."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.88-89" %}>
 
-<mark>Germany, Himmler declared, needed a "National Sexual Budget" to make up for the loss of more than a million of its soldiers killed in World War I. Germany had suffered the sharpest decline in its birth rate of all European nations, reaching an exceptional low in 1933.</mark> To be sure, the battered economy probably had been the chief cause, but there were other, less obvious and more insidious reasons for Germany’s weakened condition – corruption by the Weimar Republic, for instance. <mark>Venereal diseases had spread throughout the country, especially among younger people,</mark> precisely those who could produce children. <mark>In addition, the Republic had been beset by another illness; according to statistics, there were two million homosexuals</mark>. <mark>Himmler made a quick calculation:</mark> <mark>two million men killed</mark> <mark>in the last war plus two million homosexuals equalled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half-million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasised, corrupted other men, making them unwilling or unable to beget children.</mark> <mark>"If this vice continues," he warned, "it will be the end of Germany."</mark>
+<mark>Germany, Himmler declared, needed a "National Sexual Budget" to make up for the loss of more than a million of its soldiers killed in World War I.<sup>27</sup> Germany had suffered the sharpest decline in its birth rate of all European nations, reaching an exceptional low in 1933.</mark> To be sure, the battered economy probably had been the chief cause, but there were other, less obvious and more insidious reasons for Germany’s weakened condition – corruption by the Weimar Republic, for instance. <mark>Venereal diseases had spread throughout the country, especially among younger people,</mark> precisely those who could produce children. <mark>In addition, the Republic had been beset by another illness; according to statistics, there were two million homosexuals</mark>. <mark>Himmler made a quick calculation:</mark> <mark>two million men killed</mark> <mark>in the last war plus two million homosexuals equaled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half-million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasised, corrupted other men, making them unwilling or unable to beget children.</mark> <mark>"If this vice continues," he warned, "it will be the end of Germany."</mark>
 
+<footer>
+
+27. Smith and Peterson, *Himmler Geheimreden*, 90-91.
+
+</footer>
 </from>
 </compare>
 
@@ -954,7 +1000,7 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 >
 > they drowned them in bogs. 
 >
-> No, it should not be called punishment. It was extermination of abnormal  existence." 
+> No, it should not be called punishment. It was extermination of abnormal existence." 
 
 <mark>Unfortunately</mark> for Himmler, <mark>the new Germany could not apply the same technique - he did not say whether this was due to a scarcity of suitable bogs - but he would see to it that</mark> 
 
@@ -965,8 +1011,13 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.89" %}>
 
-<mark>A "good race" producing few children was destined to be extinct in two hundred years, while "nations with many children can gain supremacy and mastery of the world." Sex, therefore, was a matter of public concern, not a private affair. Ancient Germany, which had always had "masculine dominance," knew this.</mark> <mark>Germany’s Teutonic forebears "knew what to do with homosexuals: they drowned them in bogs. No, it should not be called punishment. It was 'extermination of abnormal  existence.'"</mark> <mark>Unfortunately</mark>, <mark>the new Germany could not apply the same technique – he did not say whether this was due to a scarcity of suitable bogs - but he would see to it that</mark> <mark>"like stinging nettles we will rip them out [the homosexuals], throw them on a heap, and burn them. Otherwise, if we continue to have this vice predominant in Germany without being able to fight it, we’ll see the end of Germany, the end of the Germanic world."</mark> Further, "All homosexuals are cowards; they lie just like the Jesuits. Homosexuality leads to a state of mind that doesn’t know what it does." In other words, homosexuals are soft and effeminate; they are not really men; they do not fight. Homosexuality is a crime against nature and must be stamped out.
+<mark>A "good race" producing few children was destined to be extinct in two hundred years, while "nations with many children can gain supremacy and mastery of the world." Sex, therefore, was a matter of public concern, not a private affair. Ancient Germany, which had always had "masculine dominance," knew this.</mark> <mark>Germany’s Teutonic forebears "knew what to do with homosexuals: they drowned them in bogs. No, it should not be called punishment. It was 'extermination of abnormal existence.'"</mark> <mark>Unfortunately</mark>, <mark>the new Germany could not apply the same technique – he did not say whether this was due to a scarcity of suitable bogs - but he would see to it that</mark> <mark>"like stinging nettles we will rip them out [the homosexuals], throw them on a heap, and burn them. Otherwise, if we continue to have this vice predominant in Germany without being able to fight it, we’ll see the end of Germany, the end of the Germanic world."</mark> Further, "All homosexuals are cowards; they lie just like Jesuits. Homosexuality leads to a state of mind that doesn’t know what it does." In other words, homosexuals are soft and effeminate; they are not really men; they do not fight.<sup>28</sup> Homosexuality is a crime against nature and must be stamped out.
 
+<footer>
+
+28. Kersten, *Kersten Memoirs*, 50-64.
+
+</footer>
 </from>
 </compare>
 
@@ -985,11 +1036,11 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 <mark>Immediately afterward, a wave of terror swept through Germany, the first of many. Members of opposition parties found themselves on benches in the Berlin central police station. Similar arrests engulfed cities and villages throughout Germany. The Nazis had started to settle accounts with their enemies. When the jails proved not to be large enough, Himmler stepped in; within less than a month he embarked on the construction of concentration camps, beginning with Dachau.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.106" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.105-106" %}>
 
 Chapter Four: Persecution
 
-<mark>WHEN, ON JANUARY 30, 1933, HITLLER was appointed chancellor, triumphant Nazi troopers staged a massive demonstration, marching with torches through the streets of Berlin, singing songs of vengeance.</mark><mark>Still, Hitler did not have the majority of voters needed to win an election on March 5.</mark> <mark>Whether the Nazis really expected a Communist uprising or whether, as often before, they camouflaged their own wrecking methods by ascribing them to their opponents, luck came to their assistance. On February 27 the Reichstag, Germany’s white-columned, neoclassical parliament building, went up in flames. In no time, Hitler, Goring, and Goebbels turned up among the scorched ruins. Hitler proclaimed:</mark> <mark>“This is a sign of Providence from above. Now nobody will dare stand in our way when we crush the Communist menace with an iron fist.”</mark> <mark>Immediately afterward, a wave of terror swept throughout Germany, the first of many. Members of opposition parties found themselves on benches in the Berlin central police station. Similar arrests engulfed cities and villages throughout Germany. The Nazis had started to settle accounts with their enemies. When the jails proved not to be large enough, Himmler stepped in; within less than a month he embarked on the construction of concentration camps, beginning with Dachau.</mark>
+<mark>WHEN, ON JANUARY 30, 1933, HITLLER was appointed chancellor, triumphant Nazi troopers staged a massive demonstration, marching with torches through the streets of Berlin, singing songs of vengeance.</mark><mark>Still, Hitler did not have the majority of voters needed to win an election on March 5.</mark> <mark>Whether the Nazis really expected a Communist uprising or whether, as often before, they camouflaged their own wrecking methods by ascribing them to their opponents, luck came to their assistance. On February 27 the Reichstag, Germany’s white-columned, neoclassical parliament building, went up in flames. In no time, Hitler, Göring, and Goebbels turned up among the scorched ruins. Hitler proclaimed:</mark> <mark>“This is a sign of Providence from above. Now nobody will dare stand in our way when we crush the Communist menace with an iron fist.”</mark> <mark>Immediately afterward, a wave of terror swept throughout Germany, the first of many. Members of opposition parties found themselves on benches in the Berlin central police station. Similar arrests engulfed cities and villages throughout Germany. The Nazis had started to settle accounts with their enemies. When the jails proved not to be large enough, Himmler stepped in; within less than a month he embarked on the construction of concentration camps, beginning with Dachau.</mark>
 
 </from>
 </compare>
@@ -997,30 +1048,40 @@ Chapter Four: Persecution
 <compare>
 <james {% include timecode %}> 
 
-<mark>Among the first to be jailed were the directors of homosexual rights organizations, which had been made illegal just four days before the burning of the Reichstag. Hirschfeld’s Institute for Sexual Research was a prime target, as were Kurt Hiller, its chairman, Felix Halle, a legal adviser, and Max Hodann, a respected sex reformer whose books on women’s rights, sexual minorities, and abortion had annoyed the Nazis for years. Hiller, Hirschfeld’s successor and the most prominent member of the institute, was shipped to Oranienburg, where he was repeatedly tortured.</mark> <mark>The offices of several prominent gay organisations were raided during these early winter weeks of 1933.</mark> <mark>Communist and Social Democratic papers were forced to stop printing. The Nazi propagandists never tired of conjuring up the smouldering debris, the smoking woodpiles, the devastated ceilings of the Reichstag, to declare that this fire was only a beginning. The Communists, they said, had destroyed the Parliament; now they would unleash a civil war. German citizens could expect the worst. Only the strongest government measures could save the nation. Those strongest measures followed soon. On March 24, the so-called Enabling Law was adopted, subtitled</mark>
+<mark>Among the first to be jailed were the directors of homosexual rights organizations, which had been made illegal just four days before the burning of the Reichstag. Hirschfeld’s Institute for Sexual Research was a prime target, as were Kurt Hiller, its chairman, Felix Halle, a legal adviser, and Max Hodann, a respected sex reformer whose books on women’s rights, sexual minorities, and abortion had annoyed the Nazis for years. Hiller, Hirschfeld’s successor and the most prominent member of the institute, was shipped to Oranienburg, where he was repeatedly tortured.</mark> <mark>The offices of several prominent gay organisations were raided during these early winter weeks of 1933.</mark> <mark>Communist and Social Democratic papers were forced to stop printing. The Nazi propagandists never tired of conjuring up the smoldering debris, the smoking woodpiles, the devastated ceilings of the Reichstag, to declare that this fire was only a beginning. The Communists, they said, had destroyed the Parliament; now they would unleash a civil war. German citizens could expect the worst. Only the strongest government measures could save the nation. Those strongest measures followed soon. On March 24, the so-called Enabling Law was adopted, subtitled</mark>
 
 > <mark>The Law to Remove the Stress from People and State</mark>
 
-<mark>In reality, it did away with the constitution, removed all legal restraints, and gave total control to Hitler and his thugs. It signalled the end of the Weimar Republic and the start of the Nazi Regime, and it remained on the books until 1945.</mark>
+<mark>In reality, it did away with the constitution, removed all legal restraints, and gave total control to Hitler and his thugs. It signaled the end of the Weimar Republic and the start of the Nazi Regime, and it remained on the books until 1945.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.107" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.106-107" %}>
 
-<mark>Among the first to be jailed were the directors of homosexual rights organisations, which had been proscribed just four days before the burning of the Reichstag. Hirschfeld’s Institute for Sexual Research was a prime target, as were Kurt Hiller, its chairman, Felix Halle, a legal adviser, and Max Hodann, a respected sex reformer whose books on women’s rights, sexual minorities, and abortion had annoyed the Nazis for years. Hiller, Hirschfeld’s successor and the most prominent member of the institute, was shipped to Oranienburg, where he was repeatedly tortured.</mark> Through sheer luck he was discharged and later published a vivid account of his experience. <mark>The offices of several prominent homosexual organisations were raided during these early winter weeks of 1933.</mark> Storm troopers plundered the premises of Friedich Radzuweit, editor of Die Freundschaft (“Friendship”), and took his stepson to jail. <mark>Communist and Social Democratic papers were forced to stop printing. The Nazi propagandists never tired of conjuring up the smouldering debris, the smoking woodpiles, the devastated ceilings of the Reichstag, to declare that this fire was only a beginning. The Communists, they said, had destroyed the Parliament; now they would unleash a civil war. German citizens could expect the worst. Only the strongest government measures could save the nation. The strongest measures followed soon. On March 24, the so-called Enabling Law was adopted, subtitled</mark> <mark>the Law to Remove the Stress from People and State.</mark> <mark>In reality, it did away with the constitution, removed all legal restraints, and gave total control to Hitler and his thugs. It signalled the end of the Weimar Republic and the start of totalitarianism, and it remained on the books until 1945.</mark>
+<mark>Among the first to be jailed were the directors of homosexual rights organisations, which had been proscribed just four days before the burning of the Reichstag. Hirschfeld’s Institute for Sexual Research was a prime target, as were Kurt Hiller, its chairman, Felix Halle, a legal adviser, and Max Hodann, a respected sex reformer whose books on women’s rights, sexual minorities, and abortion had annoyed the Nazis for years. Hiller, Hirschfeld’s successor and the most prominent member of the institute, was shipped to Oranienburg, where he was repeatedly tortured.</mark> Through sheer luck he was discharged and later published a vivid account of his experience.<sup>1</sup> <mark>The offices of several prominent homosexual organizations were raided during these early winter weeks of 1933.</mark> Storm troopers plundered the premises of Friedich Radzuweit, editor of *Die Freundschaft* (“Friendship”), and took his stepson to jail. <mark>Communist and Social Democratic papers were forced to stop printing. The Nazi propagandists never tired of conjuring up the smoldering debris, the smoking woodpiles, the devastated ceilings of the Reichstag, to declare that this fire was only a beginning. The Communists, they said, had destroyed the Parliament; now they would unleash a civil war. German citizens could expect the worst. Only the strongest government measures could save the nation. The strongest measures followed soon. On March 24, the so-called Enabling Law was adopted, subtitled</mark> <mark>the Law to Remove the Stress from People and State.</mark> <mark>In reality, it did away with the constitution, removed all legal restraints, and gave total control to Hitler and his thugs. It signaled the end of the Weimar Republic and the start of totalitarianism, and it remained on the books until 1945.</mark>
 
+<footer>
+
+1. Kurt Hiller, *Leben Gegen die Zeit*, published in two volumes (1969 and 1973), as quoted in Stümke and Finkler, *Rosa Winkel*, 167-74.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>The blaze that consumed the Reichstag, the later ransacking of Hirschfeld’s institute, and finally the notorious book-burning on May 10, during which fanatical storm troopers destroyed the works of those who had made German culture great but were now declared to be subhumans, should have been seen as a signal to every non-Nazi</mark>, the vast majority of Germans, <mark>that the era of tolerance and progress had abruptly come to an end, that a new dark age would follow.</mark> <mark>Yet most gays hoped they could weather the storm. Many rushed to join the Nazi Party in the belief that they could vanish among the uniformed crowds; others hoped for the best, and although bars and cafes catering to homosexuals were eliminated, they tried to continue their lives as unobtrusively as possible. Gradually, many realised that their existence was threatened, and they lived in constant fear of discovery. Others joined the armed forces, over which the Gestapo was never to gain complete jurisdiction. But not until Roehm and his confederates were executed did most homosexuals believe that a country like Germany could fall back into barbarism. Now, however, there could be no mistaking the murderous intentions of the Nazis. There could be no doubt any longer that the Nazis were as violently opposed to homosexuals as they were to Jews and Roma.</mark>
+<mark>The blaze that consumed the Reichstag, the later ransacking of Hirschfeld’s institute, and finally the notorious book-burning on May 10, during which fanatical storm troopers destroyed the works of those who had made German culture great but were now declared to be subhumans, should have been seen as a signal to every non-Nazi</mark>, the vast majority of Germans, <mark>that the era of tolerance and progress had abruptly come to an end, that a new dark age would follow.</mark> <mark>Yet most gays hoped they could weather the storm. Many rushed to join the Nazi Party in the belief that they could vanish among the uniformed crowds; others hoped for the best, and although bars and cafés catering to homosexuals were eliminated, they tried to continue their lives as unobtrusively as possible. Gradually, many realised that their existence was threatened, and they lived in constant fear of discovery. Others joined the armed forces, over which the Gestapo was never to gain complete jurisdiction. But not until Roehm and his confederates were executed did most homosexuals believe that a country like Germany could fall back into barbarism. Now, however, there could be no mistaking the murderous intentions of the Nazis. There could be no doubt any longer that the Nazis were as violently opposed to homosexuals as they were to Jews and Roma.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.107-108" %}>
 
-<mark>The blaze that consumed the Reichstag, the later ransacking of Hirschfeld’s institute, and finally the notorious book-burning of May 10, during which fanatical storm troopers destroyed the works of those who had made German culture great but were now declared to be subhumans, should have been seen as a signal to every non-Nazi</mark> <mark>that an era had abruptly come to an end, that a new dark age would follow. Shortly thereafter- and nearly a year before the Roehm purge- the Law for the Protection of Hereditary Health was enacted, a barely noticed omen of mass killings to come. Here terms such as “racially inferior offspring,” “deviant psychopath,” “criminally insane person,” and “unneeded consumers” were first introduced. Homosexuals should especially have been on their guard; as early as the fall of 1933, some were sent to Dachau and to Fuhlsbuttel, near Hamburg. <mark>Yet most gays hoped they could weather the storm. Many rushed to join the Nazi Party in the belief that they could vanish among the uniformed crowds; others hoped for the best, and although bars, cafes, and dancing places catering to homosexuals were eliminated, they tried to continue their lives as unobtrusively as possible. Gradually, many realised that their existence was threatened, and they lived in constant fear of discovery. Others joined the armed forces, over which the Gestapo was never to gain complete jurisdiction. But not until Roehm and his confederates were executed did most homosexuals believe that a country like Germany could fall back into barbarism. Now, however, there could be no mistaking the murderous intentions of the Nazis. There could be no doubt any longer that the Nazis were as violently opposed to sexual deviants as they were to such racial deviants as Jews and Gypsies.</mark>
+<mark>The blaze that consumed the Reichstag, the later ransacking of Hirschfeld’s institute, and finally the notorious book-burning of May 10, during which fanatical storm troopers destroyed the works of those who had made German culture great but were now declared to be subhumans, should have been seen as a signal to every non-Nazi</mark> <mark>that an era had abruptly come to an end, that a new dark age would follow. Shortly thereafter - and nearly a year before the Roehm purge - the Law for the Protection of Hereditary Health was enacted, a barely noticed omen of mass killings to come. Here terms such as “racially inferior offspring,” “deviant psychopath,” “criminally insane person,” and “unneeded consumers” were first introduced. Homosexuals should especially have been on their guard; as early as the fall of 1933, some were sent to Dachau and to Fuhlsbüttel, near Hamburg.<sup>2</sup> <mark>Yet most gays hoped they could weather the storm. Many rushed to join the Nazi Party in the belief that they could vanish among the uniformed crowds; others hoped for the best, and although bars, cafés, and dancing places catering to homosexuals were eliminated, they tried to continue their lives as unobtrusively as possible. Gradually, many realized that their existence was threatened, and they lived in constant fear of discovery. Others joined the armed forces, over which the Gestapo was never to gain complete jurisdiction. But not until Roehm and his confederates were executed did most homosexuals believe that a country like Germany could fall back into barbarism. Now, however, there could be no mistaking the murderous intentions of the Nazis. There could be no doubt any longer that the Nazis were as violently opposed to sexual deviants as they were to such racial deviants as Jews and Gypsies.</mark>
 
+<footer>
+
+2. Lautmann, *Gesellschaft und Homosexualität, 328.
+
+</footer>
 </from>
 </compare>
 
@@ -1032,8 +1093,13 @@ Chapter Four: Persecution
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.108-109" %}>
 
-<mark>The Ministry of Justice and the Berlin headquarters of the Gestapo soon released a deluge of regulations and memoranda designed both to regulate the sex lives of German citizens and to widen the categories of crime. On October 24, 1934, for example, Himmler’s still-modest Gestapo sent a secret circular letter to police headquarters throughout Germany. They were instructed to mail in lists of all “somehow homosexually active persons.”</mark> If possible, political affiliations of suspects should be noted together with information on previous police records. Especially welcome were names of politically prominent personalities. <mark>From the start, alleged offenses against Paragraph 175 were used as a ruse to arrest people whose politics displeased those in power.</mark>
+<mark>The Ministry of Justice and the Berlin headquarters of the Gestapo soon released a deluge of regulations and memoranda designed both to regulate the sex lives of German citizens and to widen the categories of crime. On October 24, 1934, for example, Himmler’s still-modest Gestapo sent a secret circular letter to police headquarters throughout Germany. They were instructed to mail in lists of all “somehow homosexually active persons.”</mark> If possible, political affiliations of suspects should be noted together with information on previous police records. Especially welcome were names of politically prominent personalities.<sup>3</sup> <mark>From the start, alleged offenses against Paragraph 175 were used as a ruse to arrest people whose politics displeased those in power.</mark>
 
+<footer>
+
+3. Erhard Vismar, "Perversion und Verfolgung unter dem deutschen Faschismus," in Lautmann, *Gesellschaft und Homosexualität, 318.
+
+</footer>
 </from>
 </compare>
 
@@ -1045,7 +1111,7 @@ Chapter Four: Persecution
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.109" %}>
 
-<mark>Charges of homosexual activities were easily concocted. The authorities could always unearth an ex-convict who could be persuaded to swear that Herr X had fondled Herr Y in a bar.</mark> One might even say that the Roehm purge belongs in this category – political assassination dressed up as anti-vice action- the only difference being that Roehm had indeed been a practicing homosexual.
+<mark>Charges of homosexual activities were easily concocted. The authorities could always unearth an ex-convict who could be persuaded to swear that Herr X had fondled Herr Y in a bar.</mark> One might even say that the Roehm purge belongs in this category – political assassination dressed up as anti-vice action - the only difference being that Roehm had indeed been a practicing homosexual.
 
 </from>
 </compare>
@@ -1071,8 +1137,13 @@ Chapter Four: Persecution
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.110-111" %}>
 
-<mark>In August 1936, Himmler was compelled to suspend his assault temporarily. During the Olympic Games in Berlin, some gay bars were permitted to reopen and the police were requested not to bother visiting foreign homosexuals. But by the fall of 1936, the campaign was renewed.</mark> On October 10, Himmler delivered one of his rare public speeches. In it he sounded many of his familiar ideological formulas. Germany was “surrounded by enemies ready to destroy this heart of Europe…” He was proud to report that the state had started combatting homosexuality in 1934. “As National Socialists we are not afraid to fight against this plague within our own ranks. Just as we have readopted the ancient Germanic approach to the question of marriage between alien races, so, too, in our judgement of homosexuality- a symptom of racial degeneracy destructive to our race- we have returned to the guiding Nordic principle that degenerates should be exterminated. Germany stands or falls with the purity of its race…"
+<mark>In August 1936, Himmler was compelled to suspend his assault temporarily. During the Olympic Games in Berlin, some gay bars were permitted to reopen and the police were requested not to bother visiting foreign homosexuals. But by the fall of 1936, the campaign was renewed.</mark> On October 10, Himmler delivered one of his rare public speeches. In it he sounded many of his familiar ideological formulas. Germany was “surrounded by enemies ready to destroy this heart of Europe…” He was proud to report that the state had started combating homosexuality in 1934. “As National Socialists we are not afraid to fight against this plague within our own ranks. Just as we have readopted the ancient Germanic approach to the question of marriage between alien races, so, too, in our judgement of homosexuality - a symptom of racial degeneracy destructive to our race - we have returned to the guiding Nordic principle that degenerates should be exterminated. Germany stands or falls with the purity of its race…"<sup>6</sup>
 
+<footer>
+
+6. Wilde, *Das Schicksal*, 36; also Steakley, *The Homosexual Emancipation Movement*, 112, and Bleuel, *Sex and Socety*, 221, who attributes this statement to Karl August Eckhardt, a Berlin University law professor.
+
+</footer>
 </from>
 </compare>
 
@@ -1082,28 +1153,39 @@ Chapter Four: Persecution
 <compare>
 <james {% include timecode %}> 
 
-<mark>On October 26, the Federal Security Department for Combating Abortion and Homosexuality was established in the Berlin Gestapo headquarters, headed up by the SS Captain formerly in charge of redistributing goods that had been stolen from Jewish people.</mark> <mark>By 1936 the traditional, more conservative police agencies had been “federalised,” which meant that Himmler ruled virtually unchallenged.</mark> <mark>More leeway was given to prosecutors, while defense attorneys and judges lost control. The factual proof laws were abolished. Sentencing relied not only on the seriousness of the alleged criminal act but also on the quote "psychological form" of which the defendant was alleged to belong. Therefore, persons convicted of sexual deviance had no chance of escaping prosecution in a Nazi Court.</mark>
+<mark>On October 26, the Federal Security Department for Combating Abortion and Homosexuality was established in the Berlin Gestapo headquarters, headed up by the SS Captain formerly in charge of redistributing goods that had been stolen from Jewish people.</mark> <mark>By 1936 the traditional, more conservative police agencies had been “federalized,” which meant that Himmler ruled virtually unchallenged.</mark> <mark>More leeway was given to prosecutors, while defense attorneys and judges lost control. The factual proof laws were abolished. Sentencing relied not only on the seriousness of the alleged criminal act but also on the quote "psychological form" of which the defendant was alleged to belong. Therefore, persons convicted of sexual deviance had no chance of escaping prosecution in a Nazi Court.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.111-112" %}>
 
-<mark>Barely two weeks later, on October 26, the Federal Security Department for Combating Abortion and Homosexuality was established in the Berlin Gestapo headquarters. It was headed by SS Captain Joseph Meisinger, an ex-policeman from Bavaria who previously had been occupied with the distribution of confiscated Jewish properties.</mark> His zeal pleased Himmler at first, but later the SS chief had to acknowledge that Meisinger’s intellectual equipment was insufficient. When, in 1938, Meisinger mismanaged the von Fritsch affair, he was transferred to Poland. There, as Gestapo supervisor, he started a reign of such brutality that even his fascist co-workers denounced him. He disappeared into Japan but was surrendered by U.S. authorities to Poland, where a Polish court had him executed in March 1947 in Warsaw.
+<mark>Barely two weeks later, on October 26, the Federal Security Department for Combating Abortion and Homosexuality was established in the Berlin Gestapo headquarters. It was headed by SS Captain Joseph Meisinger, an ex-policeman from Bavaria who previously had been occupied with the distribution of confiscated Jewish properties.</mark> His zeal pleased Himmler at first, but later the SS chief had to acknowledge that Meisinger’s intellectual equipment was insufficient. When, in 1938, Meisinger mismanaged the von Fritsch affair, he was transferred to Poland. There, as Gestapo supervisor, he started a reign of such brutality that even his fascist co-workers denounced him. He disappeared into Japan but was surrendered by U.S. authorities to Poland, where a Polish court had him executed in March 1947 in Warsaw.<sup>7</sup>
 
-The all-encompassing control of the Nazi police directorates can only be appreciated by grasping the essence of the new jurisprudence. <mark>By 1936 the traditional, more conservative police agencies were “federalised,” which meant that Himmler ruled virtually unchallenged.</mark> From 1935 and 1936 on, higher legal officers were appointed by Wilhelm Frick, the Minister of Interior. <mark>Prosecutors were granted more leeway, while defence lawyers and judges lost power. The rules of factual evidence were abolished. Sentencing depended not only on the severity of the alleged criminal act but on the “psychological type” to which the offender supposedly belonged. Thus, people accused of sexual deviance had little chance of avoiding conviction by a Nazi court.</mark>
+The all-encompassing control of the Nazi police directorates can only be appreciated by grasping the essence of the new jurisprudence. <mark>By 1936 the traditional, more conservative police agencies were “federalized,” which meant that Himmler ruled virtually unchallenged.</mark> From 1935 and 1936 on, higher legal officers were appointed by Wilhelm Frick, the Minister of Interior. <mark>Prosecutors were granted more leeway, while defense lawyers and judges lost power. The rules of factual evidence were abolished. Sentencing depended not only on the severity of the alleged criminal act but on the “psychological type” to which the offender supposedly belonged.<sup>8</sup> Thus, people accused of sexual deviance had little chance of avoiding conviction by a Nazi court.</mark>
 
+<footer>
+
+7. Lsutmann, *Gesellschaft und Homosexualität, 318; also letter from Simon Wiesenthal to the author, May 29, 1981.
+8. Geissler, "Homosexuellen-Gesetzgebung," 14.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>The newly formulated laws had also been made retroactive. A Jewish man, for example, could be imprisoned in 1936 for having had an affair with a non-jewish woman in 1933, before the crime of "racial defilement" was defined. The same was true for homosexual activities.</mark>
+<mark>The newly formulated laws had also been made retroactive. A Jewish man, for example, could be imprisoned in 1936 for having had an affair with a non-Jewish woman in 1933, before the crime of "racial defilement" was defined. The same was true for homosexual activities.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.112" %}>
 
-<mark>The newly devised laws also were made retroactive. A Jewish man, for example, could be jailed in 1936 for having had an affair with a non-Jewish woman in 1933, before the Nuremburg laws had established the crime of “racial defilement.” The same held true for homosexual practices.</mark> In addition, illegal actions, such as the 1934 Roehm purge, were now declared to have been legal. Few members of the legal profession protested; some retired, a handful braved the storm, stayed on, and tried to soften the worst excesses of Nazi dominated courts. Still, many lawyers surrendered to Hitler’s bullying as easily as did those medical doctors who helped to organise the euthanasia programs and the medical experiments on camp inmates. The Third Reich wiped out the humanisation and democratisation of jurisprudence that the Enlightenment had brought to Germany.
+<mark>The newly devised laws also were made retroactive. A Jewish man, for example, could be jailed in 1936 for having had an affair with a non-Jewish woman in 1933, before the Nuremberg laws had established the crime of “racial defilement.” The same held true for homosexual practices.</mark> In addition, illegal actions, such as the 1934 Roehm purge, were now declared to have been legal. Few members of the legal profession protested; some retired, a handful braved the storm, stayed on, and tried to soften the worst excesses of Nazi dominated courts. Still, many lawyers surrendered to Hitler’s bullying as easily as did those medical doctors who helped to organize the euthanasia programs and the medical experiments on camp inmates. The Third Reich wiped out the humanization and democratization of jurisprudence that the Enlightenment had brought to Germany.<sup>9</sup>
 
+<footer>
+
+9. Wilde, *Das Schicksal, 53-55; also Bleibtreu-Ehrenberg, *Tabu Homosexualität, 319-322.
+
+</footer>
 </from>
 </compare>
 
@@ -1115,7 +1197,7 @@ The all-encompassing control of the Nazi police directorates can only be appreci
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.112-113" %}>
 
-Two centuries before, King Frederick II of Prussia had abolished torture as a legal instrument for extracting confessions or the names of accomplices. Now, in every large city, people were legally tortured and executed in the cellars of Gestapo buildings. No one arrested on charges of real or trumped-up homosexual activity could count on a fair trial. If, before 1933, homosexuals had been second-class citizens, now they were slowly expatriated like the gypsies, denaturalised like the Jews. They could be doubly scapegoated, as “incurably sick” and therefore candidates for mercy death, or as “congenitally criminal deviants,” to be re-educated in camps. <mark>In December 1934 the Ministry of Justice issued new guidelines stating that homosexual offenses did not have actually to be committed to be punishable; intent was what mattered.</mark> This emphasis on intent originally had been brought to bear in various cases of Jewish men accused of having had sexual relations with non-Jewish women. Since both groups were regarded as contagious subhumans, similar strategies could be employed against them. There were, however, significant differences in their treatment, as we shall see.
+Two centuries before, King Frederick II of Prussia had abolished torture as a legal instrument for extracting confessions or the names of accomplices. Now, in every large city, people were legally tortured and executed in the cellars of Gestapo buildings. No one arrested on charges of real or trumped-up homosexual activity could count on a fair trial. If, before 1933, homosexuals had been second-class citizens, now they were slowly expatriated like the Fypsies, denaturalized like the Jews. They could be doubly scapegoated, as “incurably sick” and therefore candidates for mercy death, or as “congenitally criminal deviants,” to be reeducated in camps. <mark>In December 1934 the Ministry of Justice issued new guidelines stating that homosexual offenses did not have actually to be committed to be punishable; intent was what mattered.</mark> This emphasis on intent originally had been brought to bear in various cases of Jewish men accused of having had sexual relations with non-Jewish women. Since both groups were regarded as contagious subhumans, similar strategies could be employed against them. There were, however, significant differences in their treatment, as we shall see.
 
 </from>
 </compare>
@@ -1145,7 +1227,7 @@ This catalogue was not inclusive enough for the Nazi ideologues. <mark>Later, co
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.113" %}>
 
-<mark>In 1937 a young lawyer named Rudolf Klare wrote a book, *Homosexualitat und Strafrecht*,</mark> <mark>to provide the ideological underpinnings for the war on homosexuals. With Klare’s book, SS officers in charge of indoctrination could explain to the often ignorant members of the folk community how their natural, healthy instincts would be affected by sexual vagrants.</mark>
+<mark>In 1937 a young lawyer named Rudolf Klare wrote a book, *Homosexualität und Strafrecht*,</mark> <mark>to provide the ideological underpinnings for the war on homosexuals. With Klare’s book, SS officers in charge of indoctrination could explain to the often ignorant members of the folk community how their natural, healthy instincts would be affected by sexual vagrants.</mark>
 
 </from>
 </compare>
@@ -1158,8 +1240,13 @@ This catalogue was not inclusive enough for the Nazi ideologues. <mark>Later, co
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.114" %}>
 
-<mark>The revision of Paragraph 175 had not banned sexual acts between women. Klare sought to correct this oversight. He pleaded to make “gross indecencies” between females as punishable as those between males. Marriage and childbearing, he wrote, were the two main pillars on which Nordic racial heritage was based.</mark> Criminal law must see to it that the folk community remained pure. Fortunately, he claimed, it was alien to the German woman to indulge in lesbian activities. On the contrary, most German women showed nothing but contempt for it. Klare admitted there were problems. Lesbians, unlike some homosexual men, had not developed theories exalting a special, same-sex society; they had produced no Hans Bluher. Moreover, women could be tender with other women without arousing undue suspicion, and it would be difficult to discover, much less prosecute, lesbian acts that were carried out in private. Klare therefore regretfully accepted the fact that, for the moment, sexual contacts between women would have to go unpunished, but he hoped this would prove only temporary.
+<mark>The revision of Paragraph 175 had not banned sexual acts between women. Klare sought to correct this oversight. He pleaded to make “gross indecencies” between females as punishable as those between males. Marriage and childbearing, he wrote, were the two main pillars on which Nordic racial heritage was based.</mark> Criminal law must see to it that the folk community remained pure. Fortunately, he claimed, it was alien to the German woman to indulge in lesbian activities. On the contrary, most German women showed nothing but contempt for it. Klare admitted there were problems. Lesbians, unlike some homosexual men, had not developed theories exalting a special, same-sex society; they had produced no Hans Blüher. Moreover, women could be tender with other women without arousing undue suspicion, and it would be difficult to discover, much less prosecute, lesbian acts that were carried out in private. Klare therefore regretfully accepted the fact that, for the moment, sexual contacts between women would have to go unpunished, but he hoped this would prove only temporary.<sup>11</sup>
 
+<footer>
+
+11. Klare, *Homosexualität und Strafecht*, 121-23; also quoted in Schilling, *Schwule und Faschismus*, 166.
+
+</footer>
 </from>
 </compare>
 
@@ -1171,8 +1258,13 @@ This catalogue was not inclusive enough for the Nazi ideologues. <mark>Later, co
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.114-115" %}>
 
-<mark>Nazi jurists ignored Klare’s pleas, and Himmler seems never to have made any statements about lesbians. Nevertheless, some – albeit very few - German lesbians were caught in the machinery of the secret police. Little was known of their fate</mark> until quite recently. In 1975, Ina Kukuc published an account of how some SS officers had arrested and sentenced lesbians. The one victim on whom she reports most extensively was brought to court on a charge of treason- which was almost certainly false. Helene G. from Schleswig-Holstein had been working for the counterintelligence division of the Luftwaffe and sharing her residence with another woman, a lesbian. Toward the end of 1944, a young lieutenant wanted to bed Helene’s girlfriend and, when rebuffed, took his revenge. The two women were denounced and arrested. Helene, indicted for military subversion, was expelled from the air force and sent to Camp Butzow. This violated regulations because Butzow was specially designated as a penal camp for recalcitrant prisoners of war. It did not matter. She and five lesbians were thrown into an empty cell block, under the command of male constables. <mark fc>“These are the scum of the earth,” the guards are reported to have told the French and Russian POWs. “We wouldn’t fuck them with a sofa leg.”</mark> <mark>The prisoners were promised a rare reward: for each woman they penetrated, they would be given a bottle of schnapps.</mark> This grotesque sport was, of course, a violation of Himmler’s orders concerning the purity of the German race. POWs were to be severely punished for having had, or having tried to have, intercourse with German women. But then, the entire case, like so many others, had no legal foundation and serves only to emphasise the extent to which the SS felt itself to be free of all moral and ethical restraint. In the end, the only law that was respected was the law of the jungle.
+<mark>Nazi jurists ignored Klare’s pleas, and Himmler seems never to have made any statements about lesbians. Nevertheless, some – albeit very few - German lesbians were caught in the machinery of the secret police. Little was known of their fate</mark> until quite recently. In 1975, Ina Kukuc published an account of how some SS officers had arrested and sentenced lesbians.<sup>12</sup> The one victim on whom she reports most extensively was brought to court on a charge of treason - which was almost certainly false. Helene G. from Schleswig-Holstein had been working for the counterintelligence division of the Luftwaffe and sharing her residence with another woman, a lesbian. Toward the end of 1944, a young lieutenant wanted to bed Helene’s girlfriend and, when rebuffed, took his revenge. The two women were denounced and arrested. Helene, indicted for military subversion, was expelled from the air force and sent to Camp Butzow. This violated regulations because Butzow was specially designated as a penal camp for recalcitrant prisoners of war. It did not matter. She and five lesbians were thrown into an empty cell block, under the command of male constables. <mark fc>“These are the scum of the earth,” the guards are reported to have told the French and Russian POWs. “We wouldn’t fuck them with a sofa leg.”</mark> <mark>The prisoners were promised a rare reward: for each woman they penetrated, they would be given a bottle of schnapps.</mark> This grotesque sport was, of course, a violation of Himmler’s orders concerning the purity of the German race. POWs were to be severely punished for having had, or having tried to have, intercourse with German women. But then, the entire case, like so many others, had no legal foundation and serves only to emphasise the extent to which the SS felt itself to be free of all moral and ethical restraint. In the end, the only law that was respected was the law of the jungle.
 
+<footer>
+
+12. As quoted in Schilling, *Schwule und Faschismus*, 173.
+
+</footer>
 </from>
 </compare>
 
@@ -1185,7 +1277,7 @@ This catalogue was not inclusive enough for the Nazi ideologues. <mark>Later, co
 <comment id="pows_sa">
 {% include header for=tobi %}
 
-In regards to the specific incident described, I could not find how it ended. In a more general sense, this is false; women were raped by their fellow prisoners in the prisons and camps. The second claim seems to be that prisoners sexually assaulted German guards upon liberation, which I also found no evidence for; beating and killing guards, yes, but not that.
+In regards to the specific incident described, I could not find how it ended. In a more general sense, this is false; women were raped by their fellow prisoners, as well as guards, in the prisons and camps. The second claim seems to be that prisoners sexually assaulted German guards upon liberation, which I also found no evidence for; beating and killing guards, yes, but not that.
 
 </comment>
 </compare>
@@ -1200,10 +1292,16 @@ In regards to the specific incident described, I could not find how it ended. In
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.116" %}>
 
-<mark num=2>Another group that emerged untouched were some of Germany’s most prominent and open homosexuals in the performing and decorative arts, who obtained the protection of high Nazi officials.</mark> The most famous example is that of the actor <mark num=1>Gustaf Grundgens</mark>, who was much admired by Goring’s actress-wife, Emmy Sonneman. Despite the fact that his homosexual affairs were as notorious as those of Roehm’s, <mark id="hitler_grundgens" num=1 fc>Goring appointed him director of the State Theatre</mark>, and Grundgens quickly became head of theatrical life in the Third Reich. In 1936, Klaus Mann wrote the novel *Mephisto*, a bitter satire of Grudgens who had been married to Mann’s sister, Erika. He wrote the book to “analyse the abject type of treacherous intellectual who prostitutes his talent for the sake of some tawdry fame and transitory wealth.”
+<mark num=2>Another group that emerged untouched were some of Germany’s most prominent and open homosexuals in the performing and decorative arts, who obtained the protection of high Nazi officials.</mark> The most famous example is that of the actor <mark num=1>Gustaf Gründgens</mark>, who was much admired by Göring’s actress-wife, Emmy Sonneman. Despite the fact that his homosexual affairs were as notorious as those of Roehm’s, <mark id="hitler_grundgens" num=1 fc>Goring appointed him director of the State Theatre</mark>, and Gründgens quickly became head of theatrical life in the Third Reich. In 1936, Klaus Mann wrote the novel *Mephisto*, a bitter satire of Grüdgens who had been married to Mann’s sister, Erika. He wrote the book to “analyze the abject type of treacherous intellectual who prostitutes his talent for the sake of some tawdry fame and transitory wealth.”<sup>15</sup>
 
-On October 29, 1937, in what appears to have been a concession to Goring’s rule over the arts, <mark num=3><mark fc>Himmler</mark> advised that actors and other artists could be arrested for offenses against Paragraph 175 only with his personal consent,</mark> unless the police had caught them in flagrante.
+On October 29, 1937, in what appears to have been a concession to Göring’s rule over the arts, <mark num=3><mark fc>Himmler</mark> advised that actors and other artists could be arrested for offenses against Paragraph 175 only with his personal consent,</mark> unless the police had caught them *in flagrante*.<sup>16</sup>
 
+<footer>
+
+15. As quoted in publisher's note in Mann, *Mephisto*, i.
+16. Lautmann, *Gesellschaft und Homosexualität*, 322.
+
+</footer>
 </from>
 <comment id="hitler_artists">
 {% include header for=tobi %}
@@ -1225,9 +1323,9 @@ Up until then, gay men had been serving time in prison. The camps though were so
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.116-117" %}>
 
-<mark>Still, the flood of antihomosexual injunctions kept rising. On April 4, 1938, the Berlin Gestapo issued a new directive:</mark> <mark>a man convicted of gross indecency with another man could be transferred directly to a camp.</mark> Then, on September 27, 1939, the Office for Combating Abortion and Homosexuality was reorganised within the Federal Security Bureau to free up more agents for the headhunts.
+<mark>Still, the flood of antihomosexual injunctions kept rising. On April 4, 1938, the Berlin Gestapo issued a new directive:</mark> <mark>a man convicted of gross indecency with another man *could* be transferred directly to a camp.</mark> Then, on September 27, 1939, the Office for Combating Abortion and Homosexuality was reorganized within the Federal Security Bureau to free up more agents for the headhunts.
 
-On July 15, 1940, Himmler added an amendment to his April 1938 directive: men arrested for homosexual activities who have seduced more than one partner must be transferred to a camp after they have served their prison sentences. This was the usual fate for most people caught in the Gestapo net, whether they had committed a burglary, embezzled money, or happened simply to be contragenics: after prison they would be shipped to a camp. On September 4, 1941, the Ministry of Justice published an extraordinarily vague ruling that anyone who threatened the health of the folk community must be put to death.
+On July 15, 1940, Himmler added an amendment to his April 1938 directive: men arrested for homosexual activities who have seduced more than one partner *must* be transferred to a camp after they have served their prison sentences. This was the usual fate for most people caught in the Gestapo net, whether they had committed a burglary, embezzled money, or happened simply to be contragenics: after prison they would be shipped to a camp. On September 4, 1941, the Ministry of Justice published an extraordinarily vague ruling that anyone who threatened the health of the folk community must be put to death.
 
 </from>
 </compare>
@@ -1247,19 +1345,27 @@ On July 15, 1940, Himmler added an amendment to his April 1938 directive: men ar
 
 > Second, after the Roehm purge had eliminated the homosexual SA elite, **no halfway intelligent gay** was likely to join the homophobic SS. Third, none of the armed forces were inclined favorably toward homosexuality.
 
+Now I have seen [a different article](https://www.jstor.org/stable/3704558) arguing that Himmler *maybe* didn't drum out all the gays from the force like he claimed he did, but you know that's more the level of arguing that, you know, the SS was as gay as the general populace, not "so gay" that they were infamous for coercing gay blowjobs from people. [Also the whole idea of gay Nazis is a wildly homophobic myth and you shouldn't spread it](https://slate.com/human-interest/2018/08/gay-nazi-myth-why-dinesh-dsouzas-misuse-of-history-is-so-galling.html).
+
 </comment>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating to Purity in the SS and Police. Henceforth any SS or police officer engaging in indecent behaviour with another man or allowing himself to be abused by him for indecent purposes was to be condemned to death.</mark> <mark>After the Russians had retaken Stalingrad,</mark> <mark>Himmler advised the army and navy chiefs of staff that his bureau held jurisdiction over soldiers and sailors convicted of same-sex indecencies</mark> as well. Though homosexual acts among German men did not cease, it seems that Himmler was forced to pay attention to more pressing matters than what gay men did in their spare time.
+And so <mark>on November 15, 1941, Himmler issued the Führer’s Decree Relating to Purity in the SS and Police. Henceforth any SS or police officer engaging in indecent behaviour with another man or allowing himself to be abused by him for indecent purposes was to be condemned to death.</mark> <mark>After the Russians had retaken Stalingrad,</mark> <mark>Himmler advised the army and navy chiefs of staff that his bureau held jurisdiction over soldiers and sailors convicted of same-sex indecencies</mark> as well. Though homosexual acts among German men did not cease, it seems that Himmler was forced to pay attention to more pressing matters than what gay men did in their spare time.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.117" %}>
 
-<mark>On November 15, 1941, Himmler issued the Fuhrer’s Decree Relating to Purity in the SS and Police. Henceforth any SS or police officer engaging in indecent behaviour with another man or allowing himself to be abused by him for indecent purposes was to be condemned to death.</mark> That Himmler had to promulgate such an order suggests that, despite his vigilance, homosexuality within the elite SS had not entirely ceased; indeed, Himmler conceded at one point that he had to deal with one case a month. In February 1942, the Fuhrer’s purity decree was extended to any male engaging in homosexual activities. Finally, on May 19, 1943, <mark>after the Russians had retaken Stalingrad,</mark> after the German forces in Africa had surrendered, <mark>Himmler advised the army and navy chiefs of staff that his bureau held jurisdiction over soldiers and sailors convicted of same-sex indecencies.</mark> This seems to have been the last ruling to make Germany homorein (homo-free). The absence of further decrees should not be taken to mean that homosexuals were now left alone; the Gestapo kept arresting suspects until the Russians had encircled Berlin.
+<mark>On November 15, 1941, Himmler issued the Führer’s Decree Relating to Purity in the SS and Police. Henceforth any SS or police officer engaging in indecent behaviour with another man or allowing himself to be abused by him for indecent purposes was to be condemned to death.</mark> That Himmler had to promulgate such an order suggests that, despite his vigilance, homosexuality within the elite SS had not entirely ceased; indeed, Himmler conceded at one point that he had to deal with one case a month.<sup>17</sup> In February 1942, the Führer’s purity decree was extended to *any* male engaging in homosexual activities. Finally, on May 19, 1943, <mark>after the Russians had retaken Stalingrad,</mark> after the German forces in Africa had surrendered, <mark>Himmler advised the army and navy chiefs of staff that his bureau held jurisdiction over soldiers and sailors convicted of same-sex indecencies.</mark> This seems to have been the last ruling to make Germany *homorein* (homo-free).<sup>18</sup> The absence of further decrees should not be taken to mean that homosexuals were now left alone; the Gestapo kept arresting suspects until the Russians had encircled Berlin.
 
+<footer>
+
+17. Ibid., 324.
+18. Geissler, "Homosexuellen-Gesetzgebung," throughout.
+
+</footer>
 </from>
 </compare>
 
@@ -1274,8 +1380,13 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.123" %}>
 
-<mark>How were homosexuals identified? The answer is- not easy. Unlike Jews and Gypsies, whose religious or ethnic origins were routinely noted on their birth certificates, and unlike Communists, Socialists, and Social Democrats, whose politics could be determined merely by a glance through their parties’ membership rolls, gays were difficult to discover. No straightforward documents or physical identification existed for homosexuals. The single exception was the central bureau of the Berlin criminal police, which in 1897 had compiled lists of about twenty to thirty thousand homosexuals throughout Germany.</mark>
+<mark>How were homosexuals identified? The answer is - not easily. Unlike Jews and Gypsies, whose religious or ethnic origins were routinely noted on their birth certificates, and unlike Communists, Socialists, and Social Democrats, whose politics could be determined merely by a glance through their parties’ membership rolls, gays were difficult to discover. No straightforward documents or physical identification existed for homosexuals. The single exception was the central bureau of the Berlin criminal police, which in 1897 had compiled lists of about twenty to thirty thousand homosexuals throughout Germany.<sup>24</sup></mark>
 
+<footer>
+
+24. Hirschfeld, *Homosexualität*, 1002.
+
+</footer>
 </from>
 </compare>
 
@@ -1300,8 +1411,16 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.124-125" %}>
 
-<mark>Fortunately, Hirschfeld’s Scientific-Humanitarian Committee had destroyed its membership rosters in time. But it is not known if the larger organisation, the Friendship League, headed by Radzuweit, managed to get rid of its archives early enough.</mark> Some 28,000 members paid regular yearly fees to the League. Their names may well have landed on the desk of Captain Meisinger. Another means of identifying suspected homosexuals lay in the confiscated subscription lists of about thirty magazines of more or less homosexual orientation then available in larger cities. Although most of these were probably purchased on newsstands, some may have been obtained by subscription. By 1938 and 1939, gay bars, clubs, and organisations had disappeared. Yet informers on all contragenics were constantly being trained. The authorities encouraged every citizen to report on all who exhibited the slightest evidence of deviance. <mark>Moreover, how was it possible for a suspect to prove that he had not thrown an “offensive glance” at another man? In at least one instance, a man was arrested not because he had been watching a young couple make love in a park, but because he had been seen observing the actions of the man more than those of the woman.</mark> Julius Streicher, editor of Der Sturmer, had urged his readers to write to him about Jewish men suspected of having, or trying to establish, relations with non-Jewish women. Denunciatory letters poured in. The same pattern held true for other contragenics. It was easy for anyone who wanted to get rid of a competitor to brand the rival as a homosexual. With one short anonymous note to the local Gestapo branch, the enemy of the state could be taken into protective custody or, at least, thoroughly interrogated. Later, after the war had started in earnest, the authorities divided every city into administrative blocks. Each block was supervised by a block warden, whose mission was to spy on everybody.
+<mark>Fortunately, Hirschfeld’s Scientific-Humanitarian Committee had destroyed its membership rosters in time. But it is not known if the larger organisation, the Friendship League, headed by Radzuweit, managed to get rid of its archives early enough.</mark> Some 28,000 members paid regular yearly fees to the League.<sup>25</sup> Their names may well have landed on the desk of Captain Meisinger. Another means of identifying suspected homosexuals lay in the confiscated subscription lists of about thirty magazines of more or less homosexual orientation then available in larger cities.<sup>26</sup> Although most of these were probably purchased on newsstands, some may have been obtained by subscription. By 1938 and 1939, gay bars, clubs, and organizations had disappeared. Yet informers on all contragenics were constantly being trained. The authorities encouraged every citizen to report on all who exhibited the slightest evidence of deviance. <mark>Moreover, how was it possible for a suspect to prove that he had *not* thrown an “offensive glance” at another man? In at least one instance, a man was arrested not because he had been watching a young couple make love in a park, but because he had been seen observing the actions of the man more than those of the woman.<sup>27</sup></mark> Julius Streicher, editor of Der Stürmer, had urged his readers to write to him about Jewish men suspected of having, or trying to establish, relations with non-Jewish women. Denunciatory letters poured in.<sup>28</sup> The same pattern held true for other contragenics. It was easy for anyone who wanted to get rid of a competitor to brand the rival as a homosexual. With one short anonymous note to the local Gestapo branch, the enemy of the state could be taken into protective custody or, at least, thoroughly interrogated. Later, after the war had started in earnest, the authorities divided every city into administrative blocks. Each block was supervised by a block warden, whose mission was to spy on everybody.
 
+<footer>
+
+25. Eissler, "Sexualpolitik," 33.
+26. Steakley, *The Homosexual Emancipation Movement*, 28.
+27. Wilde, *Daschicksal*, 18.
+28. Hahn, *Lieber Stürmer!*, throughout.
+
+</footer>
 </from>
 </compare>
 
@@ -1340,13 +1459,18 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 <compare>
 <james {% include timecode %}> 
 
-<mark>In 1941, Schirach’s office issued a manual on the behaviour of the young, part statistics, part indoctrination document, part prescription for action against violators of the sexual and behavioural code of the Hitler Youth. The need to do so suggests that not all members of the Hitler Youth were always able to conform to the code of Nordic purity and righteousness. It was entitled <q>Criminality and Delinquency of Youth</q>. Once again, homosexuality was defined as a dangerous, contagious epidemic. The Weimar Republic was accused of standing by “while this epidemic spread everywhere, and even criminal statistics did not bother with registering it.”</mark> 
+<mark>In 1941, Schirach’s office issued a manual on the behaviour of the young, part statistics, part indoctrination document, part prescription for action against violators of the sexual and behavioral code of the Hitler Youth. The need to do so suggests that not all members of the Hitler Youth were always able to conform to the code of Nordic purity and righteousness. It was entitled <q>Criminality and Delinquency of Youth</q>. Once again, homosexuality was defined as a dangerous, contagious epidemic. The Weimar Republic was accused of standing by “while this epidemic spread everywhere, and even criminal statistics did not bother with registering it.”</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.126-127" %}>
 
-<mark>In 1941, Schirach’s office issued a manual on the behaviour of the young, part indoctrinational tract, part prescription for action against violators of the sexual and behavioural code of the Hitler Youth. The need to do so suggests that not all members of the Hitler Youth were always able to conform to the code of Nordic purity and righteousness. It was entitled Criminality and Delinquency of Youth. Once again, homosexuality was defined as a dangerous, contagious epidemic. The Weimar Republic was accused of standing by “while this epidemic spread everywhere, and even criminal statistics did not bother with registering it.”</mark> One page illustrates the snowball effect with graphics. A photo of one “main seducer” named Hasso Engel is placed in the middle of a chart. Grouped around him are the genealogies of those whom he had seduced, those whom the seduced subsequently had seduced and so on. Hasso was precocious: he admitted having started his activities at age eight, “a warning example of a hereditarily unsound delinquent who had helped spread this epidemic and must be viewed as a contamination risk.”
+<mark>In 1941, Schirach’s office issued a manual on the behaviour of the young, part indoctrinational tract, part prescription for action against violators of the sexual and behavioral code of the Hitler Youth. The need to do so suggests that not all members of the Hitler Youth were always able to conform to the code of Nordic purity and righteousness. It was entitled *Criminality and Delinquency of Youth*. Once again, homosexuality was defined as a dangerous, contagious epidemic. The Weimar Republic was accused of standing by “while this epidemic spread everywhere, and even criminal statistics did not bother with registering it.”</mark> One page illustrates the snowball effect with graphics. A photo of one “main seducer” named Hasso Engel is placed in the middle of a chart. Grouped around him are the genealogies of those whom he had seduced, those whom the seduced subsequently had seduced and so on. Hasso was precocious: he admitted having started his activities at age eight, “a warning example of a hereditarily unsound delinquent who had helped spread this epidemic and must be viewed as a contamination risk.”<sup>29</sup>
 
+<footer>
+
+29. Baldur von Schirach, et al., *Kiminalität und Gefährdung der Jugend. Lageberichte bis zum Stand vom 1. Januar 1941*, Hrsg. vom Jugendführer des Deutschen Reiches, bearbeitet von W. Knopp (Berlin, n.d.). Translations by the author.
+
+</footer>
 </from>
 </compare>
 
@@ -1358,8 +1482,13 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.127" %}>
 
-<mark>The book concedes that not all sexual activities between adolescents are proof of “true” or “compulsive” homosexuality. Sometimes youngsters take to mutual masturbation out of sheer curiosity. Still, it easily leads to “genuine perversion, and in the free-youth orders the leaders occupied themselves mainly with the seduction of younger males. This led their victims, as they grew older, to similar homosexual crimes. Thus, like an epidemic, these crimes spread further and further.”</mark> It is clear that the book has borrowed from Bluher. The intellectual development of the free youth sects led logically to homosexuality. It was supplemented by the idea that "'the Order is destiny.' it meant everything to its brother-members, including the sexual sphere. Homosexuality was part of the program. Even more, in various political and philosophical disguises it was accepted as a basic ideological creed. Thus, the unnatural became the guiding principle."
+<mark>The book concedes that not all sexual activities between adolescents are proof of “true” or “compulsive” homosexuality. Sometimes youngsters take to mutual masturbation out of sheer curiosity. Still, it easily leads to “genuine perversion, and in the free-youth orders the leaders occupied themselves mainly with the seduction of younger males. This led their victims, as they grew older, to similar homosexual crimes. Thus, like an epidemic, these crimes spread further and further.”</mark> It is clear that the book has borrowed from Blüher.<sup>30</sup> The intellectual development of the free youth sects led logically to homosexuality. It was supplemented by the idea that "'the Order is destiny.' it meant everything to its brother-members, including the sexual sphere. Homosexuality was part of the program. Even more, in various political and philosophical disguises it was accepted as a basic ideological creed. Thus, the unnatural became the guiding principle."
 
+<footer>
+
+30. See also Geissler, "Homosexuellen-Gesetzgebung," 55. 
+
+</footer>
 </from>
 </compare>
 
@@ -1368,7 +1497,7 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 
 \[James does math on screen]: "2,400,000" "25,000" "3,976"
 
-<mark>According to statistics compiled by the Nazis and discovered after the war’s end,</mark> there were roughly 2.4 million teenage boys who were arrested under various charges, yet only 25,000 of those cases were crimes against Paragraph 175, and of that only 3,976 were convicted,</mark> essentially <mark stat:id="m-context">47 out of every 10,000</mark>.<sup cn>bad math</sup> 
+<mark>According to statistics compiled by the Nazis and discovered after the war’s end,</mark> there were roughly 2.4 million teenage boys who were arrested under various charges, yet only 25,000 of those cases were crimes against Paragraph 175, and of that only 3,976 were convicted,</mark> essentially <mark stat:id="m-context">47 out of every 10,000</mark>.<sup cn>1</sup> 
 
 \[On screen]: "47 / 10,000"
 
@@ -1376,29 +1505,32 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 
 <footer>
 
-<sup cn>bad math</sup>: James is pretending he's doing math here, but he's literally just copying from the book. The numbers in the book are talking about something entirely different. {% include signed for=tustin %}
+<sup>1</sup>: James is pretending he's doing math here, but he's literally just copying from the book. The numbers in the book are talking about something entirely different. {% include signed for=tustin %}
 
 </footer>
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.128-129" %}>
 
-<mark>According to statistics compiled by the Nazis and discovered after the war’s end, only 3,976 male teenagers between fourteen and eighteen years old, of the more than 25,000 juveniles arrested for crimes against Paragraph 175, were convicted between 1933 and 1940. Since the total of juveniles during this period amounted to about 2.4 million,</mark> this number is relatively small. The legal department of the Hitler Youth had researched the cases of 100,000 juveniles convicted of all sorts of illegal deeds only to discover that on the average; just <mark>forty-seven out of ten thousand</mark> crimes were of a homosexual nature. <mark>This was embarrassing; Schirach, like Himmler, was convinced that homosexuals formed a greater portion of the criminal population. Still more embarrassing proved to be a second inquiry into same-sex felonies committed between July 1939 and August 1941 within the newly purged Hitler Youth.</mark> Of those ousted from the organisation, 293 were charged with homosexual misdeeds- <mark fc>nearly 15 percent of the total expelled a rather large percentage.</mark>
+<mark>According to statistics compiled by the Nazis and discovered after the war’s end, only 3,976 male teenagers between fourteen and eighteen years old, of the more than 25,000 juveniles arrested for crimes against Paragraph 175, were convicted between 1933 and 1940. Since the total of juveniles during this period amounted to about 2.4 million,</mark> this number is relatively small. The legal department of the Hitler Youth had researched the cases of 100,000 juveniles convicted of all sorts of illegal deeds only to discover that on the average, just <mark>forty-seven out of ten thousand</mark> crimes were of a homosexual nature. <mark>This was embarrassing; Schirach, like Himmler, was convinced that homosexuals formed a greater portion of the criminal population. Still more embarrassing proved to be a second inquiry into same-sex felonies committed between July 1939 and August 1941 *within* the newly purged Hitler Youth.</mark> Of those ousted from the organisation, 293 were charged with homosexual misdeeds- <mark fc>nearly 15 percent of the total expelled a rather large percentage.<sup>31</sup></mark>
 
 These figures must be treated with caution. They indicate only the number of people arrested and sentenced for homosexuality; they tell nothing of the truth of that charge. Further, they reflect only the number of arrests and convictions the Nazis decided to record. It was not unusual for people to disappear without a trace.
 
+<footer>
+
+31. Seidler, *Prostitution*, throughout.
+
+</footer>
 </from>
 <comment id="fifteen_percent">
 {% include header video=todd at="1039" %}
 
-Okay, the thing about Somerton is that sometimes he will cite his sources and you can just read along and see where he's adding things. He got most of this video from Richard Plant's *The Pink Triangle* and the passage he's quoting from actually says that 15% of the *teenage boys* kicked out of the Hitler Youth were kicked out for being being gay, not the adult leadership. Also, there's nothing in there about any coverups. [...]
-
-Now I have seen [a different article](https://www.jstor.org/stable/3704558) arguing that Himmler *maybe* didn't drum out all the gays from the force like he claimed he did, but you know that's more the level of arguing that, you know, the SS was as gay as the general populace, not "so gay" that they were infamous for coercing gay blowjobs from people. [Also the whole idea of gay Nazis is a wildly homophobic myth and you shouldn't spread it](https://slate.com/human-interest/2018/08/gay-nazi-myth-why-dinesh-dsouzas-misuse-of-history-is-so-galling.html).
+Okay, the thing about Somerton is that sometimes he will cite his sources and you can just read along and see where he's adding things. He got most of this video from Richard Plant's *The Pink Triangle* and the passage he's quoting from actually says that 15% of the *teenage boys* kicked out of the Hitler Youth were kicked out for being being gay, not the adult leadership. Also, there's nothing in there about any coverups.
 
 </comment>
 <comment id="pink_swastika">
 {% include header for=tobi %}
 
-Also, again, gays in the military were not "excused" for "having gay sexual encounters." The book says the exact opposite. Some of the claims that James makes here and in other places are also found in *The Pink Swastika*, a pseudohistorical book written by an anti-gay rightwinger that promotes the gay Nazi myth. The book's claims have been debunked by many historians and other writers. See, for example, [*The Annotated Pink Swastika*](http://www.qrd.org/qrd/religion/anti/annotated.pink.swastika)
+Also, again, gays in the military were not "excused" for "having gay sexual encounters." The book says the exact opposite. Some of the claims that James makes here and in other places, regarding homosexuality within the Nazi party, are also found in *The Pink Swastika*, a pseudohistorical book written by an anti-gay rightwinger that promotes the gay Nazi myth. The book's claims have been debunked by many historians and other writers. See, for example, [*The Annotated Pink Swastika*](http://www.qrd.org/qrd/religion/anti/annotated.pink.swastika)
 
 </comment>
 </compare>
@@ -1406,12 +1538,12 @@ Also, again, gays in the military were not "excused" for "having gay sexual enco
 <compare>
 <james {% include timecode %}> 
 
-<mark>To understand what happened to the gay men in the armed forces who did not “pass” – that is, those who were caught and convicted - three factors must be taken into account. First, after July 1935, as draft-age gays began to grasp the ferocity of the new anti-homosexual laws, many decided to volunteer for the navy, army, or the air force. Neither</mark> the generals <mark>of the army,</mark> admirals <mark>of the navy, nor even Marshal Goring of the air force shared the homophobic obsessions of Himmler. Second, after the Roehm purge had eliminated the homosexual SA elite, no halfway intelligent gay was likely to join the homophobic SS.</mark> Though, many had already made it in right under Himmler's nose.<sup cn></sup> <mark>Third, none of the armed forces were inclined favourably toward homosexuality. Statistics from 1940 show that the military courts were busy with sexual offenders as more and more young men joined or were drafted. Simultaneously, indictments of male civilians for the same felonies stayed the same or dropped slightly.
+<mark>To understand what happened to the gay men in the armed forces who did not “pass” – that is, those who were caught and convicted - three factors must be taken into account. First, after July 1935, as draft-age gays began to grasp the ferocity of the new antihomosexual laws, many decided to volunteer for the navy, army, or the air force. Neither</mark> the generals <mark>of the army,</mark> admirals <mark>of the navy, nor even Marshal Goring of the air force shared the homophobic obsessions of Himmler. Second, after the Roehm purge had eliminated the homosexual SA elite, no halfway intelligent gay was likely to join the homophobic SS.</mark> Though, many had already made it in right under Himmler's nose.<sup cn></sup> <mark>Third, none of the armed forces were inclined favourably toward homosexuality. Statistics from 1940 show that the military courts were busy with sexual offenders as more and more young men joined or were drafted. Simultaneously, indictments of male civilians for the same felonies stayed the same or dropped slightly.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.143-144" %}>
 
-<mark>To understand what happened to those homosexuals in the armed forces who did not “pass” – that is, those who were caught and convicted- three factors must be taken into account. First, after July 1935, as draft-age gays began to grasp the ferocity of the new anti-homosexual laws, many decided to volunteer for the navy, army, or the air force. Neither</mark> General Keitel <mark>of the army,</mark> nor Admirals Raeder or Doenitz <mark>of the navy, nor even Marshal Goring of the air force shared the homophobic obsessions of Himmler. Second, after the Roehm purge had eliminated the homosexual SA elite, no halfway intelligent gay was likely to join the homophobic SS.</mark> <mark>Third, none of the armed forces were inclined favourably toward homosexuality. Statistics from 1940 show that the military courts were busy with sexual offenders as more and more young men joined or were drafted. Simultaneously, indictments of male civilians for the same felonies stayed the same or dropped slightly.</mark> In 1941, about 3,700 civilians were sentenced for same-sex activities. During the same year, the number of men indicted for the same crime within the armed forces amounted to just over 1,100.
+<mark>To understand what happened to those homosexuals in the armed forces who did not “pass” – that is, those who were caught and convicted - three factors must be taken into account. First, after July 1935, as draft-age gays began to grasp the ferocity of the new antihomosexual laws, many decided to volunteer for the navy, army, or air force. Neither</mark> General Keitel <mark>of the army,</mark> nor Admirals Raeder or Doenitz <mark>of the navy, nor even Marshal Göring of the air force shared the homophobic obsessions of Himmler. Second, after the Roehm purge had eliminated the homosexual SA elite, no halfway intelligent gay was likely to join the homophobic SS.</mark> <mark>Third, none of the armed forces were inclined favourably toward homosexuality. Statistics from 1940 show that the military courts were busy with sexual offenders as more and more young men joined or were drafted. Simultaneously, indictments of male civilians for the same felonies stayed the same or dropped slightly.</mark> In 1941, about 3,700 civilians were sentenced for same-sex activities. During the same year, the number of men indicted for the same crime within the armed forces amounted to just over 1,100.
 
 </from>
 </compare>
@@ -1422,9 +1554,9 @@ Also, again, gays in the military were not "excused" for "having gay sexual enco
 <mark>In 1942, after much badgering from Himmler, Hitler declared that the armed forces were too lenient in their treatment of sexual deviants.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.144" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.144-145" %}>
 
-<mark>In 1942, Hitler declared that the armed forces were too lenient in their treatment of sexual deviants.</mark> There was probably more behind this than Hitler’s pleasure in the badgering the military. Himmler, who a year earlier had prescribed the death penalty for any SS member guilty of homosexual actions, had probably pressured Hitler to the armed forces to conform. After all, an SS man caught with a sailor could be executed, while the sailor might get away with one or two years in jail. A psychiatrist, Otto Wuth, was appointed to alert military jurists to the dangers of all types of homosexuality. Wuth, a firm believer in Himmler’s scriptures, disapproved of the distinction between full-time libidinal felons and part-time victims. He labelled every male indulging in any type of same-sex activities a “compulsive psychopath,” and sought to prove that most homosexuals had previous criminal records of one sort or another. Should men convicted of homosexual felonies be dismissed from the armed forces? Wuth thought not. He proposed to put them instead into penal combat battalions where they had to face direct enemy fire. Wuth argued that if genuine psychopaths were discharged from the fighting forces. Heterosexual malingerers might pretend to be libidinal felons and use this ruse to get out of service. For repeat offenders, Wuth recommended demotion in rank for minor violations, and strict prison sentences for major crimes; all criminals were to wear a visible badge denoting their status.
+<mark>In 1942, Hitler declared that the armed forces were too lenient in their treatment of sexual deviants.</mark> There was probably more behind this than Hitler’s pleasure in the badgering the military. Himmler, who a year earlier had prescribed the death penalty for any SS member guilty of homosexual actions, had probably pressured Hitler to the armed forces to conform. After all, an SS man caught with a sailor could be executed, while the sailor might get away with one or two years in jail. A psychiatrist, Otto Wuth, was appointed to alert military jurists to the dangers of all types of homosexuality. Wuth, a firm believer in Himmler’s scriptures, disapproved of the distinction between full-time libidinal felons and part-time victims. He labelled every male indulging in any type of same-sex activities a “compulsive psychopath,” and sought to prove that most homosexuals had previous criminal records of one sort or another. Should men convicted of homosexual felonies be dismissed from the armed forces? Wuth thought not. He proposed to put them instead into penal combat battalions where they had to face direct enemy fire. Wuth argued that if genuine psychopaths were discharged from the fighting forces, heterosexual malingerers might pretend to be libidinal felons and use this ruse to get out of service. For repeat offenders, Wuth recommended demotion in rank for minor violations, and strict prison sentences for major crimes; all criminals were to wear a visible badge denoting their status.
 
 </from>
 </compare>
@@ -1438,7 +1570,7 @@ To his disappointment, accused gay soldiers continued to serve. It was 1943 afte
 <comment>
 {% include header for=tobi %}
 
-This is somewhat true, according to the next few pages of *The Pink Triangle*. [However, soldiers were still imprisoned or executed on accusations of homosexuality, even later in the war.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A30A542D219DAFA5A547022C5A93D44C/S0960777323000644a.pdf/ideology_and_the_application_of_law_in_ss_courts_a_case_study_of_legal_practice_in_the_third_reich.pdf) And "nice Aryan boys having sex with each other" is... an odd way of putting it.
+This is somewhat true, according to the next few pages of *The Pink Triangle*. [However, soldiers were still imprisoned or executed on accusations of homosexuality, even later in the war.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A30A542D219DAFA5A547022C5A93D44C/S0960777323000644a.pdf/ideology_and_the_application_of_law_in_ss_courts_a_case_study_of_legal_practice_in_the_third_reich.pdf) Also see Plant 146: "Still, the military was not overly lenient toward same-sex offenders. It meted out justice according to the old laws established by the Prussian army before 1870." It then details two cases of sailors imprisoned for kissing or propositioning other sailors. The armed forces just weren't as strict as Himmler would have preferred, owing to the fact that they were never completely under the control of the Gestapo. And "nice Aryan boys having sex with each other" is... an odd way of putting it.
 
 </comment>
 </compare>
@@ -1455,7 +1587,7 @@ As you can see, gay men, even in Nazi Germany, had a habit of slipping through t
 <comment>
 {% include header for=tobi %}
 
-This is more or less true, according to *The Pink Triangle* p. 144.
+This is more or less true, according to Plant 149: "Despite the paucity of reliable statitics, it seem reasonable to conclude that a considerable number - perhaps even a majority - of the tougher and more circumspect, resourceful, and just plain lucky homosexuals survived the Third Reich undetected." However, "Still, even for those who managed to survive, their day and nights were filled with fear. It was impossible to trust anyone, especially strangers. Moreover, from 1935 on, every gay German man knew that if he was caught he risked being shipped to a concentration camp."
 
 </comment>
 </compare>
@@ -1463,13 +1595,18 @@ This is more or less true, according to *The Pink Triangle* p. 144.
 <compare>
 <james {% include timecode %}> 
 
-<mark>The first concentration camp to open, Dachau, began operation on March 30, 1933, on Himmler's orders. Set up in haste to relieve the prisons, which were overcrowded after the Reichstag fire, the camp was poorly organised. The SA arrested, and sometimes discharged, people at random. The earliest prisoners included antifascists, Catholics, homosexuals, and Jews. The commandant, Major Hilmar Wackerle, attempted to maintain some order; “violent insubordination” and “incitement to disobedience” were punishable by death. Still, he could not keep his constables in check. Himmler, angered by the adverse publicity generated by the murder of several prisoners, dismissed Wackerle, who was subsequently charged by the Bavarian criminal prosecutor’s office.</mark>
+<mark>The first concentration camp to open, Dachau, began operation on March 30, 1933, on Himmler's orders. Set up in haste to relieve the prisons, which were overcrowded after the Reichstag fire, the camp was poorly organised. The SA arrested, and sometimes discharged, people at random. The earliest prisoners included antifascists, Catholics, homosexuals, and Jews. The commandant, Major Hilmar Wäckerle, attempted to maintain some order; “violent insubordination” and “incitement to disobedience” were punishable by death. Still, he could not keep his constables in check. Himmler, angered by the adverse publicity generated by the murder of several prisoners, dismissed Wackerle, who was subsequently charged by the Bavarian criminal prosecutor’s office.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.155-156" %}>
 
-<mark>The first camp, Dachau, near Munich, was opened on March 30, 1933, on Himmler’s orders. Set up in haste to relieve the prisons, which were overcrowded after the Reichstag fire, the camp was poorly organised. The SA arrested, and sometimes discharged, people at random. The earliest prisoners included antifascists, Catholics, homosexuals, and Jews. The commandant, Major Hilmar Wackerle, attempted to maintain some order; “violent insubordination” and “incitement to disobedience” were punishable by death. Still, he could not keep his constables in check. Himmler, angered by the adverse publicity generated by the murder of several prisoners, dismissed Wackerle, who was subsequently charged by the Bavarian criminal prosecutor’s office.</mark>
+<mark>The first camp, Dachau, near Munich, was opened on March 30, 1933, on Himmler’s orders. Set up in haste to relieve the prisons, which were overcrowded after the Reichstag fire, the camp was poorly organised. The SA arrested, and sometimes discharged, people at random. The earliest prisoners included antifascists, Catholics, homosexuals, and Jews. The commandant, Major Hilmar Wäckerle, attempted to maintain some order; “violent insubordination” and “incitement to disobedience” were punishable by death. Still, he could not keep his constables in check. Himmler, angered by the adverse publicity generated by the murder of several prisoners, dismissed Wäckerle, who was subsequently charged by the Bavarian criminal prosecutor’s office.<sup>10</sup></mark>
 
+<footer>
+
+10. See Sydnor, *Soldiers of Destruction*, especially the first six chapters.
+
+</footer>
 </from>
 </compare>
 
@@ -1480,26 +1617,36 @@ This is more or less true, according to *The Pink Triangle* p. 144.
 
 > <mark></mark>“There are enough German oak trees to hang anybody who dares to defy us.” 
 
-<mark>It was Eicke who transformed Dachau from a disorderly open-air jail into a place of carefully calibrated punishment and deprivation schedules. It was Eicke who provided the model for all later institutions. Men trained under him often ended up as high officers in the larger camps. And it was Eicke who brought the revolver into Ernst Roehm’s prison cell and, when Roehm refused the proffered suicide, shot him on Hitler’s orders, thus bringing to a climax the Night of the Long Knives. Whether Eicke’s governing techniques stemmed from his experiences as police informer, terrorist, and SS officer, or whether they simply mirrored the mind of a butcher born to the task- a bully who enjoyed tyrannising others- remains difficult to decide. What is incontestable is that it was his policies that shaped the contours of all camps and made them into the indispensable and diabolical instruments of Hitler and Himmler’s rule by terror.</mark>
+<mark>It was Eicke who transformed Dachau from a disorderly open-air jail into a place of carefully calibrated punishment and deprivation schedules. It was Eicke who provided the model for all later institutions. Men trained under him often ended up as high officers in the larger camps. And it was Eicke who brought the revolver into Ernst Roehm’s prison cell and, when Roehm refused the proffered suicide, shot him on Hitler’s orders, thus bringing to a climax the Night of the Long Knives. Whether Eicke’s governing techniques stemmed from his experiences as police informer, terrorist, and SS officer, or whether they simply mirrored the mind of a butcher born to the task - a bully who enjoyed tyrannizing others - remains difficult to decide. What is incontestable is that it was his policies that shaped the contours of all camps and made them into the indispensable and diabolical instruments of Hitler and Himmler’s rule by terror.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.156-157" %}>
 
-<mark>In June 1933, Himmler appointed Theodor Eicke, the man who, more than anything else, shaped the character not only of Dachau but of labour camps. He organised brutality courses for the SS novices, worked out a graded system of confinements, and succeeded in welding the newly born Order of the Death’s Head into a fanatical gang of bullies, imbued with hatred toward the charges they regarded as subhumans. Eicke’s favourite slogan, frequently shouted by the guards at newcomers, was,</mark> <mark>“There are enough German oak trees to hang anybody who dares to deft us.”</mark> <mark>It was Eicke who transformed Dachau from a disorderly open-air jail into a place of carefylly calibrated punishment and deprivation schedules. It was Eicke who provided the model for all later institutions. Men trained under him often ended up as high officers in the larger camps. And it was Eicke who brought the revolver into Ernst Roehm’s prison cell and, when Roehm refused the proffered suicide, shot him on Hitler’s orders, thus bringing to a climax the Night of the Long Knives. Whether Eicke’s governing techniques stemmed from his experiences as police informer, terrorist, and SS officer, or whether they simply mirrored the mind of a butcher born to the task- a bully who enjoyed tyrannising others- remains difficult to decide. What is incontestable is that it was his policies that shaped the repressive contours of all camps and made them into the indispensable and diabolical instruments of Hitler’s and Himmler’s rule by terror.</mark>
+<mark>In June 1933, Himmler appointed Theodor Eicke, the man who, more than anything else, shaped the character not only of Dachau but of labour camps. He organised brutality courses for the SS novices, worked out a graded system of confinements, and succeeded in welding the newly born Order of the Death’s Head into a fanatical gang of bullies, imbued with hatred toward the charges they regarded as subhumans. Eicke’s favourite slogan, frequently shouted by the guards at newcomers, was,</mark> <mark>“There are enough German oak trees to hang anybody who dares to defy us.”<sup>11</sup></mark> <mark>It was Eicke who transformed Dachau from a disorderly open-air jail into a place of carefully calibrated punishment and deprivation schedules. It was Eicke who provided the model for all later institutions. Men trained under him often ended up as high officers in the larger camps. And it was Eicke who brought the revolver into Ernst Roehm’s prison cell and, when Roehm refused the proffered suicide, shot him on Hitler’s orders, thus bringing to a climax the Night of the Long Knives. Whether Eicke’s governing techniques stemmed from his experiences as police informer, terrorist, and SS officer, or whether they simply mirrored the mind of a butcher born to the task - a bully who enjoyed tyrannizing others - remains difficult to decide. What is incontestable is that it was his policies that shaped the repressive contours of all camps and made them into the indispensable and diabolical instruments of Hitler’s and Himmler’s rule by terror.</mark>
 
+<footer>
+
+11. Schanbel, *Die Frommen*, 32.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>Eicke developed a set of procedures that would breed in the guards a conviction that they were not only carrying out legitimate orders but punishing dangerous subversives. His “brutality Training Academy” graduates ruled over almost all later penal institutions- first those in the West, later in the extermination mills in the East.</mark>
+<mark>Eicke developed a set of procedures that would breed in the guards a conviction that they were not only carrying out legitimate orders but punishing dangerous subversives. His “Brutality Training Academy” graduates ruled over almost all later penal institutions - first those in the West, later in the extermination mills in the East.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.157" %}>
 
-Basically, Eicke worked out two sets of rules, one for camp personnel, one for inmates. Of the code for guards, only certain sections were put on paper; much of it was passed on through indoctrination sessions. Foremost, he insisted on unconditional obedience. Every order by a superior officer had to be carried out. Frequently he emphasised “that every prisoner be treated with fanatical hatred as an enemy of the state.” <mark>Eicke developed a set of procedures that would breed in the guards a conviction that they were not only carrying out legitimate orders but punishing dangerous subversives. He began a “brutality Training Academy” whose graduates ruled over almost all later penal institutions- first those in the West, later in the extermination mills in the East.</mark> The earlier camps, located within German, Austrian, Dutch, French, and Belgian borders, did not dispose of inmates by mechanised crematoria. They cannot properly be labelled extermination camps, although thousands perished in them.
+Basically, Eicke worked out two sets of rules, one for camp personnel, one for inmates. Of the code for guards, only certain sections were put on paper; much of it was passed on through indoctrination sessions. Foremost, he insisted on unconditional obedience. Every order by a superior officer had to be carried out. Frequently he emphasised “that every prisoner be treated with fanatical hatred as an enemy of the state.”<sup>12</sup> <mark>Eicke developed a set of procedures that would breed in the guards a conviction that they were not only carrying out legitimate orders but punishing dangerous subversives. He began a “Brutality Training Academy” whose graduates ruled over almost all later penal institutions - first those in the West, later in the extermination mills in the East.</mark> The earlier camps, located within German, Austrian, Dutch, French, and Belgian borders, did not dispose of inmates by mechanized crematoria. They cannot properly be labeled extermination camps, although thousands perished in them.
 
+<footer>
+
+12. Sydnor, *Soldiers of Destruction*, 11-18.
+
+</footer>
 </from>
 </compare>
 
@@ -1511,7 +1658,7 @@ Basically, Eicke worked out two sets of rules, one for camp personnel, one for i
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.158-159" %}>
 
-<mark>In his guidebook on discipline and order, his training drills for the misfits and malcontents who made up his armies, Eicke created a nightmarish world of barbarism and doom, so far removed from the experience of most Western nations that what went on inside the camps was at first not believed.</mark> If Himmler was initially ordered to organise the extermination of large minorities, such as Jews and antifascists, if he later added the crusades against the smaller groups of contragenics such as Gypsies and homosexuals, it was Eicke who provided the needed confinement structures that soon dotted three-quarters of Europe.
+<mark>In his guidebook on discipline and order, his training drills for the misfits and malcontents who made up his armies, Eicke created a nightmarish world of barbarism and doom, so far removed from the experience of most Western nations that what went on inside the camps was at first not believed.</mark> If Himmler was initially ordered to organize the extermination of large minorities, such as Jews and antifascists, if he later added the crusades against the smaller groups of contragenics such as Gypsies and homosexuals, it was Eicke who provided the needed confinement structures that soon dotted three-quarters of Europe.
 
 </from>
 </compare>
@@ -1524,21 +1671,31 @@ Basically, Eicke worked out two sets of rules, one for camp personnel, one for i
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.159" %}>
 
-<mark>The camps, thanks to Himmler, existed outside any legal restrictions. They presented a new type of penal colony where anybody resisting the established order could be quickly silenced.</mark> How the camps functioned, from exhaustive day to exhaustive day, has been told by so many excellent observers and historians that there is no need for detailed analysis here.
+<mark>The camps, thanks to Himmler, existed outside any legal restrictions. They presented a new type of penal colony where anybody resisting the established order could be quickly silenced.</mark> How the camps functioned, from exhaustive day to exhaustive day, has been told by so many excellent observers and historians that there is no need for detailed analysis here.<sup>14</sup>
 
+<footer>
+
+14. The following books are essential: Davidowicz, *The War Against the Jews 133-1945*; Des Pres, *The Survivor*; Gilbert, *The Holocaust*; Hilberg, *The Destruction of the European Jews*; Kogon, *Der SS Staat*; and Levi, *Questo è un uomo*.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>The entire process of dehumanisation upon entering the camps - the stripping, in some cases the shaving of all hair, the loss of name and personhood, caused profound trauma. It was accompanied not only by the enduring sensation of powerlessness; the victim, under daily assault in one way or another, also began to realize that nothing he had achieved, done, or owned counted here.</mark>
+<mark>The entire process of dehumanization upon entering the camps - the stripping, in some cases the shaving of all hair, the loss of name and personhood, caused profound trauma. It was accompanied not only by the enduring sensation of powerlessness; the victim, under daily assault in one way or another, also began to realize that nothing he had achieved, done, or owned counted here.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.160" %}>
 
-<mark>The entire process of dehumanisation on entering the camp- the stripping, in some cases the shaving of all, even the pubic, hair, the loss of name and personhood, caused profound trauma. The jolt was accompanied not only by the enduring sensation of powerlessness; the victim, under daily assault in one way or the other, also began to realise that nothing he had achieved, done, or owned counted here.</mark> It has been said that in the inferno all are equal. But for one group the shock of incarceration was not as destructive as for the others. To habitual criminals, the trauma was less intense; they had spent years in jails developing a repertoire of survival techniques.
+<mark>The entire process of dehumanization on entering the camp - the stripping, in some cases the shaving of all, even the pubic, hair, the loss of name and personhood, caused profound trauma. The jolt was accompanied not only by the enduring sensation of powerlessness; the victim, under daily assault in one way or the other, also began to realise that nothing he had achieved, done, or owned counted here.</mark> It has been said that in the inferno all are equal.<sup>15</sup> But for one group the shock of incarceration was not as destructive as for the others. To habitual criminals, the trauma was less intense; they had spent years in jails developing a repertoire of survival techniques.
 
+<footer>
+
+15. Kogon, *Der SS Staat*, 366-79.
+
+</footer>
 </from>
 </compare>
 
@@ -1563,8 +1720,13 @@ Basically, Eicke worked out two sets of rules, one for camp personnel, one for i
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.163" %}>
 
-<mark>After a homosexual arrived in camp, he underwent the first experience of all newcomers: he was seized by a profound trauma. He was battered, kicked, slapped, and reviled. According to at least one witness, homosexuals and Jews were not only given the worst bearings, but their pubic hair was shorn; others lost only their head hair.</mark>
+<mark>After a homosexual arrived in camp, he underwent the first experience of all newcomers: he was seized by a profound trauma. He was battered, kicked, slapped, and reviled. According to at least one witness, homosexuals and Jews were not only given the worst bearings, but their pubic hair was shorn; others lost only their head hair.<sup>20</sup></mark>
 
+<footer>
+
+20. Letter to the uthor from former inmate L.W., May 1980.
+
+</footer>
 </from>
 </compare>
 
@@ -1600,8 +1762,14 @@ Basically, Eicke worked out two sets of rules, one for camp personnel, one for i
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.163" %}>
 
-<mark>A clergyman, remanded to Dachau in September 1941, describes the process well:</mark> <mark>“The SS man asked everybody what charges he had been sentenced. One man was there on account of crimes against Paragraph 175. He was cuffed, forced to tell in detail what he had done and how. Then they fell upon him, cuffing and kicking.”</mark> <mark>Another victim recalls his first day in Sachsenhausen:</mark> <mark>“When my name was called, i stepped forward, gave my name, and mentioned Paragraph 175. With the words 'You filthy queer, get over there, you butt fucker,' I received several kicks... then was transferred to an SS sergeant in charge of my block. The first thing I got from him was a violent blow on my face that threw me to the ground... he brought his knees up hard into my groin so that I doubled over with pain... he grinned at me and said: `That was your entrance fee,</mark> you filthy Viennese swine..."
+<mark>A clergyman, remanded to Dachau in September 1941, describes the process well:</mark> <mark>“The SS man asked everybody what charges he had been sentenced. One man was there on account of crimes against Paragraph 175. He was cuffed, forced to tell in detail what he had done and how. Then they fell upon him, cuffing and kicking.”<sup>21</sup></mark> <mark>Another victim recalls his first day in Sachsenhausen:</mark> <mark>“When my name was called, i stepped forward, gave my name, and mentioned Paragraph 175. With the words 'You filthy queer, get over there, you butt fucker,' I received several kicks... then was transferred to an SS sergeant in charge of my block. The first thing I got from him was a violent blow on my face that threw me to the ground... he brought his knees up hard into my groin so that I doubled over with pain... he grinned at me and said: `That was your entrance fee,</mark> you filthy Viennese swine..."<sup>22</sup>
 
+<footer>
+
+21. Lautmann, *Gesellschaft und Homosexualität, 333.
+22. Heger, *Die Männer mit dem Rosa Winkel*, 33.
+
+</footer>
 </from>
 <comment>
 {% include header for=tustin %}
@@ -1632,10 +1800,15 @@ James seems to affect some sort of posh British accent when reading these quotes
 > covered with blood.”
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.164" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.163" %}>
 
-<mark>Another witness testifies about his reception at</mark> Camp Natzweiler: <mark>“I can swear an oath that because of my triangle I was separated from other inmates. An SS sergeant together with a Kapo mistreated me in the most brutal manner... three times their fists hit my face, especially my nose, so that I fell on the floor three times;</mark> <mark>when I managed to get up again, they continued battering and hitting me... I then staggered back to my barracks, covered with blood.”</mark>
+<mark>Another witness testifies about his reception at</mark> Camp Natzweiler: <mark>“I can swear an oath that because of my pink triangle I was separated from other inmates. An SS sergeant together with a *Kapo* mistreated me in the most brutal manner... three times their fists hit my face, especially my nose, so that I fell on the floor three times;</mark> <mark>when I managed to get up again, they continued battering and hitting me... I then staggered back to my barracks, covered with blood.”<sup>23</sup></mark>
 
+<footer>
+
+23. Harthauser, "Massenmord an Homosexuellen," 30.
+
+</footer>
 </from>
 </compare>
 
@@ -1647,10 +1820,16 @@ James seems to affect some sort of posh British accent when reading these quotes
 <mark>In Dachau,</mark> gay people <mark>were kept apart</mark> from other inmates. <mark>Rudolf Hoess,</mark> <mark>a Dachau official</mark> at the time, <mark>explained in his memoirs that he had ordered homosexuals isolated to make it easier to control them. Hoess also developed the "salvation through work" theory, which he tried out on gay men in</mark> <mark>Auschwitz. It was intended to make the <q>"depraved deviants"</q> work so hard that they nearly collapsed from exhaustion. This, it was hoped, would (quote)<q>"straighten them out."</q> Hoess admitted</mark>... <mark id="hoess_admitted" stat:id="m-context" fc=false>it never worked.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.164" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.163-164" %}>
 
-These degradation rituals were applied to crush all novices. <mark>That, as some survivors have maintained, the pink triangles were always larger than those of other colours,</mark> <mark fc>has not been proven.</mark> Equally uncertain is whether there was ever any order to sequester homosexuals in special barracks or to distribute them among the regular barracks population. <mark>In Dachau,</mark> Flossenburg, and Sachsenhausen they <mark>were kept apart</mark> for a while. <mark>Rudolf Hoess,</mark> one of Eicke’s prize students, <mark>a Dachau official</mark>, then commandant of Sachsenhausen and Auschwitz, <mark>explained in his memoirs that he ordered homosexuals isolated to make it easier to control them. Hoess also developed the “salvation through work” theory, which he tried out on homosexuals in</mark> Sachsenhausen and <mark>Auschwitz. It was intended to make the depraved deviants work so hard that they nearly collapsed from exhaustion. This, it was hoped, would “straighten them out.” Hoess admitted</mark> that it did not always work out this way, but he still kept them separated and assigned them to the cement works, from which it was nearly impossible to emerge alive.
+These degradation rituals were applied to crush all novices. <mark>That, as some survivors have maintained, the pink triangles were always larger than those of other colours,</mark> <mark fc>has not been proven.<sup>24</sup></mark> Equally uncertain is whether there was ever any order to sequester homosexuals in special barracks or to distribute them among the regular barracks population. <mark>In Dachau,</mark> Flossenbürg, and Sachsenhausen they <mark>were kept apart</mark> for a while. <mark>Rudolf Hoess,</mark> one of Eicke’s prize students, <mark>a Dachau official</mark>, then commandant of Sachsenhausen and Auschwitz, <mark>explained in his memoirs that he ordered homosexuals isolated to make it easier to control them.<sup>25</sup> Hoess also developed the “salvation through work” theory, which he tried out on homosexuals in</mark> Sachsenhausen and <mark>Auschwitz. It was intended to make the depraved deviants work so hard that they nearly collapsed from exhaustion. This, it was hoped, would “straighten them out.” Hoess admitted</mark> that it did not always work out this way, but he still kept them separated and assigned them to the cement works, from which it was nearly impossible to emerge alive.
 
+<footer>
+
+24. Lautmann, *Gesellschaft und Homosexualität*, 33. Also Heger, *The Men with the Pink Triangle*, 32. 
+25. Hoess, *Kommandant in Auschwitz*, 80-82.
+
+</footer>
 </from>
 <comment id="bigger_triangle">
 {% include header for=tustin %}
@@ -1684,10 +1863,16 @@ James takes this half quote about how people felt the pink triangles were bigger
 > and it was rare for any homosexual taken into the sick bay to come out alive."
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.165" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.164-165" %}>
 
-<mark>Hoess’s directives to keep the homosexuals strictly controlled, apart from all other prisoners, was followed for a while in several camps. Of Flossenburg, one survivor writes:</mark> <mark num=2>“Our block was occupied by homosexuals, with about 250 men in each wing. We could sleep only in our nightshirts and had to keep our hands outside the blankets.”</mark> This was to prevent them from masturbating. <mark num=2>“The windows had several layers of ice on them. Anyone found in bed with his under clothes on, or his hands under the blankets</mark> - <mark num=3>there were several checks every night</mark> - <mark num=4>was taken outside and had several buckets of water poured over him before being left standing in the cold for a good hour. Only a few people survived this treatment. The least result was bronchitis, and it was rare for any homosexual taken into the sick bay to come out alive.”</mark> In other institutions, the gays shared quarters with Gypsies, asocials, or foreigners. Occasionally, homosexuals were distributed throughout various barracks and were treated no worse than other prisoners.
+<mark>Hoess’s directives to keep the homosexuals strictly controlled, apart from all other prisoners, was followed for a while in several camps. Of Flossenbürg, one survivor writes:</mark> <mark num=2>“Our block was occupied by homosexuals, with about 250 men in each wing. We could sleep only in our nightshirts and had to keep our hands outside the blankets.”</mark> This was to prevent them from masturbating. <mark num=2>“The windows had several layers of ice on them. Anyone found in bed with his underclothes on, or his hands under the blankets</mark> - <mark num=3>there were several checks every night</mark> - <mark num=4>was taken outside and had several buckets of water poured over him before being left standing in the cold for a good hour. Only a few people survived this treatment. The least result was bronchitis, and it was rare for any homosexual taken into the sick bay to come out alive.”<sup>26</sup></mark> In other institutions, the gays shared quarters with Gypsies, asocials, or foreigners. Occasionally, homosexuals were distributed throughout various barracks and were treated no worse than other prisoners.<sup>27</sup>
 
+<footer>
+
+26. Heger, *Die Männer mit dem Rosa Winkel*, 36.
+27. Kogon, *Der SS Staat*, 270-2.
+
+</footer>
 </from>
 </compare>
 
@@ -1699,8 +1884,13 @@ James takes this half quote about how people felt the pink triangles were bigger
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.165" %}>
 
-<mark>What put the homosexuals into a low- if not the lowest - category of prisoner were several factors,</mark> some easy to formulate, others more elusive. <mark>Hoess, for example, insisted on sequestering the gays. Sealed off in their barracks, they could not fraternise with the antifascist underground, which, Hoess knew, occupied key camp positions. Like Himmler, Hoess seems to have been convinced that most homosexuals were intellectually above average, and thus they might serve as useful allies to the dangerous antifascist power block within the camp. Hoess also believed that homosexuality was an illness that might spread to other inmates or even to the guards.</mark> Himmler shared this conviction and, to counter the danger, installed bordellos in many penal colonies. In Sachsenhausen and Auschwitz, Hoess ordered homosexuals to visit the bordellos- perhaps thereby they would be cured and become useful camp labourers.
+<mark>What put the homosexuals into a low - if not the lowest - category of prisoner were several factors,</mark> some easy to formulate, others more elusive. <mark>Hoess, for example, insisted on sequestering the gays. Sealed off in their barracks, they could not fraternise with the antifascist underground, which, Hoess knew, occupied key camp positions. Like Himmler, Hoess seems to have been convinced that most homosexuals were intellectually above average, and thus they might serve as useful allies to the dangerous antifascist power block within the camp. Hoess also believed that homosexuality was an illness that might spread to other inmates or even to the guards.</mark> Himmler shared this conviction and, to counter the danger, installed bordellos in many penal colonies. In Sachsenhausen and Auschwitz, Hoess ordered homosexuals to visit the bordellos - perhaps thereby they would be cured and become useful camp labourers.<sup>28</sup>
 
+<footer>
+
+28. Hoess, *Kommandant in Auschwitz*, 80-81. Letter to the author from L.W.: After faking successful intercourse with a woman in the camp brothel, he was told, "Now you are a real German man." Heger also reports such "conversion therapy."
+
+</footer> 
 </from>
 </compare>
 
@@ -1712,82 +1902,116 @@ James takes this half quote about how people felt the pink triangles were bigger
 > <mark></mark>"Even if they were in poor physical shape,  
 > they always had to indulge their vice."
 
-<mark>It wasn’t only Hoess and other SS rulers who presumed that homosexuals always had sex on their minds and were forever bent on seducing heterosexuals. The straight inmates themselves also tended to regard gays as men for whom nothing was more important than their genitalia. After all, that was why they were jailed, that was what distinguished them from all other prisoners. In the camps, with no women present, even the political prisoners worried that the situation offered the gays too many opportunities to approach sex-starved males. Such contact, in turn, was likely to lead to private relationships, perhaps even with Kapos or guards, which might endanger the solidarity of the antifascist coalition. Thus, when gay inmates tried to join a clandestine camp committee, they were rejected. Both Nazi overseers and their prisoners</mark> looked down on <mark>the men with the pink triangles</mark> and sought to make their lives as miserable as possible.
+<mark>It wasn’t only Hoess and other SS rulers who presumed that homosexuals always had sex on their minds and were forever bent on seducing heterosexuals. The straight inmates themselves also tended to regard gays as men for whom nothing was more important than their genitalia. After all, that was why they were jailed, that was what distinguished them from all other prisoners. In the camps, with no women present, even the political prisoners worried that the situation offered the gays too many opportunities to approach sex-starved males. Such contact, in turn, was likely to lead to private relationships, perhaps even with *Kapos* or guards, which might endanger the solidarity of the antifascist coalition. Thus, when gay inmates tried to join a clandestine camp committee, they were rejected. Both Nazi overseers and their prisoners</mark> looked down on <mark>the men with the pink triangles</mark> and sought to make their lives as miserable as possible.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.165-166" %}>
 
-<mark>There appears to have been an additional, deep-rooted folkloric dogma at work that doomed efforts by gays to associate</mark> with one another or with their fellow sufferers. In his reminiscences, <mark>Hoess observed</mark> <mark>that “even if they were in poor physical shape, they always had to indulge their vice.”</mark> <mark>It wasn’t only Hoess and other SS rulers who presumed that homosexuals always had sex on their minds and were forever bent on seducing heterosexuals. The inmates themselves also tended to regard gays as men for whom nothing was more important than their genitalia. After all, that was why they were jailed, that was what distinguished them from all other prisoners. In the camps, with no women present, even the political prisoners worried that the situation offered the gays too many opportunities to approach sex-starved males. Such contact, in turn, was likely to lead to private relationships, perhaps with Kapos or even guards, which might endanger the solidarity of the antifascist coalition. Thus, when gay inmates tried to join a clandestine camp committee, they were rejected. Both Nazi overseers and their prisoners</mark> took it for granted that <mark>the men with the Pink triangles</mark> were somehow biologically programmed to seek nothing but sexual satisfaction. Homophobia flourished everywhere, making it nearly impossible for gays to join any effort by prisoners to improve conditions in the barracks. They were suspect as a class. Whatever assistance they might offer was thought to mask a sexual motive.
+<mark>There appears to have been an additional, deep-rooted folkloric dogma at work that doomed efforts by gays to associate</mark> with one another or with their fellow sufferers. In his reminiscences, <mark>Hoess observed</mark> <mark>that “even if they were in poor physical shape, they always had to indulge their vice.”<sup>29</sup></mark> <mark>It wasn’t only Hoess and other SS rulers who presumed that homosexuals always had sex on their minds and were forever bent on seducing heterosexuals. The inmates themselves also tended to regard gays as men for whom nothing was more important than their genitalia. After all, that was why they were jailed, that was what distinguished them from all other prisoners. In the camps, with no women present, even the political prisoners worried that the situation offered the gays too many opportunities to approach sex-starved males. Such contact, in turn, was likely to lead to private relationships, perhaps with *Kapos* or even guards, which might endanger the solidarity of the antifascist coalition. Thus, when gay inmates tried to join a clandestine camp committee, they were rejected. Both Nazi overseers and their prisoners</mark> took it for granted that <mark>the men with the Pink triangles</mark> were somehow biologically programmed to seek nothing but sexual satisfaction. Homophobia flourished everywhere, making it nearly impossible for gays to join any effort by prisoners to improve conditions in the barracks. They were suspect as a class. Whatever assistance they might offer was thought to mask a sexual motive.
 
+<footer>
+
+29. Ibid., 80.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>There were additional factors complicating the lives of gay prisoners. A few SS guards were gay. Although they risked everything, they made some younger inmates, usually Polish or Russians, their (quote) “dolly boys”. They would also occasionally compete with Kapos for these teenagers. They even drew lots to determine who should go to whom. Naturally, it enraged the other inmates to watch as these youngsters received extra food rations and were exempted from tough work assignments in exchange for sexual favours. There were also some SS guards who took special pleasure in occasionally masturbating while torturing prisoners. For such acts, the gay inmates were held accountable by the non-gay inmates: homosexual guards, however hostile, were seen by non-gay prisoners as belonging to the homosexual underclass in the camp. Thus, gay prisoners were often tainted by the crimes of the gay guards, even though they themselves were victims of them.</mark>
+<mark>There were additional factors complicating the lives of gay prisoners. A few SS guards were gay. Although they risked everything, they made some younger inmates, usually Polish or Russians, their (quote) “dolly boys”. They would also occasionally compete with *Kapos* for these teenagers. They even drew lots to determine who should go to whom. Naturally, it enraged the other inmates to watch as these youngsters received extra food rations and were exempted from tough work assignments in exchange for sexual favours. There were also some SS guards who took special pleasure in occasionally masturbating while torturing prisoners. For such acts, the gay inmates were held accountable by the non-gay inmates: homosexual guards, however hostile, were seen by non-gay prisoners as belonging to the homosexual underclass in the camp. Thus, gay prisoners were often tainted by the crimes of the gay guards - even though they themselves were victims of them.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.166-167" %}>
 
-<mark>There were additional factors complicating the lives of gay prisoners. First, a few SS guards were homosexual. Although they risked everything, they made some younger inmates, usually Polish or Russians, their “dolly boys” (*Pielpel*). They would also occasionally compete with Kapos for these teenagers. They even drew lots to determine who should go to whom. Naturally, it enraged the other inmates to watch as these youngsters received extra food rations and were exempted from tough work assignments in exchange for sexual favours. There were also some SS guards who took special pleasure in occasionally masturbating while torturing prisoners. For such acts, the gay inmates were, so to speak, held accountable by the non-gay inmates: homosexual guards, however hostile, were seen by non-gay prisoners as belonging to the homosexual underclass. Thus, homosexual prisoner were often tainted by the crimes of homosexual guards- even though they themselves were often the victims.</mark>
+<mark>There were additional factors complicating the lives of gay prisoners. First, a few SS guards were homosexual. Although they risked everything, they made some younger inmates, usually Poles or Russians, their “dolly boys” (*Pielpel*). They would also occasionally compete with *Kapos* for these teenagers. They even drew lots to determine who should go to whom. Naturally, it enraged the other inmates to watch as these youngsters received extra food rations and were exempted from tough work assignments in exchange for sexual favours.<sup>30</sup> There were also some SS guards who took special pleasure in occasionally masturbating while torturing prisoners.<sup>31</sup> For such acts, the gay inmates were, so to speak, held accountable by the non-gay inmates: homosexual guards, however hostile, were seen by non-gay prisoners as belonging to the homosexual underclass. Thus, homosexual prisoner were often tainted by the crimes of homosexual guards - even though they themselves were often the victims.</mark><sup>32</sup>
 
+<footer>
+
+30. Heger, *Die Männer mit dem Rosa Winkel*, 57. See also the post-humously published memoirs of Aimé Spitz, as quoted in *Gay Journal* (June-July 1980): 18. An Alsatian who spent three years in Natzweiler-Struthof concentration camp as a member of the French resistance, he never let his comrades or captors know that he was a homosexual. His analysis of the fate of the gays confirms the conclusions of other witnesses.
+31. Heger, *Die Männer mit dem Rosa Winkel*, 69.
+32. See the report on Neusustrum concentration camp by Harry Pauly in Stümke and Finkler, *Rosa Winkel*, 69.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>Cooperation among homosexuals in the camps was rare. Unlike hardcore criminals. the antifascists and the Romani, the gays came from such widely disparate backgrounds that group solidarity was hard to achieve.</mark> <mark>Eugen Kogon, who survived six years in Buchenwald as a political prisoner, went on to write the still classic account of the camp experience, *The Theory and Practice of Hell*.</mark> <mark>He confirms that the lives of gay men were made especially terrible.</mark>
+<mark>Cooperation among homosexuals in the camps was rare. Unlike hard-core criminals, the antifascists and the Romani, the gays came from such widely disparate backgrounds that group solidarity was hard to achieve.</mark> <mark>Eugen Kogon, who survived six years in Buchenwald as a political prisoner, went on to write the still-classic account of the camp experience, *The Theory and Practice of Hell*.</mark> <mark>He confirms that the lives of gay men were made especially terrible.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.167" %}>
 
-<mark>Cooperation among camp homosexuals was rare. Unlike the hard-core criminals, the antifascist, and the Gypsies, the gays came from such widely disparate backgrounds that group solidarity was hard to achieve.</mark> As Raimund Schnabel has observed in his study of Dachau: “Among the homosexuals were exceptional people whose distance could be called tragic; on the other hand [there were] also cheap hustlers and blackmailers. The prisoners with the pink triangle never lived long. They were exterminated by the SS quickly and systematically.” <mark>Eugen Kogon, who survived six years in Buchenwald as a political prisoner, went on to write the still classic account of the camp experience, *The Theory and Practice of Hell*.</mark> Kogon gives more attention to the fate of contragenic minorities than do most other writers. <mark>He confirms what Schnabel discovered about Dachau, that the plight of homosexuals was made especially terrible.</mark>
+<mark>Cooperation among camp homosexuals was rare. Unlike the hard-core criminals, the antifascists, and the Gypsies, the gays came from such widely disparate backgrounds that group solidarity was hard to achieve.</mark> As Raimund Schnabel has observed in his study of Dachau: “Among the homosexuals were exceptional people whose distance could be called tragic; on the other hand [there were] also cheap hustlers and blackmailers. The prisoners with the pink triangle never lived long. They were exterminated by the SS quickly and systematically.”<sup>33</sup> <mark>Eugen Kogon, who survived six years in Buchenwald as a political prisoner, went on to write the still-classic account of the camp experience, *The Theory and Practice of Hell*.</mark> Kogon gives more attention to the fate of contragenic minorities than do most other writers. <mark>He confirms what Schnabel discovered about Dachau, that the plight of homosexuals was made especially terrible.</mark>
 
+<footer>
+
+33. Schnabel, *Die Frommen*, 53.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-> <mark>"This group had a very heterogonous composition. It included individuals of real value, in addition to large numbers of criminals and especially blackmailers. This made the position of the group as a whole very precarious... Homosexual practices were actually very widespread in the camps. The prisoners, however, ostracised only those whom the SS marked with the pink triangle.</mark> 
+> <mark>"This group had a very heterogenous composition. It included individuals of real value, in addition to large numbers of criminals and especially blackmailers. This made the position of the group as a whole very precarious... Homosexual practices were actually very widespread in the camps. The prisoners, however, ostracized only those whom the SS marked with the pink triangle.</mark> 
 >
 > <mark>The fate of the homosexuals in the concentration camps can only be described as ghastly. They were often segregated in special barracks and work details. Such segregation offered ample opportunity to unscrupulous elements in positions of power to engage in extortion and maltreatment.</mark> 
 >
 > <mark>In shipments to extermination camps, such as Nordhausen, Natzweiler, and Gross-Rosen, they furnished the highest proportionate share.</mark> <mark>If anything could save them at all, it was to enter into sordid relationships within the camp, but this was as likely to endanger their lives as to save them. Theirs was an insoluble predicament and virtually all of them perished."</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.168" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.167-168" %}>
 
-<mark>This group had a very heterogonous composition. It included individuals of real value, in addition to large numbers of criminals and especially blackmailers. This made the position of the group as a whole very precarious... Homosexual practices were actually very widespread in the camps. The prisoners, however, ostracised only those whom the SS marked with the pink triangle.</mark> <mark>The fate of the homosexuals in the concentration camps can only be described as ghastly. They were often segregated in special barracks and work details. Such segregation offered ample opportunity to unscrupulous elements in positions of power to engage in extortion and maltreatment.</mark> Until the fall of 1938 the homosexuals at Buchenwald were divided up among the barracks occupied by political prisoners, where they led a rather inconspicuous life. In October 1938, they were transferred to the penal company in a body and had to slave in the quarry. This consigned them to the lowest caste in camp during the most difficult years. <mark>In shipments to extermination camps, such as Nordhausen, Natzweiler, and Gross-Rosen, they furnished the highest proportionate share,</mark> for the camp had an understandable tendency to slough off all elements considered least valuable or worthless. <mark>If anything could save them at all, it was to enter into sordid relationships within the camp, but this was as likely to endanger their lives as to save them. Theirs was an insoluble predicament and virtually all of them perished.</mark>
+<mark>This group had a very heterogenous composition. It included individuals of real value, in addition to large numbers of criminals and especially blackmailers. This made the position of the group as a whole very precarious... Homosexual practices were actually very widespread in the camps. The prisoners, however, ostracized only those whom the SS marked with the pink triangle.</mark> <mark>The fate of the homosexuals in the concentration camps can only be described as ghastly. They were often segregated in special barracks and work details. Such segregation offered ample opportunity to unscrupulous elements in positions of power to engage in extortion and maltreatment.</mark> Until the fall of 1938 the homosexuals at Buchenwald were divided up among the barracks occupied by political prisoners, where they led a rather inconspicuous life. In October 1938, they were transferred to the penal company in a body and had to slave in the quarry. This consigned them to the lowest caste in camp during the most difficult years. <mark>In shipments to extermination camps, such as Nordhausen, Natzweiler, and Gross-Rosen, they furnished the highest proportionate share,</mark> for the camp had an understandable tendency to slough off all elements considered least valuable or worthless. <mark>If anything could save them at all, it was to enter into sordid relationships within the camp, but this was as likely to endanger their lives as to save them. Theirs was an insoluble predicament and virtually all of them perished.<sup>34</sup></mark>
 
+<footer>
+
+34. Kogon, *The Theory and Practice of Hell*, 44.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>In the life of every prisoner, connections to the outside world played a vital role. Many survivors remember bitterly how the SS constables, together with corrupt Kapos, stole packages or rifled through them, and how they withheld mail at a whim or as punishment. Still, a few parcels and letters managed to slip through to the jailers, the incoming mail of an inmate meant that he had contacts, possibly with officials who might exert pressure or pay money to work out a transfer or even a discharge. Most homosexuals, however, were cut off from contacts with the outside world. Very few families seem to have been willing to stand by sons, brothers, husbands, or other relatives accused of crimes against Paragraph 175.Few gay friends would dare to establish communications when such a gesture might endanger their own precarious existence. In the climate of terror that the Nazis had created, even direct relatives, close friends, or former lovers hesitated to contact homosexual prisoners. Many gay men in camp, anxious to avoid entangling others, sought to never initiate contact with the outside world.</mark> To keep safe the people they loved, they allowed concentration camps to become their entire world.
+<mark>In the life of every prisoner, connections to the outside world played a vital role. Many survivors remember bitterly how the SS constables, together with corrupt *Kapos*, stole packages or rifled through them, and how they withheld mail at a whim or as punishment. Still, a few parcels and letters managed to slip through. To the jailers, the incoming mail of an inmate meant that he had contacts, possibly with officials who might exert pressure or pay money to work out a transfer or even a discharge. Most homosexuals, however, were cut off from contacts with the outside world. Very few families seem to have been willing to stand by sons, brothers, husbands, or other relatives accused of crimes against Paragraph 175.Few gay friends would dare to establish communications when such a gesture might endanger their own precarious existence. In the climate of terror that the Nazis had created, even direct relatives, close friends, or former lovers hesitated to contact homosexual prisoners. Many gay men in camp, anxious to avoid entangling others, sought to never initiate contact with the outside world.</mark> To keep safe the people they loved, they allowed concentration camps to become their entire world.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.168-169" %}>
 
-<mark>In the life of every prisoner, connections with the outside world played a vital part. Many survivors remember bitterly how the SS constables, together with corrupt Kapos, stole packages or rifled them, and how they withheld mail at a whim or as punishment. Still, a few parcels and letters managed to slip through to the jailers, the incoming mail of an inmate meant that he had contacts, possibly with officials who might exert pressure or pay money to work out a transfer or even a discharge. Most homosexuals, however, were cut off from contacts with the outside world. Very few families seem to have been willing to stand by sons, brothers, husbands, or other relatives convicted of crimes against Paragraph 175. Few gay friends would dare to establish communications when such a gesture might endanger their own precarious existence. In the climate of terror that the Nazis had created, even direct relatives, close friends, or former lovers hesitated to contact homosexual prisoners. Some homosexuals in camp, anxious to avoid entangling others, sought intentionally never to initiate contact with the outside.</mark> 
+<mark>In the life of every prisoner, connections with the outside world played a vital part. Many survivors remember bitterly how the SS constables, together with corrupt *Kapos*, stole packages or rifled them, and how they withheld mail at a whim or as punishment. Still, a few parcels and letters managed to slip through. To the jailers, the incoming mail of an inmate meant that he had contacts, possibly with officials who might exert pressure or pay money to work out a transfer or even a discharge. Most homosexuals, however, were cut off from contacts with the outside world. Very few families seem to have been willing to stand by sons, brothers, husbands, or other relatives convicted of crimes against Paragraph 175. Few gay friends would dare to establish communications when such a gesture might endanger their own precarious existence. In the climate of terror that the Nazis had created, even direct relatives, close friends, or former lovers hesitated to contact homosexual prisoners. Some homosexuals in camp, anxious to avoid entangling others, sought intentionally never to initiate contact with the outside.<sup>37</sup></mark> 
 
+<footer>
+
+37. Recollection of an anonymous French homosexual, arrested in Mulhouse in May 1941, detained and tortuted in Schirmeck concentration camp, released for forced labor service in Germany. Notes from the French edition of Martin Sherman's *Bent* (1981), translated by the author.
+
+</footer>
 </from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-<mark>Perhaps the most feared fate for gay men in the camps was to be labeled a "medical experiment." Eugen Kogon has concluded that, again, the number of homosexuals used for these pseudo medical undertakings was disproportionately large. Consider the hormone experiments administered in Buchenwald by the Danish endocrinologist Carl Vaernet.</mark> <mark>Vaernet used homosexual inmates exclusively.</mark> <mark>These experiments brought illness and death to the subjects and had no scientific value.</mark>
+<mark>Perhaps the most feared fate for gay men in the camps was to be labeled a "medical experiment." Eugen Kogon has concluded that, again, the number of homosexuals used for these pseudo-medical undertakings was disproportionately large. Consider the hormone experiments administered in Buchenwald by the Danish endocrinologist Carl Vaernet.</mark> <mark>Vaernet used homosexual inmates exclusively.</mark> <mark>These experiments brought illness and death to the subjects and had no scientific value.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.175" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.175-176" %}>
 
-<mark>Perhaps the most feared assignments were to a detachment marked “Medical Experiments.” Kogon has concluded that, again, the number of homosexuals used for these pseudo medical undertakings was disproportionately large. Consider the hormone experiments administered in Buchenwald by the Danish endocrinologist Carl Vaernet</mark> with the German surgeon Gerhard Schiedlausky. These were only a few of the many that took place there. I have singled out those by <mark>Vaernet because he used homosexual inmates exclusively,</mark> and beause the sources in Arolsen were sufficient to draw conclusions. The hormone tests, however, can stand as a model for virtually all of those tests carried out by the Nazis on their human guinea pigs. <mark>These experiments brought illness and death to the subjects and had no scientific value.</mark> Often, physicians and laboratory technicians did not know how to proceed; files and samples were incomplete or misplaced; medicine could not be checked for purity; and there was no control group. In the case at hand, Allied bombers repeatedly destroyed containers carrying blood, urine, and other specimens in transit from Buchenwald to Vaernet’s laboratory in Prague.
+<mark>Perhaps the most feared assignments were to a detachment marked “Medical Experiments.”<sup>50</sup> Kogon has concluded that, again, the number of homosexuals used for these pseudo-medical undertakings was disproportionately large.<sup>51</sup> Consider the hormone experiments administered in Buchenwald by the Danish endocrinologist Carl Vaernet</mark> with the German surgeon Gerhard Schiedlausky. These were only a few of the many that took place there.<sup>52</sup> I have singled out those by <mark>Vaernet because he used homosexual inmates exclusively,</mark> and beause the sources in Arolsen were sufficient to draw conclusions. The hormone tests, however, can stand as a model for virtually all of those tests carried out by the Nazis on their human guinea pigs. <mark>These experiments brought illness and death to the subjects and had no scientific value.</mark> Often, physicians and laboratory technicians did not know how to proceed; files and samples were incomplete or misplaced; medicine could not be checked for purity; and there was no control group. In the case at hand, Allied bombers repeatedly destroyed containers carrying blood, urine, and other specimens in transit from Buchenwald to Vaernet’s laboratory in Prague.
 
+<footer>
+
+50. See Mitscherlich and Mielke, *Medizin ohne Menschlichkeit*, for further treatment of this topic.
+51. Kogon, *Der SS Staat*, 183, 200, 270-71.
+52. Ibid., 184-90, 200-5.
+
+</footer>
 </from>
 </compare>
 
@@ -1800,7 +2024,9 @@ Injecting men with random concoctions of chemicals to see how the body would rea
 <comment>
 {% include header for=tobi %}
 
-I cannot find any evidence of experiments that match James' description. Gay men were certainly experimented on in the camps with castration and hormones, and their calcium levels were checked before and after castration in 1944 according to *The Pink Triangle*, but I could not find anything regarding hormones making someone impervious to pain, or "target practice" being involved, or men with low calcium levels being executed.
+I cannot find any evidence of experiments that match James' description. Gay men were certainly experimented on in the camps with castration and hormones, and their calcium levels were checked before and after castration in 1944 (Plant 177), but I could not find anything regarding hormones making someone impervious to pain, or "target practice" being involved, or men with low calcium levels being executed.
+
+Also, that's not how shock works. Circulatory shock is caused by a variety of injuries and health conditions, not pain. A person cannot die just because they are in too much pain, and blocking pain will not prevent a person from dying.
 
 </comment>
 <comment>
@@ -1819,7 +2045,7 @@ Maybe he just doesn't know what 'impervious' means? Why would the people alleged
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.178" %}>
 
-<mark>Vaernet was forced to stop his tests because of the danger of a yellow fever epidemic in the camp. The epidemic was not a result of infection from outside sources, such as prisoners of war from the East,</mark> as frequently happened in other institutions. <mark>The Buchenwald outbreak followed experiments with the microorganism responsible for yellow fever, which had gotten out of hand. Although Buchenwald seems to have provided better isolation wards than most camps,</mark> <mark>many prisoners – and some guards - died. By then Vaernet had probably returned to Prague, but his name appears again in the files for Neungamme, a camp near Hamburg, where he attempted to repeat his castration-hormone tests. The Neungamme documents do not state whether he actually finished them.</mark>
+<mark>Vaernet was forced to stop his tests because of the danger of a yellow fever epidemic in the camp. The epidemic was not a result of infection from outside sources, such as prisoners of war from the East,</mark> as frequently happened in other institutions. <mark>The Buchenwald outbreak followed experiments with the microorganism responsible for yellow fever, which had gotten out of hand. Although Buchenwald seems to have provided better isolation wards than most camps,</mark> <mark>many prisoners – and some guards - died. By then Vaernet had probably returned to Prague, but his name appears again in the files for Neuengamme, a camp near Hamburg, where he attempted to repeat his castration-hormone tests. The Neuengamme documents do not state whether he actually finished them.</mark>
 
 </from>
 </compare>
@@ -1830,10 +2056,15 @@ Maybe he just doesn't know what 'impervious' means? Why would the people alleged
 In other camps, <mark yikes stat:id="y-persecution">gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.179" %}>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.178-179" %}>
 
-From the available records <mark fc>it cannot be determined</mark> whether homosexuals were also used for other pseudo-medical experiments, administered not only in Buchenwald but in camps like Dachau, Sachsenhausen, Ravensbruck, and Auschwitz. Dachau specialised in tests involving malaria, high – altitude simulation, and underwater tanks: Buchenwald in yellow fever and sulphur drugs; Auschwitz in the sterilisation of women. Most experiments recruit larger numbers of subjects than Vaernet did.
+From the available records <mark fc>it cannot be determined</mark> whether homosexuals were also used for other pseudo-medical experiments, administered not only in Buchenwald but in camps like Dachau, Sachsenhausen, Ravensbrück, and Auschwitz. Dachau specialised in tests involving malaria, high – altitude simulation, and underwater tanks: Buchenwald in yellow fever and sulphur drugs; Auschwitz in the sterilisation of women. Most experiments recruit larger numbers of subjects than Vaernet did.<sup>56</sup>
 
+<footer>
+
+56. Kogon, *Der SS Staat*, 182-201.
+
+</footer>
 </from>
 <comment>
 {% include header for=tustin %}
