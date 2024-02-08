@@ -2072,6 +2072,12 @@ From the available records <mark fc>it cannot be determined</mark> whether homos
 I can't find anything about [Buchenwald](https://en.wikipedia.org/wiki/Buchenwald_concentration_camp) doing anything special with gay men. In fact, it seemed to be a place more for women at certain times.
 
 </comment>
+<comment>
+{% include header for=tobi %}
+
+Buchenwald did the castration-hormone experiments specifically on gay men, but it carried out other experiments on the general population, including the aforementioned yellow fever experiment, so it's not quite accurate to say that they used gay men *exclusively*. For the other camps, it is possible that gay men were among the test subjects as well, but Somerton seems to imply that they were specifically targeted when they were not, outside of Buchenwald.
+
+</comment>
 </compare>
 
 ## Part Nine: Does It End?
