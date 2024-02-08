@@ -1,13 +1,17 @@
 ---
+redirect_from:
+  - "/videos/ltcm9exjvoi"
+
 date: 2013-11-24
 title: 'Geek Theory - Episode #2 "The DC Cinematic Black Hole"'
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-videos-backup"
   - "https://www.youtube.com/watch?v=nFg8hONxr7E"
+  - "https://web.archive.org/web/20220605190931/https://www.youtube.com/watch?v=ltcm9exjvoi"
 # description: "a video essay on...?"
 
 cite:
@@ -21,7 +25,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+In this episode I talk about DC's attempts at created a cinematic universe like Marvel's, how they're failing, and how they could make it succeed.
 
 </credits>
 </compare>

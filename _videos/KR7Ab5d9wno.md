@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/kr7ab5d9wno"
+
 date: 2023-04-07
 title: Sex, Violence, Showgirls, and The American Way
 status: Auto

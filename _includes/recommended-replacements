@@ -1,0 +1,37 @@
+{% comment %} Expected: video=page {% endcomment %}
+{% if include.video.recs %}
+<details class="recs-list">
+	<summary>
+		Recommended Replacements
+		<span> - If you liked James's video on this subject, click here for some recommendations for better alternatives.</span>
+	</summary>
+	
+	<div>
+	{%- for rec in include.video.recs -%}
+		{%- assign thumb = rec.thumb -%}
+		{%- unless thumb -%}
+			{%- assign parts = rec.url | split: "/" -%}
+			{%- if parts[2] == "youtube.com" or parts[2] == "www.youtube.com" -%}
+				{%- comment %} https://www.youtube.com/watch?v=XXXXXXXXXXX {% endcomment -%}
+				{%- assign parts = parts[3] | split: '=' -%}
+				{%- assign thumb = "https://img.youtube.com/vi/" | append: parts[1] | append: "/0.jpg" -%}
+			{%- elsif parts[2] == "youtu.be" -%}
+				{%- comment %} https://youtu.be/XXXXXXXXXXX {% endcomment -%}
+				{%- assign thumb = "https://img.youtube.com/vi/" | append: parts[3] | append: "/0.jpg" -%}
+			{%- elsif parts[2] == "vimeo.com" or parts[2] == "www.vimeo.com" -%}
+				{%- assign thumb = "https://vimeo.com/api/oembed.json?url=" | append: url | jsonify | parse_json | at: "thumbnail_url" -%}
+			{%- else -%}
+				{%- assign thumb = "/media/thumbs/missing.jpg" | relative_url -%}
+			{%- endif -%}
+		{%- endunless -%}
+		
+		<div class="rec">
+			<a href="{{ rec.url }}"><img src="{{ thumb }}" alt="{{ rec.title }}" /></a>
+			<a href="{{ rec.url }}"><h1>{{ rec.title }}</h1></a>
+			<h2>{{ rec.author }}</h2>
+			<h3>{%- include name-list name=rec.by -%}</h3>
+		</div>
+	{%- endfor -%}
+	</div>
+</details>
+{% endif %}

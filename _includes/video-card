@@ -29,12 +29,14 @@
 		{%- else -%}
 			<div class="status">{{ include.video.status }}</div>
 	{%- endcase -%}
+	{%- unless site.data.options.hide_video_links -%}
 	<div class="vidlinks">
 		{%- for link in include.video.links -%}
 			{% include archive-link link=link short=true %}
 			{%- unless forloop.last %} | {% endunless -%}
 		{%- endfor -%}
 	</div>
+	{%- endunless -%}
 	<div class="score">
 		{%- if include.video.cite.plagiarized and include.video.cite.plagiarized.size > 0 -%}
 			<div class="plagiarized">{{ include.video.cite.plagiarized.size }}</div>
@@ -46,12 +48,36 @@
 			<div class="yikes">{{ include.video.cite.yikes.size }}</div>
 		{%- endif -%}
 		<div class="bar">
-			{%- assign vid = include.video.id | split: "/" | last -%}
+			{%- assign vid = include.video.slug -%}
 			{%- assign bar = site.data.stats | map: vid | map: "vol" | first -%}
 			{%- if bar -%}
 				<span class="plagiarized" style="width:{{ bar.p }}%"></span>
 				<span class="misinfo" style="width:{{ bar.m }}%"></span>
+				<span class="yikes" style="width:{{ bar.y }}%"></span>
 			{%- endif -%}
 		</div>
 	</div>
+	{%- capture runtime -%}
+		{%- if include.video.runtime -%}
+			{%- assign t = include.video.runtime | round -%}
+			{%- assign h = t | divided_by: 3600 -%}
+			{%- assign m = t | modulo: 3600 | divided_by: 60 -%}
+			{%- assign s = t | modulo: 60 -%}
+			duration="
+			{%- if h > 0 -%}
+				{{ h }}:{{ m | prepend: '00' | slice: -2,2 }}:{{ s | prepend: '00' | slice: -2,2 }}
+			{%- else -%}
+				{{ m }}:{{ s | prepend: '00' | slice: -2,2 }}
+			{%- endif -%}"
+		{%- endif -%}
+	{%- endcapture -%}
+	<picture class="thumbnail" {{ runtime }}>
+		{%- assign thumb = "/media/thumbs/" | append: vid | append: ".jpg" -%}
+		{%- assign file = site.static_files | where: "path", thumb |  first -%}
+		{%- if file -%}
+			<img src="{{ thumb | relative_url }}" />
+		{%- else -%}
+			<img src="{{ "/media/thumbs/missing.jpg" | relative_url }}" />
+		{%- endif -%}
+	</picture>
 </div>

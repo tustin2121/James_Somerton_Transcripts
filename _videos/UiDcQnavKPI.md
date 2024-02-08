@@ -1,18 +1,25 @@
 ---
+redirect_from:
+  - "/videos/uidcqnavkpi"
+
 date: 2022-02-10
 title: SHIPPING - The Good, The Bad, and the Thirsty
-status: Script
+status: Finished
 aka: !!seq
   - "Shipping: A Nuanced Argument"
   - "NOW KISS (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220210+UiDcQnavKPI+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.mp4"
 # description: "a video essay on...?"
 notes:
   - dec5-delete
   - odd-linebreaks
+  - w-nick-james
+
+contributors:
+# TODO
 
 cite:
   clips: !!map
@@ -126,7 +133,7 @@ So yeah, I found out that shipping was a thing. Never been the same since.
 ## Part One: The Truth Untold
 
 <compare>
-<james {% include timecode}>
+<james {% include timecode %}>
 
 One thing that they will not, under any circumstances, teach you in college is that we owe the bulk of humanity’s literature to plagiarism. Heracles was a pan-hellenic<sup>[sic: Hellenic]</sup> hero who was the focus and topic of plays and poems for the duration of ancient Greece, but also throughout Rome. And then kind of moved into being this point of reference for heroic stories in the Middle Ages of Europe and Byzantium. It’s unlikely that whoever was the first to write about Heracles was the only one developing content about the character in their own lifetime. But in ancient cultures, they also didn’t hold the same values about intellectual property as we do now. Because there was no central institution about owning copyright, they did not really believe that one could own a character. Especially when a core component of Heracles is that he is the son of Zeus<del>. Zeus</del>, who was the chief deity of a religion. It would be like Disney making a story about Jesus’s bumbling younger brother, Bob. And then trying to copyright “Jesus” as a character. 
 
@@ -352,10 +359,7 @@ Langa: Let’s do it. I want to skate infinitely with you.
 Victor (from *Yuri on Ice*): That sounded like a marriage proposal.
 
 </clip>
-</compare>
-
-<compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 <del>So</del> on one hand *Sk8 the Infinity* has a very simple, if not entirely unremarkable plot.It’s a typical rookie-makes-the-big-leagues narrative. You can pretty much assume the broad strokes and outcomes of almost every set-up. It’s the relationships that make it stand out. *Sk8* shines in the grace notes and nuances that build the story. What’s really meant to be entertaining, animation aside, are the colourful characters, sardonic comedy, wild antics, a couple of neurodivergent characters who find a peer group that accepts them (which is one of the more touching elements of the story, actually) and, the adorable boys being boys and doing boy things. Very<del>…</del> heterosexual boy things. 
 
@@ -366,7 +370,7 @@ Victor (from *Yuri on Ice*): That sounded like a marriage proposal.
 [Slow pan up on Miya riding a skateboard, with background audio.]
 
 </clip>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 Oh look a catboy. 
 
@@ -427,7 +431,7 @@ This media knows you’re going to ship these characters… in fact, it seems t
 ## Part Three: Pied Piper
 
 <compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 Why couldn’t we just get the gay sk8er boys? Why couldn’t we get the gay sk8er dads? It seems clear that not only does the audience want this, but that the studio knows this and wants to play to that audience. If everyone wants it… why hold back? What’s the rationale? What’s the reason? 
 
@@ -472,7 +476,7 @@ On screen, the word "kawai" appears, with the corresponding katakana (カワイ)
 </compare>
 
 <compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 Contrary to popular belief, kawaii does not mean ‘cute.’ It means something much deeper. When something is kawaii, it means that it cannot not be cute. It means that this idol has been reduced to a state of existence where the ONLY opinion that can exist about it is that it’s cute. 
 
@@ -486,7 +490,7 @@ That's not really what kawaii means. (someone please verify)
 </compare>
 
 <compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 *Pokémon* is a prime example, specifically with mascot characters like Pikachu, Bulbasaur, Eevee — and nearly all first-stage evolutions. But the example that typifies this process is Hello Kitty. Hello Kitty, as a brand, is fascinating, but I won’t get into it here. Hold on, I need my cat ears— 
 
@@ -636,7 +640,7 @@ If it’s a deliberate branding tactic, then we have to consider who they are m
 ## Part Four: Fake Love
 
 <compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 This whole topic of shipping is a sticky situation, isn’t it? Not just because it COULD be queer baiting, but because even the intentional ships aren’t meant for a gay audience. In most cases, they’re meant for a straight female audience. Hell, a very good portion of gay media that isn’t baited is really meant for a female audience.  And a lot of it is even written by women. Just going over some of the things I’ve covered in past videos: *Killing Stalking*, written by a woman.*Painter of the Night*, written by a woman. *Yuri on Ice*, written by a woman. *Banana Fish*, written by a woman. *The Untamed*, based on the books written by a woman. 
 
@@ -831,7 +835,7 @@ Gay readers seem to love messy gay characters. Gay readers even love problemati
 ## Part Five: Life Goes On
 
 <compare>
-<james {% include timecode%}>
+<james {% include timecode %}>
 
 I realize this is heavily focused around the psychological condition of gay men. Who are,
 admittedly, probably<ins>, definitely</ins> the most privileged of the whole community. However — my concern comes from the development of a bunch of baby gays who are coming of age now and in the future. With them in mind, they are going to have to fight against a lot of patriarchal or even toxic masculinity. 
@@ -907,7 +911,7 @@ Shipping our way to a world where we could be happy, however, may have snapped 
 So there’s this kind of perfect storm of angst as different areas of media interplay off each other and send conflicting messages. You have high-brow fiction telling us to expect tragedy. Which. Thanks for the anxiety. <mark>You have mass-consumption media which takes gay emotions and removes gay expiriences<sup>[sic: experiences]</sup>, leaving a husk of empty gestures and unanswered questions which feels more like a gambling addiction than even implied representation.</mark> And then, in response to that, you have publishing. Where gay authors are trying to depict their own experiences with queerness, but where a lot of content being created is either an overly positive response to gay tragedy-media, or as filling in the blanks that media like *Sk8* refuses to fill in. And in either case that results in this weird rose-tinted world where the beginning and end of the queer expirience is defined by your ability to have a boyfriend and look cute being gay together. 
 
 </james>
-<comment>
+<comment id="straight-women">
 
 (from Hbomberguy's video, 2:46:53)
 

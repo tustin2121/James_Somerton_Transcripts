@@ -1,7 +1,11 @@
 ---
+redirect_from:
+  - "/videos/n41rayav_d8"
+
 # cSpell:words: Iger Chapek
 date: 2022-08-13
 title: How Disney Tore Down The Owl House
+runtime: 1:04:12
 status: Complete
 aka: !!seq
 topics: !!seq
@@ -17,7 +21,9 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
-  formatting: $cite$tustin2121
+  formatting: 
+    - $cite$tustin2121 
+    - $cite$tobicat
   citation-plus: $cite$lvence
 
 cite:
@@ -27,8 +33,9 @@ cite:
   yikes: !!map
   misinformation: !!map
     nfts: "James claims that Bob Iger hated Chapek in part because of Chapek pushing NFTs, when Iger was fond of NFTs himself."
-    marvel: "James claims Iger was consulting with Werner Brothers?"
+    marvel: "James claims Iger was consulting with Warner Brothers?"
     gay_marriage: "James claims Bob Iger donated to Obama to get him to support gay marriage when there's no proof of any such thing."
+    disney_funeral: "James outright claims that Disney has a whole industry for princess themed funerals, when in fact Disney has basically the exact opposite."
   plagiarized: !!map
     disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
     kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", full: "Oliveros, K. (2022, Jul 18). <em>Bob Iger Reportedly Regrets Picking Bob Chapek as Disney’s CEO</em> [Blog post]. The Disney Food Blog. Retrieved Jan 24, 2024, from", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
@@ -490,7 +497,7 @@ And where Season One saw Luz and Amity have an obvious crush on each other, Seas
 <comment>
 {% include header for=tobicat %}
 
-Who is this "many"? From the second half of Season Two onwards, Hunter was most commonly shipped with Willow. On AO3 [at time of writing], there are [over 3000 works marked Hunter/Willow](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Willow%20Park/works), while there are <del>zero</del><ins>less than 100</ins> [Hunter/Gus fics](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Gus%20Porter/works) that don't involve a Hunter/Willow/Gus polycule. As for gay pairings, [Gus/Mattholomule](https://archiveofourown.org/tags/Mattholomule*s*Gus%20Porter/works) is quite popular (~800 works), as is [Hunter/Edric](https://archiveofourown.org/tags/Edric%20Blight*s*Hunter%20%7C%20The%20Golden%20Guard/works) (~500 works, despite the characters never interacting). 
+Who is this "many"? From the second half of Season Two onwards, Hunter was most commonly shipped with Willow. On AO3 [at time of writing], there are [over 3000 works marked Hunter/Willow](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Willow%20Park/works), while there are less than 100 [Hunter/Gus fics](https://archiveofourown.org/tags/Hunter%20%7C%20The%20Golden%20Guard*s*Gus%20Porter/works). As for gay pairings, [Gus/Mattholomule](https://archiveofourown.org/tags/Mattholomule*s*Gus%20Porter/works) is quite popular (~800 works), as is [Hunter/Edric](https://archiveofourown.org/tags/Edric%20Blight*s*Hunter%20%7C%20The%20Golden%20Guard/works) (~500 works, despite the characters never interacting). And just from my own experience, being in the fandom since the time *Labyrinth Runners* came out, I didn't see *anyone* shipping Gus and Hunter, while Hunter/Edric and Gus/Mattholomule were talked about quite regularly, if not as much as the canonical ships.
 
 There also really isn't any subtext between Hunter and Gus. The first clip James shows is just them talking to each other during "Labyrinth Runners." Later, when James talks about the two of them again, while saying they have "strong chemistry," one clip shows Hunter trying to calm Gus down from a panic attack, and another is a zoomed-in clip of Hunter with his arm around Gus at the end of Season 2, in the human realm. 
 
@@ -610,7 +617,7 @@ There's little you can do or say to convince me that there was a rational reason
 There's also nothing saying that the executives wouldn't be aware that Disney Plus was in late stage development and realized that adult audience cartoons tend to do well on streaming services. There's simply no reason why you don't want an incredibly toyetic show directed at an adult audience who have an abundance of expendable income. <mark fc=false>There is, after all, a subindustry at Disney geared at marketing their princesses for themed weddings and... funerals. Yes, funerals.</mark> Times like this make it seem like the executive thought process at Disney is powered by a single gerbil on a wheel.
 
 </james>
-<comment>
+<comment id="disney_funeral">
 {% include header video=todd at="3949s" %}
 
 No, not funerals-- [exasperated sigh]. All right, this could only be considered "true" in the sense that Disney marketing permeates everything, so there are people who would *absolutely* get Disney themed funerals if Disney was willing to sell it to them.
@@ -903,7 +910,7 @@ So go forth witches, topple the Emperor Beloses of the world and conformity. I k
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon names roll over orchestal music.
+Patreon names roll over orchestral music.
 
 </credits>
 </compare>

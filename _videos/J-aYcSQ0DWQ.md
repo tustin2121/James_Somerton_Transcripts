@@ -1,7 +1,11 @@
 ---
+redirect_from:
+  - "/videos/j-aycsq0dwq"
+
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
-status: Finished
+runtime: 59:15
+status: Complete
 aka: !!seq
   - "Be Gay, Do Crime (Thumbnail)"
 topics: !!seq
@@ -15,6 +19,7 @@ links: !!seq
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script
@@ -34,6 +39,7 @@ cite:
   misinformation: !!map
     ash_death: "James completely misinterprets the ending of the anime."
     eiji_character: "James characterizes Eiji as 'pure and innocent' when he's not."
+    gay_italy: "James makes up an English propaganda campaign against Italian tourism, because supposedly going to Italy turned boys gay."
   plagiarized: !!map
     wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
     pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
@@ -43,6 +49,7 @@ factcheck:
   cinnamorollmiku: { short: "lapin" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign todd = site.data.cite.todd.video %}
 
 <compare>
 <credits class="desc">
@@ -258,7 +265,7 @@ But first they need to take a <mark>trip to California</mark>, <mark>to the addr
 
 Once there they find <mark>a mansion occupied by a man revealed to be Lee Yut-Lung, the youngest son of China's largest crime family. They later encounter the home's true occupant, a doctor who informs them that Banana Fish is an untraceable drug that brainwashes its users</mark> — turning them into near thoughtless murder machines. <mark>Golzine intends to sell the drug to the United States government, which seeks to use it to overthrow communist</mark> and leftist regimes <mark>in South America.</mark> 
 
-This sounds absurd, but look up some of the stuff Regan did in South America in the 1980s. It’s not that far-fetched. 
+This sounds absurd, but look up some of the stuff Regan<sup>[sic: Reagan]</sup> did in South America in the 1980s. It’s not that far-fetched. 
 
 The group is almost immediately <mark>captured by Golzine's men</mark> and taken back to New York. Once there, Shorter Wong, Ash’s best friend, is <mark>injected with the Banana Fish</mark> serum to show off what it can do. He’s <mark>instructed to kill Eiji.</mark> Shorter attacks Eiji in a frenzy, though in <mark>a moment of lucidity</mark>, he is able to <mark>beg Ash to kill him</mark>. Ash is given a gun with one bullet… Kill Shorter, or kill himself. He shoots and kills his best friend to prevent him from killing Eiji. 
 
@@ -387,12 +394,25 @@ Though it may be a rallying cry and a meme now, ‘Be Gay Do Crime’ was once a
 <compare>
 <james {% include timecode %}>
 
-Granted, though, this was at the same time of European history when England had to launch a multimedia effort that included posters, pamphlets, anglican church missives, fiction, and even spreading via word of mouth — NOT to send your boys to Italy. 
+Granted, though, <mark fc=false>this was at the same time of European history when England had to launch a multimedia effort that included posters, pamphlets, Anglican church missives, fiction, and even spreading via word of mouth — NOT to send your boys to Italy.</mark> 
 
-Rich families noticed that after their sons toured Europe, something about them would change after they spent a few months in Italy. The combination of a prevalent casual approach towards sex, a culture focused around pursuing artistic romance, and simply being one of the most scenic landmasses on the damn planet, usually culminated in cold, English boys’ sexual hang-ups being eroded by the hordes of beautiful Italians with a ‘when in Rome’ attitude when it came to 69ing with other guys. 
+<mark fc=false>Rich families noticed that after their sons toured Europe, something about them would change after they spent a few months in Italy. The combination of a prevalent casual approach towards sex, a culture focused around pursuing artistic romance, and simply being one of the most scenic landmasses on the damn planet, usually culminated in cold, English boys’ sexual hang-ups being eroded by the hordes of beautiful Italians with a ‘when in Rome’ attitude when it came to 69ing with other guys.</mark> 
 
 </james>
-<from></from>
+<comment id="gay_italy">
+{% include header video=todd at="416s" %}
+
+**4. England had a homophobic propaganda campaign against Italy tourism because Italy was turning their kids gay**
+
+One challenge I had throughout this list is that it's hard to prove a negative. [Like, I do know that parts of Italy in parts of history widely known for having large gay scenes](https://www.theflorentine.net/2022/10/24/queer-history-florence/), and all the countries in Europe have been calling each other gay for centuries ("Homophobia: A History" by Byrne Fone), and I'm sure that at least one young Englishman has discovered himself in Rome.
+
+But here he's claiming the existence of a widespread propaganda campaign that allegedly spanned government, religion, and popular culture about a very specific topic. I'd love to track that down, but he doesn't give me a time frame, a quote, a picture, anything that would help me figure out what he's referring to. I tried many different avenues trying to prove it true and I just couldn't find anything. And there are comments on that video that are similarly frustrated and lost trying to track this down. 
+
+Now he'd also brought up this supposed fact about Italy in [a previous video](KXGpVm09GCM), but with a much more toned down claim. I'll admit that maybe there's a scrap of truth in there. Italy did decriminalize homosexuality surprisingly early so probably someone said this about Italy at some point, but suspiciously he doesn't mention the associated propaganda that came with it, which I would mention at every opportunity. So based on that, and the fact that I couldn't find anything, and the lack of corroboration. I'm just going to venture that he made it up.
+
+Now maybe I'm wrong, or maybe it's just an exaggeration rather than a lie which is why I can't find it, but if it is real, then I will say that as a fellow YouTuber and one whose videos are much less visual than his, not having these supposed posters and pamphlets on screen is just absolutely terrible videomaking. If they're real, why would you not include that?
+
+</comment>
 </compare>
 
 <compare>
@@ -556,7 +576,7 @@ It also doesn’t help that law enforcement — to this day — continues to und
 <compare>
 <james {% include timecode %}>
 
-Queer communities in particular have a… unique relationship with this. Though Banana Fish did depict the oppression of multiple minority communities, it did little to depict the social oppression of the queer community as a whole and their relationship with the law. In fact, the explicitly referenced queer characters, if anything, function as class oppressors which… This is based on a manga from the 80s, by all means read into that. 
+Queer communities in particular have a… unique relationship with this. Though *Banana Fish* did depict the oppression of multiple minority communities, it did little to depict the social oppression of the queer community as a whole and their relationship with the law. In fact, the explicitly referenced queer characters, if anything, function as class oppressors which… This is based on a manga from the 80s, by all means read into that. 
 
 But queer communities function a little differently from communities of color. In part, because queer communities are not homogenous in themselves. Within a queer underground of a given city there is a melting pot of many different cultures and cultural experiences. But for the most part Queer communities stand out because while we may have been born queer, very few of us were born into Queer culture. 
 
@@ -626,7 +646,7 @@ Some of us… even vogued for the gunmen and commanded respect. <mark>Dorian Cor
 </james>
 <from {% include citation for=page.cite.plagiarized.pose_article at="¶ 2" %}>
 
-<mark>It was that reputation as a seamstress that led Corey’s friend and caretaker Lois Taylor to enter her apartment on West 140th Street in October 1993. Corey had died</mark> <mark num=3>of AIDS-related complications</mark> <mark num=2>two months earlier</mark>, and had, according to Taylor, instructed her to “<mark>take the costumes I wanted and sell the rest.</mark>” In the course of her search, <mark>Taylor found a green-plaid hanging bag, which contained the partially mummified corpse of a man later identified as Robert Worley, who had been missing since 1968. Worley’s body</mark> was <mark num=7>covered in baking soda</mark>, and <mark num=6>sewn up in layers of plastic wrap and Naugahyde</mark>. To this day, while many insist that <mark num=9>Corey killed Worley in an act of self-defense</mark>, <mark num=8>the case remains a mystery</mark>.[1] <mark>Both Corey, a queer drag queen, and Worley, who suffered addiction,</mark> <u id="black_and_poor">were Black and poor</u>, <mark>both of which built a distrust of authority, especially police.</mark> As victims of AIDS and homicide, Edward Conlon notes, “they embodied two of the main statistical bases for abbreviated life expectancy in Harlem.” <mark>With their deaths, the chance to know their complete stories vanished, leaving true-crime websites and podcasts of varying quality to reassemble the pieces of their lives.</mark> As Lois Taylor herself remarked, “Honey, the boy’s gone, right? She’s gone, right? So don’t nobody knows but her and the boy.”
+<mark>It was that reputation as a seamstress that led Corey’s friend and caretaker Lois Taylor to enter her apartment on West 140th Street in October 1993. Corey had died</mark> <mark num=3>of AIDS-related complications</mark> <mark num=2>two months earlier</mark>, and had, according to Taylor, instructed her to “<mark>take the costumes I wanted and sell the rest.</mark>” In the course of her search, <mark>Taylor found a green-plaid hanging bag, which contained the partially mummified corpse of a man later identified as Robert Worley, who had been missing since 1968. Worley’s body</mark> was <mark num=7>covered in baking soda</mark>, and <mark num=6>sewn up in layers of plastic wrap and Naugahyde</mark>. To this day, while many insist that <mark num=9>Corey killed Worley in an act of self-defense</mark>, <mark num=8>the case remains a mystery</mark>.[1] <mark>Both Corey, a queer drag queen, and Worley, who suffered addiction,</mark> <u id="black_and_poor" stat:id="y-exclusion">were Black and poor</u>, <mark>both of which built a distrust of authority, especially police.</mark> As victims of AIDS and homicide, Edward Conlon notes, “they embodied two of the main statistical bases for abbreviated life expectancy in Harlem.” <mark>With their deaths, the chance to know their complete stories vanished, leaving true-crime websites and podcasts of varying quality to reassemble the pieces of their lives.</mark> As Lois Taylor herself remarked, “Honey, the boy’s gone, right? She’s gone, right? So don’t nobody knows but her and the boy.”
 
 \1. According to the New York Magazine article, Corey’s friends insisted that she left a note with the body that read “This poor man broke into my home and was trying to rob me;” Worley’s brother, Fred, stated that Worley and Corey were in some form of relationship around the time he disappeared.
 
@@ -704,7 +724,7 @@ They started in the field because, as a trans non-binary youth who’d grown up 
 
 That’s how pretty much every character on *Pose* who breaks the law ends up doing so. Nobody is doing it… *Mostly* nobody is doing it for shits and giggles, and nobody is doing it specifically to hurt other people. They’re doing it out of necessity. They’re doing it to survive. 
 
-*Pose* also highlights other people who break the law in similarly desperate circumstances. The people fighting back against the Regan<span class="del">’s</span> Administration’s ignoring of the AIDS crisis. The men and women of ACT UP who got arrested and charged over and over again while protesting the unfairness of the situation. <span class="del">That</span><span class="add">The</span> thousands of people across the country were being left to die by their own government. 
+*Pose* also highlights other people who break the law in similarly desperate circumstances. The people fighting back against the Regan<sup>[sic: Reagan]</sup><span class="del">’s</span> Administration’s ignoring of the AIDS crisis. The men and women of ACT UP who got arrested and charged over and over again while protesting the unfairness of the situation. <span class="del">That</span><span class="add">The</span> thousands of people across the country were being left to die by their own government. 
 
 </james>
 <from></from>
@@ -765,7 +785,7 @@ Unless they have community to help them, to hold them up, to protect them. But t
 <compare>
 <james {% include timecode %}>
 
-Look at Kristin Sinema, the bisexual democratic senator from Arizona who has basically made a caree lately of saying “screw the poor”. She may be queer, but she doesnt fight for the queer community. It’s a very… “I got mine” attitude. 
+Look at Kristin<sup>[sic: Kyrsten]</sup> Sinema, the bisexual democratic senator from Arizona who has basically made a caree<ins>r</ins> lately of saying “screw the poor”. She may be queer, but she doesnt fight for the queer community. It’s a very… “I got mine” attitude. 
 
 Running in tandem with establishment gay men and women pressuring eccentricities out of queer people, there is an ongoing push to recognize the razor’s edge that Queer rights hang on. A large component of what is referred to as Queer Anarchy strives to understand the ways in which Queer communities, as they were more or less ignored by the political and legal power<span class="add">s</span>, developed their own systems of self-governance. 
 

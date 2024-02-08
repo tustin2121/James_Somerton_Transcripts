@@ -25,6 +25,9 @@
 	body:not(.new) .video-card.post-callout {
 		display: none;
 	}
+	body:not(.umm) .video-card.unscripted {
+		display: none;
+	}
 	body:not(.old) .video-card.pre-callout {
 		display: none;
 	}
@@ -39,7 +42,43 @@
 		margin-inline: 2em 1em;
 		min-height: unset;
 	}
-	.video-list > .video-list > .video-card {
-		filter: saturate(2);
+	@media (prefers-color-scheme: dark) {
+		.video-list > .video-list > .video-card {
+			background-color: #001c4a;
+		}
+	}
+	@media (prefers-color-scheme: light) {
+		.video-list > .video-list > .video-card {
+			background-color: #d0e6ff;
+		}
+	}
+	
+	.total-score {
+		border-radius: 6px;
+		display: flex;
+		height: 6px; width: 70%;
+		background-color: var(--color-border-default);
+		overflow: hidden;
+	}
+	.total-score .plagiarized {
+		grid-area: plag;
+		text-align: center;
+		background-color: var(--video-box-stolen-bg);
+		color: var(--video-box-stolen-text);
+	}
+	.total-score .misinfo {
+		grid-area: fake;
+		text-align: center;
+		background-color: var(--video-box-fabricated-bg);
+		color: var(--video-box-fabricated-text);
+	}
+	.total-score .yikes {
+		grid-area: yikes;
+		text-align: center;
+		background-color: var(--video-box-yikes-bg);
+		color: var(--video-box-yikes-text);
+	}
+	.total-score > span {
+		border-inline-end: 1px solid var(--color-canvas-default);
 	}
 }

@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/pw_rjbzyi1s"
+
 date: 2023-07-13
 title: The History of Gay Hollywood
+runtime: 2:09:17
 status: In Progress
 aka: !!seq
   - "The Queer History of Hollywood (Thumbnail)"
@@ -23,6 +27,7 @@ description: "a remake of his Unrequited video, ripping off the book instead of 
 notes: 
   - multipart
   - hbomb
+  - w-james
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -39,9 +44,6 @@ cite:
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
-
-{%- assign vid = page.id | split: "/" | last -%}
-{%- assign subvids = site.videos | where: "parent", vid -%}
 
 <compare>
 <credits class="desc">
@@ -107,7 +109,7 @@ Over the last several years there have been demands for more LGBTQ represention 
 
 See Video 1 for the Cold Open
 
-{%- assign subvid = subvids[0] -%}
+{%- assign subvid = site.videos | where: "slug", "Zcf3uNGbq4" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -179,7 +181,7 @@ The love that dared not speak its name in *America* was surprisingly fluent when
 </james>
 <subvideo>
 
-{%- assign subvid = subvids[0] -%}
+{%- assign subvid = site.videos | where: "slug", "Zcf3uNGbq4" | first -%}
 {% include video-card video=subvid anchor="title-end" %}
 
 </subvideo>
@@ -200,7 +202,7 @@ In Hollywood's early years, homosexuality found its way on screen in ways both s
 </james>
 <subvideo>
 
-{%- assign subvid = subvids[1] -%}
+{%- assign subvid = site.videos | where: "slug", "SdtbQhAKFSI" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -221,7 +223,7 @@ In the early 20th century, the United States experienced a period of political p
 </james>
 <subvideo>
 
-{%- assign subvid = subvids[2] -%}
+{%- assign subvid = site.videos | where: "slug", "iJ3M_DhPlI0" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -242,7 +244,7 @@ As the film industry moved away from suburban perfection, the extensive efforts 
 </james>
 <subvideo>
 
-{%- assign subvid = subvids[3] -%}
+{%- assign subvid = site.videos | where: "slug", "UtRyi-e_HTc" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -265,7 +267,7 @@ Sit laborum ut labore eu voluptate officia quis mollit proident qui et tempor id
 </james>
 <subvideo>
 
-{%- assign subvid = subvids[4] -%}
+{%- assign subvid = site.videos | where: "slug", "fzN9x4XgtwY" | first -%}
 {% include video-card video=subvid anchor="parent-start" %}
 
 </subvideo>
@@ -287,7 +289,7 @@ Fugiat nulla Lorem mollit exercitation officia adipisicing labore incididunt pro
 Originally released 2023-02-15
 notes:
   - hbomb
-[-Zcf3uNGbq4](-Zcf3uNGbq4.md) (Status: Script)
+[-Zcf3uNGbq4](Zcf3uNGbq4.md) (Status: Script)
 
 # Transcript of "Hollywood's Golden Age (of Queer Coding)"
 Originally released 2023-03-15

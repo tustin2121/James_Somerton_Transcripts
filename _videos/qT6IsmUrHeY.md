@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/qt6ismurhey"
+
 date: 2023-03-22
 title: The Role of Adult Media in Gay Identity (A Conversation)
 status: Auto

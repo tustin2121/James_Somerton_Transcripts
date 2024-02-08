@@ -1,7 +1,11 @@
 ---
+redirect_from:
+  - "/videos/zdgwhnddwou"
+
 # cspell:words: Hannibal Lecter
 date: 2021-11-04
 title: '"Hannibal" and the Appeal of Toxic Love'
+runtime: 1:04:50
 status: Finished
 aka: !!seq
   - "The Gay Appeal of Toxic Love"
@@ -19,6 +23,7 @@ notes:
   - dec5-delete
   - commentary
   - script-diff
+  - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -579,7 +584,7 @@ Hannibal: "All my knowledge and intrusion I could never entirely predict you."
 
 We can endure horror. Each of us — we already have. What we cannot endure is solitude. 
 
-In a discussion of representation, why would we clamor for this, and yet leave *Love, Simon* out to dry at the box office? <span id="love_simon">No discredit to Ms. Albertalli, but could it be that queer people do not emotionally engage with a teenage twink whose dream-style love story goes off like choreographed fireworks? Most of us have never experienced that.</span> But a toxic relationship we aren’t willing to admit is toxic? That’s far more likely. 
+In a discussion of representation, why would we clamor for this, and yet leave *Love, Simon* out to dry at the box office? <mark yikes id="love_simon">No discredit to Ms. Albertalli, but could it be that queer people do not emotionally engage with a teenage twink whose dream-style love story goes off like choreographed fireworks? Most of us have never experienced that.</mark> But a toxic relationship we aren’t willing to admit is toxic? That’s far more likely. 
 
 </james>
 <from></from>

@@ -1,4 +1,9 @@
 ---
+redirect_from:
+  - "/videos/kxgpvm09gcm"
+  - "/videos/gQVWepgSvfg" # original upload
+  - "/videos/gqvwepgsvfg"
+
 date: 2022-09-19
 title: Reclaiming the "Q" Word
 status: Auto
@@ -8,6 +13,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
+  # - "https://web.archive.org/web/20210523190521/https://www.youtube.com/watch?v=gQVWepgSvfg" # Original upload
 # description: "a video essay on...?"
 
 cite:

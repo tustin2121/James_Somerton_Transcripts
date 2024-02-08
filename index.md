@@ -21,17 +21,23 @@ Contributors:
 - [{{ name.name }}]({{name.link}}) - {{name.descriptive}}
 {%- endfor -%}
 
-</div><div>
+</div>{%- unless site.data.options.hide_video_links -%}<div>
 
 Video archives:
 - [James Somerton Youtube (2023-12-03)](https://archive.org/details/james-somerton-youtube-2023-12-03) on the Internet Archive
 - [James Somerton Public Records](https://archive.org/details/james-somerton-public-records) on the Internet Archive
 - [James Somerton's videos (backup)](https://archive.org/details/james-somerton-videos-backup) on the Internet Archive
-- [James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube
-- [James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube
-- [Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube
+- ~~[James Somerton Archive](https://www.youtube.com/@JamesSomertonArchive/videos) on YouTube~~
+- ~~[James Somerton Reuploads](https://youtube.com/@jamessomertonreuploads/videos) on YouTube~~
+- ~~[Archive: James Somerton](https://youtube.com/@ArchiveJamesSomerton/videos) on YouTube~~ 
 
+</div>{%- endunless -%}
 </div>
+
+<div class="total-score">
+  <span class="plagiarized" style="width:{{ site.data.stats._global.vol.p }}%" title="{{ site.data.stats._global.vol.p }}% of James's video output was plagiarized"></span>
+  <span class="misinfo" style="width:{{ site.data.stats._global.vol.m }}%" title="{{ site.data.stats._global.vol.m }}% of James's video output was misinformation"></span>
+  <span class="yikes" style="width:{{ site.data.stats._global.vol.y }}%" title="{{ site.data.stats._global.vol.y }}% of James's video output was problematic takes"></span>
 </div>
 
 # Transcript Index
@@ -56,7 +62,10 @@ Video archives:
         <span class="misinfo" style="width:20%"></span>
       </div>
     </div>
-    <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    {%- unless site.data.options.hide_video_links -%}
+      <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
+    {%- endunless -%}
+    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
   </div>
 </div>
 
@@ -69,16 +78,24 @@ Score Squares:
 - <span style="background-color: var(--video-box-yikes-bg); color: var(--video-box-yikes-text)">Y = Number of "Yikes!" takes, from misogyny to acephobia</span>
 - The bar above the squares indicates how much of the video<br/>was plagiarized or misinformation by volume.
 
+Transcript Statuses: 
+- <span class="status alert">Missing</span> = Transcript is missing
+- <span class="status">Script</span> = Raw transcript data uploaded from a script
+- <span class="status">Auto</span> = Raw auto-transcript
+- <span class="status">In Progress</span> = Transcript has some work done
+- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
+- <span class="status complete">Complete</span> = Transcript has been formatted and highlighted.
+  - A "Complete" transcript does *not* mean nothing is left to  
+  be found, just that all the information we know at the  
+  moment has been documented.
+
 </div>
 <div>
 
-Transcript Statuses: 
-- <span class="status alert">Missing</span> = Transcript is missing though video archive exists
-- <span class="status">Script</span> = Transcript is raw transcript data uploaded from a script, not yet properly formatted
-- <span class="status">Auto</span> = Transcript is raw auto-transcript, not yet properly formatted
-- <span class="status">In Progress</span> = Transcript has some work done
-- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
-- <span class="status complete">Complete</span> = Transcript has been fully reviewed and things cited.
+Icon legend:
+{% for n in site.data.info.notes -%}
+- <i class="{{ n[1].icon }}"></i> - {{ n[1].desc }}
+{% endfor -%}
 
 </div>
 </div>
@@ -91,7 +108,8 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
-  <label><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-umm" /> Show unscripted videos</label>
+  <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">
@@ -114,12 +132,12 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 
 </div>
 
-{% comment %} {% assign videos = site.videos | sort: 'date' | reverse %} {% endcomment %}
 {% comment %}
 Template for new videos
 ---
 date: 2023‑11‑23
 title: title
+runtime: 0:00
 status: Auto
 aka: !!seq
   - "title"
@@ -130,6 +148,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records"
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
+notes:
 
 cite:
   clips: !!map
@@ -137,13 +156,4 @@ cite:
   misinformation: !!map
   plagiarized: !!map
 ---
-notes:
-  - hbomb
 {% endcomment %}
-
-[^vimeo]: This video was exclusive to Vimeo for age-gating reasons.
-[^unreleased]: This video was not yet released to the public before the plagiarism video came out.
-[^hbomb-min]: This video is one of the (minimum) 26 HBomberGuy said were confirmed to have plagiarism in his video.
-[^multipart]: This video is a compilation of multiple previously released videos.
-[^odd-linebreaks]: Transcript had unusual line break characters prior to cleanup
-[^short-advert]: Had a short that advertised the early release of this video on his patreon.

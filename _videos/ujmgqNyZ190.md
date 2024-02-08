@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/ujmgqnyz190"
+
 date: 2021-04-01
 title: !!str “Killing Stalking” and The Romancing of Abuse
 status: Auto

@@ -1,4 +1,9 @@
 ---
+redirect_from:
+  - "/videos/vohyzuj43k4"
+  - "/videos/5RPsRpk8aKA" # Original upload video id
+  - "/videos/5rpsrpk8aka"
+
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
@@ -18,14 +23,20 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
   # - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230101+VoHYZUj43K4+The+Important+Non-Meaning+of+Attack+on+Titan.webm"  # This is the reupload version
+  # - "https://web.archive.org/web/20220904180035/https://www.youtube.com/watch?v=5RPsRpk8aKA" # Original video?
 description: "a video essay on media literacy, messaging, allegory, applicability, fascist imagery, not dealing in absolutes, and something something 'don't let the hate flow through you'."
 notes: 
   - hbomb
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
     - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
+
+recs:
+  - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
+  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["Yvestan", "The Ace Couple"] }
 
 cite:
   clips: !!map

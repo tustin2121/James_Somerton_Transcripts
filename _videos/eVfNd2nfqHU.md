@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/evfnd2nfqhu"
+
 date: 2022-10-04
 title: The Issues With "Bros" (Special Podcast Episode)
 status: Auto

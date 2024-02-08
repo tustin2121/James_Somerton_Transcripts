@@ -1,11 +1,15 @@
 ---
+redirect_from:
+  - "/videos/lgsa23ixac8"
+
 date: 2014-08-12
 title: "Geek Theory #4: The Fantastic Five!"
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://web.archive.org/web/20220605190710/https://www.youtube.com/watch?v=Lgsa23IXac8"
 # description: "a video essay on...?"
 
 cite:
@@ -19,7 +23,7 @@ cite:
 <compare>
 <credits class="desc">
 
-[???]
+Check out my list of characters that I'd love to see find their way into the Marvel Cinematic Universe.
 
 </credits>
 </compare>

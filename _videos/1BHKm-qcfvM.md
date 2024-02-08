@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/1bhkm-qcfvm"
+
 date: 2022-12-01
 title: The Gay Body Image Crisis
 status: Auto
@@ -13,6 +16,8 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
+
+# Sara (The Fat Culture Critic) apparently tried calling James out on some takes in this video at one point (https://youtu.be/tzaXV874OVc?t=789), but she didn't go into detail.
 
 cite:
   clips: !!map

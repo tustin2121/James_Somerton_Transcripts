@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/p5kpiroxhzw"
+
 date: 2023-11-23
 title: Neil Gaiman & Queering Fantasy
+runtime: 45:26
 status: Finished
 aka: !!seq
   - "Sandman and Queering the Fantastical"
@@ -19,6 +23,7 @@ notes:
 contributors:
   trascription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"
   formatting: $cite$tustin2121
+  factcheck: $ref$lvence$https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/
 
 cite:
   clips:
@@ -28,12 +33,15 @@ cite:
   misinformation: !!map
     pratchett: "James makes up a legend about the origins of Good Omens when the truth is actually easily researchable."
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
-    helen_of_try: "James needs to brush up on his Greek history and stop watching Troy (2004)."
+    helen_of_troy: "James needs to brush up on his Greek history and stop watching Troy (2004)."
+    constantinople: "James mixes up Constantinople and Bagdad when talking about progressive cities in the middle ages."
   plagiarized: !!map
 ---
 {% assign hbomb = site.data.cite.hbomb %}
 {% assign todd = site.data.cite.todd %}
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign lvence = site.data.cite.lvence %}
+{% assign lvence_link = "https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/" %}
 
 <compare>
 <credits class="desc">
@@ -378,7 +386,19 @@ Honestly, not so ambiguous camp men wearing blackout sunglasses to conceal weird
 <compare>
 <james {% include timecode %}>
 
-It seems as if all of the base content from the first two arcs of *Sandman* made it into the first season. Changes made to this content were primarily a matter of streamlining the existing information: pacing was smoothed out or characters were altered or combined to fit into roles that serve the plot better. John Constantine was altered into Joanna Constantine, riffing on the fictual [sic] 18th century character in later Sandman stories.
+It seems as if all of the base content from the first two arcs of *Sandman* made it into the first season. Changes made to this content were primarily a matter of streamlining the existing information: pacing was smoothed out or characters were altered or combined to fit into roles that serve the plot better. John Constantine was altered into Joanna Constantine, riffing on the fictual<sup>[sic]</sup> 18th century character in later Sandman stories.
+
+</james>
+<comment>
+{% include header for=lvence link=lvence_link %}
+
+Fictual, like factual but fake. It describes [James's] work perfectly, they sound true, but they are fiction.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Hector and Lyta were repurposed so that Lyta could occupy a larger role and to allow for more connecting tissue between characters. Rose’s mother was the only character cut from the plo,t with Lyta now occupying much of that role instead. Lyta absolutely needed to be here because that dream baby is important!
 
@@ -496,7 +516,7 @@ Anyway, they smash. Turns out they’re both kind of equally dissatisfied with h
 <compare>
 <james {% include timecode %}>
 
-Even though it’s just a disconnected vignette in a story, it’s still a heartfelt standout moment. You may be deceived into thinking this about being gay, but it’s actually about being different and alone in a place with too many people. Especially in our post 9/11 Western cultural stereotype of the Arabian Peninsula, it’s significant to make *this* the spot for graphic gay sex in this great American novel. (Don’t read anything into it, most of the great American novels are written by Brits.)
+Even though it’s just a disconnected vignette in a story, it’s still a heartfelt standout moment. You may be deceived into thinking this about being gay, but it’s actually about being different and alone in a place with too many people. Especially in our post 9/11 Western cultural stereotype of the Arabian Peninsula, it’s significant to make *this* the spot for graphic gay sex in this great American novel. (Don’t read anything into it, most of the great American novels are written by Brits<sup cn></sup>.)
 
 </james>
 <from></from>
@@ -505,10 +525,17 @@ Even though it’s just a disconnected vignette in a story, it’s still a heart
 <compare>
 <james {% include timecode %}>
 
-It’s important to remember that at a period of time when Europe was tying up women and gay men and throwing them into reasonably sized ponds to see if they floated to surface (thereby indicating their connection to witchcraft for which they would then be removed from the water, thoroughly dried and then burnt at the stake) that Constantinople at the same time was the cultural, progressive hub of the world. Scientifically, culturally, philosophically, artistically. It also possessed a *massive swath* of Europeans who had fled as refugees from whatever Inquisition, Crusade or ethnic cleansing was going on in Continental Europe at the time.
+It’s important to remember that at a period of time when Europe was tying up women and gay men and throwing them into reasonably sized ponds to see if they floated to surface (thereby indicating their connection to witchcraft for which they would then be removed from the water, thoroughly dried and then burnt at the stake) that <mark fc=false>Constantinople at the same time was the cultural, progressive hub of the world. Scientifically, culturally, philosophically, artistically.</mark> It also possessed a *massive swath* of Europeans who had fled as refugees from whatever Inquisition, Crusade or ethnic cleansing was going on in Continental Europe at the time.
 
 </james>
-<from></from>
+<comment id="constantinople">
+{% include header for=lvence link=lvence_link %}
+
+Constantinople was never the cultural, progressive hub, that was Baghdad. After Baghdad was sacked, it was the Italian city states. Philosophically Arabic preserved the Greek Classics, some manuscripts today only survive from Arabic translation. [Also the Byzantine persecuted people.](https://www.cambridge.org/core/books/abs/cambridge-world-history-of-violence/ethnic-and-religious-violence-in-byzantium/0E496CED2CC6E0C061A9228F46CADA0B)
+
+Wait thinking about it, it would actually make sense in context with the previous sentences that it would be Baghdad. Did they just FORGET and [use] the wrong city?
+
+</comment>
 </compare>
 
 <compare>
@@ -709,10 +736,10 @@ The more complicated reality of good representation is that it’s very difficul
 For instance, when it comes to men writing women, there was either not a whole lot of attention given to female characters in the first place, or failed attempts to understand them. <mark fc=false>Helen of Troy was attributed to having spurred Menelaus and sparked the Trojan War because Paris of Troy was just so darn pretty. That motivation was so weak even 2004’s Troy had to develop an entire subplot about how Menelaus was so toxic that Helen’s only recourse was to leave with the first man who could smuggle her out of Sparta.</mark>
 
 </james>
-<comment id="helen_of_try">
+<comment id="helen_of_troy">
 {% include header for=tustin %}
 
-There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate Troy (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens.
+There are [*many* reasons](https://en.wikipedia.org/wiki/Helen_of_Troy#Seduction_or_kidnapping_by_Paris) attributed to how or why Helen ended up in Troy with Paris. The most well known is because Paris gave Aphrodite the golden Apple of Discord. Only Sappho seems to think Helen went with Paris willingly. And only the historically-inaccurate *Troy* (2004) seems to think it was because Menelaus treated Helen badly in a time period where women were second-class citizens. 
 
 </comment>
 </compare>

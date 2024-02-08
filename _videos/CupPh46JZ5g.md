@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/cupph46jz5g"
+
 date: 2023-06-27
 title: Broadway, Living, and Gay Hope
 status: Auto

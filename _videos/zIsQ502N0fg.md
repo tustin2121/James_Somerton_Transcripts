@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/zisq502n0fg"
+
 date: 2021-11-18
 title: Hollywood's (Gay) China Problem #｜ James Somerton
+runtime: 42:41
 status: Finished
 aka: !!seq
 topics: !!seq
@@ -12,13 +16,14 @@ description: "a video essay on why China hates queer people and how queer people
 notes:
   - hbomb
   - script-diff
+  - w-james-nick
 
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
   citation-plus:
-    - "[jordantullis](https://github.com/tustin2121/James_Somerton_Transcripts/issues/6)"
+    - $cite$penguinstorage
   citation: 
     - "[/u/glitter408](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvpdib)"
     - "[/u/theogays](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2whl0)"
@@ -28,13 +33,20 @@ cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
+    profits: "James claims that China keeps jacking up their cut of the profits from imported Hollywood moves."
+    profits2: { _desc_: "He also claims in the same segment that there's no way we can confirm the above conspiracy theory because everything's secret, when it's not." }
+    record_box_office: "James claims that a recent Chinese blockbuster was 'obviously' faked."
+    record_box_office2: { _desc_: "In the same breath, he also claims these faked numbers were only announced in English by the state television network." }
   plagiarized: !!map
     wiki_china: { color: 1, short: "China (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644" }
     wiki_addicted: { color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215" }
     wiki_untamed: { color: 4, short: "Untamed (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551" }
+    manga_planet: { color: 6, short: "What is BL (Binimbol, 2020)", full: "Binimbol, H. (2020, Apr 3). <em>What Is Boys' Love (BL)?</em> [Article]. Manga Planet. Retrieved Jan 12, 2024, from", url: "https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/" }
     vice_article: { color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq" }
     ap_article: { color: 5, short: "China bans men (McDonald, 2021)", full: "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", url: "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f" }
 ---
+{% assign penguinstorage = site.data.cite.penguinstorage %}
+{% assign todd = site.data.cite.todd.video %}
 
 <compare>
 <credits class="desc">
@@ -118,7 +130,7 @@ But first, let’s have a look at China’s odd, winding journey into the film i
 <compare>
 <credits class="opening">
 
-\[Titles play over sepiatone footage of presumably what's supposed to be China and playing forboding music]
+\[Titles play over sepiatone footage of presumably what's supposed to be China and playing foreboding music]
 
 > James Somerton  
 presents
@@ -130,7 +142,7 @@ and Nick Herrgott
 > Based on the  
 reporting of  
 Viola Zhou  
-& Koh Wew
+& Koh Wew<sup class="add">[sic: Ewe]</sup>
 
 > Executive producers  
 [Six patron names]
@@ -151,6 +163,12 @@ CHINA PROBLEM
 CHINA PROBLEM
 
 </credits>
+<comment>
+{% include header for=penguinstorage %}
+
+The "based on the reporting of" credit is an oblique reference to the most heavily plagiarized source in this video (see the source list at the top of the page), though James spelled one of the authors' names wrong.
+
+</comment>
 </compare>
 {% assign timecode = "3:04" %}
 
@@ -185,7 +203,7 @@ But that’s not the only reason movie studios don’t report net revenue from t
 
 Studios will get a higher percentage when a movie first comes out, and the percentage will shift into the theatre’s favor the longer a movie sticks around in cinemas. So sometimes it’s not exactly 50/50, but that’s the average. 
 
-And that’s not even getting into the fact that marketing and distribution costs aren’t calcuated<sup class"add">[sic: calculated]</sup> into that figure. Some movies have advertising campaigns that cost as much as their production budget so they’d need to make 4 times their budget before they make a profit. 
+And that’s not even getting into the fact that marketing and distribution costs aren’t calcuated<sup class="add">[sic: calculated]</sup> into that figure. Some movies have advertising campaigns that cost as much as their production budget so they’d need to make 4 times their budget before they make a profit. 
 
 </james>
 <from></from>
@@ -275,8 +293,6 @@ And the numbers of films just kept rising from there, though a pretty big chunk 
 
 China wasn’t a communist backwater nation like North Korea. It was a growing economy with happy citizens who wanted to enjoy films from all over the world. How happy their citizens really *were* is up for debate but that’s the narrative the Chinese government propagated. 
 
-At first Hollywood was actually able to negotiate pretty good terms with the country. Something closer to a 40/60 split, with Hollywood studios getting 60% of the box office returns. But as the Chinese box office began growing year over year, the Chinese government began to renege on those agreements, forcing studios back to the negotiating table, sometimes twice a year. Whereas studios would sign decade long contracts with American theatre chains. 
-
 </james>
 <from></from>
 </compare>
@@ -284,11 +300,29 @@ At first Hollywood was actually able to negotiate pretty good terms with the cou
 <compare>
 <james {% include timecode %}>
 
-All of this lead to today, where China reportedly keeps a whopping 75-80% of the box office returns. With studios getting as little as 20%. There’s no public financial data for representing this because, again, studios like to keep how much their movies make, and where that money comes from, as secret as possible. Lest they be forced to pay their share of taxes. 
+<mark fc=false>At first Hollywood was actually able to negotiate pretty good terms with the country. Something closer to a 40/60 split, with Hollywood studios getting 60% of the box office returns. But as the Chinese box office began growing year over year, the Chinese government began to renege on those agreements, forcing studios back to the negotiating table, sometimes twice a year. Whereas studios would sign decade long contracts with American theatre chains.</mark> 
+
+<mark fc=false>All of this lead to today, where China reportedly keeps a whopping 75-80% of the box office returns. With studios getting as little as 20%. There’s no public financial data for representing this because, again, studios like to keep how much their movies make, and where that money comes from, as secret as possible. Lest they be forced to pay their share of taxes.</mark> 
+
+</james>
+<comment id="profits">
+{% include header video=todd at="3869s" %}
+
+**25. China keeps jacking up their cut of the profits from imported Hollywood movies**
+
+This is literally the opposite of what happened. Hollywood's cut of the profits has not gone *down* to 25%, it's gone *up* to 25%. China used to take an insanely high percentage ("Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy") and over the years Hollywood has managed to chisel it down to just pretty high. 
+
+As for the idea that we can't look at the numbers and confirm this for certain, uh, yes we absolutely can. It's an International Trade Agreement, you can just look it up. Hollywood gets 25%.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 But people in the industry who work on the financial side of things seem to have loose lips, and they’re more than happy to talk about how China is screwing over an American industry. 
 
-Now 20% is better than nothing, right? Avengers Endgame made $629 million in China, so 20% of that is about 126 million. Nothing to sneeze at. It’s not the 315 million Disney would have gotten under a 50/50 agreement but <span class="del">it’s not</span><span class="add">wasn't</span> nothing! 
+Now 20% is better than nothing, right? *Avengers Endgame* made $629 million in China, so 20% of that is about 126 million. Nothing to sneeze at. It’s not the 315 million Disney would have gotten under a 50/50 agreement but <span class="del">it’s not</span><span class="add">wasn't</span> nothing! 
 
 </james>
 <from></from>
@@ -297,12 +331,10 @@ Now 20% is better than nothing, right? Avengers Endgame made $629 million in Chi
 <compare>
 <james {% include timecode %}>
 
-But Endgame may have made even more money in China. See, Chinese theatre chains have been known to be a bit sneaky. Tourists visiting the country and going to see movies while there have seen ticket sellers take your money for a Hollywood movie, ring up the sale as a ticket for a Chinese propaganda film, and then wave you on through. 
+But *Endgame* may have made even more money in China. See, Chinese theatre chains have been known to be a bit sneaky. Tourists visiting the country and going to see movies while there have seen ticket sellers take your money for a Hollywood movie, ring up the sale as a ticket for a Chinese propaganda film, and then wave you on through. 
 
 These reports are all independent, and there’s no financial data reporting this, again, so take it with a grain of salt, but it seems to be reported... a lot. 
 
-In fact a lot of people who work in the industry are pretty convinced that China fudges their numbers all the time. Avengers Endgame had been the biggest opening weekend of all time at a domestic box office, with 357 million dollars in the US, and Canada. A record most industry professionals were convinced wouldn’t be broken for years. 
-
 </james>
 <from></from>
 </compare>
@@ -310,18 +342,42 @@ In fact a lot of people who work in the industry are pretty convinced that China
 <compare>
 <james {% include timecode %}>
 
-But then, earlier this year, Detective Chinatown 3 opened in China to a reported opening weekend of 400 million dollars. These numbers weren’t released by any studio or production company, of course, they were announced by CGTN, China’s Global Television Network. Basically their English Language propaganda channel. 
+<mark fc=false num=1>In fact a lot of people who work in the industry are pretty convinced that China fudges their numbers all the time</mark>. *Avengers Endgame* had been the biggest opening weekend of all time at a domestic box office, with 357 million dollars in the US, and Canada. A record most industry professionals were convinced wouldn’t be broken for years.
 
-The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID 19. 
+But then, earlier this year, *Detective Chinatown 3* opened in China to a reported opening weekend of 400 million dollars. <mark fc=false num=2>These numbers weren’t released by any studio or production company, of course, they were announced by CGTN, China’s Global Television Network. Basically their English Language propaganda channel.</mark>
+
+<mark fc=false num=3>The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID-19. And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word.</mark>
 
 </james>
-<from></from>
+<comment id="record_box_office">
+{% include header video=todd at="1858s" %}
+
+**12. The record box office for a recent Chinese blockbuster was obviously faked**
+
+The germ of truth here is that [there are reports of Chinese theater chains jacking up ticket sales](https://www.indiewire.com/features/general/china-box-office-fraud-mpaa-phony-ticket-sales-film-industry-1201847763/), including [at least one case that was *probably* because of pressure from the government](https://www.hollywoodreporter.com/news/general-news/china-film-execs-claim-terminator-820874/). But that was for a specific government propaganda film, not a blockbuster. 
+
+<mark num=1></mark>The only person who suggested that this one movie's numbers are fake is film journalist/ vlogger Grace Randolph, and she literally has a section of her Wikipedia dedicated to shit she's made up. Now I watched her video, she doesn't have any evidence, she just think it's suspicious that a movie could do that well during COVID.
+
+\[Clip from Grace's video]:
+> Grace Randolph: "They doubled their last biggest opening and that seems to me like a ridiculous jump. There's no way it would jump that high."
+
+You know, she's all like, you know, "I'm just asking questions," it's nonsense. 
+
+Everyone else agrees that this movie's high box office was *thoroughly* normal 'cause it was a highly anticipated sequel, it had a holiday weekend, [there were a lot of COVID travel restrictions so no one had anywhere else to go](https://www.nytimes.com/2021/02/16/business/china-movies-box-office-detective-chinatown.html), and also China has a lot of people in it. 
+
+Also, when the government *does* put their thumb on the scale for a movie, rival studios tend to call it out and complain about it. No one did that here.
+
+And the idea that China only announced it in English and we have no way to verify it, as far as I can tell, the only source for that is Somerton himself. <mark num=2></mark>These numbers get reported on box office tracking sites that track every ticket as they're sold and they get that information directly from the theater chains themselves, not the government or the state media. If there's any fraud happening, it has to come *from* the theaters. The government actually has to go out and buy tickets, or force the theater chain to ring up fake screenings. It's not just, "oh, you know, the government or the media said it so we have to take their word for it," that's not how it works. 
+
+<mark num=3></mark>Also why would they only announce it in English? That doesn't make any sense.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word. So not only is Hollywood getting a fraction of the money from China that they do from the rest of the world, now China is basically making the argument that while Hollywood apparently needs China, China doesn’t need Hollywood. 
+So not only is Hollywood getting a fraction of the money from China that they do from the rest of the world, now China is basically making the argument that while Hollywood apparently needs China, China doesn’t need Hollywood. 
 
 In recent years Chinese audiences have also shown a reticence to Hollywood movies, choosing Chinese-produced films instead. Leading to more and more domestic Chinese films being produced, leading to fewer theatre screens being available for Hollywood movies, leading to even less money being made in China by American studios. Suddenly that 20% number isn’t sounding all that great. 
 
@@ -414,19 +470,59 @@ Well! Have I got news for you, dear viewer. Have you ever heard of BL? It’s th
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 So what is BL? Well, I’ll differ to an expert. According to Manga Planet: 
 
 \[Text scrolling on screen]:
-> “Originating in Japan, Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi” by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women. 
+> <mark>“<span stat:id="changed-quote">Originating in Japan,</span></mark> <mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi"</mark> <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark>
 >
-> Boys’ Love began as fan works by women fans. Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations. Since then, Japan has produced yaoi media through various platforms.” 
-
-The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga. And one of the largest markets for it... was China. 
+> <mark>Boys’ Love began as fan works by</mark> <span stat:id="changed-quote">women</span> <mark>fans.</mark> <mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> <mark>Since then, Japan has produced yaoi media through various platforms.”</mark>
 
 </james>
-<from></from>
+<comment>
+{% include header for=penguinstorage %}
+
+This tiny fragment seems to be from a different article:
+
+> <mark>Originating in Japan,</mark> "boys love" (BL) manga and fiction that focus on romantic or homoerotic male-male relation ships are considered by most of their writers, readers, and scholars to be primarily by women and for women and are purposely differentiated from gay fiction and manga by both commentators and practitioners.
+
+<footer>Tian, X. (2020, Mar 1). <em>Homosexualizing “Boys Love” in China: Reflexivity, Genre Transformation, and Cultural Interaction</em> [Journal Article]. Prism (Volume 17, Issue 1). <a href="https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf">https://www.academia.edu/download/67911298/PSM_171_05Tian_Fpp.pdf</a></footer>
+
+</comment>
+<from mark=cont {% include citation for=page.cite.plagiarized.manga_planet at="¶ 1" %}>
+  
+<mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi”</mark> (やおい) <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark> The majority of BL readers are female and referred to as “fujoshi” (腐女子) or “rotten girl.” On the other hand, BL literature also attracts male readers called “fudanshi” (腐男子) or “rotten boy.”
+
+</from>
+<from mark=cont {% include citation for=page.cite.plagiarized.manga_planet at="¶ 8-9" %}>
+<h3>A Brief History</h3>
+  
+<mark>Boys’ Love began as fan works by</mark> female <mark>fans.</mark> The female mangaka group Hana no Nijūyo-nen Gumi (花の24年組) was one of the contributing factors for the creation of homoerotic fan fictions. Early fan works showcase platonic relationships between male characters in the form of parodies. One of the members of Hana no Nijūyo-nen Gumi was Keiko Takemiya, the author of the first shonen-ai manga Kaze to Ki no Uta (風と木の詩). It took 9 years before her manga was approved for publishing due to its explicit themes involving rape, drug abuse, homophobia, and violence. The other known origins of boys’ love possibly came from the magazine June in 1978. June was one of the first magazines publishing male-on-male tanbi literature.
+
+<mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> Some of the adapted manga series were Patalliro!, Kaze to Ki no Uta and Earthian. <mark>Since then, Japan has produced yaoi media through various platforms.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james span=2 {% include timecode %}>
+  
+<mark>The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga.</mark> And one of the largest markets for it... was China. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.manga_planet at="¶ 10" %}>
+<h3>Modern Usage</h3>
+
+<mark>The internet propelled the global growth and popularity of Boys’ Love, as non-Japanese fans were finally able to read translated BL manga.</mark> Fans also wrote their fan fiction in forums, online journals or self-publishing websites. They are now able to discover new materials and share them with everyone at the same time. Fans and readers are able to enjoy beautifully-rendered artworks and themes while learning more about themselves.
+
+</from>
+<comment>
+{% include header for=penguinstorage %}
+
+James ends his onscreen quote above, but he sneakily keeps reading the article anyway.
+
+</comment>
 </compare>
 
 <compare>
@@ -521,7 +617,7 @@ In 2016, the hit teen series *Addicted* (also known as *Heroin*), a drama with e
 </from>
 <james {% include timecode %}>
 
-The show was queer baity, but the <mark x>novel on which it was based certainly was not. That featured a very explicit love story between the two main characters</mark>, but was <mark x>self-censored when adapted to meet the censorship guidelines</mark> of the Xi Jinping government. But it didn’t matter. Like so much queer baiting before, people saw through the weak venere<sup class"add">[sic: veneer]</sup> of heterosexuality. They took the bait, so to speak. 
+The show was queer baity, but the <mark x>novel on which it was based certainly was not. That featured a very explicit love story between the two main characters</mark>, but was <mark x>self-censored when adapted to meet the censorship guidelines</mark> of the Xi Jinping government. But it didn’t matter. Like so much queer baiting before, people saw through the weak venere<sup class="add">[sic: veneer]</sup> of heterosexuality. They took the bait, so to speak. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_untamed at="¶ 3" %}>
@@ -547,7 +643,6 @@ The show has also garnered significant exposure and popularity globally for its 
 <mark>In January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><q><mark>Bangkok, Singapore,</mark> <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark></q>, <mark>but it was cancelled</mark> <mark>due to COVID19</mark>.
 
 </james>
-<from>
 <from {% include citation for=page.cite.plagiarized.wiki_untamed at="Reception ¶ 7" %}>
 
 Responding to the demand of sold-out fan meetings in Thailand and China, <mark>in January 2020, the cast members planned to embark on a multi-city worldwide fan meetings tour. Cities included </mark><mark>Bangkok, Singapore,</mark> Ho Chi Minh City, <mark>Tokyo, Seoul, Macau, Kuala Lumpur, Toronto, Los Angeles, New York</mark>, <mark>but was cancelled</mark> after the Bangkok concert <mark>due to the recent pandemic</mark>.<sup>[74]</sup>
@@ -664,7 +759,7 @@ Which… if you look to your history books, when a country starts locking down t
 <compare>
 <james {% include timecode %}>
 
-Someone might be asking: well why is the Chinese government so obsessed with clamping down on removing gay representation <span class="del">—</span> from their media? Why does any political body specifically target a removal of queerness from media? It seems to be kind of a weird and arbitrary thing to hate on, right? If you wanted a strong natoional<sup class"add">[sic: national]</sup> sense of unity, why would you specifically target one group of people — specifically a group of people that cannot be culturally erased because more gay babies are born every day. 
+Someone might be asking: well why is the Chinese government so obsessed with clamping down on removing gay representation <span class="del">—</span> from their media? Why does any political body specifically target a removal of queerness from media? It seems to be kind of a weird and arbitrary thing to hate on, right? If you wanted a strong natoional<sup class="add">[sic: national]</sup> sense of unity, why would you specifically target one group of people — specifically a group of people that cannot be culturally erased because more gay babies are born every day. 
 
 </james>
 <from></from>
@@ -673,9 +768,9 @@ Someone might be asking: well why is the Chinese government so obsessed with cla
 <compare>
 <james {% include timecode %}>
 
-You could argue that the reason is because a totalitarian state is interested in population expansion. Queer people can be seen as a population limmiter<sup class"add">[sic: limiter]</sup>. Especially if a nation is engaged in expansionism or involved in regular military conflicts. 
+You could argue that the reason is because a totalitarian state is interested in population expansion. Queer people can be seen as a population limmiter<sup class="add">[sic: limiter]</sup>. Especially if a nation is engaged in expansionism or involved in regular military conflicts. 
 
-But when it comes to China… they have population control mandates. As well as the fact that The People’s Army isn’t *publicly* engaged in any hot conflicts right now. As well as it would simply just be easier to have mandatory in-vetro<sup class"add">[sic: in-vitro]</sup> pregnancies for lesbian women, and mandatory sperm domantions<sup class"add">[sic: donations]</sup> from gay men. 
+But when it comes to China… they have population control mandates. As well as the fact that The People’s Army isn’t *publicly* engaged in any hot conflicts right now. As well as it would simply just be easier to have mandatory in-vetro<sup class="add">[sic: in-vitro]</sup> pregnancies for lesbian women, and mandatory sperm domantions<sup class="add">[sic: donations]</sup> from gay men. 
 
 </james>
 <from></from>
@@ -754,7 +849,7 @@ In our modern society, queer people have existed on the fringe of society for th
 
 Queer people, thus, don’t need to buy a house in the suburbs to have children. We don’t need cars if we live in the inner city. Domestic appliances? We’re cooking for one. We didn’t get engaged, so we don’t — or we didn’t used to — buy rings. 
 
-Take a moment to consider how disastrous this is to a society that is constructed around buying things at certain times in your life, under certain expectations of how you ought to live. And not only that, but each queer person can have a *vastly* different set of expiriences<sup class"add">[sic: experiences]</sup> from the next and therefor gravitate to different lifestyles. 
+Take a moment to consider how disastrous this is to a society that is constructed around buying things at certain times in your life, under certain expectations of how you ought to live. And not only that, but each queer person can have a *vastly* different set of expiriences<sup class="add">[sic: experiences]</sup> from the next and therefor gravitate to different lifestyles. 
 
 </james>
 <from></from>
@@ -798,7 +893,7 @@ Which… was not all that successful. They caught a lot of people who fed inform
 <compare>
 <james {% include timecode %}>
 
-In reality, McCarthyism was an effort to distinguish the cultural identity of ‘propper<sup class"add">[sic: ‘proper]</sup> American’ people. This is when you got all those info-videos about how to live your life, which got weirdly specific. How to hold a family meeting. How to be a popular teenager. How to go to the store. To say nothing of sexual education manuals directed to young women. 
+In reality, McCarthyism was an effort to distinguish the cultural identity of ‘propper<sup class="add">[sic: ‘proper]</sup> American’ people. This is when you got all those info-videos about how to live your life, which got weirdly specific. How to hold a family meeting. How to be a popular teenager. How to go to the store. To say nothing of sexual education manuals directed to young women. 
 
 <span class="add">These government-sanctioned videos and other media like short stories and magazines were *very* interested in telling people how to function. What to like. What to buy. What to make for dinner. And how to do it all.</span> Anyone who behaved like the people in the videos was a proper American. Those who did not were possibly ‘communists’ and should be reported to the authorities for investigation. 
 
@@ -827,7 +922,7 @@ This is why Hong Kong was such a problem <span class="add">for--</span>
 <compare>
 <james {% include timecode %}>
 
-So it’s not like China is deliberately opening their captured<sup class"add">[sic: captive]</sup> audience to the rest of the world. It’s just getting easier for the media to move fluidly across borders without a government’s consent. Chinese creators who travel abroad may return to China with fresh perspectives and want to include facets of life beyond what is strictly sanctioned by the Chinese government. 
+So it’s not like China is deliberately opening their captured<sup class="add">[sic: captive]</sup> audience to the rest of the world. It’s just getting easier for the media to move fluidly across borders without a government’s consent. Chinese creators who travel abroad may return to China with fresh perspectives and want to include facets of life beyond what is strictly sanctioned by the Chinese government. 
 
 And as the government cracks down on representation, they find more clever ways to code it into the media, while still checking off all the other boxes for praising the state. Like *The Untamed*. 
 
@@ -854,7 +949,7 @@ And there’s plenty coming from other Asian countries as well, but Taiwan and T
 <compare>
 <james {% include timecode %}>
 
-China shares a lot of cultural identity and history with these countries too… broadly speaking. And given the massive amounts of cash that China hands out through its arts programs, you’d think that China itself would want to capitalize on BL the way Thailand and Taiwan have. The international outreach would be positive, and ultimately garnish a lot of goodwill from queer audiences, for softening their pespective<sup class"add">[sic: perspective]</sup> of China and Maoism. Not to mention the financial return. 
+China shares a lot of cultural identity and history with these countries too… broadly speaking. And given the massive amounts of cash that China hands out through its arts programs, you’d think that China itself would want to capitalize on BL the way Thailand and Taiwan have. The international outreach would be positive, and ultimately garnish a lot of goodwill from queer audiences, for softening their pespective<sup class="add">[sic: perspective]</sup> of China and Maoism. Not to mention the financial return. 
 
 So why is China not engaging? Because control over their own population is more beneficial to the legacy and stability of the state. A citizen may ask: “If it’s suddenly okay to be gay… what else is okay?” 
 
@@ -865,11 +960,11 @@ So why is China not engaging? Because control over their own population is more 
 <compare>
 <james {% include timecode %}>
 
-And it may very well be that the people of China are starting to ask those kinds of questions. China’s new media laws — which also apply to forigen<sup class"add">[sic: foreign]</sup> media shown in China — crackdown on gender roles in a way that is both specific and very generalized. 
+And it may very well be that the people of China are starting to ask those kinds of questions. China’s new media laws — which also apply to forigen<sup class="add">[sic: foreign]</sup> media shown in China — crackdown on gender roles in a way that is both specific and very generalized. 
 
 For instance, a man cannot be depicted as effeminate in any way now. Which is always difficult to gauge because there’s a question of what kind of man are you talking about? Is this man sensitive enough to hug his children? Does he cry? Does he cook? We know that two men touching in any way is strictly off-limits. And given how successful China’s subtle approach to censoring gay content has been… this seems a bit heavy handed. Or… maybe it isn’t as successful as we believe. 
 
-I’ve met a few gay men from China, both online and in real life. And when it comes to the topic of queer acceptance in mainland China, I’ve been told it’s more or less an ambivilant<sup class"add">[sic: ambivalent]</sup> issue. No, it’s not strictly socially accepted, but homophobia is more about not wanting your own children to be gay — because of legacy — but no effort seems to be given to open bigotry toward gay people in general. 
+I’ve met a few gay men from China, both online and in real life. And when it comes to the topic of queer acceptance in mainland China, I’ve been told it’s more or less an ambivilant<sup class="add">[sic: ambivalent]</sup> issue. No, it’s not strictly socially accepted, but homophobia is more about not wanting your own children to be gay — because of legacy — but no effort seems to be given to open bigotry toward gay people in general. 
 
 </james>
 <from></from>
@@ -915,7 +1010,7 @@ I think that we, the queers of every damn country on this planet, should take pr
 
 Shouldn’t it be an awesome feeling that we have that kind of power to automatically disrupt authoritarian control? That our very existence runs so antithetical to a government controlling its people that they have to turn propaganda into a science to suppress us? They’d never admit that we have that kind of power but their actions say otherwise. 
 
-Every morning when you wake up and go about your queer life, you are inherently shaking the foundation on which dictatoriships<sup class"add">[sic: dictatorships]</sup> are built. Because they have shown that totalitarianism cannot exist when queer people exist alongside it.[^shirts] 
+Every morning when you wake up and go about your queer life, you are inherently shaking the foundation on which dictatoriships<sup class="add">[sic: dictatorships]</sup> are built. Because they have shown that totalitarianism cannot exist when queer people exist alongside it.[^shirts] 
 
 [^shirts]: Preorder now my new t-shirt: "My Very Existence Topples Dictatorships"
 

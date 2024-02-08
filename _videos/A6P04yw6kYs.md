@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/a6p04yw6kys"
+
 date: 2023-05-27
 title: The Dangers of Blissful Ignorance
+runtime: 42:54
 status: Finished
 aka: !!seq
   - The Str8 to Fascist Pipeline #| James Somerton
@@ -14,6 +18,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - script-diff
+  - w-nick-james
 
 cite:
   clips: !!map

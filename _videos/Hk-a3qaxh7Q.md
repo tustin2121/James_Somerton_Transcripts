@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/hk-a3qaxh7q"
+
 date: 2022-06-09
 title: How a Gay Show Changed TV... and Was Forgotten
 status: Auto

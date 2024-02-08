@@ -1,6 +1,10 @@
 ---
+redirect_from:
+  - "/videos/vtoxkook4mw"
+
 date: 2023-12-20
 title: "I'm sorry"
+runtime: 34:45
 status: Complete
 aka: !!seq
 topics: !!seq

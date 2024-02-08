@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/9yzmqebrszy"
+
 date: 2023-02-01
 title: The Death of Queer Privacy
 status: Auto

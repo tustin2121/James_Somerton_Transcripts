@@ -4,7 +4,8 @@
 		:root {
 			color-scheme: dark;
 			--video-box-bg-color-def: #0a1a31;
-			--video-box-bg-color-new: #2d0a0a;
+			--video-box-bg-color-new: #0a2d0c;
+			--video-box-bg-color-umm: #2d0a0a;
 			--video-box-bg-color-pod: #3b270a;
 			
 			--video-box-stolen-text: #f0eaf2;
@@ -21,7 +22,8 @@
 		:root {
 			color-scheme: light;
 			--video-box-bg-color-def: #dae5f9;
-			--video-box-bg-color-new: #fddddd;
+			--video-box-bg-color-new: #ddfddf;
+			--video-box-bg-color-umm: #fddddd;
 			--video-box-bg-color-pod: #ffd699;
 			
 			--video-box-stolen-text: #3e104d;
@@ -34,6 +36,22 @@
 			--video-box-topic-color: #ce0000;
 		}
 	}
+	:root {
+		--thumb-width: 160px;
+		--thumb-height: 90px;
+	}
+	@media (max-width: 950px) {
+		:root {
+			--thumb-width: 120px;
+			--thumb-height: 67px;
+		}
+	}
+	@media (max-width: 700px) {
+		:root {
+			--thumb-width: 100px;
+			--thumb-height: 56px;
+		}
+	}
 	
 	.video-card {
 		max-width: 1000px;
@@ -43,14 +61,17 @@
 		display: grid;
 		box-shadow: 3px 3px 4px 0px black;
 		grid-template:
-			"date  title title links" auto
-			"score aka   topic topic" auto
-			"stat  aka   topic topic" 1fr
-			/ 6rem 1fr   auto  auto;
+			"date  title title links  thumb" auto
+			"score aka   topic topic  thumb" auto
+			"stat  aka   topic topic  thumb" 1fr
+			/ 6rem 1fr   auto  auto   var(--thumb-width);
 		text-shadow: 0px 0px 0px black;
 	}
 	.video-card.podcast {
 		background-color: var(--video-box-bg-color-pod);
+	}
+	.video-card.unscripted {
+		background-color: var(--video-box-bg-color-umm);
 	}
 	.video-card.post-callout {
 		background-color: var(--video-box-bg-color-new);
@@ -164,10 +185,62 @@
 	.video-card .note {
 		 margin-inline: 4px;
 	}
+	.video-card > .thumbnail {
+		grid-area: thumb;
+		object-fit: cover;
+		object-position: center;
+		width: var(--thumb-width);
+		height: var(--thumb-height);
+		position: relative;
+	}
+	.video-card > .thumbnail[duration]::after {
+		content: attr(duration);
+		display: block;
+		position: absolute;
+		bottom: 3px; right: 3px;
+		z-index: 10;
+		background-color: #000d;
+		color: white;
+		font-size: x-small;
+		font-weight: 700;
+		border-radius: 5px;
+		padding: 0px 5px 2px;
+	}
+	.video-card > .thumbnail[duration]:hover::after {
+		display: none;
+	}
+	@media (max-width: 600px) {
+		:root {
+			--thumb-width: 0;
+			--thumb-height: 0;
+		}
+		.video-card > .thumbnail {
+			display: none;
+		}
+	}
 	
 	.signature {
 		font-size: smaller;
 		color: grey;
 		text-align: right;
+	}
+	
+	i.wr-nick::before       { content: "N"; }
+	i.wr-nick-james::before { content: "N"; vertical-align: super; }
+	i.wr-james-nick::after  { content: "N"; vertical-align: sub; }
+	i.wr-james::before      { content: "J"; }
+	i.wr-nick-james::after  { content: "J"; vertical-align: sub; }
+	i.wr-james-nick::before { content: "J"; vertical-align: super; }
+	
+	i.wr-nick, i.wr-james, i.wr-nick-james, i.wr-james-nick {
+		-moz-osx-font-smoothing: grayscale;
+		-webkit-font-smoothing: antialiased;
+		display: var(--fa-display,inline-block);
+		font-style: normal;
+		font-variant: normal;
+		line-height: 1;
+		text-rendering: auto;
+		font-weight: 900;
+		font-family: serif;
 	}
 }

@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - "/videos/0vijus_c-ay"
+
 date: 2023-09-14
 title: The Campy Queer Sensibilities of Barbie
 status: Auto
