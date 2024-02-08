@@ -60,11 +60,11 @@ However, if you are one of the plagiarized authors and would like the text of yo
 </from>
 <james>
 
-\[On screen]: I will call out when something relevant is shown on-screen.
+<u>[On screen]: I will call out when something relevant is shown on-screen.</u>
 
 Usually, James will show and read out quotes--
 
-\[Scrolling on screen]:
+<u>[Scrolling on screen]:</u>
 > "In full screen, which I will try and match the formatting, style, and punctuation of, even if that means sometimes having to correct <del>a thing</del><ins>something</ins> James mispronounces."
 
 Other times, <q>words may appear on screen</q> floating next to James's head, which he will then <q>read out loud anyway</q> as if to highlight the words.

@@ -65,7 +65,7 @@ If you want more info, I’ve left a link to the campaign in the description of 
 <compare>
 <credits class="opening" {% include timecode %}>
 
-[The song ["Go Get The Money" by ATELLER ft. PhaseOne](https://artlist.io/royalty-free-music/song/go-get-the-money/15859) fades in and plays over the opening credits, which show various rich person things.]
+<u>[The song ["Go Get The Money" by ATELLER ft. PhaseOne](https://artlist.io/royalty-free-music/song/go-get-the-money/15859) fades in and plays over the opening credits, which show various rich person things.]</u>
 
 > James Somerton  
 Presents
@@ -89,7 +89,7 @@ Christeene Haldane
 > executive producers  
 [Ten patron names]
 
-[Drone shot of a castle]
+<u>[Drone shot of a castle]</u>
 
 > directed by  
 James Somerton
@@ -140,7 +140,7 @@ But there does seem to be a caveat to that. We do still love watching media abou
 
 It’s clear that Willhelm<sup class="add">[sic: Wilhelm]</sup> doesn’t like being on camera. He doesn’t like performing, and he doesn’t like the posturing required of the monarchy. The pomp and circumstance grates against his authenticity. The ‘royal life’ is already in opposition to who he is and how he wants to express himself in the first episode. 
 
-[mockingly] He’s not like other Royals. 
+<u>[mockingly]</u> He’s not like other Royals. 
 
 </james>
 <from></from>
@@ -269,7 +269,7 @@ In this media the problem with wealth is that the riches have forgotten to respe
 <from></from>
 <james {% include timecode %}>
 
-\[Video goes fuzzy, like something's wrong with the VHS.]
+<u>[Video goes fuzzy, like something's wrong with the VHS.]</u>
 
 By the way, you should totally sign up for my Patreon. Where I post exclusive videos, audio commentaries, behind the scenes videos, and more. Sign up today at the link in the description. 
 
@@ -484,7 +484,7 @@ And no, as much as it may make for a great cure for insomnia, we’re not going 
 
 Suffice to say, and this has been true for the bulk of human history, the primary focus of tragedy and drama is upon the struggles of being rich. In one way or another. This could be for any number of reasons. Most likely — the people sponsoring and attending theatre were people with money. And they would absolutely like to see themselves reflected in these characters. 
 
-But in Aristotle’s *Poetics*, he claims that a necessary component of tragedy is that the tragic hero must fall from grace. The thought process here is that if you’re already at the bottom — there’s nowhere else to fall. So can it really be tragic? Tragedy, to Aristotle, had the role of shaping society through a means of — and I’m paraphrasing, here — cautionary parables. For instance, maybe the world would be a better place, Mr. Oedipus, if you didn’t go around the Balkan peninsula and murder everyone who had road rage as bad as you do. [Clicks tongue.] Things like that. 
+But in Aristotle’s *Poetics*, he claims that a necessary component of tragedy is that the tragic hero must fall from grace. The thought process here is that if you’re already at the bottom — there’s nowhere else to fall. So can it really be tragic? Tragedy, to Aristotle, had the role of shaping society through a means of — and I’m paraphrasing, here — cautionary parables. For instance, maybe the world would be a better place, Mr. Oedipus, if you didn’t go around the Balkan peninsula and murder everyone who had road rage as bad as you do. <u>[Clicks tongue.]</u> Things like that. 
 
 </james>
 <from></from>
@@ -493,7 +493,7 @@ But in Aristotle’s *Poetics*, he claims that a necessary component of tragedy 
 <compare>
 <james {% include timecode %}>
 
-As most of the ancient world existed in an openly classist system, it was more or less seen as the natural order of things for the poor to be suffering. And well… things can’t really get any more tragic if you start out suffering. Or so they thought. You did have theatrical productions which would have been called [air quotes] Domestic Tragedies, focusing on the middle or working classes. But even these were scoffed at for not having the gravitas of assassinating a demi-god. Meanwhile, what’s really going on is that philosophers were just salty because the only thing they were ‘lords’ of was the edge. 
+As most of the ancient world existed in an openly classist system, it was more or less seen as the natural order of things for the poor to be suffering. And well… things can’t really get any more tragic if you start out suffering. Or so they thought. You did have theatrical productions which would have been called <u>[air quotes]</u> Domestic Tragedies, focusing on the middle or working classes. But even these were scoffed at for not having the gravitas of assassinating a demi-god. Meanwhile, what’s really going on is that philosophers were just salty because the only thing they were ‘lords’ of was the edge. 
 
 </james>
 <from></from>
@@ -592,7 +592,7 @@ If Aristotle can use ‘logic’ to make exceptions for things he likes, and fin
 <compare>
 <james {% include timecode %}>
 
-The difficulty with analysing modern media on the basis of comedy vs. tragedy is that almost universally, authors (and creators of all types of media) like to incorporate elements of both for a single work. You usually get a bit of dramatic tension in comedies, and you’re likely to get someone cracking a joke <del>or two so that characters seem more human</del>[abrupt cut] in a drama. Tried and true ‘the hero dies’ tragedies are very uncommon today because audiences generally don’t like investing in media to have their hearts ripped out. 
+The difficulty with analysing modern media on the basis of comedy vs. tragedy is that almost universally, authors (and creators of all types of media) like to incorporate elements of both for a single work. You usually get a bit of dramatic tension in comedies, and you’re likely to get someone cracking a joke <del>or two so that characters seem more human</del><u>[abrupt cut]</u> in a drama. Tried and true ‘the hero dies’ tragedies are very uncommon today because audiences generally don’t like investing in media to have their hearts ripped out. 
 
 But we can look at this media, and gauge the overall feelings that this media is trying to project. In either case, we, the audience, are meant to see the themes of suffering and hardship that these characters are undergoing. 
 
@@ -623,7 +623,7 @@ And there is something to be said about appreciating the absurdity of a situatio
 
 However, compare and contrast to *Young Royals*, where the tragedy is rooted in emotional unfulfillment. After undergoing a degree of emotional growth, Willhelm<sup class="add">[sic: Wilhelm]</sup> decides he’s gonna put his heart on the line and gets a big old— 
 
-\[Meme cutaway]: Katya: “Party.”
+<u>[Meme cutaway]:</u> Katya: “Party.”
 
 —from his love-interest. Sure it’s not *Hamlet*, but for a show that is built around <del>the</del><ins>a</ins> soon-to-be-crown-prince’s emotional development, this is definitely not a happy ending. And while that may have been the finale, also keep in mind that Willhelm’s older brother died, his mother cared more about optics than his emotional state during a sex-tape scandal, and that his family in general consistently betrays and <del>micormanages</del><ins>micromanages</ins> him. We are given a very strong feeling that his life is hard. In fact, when it comes to his status, wealth, and titles, he has to be reminded by his mother that this is not a burden, it is a privilege. 
 
@@ -724,7 +724,7 @@ I guess you get to a point of wealth and importance where basic human emotional 
 <from></from>
 <clip {% include citation for=page.cite.clips.titanic %}>
 
-[Rose spits off of the deck.]
+<u>[Rose spits off of the deck of the Titanic.]</u>
 
 Jack: "Uh, that was better, you gotta work on it."
 
@@ -838,7 +838,7 @@ But there’s a problem we’re not addressing here.
 <compare>
 <james {% include timecode %}>
 
-[This whole section is delivered in a mocking tone of voice, with a pitying piano tune playing in the background.]
+<u>[This whole section is delivered in a mocking tone of voice, with a pitying piano tune playing in the background.]</u>
 
 When it comes to media, in order to analyse it, we have to ask the tough questions. What is the author trying to convey about the state of the world? What is the author saying needs to change? And quite frankly, I’m surprised it took *Young Royals* for me to realise this. Because looking back, the writing is on the wall. 
 
@@ -880,7 +880,7 @@ It’s time for us to buck up and be as empathetic as they say we are and do the
 
 > Thank you to my Patrons!
 
-[Patron names roll over ["No Matter How Hard We Try" by Moon ft. Ben Goldstein](https://artlist.io/royalty-free-music/song/no-matter-how-hard-we-try/13580).]
+<u>[Patron names roll over ["No Matter How Hard We Try" by Moon ft. Ben Goldstein](https://artlist.io/royalty-free-music/song/no-matter-how-hard-we-try/13580).]</u>
 
 </credits>
 </compare>

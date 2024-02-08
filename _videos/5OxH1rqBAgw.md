@@ -103,7 +103,7 @@ This video contains copyrighted material. The use of which has not always been s
 <compare>
 <credits class = "opening" >
 
-[Over black, loud sounds of machinery in the background.]
+<u>[Over black, loud sounds of machinery in the background.]</u>
 
 > James Somerton  
 Presents
@@ -315,7 +315,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-\[On screen:] "The First Factor"
+<u>[On screen:] "The First Factor"</u>
 
 <mark>Firstly, after World War I, the spectre of revolution frightened many older people. It had been accomplished in Russia by the Bolsheviks, and they had relied on the spread of revolution in Europe to guarantee their survival. It seemed to many that the Revolt in Munich in 1918 was but the opening shot in a class war.</mark> 
 
@@ -330,7 +330,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-\[On screen:] "The Second Factor"
+<u>[On screen:] "The Second Factor"</u>
 
 <mark>Secondly, in this climate, dozens of racist and virulently nationalistic groups had begun to flourish, each more fanatical than the last.</mark> 
 
@@ -345,7 +345,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-\[On screen:] "The Third Factor"
+<u>[On screen:] "The Third Factor"</u>
 
 <mark>A third factor cracked open the thin walls of stability and did more than any other to destroy trust and hope: the mammoth inflation of 1922 and '23. In just sixteen months the German mark soared from 192 marks to the American dollar to a staggering 4.2 *trillion*.</mark> <mark>The financial faith of the country was shattered beyond repair.</mark> 
 
@@ -362,7 +362,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-\[On screen:] "The Fourth Factor"
+<u>[On screen:] "The Fourth Factor"</u>
 
 <mark>The deepening crisis was compounded by a fourth factor: a rapid rise in unemployment, especially following the crash of the New York Stock Exchange in 1929, which killed half of central Europe's financial institutions.</mark> <mark>The number of unemployed workers increased from 1.5 million to 3.2 million. The actual number is estimated by some economists to have been more than 6 million.</mark> 
 
@@ -377,7 +377,7 @@ The Nazi war against Germany's homosexuals, to be properly understood, must be s
 <compare>
 <james {% include timecode %}>
 
-\[On screen:] "The Fifth Factor"
+<u>[On screen:] "The Fifth Factor"</u>
 
 <mark>A fifth and most toxic ingredient had been added added to the social mess: the Nazi Party. As the unemployment rate rose, Nazi membership grew.</mark> <mark>The Nazi Party not only provided food, weapons, and a magnificent uniform, but proclaimed a new purpose, a new faith, and a new prophet. Inflation and unemployment had catapulted into power a man who promised rebirth to all "Aryan" Germans, regardless of economic status.</mark> 
 
@@ -508,7 +508,7 @@ The closest thing I could find in the book was a general statement that unemploy
 
 The vague language of the law had allowed it to go unenforced, but not anymore. <mark>On May 14th, 1928, the Nazis published a response to a question posed about their stance on eliminating Paragraph 175.</mark> <mark>They said,</mark> 
 
-\[Quote shown on screen]:
+<u>[Quote shown on screen]:</u>
 > <mark>It is not necessary that you and I live, but it is necessary that the German people live. And it can only live if it can fight, for life means fighting. And it can only fight if it maintains its masculinity. It can only maintain its masculinity if it exercises discipline, especially in matters of love. Free love and deviance are undisciplined. Therefore, we reject you, as we reject anything that hurts our nation.</mark>
 
 > <mark>Anyone who thinks of homosexual love is our enemy. We reject anything which emasculates our people and makes it a plaything for our enemies, for we know that life is a fight, and it is madness to think that men will ever embrace fraternally. Natural history teaches us the opposite. Might makes right.</mark>
@@ -560,7 +560,7 @@ The vague language of the law had allowed it to go unenforced, but not anymore. 
 > A punishment of ten years in prison may apply to any man who: 
 > 1. Rapes another man.
 > 2. Coerces another man into sex.
-> 3. Has sex with any man under the age of 21. [And]
+> 3. Has sex with any man under the age of 21. <ins>And</ins>
 > 4. Has sex with a man.
 
 </james>
@@ -931,7 +931,7 @@ Himmler was obsessed, all right, but it was another type of compulsion- less vis
 
 <mark>Germany, Himmler said, needed a "National Sexual Budget" to compensate for the loss of more than a million of its soldiers in World War I. Germany had experienced the sharpest fall in the birth rate of all European nations, hitting an extraordinary low in 1933.</mark> <mark>Veneral diseases had spread throughout the country, particularly among younger people.</mark> <mark>In addition, the Republic had been afflicted by another illness: according to estimates, more than 2 million homosexuals</mark> had been living in Germany. <mark>Himmler made a quick calculation:</mark> &mdash;
 
-\[James shows raw numbers on screen during this calculation]: "2,000,000 +2,000,000 =4,000,000"
+<u>[James shows raw numbers on screen during this calculation]: "2,000,000 +2,000,000 =4,000,000"</u>
 
 &mdash; <mark>two million men killed</mark> or injured <mark>in the last war plus two million homosexuals equalled four million German women without husbands. That, he concluded, was a catastrophe for Germany. It was even worse than the half million babies he estimated to have been lost through abortion. Homosexuals, Himmler emphasized, corrupted other men, making them unwilling or unable to produce children.</mark> 
 
@@ -1138,7 +1138,7 @@ This catalogue was not inclusive enough for the Nazi ideologues. <mark>Later, co
 
 <mark>In 1937 a young lawyer named Rudolf Klare wrote a book, *Homosexuality and Criminal Law*.</mark>
 
-\[On screen]: "Homosexualität und Strafrecht"
+<u>[On screen]: "Homosexualität und Strafrecht"</u>
 
 <mark>It provided the ideological underpittings<sup class="add">[sic: underpinnings]</sup> for the war on homosexuals. With Klare’s book, SS officers in charge of indoctrination could explain to the often ignorant members of the community how their natural, healthy instincts would be affected by sexual deviants.</mark>
 
@@ -1193,7 +1193,7 @@ In regards to the specific incident described, I could not find how it ended. In
 <compare>
 <james span=2 {% include timecode %}> 
 
-\[On screen, footage of the State Theater, as an example. James adds the titles]: "<mark num=1>Gustaf Grundgens</mark>" "A gay man who <mark fc=false num=1>Hitler made the Director of the state theater</mark>."
+<u>[On screen, footage of the State Theater, as an example. James adds the titles]: "<mark num=1>Gustaf Grundgens</mark>" "A gay man who <mark fc=false num=1>Hitler made the Director of the state theater</mark>."</u>
 
 <mark>One group that emerged untouched were some of Germany's most prominent and open homosexuals - artists who had obtained the protection of high Nazi officials,</mark> <mark fc=false>sometimes even Hitler himself. Reportedly after a long conversation with Himmler, Hitler</mark> <mark num=3>advised that actors and other artists could be arrested for offenses against paragraph 175 only with his personal consent.</mark> 
 
@@ -1366,11 +1366,11 @@ And so <mark>on November 15, 1941, Himmler issued the Fuhrer’s Decree Relating
 <compare>
 <james span=3 {% include timecode %}> 
 
-\[James does math on screen]: "2,400,000" "25,000" "3,976"
+<u>[James does math on screen]: "2,400,000" "25,000" "3,976"</u>
 
 <mark>According to statistics compiled by the Nazis and discovered after the war’s end,</mark> there were roughly 2.4 million teenage boys who were arrested under various charges, yet only 25,000 of those cases were crimes against Paragraph 175, and of that only 3,976 were convicted,</mark> essentially <mark stat:id="m-context">47 out of every 10,000</mark>.<sup cn>bad math</sup> 
 
-\[On screen]: "47 / 10,000"
+<u>[On screen]: "47 / 10,000"</u>
 
 <mark>This was embarrassing; Schirach, like Himmler, was convinced that gays formed a greater portion of the criminal population. Still more embarrassing proved to be a second inquiry into same-sex felonies within the Hitler Youth:</mark> <mark fc=false>15% of upper management. Schirach's closest confidantes had been discovered committing homosexual acts, and the organization hid it from public view. In fact, gays in most parts of the Nazi military machine were excused when caught having gay sexual encounters.</mark> But not all of them were so lucky. 
 
@@ -1851,7 +1851,7 @@ I can't find anything about [Buchenwald](https://en.wikipedia.org/wiki/Buchenwal
 
 <mark>Most of the victims of the Holocaust were freed after the war was over.</mark>
 
-Most. [Over black, to emphasized the point.]
+Most. <u>[Over black, to emphasize the point.]</u>
 
 <mark>The Americans and Soviets helped to free them and tried to restore Germany to order and safety. Prisoners tried to find surviving family members and go back to their hometowns. It was disorienting after being in the camps for so long and seeing all of the horrors, to go back to a world that did not yet know what had happened, let alone understand.</mark>
 
@@ -2039,7 +2039,9 @@ In many ways, the spectres of the Third Reich still haunt us. The spectres begin
 
 > "It could never happen here." 
 
-> [and] "Never again." 
+&mdash; and &mdash;
+
+> "Never again." 
 
 </james>
 <from></from>
@@ -2072,7 +2074,7 @@ We must act... when we say... "Never again."
 <compare>
 <credits class = "closing">
 
-\[Scrolling over black and gentle, hopeful piano music]:
+<u>[Scrolling over black and gentle, hopeful piano music]:</u>
 > This video is dedicated to everyone  
 > who lost their lives to Nazi hatred.
 > 

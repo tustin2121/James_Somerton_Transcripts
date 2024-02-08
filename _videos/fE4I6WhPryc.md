@@ -232,7 +232,7 @@ But specifically why are we talking about *this*, when the image in the *thumbna
 <compare>
 <credits {% include timecode %}>
 
-\[Over spooky music and visuals]
+<u>[Over spooky music and visuals]</u>
 
 > James Somerton  
 Presents
@@ -249,7 +249,7 @@ Nick Herrgott & James Somerton
 > Executive Producers  
 [Five patron names]
 
-\[Sudden music shift in tone and a different font]
+<u>[Sudden music shift in tone and a different font]</u>
 
 > Edited and Directed by  
 James Somerton
@@ -446,7 +446,7 @@ Who *is* Brandon Rogers?
 
 Brandon Rogers is a YouTuber who's been around since the site became a thing, joining the platform in 2006. He's best known for satirical skits where he plays a multitude of characters. Characters that are crass, offensive, arrogant, repulsive, aggressive, unsavory, kind, caring, touching, and-- wait, what the hell is this?
 
-\[Grabs a folder off his desk, opens it and reads it.]
+<u>[Grabs a folder off his desk, opens it and reads it.]</u>
 
 You can't be "offensive" *and* "touching"! ...But apparently, he is. 
 
@@ -553,7 +553,7 @@ Make 2023 the first year where we stopped saying that one rogue queer with no st
 
 Meanwhile, have we really sat down and asked ourselves if playing to "straight standards" is a fantastic idea. And when I say straight, I do mean cisgender and heterosexual. I do acknowledge that a lot of trans people are heterosexual. But-- 
 
-\[On screen]: “SARCASM” 
+<u>[On screen]:</u> “SARCASM” 
 
 --like a bisexual person telling everyone they're gay just to save time, I have places that I'm trying to go with this.
 
@@ -593,7 +593,7 @@ But most importantly, all of his characters, no matter how outrageous, are indic
 <compare>
 <clip {% include citation for=page.cite.clips.brandon_rogers %}>
 
-[Clip from Roger’s video]
+<u>[Clip from Roger’s video]</u>
 
 “Where did you get vodka? One more time in Mama's mouth.”
 
@@ -772,7 +772,7 @@ Okay I have some filmmaker stuff I need to get off my chest: *Bros* was shot wit
 
 And they *messed it up!* While I was watching it, I noticed that the image wasn't de-squeezed properly! It's nothing that literally, like, *anyone* would notice except people who know what to look for. But seriously, this is not a movie that requires fancy camera lenses used to shoot movies like *Lawrence of Arabia* and *The Lord of the Rings!* 
 
-[Exasperated exhale] Anyway.
+<u>[Exasperated exhale]</u> Anyway.
 
 </james>
 <from></from>
@@ -896,7 +896,7 @@ An entire movie designed to sell Lightning McQueen merchandise, to have colorful
 <compare>
 <james {% include timecode %}>
 
-\[Soft hopeful music in the background]
+<u>[Soft hopeful music in the background]</u>
 
 Having lived as a gay man for thirty-some-odd years now... I've seen the community go through some big changes. When I was a kid in the 90s, I remember seeing arguments and debates over "Don't Ask, Don't Tell" and the Defense of Marriage Act in the United States. 
 
@@ -954,7 +954,7 @@ It's telling, I think, that once protease Inhibitors had reached the market and 
 
 As the brilliant [Fran Leibowitz](https://en.wikipedia.org/wiki/Fran_Lebowitz) has said *many* times, <mark yikes>"the first people who died of AIDS were the interesting ones: the artists." There's a reason that Art became *Ghostbusters* and *CATS* in the 1980s. Because all of the really *talented* artists were dying. The rule-breakers. Ones who weren't afraid to shake things up.</mark> And the audience died with them.
 
-\[Quote on screen, read out]:
+<u>[Quote on screen, read out]:</u>
 > "<span stat:id="changed-quote">Now, we don't have any kind of discerning audience.</span> When that audience died &mdash; and that audience died in five minutes. Literally, people didn't die faster in a war. And it allowed of course, like the second, third, fourth tier to rise up to the front.
 >
 > Because of course, the first people who died of AIDS were the people who... I don't know how to put this... got laid a lot. OK. Now imagine who didn't get AIDS. That's who was then lauded as like &mdash; the great artists.”  
@@ -1107,7 +1107,7 @@ It's time for us to start considering whose opinions about us actually matter an
 <compare>
 <credits {% include timecode %} class="closing">
 
-[Patreon credits roll over black and ["Night Out In LA" by Mdstocksound](https://mdstocksound.com/royalty-free-music/night-out-in-la-60sec/)]
+<u>[Patreon credits roll over black and ["Night Out In LA" by Mdstocksound](https://mdstocksound.com/royalty-free-music/night-out-in-la-60sec/)]</u>
 
 </credits>
 </compare>

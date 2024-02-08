@@ -80,7 +80,7 @@ This video is brought to you by Squarespace
 <compare>
 <credits {% include timecode %}>
 
-\[On screen]:
+<u>[On screen]:</u>
 
 > Spoilers for:  
 EVERYTHING
@@ -110,10 +110,10 @@ The TV show expands on his character's backstory. In episode 3, we see the full 
 <comment id="bill_frank">
 {% include header name="quinnelope" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1191960746263859261" %}
 
-\[Quoted, formatted for readability]
->  James is misrepresenting Bill in the last of us (the video game). I've watched full playthroughs of both games & the HBO show.
-> 
-> Bill and Frank were almost entirely rewritten for the show - if I remember correctly, in the game, it's implied that their relationship was strained. The player can find Frank's last words (he left a note behind), and he was frustrated (or angry?) with Bill. Their relationship seems to have embittered Bill by the time the player meets him, and it isn't even confirmed that Bill and Frank were romantic partners (ellie finding one of Bill's gay erotic magazines, if that's what they're called, is also the only indication of either character's sexuality). None of these aspects were part of the show's versions of these characters - the main idea that the video game and show share is just the basic idea of Bill being a loner and a survivalist.
+<u>[Quoted, formatted for readability]</u>  
+James is misrepresenting Bill in the last of us (the video game). I've watched full playthroughs of both games & the HBO show.
+
+Bill and Frank were almost entirely rewritten for the show - if I remember correctly, in the game, it's implied that their relationship was strained. The player can find Frank's last words (he left a note behind), and he was frustrated (or angry?) with Bill. Their relationship seems to have embittered Bill by the time the player meets him, and it isn't even confirmed that Bill and Frank were romantic partners (ellie finding one of Bill's gay erotic magazines, if that's what they're called, is also the only indication of either character's sexuality). None of these aspects were part of the show's versions of these characters - the main idea that the video game and show share is just the basic idea of Bill being a loner and a survivalist.
 
 </comment>
 </compare>
@@ -155,7 +155,7 @@ So let's talk about some spoilers. But first how about some self-promotion and a
 <compare>
 <credits class="opening">
 
-\[Over black:]
+<u>[Over black:]</u>
 
 > James Somerton  
 Presents
@@ -164,7 +164,7 @@ Presents
 Nick Herrgott &  
 James Somerton  
 
-\[Over blurred out footage of spoilery moments in movies]:
+<u>[Over blurred out footage of spoilery moments in movies]:</u>
 
 > EXECUTIVE PRODUCERS  
 [Eight patron names]
@@ -688,7 +688,7 @@ If learning a plot beat spoils a *whole movie* for you, it's *spitting in the fa
 <compare>
 <credits {% include timecode %}>
 
-[Patron names scroll quickly over a black screen and ["Discovery" by Risian](https://soundcase.com/track/7009/discovery).]
+<u>[Patron names scroll quickly over a black screen and ["Discovery" by Risian](https://soundcase.com/track/7009/discovery).]</u>
 
 </credits>
 </compare>

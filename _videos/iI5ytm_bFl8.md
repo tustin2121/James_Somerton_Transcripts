@@ -71,9 +71,9 @@ This video was released in the wake of his pleading video where he lied to every
 <compare>
 <credits class="opening">
 
-\[Series Ident]: "Pocket Gays; Short Videos, Big Subjects"
+<u>[Series Ident]:</u> "Pocket Gays; Short Videos, Big Subjects"
 
-\[Harry Potter style title]:
+<u>[Harry Potter style title]:</u>
 
 > Fantastic Bombs and the SECRET CRIMES of GRINDLEDORE
 
@@ -88,7 +88,7 @@ So, I watched The Secrets of Dumbledore (twice) so you don't have to.
 
 I wasn’t going to watch it, but my morbid curiosity to see what Rowling had shat out this time got the better of me. So I hunted around online for a watchable video-- *through entirely legal means.* And honestly, with the high quality of phone cameras these days, I expect better from these things. Then sat down to watch the movie of which critics have said: 
 
-\[Text on screen:]
+<u>[Text on screen:]</u>
 
 > “A world full of wizards has never felt less magical” -Detroit News
 
@@ -114,7 +114,7 @@ Okay, so, full-on spoilers-synopsis[^wiki-check] ahead. But honestly… you’re
 
 [^wiki-check]: There was a claim that plot summary section of this video was plagiarized from Wikipedia. However, this was checked against [a revision of the webpage from April 2022](https://en.wikipedia.org/w/index.php?title=Fantastic_Beasts:_The_Secrets_of_Dumbledore&oldid=1083018132), and no corelation was found. Any similarities were made after this video was released.
 
-\[Begins showing rather bad quality bootleg footage of the movie.]
+<u>[Begins showing rather bad quality bootleg footage of the movie.]</u>
 
 The movie starts out with a quick scene between Dumbledore and Grindelwald where Dumbledore states clearly, for the first time, that he was in love with Grindelwald. He repeats this statement later on. All together this takes up six seconds of screen time, which has been edited out for the Chinese release. Shocker. 
 
@@ -179,7 +179,7 @@ Basically the second act is for action scenes and lots of slow motion to enterta
 <compare>
 <clip {% include citation for=page.cite.clips.futurama %}>
 
-Zoidberg: "I'm going for a scuttle." [Which he does.]
+Zoidberg: "I'm going for a scuttle." <u>[Which he does.]</u>
 
 </clip>
 </compare>

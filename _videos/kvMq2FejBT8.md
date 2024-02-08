@@ -90,7 +90,7 @@ A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 <compare>
 <james {% include timecode %}>
 
-\[On Screen]: "Health Warning: Flashing lights in some scenes. Because anime."
+<u>[On Screen]: "Health Warning: Flashing lights in some scenes. Because anime."</u>
 
 This is what happened, more or less. The magical girl trope of anime hit a fever pitch in the 1990s with the international phenomenon of Sailor Moon, which typified the style. Both in homage and parody, these tropes have been recreated by artists ever since and have also become an entire genre in their own right.
 
@@ -141,7 +141,7 @@ Several of the members of Be-Papas had previously worked together: <mark>Hasegaw
 
 Now initially <mark>Ikuhara envisioned Utena as a mainstream shōjo</mark> <mark>series, hoping to ride the coattails of Sailor Moon's commercial success</mark>. In fact, <mark>they began with a concept titled "Revolutionary Girl Utena Kiss", featuring a group of valiant female warriors known as the Neo Elegansar!</mark>
 
-\[meme cutaway]: "Eleganza Extravaganza!"
+<u>[meme cutaway]:</u> "Eleganza Extravaganza!"
 
 <mark>Battling the enigmatic "end of the world"</mark>. But as the creativity flowed, they settled on a different path: <mark>a romantic action show starring a pretty girl who wears boys clothes</mark>. The school setting was a cornerstone of anime. But <mark>other elements like the duels and the mysterious Rose Bride were yet to enter the plot</mark>.
 
@@ -280,7 +280,7 @@ As an audience, you really don't have any idea how important this is until like 
 
 Spying a shy and reclusive Anthy Himemiya being slapped by her boyfriend, she intervenes on what she believes is Anthy's behalf.
 
-\[meme cutaway]: Homer (slaps Moe with glove): "I challenge you to a duel!"
+<u>[meme cutaway]:</u> Homer (slaps Moe with glove): "I challenge you to a duel!"
 
 </james>
 <from></from>
@@ -313,7 +313,7 @@ The key to these duels are the signet rings, which at present only members of th
 <compare>
 <clip {% include citation for=page.cite.clips.utena %}>
 
-\[Added by James on screen]: "Meanwhile, this was fine."
+<u>[Added by James on screen]: "Meanwhile, this was fine."</u>
 
 Student council president Touga Kiryuu: "Nanami, you like girls more than boys?"
 
@@ -324,7 +324,7 @@ feel, going against God's plan is--"
 
 Nanami: "What are you implying, Big Brother?! You *know* you're the only one that I love!"
 
-[Yellow balloon floats by with a sound effect]
+<u>[Yellow balloon floats by with a sound effect]</u>
 
 </clip>
 </compare>
@@ -347,7 +347,7 @@ In the first arc, we see the various reasons that the members of the student cou
 
 The first arc is privy to a number of... oddities. Outside of the premise of dueling in the upside down floating Castle in the Sky where Eternity lies with the power to bring Revolution to the world, Touga's younger sister Nanami seems to have a bit of a... complex. Like a very strong fixation that by far exceeds... protective. (But don't worry it does get weirder.)
 
-\[Cutaway clip from Utena]
+<u>[Cutaway clip from Utena]</u>
 
 </james>
 <from></from>
@@ -380,7 +380,7 @@ The other primary element of the second Arc is introducing Anthy's brother Akio.
 
 Akio: "Anthy... come here..."
 
-\[Anthy slowly turns to the camera]
+<u>[Anthy slowly turns to the camera]</u>
 
 </clip>
 </compare>
@@ -433,7 +433,7 @@ Guarding Anthy from her brother Utena is stabbed in the back by... Anthy. Who up
 
 Akio: "And now she actually enjoys living in this pathetic tortured role. She can no longer be happy... except like this.
 
-\[Shot of Anthy, where James superimposed "The face of 'enjoyment' \*Sarcasm\*]
+<u>[Shot of Anthy, where James superimposed "The face of 'enjoyment' \*Sarcasm\*]</u>
 
 </clip>
 </compare>
@@ -660,7 +660,7 @@ He's kicking a helmet because he's frustrated that he's misplaced his Hobbits an
 <compare>
 <clip {% include citation for=page.cite.clips.lotr %}>
 
-\[Aragorn kicking an orc helmet and screaming.]
+<u>[Aragorn kicking an orc helmet and screaming.]</u>
 
 </clip>
 </compare>
@@ -685,7 +685,7 @@ TL;DR: if there's a rule, then it would not be art. The quality of an artist is 
 
 Though in Utena, there seems to be one side character who is able to appropriately frame the realism from the symbolism. Though she's in less than about half of the total episodes. Utena's best friend Wakaba is the most important character for discerning what is meant to be symbolic. Wakaba is a regular girl whose--
 
-\[Meme cutaway]: "incredibly gay"
+<u>[Meme cutaway]:</u> "incredibly gay"
 
 --and not at all involved in the component of dueling that takes place in the school. Wakaba sees conflict between the dualists but not the duels themselves. She's the cipher character with whom the audience can appreciate what the average student would see. I would argue that whatever Wakaba sees is what the audience can take for granted is the reality of what's transpiring. Everything else, including very personal moments (such as Anthy's attempted un-aliving) and even including things that happen in the real world (such as school teacher sexual exploiting his female students) can be read as symbolic representations of something more abstract.
 
@@ -724,7 +724,7 @@ Not that Utena doesn't have some absurd things. But even something seemingly ben
 
 Anthy (putting a mongoose in a dresser drawer): "Okay, Mr Mongoose, we're studying, so I'll have to see you later. Did you like eating that mean old snake?"
 
-\[Student in the foreground faints.]
+<u>[Student in the foreground faints.]</u>
 
 </clip>
 </compare>
@@ -931,7 +931,7 @@ Again, rather than a singular individual, he could represent a broader scope of 
 
 Nanami: "Oh! This can't be! I was so close to becoming the idol of the school! I can't seem to think clearly any*moooooooore.* Am I having deluuuuuuuusions? Do I need my appendix remoooooooooved? Bring me a blanket someone and suuuuuuuuu--"
 
-\[slap!] "Shut up!"
+<u>[slap!]</u> "Shut up!"
 
 </clip>
 </compare>
@@ -982,7 +982,7 @@ Though the student council postures itself as a political body, they do amount t
 
 From the student council's introductory monologue, it may seem like something a villain would say to announce themselves.
 
-\[Meme cutaway:] Jesse: "Prepare for trouble!" James: "Make it double!"
+<u>[Meme cutaway:]</u> Jesse: "Prepare for trouble!" James: "Make it double!"
 
 However, the more we begin to empathize with the student council the more we begin to see this monologue as a desperate bid to take take control of their anxieties. 
 
@@ -1113,7 +1113,7 @@ Utena's princely quest is not just to rescue Anthy, but to rescue all the damsel
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon names roll over the ending credits song for Utena's final episode of the English Dub.
+<u>[Patreon names roll over the ending credits song for Utena's final episode of the English Dub.]</u>
 
 </credits>
 </compare>

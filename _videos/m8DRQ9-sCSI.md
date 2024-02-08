@@ -98,7 +98,7 @@ This video contains copyrighted material. The use of which has not always been s
 <compare>
 <credits class="opening">
 
-\[Piano music playing over fancy title screen]:
+<u>[Piano music playing over fancy title screen]:</u>
 
 > Unrequited  
 The  
@@ -151,7 +151,7 @@ It's like the cinematic equivalent of edging without the money shot.
 <compare>
 <james {% include timecode %}>
 
-\[Text printing on screen (typewriter effect)]:
+<u>[Text printing on screen (typewriter effect)]:</u>
 
 > "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
@@ -190,7 +190,7 @@ This wasn't the only representation though. <wbr on />The 1927 film *Wings* feat
 <from></from>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on />\[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]<wbr off />
+<wbr on /><u>[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]</u><wbr off />
 
 </clip>
 </compare>
@@ -237,7 +237,7 @@ Starting in 1922, after the earliest of these morally questionable films had bec
 
 In 1927, Hayes strongly suggested Studios form a committee to discuss film censorship. The heads of MGM and Fox complied and created a list of "don't"s and "be careful"s. This oddball list included things like:
 
-\[Displayed on screen, read out word for word]:
+<u>[Displayed on screen, read out word for word]:</u>
 
 > Pointed profanity -- by either title or lip -- this includes the words "God", "Lord", "Jesus", "Christ" (unless they be used reverently in connection with the proper religious ceremonies), "hell", "damn", "Gawd" and every other profane and vulgar expression however it may be spelled;
 
@@ -388,7 +388,7 @@ Jim has feelings for Plato too, although the main narrative is him falling in lo
 
 Such homoerotic bonding couldn't be spoken about in the repressive 1950s. Being gay was still illegal in most of the country, and at minimum frowned upon everywhere else, and the censors of the day took pains to keep it that way. A production code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that--<wbr off />
 
-\[on screen, radio filter]:
+<u>[on screen, radio filter]:</u>
 > "it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim."
 
 </james>
@@ -398,7 +398,7 @@ Such homoerotic bonding couldn't be spoken about in the repressive 1950s. Being 
 <compare>
 <clip {% include citation for=page.cite.clips.rebel_without_cause %}>
 
-<wbr on />\[Plato and Jim close a garage door]
+<wbr on /><u>[Plato and Jim close a garage door]</u>
 
 Plato: "Hey, you want to come home with me? I mean, there's nobody home at my house and, heck, I'm not tired. Are you?"
 
@@ -441,7 +441,7 @@ Vidal: "So, uh, Willie stared at me, face gray, and I said 'well, I'll never use
 
 Vidal: "Willie said 'Gore, this is Ben-Hur. A Tale of the Christ, I think is the subtitle,' he said rather vaguely looking around. And Willie finally said, 'Well, it's certainly better than what we've got. We'll try.'"
 
-\[Playing clip from Ben-Hur, music swelling]
+<u>[Playing clip from Ben-Hur, music swelling]</u>
 
 Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
 
@@ -451,7 +451,7 @@ Vidal (being interviewed): "He said, 'Have you talked to anybody about this?' an
 
 Vidal: "And Steven Boyd is acting it *to pieces*. There are looks that he gives him that are just *so clear*."
 
-\[Playing clip from Ben-Hur]
+<u>[Playing clip from Ben-Hur]</u>
 
 Messala: (giving one of said looks) "I said I'd come back."
 
@@ -470,7 +470,7 @@ Yes, James just spliced a whole, uncut two minutes of the documentary into his v
 <compare>
 <james {% include timecode %}>
 
-\[Abrupt cut back to James's face]
+<u>[Abrupt cut back to James's face]</u>
 
 Ben-Hur wasn't the only surprising movie you'd find queer coding in as the production code began to lose its grip on Hollywood. westerns were also not immune.
 
@@ -478,18 +478,18 @@ Ben-Hur wasn't the only surprising movie you'd find queer coding in as the produ
 <from></from>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
-\[Black and white cowboy movie]
+<u>[Black and white cowboy movie]</u>
 
 Cowboy A: "Can I see it?"
 
-[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]
+<u>[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]</u>
 
 B: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice. You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
 
 </clip>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
 
-\[Technicolor western movie]
+<u>[Technicolor western movie]</u>
 
 Cowgirl A: (staring at girl in ballerina dress up and down in awe) "Gosh almighty... You're the perttiest thing I ever seen. Never know a woman could look like that." (Comes forward) "Say, how do you hold that dress up there?!"
 

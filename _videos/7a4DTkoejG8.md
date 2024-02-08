@@ -139,7 +139,7 @@ I-- I-- I-- I see that sort of... angle, however my justification--
 <compare>
 <james {% include timecode %}>
 
-I'm not saying I agree with that [Inaudible], by the way.
+I'm not saying I agree with that <u>[Inaudible]</u>, by the way.
 
 </james>
 </compare>
@@ -160,7 +160,7 @@ We should just call this "Disclaimer: the Podcast".
 <compare>
 <nick>
 
-\[Laughter]
+<u><u>[Laughter]</u></u>
 
 My-- My organization-- My sort of qualification for this (and we've talked about this and you agree) is, um... that the queer community is a community of people established by a means of exclusion. Uh, we weren't collected in the hegemony, so we kind of banded together.
 
@@ -440,7 +440,7 @@ That's the *assumption* from the masses.
 <compare>
 <nick>
 
-Yes, yes, sorry. [laughs]
+Yes, yes, sorry. <u>[laughs]</u>
 
 </nick>
 </compare>
@@ -497,15 +497,14 @@ If you want a more in-depth look at how kink and asexuality go together, I recom
 </comment>
 <james {% include timecode %}>
 
-Not *any* asexual person! [laughter] I mean there's plenty of asexual people who have no interest in any sex.
+Not *any* asexual person! <u>[laughter]</u> I mean there's plenty of asexual people who have no interest in any sex.
 
 </james>
 </compare>
 <compare>
 <nick>
 
-That's true, there is- within the community there is kind of a marked, um, acknowledgment, a very quiet
-acknowledgment that some of the kinkiest people you ever meet are identifying as asexual. Uh, cause they keep their sex up here. [points to their own head.] Like, they just don't let it get out of their head. It's-
+That's true, there is- within the community there is kind of a marked, um, acknowledgment, a very quiet acknowledgment that some of the kinkiest people you ever meet are identifying as asexual. Uh, cause they keep their sex up here. <u>[points to their own head]</u> Like, they just don't let it get out of their head. It's-
 
 </nick>
 </compare>
@@ -519,7 +518,7 @@ It's- it's all internal and because it never has to exist in real life, they nev
 <compare>
 <nick>
 
-I'm pretty sure that a very strong component of fanfiction, like slash fiction, erotic fan fiction, um, libraries are contributed to by asexual people. [laughter]
+I'm pretty sure that a very strong component of fanfiction, like slash fiction, erotic fan fiction, um, libraries are contributed to by asexual people. <u>[laughter]</u>
 
 </nick>
 </compare>
@@ -533,7 +532,7 @@ Um, so we're gonna play a game and assume that this video gets monetized, and fo
 <compare>
 <nick>
 
-Fancy YouTube. [laughs]
+Fancy YouTube. <u>[laughs]</u>
 {% assign timecode = "11:12" %}
 
 </nick>
@@ -658,14 +657,14 @@ No, maybe, something like that but it's- there's a specific term for it for peop
 <compare>
 <james {% include timecode %}>
 
-I need like a "bonk", I could go like, [mimes hitting Nick with a newspaper] bad!
+I need like a "bonk", I could go like, <u>[mimes hitting Nick with a newspaper]</u> bad!
 
 </james>
 </compare> 
 <compare>
 <nick>
 
-[laughs] Well, listen what that is, I'm never dishonest about it. I sort of am upfront and I say, like, "I'm not really interested in meeting up," um... but I love doing cyber, I love talking to people, and regardless of that there is still an ongoing expectation that, "oh we're gonna meet up eventually, he's just saying he's not into meeting people so he can bypass all of the undesirable-- whoops- I'll bypass all the undesirable gays!" Um, and when I was kind of coming of age on gay dating--
+<u>[laughs]</u> Well, listen what that is, I'm never dishonest about it. I sort of am upfront and I say, like, "I'm not really interested in meeting up," um... but I love doing cyber, I love talking to people, and regardless of that there is still an ongoing expectation that, "oh we're gonna meet up eventually, he's just saying he's not into meeting people so he can bypass all of the undesirable-- whoops- I'll bypass all the undesirable gays!" Um, and when I was kind of coming of age on gay dating--
 
 </nick>
 </compare>
@@ -685,7 +684,7 @@ And that isn't-- that's the first I've ever heard about that just today, the "sc
 
 So, when you would kind of-- when it would become a- became *apparent* that you weren't really as into hookup culture as they wanted to be, or thought you would be, they kind of just abandoned you. Um, And when you *were* up front and you said like, "I'm not really into meeting up, I just want to talk", I think they got the vibes that I was just consistently going to be putting them off, or that they would eventually pass the test one day, and you know, would get to do the physical stuff. 
 
-But it took me a long time to sort of be comfortable with like being not as... intimately sexual with people. And I kind of, for the sake of being polite, I forced myself into a lot of kind of hookups that I wasn't really that interested in, or that I knew I wasn't going to have a fun time from the beginning. Not that there was any consent problems, it's just that I wasn't really into it, and I was kind of like-- it was kind of like, you know, laying there like a fish. [laughs]
+But it took me a long time to sort of be comfortable with like being not as... intimately sexual with people. And I kind of, for the sake of being polite, I forced myself into a lot of kind of hookups that I wasn't really that interested in, or that I knew I wasn't going to have a fun time from the beginning. Not that there was any consent problems, it's just that I wasn't really into it, and I was kind of like-- it was kind of like, you know, laying there like a fish. <u>[laughs]</u>
 {% assign timecode = "17:00" %}
 
 </nick>
@@ -883,7 +882,7 @@ I wear costumes.
 <compare>
 <nick>
 
-[Laughing] You wanted to do that for so long! You finally got to! 
+<u>[Laughing]</u> You wanted to do that for so long! You finally got to! 
 
 </nick>
 </compare>
@@ -897,7 +896,7 @@ I read a script with no glasses and I am *blind* without these glasses.
 <compare>
 <nick>
 
-[Laughing] That's true! That's true! That's true! 
+<u>[Laughing]</u> That's true! That's true! That's true! 
 
 Um... and so it's really just hard to get across the... the weird little nuances of "yes, I want to meet people, I'd like to have these experiences, but like I want to have them my way. I want to have them in a way that I'm -I'm going to enjoy." And it's like, I'm also not opposed to negotiation.
 
@@ -980,7 +979,7 @@ The loveliness of shooting with three cameras and an external microphone.
 <compare>
 <nick>
 
-[laughs] Growing pains! Um, "asexual enough," and that is a question for the ages in the Ace Community. Uh, 'cause it is... large in the sense of there are a lot of people in it and not so much large in the sense that ev--
+<u>[laughs]</u> Growing pains! Um, "asexual enough," and that is a question for the ages in the Ace Community. Uh, 'cause it is... large in the sense of there are a lot of people in it and not so much large in the sense that ev--
  
 
 </nick>
@@ -1125,7 +1124,7 @@ For anyone not in the know, there's a scene in the movie *Deep Throat* which is 
 <compare>
 <nick>
 
-Our Lord and savior Linda Lovelace. [laughs]
+Our Lord and savior Linda Lovelace. <u>[laughs]</u>
 
 </nick>
 </compare>
@@ -1153,7 +1152,7 @@ Changed the world. Her and Indira Gandhi.
 <compare>
 <nick>
 
-[laughs] Yeah, so like I-- but then again, like there I am again, like a few days later being like, developing these very vivid fantasies. Um, and then once again just-- 
+<u>[laughs]</u> Yeah, so like I-- but then again, like there I am again, like a few days later being like, developing these very vivid fantasies. Um, and then once again just-- 
 
 </nick>
 </compare>
@@ -1238,7 +1237,7 @@ It's like women not having orgasms. Nobody talks about it, and so, so many women
 <compare>
 <nick>
 
-Just the fact that we didn't know that the clitoris was as large as it is until like the last 10 years, because we didn't research the inside. [laughs] No one bothered to research what the inside, what the internal elements-- 
+Just the fact that we didn't know that the clitoris was as large as it is until like the last 10 years, because we didn't research the inside. <u>[laughs]</u> No one bothered to research what the inside, what the internal elements-- 
 
 </nick>
 </compare>
@@ -1259,7 +1258,7 @@ Right!?
 <compare>
 <james {% include timecode %}>
 
-It's not hidden. It-- anyway. [laughs] Um, lesbians have been finding it for millennia. 
+It's not hidden. It-- anyway. <u>[laughs]</u> Um, lesbians have been finding it for millennia. 
 
 </james>
 </compare> 
@@ -1280,7 +1279,7 @@ Oh, a smarty pants.
 <compare>
 <nick>
 
-Yeah, uh... he plays Magic of the Gathering now. [laughs] 
+Yeah, uh... he plays Magic of the Gathering now. <u>[laughs]</u> 
 
 </nick>
 </compare>
@@ -1294,7 +1293,7 @@ As you would do.
 <compare>
 <nick>
 
-[laughs] A legacy format where all the queer-ass furries and uh, communists are. Uh, and aegosexual actually means sexuality without the sex. A-*ego*-sexuality. Um, so I like to participate in sex, as a living sort of subject. I examine myself as a fantasy person. So that's-- that's the context that I like having sex, and that's why I like, don't like doing it that often, because the actual sensation of having it is less than the imagined sensation of what it appears or how it appears to be. Um... 
+<u>[laughs]</u> A legacy format where all the queer-ass furries and uh, communists are. Uh, and aegosexual actually means sexuality without the sex. A-*ego*-sexuality. Um, so I like to participate in sex, as a living sort of subject. I examine myself as a fantasy person. So that's-- that's the context that I like having sex, and that's why I like, don't like doing it that often, because the actual sensation of having it is less than the imagined sensation of what it appears or how it appears to be. Um... 
 
 </nick>
 </compare>
@@ -1336,7 +1335,7 @@ Or they did-- or they would and then it would ruin the fantasy because then they
 <compare>
 <nick>
 
-Yeah, when I say that asexual people can be some of the horniest and kinkiest people you'll ever encounter, it's because that outside of the puritism-- purism of asexuality, there are a myriad of different ways that the human brain is just really weird about sex. Not weird as in bad, but weird as in like, it's... it's complicated, it's complicated. It's uh, "she's *complex*." [laughs] 
+Yeah, when I say that asexual people can be some of the horniest and kinkiest people you'll ever encounter, it's because that outside of the puritism-- purism of asexuality, there are a myriad of different ways that the human brain is just really weird about sex. Not weird as in bad, but weird as in like, it's... it's complicated, it's complicated. It's uh, "she's *complex*." <u>[laughs]</u> 
 
 But um, so yeah like there are-- these are things that are the subject of research and the subject of academic fascination, even if there isn't really a lot of academic interest in these things. Some people are and we're gonna see start seeing a little bit more of this, but there is a bit of a distinction between these-- between, you know, these sort of more psychological elements of asexual and the more self-identifying ones which, you know, there are a *legion* of flags, um because you know, the asexual community has been kind of... ignored, like we said, by the queer community at large, so I feel like there is a... overtendency to self-identify, and to sort of construct a... version of asexuality around specific, you know, circumstances. 
 
@@ -1359,7 +1358,7 @@ Um, and I really hope we can start moving towards that, because I hate seeing so
 > 
 > **Evie:** Yeah. I left that in my comment [on James's Ace video] and was like, “Oh, remember this?”
 >
-> **Courtney:** Oh gosh! I joined some Asexual Facebook groups when I joined Facebook, and I was like, *immediately* after I clicked away from that group, within *minutes* of joining it, it was like, “Here is libido medication for women!” just targeted ad at me every single day, and it’s like, [sighs].
+> **Courtney:** Oh gosh! I joined some Asexual Facebook groups when I joined Facebook, and I was like, *immediately* after I clicked away from that group, within *minutes* of joining it, it was like, “Here is libido medication for women!” just targeted ad at me every single day, and it’s like, <u>[sighs]</u>.
 >
 > **Courtney:** And so yeah, it’s kind of also, you know, what is conversion therapy? And I do think that even Gay men who have not experienced conversion therapy firsthand themselves, sometimes – and I’m not saying that this is specifically James or Nick I’m just talking broadly speaking – a lot of people don’t tend to really even know what conversion therapy looks like or what the full scope of it can be. Because I think – well, *especially*, *especially* straight people just think of it as, like, the Christian camps you get sent to.
 >
@@ -1397,7 +1396,7 @@ Very different.
 <compare>
 <nick>
 
-Uh, and so like, there is-- it is important to recognize the difference in discrimination and the difference in the dynamics, of social dynamics as they fit into the society at large but-- And so I feel like if, if your version of this thing doesn't really change the dynamic of persecution against you, or the manifestation of your relationship with the culture, then I don't- I don't feel like it's... like, it's fine if you want to kind of have this sort of label on yourself, but make sure you're putting the label there yourself, don't let anyone else label you but you. Um...that's fine, but I feel like a formal definition or distinction of this kind of does take away from a lot of the discussion especially when you get cis people- straight people- cis straight people who are like, [in a mocking voice] "There are so many more letters than there used to be, I just can't keep up," and it's like, don't try. [laughs]
+Uh, and so like, there is-- it is important to recognize the difference in discrimination and the difference in the dynamics, of social dynamics as they fit into the society at large but-- And so I feel like if, if your version of this thing doesn't really change the dynamic of persecution against you, or the manifestation of your relationship with the culture, then I don't- I don't feel like it's... like, it's fine if you want to kind of have this sort of label on yourself, but make sure you're putting the label there yourself, don't let anyone else label you but you. Um...that's fine, but I feel like a formal definition or distinction of this kind of does take away from a lot of the discussion especially when you get cis people- straight people- cis straight people who are like, <u>[in a mocking voice]</u> "There are so many more letters than there used to be, I just can't keep up," and it's like, don't try. <u>[laughs]</u>
 
 </nick>
 </compare>
@@ -1468,7 +1467,7 @@ Like the gold star gay thing.
 <compare>
 <nick>
 
-Yeah, the platinum star gay. [laughs] [in a mocking voice] "I had a C-section."  
+Yeah, the platinum star gay. <u>[laughs]</u> <u>[in a mocking voice]</u> "I had a C-section."  
 
 </nick>
 </compare>
@@ -1551,7 +1550,7 @@ Well, they're identified in the wiki as asexual, like they don't say it in the s
 <compare>
 <nick>
 
-[laughs] They cover *all* the sexualities.
+<u>[laughs]</u> They cover *all* the sexualities.
 
 
 </nick>
@@ -1730,7 +1729,7 @@ But yeah like-- and I've always kind of felt like there are ways-- instead of ha
 <compare>
 <james {% include timecode %}>
 
-And I think your opinion-- as an asexual person, your opinion on this matters more than mine does. [laughs]
+And I think your opinion-- as an asexual person, your opinion on this matters more than mine does. <u>[laughs]</u>
 
 </james>
 </compare> 
@@ -1766,7 +1765,7 @@ important, I think we need a *mix*, and that's the thing that, you know, cis str
 <compare>
 <nick>
 
-As a-- as a formula, because it's like, "as long as we do *this* then they'll be happy" and it's like, but you gotta do other things too. And it's like, "that's too much." Which- which-- and that's like the sort of thing, which representation do we use for this media, and it's like, you need to let a creative person do that, in which they point, they-- their heads start spinning around and they start throwing up um, pea soup. And God forbid let a creative person do something.[laughs]
+As a-- as a formula, because it's like, "as long as we do *this* then they'll be happy" and it's like, but you gotta do other things too. And it's like, "that's too much." Which- which-- and that's like the sort of thing, which representation do we use for this media, and it's like, you need to let a creative person do that, in which they point, they-- their heads start spinning around and they start throwing up um, pea soup. And God forbid let a creative person do something.<u>[laughs]</u>
 
 </nick>
 </compare>
@@ -1795,7 +1794,7 @@ And there are plenty of people out there who are asexual, who have stories to te
 <compare>
 <nick>
 
-Oh, asexuality is absolutely hilarious, I can-- everything that I've kind of said in here that's kind of like, "oh, poor Nick," no, it can be funny with a different-- [laughs]
+Oh, asexuality is absolutely hilarious, I can-- everything that I've kind of said in here that's kind of like, "oh, poor Nick," no, it can be funny with a different-- <u>[laughs]</u>
 
 </nick>
 </compare>
@@ -1811,7 +1810,7 @@ So that's the end of the first episode of Gays Behaving Badly!
 <compare>
 <nick>
 
-Yeah, tell us what you think, we know you will. [laughs]
+Yeah, tell us what you think, we know you will. <u>[laughs]</u>
 
 </nick>
 </compare>
@@ -1825,7 +1824,7 @@ Yeah, um, we know you will. Um, if you liked it, let us know in the comments, if
 <compare>
 <nick>
 
-[singing] "If you liked our show, tell everyone that. And if you think this sucks, keep your big--" [normal voice] It's from, it's the um...
+<u>[singing]</u> "If you liked our show, tell everyone that. And if you think this sucks, keep your big--" <u>[normal voice]</u> It's from, it's the um...
 
 </nick>
 </compare>

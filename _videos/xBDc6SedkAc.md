@@ -368,7 +368,7 @@ It is *technically* possible, but as of yet, no single tweet has been dug up tha
 <compare>
 <james {% include timecode %}>
 
-So why is it that they were perfectly fine with Nick and Charlie kissing up a storm on Heartstopper, writing fanfiction about it and creating *countless* fan edits on Tik Tok, but basically formed a covenant the minute Alex pushed Henry's knees up to his chest? I'd like to see the reaction to... well, any episode of *Queer as Folk*. 
+So why is it that they were perfectly fine with Nick and Charlie kissing up a storm on Heartstopper, writing fanfiction about it and creating *countless* fan edits on Tik Tok, but basically formed a covenant<sup class="add">[sic: joined a convent]</sup> the minute Alex pushed Henry's knees up to his chest? I'd like to see the reaction to... well, any episode of *Queer as Folk*. 
 
 Now was this just because they've never been exposed to the idea of gay sex before? Were they homophobic? Were they secret PragerU plants, out to kill the movie? Were they sex negative in general? Or...? Have we as a society simply conditioned a large swath of the populace to think of gays as completely nonsexual objects? Something that plenty of people like having around but keep at a distance just far enough away to not have to know too much about it.
 

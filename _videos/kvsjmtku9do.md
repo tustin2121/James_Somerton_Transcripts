@@ -66,7 +66,7 @@ This description has her playlist, so he must have been reminded to put it in at
 <compare>
 <credits {% include timecode %}>
 
-\[Black text over black background, drop shadow white]:
+<u>[Black text over black background, drop shadow white]:</u>
 
 > James Somerton  
 Presents
@@ -233,7 +233,7 @@ And we have hope.
 > Thank you to my wonderful patrons.  
 > For Giving me hope.
 
-[Patreon credits scroll by for ~3 minutes]
+<u>[Patreon credits scroll by for ~3 minutes]</u>
 
 </credits>
 </compare>

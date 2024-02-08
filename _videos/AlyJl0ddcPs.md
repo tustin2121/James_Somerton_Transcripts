@@ -63,10 +63,10 @@ And if you’d like to help us keep making queer content like this on Youtube, a
 <compare>
 <credits class="opening" {% include timecode %}>
 
-\[Over fancy red]:
+<u>[Over fancy red]:</u>
 > Spoilers
 
-\[Over black, zooming in]:
+<u>[Over black, zooming in]:</u>
 > It came  
 from the woods
 
@@ -436,7 +436,7 @@ Perhaps because I recognize a connection between this half-way-dead boy, his con
 <compare>
 <james>
 
-[Sponsor read]
+<u>[Sponsor read]</u>
 <!-- This video was brought to you by SquareSpace. SquareSpace is an all-in-one web design and hosting platform that makes it easy for you to create a website and market your brand. With industry-leading website templates that are easy to customise, you don’t need any design experience to show the world your best digital self. SquareSpace also makes it easy to keep in touch with your audience or customers. With their expertly designed email templates, that are just as easy to customise as their websites, you can follow up with customers or keep your audience in the loop with your latest updates. That’s why we’re launching a newsletter. With certain social media sites going the way of the Do-Do, we wanted a way to keep in touch with our amazing subscribers, and SquareSpace gives us the perfect way to do that. In fact you can sign up for our newsletter right now (which will include links to new videos, progress updates for Telos Pictures, as well as reviews, articles, and so much more.) You can sign up at our SquareSpace website: jamessomerton.com. And You can head to squarespace.com right now for a free trial and when you’re ready to launch your site go to squarespace.com/jamess, that’s j-a-m-e-s-s to save 10% off of your first purchase of a website or domain. -->
 
 </james>
@@ -446,7 +446,7 @@ Perhaps because I recognize a connection between this half-way-dead boy, his con
 <compare>
 <credits class="closing" {% include timecode %}>
 
-[Patreon credits roll over silence.]
+<u>[Patreon credits roll over silence.]</u>
 
 </credits>
 </compare>

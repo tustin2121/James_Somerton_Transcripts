@@ -49,6 +49,8 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.changed-quote }} | Times James inexplicably changed a direct quote he was copying. |
 | {{stats.made-quote }} | Times James turned something that wasn't a direct quote into a direct quote. |
 | {{stats.correction }} | Times James actually corrected an incorrect source he was copying from. |
+| | |
+| {{stats.malaprop }} | Times James has used a malapropism or otherwise used the wrong word inadvertently. |
 | {{stats.baa }} | Times James uses the phrase "by all accounts". |
 
 [^v]: This is only the misinformation in his videos, not the ones that he told his audience about external things, like "death threats" and the like.

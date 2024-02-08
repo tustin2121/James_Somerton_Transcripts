@@ -139,7 +139,7 @@ Presents
 <span style="font-size: larger;">Nick Herrgott</span>  
 And James Somerton
 
-\[Dramatic clip from *No.6*]
+<u>[Dramatic clip from *No.6*]</u>
 
 > Executive Producers  
 [Ten Patron Names]
@@ -389,7 +389,7 @@ This doesn’t really manifest in contacting a secret police to have people take
 
 Of course, the real problem is the fact that there is a hungry lion, or tiger, or bear —
 
-\[Meme cutaway]: Dorthy in Oz: "Oh my!"
+<u>[Meme cutaway]:</u> Dorthy in Oz: "Oh my!"
 
 — your friends are not the enemy. Instead of doing something about the *beast*, we’d rather just feed our friends to it. How does the thought cross your mind that the wild animal will never eat you? What? As long as you keep feeding your friends to it? Keep it full so it thinks you're an ally? What happens when you have no more friends to feed to it? Can you really say it’s a good idea to stake your public acceptance on your ability to offer up victims to a bully? 
 

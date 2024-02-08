@@ -76,7 +76,7 @@ Follow me on Twitter: [link]
 <compare>
 <credits header="Dedication:" {% include timecode %}>
 
-\[On screen over black and silence]:
+<u>[On screen over black and silence]:</u>
 
 > In Memory Of My Mom,  
 > Teresa Somerton
@@ -86,7 +86,7 @@ Follow me on Twitter: [link]
 </credits>
 </compare>
 
-\[Fade to video]
+<u>[Fade to video]</u>
 
 <compare>
 <james {% include timecode %}>
@@ -153,7 +153,7 @@ All of this so that I can talk about *Banana Fish*.
 <compare>
 <credits class="opening" {% include timecode %}>
 
-\[Credits play over a generic rock guitar and drum song, with stock images of grungy places, red light districts, and cars on fire in the background.]
+<u>[Credits play over a generic rock guitar and drum song, with stock images of grungy places, red light districts, and cars on fire in the background.]</u>
 
 > James Somerton  
 Presents
@@ -196,7 +196,7 @@ If you’re not into relatively obscure violent, crime anime based on 30 year ol
 
 And then I sat down to watch it, which was a blessedly easy process thanks to Amazon Prime Video, [...]
 
-\[On screen]: 
+<u>[On screen]: </u>
 > \*Not Sponsered.  
 ...But hey, Amazon, call me.
 
@@ -313,7 +313,7 @@ Ash kills the assailant, but may be mortally wounded himself. He manages to brin
 <compare>
 <james {% include timecode %}>
 
-*[RECORD SCRATCH!]* 
+<u>*[RECORD SCRATCH!]*</u> 
 
 No he doesn’t die, goddammit. And this isn’t me saying, no he doesn’t die because he and Eiji are too cute together, and he doesn’t deserve to die. I have proof! As the show was airing, the *Banana Fish* website kept an up to date tracker of which major characters were dead, and which were alive. More and more characters having their image and names greyed out as the show went along. When the series finale first aired, Ash’s photo and name became greyed out but very soon after, went back to color. Which means… he’s not dead. Like I said. 
 
@@ -490,7 +490,7 @@ This is something used against more than just queer people — also immigrant po
 <compare>
 <james {% include timecode %}>
 
-\[Flashing in the bottom corner during the next paragraph]: "*SARCASM"
+<u>[Flashing in the bottom corner during the next paragraph]: "*SARCASM"</u>
 
 Because the crimes were always with these people – these crimes are an element of their *culture* that <span class="del">they are</span><span class="add">they're</span> bringing into America where they will spread it among the good, heterosexual, cisgender, god-fearing white folk. 
 
@@ -697,7 +697,7 @@ Is it their first choice of career? Not likely. One character, Angel, played by 
 
 Indya Moore themself was once a sex worker. They <mark>told ES magazine:</mark> 
 
-\[Quote scrolling on screen:]
+<u>[Quote scrolling on screen:]</u>
 > “It has really destigmatised sex work, not only for people watching the show but for me, too – I had internalised so much shame. I felt really ashamed of having been a sex worker and, coming into this industry, it was something that I feared I would be outed for and that it would harm me.” 
 
 </james>
@@ -1024,7 +1024,7 @@ So be gay. Do crime. And have a good time while you do it.
 <compare>
 <credits class="closing" {% include timecode %}>
 
-\[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]
+<u>[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]</u>
 
 </credits>
 </compare>

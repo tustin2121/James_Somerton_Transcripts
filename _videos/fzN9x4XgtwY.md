@@ -145,7 +145,7 @@ The audience for *Boys in the Band* included gay people who had grown up thinkin
 
 But before we explore in more detail how homosexuality actually started to be shown on film, let's hear a word from our sponsor:
 
-[Sponsor read]
+<u>[Sponsor read]</u>
 <!-- this video is brought to you by Squarespace building a site with Squarespace is a great way to build your brand and reach a wider audience whether you're a visual artist photographer a writer a video producer or work in any creative field it's vital to have a site that you can use to help build your brand on your own terms Nick and I have had a presence on social media for a while now and obviously this channel but using Squarespace is incredibly intuitive and easy to use tools we've built the James Summerton Channel website featuring a Blog where Nick and I write about topics that probably wouldn't make for a full video a special section where you can check out preview chapters of my upcoming novel as well as check out Nick's novel gentlemen's club and using squarespace's video hosting features we're able to give you access to videos that YouTube made us remove you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to squarespace.com James S that's j-a-m-e-s-s to save 10 off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace -->
 
 </james>
@@ -188,7 +188,7 @@ James Somerton
 <credits {% include timecode %}>
 <header>Title card:</header>
 
-<span id="chapter-1"></span>\[Over black]:
+<span id="chapter-1"></span><u>[Over black]:</u>
 
 > Episode Five
 >
@@ -312,7 +312,7 @@ Archie: "Oh, come on, Steve..."
 </clip>
 <james {% include timecode %}>
 
-Watching from the White House, President Nixon... [chuckles] declared it "*distasteful*"! Because it made "a good man look like a fool". It is unclear if Nixon was talking about Archie Bunker or the football player.
+Watching from the White House, President Nixon... <u>[chuckles]</u> declared it "*distasteful*"! Because it made "a good man look like a fool". It is unclear if Nixon was talking about Archie Bunker or the football player.
 
 </james>
 <from></from>
@@ -331,7 +331,7 @@ For gay liberationists, the narrative was a little too soft. While it earned *gl
 
 By the mid-1970s, queer characters had appeared on virtually *every* sitcom, drama, and talk show in prime time TV: *All in the Family*, *Rhoda*, *Maude*, *Barney Miller*, *Mash*, *The Bob Newhart Show*, and scores of others featured gay characters. *The Naked Civil Servant* and *The War Widow*, two spectacular television dramas, were uplifting depictions of the lives of LGBTQ people, both real and fictitious. Both series instilled in its key characters a sense of history, and their position as strugglers for sexual freedom. Both shows revealed a hidden aspect of the gay experience through romance and humor. 
 
-Although Quentin Crisp's story in *The Naked Civil Servant* was [chuckling] not a gay liberationist's dream by any means, gays greatly admired and respected Crisp's defiant lifestyle.
+Although Quentin Crisp's story in *The Naked Civil Servant* was <u>[chuckling]</u> not a gay liberationist's dream by any means, gays greatly admired and respected Crisp's defiant lifestyle.
 
 </james>
 <from></from>
@@ -339,7 +339,7 @@ Although Quentin Crisp's story in *The Naked Civil Servant* was [chuckling] not 
 
 Quentin (in voiceover): "When you're being followed, there are a number of rules to obey:"
 
-\[Presented as a silent movie title card, read out loud by Quentin]:
+<u>[Presented as a silent movie title card, read out loud by Quentin]:</u>
 > Never look back.
 
 (dramatic music as a person walks) 
@@ -428,7 +428,7 @@ Gay audiences around this time began to see that Hollywood was willing to overlo
 
 The producers and directors of the British film *Nighthawks* spent five years preparing and gathering funds for their film about a gay teacher who spends his nights cruising in bars and discos and having one-night stands. *Nighthawks* offers an almost documentary style look into the evening cityscape of the ritualistic life of a man who is becoming aware that he lives two lives. The dispassionate view of London gay nightlife allows a gay male audience to experience *the hunt* as more than a passive spectator. There is an uncanny feeling that each member of the audience is *himself* cruising, recognizing a look, a gesture, a glance, then realizing it is meant for the character in the film, through whose eyes we are looking. 
 
-No slick and sensational Hollywood peep show. *Nighthawks* is a perceptive film with, modest intentions, and it succeeded without compromising its scope for commercial reasons. While William Friedkin was on New York streets filming the blood and guts Hollywood version of the gay underground, *Nighthawks* opened in New York and got what turned out to be... better reviews than *Cruising* would get six months later. And some queer filmmakers were willing... not just a step outside of the Hollywood system... [chuckling] but *shit all over it.*
+No slick and sensational Hollywood peep show. *Nighthawks* is a perceptive film with, modest intentions, and it succeeded without compromising its scope for commercial reasons. While William Friedkin was on New York streets filming the blood and guts Hollywood version of the gay underground, *Nighthawks* opened in New York and got what turned out to be... better reviews than *Cruising* would get six months later. And some queer filmmakers were willing... not just a step outside of the Hollywood system... <u>[chuckling]</u> but *shit all over it.*
 
 </james>
 <from></from>
@@ -466,7 +466,7 @@ One of the most striking aspects of *Pink Flamingos* is the way it portrays its 
 
 In addition to its portrayal of queer characters, *Pink Flamingos* also explores themes that are central to the queer experience. The film's focus on outsiders and those who are marginalized by mainstream society is a recurring theme throughout, with characters like Divine and her cohorts living on the fringes of society and rejecting traditional norms. At the same time, *Pink Flamingos* is also a celebration of queer culture, and a testament to the power of queer resilience. Despite the violence and degradation they face, Divine and her cohorts remain defiant, *refusing* to be cowed by the oppressive forces of society. Their queerness is a source of strength, and a way of connecting with others who share their experiences, creating a sense of community and belonging in the face of adversity.
 
-Content warning, though. [laughing]
+Content warning, though. <u>[laughing]</u>
 
 </james>
 <from></from>
@@ -491,7 +491,7 @@ And with a burgeon and queer political power structure rising up in California N
 <compare>
 <james {% include timecode %}>
 
-[Music suddenly stops.]  
+<u>[Music suddenly stops.]</u>  
 But in that same summer... a rare cancer began appearing in gay men, followed by a cluster of pneumocystis pneumonia cases in San Francisco and New York. And then gay men across the world began dying. And suddenly *Hollywood's* opinion of us... didn't matter so much.
 
 </james>
@@ -501,7 +501,7 @@ But in that same summer... a rare cancer began appearing in gay men, followed by
 <compare>
 <credits {% include timecode %}>
 
-\[On screen over black and silence:]
+<u>[On screen over black and silence:]</u>
 > Part 6:  
 > Hollywood, America, & AIDS
 >
@@ -516,7 +516,7 @@ This never happened.
 </comment>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits roll over silence.]
+<u>[Patreon credits roll over silence.]</u>
 
 </credits>
 </compare>

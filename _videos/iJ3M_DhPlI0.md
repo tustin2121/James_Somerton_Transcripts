@@ -128,7 +128,7 @@ James Somerton
 <credits {% include timecode %}>
 <header>Title card:</header>
 
-<span id="chapter-1"></span>\[Over black]:
+<span id="chapter-1"></span><u>[Over black]:</u>
 
 > Episode Three
 >
@@ -174,7 +174,7 @@ Because of McCarthy and his associates harsh methods and disregard for due proce
 
 In 1950, many politicians, journalists, and citizens thought that homosexuals actually posed more of a threat to National Security than communists. One columnist argued:
 
-\[Quote on screen, audio distorted]:
+<u>[Quote on screen, audio distorted]:</u>
 > "There is no record of comparable corruption in American history."
 
 In a national radio broadcast, noted liberal Elmer Davis said:
@@ -279,7 +279,7 @@ But McCarthy's crew of homophobes were about to have the sights trained on thems
 
 Welch: "Did you think this came from a pixie?!"
 
-[General laughter]
+<u>[General laughter]</u>
 
 McCarthy: "Council, for my benefit, define... (I think he might be an expert on that) -- Define 'pixie'."
 
@@ -451,14 +451,14 @@ But even with deep *deep* coding... there was a catch anyone confirmed to be gay
 <compare>
 <james {% include timecode %}>
 
-\[James talks in a small box on black. ["Inspiring Message" by Cash_up plays.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]
+<u>[James talks in a small box on black. ["Inspiring Message" by Cash_up plays.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]</u>
 
 As we close out this episode I'd really like to thank all of our patrons. It's only because of you that videos like this are even possible. YouTube isn't all too friendly when it comes to pushing LGBTQ content, in fact in most cases they try their best to keep it hidden. So our amazing patrons are the only reason this channel keeps chugging along. Thank you all so much. From the bottom of my heart thank you. um... if you'd like to become a part of this seriously *amazing* community you can do so for as little as a dollar a month at the link in the pinned comment. Alright, now I'll let their credits roll and I'll see you soon for Unrequited Episode 4: Dying to be Queer.
 
 </james>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits start to roll over ["Inspiring Message" by Cash_up.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]
+<u>[Patreon credits start to roll over ["Inspiring Message" by Cash_up.](https://motionarray.com/royalty-free-music/inspiring-message-1191155/)]</u>
 
 </credits>
 </compare>

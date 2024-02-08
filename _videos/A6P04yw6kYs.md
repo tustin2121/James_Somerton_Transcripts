@@ -100,7 +100,7 @@ Overall, *Cabaret* serves as a powerful warning about the dangers of fascism and
 
 But before we proceed to tonight’s entertainment, please like and subscribe to my channel, and sign up for the patreon if you’re feeling generous. And now, a word from this video’s sponsor! 
 
-[Sponsor read]
+<u>[Sponsor read]</u>
 <!-- This video is brought to you by Squarespace. Building a site with Squarespace is a great way to build your brand and reach a wider audience. Whether you're a visual artist, photographer, a writer, a video producer, or work in any creative field, it's vital to have a site that you can use to help build your brand on your own terms. Nick and I have had a presence on social media for a while now, and obviously this channel, but using Squarespace’s incredibly intuitive and easy to use tools we've built the James Somerton Channel website featuring a Blog where Nick and I write about topics that probably wouldn't make for a full video, a special section where you can check out preview chapters of my upcoming novel, as well as check out Nick's novel gentlemen's club, and using Squarespace's video hosting features we're able to give you access to videos that YouTube made us remove. You can head to squarespace.com right now for a free trial and when you're ready to launch your site go to squarespace.com/JamesS that's j-a-m-e-s-s to save 10% off of your first purchase of a website or domain. Start showing the world how amazing you are today with Squarespace -->
 
 </james>
@@ -110,7 +110,7 @@ But before we proceed to tonight’s entertainment, please like and subscribe to
 <compare>
 <credits class="opening">
 
-\[Over the top musical revue style music]
+<u>[Over the top musical revue style music]</u>
 
 > James Somerton   
 Presents
@@ -217,7 +217,7 @@ Now in this analogy, the cake is an applicable symbol. It can be sex, status, mo
 
 So. As much as you may have felt that you were promised cake, but do not have any cake, you feel like there is an injustice. However, if you see that others have cake, you may begin to feel covetous. 
 
-\[Meme cutaway]: Hannibal Lecter: “He Covets.” 
+<u>[Meme cutaway]:</u> Hannibal Lecter: “He Covets.” 
 
 </james>
 <from></from>
@@ -301,7 +301,7 @@ However the rhetoric circulating in these hate groups said that because Jewish b
 
 The initial rationality behind the hatred was removed; ongoing persecution required no justification, and became a matter of begging the question. They deserve persecution so they must be bad; they are bad because we know they are; they deserve persecution because they are bad. 
 
-The transition from ‘spreading awareness’ about a class of perceived [air quotes] “undesirables” begins with this abandonment of reason. They *literally* abandon reasons for why they should persecute this class. The hallmark here is the comfort with which they begin to justify the ridicule of this group. 
+The transition from ‘spreading awareness’ about a class of perceived <u>[air quotes]</u> “undesirables” begins with this abandonment of reason. They *literally* abandon reasons for why they should persecute this class. The hallmark here is the comfort with which they begin to justify the ridicule of this group. 
 
 Raising an alarm against some kind of threat to privilege, children, or the *moral fiber of society* — these are good for calling people to action. There is a threat, some righteous cause to fight for. But that’s not enough: you have to make the people comfortable with hatred. Hatred can’t feel like hatred or people may reject it. Hatred has to feel ‘normal’ to be publicly and personally acceptable… which is where comedy comes in. 
 
@@ -364,7 +364,7 @@ MC: “She wouldn’t look Jewish at all.”
 <compare>
 <james {% include timecode %}>
 
-[Oof!] Big ooof indeed. To the in-universe audience, this is just a joke. And people who are offended at the establishment using its platform and production to play into existing stereotypes “just need to learn to take a joke.” 
+<u>[Oof!]</u> Big ooof indeed. To the in-universe audience, this is just a joke. And people who are offended at the establishment using its platform and production to play into existing stereotypes “just need to learn to take a joke.” 
 
 The combination of being lulled into a sense of groupthink through joint participation in a joke, regardless of quality, in conjunction with the familiarizing act of a joke’s role in presenting a sense of relief and comfort — it’s no surprise that this is yet another tactic in fascistic pipelines. Hook people in with the *threat*, familiarize them with comedic theatrics, and install a sense of pride through pageantry. 
 
@@ -484,7 +484,7 @@ We’re entering a period of time where an *inordinate* amount of narrative effo
 
 In the instance of someone being a total *dickwad*, an empathetic society would rather support the victim than focus on the perpetrator in question. Granted, our culture has this fixation on victim blaming. As if someone is asking to get *burgled* if they have their valuables in a jewelry box instead of a safety deposit box. Cut to the: “well what was she wearing?” argument. 
 
-Of course, empathizing with victims in a pragmatic way would result in making changes to core elements of society that generate these crimes or aggressions in the first place [laughing] *and we’re allergic to that.* 
+Of course, empathizing with victims in a pragmatic way would result in making changes to core elements of society that generate these crimes or aggressions in the first place <u>[laughing]</u> *and we’re allergic to that.* 
 
 </james>
 <from></from>
@@ -506,7 +506,7 @@ Which… first… yeah we’ve been doing that but at the same time I’m not se
 
 The ending result of this is an after-school special about bullying. A lot of TV shows had one. The main characters are getting horribly bullied, and they get mad at their bully for bullying them, so they concoct some revenge scheme, and then they learn that their bully was actually bullied *themselves*, and then they *feel bad* and apologize for their revenge, and their bully is never held accountable for being an absolute dick! 
 
-\[Note: previous paragraph said over My Little Pony footage.]
+<u>[Note: previous paragraph said over My Little Pony footage.]</u>
 
 I’m not outing myself as a Broney. My co-writer had a stoner phase and was held at gunpoint to binge a lot of kids shows. 
 
@@ -560,26 +560,23 @@ And this is on TOP of the aforementioned ‘wolf in sheep's clothing’ trope th
 <compare>
 <james {% include timecode %}>
 
-Which culminates in this *grand encouragement* to empathize with those that the public decries as a villain,  
-[Note: Clip of Elon Musk.]  
-but constantly be on guard to wait for a moment when the REAL bad guy shows their true colors.  
-[Note: clip of AOC.]
+Which culminates in this *grand encouragement* to empathize with those that the public decries as a villain, <u>[Clip of Elon Musk]</u> but constantly be on guard to wait for a moment when the REAL bad guy shows their true colors. <u>[Clip of AOC]</u>
 
 All the while this media does very little to establish a methodology for how to differentiate between either of those, *or* to point out when someone really is as straightforward as they seem. That person holding up a convenience store is likely in that situation of generational poverty regardless of their decisions. But that person at a rally threatening violence against trans people, immigrants, or people of color… *They* have made some CHOICES. 
 
-\[Meme cutaway]: “Choices” 
+<u>[Meme cutaway]:</u> “Choices” 
 
-Taking people who turn to violence or violent rhetoric, and trying to find clues in their past to justify WHY they would do that inherently seeks to frame them *as a victim.* What was done UNTO them to MAKE them feel this way? They are framed as a victim of a larger societal construct. Which. [Bangs mic against head] Jesus christ, people— 
+Taking people who turn to violence or violent rhetoric, and trying to find clues in their past to justify WHY they would do that inherently seeks to frame them *as a victim.* What was done UNTO them to MAKE them feel this way? They are framed as a victim of a larger societal construct. Which. <u>[Bangs mic against head]</u> Jesus christ, people— 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-\[Suddenly TV static to black and white, old-timey getup]:  
+<u>[Suddenly TV static to black and white, old-timey getup]:</u>
 
 -inclined to feel that these people who have cake are a threat to your ability to have cake. A key component of this anger is the fear and outrage of a perceived victimhood, which offers a sense of righteousness when taking steps to righting a perceived wrong.  
 
-\[TV static back to normal]
+<u>[TV static back to normal]</u>
 
 </james>
 <from></from>
@@ -609,7 +606,7 @@ Ben Shapiro: “Bring a bucket and a mop for this wet-ass P-word.”
 
 So we end up in a cultural state where we have no recourse for how to redirect people out of fascist circles, leading to a collection of trans women fighting back a cumulative nervous breakdown from their efforts of trying to stem the tide of this pipeline without a road map. In spite of all this information we have, we still know *very little* about how to de-radicalize people from these violent spaces. 
 
-And without the information being used — and there is a LOT of information — to develop practical solutions to a literal threat against contemporary Democracy, [laughing] we just have a heap of data about fascists’ emotions. Party.
+And without the information being used — and there is a LOT of information — to develop practical solutions to a literal threat against contemporary Democracy, <u>[laughing]</u> we just have a heap of data about fascists’ emotions. Party.
 
 We have next to no documentation about the success rates of citizens, creators, influencers, and entertainers who are throwing darts in the dark to figure out what’s going to stick. And also next to no public interest in the people who are victims *OF* this hateful, violent rhetoric. 
 
@@ -622,7 +619,7 @@ We have next to no documentation about the success rates of citizens, creators, 
 
 Because you’d think that in an empathic, compassionate society, those are the people — the people whose very lives are an affront to fascism — to whom our interest would be drawn. But no. Let’s feed into the privilege of people who feel like their privilege owes them more out of life, by making everything about their emotions. 
 
-\[Over "SARCASM" on screen]:  
+<u>[Over "SARCASM" on screen]:</u>
 Fascists: they’re the REAL victims of fascism — 
 
 The moral weight of their choices are the real casualties. Which is a romantic notion, if you don’t take into account actual fascists in real life. The hordes of SS officers being called to testify at Nuremberg who expressed *not a feather* of remorse for their actions. 
@@ -638,11 +635,11 @@ And I don’t even want to blame all of our leaders and lawmakers for not making
 
 The problem is, when it comes to a substantial portion of the population— 
 
-\[Suddenly TV static to black and white, old-timey getup]:  
+<u>[Suddenly TV static to black and white, old-timey getup]:</u>
 
 -anger can be a potent and necessary motivational tool, if you spend too long being angry — getting what you want isn’t going to make you feel better — you just want to have your anger justified. You want permission to be angry. 
 
-\[TV static back to normal]
+<u>[TV static back to normal]</u>
 
 Which is how you end up in situations where the population actively resists actions that will make their lives easier. And this can be indoctrinated through any number of methods— usually by saying “this helpful thing is actually part of an organization you hate.” You hate the organization, so you hate the thing. Coupled with a strong *centrist movement* that thinks that life can be *beautiful* as long as you ignore anything that isn’t — well this is how you get fascists. 
 
@@ -662,7 +659,7 @@ MC: "We have no troubles here. Here life is beautiful!"
 
 And *all* of this isn’t just in reference to the Third Reich or The KKK or their *sad* little modern imitators. There are a large number of groups in human history who fought from the bottom rung of the ladder to improve their living conditions. From slave revolts over the span of the Roman Empire — to several waves of French peasants who, over the course of a century, toppled a disconnected and clueless ruling aristocracy, and changed the political landscape of Europe to this day. As much as we look at those battles and say: “Yes those were righteous causes.” The Third Reich and the KKK also felt their causes were righteous. 
 
-Which brings us to today where — <del>sigh</del><ins>[humorless chuckle]</ins> — a *significant* group of people seem to hold queer people responsible for all the world’s problems. And not, you know, the ongoing greed-mongering, crony-capitalist, post-colonial, nepotistic, pseudo-democratic oligarchy which we *like to pretend passes for a **society that lends power to the people.***
+Which brings us to today where — <del>sigh</del><ins><u>[humorless chuckle]</u></ins> — a *significant* group of people seem to hold queer people responsible for all the world’s problems. And not, you know, the ongoing greed-mongering, crony-capitalist, post-colonial, nepotistic, pseudo-democratic oligarchy which we *like to pretend passes for a **society that lends power to the people.***
 
 </james>
 <from></from>
@@ -671,7 +668,7 @@ Which brings us to today where — <del>sigh</del><ins>[humorless chuckle]</ins>
 <compare>
 <james {% include timecode %}>
 
-But let’s NOT blame the people running that show, and instead let’s blame *preferred pronouns* as the root of all evil. That’s… That’s it… That… [Taps head smartly]
+But let’s NOT blame the people running that show, and instead let’s blame *preferred pronouns* as the root of all evil. That’s… That’s it… That… <u>[Taps head smartly]</u>
 
 We — the left-leaning, progressive, and socially-minded of us — *typically* celebrate the downtrodden and underclasses standing up for their own dignities. But it’s this language of ‘righteousness’ that seems to work against us at times. Righteousness is a vague term, and (I find) more accurately describes a kind of air that someone carries themself with, rather than an objective sense of doing what is right or just. Which explains a lot about our society, actually. 
 
@@ -697,7 +694,7 @@ But it’s all so hollow. Like a story written by an AI. They plagiarize our str
 <compare>
 <credits class="closing">
 
-\[Credits scrolling over piano music]
+<u>[Credits scrolling over piano music]</u>
 
 </credits>
 </compare>
