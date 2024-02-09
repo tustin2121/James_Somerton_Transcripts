@@ -20,6 +20,12 @@ notes:
   - script-diff
   - w-nick-james
 
+contributors:
+  downloaded: $cite$TerraJRiley
+
+recs:
+  - { title: "Endnote 2: White Fascism", author: "Innuendo Studios", url: "https://www.youtube.com/watch?v=5Luu1Beb8ng" }
+
 cite:
   clips: !!map
   yikes: !!map

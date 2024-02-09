@@ -24,6 +24,9 @@ contributors:
     - $ref$lvence$https://discord.com/channels/1180822793420554241/1180822793420554244/1191464164548423780
   formatting: $cite$tustin2121
 
+recs:
+  - { title: "Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)", author: "Be Kind Rewind", url: "https://www.youtube.com/watch?v=jb-C4fcn2E0", desc: "Just watch the video James stole from. It's more comprehensive.", by: ["Tustin2121"] }
+
 cite:
   clips: !!map
     mommie_dearest: { short: "Mommie Dearest", full: "Perry, F. (1981). <em>Mommie Dearest</em> [Film]. Paramount Pictures." }

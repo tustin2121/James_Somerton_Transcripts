@@ -16,6 +16,9 @@ links: !!seq
 notes:
   - hbomb
 
+recs:
+  - { title: "What Makes Disney Villains so Gay?", author: "Matt Baume", url: "https://youtu.be/GsWpUSEKSbk?si=p6p1pfOs8STiMMAX" }
+
 cite:
   clips: !!map
   yikes: !!map
