@@ -144,7 +144,7 @@ So yeah, I found out that shipping was a thing. Never been the same since.
 <compare>
 <credits class="opening">
 
-<u>\[Titles play intercut with pictures of some of the gay anime pairings discussed, with funky music]</u>
+<u>[Titles play intercut with pictures of some of the gay anime pairings discussed, with funky music]</u>
 
 > James Somerton  
 Presents
@@ -197,9 +197,9 @@ But when copyrighting the name itself, that could get messy. Because… Odin is 
 
 Also the fact that Marvel’s Odin is based on a comic book character which was created in the 1960s by Stan Lee, &mdash; 
 
-<u>\[Correction on screen]: "*& Jack Kirby"</u>
+<u>[Correction on screen]: "*& Jack Kirby"</u>
 
-&mdash; who passed away recently. Indicating that… ownership of the comic book Thor… is not necessarily ownership of <ins>the</ins> Movie Thor… Which brings to me a question of… when — or how — *movie* Thor could ever pass into public domain? Will he enter public domain at the same time as Comic book Thor? And like… given that they’re all based on characters who were already in public domain… [blows out cheeks in frustration.]
+&mdash; who passed away recently. Indicating that… ownership of the comic book Thor… is not necessarily ownership of <ins>the</ins> Movie Thor… Which brings to me a question of… when — or how — *movie* Thor could ever pass into public domain? Will he enter public domain at the same time as Comic book Thor? And like… given that they’re all based on characters who were already in public domain… <u>[blows out cheeks in frustration.]</u>
 
 See — Jack Kirby got around this problem by making all the Eternals’ names slightly different than their modern spellings. 
 
@@ -263,7 +263,7 @@ So in a classical context, there was little to no friction when using other writ
 
 <del>I mean,</del> I think there’s a lot of ways that copyright does protect creators, but there are ways that corporations and well-known, fabulously wealthy creators abuse it. 
 
-<u>\[Previous sentence said over the Toei Animation logo zooming in to fill the whole screen.]</u>
+<u>[Previous sentence said over the Toei Animation logo zooming in to fill the whole screen.]</u>
 
 Given that media awareness has shifted from the classics to contemporary characters, if you want to write about characters that already exist, as the vast majority of writers in history have, these days, you are probably writing about characters that are protected by copyright. Which even though all that usually means is that you can’t make money off of what you’re writing,that really doesn’t seem to deter people. Popular fanfiction websites like Archive of Our Own get a dizzying amount of content every day. If ever there was an argument against people acting exclusively for profit it would be fanfiction. 
 
@@ -341,10 +341,9 @@ So how do we go from fans filling in the blanks in a fictitious social-utopia �
 <compare>
 <james {% include timecode %}>
 
-*Sk8 The Infinity* is a 2021 Anime directed by Hikoro<sup class="add">[sic: Hiroko]</sup> Utsumi,
-the director of similarly queer baited and shipped anime *Free!* and *Banana Fish*. *Sk8* tells the story of Reki, a Japanese teenager obsessed with skateboarding, and Langa, a Japanese Canadian who used to be a championship snowboarder &mdash;
+*Sk8 The Infinity* is a 2021 Anime directed by Hikoro<sup class="add">[sic: Hiroko]</sup> Utsumi, the director of similarly queer baited and shipped anime *Free!* and *Banana Fish*. *Sk8* tells the story of Reki, a Japanese teenager obsessed with skateboarding, and Langa, a Japanese Canadian who used to be a championship snowboarder &mdash;
 
-<u>\[James accidentally says "skateboarder," the correction is shown on screen.]</u>
+<u>[James accidentally says "skateboarder," the correction is shown on screen.]</u>
 
 &mdash; until the death of his father. The pair meet up and Langa discovers that skateboarding isn’t that different from snowboarding! <ins>(</ins>It actually is but let’s <ins>just</ins> go with it.<ins>)</ins> Together they start attending underground skateboarding tournaments called S, organised by Adam, an embezzling businessman in *Digimon* villain drag. 
 
@@ -394,7 +393,7 @@ It’s beyond easy to read into the idea that these two were once an item, broke
 
 Speaking of Adam. He’s a part of the third ship in the series along with his personal assistant, Tadashi. A pairing the internet has named… [closes eyes] LoveDog. If you’ve seen the show you know why. 
 
-This is… [*mouth pop*] a problematic yet obvious ship. It’s clear that these two have some kind of relationship beyond official duties, but *goddamn it’s abusive!* I’ve already made three videos about abusive gay relationships in media so I’m not going to go into the gritty details <ins>on this one</ins>. But there is some hardcore gaslighting going on here. 
+This is… <u>[*mouth pop*]</u> a problematic yet obvious ship. It’s clear that these two have some kind of relationship beyond official duties, but *goddamn it’s abusive!* I’ve already made three videos about abusive gay relationships in media so I’m not going to go into the gritty details <ins>on this one</ins>. But there is some hardcore gaslighting going on here. 
 
 </james>
 <from></from>
@@ -403,7 +402,7 @@ This is… [*mouth pop*] a problematic yet obvious ship. It’s clear that these
 <compare>
 <james {% include timecode %}>
 
-But let’s focus on our main pair. Reki and Langa. Since they’re the whole reason I’m making this video. Throughout the series these two are given multiple moments *scientifically designed* to urge on the potential shippers. Whether it’s Reki teaching Langa how to skateboard in a really cute montage, or Langa’s now notorious “Reki, my love (of skateboarding)” line. [brief fade in to Langa saying the line.] 
+But let’s focus on our main pair. Reki and Langa. Since they’re the whole reason I’m making this video. Throughout the series these two are given multiple moments *scientifically designed* to urge on the potential shippers. Whether it’s Reki teaching Langa how to skateboard in a really cute montage, or Langa’s now notorious “Reki, my love (of skateboarding)” line. <u>[brief fade in to Langa saying the line.]</u> 
 
 As the series progresses Reki becomes more and more a cheerleader of Langa, ever more enthusiastic, even though Langa is much more reserved and shy. Until the final episode when he excitedly jumps into Reki’s arms after winning a race. 
 
@@ -427,7 +426,7 @@ Langa: Let’s do it. I want to skate infinitely with you.
 </clip>
 <clip {% include citation for=page.cite.clips.yuri_on_ice %}>
 
-[Cutaway to James staring blankly as another clip plays behind him.]
+<u>[Cutaway to James staring blankly as another clip plays behind him.]</u>
 
 Victor (from *Yuri on Ice*): <ins>"</ins>That sounded like a marriage proposal.<ins>"</ins>
 
@@ -440,7 +439,7 @@ Victor (from *Yuri on Ice*): <ins>"</ins>That sounded like a marriage proposal.<
 <from></from>
 <clip {% include citation for=page.cite.clips.sk8 %}>
 
-[Slow pan up on Miya riding a skateboard, with background audio.]
+<u>[Slow pan up on Miya riding a skateboard, with background audio.]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -579,7 +578,7 @@ Like in the case of kawaii it only gained “significance” when the term was i
 
 *Pokémon* is a prime example, specifically with mascot characters like Pikachu, Bulbasaur, Eevee — and nearly all first-stage evolutions. But the example that *typifies* this process is Hello Kitty. Hello Kitty, as a brand, is fascinating, but I won’t get into it here. Hold on, I need my cat ears— 
 
-<u>\[Sudden cut to James with black and orange cat ears on his head, complete with bells as sort of earrings on them.]</u>
+<u>[Sudden cut to James with black and orange cat ears on his head, complete with bells as sort of earrings on them.]</u>
 
 Hello Kitty didn’t even have a piece of media it was attached to right away, but this little cartoon kitty seemed to be like something you would see in a TV special. But it wasn’t until the brand was already a national sensation in Japan that there was any visual media. The process that makes Hello Kitty kawaii is an aesthetic exercise in minimalism and abstractism. You take a cat, and you gradually reduce features until you have a bare minimum amount of details that allow you to recognize <ins>that</ins> this as a cat. Or Keroppi as a frog. Et cetera. With so little features, this is not just a cat. Your imagination makes you pack-bond with the idea of a cat. 
 
@@ -601,7 +600,7 @@ But as *Pokémon* was first and foremost a video game, it managed to retain its 
 
 We’re not here to talk about *Pokémon* — an anime with actually *visible* queer representation. 
 
-<u>\[On screen, James shows a few clips of Ash and Goh interacting in the *Pokemon* anime, with the text "Don't @ me" superimposed.]</u>
+<u>[On screen, James shows a few clips of Ash and Goh interacting in the *Pokemon* anime, with the text "Don't @ me" superimposed.]</u>
 
 We’re here to talk about how *Pokémon*’s industry dominance has made it difficult for new media to focus their branding strategy around merchandising visually-distinct elements. 
 
@@ -700,7 +699,7 @@ Compare and contrast to *Yuri!!! On ICE*. We’re already talking about Anime, m
 
 And I’m not completely absolving *Yuri On Ice* for concealing queerness, but it does seem like I’m pointing out that there are many ways that queer-baiting can happen. Bear in mind that there is not as much ‘shipping’ of Yuri and Victor as there is with Reki and Langa. By all means, it’s there. But as someone who is not particularly involved in any shipping communities, there is not nearly as much spill-over for *Yuri on Ice* as there is for *Sk8*. 
 
-<u>\[Dutch angle]:</u>
+<u>[Dutch angle]:</u>
 
 It’s also interesting that the 2016 *Yuri on Ice* shippers went over to *Killing Stalking*, *but we won’t talk about that.* 
 
@@ -801,7 +800,7 @@ With the exception of books by Adam Silvera, you’d be hard pressed to find gay
 <compare>
 <james {% include timecode %}>
 
-<u>\[Panning across a bookshelf of physical books.]</u>
+<u>[Panning across a bookshelf of physical books.]</u>
 
 Look at this. Look at this shelf. All of its<sup class="add">[sic: it's]</sup> gay. I’ve read them all and most of them are really good. Some of them are damn brilliant.
 

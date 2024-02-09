@@ -73,14 +73,14 @@ PATRON: [link]
 <compare>
 <credits header="Disclaimer:">
 
-\[Text on screen over black]:
+<u>[Text on screen over black]:</u>
 
 > Content Warning
 > 
 > This video contains discussions of violence,  
 > gaslighting, and emotional abuse.
 
-\[After a moment, text changes to]:
+<u>[After a moment, text changes to]:</u>
 
 > Sign up for my Pareon at the link below  
 > for extras like audio commentaries,  
@@ -111,7 +111,7 @@ James Somerton
 > Directed & Edited by  
 James Somerton
 
-\[James walks up to the camera from the darkness]
+<u>[James walks up to the camera from the darkness]</u>
 
 </credits>
 </compare>
@@ -219,7 +219,7 @@ But far more insidious is the monster that wants to eat your mind. Your self wor
 <compare>
 <james {% include timecode %}>
 
-\[James sits with some food on a place setting in front of him for this segment.]
+<u>[James sits with some food on a place setting in front of him for this segment.]</u>
 
 Over the course of its three seasons, *Hannibal*, lead by out gay show-runner Bryan Fuller, made a significant impact on both the horror and crime drama fandoms. With a focus on comprehending the psychology of serial killers — the driving line of the show was built around learning how to develop human connections with people who lack humanity. Empathy for those who cannot empathize. 
 
@@ -423,8 +423,8 @@ One hides in plain sight, holding a shield of lavish opulence that enchants thos
 
 The main difference is that… one of them knowingly eats people. 
 
-\[Meme cutaway to show someone unwrapping a human leg.]  
-\[James takes a bite of the food in front of him.]
+<u>[Meme cutaway to show someone unwrapping a human leg.]</u>  
+<u>[James takes a bite of the food in front of him.]</u>
 
 And this is just the thing, right? It’s very clearly gay without saying it is. In fact, <span stat:id="baa">by all accounts</span>, Bryan Fuller fully intended to give Will and Hannibal an explicit romantic arc. Mads Michelson said that during the filming of the last scene of Season 3, he was trying very hard not to kiss Hugh Dancy. That’s… not acting, apparently. 
 
@@ -437,7 +437,7 @@ The intention to canonize the Hannibal and Will relationship may also be one of 
 <compare>
 <james {% include timecode %}>
 
-But gay characters, at least gay lead characters, are still something that network TV shies away from. It’s that threat of penetration that creeps under the skin of a lot of executives and viewers. Subconsciously creating an unease around gay men that isn’t there for gay women. At least as long as the gay women look like this. [Showing clip of a lesbian kiss.]
+But gay characters, at least gay lead characters, are still something that network TV shies away from. It’s that threat of penetration that creeps under the skin of a lot of executives and viewers. Subconsciously creating an unease around gay men that isn’t there for gay women. At least as long as the gay women look like this. <u>[Showing clip of a lesbian kiss.]</u>
 
 But in spite of the avid, and continuing flow of fan art depicting Mickelson and Dancy in compromising postions<sup class="add">[sic: positions]</sup> donning<sup class="add">[sic: in]</sup> varying degrees of undress, I’m not only hesitant to label this as good gay representation, I’m *slightly* resistant to it. God forbid we have a generation of gays who describe themselves as a Hannigram power couple. 
 
@@ -695,7 +695,7 @@ By the 1840s, vampires were seen in English theatrical productions, and “Varne
 <compare>
 <clip {% include citation for=page.cite.clips.carmilla at="pp.109-110" %}>
 
-\[Text scrolling on screen]:
+<u>[Text scrolling on screen]:</u>
 
 > "Sometimes after an hour of apathy, my strange and beautiful companion would take my hand and hold it with a fond pressure, renewed again and again; blushing softly, gazing in my face with languid and burning eyes, and breathing so fast that her dress rose and fell with the tumultuous respiration. It was like the ardor of a lover; it embarrassed me; it was hateful and yet overpowering; and with gloating eyes she drew me to her, and her hot lips traveled along my cheeks in kisses; and she would whisper, almost in sobs,
 >
@@ -853,7 +853,7 @@ Claudia herself grows up, trapped in a child’s body though with the temperamen
 
 But, as time passes, Louis and Claudia decide that Louis really needs to break up with Lestat. That’s he’s abusive, and gas-lighty, and needs to go. And so they kill him. Well they kill him a few times because he’s a vampire and he doesn’t take to death well. They don’t even manage to kill him when they do kill him. Why? Because Lestat is a bad ass bitch. But they do manage to escape to Europe, where they hunt around for other vampires like them, eventually finding a troop in Paris lead by Armand, who in the books is a Ukrainian teenaged twink described as: 
 
-\[Quote scrolling on screen]:
+<u>[Quote scrolling on screen]:</u>
 > "An abandoned angel, of auburn curls and perfectly formed limbs, of fair and mysterious face. His soft reddish hair was loose and tangled. His flesh was pale and the bones of his face only faintly sharpened by his Slavic blood."
 
 But in the movie is… Antonio Banderas. Slight difference in interoperation<sup class="add">[sic: interpretation]</sup>, really. But I understand it would have been hard to have this scene between Brad Pitt and a sixteen year old boy. 
@@ -915,7 +915,7 @@ Lestat and Nicky aren’t the only queer characters in *The Vampire Lestat* thou
 
 As Rice’s vampire novels, which became known as *The Vampire Chronicles*, continued, the overall pansexuality of vampires was further explored. Since any vampire can seemingly fall in love with any person, no matter their sex or gender expression. Male characters are often referred to as beautiful, while women are called handsome. Rice has spoken about her depiction of gay vampires: 
 
-\[Quote scrolling on screen]:
+<u>[Quote scrolling on screen]:</u>
 > "People told me 'Interview with a Vampire' was a gay allegory, and I was very honored by that... I've always been very much a champion of gay rights, and art produced by gay people.. I'm highly sensitive to it. I get teased a lot by my gay friends because we have a rapport on things we find exciting or interesting. It's very hard for me to remember that I have a gender."
 
 </james>
@@ -1106,7 +1106,7 @@ But there’s strength there. Because <mark>sometimes, after everything and ever
 <compare>
 <credits class="closing">
 
-\[Credits scrolling over [Chopin's "Raindrop" (Prelude in D-Flat Major, Op. 28, No. 15)](https://www.youtube.com/watch?v=J_6APTb3RNQ)]
+<u>[Credits scrolling over [Chopin's "Raindrop" (Prelude in D-Flat Major, Op. 28, No. 15)](https://www.youtube.com/watch?v=J_6APTb3RNQ)]</u>
 
 > Excerpts from the works of  
 Sheridan Le Fanu  

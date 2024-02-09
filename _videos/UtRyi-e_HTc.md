@@ -111,7 +111,7 @@ Jim is a troubled teenager who struggles to blend in with his peers and family. 
 
 The writer of the film <mark stat:id="changed-name" fc=false>Stuart Stem</mark><sup class="add">[sic: Stuart Stern]</sup> said:
 
-\[Quote scrolling on screen]:
+<u>[Quote scrolling on screen]:</u>
 > "<mark>The gang in Rebel Without a Cause isn't much different from the army; both their rituals are tribal. The affection and gang Behavior has to be hidden inside a different vocabulary, both spoken and unspoken, inside gestures and words which desensitized everything and made everything brutal. Also, they had to wear skins to keep the image intact—boots and leather. They had to put on a horse skin in order to feel defended against the discovery of their own sensitivity.</mark>
 >
 > <mark>I don't know what other experiences in World War II were, but for us it was deliberate and conscious. We were told that the buddy system prevailed. The choice of a buddy was as or more critical than that of a bride. You'd be living in a kind of physical intimacy which was unlike any other.</mark>
@@ -190,7 +190,7 @@ As we entered the latter half of the 1950s and beginning of the 1960s, this appe
 
 But before we dive into Hollywood's exploration a forced queer trauma and film, which is... I'll admit... not exactly healthy, let's hear a word from our sponsor, which actually *is* healthy.
 
-[Sponsor read]
+<u>[Sponsor read]</u>
 <!-- this video is brought to you by ag1 ag1 is comprehensive daily nutrition Made Simple the nutritional drink is made up of 75 high quality Whole Food sourced ingredients carefully curated to help nourish your body with one drink by replacing your multivitamin multi-minerals pre and probiotics immunity support supplements and more as someone who's been on a ketogenic diet for the last while it can be pretty hard to get the vitamins and minerals I need daily but with ag-1 I don't need to worry about that now and not only does it help make up for my dietary needs but it helps a lot in places I never expected I have more energy that lasts throughout the day I've been more focused which has been real helpful considering how many videos we've been putting out lately and I've been getting better sleep and it actually tastes good it's become a regular part of my morning routine and doesn't leave me with that energy crash in the afternoon I always got when drinking tea or coffee if you're ready to simplify your own health and nutrition tap my link in the description to get a one-year supply of immune supporting vitamin d3k2 and 5 travel packs for free with your first purchase -->
 
 </james>
@@ -234,7 +234,7 @@ James Somerton
 <credits {% include timecode %}>
 <header>Title card:</header>
 
-<span id="chapter-1"></span>\[Over black]:
+<span id="chapter-1"></span><u>[Over black]:</u>
 
 > Episode Four
 >
@@ -287,7 +287,7 @@ In *Tea and Sympathy*, a <mark>heterosexual youth is falsely accused of homosexu
 
 Writer Robert Anderson said:
 
-\[Quote scrolling on screen]:
+<u>[Quote scrolling on screen]:</u>
 > <mark>"To me, it was never a play about homosexuality</mark>.
 >
 > <mark>When Leif Erickson hounds Tom Lee</mark>...
@@ -352,7 +352,7 @@ A glaring <mark>epilogue provides the morally correct conclusion that makes the 
 
 <mark>Tennessee Williams stepped up to the plate to provide what *became* yet another comment on the "foreign gay". Twice previously, Williams's plays were adapted for the big screen with *significant* homosexual references removed. In each instance, the adapters asserted that the homosexual aspects of the play were not needed, from a dramatic point of view.</mark>
 
-<mark>In 1951, the [air quotes] "problem" that Blanche Dubois encountered with her husband was omitted from the film adaptation of *A Streetcar Named Desire*. In 1958</mark>, <mark num=3>the homosexual "implications" in the relationship between Brick and the deceased Skipper</mark> were removed from <mark num=4>*Cat on a Hot Tin Roof*</mark>. <mark>In both instances, the producers emphasized that homosexuality was not "the point"</mark>. And <mark>was readily discarded in favor of more... *acceptable* explanations.</mark>
+<mark>In 1951, the <u>[air quotes]</u> "problem" that Blanche Dubois encountered with her husband was omitted from the film adaptation of *A Streetcar Named Desire*. In 1958</mark>, <mark num=3>the homosexual "implications" in the relationship between Brick and the deceased Skipper</mark> were removed from <mark num=4>*Cat on a Hot Tin Roof*</mark>. <mark>In both instances, the producers emphasized that homosexuality was not "the point"</mark>. And <mark>was readily discarded in favor of more... *acceptable* explanations.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p115" %}>
@@ -623,7 +623,7 @@ The title derives from the United States Constitution's Article II, Sec. 2, cl. 
 </from>
 <james {% include timecode %}>
 
-Young Utah Senator Anderson is designated chairperson of the committee responsible for assessing the Secretary of State nominee proposed by the president. As the confirmation hearings continue, Anderson begins to suspect that the nominee may harbor... [dramatic] *communist sympathies*... which could compromise National Security. 
+Young Utah Senator Anderson is designated chairperson of the committee responsible for assessing the Secretary of State nominee proposed by the president. As the confirmation hearings continue, Anderson begins to suspect that the nominee may harbor... <u>[dramatic]</u> *communist sympathies*... which could compromise National Security. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_advise at="Plot¶ 3" %}>
@@ -668,14 +668,14 @@ As the 60s came to a close with the Stonewall uprisings, ultimately bringing the
 <compare>
 <james {% include timecode %}>
 
-\[James talks in a small box on black.]
+<u>[James talks in a small box on black.]</u>
 
 As we close out this episode I want to thank all my patrons. It's only because of you that videos like this are possible. YouTube isn't all too friendly when it comes to pushing queer content, let alone historical queer content. In fact, in most cases they try their best to keep it hidden. So our amazing patrons are the reason this channel keeps going. Thank you all... so much. Your support and getting to talk to you on the patreon Discord, it really means the world to me. And if you'd like to become a part of this seriously *amazing* community, you can do so for as little as a dollar a month at the link in the pinned comment. All right, now I'll let the credits roll and I'll see you next month for Unrequited Episode Five: A Crack In The Closet.
 
 </james>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits start to roll over ["Light In The Tunnel" by Valster](https://motionarray.com/royalty-free-music/light-in-the-tunnel-845958/)]
+<u>[Patreon credits start to roll over ["Light In The Tunnel" by Valster](https://motionarray.com/royalty-free-music/light-in-the-tunnel-845958/)]</u>
 
 </credits>
 </compare>

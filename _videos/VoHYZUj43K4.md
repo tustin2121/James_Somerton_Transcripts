@@ -269,7 +269,7 @@ James Somerton
 <compare>
 <james {% include timecode %}>
 
-The story of *Attack on Titan* is... \[audible exhale] It's a lot. Skip ahead to [part two](#{{ "Chapter 2: Fascist Adoption" | slugify}}) if you don't want manga spoilers. 
+The story of *Attack on Titan* is... <u>[audible exhale]</u> It's a lot. Skip ahead to [part two](#{{ "Chapter 2: Fascist Adoption" | slugify}}) if you don't want manga spoilers. 
 
 </james>
 <from></from>
@@ -278,7 +278,7 @@ The story of *Attack on Titan* is... \[audible exhale] It's a lot. Skip ahead to
 <compare>
 <james {% include timecode %}>
 
-\[Throughout this whole plot-recap section, James's voice is filtered like it is on an old-timey radio broadcast.]
+<u>[Throughout this whole plot-recap section, James's voice is filtered like it is on an old-timey radio broadcast.]</u>
 
 Season one: the "what the hell is going on?!" season.
 
@@ -352,7 +352,7 @@ Season 4, Part 2: the "exposition" season.
 
 <mark>Eren and Zeke managed to come together, which takes them to the Paths, an interconnected set of gateways connecting all the subjects of Ymir through time and space, where they encounter the mind of Ymir</mark>, <mark>the original Titan</mark>.
 
-\[Briefly not filtered]: (Not the lesbian Ymir, a different one.)
+<u>[Briefly not filtered]:</u> (Not the lesbian Ymir, a different one.)
 
 <mark>Whose tortured past has kept her in prison for thousands of years within the Paths</mark>, building the world's Titans out of sand, one-by-one. <mark>Zeke tries to persuade Ymir to grant his request of sterilizing all the subjects of Ymir</mark>, her descendants, therefore ending the Titan threat forever, and ending the suffering of all Eldians. However, <mark>Eren persuades Ymir instead to unleash the Rumbling, letting loose those thousands of colossal-like Titans held within the walls of Paradis and guiding them on a genocidal march to slaughter everyone outside the island.</mark> 
 
@@ -392,7 +392,7 @@ The <mark>Survey Corps ally with remaining Marley forces, including Reiner and a
 <compare>
 <james {% include timecode %}>
 
-\[End radio-like audio filtering]
+<u>[End radio-like audio filtering]</u>
 
 All right, clear as mud? Makes a lot more sense while you're watching or reading it. If you're interested in a breakdown that focuses more on the emotional beats of the story, check out [Totally Not Mark's Colossal Titan Review](https://www.youtube.com/watch?v=5LFsVz0XyHs) video. It's long but totally worth the watch.
 
@@ -475,7 +475,7 @@ Isayama's statement about this, which came from a 2010 blog post before *Attack 
 
 And before you turn around and say "how dare he commit war crimes", please examine how we white westerners prop up the likes of Winston Churchill, who ignored the deaths of three million East Indians, then British subjects, and other figures like... American president Teddy Roosevelt, who said 
 
-\[Quote shown on screen]:
+<u>[Quote shown on screen]:</u>
 
 > "I don't go so far as to think that the only good Indians are the dead Indians... but I believe nine out of every 10 are. And I shouldn't like to inquire too closely into the case of the tenth."
 
@@ -542,7 +542,7 @@ Alternately, and this concerns me, I've begun to wonder if the left also lacks t
 
 But is this the case with Eren Jaeger? Especially, as the series reaches its apocalyptic conclusion. As *Attack on Titan* comes to a close, the question becomes how to interact with it. And also whether or not a show can handle fascist ideas in the manner with which it does without being fascist and anti-semitic itself. Isayama declined to comment on the topic, saying
 
-\[Quote shown on screen]:
+<u>[Quote shown on screen]:</u>
 
 > "Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."
 
@@ -555,7 +555,7 @@ But is this the case with Eren Jaeger? Especially, as the series reaches its apo
 
 A large portion of the anime community, as a generic group, hold *Attack on Titan* with very high regard. You've probably seen some of the show's recognizable symbols, especially its military insignia, even if you haven't seen the anime or read the manga it's based on. If anything, you've probably heard portions of the iconic first season theme song, which is a banger.
 
-\[Plays potion of theme song] 
+<u>[Plays potion of theme song]</u>
 
 The show introduced many people to anime and manga, which is what makes criticism so tricky. It's hard to criticize one's first love. However being unable or unwilling to address the problems in *Attack on Titan*'s fictional world has caused a... long simmering unresolved conflict within the anime fandom.
 
@@ -601,7 +601,7 @@ Within fascism, there is typically a belief that death is the most significant c
 
 This is a component of why white nationalists often lean into Norse mythology. As it goes, entry into Valhalla is earned through a warrior's death, dying in battle. The most common way to die in battle was to be in an army.
 
-\[Meme cutaway to Mad Max characters shouting "Witness me!!!!!"]
+<u>[Meme cutaway to Mad Max characters shouting "Witness me!!!!!"]</u>
 
 This isn't to say that all Nordic culture itself was fascist. The concept of a good death was a religious one that spanned across the whole culture, rather than in service to a single ruler. That isn't to say that rulers would not *exploit* this, but the purpose of a good death was intrinsic rather than appealing to a concept of the greater good. Rhetoric around "the greater good" itself is a pivotal element of *Attack on Titan*. And especially in season 4, we see otherwise identifiable characters committing atrocities in the name of "the greater good"; such as the once relatively innocent Arman.
 
@@ -1101,9 +1101,9 @@ Because there is nothing more horrifying to a fascist... than someone they hate.
 <credits {% include timecode %} class="closing">
 
 > PRODUCED BY  
-[Long scrolling list of patreon names]
+<u>[Long scrolling list of patreon names]</u>
 
-[List of patrons scrolling over "Tears From My Eyes" by Den_Elbriggs]
+<u>[List of patrons scrolling over "Tears From My Eyes" by Den_Elbriggs]</u>
 
 </credits>
 </compare>

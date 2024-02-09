@@ -58,7 +58,7 @@ Previous video: [https://youtu.be/cMde5YLG6-w](cMde5YLG6-w.md)
 <compare>
 <credits>
 
-\[News Station Ident intro screen]
+<u>[News Station Ident intro screen]</u>
 
 > Gay News  
 LIVE! 
@@ -66,7 +66,7 @@ LIVE!
 > Studio 6.5  
 YOUTUBE
 
-\[James appears with an "SHTV" Lower Third]
+<u>[James appears with an "SHTV" Lower Third]</u>
 {% assign timecode = "0:07" %}
 
 </credits>
@@ -430,7 +430,7 @@ Yes, I know that queer folks, and many of our allies, have been clambering for r
 
 “The fish-boys can’t be gay. This is a movie for children.” “Maybe if they were a few years older. Maybe 16. Then they could be gay.” “Why does everything have to be about making things gay? Can’t you just let kids be kids?” 
 
-<span class="add">[Nick in the background:] "Go home kids!" [James laughs, Nick continues:] "[Inaudible] go home!"</span>
+<span class="add"><u>[Nick in the background:]</u> "Go home kids!"<u> [James laughs, Nick continues:]</u> "[Inaudible] go home!"</span>
 {% assign timecode = "18:31" %}
 
 </james>
@@ -453,7 +453,7 @@ However, while they may also watch <span class="del">The</span> Trixie and Katya
 
 This is no doubt due to the conflation between same-gender attraction and sex itself. Which, you wouldn’t know this from looking at the way our culture has this discussion, but they are *absolutely* not the same thing. As a gay child, I didn’t want to suddenly put on a full face of makeup and vogue my way into a bathhouse. 
 
-Believe it or not, but psychological development among gay people happens at the same rate as straight people. We want to start having sex roughly at the same time <span class="del">that straight people do</span><span class="add">as our straight peers</span>. It’s just that given that there are still elements of taboo around gayness, we also reject the taboo stigma of virginity. So we’re more likely to start going at it when our straight peers still want to <span class="add">[granny voice]</span> keep their legs closed for Jesus. 
+Believe it or not, but psychological development among gay people happens at the same rate as straight people. We want to start having sex roughly at the same time <span class="del">that straight people do</span><span class="add">as our straight peers</span>. It’s just that given that there are still elements of taboo around gayness, we also reject the taboo stigma of virginity. So we’re more likely to start going at it when our straight peers still want to <span class="add"><u>[granny voice]</u></span> keep their legs closed for Jesus. 
 
 </james>
 <from></from>
@@ -482,7 +482,7 @@ The observation here is that regardless of how we are *perceived* to be, we have
 <compare>
 <james {% include timecode %}>
 
-However, as we mature through puberty, sex becomes an option for how we express that affection. Just because sex-acts with the same gender are how the straight hegemony qualifies us as <span class="add">*homo-hemosexuals—* [*blooper*]</span>
+However, as we mature through puberty, sex becomes an option for how we express that affection. Just because sex-acts with the same gender are how the straight hegemony qualifies us as <span class="add">*homo-hemosexuals—* <u>[*blooper*]</u></span>
 
 Just because sex acts between two people of the same gender are how the straight hegimony qualifies us as homosexuals, does *not* mean that is the beginning and end of what we are. One of the misconceptions the straights seem to have is due to <span class="del">a</span> misunderstanding of the term: homo-*sexual*. They seem to read it as if the key element to being gay is *sex*, how we want to have it, and who we have it with. When in reality, sex is the common ground we share with straight people. Hetero-*sexuals*. We have sex with people who we are attracted to (if we’re lucky) the difference is who we are attracted to. 
 
@@ -618,7 +618,7 @@ NICK HERRGOTT
 > EXECUTIVE PRODUCERS
 [Three Patron Names]
 
+<u>[Soft piano music plays as the list of patrons scrolls by.]</u>
+
 </credits>
 </compare>
-
-\[Soft piano music plays as the list of patrons scrolls by.]

@@ -540,7 +540,7 @@ And straight characters started acting gay in order to get a woman in bed. Funni
 
 Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
 
-\[He takes a drink from a glass with his pinky in the air as the woman he was flirting with looks on in concern.]
+<u>[He takes a drink from a glass with his pinky in the air as the woman he was flirting with looks on in concern.]</u>
 
 </clip>
 </compare>
@@ -663,7 +663,7 @@ But though the film's depiction of homosexuality and reactions to it are flawed,
 <compare>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-\[Clip from *Walk on the Wild Side*]:
+<u>[Clip from *Walk on the Wild Side*]:</u>
 
 Jo Courtney: (slams door) "Oliver saw you. You were with Dove all afternoon. Now you know lying to me, Elliot. Oh well, perhaps maturity will change all that."
 
@@ -698,11 +698,11 @@ Jo: "Of course, you'll change! But haven't you said that so many times before?! 
 </clip>
 <clip {% include citation for=page.cite.clips.the_detective %}>
 
-\[Clip from *The Detective* (1968)]:
+<u>[Clip from *The Detective* (1968)]:</u>
 
 MacIver (voice over): "The thought of turning, of turning *involuntarily* into one of them, frightened me and made me sick with anger. I went down there. I had heard about the waterfront. People giggle and make jokes about it. I had had only two experiences before: once in college... once in the army... I thought I'd gotten it out of my life, but I hadn't. I looked at them..."
 
-\[Camera cuts to two guys kissing behind a truck.]
+<u>[Camera cuts to two guys kissing behind a truck.]</u>
 
 MacIver (voice over): "Was this what I was like?! Oh my God!"
 
@@ -721,7 +721,7 @@ And that self-loathing, inevitably, turned to death, suicide, murder, whatever i
 <compare>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-\[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]<wbr off />
+<u>[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]<wbr off /></u>
 {% assign timecode = "29:07" %}
 
 </clip>
@@ -735,11 +735,11 @@ Two years later we even popped up in an Oscar juggernaut with *Cabaret*.
 <from></from>
 <clip {% include citation for=page.cite.clips.cabaret %}>
 
-[Brian walks away from the bed, changes record.]
+<u>[Brian walks away from the bed, changes record.]</u>
 
 Sally: "Maybe you just don't sleep with girls."
 
-[Brian says nothing, shifts uncomfortably.]
+<u>[Brian says nothing, shifts uncomfortably.]</u>
 
 Sally: "Oh... You don't."
 
@@ -758,7 +758,7 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 <compare>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-\[Montage of various movies to ["I'm Coming Out" by Diana Ross](https://www.youtube.com/watch?v=F-mjl63e0ms) (severely pitch-shifted and sped up to avoid copyright).]
+<u>[Montage of various movies to ["I'm Coming Out" by Diana Ross](https://www.youtube.com/watch?v=F-mjl63e0ms) (severely pitch-shifted and sped up to avoid copyright).]</u>
 {% assign timecode = "31:08" %}
 
 </clip>
@@ -963,7 +963,7 @@ Merlin: "What."
 
 Arthur: "Well then... think we'd probably get on."
 
-\[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.]
+<u>[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.]</u>
 
 </clip>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(5:31)" %}>
@@ -974,7 +974,7 @@ Merlin: "What."
 
 Arthur: "Well then... think we'd probably get on."
 
-\[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.] \*Gay ass music\*
+<u>[Snippet of Marvin Gaye's ["Let's Get It On"](https://www.youtube.com/watch?v=54LgyqSPfsQ) plays.] \*Gay ass music\*</u>
 
 </from>
 <james {% include timecode %}>
@@ -992,11 +992,11 @@ But there's a bond between the two, one that Merlin can't *let* become too stron
 
 But we can't ignore the obvious here. Merlin has magic and Camelot is strictly anti-magic which brings us to our sub point.
 
-\[On screen]: "2. magic is gay"
+<u>[On screen]: "2. magic is gay"</u>
 
 <mark x>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
 
-\[Various clips from the show as a big rainbow flag slowly grows over the screen]:  
+<u>[Various clips from the show as a big rainbow flag slowly grows over the screen]:</u>  
 "What if... magic isn't something you choose?"  
 "Face it, man, we're really alike."  
 "I've always been taught... magic is evil."  
@@ -1012,7 +1012,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 
 Morgana: "What if... magic isn't something you choose? What if it chooses you?"
 
-\[Merlin looks contemplative.]
+<u>[Merlin looks contemplative.]</u>
 
 </clip>
 <comment>
@@ -1069,23 +1069,23 @@ Merlin: "Just say it!"
 
 Arthur: "I can't!"
 
-[Merlin smiles at him]
+<u>[Merlin smiles at him]</u>
 
 Arthur: "How can I admit that I think about her all the time?"
 
-\[Sliced in clip]: Arthur (in bed): "Mer..."
+<u>[Sliced in clip]:</u> Arthur (in bed): "Mer..."
 
 Arthur: "Or that I care about her more than anyone."
 
-\[Sliced in clip]: Woman (voice over): "Arthur's strangely fond of the boy."
+<u>[Sliced in clip]:</u> Woman (voice over): "Arthur's strangely fond of the boy."
 
 Arthur: "How can I admit that... I don't know what I'll do if any harm comes?"
 
-\[Sliced in clip]: Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
+<u>[Sliced in clip]:</u> Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
 
 Arthur: "To admit my feelings, knowing that... hurts... too much."
 
-[Merlin isn't smiling anymore.]
+<u>[Merlin isn't smiling anymore.]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -1119,11 +1119,11 @@ Ellion: "Alright." "So he's like that with all the maids in Camelot?"
 
 Gwen: "No." 
 
-\[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"
+<u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
 
 "Yes." "I mean..."
 
-\[On screen, next to her, like Gwen is thinking this]: "wait a second..."
+<u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
 
 </from>
 <clip visual={{atg}} on="16:56" off="17:18" {% include citation for=page.cite.clips.merlin %}>
@@ -1140,11 +1140,11 @@ Ellion: "Right... so he's like that with all the maids that come up?"
 
 Gwen: "No."
 
-\[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"
+<u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
 
 Gwen: "Yes. I mean..."
 
-\[On screen, next to her, like Gwen is thinking this]: "wait a second..."
+<u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
 
 </clip>
 {% assign timecode = "41:55" %}
@@ -1177,7 +1177,7 @@ When Merlin is in danger, Arthur rides to his rescue. The king doesn't send his 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(20:22)" %}>
 
-When merlin is presumed to be dead in "A Servant of two masters" Arthur cannot accept that Merlin is dead and <mark num=2>the freakin king of Camelot goes by himself</mark> [On screen: "(Not by himself)"] <mark num=1>to look for a servant</mark>! Guys this isn't a one-time thing! It keeps happening.
+When merlin is presumed to be dead in "A Servant of two masters" Arthur cannot accept that Merlin is dead and <mark num=2>the freakin king of Camelot goes by himself</mark> <u>[On screen: "(Not by himself)"]</u> <mark num=1>to look for a servant</mark>! Guys this isn't a one-time thing! It keeps happening.
  
 </from>
 <james {% include timecode %}>
@@ -1282,7 +1282,7 @@ John has always questioned Sherlock's sexuality. In fact, when they first meet, 
 > 
 > Watson: "Alright, okay." (licks lips) 
 > 
-> \[Avila adds "lick" on screen]
+> <u>[Avila adds "lick" on screen]</u>
 > 
 > Watson: "No one attached, just like me."
 
@@ -1318,7 +1318,7 @@ And then Sherlock goes on to reject John coming on to Sherlock by saying:
 > Sherlock: "John, um, I think you should know that <mark num=2>I consider myself married to my work</mark> and while I'm flattered by your interest, I'm really not looking for any-" 
 > 
 > Watson: "No, I'm not asking- No. I'm just saying, it's all fine."  
-\[End clip]
+<u>[End clip]</u>
 
 <mark num=1>Sherlock assumed that John was interested</mark>. Sherlock isn't stupid. He knows when people are romantically attached to him. He knows the science of attraction. <mark num=3>He's the master of body language and deduction</mark>, <mark num=4>so why did he read John as coming on to him? Maybe it was because he was.</mark>
 
@@ -1472,7 +1472,7 @@ Watson: (Taken aback) "Okay, that's good. I mean I always thought I was great."
 
 Woman: (looking at watch) "And Sherlock Holmes is a very lucky man."
 
-[Watson groans.]
+<u>[Watson groans.]</u>
 
 <footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner.</footer>
 </clip>
@@ -1487,7 +1487,7 @@ But <mark>after Sherlock</mark> (quote-unquote) <mark>"dies", John is left broke
 
 So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
 
-\[Sudden sirens and full majenta warning screen]: 
+<u>[Sudden sirens and full majenta warning screen]: </u>
 > FOUR YEAR SPOILER FOR THE REICHENBACH FALL KIND OF, I GUESS???
 
 --<mark>dies, John is broken.</mark> Heartbroken. HEARTBROKEN.
@@ -1502,7 +1502,7 @@ So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
 
 John also has a similar scene where <mark x>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
 
-> [There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]
+> <u>[There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]</u>
 > 
 > Therapist: "The stuff that you wanted to say..." "... but didn't say it."
 >
@@ -1543,7 +1543,7 @@ Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 > 
 > Adler: "Yes, you are."
 >
-> [Watson looks confused]
+> <u>[Watson looks confused]</u>
 > 
 > Adler: "There." "I'm not dead." "Let's have dinner."
 >
@@ -1551,7 +1551,7 @@ Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 >
 > Adler: "Well I am." "Look at us both."
 >
-> [Watson stares off. On screen, added by Avila: "2soon"]
+> <u>[Watson stares off. On screen, added by Avila: "2soon"]</u>
 
 What Irene is saying here, ASSERTING, is that John and Sherlock are a couple. She doesn't even deny it, she just says: "Yes, you are." John returns with the usual "I'm not THAT way response", but Irene dismisses that excuse with "Well, I am." 
 
@@ -1570,7 +1570,7 @@ What Irene is saying here, ASSERTING, is that John and Sherlock are a couple. Sh
 
 Adler: "Well I am. Look at us both."
 
-<span visual=none off="?">[Watson stares off, and scoffs.]</span>
+<span visual=none off="?"><u>[Watson stares off, and scoffs.]</u></span>
 
 <footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner, and are not a subset of usable footage of Avila's.</footer>
 
@@ -1637,7 +1637,7 @@ AreTheyGay goes into Mary, but not for very long or this deep. So this must be s
 
 So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the shows creators, Mark Gatiss, is gay himself! 
 
-[Sighs heavily.]
+<u>[Sighs heavily.]</u>
 {% assign timecode = "49:26" %}
 
 </james>
@@ -1666,7 +1666,7 @@ Transcription note: In lieu of showing clips, James shows the script on screen o
 
 Now why do I think this? Well, let's start off with how they meet. <mark>Albus and his cousin Rose are on their way to their first year at Hogwarts.</mark>
 
-\[Quote from script on screen]:
+<u>[Quote from script on screen]:</u>
 > <mark></mark>Albus opens a door- to look in on a lonely blonde kid, Scorpius - in an otherwise empty compartment. 
 > 
 > Albus smiles. Scorpius smiles back.
@@ -1682,7 +1682,7 @@ Eventually, <mark>Rose leaves </mark>the two and we get this description:
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(1:38)" %}>
 
-<mark>Albus and his cousin Rose are going to start their first year at Hogwarts.</mark> Rose believes that when they enter the train they're going to have to decide who they're gonna be BFFs for life with. They get into the train, and Albus opens the door where conveniently the son of his father's rival is sitting because destiny of course. [Saxophone solo plays]
+<mark>Albus and his cousin Rose are going to start their first year at Hogwarts.</mark> Rose believes that when they enter the train they're going to have to decide who they're gonna be BFFs for life with. They get into the train, and Albus opens the door where conveniently the son of his father's rival is sitting because destiny of course. <u>[Saxophone solo plays]</u>
 
 > <mark></mark>*ALBUS opens <del>a</del><ins>the</ins> door — to look in on a lonely blond kid — SCORPIUS — in an otherwise empty compartment. ALBUS smiles. SCORPIUS smiles back.* 
 
@@ -1759,13 +1759,13 @@ So because the structure of this play is a bit... *off*, <mark>we're in year fou
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(4:19)" %}>
 
-\[Flashing on-screen]: "CONFUSING TIME TRAVEL PLOT??? (because they all are)"
+<u>[Flashing on-screen]: "CONFUSING TIME TRAVEL PLOT??? (because they all are)"</u>
 
 So now it's Albus and Scorpius's <mark>4th year at Hogwarts</mark>, and <mark>Albus wants to</mark> <mark>save Cedric Diggory</mark> (Aka Edward Cullen.) because... Albus believes it was a mistake that he had to die.
 
-And after talking to Amos Diggory, Cedric's father kind of, uh, wants to, uh. [mumbles] fix ...the past or something... 
+And after talking to Amos Diggory, Cedric's father kind of, uh, wants to, uh. <u>[mumbles]</u> fix ...the past or something... 
 
-\[Suddenly meme cutaway to Back to the Future poster, with "Back In Time" by Huey Lewis and the News]
+<u>[Suddenly meme cutaway to Back to the Future poster, with "Back In Time" by Huey Lewis and the News]</u>
 
 </from>
 </compare>
@@ -1782,7 +1782,7 @@ So Albus and Scorpius are gonna start their fourth year, And they're at the trai
 
 Except <mark>Albus and Scorpius decide to ditch the train to school</mark> so that they can go find a time-traveling device called the <mark>Time Turner</mark>, so they can go back in Time-- 
 
-\["Back In Time" meme cutaway again]
+<u>["Back In Time" meme cutaway again]</u>
 
 --then <mark>save Cedric</mark>! Because they're super rebellious now!
 
@@ -2038,7 +2038,7 @@ He thinks he's a terrible person. That maybe all the horrible things said about 
 
 It's that disconnect of communication, of intimacy Albus and Scorpius are not used to being close with other people besides each other, and for Scorpius to reveal and expose himself to Albus is... something big for him.
 
-Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpius is <mark>Voldemort's son</mark>. And then the hidden love confession starts. Scorpius has just exposed the angry part of himself but now Albus is exposing how he really feels, too. [another sax solo]
+Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpius is <mark>Voldemort's son</mark>. And then the hidden love confession starts. Scorpius has just exposed the angry part of himself but now Albus is exposing how he really feels, too. <u>[another sax solo]</u>
 
 > <mark></mark>ALBUS: No, they're not true. And I'll tell you why. Because I don't think Voldemort is capable of having a kind son — and you're kind Scorpius. To the depths of your belly, to the tips of your fingers. I truly believe Voldemort — Voldemort couldn't have a child like you.
 >
@@ -2152,11 +2152,11 @@ Another hug and another display of intimacy.
 <compare>
 <james {% include timecode %}>
 
-\[There's a completely unrelated quote that is now scrolling on screen, but James is reading it like it's part of the Cursed Child script. The quote on screen is as follows:]
+<u>[There's a completely unrelated quote that is now scrolling on screen, but James is reading it like it's part of the Cursed Child script. The quote on screen is as follows:]</u>
 
 <blockquote class="del">"You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."</blockquote>
 
-\[What James is reading out:]
+<u>[What James is reading out:]</u>
 
 <blockquote class="add">
 
@@ -2253,7 +2253,7 @@ Additionally, there's physical flirtation between the duo. In a diner, Sandra sp
 
 Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other. So for me nothing about their relationship points to just being friends. And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer, for the movie said in an interview after the film's release:
 
-\[Quote from above now placed correctly, scrolling on screen]:
+<u>[Quote from above now placed correctly, scrolling on screen]:</u>
 > "You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."
 
 So when they started production, Lou and Debbie had been in a relationship, but by the time they'd wrapped, that was no longer the case. Secret lesbians confirmed. Now give me a sequel so they can kiss already!
@@ -2282,7 +2282,7 @@ Much like with Merlin, the pair start the series off on a bad paw. But over the 
 <from></from>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Garage]
+<u>[Garage]</u>
 
 Stiles: "Well, Dad, there's a conversation that we--"
 
@@ -2295,7 +2295,7 @@ Dad: "Not dressed like that."
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Dance club]
+<u>[Dance club]</u>
 
 Stiles: "Uh, I thought you liked girls."
 
@@ -2320,7 +2320,7 @@ So pretty quickly, it set up that Stiles is bisexual. Is it said outright? *No!*
 <from></from>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Walking down school hallway]
+<u>[Walking down school hallway]</u>
 
 Stiles: "I don't think Danny likes me very much."
 
@@ -2340,7 +2340,7 @@ Guy (to Derek): "Everyone wants you. You know, you're like the hot girl that eve
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Stiles shouting out a car window]
+<u>[Stiles shouting out a car window]</u>
 
 Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
 
@@ -2351,14 +2351,14 @@ Man: "We should, maybe, take this upstairs?"
 
 Girl: "He's my type."
 
-\[Meaningful looks all around]
+<u>[Meaningful looks all around]</u>
 
 Stiles: (scratches neck) "Okay, Issac can come too."
 
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-[School hallway]
+<u>[School hallway]</u>
 
 Stiles: (sighs) "And I also got to say, this new-found heroism has making me very attracted to you."
 
@@ -2380,7 +2380,7 @@ When Stiles and the main character, Scott, go to a gay bar, Stiles even gets fru
 <compare>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Classroom]
+<u>[Classroom]</u>
 
 Stiles: "One more question?"
 
@@ -2391,7 +2391,7 @@ Stiles: "Do you find me attractive?"
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Locker Room]
+<u>[Locker Room]</u>
 
 Stiles: "Someone needs to have sex with me, like *today*. Like someone needs to sex me *right now*."
 
@@ -2410,16 +2410,16 @@ Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Classroom]
+<u>[Classroom]</u>
 
-\[Previous scene, Stiles is apparently waiting for Danny to answer, falls over and causes clattering.]
+<u>[Previous scene, Stiles is apparently waiting for Danny to answer, falls over and causes clattering.]</u>
 
 </clip>
 <clip {% include citation for=page.cite.clips.teenwolf %}>
 
-\[Cafeteria]
+<u>[Cafeteria]</u>
 
-\[Stiles sits akwardly between Danny and another girl.]
+<u>[Stiles sits akwardly between Danny and another girl.]</u>
 
 </clip>
 </compare>
@@ -2427,7 +2427,7 @@ Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it
 <compare>
 <james {% include timecode %}>
 
-\[Over Black screen]: Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
+<u>[Over Black screen]:</u> Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
 
 <wbr on />Derek is straight. Very straight. He has all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.<wbr off /> But Stiles can't get him off his mind.
 
@@ -2477,7 +2477,7 @@ The reason this is so onerous is because the queer baiting didn't even stay in t
 <from></from>
 <clip {% include citation for=page.cite.clips.teenwolf_advert %}>
 
-[Dylan O'Brien and Tyler Hoechlin on a boat, in one another's arms.]
+<u>[Dylan O'Brien and Tyler Hoechlin on a boat, in one another's arms.]</u>
 
 Tyler: "Vote for us. Uh, it's *Teen Wolf* for best... summer show?" (to Dylan)
 
@@ -2498,7 +2498,7 @@ Dylan: "Sterek all the way."
 </clip>
 <james {% include timecode %}>
 
-*I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. [Shrugs]
+*I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. <u>[Shrugs]</u>
 
 <wbr on />This is probably the most obvious example of queer baiting to have ever existed in monitored media.<wbr off /> But it wasn't the most well-known. Bringing out the big guns now.
 
@@ -2554,7 +2554,7 @@ I'm dying to meet you
 <from></from>
 <james {% include timecode %}>
 
-\[About the clip playing at that moment]:  
+<u>[About the clip playing at that moment]:  </u>
 ...That's right, Elsa, you run down that ice vagina.
 
 But seriously though, those lyrics sound like an email I wrote to my online boyfriend in Ohio in the seventh grade. So is Elsa gay? Eh... maybe? *Frozen 3* is in development, so Elsa might climb out of her sapphic slump, or Disney will continue to not say "yes" but not say "no" either, just like they did with one of their other Global spanning IPs.
@@ -2577,7 +2577,7 @@ Well, they didn't tell us "they fell madly in love", <span class="visual">but th
 <from></from>
 <clip {% include citation for=page.cite.clips.not_star_wars %}>
 
-[Clip from something that isn't Star Wars, where a man is sniffing someone's blue denim jacket.]
+<u>[Clip from something that isn't Star Wars, where a man is sniffing someone's blue denim jacket.]</u>
 
 </clip>
 </compare>
@@ -2597,7 +2597,7 @@ So then Finn meets Rey, and as I watched the movie I thought, <mark>"here we go:
 </from>
 <clip {% include citation for=page.cite.clips.star_wars_7 %}>
 
-\[Clip posturized to avoid copyright. Onscreen:] "Disney wasn't too pleased with me using this scene so I had to mess with it a bit."
+<u>[Clip posturized to avoid copyright. Onscreen:] "Disney wasn't too pleased with me using this scene so I had to mess with it a bit."</u>
 
 Poe: (in the distance) "It's so good to see you."
 
@@ -2637,11 +2637,11 @@ The eye fucking! Oh my God!
 
 <mark x>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
 
-\[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
+<u>[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]</u>
 
 Oscar: "It's very subtle romance that's happening... you know, you have to just look very close-- you have to watch it a few times to see the little hints, but there was... At least I was playing romance."
 
-[General laughter]
+<u>[General laughter]</u>
 
 John: "I was playing--"
 
@@ -2649,7 +2649,7 @@ Oscar: "In the cockpit, I was playing, there was a very deep romance happening."
 
 Ellen: "I--! I see! And so it's subtle, but you were playing romance. So when we're watching you, that's what we should be aware of."
 
-Oscar: "I won't say with which character." [More laughter]
+Oscar: "I won't say with which character." <u>[More laughter]</u>
 
 Ellen: "In your head, you were having romance with someone."
 [...]
@@ -2657,11 +2657,11 @@ Ellen: "In your head, you were having romance with someone."
 </from>
 <clip visual={{atg}} on="6:21" off="6:33" {% include citation for=page.cite.clips.ellen_starwars %}>
 
-\[Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]
+<u>[Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]</u>
 
 Oscar: "It's very subtle romance that's happening... you know, you have to just look very close-- you have to watch it a few times to see the little hints, but there was... At least I was playing romance."
 
-[General laughter]
+<u>[General laughter]</u>
 
 John: "I was playing--"
 
@@ -2677,7 +2677,7 @@ Ellen: "I--! I see!"
 
 So though it wasn't obvious, Oscar Isaac and John Boyega were certainly playing it that way. So would it be more obvious in *The Last Jedi*? Well, leading up to the release of *The Last Jedi*, *Star Wars* producer Kathleen Kennedy was asked about the potential relationship. She said:
 
-\[Quote scrolling on screen like a Star Wars opening text crawl]:
+<u>[Quote scrolling on screen like a Star Wars opening text crawl]:</u>
 > We've talked about it, but I think you're not going to see that in The Last Jedi. In the next six or eight months we will have some meetings about the stories that we will develop next... After 40 years of adventures, people have a lot of information and a lot of theories about the path these stories can take, and sometimes those theories that come up are new ideas for us to listen to, read and pay attention to.
 
 </james>
@@ -2707,7 +2707,7 @@ So he wasn't happy about it. The fans shipping FinnPoe weren't happy about it. T
 
 I'm not saying making Poe and Finn gay would have saved the box office, probably the opposite, to be honest. But at least Disney could have said that they did something before any other studio. <span class="visual">That they put gay characters in a giant cinematic spectacle before most studios are willing to even *give us a movie at all*.</span> But this is the company that tossed *Love, Victor* back into the streaming closet, so what else would we expect? 
 
-I mean, I'm sure Disney hasn't done anything like this before. [Turning as if someone's speaking to him from off-screen] What was that?
+I mean, I'm sure Disney hasn't done anything like this before. <u>[Turning as if someone's speaking to him from off-screen]</u> What was that?
 
 </james>
 <from></from>
@@ -2759,7 +2759,7 @@ Interesting use of the word "partner", there. Could have said "the right girl".
 
 <wbr on />So, after Steve becomes Captain America, Bucky is captured and presumed killed by Hydra, the super Nazis, and Steve goes out to save him. Bucky means the world to him, and if there's even a *chance* of him being alive, he's not going to lose him. Cap saves the day, of course, and this tiny gesture...<wbr off /> 
 
-[Showed clip of Cap putting a hand on the back of Bucky's neck for a second.]
+<u>[Showed clip of Cap putting a hand on the back of Bucky's neck for a second.]</u>
 
 I don't know, it really caught my attention the first time I saw the movie. 
 

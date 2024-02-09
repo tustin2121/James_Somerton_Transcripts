@@ -130,7 +130,7 @@ But first, let’s have a look at China’s odd, winding journey into the film i
 <compare>
 <credits class="opening">
 
-\[Titles play over sepiatone footage of presumably what's supposed to be China and playing foreboding music]
+<u>[Titles play over sepiatone footage of presumably what's supposed to be China and playing foreboding music]</u>
 
 > James Somerton  
 presents
@@ -358,7 +358,7 @@ The germ of truth here is that [there are reports of Chinese theater chains jack
 
 <mark num=1></mark>The only person who suggested that this one movie's numbers are fake is film journalist/ vlogger Grace Randolph, and she literally has a section of her Wikipedia dedicated to shit she's made up. Now I watched her video, she doesn't have any evidence, she just think it's suspicious that a movie could do that well during COVID.
 
-\[Clip from Grace's video]:
+<u>[Clip from Grace's video]:</u>
 > Grace Randolph: "They doubled their last biggest opening and that seems to me like a ridiculous jump. There's no way it would jump that high."
 
 You know, she's all like, you know, "I'm just asking questions," it's nonsense. 
@@ -474,7 +474,7 @@ Well! Have I got news for you, dear viewer. Have you ever heard of BL? It’s th
 
 So what is BL? Well, I’ll differ to an expert. According to Manga Planet: 
 
-\[Text scrolling on screen]:
+<u>[Text scrolling on screen]:</u>
 > <mark>“<span stat:id="changed-quote">Originating in Japan,</span></mark> <mark>Boys’ Love or BL is a literary genre or media depicting the romance between male characters. Commonly referred to as “yaoi"</mark> <mark>by overseas fans, from books to fan fiction, manga, anime, and video games. BL stories tend to be written mostly by women.</mark>
 >
 > <mark>Boys’ Love began as fan works by</mark> <span stat:id="changed-quote">women</span> <mark>fans.</mark> <mark>Later in the 1980s, yaoi manga expanded from fan groups to mainstream media via anime or OVA (original video animation) adaptations.</mark> <mark>Since then, Japan has produced yaoi media through various platforms.”</mark>
@@ -690,7 +690,7 @@ But the rise of BL in China, sadly, doesn’t mean the Chinese government is goi
 
 Ge Liang, a researcher at King’s College London said: 
 
-\[Quote scrolling on screen]:
+<u>[Quote scrolling on screen]:</u>
 > <mark>“By hinting at male homoerotic love, the directors and actors are appropriating the interest of</mark>… <mark>gay life, trying to turn these into cash and traffic</mark>. <mark>But instead of speaking up for the LGBTQ community, they stay in line with China’s official policy on gay people: ‘keep</mark> <span stat:id="changed-quote">them</span> <mark>silent and keep them sinful</mark>.’” 
 
 <mark>Most gay people in China still face prevalent discrimination in households, schools, and workplaces. But these struggles are invisible to the public eye, as state censors ban almost all representation of obvious homosexuality in mass media. In 2018, a writer was sentenced to more than 10 years in jail for writing and selling gay</mark> erotica. 
@@ -805,7 +805,7 @@ You only really see theocracies in smaller countries, both in terms of populatio
 
 This should illustrate just how delicate dictatorships actually are. In order for the state to function, everybody in the nation needs to be doing what the state wants them to do. Given that the state is meant to function as a well-oiled machine, there isn’t a whole lot of slack for, say, a workers strike. 
 
-Take this however you want, but... if your economy tells you that it can’t possibly survive a workers strike, you just might be in a totalitarian regime. [Raises eyebrows at the camera.]
+Take this however you want, but... if your economy tells you that it can’t possibly survive a workers strike, you just might be in a totalitarian regime. <u>[Raises eyebrows at the camera.]</u>
 
 </james>
 <from></from>
@@ -913,7 +913,7 @@ But McCarthyism didn’t stick <span class="add">around</span> in America, simpl
 The Chinese government’s saving grace, thus far, had been the proverbial iron curtain[^iron-curtain] that separated global media from Chinese audiences. The state can control what media the public receives, the state can dictate what a ‘proper citizen’ is. 
 
 This is why Hong Kong was such a problem <span class="add">for--</span>  
-[Screen cuts to color bars, tone plays, subtitles read "($ubt!tle$ 8locked)".]
+<u>[Screen cuts to color bars, tone plays, subtitles read "($ubt!tle$ 8locked)".]</u>
 
 </james>
 <from></from>
@@ -1027,7 +1027,7 @@ We’ve always been here. We’re always going to be here. Remember that.
 <compare>
 <credits class="closing">
 
-\[Patreon credits roll over some funky music.]
+<u>[Patreon credits roll over some funky music.]</u>
 
 </credits>
 </compare>

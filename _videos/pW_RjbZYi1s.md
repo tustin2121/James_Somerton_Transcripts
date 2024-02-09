@@ -94,7 +94,7 @@ Note: This video is a compilation of five previous videos. In lieu of copy-pasti
 
 This video is brought to you by my patrons. If you'd like to support my channel and get access to extras like audio commentaries, a patron exclusive podcast, and uncut videos, you can join by clicking the link in the description.
 
-\[On screen]: "Thank You Patrons"
+<u>[On screen]: "Thank You Patrons"</u>
 
 </james>
 </compare>
@@ -123,7 +123,7 @@ tradespeople that helped turn Hollywood from a backwater orange grove in Califor
 <compare>
 <credits span=2 class="opening telos-wide" {% include timecode %}>
 
-\[Opening credits of gold playing over ["The Abstract Glitch" by Alex Menco](https://www.youtube.com/watch?v=CGRQt_7d8Ws)]
+<u>[Opening credits of gold playing over ["The Abstract Glitch" by Alex Menco](https://www.youtube.com/watch?v=CGRQt_7d8Ws)]</u>
 
 > Telos Pictures  
 > <span style="font-size:small;">presents</span>

@@ -64,7 +64,7 @@ This video is brought to you by my patrons. If you’d like to support my channe
 <compare>
 <credits>
 
-\[Series Ident]: "Pocket Gays; Short Videos, Big Subjects"
+<u>[Series Ident]:</u> "Pocket Gays; Short Videos, Big Subjects"
 
 </credits>
 </compare>
@@ -244,7 +244,7 @@ The year was 1977 and <mark>that woman was Anita Bryant, a former Miss Oklahoma<
 <compare>
 <james {% include timecode %}>
 
-\[Quote displayed on screen:]
+<u>[Quote displayed on screen:]</u>
 
 > “It’s a contemporary version on these older attempts to annul homosexuality,” 
 
@@ -275,7 +275,7 @@ Historians say they’ve seen this before.
 
 I want to know what pills these people are popping. If we actually had the power to turn people gay do you think for a second we wouldn’t have abducted Chris Evans and forced him to watch *Death Becomes Her* on a loop, like *Clockwork Orange* style by now? 
 
-\[Meme cutaway, demonstrating the above]: “En garde… BITCH.” 
+<u>[Meme cutaway, demonstrating the above]:</u> “En garde… BITCH.” 
 
 Anyway. 
 

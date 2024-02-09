@@ -83,7 +83,7 @@ Prior to this video being released, James was complaining on discord about how h
 <compare>
 <james {% include timecode %}>
 
-On Screen: "[Disclaimer]"
+<u>[On Screen:] "[Disclaimer]"</u>
 
 I want to be absolutely clear upfront, so that you can be very assured where my intentions are going forward: I do not dislike any of the media that we're talking about in this video. In fact, I loved most of it, on the page and the screen. I'm not coming for any of the creators this time. But we do need to talk about this because there is clearly an issue here, and it's becoming a problem. But the issue doesn't really have a clear target to blame.
 
@@ -242,7 +242,7 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 </from>
 </compare>
 
-[Sponsor Read]
+<u>[Sponsor Read]</u>
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
 
 ## Chapter 1: Missionary Suppression
@@ -252,7 +252,7 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 
 So *Red, White, and Royal Blue* might read like the ultimate what if scenario. But strip away the international diplomacy and royal trappings and you got yourself a pretty straightforward romance: two guys falling for each other when they least expect it. 
 
-\[Cutaway gag]: Groundbreaking
+<u>[Cutaway gag]:</u> Groundbreaking
 
 Now if you're familiar with the romance genre, you'll know that it's not exactly bursting at the seams with gay love stories that don't take a tragic turn. And mainstream romcoms... well, they've historically stuck to the script of snowflakes and sanitized kisses, with the steamier stuff being left implied (if it's acknowledged at all). Explicitly sexual gay romcoms are like unicorns: mythically rare and to some potentially unsettling. 
 
@@ -278,9 +278,9 @@ The story kind of saunters into this liminal space. It's not pure handholding pu
 
 Henry: My full name is "Henry George Edward James Hanover Stewart Fox"
 
-Alex: *[whistles]* And I thought "Alexander Gabriel Claremont-Diaz" was a mouthful.
+Alex: <u>[whistles]</u> And I thought "Alexander Gabriel Claremont-Diaz" was a mouthful.
 
-Henry: *[shy]* He is.
+Henry: <u>[shy]</u> He is.
 
 </clip>
 </compare>
@@ -465,7 +465,7 @@ Out of context, I found this reaction a little bit cringy and, truthfully, the o
 <compare>
 <james {% include timecode %}>
 
-Visual on screen: \[Disclaimer]
+<u>[Visual on screen:] "[Disclaimer]"</u>
 
 To be clear, gay people do not want to see these characters having sex. But gay people *do* want to know that gay sexuality is allowed to exist. Media that divorces sexuality from identity is to some annoying at best and triggering at worst. 
 
@@ -704,7 +704,7 @@ James has repeated this personal anecdote on stream, so it may be genuine.
 
 Many gay people cope with this by telling themselves that their teenage fantasies were simply impossible. Media instances that refute this without explanation may very well feel like direct personal criticism... for having trauma.
 
-\[Meme montage]: Jamie Lee Curtis saying "Trauma" repeatedly.
+<u>[Meme montage]:</u> Jamie Lee Curtis saying "Trauma" repeatedly.
 <!-- trauma trauma trauma generational trauma trauma trauma this is what trauma looks like -->
 
 These are the feelings that *Heartstopper* digs up in some people. So it makes perfect sense *why* the criticism would be so focused on presenting sexuality in a show that is neither focused on it nor is it required. It makes sense perhaps. But it is irrational. Even though trauma itself is valid, there is an onus on the individual to respect their own trauma without pushing it out into the world. 
@@ -757,7 +757,7 @@ Think *Brokeback Mountain*: would that have been as successful had it not starre
 
 The problem in practice is that this obligation *implores us* to watch media we simply may not be interested in. Either outside of our preferred genres or featuring casting that we don't like. Or something which may contain triggering elements that we don't even know are triggers simply because we don't consider existing in a society that does not accommodate our identities as CPTSD!
 
-\[Meme]: Another clip of Jamie Lee Curtis saying "Trauma".
+<u>[Meme]:</u> Another clip of Jamie Lee Curtis saying "Trauma".
 
 </james>
 <from></from>
@@ -810,7 +810,7 @@ We have a reluctance to let queer media be fantasies. Instead, as we're starved 
 
 Because for all that *Heartstopper* may be *seen* as an early indicator of a total failure of queer rights...
 
-\[On screen]: "IT ISN'T"
+<u>[On screen]: "IT ISN'T"</u>
 
 ...it's certainly an outlier next to a larger body of work that includes the aforementioned media and many others. *Heartstopper* might be popular but *Red, White, and Royal Blue* is the most watched Amazon Prime movie in the history of the service. 
 
@@ -951,10 +951,10 @@ world. So don't let anyone stop you from telling it.
 <compare>
 <credits class="closing" {% include timecode %}>
 
-&lt;Patreon plug&gt;
+<u>[Patreon plug]</u>
 <!-- this video was brought to you by our amazing patrons like the ones you see on screen right now if you'd like to help us keep making queer content on YouTube you can sign up for our patreon at the link in the description thanks for watching I don't who's or right youneed and I love it you bring on my to light I used to be Jed in my patience some people who walked in and out of my life but you is so different this time thoughts of the future of you caliz now you breaking Downs I've never found love with no ego you stitching up my scars forever just the start yeah you we go know go no no no no no go [Music] [Music] bre [Music] [Music] me together me and you are [Music] breaking down my walls never found love with no e you stitching up my scars forever just the start you no now you're breaking down my walls I've never found love it no love love it no love [Music] [Music] it [Music] n n -->
 
-Patreon names roll over the song [No Ego (feat. Supermans Feinde)](https://artlist.io/royalty-free-music/song/no-ego-feat-supermans-feinde/87332) by [Third Dimension](https://artlist.io/royalty-free-music/artist/third-dimension/1240).
+<u>[Patreon names roll over the song ["No Ego (feat. Supermans Feinde)"](https://artlist.io/royalty-free-music/song/no-ego-feat-supermans-feinde/87332) by [Third Dimension](https://artlist.io/royalty-free-music/artist/third-dimension/1240).]</u>
 
 <div class="lyrics">
 I'm putting away my pride

@@ -134,7 +134,7 @@ This video contains copyrighted material. The use of which has not always been s
 <compare>
 <credits class="opening" id="this_thing">
 
-\[Horror-themed opening]
+<u>[Horror-themed opening]</u>
 
 > James Somerton  
 presents
@@ -186,7 +186,7 @@ Not included in the credits, though they should have been:
 </compare>
 {% assign timecode = "1:14" %}
 
-[Fade up on video]
+<u>[Fade up on video]</u>
 
 <compare>
 <james {% include timecode %} id="para01" mid-text="Paragraph-01">
@@ -288,7 +288,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 <comment>
 <header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/">/u/gentlybeepingheart</a></header>
 <details>
-<summary>[Summarized, click to open for full quote.] His claim is shaky at best: Queer people existed in Egypt, but there's not a lot of info on them. If pharaohs and queens had same-gender consorts, it's not recorded. And the only "transgender pharaoh" we have info on is Hatshepsut, who is not actually transgender, but rather wanted to be a pharaoh and not a queen, and "pharaoh" is a male-gendered title.</summary>
+<summary>His claim is shaky at best: Queer people existed in Egypt, but there's not a lot of info on them. If pharaohs and queens had same-gender consorts, it's not recorded. And the only "transgender pharaoh" we have info on is Hatshepsut, who is not actually transgender, but rather wanted to be a pharaoh and not a queen, and "pharaoh" is a male-gendered title.</summary>
 
 > First off, there is actually pretty scarce firsthand of homosexuality in ancient Egypt. Scholars are pretty sure it existed, I do believe that one pharaoh ([Pepi II Neferkare](https://en.wikipedia.org/wiki/King_Neferkare_and_General_Sasenet)) was referred to as going to one of his general's house and "doing as he desired," but to say that they were multiple gay pharaohs isn't really supported. Also Nefekare had multiple female consorts, but chalk that up to James just using "gay" as an umbrella term. (edit: Also, I realized that James specified "gay and bisexual" with the Romans in the following sentence, which casts a weird light on this.)
 > 
@@ -321,7 +321,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 <comment>
 <header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/">/u/superninja109</a></header>
 <details>
-<summary>[Summarized, click to open for full quote.] There were <em>many</em> Greek philosophers who were possibly bisexual, though, they didn't have the concept of sexual identities back then, and assigning such identities to them steamrolls a lot of nuance.</summary>
+<summary>There were <em>many</em> Greek philosophers who were possibly bisexual, though, they didn't have the concept of sexual identities back then, and assigning such identities to them steamrolls a lot of nuance.</summary>
 
 > There were cultural associations between philosophy and pederasty--the cultural practice of man-boy couples (archetypally, although ages varied) involving both education and sexual favors. The main example is Plato, who famously defended male-male erotic love in Symposium as a starting point for greater philosophical virtues. Zeno of Citium was also a habitual pederast. Others (like Bion of Borysthenes, Theodorus of Cyrene, etc) said positive things about pederasty and boy-love, but we generally don't have actual biographical information about whether they were habitual pederasts or not .
 > 
@@ -347,11 +347,11 @@ But that didn't last.
 <comment id="early_church">
 <header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" >LVence</a></header>
 
-> [His take on early Christianity] Isn't correct. The early church father and Christian authorities unanimously condemned homosexuality. He might have taken this from John Boswell, but this is disputed by religious scholars. [https://en.m.wikipedia.org/wiki/History_of_Christianity_and_homosexuality](https://en.wikipedia.org/wiki/History_of_Christianity_and_homosexuality#Early_Christianity)
+[His take on early Christianity] Isn't correct. The early church father and Christian authorities unanimously condemned homosexuality. He might have taken this from John Boswell, but this is disputed by religious scholars. [https://en.m.wikipedia.org/wiki/History_of_Christianity_and_homosexuality](https://en.wikipedia.org/wiki/History_of_Christianity_and_homosexuality#Early_Christianity)
 
 <header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898">lemmy</a></header>
 
-> It's an incredibly vague take too. Which early Christians were accepting of homosexuality? There were like, several dozen Christian sects and cults running around during the early days of Christianity, most of which did not survive into modernity, you got to get specific if you want to make that point.
+It's an incredibly vague take too. Which early Christians were accepting of homosexuality? There were like, several dozen Christian sects and cults running around during the early days of Christianity, most of which did not survive into modernity, you got to get specific if you want to make that point.
 
 </comment>
 </compare>
@@ -437,7 +437,7 @@ The best character <mark>is Nancy</mark> (Fairuza Balk), <mark>who is already fu
 
 Driver: "You girls watch out for those weirdos."
 
-Nancy: "We are the weirdos, mister." [smiles]
+Nancy: "We are the weirdos, mister." <u>[smiles]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -564,7 +564,7 @@ Fires rage around the gymnasium as she makes her way through it, a revenge fanta
 
 Director of the 2013 remake, lesbian director Kimberly Pierce, said:
 
-\[Quote scrolling up on screen]:
+<u>[Quote scrolling up on screen]:</u>
 
 > <mark>"I think another queer part of the narrative is that Carrie gets superpowers, and those superpowers are like a queer person understanding that they have a talent, or a queer person finally coming to terms with their gender identity or sexual preference and saying even if this is not the mainstream, it's okay. Because that's literally what Carrie says. She says to her mom, 'there are other people out there like me. I am normal, I am okay, even if you don't think so. "I've talked to a lot of gay people... and they loved the revenge tale, loved that Carrie gets even. They loved that she goes after the people that did this to her it's an echo of what a queer person could write as a kind of corrective narrative."</mark>
 
@@ -699,7 +699,7 @@ what does it mean to be considered a monster... by monsters?
 
 <mark>Benshoff's book borrows many theories put forward by Robin Wood in the late 1970s. In a series of essays, Wood examine the ways in which horror films reflect</mark> <mark>repression in contemporary society</mark>. 
 
-\[Quote on screen]:
+<u>[Quote on screen]:</u>
 > "This study <mark>attempts to shine a light on the shapes that lurk in the</mark> shadows <mark>, and the way that the introduction of the monster disrupts society. According to Wood, the basic formula of the horror film is that 'normality is threatened by the monster'"</mark>
 
 </james>
@@ -746,7 +746,7 @@ Clive Barker is an openly gay author, painter and film director, but while eleme
 
 <mark>In his analysis of character construction in gay narrative film, Tom Wah points out</mark>:
 
-\[Quote on screen]:
+<u>[Quote on screen]:</u>
 > <mark>"The irresistible attraction by gay authors to images that seem harmful in the viewfinders of movement ideologues"</mark>
 
 </james>
@@ -1285,7 +1285,7 @@ Not only did Frost have sex with a man, he’s vocal about it and <mark>wants to
 
 The queer icon of *Aliens*, though, is the female space marine Vasquez, who is tougher than most of the men in her squad in a movie released 27 years before the United States military even let women take on combat roles. <mark x stat:id="sub-queer">But is she herself queer?</mark> The actress who played her, Jeanette <mark>Goldstein, weighed in on that question in 2016</mark>:
 
-\[Quote on screen]:
+<u>[Quote on screen]:</u>
 > "<mark>She's an outsider -- she was just who she was.</mark> <mark>With Vasquez, I never said she was straight or gay, because to her it was nobody's business</mark>. 
 >
 > <mark>A lot of gay women come up and say, 'Oh my god, when I saw you, and you had a masculine look to you, I saw  myself,'</mark> <mark>But I had straight women coming up to me with the same thing.</mark> 
@@ -1777,7 +1777,7 @@ And in *Scream*, the queer horror penetrated that safety. It also tore apart the
 
 <mark>In his initial post, instagram wonders</mark>:
 
-\[Quote shown on screen, wipe fade]:
+<u>[Quote shown on screen, wipe fade]:</u>
 > <mark></mark>Whenever someone says that the Babadook isn't openly gay it's like...  
 > Did you even watch the movie?
 
@@ -1863,7 +1863,7 @@ Kent's *The Babadook* received limited release in Australia, the country in whic
 </james>
 <from {% include citation for=page.cite.plagiarized.amanda_howell at="p.5" %}>
 
-[Previous paragraph was about *Rosemary’s Baby*.]
+<u>[Previous paragraph was about *Rosemary’s Baby*.]</u>
 
 <mark>Amelia appears as a 21st century sister of Rosemary</mark> <mark>as *The Babadook* crosses the horror formula of Other-as-villain with the female gothic interest in gendered experience and victimage, transforming the beleaguered female protagonist herself into a monster</mark>. Like the protagonists of *Rosemary’s Baby* and *Repulsion*, Amelia struggles with ‘demons of femininity’ (Wexman 1987, p. 32). But hers are [...]
 
@@ -2038,7 +2038,7 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 
 When <mark>Eddie first encounters Pennywise</mark>, the titular "It", he's at <mark>a place known to attract hobos and drifters. It takes the form of</mark> a hobo who's <mark>stricken with disease. It uses a leper to frighten Eddie</mark> instead of your typical horror movie monster.
 
-\[Quote shown on screen:]
+<u>[Quote shown on screen:]</u>
 > <mark></mark>One of these fellows had crawled out from under the porch of the house at 29 Neibolt Street one day and had offered to give Eddie a blowjob for a quarter. Eddie had backed away, his skin like ice, his mouth as dry as lint balls. One of the hobo's nostrils had been eaten away. You could look right into the red, scabby channel.
 > 
 > "I-I don't have a quarter" Eddie said, backing toward his bike.
@@ -2055,7 +2055,7 @@ When <mark>Eddie first encounters Pennywise</mark>, the titular "It", he's at <m
 Eddie is so obviously gay coded that I’m a little surprised I have to write an essay to convince people
 <mark>Eddie’s first encounter with It</mark> happens at 29 Neibolt Street, <mark>a place known to attract hobos and drifters. It takes the form of</mark> one of those hobos that is <mark>stricken with disease. It uses a leper to frighten Eddie</mark>, which is different than the classic movie monster forms It takes for most children.
 
-\[Article includes image of novel's text]
+<u>[Article includes image of novel's text]</u>
 
 <blockquote class="book-excerpt">
 
@@ -2294,7 +2294,7 @@ I couldn’t believe it. <mark>Stephen King thought gay people should be able to
 <compare>
 <credits {% include timecode %}>
 
-\[Scrolling on screen over unsettling piano and strings.]
+<u>[Scrolling on screen over unsettling piano and strings.]</u>
 
 > Special Thanks to  
 Clive Barker and Stephen King

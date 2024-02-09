@@ -41,6 +41,7 @@ cite:
 {% assign todd = site.data.cite.todd %}
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
+{% assign yvestan = site.data.cite.yvestan %}
 {% assign lvence_link = "https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/" %}
 
 <compare>
@@ -92,14 +93,27 @@ But that said it's not like good representation doesn’t exist. Usually when th
 <compare>
 <james {% include timecode %}>
 
-And believe me, the queer community has a heep of that. For instance, trans men and enbies for some reason really like rats, like pet rats. A lot of them feel this way, and nobody knows why. 
+And believe me, the queer community has a heap of that. For instance, trans men and enbies for some reason really like rats, like pet rats. A lot of them feel this way, and nobody knows why. 
 
 </james>
 <comment>
-{% include header for=tustin %}
+{% include header for=yvestan %}
+<details>
+<summary>Confirmed. Several articles and media analyses have delved into a connection between rats and transness &mdash; usually with them representing something typically stereotyped as grotesque but is actuality adorable &mdash; it appears that it may either just be a punk thing or a fondness for fauna in general.</summary>
 
-I can't find much about "trans men like rats" and even less about "enbies like rats". What I can find is people asking if the former stereotype is actually a thing. Consensus seems to be "eh?".
+In pop culture, there is: the erotic visual novel [Mice Tea](https://vndb.org/v25438) **[Warning: NSFW]**, written by queer indie studio Cinnamon Switch, about a woman who drinks tea which transforms her into a mouse and the effects it has on her and her coworkers; queer artist Will Wood's album ["In case I make it​,​"](https://willwoodmusic.bandcamp.com/album/in-case-i-make-it) has several songs focusing on his connections with his pet mice and feelings of social marginalization; Twitch streamer Jeremy Elbertson's animation [Rat Movie: Mystery of the Mayan Treasure](https://www.youtube.com/watch?v=jAXioRNYy4s) features the line, "rats, we're rats, we're the rats," which appears to have caught on in online trans circles thanks to his adamant support of queer rights; in the manga [Bungō Stray Dogs](https://promo.kadokawa.co.jp/bungo/) [[Alt site](https://yenpress.com/series/bungo-stray-dogs)], notable for its queer fandom and focus on living with trauma, Dostoevsky leads the criminal organization Rats in the House of the Dead.
 
+Of course, I too am new to accessing rathood and can say nothing with certainty. I only wish to express that I have found a genuine connection between these rodents and trans identity.
+
+See also:
+- Annie Howard. (2023, Oct 19). *["My love affair with rats"](https://chicagoreader.com/arts-culture/my-love-affair-with-rats/)* [Article]. Chicago Reader.
+- Michelle Wirth. (2020, Jul 27). *["Happy Nonbinary Day"](https://www.psycrat.com/professorpunk/2020/7/27/happy-nonbinary-day)* [Memoir blog post]. Professorpunk.
+- Sammie. (2009, Nov 5). *["Ratatouille: a trans tale."](https://www.asexuality.org/en/topic/45560-ratatouille-a-trans-tale/)* [Forum thread]. The Asexual Visibility & Education Network.
+- (2021, Nov 17). *[(What are your favorite pets?) it's an important question actually](https://www.reddit.com/r/ennnnnnnnnnnnbbbbbby/comments/qw1kut/its_an_important_question_actually_ill_explain/hkzxmkv/)* [Reddit thread]. /r/ennnnnnnnnnnnbbbbbby.
+- (2022, Nov 2). *[(Why are all we trans men obsessed with) Rats](https://www.reddit.com/r/ftm/comments/ykgcgx/rats/)* [Reddit post]. /r/ftm
+- (2022, Apr 4). *[Sincerely, trans boy who feels like a rat](https://www.reddit.com/r/traaaaaaannnnnnnnnns/comments/twctk1/sincerely_trans_boy_who_feels_like_a_rat/i3em1ll/)* [Reddit thread]. /r/traaaaaaannnnnnnnnns
+
+</details>
 </comment>
 </compare>
 
@@ -131,7 +145,7 @@ Now while queer creators are finally getting a chance to tell their own stories,
 <from></from>
 </compare>
 
-[Sponsor Read]
+<u>[Sponsor Read]</u>
 
 ## Vers One: Of Angles & Demons
 
@@ -234,7 +248,7 @@ But again in terms of gender nonconformity, the gender of one person is not rele
 
 Angel 1: You know how God likes sevens.
 
-Angel 2: \[laughs]
+Angel 2: <u>[laughs]</u>
 
 </clip>
 </compare>
@@ -843,9 +857,9 @@ For all that we create our dreams without thinking, it’s still possible, thoug
 <compare>
 <credits class="closing" {% include timecode %}>
 
-&lt;Patreon plug&gt;
+<u>&lt;Patreon plug&gt;</u>
 
-\[Patreon names roll over piano music (as of yet unidentified).]
+<u>[Patreon names roll over piano music (as of yet unidentified).]</u>
 
 </credits>
 </compare>

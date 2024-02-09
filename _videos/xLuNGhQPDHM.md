@@ -75,7 +75,7 @@ JK Rowling has made her opinion of trans people clear, but where she stands in t
 <compare>
 <credits>
 
-\[Intro screen:]
+<u>[Intro screen:]</u>
 > JAMES SOMERTON  
 Like  
 Share  
@@ -90,7 +90,7 @@ Patreon
 
 “Ms. Rowling, of Edinburgh, Scotland, was proud to say that she was a TERF, thank you very much”. 
 
-*[slams book shut]* 
+<u>[slams book shut]</u>
 
 *Sigh*
 
@@ -106,7 +106,7 @@ This quote is a parody of the first line of The Philosopher's Stone: "Mr. and Mr
 <compare>
 <credits class="opening">
 
-\[over off-key rendition of Hedwig's Theme and footage of Lego Hogwarts:]
+<u>[over off-key rendition of Hedwig's Theme and footage of Lego Hogwarts:]</u>
 
 > James Somerton Presents
 
@@ -123,7 +123,7 @@ James Somerton
 > Directed by  
 James Somerton
 
-\[Title]: 
+<u>[Title]:</u>
 
 > Confessions of a  
 HARRY POTTER  
@@ -304,12 +304,14 @@ And then came the tweets. They started relatively benign enough, with Rowling be
 
 Then she started retweeting loud and proud TERFS like Maya Forstater and the shit completely hit the fan. When some of her followers criticized the tweet as being off-color or even *possibly* transphobic Rowling responded by saying:
 
-\[Visual: Tweet shown on-screen:]
+<u>[Tweet shown on-screen]:</u>
+
 > “Dress however you please. Call yourself whatever you like. Sleep with any consenting adult who’ll have you. Live your best life in peace and security. But force women out of their jobs for stating that sex is real?” 
 
 Later saying: 
 
-\[Visual: Tweet shown on-screen:]
+<u>[Tweet shown on-screen]:</u>
+
 >“If sex isn’t real, there’s no same-sex attraction. If sex isn’t real, the lived reality of women globally is erased. I know and love trans people, but erasing the concept of sex removes the ability of many to meaningfully discuss their lives. It isn’t hate to speak the truth.” 
 
 </james>
@@ -380,7 +382,7 @@ I mean it came as a hell of a shock to me but it wasn’t all that shocking <spa
 
 <mark>In 2017, the</mark> <mark>government announced</mark> a possible <mark>reform that would let trans people make a legal declaration that they pledged to live the rest of their lives as their transitioned gender</mark>. But there was a hell of a lot of backlash from TERFs, people who generally hate trans people, and the very transphobic English press who had a habit of running stories with dead names. 
 
-\[On screen]: "TERFs" "Assholes" "Rich Assholes"
+<u>[On screen]: "TERFs" "Assholes" "Rich Assholes"</u>
 
 These reporters <mark>falsely claimed that</mark> allowing trans people to <mark>“self-ID” meant that <span class="del">a person</span></mark><span class="add">people</span><mark> could</mark> <mark>declare themselves a man on Monday and a woman on Friday, allowing</mark> rapists to gain <mark>access to women’s only spaces</mark> like bathrooms and changing rooms. 
 
@@ -451,7 +453,8 @@ Vox.com reported that <mark>According to <span class="add">Erin Greensmith</span
 
 Declaring trans women to be male perverts, and trans men to be lost lesbian sisters. Nevermind that trans men can also be gay or bisexual. Another fact TERFS don’t like <span class="del">acknowledging</span><span class="add">to acknowledge</span>. 
 
-\[Visual: Quote scrolling on-screen:]
+<u>[Quote scrolling on-screen]:</u>
+
 > “Anti-trans feminists think they have science on their side,” Greensmith said. “It is bananas how ascientific their rhetoric is, and yet literally they say, ‘Biology isn’t bigotry.’ In fact, biology has been used as bigotry as long as biology has been a thing.” 
 
 </james>
@@ -476,7 +479,7 @@ Biology has been used to hold people down for thousands of years. Holding down w
 <compare>
 <james {% include timecode %}>
 
-<mark>TERFism has become so prevalent there that many</mark> liberal <mark>pundits even blamed the</mark> conservative <mark>Tory victory in the last parliamentary election on trans people</mark>, saying <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> <span id="brexit_trans_fault">BREXIT was even blamed on trans people.[^brexit]</span> Donald Trump’s election win in 2016 was blamed on trans people! By British people!<sup>[citation needed]</sup> 
+<mark>TERFism has become so prevalent there that many</mark> liberal <mark>pundits even blamed the</mark> conservative <mark>Tory victory in the last parliamentary election on trans people</mark>, saying <mark>that trans issues are just a hyper-woke product of a political left that has simply gone too far.</mark> <span id="brexit_trans_fault">BREXIT was even blamed on trans people.[^brexit]</span> Donald Trump’s election win in 2016 was blamed on trans people! By British people!<sup cn></sup> 
 
 [^brexit]: The article he's copying from says that Brexit is the reason it's NOT the trans people's fault, so this is just flat out wrong.
 
@@ -484,7 +487,7 @@ So English feminists, of which JK Rowling considers herself a proud member, were
 
 <mark>After a hearing with a UK employment tribunal, Judge James Tayler</mark> (good name) <mark>ruled that Forstater’s gender-critical views did not represent a legally protected philosophical belief</mark>. He said: 
 
-\[Visual: Quote scrolling on-screen:]
+<u>[Quote scrolling on-screen]:</u>
 > “I consider that the Claimant’s view, in its absolutist nature, is incompatible with human dignity and [the] fundamental rights of others.” 
 
 </james>
@@ -504,7 +507,7 @@ Then came the ruling in the Forstater case on Wednesday. <mark>Forstater sued th
 
 That’s when the “Dress however you please” tweet came out, and it’s just been downhill ever since. Including <span class="add">J.K. Rowling</span> publishing an overly long essay basically explaining why she thinks trans people aren’t valid. <span class="del">Mostly has to do with bathrooms, because of course it does.</span> 
 
-<span class="add">[Seemingly to Nick off to the side:] It is ironic that I'm saying that her thirty-five-hundred word essay is "overly long" when this one is ten-thousand words. Double standards!</span>
+<span class="add"><u>[Seemingly to Nick off to the side:]</u> It is ironic that I'm saying that her thirty-five-hundred word essay is "overly long" when this one is ten-thousand words. Double standards!</span>
 
 </james>
 <from></from>
@@ -515,7 +518,7 @@ That’s when the “Dress however you please” tweet came out, and it’s just
 
 <mark>One person replied to her tweets, writing:</mark> 
 
-\[Visual: Quote on-screen:]
+<u>[Quote on-screen]:</u>
 >“As a physician, I want people to know that sex exists on a bimodal biological spectrum just like gender exists on a bimodal sociological spectrum. While most identify as either female or male, there are intersex and trans individuals whose identities are just as valid and real.” 
 
 Rowling proceeded to block them. 
@@ -525,7 +528,7 @@ Rowling proceeded to block them.
 
 <mark>One person replied to her tweets, writing: “As a physician, I want people to know that sex exists on a bimodal biological spectrum just like gender exists on a bimodal sociological spectrum. While most identify as either female or male, there are intersex and trans individuals who identities are just as valid and real.”</mark>
 
-\[Here's [the tweet](https://twitter.com/eugenegu/status/1269394929865777152) being referenced.]
+<u>[Here's [the tweet](https://twitter.com/eugenegu/status/1269394929865777152) being referenced. {% include twitter-mirror link="https://twitter.com/eugenegu/status/1269394929865777152" %}]</u>
 
 </from>
 </compare>
@@ -546,7 +549,7 @@ And ever since then she has been more than happy to spout off about her ignorant
 
 In the blog, <mark>Rowling writes about her struggles with sexism and misogyny, adding that reading accounts of gender dysphoria in trans men had made her wonder</mark>: 
 
-\[Visual: Quote on-screen:]
+<u>[Quote on-screen]:</u>
 >“if I’d been born 30 years later, I too might have tried to transition”. 
 
 </james>
@@ -562,14 +565,14 @@ In the 3,600 word essay, <mark>Rowling writes about her struggles with sexism an
 
 Also writing:
 
-\[Visual: Quote on-screen:]
+<u>[Quote on-screen]:</u>
 > “Many, myself included, believe we are watching a new kind of conversion therapy for young gay people, who are being set on a lifelong path of medicalization.” 
 
 Some readers took this as her actually comparing gender <span class="del">confirming</span><span class="add">confirmation</span> therapies to gay conversion therapy, which has been labeled <span class="add">as</span> torture by many <span class="add">in the</span> psychological profession<span class="del">al</span>s. You didn’t have to stretch very far to see the comparison. 
 
 Her response to this was: 
 
-\[Visual: Tweet shown on-screen:]
+<u>[Tweet shown on-screen]:</u>
 > “I’ve ignored fake tweets attributed to me and RTed widely. I’ve ignored porn tweeted at children on a thread about their art. I’ve ignored death and rape threats. I’m not going to ignore this.” 
 
 Well at least she’s got her priorities straight. Then she signed an open letter condemning cancel culture. The billionaire author who lives in a castle and was about to have another book hit #1 on the New York Times Best Seller list… complaining about being cancelled. 
@@ -586,13 +589,13 @@ In the thread, Rowling discussed her own mental health challenges and how she he
 
 She went on to write: “<mark>Many, myself included, believe we are watching a new kind of conversion therapy for young gay people, who are being set on a lifelong path of medicalisation</mark> that may result in the loss of their fertility and/or full sexual function.”
 
-\[...]
+[...]
 
 <h4>What did Rowling say about cancel culture?</h4>
 
 150 writers and academics, including Rowling, recently signed an open letter “condemning intolerant climate for free speech”.
 
-\[...]
+[...]
 
 </from>
 </compare>
@@ -602,7 +605,7 @@ She went on to write: “<mark>Many, myself included, believe we are watching a 
 
 Warner Bros official statement regarding her repeated infractions was: 
 
-\[Visual: Quote scrolling on-screen:]
+<u>[Quote scrolling on-screen]:</u>
 > “The events in the last several weeks have firmed our resolve as a company to confront difficult societal issues. Warner Bros position on inclusiveness is well established, and fostering a diverse and inclusive culture has never been more important to our company and to the audiences around the world. We deeply value the work of our storytellers who give so much of themselves in sharing their creations with us all. We recognize our responsibility to foster empathy and advocate understand of all communities and all people, those we reach through our content.“
 
 Couldn’t use the word transgender once<span class="add">?</span><span class="del">, huh? I mean</span> they might have well said, “we believe in people” for how much sense and genuine emotion this statement had. But, Warner Bros hasn’t been known for making a lot of sense lately. <span class="add">So... it's their *brand*.</span>
@@ -928,7 +931,7 @@ And <mark>In 2012, Harry Potter fans around the world cheered Britain’s</mark>
 
 <mark>Every year brings</mark> different <mark>ways to commemorate and celebrate this</mark> day. <mark>There are anniversaries to recognize, characters to</mark> memorialize, <mark>places to see</mark>. <mark>In Cameron’s official statement announcing the new holiday he said</mark>:
 
-\[Visual: Quote scrolling on-screen:]
+<u>[Quote scrolling on-screen]:</u>
 > “In order to fully commemorate and immortalize her work, we have decided to officially declare May 2nd as an official international holiday, in honor of the date that protagonist Harry Potter conquered the main antagonist of the series, Lord Voldemort. We hope that children and adults alike will be reminded of Harry Potter’s strong and courageous character on this day, as well as of the true credit that Ms. Rowling has made to society.” 
 
 </james>

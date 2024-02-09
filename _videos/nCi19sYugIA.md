@@ -88,16 +88,16 @@ PATREON: [link]
 <compare>
 <credits class="opening">
 
-\[On some interesting stock credits sequence involving a VCR and TV]
+<u>[On some interesting stock credits sequence involving a VCR and TV]</u>
 
-\[On the VCR display]:
+<u>[On the VCR display]:</u>
 > James Somerton Presents
 
-\[On a VHS tape going into a VCR]:
+<u>[On a VHS tape going into a VCR]:</u>
 > The Traumatic Camp of "Mommie Dearest"  
 Written by Nick Herrgott & James Somerton
 
-\[Zoom into TV static]
+<u>[Zoom into TV static]</u>
 
 </credits>
 </compare>
@@ -160,7 +160,7 @@ According to Dunaway, producer Frank Yablans promised her in the casting process
 
 The film opens with Dunaway's Crawford, Hollywood queen, musing about how, despite her success and global allure, she feels like there's just something missing from her life. Yes, her career is in a bit of a slump, but she isn't as concerned about that because she thinks that just means that now is a great time to become a mother. Unable to bear children, she begins to suggest the option of adoption, to her then boyfriend and Hollywood lawyer, Greg Sabat, who helps her pull the strings she needs to pull to have an adoption agency hand her a baby. 
 
-This scene is [laughing] played entirely straight, by the way. This visual pulls Crawford to the center of attention, like a Rifenstall-esque monarch or idol. Once again, unnecessary pathos. And all this unnecessary pathos feeds into this lofty visual language of Joan's perfection, channeled through Dunaway. We're only five minutes in, and no it does not slow down from here. 
+This scene is <u>[laughing]</u> played entirely straight, by the way. This visual pulls Crawford to the center of attention, like a Rifenstall-esque monarch or idol. Once again, unnecessary pathos. And all this unnecessary pathos feeds into this lofty visual language of Joan's perfection, channeled through Dunaway. We're only five minutes in, and no it does not slow down from here. 
 
 </james>
 <from></from>
@@ -213,7 +213,7 @@ Child Christina (to Joan): "What are you doing?!"
 
 Joan (muttering, cutting her hair): "Don't you tell me what I'm doing!"
 
-Christina: "[gasp] Oh, mommy, stop! Oh, no! [crying]"
+Christina: "<u>[gasp]</u> Oh, mommy, stop! Oh, no! <u>[crying]</u>"
 
 Joan (muttering): "Don't tell me! Don't!"
 
@@ -227,7 +227,7 @@ Joan: "Yeah! I know you look awful!"
 
 Joan (gesturing at a crying Christina wih scissors): "You be quiet!! You're always rummaging through my drawers! Trying to find a way to make people look at you! Why you always looking at yourself in the mirror?!"
 
-[Christina screams as Joan shakes her] 
+<u>[Christina screams as Joan shakes her]</u> 
 
 Joan: "Why are you doing that?! TELL ME!!"
 
@@ -243,7 +243,7 @@ Joan Crawford (it is implied) held herself up to perfection because she (accurat
 </james>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
-[Joan screaming in the darkness while slicing hedges.]
+<u>[Joan screaming in the darkness while slicing hedges.]</u>
 
 </clip>
 </compare>
@@ -260,18 +260,18 @@ So Hollywood is an absurd place. It's why movies about Hollywood generally don't
 <compare>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
-Joan: "Tina!!" [Dramatic pause] "Bring me the axe!"
+Joan: "Tina!!" <u>[Dramatic pause]</u> "Bring me the axe!"
 
 </clip>
 <from></from>
 <james {% include timecode %}>
 
-Where *each word* is punctuated with an *entirely* [voice crack] distinct and separate emotion! It's a complete sensory *overload!* And honestly! ...though the quote gets thrown around, fans of the scene are missing two of the *best parts*. First, the fact that they actually committed to a wide shot [laughing] of Feye hacking away at that orange tree in that gown:
+Where *each word* is punctuated with an *entirely* <u>[voice crack]</u> distinct and separate emotion! It's a complete sensory *overload!* And honestly! ...though the quote gets thrown around, fans of the scene are missing two of the *best parts*. First, the fact that they actually committed to a wide shot <u>[laughing]</u> of Feye hacking away at that orange tree in that gown:
 
 </james>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
-[Joan, in gown, with axe, inhaling and slicing at a small tree.]
+<u>[Joan, in gown, with axe, inhaling and slicing at a small tree.]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -286,12 +286,12 @@ Joan: "Bring me the axe!"
 </clip>
 <james {% include timecode %}>
 
-*Thee* axe. *Thee* axe. Not "bring me *an* axe", "bring me *the* axe". In the literal syntactic text of the movie, we can gauge that this is a [laughing] *regular occurrence* at the Crawford household! Because Christina didn't flinch! And she knew exactly which axe to get and where to get it.
+*Thee* axe. *Thee* axe. Not "bring me *an* axe", "bring me *the* axe". In the literal syntactic text of the movie, we can gauge that this is a <u>[laughing] </u>*regular occurrence* at the Crawford household! Because Christina didn't flinch! And she knew exactly which axe to get and where to get it.
 
 </james>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
-[Joan, in gown, with axe, exhaling and slicing at a small tree, now leaning way over.]
+<u>[Joan, in gown, with axe, exhaling and slicing at a small tree, now leaning way over.]</u>
 
 </clip>
 </compare>
@@ -312,7 +312,7 @@ It's also worth mentioning that this film doesn't really follow a narrative...? 
 
 TV: "And the winner is... Joan Crawford!"
 
-[Joan gasps loudly!]
+<u>[Joan gasps loudly!]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -355,7 +355,7 @@ Now, as it turned out, beyond just kissing boys, Christina ended up quite enjoyi
 
 Barbra: "Joan..."
 
-Joan: "[Inhales sharply] Barbra, please!? *Please*, Barbra!"
+Joan: "<u>[Inhales sharply]</u> Barbra, please!? *Please*, Barbra!"
 
 </clip>
 <james {% include timecode %}>
@@ -375,7 +375,7 @@ Joan (dramatic shouting): "Because you ***did*** get expelled!"
 
 Chritina (softly, snarling): "That... is a lie."
 
-[Joan slaps Christina]
+<u>[Joan slaps Christina]</u>
 
 </clip>
 <james {% include timecode %}>
@@ -386,7 +386,7 @@ When Christina calls her out, Joan just goes right on and slaps her in front of 
 <from></from>
 <clip {% include citation for=page.cite.clips.mommie_dearest %}>
 
-Joan (wailing): "You--! You *delibrately* embarrsed me in front of a reporter!" [Dramatic whispering] "A reporter!"
+Joan (wailing): "You--! You *delibrately* embarrsed me in front of a reporter!" <u>[Dramatic whispering]</u> "A reporter!"
 
 </clip>
 <comment>
@@ -420,7 +420,7 @@ Joan (angry): "Why can't you treat me...?!" (quiet) "Like I would be treated by.
 
 Christina (dramatically): "Because I am *not*...! One of your ***FANSSSS!***"
 
-[Joan looking like she's gonna strangle Christina. Suddenly lunges and grabs her by the neck and, screaming, they fall over and break a lamp.]
+<u>[Joan looking like she's gonna strangle Christina. Suddenly lunges and grabs her by the neck and, screaming, they fall over and break a lamp.]</u>
 
 </clip>
 </compare>
@@ -430,7 +430,7 @@ Christina (dramatically): "Because I am *not*...! One of your ***FANSSSS!***"
 
 And *now* we're getting into the territory of Christina's accounts that *can* be backed up by fact. 
 
-Fact number one! ...is that, yes, Joan really did replace Christina [laughing] on a soap opera [laughing] that Christina was cast in. Joan -- in her 60s -- takes the role of a 28-year-old woman while Christina is recovering from a benign ovarian tumor. 
+Fact number one! ...is that, yes, Joan really did replace Christina <u>[laughing]</u> on a soap opera <u>[laughing]</u> that Christina was cast in. Joan -- in her 60s -- takes the role of a 28-year-old woman while Christina is recovering from a benign ovarian tumor. 
 
 </james>
 <from></from>
@@ -486,7 +486,7 @@ Joan: "I fought worse monsters than you for *years* in Hollywood! I know how to 
 
 Ironically, this is one of Dunaway's more understated lines in the entire film. This meeting, in reality, was much more cordial than Dunaway delivered. Why did it need to get turned up to an 11? 
 
-[Laughs, throws up hands] Why not, that's why! 
+<u>[Laughs, throws up hands]</u> Why not, that's why! 
 
 Rounding off the film is the reading of Joan Crawford's will, with Christina and Christopher. When it comes to what Joan left them, Joan writes that they will receive nothing. 
 
@@ -530,7 +530,7 @@ James takes several clips and visuals from BeKindRewind's video on Mommie Deares
 <visual-line></visual-line>
 <clip visual={{bkr}} on="12:29" off="12:??" {% include citation for=page.cite.clips.tonight_show %}>
 
-\[James added on screen]: "Bettie Davis on the Tonight Show"
+<u>[James added on screen]: "Bettie Davis on the Tonight Show"</u>
 
 Host: "So who's one of the *worst* people you know in Hollywood?
 
@@ -547,7 +547,7 @@ Bettie: "One-- One million dollars: Faye Dunaway."
 
 [...] alongside Betty Davis, which I guess didn't go very well.
 
-\[Clip of Bettie Davis on the Tonight Show]
+<u>[Clip of Bettie Davis on the Tonight Show]</u>
 
 Host: "So who's one of the *worst* people you know in Hollywood?
 
@@ -578,7 +578,7 @@ But the book is much *tamer*, especially if your frame of reference is the movie
 <from></from>
 <clip visual={{thc}} on="49:47" off="49:48" {% include citation for=page.cite.clips.director %}>
 
-\[On screen (added by James)]: "Herbert Kenwith, Director"
+<u>[On screen (added by James)]: "Herbert Kenwith, Director"</u>
 
 Herbert (in interview): <mark meta>"I never saw this happen."</mark>
 
@@ -598,7 +598,7 @@ Which you'd think, in this post-MeToo, believe-victims society, that excuse woul
 <from></from>
 <clip visual={{thc}} on="50:00" off="50:09" {% include citation for=page.cite.clips.director %}>
 
-\[On screen (added by James)]: "Herbert Kenwith, Director"
+<u>[On screen (added by James)]: "Herbert Kenwith, Director"</u>
 
 Herbert (in interview): "<mark meta>I think christine was very very *envious* of Joan Crawford, and her public, and her popularity, and her beauty</mark>."
 
@@ -635,7 +635,7 @@ Reynolds, while being interviewed, still had her signature Debbie Reynolds charm
 
 Christina's take *seems* to be that Joan's simply wasn't able to take that mask off at all. And resorted to drastic behavior when the porcelain started to crack. But with all the hatred toward the story and toward Christina, it does boggle my mind that Hollywood was *so horny* to get this movie made as soon as the book came out. You couldn't find anyone who had anything good to say about it. Faye Dunaway herself agreed to play the role as long as it was more respectful to Joan's memory... than the book. 
 
-\[Quote on screen]:
+<u>[Quote on screen]:</u>
 
 > "Though Christina's book was obviously an exploitation book, the first one of its kind, my task was to portray a woman, a full woman who she was in all her facets, not just one. I tried to illuminate who this woman was. But it was more than just about being angry. It was about trying to examine and explore the forces that undermined her." [~Faye Dunnaway]
 
@@ -676,7 +676,7 @@ Christina: "...only the makeup."
 <span visual={{bkr}} on="31:43" off="31:53">all the while lambasting the book as tabloid drivel, *only* for the author of that "drivel" to decry the performance for depicting *a monster*.</span>  
 It also didn't help that Dunaway was already kind of a diva. Once again, ironically, Joan Crawford was quoted saying:
 
-\[Quote on screen:]
+<u>[Quote on screen:]</u>
 
 > "Of all the actresses, to me, only Faye Dunaway has the talent and the class and the courage it takes to make a real star." [~Joan Crawford]
 
@@ -701,7 +701,7 @@ The shift away from that stardom was severe. She moved to the UK, where she basi
 
 On top of being a prima donna in general, she allegedly terrorized the set of *Mommie Dearest*. For starters, she refused to drop out of character during production. So on top of delivering...
 
-\[Cutaway to visual only shot of Faye-as-Joan screaming and wailing.]
+<u>[Cutaway to visual only shot of Faye-as-Joan screaming and wailing.]</u>
 
 ...*that* on camera, the crew and cast had to *live* with that for *weeks*. <mark>Rutanya Alda</mark>, who played Joan's assistant in the film, <mark>wrote a behind the scenes memoir about the filming experience</mark>. She wrote:
 
@@ -731,7 +731,7 @@ Note: Quote is misattributed to Rutanya Alda's book ("She wrote:"), when instead
 <compare>
 <james {% include timecode %}>
 
-Regarding her [air quotes] "method acting"... (and we'll avoid a discussion about what method acting *really is* and how a lot of actors misuse the term) Dunaway had the usual nonsense to say, but with an extra twist.
+Regarding her <u>[air quotes]</u> "method acting"... (and we'll avoid a discussion about what method acting *really is* and how a lot of actors misuse the term) Dunaway had the usual nonsense to say, but with an extra twist.
 
 > "If your mind is on a woman who is dead and you're trying to find out who she was and do right by her, you do feel a presence. I felt it at home at night sometimes. It wasn't pleasant. I felt Joan was not at rest." [~Faye Dunnaway]
 
@@ -777,7 +777,7 @@ Though she *has* come around to the unforeseen fandom of the film, but... still 
 <compare>
 <james {% include timecode %}>
 
-\[Patreon credits begin rolling over James still talking.]
+<u>[Patreon credits begin rolling over James still talking.]</u>
 
 *Mommie Dearest* legitimized a *whole* group of audiences and creators who were going to do what Dunaway did, but do it on purpose. With or without the ghost of Joan Crawford.
 

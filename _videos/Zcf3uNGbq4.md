@@ -121,7 +121,7 @@ But *Wings* is actually not where our story begins. The history of Hollywood has
 
 But before we get too deep into this history, let me tell you about the sponsor of this video. 
 
-[Sponsor Read]
+<u>[Sponsor Read]</u>
 <!--ATLAS VPN. Many of the films we’ll be talking about in this series may not actually be streamable in your country, but by using ATLAS VPN’s geolocation features you can unlock access to the wide history of queer cinema that doesn’t always make it to streaming services everywhere. ATLAS VPN also keeps your internet and google search history safe from prying eyes, so you can still look up and watch these films without certain, maybe unaccepting, members of your family finding out. And now is a great time to sign up because ATLAS VPN is currently offering a special, limited time offer where their premium service is just $1.83 per month + 3 months for free! All with a 30-day money-back guarantee. But be quick because it’s only a limited-time offer! Explore the history of queer cinema without restrictions and get many other benefits of Atlas VPN for this ridiculously low price. Check the link in the description for more information and to sign up today. -->
 
 </james>
@@ -168,7 +168,7 @@ Note: The compilation video's titles are slightly different. In fact, this seems
 <credits {% include timecode %}>
 <header>Title card:</header>
 
-<span id="chapter-1"></span>\[Over black]:
+<span id="chapter-1"></span><u>[Over black]:</u>
 
 > Episode One
 >
@@ -204,7 +204,8 @@ The age of sexual enlightenment that flourished in prewar Berlin spawned the fir
 </from>
 <james {% include timecode %}>
 
-\[Quote shown on screen]:
+<u>[Quote shown on screen]:</u>
+
 > “<mark>False beliefs and unjustified prejudices concerning a sector of male and female sexual behavior known as homosexuality, or love of the same sex, have been predominant up to the present and still influence a large part of our population.</mark> 
 >
 > <mark>These homosexual men and women who are attracted to persons of their own sex, are often regarded as wicked criminals and libertines. But scientific research has determined that homosexuality is an inborn tendency for which the individual cannot be held responsible</mark>… 
@@ -750,14 +751,14 @@ General American audiences though could easily see through the coding. However, 
 <compare>
 <james meta {% include timecode %}>
 
-\[Patron credits start rolling as James talks in a small screen at the bottom.]
+<u>[Patron credits start rolling as James talks in a small screen at the bottom.]</u>
 
 Thank you for watching this video, which is actually the first of eight videos I’ll be releasing over the next few months exploring the history of queer representation in Hollywood. If you’d like to see more historical videos like this, as well as my usual video essays, podcasts, behind the scenes videos, and a whole lot more, please consider joining my Patreon, linked in the description. YouTube does have a habit of hiding queer content, especially educational queer content, so it’s only because of my patrons that I can do videos like this. And for as little as a dollar a month you can join this surprisingly awesome community that keeps this channel going. Okay, Now that I’ve awkwardly promoted my Patreon, I’ll let the credits roll and I’ll see you soon for "Unrequited Episode 2: The Invisible Men".
 
 </james>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits continue to roll]
+<u>[Patreon credits continue to roll]</u>
 
 </credits>
 </compare>

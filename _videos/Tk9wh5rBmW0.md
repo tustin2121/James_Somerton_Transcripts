@@ -98,7 +98,7 @@ But if that logic applied to straight men... why are any number of Westerns not 
 <compare>
 <credits {% include timecode %} class="opening">
 
-\[Happy music, like something ripped from The Sims; tiny font]
+<u>[Happy music, like something ripped from The Sims; tiny font]</u>
 
 > James Somerton presents
 
@@ -151,7 +151,7 @@ A fandom that upon the movie's release would hang Christina Crawford in effigy. 
 
 Believe it or not, studio heads *rarely* know what they're doing. Which is how you can have money catapulted at projects like *Cleopatra* or *Mommie Dearest*. 
 
-\[Meme cutaway]: Joan Crawford taking an axe to a tree.
+<u>[Meme cutaway]:</u> Joan Crawford taking an axe to a tree.
 
 </james>
 <subvideo>

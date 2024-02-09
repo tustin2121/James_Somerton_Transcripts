@@ -95,7 +95,7 @@ Along with World War II and a coming end to what was referred to as the Golden A
 
 But before we explore the queer coding of the aging days of the golden age of Hollywood, first a word from our sponsor.
 
-[Sponsor read]
+<u>[Sponsor read]</u>
 <!--this video is brought to you by manscape.com manscaped has been known for years for their lawnmower hair trimmer that leaves men's private bits Nick free but who wants to shave your face with the same razor that you use to shave your balls that's nasty so now they're introducing the beard hedger trimmer with a 7200 RPM Motor and titanium coated blades that can cut through the thickest hair in a single stroke whether you prefer a five o'clock shadow or a lion's mane you can choose from 20 different lengths with the zoom wheel that uses only one guard to celebrate the launch of the beard hedger manscape.com is launching the beard hedger Pro kit which includes the beard hedger the your shampoo conditioner oil and Balm plus a travel case and multiple free gifts to save 20 on the pro kit plus get free international shipping simply go to manscape.com and use the promo code James S that's j-a-m-e-s-s or visit the link in the description join the over 8 million men worldwide who trust manscaped I was one of them even before they became a sponsor today -->
 
 </james>
@@ -137,7 +137,7 @@ James Somerton
 <credits {% include timecode %}>
 <header>Title card:</header>
 
-<span id="chapter-1"></span>\[Over black]:
+<span id="chapter-1"></span><u>[Over black]:</u>
 
 > Episode Two
 >
@@ -285,7 +285,7 @@ Open contempt for men who are perceived to be like women was not new. In John Fo
 
 Wayne: <mark>"You've got me so convinced, I may even go out and become a woman."</mark>
 
-\[clip continues]
+<u>[clip continues]</u>
 
 </clip>
 {% assign timecode = "8:46" %}
@@ -296,7 +296,7 @@ Wayne: <mark>"You've got me so convinced, I may even go out and become a woman."
 </james>
 <clip mark=cont {% include citation for=page.cite.clips.adams_rib %}>
 
-\[clip continues]
+<u>[clip continues]</u>
 
 Spencer Tracy: "<mark>And he wouldn't have far to go either."</mark>
 
@@ -546,7 +546,7 @@ Again, these interpretations arise invariably from the fear of homosexuality, se
 
 > <mark></mark>"The biggest mistake we made was the (straight) love story. If we had cut out the girl all together and concentrated on the two guys, everything would have gone better."
 
-Director <mark>Howard Hawks *always* concentrated on men</mark> in his films. <mark>And in his films, things went better</mark>. [Chuckles] <mark>Better than in Ben-Hur. at least.</mark>
+Director <mark>Howard Hawks *always* concentrated on men</mark> in his films. <mark>And in his films, things went better</mark>. <u>[Chuckles]</u> <mark>Better than in Ben-Hur. at least.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p77" %}>
@@ -764,14 +764,14 @@ Vito Russo's chapter goes on to talk about Lesbianism in the 50's: [*All About E
 <compare>
 <james {% include timecode %}>
 
-\[Patron credits start rolling as James talks in a small screen at the bottom.]
+<u>[Patron credits start rolling as James talks in a small screen at the bottom.]</u>
 
 As we close out this episode I'd like to thank our patrons for making this series possible. YouTube isn't great when it comes to pushing LGBTQ content. In fact in most cases, they try their best to keep it hidden. So our amazing patrons are the reason that this channel keeps chugging along. If you'd like to become a patron and gain access to videos early, as well as patreon exclusive content like our podcast, movie watch-along parties, and the amazing community on our Discord, you can sign up at the link in the description for as little as a dollar a month. All right, now I'll let the credits roll, and I'll see you soon for Unrequited Episode Three Blacklisted.
 
 </james>
 <credits {% include timecode %} class="closing">
 
-\[Patreon credits continue to roll over piano music.]
+<u>[Patreon credits continue to roll over piano music.]</u>
 
 </credits>
 </compare>

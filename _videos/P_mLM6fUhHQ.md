@@ -169,12 +169,12 @@ This video contains copyrighted material. The use of which has not always been s
 <compare>
 <credits {% include timecode %} class="opening">
 
-\[Computer command line theming]:
+<u>[Computer command line theming]:</u>
 
 > \>STARTING PROCEDURE
 
 <details>
-<summary>[Starts printing C++ code for some sort of MIDI reading program to the screen]:</summary>
+<summary><u>[Starts printing C++ code for some sort of MIDI reading program to the screen]:</u></summary>
 
 ```c++
 #include <stdio.h>
@@ -238,12 +238,12 @@ if (strncmp(s, "major", 3) == 0 || strncmp(s, "Major", 3) == 0)
 
 </details>
 
-\[Eventually the screen flashes and we get]:
+<u>[Eventually the screen flashes and we get]:</u>
 
 > codebreakers  
 a rant by james somerton
 
-\[Fuzz to white then fade to James over a red curtain backdrop. ]
+<u>[Fuzz to white then fade to James over a red curtain backdrop.]</u>
 
 </credits>
 <comment>
@@ -251,7 +251,7 @@ a rant by james somerton
 
 This video is <s>pretentiously</s> presented in the CinemaScope aspect ratio.
 
-![Alt text](../media/cinemascope.jpg)
+![Cinemascope](../media/cinemascope.jpg)
 
 </comment>
 </compare>
@@ -261,13 +261,13 @@ This video is <s>pretentiously</s> presented in the CinemaScope aspect ratio.
 
 Having made a few videos about queer coding and representation in movies, I've gotten a lot of feedback from a lot of different people. But one comment that I see over and over and over again is something like this:
 
-\[Video blurs and quote shown on screen, James reads in artificial high pitched voice]:
+<u>[Video blurs and quote shown on screen, James reads in artificial high pitched voice]:</u>
 
 > "This was never meant to be gay. You're just reading into it too much"
 
 ...or...
 
-\[Video blurs again and quote shown on screen, James reads in artificial low pitched voice]:
+<u>[Video blurs again and quote shown on screen, James reads in artificial low pitched voice]:</u>
 
 > "You're reaching pretty far to find anything queer about this"
 
@@ -285,7 +285,7 @@ And so I decided that people are *woefully* undereducated on film theory, which 
 
 <mark>"Film theory" discusses the essence of cinema and provides conceptual frameworks for understanding a film's relationship to reality, other arts, individual viewers, and society as a whole. This term is not to be confused with "film analysis", a way of analyzing film which may draw upon ideas from film theory.</mark>
 
-\[On screen next to James, he reads it out]:
+<u>[On screen next to James, he reads it out]:</u>
 
 > <mark>Film analysis is the process in  
 > which a film is analyzed in terms  
@@ -374,7 +374,7 @@ James pulls from another video essay for his B-Roll here. He uses the opening mo
 
 <span visual=none on="?" off="?"><mark>In the 1960s and 70s, film theory took up residence in academia, importing concepts from established disciplines like</mark></span>
 
-\[On screen next to James, he reads it out]:
+<u>[On screen next to James, he reads it out]:</u>
 
 > <mark></mark>Psychoanalysis  
 > Gender Studies  
@@ -412,7 +412,7 @@ Note: The following sections are still using the university handout as a source,
 </comment>
 <james {% include timecode %}>
 
-\[On screen next to James]: "Structuralist Film Theory"
+<u>[On screen next to James]: "Structuralist Film Theory"</u>
 
 <mark>The Structuralist film theory emphasizes how films convey meaning through the use of codes and conventions, not dissimilar to the way languages are used to construct meaning in communication. An example of this is understanding how the simple combination of shots can create an additional idea. The blank expression on a person's face, an appetizing meal, and then back to the person's face. While nothing in this sequence literally expresses hunger or desire, the juxtaposition of the images convey that meaning to the audience.</mark>
 
@@ -426,7 +426,7 @@ Note: The following sections are still using the university handout as a source,
 <james {% include timecode %}>
 <!-- Footage used in the bottom corner here is Sergei Eisenstein clips. -->
 
-\[On screen next to James]: "Marxist Film Theory"
+<u>[On screen next to James]: "Marxist Film Theory"</u>
 
 <span visual=none on="?" off="?"><mark>Marxist film theory is one of the oldest forms of film theory. Sergey Eisenstein and many other Soviet filmmakers in the 1920s expressed ideas of Marxism through film. In fact, the Hegelian Dialectic was considered best displayed in film editing through the</mark> <mark>development of the montage</mark>, a Russian invention. <mark x>The biggest reason Russian filmmakers began doing this was because they had a serious problem with how Hollywood was making movies.</mark> <mark>Eisenstein's solution was to shun narrative structure by eliminating the individual protagonist</mark> in favor of <mark>telling stories where the action is moved by a group, and the story is told through a clash of one image against the next, whether in composition, motion, or idea.</mark></span>
 
@@ -441,7 +441,7 @@ Note: The following sections are still using the university handout as a source,
 </from>
 <james {% include timecode %}>
 
-\[On screen next to James]: "Formalist Film Theory"
+<u>[On screen next to James]: "Formalist Film Theory"</u>
 
 <mark>Formalist film theory is a theory of film study that is focused on the formal, or technical, elements of a film, i.e the lighting, scoring, sound, set design, use of color, shot composition, and editing. It's a major theory of film study today. Formalism at its most general considers the synthesis or lack of synthesis of the multiple elements of film production, and the effects, emotional and intellectual, of that synthesis, and of the individual elements.</mark> 
 
@@ -456,7 +456,7 @@ Note: The following sections are still using the university handout as a source,
 </from>
 <james {% include timecode %}>
 
-\[On screen next to James]: "Feminist Film Theory"
+<u>[On screen next to James]: "Feminist Film Theory"</u>
 
 <mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis regarding the film elements analyzed and their theoretical underpinnings. The development of Feminist film theory was influenced by Second Wave Feminism and the development of Women's Studies within academia. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970s were generally based on Sociological Theory and focused on the function of women characters in particular film narratives or genres, And of stereotypes as a reflection of a society's view of women.</mark>
 
@@ -469,7 +469,7 @@ Note: The following sections are still using the university handout as a source,
 </from>
 <james {% include timecode %}>
 
-\[On screen next to James]: "Auteur Film Theory"
+<u>[On screen next to James]: "Auteur Film Theory"</u>
 
 <mark>Auteur theory</mark> in film <mark>holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced</mark>, such as David Os Selnick and Kevin Feige. 
 
@@ -505,13 +505,13 @@ Originating in the early 1990s, the school of thought called "Queer Theory" comp
 
 Social rewards are provided for queers who can pass. Certain opportunities and privileges are awarded to queer folks who seem to have assimilated into the straight expectations and values. This includes things like--
 
-\[Appearing on screen as he speaks them]:
+<u>[Appearing on screen as he speaks them]:</u>
 
 --<q>Marriage</q>, <q>Parenthood</q>, <q>Settling Down</q> at X years old, <q>Moving to the Suburbs</q>, and fulfilling various traditions the society has--
 
-\[The last one is presented on-screen as "Being Basic as Fuck".]
+<u>[The last one is presented on-screen as "Being Basic as Fuck".]</u>
 
---but which have no value aside from being rituals that we practice. And gender reveal parties... (That's a new one...) [Stares off to the side in disgust]
+--but which have no value aside from being rituals that we practice. And gender reveal parties... (That's a new one...) <u>[Stares off to the side in disgust]</u>
 
 </james>
 <from></from>
@@ -656,7 +656,7 @@ There is an alternative explanation that the padding added was <a href="https://
 </comment>
 <james {% include timecode %}>
 
-Or viking burial mounds, where male warriors would be buried with combs, jewels, and mirrors and instead of, you know... [air quotes] "boy things". 
+Or viking burial mounds, where male warriors would be buried with combs, jewels, and mirrors and instead of, you know... <u>[air quotes]</u> "boy things". 
 
 </james>
 <comment id="viking_boy_things">
@@ -786,7 +786,7 @@ Essentially, <mark>gender just becomes an irrelevant detail, and instead the exc
 
 <mark>Plato in the *Symposium* argues for an army to be comprised of same-sex lovers. Thebes did</mark> actually <mark>form such a regiment, the [Sacred Band of Thebes](https://en.wikipedia.org/wiki/Sacred_Band_of_Thebes), consisting of 500 soldiers</mark>, 250 couples.
 
-\[On screen, showing footage of some trailer for "Sacred Band of Thebes"]: "Yep. They even make porn about them."
+<u>[On screen, showing footage of some trailer for "Sacred Band of Thebes"]: "Yep. They even make porn about them."</u>
 
 <mark>They were renowned in the ancient world for their valor in battle</mark> and they're still talked about today. <mark>Ancient Rome had many parallels to ancient Greece in its understanding of same-sex attraction, and sexual issues more generally. This is especially true under *the Republic*, yet under the Empire, Roman society slowly became more negative in its views towards sexuality, probably due to social and economic turmoil, even before Christianity became influential.</mark> 
 
@@ -993,7 +993,7 @@ However, <mark>with the absence of explicit evidence of graphic sexual activity 
 
 <mark>To some</mark> historians, <mark>it is the love that launched a thousand warriors, and representation that survived the test of time. To other</mark> more pigheaded historians, <mark>it is</mark> nothing but a <mark>friendship</mark>. A very good friendship. A friendship which was very... beneficial.
 
-<mark>However, looking at the relationship between Achilles and Patroclus, scholars</mark> <mark num=6>have discussed</mark> <mark num=7>over the years</mark> <mark>whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed".</mark> [Ironic stretching, forced smile]
+<mark>However, looking at the relationship between Achilles and Patroclus, scholars</mark> <mark num=6>have discussed</mark> <mark num=7>over the years</mark> <mark>whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed".</mark> <u>[Ironic stretching, forced smile]</u>
 
 <mark>So how did this affect the current representation of the pair?</mark>
 
@@ -1281,14 +1281,14 @@ Anne: "I like it when she puts her tongue inside me."
 
 <mark>[Capote](https://en.wikipedia.org/wiki/Capote_(film)) and the Cole Porter biopic [*Night And Day*](https://en.wikipedia.org/wiki/Night_and_Day_(1946_film)) also short-changed their queer subjects, removing or overriding their sexualities. The question isn't one of *removing* agendas from film, it's a question of which agenda we choose. As the queer crisis collective asks:</mark> 
 
-\[Appearing on screen next to James]:
+<u>[Appearing on screen next to James]:</u>
 > <mark></mark>Who thrives?  
 > Who dies?  
 > Whose body matters?  
 > Whose history survives?  
 > Who is missing?  
 
-\[Fade to black]
+<u>[Fade to black]</u>
 
 </james>
 </compare>
@@ -1296,7 +1296,7 @@ Anne: "I like it when she puts her tongue inside me."
 <compare>
 <james {% include timecode %}>
 
-\[Fade back in]
+<u>[Fade back in]</u>
 
 <mark>Queer stories aren't just for</mark> people in their lifetime. They are a beacon for future generations to look back and feel camaraderie and empowerment with people from long ago. Who were like they are now. So we can grow up, never thinking once that we are alone. That we have ever been alone. 
 
@@ -1304,7 +1304,7 @@ They should know that the greatest thinkers of Greece were queer. That Sappho (t
 
 The next generation should know about these men and women. Their stories, their accomplishments, how they change the world. So that they know they too can change the world. To make it that much easier for them. <mark>To start feeling around in the dark for the closet door.</mark>
 
-\[James fades away]
+<u>[James fades away]</u>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.ff2media at="¶ 13" %}>
@@ -1321,7 +1321,7 @@ James Somerton
 > Edited by  
 James Somerton
 
-\[Scrolling]:
+<u>[Scrolling]:</u>
 <blockquote style="text-align:right">
 
 Music by  

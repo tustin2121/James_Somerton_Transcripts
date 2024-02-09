@@ -75,7 +75,7 @@ PATREON: [link]
 <compare>
 <credits>
 
-\[Titles play intercut with posterized monochrome video of Disney World, with funky music]
+<u>[Titles play intercut with posterized monochrome video of Disney World, with funky music]</u>
 
 > James Somerton presents
 
@@ -103,7 +103,7 @@ James Somerton
 <compare>
 <james {% include timecode %}>
 
-\[Scrolling text over black Mickey background]:
+<u>[Scrolling text over black Mickey background]:</u>
 
 > "We understand how important this issue is to our LGBTQ+ employees and many others. For nearly a century, Disney has been a unifying force that brings people together. We are determined that it remains a place where everyone is treated with dignity and respect. 
 > 
@@ -151,7 +151,7 @@ Descriminatory bills *usually* do not have limits because the governing authorit
 
 > “reinforce the fundamental right of parents to make decisions regarding upbringing and control of their children.” 
 
-[James on-screen, zoomed in, in red lettering:] “Control… of their children…” 
+<u>[James on-screen, zoomed in, in red lettering:] “Control… of their children…”</u>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.indian_exp_article %}>
@@ -197,7 +197,7 @@ Yes he said “all those basic stuff”
 <compare>
 <clip {% include citation for=page.cite.clips.bush_learning %}> <!-- Peacock logo at the bottom right, so news channel. -->
 
-\[President George W Bush at a podium]: "Our-- Is our children learning?"
+<u>[President George W Bush at a podium]:</u> "Our-- Is our children learning?"
 {% assign timecode = "5:45" %}
 
 </clip>
@@ -210,7 +210,7 @@ And we know Florida school books aren't exactly prime real estate for truthful d
 
 On February 25th this passed through the Florida House of Representatives, on its way to quickly becoming law. President Joe Biden, or someone on his team (more likely), quickly tweeted: 
 
-\[Tweet displayed on screen:]
+<u>[Tweet displayed on screen:]</u>
 
 > “I want every member of the LGBTQI+ community — especially the kids who will be impacted by this hateful bill — to know that you are loved and accepted just as you are. I have your back, and my Administration will continue to fight for the protections and safety you deserve.” 
 
@@ -323,7 +323,7 @@ Chapek appears to want to handle certain controversial topics through internal d
 
 <span class="add"><mark>The company’s website</mark> does <mark>affirm support for freedom of identity and expression:</mark></span>
 
-\[Scrolling]:
+<u>[Scrolling]:</u>
 
 > “Disney is a leader in LGBTQ workplace equality and content-”
 {% assign timecode = "10:03" %}
@@ -341,7 +341,7 @@ Though Disney declined to comment on the Florida legislation, <mark>the company�
 <compare>
 <james {% include timecode %}>
 
-[James cuts off the quote.] Content? A leader in LGBTQ content? Well that’s… news… Have we been looking at the same release schedule, Disney? Like ‘leader’ as in racing ahead of the competition, venturing into uncharted territory, and developing new innovations which inspire others to keep up with you? Because none of those things are going on these days. 
+<u>[James cuts off the quote.]</u> Content? A leader in LGBTQ content? Well that’s… news… Have we been looking at the same release schedule, Disney? Like ‘leader’ as in racing ahead of the competition, venturing into uncharted territory, and developing new innovations which inspire others to keep up with you? Because none of those things are going on these days. 
 {% assign timecode = "10:21" %}
 
 </james>
@@ -745,7 +745,7 @@ And someone is easier to exploit if the government is consistently de-valuing th
 
 Meanwhile, non-queer-people can’t seem to understand WHY suicide is still highest per-capita among queer youth, specifically queer trans youth. You know what they need? MORE AWARENESS. That’s all they need. More awareness. 
 
-[Doing a 'Susan' impression:] Why are there all these suicides? Haven’t all of these depressed queer kids seen the rainbow logos every June? Haven’t they seen all the gays Disney’s been putting in movies? Like that one in Cruella, or Beauty and the Beast, or Jungle Cruise. I mean they never said they were gay in the movie but still. OH, and that guy from the Eternals. I didn’t go see it but I’m sure these LBGTABC kids did. Don’t they know they’re being seen? I’m doing MY part! I watch Queer-Eye on Netflix! 
+<u>[Doing a 'Susan' impression:]</u> Why are there all these suicides? Haven’t all of these depressed queer kids seen the rainbow logos every June? Haven’t they seen all the gays Disney’s been putting in movies? Like that one in Cruella, or Beauty and the Beast, or Jungle Cruise. I mean they never said they were gay in the movie but still. OH, and that guy from the Eternals. I didn’t go see it but I’m sure these LBGTABC kids did. Don’t they know they’re being seen? I’m doing MY part! I watch Queer-Eye on Netflix! 
 
 The objective of these laws is not to erase queer people. These lawmakers aren’t dumb— <span class="del">Well…</span> most of them… The corperate moguls funneling money into these lawmakers aren’t dumb. They know queer people have this weird habbit of repopulating themselves because, i don’t know, deviations from cis-hetero identity expressions are somehow doccumented throughout all of biology. 
 

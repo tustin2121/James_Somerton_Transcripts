@@ -82,7 +82,7 @@ This video is brought to you by my patrons. If you'd like to support my channel 
 <compare>
 <james {% include timecode %}>
 
-\[On Screen]: "Disclaimer: I had strep throat while filming this video."
+<u>[On Screen]: "Disclaimer: I had strep throat while filming this video."</u>
 
 The bulk of content on this channel is about queer representation. And because, as I have mentioned numerous times, the Walt Disney Corporation is playing a ruthless, cutthroat game of being the world's number one producer of media in general, my ire is naturally drawn to... that. 
 
@@ -108,7 +108,7 @@ If we weren't living in such a monopolistic world we wouldn't have to talk about
 
 But in spite of Disney's obsession with kowtowing to its own brand like that's the anthill that it's going to die on, there are a few times they have given the gays everything they want. And while I was making content about Disney's shortcomings on representation, I was informed that *The Owl House*, the 2020 animated series on the Disney Channel, absolved Disney of all the queerbaiting and queerphobia that I was accusing them of. And even when I wasn't talking about Disney at all, I was reminded of *The Owl House* over and over and over and over-- 
 
-And so I watched it. [party noisemaker sound] Go me I guess! I really wasn't ever expecting to hate it, I just wasn't watching it because I'm an only child, which means when someone tells me to do something I don't do it just because I don't like being told what to do. I was probably going to end up watching it in the end eventually. Probably would have waited for a third season, so I could properly binge it. But Disney decided to be a big old dick and soft cancel the show by cutting the final season down from the ninteen to twenty-one episodes... to three. 
+And so I watched it. <u>[party noisemaker sound]</u> Go me I guess! I really wasn't ever expecting to hate it, I just wasn't watching it because I'm an only child, which means when someone tells me to do something I don't do it just because I don't like being told what to do. I was probably going to end up watching it in the end eventually. Probably would have waited for a third season, so I could properly binge it. But Disney decided to be a big old dick and soft cancel the show by cutting the final season down from the ninteen to twenty-one episodes... to three. 
 
 </james>
 <from></from>
@@ -281,7 +281,7 @@ But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today.
 </from>
 <nick>
 
-\[Quotes shown on screen. Nick is reading them out with a grainy audio filter.]
+<u>[Quotes shown on screen. Nick is reading them out with a grainy audio filter.]</u>
 >"<mark meta num=1>They just wanted to be done with *The Owl House* and this was the perfect chance to do that. Even getting the consolation season 3 episodes was difficult, apparently. Hard to say, I wasn't allowed to be part of any conversation until I was just... told.</mark>"
 
 >"<mark meta num=2>At the end of the day, there are a few business people who oversee what fits into the Disney brand and one day one of those guides decided *The Owl House*</mark> <span stat:id="change-quote">just</span> <mark meta num=3>didn't fit that brand. The story is serialized (BARELY compared to any average anime lmao), our audience skews older and that just didn't fit this one guy's tastes. That's it! Ain't that wild? Really grinds my guts, boils my brain, kicks my shins, all the things. It sucks but it is what it is.</mark>"
@@ -435,7 +435,7 @@ Iger is also a big fan of NFTs and the like. [After leaving Disney, he joined a 
 
 <mark>But the cuts and what some fans perceive as unabashedly putting profits over people has led to discontentment among fans, reaching such a fever pitch that it's extending far beyond the echo chamber of Disney blogs.</mark> 
 
-\[Quote shown on screen as James reads it.] 
+<u>[Quote shown on screen as James reads it.] </u>
 ><mark>"When you spend the most amount of money you've ever spent and you go and you have a substandard experience worse than before - and this is multiplied by the fact that it's so crowded - these are all things that kind of entice this... extreme dissatisfaction,"
 
 <mark>Theme park expert Scott Smith told the Washington Post earlier this year.</mark> Isn't it wild that theme park expert is a job?
@@ -521,7 +521,7 @@ The further queering of the show in Season Two probably didn't sit well with a C
 
 Time for me to use that marketing degree. <mark>Simply put, a brand is a promise to your customer. When describing a brand, it's tempting to simply list the attributes of a business, describe the product line or point to the logo and tagline. But a brand is more than that. It's a unique benefit for your customers. The Walt Disney Company presents itself is more than just a business. It is an authentic American icon.</mark> An honest-to-goodness rags-to-riches story of one man who struck out and made it big - and did everything he could to crush unions along the way. <mark>But the Walt Disney Company's promise has always been to be bringers of joy. As Walt said,</mark>
 
-\[Quote shown on screen as James reads it.] 
+<u>[Quote shown on screen as James reads it.] </u>
 > <mark>"We need to create joy not for children... But for the children in each of us."</mark>
 
 </james>
@@ -565,7 +565,7 @@ This direct connection to its founder is also a part of the Disney brand, as the
 
 We don't think about the founders of corporations. Look at 20th Century Fox! Before the merger, Fox Studios was founded by William Fox. Both the "G" and "M" of MGM were named for Samuel Goldwyn and Louis B. Mayer. Disney not only wants Walt Disney to remain relevant in a modern discussion of media, but almost venerates this man in a way few corporations do of their founders. The only companies I can think of with a founder mythology are like, Apple? But Steve Jobs notoriously gave zero f words about how other people perceived him. Very early on, Walt Disney established the production company as a family brand. Family owned, family operated, family safe. A movie studio that would produce films the whole family could enjoy, from the youngest children to the oldest grandparents, enchanting young kids and bringing adults back to their childhoods. He's quoted as saying:
 
-\[Quote shown on screen as James reads it.] 
+<u>[Quote shown on screen as James reads it.] </u>
 > "You're dead if you aim only for the kids. Adults are only kids grown up, anyway."
 
 </james>
@@ -620,7 +620,7 @@ There's also nothing saying that the executives wouldn't be aware that Disney Pl
 <comment id="disney_funeral">
 {% include header video=todd at="3949s" %}
 
-No, not funerals-- [exasperated sigh]. All right, this could only be considered "true" in the sense that Disney marketing permeates everything, so there are people who would *absolutely* get Disney themed funerals if Disney was willing to sell it to them.
+No, not funerals-- <u>[exasperated sigh]</u>. All right, this could only be considered "true" in the sense that Disney marketing permeates everything, so there are people who would *absolutely* get Disney themed funerals if Disney was willing to sell it to them.
 
 But Disney is very much *not* willing to do that. The Disney Corporation is *extremely* averse to associating its brand with funerals. They do not allow memorial services at Disney parks, and any Disney funeral decorations you can find are bootleg. There are [some fake satirical websites](http://magicalpassings.com/) that advertise Disney funerals. 
 
@@ -762,7 +762,7 @@ But then you realize that the Boiling Isles themselves are an escape from Luz's 
 <compare>
 <james {% include timecode %}>
 
-Luz struggles with conformity. She wants the simple things by witch standards. However, she is immediately faced with criticism simply because humans lack the anatomy to perform typical magic. And even though Luz discovers how to study magic through discovering four combinable glyphs around the isles, she is constantly decried as a fake witch. It's a struggle for her to convince classmates and grown-ups to take her seriously. Many don't believe she has a place in the Boiling Isles, the place she escaped to in order to reject conformity. And suddenly Luz is in an escapist environment which has the very trappings of the conformist society from which she fled. Welcome to the queer community! [party noisemaker sound] 
+Luz struggles with conformity. She wants the simple things by witch standards. However, she is immediately faced with criticism simply because humans lack the anatomy to perform typical magic. And even though Luz discovers how to study magic through discovering four combinable glyphs around the isles, she is constantly decried as a fake witch. It's a struggle for her to convince classmates and grown-ups to take her seriously. Many don't believe she has a place in the Boiling Isles, the place she escaped to in order to reject conformity. And suddenly Luz is in an escapist environment which has the very trappings of the conformist society from which she fled. Welcome to the queer community! <u>[party noisemaker sound]</u> 
 
 </james>
 <from></from>
@@ -827,7 +827,7 @@ But bear in mind, the gatekeeping agenda of the Boiling Isles was not enforced b
 <compare>
 <james {% include timecode %}>
 
-Just like Belos is a human pretending to be a witch in order to hunt them, the sentiments of self-oppression and gatekeeping in the queer community are either derived from internalized phobias or reactions to violence, threats, and regressive laws. If we live in fear of the heterohegemony, then the hegemony can still control us. And instead, we develop these queer life tracks to rock the boat as little as possible in the misguided belief that it will give us more political clout to expand our rights. Because that's going swimmingly, apparently. [Text on screen: LGBTQ youth in middle or high school: 42% report seriously considering suicide.] 
+Just like Belos is a human pretending to be a witch in order to hunt them, the sentiments of self-oppression and gatekeeping in the queer community are either derived from internalized phobias or reactions to violence, threats, and regressive laws. If we live in fear of the heterohegemony, then the hegemony can still control us. And instead, we develop these queer life tracks to rock the boat as little as possible in the misguided belief that it will give us more political clout to expand our rights. Because that's going swimmingly, apparently. <u>[Text on screen: LGBTQ youth in middle or high school: 42% report seriously considering suicide.]</u>
 
 What comes to mind is that observing the last century, queer rights hit their greatest strides when community attitudes were more radical.<sup cn></sup> Periods where we put on suits, get offices and follow the appropriate channels are when we make compromises and various letters to the acronym get left behind. When critics call us groomers for even existing, shriveling up and molding ourselves to be what they want isn't going to advance our causes. Just like Democrats cowering at Republicans threatening to stage a filibuster is-- just shows us that Democrats can be coerced. And it's hard to be taken seriously when history shows that you back down from a fight at the slightest sign of resistance.
 
@@ -841,7 +841,7 @@ What comes to mind is that observing the last century, queer rights hit their gr
 <compare>
 <james {% include timecode %}>
 
-Thinking about it, Disney could have used *The Owl House* to gain so much good will from the queer community. Just as J [bleep] goes off the rails and becomes a flaming bigot, here comes this new franchise filled with witches and wizards and queer acceptance and representation around every corner. It could have been a replacement for all the people who felt let down by what she'd done and said. Disney could have positioned it as the *Harry Potter* for all those abandoned by she-who-must-not-be-named. But they didn't. Instead they killed it. They couldn't let it die because it was thriving with a growing fanbsae, instead they killed it. They took this beautiful queer story, this house where us weirdos are accepted and embraced, and they tore it down. 
+Thinking about it, Disney could have used *The Owl House* to gain so much good will from the queer community. Just as J <u>[bleep]</u> goes off the rails and becomes a flaming bigot, here comes this new franchise filled with witches and wizards and queer acceptance and representation around every corner. It could have been a replacement for all the people who felt let down by what she'd done and said. Disney could have positioned it as the *Harry Potter* for all those abandoned by she-who-must-not-be-named. But they didn't. Instead they killed it. They couldn't let it die because it was thriving with a growing fanbsae, instead they killed it. They took this beautiful queer story, this house where us weirdos are accepted and embraced, and they tore it down. 
 
 And we didn't say a thing about it. The fans did, sure, but the queer community as a whole was just sort of... silent. We've been doing that a lot lately. Not just us queers, but a lot of people. When we need to be loudest, we go quiet. 
 
