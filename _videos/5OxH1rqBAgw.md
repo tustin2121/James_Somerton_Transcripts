@@ -222,7 +222,11 @@ Even during World War I the queer subculture survived. <mark>Many clubs and bars
 
 <mark>1 Homosexual men and women, as well as groups supporting their rights, had made great efforts to achieve some form of social recognition.</mark> <mark>The most important prerequisite, an end to legal discrimintation, had been called for by a number of weighty figures and groups even outside the medical and legal professions.</mark> <mark>Moreover, a number of special organizations and societies had come into being. <mark>In the big cities, especially Berlin and Hamburg, widespread toleration of a specifically homosexual leisure and contacts culture indicated a liberal interpretation of the relevant penal laws.<sup>1</sup></mark> There was also a significant rise in the activities of the lesbian and gay press and the Scientific-Humanitarian Committee founded by Hirschfeld as early as 1897; in 1919 a Sexual Science Institute had also been created in Berlin. Together with the League of Human Rights, these two institutions spoke out particularly for an end to criminal prosecutions and for the social equality of homosexual men and women.
 
-<footer>1. See the exhibition catalogue *Eldorado. Homosexuelle Frauen und Männer in Berlin 1850 bis 1950. Geschichte, Alltag und Kultur*, Berlin 1984; B. Jellonek. *Homosexuelle unter dem Hakenkreuz*, Paderborn 1990, pp. 39ff.; H. Stümke, *Homosexuelle in Deutschland. Eine politische Geschichte*, Munch 1989, pp. 53ff.; R. Plant, *Rosa Winkel, Der Krieg der Nazis gegen die Homosexuellen*, Frankfurt/Main 1991, pp. 31ff. </footer>
+<footer>
+
+1. See the exhibition catalogue *Eldorado. Homosexuelle Frauen und Männer in Berlin 1850 bis 1950. Geschichte, Alltag und Kultur*, Berlin 1984; B. Jellonek. *Homosexuelle unter dem Hakenkreuz*, Paderborn 1990, pp. 39ff.; H. Stümke, *Homosexuelle in Deutschland. Eine politische Geschichte*, Munch 1989, pp. 53ff.; R. Plant, *Rosa Winkel, Der Krieg der Nazis gegen die Homosexuellen*, Frankfurt/Main 1991, pp. 31ff.
+
+</footer>
 </from>
 </compare>
 
@@ -236,8 +240,11 @@ Even during World War I the queer subculture survived. <mark>Many clubs and bars
 
 <mark>2 Greater public sympathy for such changes in the criminal law meant that political parties too had been under increasing pressure to take a position.</mark> <mark>Their different attitudes became apparent in 1929 when the Reichstag Committee on Criminal Law again discussed the draft of a common German Penal code and recommended, among other things, the deletion of Section 175.<sup>2</sup></mark>
 
-<footer>2. On the differences in the programmes of the various parties see W.U. Eissler, *Arbeiterparteien und Homosexuellenfrage. Zur Sexualpolitik von SPD und KPD in der Weimarer Republik*, Berlin 1980.</footer>
+<footer>
 
+2. On the differences in the programmes of the various parties see W.U. Eissler, *Arbeiterparteien und Homosexuellenfrage. Zur Sexualpolitik von SPD und KPD in der Weimarer Republik*, Berlin 1980.
+
+</footer>
 </from>
 </compare>
 
@@ -463,12 +470,12 @@ The closest thing I could find in the book was a general statement that unemploy
 
 <mark>But the sexual tolerance so often associated with the Weimar Republic began to disappear as rapidly as Germany’s economy began to crumble.</mark> (The unemployed are generally less tolerant of contragenics.<sup>8</sup>) Germany, it must be remembered, had never been an ethnically pluralistic society. Almost all German churches were state churches. There were no large ethnic groups or religious sects other than the Jews, the Gypsies, and the Jehovah’s Witnesses - the latter relatively small in number. Homosexuals were an obvious, if largely invisible, scapegoat.
 
-</from>
 <footer>
 
 8. Allport, *The Nature of Prejudice*.
 
 </footer>
+</from>
 </compare>
 
 ## Part Two: Paragraph 175
@@ -707,7 +714,6 @@ Roehm thought the theatricality was a bit much. Despite their disagreements, <ma
 11. Strasser and Stern, *Flight from Terror*, 189-90.
 
 </footer>
-
 </from>
 </compare>
 
@@ -803,7 +809,6 @@ Throughout Germany, old scores were settled. For the first time the Third Reich 
 3. Many of Roehm's remarks have been reported secondhand; transcripts frequently do not exist, and where they do, they vary greatly according to the bias of the transcriber. See Gallo, *The Night of the Long Knives*, 229. For another version, see Höhne, *Der Orden unter dem Totenkopf*, vol. 1, 127.
 
 </footer>
-
 </from>
 </compare>
 
@@ -2051,7 +2056,7 @@ Maybe he just doesn't know what 'impervious' means? Why would the people alleged
 </compare>
 
 <compare>
-<james {% include timecode %} id="exclusively"> 
+<james span=2 {% include timecode %} id="exclusively"> 
 
 In other camps, <mark yikes stat:id="y-persecution">gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
 
@@ -2066,12 +2071,6 @@ From the available records <mark fc>it cannot be determined</mark> whether homos
 
 </footer>
 </from>
-<comment>
-{% include header for=tustin %}
-
-I can't find anything about [Buchenwald](https://en.wikipedia.org/wiki/Buchenwald_concentration_camp) doing anything special with gay men. In fact, it seemed to be a place more for women at certain times.
-
-</comment>
 <comment>
 {% include header for=tobi %}
 
