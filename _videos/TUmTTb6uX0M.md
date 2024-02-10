@@ -4,7 +4,7 @@ redirect_from:
 
 date: 2022-02-25
 title: How Wanda Became An Accidental Gay Icon
-status: Script
+status: Finished
 aka: !!seq
   - "The Scarlet Witch and Shared Queer Trauma"
   - "Why Gays Stan Wanda (Thumbnail)"
@@ -18,6 +18,10 @@ links: !!seq
 notes:
   - script-diff
   - w-nick-james
+
+contributors:
+  downloaded: $cite$TerraJRiley
+  formatting: $cite$tobicat
 
 cite:
   clips: !!map
@@ -47,7 +51,7 @@ cite:
 <compare>
 <james {% include timecode %}>
 
-[In black and white]
+<u>[In black and white]</u>
 
 Hi everyone. Before we get started with the video I just want to thank everyone who signed up for the Telos Pictures IndieGoGo campaign. It has wildly exceeded my craziest expectations for it and I am so excited to have the chance to bring you guys really great narrative LGBTQ content made by LGBTQ people for an LGBTQ audience. If you haven't signed up yet there’s still plenty of time and there’s a link in the description where you can do so. 
 
@@ -59,31 +63,31 @@ Also don't forget to like subscribe and comment on this video. You have no idea 
 <compare>
 <credits class = "opening" >
 
-[Over epic, orchestral superhero music, probably something from WandaVision, and red, flashy, eyestrain-inducing visuals.]
+<u>[Over epic, orchestral superhero music, probably something from WandaVision, and red, flashy, eyestrain-inducing visuals.]</u>
 
 > James Somerton  
 Presents
 
 > Written by  
-Nick Herrgott
+Nick Herrgott  
 & James Somerton
 
-> Produced by 
+> Produced by  
 [Seven patron names]
 
-> Produced by
+> Produced by  
 [The same seven patron names, again for some reason.]
 
-> Produced by
+> Produced by  
 [Seven more patron names]
 
-> Executive producers
+> Executive producers  
 [Five patron names]
 
-> Executive producers
+> Executive producers  
 [Five more patron names]
 
-> Edited & directed by
+> Edited & directed by  
 James Somerton
 
 > The Red Queen: Why the Scarlet Witch Became a Gay Icon
@@ -94,7 +98,7 @@ James Somerton
 <compare>
 <james {% include timecode %}>
 
-[Throughout this section, the light keeps moving rapidly on and off of James' face in a way that's really distracting and leaves his face in the dark most of the time. There's also a moving red graphic behind him; the overall effect is eyestrain-inducing.]
+<u>[Throughout this section, the light keeps moving rapidly on and off of James' face in a way that's really distracting and leaves his face in the dark most of the time. There's also a moving red graphic behind him; the overall effect is eyestrain-inducing.]</u>
 
 Ever notice that the LGBTQ community seems to really gravitate toward Marvel’s The Scarlet Witch? Yeah me too. We can assume it’s because she’s a fabulous dresser and diva supreme, but I think it goes a lot deeper than that. And goes a lot further back in time than just the birth of Disney’s Marvel Cinematic Universe. It goes back to the Bronze age of comics. 
 
@@ -190,7 +194,7 @@ And it was during this *magical* time when comics were still free enough to have
 <compare>
 <james {% include timecode %}>
 
-[The eyestrain visuals stop - James is in black-and-white with a living room behind him.]
+<u>[The eyestrain visuals stop - James is in black-and-white with a living room behind him.]</u>
 
 When it comes to comic book stories, people usually default to Origin stories as the means of developing an early gauge for the character. The origin story is pivotal to <del>a</del><ins>the</ins> comic book character because they usually outline why the hero fights. At least… the good ones do. The quintessential archetype in this case is Batman. His parents were killed in a random act of violence, and so he sets out to prevent random acts of violence. Since then, Batman’s whole psychological state of being has been expanded to the point where there’s an argument to make that his central rogues gallery can be seen as a reflection of his own psychosis. The penguin as per his status as established wealth. The riddler as per his own egoism and intelligence-obsession. Two-face as per his conflicting ideologies of justice. The joker represents his natural inclination towards wanton theatrics. Etc. 
 
@@ -210,11 +214,11 @@ In instances like Batman, Spider-Man, and even Iron Man, a component of their ba
 <compare>
 <james {% include timecode %}>
 
-[Static and cut to James in color with more bright, distracting visual effects.]
+<u>[Static and cut to James in color with more bright, distracting visual effects.]</u>
 
 Hello. My name is James Somerton. You may recognize me from such videos as: “Adult Gay Man Yells About Disney” “Adult Gay Man Complains About Korean Webcomics” “Adult Gay Man Yells About Disney 2: Release The Gay Fish Boys” …and the video you were just watching. I realize I just said that Wanda Maximoff is a mutant, and implied that’s where her powers come from. Before going forward, I’d like to take a moment to acknowledge that this is an egregious simplification, and depending upon which comic you’re reading, Wanda may or may not still be a mutant. For more information about the powerset of the Scarlet Witch, please see my other video: Marvel’s Gay Power Couple. Which, itself is a gross simplification. Now, let’s return to our regularly scheduled programming.
 
-[Cut back to the previous setup.]
+<u>[Cut back to the previous setup.]</u>
 
 </james>
 <from></from>
@@ -250,7 +254,7 @@ Suffice to say, Wanda’s origins factor in a heavy amount of trauma, and rather
 <compare>
 <james {% include timecode %}>
 
-While it’s true that Stan Lee made the conflict between the X-Men and the Brother<del>b</del><ins>h</ins>ood as an allegory for civil rights, he did later admit that an allegory for gay rights was also valid, in retrospect.<sup cn></sup> And admittedly, a queer reading of the Maximoff’s<sup class="add">[sic: Maxmioffs'] origin may be a bit of a stretch. But going forward, Wanda begins to embody more queer experiences on the pages of Avengers titles. 
+While it’s true that Stan Lee made the conflict between the X-Men and the Brother<del>b</del><ins>h</ins>ood as an allegory for civil rights, he did later admit that an allegory for gay rights was also valid, in retrospect.<sup cn></sup> And admittedly, a queer reading of the Maximoff’s<sup class="add">[sic: Maxmioffs']</sup> origin may be a bit of a stretch. But going forward, Wanda begins to embody more queer experiences on the pages of Avengers titles. 
 
 </james>
 <from></from>
@@ -360,9 +364,7 @@ But when it comes to Wanda going through the kinds of traumas she has, however q
 <compare>
 <james {% include timecode %}>
 
-And though this pairing was absolutely unorthodox even by comic book standards, it was the fairytale couple that worked out far better than the ‘normies.’ Janet was a victim of domestic abuse, Sue was an invisible woman in the sense that she was almost entirely neglected by Reed (who is a bit of a bastard), and it took about 0.02 seconds of married life before S<del>oc</del><in>co</ins>tt decided to start hooking up with Emma Frost. Vision and Wanda, however, slept in
-on Saturdays, they were affectionate, kind, understanding, and had open, honest communication.
-Imagine that. The couple that everyone thought was too weird to function ended up being really one of the only marriages in comic book history that ‘worked.’ Especially one between two super-powered characters, as there is a literal imbalance of power in instances like Lois and Clark. 
+And though this pairing was absolutely unorthodox even by comic book standards, it was the fairytale couple that worked out far better than the ‘normies.’ Janet was a victim of domestic abuse, Sue was an invisible woman in the sense that she was almost entirely neglected by Reed (who is a bit of a bastard), and it took about 0.02 seconds of married life before S<del>oc</del><in>co</ins>tt decided to start hooking up with Emma Frost. Vision and Wanda, however, slept in on Saturdays, they were affectionate, kind, understanding, and had open, honest communication. Imagine that. The couple that everyone thought was too weird to function ended up being really one of the only marriages in comic book history that ‘worked.’ Especially one between two super-powered characters, as there is a literal imbalance of power in instances like Lois and Clark. 
 
 </james>
 <from></from>
@@ -380,7 +382,7 @@ Sure, the Avengers were cool with it. But left, right, and center these two had 
 <compare>
 <james {% include timecode %}>
 
-Which… does kind of mirror the path to Gay rights. Don’t you think? While in the first half of the 20th century, the cultural mindset of gay communities was a more… hit-and-run style approach to rights. Make strides where we can, but stay fluid so that there’s no foundation that institutional bigotry can target. This was how P.R.I.D.E. (Personal Rights In Deffence<sup class="add">[sic: Defense]</sup> and Education — emphasis on the deffence<sup class="add">[sic: defense]</ins> part) managed to make progress on queer activisim, where gay rights groups before then tried to ‘play by the rules’ and made very little headway. But the shock-and-awe tactics of P.R.I.D.E. depended on being able to show up where it was inconvenient for the straights and then disappear before the cops showed up.
+Which… does kind of mirror the path to Gay rights. Don’t you think? While in the first half of the 20th century, the cultural mindset of gay communities was a more… hit-and-run style approach to rights. Make strides where we can, but stay fluid so that there’s no foundation that institutional bigotry can target. This was how P.R.I.D.E. (Personal Rights In Deffence<sup class="add">[sic: Defense]</sup> and Education — emphasis on the deffence<sup class="add">[sic: defense]</sup> part) managed to make progress on queer activisim, where gay rights groups before then tried to ‘play by the rules’ and made very little headway. But the shock-and-awe tactics of P.R.I.D.E. depended on being able to show up where it was inconvenient for the straights and then disappear before the cops showed up.
 
 </james>
 <from></from>
@@ -580,7 +582,7 @@ But going over *Wandavision*, I’m still not sure how people can have a takeawa
 </compare>
 
 <compare>
-<clip>
+<clip {% include citation for=page.cite.clips.TODO %}>
 
 Maria: File says they volunteered for Strucker’s experiments. That’s nutts.<sup class="add">[sic: nuts]</sup> 
 
@@ -614,7 +616,7 @@ Wanda grew up with a vision of America built from sitcoms. She just assumed that
 </compare>
 
 <compare>
-<clip>
+<clip {% include citation for=page.cite.clips.TODO %}>
 
 Agatha: You’re even running illusions miles away at the edge of town! Magic on autopilot. 
 
@@ -713,7 +715,7 @@ The MCU has laid out a painstakingly detailed account of Wanda Maximoff’s trau
 <compare>
 <james {% include timecode %}>
 
-[The eyestrain-inducing lighting and visuals from Part One return and continue until the credits roll.]
+<u>[The eyestrain-inducing lighting and visuals from Part One return and continue until the credits roll.]</u>
 
 It’s easy to mistake Wanda’s appeal to queer folks as being a matter of camp. Or diva worship. That we flock to her the way we flock to Madonna or Beyonce. She’s got the outfits, she’s got the poses, the powers, the gay kids. And there is a camp of gay men who will condone any villianous behaviour from such a woman because she’s fierce. But I’m bothered by that just as much as the ones who demonize complex characters like her. 
 
@@ -803,9 +805,9 @@ And make no mistake, from the day we’re born we’re told that there’s a cer
 </compare>
 
 <compare>
-<credits class = "closing">
+<credits class="closing">
 
-Patron names roll over triumphant superhero music.
+<u>[Patron names roll over triumphant superhero music.]</u>
 
 </credits>
 </compare>
