@@ -20,6 +20,7 @@ notes:
   - script-diff
 
 contributors:
+  transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   formatting:
     - "[Scary-Library](https://github.com/tustin2121/James_Somerton_Transcripts/pull/12)"

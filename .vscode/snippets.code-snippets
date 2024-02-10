@@ -206,6 +206,13 @@
 		],
 		"description": "Insert a header for a <comment> block."
 	},
+	"twitter-mirror": {
+		"prefix": "twitter-mirror",
+		"body": [
+			"{% include twitter-mirror link=\"$1\" %}"
+		],
+		"description": "Insert a header for a <comment> block."
+	},
 	
 	"video-on-off": {
 		"prefix": "video-on-off",

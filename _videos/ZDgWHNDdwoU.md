@@ -26,6 +26,7 @@ notes:
   - w-james-nick
 
 contributors:
+  transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   citation: 
     - "[@kermitlesbian / Radhika Mohan](https://www.tumblr.com/kermitlesbian/735887223459807232/buy-radha-a-coffee-ko-ficomradha)"

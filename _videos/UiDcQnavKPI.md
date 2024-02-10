@@ -21,6 +21,7 @@ notes:
   - w-nick-james
 
 contributors:
+  transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   formatting:
     - $cite$tobicat

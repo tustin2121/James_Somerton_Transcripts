@@ -23,6 +23,7 @@ contributors:
 
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign lvence = site.data.cite.lvence %}
 
 <compare>
 <credits class="desc">
@@ -105,10 +106,15 @@ I also put either in the description or the pinned comment the names of the auth
 <compare>
 <james {% include timecode %}>
 
-Sorry about that; the phone stopped recording. Yes, they deserved credit, and when it was something like the recent history of Hollywood videos, right there in the opening credits, I put Vito Russo's name, that it was adapted from his book "The Celluloid Closet." The same thing went for the gay Panic video and the gay Holocaust video. They were adapted from two books, and the gay Panic video was adapted from a lot of journalism. I put their names right at the beginning of the videos.
+Sorry about that; the phone stopped recording. <mark fc>Yes, they deserved credit, and when it was something like the recent [history of Hollywood](pW_RjbZYi1s) videos, right there in the opening credits, I put Vito Russo's name, that it was adapted from his book "The Celluloid Closet." The same thing went for [the gay Panic video](digub0QVCho) and [the gay Holocaust video](FeAAqBRL-fc). They were adapted from two books, and the gay Panic video was adapted from a lot of journalism. I put their names right at the beginning of the videos.</mark>
 
 </james>
-<comment></comment>
+<comment>
+{% include header for=lvence %}
+
+All three videos had additional sources he plagiarized from that were not in the opening credits.
+
+</comment>
 </compare>
 
 <compare>
@@ -123,7 +129,26 @@ But I understand that's not how citation works now. I understand that. I get it,
 <compare>
 <james {% include timecode %}>
 
-I know a lot of you watching this aren't really going to care and would rather I just disappear, but I would like to try to do better. I never, ever intended to hurt anybody. I never thought that's what I was doing before. I went to the hospital; I read a lot of stuff from people who were really hurt, not just authors and stuff, but people who watched my videos who were hurt by stuff in them. People think that I hate Ace people and women and bisexual people and lesbians, and that's not true. It's really not true. I'm sorry that stuff made it into videos that just shouldn't have been there, misinformation and lies. I promise you I did not write that stuff.
+I know a lot of you watching this aren't really going to care and would rather I just disappear, but I would like to try to do better. I never, ever intended to hurt anybody. I never thought that's what I was doing before. I went to the hospital; I read a lot of stuff from people who were really hurt, not just authors and stuff, but people who watched my videos who were hurt by stuff in them. <mark fc>People think that I hate Ace people and women and bisexual people and lesbians, and that's not true. It's really not true. I'm sorry that stuff made it into videos that just shouldn't have been there, misinformation and lies. I promise you I did not write that stuff.</mark>
+
+</james>
+<comment>
+{% include header for=lvence %}
+
+The misogynist claims are repeated in multiple videos. 
+- Hbomb points out that he repeats his claim that only straight women would think Yuri on Ice is not gay in [his video about Neil Gaiman](p5KpIROXhZw) from the [original shipping video](UiDcQnavKPI). 
+- The women love Ted Bundy claim is first made in [“Queer Representation in Modern Horror”](s8Iv9xzW87I) and is repeated in literally the [next video about Dahmer](4wi49P-Qjcc). 
+- The claim that queer women face no legal prosecution is first made in the [Codebreaker video](P_mLM6fUhHQ), and then he gives the made up example about Radclyffe Hall in [“Reclaiming the "Q" word"](KXGpVm09GCM).
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+I should have been a lot more exacting when Nick and I would be editing scripts, but I promise you that those are not my thoughts. I specifically want to apologize to asexual people who feel like I just completely delegitimized you. Nick being Ace, I know it's kind of like, you know, no two gay people are exactly the same, and no two Ace people are exactly the same. But when it came to that, I would just kind of run with Nick's judgment and his observations and stuff like that. I'm not trying to throw Nick under the bus, which a bunch of people saying that I was setting him up, as doing which is not true. 
+
+This whole thing, Nick and I were 50-50 partners. It wasn't I hired him to have a scapegoat or something like that. I never hired Nick. Nick and I were roommates for years before I started doing YouTube videos, and then they started to people started watching them. I asked Nick if he wanted to help me write them, and he said yes. We started splitting the first the AdSense and then the Patreon and then the sponsorships. We just split everything. Nick was never supposed to be a fall guy.
 
 </james>
 <comment></comment>
@@ -132,19 +157,17 @@ I know a lot of you watching this aren't really going to care and would rather I
 <compare>
 <james {% include timecode %}>
 
-I should have been a lot more exacting when Nick and I would be editing scripts, but I promise you that those are not my thoughts. I specifically want to apologize to asexual people who feel like I just completely delegitimized you. Nick being Ace, I know it's kind of like, you know, no two gay people are exactly the same, and no two Ace people are exactly the same. But when it came to that, I would just kind of run with Nick's judgment and his observations and stuff like that. I'm not trying to throw Nick under the bus, which a bunch of people saying that I was setting him up, as doing which is not true. This whole thing, Nick and I were 50-50 partners. It wasn't I hired him to have a scapegoat or something like that. I never hired Nick. Nick and I were roommates for years before I started doing YouTube videos, and then they started to people started watching them. I asked Nick if he wanted to help me write them, and he said yes. We started splitting the first the AdSense and then the Patreon and then the sponsorships. We just split everything. Nick was never supposed to be a fall guy.
+God, I'm sorry; maybe I should have waited longer to do this. But yeah, I did not think those things, and I don't think Nick does either. I think it was just how fast we were writing stuff and how fast we were putting videos out was just too fast, and we weren't putting the care into them that needed to be put into them. 
+
+I've seen a lot of people on social media and other YouTubers even lying about me. But hbomberguy was not one of them. Just want to be clear about that except I was never setting Nick up to be a fall guy, and Telos was never a scam. It was never a grift or anything like that. I swear it was not. <mark fc=false>In the next couple of days, I'm going to send out a message to the supporters on Indiegogo and explain the whole situation</mark> in more detail to them because we were not super clear about everything that was going on with Telos. I understand why it seems like we weren't doing anything, but we were doing a lot of work on Telos. We just weren't talking about it because we made that initial first announcement for Final Girl, and that fell through. I'll explain that in the message I send out to the supporters, which I'm sure will end up on Reddit or somewhere.
 
 </james>
-<comment></comment>
-</compare>
+<comment>
+{% include header for=tustin %}
 
-<compare>
-<james {% include timecode %}>
+This video was released December 20th, 2023. James has still not sent a message to Telos supporters about anything at time of last update ({{ "now" | date: "%B %e, %Y" }}).
 
-God, I'm sorry; maybe I should have waited longer to do this. But yeah, I did not think those things, and I don't think Nick does either. I think it was just how fast we were writing stuff and how fast we were putting videos out was just too fast, and we weren't putting the care into them that needed to be put into them. I've seen a lot of people on social media and other YouTubers even lying about me. But hbomberguy was not one of them. Just want to be clear about that except I was never setting Nick up to be a fall guy, and Telos was never a scam. It was never a grift or anything like that. I swear it was not. In the next couple of days, I'm going to send out a message to the supporters on Indiegogo and explain the whole situation in more detail to them because we were not super clear about everything that was going on with Telos. I understand why it seems like we weren't doing anything, but we were doing a lot of work on Telos. We just weren't talking about it because we made that initial first announcement for Final Girl, and that fell through. I'll explain that in the message I send out to the supporters, which I'm sure will end up on Reddit or somewhere.
-
-</james>
-<comment></comment>
+</comment>
 </compare>
 
 <compare>
@@ -168,10 +191,15 @@ Anyway, I do want to keep making videos, and I know a lot of you won't watch the
 <compare>
 <james {% include timecode %}>
 
-Sometime I'd love to do retrospectives on important gay movies. If you watch the channel Be Kind Rewind, they're an amazing channel that does a lot of retrospectives on older Hollywood movies. I would love to do that for gay movies, a lot of gay movies people my age and younger just never heard of, things like Torch Song Trilogy and Longtime Companion and stuff like that. Movies from the '70s and '80s and the '90s, things that were really influential for gay Cinema that no one talks about. I'd like to talk about those, not just those movies, but how they got made and stuff like that. I would love to do something like that.
+Sometime I'd love to do retrospectives on important gay movies. <mark fc>If you watch the channel Be Kind Rewind, they're an amazing channel that does a lot of retrospectives on older Hollywood movies. I would love to do that for gay movies</mark>, a lot of gay movies people my age and younger just never heard of, things like Torch Song Trilogy and Longtime Companion and stuff like that. Movies from the '70s and '80s and the '90s, things that were really influential for gay Cinema that no one talks about. I'd like to talk about those, not just those movies, but how they got made and stuff like that. I would love to do something like that.
 
 </james>
-<comment></comment>
+<comment>
+{% include header for=lvence %}
+
+James stole from Be Kind Rewind, [she even called him out publicly](https://twitter.com/bkrewind/status/1731341792254075259). {% include twitter-mirror link="https://twitter.com/bkrewind/status/1731341792254075259" %}
+
+</comment>
 </compare>
 
 <compare>

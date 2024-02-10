@@ -21,10 +21,13 @@ notes:
   - w-nick-james
 
 contributors:
+  transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin
 
 recs:
   - { title: "Endnote 2: White Fascism", author: "Innuendo Studios", url: "https://www.youtube.com/watch?v=5Luu1Beb8ng" }
+  - { title: "I Read The Most Hateful Book Ever Written", author: "Thought Slime", url: "https://www.youtube.com/watch?v=67Rg8V4g3ak" }
 
 cite:
   clips: !!map
