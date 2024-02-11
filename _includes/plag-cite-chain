@@ -2,7 +2,13 @@
 {%- for item in include.list -%}
 	{%- if item[0] == "_desc_" -%}{%- continue -%}{%- endif -%}
 	<li id="{{ item[1].short | slugify }}">
-		{{ item[1].full }} <a href="{{ item[1].archive }}{{ item[1].url }}">{{ item[1].url }}</a>
+		{{ item[1].full }} 
+		{%- if item[1].offline %}
+			<a href="{{ item[1].archive }}{{ item[1].url }}">{{ item[1].url }}</a>
+		{%- else %}
+			<a href="{{ item[1].url }}">{{ item[1].url }}</a>
+			{%- if item[1].archive %} [<a href="{{ item[1].archive }}{{ item[1].url }}">Archived</a>]{%- endif -%}
+		{%- endif -%}
 		{%- if item[1].chain -%}
 		{%- if item[1].chain._desc_ %} <span class="chain-prefix">({{ item[1].chain._desc_ }})</span>{% endif -%}
 		<ul>
