@@ -592,13 +592,13 @@ Goblins are heavily featured in many European countries’ folklore and vary fro
 
 <mark>Rabbi Jo David</mark> said: 
 
-<u>[A photo of [Rabbi Dr. Jo David(https://rabbijodavid.org/) is shown next to the quote scrolling on screen.]</u>
+<u>[A photo of [Rabbi Dr. Jo David](https://rabbijodavid.org/) is shown next to the quote scrolling on screen.]</u>
 
 > <mark></mark>"That whole concept of the Jew as misshapen and ugly, actually comes from early Christian writings… 
 >
 > The way the church looked at the Jews, the more that they [the Jews] continued to reject Catholicism, and then later Protestantism, the more ugly they became. 
 >
-> The more that the church preached about their ugliness and their corruption and the corruption of their soul."k> 
+> The more that the church preached about their ugliness and their corruption and the corruption of their soul."
 
 </james>
 <from {% include citation for=page.cite.plagiarized.uppercut at="¶ 4-5" %}>
@@ -696,7 +696,7 @@ According to Wikipedia, the [Feltmilth uprising](https://en.wikipedia.org/wiki/F
 
 *Hogwarts Legacy* has, of course, sold a gazillion copies already, and will likely end up, by direct royalties, or further licensing agreements, making JK Rowling richer than she already is. She even brags about getting royalty checks on Twitter now. Because, again, she’s as petty as an eighth grader. 
 
-I say ‘8th grader’ figuratively. I’m sure many ankle-biters have more emotional maturity than this woman is displaying. Seeing how most of her tweeting and award-winning, grammatically <del>unstructured</del><ins>unconstructed</ins> essay-ing is equivalent to ’I’m rubber and you’re glue.’ 
+I say ‘8th grader’ figuratively. I’m sure many ankle-biters have more emotional maturity than this woman is displaying. Seeing how most of her tweeting and award-winning, grammatically <del>unstructured</del> <span stat:id="malaprop"><ins>unconstructed</ins></span> essay-ing is equivalent to ’I’m rubber and you’re glue.’ 
 
 But even with the success of the game making her richer… does that even matter? Should we even care? 
 
@@ -722,7 +722,7 @@ There is no changing that. Boycotting a game or a movie or eventual TV show will
 <compare>
 <james {% include timecode %}>
 
-Media boycotts never work. I’ve seen boycotts against *Brokeback Mountain* because it was gay, *Star Wars* because it had a black male lead and a female co-lead (This is when we thought john boyega<sup class="add">[sic: John Boyega]</sup> would actually be a Jedi). People boycotted *Captain Marvel* because… powerful women, and *Beauty and the Beast* for having two gays spin in a circle for a few frames. But all of those movies made a fortune. People have boycotted video games for being racist, <ins>and</ins> sexist, <ins>and</ins> homophobic, you name it. But the games still go on to make a t*on of money for the studios. 
+Media boycotts never work. I’ve seen boycotts against *Brokeback Mountain* because it was gay, *Star Wars* because it had a black male lead and a female co-lead (This is when we thought john boyega<sup class="add">[sic: John Boyega]</sup> would actually be a Jedi). People boycotted *Captain Marvel* because… powerful women, and *Beauty and the Beast* for having two gays spin in a circle for a few frames. But all of those movies made a fortune. People have boycotted video games for being racist, <ins>and</ins> sexist, <ins>and</ins> homophobic, you name it. But the games still go on to make a ton of money for the studios. 
 
 </james>
 <from></from>
