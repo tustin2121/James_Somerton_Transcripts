@@ -694,6 +694,11 @@
 	:root {
 		--source-color: hsl(120, 100%, 50%);
 	}
+	
+	span.hilite {
+		background-color: var(--source-color);
+		background-color: color-mix(in oklab, var(--source-color), var(--color-canvas-default));
+	}
 }
 @layer source {
 	.color-none  { --source-color: hsl(0, 0%, 30%); }
