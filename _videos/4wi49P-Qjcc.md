@@ -130,7 +130,7 @@ We all love [true crime](https://mashable.com/feature/ethics-of-true-crime). It�
 <compare>
 <james {% include timecode %}>
 
-<mark>In September of 2022, Ryan Murphy and Ian Brennan released *Monster: The Jeffrey Dahmer Story*, starring Evan Peters as the titular serial killer.</mark> <mark>Over 196 million hours of the show were watched in the first week alone, making it the most popular show on the streaming service at the time of release.</mark> <mark>Furthermore, just like Joe Exotic, the "Tiger King", Dahmer has received a great deal of publicity for all the wrong reasons. 
+<mark>In September of 2022, Ryan Murphy and Ian Brennan released *Monster: The Jeffrey Dahmer Story*, starring Evan Peters as the titular serial killer.</mark> <mark>Over 196 million hours of the show were watched in the first week alone, making it the most popular show on the streaming service at the time of release.</mark> <mark>Furthermore, just like Joe Exotic, the "Tiger King", Dahmer has received a great deal of publicity for all the wrong reasons.</mark> 
 
 </james>
 <from>
@@ -227,7 +227,7 @@ Lest we forget, Dahmer was a serial killer, necrophile, paedophile, and a cannib
 <compare>
 <james {% include timecode %}>
 
-<mark>Navigating the ethics of true crime content is tricky.</mark> There is a fine line drawn between real life procedural cop dramas and celebrating the infamous. <mark>Critics have begun to question the need for entertainment mediums which fetishize or even sexualize serial killers (in the last three years alone, we've seen multiple films about Ted Bundy, with two of them coming from Netflix, one of them starring Zac Efron.</mark> <mark yikes>A whole new generation of girls fell head over heels for the infamous killer, which was a grim remake in itself of the real life Ted Bundy trial. He had fangirls defending him in the press and even begging to marry him.</mark> <mark>After the release of the Zac Efron movie,</mark> <mark>*Extremely Wicked, Shockingly Evil, and Vile*,</mark> <mark>Netflix's social media team actually begged viewers to stop stanning Bundy.</mark>
+<mark>Navigating the ethics of true crime content is tricky.</mark> There is a fine line drawn between real life procedural cop dramas and celebrating the infamous. <mark>Critics have begun to question the need for entertainment mediums which fetishize or even sexualize serial killers (in the last three years alone, we've seen multiple films about Ted Bundy, with two of them coming from Netflix, one of them starring Zac Efron.)</mark> <mark yikes>A whole new generation of girls fell head over heels for the infamous killer, which was a grim remake in itself of the real life Ted Bundy trial. He had fangirls defending him in the press and even begging to marry him.</mark> <mark>After the release of the Zac Efron movie,</mark> <mark>*Extremely Wicked, Shockingly Evil, and Vile*,</mark> <mark>Netflix's social media team actually begged viewers to stop stanning Bundy.</mark>
 
 </james>
 <from>
@@ -362,12 +362,19 @@ One of the parts of this odd phenomenon that I've noticed is that while girls of
 <from></from>
 </compare>
 
-# part two in frame
+## part two in frame
 
 <compare>
 <james {% include timecode %}>
 
 We gays are notorious for thirsting over guys we really shouldn't, and also for being obsessed with true crime.<sup cn></sup> But this seems to be one of the few exceptions, and for good reason. Gay men have been living under the shadow of Jeffrey Dahmer for as long as I've been alive. As the AIDS crisis was running rampant, and the community was only just starting to receive any large scale sympathy from the hetero majority, up pops the news of this gay male serial killer, who isn't just killing his victims, but zombifying them, eating them, and melting their bodies in vats of acid. He was a harsh example of what straight people always said we were, that we were deviants and monsters, never to be trusted. And he was the perfect poster child for this, a nearly unparalleled monster. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Nobody talked about the fact that the reason he got away with his crimes for so long was because he was targeting gay men, especially men of color, two groups the police notoriously couldn't give two shits about helping. People only talked about the cannibal queer and how certainly he wouldn't be the last to rise up to this prominence.<sup cn></sup> The most disturbing aspect is how he was able to carry on his career for as long as he did. By picking gay men of color, he was able to escape the scrutiny of law enforcement. Dahmer for this reason is an uncomfortable reminder, not only of violence against the community, but that members of the community can be a horrible detriment to our reputation. And a reminder that not very long ago, we weren't worth the law's time, that we were nobodies to everybody, and it didn't matter how loud we screamed, the world had us on mute.
 
@@ -401,9 +408,30 @@ In fact, Somerton himself talks later in the video about how Dahmer's homosexual
 
 And so the queer community, especially gay men, have lived with Dahmer's spectre for three decades. So you'd be hard-pressed to find a lot of gay men thirsting over the killer online. Evan Peters, yes, we've been drooling over him since he first showed up in *American Horror Story*, but not the *actual* Jeffrey Dahmer, and not Evan Peters' portrayal of Jeffrey Dahmer. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 In fact, there was a huge pushback when the series was released because it was tagged as LGBTQ on Netflix, presumably because of Dahmer's own sexuality and the sexualities of his victims. But while the queer community fights back against a renewed push to remove our rights, do we want people seeing LGBTQ tagged to Jeffrey [silenced Fucking] Dahmer when they're browsing Netflix? No. 
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 And so the community, in a rare moment of agreement, demanded Netflix remove the tag. [And they did](https://variety.com/2022/tv/news/dahmer-lgbtq-tag-netflix-removes-category-backlash-1235387213/), which considering Netflix's pig-headedness when it comes to defending transphobic comedians on their platform, kind of shocked me. They're not exactly well known for doing what the queer community asks of them these days. They probably had the wherewithal to realize that Dahmer's existence as a serial killer was due in large part to homophobia and racism, so they didn't want to stick their hand into that particular hornet's nest. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 This is a telling that at least doesn't completely ignore Dahmer's effect on the gay black community. They've had to dodge a lot of queer-related controversies this year; this is among one of the easier ones to resolve.
 
@@ -429,7 +457,7 @@ https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enab
 <compare>
 <james {% include timecode %}>
 
-<mark>Similar to what happened in many cities after World War II, Milwaukee,</mark> where Dahmer committed the majority of his murders, <mark>saw an increase in the visibility of its gay communities.</mark> Nearly 1,000 gay men called Milwaukee home,</mark> <mark>according to a study conducted</mark> by <mark>the city's</mark> <mark>influential crime prevention body</mark> <mark>the Metropolitan Commission on crime prevention</mark> <mrak>during the war.</mark> <mark>As word spread about them,</mark> <mark>more arrests and convictions were made <mark>in the city.</mark>
+<mark>Similar to what happened in many cities after World War II, Milwaukee,</mark> where Dahmer committed the majority of his murders, <mark>saw an increase in the visibility of its gay communities.</mark> Nearly 1,000 gay men called Milwaukee home,</mark> <mark>according to a study conducted</mark> by <mark>the city's</mark> <mark>influential crime prevention body,</mark> <mark>the Metropolitan Commission on Crime Prevention,</mark> <mrak>during the war.</mark> <mark>As word spread about them,</mark> <mark>more arrests and convictions were made</mark> <mark>in the city.</mark>
 
 </james>
 <from>
@@ -444,14 +472,14 @@ https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enab
 <compare>
 <james {% include timecode %}>
 
-during this time the city's black population also grew as a result of the Second Great Migration an exodus of African Americans from the south spurred by The increased demand for manufacturing Goods during the second world war 
+<mark>During this time</mark> <mark>the city's Black population also grew</mark> <mark>as a result of the Second Great Migration, an exodus of African Americans from the South,</mark> <mark>spurred by The increased demand for manufacturing goods during the Second World War.</mark> 
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 5
 
-The city’s Black population also increased during this period because of the Black exodus from the South known as the Second Great Migration, due to industrial growth generated by wartime manufacturing necessities. After World War II, Blacks from states such as Mississippi and Arkansas migrated to Milwaukee seeking better job opportunities. The city’s Black population more than doubled over 10 years, growing from 8,821 in 1940 to 21,722 by 1950. 
+<mark num=2>The city’s Black population also increased</mark> <mark num=1>during this period</mark> <mark>because of the Black exodus from the South known as the Second Great Migration,</mark> <mark>due to industrial growth generated by wartime manufacturing necessities.</mark> After World War II, Blacks from states such as Mississippi and Arkansas migrated to Milwaukee seeking better job opportunities. The city’s Black population more than doubled over 10 years, growing from 8,821 in 1940 to 21,722 by 1950. 
 
 </from>
 </compare>
@@ -459,14 +487,14 @@ The city’s Black population also increased during this period because of the B
 <compare>
 <james {% include timecode %}>
 
-Milwaukee cops happily targeted these new growing communities as well in spite of the fact that they were directly contributing to the war effort 
+<mark>Milwaukee cops happily targeted these new growing communities</mark> as well, in spite of the fact that they were directly contributing... to the war effort...?
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 7
 
-Milwaukee law enforcement targeted the city’s growing Black community, building on a long history of [policing](https://wwnorton.com/books/9780393357622) Black people for their intimate and sexual practices in urban areas throughout the country. For instance, heterosexual Black-White interracial relationships were [frequently](https://www.press.uillinois.edu/books/?id=p074103) targeted by the city’s newspapers and the police. 
+<mark>Milwaukee law enforcement targeted the city’s growing Black community,</mark> building on a long history of [policing](https://wwnorton.com/books/9780393357622) Black people for their intimate and sexual practices in urban areas throughout the country. For instance, heterosexual Black-White interracial relationships were [frequently](https://www.press.uillinois.edu/books/?id=p074103) targeted by the city’s newspapers and the police. 
 
 </from>
 </compare>
@@ -474,29 +502,34 @@ Milwaukee law enforcement targeted the city’s growing Black community, buildin
 <compare>
 <james {% include timecode %}>
 
-the media also played a role in the criminalization of City residents who were seen as leading immoral Lifestyles the Milwaukee journal's editorials from the 1940s frequently used terms like slaves of lust and Menace of sex perverts to describe the emerging gay community it also supported the Metropolitan Commission on crime prevention's 1946 sexual psychopath law which would have institutionalized overt homosexuals until their deviant Behavior was cured or otherwise otherwise meaning dead 
+<mark>The media also played a role in the criminalization of City residents who were seen as leading immoral lifestyles.</mark> <mark>The Milwaukee Journal's</mark> <mark>editorials</mark> <mark>from the 1940s</mark> <mark>frequently used terms like "slaves of lust" and "menace of sex perverts"</mark> <mark>to describe the emerging gay community.</mark> <mark>It also supported</mark> <mark>the Metropolitan Commission on Crime Prevention's 1946</mark> <mark>"Sexual Psychopath Law,"</mark> <mark>which would have institutionalized "overt homosexuals" until their deviant behavior was "cured</mark> or otherwise." Otherwise meaning dead. 
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 9
 
-The media also helped spur the criminalization of the city’s residents considered to be living morally offensive lives. In the 1940s, the Milwaukee Journal frequently used phrases such as “slaves of lust” and “menace of sex perverts” in editorials discussing the growing LGBTQ culture and other forms of “deviant” sexuality. It was also a proponent of a sexual psychopath law introduced by the MCCP in 1946 that would allow the “overt homosexual” to be committed to an institution until they were cured of their purported deviancy.
+<mark>The media also helped spur the criminalization of the city’s residents considered to be living morally offensive lives.</mark> <mark num=4>In the 1940s,</mark> <mark num=2>the Milwaukee Journal</mark> <mark num=5>frequently used phrases such as “slaves of lust” and “menace of sex perverts”</mark> <mark num=3>in editorials</mark> <mark>discussing the growing LGBTQ culture</mark> and other forms of “deviant” sexuality. <mark>It was also a proponent of</mark> <mark num=9>a sexual psychopath law</mark> <mark num=8>introduced by the MCCP in 1946</mark> <mark>that would allow the “overt homosexual” to be committed to an institution until they were cured of their purported deviancy.</mark>
 
 </from>
+<comment> 
+
+I cannot find any documentation of the phrasing "cured or otherwise" being used anywhere. For more information on the sexual psychopath laws and other elements of gay history in Wisconsin, see R. Richard Wagner's *We’ve Been Here All Along: Wisconsin’s Early Gay History* (2019). The relevant section of the book can also be found in Wagner's 2014 article ["Diversionary Tactics: J. Edgar Hoover and the 1940s war on sex crimes in Wisconsin."](https://ourliveswisconsin.com/article/diversionary-tactics/) The Washington Post article seems to be paraphrasing this section from there, based on the specific phrases used, though it is not cited. (compare paragraph 17-18)
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-to defuse the threat of a growing minority presence these sexual psychopath laws were introduced and passed in places like Milwaukee as the gay community grew in prominence and as more African-Americans relocated there black people were not safe from these sexual psychopath laws because as far as police were concerned interracial relationships were just as bad as gay ones 
+<mark>To diffuse the threat of a growing minority presence,</mark> <mark>these sexual psychopath laws were introduced and passed</mark> <mark>in places like Milwaukee</mark> <mark>as the gay community grew in prominence, and as more African Americans relocated there.</mark> Black people were not safe from these sexual psychopath laws, because as far as police were concerned, interracial relationships were just as bad as gay ones. 
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 10
 
-As LGBTQ people became more visible and Blacks migrated in higher numbers to cities such as Milwaukee, it helped justify the introduction and passage of such repressive sexual psychopath laws, which were designed to “[diffuse the threat of a growing minority presence](https://www.jstor.org/stable/800555#metadata_info_tab_contents).” Wisconsin was among the 12 states that passed such laws between 1937 and 1950.
+<mark num=4>As LGBTQ people became more visible and Blacks migrated in higher numbers</mark> <mark num=3>to cities such as Milwaukee,</mark> it helped justify <mark num=2>the introduction and passage of such repressive sexual psychopath laws,</mark> which were designed <mark num=1>to “[diffuse the threat of a growing minority presence](https://www.jstor.org/stable/800555#metadata_info_tab_contents).”</mark> Wisconsin was among the 12 states that passed such laws between 1937 and 1950.
 
 </from>
 </compare>
@@ -504,14 +537,14 @@ As LGBTQ people became more visible and Blacks migrated in higher numbers to cit
 <compare>
 <james {% include timecode %}>
 
-because of the city's changing demographics Milwaukee's police department created new units to better defend white straight residents from black and other minority groups
+<mark>Because of the city's changing demographics, Milwaukee's police department created new units to better defend White, straight residents from Black and other minority groups.</mark>
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 11
 
-The shifts in urban demographics also prompted Milwaukee law enforcement to develop new police units that would protect the interests of the city’s White community against Black Milwaukeeans and other marginalized communities, like LGBTQ and Latino people. 
+<mark>The shifts in urban demographics also prompted Milwaukee law enforcement to develop new police units that would protect the interests of the city’s White community against Black Milwaukeeans and other marginalized communities, like LGBTQ and Latino people.</mark> 
 
 </from>
 </compare>
@@ -519,14 +552,14 @@ The shifts in urban demographics also prompted Milwaukee law enforcement to deve
 <compare>
 <james {% include timecode %}>
 
-in the 1960s the fifth Police District in the city's predominantly black North Side had four and a half times as many officers as the adjacent majority white District
+<mark>In the 1960s,</mark> <mark>the Fifth Police District in the city's predominantly Black Northside</mark> <mark>had four and a half times as many officers</mark> <mark>as the adjacent majority-White district.</mark>
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 12
 
-By the 1960s, there were four and a half times as many police stationed in the Fifth Police District in the city’s predominantly Black Northside compared with its neighboring majority-White district. Years of incidents of police violence against Black residents compounded this over-policing. One such case was the 1958 murder of a Black man named Daniel Bell. White police officer Thomas Grady shot Bell in the back and planted a knife on him. After a 20-year police coverup, Grady confessed in 1979 and was convicted of reckless homicide and perjury.
+<mark>By the 1960s,</mark> <mark num=3>there were four and a half times as many police stationed</mark> <mark num=2>in the Fifth Police District in the city’s predominantly Black Northside</mark> <mark>compared with its neighboring majority-White district.</mark> Years of incidents of police violence against Black residents compounded this over-policing. One such case was the 1958 murder of a Black man named Daniel Bell. White police officer Thomas Grady shot Bell in the back and planted a knife on him. After a 20-year police coverup, Grady confessed in 1979 and was convicted of reckless homicide and perjury.
 
 </from>
 </compare>
@@ -534,14 +567,14 @@ By the 1960s, there were four and a half times as many police stationed in the F
 <compare>
 <james {% include timecode %}>
 
-this kind of Terror against black Milwaukee residents created a culture of fear and distrust between the police and black and queer people who often hesitated to report crimes committed against them which helps explain how someone like Dahmer could go relatively unnoticed or unpunished for so long plus a municipal statute from 1911 called the freeloader Clause barred people who did not own property from filing complaints against the police with the fire and police commission so many black renters assumed their cries for help would fall on deaf ears 
+<mark>This kind of terror against Black Milwaukee residents created a culture of fear and distrust between the police and Black</mark> and queer <mark>people, who often hesitated to report crimes committed against them - which helps explain how someone like Dahmer could go relatively unnoticed or unpunished for so long.</mark> <mark>Plus a municipal statute from 1911 called <mark fc=false>"The Freeloader Clause"</mark> barred people who did not own property from filing complaints against the police with the Fire and Police Commission,</mark> <mark>so many Black renters assumed their cries for help would fall on deaf ears.</mark>
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 13
 
-This kind of terror against Black Milwaukeeans created a culture of fear and distrust between the police and Black people, who often hesitated to report crimes committed against them — which helps explain how someone like Dahmer could go relatively unnoticed or unpunished for so long. Many Black people feared that their pleas for help would go unheard, especially with an antiquated 1911 municipal statute in place called the “freeholder clause” that prohibited anyone who did not own property from filing complaints against the police with the Fire and Police Commission. That statute was in effect until 1967.
+<mark>This kind of terror against Black Milwaukeeans created a culture of fear and distrust between the police and Black</mark> <mark>people, who often hesitated to report crimes committed against them — which helps explain how someone like Dahmer could go relatively unnoticed or unpunished for so long.</mark> <mark num=4>Many Black people feared that their pleas for help would go unheard,</mark> <mark num=3>especially with an antiquated 1911 municipal statute in place called the “freeholder clause” that prohibited anyone who did not own property from filing complaints against the police with the Fire and Police Commission.</mark> That statute was in effect until 1967.
 
 </from>
 </compare>
@@ -549,31 +582,35 @@ This kind of terror against Black Milwaukeeans created a culture of fear and dis
 <compare>
 <james {% include timecode %}>
 
-these long histories of anti-black and anti-queer violence created in an environment where Dahmer could murder 17 black indigenous Asian Latino and gay men and boys with little pushback many were particularly susceptible to Dahmer and his tactics because of Decades of the city's structured racism and homophobia 
+<mark>These long histories of anti-Black and anti-queer violence created in an environment where Dahmer could murder 17 Black, Indigenous, Asian, Latino, and gay men and boys</mark> with little pushback. <mark>Many were particularly susceptible to Dahmer and his tactics because of decades of the city's structured racism and homophobia.</mark>
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 16
 
-Altogether, these long histories of anti-Black and anti-LGBTQ violence created an environment where Dahmer could murder 15 Black, Indigenous, Asian and Latino men and boys who were LGBTQ or “in the life” in a span of four years. Many were particularly susceptible to Dahmer and his tactics because of decades of the city’s structured racism and homophobia.
+Altogether, <mark>these long histories of anti-Black and anti-LGBTQ violence created an environment where Dahmer could murder 15 Black, Indigenous, Asian and Latino men and boys who were LGBTQ or “in the life”</mark> in a span of four years. <mark>Many were particularly susceptible to Dahmer and his tactics because of decades of the city’s structured racism and homophobia.</mark>
 
 </from>
+<comment>
+
+James feels this bizarre need to change the numbers here, and to replace "LGBTQ" with "gay." Anyway, Dahmer did have 17 victims total, from what I could find the first two and the last one were white. I don't know if the white victims were gay or not.
+
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-today we know that there were many instances in which the police could have intervened but did not in one instance officers John A balserzak and Joseph gabrish had the opportunity to rescue a disoriented unclothed and bleeding 14 year old boy from Dahmer however they took the killer at his word that the child was actually 19 and just drunk no probing no investigation although balser Zach and gabrish were eventually fired for their actions they were reinstated with back pay in 1994. balserzak had a long career in the police department serving as president of the Milwaukee Police Association from 2005 to 2009 before retiring in 2017. 2017 five years ago and people question why Pride organizations don't want police officers to participate in uniform 
+<mark>Today we know that there were many instances in which the police could have intervened but did not.</mark> <mark>In one instance, officers John A. Balcerzak and Joseph Gabrish had the opportunity to rescue a disoriented, unclothed and bleeding 14-year-old boy from Dahmer.</mark> However, they took the killer at his word that the child was actually 19 and just drunk. No probing, no investigation. <mark>Although Balcerzak and Gabrish were eventually fired for their actions, they were reinstated with back pay in 1994. Balcerzak had a long career in the police department, serving as president of the Milwaukee Police Association from 2005 to 2009, before retiring in 2017.</mark> 2017. Five years ago. And people question why Pride organizations don't want police officers to participate in uniform. 
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 17-18
 
-Today we know there were many instances in which the police could have intervened but did not do so. In one instance, officers John A. Balcerzak and Joseph T. Gabrish had the opportunity to rescue a disoriented, unclothed and bleeding 14-year-old Konerak Sinthasomphone — a Laotian boy who had managed to escape Dahmer’s apartment and was found in the street. 
+<mark>Today we know there were many instances in which the police could have intervened but did not</mark> do so. <mark>In one instance, officers John A. Balcerzak and Joseph T. Gabrish had the opportunity to rescue a disoriented, unclothed and bleeding 14-year-old</mark> Konerak Sinthasomphone — a Laotian boy who had managed to escape Dahmer’s apartment and was found in the street. 
 
-Dahmer convinced the officers that Sinthasomphone was his 19-year-old lover, and the two had only had a spat — despite the protestations of a Black neighbor named Glenda Cleveland and her female relatives who had attempted to rescue the teenager. The officers threatened the Black women with arrest for meddling and Sinthasomphone was returned to Dahmer, who soon murdered him. Although Balcerzak and Gabrish were eventually fired for their actions, they were reinstated with back pay in 1994. Balcerzak had a long career in the police department, serving as president of the Milwaukee Police Association from 2005 to 2009, before retiring in 2017.
+Dahmer convinced the officers that Sinthasomphone was his 19-year-old lover, and the two had only had a spat — despite the protestations of a Black neighbor named Glenda Cleveland and her female relatives who had attempted to rescue the teenager. The officers threatened the Black women with arrest for meddling and Sinthasomphone was returned to Dahmer, who soon murdered him. <mark>Although Balcerzak and Gabrish were eventually fired for their actions, they were reinstated with back pay in 1994. Balcerzak had a long career in the police department, serving as president of the Milwaukee Police Association from 2005 to 2009, before retiring in 2017.</mark>
 
 </from>
 </compare>
@@ -581,24 +618,40 @@ Dahmer convinced the officers that Sinthasomphone was his 19-year-old lover, and
 <compare>
 <james {% include timecode %}>
 
-over the years and the many retellings of the Dahmer story his victims have been described as Street urchins drug addicts and people not unfamiliar with their own brushes with the law as if that should justify the heinous things done to them creating a sense that they were far from innocent victims allows most people to look at the crime spree as the actions of one queer psychopath
+Over the years and <mark>the many retellings of the Dahmer story,</mark> his victims have been described as "street urchins," "drug addicts," and "people not unfamiliar with their <mark>own brushes with the law."</mark> As if that should justify the heinous things done to them. <mark>Creating a sense that they were far from innocent victims</mark> allows most people to look at the crime spree as the actions of one queer psychopath.
 
 </james>
 <from>
 
 https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/ 19-20
 
-The erasure of this side of the story has been decades in the making. Depictions of the Dahmer case have mentioned victims’ own “brushes with the law” — implying that they were something less than innocent victims. Such [accounts](https://onmilwaukee.com/articles/monster-the-true-story-dahmer) diminished the violence against victims, and they continue to shape and [inspire](https://www.jsonline.com/story/news/2022/09/22/jeffrey-dahmer-author-anne-e-schwartz-discusses-monster-netflix/8077201001/?gnt-cfr=1) various cultural products about Dahmer.
+The erasure of this side of the story has been decades in the making. Depictions of the Dahmer case have mentioned victims’ <mark num=2>own “brushes with the law”</mark> — <mark>implying that they were something less than innocent victims.</mark> Such [accounts](https://onmilwaukee.com/articles/monster-the-true-story-dahmer) diminished the violence against victims, and they continue to shape and [inspire](https://www.jsonline.com/story/news/2022/09/22/jeffrey-dahmer-author-anne-e-schwartz-discusses-monster-netflix/8077201001/?gnt-cfr=1) various cultural products about Dahmer.
 
-The constant retellings of the Dahmer story will be incomplete — and potentially damaging — unless they include this side of the story. The long history of police violence and indifference toward the city’s Black and LGBTQ communities enabled the murders by reducing the odds of police intervention. Today, Milwaukee is frequently cited as one of the [worst](https://www.jsonline.com/story/opinion/columnists/james-causey/2021/06/24/milwaukee-terrible-city-people-color-espn/5335388001/) places in the country to be Black. But despite this reality, instead of seeing an accurate portrayal of the Dahmer story, we now have another Hollywood profile that serves to elide the histories and conditions that allowed Dahmer to enter a racially marginalized community and murder some of its most vulnerable members.
+<mark num=1>The constant retellings of the Dahmer story</mark> will be incomplete — and potentially damaging — unless they include this side of the story. The long history of police violence and indifference toward the city’s Black and LGBTQ communities enabled the murders by reducing the odds of police intervention. Today, Milwaukee is frequently cited as one of the [worst](https://www.jsonline.com/story/opinion/columnists/james-causey/2021/06/24/milwaukee-terrible-city-people-color-espn/5335388001/) places in the country to be Black. But despite this reality, instead of seeing an accurate portrayal of the Dahmer story, we now have another Hollywood profile that serves to elide the histories and conditions that allowed Dahmer to enter a racially marginalized community and murder some of its most vulnerable members.
 
 </from>
+<comment>
+
+I couldn't find any of James' "quoted" phrases in anything having to do with Dahmer's victims. I don't know, maybe they're out there.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-if he only targets people who have it coming then there's no cause for concern if you live by the straight and narrow regardless of how this betrays malice and laziness on the police force culminating in decades of police abuse and neglect how many other people disappear because the police don't think they're worth their time how many that we never ever hear about it was almost a Trope in the gay Villages of big cities young gay men and trans people just going missing and no one investigating it many hoped they'd just packed up and moved home but most knew it was never something quite so innocent talk to the elders in your local queer community they remember but even with all of this knowledge of neglect heartbreak disappearances lost and destroyed lives all of it freely available to anyone who can type Google into an internet browser The Thirst for Dahmer is real 
+If he only targets people who have it comin', then there's no cause for concern if you live by the straight and narrow. Regardless of how this betrays malice and laziness on the police force, culminating in decades of police abuse and neglect. How many other people disappear because the police don't think they're worth their time? How many that we never, ever hear about? It was almost a trope in the gay villages of big cities. Young gay men and trans people just going missing, and no one investigating it. Many hoped they'd just packed up and moved home, but most knew it was never something quite so innocent. Talk to the elders in your local queer community. They remember.
+
+</james>
+<from></from>
+</compare>
+
+## part three re-framed
+
+<compare>
+<james {% include timecode %}>
+
+But even with all of this knowledge of neglect, heartbreak, disappearances, lost and destroyed lives, all of it freely available to anyone who can type Google into an internet browser, the thirst for Dahmer is real. 
 
 </james>
 <from></from>
@@ -607,7 +660,7 @@ if he only targets people who have it coming then there's no cause for concern i
 <compare>
 <james {% include timecode %}>
 
-despite his cannibalism despite the decades-long Erasure of his victims these women and mostly teenage girls are swooning over him and why not to our knowledge Dahmer never killed any teenage girls or any women at all so there's a level of disconnection just like with killing stalking would the teenage fans of killing stalking be so in love with osun Wu if they were watching him spend each issue horrifically torturing and murdering a woman he kills women in the series multiple in fact but they're barely Side characters Yoon bum is the main event and in my opinion because Yoon bum is a man female readers are able to take in a horror story without facing the true horror of it 
+Despite his cannibalism, despite the decades long erasure of his victims, these women (and mostly teenage girls) are swooning over him. And why not? To our knowledge, Dahmer never killed any teenage girls or any women at all, so there's a level of disconnection, just like with *Killing Stalking*. Would the teenage fans of *Killing Stalking* be so in love with Oh Sangwoo if they were watching him spend each issue horrifically torturing and murdering a woman? He kills women in the series, multiple in fact, but they're barely side characters. Yoon Bum is the main event. And in my opinion, because Yoon Bum is a man, female readers are able to take in a horror story without facing the true horror of it. 
 
 </james>
 <comment>
@@ -628,7 +681,7 @@ Women are attracted to the wrong serial killer. How terrible. [...] This was a s
 <compare>
 <james {% include timecode %}>
 
-because unfortunately to this day many women still see gay men as nothing more than a fancy accessory especially teenage girls who lust for the perfect gay best friend a boy whose sex life is secret so you never have to hear about it but he's always there to tell you if your boyfriend's being a jerk gay men and boys as a purse or a fancy iPhone case something to show off but ultimately something disposable 
+Because unfortunately to this day, many women still see gay men as nothing more than a fancy accessory, especially teenage girls who lust for the perfect gay best friend. A boy whose sex life is secret, so you never have to hear about it. But he's always there to tell you if your boyfriend's being a jerk. Gay men and boys as a purse or a fancy iPhone case. Something to show off, but ultimately, something disposable.
 
 </james>
 <comment>
@@ -646,13 +699,15 @@ This is the only new stuff he wrote. The rest is stolen. This is all he has to s
 
 [Insert that one clip from the Snapcube Sonic 2006 fandub]
 
+Mephiles/Memphis Tennessee: It's not as pleasant as you'd think. They don't treat you like a friend, they treat you like an item. Sometimes I wish I could be more than just an accessory to these women. But unfortunately, as a gamer, I don't get respect.
+
 </comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-and we get an extra layer of that with Dahmer's victims since the vast majority of them were not white but the vast majority of Dahmer's thirsters online are a white there's further license for disconnection they get to look at them even less like people than if they were white gay men it's telling that the person fans ship Dahmer with the most is Stephen Hicks his first and whitest victim 
+And we get an extra layer of that with Dahmer's victims, since the vast majority of them were not white, but the vast majority of Dahmer's thirsters online *are* white, there's further license for disconnection. They get to look at them even less like people than if they were white gay men. It's telling that the person fans ship Dahmer with the most is Stephen Hicks, his first and whitest victim.
 
 </james>
 <comment>
@@ -661,7 +716,13 @@ Todd in the Shadows 2411s
 
 17. Weird Dahmer fangirls are shipping him with his first victim
 
-so he's making a point that the weird Jeffrey dmer fandom is not just creepy but also homophobic and racist since they're so disrespectful to D's victims most of whom were gay men of color I think that's a fair point but then Summerton backs It Up by pointing out how these fans ship dmer with his only straight white victim Steven Hicks I decided to go see this quote unquote popular ship for myself uh and I spent my morning searching through the dark corners of Twitter Reddit Tik Tok Facebook A3 Wattpad live Journal fanfiction.net and based on what I saw I don't think shipping is actually a huge part of this fandom unless you count shipping with yourself cuz a lot of people want to [ __ ] Jeffrey D but to the extent that it is the most popular pairing appears to be with one of dummer's black victims Tony Hughes now that ship mostly took off after Summerton video before that the most popular ships uh seem to be with other serial killers like Ted Bundy or Richard Ramirez with the actor Evan Peters who plays dmer in the TV show and with childhood friend John backderf who wrote the comic my friend dmer about him I also saw all sorts of one-off crack pairings like with Harry Styles 11 from stranger things chainsaw man a character from Teen Wolf member of the K-pop group txt character from dangan Roma pip from South Park at which point I decided I had to stop looking at this but I didn't see a single one involving Steven Hicks uh you can say many things about dmer fans this isn't one of them if they are racist this isn't why
+So he's making a point that the weird Jeffrey Dahmer fandom is not just creepy, but also homophobic and racist, since they're so disrespectful to Dahmer's victims, most of whom were gay men of color. I think that's a fair point. 
+
+But then Somerton backs it up by pointing out how these fans ship Dahmer with his only straight white victim, Steven Hicks. I decided to go see this quote unquote "popular" ship for myself, uh, and I spent my morning searching through the dark corners of Twitter, Reddit, TikTok, Facebook, AO3, Wattpad, LiveJournal, FanFiction.net, and based on what I saw, I don't think shipping is actually a huge part of this fandom. Unless you count shipping with yourself, 'cause a lot of people wanna fuck Jeffrey Dahmer. 
+
+But to the extent that it is, the most popular pairing appears to be with one of Dahmer's Black victims, Tony Hughes. Now that ship mostly took off after Somerton's video. Before that, the most popular ships, uh, seem to be with other serial killers like Ted Bundy or Richard Ramirez, with the actor Evan Peters who plays Dahmer in the TV show, and with childhood friend John Backderf who wrote the comic *My Friend Dahmer* about him. 
+
+I also saw all sorts of one-off crack pairings like with Harry Styles, Eleven from *Stranger Things*, Chainsaw Man, a character from *Teen Wolf*, a member of the K-pop group TXT, a character from *Danganronpa* [picture of Komaeda Nagito], Pip from *South Park*, at which point I decided I had to stop looking at this shit, but I didn't see a single one involving Steven Hicks. Uh, you can say many things about Dahmer fans, this isn't one of them. If they are racist, this isn't why.
 
 </comment>
 </compare>
@@ -669,11 +730,7 @@ so he's making a point that the weird Jeffrey dmer fandom is not just creepy but
 <compare>
 <james {% include timecode %}>
 
-and
-while I am far from opposed to queer villains in media I do wonder how smart it
-is to drop this story onto such a large platform when the gay community is
-already seeing an increase in hate crimes and anti-gay laws across the United
-States 
+And while I am far from opposed to queer villains in media, I do wonder how smart it is to drop *this* story onto such a large platform when the gay community is already seeing an increase in hate crimes and anti-gay laws across the United States.
 
 </james>
 <from></from>
@@ -682,27 +739,14 @@ States
 <compare>
 <james {% include timecode %}>
 
-the media's initial reporting on the Dahmer case was entangled in a
-subtle but pervasive homophobic logic even as it denied having any such effect
-lesbian and gay activists in Milwaukee and elsewhere protested strongly against
-initial references to the Dahmer murders as homosexual Overkill by public
-officials and the mainstream press arguing that Dahmer's actions were no more
-representative of the homosexual Community than the killings of a heterosexual
-serial killer would be representative of the heterosexual Community thus the
-term homosexual Overkill served to normalize heterosexuality even heterosexual
-serial killers while pathologizing homosexuality the media is surprisingly
-responded quickly to the protests and the phrase homosexual Overkill was quickly
-removed from coverage of the case in fact it appears that the media became so
-concerned that their reports not appear homophobic that they largely dropped any
-mention of Dahmer's sexual orientation even at Dahmer's trial his sexual
-orientation barely registered as an issue 
+<mark>The media's initial reporting on the Dahmer case was entangled in a subtle but pervasive homophobic logic, even as it denied having any such effect.</mark> <mark>Lesbian and gay activists in Milwaukee and elsewhere</mark> <mark>protested strongly against</mark> <mark>initial references to the Dahmer murders as "homosexual overkill" by public officials and the mainstream press</mark>, <mark>arguing that Dahmer's actions were no more representative of the homosexual community than the killings of a heterosexual serial killer would be representative of the heterosexual community.</mark> <mark>Thus, the term "homosexual overkill" served to normalize heterosexuality,</mark> even heterosexual serial killers, <mark>while pathologizing homosexuality.</mark> <mark>The media surprisingly responded quickly to the protests,</mark> <mark>and the phrase "homosexual overkill" was quickly removed from coverage of the case.</mark> <mark>In fact, it appears that the media became so concerned that their reports not appear homophobic, that they largely dropped any mention of Dahmer's sexual orientation. Even at Dahmer's trial, his sexual orientation barely registered as an issue.</mark>
 
 </james>
 <from>
 
 https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books 69-70
 
-Media coverage of the Dahmer case was imbricated in a sustained and complex logic of homophobia at the same time that it actively disavowed any homophobic intentions and effects. Initial references to the Dahmer murders as "homosexual overkill" by public officials and the mainstream press were vigorously protested by lesbian and gay activists in Milwaukee and elsewhere, who pointed out that Dahmer' s actions were no more representatively homosexual than a heterosexual serial killer's killings would be representatively heterosexual, but that those who used the phrase "homosexual overkill" would never have used the term "heterosexual overkill" to characterize a heterosexual mass murderer.<sup>2</sup> The phrase "homosexual overkill" was thus, once more, naturalizing heterosexuality and pathologizing homosexuality. Members of the media responded to the protests surprisingly quickly, and the term "homosexual overkill" was soon dropped from reports on the case. In fact, the media seemed to become so concerned that their reports not appear homophobic, that all references to Dahmer's sexual orientation also disappeared from most coverage of the case. Dahmer's gayness was also hardly mentioned at his trial.
+<mark>Media coverage of the Dahmer case was imbricated in a sustained and complex logic of homophobia at the same time that it actively disavowed any homophobic intentions and effects.</mark> <mark num=4>Initial references to the Dahmer murders as "homosexual overkill" by public officials and the mainstream press</mark> <mark>were vigorously protested</mark> <mark num=2>by lesbian and gay activists in Milwaukee and elsewhere,</mark> <mark>who pointed out that Dahmer's actions were no more representatively homosexual than a heterosexual serial killer's killings would be representatively heterosexual,</mark> but that those who used the phrase "homosexual overkill" would never have used the term "heterosexual overkill" to characterize a heterosexual mass murderer.<sup>2</sup> <mark>The phrase "homosexual overkill" was thus, once more, naturalizing heterosexuality</mark> <mark>and pathologizing homosexuality.</mark> Members of <mark>the media responded to the protests surprisingly quickly,</mark> <mark>and the term "homosexual overkill" was soon dropped from reports on the case.</mark> <mark>In fact, the media seemed to become so concerned that their reports not appear homophobic, that all references to Dahmer's sexual orientation also disappeared from most coverage of the case. Dahmer's gayness was also hardly mentioned at his trial.</mark>
 
 <footer>
 
@@ -716,26 +760,14 @@ Media coverage of the Dahmer case was imbricated in a sustained and complex logi
 <compare>
 <james {% include timecode %}>
 
-those who advocated for gay
-assimilation praised this development according to this line of thinking
-bringing up Dahmer sexuality and media coverage of the murders was inappropriate
-because it had nothing to do with why he became a serial killer but if Dahmer's
-sexual orientation could not be mentioned neither could institutional homophobia
-which was a problem given the overwhelming evidence that Dahmer had internalized
-societal homophobia to such an extent that he felt guilt shame discomfort and
-hatred about his own homosexuality a logical though extreme result of these
-feelings could have been the urge to kill those to whom he was sexually
-attracted in a Twisted way I could perhaps understand how someone would think
-that having male zombies for sex and sex only would separate him from all the
-other trappings of the gay lifestyle however with his sexuality out of the
-question society would have to take no blame for the killings 
+<mark>Those who advocated for gay assimilation</mark> <mark>praised this development</mark>. <mark>According to this line of thinking,</mark> <mark>bringing up Dahmer's sexuality in media coverage of the murders was inappropriate</mark> <mark>because it had nothing to do with why he became a serial killer.</mark> <mark>But if Dahmer's sexual orientation could not be mentioned, neither could institutional homophobia.</mark> Which was a problem. <mark>Given the overwhelming evidence that Dahmer had internalized societal homophobia to such an extent that he felt guilt, shame, discomfort, and hatred about his own homosexuality,</mark> <mark>a logical</mark> though extreme <mark>result of these feelings could have been the urge to kill those to whom he was sexually attracted.</mark> In a twisted way, I could perhaps understand how someone would think that having male zombies for sex and sex only would separate him from all the other trappings of the gay lifestyle. <mark>However, with his sexuality out of the question,</mark> <mark>society would have to take no blame for the killings.</mark> 
 
 </james>
 <from>
 
 https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books 70-71
 
-This change was welcomed by those espousing a liberal politics of assimilation. Dahmer's sexual orientation had nothing to do with his becoming a serial killer, the argument went, so references to his sexual orientation were inappropriate in media coverage of the killings. But if Dahmer's sexual orientation could not be mentioned, neither could institutional homophobia. Liberal celebrations of individualism generally identify prejudice and success as manifestations of personal achievements or failings, and so can only look at individuals as repositories of humanistic or anti-egalitarian values, rather than at the formation of these individuals through socially constructed and institutionally enforced power relations. The result, then, of media attempts at liberal tolerance was that the occlusion of Dahmer's gayness also occluded the identification and discussion of societal homophobia in general, and specifically of the external and internalized homophobia that might have contributed to Dahmer's development as a serial killer, of Dahmer's own homophobia that might have led him to kill gay men, of the possible effects of homophobia on the men whom Dahmer killed, and of the possibility that institutional homophobia might have made them more accessible to the murderous Dahmer.<sup>3</sup> Of course, I cannot conclusively assert that Dahmer's homosexuality turned him into a serial killer, but such a teleology is possible, given the overwhelming evidence that Dahmer had internalized societal homophobia to such an extent that he felt guilt, shame, discomfort, and hatred about his own homosexuality, and that a logical result of these feelings could have been the urge to destroy those with whom he attempted to satisfy his proscribed sexual desires.<sup>4</sup> However, with gayness out of the way, Dahmer could be constructed as an inexcusable monster, and the society around him could escape being implicated in his crimes.<sup>5</sup> 
+<mark num=2>This change was welcomed</mark> <mark num=1>by those espousing a liberal politics of assimilation.</mark> <mark num=4>Dahmer's sexual orientation had nothing to do with his becoming a serial killer,</mark> <mark num=3>the argument went,</mark> so <mark num=4>references to his sexual orientation were inappropriate in media coverage of the killings.</mark> <mark>But if Dahmer's sexual orientation could not be mentioned, neither could institutional homophobia.</mark> Liberal celebrations of individualism generally identify prejudice and success as manifestations of personal achievements or failings, and so can only look at individuals as repositories of humanistic or anti-egalitarian values, rather than at the formation of these individuals through socially constructed and institutionally enforced power relations. The result, then, of media attempts at liberal tolerance was that the occlusion of Dahmer's gayness also occluded the identification and discussion of societal homophobia in general, and specifically of the external and internalized homophobia that might have contributed to Dahmer's development as a serial killer, of Dahmer's own homophobia that might have led him to kill gay men, of the possible effects of homophobia on the men whom Dahmer killed, and of the possibility that institutional homophobia might have made them more accessible to the murderous Dahmer.<sup>3</sup> Of course, I cannot conclusively assert that Dahmer's homosexuality turned him into a serial killer, but such a teleology is possible, <mark>given the overwhelming evidence that Dahmer had internalized societal homophobia to such an extent that he felt guilt, shame, discomfort, and hatred about his own homosexuality,</mark> and that <mark>a logical</mark> <mark>result of these feelings could have been the urge to destroy those with whom he attempted to satisfy his proscribed sexual desires.<sup>4</sup></mark> <mark>However, with gayness out of the way,</mark> Dahmer could be constructed as an inexcusable monster, and <mark>the society around him could escape being implicated in his crimes.<sup>5</sup></mark>
 
 <footer>
 
@@ -752,18 +784,14 @@ This change was welcomed by those espousing a liberal politics of assimilation. 
 <compare>
 <james {% include timecode %}>
 
-the few reporters
-who did discuss homophobia and Dahmer's gayness mostly in LGBT magazines tended
-to ignore the fact that Dahmer was white the reluctance to discuss interracial
-sex in light of the Dahmer murders can be interpreted as a sign of Shame and
-fear of having one's sexual orientation linked to racism or both 
+<mark>The few reporters who did discuss homophobia and Dahmer's gayness (mostly in LGBT magazines) tended to ignore the fact that Dahmer was white.</mark> <mark>The reluctance</mark> <mark>to discuss interracial sex in light of the Dahmer murders</mark> <mark>can be interpreted as a sign of shame</mark>, and <mark>fear of having one's sexual orientation linked to racism</mark>, or both. 
 
 </james>
 <from>
 
 https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books 71
 
-During and after Dahmer's trial, the few reporters who did discuss homophobia and Dahmer's gayness (primarily in the gay media) tended to ignore the fact that Dahmer was white and that all but three of the seventeen men he murdered were of color. This reticence was presumably a sign of embarrassment, a dread of having gayness associated with racism, or a fear of talking about interracial sex in the context of the Dahmer murders. The habit of partializing identity or of assigning individuals separate racial, gender, and sexual identities, in turn, makes it impossible to speak of Dahmer as white, male, and gay or of those he murdered as gay men of color. Usually the lineaments of white gayness are not difficult to identify. Even though the racial component of this identity is often assumed rather than articulated, gay whiteness is nevertheless normalized to such an extent that gayness is thought of only in terms of whiteness, and queer identities of color become literally unthinkable. In the case of Dahmer, though, the specification of whiteness becomes much more difficult because of the immediately and explicitly monstrous and racist connotations that whiteness takes on in this context. [...]
+<mark>During and after Dahmer's trial, the few reporters who did discuss homophobia and Dahmer's gayness (primarily in the gay media) tended to ignore the fact that Dahmer was white</mark> and that all but three of the seventeen men he murdered were of color. <mark>This reticence</mark> <mark num=4>was presumably a sign of embarrassment,</mark> <mark num=5>a dread of having gayness associated with racism,</mark> or a fear of <mark num=3>talking about interracial sex in the context of the Dahmer murders.</mark> The habit of partializing identity or of assigning individuals separate racial, gender, and sexual identities, in turn, makes it impossible to speak of Dahmer as white, male, and gay or of those he murdered as gay men of color. Usually the lineaments of white gayness are not difficult to identify. Even though the racial component of this identity is often assumed rather than articulated, gay whiteness is nevertheless normalized to such an extent that gayness is thought of only in terms of whiteness, and queer identities of color become literally unthinkable. In the case of Dahmer, though, the specification of whiteness becomes much more difficult because of the immediately and explicitly monstrous and racist connotations that whiteness takes on in this context. [...]
 
 </from>
 </compare>
@@ -771,16 +799,14 @@ During and after Dahmer's trial, the few reporters who did discuss homophobia an
 <compare>
 <james {% include timecode %}>
 
-according to
-several of Dahmer's acquaintances he displayed a deep-seated bigotry toward
-African Americans and made racist comments about black gay men in particular
+<mark>According to several of Dahmer's acquaintances, he displayed a deep-seated bigotry toward African Americans and made racist comments about black gay men in particular.</mark>
 
 </james>
 <from>
 
 https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books 72
 
-Many of Dahmer's acquaintances report that he seemed to hate black people (and black gay men, in particular), and frequently referred to black people with racist slurs. Further, Dahmer's racial consciousness was demonstrated in his claim that he thought that Jamie Doxtator, whom he had lured to his grandmother's house in 1988 and killed, was "Hispanic" (Doxtator was Native American). Doxtator's mother later told reporters that she was initially relieved to hear that those Dahmer had killed were "black, Hispanic, and Laotian,"<sup>7</sup> since she then mistakenly believed that her Native American son was safe. Both Dahmer's and Doxtator's mother's accounts suggest that race was very much at issue, and that Dahmer was actively thinking of race when he brought men of color to his home prior to killing them. In addition, it seems that Dahmer's victims were mostly poor and might have felt neglected and vulnerable in other ways, too: institutional racism produces a disproportionately high ratio of poverty, neglect, and vulnerability among people of color in the U.S., and thus even the class status and degree of self-esteem of those Dahmer
+<mark>Many of Dahmer's acquaintances report that he seemed to hate black people (and black gay men, in particular), and frequently referred to black people with racist slurs.</mark> Further, Dahmer's racial consciousness was demonstrated in his claim that he thought that Jamie Doxtator, whom he had lured to his grandmother's house in 1988 and killed, was "Hispanic" (Doxtator was Native American). Doxtator's mother later told reporters that she was initially relieved to hear that those Dahmer had killed were "black, Hispanic, and Laotian,"<sup>7</sup> since she then mistakenly believed that her Native American son was safe. Both Dahmer's and Doxtator's mother's accounts suggest that race was very much at issue, and that Dahmer was actively thinking of race when he brought men of color to his home prior to killing them. In addition, it seems that Dahmer's victims were mostly poor and might have felt neglected and vulnerable in other ways, too: institutional racism produces a disproportionately high ratio of poverty, neglect, and vulnerability among people of color in the U.S., and thus even the class status and degree of self-esteem of those Dahmer
 murdered cannot be said to be extrinsic to race. [...]
 
 <footer>
@@ -794,12 +820,7 @@ murdered cannot be said to be extrinsic to race. [...]
 <compare>
 <james {% include timecode %}>
 
-while authorities and the media learned to avoid making over references to
-Dahmer sexual orientation in their official portrayals of him Dahmer himself
-made use of what we might call gay rights strategies as his career as a serial
-killer gained momentum these actions along with the media's delayed coverage of
-Dahmer sexual orientation highlights the inadequacies and potential social
-hazards of the neoliberal gay rights rhetoric 
+<mark>While authorities and the media learned to avoid making overt references to Dahmer's sexual orientation in their official portrayals of him, Dahmer himself made use of what we might call gay rights strategies</mark> <mark>as his career as a serial killer gained momentum.</mark> <mark>These actions,</mark> <mark>along with the media's delayed coverage of Dahmer's sexual orientation,</mark> <mark>highlights the inadequacies and potential social hazards of the neoliberal gay rights rhetoric.</mark> 
 
 </james>
 <from>
@@ -808,7 +829,7 @@ https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=engl
 
 III. *Gay Rights for a Serial Killer*
 
-While legal and media figures learnt not to explicitly remark on Dahmer's gayness in their official representations of him, Dahmer himself invoked what we might think of as gay rights strategies (i.e., strategies that share discursive space with the liberal logic of gay civil rights and identity politics) in the course of his growing momentum as a serial killer and his consequent run-ins with and escapes from the law. As with the media's belated ignoring ofDahmer's gayness, these practices suggest the limitations and dangers of a liberal gay rights discourse.<sup>9</sup>
+<mark>While legal and media figures learnt not to explicitly remark on Dahmer's gayness in their official representations of him, Dahmer himself invoked what we might think of as gay rights strategies</mark> (i.e., strategies that share discursive space with the liberal logic of gay civil rights and identity politics) <mark>in the course of his growing momentum as a serial killer</mark> and his consequent run-ins with and escapes from the law. <mark num=4>As with the media's belated ignoring of Dahmer's gayness,</mark> <mark num=3>these practices</mark> <mark>suggest the limitations and dangers of a liberal gay rights discourse.<sup>9</sup></mark>
 
 <footer>
 
@@ -821,16 +842,14 @@ While legal and media figures learnt not to explicitly remark on Dahmer's gaynes
 <compare>
 <james {% include timecode %}>
 
-he used his gayness to his
-Advantage when convicted of sexual assault in the enticing of a child for
-immoral purposes in 1989 he came out to the judge afterwards 
+He used his gayness to his advantage. <mark>When convicted of sexual assault in the enticing of a child for immoral purposes in 1989,</mark> <mark>he came out to the judge afterwards.</mark>
 
 </james>
 <from>
 
 https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books 73
 
-Commentators have bemoaned the fact that Dahmer had so many brushes with an incompetent or unobservant legal system and with other state officials (a probation officer, for instance) prior to his final arrest, and yet was able to continue killing. If the law and the others had been more vigilant and more conscientious, this argument goes, Dahmer might have been caught sooner, and several lives could have been saved. In one such early encounter, Dahmer was convicted of sexual assault and of enticing a child for immoral purposes in 1989.<sup>10</sup> In his remarks to the judge successfully soliciting the judge's leniency, Dahmer came out: he told the judge that he was gay.<sup>11</sup> In a chillingly magnified version of this plea two years later, Dahmer came out to two police officers who were summoned by neighbors when a drugged fourteen year old Konerak Sinthasomphone escaped from Dahmer's apartment. The policemen returned Sinthasomphone to Dahmer's custody and left the scene after Dahmer convinced them that Sinthasomphone was his adult lover.<sup>12</sup> Dahmer killed Sinthasomphone shortly afterwards.
+Commentators have bemoaned the fact that Dahmer had so many brushes with an incompetent or unobservant legal system and with other state officials (a probation officer, for instance) prior to his final arrest, and yet was able to continue killing. If the law and the others had been more vigilant and more conscientious, this argument goes, Dahmer might have been caught sooner, and several lives could have been saved. In one such early encounter, <mark>Dahmer was convicted of sexual assault and of enticing a child for immoral purposes in 1989.<sup>10</sup></mark> <mark>In his remarks to the judge successfully soliciting the judge's leniency, Dahmer came out: he told the judge that he was gay.<sup>11</sup></mark> In a chillingly magnified version of this plea two years later, Dahmer came out to two police officers who were summoned by neighbors when a drugged fourteen year old Konerak Sinthasomphone escaped from Dahmer's apartment. The policemen returned Sinthasomphone to Dahmer's custody and left the scene after Dahmer convinced them that Sinthasomphone was his adult lover.<sup>12</sup> Dahmer killed Sinthasomphone shortly afterwards.
 
 <footer>
 
@@ -845,18 +864,14 @@ Commentators have bemoaned the fact that Dahmer had so many brushes with an inco
 <compare>
 <james {% include timecode %}>
 
-the judge sentenced
-him to five years probation and one year in the House of Corrections with work
-release permitted in order so that he wouldn't lose his job at this point he had
-already killed five people he would kill 12 more before finally being caught and
-convicted 
+<mark>The judge sentenced him to five years' probation and one year in the House of Corrections, with work release permitted in order so that he wouldn't lose his job.</mark> At this point, he had already killed five people. He would kill twelve more before finally being caught and convicted. 
 
 </james>
 <from>
 
 https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589 Late 20s and early 30s: subsequent murders Intermediate incidents para 10
 
-On May 23, 1989,<sup>[130]</sup> Dahmer was sentenced to five years' probation and one year in the House of Correction, with [work release](https://en.wikipedia.org/wiki/Work_release) permitted in order that he be able to keep his job. He was also required to register as a sex offender.<sup>[135]</sup>
+On May 23, 1989,<sup>[130]</sup> <mark>Dahmer was sentenced to five years' probation and one year in the House of Correction, with [work release](https://en.wikipedia.org/wiki/Work_release) permitted in order that he be able to keep his job.</mark> He was also required to register as a sex offender.<sup>[135]</sup>
 
 <footer>
 
@@ -870,33 +885,14 @@ On May 23, 1989,<sup>[130]</sup> Dahmer was sentenced to five years' probation a
 <compare>
 <james {% include timecode %}>
 
-in 1978 he had killed Stephen Mark Hicks an 18 year old by Dahmer's
-admission he was bludgeoned with a dumbbell and strangled to death before being
-dismembered remains were pulverized and Scattered behind Dahmer's childhood home
-
-in 1987 he killed Stephen Walter Toomey his body was dismembered in the basement
-of Dahmer's grandmother's house and the remains discarded in the trash 
-
-in 1988
-he killed two men James Edward Duck's daughter a 14 year old and Richard
-Guerrero in 1989 he killed Anthony Lee Sears after the murder Dahmer preserved
-his skull and genitals in a filing cabinet 
-
-in 1990 he killed Raymond Lamont
-Smith Edward Warren Smith Ernest Marquez Miller and David Courtney Thomas on
-September 24th 
-
-in 1991 he killed Curtis Strader Errol Lindsay on April 7th Tony
-Hughes on May 24th Conor accent the same phone on May 27th Matt Turner on June
-30th Jeremiah Weinberger on July 5th Oliver Lacy on July 15 Joseph bradhoft on
-July 19th and then was finally arrested on July 23rd 
+In 1978 he had killed Steven Mark Hicks, an 18 year old. <mark>By Dahmer's admission,</mark> <mark>he was bludgeoned with a dumbbell and strangled to death before being dismembered.</mark> <mark>Remains were pulverized and scattered behind Dahmer's childhood home.</mark>
 
 </james>
 <from>
 
-https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589 Victims 
+<h2>1978</h2>
 
-no thank you
+**June 18**: Steven Mark Hicks, 18. Last seen hitchhiking to a rock concert in Chippewa Lake Park in Bath, Ohio.[316] <mark>By Dahmer's admission,</mark> what caught his attention to Hicks hitchhiking was the fact that the youth was bare-chested. <mark>He was bludgeoned with a dumbbell and strangled to death with this instrument before being dismembered.</mark> <mark>Remains pulverized and scattered in woodland behind Dahmer's childhood home.</mark>
 
 </from>
 </compare>
@@ -904,25 +900,84 @@ no thank you
 <compare>
 <james {% include timecode %}>
 
-does this sound like the
-man anyone let alone teenage girls should be lusting over having a thing for
-serial killers isn't new and it hasn't risen up just because of shows on Netflix
-there are several online communities such as blogs and message boards where fans
-of serial killers like Bundy and Dahmer and Richard Ramirez and others expressed
-their adoration for these individuals as if they may be a pop star however as
-evidenced by the statements made by the families of Dahmer's victims and the
-show's proclivity for trying to understand the killer rather than to tell the
-stories of his victims simply because the killer was a moderately attractive
-white man maybe adaptations of these stories can arguably create more harm than
-good this is much worse than the situation with killing stalking because
-although The Thirst was and is real for osongwoo he like Hannibal Lecter before
-him was a fictional character who never actually hurt anyone the creation of an
-artist is a commentary on our willingness to forgive nearly anything if someone
-is attractive but Dahmer was real and his victims were real and the pain their
-families suffered still is very much real so maybe the next time a producer
-green lights a movie or streaming series about a notorious serial killer perhaps
-they should refrain from playing armchair psychologist pretending that their
-movies or series can give some new insight into the killer that hasn't already
-been gleamed by criminal psychiatrists long before now and instead focus on the
-people whose lives they took they are the people we really ought to remember
-foreign [Music] foreign [Music] thank you [Music] thank you
+In 1987, he killed Steven Walter Tuomi. <mark>His body was dismembered in the basement of Dahmer's grandmother's house and the remains discarded in the trash.</mark>
+
+</james>
+<from>
+
+<h2>1987</h2>
+
+**November 20**: Steven Walter Tuomi, 25. Killed in a rented room at the Ambassador Hotel in Milwaukee. Dahmer claimed to have no memory of murdering Tuomi, yet stated he must have battered him to death in a drunken stupor. <mark>His body was dismembered in the basement of Dahmer's grandmother's house and the remains discarded in the trash.</mark> No remains were ever found.[317]
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In 1988, he killed two men<sup>men?</sup>, James Edward Doxtator, a 14 year old, and Richard Guerrero. In 1989, he killed Anthony Lee Sears. <mark>After the murder, Dahmer preserved his skull and genitals in a filing cabinet.</mark> 
+
+</james>
+<from>
+
+<h2>1988</h2>
+
+**January 16**: James Edward Doxtator, 14. Met Dahmer outside a gay bar in Wisconsin. Doxtator was lured to West Allis on the pretext of earning $50 for posing for nude pictures. Dahmer strangled Doxtator and kept his body in the basement for a week before dismembering him and discarding the remains in the trash. No remains were ever found.
+
+**March 24**: Richard Guerrero, 22. Drugged and strangled in Dahmer's bedroom at West Allis. Dahmer dismembered Guerrero's corpse in the basement, dissolved the flesh in acid and disposed of the bones in the trash. He bleached and retained the skull for several months before disposing of it.<sup>[318]</sup> No remains were ever found.
+
+<h2>1989</h2>
+
+**March 25**: Anthony Lee Sears, 24. Sears was the last victim to be drugged and strangled at Dahmer's grandmother's residence; he was also the first victim from whom Dahmer permanently retained any body parts.<sup>[319]</sup> <mark>His preserved skull and genitals were found in a filing cabinet at 924 North 25th Street following Dahmer's arrest in 1991.<sup>[320]</sup></mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In 1990, he killed Raymond Lamont Smith, Edward Warren Smith, Ernest Marquez Miller, and David Courtney Thomas on September 24th. In 1991, he killed Curtis Straughter [abrupt cut - on screen it says he died February 17, but he actually died February 18.], Errol Lindsey on April 7th, Tony Hughes on May 24th, Konerak Sinthasomphone on May 27th, Matt Turner on June 30th, Jeremiah Weinberger on July 5th, Oliver Lacy on July 15th, Joseph Bradehoft on July 19th, and then was finally arrested on July 23rd.
+
+</james>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Does this sound like the man anyone, let alone teenage girls, should be lusting over? Having a thing for serial killers isn't new, and it hasn't risen up just because of shows on Netflix. There are several online communities, such as blogs and message boards, where fans of serial killers like Bundy and Dahmer and Richard Ramirez and others express their adoration for these individuals, as if they may be a pop star. However, as evidenced by the statements made by the families of Dahmer's victims, and the show's proclivity for trying to understand the killer rather than to tell the stories of his victims simply because the killer was a moderately attractive white man, maybe adaptations of these stories can arguably create more harm than good. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This is much worse than the situation with *Killing Stalking* because although the thirst was and is real for Oh Sangwoo, he, like Hannibal Lecter before him, was a fictional character who never actually hurt anyone. The creation of an artist is a commentary on our willingness to forgive nearly anything if someone is attractive. But Dahmer was real, and his victims were real, and the pain their families suffered still is very much real. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So maybe the next time a producer greenlights a movie or streaming series about a notorious serial killer, perhaps they should refrain from playing armchair psychologist, pretending that their movies or series can give some new insight into the killer that hasn't already been gleaned by criminal psychiatrists long before now. And instead, focus on the people whose lives they took. They are the people we really ought to remember.
+
+</james>
+<comment>
+
+James says all this, but he treats the victims like an afterthought throughout the video. He gives lipservice to the pain of their families, but all he really does is read out the victims' from a Wikipedia article and tells us nothing about them except for how they died. The only thing that people will remember from watching this video is the misogyny.
+
+So, I'd like to gather stories from the victims and their families, concentrating not on the brutality of the murders but on the vibrant lives that the victims lived, and also focusing on the families' experiences in the following years. I found some [here](https://www.jsonline.com/story/news/2022/09/28/jeffrey-dahmers-17-victims-and-what-we-knew-them-errol-lindsey-rita-isbell-anthony-tony-hughes/10443235002/)
+
+</comment>
+</compare>
+
+<compare>
+<credits class="closing">
+
+[Patron names roll over somber but hopeful music.]
+
+</credits>
+</compare>
