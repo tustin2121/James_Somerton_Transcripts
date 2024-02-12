@@ -14,6 +14,7 @@ links: !!seq
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vT8RV72B_-hJlEwbBjFT1smG_zUBNDeQH_xlVW7cBdylZQ36AbDxwF4Ecy5-6zIdIXEP-KFEYckshPR/pub
   citation: 
     - "[/u/Busalonium](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc9lbkr)"
 

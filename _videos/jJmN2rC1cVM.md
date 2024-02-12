@@ -21,6 +21,7 @@ notes:
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tobicat
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSjwN1i9I3DLJ7MR_idVO30ty0prGxwO3-B-v27-PICU1IVFzIuJ1Ogj9jnHN20PUBqO4bOzDOt8kLU/pub
   citation: 
     - "[Mick Abrahamson](https://twitter.com/DaNanoBiologist/status/1731357701127405861)"
     - "[/u/vakama95](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc2z5rx)"

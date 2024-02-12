@@ -24,7 +24,7 @@ contributors:
   formatting: 
     - $cite$tustin2121 
     - $cite$tobicat
-  citation-plus: $cite$lvence
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSb4QKko2444tW3rslyI5tkVbqF5yRamTxy0xryCG_vRJ_GTBAYrZrB9bJg7jeNmuzPXV5Re-jMBilw/pub
 
 cite:
   clips: !!map

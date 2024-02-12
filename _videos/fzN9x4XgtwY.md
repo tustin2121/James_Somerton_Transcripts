@@ -9,6 +9,9 @@ status: Finished
 aka: !!seq
   - "Opening Hollywood's Closet (Thumbnail)"
 topics: !!seq
+  - The Boys in the Band
+  - Sunday Bloody Sunday
+  - John Waters
 links: !!seq
   - "https://www.youtube.com/watch?v=PimkEyKQqoQ"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230518+fzN9x4XgtwY+When+Hollywood+Came+Out+of+the+Closet.webm"
@@ -19,7 +22,7 @@ notes:
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin2121
-  citation-plus: $ref$lvence$
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vTV9Qjn9FX-B1fZvc0c7YQj8k-W7YmgWUYN56N-4uZZZH-uP-3VUzw8C-86Cb_HfXGV5oDWu5RDI2Sy/pub
 
 cite:
   clips: !!map
@@ -89,7 +92,7 @@ This film is definitely about homosexuality.
 <compare>
 <james {% include timecode %}>
 
-*The *Boys in the Band** is a 1970 American film directed by William Friedkin of *Exorcist* fame, based on the 1968 Off-Broadway play of the same name by Mark Crowley. The film takes place in New York City in 1968, and follows a group of gay friends who gather for a birthday party. 
+*The Boys in the Band* is a 1970 American film directed by William Friedkin of *Exorcist* fame, based on the 1968 Off-Broadway play of the same name by Mark Crowley. The film takes place in New York City in 1968, and follows a group of gay friends who gather for a birthday party. 
 
 The main character is Michael, a neurotic and self-loathing gay man who is hosting the party for his... "friend" Harold, a flamboyant and witty gay man. As the night wears on, the guests become increasingly drunk and confrontational, leading to heated arguments and revelations about their personal lives. The arrival of a *straight* friend, Alan, adds to the tension as he is uncomfortable with the gay culture and the... open homosexuality on display. 
 

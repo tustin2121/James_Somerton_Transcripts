@@ -24,6 +24,8 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vR4te02uphkP26rSqCOY-pdm6EY0xiKLHn01xMYFpJaTO1Mh-efvh7PdVNP0xXwHaZ4SQSsr9wE6hvF/pub
 
 cite:
   clips: !!map

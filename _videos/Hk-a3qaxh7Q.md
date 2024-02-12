@@ -17,6 +17,7 @@ links: !!seq
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vT9gmh1D_SLkBqmUf4kp1mLjNBT6jyQt63zFPyYLkOoOMCjs30GrFAILMq1PuQ87t_szOTsvfHnfeJ-/pub
   citation: 
     - "[/u/Newzab](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc74sro)"
 

@@ -17,6 +17,10 @@ links: !!seq
 notes:
   - hbomb
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSs_lMoXppFBQ9OnQ6jO5glGzfk0HzZt-NWoXzBPaxbhtNZ4YBJUGEwZHxI0e_gonQ9B_R5e0_up585/pub
+  
 # Sara (The Fat Culture Critic) apparently tried calling James out on some takes in this video at one point (https://youtu.be/tzaXV874OVc?t=789), but she didn't go into detail.
 
 cite:

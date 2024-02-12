@@ -12,6 +12,10 @@ links: !!seq
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
 # description: "a video essay on...?"
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSyzDH5rNZUyxnHrQAhxXQpfeL1HHBEfzgWB1ze6_xnzdvUKQkv6ZiHnPx_zZun3_aUDgOv1ALMteA8/pub
+
 cite:
   clips: !!map
   yikes: !!map

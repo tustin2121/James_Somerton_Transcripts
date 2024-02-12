@@ -26,6 +26,7 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRBkM1gu7DlbMv8UpzOzCMv4a_-6M-cmzlY3LwX2P1P7ORV2-4qsq2XI-VSeBi8egy89yUoA4EVauyH/pub
   citation: 
     - "[Todd in the Shadows](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc12hss) (also [here](https://twitter.com/shadowtodd/status/1731823192820560368))" #processed
 
