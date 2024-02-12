@@ -302,6 +302,7 @@
 	compare :is(james, nick, clip) mark {
 		background-color: var(--mark-stolen-bg);
 		color: var(--mark-stolen-text);
+		--source-color: var(--mark-stolen-bg);
 	}
 	compare from mark {
 		background-color: var(--mark-source-bg);
@@ -585,6 +586,12 @@
 	credits.telos-wide blockquote {
 		letter-spacing: 6px; 
 		font-family: serif;
+	}
+}
+@layer markup {
+	compare q mark, compare mark q, compare blockquote mark {
+		background-color: var(--color-canvas-subtle);
+		background-color: color-mix(in oklab, var(--source-color), var(--color-canvas-subtle));
 	}
 }
 @layer source {

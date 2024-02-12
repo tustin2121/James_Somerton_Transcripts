@@ -14,7 +14,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=v_KG7r3ClZc" # Reuploads channel
-# description: "a video essay on...?"
+description: "a video essay that's just talking about this one horror Manga that James or Nick really likes."
 notes:
   - short-advert
   - script-diff
