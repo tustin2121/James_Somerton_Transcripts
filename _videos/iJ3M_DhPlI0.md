@@ -189,9 +189,7 @@ Because of McCarthy and his associates harsh methods and disregard for due proce
 > <mark>"The country is more concerned about the charges of homosexuals in government than about communists."</mark>
 
 </james>
-<from>
-
-*The Lavender Scare* book p.2
+<from {% include citation for=page.cite.plagiarized.johnson_book at="p.2" %}>
 
 <mark>In 1950, many politicians, journalists, and citizens thought that homosexuals posed more of a threat to national security than Communists.</mark> <mark>One Pulitzer prize–winning columnist argued,</mark> <mark>“There is no record of comparable corruption in American history.”</mark> <mark>In a national radio broadcast, liberal Elmer Davis noted,</mark> <mark>“It looks as if the enemies of the State Department, and of the administration generally, have gotten hold of a more profitable issue than communism.”</mark> In one of many debates on the Senate floor that year, <mark>Senator Kenneth Wherry (R–Nebraska) asked his colleagues,</mark> <mark>“Can [you] think of a person who could be more dangerous to the United States of America than a pervert?”</mark> <mark>Three of President Harry Truman’s top advisors wrote him a joint memorandum warning that</mark> <mark>“the country is more concerned about the charges of homosexuals in the Government than about Communists.”</mark> Constituents writing to members of Congress confirmed this analysis. “Many of them tell me,” Representative Clare Hoffman (R–Michigan) told his colleagues, “they are concerned before they get to the issue of communism or loyalty with this issue of morality and decency.” By November, what some journalists derided as the “panic on the Potomac” and some politicians defended as the “purge of the perverts” resulted in the dismissal of nearly six hundred federal civil servants. In the State Department alone, security officials boasted that on average they were firing one homosexual per day, more than double the rate for those suspected of political disloyalty.<sup>2</sup>
 
@@ -211,7 +209,7 @@ In the UK, it was just about social purity. Yet in America, the existence of gay
 <mark>Anytime the Lavender Scare is discussed, it is as an afterthought of the Red Scare, that is *so obvious* that it doesn't ever need explanation.</mark> <mark>The overlapping worries of communism and homosexuality have been largely *ignored*</mark> in <mark>even the most recent examinations of McCarthyism, both the defenses from the right and criticisms from the left.</mark> <mark>Many people who supported McCarthy back in the 1950s considered the systemic expulsion of gays from the State Department and other government positions to be his most *lasting* achievement.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.johnson_book at="p.3=4" %}>
 
 *The Lavender Scare* book p.3-4
 
@@ -240,13 +238,14 @@ When asked about (quote) <mark>"sexual perverts who have infiltrated our governm
 <mark>However, being homosexual wasn't the only reason they were in danger. Homosexuals were observed as security threats, because they were believed to be more vulnerable to blackmail.</mark> <mark>As top counsel of his Congressional subcommittee,</mark> <mark>McCarthy employed Roy Cohn, who himself was homosexual, and died of AIDS decades later.</mark> 
 
 </james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 History para 5
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 5" %}>
 
 <mark num=2>In February 1950,</mark> <mark num=4>the same year that</mark> <mark num=1>Senator Joseph McCarthy claimed</mark> <mark num=3>205 communists were working in the State Department,</mark> <mark>Undersecretary of State John Peurifoy said that the State Department had allowed 91 homosexuals to resign.<sup>[19][20]</sup></mark> Only two of these were women.<sup>[21]</sup> <mark>Following this, the administration of President Harry Truman was accused of not taking the "threat" of homosexuality seriously enough.</mark> <mark num=8>In June 1950,</mark> <mark num=7>an investigation by the Senate began into the government's employment of homosexuals.</mark> <mark>The results were not released until December, but in the mean time federal job losses due to allegations of homosexuality increased greatly,</mark> rising from approximately 5 to 60 per month.<sup>[11]</sup> On April 19, 1950, <mark num=11>the Republican National Chairman Guy George Gabrielson said that</mark> <mark num=10>"sexual perverts who have infiltrated our Government in recent years"</mark> <mark>were "perhaps as dangerous as the actual Communists".<sup>[22]</sup></mark> <mark>The danger was not solely because they were gay, however. Homosexuals were considered to be more susceptible to blackmail and thus were labeled as security risks.<sup>[23]</sup></mark> <mark num=15>McCarthy hired Roy Cohn – who later died of AIDS and who, like McCarthy himself, is believed to have been a closeted gay man<sup>[24][25][26][27]</sup></mark> – <mark num=14>as chief counsel of his Congressional subcommittee.</mark> [...]
 
 </from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 Because of his attempts to protect his reputation, <mark fc=false>he insisted that his doctor treat him for liver cancer. So at the same time that his immune system was dying, he was undergoing cancer treatments that destroyed what was left of his white blood cells.</mark> At the same time he also pulled what strings he could to get on the experimental HIV medication that was still undergoing medical trials, AZT, which... <mark fc=false>destroyed his liver.</mark>
@@ -268,9 +267,7 @@ Cohn did not insist his doctors treat him for liver cancer; he told the public (
 Because <mark>Cohn and McCarthy, with the help of FBI director, J Edgar Hoover</mark> (who is also believed to have been gay), <mark>were responsible for the dismissal of thousands of gay government employees and the intimidation of many of their political opponents into silence by spreading false allegations about their sexual orientation.</mark> <mark>The state department revealed that it had dismissed 425 workers due to charges of homosexuality</mark> <mark>in the closing months of the Truman Administration</mark> <mark>in 1953.</mark> 
 
 </james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 History para 5 continued
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 5" %}>
 
 [...] Together, <mark>McCarthy and Cohn – with the enthusiastic support of the head of the FBI, J. Edgar Hoover</mark> – <mark>were responsible for the firing of scores of gay men and women from government employment, and strong-armed many opponents into silence using rumors of their homosexuality.<sup>[28][29][30]</sup></mark> <mark num=5>In 1953,</mark> <mark>during the final months of the Truman administration,</mark> <mark num=3>the State Department reported that it had fired 425 employees for allegations of homosexuality.<sup>[31][32][33]</sup></mark>
 
@@ -278,7 +275,6 @@ https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Histo
 <comment> 
 
 In regards to Hoover, there are many rumors about his sexuality, and historians have a variety of opinions. Notably, the author of *The Lavender Scare*, David K. Johnson, dismisses the speculation that Hoover was gay as a "homophobic fantasy", and claims that if there were really any evidence, it would have lead to Hoover's immediate dismisal in a political climate where merely associating with a gay person was grounds for persecution. He also notes, "Like most men and women in 1950s America, Hoover saw homosexuality not as an inborn characteristic of a percentage of the population, but a sin or temptation to which anyone might succumb" and "Imposing present-day notions of sexuality — particularly the notion that persons are essentially born either heterosexual or homosexual — back onto this period further distorts our understanding." (Johnson 11-12)
-
 
 </comment>
 </compare>
@@ -293,9 +289,7 @@ In regards to Hoover, there are many rumors about his sexuality, and historians 
 <mark>When proof of communist activity was absent,</mark> <mark>McCarthy allegedly used guilt by association</mark> <mark>by equating communism and homosexuality with mental instability.</mark> <mark>The general public and even politicians had a common view that gays and communists</mark> <mark>were both morally weak, or psychologically disturbed. As well as Godless and destructive to traditional families.</mark> 
 
 </james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 History para 6
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 6" %}>
 
 <mark num=3>McCarthy often used accusations of homosexuality as a smear tactic</mark> <mark num=1>in his anti-communist crusade,</mark> <mark num=2>often combining the Second Red Scare with the Lavender Scare.</mark> <mark>On one occasion, he went so far as to announce to reporters,</mark> <mark>"If you want to be against McCarthy, boys, you've got to be either a Communist or a cocksucker."<sup>[34]</sup></mark> At least one recent historian has argued that, <mark num=8>by linking communism and homosexuality with psychological imbalance,</mark> <mark num=7>McCarthy was employing guilt-by-association</mark> <mark num=6>when evidence for communist activity was lacking.<sup>[35]</sup></mark> <mark>Political rhetoric at the time often linked communists and homosexuals, and common beliefs among the public were similar,</mark> stating that <mark>both were "morally weak" or "psychologically disturbed," along with being godless and undermining traditional families.<sup>[36]</sup></mark>
 
@@ -308,9 +302,7 @@ https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Histo
 <mark>For instance, McCarthy openly discussed</mark> <mark>two individuals, case 14 and case 62,</mark> <mark>on the Senate floor</mark> <mark>as communists who posed unsafe risks due to their homosexuality.</mark> <mark>He said that a high-ranking intelligence officer had informed him that every active communist is twisted mentally or physically, implying that those</mark> <mark>with the peculiar mental twists of homosexuality</mark> <mark>were more *susceptible* to recruitment by communists.</mark> 
 
 </james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 History para 7
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 7" %}>
 
 <mark>For example, McCarthy spoke</mark> <mark num=3>on the Senate floor</mark> about <mark num=2>two individual people, "Case 14" and "Case 62,"</mark> <mark>as communists who were "unsafe risks" which he directly linked to their homosexuality.<sup>[36]</sup></mark> <mark>He said a top intelligence official had told him "every active communist is twisted mentally or physically," and he implied that these people</mark> <mark num=7>were vulnerable to recruitment by communists</mark> <mark num=6>because of their "peculiar mental twists" of homosexuality.<sup>[36]</sup></mark>
 
@@ -320,14 +312,12 @@ https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Histo
 <compare>
 <james {% include timecode %}>
 
-Many of the male workers at the State Department started to feel... uncomfortable even being there because of the department's new association with homosexuality. They were quite adamant about not being seen in pairs and they often introduced themselves with words *emphasizing* their straightness. "Hi! I'm so and so! I work for the State Department and I'm married and I have three children!"
+<mark>Many of the male workers at the State Department started to feel... uncomfortable</mark> even being there <mark>because of the department's new association with homosexuality.</mark> <mark>They were quite adamant about not being seen in pairs and</mark> <mark>they often introduced themselves</mark> with <mark>words *emphasizing* their straightness.</mark> <mark>"Hi! I'm so and so! I work for the State Department and I'm married and I have three children!"</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 8" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 History para 8
-
-Due to the image of the State Department now being tainted with homosexuality, many male employees became self-conscious about the possibility of being perceived as homosexual. They often refused to be seen in pairs, and made statements confirming their heterosexuality when introducing themselves. For example, one unnamed employee often said at parties, "Hi, I'm so-and-so, I work for the State Department. I'm married and I have three children."<sup>[37]</sup>
+<mark num=2>Due to the image of the State Department now being tainted with homosexuality,</mark> <mark num=1>many male employees became self-conscious</mark> about the possibility of being perceived as homosexual. <mark>They often refused to be seen in pairs, and</mark> made <mark num=5>statements confirming their heterosexuality</mark> <mark num=4>when introducing themselves.</mark> For example, one unnamed employee often said at parties, <mark>"Hi, I'm so-and-so, I work for the State Department. I'm married and I have three children."<sup>[37]</sup></mark>
 
 </from>
 </compare>
@@ -335,16 +325,30 @@ Due to the image of the State Department now being tainted with homosexuality, m
 <compare>
 <james {% include timecode %}>
 
-Executive order 10450, enacted by President Eisenhower in 1953, prohibited gays from holding federal government positions and established security criteria for federal employment. As a direct result of these policies, hundreds of openly gay State Department employees were outed and fired. About 5,000 gay individuals, including private contractors and military personnel, lost their jobs at the federal government as a result of this presidential order.
-
-The victims were not only fired from employment... but also outed to the public. This presidential order expanded Truman's "loyalty program" by including sexual perversion among the actions that disqualified a person from holding a federal post. Many new rules and practices were implemented to identify and expel persons who identify as homosexual, lesbian, or bisexual. 
+<mark>Executive order 10450,</mark> <mark>enacted by President Eisenhower</mark> <mark>in 1953,</mark> <mark>prohibited gays from holding federal government positions</mark> <mark>and established security criteria for federal employment.</mark> <mark>As a direct result of these policies, hundreds of openly gay State Department employees were outed and fired.</mark> <mark>About 5,000 gay individuals, including private contractors and military personnel, lost their jobs at the federal government</mark> <mark>as a result of this presidential order.</mark> <mark>The victims were not only fired from employment... but also outed to the public.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Executive Order 10450, ¶ 1" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Executive Order 10450 para 1
+<mark num=3>In 1953,</mark> <mark>President Eisenhower signed</mark> <mark num=1>Executive Order 10450,</mark> which <mark num=5>set security standards for federal employment and</mark> <mark>barred homosexuals from working in the federal government.</mark> <mark>The restrictions set in place were cause for hundreds of gay people to be forcibly outed and fired from the State Department.<sup>[38]</sup></mark> <mark num=8>The executive order was also the cause for</mark> <mark num=7>the firing of approximately 5,000 gay people from federal employment; this included private contractors and military personnel.</mark> <mark>Not only did the victims lose their jobs, but also they were forced out of the closet and thrust into the public eye</mark> as lesbian or gay. 
 
-In 1953, President Eisenhower signed Executive Order 10450, which set security standards for federal employment and barred homosexuals from working in the federal government. The restrictions set in place were cause for hundreds of gay people to be forcibly outed and fired from the State Department.<sup>[38]</sup> The executive order was also the cause for the firing of approximately 5,000 gay people from federal employment; this included private contractors and military personnel. Not only did the victims lose their jobs, but also they were forced out of the closet and thrust into the public eye as lesbian or gay. 
+</from>
+<comment>
+
+"Openly gay State Department employees were outed" try again
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>This presidential order expanded</mark> <mark>Truman's "loyalty program"</mark> by <mark>including sexual perversion among the actions that disqualified a person from holding a federal post.</mark> <mark>Many new rules and practices were implemented to identify and expel persons who identify as homosexual, lesbian, or bisexual.</mark> <mark>It was common practice to conduct interviews and check for overt displays of homosexual biases</mark> as part of <mark>these new methods to detect gays</mark>. <mark>People were judged guilty *not* just by connection</mark> with those who <mark>frequented the same homosexual clubs as the suspects.</mark> <mark>They may also be questioned</mark> <mark>if members of their immediate or extended family had gay tendencies or gay connections.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Executive Order 10450, ¶ 2" %}>
+
+Specifically, <mark num=2>Truman's loyalty program</mark> <mark num=1>had been extended through this executive order:</mark> <mark>"sexual perversion" was added to a list of behaviors that would keep a person from holding a position in government.</mark> <mark>There were many new regulations and policies put into place to detect and remove gay, lesbian, and bisexual people.</mark> <mark num=6>The new procedures to search out homosexuals</mark> <mark num=5>were frequently used to interview and look for signs of sexual orientation.</mark> They also looked at places <mark num=8>these individuals frequently visited, such as gay bars,</mark> and <mark num=7> they even found people guilty by association.</mark> <mark num=10>If their friends or family showed signs of being homosexual,</mark> <mark num=9>they might also be suspected.<sup>[39]</sup></mark>
 
 </from>
 </compare>
@@ -352,14 +356,12 @@ In 1953, President Eisenhower signed Executive Order 10450, which set security s
 <compare>
 <james {% include timecode %}>
 
-It was common practice to conduct interviews and check for overt displays of homosexual biases as part of these new methods to detect gays. People were judged guilty *not* just by connection with those who frequented the same homosexual clubs as the suspects. They may also be questioned if members of their immediate or extended family had gay tendencies or gay connections. 
+<mark>By the mid-1950s, similar repressive and oppressive policies had been enacted in state and local governments as well, expanding bans on hiring lesbians and gay men to cover 12 million workers, more than 20 percent of the United States labor force, all of whom were required to sign oaths attesting to their moral purity in order to obtain or maintain employment.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Executive Order 10450, ¶ 3" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Executive Order para 2
-
-Specifically, Truman's loyalty program had been extended through this executive order: "sexual perversion" was added to a list of behaviors that would keep a person from holding a position in government. There were many new regulations and policies put into place to detect and remove gay, lesbian, and bisexual people. The new procedures to search out homosexuals were frequently used to interview and look for signs of sexual orientation. They also looked at places these individuals frequently visited, such as gay bars, and they even found people guilty by association. If their friends or family showed signs of being homosexual, they might also be suspected.<sup>[39]</sup>
+<mark>By the mid-1950s, similar repressive and oppressive policies had gone into effect in state and local governments which extended the prohibitions on the employment of lesbians and gay men to cover twelve million workers – more than twenty percent of the United States labor force – who now had to sign oaths attesting to their moral purity to get or to keep their jobs.<sup>[40]</sup></mark>
 
 </from>
 </compare>
@@ -367,29 +369,12 @@ Specifically, Truman's loyalty program had been extended through this executive 
 <compare>
 <james {% include timecode %}>
 
-By the mid-1950s, similar repressive and oppressive policies had been enacted in state and local governments as well, expanding bans on hiring lesbians and gay men to cover 12 million workers, more than 20 percent of the United States labor force, all of whom were required to sign oaths attesting to their moral purity in order to obtain or maintain employment.
+But McCarthy's crew of homophobes were about to have the sights trained on themselves. <mark>When Roy Cohn brought on G. David Shine as chief consultant to the McCarthy staff, speculation arose that Shine and Cohn had a sexual relationship.</mark> <mark>During the Army-McCarthy hearings, Cohn denied</mark> <mark>being closer than an ordinary friend, to Shine</mark> <mark>or having any special interest in him.</mark> <mark>Army Council Joseph Welch seemed to elude to Cohn's sexual orientation throughout the proceedings.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Sexuality, ¶ 1" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Executive Order para 3
-
-By the mid-1950s, similar repressive and oppressive policies had gone into effect in state and local governments which extended the prohibitions on the employment of lesbians and gay men to cover twelve million workers – more than twenty percent of the United States labor force – who now had to sign oaths attesting to their moral purity to get or to keep their jobs.<sup>[40]</sup>
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-But McCarthy's crew of homophobes were about to have the sights trained on themselves. When Roy Cohn brought on G. David Shine as chief consultant to the McCarthy staff, speculation arose that Shine and Cohn had a sexual relationship. During the Army-McCarthy hearings, Cohn denied being closer than an ordinary friend, to Shine or having any special interest in him. Army Council Joseph Welch seemed to elude to Cohn's sexual orientation throughout the proceedings.
-
-</james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Sexuality para 1
-
-Then Cohn brought on G. David Schine as chief consultant to the McCarthy staff, speculation arose that Schine and Cohn had a sexual relationship.<sup>[60][61]</sup> During the Army–McCarthy hearings, Cohn denied having any "special interest" in Schine or being bound to him "closer than to the ordinary friend."<sup>[61]</sup> Joseph Welch, the Army's attorney in the hearings, made an apparent reference to Cohn's homosexuality. After asking a witness, at McCarthy's request, if a photo entered as evidence "came from a pixie", he defined "pixie" as "a close relative of a fairy".<sup>[61]</sup> Though "pixie" was a camera-model name at the time, the comparison to "fairy," a derogatory term for a homosexual man, had clear implications. The people at the hearing recognized the slur and found it amusing; Cohn later called the remark "malicious," "wicked," and "indecent."<sup>[61]</sup>
+<mark>Then Cohn brought on G. David Schine as chief consultant to the McCarthy staff, speculation arose that Schine and Cohn had a sexual relationship.<sup>[60][61]</sup></mark> <mark>During the Army–McCarthy hearings, Cohn denied</mark> <mark num=4>having any "special interest" in Schine or</mark> <mark num=3>being bound to him "closer than to the ordinary friend."<sup>[61]</sup></mark> <mark>Joseph Welch, the Army's attorney in the hearings, made an apparent reference to Cohn's homosexuality.</mark> After asking a witness, at McCarthy's request, if a photo entered as evidence <mark>"came from a pixie", he defined "pixie" as "a close relative of a fairy".<sup>[61]</sup></mark> Though "pixie" was a camera-model name at the time, the comparison to "fairy," a derogatory term for a homosexual man, had clear implications. The people at the hearing recognized the slur and found it amusing; Cohn later called the remark "malicious," "wicked," and "indecent."<sup>[61]</sup>
 
 </from>
 <clip {% include citation for=page.cite.clips.mcarthy_footage %}>
@@ -405,14 +390,14 @@ Welch: "I should say-- I should say, Mr. Senator, that a pixie is a close relati
 </clip>
 <james {% include timecode %}>
 
-McCarthy's unwavering support for Cohn fueled rumors that the senator was either *coerced* by his senior counsel, or that their relationship went beyond professional boundaries. McCarthy "often engaged in homosexual activities", Nevada publisher Hank Greenspun said in 1952, and claimed that he was a regular at the White Horse Inn, a Milwaukee gay nightclub. 
+<mark>McCarthy's unwavering support for Cohn fueled rumors that</mark> <mark>the senator was either *coerced* by his senior counsel,</mark> or <mark>that their relationship went beyond professional boundaries.</mark> <mark>McCarthy "often engaged in homosexual activities",</mark> <mark>Nevada publisher Hank Greenspun said</mark> <mark>in 1952,</mark> and claimed that he <mark>was a regular at the White Horse Inn, a Milwaukee gay nightclub.</mark>
 
 All this attention eventually led to Roy Cohn being removed from his post alongside McCarthy and helped fuel McCarthy's own downfall in due time. 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Sexuality, ¶ 2" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Sexuality para 2
+<mark>McCarthy's allegiance to Cohn also raised suspicions that the</mark> <mark num=3>relation between the senator and his chief counsel was not merely professional,</mark> or <mark num=2>that McCarthy was blackmailed by Cohn.<sup>[62]</sup></mark> Earlier <mark num=5>in 1952,</mark> <mark num=4>Nevada publisher Hank Greenspun wrote</mark> that <mark>McCarthy "often engaged in homosexual activities"</mark> and <mark>was a frequent patron at the White Horse Inn, a Milwaukee gay bar.</mark> McCarthy's FBI file also contains numerous allegations, including a 1952 letter from an Army lieutenant who said, "When I was in Washington some time ago, [McCarthy] picked me up at the bar in the Wardman [Hotel] and took me home, and while I was half-drunk he committed sodomy on me." J. Edgar Hoover conducted a perfunctory investigation of the senator's alleged sexual assault of the young man; his approach was that "homosexuals are very bitter against Senator McCarthy for his attack upon those who are supposed to be in the Government."[63][64]
 
 </from>
 </compare>
@@ -420,18 +405,16 @@ https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Sexua
 <compare>
 <james {% include timecode %}>
 
-The McCarthy period as a whole came to an end in the middle of the 1950s, when the [*Cole v. Young* judgment in 1956](https://supreme.justia.com/cases/federal/us/351/536/) significantly reduced the authority to remove anyone from the federal government with discriminatory grounds. 
+<mark>The McCarthy period as a whole came to an end in the middle of the 1950s, when the [*Cole v. Young* judgment in 1956](https://supreme.justia.com/cases/federal/us/351/536/) significantly reduced the authority to remove anyone from the federal government with discriminatory grounds.</mark> 
 
-However, the Lavender Scare continued for many more decades. The Florida Legislative Investigative Committee, also known as The Johns Committee or FLIC, was another manifestation of the Lavender Scare that endured. Established in 1956, the FLIC lasted until 1964 before being dissolved. The committee's mission in Florida was to investigate and fire homosexual public school teachers, carrying on the Lavender Scare in spirit, if not entirely in practice. 
+However, <mark>the Lavender Scare continued for many more decades.</mark> <mark>The Florida Legislative Investigative Committee, also known as The Johns Committee or FLIC,</mark> <mark>was another manifestation of the Lavender Scare that endured.</mark> <mark>Established in 1956, the FLIC lasted until 1964 before being dissolved.</mark> <mark>The committee's mission in Florida was</mark> <mark>to investigate and fire homosexual public school teachers,</mark> <mark>carrying on the Lavender Scare</mark> in spirit, if not entirely in practice. 
 
 And it wasn't until the Obama Administration that military service for openly gay people was allowed, since the "Don't Ask, Don't Tell" policy was just another executive order 10450 under a different name.
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_lavender at="Legacy, ¶ 1" %}>
 
-https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176 Legacy para 1
-
-Though the main vein of McCarthyism ended in the mid-1950s when the 1956 Cole v. Young ruling severely weakened the ability to fire people from the federal government for discriminatory reasons,<sup>[80]</sup> the movement that was born from it, the Lavender Scare, lived on. One such way was that Executive Order 10450, which was not rescinded until 1995, continued to bar gays from entering the military.<sup>[42]</sup> Another form of the Lavender Scare that persisted was the Florida Legislative Investigation Committee, also referred to as the FLIC and the Johns Committee. The FLIC was founded in 1956 and was not disbanded until 1964. The purpose of the committee was to operate within Florida continuing the work of the Lavender Scare by investigating and firing public school teachers who were gay. During its active years the FLIC was responsible for more than 200 firings of alleged gay teachers. The FLIC was disbanded following the release of the Purple Pamphlet due to public outrage over its explicit and pornographic nature.<sup>[81]</sup>
+Though <mark>the main vein of McCarthyism ended in the mid-1950s when the 1956 Cole v. Young ruling severely weakened the ability to fire people from the federal government for discriminatory reasons,<sup>[80]</sup></mark> the movement that was born from it, <mark>the Lavender Scare, lived on.</mark> One such way was that Executive Order 10450, which was not rescinded until 1995, continued to bar gays from entering the military.<sup>[42]</sup> <mark num=4>Another form of the Lavender Scare that persisted was</mark> <mark num=3>the Florida Legislative Investigation Committee, also referred to as the FLIC and the Johns Committee.</mark> <mark>The FLIC was founded in 1956 and was not disbanded until 1964.</mark> <mark>The purpose of the committee was to operate within Florida</mark> <mark num=8>continuing the work of the Lavender Scare</mark> <mark num=7>by investigating and firing public school teachers who were gay.</mark> During its active years the FLIC was responsible for more than 200 firings of alleged gay teachers. The FLIC was disbanded following the release of the Purple Pamphlet due to public outrage over its explicit and pornographic nature.<sup>[81]</sup>
 
 </from>
 </compare>
@@ -448,20 +431,18 @@ But though the Lavender Scare *unofficially* came to an end with the fall of McC
 <compare>
 <james {% include timecode %}>
 
-Even before McCarthy began his crusade, producers in California had been blacklisting anyone even *remotely* connected to communism, thanks to pressure from future president of the United States, Ronald Reagan, who was then the president of the Screen Actors Guild. Many Hollywood professionals were called to appear before the House Un-American Activities Committee in October of 1947. It was announced that the committee would look into allegations that communist spies and supporters had planted propaganda in Hollywood movies.
+Even before McCarthy began his crusade, producers in California had been blacklisting anyone even *remotely* connected to communism, thanks to pressure from future president of the United States, <mark>Ronald Reagan, who was then the president of the Screen Actors Guild.</mark> <mark>Many Hollywood professionals were called to appear before the House Un-American Activities Committee</mark> <mark>in October of 1947.</mark> <mark>It was announced that the committee would look into allegations that communist spies and supporters had planted propaganda in Hollywood movies.</mark>
 
-Walt Disney spoke first during the proceedings. Disney testified that communists posed *a severe danger* to the film business and identified *many* former employees as possible communists. In contrast, other leading Hollywood figures including director John Houston and actors Humphrey Bogart, Lauren Bacall, Judy Garland, and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry. 
+<mark>Walt Disney spoke first during the proceedings.</mark> <mark>Disney testified that communists posed *a severe danger* to the film business and identified *many* former employees as possible communists.</mark> <mark>In contrast, other leading Hollywood figures including director John Houston and actors Humphrey Bogart, Lauren Bacall, Judy Garland, and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry.</mark> 
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Beginning (1946-1947), ¶ 2-4" %}>
 
-https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102 Beginning para 2-3
+<mark num=3>In October 1947,</mark> drawing upon the list named in *The Hollywood Reporter*, <mark>the House Un-American Activities Committee subpoenaed number of persons working in the Hollywood film industry to testify at hearings.</mark> <mark num=4>The committee had declared its intention to investigate whether Communist agents and sympathizers had been planting propaganda in American films.<sup>[14]</sup><sup>[17]</sup></mark>
 
-In October 1947, drawing upon the list named in *The Hollywood Reporter*, the House Un-American Activities Committee subpoenaed a number of persons working in the Hollywood film industry to testify at hearings. The committee had declared its intention to investigate whether Communist agents and sympathizers had been planting propaganda in American films.<sup>[14]</sup><sup>[17]</sup>
+<mark num=5>The hearings began with appearances by Walt Disney</mark> and <mark num=1>Ronald Reagan, then president of the Screen Actors Guild.</mark> <mark>Disney testified that the threat of Communists in the film industry was a serious one, and named specific people who had worked for him as probable Communists.<sup>[18]</sup></mark> [...]
 
-The hearings began with appearances by Walt Disney and Ronald Reagan, then president of the Screen Actors Guild. Disney testified that the threat of Communists in the film industry was a serious one, and named specific people who had worked for him as probable Communists.<sup>[18]</sup> [...]
-
-In contrast, other leading Hollywood figures, including director John Huston and actors Humphrey Bogart, Lauren Bacall, Judy Garland and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry.<sup>[21]</sup> [...]
+<mark>In contrast, other leading Hollywood figures, including director John Huston and actors Humphrey Bogart, Lauren Bacall, Judy Garland and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry.<sup>[21]</sup></mark> [...]
 
 </from>
 </compare>
@@ -469,22 +450,20 @@ In contrast, other leading Hollywood figures, including director John Huston and
 <compare>
 <james {% include timecode %}>
 
-Of the people working in Hollywood that the House Un-American Activities Committee was interested in, many were accused of being members of the Communist Party USA. Of the initial witness list of 43, 19 declared that they would not give evidence. 11 of the original 19 were questioned by the panel. 
+<mark>Of the people working in Hollywood that the House Un-American Activities Committee was interested in, many were accused of being members of the Communist Party USA. Of the initial witness list of 43, 19 declared that they would not give evidence. 11 of the original 19 were questioned by the panel.</mark> 
 
-On Monday, October 27th, the hearings last phase began, and members of the Committee for the First Amendment traveled in from throughout the country to participate. Only one of the 11 "unfriendly" witnesses writer Bertolt Breck, agreed to speak with the committee, after which he fled the country. Ten others declined, claiming their right to free expression and assembly under the First Amendment. The question:
+<mark>On Monday, October 27th,</mark> <mark>the hearings last phase began,</mark> and <mark>members of the Committee for the First Amendment traveled in from throughout the country to participate.</mark> <mark>Only one of the 11 "unfriendly" witnesses writer Bertolt Breck, agreed to speak with the committee, after which he fled the country.</mark> <mark>Ten others declined, claiming their right to free expression and assembly under the First Amendment.</mark> <mark>The question:</mark>
 
-> Are you now...  
+> <mark>Are you now...  
 > Or have you ever been...  
 > A member of the Communist Party? 
 
-was one which they flat out refused to answer. The committee formally accused these ten of Contempt of Congress, and began criminal proceedings against them in the full House of Representatives.
+<mark>was one which they flat out refused to answer.</mark> <mark>The committee formally accused these ten of Contempt of Congress, and began criminal proceedings against them in the full House of Representatives.</mark>
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Beginning (1946-1947), ¶ 5" %}>
 
-https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102 Beginning para 3
-
-Many of the film industry professionals in whom HUAC had expressed interest were alleged to have been members of the Communist Party USA. Of the 43 people put on the witness list, 19 declared that they would not give evidence. Eleven of these 19 were called before the committee. Members of the Committee for the First Amendment flew to Washington ahead of this climactic phase of the hearing, which commenced on Monday, October 27.<sup>[25]</sup> Of the eleven "unfriendly witnesses", one, émigré playwright Bertolt Brecht, ultimately chose to answer the committee's questions (following which he left the country).<sup>[26]</sup><sup>[27]</sup> The other ten refused, citing their First Amendment rights to freedom of speech and assembly. Included among the questions they refused to answer was one now generally rendered as "Are you now, or have you ever been, a member of the Communist Party?".<sup>[28]</sup><sup>[29]</sup> The Committee formally accused these ten of contempt of Congress, and began criminal proceedings against them in the full House of Representatives.<sup>[citation needed]</sup>
+<mark>Many of the film industry professionals in whom HUAC had expressed interest were alleged to have been members of the Communist Party USA. Of the 43 people put on the witness list, 19 declared that they would not give evidence. Eleven of these 19 were called before the committee.</mark> <mark num=4>Members of the Committee for the First Amendment flew to Washington ahead of</mark> <mark>this climactic phase of the hearing, which commenced</mark> <mark num=2>on Monday, October 27.<sup>[25]</sup></mark> <mark>Of the eleven "unfriendly witnesses", one, émigré playwright Bertolt Brecht, ultimately chose to answer the committee's questions (following which he left the country).<sup>[26]</sup><sup>[27]</sup></mark> <mark>The other ten refused, citing their First Amendment rights to freedom of speech and assembly.</mark> <mark>Included among the questions</mark> <mark num=9>they refused to answer was one</mark> now generally rendered as <mark num=8>"Are you now, or have you ever been, a member of the Communist Party?".<sup>[28]</sup><sup>[29]</sup></mark> <mark>The Committee formally accused these ten of contempt of Congress, and began criminal proceedings against them in the full House of Representatives.<sup>[citation needed]</sup></mark>
 
 </from>
 </compare>
@@ -495,9 +474,7 @@ Many of the film industry professionals in whom HUAC had expressed interest were
 <mark>The House Un-American Activities Committee hearings failed to turn up *any* evidence that Hollywood was secretly disseminating communist propaganda, but the industry was nonetheless transformed.</mark> Producers and studio heads were now on the watch for any and all anti-American activity, fearing further investigation from the government, especially ones that might lead to government censorship, which they'd only narrowly avoided decades before. So as Hollywood always does, they chose to self-censor before being told to. This began a crackdown on any directors writers or actors who might be communist, or gay.
 
 </james>
-<from>
-
-https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102 Growth (1948-1950) para 1
+<from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Growth (1948-1950), ¶ 1" %}>
 
 <mark>The HUAC hearings failed to turn up any evidence that Hollywood was secretly disseminating Communist propaganda, but the industry was nonetheless transformed.</mark> The fallout from the inquiry was a factor in the decision by Floyd Odlum, the primary owner of RKO Pictures, to leave the industry.<sup>[30]</sup> As a result, the studio passed into the hands of Howard Hughes. Within weeks of taking over in May 1948, Hughes fired most of RKO's employees and virtually shut the studio down for six months as he had the political sympathies of the rest investigated. Then, just as RKO swung back into production, Hughes made the decision to settle a long-standing federal antitrust suit against the industry's Big Five studios. This was one of the crucial steps in the collapse of the studio system that had governed Hollywood for a quarter-century. 
 
@@ -548,13 +525,20 @@ Actor Arthur Franz, who plays David's father in the film, has been speculated to
 <compare>
 <james {% include timecode %}>
 
-The 1939 film, *Ninotchka* has also been interpreted by film critics as an allegory for *lesbian* desire and love. Firstly the character of Nina, played by Greta Garbo, is a stern and serious Soviet envoy, who comes to Paris to supervise a group of three bumbling comrades who have been sent there to sell jewels seized during the Russian Revolution. Nina is *initially* portrayed as cold and unfeeling. But she begins to thaw as she falls in love with the charming and carefree count Leon Dalgol, played by Melvin Douglas. 
+<mark>The 1939 film, *Ninotchka* has also been interpreted by film critics as an allegory for *lesbian* desire and love.</mark> Firstly the character of Nina, played by Greta Garbo, is a stern and serious Soviet envoy, who comes to Paris to supervise a group of three bumbling comrades who have been sent there to sell jewels seized during the Russian Revolution. Nina is *initially* portrayed as cold and unfeeling. But she begins to thaw as she falls in love with the charming and carefree count Leon Dalgol, played by Melvin Douglas. 
 
 This dynamic of a strict and buttoned up woman being seduced by a more carefree and flamboyant man is a common trope in Classic Hollywood films. But it also mirrors the expectation that more "manly" or serious women would lighten up and go straight eventually. The assumption among many was, after all, that the only thing stopping a lesbian from being a happy homemaker was finding the *right* man.
 
-Finally there is the character of Irma, played by Bella Lugosi, Irma is portrayed as a flamboyant and theatrical figure with a campy and exaggerated manner of speaking and gesturing. While the character is not explicitly identified as queer, the fact that Lugosi himself was bisexual and often played roles with homoerotic undertones has led some viewers to interpret Irma as a coded representation of queer desire. 
+Finally there is the character of Irma, played by Bela Lugosi, Irma is portrayed as a flamboyant and theatrical figure with a campy and exaggerated manner of speaking and gesturing. While the character is not explicitly identified as queer, the fact that Lugosi himself was bisexual and often played roles with homoerotic undertones has led some viewers to interpret Irma as a coded representation of queer desire. 
 
 </james>
+<comment>
+
+LVence: Who said this? I could find examples of the Invasion of the body snatcher being called a queer allegory, but not Ninotchka. 
+
+It's unclear why James is talking about this film in this video, since it came out well before the Red Scare/Lavender Scare. Also, I couldn't find any evidence that Lugosi himself was bisexual.
+
+</comment>
 <from></from>
 </compare>
 
