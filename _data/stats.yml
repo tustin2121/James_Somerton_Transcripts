@@ -1,8 +1,8 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "18.9", m: "2.4", "y": "0.8", w: "12.1", v: 23}
-  p-total: 101
+  vol: {p: "18.9", m: "2.4", "y": "0.8", w: "12.2", v: 23}
+  p-total: 102
   m-total: 79
   y-total: 19
   hbomb: 26
@@ -17,7 +17,7 @@ _global:
   y-persecution: 2
   p-book: 8
   p-student: 4
-  p-wiki: 17
+  p-wiki: 18
   podcast: 8
   y-acephobia: 4
   script-diff: 14
@@ -39,6 +39,7 @@ _global:
   dec2-delete: 1
   baa: 4
   sub-queer: 21
+  mined-quote: 1
   irony: 5
   p-academic: 4
   change-quote: 1
@@ -96,6 +97,7 @@ _all:
   - {"color": 4, "short": "Johnlock (Avila, 2016)", "full": "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=RpItybDHavo"}
   - {"color": 5, "short": "Albus/Scorpius (Avila, 2016)", "full": "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=MNntQQ1qHuo"}
   - {"color": 2, "short": "(Park, 2014)", "full": "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", "url": "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820"}
+  - {"color": 16, "short": "(Wikipedia, 2020)", "full": "Wikipedia. (2020, Jun 30). <em>Modern pagan views on LGBT people</em> [Article]. Wikipedia. Retrieved Feb 13, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Modern_pagan_views_on_LGBT_people&oldid=965293301"}
   - {"color": 13, "short": "(Kohr, 2020)", "full": "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", "url": "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend"}
   - {"color": 3, "short": "(Shulman, 2013)", "full": "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", "url": "https://www.metroweekly.com/2013/10/queer-as-carrie/"}
   - {"color": 6, "short": "(Elliot-Smith, 2009)", "full": "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", "url": "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx", "type": "academic"}
@@ -104,7 +106,7 @@ _all:
   - {"color": 16, "short": "(Wikipedia, 2020)", "full": "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948"}
   - {"color": 10, "short": "(Fortier, 2020)", "full": "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", "url": "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/"}
   - {"color": 11, "short": "(Leever, 2017)", "full": "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", "url": "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5"}
-  - {"color": 9, "short": "(Barton, )", "full": "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", "url": "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/"}
+  - {"color": 9, "short": "(Barton, 2020)", "full": "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", "url": "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/"}
   - {"color": 7, "short": "(Bishop, 2019)", "full": "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", "url": "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/"}
   - {"color": 17, "short": "(Sargent, 2015)", "full": "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from", "url": "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings"}
   - {"color": 18, "short": "(Church, 2018)", "full": "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", "url": "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows"}
@@ -192,7 +194,7 @@ m8DRQ9-sCSI:
   yikes: {}
   vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
 M8Z1NjpdH1M:
-  vol: { p: 73.6, m: 5.6, y: 0.0, w: 54.8, v: 0 }
+  vol: { p: 74.4, m: 5.6, y: 0.0, w: 55.3, v: 0 }
 n41RAyav_d8:
   vol: { p: 20.3, m: 4.3, y: 0.0, w: 10.6, v: 0 }
 nCi19sYugIA:
@@ -218,7 +220,7 @@ pW_RjbZYi1s:
     Zcf3uNGbq4$meanings: {"_desc_": "James has a habit of changing the meaning of what he's copying, such as", "inverted": "Vito's use of the word \"always\""}
   yikes:
     SdtbQhAKFSI$lt-skip: "James, basically reading beat for beat from Russo's book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into."
-  vol: { p: 52.6, m: 1.5, y: 0.0, w: 38.4, v: 0 }
+  vol: { p: 52.0, m: 1.5, y: 0.0, w: 38.3, v: 0 }
 P_mLM6fUhHQ:
   vol: { p: 47.4, m: 5.3, y: 1.3, w: 33.7, v: 4 }
 qa3A_ery3Hg:

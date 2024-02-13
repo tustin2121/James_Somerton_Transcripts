@@ -48,6 +48,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.changed-name }} | Times James just got a person's name wrong. |
 | {{stats.changed-quote }} | Times James inexplicably changed a direct quote he was copying. |
 | {{stats.made-quote }} | Times James turned something that wasn't a direct quote into a direct quote. |
+| {{stats.mined-quote }} | Times James removed context from a quote so much it changed its meaning. |
 | {{stats.correction }} | Times James actually corrected an incorrect source he was copying from. |
 | | |
 | {{stats.malaprop }} | Times James has used a malapropism or otherwise used the wrong word inadvertently. |

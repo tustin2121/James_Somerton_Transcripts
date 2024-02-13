@@ -722,9 +722,35 @@
 	.color-18    { --source-color: hsl(318, 65%, 49%); }
 	.color-19    { --source-color: hsl(187, 100%, 39%); }
 	
-	.color-hbomb { --source-color: hsl(59, 100%, 30%); }
-	.color-todd  { --source-color: hsl(0, 75%, 40%); }
-	.color-ace_couple { --source-color: hsl(0, 75%, 40%); }
+	.color-hbomb { 
+		border-image: conic-gradient(
+			hsl(59, 100%, 30%), 
+			hsl(32, 100%, 30%), 
+			hsl(59, 100%, 30%)
+		) 1;
+		border-width: 2px;
+	}
+	.color-todd  {
+		border-image: conic-gradient( from 45deg,
+			hsl(0, 0%, 31%)        0deg  40deg,
+			hsl(0, 100%, 30%)     60deg  70deg,
+			hsl(221, 100%, 57%)   75deg  76deg,
+			hsl(0, 100%, 30%)     80deg 210deg,
+			hsl(221, 100%, 57%)  215deg 216deg,
+			hsl(0, 100%, 30%)    220deg 270deg,
+			hsl(0, 0%, 31%)      280deg 300deg
+		) 1;
+		border-width: 2px;
+	}
+	.color-ace_couple {
+		border-image: linear-gradient(0deg,
+			hsl(  0,   0%, 20%)  0%, hsl(  0,   0%, 20%) 25%,
+			hsl(  0,   0%, 55%) 25%, hsl(  0,   0%, 55%) 50%,
+			hsl(  0,   0%, 85%) 50%, hsl(  0,   0%, 85%) 75%,
+			hsl(300, 100%, 25%) 75%, hsl(300, 100%, 25%) 100%
+		) 1;
+		border-width: 2px;
+	}
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);
