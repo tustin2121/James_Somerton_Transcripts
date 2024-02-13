@@ -10,6 +10,7 @@ status: Finished
 aka: !!seq
   - "America's War on the Gays (and communists)"
   - "The Lavender Menace (Thumbnail)"
+  - "Black Listed (Opening Credits)
 topics: !!seq
   - "Red Scare / Lavender Scare"
   - "McCarthyism"
@@ -66,9 +67,9 @@ For more information on this era in history check out the documentary “The Lav
 <compare>
 <james {% include timecode %}>
 
-As the second world war ended and masses of servicemen returned home to America having spent almost *all* of their time away exclusively with other men, there seemed to be an opening of the minds of the American populace when it came to homosexuality. Not that it was an *acceptable* alternative to heterosexuality now, but that it wasn't the *worst* thing in the world, usually under the caveat that it would be something a man would grow out of. How Italian.
+As the second world war ended and masses of servicemen returned home to America having spent almost *all* of their time away exclusively with other men, there seemed to be an opening of the minds of the American populace when it came to homosexuality. Not that it was an *acceptable* alternative to heterosexuality now, but that it wasn't the *worst* thing in the world, usually under the caveat that it would be something a man would grow out of.<sup cn></sup> How Italian.
 
-But politicians who did not serve their country in Europe or the South Pacific did not see this new momentary mindset as a good thing. iNstead they saw it as a corrupting influence on America's men. Just as bad if not worse than the ghostly specter of communism they feared would make its way to the United States after American boys spent so much time with Russians over in Europe. 
+But politicians who did not serve their country in Europe or the South Pacific did not see this new momentary mindset as a good thing. Instead they saw it as a corrupting influence on America's men, just as bad if not worse than the ghostly specter of communism they feared would make its way to the United States after American boys spent so much time with Russians over in Europe. 
 
 And so began the Red Scare in Washington DC, as politicians led a crusade against actual and perceived communists working within the Beltway. And it didn't take long for them to broaden their scope to include actual and perceived *homosexuals* as well with almost 5,000 gay people having lost their jobs in Washington by the end of the scare. The Lavender Scare became a witch hunt for boogeyman just as terrifying as the communists. And as Washington took aim at suspected communists in Hollywood, suspected *homosexuals* in Hollywood were added to the growing Blacklist.
 
@@ -82,7 +83,7 @@ And so began the Red Scare in Washington DC, as politicians led a crusade agains
 But before we explore the government-sanctioned Manhunt against gays and lesbians in the 1950s, let's hear a word from our sponsor.
 
 [Sponsor read]
-<!-- this video is brought to you by hellofresh making these videos I spend a lot of time at my computer so it can become very tempting to order in every night but with hellofresh's easy to prepare meals that even meet my dietary needs I not only get to save money but get to eat a much healthier diet while I do it hellofresh's boxes of fresh food are delivered weekly and you can even specify how much you'll need based on how many people you're feeding these boxes contain recipe cards that tell you how to cook step by step making it easy for even people like me to cook as well as the fresh high quality ingredients that are pre-measured in exact amounts to avoid food waste you can choose your meals up to a month in advance and have a wide selection of choices to choose from including low calorie low carb family style and vegetarian they even have Gourmet options that feature premium ingredients like beef tenderloin and lobster tail to get started with hellofresh today you can go to hellofresh.com and sign up with my code hello James to receive 20 free meals plus free shipping on your first box that's h-e-l-l-o-j-a-m-e-s for 20 free meals and free shipping on your first order or you can just click the link in the description start eating healthier today with hellofresh -->
+<!-- This video is brought to you by HelloFresh. Making these videos, I spend a lot of time at my computer, so it can become very tempting to order in every night. But with HelloFresh's easy to prepare meals that even meet my dietary need,s I not only get to save money but get to eat a much healthier diet while I do it. HelloFresh's boxes of fresh food are delivered weekly and you can even specify how much you'll need based on how many people you're feeding. These boxes contain recipe cards that tell you how to cook step by step, making it easy for even people like me to cook, as well as the fresh high quality ingredients that are pre-measured in exact amounts to avoid food waste. You can choose your meals up to a month in advance and have a wide selection of choices to choose from, including low calorie, low carb, family style, and vegetarian. They even have hourmet options that feature premium ingredients like beef tenderloin and lobster tail. To get started with HelloFresh today, you can go to hellofresh.com and sign up with my code hello James to receive 20 free meals plus free shipping on your first box that's h-e-l-l-o-j-a-m-e-s for 20 free meals and free shipping on your first order or you can just click the link in the description. Start eating healthier today with HelloFresh. -->
 
 </james>
 <from></from>
@@ -141,13 +142,13 @@ James Somerton
 
 In the early 20th century, the United States experienced a period of political persecution and anxiety known as the "Red Scare". There were two different eras in American history that are collectively known as the Red Scare, both of which were marked by widespread anxiety over communism and other leftist ideas. The first Red Scare happened in the wake of World War One and is rarely spoken about. And the second occurred in the midst of the Cold War in the late 1940s and early 1950s. 
 
-To a considerable extent, the 1917 Bolshevik Revolution in Russia was to blame for the onset of the *first* Red Scare. It's no secret that many Americans, especially those in positions of authority, were worried about the emergence of the Soviet Union and the expansion of communism in Europe. In response to this perceived threat, the American government enacted a set of laws *intended* to limit the freedoms of those who were either communists or sympathizers of the Communist cause. 
+To a considerable extent, the 1917 Bolshevik Revolution in Russia was to blame for the onset of the *first* Red Scare. It's no secret that many Americans, especially those in positions of authority, were worried about the emergence of the Soviet Union and the expansion of communism in Europe. In response to this perceived threat, the American government enacted a set of laws *intended* to limit the freedoms of those who were either Communists or sympathizers of the Communist cause. 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-The Sedition Act of 1918 was one of the most notorious pieces of legislation enacted at the time, because it made it a crime to *criticize* is the government. Anyone suspected of being a communist or Anarchist was subject to prosecution under these statutes, regardless of whether or not they had committed any real crimes. The American Protective League was one of the several *private* groups formed during the first Red Scare with the authority to investigate and report on suspected's subversives. 
+The Sedition Act of 1918 was one of the most notorious pieces of legislation enacted at the time, because it made it a crime to *criticize* is the government. Anyone suspected of being a Communist or Anarchist was subject to prosecution under these statutes, regardless of whether or not they had committed any real crimes. The American Protective League was one of the several *private* groups formed during the first Red Scare with the authority to investigate and report on suspected subversives. 
 
 </james>
 <from></from>
@@ -155,13 +156,13 @@ The Sedition Act of 1918 was one of the most notorious pieces of legislation ena
 
 During the height of the Red Scare, the American Legion spearheaded a drive to identify and punish suspected traitors. After World War II, tensions between the United States and the Soviet Union grew once again, sparking the second Red Scare. During this time, communism was again considered a major danger to American democracy and its way of life. The inquiry undertaken by Senator Joseph McCarthy, known as the McCarthy hearings, was one of the most important events of the second Red Scare.
 
-McCarthy claimed to have a list of people who were either Communist party members or sympathizers. And he used his position in government to initiate a series of investigations and interrogations to flush them out. Dramatic confrontations and high profile charges typified the McCarthy hearing,s which had far-reaching effects on American culture. 
+McCarthy claimed to have a list of people who were either Communist party members or sympathizers. And he used his position in government to initiate a series of investigations and interrogations to flush them out. Dramatic confrontations and high profile charges typified the McCarthy hearings, which had far-reaching effects on American culture. 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-Many individuals were punished for their suspected communist links, even though there was no proof to back up the claims. Witnesses were questioned under duress throughout the trials to get them to identify other communists who were under suspicion. Even if they were judged not to be communist supporters, many people were blacklisted and lost their employment as a consequence of the proceedings. 
+Many individuals were punished for their suspected Communist links, even though there was no proof to back up the claims. Witnesses were questioned under duress throughout the trials to get them to identify other Communists who were under suspicion. Even if they were judged not to be Communist supporters, many people were blacklisted and lost their employment as a consequence of the proceedings. 
 
 Because of McCarthy and his associates harsh methods and disregard for due process, the hearings became notorious. But the hearings came to an end in 1954 when McCarthy was censured by the senate for his conduct during the investigations. Marking the beginning of the end of McCarthy's political career, the hearings are now widely viewed as a dark chapter in American history. 
 
@@ -169,7 +170,7 @@ Because of McCarthy and his associates harsh methods and disregard for due proce
 <from></from>
 <james {% include timecode %}>
 
-<mark>In 1950, many politicians, journalists, and citizens thought that homosexuals actually posed more of a threat to National Security than communists.</mark> <mark>One columnist argued:</mark>
+<mark>In 1950, many politicians, journalists, and citizens thought that homosexuals actually posed more of a threat to national security than Communists.</mark> <mark>One columnist argued:</mark>
 
 <u>[Quote on screen, audio distorted]:</u>
 
@@ -186,7 +187,7 @@ Because of McCarthy and his associates harsh methods and disregard for due proce
 
 <mark>And *multiple* of President Harry Truman's top advisors wrote him memos stating:</mark>
 
-> <mark>"The country is more concerned about the charges of homosexuals in government than about communists."</mark>
+> <mark>"The country is more concerned about the charges of homosexuals in government than about Communists."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.johnson_book at="p.2" %}>
@@ -204,7 +205,7 @@ Because of McCarthy and his associates harsh methods and disregard for due proce
 <compare>
 <james {% include timecode %}>
 
-In the UK, it was just about social purity. Yet in America, the existence of gay men specifically was somehow a matter of life and death. <mark>Historians of the McCarthy period have paid surprisingly little attention to the Lavender Scare,</mark> <mark>despite the widespread worry and even panic it caused at the time.</mark> <mark>The significance of party politics and foreign policy in the emergence of the national security state is emphasized</mark> <mark>by political historians of McCarthyism, anti-communism, and the establishment of the national security state,</mark> <mark>while the role of moral and cultural concerns is downplayed.</mark> 
+In the UK, it was just about social purity.<sup cn></sup> Yet in America, the existence of gay men specifically was somehow a matter of life and death. <mark>Historians of the McCarthy period have paid surprisingly little attention to the Lavender Scare,</mark> <mark>despite the widespread worry and even panic it caused at the time.</mark> <mark>The significance of party politics and foreign policy in the emergence of the national security state is emphasized</mark> <mark>by political historians of McCarthyism, anti-communism, and the establishment of the national security state,</mark> <mark>while the role of moral and cultural concerns is downplayed.</mark> 
 
 <mark>Anytime the Lavender Scare is discussed, it is as an afterthought of the Red Scare, that is *so obvious* that it doesn't ever need explanation.</mark> <mark>The overlapping worries of communism and homosexuality have been largely *ignored*</mark> in <mark>even the most recent examinations of McCarthyism, both the defenses from the right and criticisms from the left.</mark> <mark>Many people who supported McCarthy back in the 1950s considered the systemic expulsion of gays from the State Department and other government positions to be his most *lasting* achievement.</mark>
 
@@ -231,7 +232,7 @@ In the UK, it was just about social purity. Yet in America, the existence of gay
 
 <mark>After this, some said the president Harry Truman's government was insufficiently concerned about the threat posed by homosexuals.</mark> <mark>The Senate started looking into homosexuals working for the government</mark> <mark>in June of 1950.</mark> <mark>Although the findings weren't made public until December, throughout that time, there was a sharp rise in the number of government employees let go because of homophobic harassment or discrimination.</mark> 
 
-When asked about (quote) <mark>"sexual perverts who have infiltrated our government in recent years",</mark> <mark>Republican National chairman Guy George Gabrielson claimed that:</mark>
+When asked about (quote) <mark>"sexual perverts who have infiltrated our government in recent years",</mark> <mark>Republican National Chairman Guy George Gabrielson claimed that:</mark>
 
 > <mark>"They were perhaps as dangerous as the actual communists."</mark> 
 
@@ -264,7 +265,7 @@ Cohn did not insist his doctors treat him for liver cancer; he told the public (
 <compare>
 <james {% include timecode %}>
 
-Because <mark>Cohn and McCarthy, with the help of FBI director, J Edgar Hoover</mark> (who is also believed to have been gay), <mark>were responsible for the dismissal of thousands of gay government employees and the intimidation of many of their political opponents into silence by spreading false allegations about their sexual orientation.</mark> <mark>The state department revealed that it had dismissed 425 workers due to charges of homosexuality</mark> <mark>in the closing months of the Truman Administration</mark> <mark>in 1953.</mark> 
+Because <mark>Cohn and McCarthy, with the help of FBI director, J. Edgar Hoover</mark> (who is also believed to have been gay), <mark>were responsible for the dismissal of thousands of gay government employees and the intimidation of many of their political opponents into silence by spreading false allegations about their sexual orientation.</mark> <mark>The state department revealed that it had dismissed 425 workers due to charges of homosexuality</mark> <mark>in the closing months of the Truman Administration</mark> <mark>in 1953.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 5" %}>
@@ -286,7 +287,7 @@ In regards to Hoover, there are many rumors about his sexuality, and historians 
 
 > <mark>"If you want to be against McCarthy, boys, you've got to either be a communist or a c*cksucker."</mark>
 
-<mark>When proof of communist activity was absent,</mark> <mark>McCarthy allegedly used guilt by association</mark> <mark>by equating communism and homosexuality with mental instability.</mark> <mark>The general public and even politicians had a common view that gays and communists</mark> <mark>were both morally weak, or psychologically disturbed. As well as Godless and destructive to traditional families.</mark> 
+<mark>When proof of communist activity was absent,</mark> <mark>McCarthy allegedly used guilt by association</mark> <mark>by equating communism and homosexuality with mental instability.</mark> <mark>The general public and even politicians had a common view that gays and communists</mark> <mark>were both morally weak, or psychologically disturbed. As well as godless and destructive to traditional families.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 6" %}>
@@ -299,7 +300,7 @@ In regards to Hoover, there are many rumors about his sexuality, and historians 
 <compare>
 <james {% include timecode %}>
 
-<mark>For instance, McCarthy openly discussed</mark> <mark>two individuals, case 14 and case 62,</mark> <mark>on the Senate floor</mark> <mark>as communists who posed unsafe risks due to their homosexuality.</mark> <mark>He said that a high-ranking intelligence officer had informed him that every active communist is twisted mentally or physically, implying that those</mark> <mark>with the peculiar mental twists of homosexuality</mark> <mark>were more *susceptible* to recruitment by communists.</mark> 
+<mark>For instance, McCarthy openly discussed</mark> <mark>two individuals, Case 14 and Case 62,</mark> <mark>on the Senate floor</mark> <mark>as communists who posed unsafe risks due to their homosexuality.</mark> <mark>He said that a high-ranking intelligence officer had informed him that every active communist is twisted mentally or physically, implying that those</mark> <mark>with the peculiar mental twists of homosexuality</mark> <mark>were more *susceptible* to recruitment by communists.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="History, ¶ 7" %}>
@@ -369,7 +370,7 @@ Specifically, <mark num=2>Truman's loyalty program</mark> <mark num=1>had been e
 <compare>
 <james {% include timecode %}>
 
-But McCarthy's crew of homophobes were about to have the sights trained on themselves. <mark>When Roy Cohn brought on G. David Shine as chief consultant to the McCarthy staff, speculation arose that Shine and Cohn had a sexual relationship.</mark> <mark>During the Army-McCarthy hearings, Cohn denied</mark> <mark>being closer than an ordinary friend, to Shine</mark> <mark>or having any special interest in him.</mark> <mark>Army Council Joseph Welch seemed to elude to Cohn's sexual orientation throughout the proceedings.</mark>
+But McCarthy's crew of homophobes were about to have the sights trained on themselves. <mark>When Roy Cohn brought on G. David Schine as chief consultant to the McCarthy staff, speculation arose that Schine and Cohn had a sexual relationship.</mark> <mark>During the Army-McCarthy hearings, Cohn denied</mark> <mark>being closer than an ordinary friend to Schine</mark> <mark>or having any special interest in him.</mark> <mark>Army Council Joseph Welch seemed to elude to Cohn's sexual orientation throughout the proceedings.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="Sexuality, ¶ 1" %}>
@@ -383,7 +384,7 @@ Welch: "Did you think this came from a pixie?!"
 
 <u>[General laughter]</u>
 
-McCarthy: "Council, for my benefit, define... (I think he might be an expert on that) -- Define 'pixie'."
+McCarthy: "Council, for my benefit, define... (I think you might be an expert on that) -- Define 'pixie'."
 
 Welch: "I should say-- I should say, Mr. Senator, that a pixie is a close relative of a fairy."
 
@@ -409,7 +410,7 @@ All this attention eventually led to Roy Cohn being removed from his post alongs
 
 However, <mark>the Lavender Scare continued for many more decades.</mark> <mark>The Florida Legislative Investigative Committee, also known as The Johns Committee or FLIC,</mark> <mark>was another manifestation of the Lavender Scare that endured.</mark> <mark>Established in 1956, the FLIC lasted until 1964 before being dissolved.</mark> <mark>The committee's mission in Florida was</mark> <mark>to investigate and fire homosexual public school teachers,</mark> <mark>carrying on the Lavender Scare</mark> in spirit, if not entirely in practice. 
 
-And it wasn't until the Obama Administration that military service for openly gay people was allowed, since the "Don't Ask, Don't Tell" policy was just another executive order 10450 under a different name.
+And it wasn't until the Obama Administration that military service for openly gay people was allowed, since the "Don't Ask, Don't Tell" policy was just another Executive Order 10450 under a different name.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="Legacy, ¶ 1" %}>
@@ -422,7 +423,7 @@ Though <mark>the main vein of McCarthyism ended in the mid-1950s when the 1956 C
 <compare>
 <james {% include timecode %}>
 
-But though the Lavender Scare *unofficially* came to an end with the fall of McCarthyism after multiple decisions by the Supreme Court defanged the senator and left him nothing but a paper tiger, the fear and loathing toward homosexuals, as well as accused communists, survived *much* longer in Hollywood. 
+But though the Lavender Scare *unofficially* came to an end with the fall of McCarthyism after multiple decisions by the Supreme Court defanged the senator and left him nothing but a paper tiger, the fear and loathing toward homosexuals, as well as accused Communists, survived *much* longer in Hollywood. 
 
 </james>
 <from></from>
@@ -431,9 +432,9 @@ But though the Lavender Scare *unofficially* came to an end with the fall of McC
 <compare>
 <james {% include timecode %}>
 
-Even before McCarthy began his crusade, producers in California had been blacklisting anyone even *remotely* connected to communism, thanks to pressure from future president of the United States, <mark>Ronald Reagan, who was then the president of the Screen Actors Guild.</mark> <mark>Many Hollywood professionals were called to appear before the House Un-American Activities Committee</mark> <mark>in October of 1947.</mark> <mark>It was announced that the committee would look into allegations that communist spies and supporters had planted propaganda in Hollywood movies.</mark>
+Even before McCarthy began his crusade, producers in California had been blacklisting anyone even *remotely* connected to communism, thanks to pressure from future president of the United States, <mark>Ronald Reagan, who was then the president of the Screen Actors Guild.</mark> <mark>Many Hollywood professionals were called to appear before the House Un-American Activities Committee</mark> <mark>in October of 1947.</mark> <mark>It was announced that the committee would look into allegations that Communist spies and supporters had planted propaganda in Hollywood movies.</mark>
 
-<mark>Walt Disney spoke first during the proceedings.</mark> <mark>Disney testified that communists posed *a severe danger* to the film business and identified *many* former employees as possible communists.</mark> <mark>In contrast, other leading Hollywood figures including director John Houston and actors Humphrey Bogart, Lauren Bacall, Judy Garland, and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry.</mark> 
+<mark>Walt Disney spoke first during the proceedings.</mark> <mark>Disney testified that Communists posed *a severe danger* to the film business and identified *many* former employees as possible Communists.</mark> <mark>In contrast, other leading Hollywood figures including director John Houston and actors Humphrey Bogart, Lauren Bacall, Judy Garland, and Danny Kaye, organized the Committee for the First Amendment to protest the government's targeting of the film industry.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Beginning (1946-1947), ¶ 2-4" %}>
@@ -452,13 +453,13 @@ Even before McCarthy began his crusade, producers in California had been blackli
 
 <mark>Of the people working in Hollywood that the House Un-American Activities Committee was interested in, many were accused of being members of the Communist Party USA. Of the initial witness list of 43, 19 declared that they would not give evidence. 11 of the original 19 were questioned by the panel.</mark> 
 
-<mark>On Monday, October 27th,</mark> <mark>the hearings last phase began,</mark> and <mark>members of the Committee for the First Amendment traveled in from throughout the country to participate.</mark> <mark>Only one of the 11 "unfriendly" witnesses writer Bertolt Breck, agreed to speak with the committee, after which he fled the country.</mark> <mark>Ten others declined, claiming their right to free expression and assembly under the First Amendment.</mark> <mark>The question:</mark>
+<mark>On Monday, October 27th,</mark> <mark>the hearing's last phase began,</mark> and <mark>members of the Committee for the First Amendment traveled in from throughout the country to participate.</mark> <mark>Only one of the 11 "unfriendly" witnesses, writer Bertolt Brecht, agreed to speak with the committee, after which he fled the country.</mark> <mark>Ten others declined, claiming their right to free expression and assembly under the First Amendment.</mark> <mark>The question:</mark>
 
 > <mark>Are you now...  
 > Or have you ever been...  
 > A member of the Communist Party? 
 
-<mark>was one which they flat out refused to answer.</mark> <mark>The committee formally accused these ten of Contempt of Congress, and began criminal proceedings against them in the full House of Representatives.</mark>
+<mark>was one which they flat out refused to answer.</mark> <mark>The committee formally accused these ten of contempt of Congress, and began criminal proceedings against them in the full House of Representatives.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Beginning (1946-1947), ¶ 5" %}>
@@ -471,7 +472,7 @@ Even before McCarthy began his crusade, producers in California had been blackli
 <compare>
 <james {% include timecode %}>
 
-<mark>The House Un-American Activities Committee hearings failed to turn up *any* evidence that Hollywood was secretly disseminating communist propaganda, but the industry was nonetheless transformed.</mark> Producers and studio heads were now on the watch for any and all anti-American activity, fearing further investigation from the government, especially ones that might lead to government censorship, which they'd only narrowly avoided decades before. So as Hollywood always does, they chose to self-censor before being told to. This began a crackdown on any directors writers or actors who might be communist, or gay.
+<mark>The House Un-American Activities Committee hearings failed to turn up *any* evidence that Hollywood was secretly disseminating Xommunist propaganda, but the industry was nonetheless transformed.</mark> Producers and studio heads were now on the watch for any and all anti-American activity, fearing further investigation from the government, especially ones that might lead to government censorship, which they'd only narrowly avoided decades before. So as Hollywood always does, they chose to self-censor before being told to. This began a crackdown on any directors, writers or actors who might be communist, or gay.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_blacklist at="History, Growth (1948-1950), ¶ 1" %}>
@@ -484,7 +485,7 @@ Even before McCarthy began his crusade, producers in California had been blackli
 <compare>
 <james {% include timecode %}>
 
-The echoes of McCarthyism were sounding loudly in the Hollywood Hills, and the association between gay and communist were inseparable by then. And as mentioned in previous episodes Hollywood was more or less stuffed full of gay men and women working in any one of a multitude of roles in the industry. This resulted in multiple well-respected directors moving to Europe and sending many more up-and-coming and well-established actors even further into the closet. 
+The echoes of McCarthyism were sounding loudly in the Hollywood Hills, and the association between gay and communist were inseparable by then. And as mentioned in previous episodes, Hollywood was more or less stuffed full of gay men and women working in any one of a multitude of roles in the industry. This resulted in multiple well-respected directors moving to Europe and sending many more up-and-coming and well-established actors even further into the closet. 
 
 </james>
 <from></from>
@@ -498,7 +499,7 @@ But no theme was more prevalent than the alien shapeshifter, the ones who could 
 <from></from>
 <james {% include timecode %}>
 
-The Red Scare and the dread of communist infiltration into American culture are commonly seen as metaphors in the 1956 science fiction classic *Invasion of the Body Snatchers*. The film has also been seen as a homosexual allegory by any number of reviewers and Scholars throughout the years. 
+The Red Scare and the dread of Communist infiltration into American culture are commonly seen as metaphors in the 1956 science fiction classic *Invasion of the Body Snatchers*. The film has also been seen as a homosexual allegory by any number of reviewers and scholars throughout the years. 
 
 The film's narrative revolves around an extraterrestrial invasion of Earth and the subsequent infiltration of soulless carbon copy humans developed in pods. The pod inhabitants begin to symbolize, as the film unfolds, a society that is driven by uniformity and tries to eliminate individuality and uniqueness. This uniformity and conformity theme has been linked to the gay experience in the 1950s ever since. Many gay individuals in the past were pressured to conceal their identities and mask their sexual orientation because of the widespread stigma associated with being gay at the time. 
 
@@ -506,7 +507,7 @@ The film's narrative revolves around an extraterrestrial invasion of Earth and t
 <from></from>
 <james {% include timecode %}>
 
-The film's depiction of the pod people paints them as robotic drones devoid a feeling and individuality. In addition the film's characters are a misfit crew that the perceived conventional society rejects and ignores. peOple who *insist* that something nefarious is occurring are sometimes branded as insane or paranoid. Similar to the experiences of gay people, who were frequently disregarded and mocked by the larger society, the characters in this story are members of a minority group who are trying to persuade the world of a threat that only they can see. 
+The film's depiction of the pod people paints them as robotic drones devoid of feeling and individuality. In addition, the film's characters are a misfit crew that the perceived conventional society rejects and ignores. People who *insist* that something nefarious is occurring are sometimes branded as insane or paranoid. Similar to the experiences of gay people, who were frequently disregarded and mocked by the larger society, the characters in this story are members of a minority group who are trying to persuade the world of a threat that only they can see. 
 
 *Invasion of the Body Snatchers* is undoubtedly a film that reflects the societal anxieties of its time and can also be seen as a powerful gay allegory. By exploring themes of conformity, individuality, and marginalization, the film speaks to the experiences of many gay people who struggle to find acceptance in a society that sought to erase their differences.
 
@@ -516,27 +517,12 @@ The film's depiction of the pod people paints them as robotic drones devoid a fe
 
 *Invaders from Mars* features a similar plot to *Invasion of the Body Snatchers*. David, the film's protagonist, is a creative and sensitive young man who is ridiculed and excluded from school. He has a difficult time relating to people, even his own father, with whom he has a tense relationship. Many members of the queer community, especially around the time the film was released, have experienced feelings of alienation and exclusion *similar* to those shown in the film. 
 
-Actor Arthur Franz, who plays David's father in the film, has been speculated to be homosexual in real life. Morris Ankrum, who was also thought to be gay, plays Dr Kelston, an investigator of the UFO phenomena. There are aspects in *Invaders from Mars* that... *may* be seen via a queer lens, even if that wasn't the film's original intent. From the underlying ties between the male characters to the overt themes of possession and invasion.
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-<mark>The 1939 film, *Ninotchka* has also been interpreted by film critics as an allegory for *lesbian* desire and love.</mark> Firstly the character of Nina, played by Greta Garbo, is a stern and serious Soviet envoy, who comes to Paris to supervise a group of three bumbling comrades who have been sent there to sell jewels seized during the Russian Revolution. Nina is *initially* portrayed as cold and unfeeling. But she begins to thaw as she falls in love with the charming and carefree count Leon Dalgol, played by Melvin Douglas. 
-
-This dynamic of a strict and buttoned up woman being seduced by a more carefree and flamboyant man is a common trope in Classic Hollywood films. But it also mirrors the expectation that more "manly" or serious women would lighten up and go straight eventually. The assumption among many was, after all, that the only thing stopping a lesbian from being a happy homemaker was finding the *right* man.
-
-Finally there is the character of Irma, played by Bela Lugosi, Irma is portrayed as a flamboyant and theatrical figure with a campy and exaggerated manner of speaking and gesturing. While the character is not explicitly identified as queer, the fact that Lugosi himself was bisexual and often played roles with homoerotic undertones has led some viewers to interpret Irma as a coded representation of queer desire. 
+Actor Arthur Franz, who plays David's father in the film, has been speculated to be homosexual in real life. Morris Ankrum, who was also thought to be gay, plays Dr. Kelston, an investigator of the UFO phenomena. There are aspects in *Invaders from Mars* that... *may* be seen via a queer lens, even if that wasn't the film's original intent. From the underlying ties between the male characters, to the overt themes of possession and invasion.
 
 </james>
 <comment>
 
-LVence: Who said this? I could find examples of the Invasion of the body snatcher being called a queer allegory, but not Ninotchka. 
-
-It's unclear why James is talking about this film in this video, since it came out well before the Red Scare/Lavender Scare. Also, I couldn't find any evidence that Lugosi himself was bisexual.
+I couldn't find anything about Arthur Franz or Morris Ankrum being gay. 
 
 </comment>
 <from></from>
@@ -545,7 +531,27 @@ It's unclear why James is talking about this film in this video, since it came o
 <compare>
 <james {% include timecode %}>
 
-And from a completely opposite direction we have the notorious *Plan 9 from Outer Space*, from the infamous filmmaker Ed Wood. While the film has long been considered a cinematic disaster, it has also been celebrated for its campy subversive qualities. In particular many critics and scholars have interpreted the film as a queer allegory. 
+<mark>The 1939 film, *Ninotchka* has also been interpreted by film critics as an allegory for *lesbian* desire and love.</mark> Firstly the character of Nina, played by Greta Garbo, is a stern and serious Soviet envoy, who comes to Paris to supervise a group of three bumbling comrades who have been sent there to sell jewels seized during the Russian Revolution. Nina is *initially* portrayed as cold and unfeeling. But she begins to thaw as she falls in love with the charming and carefree Count Léon d'Algou, played by Melvyn Douglas. 
+
+This dynamic of a strict and buttoned up woman being seduced by a more carefree and flamboyant man is a common trope in classic Hollywood films. But it also mirrors the expectation that more "manly" or serious women would lighten up and go straight eventually. The assumption among many was, after all, that the only thing stopping a lesbian from being a happy homemaker was finding the *right* man.
+
+Finally there is the character of Irma, played by Bela Lugosi, Irma is portrayed as a flamboyant and theatrical figure with a campy and exaggerated manner of speaking and gesturing. While the character is not explicitly identified as queer, the fact that Lugosi himself was bisexual and often played roles with homoerotic undertones has led some viewers to interpret Irma as a coded representation of queer desire. 
+
+</james>
+<comment>
+
+LVence: Who said this? I could find examples of the Invasion of the body snatcher being called a queer allegory, but not Ninotchka. 
+
+It's unclear why James is talking about this film in this video, since it came out well before the Red Scare/Lavender Scare. Also, I couldn't find any evidence that Lugosi himself was bisexual. I also couldn't find any documentation of Bela Lugosi's character in *Ninotchka*, Commander Razinin, being called Irma. (Or Urma, or Erma.) It's a female name anyway. And when James describes him as "flamboyant," "theatrical," and "exaggerated," he's just standing there in a plain uniform with a hand on his hip, talking with very little movement or expression. Did he write this using ChatGPT?
+
+</comment>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+And from a completely opposite direction, we have the notorious *Plan 9 from Outer Space*, from the infamous filmmaker Ed Wood. While the film has long been considered a cinematic disaster, it has also been celebrated for its campy subversive qualities. In particular, many critics and scholars have interpreted the film as a queer allegory. 
 
 One way in which the film can be seen as a queer allegory is through the character of the alien leader Eros. Eros is portrayed as a flamboyant effeminate figure with his *distinctive* attire, makeup, and mannerisms. He moves with a graceful almost balletic quality, and his speech is melodramatic and theatrical. His characterization is *so* exaggerated that it goes *well* beyond mere stereotyping, and instead creates a queer icon that challenges and subverts traditional gender norms. 
 
@@ -553,15 +559,15 @@ One way in which the film can be seen as a queer allegory is through the charact
 <from></from>
 <james {% include timecode %}>
 
-Another aspect of the film that can be interpreted as a queer allegory is its underlying critique of conformity. The plot revolves around the alien's plan to destroy Earth because they view it as a threat to their own culture, and way of life. This can be seen as a commentary on the obsessive forces of conformity that queer individuals have often faced. The aliens desire for uniformity and sameness can be read as a metaphor for the societal pressures to conform to heteronormative standards and expectations. And even the internal expectations of the queer community.
+Another aspect of the film that can be interpreted as a queer allegory is its underlying critique of conformity. The plot revolves around the alien's plan to destroy Earth because they view it as a threat to their own culture, and way of life. This can be seen as a commentary on the obsessive forces of conformity that queer individuals have often faced. The aliens' desire for uniformity and sameness can be read as a metaphor for the societal pressures to conform to heteronormative standards and expectations. And even the internal expectations of the queer community.
 
-Finally the film's low budget campy style can be seen as a celebration of the marginal and the underground. In the context of queer culture, Camp has often been used as a way to resist and subvert dominant cultural norms. The film's deliberately bad acting, special effects, and overall production value can be seen as a queer refusal to conform to traditional Hollywood standards. (Or maybe I'm reaching a bit with that one.) 
+Finally the film's low budget campy style can be seen as a celebration of the marginal and the underground. In the context of queer culture, camp has often been used as a way to resist and subvert dominant cultural norms. The film's deliberately bad acting, special effects, and overall production value can be seen as a queer refusal to conform to traditional Hollywood standards. (Or maybe I'm reaching a bit with that one.) 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-But suffice to say, the 1950s were a time of strict social conformity in America. <span visual=none on="?" off="?">The culture was dominated by the ideal of the nuclear family, where a husband worked and provided for his wife and children while the wife stayed at home and took care of the household.</span> *Any* deviation from this norm was considered *dangerously* deviant, and subject to social ostracization.
+But suffice to say, the 1950s were a time of strict social conformity in America. <span visual=none on="?" off="?">The culture was dominated by the ideal of the nuclear family, where a husband worked and provided for his wife and children, while the wife stayed at home and took care of the household.</span> *Any* deviation from this norm was considered *dangerously* deviant, and subject to social ostracization.
 
 <footer>James's footage here is the 1950's short <a href="https://en.wikipedia.org/wiki/A_Date_with_Your_Family">"A Date With Your Family"</a>, which is best seen <a href="https://www.youtube.com/watch?v=_Hh4M4vipAo">with MST3K providing commentary</a>.,</footer>
 
@@ -569,7 +575,7 @@ But suffice to say, the 1950s were a time of strict social conformity in America
 <from></from>
 <james {% include timecode %}>
 
-This, of course, included homosexuality, which was widely seen as a mental illness or a moral failing. Gay people in the 1950s faced significant depression from the dominant culture, as well as legal and social sanctions. Homosexuality was illegal in *every* state, and those who were caught engaging in same-sex activities could face imprisonment or institutionalization in mental hospitals. In this culture of fear and secrecy, gay people were forced to hide their true selves and lead double lives, whereas suspected *communist* agents chose to lead double lives.
+This, of course, included homosexuality, which was widely seen as a mental illness or a moral failing. Gay people in the 1950s faced significant depression<sup class="add">[sic: oppression? repression?]</sup> from the dominant culture, as well as legal and social sanctions. Homosexuality was illegal in *every* state, and those who were caught engaging in same-sex activities could face imprisonment or institutionalization in mental hospitals. In this culture of fear and secrecy, gay people were forced to hide their true selves and lead double lives, whereas suspected *communist* agents *chose* to lead double lives.
 
 Many gay men and women were also forced into marriages with the opposite sex in order to maintain appearances and avoid suspicion. These marriages were often unhappy and unfulfilling for both partners and they often ended in divorce or estrangement. This further reinforced the idea that homosexuality was a choice, and that gay people could *choose* to be straight if they wanted to. 
 
