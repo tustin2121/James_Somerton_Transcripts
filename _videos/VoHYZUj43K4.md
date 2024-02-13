@@ -488,7 +488,25 @@ And before you turn around and say "how dare he commit war crimes", please exami
 
 We take for granted that they're pillars of our culture, because they gave a speech or something, regardless that they were privy to massacres and genocide. In our own culture, there is such an air of veneration around these figures, the criticism is almost a cultural taboo. it's not uncommon for creators to have problematic views, ones which are rooted in their own cultural upbringing. even leftists give a pass to FDR as being a great president, and ignore the fact that he locked up hundreds of thousands of Japanese Americans during World War II, but nobody calls *him* a fascist. (Well, Republicans might, but not for the right reasons.)
 
-Some have even gone so far as to call *Attack on Titan* *itself* fascist and anti-semitic. Because while *Attack on Titan* does have a large fandom of... *normal* people, it also has a notable and Loud right-wing fan base. The New Republic even dubbed it "the alt-right's favorite manga".
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Some have even gone so far as to call *Attack on Titan* *itself* fascist and anti-semitic</mark>. Because <mark x>while *Attack on Titan* does have a large fandom</mark> of... *normal* people, <mark>it also has a notable and Loud right-wing fan base</mark>. <mark>The New Republic even dubbed it "the alt-right's favorite manga".</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 12" %}>
+
+These themes have been pointed out before, with <mark>some even saying that the work itself is fascist and antisemetic<sup class="add">[sic: antisemitic]</sup></mark>. <mark>While *Attack on Titan* boasts a huge audience, it also has a noted and vocal right wing fanbase</mark> as well; <mark>the New Republic even called it "the Alt-Right's Favorite Manga."</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Anime fans have gotten themselves into a tangle trying to decipher where Isayama draws the line between the metaphors he engages in and his own personal convictions. But *Attack on Titan* contradicts Isayama's apparent nationalism. 
 
@@ -540,27 +558,37 @@ Alternately, and this concerns me, I've begun to wonder if the left also lacks t
 <compare>
 <james {% include timecode %}>
 
-But is this the case with Eren Jaeger? Especially, as the series reaches its apocalyptic conclusion. As *Attack on Titan* comes to a close, the question becomes how to interact with it. And also whether or not a show can handle fascist ideas in the manner with which it does without being fascist and anti-semitic itself. Isayama declined to comment on the topic, saying
+But is this the case with Eren Jaeger? Especially, as the series reaches its apocalyptic conclusion. <mark>As *Attack on Titan* comes to a close, the question becomes how to interact with it</mark>. And also <mark>whether or not a show can handle fascist ideas in the manner with which it does without being fascist and anti-semitic itself</mark>. <mark>Isayama declined to comment on the topic, saying</mark>
 
 <u>[Quote shown on screen]:</u>
 
-> "Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."
+> <mark>"Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 14" %}>
+
+<mark>The question, then, as the series wraps up, is figuring out how to engage with it</mark>, and figuring out <mark>whether a show can deal with fascistic themes in the way it does without being fascistic and antisemitic itself</mark>. The manga's creator Hajime <mark>Isayama</mark>, for his part, told the New Republic that he <mark>didn't want to weigh in on the controversy, stating that "Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-A large portion of the anime community, as a generic group, hold *Attack on Titan* with very high regard. You've probably seen some of the show's recognizable symbols, especially its military insignia, even if you haven't seen the anime or read the manga it's based on. If anything, you've probably heard portions of the iconic first season theme song, which is a banger.
+<mark x num=1>A large portion of the anime community, as a generic group, hold *Attack on Titan* with very high regard.</mark> <mark num=3>You've probably seen some of the show's recognizable symbols, especially its military insignia</mark>, <mark num=2>even if you haven't seen the anime or read the manga it's based on</mark>. If anything, you've probably heard portions of <mark num=8>the iconic first season theme</mark> song, which is <mark num=9>a banger</mark>.
 
-<u>[Plays potion of theme song]</u>
+<u>[Plays portion of theme song]</u>
 
-The show introduced many people to anime and manga, which is what makes criticism so tricky. It's hard to criticize one's first love. However being unable or unwilling to address the problems in *Attack on Titan*'s fictional world has caused a... long simmering unresolved conflict within the anime fandom.
+<mark num=4>The show introduced many people to anime</mark> and manga, which is <mark num=6>what makes criticism so tricky</mark>. It's hard to criticize <mark x num=5>one's first love</mark>. However <mark num=7>being unable or unwilling to address the problems in *Attack on Titan*'s fictional world has caused a... long simmering unresolved conflict within the anime fandom.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 16-17" %}>
+
+As a show, <mark x num=1>*Attack on Titan* has taken a position of reverence among anime fans</mark>. <mark num=2>Even if you don't currently watch the show, or read the manga on which it is based</mark>, <mark num=3>you've at least seen the iconography from the show, especially its military insignia</mark>, in the wild. <mark num=4>For a lot of people this was their first anime</mark>, <mark x num=5>and their first introduction to a genre of fiction they love</mark>. It's the position <mark num=6>that makes it uniquely difficult to criticize</mark>. In the case of *Attack on Titan*, <mark num=7>not being able to discuss the issues in its fiction has led to a long simmering, never resolved conflict within the fandom</mark> itself.
+
+At first glance, it would be easy just to dismiss *Attack on Titan* as being unambiguously pro-fascist. The anime plays into the militarism at the heart of the story; <mark num=8>the show's first theme</mark>, <mark num=9>a certified banger</mark> and classic meme, opens on the lyric "Are you prey? No, we are the hunters," sung in German. 
+
+</from>
 </compare>
 {% assign timecode = "19:08" %}
 
@@ -706,10 +734,14 @@ Thew told Motherboard that he hadn't totally caught up on Attack on Titan becaus
 </from>
 <james {% include timecode %}>
 
-For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world. Anime fans have generally avoided discussing the political content of their favorite shows because the art form was, until recently, a niche that was sometimes wrongly characterized as being obscene and dangerous. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
+<mark>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=3>Anime fans have generally avoided discussing the political content of their favorite shows</mark> <mark num=1>because the art form was, until recently, a niche</mark> <mark num=2>that was sometimes wrongly characterized as being obscene and dangerous</mark>. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 26" %}>
+
+<mark>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=1>Because anime was, until recently, a niche</mark> culture, and one <mark num=2>that has occasionally been unfairly maligned for being pornographic and violent</mark>, <mark num=3>anime fans in general have avoided talking about the politics of their favorite shows</mark>.
+
+</from>
 <james {% include timecode %}>
 
 <mark num=5>Andrea Horbinski, a scholar with a doctorate in New Media studies and history</mark>, said:
