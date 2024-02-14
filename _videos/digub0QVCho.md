@@ -10,6 +10,7 @@ status: Auto Script
 aka: !!seq
   - "Irresistible Impulse - The Sad History of the Queer Panic Defense in America"
   - "The Queer Panic Defense (Thumbnail)"
+  - "Irresistible Impulse - The History of the Queer Panic Defense in America" (Opening Credits)
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Panic.mp4"
@@ -62,7 +63,7 @@ This formerly Patreon exclusive video essay explores the history of the Gay and 
 <compare>
 <james {% include timecode %}>
 
-Hey, guys. I'm just in the process of editing the video that you're about to watch, and I thought I would drop a severe content warning right here. It's. It's a lot. Obviously, there's discussion of the murder of queer people. That's what the video's about. But there's also instances of audio that was taken from the killers, one of which they consistently refer to a trans woman as he made sure to keep any kind of dead naming or anything like that out of there.
+Hey guys. I'm just in the process of editing the video that you're about to watch, and I thought I would drop a *severe* content warning right here. It's... it's a lot. Obviously, there's discussion of the murder of queer people. That's what the video's about. But there's also instances of audio that was taken from the killers, one of which they consistently refer to a trans woman as "he." I've made sure to keep any kind of deadnaming or anything like that out of there.
 
 </james>
 <from></from>
@@ -73,7 +74,7 @@ Hey, guys. I'm just in the process of editing the video that you're about to wat
 <compare>
 <james {% include timecode %}>
 
-But I just wanted you to know that that's there. There's some violent shots. There's some a couple of kind of brutal images as well, because I really wanted to get the point across. So, you know, if you feel like you need to take a break watching it or anything like that, by all means. Also, for a lot of the victims, there's not a lot of pictures of them.
+But I just wanted you to know that that's there. There's some violent shots. There's some, a couple of kind of brutal images as well, because I really wanted to get the point across. So, you know, if you feel like you need to take a break watching it or anything like that, by all means. Oh, also, for a lot of the victims, there's not a lot of pictures of them.
 
 </james>
 <from></from>
@@ -84,7 +85,7 @@ But I just wanted you to know that that's there. There's some violent shots. The
 <compare>
 <james {% include timecode %}>
 
-There's not a lot of pictures. There's not a lot of it's definitely not a lot of video. So for a lot of instances I've used shots from movies that may have been made about the case. But you'll notice a lot, especially in the last section where I'm talking about attacks on trans women, that there's very little there's very few photos even.
+There's not a lot of pictures. There's not a lot of... definitely not a lot of video. So for a lot of instances, I've used shots from movies that may have been made about the case. But you'll notice a lot, especially in the last section where I'm talking about attacks on trans women, that there's very little... there's very few photos even.
 
 </james>
 <from></from>
@@ -95,7 +96,7 @@ There's not a lot of pictures. There's not a lot of it's definitely not a lot of
 <compare>
 <james {% include timecode %}>
 
-And so it's a lot of me talking. It's not just me being full of myself. It's literally there was nothing else to show except for one instance for women. But you'll see that when it comes to it. And I also just really wanted to thank you all. This past year has been crazy, not just with COVID and all of that, but also for me personally, dealing with the situation with my mom and everything and being able to make videos has been a really nice a nice distraction.
+And so it's a lot of me talking. It's not just me being full of myself. It's-- literally there was nothing else to show, except for one instance for... But you'll see that when it comes to it. And I also just really wanted to thank you all. This past year has been crazy, not just with COVID and all of that, but also for me personally, dealing with the situation with my mom and everything, and being able to make videos has been a really nice, a nice distraction.
 
 </james>
 <from></from>
@@ -106,7 +107,7 @@ And so it's a lot of me talking. It's not just me being full of myself. It's lit
 <compare>
 <james {% include timecode %}>
 
-And I wouldn't be able to do this if it wasn't for you guys. So thank you. Thank you so much. I appreciate you guys so much. I hope you have a really great holiday season. Whatever you celebrate and really happy New Year. And in January, I'll be putting out a video that is not as depressing as this one deals with poverty.
+And I wouldn't be able to do this if it wasn't for you guys. So thank you. Thank you so much. I appreciate you guys so much. I hope you have a really great holiday season, whatever you celebrate, and a really happy New Year. And in January, I'll be putting out a video that is not as depressing as this one. It deals with poverty, but...
 
 </james>
 <from></from>
@@ -117,18 +118,7 @@ And I wouldn't be able to do this if it wasn't for you guys. So thank you. Thank
 <compare>
 <james {% include timecode %}>
 
-But so thank you guys for watching. Thank you guys for being patrons. I really, really I mean, I love you guys. Your you make my life a lot easier. So thank you. And I hope you enjoy this video. That was well, I don't know if enjoy is the right word, but I hope you take something away from this video that's been a year in the making.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:03:27" %}
-
-<compare>
-<james {% include timecode %}>
-
-Yeah.
+So thank you guys for watching. Thank you guys for being patrons. I really, really I mean, I love you guys. You're... you make my life a lot easier. So thank you. And I hope you enjoy this video. That was well, I don't know if enjoy is the right word, but I hope you take something away from this video that's been a year in the making... Yeah.
 
 </james>
 <from></from>
@@ -142,7 +132,21 @@ Yeah.
 In early February 2008, in Oxnard, California, a 15 year old named Larry asked a fellow eighth grader named Brandon to be their valentine. Somehow, our society had given Brandon the impression that this innocent request was tantamount to a criminal offense. And so on February 12th, Brandon murdered Larry, shooting them twice in the back of the head. The first trial ended in a mistrial with several members of the jury agreeing with the defense's use of queer panic, stating that by Larry coming on to Brandon, they were essentially bullying him, leaving him with no choice but to kill the 15 year old.
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.473
+
+On February 12th, an openly gay 15-year-old boy named Larry who was an eighth-grader in Oxnard, California was murdered by a fellow eighth-grader named Brandon. Larry was killed because he . . . was gay. Days before he was murdered, Larry asked his killer to be his Valentine . . . . And somewhere along the line the killer Brandon got the message that it’s so threatening and so awful and so horrific that Larry would want to be his Valentine that killing Larry seemed to be the right
+thing to do. And when the message out there is [that it is] so horrible . . . to be gay you can be killed for it, we need to change the message.
+
+Ellen DeGeneres (Feb. 29, 2008)<sup>1</sup>
+
+<footer>
+
+<sup>1</sup> DeGeneres spoke about the killing of Lawrence King on the Ellen DeGeneres show during an opening segment on February 29, 2008. For footage of this clip see The Ellen DeGeneres Show, A Tragedy That Should Never Have Happened, http://ellen.warnerbros.com/2008/07/a_tragedy_that_should_never_ha.php (last visited Oct. 16, 2008).
+
+</footer>
+</from>
 </compare>
 
 {% assign timecode = "00:04:16" %}
@@ -150,26 +154,32 @@ In early February 2008, in Oxnard, California, a 15 year old named Larry asked a
 <compare>
 <james {% include timecode %}>
 
-A second trial saw Brandon sentenced to 21 years in prison for voluntary manslaughter, not murder. And the case was not prosecuted as a hate crime. There was a.
+A second trial saw Brandon sentenced to 21 years in prison for voluntary manslaughter, not murder. And the case was not prosecuted as a hate crime.
 
 </james>
 <from></from>
 </compare>
 
-00:04:26:16 - 00:04:44:09
-Speaker 3
-Surprise plea deal tonight in the case of a gay junior high student shot to death by a classmate. But he is going to spend the next 21 years of his life in prison. Some of the jurors in the first trial were here to support McInerney. And I was really kind of shocked, like 21 years, really no chance of parole.
+<compare>
+<clip>
 
-00:04:44:13 - 00:04:49:00
-Speaker 3
-It really seems an awful long time for a kid who had no prior record.
+Newscaster 1: There was a surprise plea deal tonight in the case of a gay junior high student shot to death by a classmate. 
+
+Newcaster 2: But he is going to spend the next 21 years of his life in prison. 
+
+Newscaster 3: Some of the jurors in the first trial were here to support McInerney. 
+
+Interviewee: And I was really kind of shocked, like 21 years, really? No chance of parole, really? It seems an awful long time for a kid who had no prior record.
+
+</clip>
+</compare>
 
 {% assign timecode = "00:04:49" %}
 
 <compare>
 <james {% include timecode %}>
 
-The Queer Panic, or better known as gay or trans Panic. Defense has been a legal defense tactic for three quarters of a century in the United States and abroad. The murder of Larry in 2008 is just a recent and particularly venomous example and may actually fall under both gay and trans panic. Though Larry presented as a boy, many people who knew them stated after their death that they wanted to change their name to Latisha and possibly transition.
+The queer panic, or better known as gay or trans panic, defense has been a legal defense tactic for three quarters of a century in the United States and abroad. The murder of Larry in 2008 is just a recent and particularly venomous example and may actually fall under both gay and trans panic. Though Larry presented as a boy, many people who knew them stated after their death that they wanted to change their name to Latisha and possibly transition.
 
 </james>
 <from></from>
@@ -180,7 +190,7 @@ The Queer Panic, or better known as gay or trans Panic. Defense has been a legal
 <compare>
 <james {% include timecode %}>
 
-We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all. I wish Larry was the only example of this. I wish Queer Panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark history to this rationalization of hate masquerading as a legal defense.
+We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all. I wish Larry was the only example of this. I wish queer panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark histoy to this rationalization of hate masquerading as a legal defense.
 
 </james>
 <from></from>
@@ -191,43 +201,104 @@ We won't know if Larry would have ever done that, though, because they only spen
 <compare>
 <james {% include timecode %}>
 
-While there is more acceptance of the LGBTQ community today than there was even in 2008. It's worth noting that only nine months after Larry's murder, California voted to ban gay marriage. Queer people still experience significant amounts of prejudice and discrimination. Approximately 70% of gay men and women have been the victims of verbal abuse, with 30% being the victims of physical harm.
+<mark>While there is more acceptance of the LGBTQ community today than there was even in 2008,</mark> it's worth noting that only nine months after Larry's murder, California voted to ban gay marriage. <mark>Queer people still experience significant amounts of prejudice and discrimination.</mark> <mark>Approximately 70% of gay men and women have been the victims of verbal abuse, with 30% being the victims of physical harm,</mark> while 80% of transgender people in America have reported being physically attacked in some way. <mark>Violence against the community is a problem, even in cities with sizable queer populations. In a survey of young adults in San Francisco, one in five men admitted to physically assaulting, or at least threatening, people they assumed to be gay</mark> or trans. 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.474-475
+
+<mark>While there is more acceptance of lesbians and gays today compared to just a few years ago,<sup>6</sup></mark> <mark>gays and lesbians still experience a significant amount of prejudice and discrimination.<sup>7</sup></mark> <mark>Approximately three-quarters of gays and lesbians have been the target of verbal abuse and approximately one-third have been the target of physical violence</mark> based on their sexual orientation.<sup>8</sup> <mark>Violence against gays and lesbians is a problem even in cities with sizable gay and lesbian populations. In a survey of young adults in the San Francisco Bay Area, “almost 1 in 5 men admitted to physically assaulting or threatening people whom they believed were homosexual.”<sup>9</sup></mark> 
+
+<footer>
+
+<sup>6</sup> See Jeni Loftus, America’s Liberalization of Attitudes Toward Homosexuality, 1973 to 1998, 66 AM. SOC. REV. 762, 765 (2001).
+
+<sup>7</sup> See HENRY J. KAISER FAMILY FOUND., PUBL’N. NO. 3194, INSIDE-OUT: A REPORT ON THE EXPERIENCES OF LESBIANS, GAYS AND BISEXUALS IN AMERICA AND THE PUBLIC’S VIEWS ON ISSUES AND POLICIES RELATED TO SEXUAL ORIENTATION 19 (2001), available at http://www.kff.org/kaiserpolls/upload/New-Surveys-on-Experiences-of-Lesbians-Gays-and-Bisexuals-and-the-Public-s-Views-Related-to-Sexual -Orientation-Report.pdf.
+
+<sup>8</sup> *Id.*; *see also* Dominic J. Parrott & Amos Zeichner, *Effects of Sexual Prejudice and
+Anger on Physical Aggression Toward Gay and Heterosexual Men*, 6 PSYCHOL. OF MEN &
+MASCULINITY 3, 3 (2005) (“Alarmingly, over one third of gay men and lesbians have been victims of interpersonal violence, and up to 94% report some type of victimization related to their sexual orientation.”). In 2006, 1,415 of the 9,080 hate crimes reported to the FBI were based on the victim’s sexual orientation. FED. BUREAU OF INVESTIGATION , U.S. DEP’T OF JUSTICE, 2006 HATE CRIME STATISTICS 1 (2007), available at http://www.fbi.gov/ucr/hc2006/table1.html (last visited June 17, 2008). In 2007, the number of reported bias incidents nationwide fell 1.3 percent. *Hate Crimes: Good news on bias incidents based on race and religion. Bad news on those based on sexual orientation*, WASH. POST, Nov. 5, 2008, at A22. This decrease was driven by a 4.2 percent reduction in the number of reported bias crimes based on religion and a 3.2 reduction in those based on race. *Id.* These decreases were accompanied by a 5.5 percent increase in reported hate crimes based on the victim’s perceived sexual orientation. *Id.*
+
+<sup>9</sup> Karen Franklin & Gregory M. Herek, Homosexuals, Violence Toward, in 2 ENCYCLOPEDIA OF VIOLENCE, PEACE, CONFLICT 139, 144 (Lester Kurtz & Jennifer Turpin eds., 1999)
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:06:12" %}
+{% assign timecode = "00:06:37" %}
 
 <compare>
 <james {% include timecode %}>
 
-While 80% of transgender people in America have reported being physically attacked in some way. Violence against the community is a problem, even in cities with sizable queer populations. In a survey of young adults in San Francisco, one in five men admitted to physically assaulting or at least threatening people they assumed to be gay or trans. When a heterosexual kills a gay man or woman or a cisgender person kills a transgender man or woman.
+<mark>When a heterosexual kills a gay man</mark> or woman, or a cisgender person kills a transgender man or woman, <mark>a common defense strategy to use is the concept of queer panic.</mark> <mark>There is no officially recognized queer panic defense</mark> in the legal books, <mark>but many use the term to refer to defense strategies that rely on the notion that a criminal defendant should be excused or even justified if their violent actions were in response to the perceived sexual advances of a queer person.</mark> <mark>Such strategies include using queer panic to bolster claims of temporary insanity, diminished capacity, provocation and self-defense.</mark> So let's have a look at the history of this often derided but too often successful legal defense, why it exists, why it succeeds, and what can be done about it.
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.475
+
+<mark>When a heterosexual man kills a gay man</mark> and faces a murder charge, <mark>a common defense strategy is to use the concept of “gay panic”</mark> to explain the killing.<sup>10</sup> <mark>There is no officially recognized “gay panic” defense,</mark> <mark>but many use the term to refer to defense strategies that rely on the notion that a criminal defendant should be excused or justified if his violent actions were in response to a (homo)sexual advance.<sup>11</sup></mark> <mark>Such strategies include using gay panic to bolster claims of insanity, diminished capacity, provocation, and self-defense.</mark> In this paper, I use the term “gay panic defense” as shorthand for these strategies.
+
+<footer>
+
+<sup>10</sup> See Duncan Osborne, *The Homosexual Panic Defense: Are Juries Really Buying It?*, LGNY NEWS, Nov. 4, 1999, at 4; see also Gary David Comstock, *Dismantling the Homosexual Panic Defense*, 2 LAW & SEXUALITY 81, 81-82 (1992) [hereinafter Comstock, *Dismantling the Homosexual Panic Defense*]; *Developments in the Law — Sexual Orientation and the Law*, 102 HARV. L. REV . 1519, 1542-46 (1989); Joshua Dressler, *When “Heterosexual” Men Kill “Homosexual” Men: Reflections On Provocation Law, Sexual Advances, and the “Reasonable Man” Standard*, 85 J. CRIM. L. & CRIMINOLOGY 726, 726-32 (1995) [hereinafter Dressler, *When “Heterosexual” Men Kill “Homosexual” Men*]; Robert Mison, *Homophobia in Manslaughter: The Homosexual Advance As Insufficient Provocation*, 80 CAL. L. REV. 133, 133-34 (1992); Martha C. Nussbaum, *“Secret Sewers of Vice”: Disgust, Bodies, and the Law*, in THE PASSIONS OF LAW 30, 35-38 (Susan Bandes ed., 1999); Christina Pei-Lin Chen, Note, *Provocation’s Privileged Desire: The Provocation Doctrine, “Homosexual Panic,” and the Non-Violent Unwanted Sexual Advance Defense*, 10 CORNELL J. L. & PUB. POL’Y 195, 201-03, 210-13 (2000); Kara S. Suffredini, Note, *Pride and Prejudice: The Homosexual Panic Defense*, 21 B.C. THIRD WORLD L.J. 279, 279, 302 (2001).
+
+<sup>11</sup> Gay panic arguments have been called the Homosexual Advance Defense, the Homosexual Panic Defense, and the Homosexual Rage Defense.
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:06:44" %}
+{% assign timecode = "00:07:32"}
 
 <compare>
-<james {% include timecode %}>
+<credits class="opening">
 
-A common defense strategy to use is the concept of queer panic. There is no officially recognized queer panic defense in the legal books, but many use the term to refer to defense strategies that rely on the notion that a criminal defendant should be excused or even justified if their violent actions were in response to the perceived sexual advances of a queer person.
+> James Somerton
+Presents
 
-</james>
-<from></from>
-</compare>
+> Written by
+James Somerton
 
-{% assign timecode = "00:07:09" %}
+> Based on the reporting of:
 
-<compare>
-<james {% include timecode %}>
+> Graham Brunk
 
-Such strategies include using queer panic to bolster claims of temporary insanity, diminished capacity, provocation and self-defense. So let's have a look at the history of this often derided but too often successful legal defense, why it exists, why it succeeds, and what can be done about it.
+> James Polchin
 
-</james>
-<from></from>
+> Reggie
+
+> Lauren Kranc
+
+> Jeremy Gray
+
+> Malaika Fraley
+
+> Melanie Asmar
+
+> Yanan Wang
+
+> Produced by:
+[Eight patron names]
+
+> Executive Producers:
+[Six patron names]
+
+> Irresistible Impulse
+
+> The Sad History of the Queer Panic Defense in America
+
+</credits>
+<comment>
+
+Based on the plagiarised sources, "Reggie" refers to the man behind the podcast "Panic Queer True Crime."
+
+James does not credit Cynthia Lee, Jennifer Berube, Scott W. Hoffman, Erica Kelley (Southern Fried True Crime), Steve Joynt & Phillip Hoffman, and Julie Compton. As well as Wikipedia, Murderpedia, T-Vox ("Trans Wikipedia"), VICE news, and the Human Rights Campaign.
+
+Jeremy Gray did write an article on Billy Jack Gaither, but Somerton plagiarised the Gaither section from Erica Kelley's podcast, not Gray's article.
+
+</comment>
 </compare>
 
 {% assign timecode = "00:08:38" %}
@@ -235,87 +306,194 @@ Such strategies include using queer panic to bolster claims of temporary insanit
 <compare>
 <james {% include timecode %}>
 
-The use of queer panic in murder cases has its roots in theories of latent homosexuality as a mental disorder. The term homosexual panic was coined by Dr. Edward Kemp, a clinical psychiatrist, in 1920 after treating many patients who exhibited similar characteristics. Kemp came to the conclusion that certain troubled individuals who thought of themselves as heterosexual males were actually latent homosexuals.
+<mark>The use of queer panic in murder cases has its roots in theories of latent homosexuality as a mental disorder. The term homosexual panic was coined by Dr. Edward Kempf, a clinical psychiatrist, in 1920. After treating many patients who exhibited similar characteristics, Kempf came to the conclusion that certain troubled individuals who thought of themselves as heterosexuals were actually latent homosexuals. These individuals suffered from an internal conflict between their feelings of attraction to people of the same sex and societal views of such feelings as perverse. They also experienced a heightened sense of anxiety in same sex environments, caused by this tension.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.482-483
+
+I. HISTORICAL ORIGINS OF THE CONCEPT OF GAY PANIC
+
+<mark>The use of gay panic in murder cases has its roots in theories about latent homosexuality as a mental disorder. The term “homosexual panic” was coined by Dr. Edward Kempf, a clinical psychiatrist, in 1920.<sup>37</sup> After treating many patients who exhibited similar characteristics, Kempf came to the conclusion that certain troubled individuals who thought of themselves as heterosexuals were actually latent homosexuals.<sup>38</sup> These individuals suffered from an internal conflict between their feelings of attraction to individuals of the same sex and societal views of such feelings as perverse.<sup>39</sup> They also experienced a heightened sense of anxiety in same-sex environments, caused by this tension</mark> between their true feelings of attraction to members of the same sex and what they perceived as the socially acceptable feelings they were supposed to have — attraction to members of the opposite sex.<sup>40</sup>
+
+<footer>
+
+<sup>37</sup> KEMPF, *supra* note 19, at 477; see also Comstock, *Dismantling the Homosexual Panic Defense*, *supra* note 10, at 82 (citing KEMPF, *supra* note 19, at 477).
+
+<sup>38</sup> KEMPF, *supra* note 19, at 477-515.
+
+<sup>39</sup> *Id.*
+
+<sup>40</suo> *Id.*
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:09:06" %}
+{% assign timecode = "00:09:23" %}
 
 <compare>
 <james {% include timecode %}>
 
-These individuals suffered from an internal conflict between their feelings of attraction to people of the same sex and societal views of such feelings as perverse. They also experienced a heightened sense of anxiety in same sex environments, caused by this tension. According to Kemp, the male patient afflicted with homosexual panic would be attracted to same sex associations and horrified by the amorous female.
+<mark>According to Kempf, "The male patient afflicted with homosexual panic would be attracted to same sex associations and horrified by the amorous female. After heterosexual failure the patient would become anxious, depressed and sometimes suicidal. Interestingly separation from an individual of the same sex to whom the patient was attracted rather than a homosexual offence would precipitate a panicked state."</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.483
+
+<mark>According to Kempf, the male patient afflicted with homosexual panic would be attracted to same-sex associations and horrified by the amorous female.<sup>41</sup> After heterosexual failure, the patient would become anxious, depressed, and sometimes suicidal.<sup>42</sup> Interestingly, separation from an individual of the same sex to whom the patient was attracted, rather than a homosexual advance, would precipitate a panic state.<sup>43</sup></mark>
+
+<footer>
+
+<sup>41</sup> *Id.* at 511.
+
+<sup>42</sup> *Id.*
+
+<sup>43</sup> Comstock, *Dismantling the Homosexual Panic Defense*, *supra* note 10, at 87-88 (citing LELAND E. HINSIE & ROBERT J. CAMPBELL, PSYCHIATRIC DICTIONARY 348-49 (1970)).
+
+</footer>
+</from>
+<comment>
+
+James implies that this is a direct quote from Kempf, when it is a direct quote from Lee's paraphrase of Kempf's writings.
+
+</comment>
 </compare>
 
-{% assign timecode = "00:09:33" %}
+{% assign timecode = "00:09:50" %}
 
 <compare>
 <james {% include timecode %}>
 
-After heterosexual failure, the patient would become anxious, depressed and sometimes suicidal. Interestingly, separation from an individual of the same sex to whom the patient was attracted rather than a homosexual offense would precipitate a panicked state. The Diagnostic and Statistical Manual of Mental Disorders, the official list of psychiatric disorders published by the American Psychiatric Association, listed homosexual panic disorder in its 1952 edition.
+<mark>The Diagnostic and Statistical Manual of Mental Disorders, the official list of psychiatric disorders published by the American Psychiatric Association, listed homosexual panic disorder in its 1952 edition, but the term has not appeared in the manual since then.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.483
+
+<mark>The Diagnostic and Statistical Manual of Mental Disorders, the official list of psychiatric disorders published by the American Psychiatric Association, listed “Homosexual Panic Disorder” in its 1952 edition, but the term has not appeared in that Manual since then.<sup>44</sup></mark> Even in 1952, many of the standard psychiatric and psychological dictionaries did not recognize Homosexual Panic Disorder as a psychiatric disorder.<sup>45</sup>
+
+<footer>
+
+<sup>44</sup> 44 *Id.* at 83 (citation omitted).
+
+<sup>45</sup> 45 *Id.*
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:10:00" %}
+{% assign timecode = "00:10:05" %}
 
 <compare>
 <james {% include timecode %}>
 
-But the term has not appeared in the manual since then. While Kemp's original theory has been stretched almost beyond the breaking point in its use as a defense in the criminal courtroom today, modern support does exist for the idea that men who self-identify as straight and who express hostility toward queer people may actually be latent homosexuals themselves. In 1996, there was a study conducted to find out whether straight men who exhibited strong anti-gay sentiments would be aroused by gay porn.
+<mark>While Kempf's original theory has been stretched almost beyond the breaking point in its use as a defense in the criminal courtroom today, modern support does exist for the idea that men who self-identify as straight and who express hostility toward queer people may actually be latent homosexuals</mark> themselves. <mark>In 1996, there was a study conducted to find out whether straight men who exhibited strong anti-gay sentiments would be aroused by gay porn.</mark> It included 64 participants who, after much testing, were broken up into two groups, one for obvious homophobes and one for straight men who were more-or-less indifferent. A sensor was placed on the penises of each man before they were sat down to watch gay porn. The sensor recorded full erections only in the homophobic group. 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.483-484
+
+<mark>While Kempf’s original theory has been stretched almost beyond recognition in its use as a defense in the criminal courtroom today, modern support does exist for the idea that men who self-identify as heterosexual and express hostility toward gays may actually be latent homosexuals.</mark> <mark>In 1996, Henry Adams conducted a study to find out whether heterosexual men who exhibited strong anti-gay sentiments would be aroused by homosexual erotica.<sup>46</sup></mark> Adams started by measuring sixty-four Caucasian male participants’ feelings toward gays.<sup>47</sup> All participants self-identified as heterosexual.<sup>48</sup> After evaluating their responses, Adams divided the participants into two groups which he labeled “homophobic” (those who seemed hostile toward gays) and “not homophobic” (those who were not hostile toward gays). He then placed a sensor on the penises of all the participants, and measured penile response to erotic videotapes involving heterosexuals, lesbians, and gay men engaging in sexual activity. Only the men in Adams’s homophobic category showed an increase in penile erection in response to male homosexual erotic stimuli.<sup>49</sup>
+
+<footer>
+
+<sup>46</sup> Henry E. Adams et al., *Is Homophobia Associated With Homosexual Arousal?*, 105 J. ABNORMAL PSYCHOL. 440, 440 (1996); see also Michael Segell, *Homophobia Doesn’t Lie*, ESQUIRE, Feb. 1, 1997, at 35.
+
+<sup>47</sup> Adams, *supra* note 46, at 441.
+
+<sup>48</sup> *Id.*
+
+<sup>49</sup> *Id.* at 442-43. In contrast, heterosexual women do not appear to display the same kind of physiological bias against gay men as heterosexual men. Amanda L. Mahaffey et al., *Sex Differences in Affective Responses to Homoerotic Stimuli Evidence for an Unconscious Bias Among Heterosexual Men but Not Heterosexual Women*, 34 ARCHIVES OF SEXUAL BEHAV. 537, 543-44 (2005). In another study, Jeffrey Bernat measured physical aggression toward gay and straight individuals after self-identified heterosexual college males viewed a homoerotic videotape. Jeffrey A. Bernat, *Homophobia and Physical Aggression Toward Homosexual and Heterosexual Individuals*, 110 J. ABNORMAL PSYCHOL. 179, 179 (2001). Bernat found that after watching the video, the homophobic males were significantly more aggressive toward gay male opponents than the non-homophobic men. *Id.* at 185. It is not clear whether these men were actually unable to control their aggressive behavior or whether they simply chose not to do so.
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:10:30" %}
+{% assign timecode = "00:10:51" %}
 
 <compare>
 <james {% include timecode %}>
 
-It included 64 participants who, after much testing, were broken up into two groups one for obvious homophobes and one for straight men who were more or less indifferent. A sensor was placed on the penises of each man before they were sat down to watch gay porn. The censor recorded full erections only in the homophobic group. Kemp's study has since been used to back up the use of the queer panic defense that latent homosexuality is in and of itself a mental disorder.
+Kempf's study has since been used to back up the use of the queer panic defense that latent homosexuality is in and of itself a mental disorder, therefore excusing the defendant as being not in control of their own faculties. By using the gay panic defense, they are essentially admitting to be latently queer themselves. A nuance many of the defendants, I'm sure, are unaware of. 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.484-485
+
+Even if some self-identified straight men who express strongly negative feelings about homosexuality are actually latent homosexuals repressing their own homoerotic desires, the idea that gay panic should excuse the killing of a gay man is problematic for several reasons. First, treating gay panic as a mental disorder suggests that homophobia<sup>50</sup> linked to latent homosexuality is a mental illness.<sup>51</sup> Studies, however, indicate that negative attitudes about homosexuality tend to come from two sources: sexual conservatism and prejudice.<sup>52</sup> Although some mental health practitioners might feel otherwise,<sup>53</sup> sexually conservative individuals and prejudiced individuals are not necessarily mentally ill.
+
+</from>
+<comment> 
+
+James seems to be taking the "latent homosexuality is a mental illness" fragment and running with it. First of all, that wasn't Kempf's study, it was Henry Adams' study, Kempf just had theories based on his practice. Second of all, the study, which was from 1996, has not been used to argue that "latent homosexuality is a mental illness," because homosexual panic and homosexuality have not been considered mental disorders, at least in the DSM, since the early 70s. [Homosexual panic, as a disorder, and the homosexual panic defense, are distinct, because a person using the homosexual panic defense is typically arguing *temporary* insanity (or provocation or self defense), not that they have a mental illness](https://en.wikipedia.org/wiki/Gay_panic_defense#Use_of_the_gay_panic_defense). I guess you *could* argue that people who use the gay panic defense are admitting to being latently queer, based on the term's origin, but that's really a stretch, and it's pretty homophobic to imply that everyone who uses the gay panic defense is gay themselves. Or maybe he's just saying it's ironic that a heterosexual homophobe is accidentally admitting to being gay, I don't know.
+
+</comment>
 </compare>
 
-{% assign timecode = "00:10:59" %}
+{% assign timecode = "00:11:15" %}
 
 <compare>
 <james {% include timecode %}>
 
-Therefore, excusing the defendant as being not in control of their own faculties by using the gay panic defense, they are essentially admitting to be latently queer themselves. A nuance many of the defendants, I'm sure, are unaware of. Gay panic in and of itself is a useless defense. It must be attached to something more meaty, something you can win over a jury with excuse or justification.
+Gay panic in and of itself is a useless defense. It must be attached to something more meaty, something you can win over a jury with. 
+
+<mark>Excuse or justification. [Title card with A|Excuse or justification appears.]</mark> <mark>An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.489
+
+<mark>*A. Excuse or Justification?*</mark>
+
+A preliminary question is whether gay panic, if allowed as a defense argument, should be recognized as an excuse or a justification. An excuse defense is one in which the actor’s conduct is viewed as wrongful, but the actor himself is not seen as morally blameworthy.<sup>75</sup> A justification defense, in contrast, focuses on the actor’s conduct more than the individual characteristics of the actor.<sup>76</sup> A justification defense says the actor’s conduct was appropriate under the circumstances.<sup>77</sup> Examples of excuse defenses include insanity, duress, and intoxication. Necessity, self-defense, and defense of others are usually considered justification defenses.
+
+<footer>
+
+<sup>75</sup> Dressler, *When “Heterosexual” Men Kill “Homosexual” Men*, *supra* note 10, at 763 n.17 (“[A]n excuse is in the nature of a claim that although the actor has harmed society, she should not be blamed . . . for causing that harm . . . . [A]n excuse negates the moral blameworthiness of the actor for causing the harm.”).
+
+<sup>76</sup> GEORGE FLETCHER, RETHINKING CRIMINAL LAW 759 (1978) (“A justification speaks to the rightness of the act . . . .”); Joshua Dressler, *New Thoughts About the Concept of Justification in the Criminal Law: A Critique of Fletcher’s Thinking and Rethinking*, 32 UCLA L. REV. 61, 66, 68 n.37 (1984) (discussing distinction between justifications and excuses).
+
+<sup>77</sup> FLETCHER, *supra* note 76, at 759 (“A justification speaks to the rightness of the act.”).
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:11:26" %}
+{% assign timecode = "00:11:47" %}
 
 <compare>
 <james {% include timecode %}>
 
-An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances. Truthfully, it's difficult to argue that queer panic should be called either a justification or an excuse.
+Truthfully, <mark>it's difficult to argue that queer panic should be called either a justification or an excuse. Justification suggests the defendant did the right thing in killing the victim, that he did what society would have wanted him to do.</mark> And <mark>an excuse defense suggests that the killer is not as morally blameworthy</mark> <mark>as he would have been had he killed a straight man or a cisgender woman.</mark> Both, in my humble opinion, are bullshit. <mark fc=false>Even most defense attorneys know that, so they very rarely try to argue for either justification or excuse.</mark>
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:11:52" %}
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.489
+-490
 
-<compare>
-<james {% include timecode %}>
+<msrk>It is difficult to argue that gay panic should be called either a justification or an excuse. Justification suggests the defendant did the right thing or took the course of action that society would have wanted him to take.</mark> A man who kills a gay man just because that man made a pass at him does not act the way a civilized society should want its men to act.<sup>78</sup> Gay panic should not be recognized as a justification defense.
 
-Justification suggests the defendant did the right thing in killing the victim, that he did what society would have wanted him to do. And an excuse defense suggests that the killer is not as morally blameworthy as he would have been had he killed a straight man or a cisgender woman. Both, in my humble opinion, our bullshit. Even most defense attorneys know that, so they very rarely try to argue for either justification or excuse.
+<mark>An excuse defense suggests that the defendant is not as morally blameworthy</mark> as one who does the same action without the excusing condition. It is difficult to say that the man who kills a gay man in response to a non-violent homosexual advance is not as morally blameworthy <mark>as someone who kills for any other reason.</mark>
 
-</james>
-<from></from>
+<footer>
+
+<sup>78</sup> If the victim does more than just make a pass — if, for example, the victim tries to forcibly rape the defendant, then ordinary self-defense principles would allow the defendant to protect himself from the imminent threat of grievous bodily injury.
+
+</footer>
+</from>
+<comment> 
+
+No, attorneys have to argue excuse or justification, or they're not going to get anywhere with a gay panic defense. The text literally says that out of the gay panic defense arguments, "provocation is a partial excuse defense, self-defense is a justification defense, and insanity and diminished capacity are excuse defenses." (Lee 490)
+
+</comment>
 </compare>
 
 {% assign timecode = "00:12:18" %}
@@ -323,21 +501,40 @@ Justification suggests the defendant did the right thing in killing the victim, 
 <compare>
 <james {% include timecode %}>
 
-Instead, they lean toward insanity. Heterosexual men charged with killing gay men have argued that the victim's homosexual advances triggered in them a violent, psychotic reaction, causing them to lose control over their mental abilities. But always, always in a temporary manner, they were perfectly sane again after they were done killing them. There are several problems with defense attempts to claim insanity linked to gay panic.
+Instead, they lean toward <mark>insanity. [Title card with B| Insanity appears.]</mark> <mark>Heterosexual men charged with killing gay men have argued that the victim's (homo)sexual advances triggered in them a violent psychotic reaction, causing them to lose control over their mental abilities.</mark> But always, always in a temporary manner. They were perfectly sane again after they were done killing them. 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.491
+
+<mark>*B. Insanity*</mark>
+
+[...] <mark>Heterosexual men charged with killing gay men have argued that the victim’s (homo)sexual advance triggered in them a violent psychotic reaction, causing them to lose control over their mental abilities.<sup>84</sup></mark>
+
+<footer>
+
+<sup>84</sup> Osborne, *supra* note 10, at 4.
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:12:46" %}
+{% assign timecode = "00:12:42" %}
 
 <compare>
 <james {% include timecode %}>
 
-First to be found Ngai not guilty by insanity. A defendant must not have understood the nature of his act or appreciated that what he was doing was wrong. In other words, either he did not know that he was stabbing, choking or kicking the victim, or he did not know that what he was doing was wrong. The male defendant claiming that a homosexual advance made him lose his self-control often cannot claim convincingly that he did not know that he was attacking the victim or that he did not understand that what he was doing was illegal or at least immoral.
+<mark>There are several problems with defense attempts to claim insanity linked to gay panic. First to be found NGI, not guilty by insanity, a defendant must not have understood the nature of his act or appreciated that what he was doing was wrong. In other words, either he did not know that he was stabbing, choking, or kicking the victim, or he did not know that what he was doing was wrong. The male defendant claiming that a homosexual advance made him lose his self-control often cannot claim convincingly that he did not know that he was attacking the victim or that he did not understand that what he was doing was illegal or at least immoral.</mark>
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.491
+
+<mark>There are several problems with defense attempts to claim insanity linked to gay panic. First, to be found not guilty by reason of insanity, a defendant must not have understood the nature and quality of his act or appreciated that what he was doing was wrong. In other words, either he did not know that he was stabbing, choking, or kicking the victim, or he did not know that it was wrong to do so. The male defendant claiming that a homosexual advance made him lose his self-control often cannot claim convincingly that he did not know that he was kicking, beating, or punching the victim or that he did not understand what he was doing was illegal or immoral.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:13:20" %}
@@ -345,21 +542,54 @@ First to be found Ngai not guilty by insanity. A defendant must not have underst
 <compare>
 <james {% include timecode %}>
 
-Second, to be found, Ngai, the defendant, must have been suffering from a mental disease or defect at the time of his act. The defendant claiming that a gay or trans advance made him crazy often cannot prove he was suffering from a mental illness or defect at the time of his act. Because the American Psychiatric Association does not recognize homosexual panic disorder as an actual disorder, they do have one other option, though diminished capacity.
+<mark>Second, to be found NGI, the defendant, must have been suffering from a mental disease or defect at the time of his act. The defendant claiming that a gay or trans advance made him crazy often cannot prove he was suffering from a mental illness or defect at the time of his act because the American Psychiatric Association does not recognize homosexual panic disorder as an actual disorder.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.492
+
+<mark>Second, to be found not guilty by reason of insanity, the defendant must have been suffering from a mental disease or defect at the time of his act. The male defendant claiming that a homosexual advance made him crazy often cannot prove he was suffering from a mental disease or defect at the time of his act because the American Psychiatric Association does not recognize Homosexual Panic Disorder as a mental disease.<sup>85</sup></mark> Additionally, the American Psychiatric Association no longer considers homosexuality a mental disorder.<sup>86</sup> This makes it difficult for a defendant to claim latent homosexuality as a mental disease or defect.
+
+<footer>
+
+<sup>85</sup> Comstock, *Dismantling the Homosexual Panic Defense*, *supra* note 10, at 83.
+<sup>86</sup> Am. Psychiatric Ass’n, *supra* note 54, at 1-3.
+
+</footer>
+</from>
 </compare>
 
-{% assign timecode = "00:13:49" %}
+{% assign timecode = "00:13:45" %}
 
 <compare>
 <james {% include timecode %}>
 
-Another hook for defendants charged with murdering a gay man or trans woman is the diminished capacity defense. Diminished capacity. A partial defense to murder generally requires proof that the defendant was acting under the influence of a psychological illness that made it impossible for him to premeditate the murder. Unlike excuse, justification or insanity. This argument will not have you set free, but it will at the very least remove the possible charge of first degree murder, which could result in life in prison or the death penalty.
+They do have one other option though: <mark>diminished capacity. [Title card appears with C| Diminshd Capacity appears.]</mark> <mark>Another hook for defendants charged with murdering a gay man or trans woman is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a psychological illness that made it impossible for him to premeditate the murder.</mark> Unlike excuse, justification or insanity, this argument will not have you set free, but it will at the very least remove the possible charge of first degree murder, which could result in life in prison or the death penalty.
 
 </james>
-<from></from>
+<from>
+
+https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.494-495
+
+<mark>*C. Diminished Capacity*</mark>
+
+Another doctrinal hook for defendants charged with murdering a gay man is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a mental disease or defect which affected his capacity to premeditate and deliberate or form the requisite intent to kill.</mark> There are two variants of the diminished capacity defense. Under the mens rea variant, “evidence that [the defendant] suffered from a mental disease or defect at the time of his conduct is admissible whenever it is relevant to prove that he lacked a mental state that is an element of the charged offense.”<sup>103</sup> Under the partial responsibility variant, the charge is reduced from murder to manslaughter because the defendant is seen as “less blameworthy and therefore less deserving of punishment, than a killer who acts with a normal state of mind.”<sup>104</sup>
+
+<footer>
+
+<sup>103</sup> JOSHUA DRESSLER, UNDERSTANDING CRIMINAL LAW § 26.02[B][2], at 320 (3d ed.
+2001) [hereinafter DRESSLER, UNDERSTANDING CRIMINAL LAW].
+
+<sup>104</sup> *Id.* § 26.03[A][2], at 325-28.
+
+</footer>
+</from>
+<comment>
+
+The other defenses (those being self-defense, provocation, and insanity, not excuse, justification and insanity) won't necessarily have you set free either. [The gay panic defense typically results in a conviction under a lesser charge, not an acquittal.](https://en.wikipedia.org/wiki/Gay_panic_defense#Use_of_the_gay_panic_defense)
+
+</comment>
 </compare>
 
 {% assign timecode = "00:14:23" %}
@@ -367,21 +597,33 @@ Another hook for defendants charged with murdering a gay man or trans woman is t
 <compare>
 <james {% include timecode %}>
 
-Now that we've taken a law class, it's time to take a history class. David Kammerer Though you likely know the names Jack Kerouac and William Burroughs as literary giants, the first time their names appeared in print was when they were arrested as material witnesses to the murder of David Kammerer by Lucien Carr. David Kammerer and Carr had met in Saint Louis at a summer camp for boys when Camara was an instructor, and Carr, a student from a middle class family.
+Now that we've taken a law class, it's time to take a history class. David Kammerer. [David Kammerer, 1944 appears as a title card.] Though you likely know the names Jack Kerouac and William Burroughs as literary giants, <mark>the first time their names appeared in print was</mark> <mark>when they were arrested as material witnesses to the murder</mark> of David Kammerer by Lucien Carr.
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 1
+
+<mark>The first time Jack Kerouac’s name appeared in the press was</marl> August 17, 1944, <mark>when he and William Burroughs were arrested as material witnesses to murder.</mark> While the headlines were consumed that day with news of the Allies’ successful landing on the southern coast of France, the murder was sensational enough to make the front page of the New York Times: “Columbia Student Kills Friend and Sinks Body in Hudson River.”
+
+</from>
 </compare>
 
-{% assign timecode = "00:14:52" %}
+{% assign timecode = "00:14:45" %}
 
 <compare>
 <james {% include timecode %}>
 
-Kammerer earned a Ph.D. in English and had taught literature and physical education at Washington University. What started as an infatuation then turned into a decade long attraction. He followed the young Carr across the country, from Andover to the University of Chicago to Maine, before moving to New York City. When Carr entered Columbia University. The Burroughs biographer, Ted Morgan, related that while many believed these moves reflected Carr's attempts to get away from Kammerer, others were dubious.
+David Kammerer and Carr had met in Saint Louis at a summer camp for boys when Kammerer was an instructor, and Carr, a student from a middle class family. Kammerer earned a Ph.D. in English and had taught literature and physical education at Washington University. What started as an infatuation then turned into a decade long attraction. He followed the young Carr across the country, from Andover to the University of Chicago to Maine, before moving to New York City. When Carr entered Columbia University. The Burroughs biographer, Ted Morgan, related that while many believed these moves reflected Carr's attempts to get away from Kammerer, others were dubious.
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 6 (after first page break)
+
+Kammerer and Carr had met in St. Louis at a summer camp for boys, where Kammerer was an instructor and Carr a student. From a middle-class family, Kammerer earned a Ph.D. in English, and had taught literature and physical education at Washington University. What started as an infatuation turned into a decade-long attraction. He followed the young Carr across the country, from Andover, to the University of Chicago, to Bowdoin College in Maine, before moving to New York City when Carr entered Columbia University. The Burroughs biographer Ted Morgan related that while many believed these moves reflected Carr’s attempt to “get away from Kammerer,” others were dubious, for “when you saw them together, they seemed to be the best of friends, drinking and horsing around.” In his police confession, Carr claimed that over the years of their acquaintance, Kammerer had several times “made improper advances to him, but that he had always rebuffed the older man.”
+
+</from>
 </compare>
 
 {% assign timecode = "00:15:22" %}
