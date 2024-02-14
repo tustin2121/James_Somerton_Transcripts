@@ -303,7 +303,7 @@ Though shipping has its roots in antiquity, there is a somewhat concrete instanc
 <from></from>
 <clip {% include citation for=page.cite.clips.the_lego_movie %}>
 
-<ins>LEGO figure: FRIENDSHIP!!!</ins>
+<ins>Benny: SPACESHIP!!!</ins>
 
 </clip>
 <james {% include timecode %}>
