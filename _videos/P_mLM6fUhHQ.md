@@ -1028,16 +1028,20 @@ However, <mark>with the absence of explicit evidence of graphic sexual activity 
 
 <mark>To some</mark> historians, <mark>it is the love that launched a thousand warriors, and representation that survived the test of time. To other</mark> more pigheaded historians, <mark>it is</mark> nothing but a <mark>friendship</mark>. A very good friendship. A friendship which was very... beneficial.
 
+</james>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 2" %}>
+
+<mark>To some</mark>, <mark>it is the love that launched a thousand warriors and a representation that survived the test of time. To others</mark>, <mark>it is</mark> the intimate <mark>friendship</mark> which brought the wrath of Achilles upon the Trojan walls. But how has homophobia influenced the reading of the Iliad? 
+
+</from>
+<james {% include timecode %}>
+
 <mark>However, looking at the relationship between Achilles and Patroclus, scholars</mark> <mark num=6>have discussed</mark> <mark num=7>over the years</mark> <mark>whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed".</mark> <u>[Ironic stretching, forced smile]</u>
 
 <mark>So how did this affect the current representation of the pair?</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.achilles at="¶ 2-4" %}>
-
-<mark>To some</mark>, <mark>it is the love that launched a thousand warriors and a representation that survived the test of time. To others</mark>, <mark>it is</mark> the intimate <mark>friendship</mark> which brought the wrath of Achilles upon the Trojan walls. But how has homophobia influenced the reading of the Iliad? 
-
-Pederasty was an ancient custom wherein an erastes (an older male in his mid-to-late twenties) and an eromenos (a younger male past puberty but under the age of eighteen) would partake in the pleasures of an intellectual and/or sexual relationship. This was seen to be beneficial to Greek society since the erastes ideally had a teacher-like relationship with the eromenos. This was modelled in the relationship of Zeus and Ganymede, which was ideal due to their age difference; Ganymede was a beautiful boy, granted immortality in exchange for entertaining Zeus.  
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 4" %}>
 
 <mark>However, when examining the relationship between Achilles and Patroclus, scholars</mark> <mark num=7>over the centuries</mark> <mark num=6>have debated</mark> <mark>whether their relationship fits with our conception of homosexuality today – many scholars argue that the Greeks did not have the same labels for sexuality that we do now. Many argue that Homer’s treatment of Achilles and Patroclus’ relationship in the Iliad is ambiguous. It is unclear whether they were lovers who slept together, or were simply best friends that shared a tent.</mark> <mark>So, how has this influenced modern depictions of the pair?</mark> 
 
@@ -1294,7 +1298,18 @@ But we seem to be making *some* progress? Whether historians like it or not.
 <compare>
 <james {% include timecode %}>
 
-*The Favorite*, directed by Yorgos Lanthimos, with the BAFTA and oscar winning Olivia Coleman in the role of Queen Anne. The film focuses on the relationships between Anne and her ladies in waiting: Sarah Duchess of Marlborough, played by Rachel Weisz, and Abigail Masham, played by Emma Stone.
+<mark>*The Favorite*, directed by Yorgos Lanthimos, with the BAFTA and oscar winning Olivia Coleman in the role of</mark> <mark>Queen Anne. The film focuses on the relationships between Anne and her ladies in waiting: Sarah Duchess of Marlborough, played by</mark> <mark>Rachel Weisz, and Abigail Masham, played by Emma Stone.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 22" %}>
+
+And so we come to the second movie I saw: <mark>*The Favourite*, directed by Yorgos Lanthimos, with the Bafta and Oscar-winning Olivia Colman in the role of</mark> the busty <mark>Queen Anne. The film focuses on the relationships between Anne and her ladies-in-waiting - Sarah, Duchess of Marlborough (played by</mark> the fabulous <mark>Rachel Weisz) and Abigail Masham (Emma Stone).</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 <mark>*The Favorite* is queer history in *two* senses of the term, since it depicts what <span stat:id="baa">by all accounts</span> was a real queer relationship between Queen Anne and Lady Sarah Churchill, an 18th century forbearer to Winston. While also extrapolating on what we know, to actively create the relationship's more intimate moments. Queering history.</mark>
 
