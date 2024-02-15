@@ -10,11 +10,17 @@ title: "Unrequited: The History of Queer Baiting"
 status: Finished
 aka: !!seq
 topics: !!seq
+  - The Hays Code
+  - Rebel Without A Cause
+  - Ben-Hur | Children's Hour
+  - Merlin | Sherlock | Cursed Child
+  - Teen Wolf | Frozen | Star Wars
+  - Ocean's Eleven | Captain America
 links: !!seq
   - "https://www.youtube.com/watch?v=cLWZV-SHmeY"
   - "https://vimeo.com/907695863"
   - "https://web.archive.org/web/20200703125317/https://www.youtube.com/watch?v=m8DRQ9-sCSI&gl=US&hl=en"
-# description: "a video essay on...?"
+description: "a video essay repackaging The Celluloid Closet and Alexander Avila's videos."
 notes:
   - visual
   - hbomb
@@ -1047,19 +1053,23 @@ And when Merlin goads Arthur into revealing his true feelings about Gwen,</span>
 
 jeez I mean even when Arthur's talking about Gwen it sounds like he's talking about Merlin.
 
-"Just say it!" 
-
-"I can't!" 
-
-"How can i admit that..." "I think about it all the time?" 
-
-"Merlin" 
-
-"Or that I care about her more than anyone?"
-
-"How can I admit that..." "I don't know what I'd do if any harm comes to her."
-
-"To admit my feelings knowing that..." "Hurts too much"
+> "Just say it!" 
+> 
+> "I can't!" 
+> 
+> "How can i admit that..." "I think about it all the time?" 
+> 
+> <u>[Spliced in clip]:</u> "Merlin" 
+> 
+> "Or that I care about her more than anyone?"
+> 
+> <u>[Spliced in clip]</u>
+> 
+> "How can I admit that..." "I don't know what I'd do if any harm comes to her."
+> 
+> <u>[Spliced in clip]</u>
+> 
+> "To admit my feelings knowing that..." "Hurts too much"
 
 </from>
 {% assign timecode = "41:00" %}
@@ -1073,15 +1083,15 @@ Arthur: "I can't!"
 
 Arthur: "How can I admit that I think about her all the time?"
 
-<u>[Sliced in clip]:</u> Arthur (in bed): "Mer..."
+<u>[Spliced in clip]:</u> Arthur (in bed): "Mer..."
 
 Arthur: "Or that I care about her more than anyone."
 
-<u>[Sliced in clip]:</u> Woman (voice over): "Arthur's strangely fond of the boy."
+<u>[Spliced in clip]:</u> Woman (voice over): "Arthur's strangely fond of the boy."
 
 Arthur: "How can I admit that... I don't know what I'll do if any harm comes?"
 
-<u>[Sliced in clip]:</u> Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
+<u>[Spliced in clip]:</u> Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
 
 Arthur: "To admit my feelings, knowing that... hurts... too much."
 
@@ -1097,33 +1107,33 @@ But even Gwen's not blind to how Arthur feels about Merlin.
 
 And the comparisons to Gwen don't end there. When Gwen's bro Elliot is gossiping with her about Arthur he uses the fact that Arthur would rescue her, a servant, as evidence that Arthur loves her. 
 
-Gwen: "Maybe Arthur can think of something."
-
-Ellion: "Arthur?" 
-
-Gwen: "Prince Arthur." "I came with him."
-
-Ellion: "Prince Arthur of Camelot?" 
-
-Gwen: "Yes, Ellion, Prince Arthur of Camelot." 
-
-Ellion: "Why would he want to help you?"
-
-Gwen: "Why shouldn't he?" 
-
-Ellion: "Ha. Cause he's a prince and you're a servant?" 
-
-Gwen: "He doesn't care about that sorta thing, he's..." "You know." "Chivalrous." 
-
-Ellion: "Alright." "So he's like that with all the maids in Camelot?"
-
-Gwen: "No." 
-
-<u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
-
-"Yes." "I mean..."
-
-<u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
+> Gwen: "Maybe Arthur can think of something."
+> 
+> Ellion: "Arthur?" 
+> 
+> Gwen: "Prince Arthur." "I came with him."
+> 
+> Ellion: "Prince Arthur of Camelot?" 
+> 
+> Gwen: "Yes, Ellion, Prince Arthur of Camelot." 
+> 
+> Ellion: "Why would he want to help you?"
+> 
+> Gwen: "Why shouldn't he?" 
+> 
+> Ellion: "Ha. Cause he's a prince and you're a servant?" 
+> 
+> Gwen: "He doesn't care about that sorta thing, he's..." "You know." "Chivalrous." 
+> 
+> Ellion: "Alright." "So he's like that with all the maids in Camelot?"
+> 
+> Gwen: "No." 
+> 
+> <u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
+> 
+> "Yes." "I mean..."
+> 
+> <u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
 
 </from>
 <clip visual={{atg}} on="16:56" off="17:18" {% include citation for=page.cite.clips.merlin %}>
@@ -1189,28 +1199,28 @@ When merlin is presumed to be dead in "A Servant of two masters" Arthur cannot a
 
 But Arthur's giving up with Arthur dying Merlin's hope for himself and the future dies as well. Arthur starts to say <mark num=1>his last words and they're for no one else but Merlin.</mark> 
 
-Merlin: *panting*
-
-Arthur: "All your magic, Merlin..." "can't save my life."
-
-Merlin: "I can! I'm not going to leave you!"
-
-Arthur: "Just... just... "Just hold me..." 
-
-Merlin: *heavy panting* 
-
-Arthur: "Please."
+> Merlin: *panting*
+> 
+> Arthur: "All your magic, Merlin..." "can't save my life."
+> 
+> Merlin: "I can! I'm not going to leave you!"
+> 
+> Arthur: "Just... just... "Just hold me..." 
+> 
+> Merlin: *heavy panting* 
+> 
+> Arthur: "Please."
 
 I think that the speaks for itself. <mark num=2>Wanting to be held by your lover as you die.</mark>
 
 </from>
 <clip visual={{atg}} on="30:50" {% include citation for=page.cite.clips.merlin %}>
 
-Arthur: "All your magic, Merlin, you... can't save my life."
-
-Merlin: "I can. I'm not going to lose you."
-
-Arthur: "just-- just-- just hold me, please."
+> Arthur: "All your magic, Merlin, you... can't save my life."
+> 
+> Merlin: "I can. I'm not going to lose you."
+> 
+> Arthur: "just-- just-- just hold me, please."
 
 </clip>
 {% assign timecode = "43:03" %}
@@ -1625,6 +1635,7 @@ Sherlock: "Ah. He's bouncing around him like a puppy."
 
 </james>
 <comment>
+{% include header for=tustin %}
 
 AreTheyGay goes into Mary, but not for very long or this deep. So this must be sourced from elsewhere.
 
@@ -1731,7 +1742,7 @@ Both Scorpius and Albus don't live up to other people's expectations. <mark>but 
 >
 > The two boys awkwardly dislocate.
 
-Albus *will not* hug his father or family. But he'll hug Scorpius. F<mark>iercely. With passion.</mark>
+Albus *will not* hug his father or family. But he'll hug Scorpius. <mark>Fiercely. With passion.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(3:19)" %}>
