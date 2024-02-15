@@ -19,6 +19,7 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vQ6QAGzhovwRWqhvTU5uAskFFLnlsXxvygZ0z8g1Z919BWb3BPtJGO7ZaIv4vRyGsYON6_W1hhNWk1A/pub
   citation: 
     - "[/u/francistimestwo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcaaf2k)"
 

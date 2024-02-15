@@ -18,6 +18,10 @@ notes:
 
 # https://archive.org/details/monstersincloset0000bens
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vT027-e5QGMVla04UOy3Kekex88muMXev8P3-9DqxkSJH1y3P8qyXFJLIsFT2H6fRkDb8_8AdHI8jKM/pub
+  
 cite:
   clips: !!map
   yikes: !!map

@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-04-17
 title: The Secret Crimes of a Dying Franchise
 runtime: 28:11
-status: Complete
+status: Finished
 aka: !!seq
   - "Let It Die (Thumbnail)"
 topics: !!seq
@@ -403,7 +403,7 @@ So the spoken message and the visual message seem disjointed. We’re meant to h
 <compare>
 <credits class="closing" {% include timecode %}>
 
-List of patreons scroll past to music. (There's *eight minutes* of this.)
+<u>[List of patreons scroll past to music. (There's *eight minutes* of this.)]</u>
 
 </credits>
 </compare>

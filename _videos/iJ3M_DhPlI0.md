@@ -29,6 +29,8 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRLyIjRkkVUNd6-w4q7CtjTusYnT1CCi80dsTGQaVonSkdaY0boPizU42-JaLlL1coApxK9HtRvoD5M/pub
   citation:
     - "[/u/heyheyitsmo](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6glja/)" #processed
     - "[/u/PrestigiousWhiskers](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kcc8szv/?context=3)" #processed

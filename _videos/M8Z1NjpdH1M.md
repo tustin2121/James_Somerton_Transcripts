@@ -34,6 +34,7 @@ contributors:
   citations:
     - "[Hbomberguy's plagiarism video](https://www.youtube.com/watch?v=yDp3cB5fHXQ)"
     - $cite$lvence
+    - "[SobbingOntoTheColdLinoleumFloor](https://discord.com/channels/1180822793420554241/1180822793420554244/1206981947373527081)"
 
 cite:
   clips: !!map
@@ -57,15 +58,16 @@ cite:
     fear_unknown: "James misinterprets an abstract of a paper and assumes that the fear of the unknown is a cause of anxiety around the world."
   plagiarized: !!map
     andrew_park: { color: 2, short: "(Park, 2014)", full: "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", url: "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820" }
+    wiki_pagan_lgbt: { color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Jun 30). <em>Modern pagan views on LGBT people</em> [Article]. Wikipedia. Retrieved Feb 13, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Modern_pagan_views_on_LGBT_people&oldid=965293301" }
     amanda_kohr: { color: 13, short: "(Kohr, 2020)", full: "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", url: "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend" }
     randy_shulman: { color: 3, short: "(Shulman, 2013)", full: "Shulman, R. (2013, Oct 14). <em>Queer as Carrie</em> [Article]. Metro Weekly. Retrieved on Dec 20, 2023, from", url: "https://www.metroweekly.com/2013/10/queer-as-carrie/" }
     darren_elliot_smith: { color: 6, short: "(Elliot-Smith, 2009)", full: "Elliot-Smith, D. (2009). Queering the Cult of Carrie: Appropriations of a Horror Icon in Charles Lum's Indelible. <em>Scope, Cultural Borrowings: Appropriation, Reworking, Transformation (Issue 15)</em> 138-156", url: "https://www.nottingham.ac.uk/scope/issues/2009/october-issue-15.aspx", type: "academic" }
     alejandra_gonzalez: { color: 8, short: "(Gonzalez, 2019)", full: "Gonzalez, A. (2019). <em>[Pride 2019] We Have Such Sights to Show You: Hellraiser and the Spectrum of Queerness</em> [Article]. Gayly Dreadful. Retrieved Dec 20, 2023, from", url: "https://www.gaylydreadful.com/blog/2019/6/3/we-have-such-sights-to-show-you-hellraiser-and-the-spectrum-of-queerness-pride-2019" }
     colon_arason: { color: 4, short: "(Arason, 2014)", full: "Arason, C. (2014, July) <em>Revealing the Hellbound Heart of Clive Barker's Hellraiser</em> [Article]. Off|Screen, Vol 18 (Issue 6-7). Retrieved Dec 20, 2023, from", url: "https://offscreen.com/view/hellraiser" }
-    wikipedia_jennifer: { color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948" }
+    wiki_jennifer: { color: 16, short: "(Wikipedia, 2020)", full: "Wikipedia. (2020, Sep 30). <em>Jennifer's Body</em> [Article]. Wikipedia. Retrieved Dec 26, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Jennifer%27s_Body&oldid=981175948" }
     zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
     dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
-    michaela_barton: { color: 9, short: "(Barton, )", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
+    michaela_barton: { color: 9, short: "(Barton, 2020)", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
     bart_bishop: { color: 7, short: "(Bishop, 2019)", full: "Bishop, B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/" }
     jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
     david_church: { color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows" }
@@ -98,41 +100,27 @@ Twitter: [handle]
 
 This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
 
-00:00 Introduction
-05:11 Sisters of Salem
-11:27 Bullied
-18:26 The Hellbound Heart
-26:55 A Good Girl
-36:46 The Others
-47:36 Death by Monogamy 
-53:53 Disturbia
-01:02:13 Home is Where the Hell Is
-01:11:56 Trauma
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="05:11" for="Sisters of Salem" %}  
+{% include chapter-link at="11:27" for="Bullied" %}  
+{% include chapter-link at="18:26" for="The Hellbound Heart" %}  
+{% include chapter-link at="26:55" for="A Good Girl" %}  
+{% include chapter-link at="36:46" for="The Others" %}  
+{% include chapter-link at="47:36" for="Death by Monogamy" %}  
+{% include chapter-link at="53:53" for="Disturbia" %}  
+{% include chapter-link at="01:02:13" for="Home is Where the Hell Is" %}  
+{% include chapter-link at="01:11:56" for="Trauma" %}  
 
 #Halloween #LGBT #Gay #Lesbian
 
 </credits>
-<comment>
-
-{% include chapter-link at="01:14" for="Introduction" %}  
-{% include chapter-link at="05:24" for="Sisters of Salem" %}  
-{% include chapter-link at="11:30" for="Bullied" %}  
-{% include chapter-link at="18:30" for="A Hellbound Heart" %}  
-{% include chapter-link at="26:59" for="A Good Girl" %}  
-{% include chapter-link at="36:51" for="The Others" %}  
-{% include chapter-link at="47:41" for="Death by Monogamy" %}  
-{% include chapter-link at="53:59" for="Disturbia" %}  
-{% include chapter-link at="1:02:20" for="Home Is Where the Hell Is" %}  
-{% include chapter-link at="1:12:00" for="Trauma" %}  
-
-</comment>
 </compare>
 
 {% include transcript-start %}
 
 
 <compare>
-<credits class="opening" id="this_thing">
+<credits span=2 class="opening" id="this_thing">
 
 <u>[Horror-themed opening]</u>
 
@@ -166,8 +154,7 @@ Alex London
 Society and Queer Horror
 
 </credits>
-<comment>
-{% include header for=tustin %}
+<comment {% include citation for=hbomb.video at="(2:33:53)" %}>
 
 Not included in the credits, though they should have been:
 - Andrew Park
@@ -179,17 +166,26 @@ Not included in the credits, though they should have been:
 - Rachel Brands
 - Joelle Monique
 
+</comment>
+
+<comment>
+{% include header for=tustin %}
+
+Also the following authors discovered since Hbomb's video:
+- Randy Shulman
+- Wikipedia
+
 (Also, the name is "Darren Elliott-Smith", not just "Elliot".)
 
-{% include footer-citation for=hbomb.video at="(2:33:53)" %}
 </comment>
 </compare>
+
+
 {% assign timecode = "1:14" %}
-
-<u>[Fade up on video]</u>
-
 <compare>
 <james {% include timecode %} id="para01" mid-text="Paragraph-01">
+
+<u>[Fade up on video]</u>
 
 Mankind has always found an innate horror in things that are different. An evolutionary reflex to protect itself from the things that may be dangerous to them or their loved ones. <mark fc=false>Eons ago, human beings found *Homo erectus* to be terrifying, because it was different. Leading to their assumed extinction.</mark>
 
@@ -208,12 +204,12 @@ And, the current going theory as to why they went extinct was [due to climate ch
 <james {% include timecode %}>
 
 This is not entirely unlike the reaction toward homosexuality from the heterosexual majority. Something different. Something strange. Something queer. Something that goes against what they believe to be the natural order of things. And that in and of itself is the initial seed of horror. Being afraid of things you do not understand, things that do not belong, creatures and events that go against your own survival needs. A son or daughter that bears no children could possibly lead to the end of your lineage. And what else do you exist for other than to procreate? 
-{% assign timecode = "2:15" %}
 
 </james>
 <from></from>
 </compare>
 
+{% assign timecode = "2:15" %}
 <compare>
 <james {% include timecode %}>
 
@@ -229,7 +225,6 @@ Though like many things existing before the written word, this proved to be untr
 <james {% include timecode %}>
 
 And so the queer entered into the horror canon. Centuries before hollywood even existed, before horror movies graced the silver screen, before the works of Bram Stoker and Mary Shelley sent chills down reader spines... before the people of Salem burned those accused of being witches alive. Before even the murder of Saint Sebastian.
-{% assign timecode = "3:35" %}
 
 </james>
 <comment>
@@ -242,8 +237,9 @@ James, [in a pinned comment](https://archive.is/VfDwQ#selection-7449.0-7449.232)
 </comment>
 </compare>
 
+{% assign timecode = "3:35" %}
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 The fear of the unknown, <mark fc=false>according to the American Psychological Association</mark>, is one of the most prominent causes for anxiety among people in both the first and third world.
 
@@ -253,9 +249,11 @@ The fear of the unknown, <mark fc=false>according to the American Psychological 
 
 The closest source found was [this citation](https://psycnet.apa.org/record/2016-17121-001) of an [article](https://www.sciencedirect.com/science/article/pii/S0887618516300469) that talks about fear of the unknown being a fundamental fear. It does not appear to make any claims about fear of the unknown being the most prominent causes for anxiety in any part of the world. The paper *does* posit that the fear of the unknown is possibly a fundamental fear that underlies anxiety, but it doesn't claim that this fear causes a diagnosis of anxiety.
 
+</comment>
+<comment>
 {% include header for=lvence link="https://discord.com/channels/1180822793420554241/1180822793420554244/1190157790329708635" %}
 
-> First of all he omits the author name, second it was NOT published by the APA, but instead Elsevier. I assume he read the summary from this website and immediately thought if it's from the APA website APA wrote it.
+First of all he omits the author name, second it was NOT published by the APA, but instead Elsevier. I assume he read the summary from this website and immediately thought if it's from the APA website APA wrote it.
 
 <footer>Carleton, R.N. (2016). Fear of the unknown: One fear to rule them all? [Article]. <em>Journal of Anxiety Disorders. Volume 41.</em> (pp5-21) ISSN 0887-6185. <a href="https://doi.org/10.1016/j.janxdis.2016.03.011">https://doi.org/10.1016/j.janxdis.2016.03.011</a>.</footer>
 </comment>
@@ -286,7 +284,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 </james>
 <comment>
-<header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/">/u/gentlybeepingheart</a></header>
+{% include header name="/u/gentlybeepingheart" link="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfceznn/" %}
 <details>
 <summary>His claim is shaky at best: Queer people existed in Egypt, but there's not a lot of info on them. If pharaohs and queens had same-gender consorts, it's not recorded. And the only "transgender pharaoh" we have info on is Hatshepsut, who is not actually transgender, but rather wanted to be a pharaoh and not a queen, and "pharaoh" is a male-gendered title.</summary>
 
@@ -319,7 +317,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 </james>
 <comment>
-<header><a href="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/">/u/superninja109</a></header>
+{% include header name="/u/superninja109" link="https://www.reddit.com/r/hbomberguy/comments/18t811b/more_bullshit_found_in_somertons_queer_horror/kfdkhqa/" %}
 <details>
 <summary>There were <em>many</em> Greek philosophers who were possibly bisexual, though, they didn't have the concept of sexual identities back then, and assigning such identities to them steamrolls a lot of nuance.</summary>
 
@@ -337,7 +335,7 @@ But this was not always the case. For millennia, homosexuality and gender fluidi
 
 </details>
 </comment>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark fc=false>Even early Christianity was more or less accepting of gay men.</mark>
 
@@ -345,11 +343,13 @@ But that didn't last.
 
 </james>
 <comment id="early_church">
-<header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" >LVence</a></header>
+{% include header for=lvence link="https://discord.com/channels/1180822793420554241/1180822793420554244/1189096840797364244" %}
 
 [His take on early Christianity] Isn't correct. The early church father and Christian authorities unanimously condemned homosexuality. He might have taken this from John Boswell, but this is disputed by religious scholars. [https://en.m.wikipedia.org/wiki/History_of_Christianity_and_homosexuality](https://en.wikipedia.org/wiki/History_of_Christianity_and_homosexuality#Early_Christianity)
 
-<header><a class="citation" href="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898">lemmy</a></header>
+</comment>
+<comment>
+{% include header name="lemmy" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1189103637193035898" %}
 
 It's an incredibly vague take too. Which early Christians were accepting of homosexuality? There were like, several dozen Christian sects and cults running around during the early days of Christianity, most of which did not survive into modernity, you got to get specific if you want to make that point.
 
@@ -362,7 +362,6 @@ It's an incredibly vague take too. Which early Christians were accepting of homo
 Along with the dark ages came a great tumult that led to the fear of anything and anyone non-Christian. Women became witches, gay men became warlocks, and the very idea of homosexuality was attributed to demonic possession, if not from Satan himself, than from the pagan deities that lingered and swept down from the north.
 
 And that is where our story of gay horror picks up. Hundreds of years later, with a coven of witches.
-{% assign timecode = "5:14" %}
 
 </james>
 <comment id="medieval">
@@ -377,13 +376,13 @@ Also, though it may have happened occasionally, it doesn't look like attributing
 
 ## Sisters of Salem
 
+{% assign timecode = "5:14" %}
 <compare>
 <james {% include timecode %} id="para02" mid-text="Paragraph-02">
 
 *The Craft*, released in 1996, holds an odd appeal within the lgbt community. There are no queer characters but... the coding...
 
 The film follows the story of <mark>four teenage girls who each grow up feeling different</mark>, in one way or another. <mark>Special</mark> and above the fray of their peers, or <mark>rejected</mark> by them entirely, <mark stat:id="sub-queer">as so many queer teens have experienced</mark>. Either being praised for their artistic prowess in theater, art, or dance, or roundly rejected by the populace at large for being different.
-{% assign timecode = "5:55" %}
 
 By happenstance the four <mark>girls end up in the same school and find each other essentially by cruising the hallways. Sideways looks and quiet nods to each other lead to a hookup, which for them is going shopping for candles after school.</mark> 
 
@@ -480,9 +479,9 @@ As mentioned before, the connection between witches and homosexuality has gone b
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-In modern Wicca, homosexuality is highly embraced. <mark fc=false>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people. These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals). Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
+In modern Wicca, homosexuality is highly embraced. <mark fc=false>Although heteronormativity was a strict rule among Wiccans in the early-to-mid 20th century</mark>, <mark>newer Wiccan traditions often avoid or disregard the historical aversion to LGBT people.</mark> <mark>These new traditions often cite the charge of the Goddess, which states ["all acts of love and pleasure are my rituals"](https://en.wikipedia.org/wiki/Charge_of_the_Goddess#:~:text=all%20acts%20of%20love%20and%20pleasure%20are%20my%20rituals).</mark> Many queer Christians have found that the teachings of the church led them down the path of Wicca and witchcraft. 
 
 </james>
 <comment id="wicca_homo">
@@ -491,6 +490,13 @@ In modern Wicca, homosexuality is highly embraced. <mark fc=false>Although heter
 There seems to be very little information on Wiccans prior to the 1950's, when [Gerald Gardner introduced it to the public](https://en.wikipedia.org/wiki/Wicca). We don't know anything about such a rule. The only maybe inkling to something like this was [accusations of homophobia](https://en.wikipedia.org/wiki/Gerald_Gardner#Homophobia) against Gardner.
 
 </comment>
+<from {% include citation for=page.cite.plagiarized.wiki_pagan_lgbt at="LGBT-inclusive ¶ 1" %}>
+<h2>LGBT-inclusive paths and traditions</h2>
+<h3>Wicca</h3>
+
+<mark>Newer Wiccan traditions often avoid or disregard the historical aversion to [LGBT](https://en.wikipedia.org/wiki/LGBT) individuals.</mark><sup>[9][10][11][39]</sup> Oboler notes the change in neopagan culture thus, "Although the symbolic bedrock of Wicca and modern Paganism is strongly gender-essentialist, the Pagan community, like the culture as a whole, has been moving away from that position."<sup>[11]</sup> <mark>These traditions sometimes cite the Wiccan [*Charge of the Goddess*](https://en.wikipedia.org/wiki/Charge_of_the_Goddess) which says "All acts of Love and Pleasure are My rituals".</mark><sup>[21][40]</sup> Professor Melissa Harrington wrote that despite traditional Wicca showing [heterosexism](https://en.wikipedia.org/wiki/Heterosexism) "as Wicca has grown and attracted gay practitioners they have begun to work out ways in which Wiccan rites can become more meaningful to them".<sup>[23]</sup>
+
+</from>
 </compare>
 
 <compare>
@@ -499,7 +505,6 @@ There seems to be very little information on Wiccans prior to the 1950's, when [
 <mark>Witchcraft, on the other hand, offered a spiritual space where queer people</mark> <mark>could step into their personal power and explore otherness without shame, guilt, or fear.</mark> <mark>Though most self-identified witches</mark> begin dabbling in magic at a young age, it's not until after puberty that it becomes a real draw for them. <mark>Furthermore, the idea of a coven</mark> <mark>creates a space for community</mark>, a spiritual place where one can be themselves without the ever-present evangelical eye. 
 
 Though many would suspect that modern witches grew up in ultra-liberal hippie-esque environments, today over 80 percent of self-identified witches grew up in right-wing Christian homes. An environment that seems rife for creating things that are very unchristian.
-{% assign timecode = "11:30" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.amanda_kohr at="¶ 19-20" %}>
@@ -513,6 +518,7 @@ Though many would suspect that modern witches grew up in ultra-liberal hippie-es
 
 ## Bullied
 
+{% assign timecode = "11:30" %}
 <compare>
 <james {% include timecode %} id="para04" mid-text="Paragraph-04">
 
@@ -617,7 +623,6 @@ The cult of Carrie (1976) from its origins in Stephen King's novel through to De
 Of course, in the end, from my point of view anyway, Carrie is all about shame. Much like the shame of gay teenagers in certain types of families, certain kinds of home towns, not fitting in, being ostracized even when you try to fit in, and this shame is personified by Carrie White. Gay audiences form a connection with Carrie unlike with most horror heroines. She is the internalized anxiety within us, the yearning to be something more, to fit in, and yet be ourselves. To not be bullied, or at least to fight back against the bully. 
 
 But we're not all Carrie White. Sometimes that self-hatred internalizes, something dark and morbid roiling within our bodies. A demon ravaging our very soul.
-{% assign timecode = "18:30" %}
 
 </james>
 <from></from>
@@ -625,6 +630,7 @@ But we're not all Carrie White. Sometimes that self-hatred internalizes, somethi
 
 ## A Hellbound Heart
 
+{% assign timecode = "18:30" %}
 <compare>
 <james {% include timecode %} id="para06" mid-text="Paragraph-06">
 
@@ -816,7 +822,6 @@ When he returns to Earth to resurrect his long abandoned flesh, he intends to ki
 The hell priest, eventually christened "Pinhead" by fans, though Barker loathes the name, is not a mindless killer, like Jason Voorhees or Michael Myers. He's not a killer of innocents, like Freddy Krueger. He is reasonable and only comes when called, keeps to himself in his own realm, much like the queer community that lived in cities and was not infiltrating suburbs, as so many white americans feared in the late 1980s. Though he and his fellow Cenobites would grow closer to their slasher brethren as the *Hellraiser* series went on, in the original, he is not the monster to be feared. The perfectly normal *person* was.
 
 But... perfectly normal people *do* have a habit of being monsters.
-{% assign timecode = "26:59" %}
 
 </james>
 <from></from>
@@ -824,6 +829,7 @@ But... perfectly normal people *do* have a habit of being monsters.
 
 ## A Good Girl
 
+{% assign timecode = "26:59" %}
 <compare>
 <james {% include timecode %} id="para08" mid-text="Paragraph-08">
 
@@ -832,7 +838,7 @@ But... perfectly normal people *do* have a habit of being monsters.
 Together the pair attend a <mark>local rock concert at a bar</mark>, where Needy's life changes forever. <mark>A fire with no known source engulfs the bar, killing multiple people.</mark> <mark>Needy pleads with Jennifer to stay with her, but in her shock, she leaves with the band</mark>. <mark>Later that night, she turns up at Needy's house covered in blood</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 1" %}>
+<from {% include citation for=page.cite.plagiarized.wiki_jennifer at="Plot ¶ 1" %}>
 <h2>Plot</h2>
 
 <mark>Anita "Needy" Lesnicki</mark>, <mark>once an insecure</mark> and studious <mark>teenager</mark> living near Devil's Kettle, Minnesota, is now a <mark>violent mental inmate</mark> who <mark>narrates the story as a flashback while in solitary confinement</mark>. <mark>Since childhood, she had been friends with Jennifer Check</mark>, a popular cheerleader, despite having <mark>little in common</mark>. One night, Jennifer takes Needy to a <mark>local dive bar to attend a concert by indie rock band</mark> Low Shoulder. <mark>A suspicious fire engulfs the bar, killing several people.</mark> <mark>In shock, Jennifer agrees to leave with the band, despite Needy's protests</mark>. <mark>Later that evening, Jennifer, covered in blood, appears in Needy's kitchen</mark> and attempts to eat food from the refrigerator. She immediately vomits a trail of black, spiny fluid and leaves in a hurry.
@@ -848,7 +854,7 @@ Together the pair attend a <mark>local rock concert at a bar</mark>, where Needy
 After multiple murders, it is revealed that <mark>on the night of the fire, the band had taken Jennifer into the woods</mark> and <mark>offered her up as a virgin sacrifice to Satan himself in exchange for fame and fortune</mark>. But <mark>Jennifer, not being a virgin, was instead possessed</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 2-3" %}>
+<from {% include citation for=page.cite.plagiarized.wiki_jennifer at="Plot ¶ 2-3" %}>
 
 <mark>The next morning at school, Jennifer appears fine and dismisses Needy's concerns</mark>. <mark>While the town is devastated by the deaths caused by the fire</mark>, <mark>Jennifer seduces the school's football captain in the woods and disembowels him</mark>. Meanwhile, the members of Low Shoulder gain popularity due to their falsely-rumored heroism (confirmed by "the Wikipedia") during the fire and offer to make a charity appearance at the school's spring formal.
 
@@ -863,7 +869,7 @@ A month later, Jennifer has become pale. She accepts a date with school goth/emo
 <mark>Discovering that Jennifer is now a succubus</mark> <mark x>who will feed off of human life to sustain herself</mark>, Needy decides to take action. After a failed attempt that <mark x>leaves her boyfriend dead</mark>, <mark>she manages to kill Jennifer and the demon inside her</mark>, <mark>just in time for Jennifer's mother to discover her on top of her daughter's corpse</mark>. <mark x>So off to Briarcliff she goes</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Plot ¶ 4" %}>
+<from {% include citation for=page.cite.plagiarized.wiki_jennifer at="Plot ¶ 4" %}>
 
 The following day, Needy goes to the school library's occult section and <mark>determines that Jennifer is a succubus</mark> <mark>who must feed on flesh</mark> and can only be killed while she is hungry and weak. Needy tells Chip about her discoveries about Jennifer and warns him not to attend the school dance. He does not believe her, so she breaks up with him in order to protect him. Chip decides to attend the dance anyway but is intercepted by Jennifer, who takes him to an abandoned pool house and begins feeding on him. Needy arrives there and fights Jennifer. Chip impales Jennifer through the stomach with a pool skimmer, but Jennifer removes it and escapes, <mark>while Chip dies</mark>.
 
@@ -878,7 +884,7 @@ Needy goes to Jennifer's home and breaks into her bedroom. She fights Jennifer a
 Though loathed upon release, the film has more recently been reevaluated as a modern <mark>horror classic</mark>.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wikipedia_jennifer at="Release / Critical response / Later assessment ¶ 3" %}>
+<from {% include citation for=page.cite.plagiarized.wiki_jennifer at="Release / Critical response / Later assessment ¶ 3" %}>
 
 In 2020, the film was categorized as a <mark>horror classic</mark>.<sup>[53]</sup>
 
@@ -1116,7 +1122,6 @@ And so there's a bit of gay male privilege there: if another boy or man is actin
 <james {% include timecode %}>
 
 But for young women how can you tell if another girl is interested in you in a romantic or sexual way? Because she kissed you? Held her hand? Cuddled? You've likely been doing that with female friends all your life. As if being a woman wasn't hard enough already.
-{% assign timecode = "36:51" %}
 
 </james>
 <from></from>
@@ -1124,6 +1129,7 @@ But for young women how can you tell if another girl is interested in you in a r
 
 ## The Others
 
+{% assign timecode = "36:51" %}
 <compare>
 <james {% include timecode %} id="para10" mid-text="Paragraph-10"><!-- also 11, technically -->
 
@@ -1401,13 +1407,13 @@ Dylan: "The only question is how you check out. Do you want it on your feet or o
 <james {% include timecode %}>
 
 <mark>Hitting like Larry Kramer's 1987 speech when he launched ACT UP.</mark> The alien created by H.R Geiger, brought to life by Ridley Scott, and perfected by James Cameron, is a monster that exploited our fears of gender, sex, infection, and lost control. A monster so ravenous, there is no escape. But not all monsters are so obvious.
-{% assign timecode = "47:39" %}
 
 </james>
 </compare>
 
 ## Death by Monogamy
 
+{% assign timecode = "47:39" %}
 <compare>
 <james {% include timecode %} id="para14" mid-text="Paragraph-14">
 
@@ -1550,7 +1556,6 @@ Overall, then, <mark>*It Follows* appeared at a historical moment when a hetero-
 <james {% include timecode %}>
 
 But just like how PrEP has not completely disposed of HIV, the monster in *It Follows* is similarly relentless. <mark>Following a traumatic confrontation</mark> that ends with Jay agreeing to pass the curse along to a boy who's had a crush on her since childhood, the apparently monogamous couple walk hand in hand down a quiet suburban street, <mark>unaware that behind them *It Follows*.</mark>
-{% assign timecode = "53:59" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.david_church at="p.4" %}>
@@ -1562,6 +1567,7 @@ But just like how PrEP has not completely disposed of HIV, the monster in *It Fo
 
 ## Disturbia
 
+{% assign timecode = "53:59" %}
 <compare>
 <james {% include timecode %} id="para15" mid-text="Paragraph-15">
 
@@ -1762,7 +1768,6 @@ A queer reading becomes more obvious at, least to me, when the pair of killers d
 <james {% include timecode %}>
 
 And in *Scream*, the queer horror penetrated that safety. It also tore apart the idea of the ideal American family. Billy's family was torn asunder when Sydney's mother had an affair with his father, leading to a divorce and his mother leaving town. And so he took Sydney's mother away from her too. The fragility of the straight nuclear family coming to a bloody end just as the new millennium dawned, showing us all that families, though a nice idea, can lead to unexpected horrors.
-{% assign timecode = "1:02:18" %}
 
 </james>
 <from></from>
@@ -1770,6 +1775,7 @@ And in *Scream*, the queer horror penetrated that safety. It also tore apart the
 
 ## Home Is Where the Hell Is
 
+{% assign timecode = "1:02:18" %}
 <compare>
 <james {% include timecode %} id="para17" mid-text="Paragraph-17">
 
@@ -1991,10 +1997,9 @@ The Babadook is creative (remember the pop-up book) and a distinctive dresser. I
 
 But is the Babadook gay? When asked about this in 2019, director Jennifer Kent simply replied...
 
-> "<mark fc=false>Of course.</mark>"
+> "<mark stat:id="mined-quote" fc=false>Of course.</mark>"
 
 Sometimes it's just that simple. Sometimes the monster, the queer, can be accepted. Sometimes suburbia isn't so bad. But sometimes... *it*... can be a nightmare.
-{% assign timecode = "1:12:00" %}
 
 </james>
 <comment id="quote_mine1">
@@ -2016,6 +2021,7 @@ As far as I can tell, she never said this. This *might* be what James was "quoti
 
 ## Trauma
 
+{% assign timecode = "1:12:00" %}
 <compare>
 <james {% include timecode %} id="para19" mid-text="Paragraph-19">
 

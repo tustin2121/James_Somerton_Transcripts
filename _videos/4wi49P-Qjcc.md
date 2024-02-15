@@ -16,6 +16,10 @@ links: !!seq
 notes:
   - hbomb
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSKrdfgMY9CJ-Su0c2p8X-4AoFmgAEwYjlQ0Jitc95v7CcefVmOmMqu0QAnES7uvylCcrPnAjW3XkQk/pub
+
 cite:
   clips: !!map
   yikes: !!map

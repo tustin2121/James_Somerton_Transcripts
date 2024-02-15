@@ -541,7 +541,7 @@ But where *Pokémon* was more successful... is how characters were so simple and
 </compare>
 
 <compare>
-<james span=3 {% include timecode %}>
+<james span=4 {% include timecode %} id="kawaii">
 
 When it comes to *Pokémon*, enter the Japanese word and concept — kawaii. 
 
@@ -550,7 +550,7 @@ When it comes to *Pokémon*, enter the Japanese word and concept — kawaii.
 <mark fc=false>Contrary to popular belief, kawaii does not mean ‘cute.’ It means something much deeper. When something is kawaii, it means that it cannot not be cute. It means that this idol has been reduced to a state of existence where the ONLY opinion that can exist about it is that it’s cute.</mark> 
 
 </james>
-<comment id="kawaii">
+<comment>
 {% include header for=tobi %}
 
 On screen, the word "kawai" appears, with the corresponding katakana (カワイ) beneath. However, "Kawai" is a Japanese piano brand; the word "kawaii" is spelled differently in katakana (カワイイ), and is more commonly spelled in hiragana (かわいい) or occasionally kanji (可愛い).
@@ -558,19 +558,34 @@ On screen, the word "kawai" appears, with the corresponding katakana (カワイ)
 </comment>
 <comment>
 {% include header name="Aeneas the Fool" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1205074308272230410" %}
-
-Yeah no kawaii literally just means “cute”. It ain't that deep.
+<details>
+<summary>Yeah no kawaii literally just means “cute”. It ain't that deep.</summary>
 
 It’s like anglos assigning some Speshul Meaning to a word like 仲間 which can literally mean anything within the range of ally and friend. It’s not some Speshul Deep Friend Connection. What the fuck would 友達 exist for?
 
 Like in the case of kawaii it only gained “significance” when the term was incorporated into the aesthetics of a Japanese fashion subculture that came out in the 1980’s. And it was only significant because the style was gaudy to the point of not being treated as a “respectable” form of dress for women in Japan because of all the frills. So it was countercultural against the standardized cultural norm for Japanese women in fashion. And it’s why it went onto have a massive influence on Harajuku fashion.
 
+</details>
 </comment>
 <comment>
 {% include header for=site.data.cite.yvestan %}
 
 *Technically*, 可愛い/カワイイ/kawaii can [also refer to something pretty or charming despite its flaws](https://kotobank.jp/word/可愛い-468533), fitting Somerton's one interpretation, but essentially, it still comes down to meaning "cute."
 
+</comment>
+<comment>
+{% include header name="SobbingOntoTheColdLinoleumFloor" link="https://discord.com/channels/1180822793420554241/1180822793420554244/1206716897643601941" %}
+<details>
+<summary>Somerton is hyperbolizing (I suspect he's lifted the concept from some pop linguistics article) but the core of it isn't outright wrong.</summary>
+
+Basically the meaning lies somewhere between lovable and cute (leaning more towards cute these days, but the former is still important). In [the kotobank entry](https://kotobank.jp/word/可愛い-468533), for example, the definition it leads with is 愛情をもって大事にしてやりたい気持ちを覚える (= something that makes you want to love and cherish it), and the next sentence goes even farther: 愛す<span class="color-15 hilite">べきである</span> (= something that should be loved).
+
+That there is an obligation: the -<span class="color-15 hilite">べきである</span> structure rarely comes up in definitions outside of proverbs ("one must know one's enemy" or something). So from there you can see how someone could extrapolate that to "the essential substance is cuteness" even though all it's really saying is that <span class="color-16 hilite">かわい</span>い ["kawaii"] has a stronger emphasis on the relationship between an object and the observer than "cute" does in english. The actual problem with his argument is that <span class="color-16 hilite">かわい</span>い can be used to describe a lot of things that sound weird if you strictly translate it as "cute" (you can describe a river as <span class="color-16 hilite">かわい</span>い, but that doesn't mean the river is the platonic ideal of cuteness).
+
+And tangentially <span class="color-16 hilite">かわい</span>い quite famously doesn't take the hearsay form. Most adjectives you can add a -<span class="color-8 hilite">そう</span> to the stem to say something "seems/looks" a certain way, but <span class="color-16 hilite">かわい</span><span class="color-8 hilite">そう</span> comes from an otherwise obsolete homonym, so if you try to say someone is cute-looking with <span class="color-16 hilite">かわい</span><span class="color-8 hilite">そう</span> you've instead called them a miserable wretch (this is how you get the argument that since cuteness is not a quality that can be observed without being ungrammatical it must be an innate characteristic). There's also the -<span class="color-13 hilite">がる</span> suffix, which means "to feel an emotion in a noticeable way", and in the case of <span class="color-16 hilite">かわい</span><span class="color-13 hilite">がる</span> it doesn't mean "to be cutesy" but instead "to dote on". and that only makes sense from the "something that makes you want to love it" definition.
+
+<footer>I have added the highlighting to make it easier for us monolingual western plebs (ie, me) to spot the hiragana affixes discussed. {% include signed for=tustin %}</footer>
+</details>
 </comment>
 </compare>
 

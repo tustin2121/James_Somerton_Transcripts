@@ -5,7 +5,7 @@ redirect_from:
 date: 2020-11-05
 title: "Pink Triangles (Part 2)"
 parent: 5OxH1rqBAgw
-status: Missing
+status: Superseded
 aka: !!seq
 topics: !!seq
 links: !!seq
@@ -37,12 +37,12 @@ This video contains copyrighted material. The use of which has not always been s
 
 #History​ #LGBTQ​ #LGBT​
 
-00:00​ Introduction
-01:45​ Part Six: Legally Admissible
-06:49​ Part Seven: Is He... You Know?
-13:26​ Part Eight: Camp
-29:29​ Part Nine: Does It End?
-32:58​ Part Ten: Remember
+00:00​ Introduction  
+01:45​ Part Six: Legally Admissible  
+06:49​ Part Seven: Is He... You Know?  
+13:26​ Part Eight: Camp  
+29:29​ Part Nine: Does It End?  
+32:58​ Part Ten: Remember  
 
 
 </credits>

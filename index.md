@@ -80,14 +80,21 @@ Score Squares:
 
 Transcript Statuses: 
 - <span class="status alert">Missing</span> = Transcript is missing
+- <span class="status alert">Superseded</span> = Transcript has been superseded
+  - A "Superseded" transcript will not be filled in because  
+  another transcript has taken its place. The pages will still  
+  have info on thumbnails, alt names, and descriptions.
 - <span class="status">Script</span> = Raw transcript data uploaded from a script
 - <span class="status">Auto</span> = Raw auto-transcript
-- <span class="status">In Progress</span> = Transcript has some work done
-- <span class="status ready">Finished</span> = Transcript is complete, citations needed.
+- <span class="status">Auto Script</span> = Raw AI-made transcript
+- <span class="status ready">In Progress</span> = Transcript has some work done
+- <span class="status complete">Finished</span> = Transcript is complete, citations needed.
+  - A "Finished" transcript is fully formatted and has all the  
+  information we know at the moment has been documented.  
+  There's probably some major source we're missing, though.
 - <span class="status complete">Complete</span> = Transcript has been formatted and highlighted.
   - A "Complete" transcript does *not* mean nothing is left to  
-  be found, just that all the information we know at the  
-  moment has been documented.
+  be found.
 
 </div>
 <div>

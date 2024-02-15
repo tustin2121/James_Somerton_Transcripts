@@ -5,10 +5,13 @@ redirect_from:
 date: 2023-05-18
 title: When Hollywood Came Out of the Closet
 parent: pW_RjbZYi1s
-status: Auto
+status: Finished
 aka: !!seq
   - "Opening Hollywood's Closet (Thumbnail)"
 topics: !!seq
+  - The Boys in the Band
+  - Sunday Bloody Sunday
+  - John Waters
 links: !!seq
   - "https://www.youtube.com/watch?v=PimkEyKQqoQ"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230518+fzN9x4XgtwY+When+Hollywood+Came+Out+of+the+Closet.webm"
@@ -18,6 +21,8 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vTV9Qjn9FX-B1fZvc0c7YQj8k-W7YmgWUYN56N-4uZZZH-uP-3VUzw8C-86Cb_HfXGV5oDWu5RDI2Sy/pub
 
 cite:
   clips: !!map
@@ -35,13 +40,13 @@ cite:
 
 [sponsor plug]
 
-[patreon link]
-[website link]
+[patreon link]  
+[website link]  
 
-00:00 Introduction  
-08:06 Chapter One  
-17:13 Chapter Two  
-22:53 Chapter Three  
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="08:06" for="Chapter One" %}  
+{% include chapter-link at="17:13" for="Chapter Two" %}  
+{% include chapter-link at="22:53" for="Chapter Three" %}  
 #lgbt #lgbtq  
 
 </credits>
@@ -71,12 +76,23 @@ This video is brought to you by Squarespace.
 <from></from>
 <clip {% include citation for=page.cite.clips.boys_band %}>
 
-(Four guys doing some kind of line kick thing) "Kick'em up, Jeremy!"
+<u>[Four guys doing some kind of line kick thing]</u> "Kick'em up, Jeremy!"
 
 </clip>
 <james {% include timecode %}>
 
-This film is definitely about homosexuality. *The *Boys in the Band** is a 1970 American film directed by William Friedkin of *Exorcist* fame, based on the 1968 Off-Broadway play of the same name by Mark Crowley. The film takes place in New York City in 1968, and follows a group of gay friends who gather for a birthday party. 
+This film is definitely about homosexuality. 
+
+</james>
+<from></from>
+</compare>
+
+<div class="notice-banner" id="parent-start"><a href="{{ page.parent }}#ch5-in"><i class="fa-solid fa-right-to-bracket"></i> The compilation video</a>'s version starts here.</div>
+
+<compare>
+<james {% include timecode %}>
+
+*The Boys in the Band* is a 1970 American film directed by William Friedkin of *Exorcist* fame, based on the 1968 Off-Broadway play of the same name by Mark Crowley. The film takes place in New York City in 1968, and follows a group of gay friends who gather for a birthday party. 
 
 The main character is Michael, a neurotic and self-loathing gay man who is hosting the party for his... "friend" Harold, a flamboyant and witty gay man. As the night wears on, the guests become increasingly drunk and confrontational, leading to heated arguments and revelations about their personal lives. The arrival of a *straight* friend, Alan, adds to the tension as he is uncomfortable with the gay culture and the... open homosexuality on display. 
 
@@ -103,17 +119,24 @@ At the end of the film, Larry and Hank win a telephone Truth game that Michael h
 <compare>
 <clip {% include citation for=page.cite.clips.boys_band %}>
 
-"I love you."
+Larry: "I love you."
+
+<u>[Cuts to Hank not saying it back.]</u>
 
 </clip>
-</compare>
+<james {% include timecode %}>
 
-It is when Larry and Hank express affection for each other *physically and verbally* that the audience and the lone straight party guest are *most* uncomfortable. In contrast, Michael's inability to deal with his own homosexuality is exposed as old-time movie melodrama, and Harold's final *equally* melodramatic speech puts it into perspective:
+It is when Larry and Hank express affection for each other *physically and verbally* that the audience and the lone straight party guest are *most* uncomfortable. 
 
-<compare>
+In contrast, Michael's inability to deal with his own homosexuality is exposed as old-time movie melodrama, and Harold's final *equally* melodramatic speech puts it into perspective:
+
+</james>
+<from></from>
 <clip {% include citation for=page.cite.clips.boys_band %}>
 
-"You're a homosexual and you don't want to be. But there's nothing you can do to change it. Not all your prayers to your God. Not all the analysis you can buy in all the years you've got left to live. You may very well one day be able to know a heterosexual life, if you want it desperately enough. If you pursue it with the fervor with which you annihilate. But you'll always be homosexual as well. Always Michael. Always."
+<u>[Michael stands in the middle of the room staring off to the side. Harold stares at him.]</u>
+
+Harold: "You're a homosexual and you don't want to be. But there's nothing you can do to change it. Not all your prayers to your God. Not all the analysis you can buy in all the years you've got left to live. You may very well one day be able to know a heterosexual life, if you want it desperately enough. If you pursue it with the fervor with which you annihilate. But you'll always be homosexual as well. Always Michael. Always."
 
 </clip>
 <james {% include timecode %}>
@@ -139,6 +162,8 @@ The audience for *Boys in the Band* included gay people who had grown up thinkin
 </james>
 <from></from>
 </compare>
+
+<div class="notice-banner" id="title-start">For the compilation video, skip to next section. <i class="fa-solid fa-arrow-turn-down"></i></div>
 
 <compare>
 <james {% include timecode %}>
@@ -299,13 +324,13 @@ Archie: (staring) "But what difference does that make? You're a bachelor!"
 
 Buddy: "So?"
 
-(Laugh track)
+<u>[Laugh track]</u>
 
 Archie: "I know, but pastors, they're... they're always acting kind of private."
 
 Buddy: "Exactly."
 
-(Beat as they stare at one another. Laugh track.)
+<u>[Beat as they stare at one another. Laugh track.]</u>
 
 Archie: "Oh, come on, Steve..."
 
@@ -339,26 +364,26 @@ Although Quentin Crisp's story in *The Naked Civil Servant* was <u>[chuckling]</
 
 Quentin (in voiceover): "When you're being followed, there are a number of rules to obey:"
 
-<u>[Presented as a silent movie title card, read out loud by Quentin]:</u>
+<u>[Quoted segments are presented as a silent movie title card, read out loud by Quentin in voiceover]:</u>
 > Never look back.
 
-(dramatic music as a person walks) 
+<u>[dramatic music as Quentin walks]</u>
 
 > On no account run.
 
-(More walking) 
+<u>[More walking]</u>
 
 > Gradually increase the pace to five miles an hour.
 
-(Faster walking)
+<u>[Faster walking]</u>
 
 > If this does not deter him&mdash;
 
-(man following catches up quickly, looking at main character)
+<u>[man following catches up quickly, looking at Quentin]</u>
 
 > Do not stop until forcibly stopped.
 
-Follower: (stops main) "Hey."
+Follower: <u>[stops man]</u> "Hey."
 
 > Stand still and look at him. It may work.
 
@@ -366,7 +391,7 @@ Follower: "Who de 'ell do you fink you are?!"
 
 > Be very polite. It may work.
 
-Quentin: (to man) "No one, really. Sir."
+Quentin: <u>[to man]</u> "No one, really. Sir."
 
 > Offer money. It may work.
 
@@ -482,7 +507,7 @@ Throughout the 1970s we continued to appear on some of the most popular TV shows
 
 One of the documentary's key strengths is its emphasis on diversity in the queer community. The film showcases the lives of people like Bayard Rustin, a gay African-American civil rights leader who worked with Martin Luther King. And Sylvia Rivera, a transgender activist who played a *significant* role in The Stonewall Riots. Film and television were now being used to show the world that we were people. Complex and diverse. 
 
-And with a burgeon and queer political power structure rising up in California New York and DC, as well as a crop of new gay filmmakers beginning to be noticed by Hollywood, it seemed like we were ready to tear down those closet doors for good. And in the summer of 1981, pre-production had even begun on *Making Love*, a major studio film from 20th Century Fox about a married man coming to terms with his homosexuality and the love triangle that develops between him his wife and another man. 
+And with a burgeoning and queer political power structure rising up in California New York and DC, as well as a crop of new gay filmmakers beginning to be noticed by Hollywood, it seemed like we were ready to tear down those closet doors for good. And in the summer of 1981, pre-production had even begun on *Making Love*, a major studio film from 20th Century Fox about a married man coming to terms with his homosexuality and the love triangle that develops between him his wife and another man. 
 
 </james>
 <from></from>
@@ -497,6 +522,8 @@ But in that same summer... a rare cancer began appearing in gay men, followed by
 </james>
 <from></from>
 </compare>
+
+<div class="notice-banner" id="parent-end">The compilation video's version <a href="{{ page.parent }}#ch5-out">ends here. <i class="fa-solid fa-right-from-bracket"></i></a></div>
 
 <compare>
 <credits {% include timecode %}>

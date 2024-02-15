@@ -16,6 +16,7 @@ links: !!seq
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vQjSwYv9OJma0q9TRL0mU4rUIRxOuZkEoowZN5wxIwxSsAEJnZ7t8_afUjpj9ImpoU3Fg1no7QLCa6I/pub
   citation: 
     - "[/u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbx67oj)"
     - "[/u/Acrobatic-Builder-60 & /u/migraine182](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbwy0g5)"

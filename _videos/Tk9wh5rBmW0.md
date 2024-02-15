@@ -4,7 +4,7 @@ redirect_from:
 
 date: 2022-06-14
 title: The Queer Sensibilities of Cinema
-status: Auto
+status: In Progress
 aka: !!seq
   - "How The Gays Stole Cinema"
   - "The Mainstreaming of Camp"

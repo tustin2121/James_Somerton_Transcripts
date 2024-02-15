@@ -6,7 +6,7 @@ redirect_from:
 date: 2022-08-13
 title: How Disney Tore Down The Owl House
 runtime: 1:04:12
-status: Complete
+status: Finished
 aka: !!seq
 topics: !!seq
   - The Owl House
@@ -24,7 +24,7 @@ contributors:
   formatting: 
     - $cite$tustin2121 
     - $cite$tobicat
-  citation-plus: $cite$lvence
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSb4QKko2444tW3rslyI5tkVbqF5yRamTxy0xryCG_vRJ_GTBAYrZrB9bJg7jeNmuzPXV5Re-jMBilw/pub
 
 cite:
   clips: !!map

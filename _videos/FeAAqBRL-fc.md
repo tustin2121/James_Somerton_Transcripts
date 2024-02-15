@@ -5,7 +5,7 @@ redirect_from:
 date: 2020-11-05
 title: "Pink Triangles: The History of the Gay Holocaust (Part 1)"
 parent: 5OxH1rqBAgw
-status: Missing
+status: Superseded
 aka: !!seq
   - "Part 1: The Coming Storm"
 topics: !!seq

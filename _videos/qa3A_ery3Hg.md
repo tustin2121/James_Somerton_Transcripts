@@ -34,6 +34,7 @@ cite:
     fab_quote: "James presents a fabricated quote on-screen."
     newton_fight: "Nick makes a joke about Newton's and Leibniz that doesn't quite add up."
     slave_population: "James says he can't get Rome out of his head, but it's actually Sparta that lives rent free there."
+    state_backtrack: "James didn't verify his stuff on the Disney-Georgia 'heartbeat bill' fiasco, even though the source he's copying from literally talks about it."
   plagiarized: !!map
     #free_press_explainer: { color: 1, short: "Don't Say Gay explainer (Free Press Journal, 2022)", full: "FPJ Web Desk. (2022, Feb 11). <em>'Don’t say gay' Bill: Here's all you need to know about legislation being proposed in Florida</em> Free Press Journal. Retrieved December 16, 2023, from ", url: "https://www.freepressjournal.in/world/dont-say-gay-bill-heres-all-you-need-to-know-about-legislation-being-proposed-in-florida" }
     indian_exp_article: { color: 2, short: "Don't Say Gay explainer (Indian Express, 2022)", full: "Explained Desk. (2022, Feb 10) <em>Explained: What is the ‘Don’t say gay’ bill being proposed in Florida?</em> [News article]. The Indian Express. Retrieved December 16, 2023, from", url: "https://indianexpress.com/article/explained/dont-say-gay-bill-florida-us-lgbtqia-community-joe-biden-explained-7766713/" }
@@ -44,6 +45,7 @@ cite:
     fanfest_russia: { color: 7, short: "No Russian Releases (FanFest, 2022)", full: "FanFest (2022, Mar 1). <em>Morbius Will Not Release In Russia Due To Ukraine Invasion – Disney And Warner Bros Pull Films As Well!</em> [News article]. FanFest. Retrieved December 17, 2023, from", url: "https://fanfest.com/morbius-will-not-release-in-russia-due-to-ukraine-invasion-disney-and-warner-bros-pull-films-as-well/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign lvence = site.data.cite.lvence %}
 
 <compare>
 <credits class="desc">
@@ -64,12 +66,11 @@ PATREON: [link]
 <compare>
 <james {% include timecode %}>
 
- Hey everyone. Before we start the video I just wanted to thank everyone who’s donated to the Telos Pictures IndieGoGo campaign. We’ve passed 600% of the original goal and its all thanks to you. If you want to support the creation of an LGBTQ production company that will make movies for LGBTQ people, you can join at the link in the description. 
+Hey everyone. Before we start the video I just wanted to thank everyone who’s donated to the Telos Pictures IndieGoGo campaign. We’ve passed 600% of the original goal and its all thanks to you. If you want to support the creation of an LGBTQ production company that will make movies for LGBTQ people, you can join at the link in the description. 
  
- Now let’s get to the latest slap in the face from Disney. 
+Now let’s get to the latest slap in the face from Disney. 
 
 </james>
-<from></from>
 </compare>
 
 <compare>
@@ -98,8 +99,8 @@ James Somerton
 
 </credits>
 </compare>
-{% assign timecode = "1:20" %}
 
+{% assign timecode = "1:20" %}
 <compare>
 <james {% include timecode %}>
 
@@ -112,7 +113,16 @@ James Somerton
 That was the Walt Disney company's response when asked what their position is on Florida’s "Don’t Say Gay" bill. If you haven’t been watching the news. 
 
 </james>
-<from></from>
+<comment>
+{% include header for=tustin %}
+
+I attempted to find the original source for this quote. I can find it on hundreds of news sites, but not [in Disney's press release archives](https://thewaltdisneycompany.com/press-releases/). (It might have also been released [as a Good Morning America tweet....??](https://twitter.com/GMA/status/1499569682952732672) {% include twitter-mirror link="https://twitter.com/GMA/status/1499569682952732672" %})
+
+I'm guessing they retracted this release (as it got them [a lot of backlash](https://www.npr.org/2022/03/08/1085130633/disney-response-florida-bill-dont-say-gay)), and now only [Bob Chapek's March 11th statement](https://thewaltdisneycompany.com/statement-on-disneys-support-for-the-lgbtq-community/) and [a spokesperson statement from March 28th](https://thewaltdisneycompany.com/statement-from-the-walt-disney-company-on-signing-of-florida-legislation/) can be found on the site, both much more supportive. (The wayback machine also is missing any hint of it.)
+
+This video was released before either of these statements or the presumed retraction.
+
+</comment>
 </compare>
 
 <compare>
@@ -149,7 +159,7 @@ Descriminatory bills *usually* do not have limits because the governing authorit
 
 <mark>Republican lawmaker Joe Harding</mark>, yeah this asshat, <mark>who introduced the bill in the state House of Representatives, hopes it will</mark> quote: 
 
-> “reinforce the fundamental right of parents to make decisions regarding upbringing and control of their children.” 
+> <mark></mark>“reinforce the fundamental right of parents to make decisions regarding upbringing and control of their children.” 
 
 <u>[James on-screen, zoomed in, in red lettering:] “Control… of their children…”</u>
 
@@ -174,7 +184,7 @@ he said. Essentially saying that any child whose family can’t afford a progres
 <comment>
 {% include header for=tustin %}
 
-This quote from Joe Harding could be sourced from anywhere, but it's not in the {{ page.cite.plagiarized.indian_exp_article.short }}.
+This quote from Joe Harding could be sourced from anywhere, but it's not in the {% include inline-citation for=page.cite.plagiarized.indian_exp_article %}.
 
 </comment>
 </compare>
@@ -198,17 +208,17 @@ Yes he said “all those basic stuff”
 <clip {% include citation for=page.cite.clips.bush_learning %}> <!-- Peacock logo at the bottom right, so news channel. -->
 
 <u>[President George W Bush at a podium]:</u> "Our-- Is our children learning?"
-{% assign timecode = "5:45" %}
 
 </clip>
 </compare>
 
+{% assign timecode = "5:45" %}
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 And we know Florida school books aren't exactly prime real estate for truthful depictions of, *say,* the war of Northern Aggression, now don’t we? Anyway. 
 
-On February 25th this passed through the Florida House of Representatives, on its way to quickly becoming law. President Joe Biden, or someone on his team (more likely), quickly tweeted: 
+<mark fc>On February 25th</mark> this passed through the Florida House of Representatives, on its way to quickly becoming law. President Joe Biden, or someone on his team (more likely), <mark fc>quickly tweeted</mark>: 
 
 <u>[Tweet displayed on screen:]</u>
 
@@ -219,16 +229,32 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 > “I’m with the President on this!... this bill will put vulnerable, young LGBTQ people in jeopardy.” 
 
 </james>
+<from style="font-size: smaller;">
+<header><a href="https://twitter.com/POTUS/status/1491186973511458818">Twitter</a></header>
+
+[President Biden's tweet](https://twitter.com/POTUS/status/1491186973511458818) {% include twitter-mirror link="https://twitter.com/POTUS/status/1491186973511458818" %} (sent <mark fc>Feb 8th</mark>):
+
+> @POTUS: I want every member of the LGBTQI+ community — especially the kids who will be impacted by this hateful bill — to know that you are loved and accepted just as you are. I have your back, and my Administration will continue to fight for the protections and safety you deserve.
+>
+> > @WhiteHouse: Today, conservative politicians in Florida advanced legislation designed to attack LGBTQI+ kids. Instead of making growing up harder for young people, @POTUS is focused on keeping schools open and supporting students' mental health. [https://t.co/nn6nx8lLDD](https://www.nbcnews.com/nbc-out/out-politics-and-policy/florida-gov-ron-desantis-signals-support-dont-say-gay-bill-rcna15326)
+
+</from>
 <comment>
 {% include header for=tustin %}
 
-President Biden's tweet (sent Feb 8th): https://twitter.com/POTUS/status/1491186973511458818
-
-Bob Iger's tweet (sent Feb 24th, 11pm EST): https://twitter.com/RobertIger/status/1497064238145171458
-
-Technically, Biden didn't send the tweet in response to the bill passing, which happened on Feb 25th.
+The why this is worded, James implies that Biden tweeted on February 25th, which is not true.
 
 </comment>
+<from style="font-size: smaller;">
+<header><a href="https://twitter.com/RobertIger/status/1497064238145171458">Twitter</a></header>
+
+[Bob Iger's tweet](https://twitter.com/RobertIger/status/1497064238145171458) {% include twitter-mirror link="https://twitter.com/RobertIger/status/1497064238145171458" %}(sent Feb 24th, 11pm EST):
+
+> @RobertIger: I'm with the President on this! If passed, this bill will put vulnerable, young LGBTQ people in jeopardy.
+>
+> > @POTUS: [Quoting above tweet]
+
+</from>
 </compare>
 
 <compare>
@@ -244,20 +270,20 @@ Side note: it’s been theorized that Igre<sup class="add">[sic: Iger]</sup> int
 <james {% include timecode %}>
 
 But here’s the rub. Bob Chapek, the *current* CEO and Chairman of Disney said *nothing*. The only thing that came out with his name even *associated* with it was that milk toast<sup class="add">[sic: milquetoast]</sup> non-statement I read at the beginning of the video. You see, Chapek’s been busy putting his own stamp on Disney corporate culture, and is clearly less willing than even Igre<sup class="add">[sic: Iger]</sup> to advocate for, you know, human rights causes. 
-{% assign timecode = "7:25" %}
 
 </james>
 <from></from>
 </compare>
 
+{% assign timecode = "7:25" %}
 <compare>
 <james {% include timecode %}>
 
 For example, The Hollywood Reporter… reported that <mark>a knowledgeable source</mark> at Disney has said that <mark>Chapek balked at the idea of weighing in on</mark> <span class="del">even</span> fighting over <span class="add">even</span> <mark>voting rights</mark> in Florida. Quote: 
 
-> “Chapek is staunchly opposed to bringing Disney into issues he deems irrelevant to the company and its businesses,” 
+> <mark num=4></mark>“Chapek is staunchly opposed to bringing Disney into issues he deems irrelevant to the company and its businesses,” 
 
-<mark>this anonymous person said.</mark> 
+<mark num=4>this anonymous person said.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 4" %}>
@@ -274,12 +300,12 @@ Chapek is private about his politics but is believed to be much more conservativ
 
 Which is a massive problem because Disney brings a lot, and I mean A LOT of money into Florida, so if Disney were to threaten to pack up it’s east-coast theme park and leave the sunshine state if certain bills were passed, that could significantly impact political decisions in that state. 
 
-They did that when Georgia was messing around with these kinds of bills, since most Disney movies are now shot in Atlanta, and the state backtracked on its own hateful political agenda real fast. 
+<mark x>They did that when Georgia was messing around with these kinds of bills,</mark> since most Disney movies are now shot in Atlanta, and <mark id="state_backtrack" num=2 fc=false>the state backtracked on its own hateful political agenda real fast.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 7" %}>
 
-During his years at Disney, Iger chose his battles and his words. But he weighed in on some hot-button issues. In 2019, he told Reuters that if Georgia passed a controversial “heartbeat bill” that sought to ban abortions about six weeks into pregnancy, it would be “very difficult” for Disney to continue to film productions in the state. “I think many people who work for us will not want to work there, and we will have to heed their wishes in that regard,” he said. (The Georgia bill was signed into law but has been tied up in court battles since.)
+During his years at Disney, Iger chose his battles and his words. But he weighed in on some hot-button issues. In 2019, he told Reuters that <mark x>if Georgia passed a controversial “heartbeat bill” that sought to ban abortions about six weeks into pregnancy, it would be “very difficult” for Disney to continue to film productions in the state</mark>. “I think many people who work for us will not want to work there, and we will have to heed their wishes in that regard,” he said. (<mark num=2 fc>The Georgia bill was signed into law</mark> but has been tied up in court battles since.)
 
 </from>
 </compare>
@@ -300,20 +326,26 @@ HAH! (That might be funny if it wasn’t so terrifying. Welcome to the tagline o
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. <mark>Disney’s chief diversity officer sent a message to staff on March 2 referencing</mark> <q>“deeply troubling and heartbreaking”</q> <mark>developments in the news, noting that Chapek had asked </mark><q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q>
+<u>[<q>Quotes</q> below presented on-screen next to James's head.]</u>
 
-She went on to say that <mark>the company would schedule</mark> <mark>“Reimagine Tomorrow,”</mark> <q id="fab_quote">conversation on March 22nd that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</q>[^fab-quote] and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th. The assumption is that Chapek *will* take part in these events, but that has yet to be seen. 
+Even when his own employees push back against his reluctance to say that gay kids are valid, he prefers to make these conversations as hush hush and in-house as possible. <mark>Disney’s chief diversity officer sent a message to staff on March 2 referencing <q>“deeply troubling and heartbreaking”</q> developments in the news, noting that Chapek had asked <q>“to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</q></mark>
 
-[^fab-quote]: Despite this "quote" being shown on screen, it's not a real quote. He's basically just quoting his own script at us. Counting this as <span class="misinfo">misinformation</span>.
+She went on to say that <mark>the company would schedule</mark> <mark num=3>“Reimagine Tomorrow,”</mark> <q id="fab_quote" stat:id="made-quote">conversation on <mark num=4>March 22nd</mark> <mark num=5>that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</mark></q> <mark>and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13th</mark>. The assumption is that <mark x>Chapek *will* take part</mark> in these events, but that has yet to be seen. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 6" %}>
 
-Chapek appears to want to handle certain controversial topics through internal dialogue. Latondra Newton, <mark>Disney’s chief diversity officer, sent a message to staff on Wednesday referencing “deeply troubling and heartbreaking” developments in the news, noting that Chapek had asked “to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</mark> She said <mark>the company would schedule</mark> a March 22 <mark>“Reimagine Tomorrow”</mark> conversation — part of an ongoing program for Disney staff — that will be dedicated to “issues of concern to our LGBTQ+ colleagues,” and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13 that will be “the first gathering of our employees worldwide to discuss our progress on and plans for improving diversity, equity and inclusion at Disney,” with Chapek participating.
+Chapek appears to want to handle certain controversial topics through internal dialogue. Latondra Newton, <mark>Disney’s chief diversity officer, sent a message to staff on Wednesday referencing “deeply troubling and heartbreaking” developments in the news, noting that Chapek had asked “to meet with leaders in our company’s LGBTQ+ community to discuss how Disney can best support these important and valued employees and cast members.”</mark> She said <mark>the company would schedule</mark> a <mark num=4>March 22</mark> <mark num=3>“Reimagine Tomorrow”</mark> conversation — part of an ongoing program for Disney staff — <mark num=5>that will be dedicated to “issues of concern to our LGBTQ+ colleagues,”</mark> <mark>and announced a company-wide “Reimagine Tomorrow Global Summit” for April 13</mark> that will be “the first gathering of our employees worldwide to discuss our progress on and plans for improving diversity, equity and inclusion at Disney,” with <mark x>Chapek participating</mark>.
 
 </from>
+<comment>
+{% include header for=tustin %}
+
+Despite this <q>conversation on March 22nd</q> "quote" being shown on screen, it's not a real quote. He's basically just quoting his own script at us.
+
+</comment>
 </compare>
 
 <compare>
@@ -326,7 +358,6 @@ Chapek appears to want to handle certain controversial topics through internal d
 <u>[Scrolling]:</u>
 
 > “Disney is a leader in LGBTQ workplace equality and content-”
-{% assign timecode = "10:03" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 16" %}>
@@ -338,16 +369,17 @@ Though Disney declined to comment on the Florida legislation, <mark>the company�
 </from>
 </compare>
 
+{% assign timecode = "10:03" %}
 <compare>
 <james {% include timecode %}>
 
 <u>[James cuts off the quote.]</u> Content? A leader in LGBTQ content? Well that’s… news… Have we been looking at the same release schedule, Disney? Like ‘leader’ as in racing ahead of the competition, venturing into uncharted territory, and developing new innovations which inspire others to keep up with you? Because none of those things are going on these days. 
-{% assign timecode = "10:21" %}
 
 </james>
 <from></from>
 </compare>
 
+{% assign timecode = "10:21" %}
 <compare>
 <james {% include timecode %}>
 
@@ -399,12 +431,12 @@ But Guess who’s gonna have a rainbow logo during pride month? The answer is ev
 In all this discussion about raising awareness for gay rights, it’s like everyone stopped listening after the ‘awareness’ part. A whole lot of good awareness does when it comes to laws that *explicitly* target us — and now our parents. The ones who actually care about us! Because the lawmakers are sure AWARE we exist now! 
 
 And Florida is not alone in this renewed crusade against queer kids. Dozens of laws have popped up across the country trying to keep any gender or sexuality confirming language out of schools. Including a widespread book ban that, although took a chainsaw approach, famously banning books like *Maus* from classrooms, also took out any LGBTQ focused or inclusive books they could find as well. 
-{% assign timecode = "12:31" %}
 
 </james>
 <from></from>
 </compare>
 
+{% assign timecode = "12:31" %}
 <compare>
 <james {% include timecode %}>
 
@@ -432,31 +464,35 @@ Where else have you been legally required to report people who are doing things 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Now, <mark>Adri Pérez, a policy and advocacy strategist at the ACLU</mark>, pointed out <mark>that neither the letter nor the opinion are legally binding. No one</mark> actually <mark>has a legal duty to report someone receiving gender-affirming care</mark>. 
 
-> "They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR.[^told-npr] "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families." 
-
-[^told-npr]: "If the source literally didn't say "Perez told NPR" I'm not convinced he would have mentioned what the source for the quote was." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
+> <mark></mark>"They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR. "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families." 
 
 <mark>But the message is crystal clear</mark>. Regardless of what call to action may or may not be in a piece of legislation, the state is projecting the message to its citizens that descrimination<sup class="add">[sic: discrimination]</sup> is acceptable in this instance. And that the state will not prosecute persecution. That, if you believe that Americanness is qualified as adhering to American laws, bigotry is the ‘American’ thing to do. 
 
-Emmett Schelling, the executive director of the Transgender Education Network of Texas said: 
+<mark>Emmett Schelling, the executive director of the Transgender Education Network of Texas</mark> said: 
 
-> "The state leadership has said, 'We would rather see dead children ... instead of happy, loved, supported, thriving trans <span class="del">kids</span><span class="add">children</span> that are alive and well." 
+> <mark></mark>"The state leadership has said, 'We would rather see dead children ... instead of happy, loved, supported, thriving trans <span class="del">kids</span><span class="add">children</span> that are alive and well." 
 
 Texas <mark>proposed more than forty bills in 2021 alone that targeted trans and non-binary youth</mark> in the state. As if a bunch of queer minors are the most dangerous threat to American national security right now. Or ever. But especially right now especially. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.npr_article at="¶ 3" %}>
+<comment>
+{% include header for=lvence link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6" %}
+
+If the source literally didn't say "Perez told NPR" [in this first on-screen quote] I'm not convinced he would have mentioned what the source for the quote was.
+
+</comment>
+<from {% include citation for=page.cite.plagiarized.npr_article at="¶ 3-7" %}>
 <h3>The letter and the opinion don't hold legal ground, ACLU says</h3>
 
 But <mark>Adri Pérez, a policy and advocacy strategist at the ACLU</mark> of Texas, emphasized <mark>that neither the letter nor the opinion are legally binding. No one</mark> <mark>has a legal duty to report someone receiving gender-affirming care</mark>, they added.
 
 <mark>"They have no legal effect, and they cannot curtail anyone's constitutional rights," Pérez told NPR. "The attorney general and the governor can share their opinions, but it is just their partisan opinion that have been created to target transgender kids and their families."</mark>
 
-<mark>But the message is clear</mark>, said Emmett Schelling, the executive director of the Transgender Education Network of Texas.
+<mark>But the message is clear</mark>, said <mark>Emmett Schelling, the executive director of the Transgender Education Network of Texas</mark>.
 
 <mark>"The state leadership has said, 'We would rather see dead children ... instead of happy, loved, supported, thriving trans kids that are alive and well,' "</mark> Schelling told NPR.
 
@@ -469,10 +505,9 @@ Texas, among other states, has seen lawmakers propose dozens of anti-LGBTQ bills
 <james {% include timecode %}>
 
 <mark>In October</mark> 2021, <mark>the Texas legislature passed a bill barring transgender girls from playing on girls sports teams, and transgender boys from playing on boys sports teams. The law went into effect in January, making Texas the 10th state to enact similar legislation.</mark> 
-{% assign timecode = "15:18" %}
 
 </james>
-<from>
+<from {% include citation for=page.cite.plagiarized.npr_article at="¶ 12" %}>
 <h3>The bills take a toll on the mental health of trans kids</h3>
 
 <mark>In October</mark>, <mark>the Texas legislature passed a bill barring transgender girls from playing on girls sports teams and transgender boys from playing on boys sports team. The law went into effect in January, making Texas the 10th state to enact similar legislation.</mark>
@@ -480,15 +515,16 @@ Texas, among other states, has seen lawmakers propose dozens of anti-LGBTQ bills
 </from>
 </compare>
 
+{% assign timecode = "15:18" %}
 <compare>
 <james {% include timecode %}>
 
-So you can see these acts of hatred aren’t going away. But it’s not like there’s been no push back to this. <mark>Students across Florida staged school walkouts in response to</mark> the Don’t Say Gay bill. While politicians <mark>say LGBTQ issues are "not age-appropriate" for the age group</mark>, the student vehemently disagreed. <mark>Waving rainbow picket signs and shouting “We say gay!” in walkouts across the state</mark>. 
+So you can see these acts of hatred aren’t going away. But it’s not like there’s been no push back to this. <mark>Students across Florida staged school walkouts in response to</mark> <mark>the Don’t Say Gay bill</mark>. While politicians <mark>say LGBTQ issues are "not age-appropriate" for the age group</mark>, the student vehemently disagreed. <mark>Waving rainbow picket signs and shouting “We say gay!” in walkouts across the state</mark>. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 1" %}>
 
-<mark>Students across Florida staged school walkouts in response to</mark> legislation — dubbed the "Don't Say Gay" bill — that would prohibit discussing sexual orientation and gender identity in the state’s primary schools.
+<mark>Students across Florida staged school walkouts in response to</mark> legislation — dubbed <mark>the "Don't Say Gay" bill</mark> — that would prohibit discussing sexual orientation and gender identity in the state’s primary schools.
 
 Proponents of the measure, which is officially titled the Parents Education Rights bill, have contended that it would give parents more discretion over what their children can learn in school, and they <mark>say LGBTQ issues are "not age-appropriate" for the age group</mark>.
 
@@ -500,7 +536,7 @@ Students <mark>waving rainbow picket signs and shouting “We say gay!” in wal
 <compare>
 <james {% include timecode %}>
 
-> "The language and the supporters of the bill and the rhetoric around the bill really shows what this bill is, and it's an attempt to hurt queer people like me," 
+> <mark></mark>"The language and the supporters of the bill and the rhetoric around the bill really shows what this bill is, and it's an attempt to hurt queer people like me," 
 
 said <mark>High School senior Jack Petocz, who organized the statewide protests on social media</mark>. 
 
@@ -517,7 +553,7 @@ said <mark>High School senior Jack Petocz, who organized the statewide protests 
 
 In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary, said in an email</mark>: 
 
-> "All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.” 
+> <mark></mark>"All Floridians are free to exercise their First Amendment rights and peacefully express their opinions about any issue.” 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 21" %}>
@@ -531,7 +567,6 @@ In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary
 <james {% include timecode %}>
 
 <mark>After the rally, Jack Petocz was called into his principal's office and suspended "indefinitely." </mark>
-{% assign timecode = "16:17" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.msnbc_walkouts_article at="¶ 5" %}>
@@ -541,30 +576,31 @@ In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary
 </from>
 </compare>
 
+{% assign timecode = "16:17" %}
 <compare>
 <james {% include timecode %}>
 
 <mark>On Feb. 22, writer Benjamin Siemon, whose</mark> <mark>résumé includes several Disney credits like Ducktales</mark>, <mark>took to Twitter to call out the studio for not taking a stance on the Florida legislation.</mark> 
 
-> “I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed.” 
+> <mark></mark>“I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed.” 
 
-{% assign timecode = "17:07" %}
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 18" %}>
 
 <mark>On Feb. 22, writer Benjamin Siemon, whose</mark> extensive <mark>résumé includes several Disney credits like Ducktales</mark> and the podcast This Duckburg Life, <mark>took to Twitter to call out the studio for not taking a stance on the Florida legislation.</mark> <mark>“I love and have loved working for Disney, but I am deeply saddened by their silence when it comes to speaking out against the ‘Don’t Say Gay’ bill, especially now that an amendment suggests teachers must disclose a student’s sexuality even if they know that child will be harmed,”</mark> he shared with his 18,900 followers.
 
 </from>
 </compare>
 
+{% assign timecode = "17:07" %}
 <compare>
 <james {% include timecode %}>
 
 <mark>The Republican hard turn</mark> into banning the existence of queer kids has actually <mark>presented challenges to giant corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations</mark> <mark>in the state — including Marriott and Dell — condemned Governor Greg Abbott after</mark> his anti-trans statements. (Though it is of note that <mark>Disney is not a part of the Texas Competes group</mark>.) 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 19" %}>
 
 <mark>The GOP’s sharp rightward turn</mark> has <mark>presented challenges to major corporations in several states. Recently, Texas Competes, an LGBTQ advocacy organization representing more than 1,400 corporations</mark> with business interests<mark> in that state — including Marriott and Dell — condemned Gov. Greg Abbott after</mark> he likened gender-affirming care to child abuse in a recent letter to the state’s Department of Family and Protective Services. (<mark>Disney is not part of the group</mark>.) The ACLU is currently suing to block the state from investigating parents of trans youth.
 
@@ -572,15 +608,20 @@ In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<span class="del">Sam</span><span class="add">Scott</span>[^sam] Maxwell of <mark>The Orlando Sentinel</mark>[^indie-wire] <mark>wrote recently that Disney donated money to Florida State Senator Dennis Baxley</mark>, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> <mark>“Don’t Say Gay” legislation, as have Comcast, NBCUniversal</mark>, and <mark>AT&T</mark>. 
+<u>[James says "Sam Maxwell", but an on-screen correction says "Scott Maxwell"]</u>
 
-[^sam]: Says "Sam Maxwell", corrected on screen to "Scott Maxwell"
-[^indie-wire]: "He copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article." --[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6)
+Sam Maxwell of <mark>The Orlando Sentinel</mark> <mark>wrote recently that Disney donated money to Florida State Senator Dennis Baxley</mark>, who has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children, and that they’ve also backed other politicians who support <span class="add">the</span> <mark>“Don’t Say Gay” legislation, as have Comcast, NBCUniversal</mark>, and <mark>AT&T</mark>. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.hollywood_reporter %}>
+<comment>
+{% include header for=lvence link="https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kd2qul6" %}
+
+[James] copies from the Indie Wire, a secondary source reporting on the original Orlando Sentinel article.
+
+</comment>
+<from {% include citation for=page.cite.plagiarized.hollywood_reporter at="¶ 20" %}>
 
 <mark>The Orlando Sentinel's</mark> Scott Maxwell <mark>wrote recently that Disney cut checks to Florida State Sen. Dennis Baxley</mark> and other backers of the <mark>“Don’t Say Gay” legislation, as have Comcast, NBCUniversal</mark>, Charter Communications and <mark>AT&T</mark>. “Let’s be clear: These companies have every right to donate to whomever they want. But you also have a right to know about it — and to know that, in other states, businesses have used the political power they purchase to effectively neuter culture wars.” (Disney has also contributed to legislators who oppose the bill.)
 
@@ -592,12 +633,12 @@ In response to the rally <mark>Bryan Griffin, DeSantis’ deputy press secretary
 
 Baxley also <mark>once compared kids who live with same-sex parents to kids raised by alcoholics and abusers and later said</mark>, 
 
-> “I’m not phobic, but I simply can’t affirm homosexuality.” 
+> <mark></mark>“I’m not phobic, but I simply can’t affirm homosexuality.” 
 
 Because although these Republican state senators might be putting children, Disney’s main demographic, in danger, they also tend to keep corporate tax rates low. And which one weighs on the conscience of Disney investors more? The potential trauma and death of queer children? Or the idea of their stock price dropping? 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.indie_wire_article %}>
+<from {% include citation for=page.cite.plagiarized.indie_wire_article  at="¶ 6-7" %}>
 
 As the Orlando Sentinel stated, the bill’s Senate sponsor, Ocala Republican Dennis Baxley, has actively backed anti-gay legislation for years, including laws that would block gay couples from adopting children.
 
@@ -622,7 +663,7 @@ I can say that all we have to do is target Disney’s profits in response to thi
 
 Florida <mark>Democratic State Representative Anna Eskamani said</mark> <mark>that companies like Walt Disney’s priorities are clear</mark>: 
 
-> “The business lobby seems more focused on securing tax breaks…than living up to their so-called corporate values of inclusivity.” 
+> <mark></mark>“The business lobby seems more focused on securing tax breaks…than living up to their so-called corporate values of inclusivity.” 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 9" %}>
@@ -643,9 +684,11 @@ And all the while Disney stays quiet. Well… all except Abigail Disney. Writing
 <comment>
 {% include header for=tustin %}
 
-Sourced from Abigail Disney's tweet (from March 2, 2022): https://twitter.com/abigaildisney/status/1499513391236501507
+Sourced from Abigail Disney's [tweet from March 2, 2022](https://twitter.com/abigaildisney/status/1499513391236501507) {% include twitter-mirror link="https://twitter.com/abigaildisney/status/1499513391236501507" %}:
 
-It's not presented as a tweet, but technically is still a valid citation.
+> It’s pretty fundamental. As Einstein said, you can’t stand still on a moving train. When laws are being passed that are this hateful and dripping with prejudice, there is no neutrality. Not saying anything is saying a lot. @WaltDisneyCo get a spine. [https://t.co/amek38qsAC](https://www.hollywoodreporter.com/business/business-news/disney-florida-dont-say-gay-bill-1235103165/)
+
+Tweet links to {% include inline-citation for=page.cite.plagiarized.hollywood_reporter %}, one of the sources James was plagiarizing from. 
 
 </comment>
 </compare>
@@ -655,7 +698,7 @@ It's not presented as a tweet, but technically is still a valid citation.
 
 <mark>Abigail Disney also called her family legacy into question</mark> <mark>after it was revealed that the Walt Disney Company donated to</mark> the <mark>representatives who supported the “Don’t Say Gay” bill.</mark> Stating: 
 
-> “I could not be more unhappy with their political activities, both in terms of whom they fund and how they lobby. I would strongly support a law to require all corporations to reveal ALL of their funding and lobbying moves.” 
+> <mark></mark>“I could not be more unhappy with their political activities, both in terms of whom they fund and how they lobby. I would strongly support a law to require all corporations to reveal ALL of their funding and lobbying moves.” 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.indie_wire_article at="¶ 1" %}>
@@ -686,7 +729,6 @@ It’s worth noting that <mark>Walt Disney World is located near Orlando, Florid
 <james {% include timecode %}>
 
 But they said they <mark>won’t be releasing any movies in Russia for the foreseeable future</mark>. So at least we know that *war* can bring them to their senses. Though they were pretty okay with Russia arresting and disappearing queer folk for the last twenty years. 
-{% assign timecode = "20:19" %}
 
 </james>
 <from {% include citation for=page.cite.plagiarized.fanfest_russia at="¶ 10" %}>
@@ -696,6 +738,7 @@ If you think Sony Pictures are the only ones you’d be wrong. Warner Bros is pa
 </from>
 </compare>
 
+{% assign timecode = "20:19" %}
 <compare>
 <james {% include timecode %}>
 
@@ -712,9 +755,7 @@ But for some people, being able to ‘scrape by’ is a best-case scenario. Let�
 
 If this moral population is able to make ends meet comfortably, they will naturally demonstrate their dissatisfaction with the discriminatory practices. However, take this same population, and over-work it to the point of chronic burnout. This population now exists in a situation where it is nearly impossible for large groups to make a living without working multiple jobs, or working too much at one job. 
 
-They are crushed under a successful workplace propaganda effort that workers rights are detrimental to a worker’s income, and where the only valid work ethic is to work as much as humanly possible. Between work, family, and kids, are they going to have the time or energy to actively participate in political discourse? Looking south from over the border,[^canada] I’m honestly surprised — and impressed — that as many people in Florida and Texas have showed up to stand against these bigoted laws as they have. 
-
-[^canada]: As in looking at America from Canada, where James was based.
+They are crushed under a successful workplace propaganda effort that workers rights are detrimental to a worker’s income, and where the only valid work ethic is to work as much as humanly possible. Between work, family, and kids, are they going to have the time or energy to actively participate in political discourse? Looking south from over the border <u>[from Canada]</u>, I’m honestly surprised — and impressed — that as many people in Florida and Texas have showed up to stand against these bigoted laws as they have. 
 
 Right-wing lawmakers have an invested interest in limiting the number of people who benefit from widespread social rights. The less groups of people who are politically ‘valid’ — the easier it is to develop consistent propaganda to manipulate these people. 
 
@@ -725,9 +766,9 @@ Right-wing lawmakers have an invested interest in limiting the number of people 
 <compare>
 <james {% include timecode %}>
 
-And also generating a horde of exploitable labor from the underclass. That last part is key. <mark>Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens.</mark> They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’ 
+And also generating a horde of exploitable labor from the underclass. That last part is key. <mark fc=false>Because, a fun fact that lives in my head rent-free is that, at its peak, roughly 70% of the Roman Empire’s population… were not Roman citizens. They were slaves. Slaves, and freed slaves, throughout the empire’s domination, made up the bulk of what we now consider to be ‘the Roman people.’</mark> 
 
-That other 30% — and an even smaller fraction was actually the socially superior ‘Patrician’ class — required a legion of slavery in order for society to function. So if we’re still sitting around wondering why we can’t all just get along, it’s because a collection of social superiors NEED an underclass in order for their lives to function. Costs of labor cut into profits. And if slavery is ‘illegal’ — except for instances of mass-incerceration — the next best thing is to make it as cheap as possible to exploit someone. 
+<mark fc=false>That other 30% — and an even smaller fraction was actually the socially superior ‘Patrician’ class — required a legion of slavery in order for society to function.</mark> So if we’re still sitting around wondering why we can’t all just get along, it’s because a collection of social superiors NEED an underclass in order for their lives to function. Costs of labor cut into profits. And if slavery is ‘illegal’ — except for instances of mass-incerceration — the next best thing is to make it as cheap as possible to exploit someone. 
 
 And someone is easier to exploit if the government is consistently de-valuing their identity and their selves. What right do you have to ask for a living wage if the government itself has deemed you as not being suitable to exist? 
 
@@ -735,7 +776,7 @@ And someone is easier to exploit if the government is consistently de-valuing th
 <comment id="slave_population">
 {% include header for=tustin %}
 
-1. This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
+This is very off, given what [Wikipedia](https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire#cite_ref-78) says. It varies greatly based on region, but none are close 70%. James *might* have been thinking of Sparta, [where Herodotus claims](https://en.wikipedia.org/wiki/Helots) in his Histories that "there were seven helots for each of the 5000 Spartan soldiers at the time of the Battle of Plataea in 479 BC." (Thanks to Erraticonteuse on Discord.)
 
 </comment>
 </compare>
@@ -746,6 +787,10 @@ And someone is easier to exploit if the government is consistently de-valuing th
 Meanwhile, non-queer-people can’t seem to understand WHY suicide is still highest per-capita among queer youth, specifically queer trans youth. You know what they need? MORE AWARENESS. That’s all they need. More awareness. 
 
 <u>[Doing a 'Susan' impression:]</u> Why are there all these suicides? Haven’t all of these depressed queer kids seen the rainbow logos every June? Haven’t they seen all the gays Disney’s been putting in movies? Like that one in Cruella, or Beauty and the Beast, or Jungle Cruise. I mean they never said they were gay in the movie but still. OH, and that guy from the Eternals. I didn’t go see it but I’m sure these LBGTABC kids did. Don’t they know they’re being seen? I’m doing MY part! I watch Queer-Eye on Netflix! 
+
+</james>
+<from></from>
+<james {% include timecode %}>
 
 The objective of these laws is not to erase queer people. These lawmakers aren’t dumb— <span class="del">Well…</span> most of them… The corperate moguls funneling money into these lawmakers aren’t dumb. They know queer people have this weird habbit of repopulating themselves because, i don’t know, deviations from cis-hetero identity expressions are somehow doccumented throughout all of biology. 
 
@@ -760,6 +805,10 @@ These laws are not to erase queer people, it’s to make our lives as difficult 
 
 Even though lawmakers and CEOs and billionaires may not really have a problem with queer people, in order to have an easily available desperate underclass who will be (presumably) grateful to work whatever job they’re given, they require the public at large to put as much social pressure on this group as possible. 
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 And when it comes to corporations and their apparent support of rights, their silence is in their best interest. Because it is them who benefit from the underclasses. The more people are persecuted, and the more severe that persecution, the less they have to actually do to turn around and trumpet how progressive they are. They give us less, they pay us less, and we’re grateful because ‘LGBTQIA-Friendly cooperation to the rescue!’ All the while indirectly supporting our persecution because ‘tax breaks’ — or worse, being entirely indifferent to our suffering and trying to turn around and make a buck off us anyway. 
 
 </james>
@@ -773,32 +822,37 @@ We’re not a community to them, we’re a sponge that they can squeeze anything
 
 Without competition to see who can make the best queer content, we’re sitting at the wrong end of half a dozen monopolies of hetero-hegimonistic CEOs and billionares who think they have the right to decide what we want. Because they’ve been systematically eliminating — not only our options — but our very rights and dignities. 
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 They’ve got this lie going where they want us to think that we need them. That we have no other option but to support them because who else are we going to support. Big companies like Disney are like Buffalo Bill from the *Silence of the Lambs*. Unable to actually change or transition, but more than willing to wear the skin of any minority that suits them. 
+
+So in spite of the fact that these ‘Don’t Say Gay’ bills may end up being toothless or, struck down by higher courts, and that there may be no way to actually enforce them, they are projecting to the public at large that their anti-trans and anti-gay laws are not bigotry — they are the right way to be an American. That people who feel that ‘cis’ is a slur against non-trans people have the backing of, at least, the state government. 
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
-
-So in spite of the fact that these ‘Don’t Say Gay’ bills may end up being toothless or, struck down by higher courts, and that there may be no way to actually enforce them, they are projecting to the public at large that their anti-trans and anti-gay laws are not bigotry — they are the right way to be an American. That people who feel that ‘cis’ is a slur against non-trans people have the backing of, at least, the state government. 
 
 These are laws to embolden people who were already bigoted, or to coerce people who were indifferent. Or maybe who knows? There’s gonna be an anti-queer gestapo with state funding turning up soon. 
 
 This is America. Who knows anymore? 
-{% assign timecode = "27:39" %}
 
 </james>
 <from></from>
 </compare>
 
+{% assign timecode = "27:39" %}
 <compare>
 <james {% include timecode %}>
 
 I’m tired. I’m really tired. I’m tired of begging these shit-heads for representation. And tired of fighting with these other assholes to please look at us as people. It would be very easy for Disney to come out and say “We oppose what the state legislature is proposing in Florida and we may not renew our certain land leases within the state”. 
 
 It’s an empty threat, because Disney would never <span class="add">actually</span> abandon Walt Disney World in Orlando, but that’s 77,000 people who would lose their jobs at Disney if the state goes through with these draconian hateful laws. That’s 77,000 people who would be activated to stop these laws from being passed. Just say the words Disney. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
 
 I’m not asking for gay superheroes this time. We got one, and he was awesome. I’m not asking for a gay prince charming. I’m not asking for a trans disney princess. I’m asking you to say “No.” when these vicious politicians say “You can’t say gay, but you sure as hell can say hate.” You can say “no”. You can say “We say gay” like these kids did. They have more balls than your billion dollar corporation and your heartless CEO. Tell the state you’ll pull your business out of there. 
 
@@ -813,10 +867,12 @@ Do something.
 </compare>
 
 <compare>
-<credits>
+<credits class="closing">
 
 > Special thanks to  
 Rose Ophelia Shepard
+
+<u>[Patrons roll over a fast-paced piano.]</u>
 
 </credits>
 <comment>
@@ -829,7 +885,7 @@ Rose is a YouTube user with about 7 subscribers and no videos. They commented on
 </comment>
 </compare>
 
-Patrons roll over a fast-paced piano.
+
 
 
 {% comment %}

@@ -20,11 +20,11 @@
 		</div>
 	{%- endif -%}
 	{%- case include.video.status -%}
-		{%- when "Incomplete", "Missing" -%}
+		{%- when "Incomplete", "Missing", "Superseded" -%}
 			<div class="status alert">{{ include.video.status }}</div>
-		{%- when "Finished" -%}
+		{%- when "In Progress" -%}
 			<div class="status ready">{{ include.video.status }}</div>
-		{%- when "Complete" -%}
+		{%- when "Complete", "Finished" -%}
 			<div class="status complete">{{ include.video.status }}</div>
 		{%- else -%}
 			<div class="status">{{ include.video.status }}</div>

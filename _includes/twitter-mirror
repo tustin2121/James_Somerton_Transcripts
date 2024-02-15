@@ -1,2 +1,2 @@
 {%- comment %} input: Twitter link {% endcomment -%}
-<a href="https://twiiit.com{{ include.link | remove_first: "https://twitter.com" }}">Twitter mirror</a>
+<a href="https://twiiit.com{{ include.link | remove_first: "https://twitter.com" }}">[Twitter mirror]</a>

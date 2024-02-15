@@ -17,13 +17,15 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=8gOOSspflfA"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230511+UtRyi-e_HTc+Where+The+%EF%BC%82Bury+Your+Gays%EF%BC%82+Trope+Came+From.webm"
-# description: "a video essay — I mean, a reading of Vito Russo's book — covering the "
+description: "a video essay — I mean, a reading of Vito Russo's book — covering many instances of gay characters dying in the end."
 notes:
   - hbomb
   - w-james
 
 contributors:
   downloaded: $cite$TerraJRiley
+  formatting: $cite$tustin2121
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vR4te02uphkP26rSqCOY-pdm6EY0xiKLHn01xMYFpJaTO1Mh-efvh7PdVNP0xXwHaZ4SQSsr9wE6hvF/pub
 
 cite:
   clips: !!map

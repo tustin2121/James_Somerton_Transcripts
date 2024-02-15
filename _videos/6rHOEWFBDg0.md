@@ -17,6 +17,7 @@ notes:
 
 contributors:
   downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRdleA0_a_Nf6OFYVWhFE_bTdi2ADco71HjJtNKrGacMyIzq9_fppXf5q2XhwIHJsWnvGDRLdZZQpve/pub
   citation: 
     - "[Todd in the Shadows](https://twitter.com/ShadowTodd/status/1731373746920022070)" #processed
     - "[Hbomberguy](https://twitter.com/Hbomberguy/status/1731399574630355324)" #processed
