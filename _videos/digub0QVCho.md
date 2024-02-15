@@ -507,7 +507,7 @@ Truthfully, <mark>it's difficult to argue that queer panic should be called eith
 https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.489
 -490
 
-<msrk>It is difficult to argue that gay panic should be called either a justification or an excuse. Justification suggests the defendant did the right thing or took the course of action that society would have wanted him to take.</mark> A man who kills a gay man just because that man made a pass at him does not act the way a civilized society should want its men to act.<sup>78</sup> Gay panic should not be recognized as a justification defense.
+<mark>It is difficult to argue that gay panic should be called either a justification or an excuse. Justification suggests the defendant did the right thing or took the course of action that society would have wanted him to take.</mark> A man who kills a gay man just because that man made a pass at him does not act the way a civilized society should want its men to act.<sup>78</sup> Gay panic should not be recognized as a justification defense.
 
 <mark>An excuse defense suggests that the defendant is not as morally blameworthy</mark> as one who does the same action without the excusing condition. It is difficult to say that the man who kills a gay man in response to a non-violent homosexual advance is not as morally blameworthy <mark>as someone who kills for any other reason.</mark>
 
@@ -602,7 +602,7 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 <mark>*C. Diminished Capacity*</mark>
 
-Another doctrinal hook for defendants charged with murdering a gay man is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a mental disease or defect which affected his capacity to premeditate and deliberate or form the requisite intent to kill.</mark> There are two variants of the diminished capacity defense. Under the mens rea variant, “evidence that [the defendant] suffered from a mental disease or defect at the time of his conduct is admissible whenever it is relevant to prove that he lacked a mental state that is an element of the charged offense.”<sup>103</sup> Under the partial responsibility variant, the charge is reduced from murder to manslaughter because the defendant is seen as “less blameworthy and therefore less deserving of punishment, than a killer who acts with a normal state of mind.”<sup>104</sup>
+<mark>Another doctrinal hook for defendants charged with murdering a gay man is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a mental disease or defect which affected his capacity to premeditate and deliberate or form the requisite intent to kill.</mark> There are two variants of the diminished capacity defense. Under the mens rea variant, “evidence that [the defendant] suffered from a mental disease or defect at the time of his conduct is admissible whenever it is relevant to prove that he lacked a mental state that is an element of the charged offense.”<sup>103</sup> Under the partial responsibility variant, the charge is reduced from murder to manslaughter because the defendant is seen as “less blameworthy and therefore less deserving of punishment, than a killer who acts with a normal state of mind.”<sup>104</sup>
 
 <footer>
 
@@ -632,7 +632,7 @@ Now that we've taken a law class, it's time to take a history class. David Kamme
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 1
 
-<mark>The first time Jack Kerouac’s name appeared in the press was</marl> August 17, 1944, <mark>when he and William Burroughs were arrested as material witnesses to murder.</mark> While the headlines were consumed that day with news of the Allies’ successful landing on the southern coast of France, the murder was sensational enough to make the front page of the New York Times: “Columbia Student Kills Friend and Sinks Body in Hudson River.”
+<mark>The first time Jack Kerouac’s name appeared in the press was</mark> August 17, 1944, <mark>when he and William Burroughs were arrested as material witnesses to murder.</mark> While the headlines were consumed that day with news of the Allies’ successful landing on the southern coast of France, the murder was sensational enough to make the front page of the New York Times: “Columbia Student Kills Friend and Sinks Body in Hudson River.”
 
 </from>
 </compare>
@@ -642,24 +642,29 @@ https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the
 <compare>
 <james {% include timecode %}>
 
-David Kammerer and Carr had met in Saint Louis at a summer camp for boys when Kammerer was an instructor, and Carr, a student from a middle class family. Kammerer earned a Ph.D. in English and had taught literature and physical education at Washington University. What started as an infatuation then turned into a decade long attraction. He followed the young Carr across the country, from Andover to the University of Chicago to Maine, before moving to New York City. When Carr entered Columbia University. The Burroughs biographer, Ted Morgan, related that while many believed these moves reflected Carr's attempts to get away from Kammerer, others were dubious.
+David <mark>Kammerer and Carr had met in Saint Louis at a summer camp for boys when Kammerer was an instructor and Carr a student. From a middle class family, Kammerer earned a Ph.D. in English and had taught literature and physical education at Washington University. What started as an infatuation then turned into a decade long attraction. He followed the young Carr across the country, from Andover to the University of Chicago to Maine, before moving to New York City. When Carr entered Columbia University. The Burroughs biographer, Ted Morgan, related that "while many believed these moves reflected Carr's attempts to 'get away from Kammerer,' others were dubious. For 'when you saw them together, they seemed to be the best of friends, drinking and horsing around.'</mark> 
 
 </james>
 <from>
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 6 (after first page break)
 
-Kammerer and Carr had met in St. Louis at a summer camp for boys, where Kammerer was an instructor and Carr a student. From a middle-class family, Kammerer earned a Ph.D. in English, and had taught literature and physical education at Washington University. What started as an infatuation turned into a decade-long attraction. He followed the young Carr across the country, from Andover, to the University of Chicago, to Bowdoin College in Maine, before moving to New York City when Carr entered Columbia University. The Burroughs biographer Ted Morgan related that while many believed these moves reflected Carr’s attempt to “get away from Kammerer,” others were dubious, for “when you saw them together, they seemed to be the best of friends, drinking and horsing around.” In his police confession, Carr claimed that over the years of their acquaintance, Kammerer had several times “made improper advances to him, but that he had always rebuffed the older man.”
+<mark>Kammerer and Carr had met in St. Louis at a summer camp for boys, where Kammerer was an instructor and Carr a student. From a middle-class family, Kammerer earned a Ph.D. in English, and had taught literature and physical education at Washington University. What started as an infatuation turned into a decade-long attraction. He followed the young Carr across the country, from Andover, to the University of Chicago, to Bowdoin College in Maine, before moving to New York City when Carr entered Columbia University. The Burroughs biographer Ted Morgan related that while many believed these moves reflected Carr’s attempt to “get away from Kammerer,” others were dubious, for “when you saw them together, they seemed to be the best of friends, drinking and horsing around.”</mark> [...]
 
 </from>
+<comment>
+
+James makes up another quote when he's just taking another sentence from the article.
+
+</comment>
 </compare>
 
-{% assign timecode = "00:15:22" %}
+{% assign timecode = "00:15:28" %}
 
 <compare>
 <james {% include timecode %}>
 
-For when you saw them together, they seemed to be the best of friends drinking and horsing around. The pair were friends with both Kerouac and Burroughs, who both reportedly had a crush on the young Carr. He was like a magnet for men struggling with their sexualities, not just Kammerer, Kerouac and Burroughs, but Allen Ginsberg as well. It was later postulated that this was because of Carr's feminine look.
+The pair were friends with both Kerouac and Burroughs, who both reportedly had a crush on the young Carr. He was like a magnet for men struggling with their sexualities, not just Kammerer, Kerouac and Burroughs, but Allen Ginsberg as well. It was later postulated that this was because of Carr's feminine look.
 
 </james>
 <from></from>
@@ -670,10 +675,16 @@ For when you saw them together, they seemed to be the best of friends drinking a
 <compare>
 <james {% include timecode %}>
 
-Kerouac in particular was torn. He was engaged to a wealthy heiress, Edie Parker, but head over heels For Carr, Kammerer had become intensely jealous when both Kerouac and Allen Ginsberg competed for Carr's affection. Ultimately, Kerouac and Carr formed a close relationship with her. Carr, Ever engaged with any of these men sexually is still up for debate. He certainly drew their attention and seemed to have no problem flirting with them even in public.
+Kerouac in particular was torn. He was engaged to a wealthy heiress, Edie Parker, but head-over-heels for Carr. <mark>Kammerer had become intensely jealous when both Kerouac and Allen Ginsberg competed for Carr's affection. Ultimately, Kerouac and Carr formed a close relationship.</mark> Whether Carr ever engaged with any of these men sexually is still up for debate. He certainly drew their attention and seemed to have no problem flirting with them even in public.
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 12
+
+In fact, the twenty-two-year-old Kerouac, according to the biographer Ellis Amburn, was struggling with his own sexual desires that summer, torn between his feeling for Lucien Carr and pressure to marry the wealthy Edie Parker. <mark>Kammerer had become intensely jealous when both Kerouac and Allen Ginsberg competed for Carr’s affection. Ultimately, Kerouac and Carr formed a close relationship.</mark> Kerouac affectionately called Lucien “Lou,” and Carr returned such affections with his usual impertinence, calling Jack his “has-been queen.”
+
+</from>
 </compare>
 
 {% assign timecode = "00:16:13" %}
@@ -681,7 +692,7 @@ Kerouac in particular was torn. He was engaged to a wealthy heiress, Edie Parker
 <compare>
 <james {% include timecode %}>
 
-So it shouldn't have come as a shock when David Kammerer finally made a move on him. Carr responded by digging his Boy Scout knife into Camera's heart multiple times. Once the man was dead on the ground, car tied his hands and feet, wrapped cameras, belt around his arms, weighted his body with rocks, and then dumped it in the nearby Hudson River.
+So it shouldn't have come as a shock when David Kammerer finally made a move on him. Carr responded by digging his Boy Scout knife into Camera's heart multiple times. Once the man was dead on the ground, Carr tied his hands and feet, wrapped Kammerer's belt around his arms, weighted his body with rocks, and then dumped it in the nearby Hudson River.
 
 </james>
 <from></from>
@@ -692,10 +703,16 @@ So it shouldn't have come as a shock when David Kammerer finally made a move on 
 <compare>
 <james {% include timecode %}>
 
-Carr fled to William Burroughs for help. Burroughs gave Carr some money and advised him to turn himself in. Baker went to see Kerouac instead. Kerouac helped Carr get rid of the knife and bury cameras, glasses. Two days later, Carr confessed to police. At first they didn't believe the young man's story. But the same day the Coast Guard found camera, his body floating off 108th Street.
+<mark>Carr fled to William Burroughs for help. Burroughs gave Carr some money and advised him to turn himself in, but Carr went to see Kerouac instead. Kerouac helped Carr get rid of the knife and bury Kammer's glasses. Two days later, Carr confessed to police. At first they didn't believe the young man's story. But the same day the Coast Guard found Kammerer's body floating off of 108th Street.</mark>
 
 </james>
-<from></from>
+<from>
+
+https://archive.is/nnLOc#selection-607.0-607.444 para 9
+
+He stabbed Kammerer in the heart, disposed of the body, and <mark>went to Bill Burroughs for help. Burroughs gave Carr some money and advised him to turn himself in, but Carr went to see Kerouac instead. Kerouac helped Carr get rid of the knife and bury Kammerer’s glasses. Two days later, Carr confessed to police. At first, they didn’t believe the young man’s story but that same day the coast guard found Kammerer’s body floating off 108th Street.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:16:56" %}
@@ -703,62 +720,83 @@ Carr fled to William Burroughs for help. Burroughs gave Carr some money and advi
 <compare>
 <james {% include timecode %}>
 
-Once in custody, Carr told police that over the years of their acquaintance, Kammerer had several times made improper advances to him, but that he had always rebuffed the older man. The phrase improper advances was not new to crime stories in the 1940s. Since the late 19th century, such terms were common in the press to describe verbal and physical assaults on women.
+Once in custody, Carr told police that over the years of their acquaintance, Kammerer had several times made improper advances to him, but that he had always rebuffed the older man. 
+
+<mark>The phrase "improper advances" was not new to crime stories in the 1940s. Since the late 19th century, such terms were common in the press to describe verbal and physical assaults on women. They connoted criminal actions that simmered with sexual abuses, too shocking to make explicit. While the terms improper advance or indecent advance appeared in queer crime stories in the thirties, it was the post-World War II years when such terms came to embody the perceived threats of gay men.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 6-7
+
+[...] <mark>In his police confession, Carr claimed that over the years of their acquaintance, Kammerer had several times “made improper advances to him, but that he had always rebuffed the older man.”</mark>
+
+<mark>The phrase improper advances was not new to crime stories in the forties. Since the late nineteenth century, such terms were common in the press to describe verbal and physical assaults on women. They connoted criminal actions that simmered with sexual abuses too shocking to make explicit. While the terms improper advance or indecent advance appeared in queer crime stories in the thirties, it was in the post–World War II years when such terms used in the press and the courtroom came to embody the perceived threats of homosexuals on the home front.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:17:19" %}
+{% assign timecode = "00:17:38" %}
 
 <compare>
 <james {% include timecode %}>
 
-They connoted criminal actions that simmered with sexual abuses, too shocking to make explicit. While the terms improper advance or indecent advance appeared in queer crime stories in the thirties, it was the post-World War two years when such terms came to embody the perceived threats of gay men. Initially, Assistant District Attorney Jacob Grimmett had doubts about Carr's confession, telling the New York Times he was uncertain whether he was dealing with a slayer or a lunatic.
+<mark>Initially, Assistant District Attorney Jacob Grumett had doubts about Carr's confession, telling the *New York Times* he "was uncertain whether he was dealing with a slayer or a lunatic." Determining whether the crime was the work of a vulnerable teenager or a crazed, psychopathic queer lover would become the compelling question for detectives and journalists alike. Solving this mystery depended on solving the riddle of Carr's sexuality.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 8
+
+<mark>Initially, Assistant District Attorney Jacob Grumet had doubts about Carr’s confession, telling the *New York Times* he “was uncertain whether he was dealing with a slayer or a lunatic.” Determining whether the crime was the work of a vulnerable teenager or a crazed, psychopathic queer lover would become the compelling question for detectives and journalists alike. Solving this mystery depended on solving the riddle of Carr’s sexuality.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:17:50" %}
+{% assign timecode = "00:18:07" %}
 
 <compare>
 <james {% include timecode %}>
 
-Determining whether the crime was the work of a vulnerable teenager or a crazed, psychopathic queer lover would become the compelling question for detectives and journalists alike. Solving this mystery depended on solving the riddle of Carr's sexuality. Initial press accounts described Carr with a myriad of unmanly attributes, including a pale, slender youth, refined and a frail, blond youth whose frail, build and earnest expression might easily arouse sympathy.
+<mark>Initial press accounts described Carr with a myriad of unmanly attributes, including "a pale, slender youth," "refined," and "a frail blond youth, whose frail build and earnest expression might easily arouse sympathy." The New York tabloids presented the teen as a helpless victim of a psychotic homosexual attack. The *Daily Mirror* called the crime a twisted sex murder. The *New York Daily News* described Carr stabbing as an "honor slaying." The *Daily News* contrasted the mild expression on Carr's young face against the 33 year old former English teacher. In drawing this contrast between youthful innocence and sexual deviance, it was often difficult to discern who was the real victim of the crime.</mark>
 
 </james>
-<from></from>
+<from>
+
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 9
+
+<mark>Initial press accounts described Carr with a myriad of unmanly attributes, including “a pale slender youth,” “refined,” and “a frail blond youth,” “whose frail build and earnest expression might easily arouse sympathy.” The New York tabloids presented the teen as a helpless victim of a psychotic homosexual attack. The *Daily Mirror* called the crime a “twisted sex murder.” The *New York Daily News* described Carr’s stabbing as an “honor slaying.” The *Daily News* contrasted the “mild” expression on Carr’s “young face” against the “33 year old former English teacher” who, Carr claimed, was “a homosexual.” In drawing this contrast between youthful innocence and sexual deviance, it was often difficult to discern who was the real victim of the crime.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:18:23" %}
+{% assign timecode = "00:18:55" %}
 
 <compare>
 <james {% include timecode %}>
 
-The New York tabloids presented the teen as a helpless victim of a psychotic homosexual attack. The Daily Mirror called the crime a twisted sex murder. The New York Daily News described Carr stabbing as an honor slaying. The Daily News contrasted the mild expression on Carr's young face against the 33 year old former English teacher, drawing this contrast between youthful innocence and sexual deviance.
+By September, when Carr entered a guilty plea of second-degree manslaughter, the assistant district attorney believed the Carr had not intended to kill Kammerer, a homosexual, but the Kammere for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence had made young Carr emotionally unstable. In her testimony, Mrs. Carr described Kammerer as a veritable Iago who had corrupted her son "purely for the love of evil."
 
 </james>
-<from></from>
+<from>
+https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 10
+
+
+By September, when Carr entered a guilty plea of first-degree manslaughter, the Assistant District Attorney believed that Carr “had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer’s persistence,” the prosecutor added, “had made young Carr ‘emotionally unstable.’ ” In her testimony, Mrs. Carr described Kammerer as a “veritable Iago” who had corrupted her son “purely for the love of evil.”
+
+</from>
+<comment>
+
+James changes first-degreee to second-degree, presumably because the Medium article says "he pleaded guilty to second-degree manslaughter." I looked but I couldn't find which one he actually pleaded. I suspect it was first-degree manslaughter because it makes more sense from what I read about New York laws; second-degree manslaughter, also caused reckless homicide, is when you unintentionally cause someone else's death through reckless behavior, while first-degree manslaughter is when you intentionally kill someone while in a state of "extreme emotional disturbance."
+
 </compare>
 
-{% assign timecode = "00:18:49" %}
+{% assign timecode = "00:19:25" %}
 
 <compare>
 <james {% include timecode %}>
 
-It was often difficult to discern who was the real victim of the crime. By September, when Carr entered a guilty plea of second degree manslaughter, the assistant district attorney believed the car had not intended to kill Kammerer, a homosexual. But the camera for more than five years had persisted in making advances to Carr, which always were repulsed. Cameras persistence had made young Carr emotionally unstable.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:19:15" %}
-
-<compare>
-<james {% include timecode %}>
-
-In her testimony, Mrs. Carr described Kammerer as a veritable Iago who had corrupted her son purely for the love of evil. Carr served only two years in a reformatory. Whether Kammerer was a sexual predator, murdered in self-defense or Carr was mentally unstable, have both been argued ever since. Not long before the murder. Cartwright committing suicide by putting his head in an oven which he later swore was performance art and Kammerer did have a habit of popping up wherever Carr was, no matter how many times he moved.
+Carr served only two years in a reformatory. Whether Kammerer was a sexual predator, murdered in self-defense or Carr was mentally unstable, have both been argued ever since. Not long before the murder, Carr tried committing suicide by putting his head in an oven which he later swore was performance art. And Kammerer did have a habit of popping up wherever Carr was, no matter how many times he moved.
 
 </james>
 <from></from>
@@ -769,7 +807,7 @@ In her testimony, Mrs. Carr described Kammerer as a veritable Iago who had corru
 <compare>
 <james {% include timecode %}>
 
-The facts in this case are elastic, with too many contradicting stories over the last seven decades. But wherever the truth may lie, one thing is for sure, though the gay panic defense was not technically used in this case. It seeds were planted in the honor killing defense. The ability to more or less get away with murder. If you felt threatened by someone's sexuality, making the victim into the monster.
+The facts in this case are elastic, with too many contradicting stories over the last seven decades. But wherever the truth may lie, one thing is for sure, though the gay panic defense was not *technically* used in this case, its seeds were planted in the honor killing defense. The ability to more or less get away with murder if you felt threatened by someone's sexuality, making the victim into the monster.
 
 </james>
 <from></from>
