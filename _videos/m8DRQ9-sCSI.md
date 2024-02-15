@@ -57,6 +57,8 @@ cite:
   plagiarized: !!map
     celluloid_closet: { color: 10, short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", url: "https://www.youtube.com/watch?v=YndHaKuD6MI" }
     peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
+    maddy_myers: { color: 12, short: "On Stucky Fandom (Myers, 2016)", full: "Myer, M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", url: "https://www.themarysue.com/why-cant-stucky-just-be-friends/" }
+    jill_gutowitz: { color: 7, short: "Ocean's 8 (Gutowitz, 2018)", full: "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", url: "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/" }
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
     aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
@@ -2221,31 +2223,53 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 <compare>
 <james {% include timecode %}>
 
-The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit.
+The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. <mark>Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple.</mark> I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. <mark>Queer people around the world noticed it.</mark> Even straight people! <mark>One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 1" %}>
+
+The all-female *Ocean*’s reboot hits theaters today, starring eight vibrant and galvanic women in the titular roles, and though critics are claiming Anne Hathaway [stole the show](https://www.vanityfair.com/hollywood/2018/06/anne-hathaway-oceans-8-performance-review-daphne-kluger) (she totally did), I had my eye on the bubbling sexual tension between the two leading ladies. <mark>Debbie Ocean and Lou, played by Sandra Bullock and Cate Blanchett, played, essentially, a couple.</mark> <mark>Many a [gay](https://www.intomore.com/culture/identity/what-does-it-mean-to-be-gay/) have picked up on the inherent [queerness](http://www.vulture.com/2018/06/oceans-8-is-a-lesbian-movie.html) of this movie and the nature of their relationship,</mark> and multiple moments in the con film nod to a relationship between the two. <mark>And while this is inarguably a gay movie put forth by [lesbian](https://www.intomore.com/culture/identity/mean-come-lesbian/) propagandists as a means to convert heterosexuals and lead them down the path of righteousness — no one in the film actually confirms this relationship.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple. I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. Queer people around the world noticed it. Even straight people!
-
-One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie. So... why did so many people read it that way?
+So... why did so many people read it that way? <mark>Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection.</mark> <mark>But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 2" %}>
+
+Lesbian bias aside, I can’t imagine watching this movie and not thinking Cate and Sandra have a long-winded romantic history together. <mark>First of all, the *Carol* actress’s character reads as extremely gay. Every outfit she wears was crafted to queer perfection,</mark> from her emerald velvet suit to her pastel suit to her jumpsuit to—look, there were suits. <mark>But if you can get past the aesthetic porn of *Ocean’s 8*, you’ll see there’s something real and tender between Debbie and Lou.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection. But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou. Coming at this film with a queer lens, I initially felt like the filmmakers were saying it without actually saying it, giving us queer characters whose whole point in life isn't just being queer characters. While telling about her history of running Cons with Lou, Debbie refers to Lou as as her partner. Business partner? Life partner? Yes.
-
-When recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch". Were they strapped for cash? Or on the Rocks romantically? Again, yes. 
+Coming at this film with a queer lens, <mark>I initially felt like the filmmakers were saying it without actually saying it,</mark> giving us queer characters whose whole point in life isn't just being queer characters. <mark>While telling about her history of running cons with Lou, Debbie refers to Lou as as her partner.</mark> <mark>Business partner? Life partner? Yes.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3" %}>
+
+<mark>At times, I felt like, maybe the filmmakers are saying it without having to actually say it.</mark> <mark>While recounting her history of running cons with Lou, Debbie refers to Lou as her “partner,”</mark> which can be up for interpretation: <mark>Does this moniker exclusively refer to their business relationship, or is there something more?</mark> It’s an interesting choice of words, made more confusing by the next play.
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that. <mark fc=false>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+When <mark>recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch". Were they strapped for cash? Or on the Rocks romantically? Again, yes.</mark> <mark>Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that.</mark> <mark fc=false>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
 
 </james>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3" %}>
+
+Bullock’s extremely chic lead <mark>recalls a rock-bottom moment for the two, when they were pulling scams at an elderly home’s bingo night. Debbie refers to the period of time 10 years ago as her and Lou’s “rough patch.” Again, up for interpretation: Was it “rough” because they were strapped for cash? Or were they on the rocks romantically? Tough to say, because the moment is so catastrophically ambiguous.</mark> <mark>Queer women would interpret this moment as an exclusively lesbian admission, while clueless straight people would easily watch and think, “Aww, gal pals”</mark> — <mark>a conundrum known all too well by the gay community as The Great Straight Divide.</mark>
+
+</from>
 <comment id="historians">
 {% include header for=tustin %}
 
@@ -2253,16 +2277,28 @@ I have never heard of this term before in my life. I've also asked and several o
 
 It's definitely a thing that online queer people make fun of all the time, but usually in terms of, like, "historians", eg, ["Historians will say that they were Just Friends"](https://www.reddit.com/r/AskHistorians/comments/kqkmk3/historians_say_they_were_just_friends_but_they/) or ["I'm the historian"](https://www.reddit.com/r/aaaaaaacccccccce/comments/vhrzj2/were_all_the_historian_once_in_a_while/) (and obligatory mention of [/r/SapphoAndHerFriend](https://www.reddit.com/r/SapphoAndHerFriend/) and [/r/AchillesAndHisPal](https://www.reddit.com/r/AchillesAndHisPal/)). Or the whole ["omg, they were roommates" meme](https://knowyourmeme.com/memes/oh-my-god-they-were-roommates).
 
+tobicat: It seems like the author was being sarcatic/overdramatic, while James stole her words and then took them literally.
+
 </comment>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues.
+<mark>Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues. Whenever the duo interacts, it’s clear there’s a shared intimacy between them that the other women don’t experience with each other.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 5" %}>
+
+<mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues.Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other. So for me nothing about their relationship points to just being friends. And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer, for the movie said in an interview after the film's release:
+<mark>So for me, nothing about their relationship points to just being friends.</mark> And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer for the movie said in an interview after the film's release:
 
 <u>[Quote from above now placed correctly, scrolling on screen]:</u>
 > "You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."
@@ -2270,7 +2306,11 @@ Whenever the duo interacts it's clear there's a shared intimacy between them tha
 So when they started production, Lou and Debbie had been in a relationship, but by the time they'd wrapped, that was no longer the case. Secret lesbians confirmed. Now give me a sequel so they can kiss already!
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 6" %}>
+
+And while we’re at it, there’s another scene where Lou reprimands Debbie for trying to exact revenge on her male ex while simultaneously stealing millions of dollars worth of jewels from the Met Gala. “Do not run a job in a job,” Lou chides. But is she genuinely concerned about the ways in which Debbie’s emotional center will interfere with the job, or is she jealous that Debbie still harbors anger towards — excuse my French — a *MAN*! <mark>So for me, nothing about their relationship points to “just really good friends.”</mark>
+
+</from>
 </compare>
 
 ## Teen Wolf
@@ -2285,6 +2325,9 @@ Oh God, here we go...
 
 </james>
 <from></from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 Much like with Merlin, the pair start the series off on a bad paw. But over the course of a few seasons, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.<wbr off /> But because they're *two guys*... 
@@ -2323,6 +2366,9 @@ Girl: "Absolutely. Do you?"
 Music in background: "*I said I love you!*"
 
 </clip>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 So pretty quickly, it set up that Stiles is bisexual. Is it said outright? *No!* Of course <wbr on />not! That would be too easy.<wbr off /> But is it made painfully obvious?
@@ -2378,6 +2424,9 @@ Scott: "Shut up."
 Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott pushes him) "Just to see how it feels!"
 
 </clip>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 Yes, yes, it is.
@@ -2463,6 +2512,9 @@ And this is not an accident. Even the action is pointing toward romance, whether
 
 </james>
 <from></from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 👏 This 👏 is 👏 not 👏 subtle! 👏 This is on purpose.
@@ -2507,6 +2559,9 @@ Dylan: "And we'll take more naps like these for you. Maybe on UStream. Uh, yeah,
 Dylan: "Sterek all the way."
 
 </clip>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 *I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. <u>[Shrugs]</u>
@@ -2750,11 +2805,16 @@ But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm he
 
 </james>
 <from></from>
+<comment>
+
+You know, the word "bisexual" is right there.
+
+</comment>
 <clip {% include citation for=page.cite.clips.captain_america %}>
 
 Peggy: "You must have danced."
 
-Steve: "well, asking a woman to dance always seemed so terrifying. In the past few years, just didn't seem to matter that much. Figured I'd wait."
+Steve: "Well, asking a woman to dance always seemed so terrifying. In the past few years, just didn't seem to matter that much. Figured I'd wait."
 
 Peggy: "For what?"
 
@@ -2835,13 +2895,45 @@ Steve trusts Bucky, even now in this demented state. He trusts him with his life
 <compare>
 <james {% include timecode %}>
 
-So Steve and Bucky love each other. Even Joe Russo, the director of *Civil War*, said so! Calling the movie a love story between the two heroes. Now you can say, "James, they're just good friends." 
-These arguments often start out under the guise of progressive thought, making claims like "there's so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men." This sounds like a good argument at first, until you think about it for a minute or two and remember that *almost all* media is about male relationships and male friendships. When it comes to Captain America, and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who fought alongside each other in a war has been the topic of *many* stories throughout Millennia. It's one of the most popular male friendship stories ever.
+So Steve and Bucky love each other. Even Joe Russo, the director of *Civil War*, said so! Calling the movie a love story between the two heroes. 
 
-And why shouldn't that relationship go beyond just a friendship? Does it ruin the value of the friendship if it's also nonplatonic? *The Iliad*'s story of Achilles and Patroclus's relationship should serve as an early counterpoint here. Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship *ruins* that for you, then perhaps you should think about why you feel that way. 
+Now you can say, "James, they're just good friends." <mark>These arguments often start out under the guise of progressive thought, making claims like "there's so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men." This sounds like a good argument at first, until you think about it for a minute or two and remember that *almost all* media is about male relationships and male friendships.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 12" %}>
+
+Let’s get back to the “Why can’t they just be friends” argument, though. <mark>These arguments often start out under the guide of progressive thought, making claims like “there are so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men.” This sounds like a good argument at first, until you think about it for a minute or two and remember that almost *all* media is about male relationships and male friendships.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>When it comes to Captain America, and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who fought alongside each other in a war has been the topic of *many* stories throughout millennia. It's one of the most popular male friendship stories ever. And why shouldn't that relationship go beyond just a friendship? Does it ruin the value of the friendship if it's also non-platonic? *The Iliad*'s story of Achilles and Patroclus' relationship should serve as an early counterpoint here.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 13" %}>
+
+<mark>When it comes to Captain America and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who’ve fought alongside each other in a war has been the topic of many stories throughout millennia. It’s one of the most popular male friendship stories *ever*. And why shouldn’t that relationship go beyond just a friendship? Does it “ruin” the value of the friendship if it’s also non-platonic? *The Iliad*‘s story of [Achilles and Patroclus’ relationship](https://en.wikipedia.org/wiki/Achilles_and_Patroclus) should serve as an early counterpoint here.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship *ruins* that for you, then perhaps you should think about why you feel that way.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 14" %}>
+
+<mark>Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship “ruins” that for you, then perhaps you should think about why you feel that way.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 And flip the coin for a second, say Bucky's a woman. Watching these movies, seeing this relationship, would you think for even a second that these two people *aren't* going to end up together in the end? Really? But of course, they don't, because fucking Disney. 
@@ -2850,6 +2942,9 @@ And oddly enough the Stucky pairing would probably be the most Disney friendly g
 
 </james>
 <from></from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 I don't even think it was done on purpose, to be honest. Unlike *Teen Wolf* and *Sherlock*, I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into <wbr on />loving them. We were going to go see Chris Evans anyway it's just kind of happened.<wbr off /> A natural outgrowth of the chemistry between the two actors, playing two characters that are innately drawn to one another. I think it's a beautiful accident that can be read as either platonic or romantic love. The fact that so many gay people read it as being a queer love story just shows how starved we are for representation in movies. Just like in the days of queer coding, we're willing to dig deep into our favorite media to find any hint of us possibly being represented. Whether those golden nuggets are actually there or not. But we keep looking and looking, someday, hopefully very soon, there will be a gold rush. Even if right now we're only finding fool's gold.
