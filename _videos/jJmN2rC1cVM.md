@@ -35,6 +35,7 @@ cite:
     gardner: { color: 4, short: "Breakdown (Gardner, 2023)", full: "Gardner, A. (2023, Feb 7). <em>A Complete Breakdown of the J.K. Rowling Transgender-Comments Controversy</em> [Article]. Glamour.", url: "https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy", archive: "https://web.archive.org/web/20230207232206/" }
     amnesty: { color: 3, short: "Digital Safeguarding (Amnesty UK, 2023)", full: "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", url: "https://www.amnesty.org.uk/digital-safeguarding-guidance" }
     uppercut: { color: 5, short: "(Abrahamson, 2022)", full: "Abrahamson, M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", url: "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/" }
+    nava: { color: 12, short: "Troubling Antisemitic References (Nava, 2023)", full "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", url: "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
@@ -679,16 +680,14 @@ So, that isn’t to say that the Goblins are directly antisemitic, or carry ster
 <compare>
 <james {% include timecode %}>
 
-The game even has a Goblin Rebellion that takes place in the year 1612, and it turns out that there was a real-life massacre that occurred against Jewish people during the <mark fc=false>1612</mark> [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising). This massacre was one of many [pogroms](https://en.wikipedia.org/wiki/Pogrom), or strategically conducted attacks, that were carried out in predominantly Jewish neighborhoods over the course of history. The date seems to be too specific not to be a reference to <ins>the</ins> hate crimes committed against Jews in the real world. 
+<mark>The game even has a Goblin Rebellion that takes place in the year 1612, and it turns out that there was a real-life massacre that occurred against Jewish people during the 1612 [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising). This massacre was one of many [pogroms](https://en.wikipedia.org/wiki/Pogrom), or strategically conducted attacks, that were carried out in predominantly Jewish neighborhoods over the course of history. The date seems to be too specific not to be a reference to <ins>the</ins> hate crimes committed against Jews in the real world.</mark>
 
 </james>
-<from></from>
-<comment>
-{% include header for=tustin %}
+<from {% include citation for=page.cite.plagiarized.nava at="¶ 2" %}
 
-According to Wikipedia, the [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising) was in 1614, not 1612. So not an exact year match, but it is close.
+It looks like Hogwarts Legacy already has its own sketchy parallel. As some have pointed out on social media, <mark>a “1612 Goblin Rebellion” is referenced in the game, and it turns out there was a real-life massacre that occurred against Jewish people during the [1612-1616 Fettmilch uprising](https://www.jstor.org/stable/4546068) - one of many strategically conducted attacks, called pogroms, in predominately Jewish neighborhoods over the course of history. The date feels too specific not to be a reference to hate crimes committed in our very, very real world.</mark>
 
-</comment>
+</from>
 </compare>
 
 <compare>
