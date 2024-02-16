@@ -48,7 +48,7 @@ cite:
     buzzfeed_costumes: { color: 11, short: "(Vary, 2018)", full: "Vary, A.B. (2918, Jun 8). <em>Everything You Need To Know About The Fabulous Costumes In \"Ocean's 8\"</em> [Article]. Buzzfeed News. Retrieved Feb 16, 2024, from", url: "https://www.buzzfeednews.com/article/adambvary/oceans-8-costumes" }
   yikes: !!map
   misinformation: !!map
-    historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
+    historians: "James just steals a made-up (sarcastic?) term and passes it off as something commonly heard in the queer community."
     misinterpretation:
       _desc_: James has a propensity to misunderstand what he's playwriting from, like
       scorpius_life: the time he said Scorpius's life was worse with Albus in it
@@ -365,12 +365,18 @@ She's referred to by other characters as having a twisted mind, and eventually R
 <compare>
 <james {% include timecode %}>
 
-An iconic example of queer coding that straddles the line of Hays Code approval is 1955's *Rebel Without a Cause*. Starring two teen heartthrobs, James Dean and Sal Mineo, both of whom are at least *rumored* to have been queer. Dean's character Jim is a teenager kicking against authority and parental neglect. Who becomes both friend and fascination to Mineo's Plato, a lonely younger kid. 
+An iconic example of queer coding that straddles the line of Hays Code approval is 1955's *Rebel Without a Cause*. Starring two teen heartthrobs, James Dean and Sal Mineo, both of whom are at least *rumored* to have been queer. <mark>Dean's character Jim is a teenager kicking against authority and parental neglect. Who becomes both friend and fascination to Mineo's Plato, a lonely younger kid.</mark> 
 
-Plato is obviously gay, although it's easier to say that in 2020 than it was in 1955. If you don't pick up on that from the photo of hunky Alan Ladd that Plato has taped inside of his locker, or the looks of adoration he gives Jim, it becomes *abundantly* clear when he makes a coded declaration of love to Jim late in the film. 
+<mark>Plato is obviously gay, although it's easier to say that in 2020 than it was in 1955. If you don't pick up on that from the photo of hunky Alan Ladd that Plato has taped inside of his locker, or the looks of adoration he gives Jim, it becomes *abundantly* clear when he makes a coded declaration of love to Jim late in the film.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 7-8" %}>
+
+<mark>Dean’s character Jim, a teen kicking against authority and parental neglect, becomes both friend and fascination to Mineo’s Plato, a lonely younger kid.</mark>
+
+<mark>Plato is obviously gay, although it’s easier to say this in 2014 than it was in 1955. If you don’t pick that up from the photo of hunky Alan Ladd that Plato has taped inside his locker, or the looks of adoration he gives Jim, it becomes abundantly clear when he makes a coded declaration of love to Jim late in the film.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -391,19 +397,41 @@ Plato: (deer-in-the-headlights look) "Can I keep it?"
 </clip>
 <james {% include timecode %}>
 
-Jim has feelings for Plato too, although the main narrative is him falling in love with Natalie Wood's character Judy. James Dean could read the subtext though. prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, "look at me the way that *I* look at Natalie". 
+<mark>Jim has feelings for Plato too, although the main narrative is him falling in love with Natalie Wood's character Judy.</mark> <mark>James Dean could read the subtext though.</mark> <mark>Prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, "look at me the way that *I* look at Natalie".</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 9-10" %}>
+
+<mark>Jim has feelings for Plato, too, although the main narrative has him falling in love with Natalie Wood’s schoolgirl character Judy.</mark>
+
+<mark>Dean knew what was going on.</mark> <mark>Prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, “Look at me the way I look at Natalie.”</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Such homoerotic bonding couldn't be spoken about in the repressive 1950s. Being gay was still illegal in most of the country, and at minimum frowned upon everywhere else, and the censors of the day took pains to keep it that way. A production code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that--<wbr off />
+<mark>Such homoerotic bonding couldn't be spoken about in the repressive 1950s.</mark> <mark>Being gay was still illegal in most of the country,</mark> and at minimum frowned upon everywhere else, and <mark>the censors of the day took pains to keep it that way.</mark> <mark>A Production Code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that</mark>--<wbr off />
 
 <u>[on screen, radio filter]:</u>
-> "it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim."
+> <mark>"it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 11-13" %}>
+
+<mark>Such homoerotic bonding couldn’t be spoken about in the repressive ’50s,</mark> even though Mineo actually was gay and Dean was reputed to be bisexual.
+
+<mark>It was an era when homosexuality was still a crime in many parts of America.</mark> Indeed, <mark>the censors of the day took pains to keep it that way.</mark>
+
+<mark>A Production Code officer sent a memo to Jack L. Warner in the spring of 1955, during the filming of *Rebel Without a Cause*, reminding the Warner Bros. honcho that</mark> <mark>“it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim.”</mark>
+
+</from>
+<comment {% include commenter for=tobi %}>
+
+A correction to the article - [Mineo was openly bisexual](https://web.archive.org/web/20150924093740/http://www.salmineo.com/news/inter_hadleigh.html). 
+
+</comment>
 </compare>
 
 <compare>
@@ -416,7 +444,6 @@ Plato: "Hey, you want to come home with me? I mean, there's nobody home at my ho
 </clip>
 <james {% include timecode %}>
 
-
 Now *that's* some *subtle* inference. 😏
 
 </james>
@@ -426,12 +453,20 @@ Now *that's* some *subtle* inference. 😏
 <compare>
 <james {% include timecode %}>
 
-<wbr on />Most straight reviewers of *Rebel* didn't pick up on anything beyond "Boy Meets Girl" and the romantic entanglements. the strongest impact the film makes is non-verbal, operating on an unconscious level. the mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean's Jim isn't afraid to show affection for Plato as well as Judy. as Brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down.
+<wbr on /><mark>Most straight reviewers of *Rebel* didn't pick up on anything beyond "Boy Meets Girl" and the romantic entanglements.</mark> <mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean's Jim isn't afraid to show affection for Plato as well as Judy.</mark> 
 
-So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
+As brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down. So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 14-16" %}>
+
+<mark>Most straight reviewers of Rebel didn’t pick up on anything beyond boy-meets-girl in the romantic entanglements,</mark> even as they recognized the effect the film would have on young viewers.
+
+[...]
+
+<mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean’s Jim isn’t afraid to show affection for Plato as well as Judy.</mark>
+
+</from>
 </compare>
 
 <compare>
@@ -860,11 +895,11 @@ Clips marked in gray I cannot find in the above video, and so therefore must be 
 
 <span visual>Merlin premiered on the BBC in September of 2008 and almost immediately became fodder for gay fan fiction. And it's no wonder why: Colin Moran's Merlin and Bradley James's Prince Arthur (he's not a king yet) have so much sexual tension between them you could cut it with a knife.</span>
 
-<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark x>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark x>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
+<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
 
 <span visual={{atg}} james="36:40" on="1:01" off="1:05">-- the King Arthur's father Uther is homophobic--</span> I-I mean he hates magic!
 
-<span visual={{atg}} on="2:49" off="2:53"><mark x>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
+<span visual={{atg}} on="2:49" off="2:53"><mark>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(0:14)" %}>
@@ -874,7 +909,7 @@ For those of you who don't know: Merlin is set in arthurian legend, A time when 
 </from>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(1:02)" %}>
 
-Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark x>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark x>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark x>So bad, in fact, that he thinks people should be executed for it.</mark>
+Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark>So bad, in fact, that he thinks people should be executed for it.</mark>
 
 <footer>Avila says "physician", but his subtitles say "positions", and James says "potions". So, did James rip off Avila's subtitles...?</footer>
 </from>
@@ -996,7 +1031,7 @@ Arthur: "Well then... think we'd probably get on."
 <from></from>
 <james {% include timecode %}>
 
-But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark x> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
+But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(6:33)" %}>
@@ -1005,7 +1040,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 
 <u>[On screen]: "2. magic is gay"</u>
 
-<mark x>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
+<mark>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
 
 <u>[Various clips from the show as a big rainbow flag slowly grows over the screen]:</u>  
 "What if... magic isn't something you choose?"  
@@ -1041,12 +1076,12 @@ This clip James did *not* lift directly from Are They Gay. Because in the Are Th
 </james>
 <from></from>
 <james {% include timecode %}>
-<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark x>it means Arthur *can* love a servant</mark>.
+<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(10:00)" %}>
 
-If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark x>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
+If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
 
 </from>
 <james {% include timecode %}>
@@ -1165,13 +1200,13 @@ Gwen: "Yes. I mean..."
 {% assign timecode = "41:55" %}
 <james {% include timecode %}>
 
-And then, Arthur's <mark x>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark x>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
+And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
 
 <footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(18:34)" %}>
 
-And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark x>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark x>Arthur he starts to think for himself</mark>. That is not without his friend's help.
+And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark>Arthur he starts to think for himself</mark>. That is not without his friend's help.
 
 </from>
 <james {% include timecode %}>
@@ -1340,12 +1375,12 @@ And then Sherlock goes on to reject John coming on to Sherlock by saying:
 </from>
 <james {% include timecode %}>
 
-Hell, <mark x>when the waiter approaches Sherlock, he assumes John is his date!</mark>
+Hell, <mark>when the waiter approaches Sherlock, he assumes John is his date!</mark>
 
 </james>
 <from span="4" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(4:12)" %}>
 
-Let's also think about the beginning of the restaurant scene. <mark x>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
+Let's also think about the beginning of the restaurant scene. <mark>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
 
 > Waiter: "Sherlock. Anything on the menu, whatever you want: free. On the house for you, and for your date." 
 > 
@@ -1457,12 +1492,12 @@ What are you thinking about John? You're so defensive when it comes to people sa
 </from>
 <james {% include timecode %}>
 
-John is so no-homo it hurts. He's so no-homo, in fact, <mark x>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
+John is so no-homo it hurts. He's so no-homo, in fact, <mark>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(16:25)" %}>
 
-<mark x>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
+<mark>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
 
 > Watson: "I'm really sorry."
 > 
@@ -1510,12 +1545,12 @@ So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
 </from>
 <james {% include timecode %}>
 
-<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark x>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
+<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
 
 </james>
 <from span="3" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(9:56)" %}>
 
-John also has a similar scene where <mark x>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
+John also has a similar scene where <mark>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
 
 > <u>[There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]</u>
 > 
@@ -1527,7 +1562,7 @@ John also has a similar scene where <mark x>his therapist asks him to say what h
 >
 > Watson: "No." (Long pause) "Sorry, I can't."
 
-<mark x>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
+<mark>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
 
 <footer> When James stole this clip, he cuts around the on-screen text.</footer>
 
@@ -1541,7 +1576,7 @@ Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 </clip>
 <james {% include timecode %}>
 
-<mark x>What could it have been...? </mark>
+<mark>What could it have been...? </mark>
 
 </james>
 <james {% include timecode %}>
@@ -1636,7 +1671,7 @@ Sherlock: "Ah. He's bouncing around him like a puppy."
 </clip>
 <james {% include timecode %} span="2">
 
-<span visual=none on="?" off="?">Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a thruple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
+<span visual=none on="?" off="?">Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a throuple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
 
 </james>
 <comment>
@@ -1651,7 +1686,7 @@ AreTheyGay goes into Mary, but not for very long or this deep. So this must be s
 <compare>
 <james {% include timecode %}>
 
-So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the shows creators, Mark Gatiss, is gay himself! 
+So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the show's creators, Mark Gatiss, is gay himself! 
 
 <u>[Sighs heavily.]</u>
 {% assign timecode = "49:26" %}
@@ -1693,7 +1728,7 @@ Eventually, <mark>Rose leaves </mark>the two and we get this description:
 
 > <mark></mark>Scorpius and Albus look at each other and something passes between them.
 
-<mark x>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
+<mark>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(1:38)" %}>
@@ -1708,14 +1743,14 @@ Albus and Scorpius exchange an awkward introduction, and soon after <mark>Rose l
 
 > <mark></mark>Scorpius and Albus look at each other, and something passes between them. 
 
-Come on, <mark x>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
+Come on, <mark>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
 
 </from>
 <james {% include timecode %}>
 
 <mark>The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus</mark>, since he's Harry Potter's kid and all. 
 
-We learned more about Albus's life at home, his awkward relationship with his family -- <mark x>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
+We learned more about Albus's life at home, his awkward relationship with his family -- <mark>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
 
 Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
 
@@ -1736,7 +1771,7 @@ Both Scorpius and Albus don't live up to other people's expectations. <mark>but 
 <compare>
 <james {% include timecode %}>
 
-<mark x>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
+<mark>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
 
 > <mark></mark>Albus hugs his friend.  
 > With fierceness.  
@@ -1849,7 +1884,7 @@ Naturally, a bro is happy for his bro finding a person that they're interested i
 <compare>
 <james {% include timecode %}>
 
-Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark x>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
+Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
 
 > <mark></mark>**SCORPIUS:** Not for me.
 >
@@ -1888,7 +1923,7 @@ They more or less <mark>succeed</mark> in saving Cedric but... when they return 
 > 
 > **HARRY:** He's dangerous.  
 
-<mark x>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
+<mark>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(8:22)" %}>
@@ -2082,9 +2117,9 @@ Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpi
 <compare>
 <james {% include timecode %}>
 
-<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark x num=4>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
+<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
 
-<mark num=5>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
+<mark>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(17:27)" %}>
@@ -2236,9 +2271,9 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 It's weird, right? That James never actually says the name of the film? Which is *Ocean's Eight*? To be honest, I thought it was still called *Ocean's Eleven* until I started reading the sources.
 
 </comment>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 1" %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 1" %}>
 
-The all-female *Ocean*’s reboot hits theaters today, starring eight vibrant and galvanic women in the titular roles, and though critics are claiming Anne Hathaway [stole the show](https://www.vanityfair.com/hollywood/2018/06/anne-hathaway-oceans-8-performance-review-daphne-kluger) (she totally did), I had my eye on the bubbling sexual tension between the two leading ladies. <mark>Debbie Ocean and Lou, played by Sandra Bullock and Cate Blanchett, played, essentially, a couple.</mark> <mark>Many a [gay](https://www.intomore.com/culture/identity/what-does-it-mean-to-be-gay/) have picked up on the inherent [queerness](http://www.vulture.com/2018/06/oceans-8-is-a-lesbian-movie.html) of this movie and the nature of their relationship,</mark> and multiple moments in the con film nod to a relationship between the two. <mark>And while this is inarguably a gay movie put forth by [lesbian](https://www.intomore.com/culture/identity/mean-come-lesbian/) propagandists as a means to convert heterosexuals and lead them down the path of righteousness — no one in the film actually confirms this relationship.</mark>
+<mark>The all-female *Ocean*’s reboot</mark> hits theaters today, starring eight vibrant and galvanic women in the titular roles, and though critics are claiming Anne Hathaway [stole the show](https://www.vanityfair.com/hollywood/2018/06/anne-hathaway-oceans-8-performance-review-daphne-kluger) (she totally did), I had my eye on the bubbling sexual tension between the two leading ladies. <mark>Debbie Ocean and Lou, played by Sandra Bullock and Cate Blanchett, played, essentially, a couple.</mark> <mark>Many a [gay](https://www.intomore.com/culture/identity/what-does-it-mean-to-be-gay/) have picked up on the inherent [queerness](http://www.vulture.com/2018/06/oceans-8-is-a-lesbian-movie.html) of this movie and the nature of their relationship,</mark> and multiple moments in the con film nod to a relationship between the two. <mark>And while this is inarguably a gay movie put forth by [lesbian](https://www.intomore.com/culture/identity/mean-come-lesbian/) propagandists as a means to convert heterosexuals and lead them down the path of righteousness — no one in the film actually confirms this relationship.</mark>
 
 </from>
 </compare>
@@ -2249,7 +2284,7 @@ The all-female *Ocean*’s reboot hits theaters today, starring eight vibrant an
 So... why did so many people read it that way? <mark>Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection.</mark> <mark>But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 2" %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 2" %}>
 
 Lesbian bias aside, I can’t imagine watching this movie and not thinking Cate and Sandra have a long-winded romantic history together. <mark>First of all, the *Carol* actress’s character reads as extremely gay. Every outfit she wears was crafted to queer perfection,</mark> from her emerald velvet suit to her pastel suit to her jumpsuit to—look, there were suits. <mark>But if you can get past the aesthetic porn of *Ocean’s 8*, you’ll see there’s something real and tender between Debbie and Lou.</mark>
 
@@ -2262,7 +2297,7 @@ Lesbian bias aside, I can’t imagine watching this movie and not thinking Cate 
 Coming at this film with a queer lens, <mark>I initially felt like the filmmakers were saying it without actually saying it,</mark> giving us queer characters whose whole point in life isn't just being queer characters. <mark>While telling about her history of running cons with Lou, Debbie refers to Lou as as her partner.</mark> <mark>Business partner? Life partner? Yes.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3" %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 3" %}>
 
 <mark>At times, I felt like, maybe the filmmakers are saying it without having to actually say it.</mark> <mark>While recounting her history of running cons with Lou, Debbie refers to Lou as her “partner,”</mark> which can be up for interpretation: <mark>Does this moniker exclusively refer to their business relationship, or is there something more?</mark> It’s an interesting choice of words, made more confusing by the next play.
 
@@ -2277,7 +2312,7 @@ When <mark>recalling a rock bottom moment for the two, when they were pulling sc
 <mark>Queer <span stat:id="sub-queer">people</span> would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that.</mark> <mark fc=false stat:id="m-context">There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3"  class="smaller" %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 3"  class="smaller" %}>
 
 Bullock’s extremely chic lead <mark>recalls a rock-bottom moment for the two, when they were pulling scams at an elderly home’s bingo night. Debbie refers to the period of time 10 years ago as her and Lou’s “rough patch.”</mark> Again, up for interpretation: <mark>Was it “rough” because they were strapped for cash? Or were they on the rocks romantically?</mark> Tough to say, because the moment is so catastrophically ambiguous. <mark>Queer women would interpret this moment as an exclusively lesbian admission, while clueless straight people would easily watch and think, “Aww, gal pals”</mark> — <mark fc>a conundrum known all too well by the gay community as The Great Straight Divide.</mark>
 
@@ -2305,7 +2340,7 @@ It seems like the author was being sarcatic/overdramatic, while James stole her 
 <mark>So for me, nothing about their relationship points to just being friends.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 5-6" %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 5-6" %}>
 
 <mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues. Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
 
@@ -2686,7 +2721,7 @@ Well, they didn't tell us "they fell madly in love", <span class="visual">but th
 <compare>
 <james {% include timecode %}>
 
-<span class="visual">Finn is then set up for <mark x>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
+<span class="visual">Finn is then set up for <mark>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
 
 <span class="visual">And eventually, we find out that Poe is still alive. And we get this scene:</span>
 
@@ -2731,12 +2766,12 @@ James likely lifts the clip of Ellen from Are They Gay's video on Finn and Poe
 
 The eye fucking! Oh my God! 
 
-<mark x>Before the movie was released, the cast went on to the Ellen show. </mark>
+<mark>Before the movie was released, the cast went on to the Ellen show. </mark>
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_finnpoe at="(6:10)" %}>
 
-<mark x>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
+<mark>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
 
 <u>[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]</u>
 
