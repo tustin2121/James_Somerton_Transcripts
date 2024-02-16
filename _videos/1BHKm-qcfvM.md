@@ -160,7 +160,7 @@ Even though we're nearly a month into the new decade, it's proven frustratingly 
 </from>
 <comment {% include commenter for=tustin %}>
 
-The plagiarized source ({% include inline-citation for=page.cite.plagiarized.greg_johnson %}) doesn't actually cite what survey it's using. But the {% include inline-citation for=page.cite.plagiarized.nick_levine %} references [a survey by Attitude Magazine](https://web.archive.org/web/20220702081600/https://www.attitude.co.uk/article/more-than-half-of-gay-men-say-they-are-unhappy-with-their-body-exclusive/13483/), which has the same numbers.
+The plagiarized source ({% include inline-citation for=page.cite.plagiarized.greg_johnson %}) doesn't actually cite what survey it's using. But the {% include inline-citation for=page.cite.plagiarized.nick_levine %} references [a survey by Attitude Magazine](https://www.attitude.co.uk/news/world/more-than-half-of-gay-men-say-they-are-unhappy-with-their-body-exclusive-291498/), which has the same numbers.
 
 </comment>
 <comment {% include commenter for=tobi %}>
