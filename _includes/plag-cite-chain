@@ -1,18 +1,20 @@
 {%- comment %} Expected: list of sources {% endcomment -%}
 {%- for item in include.list -%}
 	{%- if item[0] == "_desc_" -%}{%- continue -%}{%- endif -%}
-	<li id="{{ item[1].short | slugify }}">
-		{{ item[1].full }} 
-		{%- if item[1].offline %}
-			<a href="{{ item[1].archive }}{{ item[1].url }}">{{ item[1].url }}</a>
+	{%- assign _cite = item[1] -%}
+	{%- include resolve-common-citation -%}
+	<li id="{{ _cite.short | slugify }}">
+		{{ _cite.full }} 
+		{%- if _cite.offline %}
+			<a href="{{ _cite.archive }}{{ _cite.url }}">{{ _cite.url }}</a>
 		{%- else %}
-			<a href="{{ item[1].url }}">{{ item[1].url }}</a>
-			{%- if item[1].archive %} [<a href="{{ item[1].archive }}{{ item[1].url }}">Archived</a>]{%- endif -%}
+			<a href="{{ _cite.url }}">{{ _cite.url }}</a>
+			{%- if _cite.archive %} [<a href="{{ _cite.archive }}{{ _cite.url }}">Archived</a>]{%- endif -%}
 		{%- endif -%}
-		{%- if item[1].chain -%}
-		{%- if item[1].chain._desc_ %} <span class="chain-prefix">({{ item[1].chain._desc_ }})</span>{% endif -%}
+		{%- if _cite.chain -%}
+		{%- if _cite.chain._desc_ %} <span class="chain-prefix">({{ _cite.chain._desc_ }})</span>{% endif -%}
 		<ul>
-			{% assign chain = item[1].chain %}
+			{% assign chain = _cite.chain %}
 			{% include plag-cite-chain list=chain %}
 		</ul>
 		{%- endif -%}

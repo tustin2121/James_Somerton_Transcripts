@@ -32,7 +32,7 @@ contributors:
 
 cite:
   clips: !!map
-    celluloid_closet: { short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office." }
+    celluloid_closet: $cite$celluloid_closet_doc
     cabaret: { short: "Cabaret", full: "TODO Cabaret" }
     rebel_without_cause: { short: "Rebel Without A Cause", full: "TODO Rebel Without A Cause" }
     merlin: { short: "Merlin", full: "TODO Merlin" }
@@ -56,7 +56,7 @@ cite:
       _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
       richard_dyer: "Richard Dyer"
   plagiarized: !!map
-    celluloid_closet: { color: 10, short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", url: "https://www.youtube.com/watch?v=YndHaKuD6MI" }
+    celluloid_closet: $cite$celluloid_closet_doc
     peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
     maddy_myers: { color: 12, short: "On Stucky Fandom (Myers, 2016)", full: "Myer, M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", url: "https://www.themarysue.com/why-cant-stucky-just-be-friends/" }
     jill_gutowitz: { color: 7, short: "Ocean's 8 (Gutowitz, 2018)", full: "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", url: "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/" }

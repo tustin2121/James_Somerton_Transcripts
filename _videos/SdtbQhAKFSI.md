@@ -40,7 +40,7 @@ cite:
   misinformation: !!map
     misquote: "James continues a 'direct quote' that doesn't exist."
   plagiarized: !!map
-    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+    celluloid_closet: $cite$celluloid_closet_book
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

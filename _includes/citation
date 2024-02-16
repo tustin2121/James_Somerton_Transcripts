@@ -1,5 +1,8 @@
-class="color-{{ include.for.color }}
-{%- if include.for.style %} srcstyle-{{ include.for.style }}{%- endif -%}
+{%- assign _cite = include.for -%}
+{%- include resolve-common-citation -%}
+
+class="color-{{ _cite.color }}
+{%- if _cite.style %} srcstyle-{{ _cite.style }}{%- endif -%}
 {%- if include.class %} {{ include.class }}{%- endif -%}
 " >
 <header>
@@ -7,5 +10,5 @@ class="color-{{ include.for.color }}
 		<span class="timecode">{{ timecode }}</span>
 		{%- assign timecode = nil -%}
 	{%- endif -%}
-	<a class="citation" href="#{{ include.for.short | slugify }}">{{ include.for.short }} {{ include.at }}</a>
+	<a class="citation" href="#{{ _cite.short | slugify }}">{{ _cite.short }} {{ include.at }}</a>
 </header

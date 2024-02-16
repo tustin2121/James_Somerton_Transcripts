@@ -44,7 +44,7 @@ cite:
       inverted: "Vito's use of the word \"always\""
   plagiarized: !!map
     sophie_cleghorn: { color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62" }
-    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+    celluloid_closet: $cite$celluloid_closet_book
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

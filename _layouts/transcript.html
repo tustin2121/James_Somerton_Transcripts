@@ -259,9 +259,7 @@
 				
 				{% if page.cite.clips.size > 0 -%}
 					<ul class="refs" header="Clips used:">
-						{% for item in page.cite.clips %}
-							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
-						{% endfor %}
+						{% include plag-cite-chain list=page.cite.clips %}
 					</ul>
 					{% assign hr_due = true %}
 				{%- endif %}

@@ -101,3 +101,18 @@ ace_couple:
     short: "Ep. 62 (The Ace Couple, 2023)"
     full: "The Ace Couple. (2022, Nov 30) <em>Asexuality & Kink ft. Evie Lupine</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode062/"
     url: "https://www.youtube.com/watch?v=EfL6B-rUfao"
+
+####### Commonly plagiarized sources #######
+celluloid_closet_doc: 
+  color: 10
+  short: "The Celluloid Closet (Friedman, 1996)"
+  full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from"
+  url: "https://www.youtube.com/watch?v=YndHaKuD6MI"
+celluloid_closet_book:
+  color: 2
+  short: "(Russo, 1987)"
+  full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row."
+  url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up"
+  # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+  type: "book"
+  style: "book"
