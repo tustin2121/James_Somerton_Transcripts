@@ -2223,7 +2223,9 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 <compare>
 <james {% include timecode %}>
 
-The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. <mark>Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple.</mark> I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. <mark>Queer people around the world noticed it.</mark> Even straight people! <mark>One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie.</mark>
+The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. 
+
+<mark>Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple.</mark> I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. <mark>Queer people around the world noticed it.</mark> Even straight people! <mark>One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 1" %}>
@@ -2260,14 +2262,16 @@ Coming at this film with a queer lens, <mark>I initially felt like the filmmaker
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-When <mark>recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch". Were they strapped for cash? Or on the Rocks romantically? Again, yes.</mark> <mark>Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that.</mark> <mark fc=false>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+When <mark>recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch".</mark> <mark>Were they strapped for cash? Or on the Rocks romantically? Again, yes.</mark> 
+
+<mark>Queer <span stat:id="sub-queer">people</span> would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that.</mark> <mark fc=false stat:id="m-context">There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3" %}>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 3"  class="smaller" %}>
 
-Bullock’s extremely chic lead <mark>recalls a rock-bottom moment for the two, when they were pulling scams at an elderly home’s bingo night. Debbie refers to the period of time 10 years ago as her and Lou’s “rough patch.” Again, up for interpretation: Was it “rough” because they were strapped for cash? Or were they on the rocks romantically? Tough to say, because the moment is so catastrophically ambiguous.</mark> <mark>Queer women would interpret this moment as an exclusively lesbian admission, while clueless straight people would easily watch and think, “Aww, gal pals”</mark> — <mark>a conundrum known all too well by the gay community as The Great Straight Divide.</mark>
+Bullock’s extremely chic lead <mark>recalls a rock-bottom moment for the two, when they were pulling scams at an elderly home’s bingo night. Debbie refers to the period of time 10 years ago as her and Lou’s “rough patch.”</mark> Again, up for interpretation: <mark>Was it “rough” because they were strapped for cash? Or were they on the rocks romantically?</mark> Tough to say, because the moment is so catastrophically ambiguous. <mark>Queer women would interpret this moment as an exclusively lesbian admission, while clueless straight people would easily watch and think, “Aww, gal pals”</mark> — <mark fc>a conundrum known all too well by the gay community as The Great Straight Divide.</mark>
 
 </from>
 <comment id="historians">
@@ -2277,7 +2281,10 @@ I have never heard of this term before in my life. I've also asked and several o
 
 It's definitely a thing that online queer people make fun of all the time, but usually in terms of, like, "historians", eg, ["Historians will say that they were Just Friends"](https://www.reddit.com/r/AskHistorians/comments/kqkmk3/historians_say_they_were_just_friends_but_they/) or ["I'm the historian"](https://www.reddit.com/r/aaaaaaacccccccce/comments/vhrzj2/were_all_the_historian_once_in_a_while/) (and obligatory mention of [/r/SapphoAndHerFriend](https://www.reddit.com/r/SapphoAndHerFriend/) and [/r/AchillesAndHisPal](https://www.reddit.com/r/AchillesAndHisPal/)). Or the whole ["omg, they were roommates" meme](https://knowyourmeme.com/memes/oh-my-god-they-were-roommates).
 
-tobicat: It seems like the author was being sarcatic/overdramatic, while James stole her words and then took them literally.
+</comment>
+<comment {% include commenter for=tobi %}>
+
+It seems like the author was being sarcatic/overdramatic, while James stole her words and then took them literally.
 
 </comment>
 </compare>
@@ -2290,7 +2297,7 @@ tobicat: It seems like the author was being sarcatic/overdramatic, while James s
 </james>
 <from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 5" %}>
 
-<mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues.Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
+<mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues. Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
 
 </from>
 </compare>
@@ -2797,7 +2804,7 @@ Fast forward seventy years and about a hundred iterations later, and we see the 
 
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 There's also a hint of gay shame. Steve feels like he's not good enough, <span visual=none on="?" off="?">not a real man, and he wants *so badly* to be like everyone else that he's willing to go through a very risky procedure to make it happen. Was this gay coding in the 1940s? Of course not! It was just a superhero origin story. It may not be allegorical, but it's certainly applicable. Which is something that makes superheroes so timeless: no matter who you are no matter where or when you live, you can project yourself onto a superhero.</span>
 
@@ -2805,7 +2812,7 @@ But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm he
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 You know, the word "bisexual" is right there.
 

@@ -289,7 +289,7 @@ But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today.
 >"<mark meta num=4>While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA.</mark>"
 
 </nick>
-<from span=2 class="smaller" {% include citation for=page.cite.clips.dana_ama %}>
+<from span=2 {% include citation for=page.cite.clips.dana_ama  class="smaller" %}>
 <h2>AMA (except by "anything" I mean these questions only)</h2>
 
 I wasn't planning on making a post because it's too late for a normal s3 pickup and the real reason we were let go is not as exciting as some of the wild theories I've seen. But there's a bit too much misinformation so I hope I can clear stuff up. Also, posting here instead of twitter because this thread would be too long and too easy to take out of context.

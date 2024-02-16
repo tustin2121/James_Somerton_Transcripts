@@ -153,7 +153,7 @@ Even though we're nearly a month into the new decade, it's proven frustratingly 
 <mark>Approximately 84 percent of gay men say they feel under intense pressure to have a body culturally defined as "hot."</mark> <mark fc=false>Not "healthy" or even "fit", "hot".</mark> <mark>They are three times more likely than straight men to have body image issues. Only one percent stated that they were "very happy" with their appearance, and those unhappy with their appearance continue to struggle with it well into middle age and beyond.</mark>
 
 </james>
-<from class="smaller" {% include citation for=page.cite.plagiarized.greg_johnson at="¶1" %}>
+<from {% include citation for=page.cite.plagiarized.greg_johnson at="¶1" class="smaller" %}>
 
 <mark>Approximately 84 percent of gay men say they feel under intense pressure to have a good body.</mark> <mark>They are three times more likely than straight men to have body image issues. Only one percent stated they were “very happy” with their appearance, and they continue to struggle even more as they grow older.</mark>
 
