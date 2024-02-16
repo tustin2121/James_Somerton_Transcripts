@@ -45,6 +45,7 @@ cite:
     captain_america: { short: "captain_america", full: "TODO captain_america" }
     winter_soldier: { short: "winter_soldier", full: "TODO winter_soldier" }
     
+    buzzfeed_costumes: { color: 11, short: "(Vary, 2018)", full: "Vary, A.B. (2918, Jun 8). <em>Everything You Need To Know About The Fabulous Costumes In \"Ocean's 8\"</em> [Article]. Buzzfeed News. Retrieved Feb 16, 2024, from", url: "https://www.buzzfeednews.com/article/adambvary/oceans-8-costumes" }
   yikes: !!map
   misinformation: !!map
     historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
@@ -63,8 +64,10 @@ cite:
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
     aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
     aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
+    rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign tobi = site.data.cite.tobicat %}
 
 <compare>
 <credits class="desc">
@@ -91,7 +94,7 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="36:04" for="Merlin" %}  
 {% include chapter-link at="44:05" for="Sherlock" %}  
 {% include chapter-link at="49:25" for="Harry Potter" %}  
-{% include chapter-link at="1:00:25" for="Ocean's Eleven" %}  
+{% include chapter-link at="1:00:25" for="Ocean's Eleven" slug="oceans-eleven" %}  
 {% include chapter-link at="1:03:39" for="Teen Wolf" %}  
 {% include chapter-link at="1:10:57" for="Frozen" %}  
 {% include chapter-link at="1:13:03" for="Star Wars" %}  
@@ -2221,13 +2224,18 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 {% assign timecode = "1:00:25" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. 
+<mark fc>The reboot / sequel to *The Ocean's Eleven* franchise</mark> stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. 
 
 <mark>Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple.</mark> I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. <mark>Queer people around the world noticed it.</mark> Even straight people! <mark>One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie.</mark>
 
 </james>
+<comment {% include commenter for=tustin %}>
+
+It's weird, right? That James never actually says the name of the film? Which is *Ocean's Eight*? To be honest, I thought it was still called *Ocean's Eleven* until I started reading the sources.
+
+</comment>
 <from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 1" %}>
 
 The all-female *Ocean*’s reboot hits theaters today, starring eight vibrant and galvanic women in the titular roles, and though critics are claiming Anne Hathaway [stole the show](https://www.vanityfair.com/hollywood/2018/06/anne-hathaway-oceans-8-performance-review-daphne-kluger) (she totally did), I had my eye on the bubbling sexual tension between the two leading ladies. <mark>Debbie Ocean and Lou, played by Sandra Bullock and Cate Blanchett, played, essentially, a couple.</mark> <mark>Many a [gay](https://www.intomore.com/culture/identity/what-does-it-mean-to-be-gay/) have picked up on the inherent [queerness](http://www.vulture.com/2018/06/oceans-8-is-a-lesbian-movie.html) of this movie and the nature of their relationship,</mark> and multiple moments in the con film nod to a relationship between the two. <mark>And while this is inarguably a gay movie put forth by [lesbian](https://www.intomore.com/culture/identity/mean-come-lesbian/) propagandists as a means to convert heterosexuals and lead them down the path of righteousness — no one in the film actually confirms this relationship.</mark>
@@ -2294,30 +2302,50 @@ It seems like the author was being sarcatic/overdramatic, while James stole her 
 
 <mark>Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues. Whenever the duo interacts, it’s clear there’s a shared intimacy between them that the other women don’t experience with each other.</mark>
 
+<mark>So for me, nothing about their relationship points to just being friends.</mark>
+
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 5" %}>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 5-6" %}>
 
 <mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues. Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
+
+And while we’re at it, there’s another scene where Lou reprimands Debbie for trying to exact revenge on her male ex while simultaneously stealing millions of dollars worth of jewels from the Met Gala. “Do not run a job in a job,” Lou chides. But is she genuinely concerned about the ways in which Debbie’s emotional center will interfere with the job, or is she jealous that Debbie still harbors anger towards — excuse my French — a *MAN*! <mark>So for me, nothing about their relationship points to “just really good friends.”</mark>
 
 </from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-<mark>So for me, nothing about their relationship points to just being friends.</mark> And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer for the movie said in an interview after the film's release:
+And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer for the movie said in an interview after the film's release:
 
 <u>[Quote from above now placed correctly, scrolling on screen]:</u>
-> "You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."
+> "<mark>You know, early there was an idea that</mark> <mark fc stat:id="changed-quote">Lou and Debbie having been in a relationship</mark> <mark>might <span stat:id="changed-quote">have been</span> the case</mark>, <mark>but we seemed to move away from that as shooting went on.</mark>"
 
 So when they started production, Lou and Debbie had been in a relationship, but by the time they'd wrapped, that was no longer the case. Secret lesbians confirmed. Now give me a sequel so they can kiss already!
 
 </james>
-<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 6" %}>
+<comment {% include commenter for=tustin %}>
 
-And while we’re at it, there’s another scene where Lou reprimands Debbie for trying to exact revenge on her male ex while simultaneously stealing millions of dollars worth of jewels from the Met Gala. “Do not run a job in a job,” Lou chides. But is she genuinely concerned about the ways in which Debbie’s emotional center will interfere with the job, or is she jealous that Debbie still harbors anger towards — excuse my French — a *MAN*! <mark>So for me, nothing about their relationship points to “just really good friends.”</mark>
+It's iffy if you could consider this plagiarized, since it's technically a quote... but James doesn't cite the source of the quote, *and* he gets the direct quote *wrong*, and there's actually very few places to even get the quote from, according to Google. 
+
+One of the sources you can get the quote from is [Buzzfeed](https://www.buzzfeednews.com/article/adambvary/oceans-8-costumes), who did the interview with the costume designer.
+
+</comment>
+<from {% include citation for=page.cite.clips.buzzfeed_costumes at="¶ 19-20" class="smaller" %}>
+
+For some viewers, Lou's overall look suggests that the character could be queer, and even that her close friendship with Debbie was perhaps born from a romantic entanglement in their past. When asked if this was intentional, Edwards laughed.
+
+"<mark>You know, <span stat:id="changed-quote"></span> early on, there was an idea that</mark> that <mark>might be the case</mark>," she said. "<mark>But we seemed to move away from that as the shooting went on.</mark>"
 
 </from>
+<comment {% include commenter for=tustin %}>
+
+The *other* place you can get the quote, and I suspect this is where he lifted it from given the wording, is [Rowan Ellis's video on queerbaiting](https://www.youtube.com/watch?v=riKVQjZK1z8&t=1445s):
+
+!["You know, I think early on, there was an idea that that (Lou and Debbie having been in a relationship) might be the case... But we seemed to move away from that as shooting went on."](../media/rowan_queerbaiting.png)
+
+</comment>
 </compare>
 
 ## Teen Wolf
