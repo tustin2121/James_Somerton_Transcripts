@@ -37,6 +37,14 @@ cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
+    survey_hot: "James misrepresents a survey that <strike>he</strike> the place he's copying from cites."
+    stalin: "James says that Stalin did a lot more 'ethnic cleansing' than Hitler, which is debatable."
+    ernst_roehm: "James claims Hitler killed Ernst Roehm because the latter was fat."
+    jealous_germans: "James says that Americans signed up to join the war because they were jealous of their looks and had to show them what for."
+    fattened_up: "James also has the gall to claim that people suffering from the Great Depression were getting fatter somwhow."
+    nazi_bodies: "James goes on a small rant about how soldiers idolized Nazi bodies...??"
+    soviet_bodies: "...and how soldier never saw Soviet bodies because they were always bundled up...?"
+    invented_quote: "James seems to have invented a quote wholesale?"
   plagiarized: !!map
     greg_johnson: { color: 12, short: "Center for Relationship Health (Johnson, 2021)", full: "Johnson, G. (2021). <em>Gay men have body image issues</em>. The Center for Relationship Health. Retrieved February 10, 2024, from", url: "https://crsh.com/2021/08/03/gay-men-have-body-image-issues/"}
     nick_levine: { color: 4, short: "GQ article (Levine, 2020)", full: "Levine, N. (2020). <em>Why Body Image Issues Pervade the Gay Community</em>. GQ. Retrieved February 10, 2024, from", url: "https://www.gq.com/story/why-body-image-issues-pervade-the-gay-community"}
@@ -140,18 +148,22 @@ Even though we're nearly a month into the new decade, it's proven frustratingly 
 </compare>
 
 <compare>
-<james span=2 {% include timecode %}> 
+<james id="survey_hot" span=3 {% include timecode %}> 
 
 <mark>Approximately 84 percent of gay men say they feel under intense pressure to have a body culturally defined as "hot."</mark> <mark fc=false>Not "healthy" or even "fit", "hot".</mark> <mark>They are three times more likely than straight men to have body image issues. Only one percent stated that they were "very happy" with their appearance, and those unhappy with their appearance continue to struggle with it well into middle age and beyond.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.greg_johnson at="¶1" %}>
+<from class="smaller" {% include citation for=page.cite.plagiarized.greg_johnson at="¶1" %}>
 
 <mark>Approximately 84 percent of gay men say they feel under intense pressure to have a good body.</mark> <mark>They are three times more likely than straight men to have body image issues. Only one percent stated they were “very happy” with their appearance, and they continue to struggle even more as they grow older.</mark>
 
 </from>
-<comment>
-{% include header for=tobi %}
+<comment {% include commenter for=tustin %}>
+
+The plagiarized source ({% include inline-citation for=page.cite.plagiarized.greg_johnson %}) doesn't actually cite what survey it's using. But the {% include inline-citation for=page.cite.plagiarized.nick_levine %} references [a survey by Attitude Magazine](https://web.archive.org/web/20220702081600/https://www.attitude.co.uk/article/more-than-half-of-gay-men-say-they-are-unhappy-with-their-body-exclusive/13483/), which has the same numbers.
+
+</comment>
+<comment {% include commenter for=tobi %}>
 
 In regards to this particular survey, I could not find any mention of the word "hot" for the survey questions - the word "good" was used, not "hot."
 
@@ -394,7 +406,7 @@ So basically centrists say, "just because something walks like a fascist, talks 
 James makes it clear that he is quoting another source, but does not provide that source to the audience.
 
 </comment>
-<from style="font-size: smaller;" {% include citation for=page.cite.plagiarized.michael_white at="¶15" %}>
+<from class="smaller" {% include citation for=page.cite.plagiarized.michael_white at="¶15" %}>
 
 But <mark>compared with the Golden Dawn party in Greece – who do have fascist credentials – and other fringe parties evident in hard-hit areas of the EU, Ukip is pretty mild.</mark> It contains some nasty people, but plenty who are just fed up or cross, often with good reason: the recession has hit them and their neighbours hard. They rightly resent being snootily dismissed by Cameron as "fruitcakes".
 
@@ -429,8 +441,7 @@ Using the Nazi party as the gold standard of evil has consequences like this. By
 Or alternatively, when something *is* as bad as Nazis, it is taboo to acknowledge it, and for that reason we cannot discuss Rwanda, or Sarajevo, or any number of massacres that have happened in the last century because it makes us uncomfortable to think that the Nazis weren't just a one-off fluke of evil political evolution. <mark fc=false>Stalin, for instance, was responsible for far more ethnic cleansing than Hitler was.</mark>
 
 </james>
-<comment>
-{% include header for=tustin %}
+<comment id="stalin" {% include commenter for=tustin %}>
 
 There's whole discussions that could be (and have been) had about this statement, but I will just leave you with this wikipedia article: [Excess mortality in the Soviet Union under Joseph Stalin](https://en.wikipedia.org/wiki/Excess_mortality_in_the_Soviet_Union_under_Joseph_Stalin).
 
@@ -701,7 +712,7 @@ Mythologically speaking, and this was part of Hitler's domestic policy, the Arya
 Furthermore, due to the fact that a fat German man spat in the face of their master race propaganda, there was a precedent for punishing those who did not conform to these standards. There have been *plenty* of historians<sup cn>who?</sup> who have even postulated the idea that <mark fc=false>Ernst Roehm, Hitler's gay BFF while he rose to power, and the man who ran the progenitor of the SS, the SA, was executed not because of Hitler's anxieties or Himmler's disdain for gay men, but... because he was fat and therefore didn't fit the ideal image of the Aryan man.</mark> 
 
 </james>
-<comment {% include commenter video=todd at="350" %}>
+<comment id="ernst_roehm" {% include commenter video=todd at="350" %}>
 <h4>3. The reason Hitler murdered Ernst Rohm is because he was fat</h4>
 
 Alright, this is called [The Night of the Long Knives](https://en.wikipedia.org/wiki/Night_of_the_Long_Knives), where Hitler ordered the execution of Nazi party member [Ernst Roehm](https://en.wikipedia.org/wiki/Ernst_R%C3%B6hm) and all of his allies. And the reason for that was just good old fashioned power struggle. It wasn't because he was gay, although Hitler did use that as an excuse, and it *certainly* wasn't because he was fat. Lots of Nazis were fat. <u>[Picture of [Hermann Goering](https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring) on screen.]</u> Hitler *did* have a fitness obsession, but it had *nothing* to do with this. 
@@ -732,18 +743,18 @@ Second of all, how is Rohm "the only competent member of Hitler's cabinet"? Thir
 <compare>
 <james {% include timecode %}> 
 
-And the Nazis did do whatever they could to make sure that the SS, the face of the party... would be a very pretty face. These perfect Nazi soldiers became a trademark of the regime across the world. <mark fc=false>As the globe suffered from malnutrition due to the food shortages of the Great Depression, or fattened up because the only food readily available was nutrient poor and extremely high in carbs, seeing these svelte attractive Germans marching down the streets of Berlin in newsreels created an air of inferiority for many, especially in America.</mark> 
+And the Nazis did do whatever they could to make sure that the SS, the face of the party... would be a very pretty face. These perfect Nazi soldiers became a trademark of the regime across the world. <mark id="fattened_up" fc=false>As the globe suffered from malnutrition due to the food shortages of the Great Depression, or fattened up because the only food readily available was nutrient poor and extremely high in carbs, seeing these svelte attractive Germans marching down the streets of Berlin in newsreels created an air of inferiority for many, especially in America.</mark> 
 
 <mark fc=false>Which in no small amount contributed to the massive signups when America joined the war. Remember, America was attacked by Japan, not Germany, but American boys across the country signed up to fight in Europe. They had to show these "perfect Germans" that they weren't so tough.</mark> And as it turns out, they weren't, and the Allies won the war in half as much time as it took America to realize the Iraq War was a lost cause. 
 
 </james>
-<comment {% include commenter video=todd at="3077" %}> 
+<comment id="jealous_germans" {% include commenter video=todd at="3077" %}> 
 
 First, he says Americans enlisted in World War II because they were jealous of Nazi buffness.
 
 I am wary of claiming things are wrong if I don't have that one killer fact that disproves it right in front of me, and I don't here. I'm gonna risk it and say it anyway: Uh, bullshit. That has to be bullshit. 
 
-how me *one* historian that says that jealousy of hot German bodies was even *remotely* a motivating factor in enlistment. Only a third of the Army enlisted voluntarily, most were drafted, and it's not like GIs could pick and choose which theater they fought in. 
+Show me *one* historian that says that jealousy of hot German bodies was even *remotely* a motivating factor in enlistment. Only a third of the Army enlisted voluntarily, most were drafted, and it's not like GIs could pick and choose which theater they fought in. 
 
 Also, people didn't get fat during the Great Depression, they didn't have processed foods back then. What do you think they were like, eating Funyuns?
 
@@ -802,7 +813,7 @@ Suddenly being healthy wasn't a priority. It was being fit. Not *strong* - fit. 
 <mark fc=false>How did this come about? Well, soldiers coming home from World War II had seen the ridiculous bodies of Nazi soldiers and Nazi propaganda and the mythical bodies that Nazis held up as perfection, and thought, "ohh, I can do better than that." And so a small subsect began trying to attain these bodies,</mark> creating diet plans low in carbs, high in protein, with lots and lots of exercise.
 
 </james>
-<comment {% include commenter video=todd at="3154" %}> 
+<comment id="nazi_bodies" {% include commenter video=todd at="3154" %}> 
 
 What the *fuck* are you talking about?? I mean, this just doesn't make any sense to me. A lot of actual German soldiers were starving, ragged teenage conscripts, and I don't think our GIs really gave a shit how fit they were. They were trying to not die. ...They saw the Holocaust, James.
 
@@ -817,7 +828,7 @@ There was a *bit* of a distraction once the Cold War started up because the enem
 But the idea of gorgeous male physiques started floating *away* from the military in the decades following World War II (since America was busy shipping off anyone without flat feet to fight wars in East Asia). Instead it drifted toward the well-off, the rich, the bourgeoisie. 
 
 </james>
-<comment {% include commenter video=todd at="3191" %}> 
+<comment id="soviet_bodies" {% include commenter video=todd at="3191" %}> 
 
 <u>[Todd superimposes the text "truly, what the fuck is happening in this video" as he shows a clip of the highlighted text.]</u>
 
@@ -1090,7 +1101,7 @@ Personal trainers and training apps get this kind of request all the time, as if
 People's bodies are the way they are and they can't control the distribution of muscle mass or their bone structure. There is a *version* of fit that they can accomplish, but it might not be a swimmer's body. 
 
 </james>
-<comment>
+<comment id="invented_quote">
 {% include header for=tobi %}
 
 I cannot find this quote anywhere.

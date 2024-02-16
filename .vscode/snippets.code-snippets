@@ -143,6 +143,17 @@
 		],
 		"description": "Insert compare block with credits block"
 	},
+	"comment-block": {
+		"prefix": "comment",
+		"body": [
+			"<comment {% include commenter for=$1 %}>",
+			"",
+			"$TM_SELECTED_TEXT$0",
+			"",
+			"</comment>".
+		],
+		"description": "Insert comment block"
+	},
 	"clip-block": {
 		"prefix": "clip",
 		"body": [
