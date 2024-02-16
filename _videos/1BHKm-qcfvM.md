@@ -35,7 +35,7 @@ cite:
   plagiarized: !!map
     greg_johnson: { color: 12, short: "Center for Relationship Health (Johnson, 2021)", full: "Johnson, G. (2021). <em>Gay men have body image issues</em>. The Center for Relationship Health. Retrieved February 10, 2024, from", url: "https://crsh.com/2021/08/03/gay-men-have-body-image-issues/"}
     nick_levine: { color: 4, short: "GQ article (Levine, 2020)", full: "Levine, N. (2020). <em>Why Body Image Issues Pervade the Gay Community</em>. GQ. Retrieved February 10, 2024, from", url: "https://www.gq.com/story/why-body-image-issues-pervade-the-gay-community"}
-    michael_white: { color: 9, short: "The Guardian article (White, 2013)", full: "White, M. (2013). <em> Nigel Farage's fascist barrage: Ukip leader needs a political history lesson</em>. The Guardian. Retrieved February 10, 2024, from", url: "https://www.theguardian.com/politics/blog/2013/may/17/nigel-farage-fascist-barrage-ukip"}
+    robin_hanford: { color: 9, short: "What is Fascism? (Hanford, 2014)", full: "Hanford, R. (2014, Mar 3). What is Fascism? [Unpublished manuscript] Ruskin College, Oxford. Retrieved February 15, 2024, from", url: "https://www.academia.edu/9345262/What_is_Fascism" }
     alastair_sooke: { color: 10, short: "BBC article (Sooke, 2015)", full: "Sooke, A. (2015). <em>The Discobolus: Greeks, Nazis and the body beautiful</em>. BBC. Retrived February 10, 2024, from", url: "https://www.bbc.com/culture/article/20150324-hitlers-idea-of-the-perfect-body"} 
 ---
 {% assign tobi = site.data.cite.tobicat %}
@@ -301,13 +301,13 @@ In the culture of today, I don't really like talking about fascism. I have to ta
 <compare>
 <james {% include timecode %}> 
 
-But one of the difficulties about talking about fascism and sorting media into categories of what does or does not support neo-fascist ideology, is that fascism itself is hard to describe. Because a definition of fascism does not really include the way that fascism is as much of a process of government as it is a method and a model. The history class description of fascism as "communism is the far left, and fascism is the far right," it's a little bit too simple. Even though the word fascism comes from the Italian for bundle of sticks, much like another f word, it represents a concept that is actually notoriously difficult to define. 
+But one of the difficulties about talking about fascism and sorting media into categories of what does or does not support neo-fascist ideology, is that fascism itself is hard to describe. Because a definition of fascism does not really include the way that fascism is as much of a process of government as it is a method and a model. The history class description of fascism as "communism is the far left, and fascism is the far right," it's a little bit too simple. 
 
 </james>
 <comment>
 {% include header for=tobi %}
 
-James says all this, but never actually bothers to give a definition for fascism, leading to him mistaking it for a number of other concepts, such as authoritarianism. For a good overview of what fascism actually is, see Innuendo Studio's [Endnote 2: White Fascism](https://www.youtube.com/watch?v=5Luu1Beb8ng&pp=ygUXZW5kbm90ZSAyIHdoaXRlIGZhc2Npc20%3D).
+James says all this, but never actually bothers to give a definition for fascism, leading to him mistaking it for a number of other concepts, such as authoritarianism. He doesn't even try to take the definition from the university paper he's stealing from. For a good overview of what fascism actually is, see Innuendo Studio's [Endnote 2: White Fascism](https://www.youtube.com/watch?v=5Luu1Beb8ng&pp=ygUXZW5kbm90ZSAyIHdoaXRlIGZhc2Npc20%3D).
 
 </comment>
 <from></from>
@@ -316,32 +316,14 @@ James says all this, but never actually bothers to give a definition for fascism
 <compare>
 <james {% include timecode %}> 
 
-For instance, in 2013 a right-wing newspaper that had supported fascists in the past published an article claiming that the United Kingdom Independence Party, a British right-wing party, was fascistic. However a center-left newspaper proclaimed that <mark>"compared with the Golden Dawn party in Greece - who do have fascist credentials and other fringe parties evident in hard-hit areas of the EU. The United Kingdom Independence Party is pretty mild.</mark>
+<mark>Even though the word fascism comes from the Italian for bundle of sticks,</mark> much like another f word, <mark>it represents a concept that is actually notoriously difficult to define.</mark> <mark>For instance, in 2013 a right-wing newspaper that had supported fascists in the past</mark> <mark>published an article claiming that the United Kingdom Independence Party, a British right-wing party, was fascistic.</mark> <mark>However a center-left newspaper proclaimed that "compared with the Golden Dawn party in Greece - who do have fascist credentials - and other fringe parties evident in hard-hit areas of the EU, the United Kingdom Independence Party is pretty mild."</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.michael_white at="¶15" %}>
+<from {% include citation for=page.cite.plagiarized.robin_hanford at="p.1" %}>
 
-But <mark>compared with the Golden Dawn party in Greece – who do have fascist credentials – and other fringe parties evident in hard-hit areas of the EU, Ukip is pretty mild.</mark> It contains some nasty people, but plenty who are just fed up or cross, often with good reason: the recession has hit them and their neighbours hard. They rightly resent being snootily dismissed by Cameron as "fruitcakes".
+<mark>Even though the word ‘fascism’ comes from the Italian for bundle of sticks,</mark> <mark>it represents a concept that is notoriously difficult to define.</mark> <mark>This is illustrated by an incident a few months ago when a right wing newspaper (that has supported fascists in its history</mark> (see [Norton-Taylor, 2005](https://www.theguardian.com/media/2005/apr/01/pressandpublishing.secondworldwar))) <mark>published an article about Professor Alan Sked, who claimed that the United Kingdom Independence Party, a British right-wing party, are fascistic</mark>  ([Groves, 2013](http://www.dailymail.co.uk/news/article-2429047/UKIP-bunch-morons-fascists-says-man-FOUNDED-anti-EU-party-20-years-ago.html)). <mark>However a centre-left newspaper proclaimed that, “compared with the Golden Dawn party in Greece – who do have fascist credentials – and other fringe parties evident in hard-hit areas of the EU, Ukip is pretty mild”</mark> ([White, 2013](http://www.theguardian.com/politics/blog/2013/may/17/nigel-farage-fascist-barrage-ukip)). In this essay I will deal with this seemingly impossible question of what fascism is by focusing on fascism in Europe. First I will look at the ideological origins of fascism before moving on to look at its historical origins in Italy and in Germany. I will then look at the Marxist analysis of fascism before offering my conclusion
 
 </from>
-<comment>
-{% include header for=tobi %}
-
-James makes it clear that he is quoting another source, but does not provide that source to the audience.
-
-</comment>
-<comment>
-{% include header for=lvence%}
-
-I can’t find the right wing press that supposedly labeled UKIP as fascistic, the article mentions it was Nigel who called the protesters fascistic.
-
-</comment>
-<comment>
-{% include header for=tobi %}
-
-Yeah, I seriously doubt that any right wing press would label a right wing group as fascistic. But maybe it's out there?
-
-</comment>
 </compare>
 
 <compare>
@@ -362,7 +344,7 @@ Culturally, we have decided that the Nazi party of Germany was fascist, which me
 <comment>
 {% include header for=tobi %}
 
-Why are we still here? Just to suffer?
+Why are we still here? Just to suffer? (this is a placeholder lol)
 
 </comment>
 <from></from>
@@ -442,48 +424,55 @@ And of course by removing fascism from its existing definition, we run the risk 
 <compare>
 <james {% include timecode %}> 
 
-Funny enough, insofar as political movements go, we can put a soft start date on fascism, and yes this is going to lead into what body image has to do with it, I promise. Fascism as a coherent form started in Italy under the leadership of Mussolini in 1919. After the infamous March on Rome and with the help of the conservatives in 1922, he came to power. By 1925-1926, his government had quickly become a dictatorship. All of this happened after the first world war, which many Italians didn't want to join in the first place. On top of that, Italy was facing a crisis because it wasn't industrializing fast enough. This led to a period of revolution known as the Two Red Years, basically a two-year period when socialists were gaining ground in the country because of horrendous working conditions. 
+Funny enough, insofar as political movements go, we can put a soft start date on fascism, and yes this is going to lead into what body image has to do with it, I promise. <mark>Fascism as a coherent form started in Italy under the leadership of Mussolini in 1919.</mark> <mark>After the infamous March on Rome and with the help of the conservatives in 1922,</mark> <mark>he came to power.</mark> <mark>By 1925-1926,</mark> <mark>his government had quickly become a dictatorship.</mark> <mark>All of this happened after the first world war, which many Italians didn't want to join in the first place. On top of that, Italy was facing a crisis because it wasn't industrializing fast enough. This led to a period of revolution known as the Two Red Years,</mark> basically a two-year period when socialists were gaining ground in the country because of horrendous working conditions. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.robin_hanford at="p.2" %}>
+
+<mark>Fascism as a coherent form started in Italy under the leadership of Mussolini in 1919.</mark> <mark num=3>He came to power</mark> <mark num=2>after the infamous March on Rome and when backed by conservatives in 1922,</mark> <mark num=5>and his regime had quickly developed into a dictatorship</mark> <mark num=4>by 1925/1926</mark> (Bosworth, 2005, p. 18; Passmore, 2002, p. 10). <mark>This all came about when Italy had been ravaged by the First World War, a conflict that its people were initially reluctant to enter into; also on top of this Italy was still facing a crisis of lack of industrialisation. This led to a revolutionary period referred to as ‘the two red years’</mark> or, as it is called in Italian ‘beinnio rosso’, which officially began in 1919 (but only happened after similar types of struggle from 1917 onwards) (Bellamy & Schecter, 1993, p. 28; Passmore, 2002, pp. 50–51; Trudell, 2007). This movement reached its high watermark in 1920 when factories where taken over and, in the words of Leon Trotsky (2005), “the dictatorship of the proletariat was an actual fact” (2005, p. 19).
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-But the fascist reaction quickly drowned out this "radical" left-wing government. In 1919, there were only a few true Italian fascists, however by '22, they had won the support of the rural bourgeoisie and were running large parts of the country. By the end of that same year, the national fascist party had a quarter of a million members. When Mussolini's March on Rome happened, big businesses, conservative politicians, and the army decided to give power to the fascists wholesale, instead of giving it to the socialists, who were far more popular among voters. This made it possible for Mussolini to become the leader of Italy in 1922. 
+<mark>But the fascist reaction quickly drowned out</mark> <mark>this "radical" left-wing government.</mark> <mark>In 1919, there were only a few true Italian fascists, however</mark> <mark>by '22,</mark> <mark>they had won the support of the rural bourgeoisie and were running large parts of the country.</mark> <mark>By the end of that same year, the national fascist party had a quarter of a million members. When Mussolini's March on Rome happened, big businesses, conservative politicians, and the army decided to give power to the fascists wholesale, instead of giving it to the socialists,</mark> who were far more popular among voters. <mark>This made it possible for Mussolini to become the leader of Italy in 1922.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.robin_hanford at="p.2-3" %}>
+
+<mark num=2>However this radical left wing movement</mark> <mark num=1>was quickly drowned in a sea of fascist reaction.</mark> <mark>In 1919 the Italian fascists comprised only a faithful few, however</mark> <mark num=5>after winning the support of the rural bourgeoisie were practically controlling areas of the country</mark> <mark num=4>by 1922</mark> and <mark>by the end of that same year the PNF (Partito Nazionale Fascista or National Fascist Party) possessed a quarter of a million members. When big business, conservative politicians and the army where confronted with Mussolini’s March on Rome, they decided to transfer power to the fascists rather than cede power to the socialists.</mark> <mark>This allowed Mussolini to become prime minister on the 29th October 1922.</mark> 
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-But fascism as a way of life was just as contradictory as it was an idea. This happened because fascists in power were being pulled in three different directions. Conservatives joined the party because they wanted a more authoritarian version of the old system; they wanted the pyramid scheme of feudalist power. just without the infighting brought on by the myriad of city-states. There were also nationalists who wanted even more authoritarianism without more violence. And there were also more radical fascists who wanted a second violent revolution. Mussolini eventually sided with the most extreme fascist group, which is something we're seeing play out in American right-wing politics right now. 
+<mark>But fascism as a way of life was just as contradictory as it was an idea. This happened because fascists in power were being pulled in three different directions. Conservatives joined the party because they wanted a more authoritarian version of the old system;</mark> they wanted the pyramid scheme of feudalist power, just without the infighting brought on by the myriad of city-states. <mark>There were also nationalists who wanted even more authoritarianism without more violence. And there were also more radical fascists who wanted a second violent revolution. Mussolini eventually sided with the most extreme fascist group,</mark> which is something we're seeing play out in American right-wing politics right now. If you begin leaning into radicalism, but you don't side with the most radical group, you become a target. The centrists have the ability to just leave - in this case <mark>the Italian conservatives</mark> - but this is applicable to all governments. <mark>If the centrists leave their positions,</mark> even if they can't stand the far right, <mark>that would mean giving more political power to the left.</mark> Also not unlike Republican voters refusing to vote for Democratic candidates against absolutely abhorrent Republican ones because they'd rather elect the Devil Himself than someone who wants to protect their Medicare and Social Security... Anyway. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.robin_hanford at="p.3" %}>
+
+<mark>However fascism in practice was just as contradictory as in its ideological form. This was because the fascists in government where being pulled in three separate directions at once. The conservatives had joined the party (who wanted a more authoritarian shade of the old system);</mark> <mark>then there were nationalists who wanted even more authoritarianism but without more violence; and then there were more radical fascists who wanted a second revolution. Mussolini eventually backed the radical fascist faction.</mark> <mark>However the conservatives</mark> <mark>didn’t leave the party,</mark> <mark>because doing so may have led to a strengthening of the left.</mark> This meant that, despite these differences being officially resolved in 1925, in reality they plagued the regime until it all ended for them after the Second World War (Passmore, 2002, pp. 51–56, 60–61).
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}> 
 
-If you begin leaning into radicalism, but you don't side with the most radical group, you become a target. The centrists have the ability to just leave - in this case the Italian conservatives - but this is applicable to all governments. If the centrists leave their positions, even if they can't stand the far right, that would mean giving more political power to the left. Also not unlike Republican voters refusing to vote for Democratic candidates against absolutely abhorrent Republican ones because they'd rather elect the Devil Himself than someone who wants to protect their Medicare and Social Security... Anyway. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}> 
-
-Basically, the beginning of fascist ideology can be seen as a rejection of the modern Progressive age. Inclusivity bad. It became a coherent ideology of extreme conservatism in Italy, and then emerged in Germany after a period of crisis, but was only allowed into power after the rich permitted and facilitated it. Fascism, capitalism. 
+<mark>Basically, the beginning of fascist ideology can be seen as a rejection of the modern Progressive age.</mark> Inclusivity bad. <mark>It became a coherent ideology of extreme conservatism in Italy,</mark> and then emerged in Germany <mark>after a period of crisis, but was only allowed into power after the rich permitted and facilitated it.</mark> Fascism, capitalism.
 
 Okay yes, but what does that have to do with being fat?
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.robin_hanford at="p.5" %}>
+
+<mark>In conclusion, the beginning of fascist ideology can be seen as a rejection of the modern liberal age</mark> and that such rejection was first seen in the French far-right organisation *Action Française*. <mark>However fascism in its coherent form emerged in Italy</mark> <mark>after a period of crisis and was allowed to assume power only when capitalist interests demanded it.</mark> In Germany a strikingly similar chain of events occurred. Fascism emerged after a period of crisis, but was only allowed into power after the bourgeoisie permitted and facilitated this. The reason why these are similar can be explained through Marxist analysis. This involves examining the position of classes in both countries during the times when fascism was rising to power. In both countries the classes involved played significantly similar roles. The instrumental role of these classes – the bourgeoisie and petty bourgeoisie – is what made Italy and Germany fascist until after the Second World War and is therefore a clear defining feature of fascism. 
+
+</from>
 </compare>
 
 ## 2. A Model Citizen
@@ -506,7 +495,7 @@ He uses quotation marks on screen for the definition, but I cannot find any othe
 <compare>
 <james {% include timecode %}> 
 
-This is present throughout all forms of fascism, but especially the ones based around the myths of Scandinavia. The Nordic Superman, the Aryan, the Ubermensch. Which is most of the fascism that has spurred on the men's rights groups around North America and Western Europe. Even though the vast, vast majority of them do not fit the description of what they would describe as the ideal male body. Which, focusing so much on the ideal male body kind of sounds pretty gay to me if you ask me. Granted, the blonde-haired blue-eyed poster boy for Nazi propaganda befits even a contemporary model for desirability. "This could one day be you, or your son, or your nephew." The Nazi party very strongly Aasociated itself and its success with physical beauty. So though the perfect male body has been an element of fascism from the very beginning, never was it more prevalent than in Nazi Germany. Because Hitler was obsessed with the art of classical Greece.
+This is present throughout all forms of fascism, but especially the ones based around the myths of Scandinavia. The Nordic Superman, the Aryan, the Ubermensch. Which is most of the fascism that has spurred on the men's rights groups around North America and Western Europe. Even though the vast, vast majority of them do not fit the description of what they would describe as the ideal male body. Which, focusing so much on the ideal male body kind of sounds pretty gay to me if you ask me. Granted, the blonde-haired blue-eyed poster boy for Nazi propaganda befits even a contemporary model for desirability. "This could one day be you, or your son, or your nephew." The Nazi party very strongly associated itself and its success with physical beauty. So though the perfect male body has been an element of fascism from the very beginning, never was it more prevalent than in Nazi Germany. Because Hitler was obsessed with the art of classical Greece.
 
 </james>
 <from></from>
