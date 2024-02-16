@@ -216,6 +216,8 @@
 	compare clip > header::before { content: 'Video Clip:'; }
 	compare comment > header::before { content: 'Comment:'; }
 	
+	compare from.smaller { font-size: smaller; }
+	
 	compare :is(james, nick, credits, subvideo)::before
 	{
 		display: block;

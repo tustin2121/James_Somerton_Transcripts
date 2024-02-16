@@ -39,7 +39,7 @@ cite:
   plagiarized: !!map
     wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
-{% assign todd = site.data.cite.todd %}
+{% assign todd = site.data.cite.todd.video %}
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
@@ -242,8 +242,14 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 </from>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
 <u>[Sponsor Read]</u>
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
+
+</james>
+</compare>
 
 ## Chapter 1: Missionary Suppression
 
@@ -294,9 +300,10 @@ The twist? Some of these naysayers were gay men. It's a bit of a "the call is co
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
 
 </james>
-<comment id="think_pieces" {% include citation for=todd.video at="(18:35)" %}>
+<comment id="think_pieces" {% include commenter video=todd at="(18:35)" %}>
 
-Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
+Todd in the Shadows attempted to find the "think pieces" discussed herein. He found:
+<!-- TODO: Copy script here. -->
 
 ["I'm A Queer Man. So Why Are Queer Sex Scenes Making Me So Uncomfortable?"](https://www.huffingtonpost.co.uk/entry/im-a-queer-man-so-why-are-queer-sex-scenes-making-me-so-uncomfortable_uk_64e38a13e4b0400efa5890d3) By Ian Kumamoto, Guest Writer for the Huffington Post UK (Aug 21st, 2023).
 
@@ -315,9 +322,10 @@ The bulk of criticism however was found on social media, <mark fc=false>where st
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
 </james>
-<comment id="missionary_tweets" {% include citation for=todd.video at="(22:55)" %}>
+<comment id="missionary_tweets" {% include commenter video=todd at="(22:55)" %}>
 
 Todd looked for evidence of this, and found the following two articles:
+<!-- TODO: Copy script here. -->
 
 [Straight people SHOCKED to learn gays can have missionary sex after seeing “Red, White & Royal Blue”](https://www.queerty.com/straight-people-shocked-to-learn-gays-can-have-missionary-sex-too-after-seeing-red-white-royal-blue-20230814) By Alex Reimer (Aug 14, 2023)
 
@@ -356,9 +364,10 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 However, they were *so* taken aback, <mark fc=false>that they criticized the film for having an *excessive* amount of sexual content</mark> which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
-<comment id="sex_backlash" {% include citation for=todd.video at="(18:35)" %}>
+<comment id="sex_backlash" {% include commenter video=todd at="(18:35)" %}>
 
 It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
+<!-- TODO: Copy script here. -->
 
 It is *technically* possible, but as of yet, no single tweet has been dug up that makes this true.
 

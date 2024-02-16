@@ -981,8 +981,7 @@ Things in the culture which had nothing to DO with the New York City Ballet... i
 
 </details>
 </from>
-<comment>
-{% include header video=todd at="1h3m57s" %}
+<comment {% include commenter video=todd at="1h3m57s" %}>
 
 I need you to all understand that this is not a serious historical analysis. Libowitz was just talking shit to make a point. That's her entire shtick: she's a shit-talker.
 
@@ -1015,8 +1014,7 @@ Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter sta
 > Royce: That’s a statement that just gets worse the longer you think about it.
 
 </comment>
-<comment mark=cont color={{todd.color}} id="90s_activists">
-{% include header video=todd at="1h2m19s" %}
+<comment mark=cont id="90s_activists" {% include commenter video=todd at="1h2m19s" %}>
 
 <mark num=2></mark>Oho boy... This was the first claim that really got got my attention, and it's the entire reason why I watched the rest of his stuff. Disregarding *whatever else* you want to say about that passage... yes, gay activists were *absolutely* fighting against employment discrimination and for protected status for sexuality! Those were *the fights* of the 90s! I heard about that shit all the time! [There was a big giant movie about it!](https://en.wikipedia.org/wiki/Philadelphia_(film))
 

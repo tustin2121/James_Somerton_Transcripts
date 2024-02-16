@@ -293,8 +293,7 @@ The actor continued, “It is also a reminder that as much as Jo is the founder 
 <mark fc=false>(It was probably after this that Joanne actually head-cannoned an *adult* Draco Malfoy into going around Diagon Alley Shops and vandalizing them with messages of supporting trans rights. She literally did that. Look it up. She did that. She did.)</mark>
 
 </james>
-<comment id="malfoy_trans">
-{% include header video=todd %}
+<comment id="malfoy_trans" {% include commenter video=todd %}><!-- TODO: Add at="" -->
 
 I did look it up. [That was a viral hoax from last year,](https://www.reuters.com/article/idUSL1N2ZN0PY/) it's a series of fake tweets that started out as [a joke on clickhole](https://clickhole.com/the-saga-continues-jk-rowling-has-announced-that-in-the-harry-potter-universe-she-is-a-universally-beloved-potions-shop-owner-who-no-one-considers-a-bigot/) and people started spreading them around like they were real. They're not.
 

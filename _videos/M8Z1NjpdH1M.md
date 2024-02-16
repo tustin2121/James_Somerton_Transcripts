@@ -79,7 +79,7 @@ cite:
     joelle_monique: { color: 1, short: "(Monique, 2019)", full: "Monique, J. (2019, Sep 7). <em>How 'It: Chapter Two' Leaves RichieTTozier Behind</em> [Article]. The Hollywood Reporter", url: "https://www.hollywoodreporter.com/movies/movie-features/how-it-chapter-two-gay-moment-lets-down-richie-tozier-1237532/" }
     alex_london: { color: 5, short: "(London, 2019)", full: "London, A. (2019, Oct 2). <em>When Horror Becomes Strength: Queer Armor in Stephen King's IT</em> [Article].", url: "https://www.tor.com/2019/10/02/when-horror-becomes-strength-queer-armor-in-stephen-kings-it/" }
 ---
-{% assign hbomb = site.data.cite.hbomb %}
+{% assign hbomb = site.data.cite.hbomb.video %}
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
 {% assign sciclone = site.data.cite.sciclone1984 %}
@@ -154,7 +154,7 @@ Alex London
 Society and Queer Horror
 
 </credits>
-<comment {% include citation for=hbomb.video at="(2:33:53)" %}>
+<comment {% include commenter video=hbomb at="(2:33:53)" %}>
 
 Not included in the credits, though they should have been:
 - Andrew Park
@@ -167,9 +167,7 @@ Not included in the credits, though they should have been:
 - Joelle Monique
 
 </comment>
-
-<comment>
-{% include header for=tustin %}
+<comment {% include commenter for=tustin %}>
 
 Also the following authors discovered since Hbomb's video:
 - Randy Shulman

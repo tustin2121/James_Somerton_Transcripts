@@ -289,7 +289,7 @@ But that doesn't mean Disney doesn't use bullcrap reasons to cancel shows today.
 >"<mark meta num=4>While we have had issues airing in a few countries (and are just straight up banned in a few more) I'm not gonna assume bad faith against the people I work with in LA.</mark>"
 
 </nick>
-<from span=2 style="font-size:smaller;" {% include citation for=page.cite.clips.dana_ama %}>
+<from span=2 class="smaller" {% include citation for=page.cite.clips.dana_ama %}>
 <h2>AMA (except by "anything" I mean these questions only)</h2>
 
 I wasn't planning on making a post because it's too late for a normal s3 pickup and the real reason we were let go is not as exciting as some of the wild theories I've seen. But there's a bit too much misinformation so I hope I can clear stuff up. Also, posting here instead of twitter because this thread would be too long and too easy to take out of context.
@@ -368,8 +368,7 @@ Even Bob Iger, the former Disney CEO and the man who hand-picked Chapek, has had
 <mark fc=false>He's also not fond of the fact that Chapek is a crypto enthusiast who wants NFTs to become particularly important parts of Disney going forward.</mark> <mark fc id="marvel">He's even started consulting with Warner Brothers on how to rebuild the DC EU.</mark> *That's* how much he wants Chapek to fail.
 
 </james>
-<comment id="nfts">
-{% include header video=todd at="4084s" %}
+<comment id="nfts" {% include commenter video=todd at="4084s" %}>
 
 [Chapek *did* have a lot of plans for Disney and the Metaverse.](https://www.coindesk.com/business/2022/09/26/disneys-latest-job-posting-hints-at-big-plans-for-nft-and-crypto-adoption/) So, it is fair to call him a crypto guy. *Un*fortunately, [so is Iger.](https://decrypt.co/91661/former-disney-ceo-bob-iger-predicts-nft-explosion) That said, since this video, [Iger has laid off the entire Disney Metaverse division](https://techcrunch.com/2023/03/27/disney-cuts-metaverse-division-as-part-of-broader-restructuring/), so retroactively you could call that true. 
 
@@ -481,8 +480,7 @@ So what does all this have to do with *The Owl House*?  Well, I just wanted to p
 The second season premiered in June of 2021, but in May of 2021, a month earlier, Disney announced the cancellation of the show, giving it three 42-minute long episodes to wrap everything up instead of a proper full third season. What was the big difference at Disney between January of 2020 and May of 2021? <mark fc=false>Well, the CEO went from being a guy who argued for gay marriage legalization, even threatening to stop donations to the Obama re-election campaign in 2012 if the president didn't come out in favor of it</mark>, to a guy who kept silent when the Florida government started passing legislation that erased queer people from classrooms. That's quite a drastic shift! 
 
 </james>
-<comment id="gay_marriage">
-{% include header video=todd at="44m58s" %}
+<comment id="gay_marriage" {% include commenter video=todd at="44m58s" %}>
 
 I think he's implying that Obama came out in support of gay marriage in 2012 because of pressure from Iger? That doesn't seem seem likely. We know why Obama came out in support: it's because Biden blundered into the issue, forcing Obama to finally make an official statement. Iger *did* donate to Obama during that cycle, but only *before* Obama made his statement, not after, meaning this 'threat to cut off funds unless he supported gay marriage'? Yeah, I mean, that's probably not true.
 
@@ -617,8 +615,7 @@ There's little you can do or say to convince me that there was a rational reason
 There's also nothing saying that the executives wouldn't be aware that Disney Plus was in late stage development and realized that adult audience cartoons tend to do well on streaming services. There's simply no reason why you don't want an incredibly toyetic show directed at an adult audience who have an abundance of expendable income. <mark fc=false>There is, after all, a subindustry at Disney geared at marketing their princesses for themed weddings and... funerals. Yes, funerals.</mark> Times like this make it seem like the executive thought process at Disney is powered by a single gerbil on a wheel.
 
 </james>
-<comment id="disney_funeral">
-{% include header video=todd at="3949s" %}
+<comment id="disney_funeral" {% include commenter video=todd at="3949s" %}>
 
 No, not funerals-- <u>[exasperated sigh]</u>. All right, this could only be considered "true" in the sense that Disney marketing permeates everything, so there are people who would *absolutely* get Disney themed funerals if Disney was willing to sell it to them.
 

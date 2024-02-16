@@ -1341,8 +1341,7 @@ On July 15, 1940, Himmler added an amendment to his April 1938 directive: men ar
 <mark fc=false>But Himmler soon found himself the topic of mockery, as more and more people began to realize that the SS was becoming dominated by gay men. Leadership positions were teeming with homosexuals, and it was an open Secret among many in Germany that if a man were to offer sexual favors to an SS officer, most any crime could be forgiven.</mark> 
 
 </james>
-<comment id="homo_ss">
-{% include header video=todd at="1007" %}
+<comment id="homo_ss" {% include commenter video=todd at="1007" %}>
 
 ... No it wasn't [teeming with homosexuals]. That isn't true.
 
@@ -1526,8 +1525,7 @@ These figures must be treated with caution. They indicate only the number of peo
 
 </footer>
 </from>
-<comment id="fifteen_percent">
-{% include header video=todd at="1039" %}
+<comment id="fifteen_percent" {% include commenter video=todd at="1039" %}>
 
 Okay, the thing about Somerton is that sometimes he will cite his sources and you can just read along and see where he's adding things. He got most of this video from Richard Plant's *The Pink Triangle* and the passage he's quoting from actually says that 15% of the *teenage boys* kicked out of the Hitler Youth were kicked out for being being gay, not the adult leadership. Also, there's nothing in there about any coverups.
 

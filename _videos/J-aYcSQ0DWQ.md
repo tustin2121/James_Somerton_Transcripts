@@ -399,8 +399,7 @@ Granted, though, <mark fc=false>this was at the same time of European history wh
 <mark fc=false>Rich families noticed that after their sons toured Europe, something about them would change after they spent a few months in Italy. The combination of a prevalent casual approach towards sex, a culture focused around pursuing artistic romance, and simply being one of the most scenic landmasses on the damn planet, usually culminated in cold, English boys’ sexual hang-ups being eroded by the hordes of beautiful Italians with a ‘when in Rome’ attitude when it came to 69ing with other guys.</mark> 
 
 </james>
-<comment id="gay_italy">
-{% include header video=todd at="416s" %}
+<comment id="gay_italy" {% include commenter video=todd at="416s" %}>
 
 **4. England had a homophobic propaganda campaign against Italy tourism because Italy was turning their kids gay**
 
