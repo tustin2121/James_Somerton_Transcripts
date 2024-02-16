@@ -1,0 +1,23 @@
+
+{%- if include.video -%}
+	{%- assign _info = include.video -%}
+	{%- assign _usr = include.name | default: include.video.short -%}
+	{%- if include.at -%}
+		{%- assign _link = include.video.url | append: '&t=' | append: include.at -%}
+	{%- else -%}
+		{%- assign _link = include.video.url -%}
+	{%- endif -%}
+{%- else -%}
+	{%- assign _info = include.for -%}
+	{%- assign _usr = include.for.name | default: include.name -%}
+	{%- assign _link = include.link | default: include.for.link | default: "#" -%}
+{%- endif -%}
+{%- capture _clazz -%}
+	{%- if _info.color -%}color-{{ _info.color }}{%- endif -%}
+	{%- if _info.style %} srcstyle-{{ _info.style }}{%- endif -%}
+{%- endcapture -%}
+
+
+{%- if _clazz -%}class="{{ _clazz }}"{%- endif -%}>
+<header><a class="citation" href="{{ _link }}">{{ _usr }}</a></header
+

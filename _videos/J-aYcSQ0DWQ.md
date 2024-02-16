@@ -29,7 +29,7 @@ contributors:
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
   factcheck:
-    - "lapin (on the [Former Fans discord](https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320))"
+    - "cinnamorollmiku (on the [Former Fans discord](https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320))"
 
 cite:
   clips: !!map
@@ -46,7 +46,7 @@ cite:
     irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
 
 factcheck:
-  cinnamorollmiku: { short: "lapin" }
+  cinnamorollmiku: { short: "cinnamorollmiku", url: "https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign todd = site.data.cite.todd.video %}
