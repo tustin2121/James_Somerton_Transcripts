@@ -1,18 +1,23 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "19.1", m: "2.4", "y": "0.8", w: "12.3", v: 23}
-  p-total: 103
-  m-total: 79
-  y-total: 19
+  vol: {p: "20.2", m: "2.6", "y": "0.8", w: "12.6", v: 81}
+  p-total: 111
+  m-total: 88
+  y-total: 21
   hbomb: 26
+  w-james-nick: 12
+  malaprop: 2
+  changed-quote: 20
+  made-quote: 5
   comp-delete: 5
+  visual: 4
+  y-biphobia: 1
+  p-youtube: 11
   multipart: 3
   commentary: 3
   vimeo: 2
-  w-james-nick: 11
-  made-quote: 4
-  m-context: 5
+  m-context: 6
   inverse: 1
   y-persecution: 2
   p-book: 8
@@ -24,21 +29,18 @@ _global:
   w-nick-james: 11
   short-advert: 5
   irony...: 1
-  changed-quote: 16
   w-james: 5
   dec5-delete: 6
   p-news: 10
   y-exclusion: 2
   unreleased: 1
   changed-number: 2
-  visual: 3
   changed-name: 5
   blatant-bgm: 2
-  p-youtube: 9
+  sub-queer: 22
   highlighted: 1
   dec2-delete: 1
   baa: 4
-  sub-queer: 21
   mined-quote: 1
   irony: 5
   p-academic: 4
@@ -64,6 +66,11 @@ _irony:
   - {source: UiDcQnavKPI, id: am_i_being_disingenuous, quote: "\n\nEspecially that, if we’re gonna get philosophical, people are rarely honest with themselves. *I’m* making a monetized video about how it’s bad that corporations are using queerness to sell a product without actually either promoting queer identity, or promoting queer creations. Is there really a way to objectively say that *I’m* not just making this video for the money? Other than the fact that my YouTube ad revenue is NOT impressive. But there’s no way for you, the audience, to verify if I’m being disingenuous or not. If I’m *baiting* you anymore or any less than these producers I’ve been ranting about.\n\nI’ve spent the last two years on here, on literally every live stream, talking about how my dream is to make movies and series about queer characters that aren’t JUST about being queer. A way to give back to the community, create movies and series, the likes of which *I never got to see* growing up. Hell, I still don’t get to see them much. But I haven’t actually gone ahead and done that, now have I? You can assume I will actually give back to the community, create works for the community that go above and beyond youtube. But will I? \n\n"}
 
 _all:
+  - {"color": 12, "short": "Center for Relationship Health (Johnson, 2021)", "full": "Johnson, G. (2021). <em>Gay men have body image issues</em>. The Center for Relationship Health. Retrieved February 10, 2024, from", "url": "https://crsh.com/2021/08/03/gay-men-have-body-image-issues/"}
+  - {"color": 4, "short": "GQ article (Levine, 2020)", "full": "Levine, N. (2020). <em>Why Body Image Issues Pervade the Gay Community</em>. GQ. Retrieved February 10, 2024, from", "url": "https://www.gq.com/story/why-body-image-issues-pervade-the-gay-community"}
+  - {"color": 9, "short": "What is Fascism? (Hanford, 2014)", "full": "Hanford, R. (2014, Mar 3). What is Fascism? [Unpublished manuscript] Ruskin College, Oxford. Retrieved February 15, 2024, from", "url": "https://www.academia.edu/9345262/What_is_Fascism"}
+  - {"color": 10, "short": "BBC article (Sooke, 2015)", "full": "Sooke, A. (2015). <em>The Discobolus: Greeks, Nazis and the body beautiful</em>. BBC. Retrived February 10, 2024, from", "url": "https://www.bbc.com/culture/article/20150324-hitlers-idea-of-the-perfect-body"}
+  - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
   - {"color": 4, "short": "Pink Triangle (Plant, 1986)", "full": "Plant, R. (1986). <em>The Pink Triangle: The Nazi War Against Homosexuals</em>. Henry Holt and Company.", "type": "book", "style": "book"}
   - {"color": 3, "short": "Senior Thesis (Rokakis, 2013)", "full": "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", "url": "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", "type": "student"}
   - {"color": 8, "short": "Branded (Setterington, 2013)", "full": "Setterington, K. (2013). <em>Branded by the Pink Triangle</em>. Second Story Press.", "type": "book", "style": "book"}
@@ -88,14 +95,17 @@ _all:
   - {"color": 4, "short": "Breakdown (Gardner, 2023)", "full": "Gardner, A. (2023, Feb 7). <em>A Complete Breakdown of the J.K. Rowling Transgender-Comments Controversy</em> [Article]. Glamour.", "url": "https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy", "archive": "https://web.archive.org/web/20230207232206/"}
   - {"color": 3, "short": "Digital Safeguarding (Amnesty UK, 2023)", "full": "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", "url": "https://www.amnesty.org.uk/digital-safeguarding-guidance"}
   - {"color": 5, "short": "(Abrahamson, 2022)", "full": "Abrahamson, M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", "url": "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/"}
+  - {"color": 12, "short": "Troubling Antisemitic References (Nava, 2023)", "full": "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", "url": "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/"}
   - {"color": 2, "short": "Wallpaper (eeee, 2005)", "full": "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", "url": "http://gallery.minitokyo.net/view/93510"}
   - {"color": 1, "short": "Revolutionary Girl Utena (Wikipedia, n.d.)", "full": "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", "url": "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479"}
-  - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
   - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
+  - {"color": 12, "short": "On Stucky Fandom (Myers, 2016)", "full": "Myer, M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", "url": "https://www.themarysue.com/why-cant-stucky-just-be-friends/"}
+  - {"color": 7, "short": "Ocean's 8 (Gutowitz, 2018)", "full": "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", "url": "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/"}
   - {"color": 1, "short": "Merlin (Avila, 2016)", "full": "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
   - {"color": 3, "short": "Poe/Finn (Avila, 2016)", "full": "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=NVompS_JoJw"}
   - {"color": 4, "short": "Johnlock (Avila, 2016)", "full": "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=RpItybDHavo"}
   - {"color": 5, "short": "Albus/Scorpius (Avila, 2016)", "full": "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=MNntQQ1qHuo"}
+  - {"color": 15, "short": "Queerbaiting (Ellis, 2019)", "full": "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=riKVQjZK1z8"}
   - {"color": 2, "short": "(Park, 2014)", "full": "Park, A. (2014, Oct 16). <em>Why 'The Craft' Is Still the Best Halloween Coming Out Movie</em> [Article]. Huffpost. Retrieved Dec 20, 2023, from", "url": "https://www.huffpost.com/entry/why-the-craft-is-still-th_b_5980820"}
   - {"color": 16, "short": "(Wikipedia, 2020)", "full": "Wikipedia. (2020, Jun 30). <em>Modern pagan views on LGBT people</em> [Article]. Wikipedia. Retrieved Feb 13, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Modern_pagan_views_on_LGBT_people&oldid=965293301"}
   - {"color": 13, "short": "(Kohr, 2020)", "full": "Kohr, A (2020, Jun 17). <em>Why Queer People Love Witchcraft</em> [Article]. Retrieved Dec 20, 2023, from", "url": "https://www.refinery29.com/en-us/2020/06/9861310/queer-lgbt-witch-trend"}
@@ -168,6 +178,10 @@ _all:
   - {"color": 2, "short": "Flirting boys (Zhou, 2021)", "full": "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", "url": "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq"}
   - {"color": 5, "short": "China bans men (McDonald, 2021)", "full": "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", "url": "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f"}
 
+1BHKm-qcfvM:
+  vol: { p: 25.3, m: 10.1, y: 0.0, w: 14.2, v: 0 }
+4YWslnyUxcs:
+  vol: { p: 50.0, m: 7.7, y: 0.0, w: 0.0, v: 27 }
 4zPCM14-SCQ:
   plagiarized: {}
   misinformation: {}
@@ -184,7 +198,7 @@ fE4I6WhPryc:
 J-aYcSQ0DWQ:
   vol: { p: 10.3, m: 1.5, y: 0.0, w: 6.0, v: 0 }
 jJmN2rC1cVM:
-  vol: { p: 32.1, m: 3.6, y: 0.0, w: 9.5, v: 0 }
+  vol: { p: 33.9, m: 1.8, y: 0.0, w: 10.6, v: 0 }
 KarOvBQCyKE:
   vol: { p: 0.0, m: 1.9, y: 0.0, w: 0.0, v: 0 }
 kvMq2FejBT8:
@@ -193,7 +207,7 @@ m8DRQ9-sCSI:
   plagiarized: {}
   misinformation: {}
   yikes: {}
-  vol: { p: 28.9, m: 1.5, y: 0.0, w: 4.7, v: 14 }
+  vol: { p: 44.6, m: 1.4, y: 0.0, w: 13.1, v: 45 }
 M8Z1NjpdH1M:
   vol: { p: 74.4, m: 5.6, y: 0.0, w: 55.3, v: 0 }
 n41RAyav_d8:
@@ -209,7 +223,7 @@ pW_RjbZYi1s:
     nyt_1950: {"color": 5, "short": "", "full": "New York Times (1950, Apr 19). <em>PERVERTS CALLED GOVERNMENT PERIL; Gabrielson, G.O.P. Chief, Says They Are as Dangerous as Reds--Truman's Trip Hit Gabrielson Warns Industry</em> [News article]. The New York Times. Retrieved ??? ?, 2024, from", "url": "https://www.nytimes.com/1950/04/19/archives/perverts-called-government-peril-gabrielson-gop-chief-says-they-are.html"}
     wiki_lavender: {"color": 8, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176"}
     wiki_blacklist: {"color": 6, "short": "(Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102"}
-    celluloid_closet: {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
+    celluloid_closet: "$cite$celluloid_closet_book"
     wiki_summer: {"color": 3, "short": "Suddenly, Last Summer (Wikipedia, 2023)", "full": "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843"}
     wiki_childhour: {"color": 4, "short": "The Children's Hour (Wikipedia, 2023)", "full": "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913"}
     wiki_advise: {"color": 5, "short": "Advise & Consent (Wikipedia, 2023)", "full": "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205"}
@@ -223,7 +237,7 @@ pW_RjbZYi1s:
     SdtbQhAKFSI$lt-skip: "James, basically reading beat for beat from Russo's book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into."
   vol: { p: 52.0, m: 1.5, y: 0.0, w: 38.3, v: 0 }
 P_mLM6fUhHQ:
-  vol: { p: 51.9, m: 6.3, y: 1.3, w: 40.5, v: 4 }
+  vol: { p: 53.1, m: 6.2, y: 1.2, w: 41.1, v: 4 }
 qa3A_ery3Hg:
   vol: { p: 43.1, m: 3.9, y: 0.0, w: 16.1, v: 0 }
 QuiEKdTmj2M:
@@ -252,7 +266,7 @@ VoHYZUj43K4:
 VToXKOOK4mw:
   vol: { p: 0.0, m: 5.0, y: 0.0, w: 0.0, v: 0 }
 xBDc6SedkAc:
-  vol: { p: 4.7, m: 4.7, y: 3.1, w: 1.0, v: 0 }
+  vol: { p: 4.6, m: 4.6, y: 3.1, w: 1.0, v: 0 }
 xLuNGhQPDHM:
   vol: { p: 11.4, m: 0.0, y: 0.0, w: 4.6, v: 0 }
 XYESkleNUSA:

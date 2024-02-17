@@ -8,6 +8,7 @@ import fm from "front-matter";
 import * as PATH from 'path';
 
 const INPUT_PATH = `../_videos`;
+const COMMON_FILE = `../_data/cite.yml`;
 const OUTPUT_FILE = `../_data/stats.yml`;
 
 let sources = new Map();
@@ -19,6 +20,8 @@ let stats = {
 	'p-total':0, 'm-total':0, 'y-total':0
 };
 let list = [];
+
+const common = YAML.load(await readFile(COMMON_FILE, { flag: 'r', encoding:'utf8' }));
 
 // Determine the list of files
 let files = await readdir(INPUT_PATH, { withFileTypes: true });
@@ -213,7 +216,12 @@ function countStatistics(obj, document, data) {
 	if (fm.cite === undefined) return;
 	stats["m-total"] += Object.keys(fm.cite.misinformation).length;
 	stats["y-total"] += Object.keys(fm.cite.yikes).length;
-	for (const source of Object.values(fm.cite.plagiarized)) {
+	for (let source of Object.values(fm.cite.plagiarized)) {
+		if (typeof source === "string") {
+			if (source.startsWith("$cite$")) source = common[source.slice(6)];
+			else throw new TypeError(`Unknown source: ${source}`);
+		}
+		
 		sources.set(`${source.full} ${source.url}`, source);
 		
 		if (checkStat('p-'+source.type, source.type !== undefined)) continue;
