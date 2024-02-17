@@ -103,16 +103,28 @@ This video contains copyrighted material. The use of which has not always been s
 </comment>
 </compare>
 
-{% include transcript-start %}
-
-<compare>
-<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
 {% assign tcc = site.data.cite.celluloid_closet_doc.color %}
+{% capture VISUAL_TCC %}
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
 
 James uses MANY clips from *The Celluloid Closet* (1996).
 
 </visual>
 <visual-line></visual-line>
+{% endcapture %}
+
+<!-- 
+
+<span visual={{tcc}} on="15:32" off="15:42">The "RESTRICTED" list</span>
+<span visual={{tcc}} on="20:40">Rope</span>
+<span visual={{tcc}} on="24:56">Tea and Sympathy</span>
+
+-->
+
+{% include transcript-start %}
+
+<compare>
+{{ VISUAL_TCC }}
 <credits class="opening">
 
 <u>[Piano music playing over fancy title screen]:</u>
@@ -168,13 +180,7 @@ It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "3:06" %}
 
 <compare>
-<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
-{% assign tcc = site.data.cite.celluloid_closet_doc.color %}
-
-James uses MANY clips from *The Celluloid Closet* (1996).
-
-</visual>
-<visual-line></visual-line>
+{{ VISUAL_TCC }}
 <james span=2 {% include timecode %}>
 
 <u>[Text printing on screen (typewriter effect)]:</u>
@@ -257,7 +263,7 @@ Quentin Crisp: "<mark visual={{tcc}} on="10:48" off="11:02">We're always a joke.
 
 <u>[Showing footage of *Call Her Savage* (1932). Clip continues a little into Crisp's talking, cutting after "in movies".]</u>
 
-Quentin Crisp (Writer): "Well, sissy character in movies <mark>were always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
+Quentin Crisp (Writer): "Well, sissy characters in movies <mark>were always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
 
 <u>[Showing footage of *Morocco* (1930)]</u>
 
@@ -336,16 +342,25 @@ Queen Christina: (turns) "I have no intention to, Chancellor. I shall die a bach
 <u>[Fades out]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 <span visual={{tcc}} on="13:43" off="13:46">Along with homosexuality, sex,</span> <span visual={{tcc}} on="13:57" off="14:06">violence, and orgies were pretty common in early Hollywood, oddly in biblical films. And some people we're getting fed up with it.</span>
 
-Starting in 1922, after the earliest of these morally questionable films had become massive successes, and a series of real life Hollywood scandals had rocked the papers, studio heads enlisted William H. Hayes, the former Postmaster General (so he was obviously qualified) to rehabilitate Hollywood's image. He was one of the few unindighted members of Warren G. Harding's administration at the time, so obviously his moral fortitude was robust.
+Starting in 1922, after the earliest of these morally questionable films had become massive successes, and a series of real life Hollywood scandals had rocked the papers, <mark num=1>studio heads enlisted <span visual={{tcc}} on="14:43" off="14:43">William H. Hayes, the former Postmaster General</span></mark> (so he was obviously qualified) to rehabilitate Hollywood's image. He was one of the few <mark num=2>unindighted members of Warren G. Harding's administration</mark> at the time, so obviously his moral fortitude was robust.
 
-<wbr on />In 1924, he ented introduced a set of recommendations dubbed "The Formula", which Studios were advised to strictly follow. Back in 1915, the Supreme Court case *Mutual Film Corporation v. Industrial Commission of Ohio* had already decided that Free Speech laws didn't extend to Motion Pictures, stating that<wbr off /> "because film may be used for evil, we cannot regard censorship as beyond the power of the government". So the industry was on thin ice as it was. It could be a *disaster* for them to draw the ire of conservatives in government. Directors and writers, though, mostly ignored the suggestions.
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(14:17)" %}>
+
+Gore Vidal (Screenwriter): "The big change occurred when the movie moguls got together. Let's save Hollywood. We must get an outsider, preferably some politician who was above suspicion. So they looked into <mark num=2>the cabinet of Warren G. Harding. At that time there were a number of unindicted members of his cabinet</mark>. And <mark num=1>they picked the post-master general, Will Hays</mark> of Indiana. Who looked not unlike Mickey Mouse."
+
+<u>[Will Hays appears on screen, heralded by grim music foreshadowing the terror to come.]</u>
+
+Hays: "The code sets up high standards of performance for motion picture producers."
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="14:58" off="15:06">In 1924, he introduced a set of recommendations dubbed "The Formula", which Studios were advised to strictly follow. Back in 1915, the Supreme Court case *Mutual Film Corporation v. Industrial Commission of Ohio* had already decided that Free Speech laws didn't extend to Motion Pictures, stating that</span> "because film may be used for evil, we cannot regard censorship as beyond the power of the government". So the industry was on thin ice as it was. It could be a *disaster* for them to draw the ire of conservatives in government. Directors and writers, though, mostly ignored the suggestions.
 
 </james>
 <from></from>
@@ -388,96 +403,198 @@ In 1927, Hayes strongly suggested Studios form a committee to discuss film censo
 
 > Special care should also be taken when portraying the use of firearms, the American flag, men and women sharing a bed, and actual murder[s].
 
-So it was relatively okay to show *actual murder*, but even the idea, *the inference*, of homosexuality was a big no-no. 
+So it was relatively okay to show *actual murder*, but even *the idea*, *the inference*, of homosexuality was a big no-no. 
 
 </james>
 <from></from>
+</compare>
+
+<compare>
+{{ VISUAL_TCC }}
 <james {% include timecode %}>
 
 The Federation of Women's Club was one of the loudest voices of the era calling for theaters to be raided by police if they *dare* show any films released before The Code was put into effect.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="13:28" off="13:42" stat:id="blatant-bgm" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on />Woman: "We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open."<wbr off />
+Woman: <mark>"We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open.</mark>"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(13:28)" %}>
+
+> Mrs. Gustav Ketterer (Federation of Women's Club): <mark>"We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open."</mark>
+
+<u>[Cut to a scene labeled "Tarzan and His Mate (1934) / Censored Scene"]</u>
+
+</from>
 <james {% include timecode %}>
 
 In 1930, the code was agreed upon by the studios and put into effect, essentially making the depiction of homosexuality on screen more or less illegal.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="14:42" off="14:57" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on />Man: "The Code sets up high standards of performance for motion picture producers. it states the considerations which good taste and community value make necessary in this universal form of entertainment."<wbr off />
+<u stat:id="blatant-bgm">[Grim foreboding music.]</u>
+
+Man: <mark>"The Code sets up high standards of performance for motion picture producers. It states the considerations which good taste and community value make necessary in this universal form of entertainment."</mark>
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(14:40)" %}>
+
+Vidal: "[...]Who looked not unlike Mickey Mouse."
+
+<u>[Will Hays appears on screen, heralded by grim music foreshadowing the terror to come.]</u>
+
+> Will Hays (Head of Production Code): <mark>"The code sets up high standards of performance for motion picture producers. It states the considerations which good taste and community value make necessary in this universal form of entertainment."</mark>
+
+Narrator: "Will Hays would head the movie's first voluntary effort at self-censorship."
+
+</from>
+<james {% include timecode %}>
+
+<mark>[Joe Breen](https://en.wikipedia.org/wiki/Joseph_Breen) ran the code office for two decades.</mark> His position <mark>authorized him to change anything about a movie, from the script, plots, edits, characters</mark>, even camera angles. 
+
+<span visual={{tcc}} on="15:54" off="16:11">Under his rule, <mark>*The Lost Weekend*, a novel about an alcoholic coming to terms with his sexuality, became a movie about an alcoholic with writer's block.</mark> <mark>*Crossfire*, a novel about gay bashing, became a novel about antisemitism.</mark></span>
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(15:44)" %}>
+
+Narrator: "Code director, <mark>Joe Breen, ran Hollywood's censorship machenery for over two decades.</mark> He was <mark>authorized to change words, personalities, and plots</mark>."
+
+<!-- 15:56 -->
+<u>[Footage of *The Lost Weekend* (1945)]</u>
+
+Narrator: "<mark>A novel about a sexually confused alcoholic became a movie about an alcoholic with writer's block.</mark>"
+
+<!-- 16:04 -->
+<u>[Footage of *Crossfire* (1947)]</u>
+
+Narrator: "<mark>A novel about gay-bashing and murder became a movie about anti-Semitism and murder.</mark>"
+
+<!-- 16:11 -->
+> Joseph Breen (Code Enforcement Officer): "Our American people are a pretty homely and wholesome crowd. <mark>Cock-eyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff.</mark> And it is our job to see to it, that they get none of it."
+
+<!-- 16:34 -->
+<u>[Footage of *Dracula's Daughter* (1936)]</u>
+
+</from>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+
+Joe Breen(?): "<mark>Cockeyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff!</mark>"
+
+<footer>Unlike *The Celluloid Closet*, James makes no attempt to label the people speaking in any of these clips. {% include signed for=tustin %}</footer>
+
+</clip>
+<james {% include timecode %}>
+
+Many writers and directors in Hollywood, many of them gay themselves were, not too happy with the implementation of the Hays Code. Especially since in places like Weimar Republic Germany, advancement of queer representation on film was becoming mainstream. (At least until the rise of Adolf Hitler.) They saw what little progress that was taking place in North American Cinema come to a screeching halt with the Hays Code introduction, and they decided to fight back against it any way they could. And the only way they could at the time was to create characters that were quite obviously gay to any queer person watching, but who could fly under the radar of the censors.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="17:46" off="18:02">One way to get the censors to turn the other way was to code villains as gay. Such as the obsessive Mrs Danvers and Alfred Hitchcock's *Rebecca*. After the titular Rebecca dies, it is revealed to the audience that her housekeeper Mrs Danvers</span> <span visual={{tcc}} on="18:31" off="18:34">has kept all of her clothes,</span> <span visual={{tcc}} on="19:07" off="19:11">with a special care given to her underwear.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(17:56)" %}>
+
+<u>[Showing footage of *Rebecca* (1940)]</u>
+
+Bright: "Rebecca is one of the movies in which the word homosexuality or lesbianism is never uttered. But there's this *one scene* that, uh, really stands out for a gay audience. And that is, Rebecca is dead. She was the beautiful woman who is mysteriously not on the scene any longer. And her former housekeeper, Mrs. Danvers, is obsessed with her. Even after her death."
+
+[...] 
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="20:02" off="20:19">Another example is <mark>1941's *The Maltese Falcon*</mark>. In the film, Peter Lori plays Joel Cairo, one of the film's villains. <mark>In the book on which it's based, Cairo is stated very clearly to be gay, queer in fact, but in the movie it's instead inferred,</mark></span>  
+<span visual={{tcc}} on="19:46" off="19:48">with his business card being sprayed with perfume,</span>  
+<span visual={{tcc}} on="20:27" off="20:32">a lilting feminine demeanor, and his propensity to orally fondle his cane.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(19:42)" %}>
+
+<u>[Showing footage of <mark>*The Maltese Falcon* (1941)</mark>]</u>
+
+Dyer: "We know Peter Lorre is gay in The Maltese Falcon, even before we *see* him. We're told that there's a man outside wearing perfume. Gardenia. And then we also hear some kind of funny, slightly Oriental, feminine music."
+
+Narrator: "<mark>The original novel didn't mince words about Peter Lorre's character. It read 'This guy is queer.' The movie could only hint, broadly.</mark>"
+
+</from>
+<james {% include timecode %}>
+
+This trend of coding villains as gay lasted for decades, a topic I covered *more* in depth in my [Monsters in the Closet video](4zPCM14-SCQ.md). <span visual={{tcc}} on="22:12" off="22:35">Sometimes the censors would turn a blind eye to lesbians on the screen, but only under certain circumstance. The "lesbian prison movie" became almost a cliche in the 1940s and 50s, killing two birds with one stone: scaring girls into following the law lest they end up in prison with big scary lesbians, and convincing many young lesbians to go straight, since lesbians seem to have no fate *but* to end up in prison.</span>
+
+</james>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(21:53)" %}>
+
+<u>[Showing footage of *Caged* (1950)]</u>
+
+Bright: "There's supposed to be a social message to all this. Isn't it terrible to go to prison? Isn't it terrible to lose your femininity? Uh, isn't it terrible for a woman to go hard?"
+
+<u>[Showing more footage of *Caged* (1950)]</u>
+
+[...dialog...]
+
+<u>[Showing footage of *Young Man With a Horn* (1950)]</u>
+
+Bright: "In *Young Man With a Horn*, we have one of my favorite lesbian glamor symbols."
+
+> Amy: <mark>"She sure is interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."</mark>
+> 
+> Rick: "She's a good singer, too."
+
+Bright: "I like Lauren Bacall because she gets up in the morning and she has no idea what's going to happen to her next."
+
+<u>[Showing more footage of *Young Man With a Horn* (1950)]</u>
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="22:41">Lesbians in these movies tended to be played by large imposing women, and they likely had a position of authority within the prison. Not guards or anything like that, God forbid, but the women who had been in prison the longest had relationships with the guards. And so the guards were more likely to turn a blind eye to their sapphic tendencies.</span>
+
+Representation of queer women was more subtle in 1950s *Young Man With A Horn*, but just barely. Lauren Bacall plays Amy, an obviously bisexual character that becomes a chaotic force in the life of our main character, Rick. While observing Doris Day's Joe Jordan, Amy comments:
+
+</james>
+<clip visual={{tcc}} off="23:21" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+Amy: <mark>"It was interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."</mark>
+
+</clip>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="24:06" off="24:19">She's referred to by other characters as having a twisted mind, and eventually <mark>Rick tells her that she's sick</mark>; this description falling into the prevailing medical opinion on homosexuality at the time.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(24:06)" %}>
+
+<u>[Showing more footage of *Young Man With a Horn* (1950)]</u>
+
+Rick: "What a swell combination we were. You said you wanted experiences, Amy. Well here's one for you. I'm leaving you."
+
+Amy: (turning, growling) "I'd like to kill you."
+
+Rick: "You almost did. <mark>You're a sick girl, Amy.</mark> You'd better see a doctor. "
+
+</from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
-
-Joe Breen ran the code office for two decades. His position authorized him to change anything about a movie, from the script, plots, edits, characters, even camera angles. 
-
-<wbr on />Under his rule, *The Lost Weekend*, a novel about an alcoholic coming to terms with his sexuality, became a movie about an alcoholic with writer's block. *Crossfire*, a novel about gay bashing, became a novel about antisemitism.
-
-</james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-Joe Breen(?): "Cockeyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff!"
-
-</clip>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Many writers and directors in Hollywood, many of them gay themselves were, not too happy with the implementation of the Hays Code. Especially since in places like Weimar Republic Germany, advancement of queer representation on film was becoming mainstream. At least until the rise of Adolf Hitler. They saw what little progress that was taking place in North American Cinema come to a screeching halt with the Hays Code introduction, and they decided to fight back against it any way they could. And the only way they could at the time was to create characters that were quite obviously gay to any queer person watching, but who could fly under the radar of the censors.
-
-<wbr on />One way to get the censors to turn the other way was to code villains as gay. Such as the obsessive Mrs Danverse and Alfred Hitchcock's *Rebecca*. After the titular Rebecca dies, it is revealed to the audience that her housekeeper Mrs danverse has kept all of her clothes, with a special care given to her underwear.
-
-</james>
-<from></from>
-<james {% include timecode %}>
-
-Another example is 1941's *The Maltese Falcon*. In the film, Peter Lori plays Joel Cairo, one of the film's villains. In the book on which it's based, Cairo is stated very clearly to be gay, queer in fact, but in the movie it's instead inferred, with his business card being sprayed with perfume, a lilting feminine demeanor, and his propensity to orally fondle his cane.
-
-<wbr off />This trend of coding villains as gay lasted for decades, a topic I covered more in depth in my [Monsters in the Closet video](4zPCM14-SCQ.md). <wbr on />Sometimes the censors would turn a blind eye to lesbians on the screen, but only under certain circumstance. The "lesbian prison movie" became almost a cliche in the 1940s and 50s, killing two birds with one stone: scaring girls into following the law lest they end up in prison with big scary lesbians, and convincing many young lesbians to go straight, since lesbians seem to have no fate *but* to end up in prison.
-
-</james>
-<from></from>
-<james {% include timecode %}>
-
-Lesbians in these movies tended to be played by large imposing women, and they likely had a position of authority within the prison. not guards or anything like that, God forbid, but the women who had been in prison the longest had relationships with the guards. and so the guards were more likely to turn a blind eye to their sapphic tendencies.
-
-representation of queer women was more subtle in 1950s *Young Man With A Horn*, but just barely. Lauren Bacall plays Amy, an obviously bisexual character that becomes a chaotic force in the life of our main character, Rick. while observing Doris Day's Joe Jordan, Amy comments:
-
-</james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-Amy: "It was interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."
-
-</clip>
-<james {% include timecode %}>
-
-She's referred to by other characters as having a twisted mind, and eventually Rick tells her that she's sick; this description falling into the prevailing medical opinion on homosexuality at the time. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 An iconic example of queer coding that straddles the line of Hays Code approval is 1955's *Rebel Without a Cause*. Starring two teen heartthrobs, James Dean and Sal Mineo, both of whom are at least *rumored* to have been queer. <mark>Dean's character Jim is a teenager kicking against authority and parental neglect. Who becomes both friend and fascination to Mineo's Plato, a lonely younger kid.</mark> 
 
 <mark>Plato is obviously gay, although it's easier to say that in 2020 than it was in 1955. If you don't pick up on that from the photo of hunky Alan Ladd that Plato has taped inside of his locker, or the looks of adoration he gives Jim, it becomes *abundantly* clear when he makes a coded declaration of love to Jim late in the film.</mark>
 
 </james>
+<comment {% include commenter for=tustin %}>
+
+James doesn't use *The Celluloid Closet*'s footage of *Rebel* for this section.
+
+</comment>
 <from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 7-8" %}>
 
 <mark>Dean’s character Jim, a teen kicking against authority and parental neglect, becomes both friend and fascination to Mineo’s Plato, a lonely younger kid.</mark>
@@ -543,7 +660,8 @@ A correction to the article - [Mineo was openly bisexual](https://web.archive.or
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.rebel_without_cause %}>
+<!-- Theoretically, this clip could come from either rebel directly or its use in TCC. -->
+<clip visual={{tcc}} on="26:40" off="26:48" {% include citation for=page.cite.clips.rebel_without_cause %}>
 
 <wbr on /><u>[Plato and Jim close a garage door]</u>
 
@@ -586,18 +704,62 @@ As brave as the filmmakers were to show a pretty blatant example of a gay, or at
 </compare>
 
 <compare>
-<james {% include timecode %}>
+{{ VISUAL_TCC }}
+<james span=2 {% include timecode %}>
 
 And now for an abrupt segue!
 {% assign timecode = "16:27" %}
 
-<wbr on />You wouldn't expect expect there to be queer coding in *Ben-Hur*, of all movies -- the book was subtitled "The Tale of the Christ" -- but there actually is. Gore Vidal, screenwriter of the film, said this in 1996:
+<span visual={{tcc}} on="28:50" off="29:03">You wouldn't expect expect there to be queer coding in *Ben-Hur*, of all movies -- the book was subtitled "The Tale of the Christ" -- but there actually is. Gore Vidal, screenwriter of the film, said this in 1996:</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<comment {% include commenter for=tustin %}>
 
-Gore Vidal (being interviewed): "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
+The reason for the "abrupt segue" is because James apparently couldn't think of a good way to go from his insert about *Rebel* and the next part of the documentary he's ripping off.
+
+Also note, all footage for this next section is flipped and the footage of *Ben-Hur* is additionally vignetted, zoomed, and sepia-toned, to avoid copyright.
+
+</comment>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(28:18)" %}>
+
+<u>[Showing the scene where Plato is shot in *Rebel Without A Cause*]</u>
+
+Gore Vidal (Screenwriter, *Ben-Hur*): "Well, you got very good at, uh, projecting subtext without saying a word about what you were doing. The best example I lived through was, uh... writing Ben-Hur."
+
+<u>[Footage of *Ben-Hur* (1959)]</u>
+
+Vidal: "Ben-Hur and Messala, one Jewish, one Roman, had known each other in youth. They disagree over politics and now they hate each other for the next three hours. Well, that isn't much to put a whole three hour movie on, even something as gorgeously junky as Ben-Hur."
+
+<u>[Footage continues of *Ben-Hur* (1959)]</u>
+
+Vidal: "The director of the movie, William Wyler, said, 'What do you do?' I said, well, look. Let me try something.
+
+Vidal: "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
+
+Vidal: "So, uh, Willie stared at me, face gray, and I said 'well, I'll never use the word, there'll be nothing overt, but it'll be perfectly clear that Messala is in love with Ben-Hur.'
+
+Vidal: "Willie said 'Gore, this is Ben-Hur. A Tale of the Christ, I think is the subtitle,' he said rather vaguely looking around. And Willie finally said, 'Well, it's certainly better than what we've got. We'll try.'"
+
+<u>[Footage from *Ben-Hur*, music swelling]</u>
+
+> Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> 
+> Ben-Hur: "In every way." (chuckling)
+
+Vidal: "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" <mark>[laugh-snort]</mark> "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." <mark>[demonstrating]</mark>
+
+Vidal: "And Steven Boyd is acting it *to pieces*. There are looks that he gives him that are just *so clear*."
+
+<u>[Footage from *Ben-Hur*]</u>
+
+> Messala: (giving one of said looks) "I said I'd come back."
+> 
+> Ben-Hur: "I never thought you would. I'm so glad." <u>[Both laugh]</u> [...]
+
+</from>
+<clip visual={{tcc}} on="29:06" off="30:44" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+<mark num></mark>Gore Vidal (being interviewed): "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
 
 Vidal: "So, uh, Willie stared at me, face gray, and I said 'well, I'll never use the word, there'll be nothing overt, but it'll be perfectly clear that Messala is in love with Ben-Hur.'
 
@@ -605,31 +767,22 @@ Vidal: "Willie said 'Gore, this is Ben-Hur. A Tale of the Christ, I think is the
 
 <u>[Playing clip from Ben-Hur, music swelling]</u>
 
-Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> 
+> Ben-Hur: "In every way." (chuckling)
 
-Ben-Hur: "In every way." (chuckling)
-
-Vidal (being interviewed): "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" (laugh-snort) "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." (demonstrating)
+Vidal (being interviewed): "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" <mark>[laugh-snort]</mark> "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." <mark>[demonstrating]</mark>
 
 Vidal: "And Steven Boyd is acting it *to pieces*. There are looks that he gives him that are just *so clear*."
 
 <u>[Playing clip from Ben-Hur]</u>
 
-Messala: (giving one of said looks) "I said I'd come back."
-
-Ben-Hur: "I never thought you wouldn't."<wbr off />
+> Messala: (giving one of said looks) "I said I'd come back."
+> 
+> Ben-Hur: "I never thought you wouldn't."
 {% assign timecode = "18:20" %}
 
 </clip>
-<comment>
-{% include header for=tustin %}
-
-Yes, James just spliced a whole, uncut two minutes of the documentary into his video.
-
-</comment>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 <u>[Abrupt cut back to James's face]</u>
@@ -638,18 +791,43 @@ Ben-Hur wasn't the only surprising movie you'd find queer coding in as the produ
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<u>[Black and white cowboy movie]</u>
+<u visual={{tcc}} on="32:48">[Black and white cowboy movie]</u>
 
 Cowboy A: "Can I see it?"
 
 <u>[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]</u>
 
-B: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice. You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
+<span visual={{tcc}} off="33:03">A: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice."</span>
+
+-----
+
+<span visual={{tcc}} on="33:13">A: "You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"</span>
+
+<u visual={{tcc}} off="33:24">[B contemplates this]</u>
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(32:44)" %}>
+
+<u>[Footage of *Red River* (1948)]</u>
+
+> Cowboy A: "That's a good looking gun you were about to use back there. Can I see it?"
+> 
+> <u>[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]</u>
+> 
+> A: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice." 
+
+Laurents: "Mony Clift and John Ireland knew what they were doing. I think that's why the scene is, I think, funny. Cause of their delight in playing the sexuality of the gun."
+
+> A: "You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
+> 
+> <u>[B contemplates this, then]</u>
+> 
+> B: (points) "Go ahead, try it." [...]
+
+</from>
+<clip visual={{tcc}} on="31:39" off="31:53" stat:id="blatant-bgm" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Technicolor western movie]</u>
 
@@ -658,23 +836,65 @@ Cowgirl A: (staring at girl in ballerina dress up and down in awe) "Gosh almight
 Ballerina: (freaks out) "Please!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(32:44)" %}>
+
+<u>[Footage of *Calamity Jane* (1953)]</u>
+
+Narrator: "Hollywood had learned to write movies between the lines. And some members of the audience had learned to watch them that way."
+
+> Cowgirl A: <u>[staring at girl in ballerina dress up and down in awe]</u> "Gosh almighty... You're the perttiest thing I ever seen. Never know a woman could look like that." <u>[Comes forward]</u> "Say, how do you hold that dress up there?!"
+> 
+> Ballerina: <u>[freaks out]</u> "Please!"
+
+Bright: "It's amazing how if you're a gay audience and you're accustomed to crumbs, how you will watch an entire movie, just to see somebody wear an outfit that you think means that they're a homosexual."
+
+<u>[Footage of *Johnny Guitar* (1954)]</u>
+
+Bright: "The whole movie can be a dud but you're just sitting there waiting for Jaon Crawford to put on her black cowboy shirt again."
+
+> Cowgirl B: <u>[in awe, staring up at C]</u> "I'm going to kill you."
+>
+> Cowgirl C: <u>[looking down haltingly]</u> "I know. If I don't kill you first." 
+
+</from>
+<clip visual={{tcc}} on="32:16" off="32:25" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Cowgirl B: (in awe, staring up at C) "I'm going to kill you."
 
 Cowgirl C: (looking down haltingly) "I know. If I don't kill you first." 
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Characters Meeting The Obvious Gay Stereotypes Even Started Popping Up In Mainstream Comedies, Like In *Lover Come Back* In 1961.
+Characters meeting the obvious gay stereotypes even started popping up in mainstream comedies, like in *Lover Come Back* in 1961.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(36:25)" %}>
+
+Paul Rudnick (Screenwirter): "In the 50s and 60s, especially in sex comedies, there were often characters who could be read as gay. Whether they were the Tony Randall roles or the boss of the decorating establishment."
+
+<u>[Footage from *Lover Come Back* (1961)]</u>
+
+> Man: "And here..."
+> 
+> Woman: "Hm, this is bad either. But what color is that floor?"
+> 
+> Man: "Lilac."
+> 
+> Woman: "Lilac?! Leonard, who has a lilac floor in their kitchen?!"
+> 
+> Man: (serious, to her) "I have."
+> 
+> Woman: "Oh..." (recalculating) "Well, Leonard everyone isn't as artistic as you are."
+> 
+> Man: (Seems satisfied with that, smiling)
+> 
+> Woman: "We have to sell this wax to average, ordinary, everyday people."
+> 
+> Man: "Ehhh... *them*."
+
+</from>
+<clip visual={{tcc}} on="36:37" off="36:59" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Man: "Yeah?"
 
@@ -688,33 +908,48 @@ Man: (serious, to her) "I have."
 
 Woman: "Oh..." (recalculating) "Well, Leonard everyone isn't as artistic as you are."
 
-</clip>
-</compare>
+<footer>Footage zoomed in and has a slight "old-timey movie" (slight sepia and crease lines) filter over it?</footer>
 
-<compare>
+</clip>
 <james {% include timecode %}>
 
-And straight characters started acting gay in order to get a woman in bed. Funnily enough, an awful lot of these characters were played by Rock Hudson. 
+And straight characters started <mark num=1>acting gay in order to get a woman in bed</mark>. Funnily enough, an awful lot of <mark num=2>these characters were played by Rock Hudson</mark>. 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(37:42)" %}>
+
+<u>[Footage of *Pillow Talk* (1959)]</u>
+
+Armistead Maupin (Writer): "Rock had a screening room in his house, and he liked to assemble his house guests and show his old movies. Most of the guys I knew really liked to see the old Doris Day films. And I think one of the reasons we laughed at them so hard, was that there was a real gay in-joke occurring in almost all of those light comedies. Because at some point or another, <mark num=2>the character that Rock Hudson played</mark>, <mark num=1>posed as gay in order to get a woman into bed</mark>."
+
+> Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
+>
+> <u>[Doris Day freezes in confusion. He takes a drink from a glass with his pinky in the air. Her eyes follow the finger in concern.]</u>
+
+Maupin: "It was tremendously ironic, because here was a gay man, impersonating a straight man, impersonating a gay man."
+
+> Rock: <u>[takes bite of chip and dip]</u> "Mmm-mmm! Ain't these tasty?! I wonder if I could get the recipe."
+>
+> <u>[Doris Day freezes with a thousand-yard stare again.]</u>
+>
+> Rock: "Sure would like to surprise my ma when I go back home."
+
+<u>[Horizontal wipe to *Some Like It Hot* (1959) footage.]</u>
+
+</from>
+<clip visual={{tcc}} on="38:08" off="38:21" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
 
 <u>[He takes a drink from a glass with his pinky in the air as the woman he was flirting with looks on in concern.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />And then came *Some Like It Hot*, a movie where two straight musicians dress in drag in order to avoid the mafia killer looking for them. One of the first major studio films to be released *without* the Motion Picture Production Code... approval since the 1930s.
+<span visual={{tcc}} on="38:51" off="39:01">And then came *Some Like It Hot*, a movie where two straight musicians dress in drag in order to avoid the mafia killer looking for them. One of the first major studio films to be released</span> <span visual={{tcc}} on="39:12" off="39:17">*without* the Motion Picture Production Code... approval since the 1930s.</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="39:25" off="39:34" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 A: "Men!"
 
@@ -725,13 +960,24 @@ A: "We wouldn't be caught *dead* with men! Rough hairy beasts with eight hands!"
 </clip>
 <james {% include timecode %}>
 
-The Code Had Been Weakening For Years As Social Attitudes Became More Progressive, And Many Consider *Some Like It Hot* To Be The Final Nail In The Code Coffin. Even Though It Would Technically Remain In Effect Until 1968.
+<span visual={{tcc}} on="40:08" off="40:21">The Code had been weakening for years as social attitudes became more progressive, and many consider *Some Like It Hot* to be the final nail in the code coffin. even though it would technically remain in effect until 1968.</span>
 
-A Famous Instance Of Gay Coding Being Too Obvious, Even For The Production Code Office, Was 1960 *Spartacus*, Where Slave Antoninus, Played By Tony Curtis Who Was Also In *Some Like It Hot*, Bathes His Master, Played By Laurence Olivier.
+A famous instance of gay coding being too obvious, even for the Production Code Office, was 1960 *Spartacus*, where slave Antoninus, played by Tony Curtis who was also in *Some Like It Hot*, bathes his master, played by Laurence Olivier.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- no filter? -->
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(40:30)" %}>
+
+<u>[Footage from *Sparticus* (1960)]</u>
+
+Narrator: "When the subject turns serious and actual sex was suggested, out came the blue pencil, the scissors, and the scene."
+
+[...]
+
+</from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.spartacus %}><!-- no filter? -->
 
 Crassius: "Do you eat oysters?"
 
@@ -745,9 +991,18 @@ Crassius: "Do you consider the eating of oysters to be moral, and the eating of 
 
 Antoninus: "No, master."
 
-Crassius: "Of course not. My taste includes... both snails and oysters."<wbr off />
+Crassius: "Of course not." 
+
+----
+
+Crassius: "My taste includes... both snails and oysters."
 
 </clip>
+<comment {% include commenter for=tustin %}>
+
+This clip did not come from *The Celluloid Closet*, which interviewed the actor playing Antoninus, and he summarized the scene more than they showed. James must have specifically gone and gotten this deleted scene footage from somewhere else.
+
+</comment>
 <james {% include timecode %}>
 
 The bisexual overtones of "snails and oysters" was too obvious even for the pretty oblivious censors of the day.
@@ -759,7 +1014,9 @@ An adaptation of the Tennessee Williams play, *Cat on a Hot Tin Roof*, also had 
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+{{ VISUAL_TCC }}
+<clip visual={{tcc}} on="42:54" off="43:18" {% include citation for=page.cite.clips.celluloid_closet %}>
+
 Brick "What are you suggesting?"
 
 Big Daddy: "Nothing, but..."
@@ -780,7 +1037,7 @@ Brick: "Skipper is the only thing that I got left to believe in! And you are dra
 
 Big Daddy: "Now just a minut--!"
 
-Brick: "You are making it shameful and filthy, you--!" (Ditches his crutch to attack Big Daddy, falls over instead)
+Brick: "You are making it shameful and filthy, you--!" <u>[Ditches his crutch to attack Big Daddy, falls over instead]</u>
 
 </clip>
 </compare>
