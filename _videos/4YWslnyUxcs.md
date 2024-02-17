@@ -14,6 +14,7 @@ links: !!seq
   - "https://web.archive.org/web/20201123071913/https://www.youtube.com/watch?v=4YWslnyUxcs"
 description: "a video essay on how we should see terrible gay movies for a few decades so that we can get good gay movies later; you know, just like how Black people had terrible movies made about them and then later got Black Panther!"
 notes:
+  - visual
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -74,31 +75,41 @@ The time at which the moon is furthest from the earth varies from year to year. 
 </compare>
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+{% assign tcc = site.data.cite.celluloid_closet_doc.color %}
+
+James uses MANY clips from *The Celluloid Closet* (1996).
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
-Hollywood has always had a love-hate relationship with the LGBT community. Though we may dominate certain sections of the behind-the-scenes world, gay men, drag queens and lesbians were only peppered throughout early cinema. Not really in major roles, but we were visible, like Marlena Dietrich in *Morocco*. This gender-bending bisexual scene turned a lot of heads when the film came out in 1930. 
+<span visual={{tcc}} on="5:10" off="5:17">Hollywood has always had a love-hate relationship with the LGBT community.</span>  
+<span visual={{tcc}} on="5:51" off="5:58">Though we may dominate certain sections of the behind-the-scenes world, gay men, drag queens and lesbians were only peppered throughout early cinema. Not really in major roles, but we were visible</span>,  
+<span visual={{tcc}} on="11:19" off="11:22">like Marlena Dietrich in *Morocco*.</span>  
+<span visual={{tcc}} on="11:45" off="11:49">This gender-bending bisexual scene turned a lot of heads when the film came out in 1930.</span>
 
-The characters were usually played for laughs, but we were still represented. We were there on the big screen, and you could tell. It wasn't coded or subtle, those characters were gay. Gay gay gay gay gay. 
+<span visual={{tcc}} on="6:00" off="6:11">The characters were usually played for laughs, but we were still represented. We were there on the big screen, and you could tell. It wasn't coded or subtle, those characters were gay.</span>  
+<span visual={{tcc}} on="6:16">Gay gay gay gay gay.</span>
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-And really moviegoers didn't seem to mind. Well, most moviegoers anyway. 
+<span visual={{tcc}} off="6:22">And really moviegoers didn't seem to mind. Well, most moviegoers anyway.</span> 
 
-You see, movies were getting crazy... or at least that's what the religious right thought. Showing violence, sex, and "questionable" moral behavior were an easy way to get people talking about a movie and then getting their butts in theater seats. But a lot of Catholic and Protestant groups just weren't having it, and through a series of threats (that have had entire books written about them), they forced the film industry as a whole to start self-censoring, lest they become chained to the moral hem of those opinionated Christians. 
+You see, movies were getting crazy... <span visual={{tcc}} on="13:57" off="14:01">or at least that's what the religious right thought.</span>  
+Showing violence, sex, and "questionable" moral behavior <span visual={{tcc}} on="14:09" off="14:20">were an easy way to get people talking about a movie and then getting their butts in theater seats. But a lot of Catholic and Protestant groups just weren't having it, and through a series of threats (that have had entire books written about them),</span>  
+<span visual={{tcc}} on="15:08" off="15:11">they forced the film industry as a whole</span>  
+<span visual={{tcc}} on="13:30" off="13:36">to start self-censoring, lest they become chained to the moral hem of those opinionated Christians. </span>
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-And so the Hays Code was introduced, named after William Hays (doesn't he look like a happy fella), to begin censoring movies. Violence could no longer be shown without the perpetrator getting his comeuppance somehow (death, jail, and repenting to God were all accepted outcomes.) Nudity was a big no-no, there was no reasoning with them on that front, and sexuality could only be shown between married or committed couples, again, unless you show those horndogs being punished for their nasty sex in some way. <u>[chuckling]</u> Basically, all the fun was taken out of the movies. 
+<span visual={{tcc}} on="14:43" off="14:54">And so the Hays Code was introduced, named after William Hays (doesn't he look like a happy fella), to begin censoring movies.</span>  
+<span visual={{tcc}} on="15:32" off="15:42">Violence could no longer be shown without the perpetrator getting his comeuppance somehow (death, jail, and repenting to God were all accepted outcomes.) Nudity was a big no-no, there was no reasoning with them on that front,</span>  
+<span visual={{tcc}} on="13:42" off="13:53">and sexuality could only be shown between married or committed couples, again, unless you show those horndogs being punished for their nasty sex in some way. <u>[chuckling]</u> Basically, all the fun was taken out of the movies.</span> 
 
 </james>
 <comment>
@@ -107,14 +118,19 @@ And so the Hays Code was introduced, named after William Hays (doesn't he look l
 TODO: He's *clearly* using footage from *The Celluloid Closet* **again** here. Come back and pull out exactly what.
 
 </comment>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-This was when mobster movies started to *really* take off, because you could show all the violence you wanted, but since the main characters probably died in the end, it was okay! Oh, and homosexuality was outright banned in the beginning. Shocker, I know. 
+<span visual=none on="?" off="?">This was when mobster movies started to *really* take off, because you could show all the violence you wanted, but since the main characters probably died in the end, it was okay!</span> Oh, and homosexuality was outright banned in the beginning. Shocker, I know. 
 
-But clever writers and directors figured out ways to get gay characters in the movies again, just in a more coded, veiled way. Even movies as big as *Ben-Hur*, the 1959 version, written by gay writer Gore Vidal, included some homoerotic subtext. Though it was inserted *without* the knowledge of lead actor Charlton Heston, who would say it didn't exist until the day he died.
+<span visual="benhur" on="?" off="?">But clever writers and directors figured out ways to get gay characters in the movies again, just in a more coded, veiled way. Even movies as big as *Ben-Hur*, the 1959 version, written by gay writer Gore Vidal, included some homoerotic subtext. Though it was inserted *without* the knowledge of lead actor Charlton Heston, who would say it didn't exist until the day he died.</span>
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<span visual=none on="?" off="?">And for the most part, things basically stayed that way until the Hays Code started falling apart in the 1960s.</span> Movies like *The Children's Hour*, *The Producers*, and *Midnight Cowboy* started appearing. <span visual="cowboy" on="?" off="?">*Midnight Cowboy* even won Best Picture despite its X rating from the MPAA,</span> which it got for a gay blowjob scene. 
+
+<span visual=none on="?" off="?">Then in 1970 came *The Boys in the Band*, which was the first big *Hollywood* movie</span> that featured an all gay cast of all gay characters. It was pretty big deal at the time. It would be a pretty big deal today. 
 
 </james>
 <from></from>
@@ -123,9 +139,7 @@ But clever writers and directors figured out ways to get gay characters in the m
 <compare>
 <james {% include timecode %}>
 
-And for the most part, things basically stayed that way until the Hays Code started falling apart in the 1960s. Movies like *The Children's Hour*, *The Producers*, and *Midnight Cowboy* started appearing. *Midnight Cowboy* even won Best Picture despite its X rating from the MPAA, which it got for a gay blowjob scene. 
-
-Then in 1970 came *The Boys in the Band*, which was the first big *Hollywood* movie that featured an all gay cast of all gay characters. It was pretty big deal at the time. It would be a pretty big deal today. 
+<span visual="cabert" on="?" off="?">We showed up here and there throughout the 1970s and early 80s, but nothing of note. The gay panic kicked in about halfway through the 80s, when AIDS was known as "the gay cancer",</span> <span visual=none on="?" off="?">and gays became Hollywood's best new villains. We were *psychotic, evil, bloodthirsty, a whole group of Jeffrey Dahmers, each and every one of us.*</span> Or we were dying of AIDS. So we were either dying or killing. What a great decade the 80s were. 
 
 </james>
 <from></from>
@@ -134,16 +148,7 @@ Then in 1970 came *The Boys in the Band*, which was the first big *Hollywood* mo
 <compare>
 <james {% include timecode %}>
 
-We showed up here and there throughout the 1970s and early 80s, but nothing of note. The gay panic kicked in about halfway through the 80s, when AIDS was known as "the gay cancer", and gays became Hollywood's best new villains. We were *psychotic, evil, bloodthirsty, a whole group of Jeffrey Dahmers, each and every one of us.* Or we were dying of AIDS. So we were either dying or killing. What a great decade the 80s were. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-But then Bill Clinton was elected president after twelve long years of Republican rule in the White House, and Hollywood started to ease up on us gays a little bit. Other than *Silence of the Lambs* (which the gays were not happy about) &mdash; I might make a whole other *video* on that? Suffice to say, we bitched about nothing? &mdash; The 1990s gave us some pretty solid gay movies: *Priscilla, Queen of the Desert*, *To Wong Foo, Thank You for Everything! Julie Newmar*, *The Birdcage*, *Philadelphia*, *My Own Private Idaho*. 1997 *alone* gave us *Wild*, *Kiss Me, Guido*, *In & Out*, and gay inclusive films like *As Good as It Gets*, *Boogie Nights* and *The Full Monty*. In 1999 we got *The Talented Mr. Ripley*, *Boys Don't Cry*, and *Cruel Intentions*. I know, not exactly happy portrayals of gay characters, but representation nonetheless. 
+<span visual="clinton" on="?" off="?">But then Bill Clinton was elected president after twelve long years of Republican rule in the White House, and Hollywood started to ease up on us gays a little bit.</span> Other than <span visual="lambs" on="?" off="?">*Silence of the Lambs* (which the gays were not happy about) &mdash; I might make a whole other *video* on that? Suffice to say, we bitched about nothing? &mdash; The 1990s gave us some pretty solid gay movies:</span> *Priscilla, Queen of the Desert*, *To Wong Foo, Thank You for Everything! Julie Newmar*, *The Birdcage*, *Philadelphia*, *My Own Private Idaho*. 1997 *alone* gave us *Wild*, *Kiss Me, Guido*, *In & Out*, and gay inclusive films like *As Good as It Gets*, *Boogie Nights* and *The Full Monty*. In 1999 we got *The Talented Mr. Ripley*, *Boys Don't Cry*, and *Cruel Intentions*. I know, not exactly happy portrayals of gay characters, but representation nonetheless. 
 
 </james>
 <from></from>
@@ -152,7 +157,7 @@ But then Bill Clinton was elected president after twelve long years of Republica
 <compare>
 <james span=2 {% include timecode %}>
 
-Things were looking up, and with the dawn of the new millennium *Queer as Folk* became one of the most talked about, and eventually one of the most profitable, TV shows in television history. <mark fc>By the end of its run, *Queer as Folk* actually had to add an extra 15 minutes onto its hour because so many people wanted to buy commercials.</mark> That doesn't even happen now. 
+<span visual="QaF" on="?" off="?">Things were looking up, and with the dawn of the new millennium *Queer as Folk* became one of the most talked about, and eventually one of the most profitable, TV shows in television history.</span> <mark fc>By the end of its run, *Queer as Folk* actually had to add an extra 15 minutes onto its hour because so many people wanted to buy commercials.</mark> That doesn't even happen now. 
 
 </james>
 <comment {% include commenter for=tobi %}>
@@ -172,7 +177,7 @@ It seems to be maybe a mix up of a lot of disparate facts? There were two TV ser
 
 Then came... the Bush administration, and gay representation, at least from mainstream Hollywood studios, seemed to dry up. Sure, <mark fc=false>we got *The Hours* (which didn't turn a profit)</mark> and some independent fare like *Mambo Italiano* and *Monster* (again, not exactly a positive portrayal). And I guess you could argue that *Chicago* is pretty gay? And that Frodo and Sam might have had something going on the down-low? But you'd be reaching. 
 
-For the first few years, the closest thing to a gay movie that any major Hollywood studio put out was *X-Men 2*. <mark fc=false id="bi_erasure" stat:id="y-biphobia">Gay director Bryan Singer</mark> slathered the mutant-as-gay metaphor all over that movie. But just like *The Lord of the Rings* and *Chicago*, it's subtext, and we're looking for plain, simple *text* here.
+<span visual="xmen2" on="?" off="?">For the first few years, the closest thing to a gay movie that any major Hollywood studio put out was *X-Men 2*. <mark fc=false id="bi_erasure" stat:id="y-biphobia">Gay director Bryan Singer</mark> slathered the mutant-as-gay metaphor all over that movie. But just like *The Lord of the Rings* and *Chicago*, it's subtext,</span> and we're looking for plain, simple *text* here.
 
 </james>
 <comment id="hours_profit" {% include commenter for=tobi %}>
@@ -191,7 +196,7 @@ Also, [Bryan Singer is bisexual](https://en.wikipedia.org/wiki/Bryan_Singer#Pers
 
 Then along came 2005. I like to think of 2005 as a test case for queer cinema. 
 
-First up, *Rent*, a rock opera about straights, gays and bisexuals living and singing together in AIDS-infested early 90s New York City! Cost 40 million dollars to produce and made... 31 million dollars at the worldwide box office. 
+<span visual="rent" on="?" off="?">First up, *Rent*, a rock opera about straights, gays and bisexuals living and singing together in AIDS-infested early 90s New York City!</span> Cost 40 million dollars to produce and made... 31 million dollars at the worldwide box office. 
 
 Here's some box office info you may not actually know: Theaters take about half of the money that a movie makes, so... a movie needs to make twice as much as its budget in order for the studio to break even, and that's not even *counting* the cost of advertising the movie. So when you look at it that way, *Rent* was an even bigger bomb. 
 
@@ -204,7 +209,7 @@ Here's some box office info you may not actually know: Theaters take about half 
 
 Next we have *Capote*. 7 million dollar production budget with a worldwide box office of just under 50 million. Okay, now we're talking. Nothing to write home about, but at least it turned a profit. Hollywood is a business after all, and they love making money. 
 
-Finally we have *Brokeback Mountain*, a movie people are still angry about not winning Best Picture at the Oscars. This movie is sometimes credited as being the *moment* a lot of Americans realize that gay people can actually *love each other*, and it's not just about sex. Made for 14 million dollars, it brought in 178 million dollars at the worldwide box office. Those are the kinds of numbers that Hollywood likes to see.
+<span visual=none on="?" off="?">Finally we have *Brokeback Mountain*, a movie people are still angry about not winning Best Picture at the Oscars. This movie is sometimes credited as being the *moment* a lot of Americans realize that gay people can actually *love each other*, and it's not just about sex. Made for 14 million dollars, it brought in 178 million dollars at the worldwide box office. Those are the kinds of numbers that Hollywood likes to see.</span>
 
 </james>
 <from></from>
@@ -224,9 +229,9 @@ So, what would happen? Well, Hollywood would *test* the gay community.
 <compare>
 <james {% include timecode %}>
 
-In 2006, we got *Running with Scissors*. Based on the best-selling book of the same name, producers were hoping for a *big* return. Sadly, it was a terribly made movie and it bombed. Producers and executives didn't see a bad movie that lost money though, they saw a *gay* movie that lost money. 
+<span visual=none on="?" off="?">In 2006, we got *Running with Scissors*. Based on the best-selling book of the same name, producers were hoping for a *big* return. Sadly, it was a terribly made movie and it bombed.</span> Producers and executives didn't see a bad movie that lost money though, they saw a *gay* movie that lost money. 
 
-In 2009, *Milk* won two Oscars, but failed to turn a profit. 
+<span visual=none on="?" off="?">In 2009, *Milk* won two Oscars, but failed to turn a profit.</span> 
 
 </james>
 <comment {% include commenter for=tobi %}>
@@ -239,9 +244,9 @@ Honestly, I'd argue that *Milk* did alright too, especially considering the DVD 
 <compare>
 <james {% include timecode %}>
 
-So now that we've got some context, let me get to the reason why I call this the "Stonewall Effect", or the "Stonewall Film Effect". The next time Hollywood as a studio system put *real* faith behind a gay movie was 2015, ten years after *Brokeback Mountain*. 
+So now that we've got some context, let me get to the reason why I call this the "Stonewall Effect", or the "Stonewall Film Effect". <span visual="stonewall" on="?" off="?">The next time Hollywood as a studio system put *real* faith behind a gay movie was 2015, ten years after *Brokeback Mountain*.</span> 
 
-Directed by Roland Emmerich, the movie did what every historical movie has done and whitewashed the story. It wasn't drag queens, gay, and transgender people of color who started the fight for gay rights, it was a pretty blonde boy from Kansas! Or Nebraska...! One of the flat states!
+<span visual="stonewall" on="?" off="?">Directed by Roland Emmerich, the movie did what every historical movie has done and whitewashed the story. It wasn't drag queens, gay, and transgender people of color who started the fight for gay rights,</span> it was a pretty blonde boy from Kansas! Or Nebraska...! One of the flat states!
 
 </james>
 <from></from>
@@ -250,7 +255,7 @@ Directed by Roland Emmerich, the movie did what every historical movie has done 
 <compare>
 <james {% include timecode %}>
 
-Because of this, there was a fierce campaign against the movie online. Boycotts were planned, and what Hollywood hoped would turn into the first gay blockbuster turned into a massive tax write-off, <mark fc=false>making only 187,000 dollars worldwide</mark>... Yeah... missin' a few zeroes there guys. 
+<span visual="stonewall" on="?" off="?">Because of this, there was a fierce campaign against the movie online. Boycotts were planned, and what Hollywood hoped would turn into the first gay blockbuster turned into a massive tax write-off,</span> <mark fc=false>making only 187,000 dollars worldwide</mark>... Yeah... missin' a few zeroes there guys. 
 
 </james>
 <comment id="stonewall_domestic" {% include commenter for=tobi %}>
@@ -263,9 +268,9 @@ Because of this, there was a fierce campaign against the movie online. Boycotts 
 <compare>
 <james {% include timecode %}>
 
-So what is the Stonewall Film Effect? It's when a gay movie fails because of a reason other than being about gay people. Hollywood executives, however, don't see that; they see a *gay* movie that lost money. They see a *gay* movie being protested. Gays boycotted *Silence of the Lambs* in 1991, but it made 272 million dollars. 
+<span visual="stonewall" on="?" off="?">So what is the Stonewall Film Effect? It's when a gay movie fails because of a reason other than being about gay people. Hollywood executives, however, don't see that; they see a *gay* movie that lost money. They see a *gay* movie being protested. Gays boycotted *Silence of the Lambs* in 1991, but it made 272 million dollars.</span>
 
-<u>[mockingly]</u> So it wasn't the boycott that made Stonewall fail, it was because it was about *gay people!* *Audiences obviously don't want gay movies!* Maybe a supporting character and a cheap rom-com or chick flick here and there, but no lead roles. 
+<span visual="stonewall" on="?" off="?"><u>[mockingly]</u> So it wasn't the boycott that made Stonewall fail, it was because it was about *gay people!* *Audiences obviously don't want gay movies!* Maybe a supporting character and a cheap rom-com or chick flick here and there, but no lead roles. </span>
 
 <u>[serious again]</u> You see, every gay movie that fails, fails because it's a gay movie, but every gay movie that succeeds, succeeds for a different reason. Case in point: *The Birdcage* starred Robin Williams at his prime. *Philadelphia* starred Tom Hanks and won him an Oscar. *Brokeback Mountain* had two of the hottest actors in Hollywood, and happened *right* after George W. Bush started his campaign against gay marriage, so there was a little sympathy. Now I'm not saying these are the reasons that these movies succeeded... but this is what Hollywood executives tell themselves. 
 
@@ -276,7 +281,7 @@ So what is the Stonewall Film Effect? It's when a gay movie fails because of a r
 <compare>
 <james {% include timecode %}>
 
-So where does that leave us? Well, as a gay man who would actually like to see some major gay characters in movies, I'm at an impasse. From a business standpoint, my view is that we (meaning the LGBT community) should go out and see every movie that features LGBT characters, whether they're gay men, lesbians, bisexuals, or transgender people, *see them all*. Every one of them, in theaters, and buy the blu-ray, no matter how terrible they are. 
+So where does that leave us? Well, as a gay man who would actually like to see some major gay characters in movies, I'm at an impasse. <span visual=none on="?" off="?">From a business standpoint, my view is that we (meaning the LGBT community) should go out and see every movie that features LGBT characters, whether they're gay men, lesbians, bisexuals, or transgender people, *see them all*.</span> Every one of them, in theaters, and buy the blu-ray, no matter how terrible they are. 
 
 </james>
 <from></from>

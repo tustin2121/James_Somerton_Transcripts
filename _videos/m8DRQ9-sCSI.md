@@ -104,9 +104,15 @@ This video contains copyrighted material. The use of which has not always been s
 </compare>
 
 {% include transcript-start %}
-{% assign timecode = "0:00" %}
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+{% assign tcc = site.data.cite.celluloid_closet_doc.color %}
+
+James uses MANY clips from *The Celluloid Closet* (1996).
+
+</visual>
+<visual-line></visual-line>
 <credits class="opening">
 
 <u>[Piano music playing over fancy title screen]:</u>
@@ -118,14 +124,16 @@ of
 Queer Baiting
 
 </credits>
-</compare>
-
-<compare>
+{% assign timecode = "0:14" %}
 <james vid {% include timecode %}>
 
-<span visual>The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not. For over a century of film and television, we've probably been the most underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist.</span> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
+<span visual=none on="?" off="?">The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not.</span> 
 
-<span visual>At the same time, it's become a culturally agreed upon fact among cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America.</span>
+<span visual={{tcc}} on="0:50" off="0:54">For over a century of film and television, we've probably been the most</span>  
+<span visual={{tcc}} on="1:06" off="1:17">underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist.</span> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
+
+<span visual={{tcc}} on="1:36" off="1:40">At the same time, it's become a culturally agreed upon fact among</span>  
+<span visual={{tcc}} on="10:22" off="10:37">cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America.</span>
 
 The funny thing is, this isn't entirely false. I mean, we're not trying to corrupt the youth of America; growing up alone in the suburbs is doing a fine job of that all on its own. 
 
@@ -133,7 +141,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 <from></from>
 <james {% include timecode %}>
 
-<span visual>But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Poe and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
+<span visual={{tcc}} on="2:23" off="2:40">But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout.</span> <span visual="starwars">It's reached a bit of a fever pitch lately, with Poe and Finn,</span> <span visual="cap">Steve and Bucky,</span> <span visual="teenwolf">*Teen Wolf*,</span> <span visual="kora">*The Legend of Kora*,</span> <span visual="frozen">and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing.</span> <span visual={{tcc}} on="4:59" off="5:04">What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
 
 </james>
 <from></from>
@@ -141,7 +149,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 
 "Queer coding" is when you're unable to show actual queer characters on screen, either because of the laws or morals of the day, or because studio executives just won't let you. So you create characters that the right audience will *obviously* view as gay, lesbian, bi, or transgender, to allow for LGBT representation when the entire world is telling you not to. A little golden nugget hidden deep underground for the people who are willing to dig for it. 
 
-<span visual>While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so. One is an effort to give LGBT audiences at least a taste of representation, while the other is used to reel in said audience with an implied promise of queer characters without ever actually intending on fulfilling that promise.</span>
+<span visual="teenwolf">While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so.</span> <span visual={{tcc}} on="3:10" off="3:15">One is an effort to give LGBT audiences at least a taste of representation,</span> <span visual="teenwolf">while the other is used to reel in said audience with an implied promise of queer characters without ever actually</span> <span visual="cap">intending on fulfilling that promise.</span>
 
 It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "2:51" %}
@@ -150,7 +158,7 @@ It's like the cinematic equivalent of edging without the money shot.
 <from></from>
 <james {% include timecode %}>
 
-<span visual>So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have an out LGBT superhero in the MCU.</span>
+<span visual={{tcc}} on="2:43" off="2:53">So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have</span> an out LGBT superhero in the MCU.
 
 </james>
 <from></from>
@@ -160,28 +168,80 @@ It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "3:06" %}
 
 <compare>
-<james {% include timecode %}>
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+{% assign tcc = site.data.cite.celluloid_closet_doc.color %}
+
+James uses MANY clips from *The Celluloid Closet* (1996).
+
+</visual>
+<visual-line></visual-line>
+<james span=2 {% include timecode %}>
 
 <u>[Text printing on screen (typewriter effect)]:</u>
 
-> "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
+> <mark></mark>"Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
 > <mark fc=false id="richard_dyer" stat:id="changed-name">-Richard Dryer, film historian</fc>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(6:22)" %}>
+
+Richard Dyer (Film Historian): <mark>"Your ideas about who you are don't just come from inside you, they come from the culture. And in *this* culture, they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."</mark>
+
+</from>
+<comment {% include commenter for=tustin %}>
+
+Throughout this section, James uses the same footage and same examples that *The Celluloid Closet* does, in the same order, but crops the video in close to remove the titles showing what movie it is, or cuts around when the titles appear, and makes the edits faster.
+
+</comment>
 <james {% include timecode %}>
 
-<wbr on />A long time ago, in a Hollywood Far Far Away, gay characters were not all that uncommon. But they were played for laughs. In the early days of silent film, movies like *A Florida Enchantment*, *Algae the Minor*, and *The Soilers* featured gay characters as easy comic relief. The idea of homosexuality was even a gag in *Behind the Screen*, an early Charlie Chaplain film that showed him kissing a tomboy and being mocked for it. Being mocked by someone whose eye makeup could make Trixie Mattel blush.
+<span visual={{tcc}} on="6:38" off="6:48">A long time ago, in a Hollywood Far Far Away, gay characters were not all that uncommon. But they were played for laughs. In the early days of silent film,</span>  
+<span visual={{tcc}} on="5:56" off="5:58">movies like *A Florida Enchantment*,</span>  
+<span visual={{tcc}} on="6:02" off="6:03">*Algae the Minor*</span>,  
+<span visual={{tcc}} on="6:16" off="6:23">and *The Soilers* featured gay characters as easy comic relief. The idea of homosexuality was even a gag</span>  
+<span visual={{tcc}} on="7:05" off="7:20">in <mark num=1>*Behind the Screen*</mark>, <mark num=2>an early Charlie Chaplain film</mark> <mark num=3>that showed him kissing a tomboy</mark> and <mark num=4 x>being mocked for it</mark>. Being mocked by someone whose eye makeup could make Trixie Mattel blush.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(6:39)" %}>
+
+<!--<u>[Showing footage of *Wanderer of the West* (1927)]</u>
+
+<u>[Silent movie card]:</u> "Clarence, the clerk &mdash; &mdash; one of Nature's mistakes in a country where mene were men."
+
+Dyer: "The movies did provide us with some kind of history of how society though homosexuals were."
+
+<u>[Silent movie card]:</u> "'I wonder if you're going out with the boys tonight?'" -->
+
+<u>[Showing footage now of *Behind the Screen* (1916)]</u>
+
+Dyer: "A very good example, is <mark num=2>a Chaplin film</mark>, <mark num=1>'Behind The Screen'</mark>. There's an extraordinary moment <mark num=3>where Chaplin kisses someone who looks like a man</mark>. He knows that it's a woman. And someone else comes along and sees it. And <mark num=4 x>immediately starts swishing around in the most kind of overt effeminate way</mark>."
+
+<u>[Footage shows just that.]</u>
+
+Dyer: "It's fascinating that those stereotypes were so completely in place. That a, you know, a mainstream popular film could assume that the audience would know what this-- this swishy mime was all about."
+
+</from>
 <james {% include timecode %}>
 
-It was around this time that that the "sissy" stereotype was born: flouncy, bouncy, frilly men with creative jobs. Artists, designers... This grew out of the self-hatred among straight men who found it hard to provide for their families in lean times. You weren't a man if you couldn't support a wife and three kids. You weren't a man if you couldn't go off to war. So to appeal to the egos of these (quote-unquote) "real men", producers created characters to make them feel better about their masculinity. Movies like *Our Betters*, *The Broadway Melody*, *Meron Merge*, and *Call Her Savage* were just a few films with such characters.<wbr off />
+<span visual={{tcc}} on="8:17" off="8:28">It was around this time that that <mark num=1>the "sissy" stereotype was born</mark>: flouncy, bouncy, frilly men with creative jobs. Artists, designers... This grew out of the self-hatred among straight men who found it hard</span>  
+<span visual={{tcc}} on="7:49" off="8:00">to provide for their families in lean times. You weren't a man if you couldn't support a wife and three kids. You weren't a man if you couldn't go off to war. So to appeal to the egos of these (quote-unquote) "real men",</span>  
+<span visual={{tcc}} on="8:51" off="9:00">producers created <mark num=2>characters to make them feel better about their masculinity</mark>. Movies like *Our Betters*, *The Broadway Melody*,</span>  
+<span visual={{tcc}} on="9:16" off="9:17">*Myrt and Marge*, and</span>  
+<span visual={{tcc}} on="10:36" off="10:40"></span>*Call Her Savage* were just a few films with such characters.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(8:03)" %}>
+
+Narrator: "<mark num=1>Enter the sissy</mark>. Hollywood's first gay stock character."
+
+<u>[Footage from *The Gay Divorcee* (1934)]</u>
+
+Narrator: "<mark num=2>The sissy made everyone feel more manly</mark> or more womanly by occupying the space in between. He didn't seem to have a sexuality. So, Hollywood allowed him to thrive."
+
+Jau Presson Allen (Screenwriter): "They were sissies. They were never addressed as homosexuals. It was a convention that wsa totally accepted."
+
+</from>
 <james {% include timecode %}>
 
 This type of representation of gay men was not appreciated.
@@ -190,34 +250,80 @@ This type of representation of gay men was not appreciated.
 <from></from>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-Quentin Crisp: "We're always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs."
+Quentin Crisp: "<mark visual={{tcc}} on="10:48" off="11:02">We're always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(10:46)" %}>
+
+<u>[Showing footage of *Call Her Savage* (1932). Clip continues a little into Crisp's talking, cutting after "in movies".]</u>
+
+Quentin Crisp (Writer): "Well, sissy character in movies <mark>were always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
+
+<u>[Showing footage of *Morocco* (1930)]</u>
+
+Quentin Crisp: "They just thought she looked wonderful."
+
+</from>
 <james {% include timecode %}>
 
-This wasn't the only representation though. <wbr on />The 1927 film *Wings* featured a...<wbr off /> a very intense friendship between two pilots that culminates in this scene:
+This wasn't the only representation though. <span visual=none on="?" off="?">The 1927 film *Wings* featured a...</span> a very intense friendship between two pilots that culminates in this scene:
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on /><u>[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]</u><wbr off />
+<u>[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 But scenes like that were few and far between. So while gay men were played for laughs, lesbians were something else entirely. 
 
-<wbr on />Marina Dietrich turned on both men and women with this scene in 1930s *Morocco*. A woman in a tuxedo wasn't entirely unheard of coming out of the Roaring 20s, but a woman in a tuxedo on film? That was groundbreaking. The lesbian kiss, a cherry on top. Gary Cooper may have been Dietrich's real love interest in the film, but everybody left the theater talking about that scene.
-
-Not long after *Morocco*, we got *Queen Christina* the story of a realife Swedish Monarch who was infamous for being a,,, pretty out and proud lesbian for the day, though the filmmakers went out of their way to straightwash the historical figure, her real life sexuality bled onto the celluloid despite their best efforts.
+<span visual={{tcc}} on="11:09" off="11:24"><mark num=1>Marina Dietrich turned on both men and women</mark> with this scene in 1930s *Morocco*. A woman in a tuxedo wasn't entirely unheard of coming out of the Roaring 20s, but a woman in a tuxedo on film? That was</span> <span visual={{tcc}} on="11:44" off="11:56">groundbreaking. The lesbian kiss, a cherry on top. <mark num=2>Gary Cooper may have been Dietrich's real love interest in the film</mark>, but everybody left the theater talking about that scene.</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips. %}>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(11:09)" class="smaller" %}>
+
+<u>[Showing footage from Morocco (1030)]</u>
+
+Susie Bright (Writer): "I saw Marlene Dietrich in *Morocco* when I was a teenager. I just was flipping the channels and saw her and decided to settle in for an old movie. And there's this scene where she comes into a nightclub and she's just stunning in this tuxedo."
+
+<u>[Showing footage from Morocco (1030)]</u>
+
+> Dietrich: (to lady at table) "May I have this?"
+>
+> Woman: "Of course."
+> 
+> [Dietrich takes flower, sniffs it, then kisses lady. Everyone bursts into raucous laughter and applause.]
+
+Bright: "And the camera lingers. I mean, it wasn't like I was catching this out of the side of the screen. It's right in the center."
+
+Bright: "<mark num=2>She has a romance with Gary Cooper in this movie</mark>. But that romance just went right out the window for me. I was just like, 'Who was that woman? What had happened?'" I started writing a whole other script <u>[laughs]</u> for what was really going on."
+
+Arthur Laurents (Screenwriter): "So the thing worked for everybody of every sex. And what's amazing, I don't think they've done anything as delicious sexually as that since. They didn't pretend it was anything but what it was. <mark num=1>She was doing it to turn on both the woman and the man</mark>, which appealed to everybody. As it should. It was so free."
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="12:43" off="13:03">Not long after *Morocco*, we got *Queen Christina* the story of a realife Swedish Monarch who was infamous for being a,,, pretty out and proud lesbian for the day, though the filmmakers went out of their way to straightwash the historical figure, her real life sexuality bled onto the celluloid despite their best efforts.</span>
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(12:57)" %}>
+
+Narrator: "The movie *Queen Christina* was based on the life of a real Swedish monarch and lesbian. Hollywood changed the story, but traces of the truth seem to linger."
+
+> Chancellor: "There are rumors that your majesty is planning a foreign marriage?"
+>
+> Queen Christina: (shrugs) "They're baseless." (walks away)
+> 
+> Chancellor: "But your majesty! You cannot die an old maid!"
+> 
+> Queen Christina: (turns) "I have no intention to, Chancellor. I shall die a bachelor!"
+> 
+> <u>[Fades out]</u>
+
+</from>
+<clip visual={{tcc}} on="13:08" off="13:28" {% include citation for=page.cite.plagiarized.celluloid_closet %}>
 
 Chancellor: "There are rumors that your majesty is planning a foreign marriage?"
 
@@ -227,13 +333,15 @@ Chancellor: "But your majesty! You cannot die an old maid!"
 
 Queen Christina: (turns) "I have no intention to, Chancellor. I shall die a bachelor!"
 
+<u>[Fades out]</u>
+
 </clip>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-Along with homosexuality, sex, violence, and orgies were pretty common in early Hollywood, oddly in biblical films. And some people we're getting fed up with it.<wbr off />
+<span visual={{tcc}} on="13:43" off="13:46">Along with homosexuality, sex,</span> <span visual={{tcc}} on="13:57" off="14:06">violence, and orgies were pretty common in early Hollywood, oddly in biblical films. And some people we're getting fed up with it.</span>
 
 Starting in 1922, after the earliest of these morally questionable films had become massive successes, and a series of real life Hollywood scandals had rocked the papers, studio heads enlisted William H. Hayes, the former Postmaster General (so he was obviously qualified) to rehabilitate Hollywood's image. He was one of the few unindighted members of Warren G. Harding's administration at the time, so obviously his moral fortitude was robust.
 
