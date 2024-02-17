@@ -518,7 +518,7 @@ Plato: (deer-in-the-headlights look) "Can I keep it?"
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Such homoerotic bonding couldn't be spoken about in the repressive 1950s.</mark> <mark>Being gay was still illegal in most of the country,</mark> and at minimum frowned upon everywhere else, and <mark>the censors of the day took pains to keep it that way.</mark> <mark>A Production Code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that</mark>--<wbr off />
 
@@ -559,22 +559,30 @@ Now *that's* some *subtle* inference. 😏
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <wbr on /><mark>Most straight reviewers of *Rebel* didn't pick up on anything beyond "Boy Meets Girl" and the romantic entanglements.</mark> <mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean's Jim isn't afraid to show affection for Plato as well as Judy.</mark> 
 
-As brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down. So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
-
 </james>
-<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 14-16" %}>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 14" %}>
 
 <mark>Most straight reviewers of Rebel didn’t pick up on anything beyond boy-meets-girl in the romantic entanglements,</mark> even as they recognized the effect the film would have on young viewers.
 
-[...]
+</from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 16" %}>
 
 <mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean’s Jim isn’t afraid to show affection for Plato as well as Judy.</mark>
 
 </from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+As brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down. So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
+
+</james>
+<from></from>
 </compare>
 
 <compare>
