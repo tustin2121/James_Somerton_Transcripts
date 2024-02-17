@@ -33,6 +33,7 @@ contributors:
   downloaded: $cite$TerraJRiley
   citation: 
     - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
+    - "[distressingly](https://github.com/tustin2121/James_Somerton_Transcripts/pull/117)"
 
 recs:
   - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
@@ -734,12 +735,12 @@ Thew told Motherboard that he hadn't totally caught up on Attack on Titan becaus
 </from>
 <james {% include timecode %}>
 
-<mark>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=3>Anime fans have generally avoided discussing the political content of their favorite shows</mark> <mark num=1>because the art form was, until recently, a niche</mark> <mark num=2>that was sometimes wrongly characterized as being obscene and dangerous</mark>. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
+<mark num=1>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=2>Anime fans have generally avoided discussing the political content of their favorite shows</mark> <mark num=3>because the art form was, until recently, a niche</mark> <mark num=4>that was sometimes wrongly characterized as being obscene and dangerous</mark>. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.vice_article at="¶ 26" %}>
 
-<mark>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=1>Because anime was, until recently, a niche</mark> culture, and one <mark num=2>that has occasionally been unfairly maligned for being pornographic and violent</mark>, <mark num=3>anime fans in general have avoided talking about the politics of their favorite shows</mark>.
+<mark num=1>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=3>Because anime was, until recently, a niche</mark> culture, and one <mark num=4>that has occasionally been unfairly maligned for being pornographic and violent</mark>, <mark num=2>anime fans in general have avoided talking about the politics of their favorite shows</mark>.
 
 </from>
 <james {% include timecode %}>
