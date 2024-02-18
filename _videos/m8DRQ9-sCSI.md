@@ -66,6 +66,9 @@ cite:
     aretheygay_sterek: { color: 6, short: "Sterek (Avila, 2017)", full: "Avila, A. (2017, Jul 6). <em>Are They Gay? - Derek Hale and Stiles Stilinski (Sterek)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=7ei-Le2O7lc" }
     aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
     rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
+    merthur_ytcrack: { color: 9, short: "(Wolflynn98, 2019)", full: "Wolflynn98 (2019, Jul 16). <em>merthur crack(?) or whatever</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=8CZtuSNqlnM" }
+    johnlock_clips: { color: 8, short: "(hehehegay, 2014)", full: "hehehegay (2014, May 12). <em>JOHNLOCK EVIDENCE (Series 1-3)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=fsKWdvsxvN4" }
+    johnlock_maryamv: { color: 13, short: "(OneAllysa, 2017)", full: "OneAllysa (2017, Mar 19). <em>BBC Sherlock || Mary Watson || Love and War</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=xc_L7oSPdgQ" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
@@ -1380,6 +1383,12 @@ Note, this whole section was cut out of re-released versions of this video due t
 Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
 
 </visual>
+<visual {% include citation for=page.cite.plagiarized.merthur_ytcrack %}>
+{% assign ytc1 = page.cite.plagiarized.merthur_ytcrack.color %}
+
+Several clips have been taken from random YouTube compilation videos, like this one entitled "merthur crack(?) or whatever".
+
+</visual>
 <visual class="color-none">
 {% include header for=tustin %}
 
@@ -1521,13 +1530,16 @@ Arthur: "Well then... think we'd probably get on."
 </from>
 <james {% include timecode %}>
 
-<span visual=none on=? off=?>As the seasons go on, Merlin's feelings for Arthur become more prevalent. He becomes incredibly jealous when women show affection to Arthur. There's a running gag about him wanting to *hug* Arthur. And he's not shy about ripping Arthur's pants off.</span>
+<span visual={{ytc1}} on="3:29" off="3:33">As the seasons go on, Merlin's feelings for Arthur become more prevalent.</spam>  
+<span visual={{ytc1}} on="6:31" off="6:34">He becomes incredibly jealous when women show affection to Arthur. There's a</span>  
+<span visual={{ytc1}} on="1:42" off="1:45">running gag about him wanting to *hug* Arthur. And he's not shy about</span>  
+<span visual={{ytc1}} on="8:35" off="8:38">ripping Arthur's pants off.</span>
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
+But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual={{ytc1}} on="9:36" off="10:02">And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(6:33)" %}>
@@ -1550,7 +1562,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 <mark>It's not even "I practice magic" it's "I have magic".</mark> Merlin has to deal with that shame while at the same time using magic to save Arthur's life and never getting recognition. He speaks out about his frustrations;
 
 </from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.merlin %}>
 
 Morgana: "What if... magic isn't something you choose? What if it chooses you?"
 
@@ -1572,7 +1584,7 @@ This clip James did *not* lift directly from Are They Gay. Because in the Are Th
 </james>
 <from></from>
 <james {% include timecode %}>
-<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
+<span visual={{ytc1}} on="2:09" off="2:35">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(10:00)" %}>
@@ -1696,7 +1708,7 @@ Gwen: "Yes. I mean..."
 {% assign timecode = "41:55" %}
 <james {% include timecode %}>
 
-And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
+And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual={{ytc1}} on="1:59" off="2:08">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
 
 <footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
 </james>
@@ -1771,9 +1783,9 @@ I think that the speaks for itself. <mark num=2>Wanting to be held by your lover
 </james>
 <james {% include timecode %}>
 
-Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual="none" on=? off=?>fan fiction. Fan fiction that made it to the showrunners, who decided to give those fans a little bit more red meat as each new season went on. </span>
+Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual={{ytc1}} on="0:00" off="0:03">fan fiction. Fan fiction that made it to the showrunners, who decided to give those</span> <span visual={{ytc1}} on="0:12" off="0:15"></span>fans a little bit more red meat as each new season went on. </span>
 
-<span visual=none on=? off=?>And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.</span>
+<span visual={{ytc1}} on="1:13" off="1:29">And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.</span>
 
 </james>
 <from></from>
@@ -1796,6 +1808,18 @@ But they weren't the only show on the BBC that realized what kind of audience qu
 {% assign atg = page.cite.plagiarized.aretheygay_sherlock.color %}
 
 James lifts clips of the show from Alexander Avila's *Are They Gay?* video. 
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.johnlock_clips %}>
+{% assign ytc1 = page.cite.plagiarized.johnlock_clips.color %}
+
+James also lifts clips from a clip compilation video.
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.johnlock_maryamv %}>
+{% assign ytc2 = page.cite.plagiarized.johnlock_maryamv.color %}
+
+James also lifts clips from an AMV on Mary Watson.
 
 </visual>
 <visual-line></visual-line>
@@ -2010,7 +2034,7 @@ John is so no-homo it hurts. He's so no-homo, in fact, <mark>that he dates a str
 > Watson: "Oh.... Janette, please -" [...]
 
 </from>
-<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="1:15" off="1:22" {% include citation for=page.cite.clips.sherlock %}>
 
 Woman: "You're a great boyfriend."
 
@@ -2104,19 +2128,19 @@ What Irene is saying here, ASSERTING, is that John and Sherlock are a couple. Sh
 <mark num=3>As in they're both primarily attracted to women, but somehow they fell in love with Sherlock.</mark> Irene isn't one to get these sorts of things wrong. <mark num=2>She's an expert of sorts on human sexuality</mark>. She knows what she sees. John stands there in silence: not in denial, but in defeat. As in: "Oh. She got me."
 
 </from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="0:57" off="1:15" {% include citation for=page.cite.clips.sherlock %}>
 
-<span visual=none on="?">Watson: "We're not a couple."</span>
+Watson: "We're not a couple."
 
-<span visual=none off="?">Adler: (not looking up from phone) "Yes you are."</span>
+Adler: (not looking up from phone) "Yes you are."
 
 ----
 
-<span visual=none on="?">Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."</span>
+Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."
 
 Adler: "Well I am. Look at us both."
 
-<span visual=none off="?"><u>[Watson stares off, and scoffs.]</u></span>
+<u>[Watson stares off, and scoffs.]</u>
 
 <footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner, and are not a subset of usable footage of Avila's.</footer>
 
@@ -2126,13 +2150,13 @@ Adler: "Well I am. Look at us both."
 <mark num=2>An expert in human sexuality</mark> and how men's minds work. Her statement that she is in fact gay is interesting, since she's *obviously* in love with Sherlock. <mark num=3>Saying, in essence, that you can be primarily attracted to *women*, but still fall in love with Sherlock Holmes.</mark>
 
 </james>
-<james {% include timecode %}>
+<james visual={{ytc1}} on="5:29" off="5:43" {% include timecode %}>
 
 Moving forward, John gets *so incredibly jealous whenever Sherlock* comes in contact with a woman. And Sherlock gets incredibly jealous whenever John interacts with another man. 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="6:02" off="6:26" {% include citation for=page.cite.clips.sherlock %}>
 
 Sherlock: "So that's him. Major [unintelligible]."
 
@@ -2167,7 +2191,11 @@ Sherlock: "Ah. He's bouncing around him like a puppy."
 </clip>
 <james {% include timecode %} span="2">
 
-<span visual=none on="?" off="?">Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a throuple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
+<span visual={{ytc1}} on="6:31" off="6:36">Then there is Mary, the woman John eventually gets married to. She's a special one,</span>  
+<span visual={{ytc1}} on="1:31" off="1:43">someone who understands his relationship with Sherlock and even encourages it. They kind of become a throuple for a while. Until she does the one thing Sherlock could never forgive.</span> 
+
+<span visual={{ytc2}} on="1:26" off="1:32">She hurts John. John forgives her, but Sherlock</span>  
+<span visual={{ytc2}} on="1:42" off="1:48">holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
 
 </james>
 <comment>
