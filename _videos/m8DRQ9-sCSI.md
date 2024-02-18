@@ -1040,51 +1040,117 @@ Big Daddy: "Now just a minut--!"
 Brick: "You are making it shameful and filthy, you--!" <u>[Ditches his crutch to attack Big Daddy, falls over instead]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-And even more egregiously with another Tennessee Williams adaptation *Suddenly Last Summer*. <wbr on />Screenwriter Gore Vidal (...seemed to be writing a lot of these movies at the time) said the film was forced before the legion of decency and cut to bits until it made no sense at all. But the messaging, though now coded, was still there. That the unseen character of Sebastian used the women in his life to attract men he could sleep with, ending in his violent murder by a savage mob.
-
-When the film was released, the New York Times ran a *scathing* review, telling potential movie goers "if you'd like incest, rape, sodomy, cannibalism, degeneracy, this *sickening* picture is the the one for you." <wbr off />*Inadvertently* they had given the film the best advertising campaign it could possibly hope for! Making it a *breakaway* success for stars Elizabeth Taylor and Katharine Hepburn.
+And even more egregiously with another <mark>Tennessee Williams adaptation *Suddenly Last Summer*</mark>. <span visual=none on="?" off="?">Screenwriter Gore Vidal (...seemed to be writing a lot of these movies at the time) said <mark x>the film was forced before the legion of decency and cut to bits until it made no sense at all</mark>. But the messaging, though now coded, was still there. That the unseen character of Sebastian used the women in his life to attract men</span>  
+<span visual=none on="?" off="?">he could sleep with, ending in his violent murder by a savage mob.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(43:19)" %}>
+
+Vidal: "It was perfectly clear to anybody on the right wavelength what you were doing. You just couldn't use the word. And I met this head-on in a movie called <mark>*Suddenly, Last Summer,* from a Tennessee Williams play</mark>."
+
+<u>[Footage from *Suddenly, Last Summer* (1959)]</u>
+
+> Woman: "You know why I was doing it? I told you. I was procuring for him. Sebastian was lonely, doctor."
+
+<mark x>Vidal: "The legion of decency, headed by this sort of shark-like Jesuit priest. I must have had five meetings with him. 'Oh, well, you can't say this, you can't say that.' By the time we started to cut it, it was making no sense at all."</mark>
+
+> <u>[...More Footage from *Suddenly, Last Summer* (1959)...]</u>
+
+Vidal: "It was like working under the Kremlin. You know, like writing for Pravda. You did learn how to write between the lines, or photograph between the lines. You do it with a look, or something. There'd be a take on Hepburn's face as Elizabeth Taylor would be telling her, getting closer and closer to the truth. Which the Legion of Decency wouldn't dare let us say."
+
+> <u>[...More Footage from *Suddenly, Last Summer* (1959)...]</u>
+
+</from>
 <james {% include timecode %}>
 
-<wbr on />Coding went out *the window* with 1961's *Victim*, giving filmgoers their first gay hero. And a sympathetic betrayal of homosexuals in general. The British film was attacked by censors in the UK and the US. with UK censors giving it an X rating and America's production code refusing to classify at all. Decades later, when it was eventually released on home video?<wbr off /> It was rated PG-13.
-
-<wbr on />As the production code slowly began to fade away in America, with original restrictions like open-mouth kissing, nudity, profanity, abortion, and prostitution now finding their way through the censoring process, only one remained: the sex perversion clause.
-
-<wbr off />No major studios and stars had yet tackled the subject of homosexuality in any meaningful way in Hollywood... But that would change with 1961's *The Children's Hour* <wbr on />starring Audrey Hepburn and Shirley MacLaine.
+<span visual=none on="?" off="?"><mark>When the film was released, the New York Times ran a *scathing* review</mark>, telling potential movie goers <mark>"if you'd like incest, rape, sodomy, cannibalism, degeneracy, this *sickening* picture is the the one for you."</mark></span> *Inadvertently* they had given the film the best advertising campaign it could possibly hope for! <mark>Making it a *breakaway* success</mark> for stars Elizabeth Taylor and Katharine Hepburn.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(46:17)" %}>
+
+Vidal: "<mark>So, *Suddenly, Last Summer* opens and The New York Times is going to destroy this degenerate film</mark>, the work of degenerates. So you've got a review from Bosley Crowther that says, <mark>'If you like incest, rape, sodomy, cannibalism, degeneracy, this is the movie for you, this sickening picture.'</mark>
+
+Vidal: "Everyone in the country went to see it. <mark>That review made the movie</mark>."
+
+</from>
 <james {% include timecode %}>
 
-The film was willing to show that, yes, homosexuality *is a thing*, it *does exist*, but it's not something good moral people should talk about. MacLaine and Hepburn play two friends, Martha and Karen, who opened a private school for girls. When one of their students, a vicious little bully, is punished by Karen by not allowing her to attend that weekend's boat race, the little wretch concocts a story about the two women being lesbians and tells her grandmother. This leads to a series of ever escalating circumstances, including a lawsuit, that leave the two women emotionally drained. And Karen's engagement (to a man) left in limbo. 
-
-But even after the accusation has proven false, their lives are not the same. Karen's fiance leaves, so Karen wants to leave town for good start a new life somewhere else. A fevered back and forth leads to Martha realizing that she actually does *love* Karen, and not just as friends. She's *in* love with her best friend and feels *terrible* about it. She feels responsible for ruining their lives and is disgusted by her feelings for Karen. And so one day while Karen is out for a walk...<wbr off /> Martha hangs herself.
+<span visual={{tcc}} on="46:46" off="46:56">Coding went out *the window* with 1961's *Victim*, giving filmgoers their first gay hero. And a sympathetic betrayal of homosexuals in general.</span>  
+<span visual={{tcc}} on="47:08" off="47:24">The British film was attacked by censors in the UK and the US. with UK censors giving it an X rating and America's production code refusing to classify at all. Decades later, when it was eventually released on home video?</span> It was rated PG-13.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(46:50)" %}>
+
+<u>[Footage from *Victim* (1961)]</u>
+
+Narrator: "While Hollywood remained reticent, British films began to tackle homosexuality head-on... with a major star like Dirk Bogarde as the screen's first gay hero."
+
+</from>
 <james {% include timecode %}>
 
-The film was nominated for five Academy Awards and is considered one of the best courtroom dramas ever made, but its Legacy is not quite so positive. The entire movie is about how horrible it would be for two nice young women to be lesbians, just the idea of it leads people to gasp, and end with one of them killing herself. Homosexuality was not really a part of the movie, it was only a negative plot device. How people are treated when accused of a crime so heinous. The lesbian experience isn't really expressed in the film at all, and even Shirley MacLaine has gone on record in 1996 saying William Wyler, the director, never even *spoke* to her about the lesbian elements.
+<u>[A purple-filtered <mark>graphic of the jail door opening on the things banned by the code... and one by one they vanish, save for "sex perversion".</mark>]</u>
 
-But though the film's depiction of homosexuality and reactions to it are flawed, it still rings true to many. people still live in environments where they're called "sick" and "dirty" for being gay, either by those around them or by depictions of queer people in the media. So Martha's self-loathing is *all* too familiar to *many* people. After *The Children's Hour*, movies about queer self-loathing became more frequent.
+<span visual={{tcc}} on="48:09" off="48:25">As the production code slowly began to fade away in America, with original restrictions like open-mouth kissing, nudity, profanity, abortion, and prostitution now finding their way through the censoring process, only one remained: the sex perversion clause.</span>
 
 </james>
-<from></from>
-</compare>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(48:06)" %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+Back in Hollywood, the production code had gradually been whittled away. Movie makers, fed up with restrictions, set out to smash the last taboo.
 
-<u>[Clip from *Walk on the Wild Side*]:</u>
+<u>[Dramatic music as a <mark num=1>graphic of the jail door opening on the things banned by the code... and one by one they vanish, save for "sex perversion".</mark>]</u>
 
-Jo Courtney: (slams door) "Oliver saw you. You were with Dove all afternoon. Now you know lying to me, Elliot. Oh well, perhaps maturity will change all that."
+Narrator: "Homosexuality was finally being talked about on the screen. But only as <mark num=2>something that nice people didn't talk about.</mark>"
+
+<u>[A scene from *The Children's Hour* (1962)]</u>
+
+Shirley MacLaine (Actor): "At the time that we made the picture, there were not real discussions about homosexuality. It was about a child's accusations. It would have been about anything."
+
+MacLaine: "So none of us were really aware. We might have been the forerunners, but we weren't really cause we didn't do the picture right. We were in the mindset of, um, of not understand what we were basically doing."
+
+<u>[Another scene from *The Children's Hour* (1962)]</u>
+
+MacLaine: "<mark x num=3>These days, there would be a tremendous outcry. As well, there should be.</mark> Why would Martha break down and say, 'Oh my God, what's wrong with me? I'm so polluted. I've ruined you.'? She would fight. She would fight for her budding preference. And when you look at it, to have Martha play that scene... <mark num=4>And no one questioned what that meant, or what the alternatives could have been underneath the dialog.</mark>" <u>[Shakes her head]</u> "It's, uh... It's mindboggling. We were unaware."
+
+<u>[Another scene from *The Children's Hour* (1962)]</u>
+
+MacLaine: <mark num=4>"The profundity of this subject was not in the lexicon of our rehearsal period, even. Audrey and I never talked about this. Isn't that amazing? Truly amazing."</mark>
+
+Bright: "The loathing she feels, how sick she is with herself, it still makes me cry when I see that. And I think, well you know, why am I crying? Why does this till get to me? This is just an old silly movie, you know, and people don't feel this way anymore. But I don't think that's true. <mark x num=5>I think people do feel that way, today, still.</mark> And there's part of me, despite all my little signs, you know, like, *happy, proud, well-adjusted, bisexual, queer, kinky!* You know, now matter how many posters I hold up saying 'I'm a big pervert and I'm so happy about it,' there's this part of me that's like.. 'How could I be this way?'"
+
+</from>
+<james mark=cont {% include timecode %}>
+
+No major studios and stars had yet tackled the subject of homosexuality in any meaningful way in Hollywood... But that would change <span visual={{tcc}} on="48:26">with 1961's *The Children's Hour* starring Audrey Hepburn and Shirley MacLaine.</span>
+
+<span visual={{tcc}} off="48:38">The film was willing to show that, yes, homosexuality *is a thing*, it *does exist*, <mark num=2>but it's not something good moral people should talk about.</mark> MacLaine and Hepburn play two friends, Martha and Karen, who</span>  
+<span visual={{tcc}} on="48:56" off="48:58">opened a private school for girls. When</span>  
+<span visual={{tcc}} on="48:45" off="48:56">one of their students, a vicious little bi-- ...bully, is punished by Karen by not allowing her to attend that weekend's boat race, the little wretch concocts a story about the two women being lesbians and tells her grandmother. This leads to a series of ever</span>  
+<span visual={{tcc}} on="49:05" off="59:08">escalating circumstances, including a lawsuit,</span>  
+<span visual={{tcc}} on="49:29">that leave the two women emotionally drained. And Karen's engagement (to a man) left in limbo.</span> 
+
+<span visual={{tcc}} off="49:41">But even after the accusation has proven false,</span>  
+<span visual={{tcc}} on="50:13" off="50:40">their lives are not the same. Karen's fiance leaves, so Karen wants to leave town for good start a new life somewhere else. A fevered back and forth leads to Martha realizing that she actually does *love* Karen, and not just as friends. She's *in* love with her best friend and feels *terrible* about it. She feels responsible for ruining their lives and is disgusted by her feelings for Karen. And so one day while Karen is out for a walk...</span> Martha hangs herself.
+
+</james>
+<james span=2 {% include timecode %}>
+
+The film was nominated for five Academy Awards and is considered one of the best courtroom dramas ever made, but <mark x num=3>its Legacy is not quite so positive</mark>. The entire movie is about how horrible it would be for two nice young women to be lesbians, just the idea of it leads people to gasp, and end with one of them killing herself. Homosexuality was not really a part of the movie, it was only a negative plot device. How people are treated when accused of a crime so heinous. The lesbian experience isn't really expressed in the film at all, and <mark num=4 x>even Shirley MacLaine has gone on record in 1996 <mark fc=false>saying William Wyler, the director</mark>, </mark><mark x num visual={{tcc}} on="48:33" off="48:35">never even *spoke* to her about the lesbian elements.</mark>
+
+But though the film's depiction of homosexuality and reactions to it are flawed, <mark x num=5>it still rings true to many. People still live in environments where they're called "sick" and "dirty" for being gay, either by those around them or by depictions of queer people in the media.</mark> So Martha's self-loathing is *all* too familiar to *many* people. After *The Children's Hour*, movies about queer self-loathing became more frequent.
+
+</james>
+<comment {% include commenter for=tustin %}>
+
+Technically, Shirley MacLaine said nothing about the director specifically. She was talking about the production much more generally.
+
+</comment>
+<clip visual={{tcc}} on="54:22" off="55:22" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+<u>[Clip from *Walk on the Wild Side* (1962)]:</u>
+
+Jo Courtney: (slams door) "Oliver saw you. You were with Dove all afternoon. Now you know lying to me, Hallie. Oh well, perhaps maturity will change all that."
 
 Hallie: "what do you think I'll mature into? You?"
 
@@ -1100,7 +1166,7 @@ Jo: "Perhaps even get married!"
 
 Hallie: "Yes, even get married."
 
-Jo: (in shock) "...Alright, Allie. I'll be sorry to lose you. But if you think the world is your oyster, go ahead and take it! But how do you think the boy is going to feel when he finds out what you are?! What you've been?!"
+Jo: (in shock) "...Alright, Hallie. I'll be sorry to lose you. But if you think the world is your oyster, go ahead and take it! But how do you think the boy is going to feel when he finds out what you are?! What you've been?!"
 
 Hallie: "He'll forgive me."
 
@@ -1115,7 +1181,7 @@ Hallie: "I'll change!"
 Jo: "Of course, you'll change! But haven't you said that so many times before?! But go on and tell him! Tell them about the days and nights of Hallie Gerard! Tell them about the mud you've rolled in for years! Well, tell him!!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.the_detective %}>
+<clip visual={{tcc}} on="55:32" off="56:09" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Clip from *The Detective* (1968)]:</u>
 
@@ -1126,33 +1192,46 @@ MacIver (voice over): "The thought of turning, of turning *involuntarily* into o
 MacIver (voice over): "Was this what I was like?! Oh my God!"
 
 </clip>
-</compare>
+<comment {% include commenter for=tustin %}>
 
-<compare>
+These clips are nearly back to back in *The Celluloid Closet*, save for a very brief snippet of an interview between them. The Detective clips goes on for another minute.
+
+</comment>
 <james {% include timecode %}>
 
 And that self-loathing, inevitably, turned to death, suicide, murder, whatever it needed to be, because it was clear that if you were gay, or coded gay, in a movie, you *had* to die.
 
 </james>
 <from></from>
-</compare> 
+<clip visual={{tcc}} on="58:56" off="59:58" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-<u>[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]<wbr off /></u>
+<u>[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]</u>
 {% assign timecode = "29:07" %}
 
 </clip>
+</compare>
+
+{% capture VISUAL_TCC %}
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+
+James uses MANY clips from *The Celluloid Closet* (1996). (Add 1 hour to all below times.)
+
+</visual>
+<visual-line></visual-line>
+{% endcapture %}
+
+
+<compare>
+{{ VISUAL_TCC }}
 <james {% include timecode %}>
 
-But as the 1960s came to a close, there was change in the air. Following the Stonewall riots, Hollywood finally released a truly gay film, with the release of *The Boys In The Band* in 1970. <wbr on />We saw our first major release, feature gay characters who are out... and nobody dies!
+But as the 1960s came to a close, there was change in the air. Following the Stonewall riots, Hollywood finally released a truly gay film, with the release of *The Boys In The Band* in 1970. <span visual={{tcc}} on="+00:21" off="+00:29">We saw our first major release, feature gay characters who are out... and nobody dies!</span>
 
 Two years later we even popped up in an Oscar juggernaut with *Cabaret*.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.cabaret %}>
+<clip visual={{tcc}} on="+05:24" off="+05:41" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Brian walks away from the bed, changes record.]</u>
 
@@ -1175,10 +1254,44 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 </compare>
 
 <compare>
+{{ VISUAL_TCC }}
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Montage of various movies to ["I'm Coming Out" by Diana Ross](https://www.youtube.com/watch?v=F-mjl63e0ms) (severely pitch-shifted and sped up to avoid copyright).]</u>
 {% assign timecode = "31:08" %}
+
+<div class="lyrics" style="font-size: larger;">
+<span visual={{tcc}} on="+31:36" off="+31:39">I'm coming</span>
+<span visual={{tcc}} on="+31:17" off="+31:21" style="margin-left: 4em;">... out</span>
+<span visual={{tcc}} on="+32:46" off="+32:56">I'm ... coming ... out</span>
+&nbsp;
+[Hook]
+<span visual={{tcc}} on="+33:43" off="+33:47">I'm coming out
+I want the world to know,</span> 
+<span visual={{tcc}} on="+35:21" off="+35:27" style="margin-left: 4em;">got to let it show
+I'm coming out</span>
+<span visual={{tcc}} on="+33:29" off="+33:32">I want the world to know,</span>
+<span visual={{tcc}} on="+36:00" off="+36:06" style="margin-left: 4em;">I got to let it show
+&nbsp;
+[Verse 1]
+There's a new me coming out</span> 
+<span visual=none on="?" off="?" style="margin-left: 4em;">and I just had to live</span>
+<span visual={{tcc}} on="+34:17" off="+34:19">And I wanna give,</span> 
+<span visual={{tcc}} on="+33:33" off="+33:36" style="margin-left: 4em;">I'm completely positive</span>
+<span visual={{tcc}} on="+34:26" off="+34:28">this time around,</span>
+<span visual={{tcc}} on="+26:02" off="+26:04" style="margin-left: 4em;">I think I am gonna do it</span>
+<span visual=none on="?" off="?">Like you never knew it,</span>
+<span visual=none on="?" off="?" style="margin-left: 4em;">oh, I'll make it through</span>
+<span visual={{tcc}} on="+33:38" off="+33:42">The time has come for me 
+<span style="margin-left: 4em;"></span>to break out of this shell</span>
+<span visual=none on="?" off="?">I have to shout </span>
+<span visual=none on="?" off="?" style="margin-left: 4em;">that I am coming out
+&nbsp;
+[Chorus]
+I'm coming out[...]</span>
+</div>
+
+&nbsp;
 
 </clip>
 </compare>
@@ -1186,7 +1299,6 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 <compare>
 <james {% include timecode %}>
 
-<wbr off />
 By the new millennium, the queer audience was one the producers, mostly on TV but some movies, were willing to appeal to. <wbr on />*Will and Grace* became a smash hit for NBC. *Queer as Folk* and *The L-Word* broke ratings records for showtime. And *Queer Eye For The Straight Guy* became a cultural sensation/ In Hollywood *Kissing Jessica Stein* became a surprise hit. *The Hours* was an award season darling, and *Brokeback Mountain* made $178 million, breaking the hearts of movie goers around the world in the process.
 
 </james>
@@ -1207,7 +1319,7 @@ The queer audience was a volatile one. One that wouldn't accept just any movie y
 <compare>
 <james {% include timecode %}>
 
-The Harry Potter series of books and movies had birthed Harry / Draco slash fiction, on online forums, and was becoming a massive trend with stories and art spreading all over the internet. Although the characters have almost no positive interactions at all in the books or movies, let alone romantic ones, fans were drawing romantic conclusions from breadcrumbs that really didn't even exist. This is when creators realized that the queer community would do the work for you. They'd fill in the LGBT-shaped blanks and all you had to do was drop a few hints. And leave a few empty spaces. And straight audiences be none the wiser. 
+<span visual=none on="?" off="?">The Harry Potter series of books and movies had birthed Harry / Draco slash fiction, on online forums, and was becoming a massive trend with stories and art spreading all over the internet. Although the characters have almost no positive interactions at all in the books or movies, let alone romantic ones, fans were drawing romantic conclusions from breadcrumbs that really didn't even exist. This is when creators realized that the queer community would do the work for you. They'd fill in the LGBT-shaped blanks and all you had to do was drop a few hints. And leave a few empty spaces.</span> And straight audiences be none the wiser. 
 
 And so, gay-bating was born.
 {% assign timecode = "33:11" %}
@@ -1223,7 +1335,7 @@ And so, gay-bating was born.
 
 Now here's where I lay out a little caveat for you. In doing my research for this, I found enough instances of gay baiting to fill a whole book, let alone a video. So I decided to break it down into eight instances that stood out amongst the rest. These got the most media attention and the most fanfiction and the most fan attention. 
 
-I'm also not going to be covering any queer baiting that was eventually made canonical, like with *The Legend Of Korra* and *Adventure Time*. That's actually called queer catching, which is when a character's queerness is confirmed *after* a media franchise has finished and therefore you're not running the possibility of impacting its ratings or its sales. Or you reveal that a character is gay on a press tour for a movie but it's never really manifests in the movie itself. 
+I'm also not going to be covering any queer baiting that was eventually made canonical, like with *The Legend Of Korra* and *Adventure Time*. That's actually called "queer catching", which is when a character's queerness is confirmed *after* a media franchise has finished and therefore you're not running the possibility of impacting its ratings or its sales. Or you reveal that a character is gay on a press tour for a movie but it's never really manifests in the movie itself. 
 
 </james>
 <from></from>
@@ -1239,7 +1351,9 @@ An interesting trend in queer baiting is that slightly more loose rules apply to
 
 But even then, lesbian characters are only likely to be confirmed to be queer at the end of the story if not afterwards in some other form of media, uh novels, comic books, stuff like that. Again, this happened with *The Legend Of Korra*, notoriously. It also *almost* happened very recently with the new incarnation of *She-Ra*, but they got that lesbian confirmation in *right* under the wire. And of course, that research doesn't cover everyone and there are plenty of people who find lesbians just as disgusting as gay men. 
 
-The acceptance of lesbians in mainstream culture is just slightly more prevalent, mostly thanks to Ellen's brand of family safe gayness. *But* if anyone of you wants to share some videos or articles that cover lesbian queer baiting that I might have missed, please share them with me and I will link them in the description below. And I just want everyone to know... I tried to include *Supernatural*, I did, but try as I might I could not follow that show at all, it makes no sense!
+The acceptance of lesbians in mainstream culture is just slightly more prevalent, mostly thanks to Ellen's brand of family safe gayness. *But* if anyone of you wants to share some videos or articles that cover lesbian queer baiting that I might have missed, please share them with me and I will link them in the description below. 
+
+And I just want everyone to know... I tried to include *Supernatural*, I did, but try as I might I could not follow that show at all, it makes no sense!
 
 So now that the caveats are out of the way...
 
@@ -1249,6 +1363,14 @@ So now that the caveats are out of the way...
 
 ## Merlin
 {% assign timecode = "36:04" %}
+
+<compare>
+<comment {% include commenter for=tustin %}>
+
+Note, this whole section was cut out of re-released versions of this video due to Alexander Avila calling James out about stealing his videos.
+
+</comment>
+</compare>
 
 <compare>
 <visual {% include citation for=page.cite.plagiarized.aretheygay_merlin %}>

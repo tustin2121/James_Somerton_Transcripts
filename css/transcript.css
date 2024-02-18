@@ -140,10 +140,13 @@
 		text-align: center;
 		border-right: var(--source-color) 3px solid;
 		margin-right: -3px;
-		overflow-y: hidden;
+		overflow: clip hidden;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
+	}
+	compare visual-line span a {
+		text-wrap: nowrap;
 	}
 	compare visual-line span.on {
 		border-top: var(--source-color) 2px solid;

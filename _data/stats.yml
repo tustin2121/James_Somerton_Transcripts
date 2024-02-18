@@ -1,7 +1,7 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: "20.2", m: "2.6", "y": "0.8", w: "12.6", v: 81}
+  vol: {p: "20.9", m: "2.6", "y": "0.8", w: "12.7", v: 110}
   p-total: 111
   m-total: 88
   y-total: 21
@@ -36,7 +36,7 @@ _global:
   unreleased: 1
   changed-number: 2
   changed-name: 5
-  blatant-bgm: 2
+  blatant-bgm: 5
   sub-queer: 22
   highlighted: 1
   dec2-delete: 1
@@ -207,7 +207,7 @@ m8DRQ9-sCSI:
   plagiarized: {}
   misinformation: {}
   yikes: {}
-  vol: { p: 44.6, m: 1.4, y: 0.0, w: 13.1, v: 45 }
+  vol: { p: 55.6, m: 2.1, y: 0.0, w: 14.6, v: 74 }
 M8Z1NjpdH1M:
   vol: { p: 74.4, m: 5.6, y: 0.0, w: 55.3, v: 0 }
 n41RAyav_d8:
@@ -262,7 +262,7 @@ UiDcQnavKPI:
 UtRyi-e_HTc:
   vol: { p: 71.1, m: 2.6, y: 0.0, w: 64.5, v: 0 }
 VoHYZUj43K4:
-  vol: { p: 24.7, m: 0.0, y: 0.0, w: 15.3, v: 0 }
+  vol: { p: 29.3, m: 0.0, y: 0.0, w: 17.4, v: 0 }
 VToXKOOK4mw:
   vol: { p: 0.0, m: 5.0, y: 0.0, w: 0.0, v: 0 }
 xBDc6SedkAc:
