@@ -63,6 +63,7 @@ cite:
     aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
     aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
     aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
+    aretheygay_sterek: { color: 6, short: "Sterek (Avila, 2017)", full: "Avila, A. (2017, Jul 6). <em>Are They Gay? - Derek Hale and Stiles Stilinski (Sterek)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=7ei-Le2O7lc" }
     aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
     rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
 ---
@@ -2882,28 +2883,82 @@ The *other* place you can get the quote, and I suspect this is where he lifted i
 {% assign timecode = "1:03:39" %}
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_sterek %}>
+{% assign atg = page.cite.plagiarized.aretheygay_sterek.color %}
+
+Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+
+James uses one more clips from *The Celluloid Closet* (1996) here. ("+" means add 1 hour.)
+
+</visual>
+<visual class="color-none">
+{% include header for=tustin %}
+
+Clips marked in gray aren't able to be taken from Avila's video, so there must be another source for them aside from going directly to *Teen Wolf* itself.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 Oh God, here we go...
 
-<wbr on />Hitting TV screens in 2011, the MTV show became famous for its propensity to show nearly naked men in nearly every episode. Maybe it was their way of paying reparations for the "I'm not a fag. I'm a werewolf" line from the 1985 movie. The whole show is pretty gay, if we're being honest, kind of like a teenage version of *True Blood* in more ways than one, but the relationship that drove the series into will-they-won't-they territory was between lovable nerd Stiles and brooding alpha werewolf Derek. Fondly known online by the couple name "Sterek". 
+<span visual={{atg}} on="0:30" off="0:37">Hitting TV screens in 2011, the MTV show became famous for its propensity to show</span> <span visual=none on="?" off="?">nearly naked men in nearly every episode.</span> 
+
+Maybe it was their way of <span visual={{tcc}} on="+10:43" off="+10:49">paying reparations for the "I'm not a fag. I'm a werewolf" line from the 1985 movie.</span> 
+
+<span visual=none on="?" off="?">The whole show is pretty gay, if we're being honest, kind of like a teenage version of *True Blood* in more ways than one, but the relationship that drove the series into will-they-won't-they territory was</span>  
+<span visual=none on="?" off="?">between lovable nerd Stiles and brooding alpha werewolf Derek. Fondly known online by the couple name "Sterek". </span>
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Much like with Merlin, the pair start the series off on a bad paw. But over the course of a few seasons, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.<wbr off /> But because they're *two guys*... 
+<span visual=none on="?" off="?">Much like with Merlin, the pair start the series off on a bad paw. But <mark>over the course of a few seasons</mark>, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.</span> But because they're *two guys*... 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<from span=3 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(1:56)" %}>
+
+Now, it is the relationship between Stiles and Derek that we're here to talk about, and cherry-picked evidence that preconclude assumptions about. (kidding but kind of not.)
+
+<mark>Over the course of the seasons</mark> they go from sort of hating each other to... Loving each other? <u>[first few notes of George Michael's "Careless Whisper" playing]</u>
+
+It may be my <u>[echoing]</u> HOMOSEXUAL AGENDA talking, but I think there might be something real here. Let's try to examine it with an... open mind.
+
+<h3>1. Stiles is 100% bi</h3>
+
+To the untrained eye Stiles may seem like a straight dude.
+
+> <mark></mark>Stiles: "I-... Well, dad. There's a conversation that we-"
+>
+> Dad: "You're not gay."
+>
+> Stiles: (balks) "Well I could be!"
+
+He loves the ladies! Of course he does.
+
+> <mark num=2></mark>Girl: "I do like girls. Do you?"
+>
+> Stiles: "Absolutely."
+
+But as me and the entire queer community has acknowledged, liking girls doesn't mean you can't like other genders.
+
+> <mark num=2></mark>Stiles: "Do you also like boys?"
+>
+> Girl: "Absolutely! Do you?"
+>
+> Music in background: "*I said I love you!*"
+>
+> Stiles: [Stares off into the distance] *sudden realisation*
+
+</from>
+<clip mark=cont visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Garage]</u>
 
-Stiles: "Well, Dad, there's a conversation that we--"
+<mark></mark>Stiles: "Well, Dad, there's a conversation that we--"
 
 Dad: "You're not gay."
 
@@ -2912,11 +2967,11 @@ Stiles: (balks) "Wha-- I could be!"
 Dad: "Not dressed like that."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip mark=cont visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Dance club]</u>
 
-Stiles: "Uh, I thought you liked girls."
+<mark></mark>Stiles: "Uh, I thought you liked girls."
 
 Girl: "I do like girls. Do you?"
 
@@ -2931,16 +2986,65 @@ Girl: "Absolutely. Do you?"
 Music in background: "*I said I love you!*"
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 So pretty quickly, it set up that Stiles is bisexual. Is it said outright? *No!* Of course <wbr on />not! That would be too easy.<wbr off /> But is it made painfully obvious?
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<from span=7 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(1:56)" %}>
+
+And this isn't just a one-time thing. Stiles' Potential Gayness is hinted at throughout the show. One of the first is when he wonders about how attractive he is the gay guys, which is usually a thing only people who *want* gay guys attention worry about.
+
+> <u>[Walking down school hallway]</u>
+> 
+> Stiles: "I don't think Danny likes me very much."
+> 
+> Scott: "I asked Alison on a date and now we're hanging out."
+> 
+> Stiles: "Am I not attractive to gay guys?"
+> 
+> Scott: "I make first lineup and the team captain wants to destroy me, and now... I'm going to be late for work."
+> 
+> Stiles: "Wait, Scott! You didn't--! Am I attractive to gay guy--!? You didn't answer my question."
+
+Now, this may be a vanity thing or an overly self-aware type of humor, but it's still only funny in a world where gay is seen as funny. And if this world -as the creator has stated- is truly a world without homophobia, then why do these lines exist? It's not just the homoerotic dialogue, but Stiles' attraction to men actually manifests in certain forms.
+
+> Stiles (to Scott): "Everyone wants you. You know, you're like the hot girl that every guy wants."
+
+> <u>[Stiles shouting out a car window]</u>
+>
+> Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
+
+> Man: "We should, maybe, take this upstairs?"
+> 
+> Girl: "He's my type."
+> 
+> <u>[Meaningful looks all around]</u>
+> 
+> Stiles: (scratches neck) "Okay, Issac can come too."
+
+> <u>[School hallway]</u>
+> 
+> Stiles: (sighs) "And I also got to say, this new-found heroism has making me very attracted to you."
+> 
+> Scott: "Shut up."
+> 
+> Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott pushes him) "Just to see how it feels!"
+
+There's even a point where <mark>Stiles and Scott go to a gay bar and a guy ordered a drink for Scott and not Stiles, and Stiles gets jealous!</mark>
+
+> Hot Bartender: "That one's payed for." <u>[Nods across the bar at another guy, who tips his beer at him.]</u>
+>
+> Scott: [Smiles giddily at Stiles]
+>
+> Stiles: [Looking pissed] "Oh Shut up!"
+> 
+> Scott: "I didn't say anything!"
+>
+> Stiles: "Yeah, well your face did!"
+
+</from>
+<clip nark=cont visual={{atg}} on="3:22" off="3:38" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Walking down school hallway]</u>
 
@@ -2955,19 +3059,19 @@ Scott: "I make first lineup and the team captain wants to destroy me, and now...
 Stiles: "Wait, Scott! You didn't--! Am I attractive to gay guy--!? You didn't answer my question."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} on="4:04" {% include citation for=page.cite.clips.teenwolf %}>
 
-Guy (to Derek): "Everyone wants you. You know, you're like the hot girl that every guy wants."
+Stiles (to Scott): "Everyone wants you. You know, you're like the hot girl that every guy wants."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Stiles shouting out a car window]</u>
 
 Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} {% include citation for=page.cite.clips.teenwolf %}>
 
 Man: "We should, maybe, take this upstairs?"
 
@@ -2978,7 +3082,7 @@ Girl: "He's my type."
 Stiles: (scratches neck) "Okay, Issac can come too."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} off="4:27" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[School hallway]</u>
 
@@ -2989,21 +3093,14 @@ Scott: "Shut up."
 Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott pushes him) "Just to see how it feels!"
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Yes, yes, it is.
 
-When Stiles and the main character, Scott, go to a gay bar, Stiles even gets frustrated when a guy buys a drink for *Scott* and not for him. Why are they at a gay bar? Because it's *Teen Wolf*, why would wouldn't they be at a gay bar?
+<mark visual={{atg}} on="4:34" off="4:44" >When Stiles and the main character, Scott, go to a gay bar, Stiles even gets frustrated when a guy buys a drink for *Scott* and not for him.</mark> Why are they at a gay bar? Because it's *Teen Wolf*, why would wouldn't they be at a gay bar?
 
 </james>
-<from></from>
-</compare>
-
-<compare>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual={{atg}} on="5:11" off="5:15" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Classroom]</u>
 
@@ -3014,7 +3111,7 @@ Danny: "What?!"
 Stiles: "Do you find me attractive?"
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual={{atg}} on="5:39" off="6:03" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Locker Room]</u>
 
@@ -3033,14 +3130,14 @@ Danny: "Yes. I'm kidding!"
 Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it's not attractive! Alright?!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Classroom]</u>
 
 <u>[Previous scene, Stiles is apparently waiting for Danny to answer, falls over and causes clattering.]</u>
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Cafeteria]</u>
 
@@ -3050,60 +3147,107 @@ Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it
 </compare>
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_sterek %}>
+{% assign atg = page.cite.plagiarized.aretheygay_sterek.color %}
+
+Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 <u>[Over Black screen]:</u> Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
 
-<wbr on />Derek is straight. Very straight. He has all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.<wbr off /> But Stiles can't get him off his mind.
+<span visual={{atg}} on="7:01" off="7:04">Derek is straight. Very straight. He has</span>  
+<span visual={{atg}} on="7:13" off="7:17">all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.</span><wbr off /> But Stiles can't get him off his mind.
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(6:55)" %}>
+<h3>2. Derek's "immovable" heterosexuality</h3>
 
-<compare>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+Now Derek is your typical Shady Emo who kind of just drifts through the wind and breaks hearts. Well, actually he's the one getting his heart broken See there's the relationship with Paige when he was a kid, and Kate Jennifer Braeden and... Well, he gets around.
 
-Stiles: "No more questions. No more talk about the alpha, or Derek. Especially Derek." (Thousand-yard stare)
+</from>
+{% assign timecode = "1:06:49" %}
+<clip visual={{atg}} on="9:33" off="9:40" {% include citation for=page.cite.clips.teenwolf %}>
+
+Stiles: "No more questions. No more talk about the alpha, or Derek. Especially Derek." <u>[Thousand-yard stare]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />In one episode, Derek is paralyzed by a monster and has to be held afloat in the middle of a pool by Stiles, because... the monster can't swim. Stiles holds him up for over two hours. Much like Merlin, Stiles risks his life for Derek *over and over and over* again, and becomes visibly jealous when girls show interest in his hunky were-crush. His feelings for Derek are *not* subtle.<wbr off />
+<mark visual={{atg}} on="11:25" off="11:34">In one episode, Derek is paralyzed by a monster and has to be held afloat in the middle of a pool by Stiles, because... the monster can't swim.</mark>  
 
-And this is not an accident. Even the action is pointing toward romance, whether it's obvious or not. <wbr on />Take this scene, where they're both paralyzed (a-again). Stiles files on top of Derek the same way that we've seen women fall on top of men in a hundred romantic comedies. The way they lock eyes, time and time again. The way they *annoy* each other, needle each other, but always come to the rescue.<wbr off />
+<mark visual={{atg}} on="11:36" off="11:38">Stiles holds him up for over two hours.</mark>
+
+<footer>Note, the two seconds between the two clips is so that James can cut around Avila putting "PARALYZED" on screen for a joke. It's not noticeable unless you're literally doing what I'm doing and comparing videos side-by-side. {% include signed for=tustin %}</footer>
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(11:24)" %}>
 
-<compare>
+<mark>There's this one time where they're fighting this... lizard thing called the Kanima, but the Kanima can't swim, so they have to stay in the pool. The problem is... Derek is kind of like uh... **PARALYZED**!</mark>
+
+<mark>Stiles holds up Derek for two hours in the pool.</mark> Two hours. Not to mention that there's this girl named Erica sort of just lying unconscious on the other side of the pool..? Now Derek insists that they don't trust each other, and that the only reason Stiles is keeping him alive is because he's his protection. But Stiles looks really offended at that.
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{atg}} on="13:31" off="13:23">Much like Merlin, <mark>Stiles risks his life for Derek</mark></span>  
+<span visual={{atg}} on="13:38" off="13:39">*over and over*</span>  
+<span visual={{atg}} on="13:06" off="13:15">*and over* again, and <mark>becomes visibly jealous when girls show interest in his hunky were-crush</mark>. His feelings for Derek are *not* subtle.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(12:58)" %}>
+
+He is willing to help Derek in situations where it'll be dangerous. And no matter the monster, <mark>Stiles was willing to sacrifice himself for Derek</mark>. And those close moments, where it seems all is lost and Derek might be in danger Stiles' true colors come out.
+
+He <mark>shows visible Jealousy at Derek for choosing to be with Jennifer</mark>. But it comes from a place of caring. Gay caring. When he sees Derek lying on the ground, perhaps even dead, he stops. There's a moment where... He's sad. Maybe even realizing his true feelings.
+
+</from>
+<james {% include timecode %}>
+
+And this is not an accident. Even the action is pointing toward romance, whether it's obvious or not. <mark visual=none on="?" off="?">Take this scene, where they're both paralyzed (a-again). Stiles falls on top of Derek the same way that we've seen women fall on top of men in a hundred romantic comedies.</mark> The way they lock eyes, time and time again. The way they *annoy* each other, needle each other, but always come to the rescue.
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(17:00)" %}>
+
+The writers seem to deliberately torture us with these scenes. <mark>Take the suggestive collision that happens when they're both paralyzed: They didn't have to land on top of each other in a way that happens in every movie with a romantic subplot!</mark> It could be a friendship, but it could also be something else, and I fear it's a something else that isn't very good.
+
+<h3>6. Representation and Queerbaiting</h3>
+
+<mark>In an interview with AfterElton, Jeff Davis, the creator of the show</mark>, made this comment about the teenwolf he was trying to create:
+
+> <mark></mark>"I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
+
+<mark>While that certainly *is* an admirable intention... it's not possible.</mark>
+
+</from>
 <james {% include timecode %}>
 
 👏 This 👏 is 👏 not 👏 subtle! 👏 This is on purpose.
 
-In an interview, with after Elton Show creator Jeff Davis said:
+<mark>In an interview with AfterElton, show creator Jeff Davis said</mark>:
 
-> "I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
+> <mark></mark>"I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
 
-That's a very noble pursuit, but it's not realistic to even try to achieve it. 
+<mark>That's a very noble pursuit, but it's not realistic to even try to achieve it.</mark> 
 
 </james>
-<from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />There are plenty of out queer characters on Teen Wolf, but none of them are leads. The Sterek fandom became rabid online with art and fan fiction, becoming just as popular as the show itself. Some of the cast encouraged the shipping, including Dylan O'Brien and Tyler Hoechlin, *who would cuddle with each other at fan events*.<wbr off /> They baited Sterek as a couple, they baited Stiles's sexuality, with absolutely *no* intention on following through. 
+<span visual=none on="?" off="?"><mark>There are plenty of out queer characters on Teen Wolf</mark>, <mark>but none of them are leads.</mark> The Sterek fandom became rabid online with art and fan fiction, becoming just as popular as the show itself. Some of the cast encouraged the shipping, including Dylan O'Brien and Tyler Hoechlin,</span> *who would cuddle with each other at fan events*.<wbr off /> They baited Sterek as a couple, they baited Stiles's sexuality, with absolutely *no* intention on following through. 
 
 The reason this is so onerous is because the queer baiting didn't even stay in the show! They moved it over into real life. Stiles wasn't just coded adorably bisexual, they used *queer baiting* to get you to *do something* for them! 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf_advert %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(18:22)" %}>
+
+<mark>There are some openly queer characters</mark>. The ones that get the most screen time are Danny and Ethan. There's also caitlin and her girlfriend, Callie and Mason, and these stories were done relatively well in some regards, <mark>but they were never at the forefront.</mark> The romances were unexplored and the characters were secondary. Danny even just sort of disappeared!
+
+There is some representation, which I am really grateful for, but the problem is that there seems to be a lot of bait. For Pete's sake they literally queer baited Danny. And also- What about all those queerish moments between Stiles and Derek that were probably put in for fanservice? The actors and creators are sometimes receptive to Sterek in a good way..? But only in ways that attract open-minded and queer viewers, and then kick them to the curb.
+
+</from>
+<clip visual={{atg}} on="19:42" off="20:06" {% include citation for=page.cite.clips.teenwolf_advert %}>
 
 <u>[Dylan O'Brien and Tyler Hoechlin on a boat, in one another's arms.]</u>
 
@@ -3123,15 +3267,13 @@ Dylan: "And we'll take more naps like these for you. Maybe on UStream. Uh, yeah,
 
 Dylan: "Sterek all the way."
 
+<footer>James took Avila's clip insert of the video and just cropped out the paper background Avila has in his video, making it black bars instead. {% include signed for=tustin %}</footer>
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 *I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. <u>[Shrugs]</u>
 
-<wbr on />This is probably the most obvious example of queer baiting to have ever existed in monitored media.<wbr off /> But it wasn't the most well-known. Bringing out the big guns now.
+<span visual=none on="?" off="?">This is probably the most obvious example of queer baiting to have ever existed in modern media.</span> But it wasn't the most well-known. Bringing out the big guns now.
 
 </james>
 <from></from>
