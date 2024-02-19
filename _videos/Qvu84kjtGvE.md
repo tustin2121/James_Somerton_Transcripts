@@ -122,174 +122,254 @@ Disney but I wasn't shocked because Disney has an out and proud history of using
 and abusing the LGBT community for its own means in order to talk about that
 we'll need to discuss Disney's prolific history of queer coding villains
 straight washing Heroes and pandering to the LGBT community just to ignore us
-once they have our [Music] money gay culture has always held the Disney UA in
+once they have our [Music] money 
+
+gay culture has always held the Disney UA in
 high regard but why exactly to say that Disney was queer coding in the early
 days would be a bit disingenuous I hardly believe that good old Uncle Walt hater
 of all things subversive would insert queer coded messages into his early
 animated films although six hairy men in one twink living together is a bit
 suspect but queer readings of Disney films are possible and quite well known
-really it all comes down to Fantasy queer culture particularly gay male culture
-has long held a fascination with fantasy the close Association of gay men to the
-world of fantasy has attributed to some of the most most common insults for gay
-men in Western culture fairy queen and princess while elaborating on what
-constitutes a gay sensibility Michael bronsky LGBT historian stresses the
-importance of imagination imagination is especially threatening to a culture
-that repressively and rigidly defines gender roles because it can provide an
-alternative Vision to the real world therefore fantasy contains a a possible
-critique of dominant heteronormative culture as well as allowing for a proxy to
-exist one of the reasons young fantasy fans have been expected to grow out of
-the genre for decades with LGBT people living every day as an alternative to
-dominant culture ties to Fantasy seem inevitable although not necessarily
-evoking a world of gender fluidity fantasy is often described as a method of
-escape from the trials and tribulations of everyday reality living in a society
-that has outlawed homosexual desire categorized it as a medical disease labeled
-it as a sin against God and allowed and often encouraged violent acts against
-LGBT people queer culture has unsurprisingly embraced the potential for escape
-that fantasy and fairy tales provide heroes or heroins rise above their stations
-rewarded for all their hardship and vilification by finding Prince Charming
-Andor being crowned as royalty others leave their drab and shabby existence and
-find a fascinating otherw World in which Anything is Possible the second
-scenario is the basis for one of the key texts of queer culture the film version
-of The Wizard of Oz from 1939 in the narrative an underappreciated adolescent
-girl in the barren Midwest is whisked away to a fabulous land filled with color
-and spectacle where she finds friends who value her more than her biological
-family seems to funnily enough Walt Disney fought hard to get the film rights to
+really it all comes down to Fantasy 
+
+<compare>
+<james {% include timecode %}>
+
+queer culture particularly gay male culture has long held a fascination with fantasy the close Association of gay men to the world of fantasy has attributed to some of the most most common insults for gay men in Western culture fairy queen and princess while elaborating on what constitutes a gay sensibility Michael bronsky LGBT historian stresses the importance of imagination imagination is especially threatening to a culture that repressively and rigidly defines gender roles because it can provide an alternative Vision to the real world therefore fantasy contains a a possible critique of dominant heteronormative culture as well as allowing for a proxy to exist one of the reasons young fantasy fans have been expected to grow out of the genre for decades with LGBT people living every day as an alternative to dominant culture ties to Fantasy seem inevitable 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.62-63"%}>
+
+Homosexual culture (particularly gay male culture) has long held a fascination with fantasy. The close association of gay men to the world of fantasy has contributed to some of the most common epithets for homosexuals in Western culture: “fairy,” “queen” and “princess.” Michael Bronski, elaborating on what constitutes a “gay sensibility,” stresses the importance of imagination to this sensibility: “Imagination is especially threatening to a culture that repressively and rigidly defines gender roles . . . because it can provide an alternative vision to the ‘real’ world.”<sup>40</sup> Hence, fantasy contains a possibile critique of dominant society, as well as a picturing of an alternative. With self-identified lesbians and gay men living every day as an alternative to dominant culture, ties to fantasy seem logical.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+although not necessarily evoking a world of gender fluidity fantasy is often described as a method of escape from the trials and tribulations of everyday reality living in a society that has outlawed homosexual desire categorized it as a medical disease labeled it as a sin against God and allowed and often encouraged violent acts against LGBT people queer culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide heroes or heroins rise above their stations rewarded for all their hardship and vilification by finding Prince Charming Andor being crowned as royalty others leave their drab and shabby existence and find a fascinating otherw World in which Anything is Possible the second scenario is the basis for one of the key texts of queer culture the film version of The Wizard of Oz from 1939 in the narrative an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seems to 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.63"%}>
+
+Although not necessarily evoking a world of polymorphous perversity, fantasy is often described as a method of escape from the tri- als and tribulations of everyday reality. Living in a society that has outlawed homosexual desire, categorized it as a medical disease, labeled it as a sin against God and allowed (and often encouraged) violent retribution against homosexuals, homosexual culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide. Heroes or heroines rise above their station—rewarded for all their hardship and vilification by finding Prince Charming and/or being crowned as royalty. Others leave their drab and shabby existence and find a fascinating other world in which anything is pos- sible. This second scenario is the basis for one of the key texts in homosexual culture, the film version of Frank L. Baum’s *The Wizard of Oz* (1939). In the narrative, an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seem to do. Although Dorothy, the main character, consistently declares her desire to “go home,” almost every viewer (gay or otherwise) enjoys the film not for the sepia-toned representa- tion of Kansas but for its breathtaking creation of a three-strip Technicolored Oz.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+funnily enough Walt Disney fought hard to get the film rights to
 The Wizard of Oz but failed he would rarely let the rights to something he
-wanted slip through his fingers ever again another narrative strand in Disney's
-films that would have a great appeal to the queer Community is the tale of the
-outsider throughout the Studio's history Disney has consistently returned to the
-stories about characters who don't fit in to society unlike the heroins of
-lfrank bomb's Oz these characters do not find another world to escape to and
-must confront their ostracization rebuffed by The Gatekeepers of what is normal
-and decent these rejects eventually find acceptance and Happiness by discovering
-a use for those aspects of themselves that were originally thought to be
-deficient or abnormal Hans Christian Anderson now recognized as gay himself
-provided what is probably the archetypal version of the story The Ugly Duckling
-which was adapted by Disney twice in 1930 and again in 19 39 there are two early
-Disney shorts about Outsiders though that are more easily read as specifically
-gay texts and delightfully affirming of otherness the first of these is the
-Oscar winning short Ferdinand the Bull from 1937 the cartoon tells the story of
-a young bull who is content to spend his life just sitting quietly and smelling
-the flowers rather than going after other more conventionally masculine Pursuits
-while Ferdinand has never shown having romantic interest in another bull the
-character's quiet affection for flowers Associates him with images of gay men in
-American culture at the time you see in the 1920s and 30s gay men were
-frequently referred to as pansies or buttercups interestingly the short never
-seems to suggest that Ferdinand is somehow depraved or deserving of contempt for
-his desires although his mother wants to know why he doesn't want to run and
-leap and butt heads like the other young Bulls she accepts her son's lifestyle
-without much second thought Ferdinand is never shown racked with guilt over his
-implied homosexuality or worried about what others may think of him on the
-contrary the cartoon continually shows close-ups of him batting his long
-eyelashes and sighing slowly and contentedly neither the narrator nor the visual
-design of the film ever judge Ferdinand is somehow wrong rather there's a
-bemused acceptance of ferdinand's attitude this delight and acceptance of an
-effeminate male recurs in The Reluctant Dragon 1941 if anything the eminency of
-the titular Reluctant Dragon is even more pronounced than ferdinand's like the
-bull the dragon Sports long emotive eyelashes and contains not an aggressive
-bone in his body with the dragon prancing and pouting throughout the story yet
-unlike the bull the dragon has a voice now boy now boy just run along tell the
-child to go home a high pitched masculine voice with the accent of an English
-Dandy in fact the dragon's long black fluffy ears often droop around the sides
-of his face in an approximation of Oscar wild rather than fight battles with
-knights this Dragon wants to play music hold high tea and write poetry at one
-point the dragon is specifically referred to as a punk poet at a time when the
-common slang definition for Punk was homosexual male this phrase is repeated
-about five times in one 15-second period of the short one of his poems owed to
-an upside down cake is filled with double on Tandra about sexual revers sweet
-little upside down cake cares and woes you got them poor little upside down cake
-your top is on your bottom alas little upside down cake your troubles never stop
-because little upside down cake your bottoms on your top a young boy who fancies
-himself an expert on Knights and Dragons warns the dragon that a knight has been
-hired by the town thinking that the dragon is as ferocious as the Legends tell
-but both the boy and the dragon are surprised to find that the Knight or Giles
-is as much a tea lover and poetry writer as the dragon is the cartoon introduces
-both figures similarly caught taking baths by the boy and their figures
-contrasting sharply with the manly heroic illustrations contained in the boy's
-book sir Giles and the dragon agree to Stage a mock battle in order to please
-the town the battle consists of hiding in caves or in Smoke and dust where the
-two have tea and at one point Walt with each other while yelping and Howling for
-the benefit of the audience there is no mistaking how the film makes fun of the
-dragon's mincing Manner and prissy pretensions yet the film also makes it quite
-clear that the dragon does not believe in fighting and the film doesn't
-specifically make fun of him for that made just before the Japanese attack on
-Pearl Harbor many in the United States were also trying to keep from fighting
-and consequently would not quickly dismiss the dragon strongly held beliefs just
-as in Ferdinand the Bull The Reluctant Dragon presents an easily red gay
-character under the guise of fantasy and shows characters accepting him as he is
-these fantasies of acceptance earned Walt Disney a lot of Praise in the early
-days of animation showing children that it's okay to be a little different but
-children weren't the only people partaking in these fantasies queer adults come
-to Fantasy with a knowledge that children for the most part don't have at the
-same time that gay individuals Revel in the affirmations and opened
-possibilities that fantasy creates there is also an awareness and acceptance of
-the impossibility of fantasy as well as the absurdity of it all Cassandra Amy's
-concept of double reading although written in regard to Media fandom in general
-also applies to a queer subject position amsley writes that a reader can
-maintain and understand two Divergent points of view at once and use them to
-inform each other in this way identification and distinction may occur
-simultaneously there's an irony in the existence of queer fantasy a simultaneous
-Indulgence in and distancing from the work being engaged in a queer person can
-sit through Snow White and dream about being taken away from their drab life to
-a castle on a hill but they can also enjoy the absurdity of Snow White's
-grotesquely warbling contralto Michael Brony sees such a double reading in JM
-Barry's Peter Pan while conventionally thought of as a children's story bronsky
-describes it as a deeply disturbing meditation on the impossible desire for
-flight not so much a fantasy of Escape as it is a cleare eyed exposure of
-escape's impossibility the original 1904 play ends with Peter alone and Barry
-adds to the stage directions it has something to do with the riddle of his being
-if he could get the hang of the thing his cry might become to live would be an
-awfully big adventure but he can never quite get the hang of it and so no one is
-as gay as he fantasy often walks hand inand with camp one of the cornerstones of
-queer culture Susan sag declared in her influential article notes on Camp that
-camp was a way of looking at things a quality discoverable in objects and the
-behavior of persons most importantly for this discussion sag observes that camp
-is essentially role playing taking on the appearance of something that you're
-not and amping up that depiction to an 11 Camp by focusing on the outward
-appearance of a role implies that rols and in particular gender roles are
-superficial a matter of style the fascination that many gay men have with Disney
-villains is precisely over how they theatrically perform their gender roles to
-the point where the naturalness of their gender can be called into question
-although the vengeful queen in Snow White and the evil sorceress Maleficent and
-Sleeping Beauty are OB stens gendered female they both wear clothing that
-completely covers almost every in of their bodies including cowls or hoods that
-cover their heads only their hands and face are exposed leaving the rest of the
-body cloaked their faces both have highly defined features etched cheekbones
-thin sharp noses strongly set Jaws in contrast to the softer designs of the
-heroins and they also seem to have access to makeup especially mascara and ey
-Shadow although crille in 101 Dalmations is not clothed like these two
-characters her facial design fits perfectly into this description in other words
-these villainesses are drag queens Maleficent moves with grand sweeps of her
-cape and long flowing gown and Strikes magnificent diva-like poses it should
-also be mentioned that all her movements and poses are timed to the highly
-emotive Melodies of chaikovsky version of Sleeping Beauty a gay composer himself
-she also gets a number of well-placed piy lines of dialogue she makes a stunning
-entrance into the celebration of Aurora's birth then regards the Royal pageant
-as if it were a Kiki W quite a glittering assemblage King Sten she observes
-coldly royalty nobility the Gentry and she says pausing to notice the three good
-fairies how qut even the rebel Sleeping Beauty's Maleficent actively Works to
-spoil two generations of heterosexual coupling the film begins with the
-convention of a book opening to announce once upon a time during this overtly
-narrated introduction strong emphasis is placed on procreation particularly on
-the king and queen's difficulties in having a child the story proper begins with
-the Countrywide celebration of the birth of the Princess Aurora when Maleficent
-arrives she is informed quite bluntly you weren't wanted Maleficent retaliates
-in the the most dramatic way possible by placing a death sentence on the child
-to be fulfilled on her 16th birthday in this way she attempts to take away the
-procreative success of the king and queen and kill the princess just at the
-moment when she herself would be about to explore heterosexual courtship
-elsewhere in Disney Cannon Cruella Deville is not only a fashion icon who serves
-Safari realness every single day but she similarly sweeps into every scene like
-a grand Dom making a stage entrance for an enthusiastic crowd constantly
-carrying an absurdly long cigarette holder she uses it repeatedly to further
-overemphasize every gesture and inflection no movement or line of dialogue is
-subtle or underplayed instead every damn moment is played to the cheap seats
-whether trying to write out a check for the dalmatian puppies or driving her
-Roadster down a mountain Road Cruella overdoes everything all these inflections
-seem to be attempts by the character to show show her astounding Chic and
-cultured femininity yet in her attempt to be the epitome of feminine glamour she
-consistently and quite hilariously points out the concept of gender as
-roleplaying Cruella is also a single woman who has a fascination with Anita they
+wanted slip through his fingers ever again 
+
+</james>
+<from></from>
+<comment>
+
+Okay, I spent a while tracking this down. I found this claim on a fandom site and a blog site and tracked it down to Wikipedia. I looked at the citation for the Wikipedia claim, which is a 1990 documentary on the making of *The Wizard of Oz*. The narrator, Angela Lansbury, says that the production of the movie was influenced by the success of Disney's *Snow White* and that MGM bought the rights in 1938, but there's no mention of Disney trying to buy the rights at that time, though Disney would buy the rights to the rest of Baum's *Oz* books in the 50s and make several adaptations of their own over the years. So unless there's actually proof out there somewhere, I don't think this is true.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+another narrative strand in Disney's films that would have a great appeal to the queer Community is the tale of the outsider throughout the Studio's history Disney has consistently returned to the stories about characters who don't fit in to society unlike the heroins of lfrank bomb's Oz these characters do not find another world to escape to and must confront their ostracization rebuffed by The Gatekeepers of what is normal and decent these rejects eventually find acceptance and Happiness by discovering a use for those aspects of themselves that were originally thought to be deficient or abnormal Hans Christian Anderson now recognized as gay himself provided what is probably the archetypal version of the story The Ugly Duckling which was adapted by Disney twice in 1930 and again in 1939 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64"%}>
+
+Another narrative strand in Disney’s films that would have a great appeal to homosexual subjects is the tale of the “outsider.” Throughout the studio’s history, Disney has consistently returned to stories about characters who don’t “fit in” to society. Unlike the heroines of Carroll and Baum, these characters do not find another world to escape to and must confront their ostracization. Rebuffed by the upholders of what is normal and decent, these “rejects” eventually find acceptance and hap- piness by finding a use for those aspects of themselves that were origi- nally thought to be deficient or “abnormal.” Hans Christian Andersen, now recognized as homosexual himself, provided what is probably the archetypal version of the story, “The Ugly Duckling,” which was filmed by Disney twice—in 1930 and again in 1939. Other versions of this type of story can be found in *Morris, the Midget Moose* (1950), *Lambert, the Sheepish Lion* (1952), *Goliath II* (1960), and the very popular feature film *Dumbo* (1941)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+there are two early Disney shorts about Outsiders though that are more easily read as specifically gay texts and delightfully affirming of otherness the first of these is the Oscar winning short Ferdinand the Bull from 1937 the cartoon tells the story of a young bull who is content to spend his life just sitting quietly and smelling the flowers rather than going after other more conventionally masculine Pursuits while Ferdinand has never shown having romantic interest in another bull the character's quiet affection for flowers Associates him with images of gay men in American culture at the time you see in the 1920s and 30s gay men were frequently referred to as pansies or buttercups 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64-65"%}>
+
+There are two Disney texts about outsiders, though, that are more easily read as specifically “gay” texts and delightfully affirming of “otherness.” The first of these is the Oscar-winning short *Ferdinand the Bull* (1937). With backgrounds depicting a constantly sunny Spain, the cartoon tells the story of a young bull who is content to spend his life “just sitting quietly and smelling the flowers” rather than pursuing other more conventionally masculine pursuits. While Ferdinand is never shown having sexual interest in another bull, the character’s quiet affection for flowers associates him with images of homosexuals then current in American culture. In the 1920s and ’30s, gay men were frequently referred to as “pansies” or “buttercups,” and certain flowers, such as green carnations, had been secret symbols of one’s sexual inter- ests since the days of Oscar Wilde.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+interestingly the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires although his mother wants to know why he doesn't want to run and leap and butt heads like the other young Bulls she accepts her son's lifestyle without much second thought Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him on the contrary the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly neither the narrator nor the visual design of the film ever judge Ferdinand is somehow wrong rather there's a bemused acceptance of ferdinand's attitude 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65"%}>
+
+Interestingly, the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires. Although his mother wants to know why he doesn’t want to run and leap and butt heads like all the other young bulls, she accepts her son’s “lifestyle” without much second thought. Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him. On the contrary, the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly. Neither the narrator nor the visual design of the cartoon ever judge Ferdinand as somehow wrong in his choice. Rather, there is a bemused acceptance and delight in Ferdinand’s attitude.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+this delight and acceptance of an effeminate male recurs in The Reluctant Dragon 1941 if anything the eminency of the titular Reluctant Dragon is even more pronounced than ferdinand's like the bull the dragon Sports long emotive eyelashes and contains not an aggressive bone in his body with the dragon prancing and pouting throughout the story yet unlike the bull the dragon has a voice now boy now boy just run along tell the child to go home a high pitched masculine voice with the accent of an English Dandy in fact the dragon's long black fluffy ears often droop around the sides of his face in an approximation of Oscar wild rather than fight battles with knights this Dragon wants to play music hold high tea and write poetry at one point the dragon is specifically referred to as a punk poet at a time when the common slang definition for Punk was homosexual male this phrase is repeated about five times in one 15-second period of the short one of his poems owed to an upside down cake is filled with double on Tandra about sexual revers 
+
+> "Sweet little upside down cake, cares and woes — you got ’em
+
+> Poor little upside-down cake, your top is on your bottom.
+
+> Alas, little upside-down cake, your troubles never stop.
+
+> Because, little upside-down cake, your bottom’s on your top!"
+
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65-66"%}>
+
+This delight and acceptance of an effeminate male reoccurs in *The Reluctant Dragon* (1941). If anything, the effeminacy of the Reluctant Dragon in the title segment of the anthology film is even more pronounced than Ferdinand’s. Like the bull, the dragon sports long emotive eyelashes and contains not an aggressive bone in his body, with the dragon prancing and pirouetting throughout the story. Yet, unlike the bull, the dragon has a voice — a high-pitched masculine voice with the accent of an English dandy. In fact, the dragon’s long black fluffy ears often droop around the sides of his face in an approximation of the English dandy Oscar Wilde. Rather than fight battles with knights, this dragon wants to play music, hold high tea and write poetry. At one point, the dragon is specifically referred to as a “punk poet,” at a time when the common slang definition for “punk” was “homosexual male.” (This phrase is repeated about five times in one fifteen second period of the film.) One of his poems, “Ode to an Upside-Down Cake,” is fraught with double entendre about sexual reversal:
+
+> Sweet little upside down cake, cares and woes—you got ’em
+
+> Poor little upside-down cake, your top is on your bottom.
+
+> Alas, little upside-down cake, your troubles never stop.
+
+> Because, little upside-down cake, your bottom’s on your top!"
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+a young boy who fancies himself an expert on Knights and Dragons warns the dragon that a knight has been hired by the town thinking that the dragon is as ferocious as the Legends tell but both the boy and the dragon are surprised to find that the Knight or Giles is as much a tea lover and poetry writer as the dragon is the cartoon introduces both figures similarly caught taking baths by the boy and their figures contrasting sharply with the manly heroic illustrations contained in the boy's book
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+A young lad who fancies himself an expert on knights and dragons warns the dragon that a knight has been hired by the town, thinking that the dragon is as ferocious as the legends tell, but both the lad and the dragon are surprised to find that the knight, Sir Giles, is as much a tea lover and poetry writer as the dragon is. The cartoon introduces both figures similarly — caught taking baths by the lad, and their figures contrasting sharply with the manly heroic illustrations contained in the lad’s book.
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+sir Giles and the dragon agree to Stage a mock battle in order to please the town the battle consists of hiding in caves or in Smoke and dust where the two have tea and at one point Walt with each other while yelping and Howling for the benefit of the audience
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+Sir Giles and the dragon agree to stage a mock battle in order to please the town. The battle consists of hiding in caves or in smoke and dust—where the two hold tea and, at one point, waltz with each other, while yelping and howling for the benefit of the audience. Although the town has ostensibly hired the knight to kill the dragon, the townspeo- ple watching the battle root for both sides as if it were a sporting event. When the dragon pretends to be killed, it seems that the town is in on the ruse. The story ends with the narrator intoning, “Having reformed the dragon, the satisfied villagers welcomed him into society,” as the film shows the dragon being toasted to by the town.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+there is no mistaking how the film makes fun of the dragon's mincing Manner and prissy pretensions yet the film also makes it quite clear that the dragon does not believe in fighting and the film doesn't specifically make fun of him for that made just before the Japanese attack on Pearl Harbor many in the United States were also trying to keep from fighting and consequently would not quickly dismiss the dragon strongly held beliefs just as in Ferdinand the Bull The Reluctant Dragon presents an easily red gay character under the guise of fantasy and shows characters accepting him as he is
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+There is no mistaking how the film makes fun of the dragon’s mincing manner and prissy pretensions. Yet, the film also makes it quite clear that the dragon does not believe in fighting, and the film doesn’t specifically make fun of him for that. Made just before the Japanese attacked Pearl Harbor, many in the United States were also trying to keep from fighting and, consequently, would not quickly dismiss the dragon’s strongly held beliefs. Just as in *Ferdinand the Bull*, *The Reluctant Dragon* presents an easily read gay character under the guise of fantasy and shows characters accepting him as he is.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+these fantasies of acceptance earned Walt Disney a lot of Praise in the early days of animation showing children that it's okay to be a little different but children weren't the only people partaking in these fantasies 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+queer adults come to Fantasy with a knowledge that children for the most part don't have at the same time that gay individuals Revel in the affirmations and opened possibilities that fantasy creates there is also an awareness and acceptance of the impossibility of fantasy as well as the absurdity of it all Cassandra Amy's concept of double reading although written in regard to Media fandom in general also applies to a queer subject position amsley writes that a reader can maintain and understand two Divergent points of view at once and use them to inform each other in this way identification and distinction may occur simultaneously there's an irony in the existence of queer fantasy a simultaneous Indulgence in and distancing from the work being engaged in a queer person can sit through Snow White and dream about being taken away from their drab life to a castle on a hill but they can also enjoy the absurdity of Snow White's grotesquely warbling contralto Michael Brony sees such a double reading in JM Barry's Peter Pan while conventionally thought of as a children's story bronsky describes it as a deeply disturbing meditation on the impossible desire for flight not so much a fantasy of Escape as it is a cleare eyed exposure of escape's impossibility the original 1904 play ends with Peter alone and Barry adds to the stage directions it has something to do with the riddle of his being if he could get the hang of the thing his cry might become to live would be an awfully big adventure but he can never quite get the hang of it and so no one is as gay as he
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.68"%}>
+
+But lesbians and gay men also come to fantasy with a knowledge that children, for the most part, have not acquired. At the same time that gay individuals revel in the affirmations and opened possibilities that fantasy creates, there is also an awareness and acceptance of the impossibility of fantasy — as well as the absurdity of it all. Cassandra Amesley’s concept of “double reading,” although written in regard to media fandom in general, also applies to a lesbian or gay subject position. Amesley writes that a reader can “maintain and understand two divergent points of view at once, and use them to inform each other. In this way identification and distanciation may occur simultaneously.”<sup>47</sup> In regards to lesbian/gay use of fantasy, an irony exists — a simultaneous indulgence in and distancing from the work being engaged — which is far more developed than the normal child’s response. A lesbian/gay individual can sit through *Snow White* and dream of being taken away from a drab life to a castle on a hill, but s/he can also enjoy the absurdity of Snow White’s grotesquely warbling contralto. Michael Bronski sees such a double reading in Barrie’s *Peter Pan*. While conventionally thought of as a children’s story, Bronski describes it as “a deeply disturbing meditation on the impossible desire for flight . . . not so much a fantasy of escape as it is a clear-eyed exposure of escape’s impossibility.”<sup>48</sup> The original 1904 play ends with Peter alone, and Barrie adds in the stage directions, “It has something to do with the riddle of his being. If he could get the hang of the thing his cry might become ‘To live would be an awfully big adventure!’ but he can never quite get the hang of it, and so no one is as gay as he.”<sup>49</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+fantasy often walks hand inand with camp one of the cornerstones of queer culture Susan sag declared in her influential article notes on Camp that camp was a way of looking at things a quality discoverable in objects and the behavior of persons most importantly for this discussion sag observes that camp is essentially role playing taking on the appearance of something that you're not and amping up that depiction to an 11 Camp by focusing on the outward appearance of a role implies that rols and in particular gender roles are superficial a matter of style 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.68-69"%}>
+
+Fantasy often walks hand in hand with camp, one of the cornerstones of gay culture. Susan Sontag declared in her influential article “Notes on ‘Camp’” that camp was “a way of looking at things . . . a quality discoverable in objects and the behavior of persons.”<sup>50</sup> Most importantly for this discussion, Sontag observes that “camp sees everything in quotation marks . . . to perceive Camp in objects and persons is to understand Being-as-Playing-a-Role.”<sup>51</sup> Taking from this, but expressly tying “camp” to the homosexual subculture (which Sontag downplays in her analysis), Jack Babuscio asserts that “camp, by focusing on the outward appearances of role, implies that roles, and in particular, sex roles, are superficial — a matter of style.”<sup>52</sup> Babuscio and others describe how camp was used as a communication device within homosexual culture, as well as a weapon to deconstruct the heterosexual essentialism of the dominant culture.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+the fascination that many gay men have with Disney villains is precisely over how they theatrically perform their gender roles to the point where the naturalness of their gender can be called into question although the vengeful queen in Snow White and the evil sorceress Maleficent and Sleeping Beauty are OB stens gendered female they both wear clothing that completely covers almost every in of their bodies including cowls or hoods that cover their heads only their hands and face are exposed leaving the rest of the body cloaked their faces both have highly defined features etched cheekbones thin sharp noses strongly set Jaws in contrast to the softer designs of the heroins and they also seem to have access to makeup especially mascara and ey Shadow although crille in 101 Dalmations is not clothed like these two characters her facial design fits perfectly into this description in other words these villainesses are drag queens
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.73"%}>
+
+The fascination that many gay men have with Disney villains is precisely over how they theatrically perform their gender roles, to the point where the “naturalness” of their gender can be called into question. Although the vengeful Queen in *Snow White* and the evil sorceress Maleficent in *Sleeping Beauty* (1959) are ostensibly gendered female, they both wear clothing that completely covers almost every inch of their bodies, including cowls or hoods that cover their heads. Only the hands and face are exposed, leaving the rest of the body cloaked. Their faces both have highly defined features (etched cheekbones, thin sharp noses, strongly set jaws) in contrast to the softer designs of the heroines, and they also seem to have access to makeup, especially mascara and eye shadow. Although Cruella de Vil in *101 Dalmatians* (1961) is not clothed like these two characters, her facial design fits perfectly into this description. In other words, these villainesses look like drag queens. Jon Adams, in his reading of Disney villains as queer figures, writes:
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+Maleficent moves with grand sweeps of her cape and long flowing gown and Strikes magnificent diva-like poses it should also be mentioned that all her movements and poses are timed to the highly emotive Melodies of chaikovsky version of Sleeping Beauty a gay composer himself she also gets a number of well-placed piy lines of dialogue she makes a stunning entrance into the celebration of Aurora's birth then regards the Royal pageant as if it were a Kiki W quite a glittering assemblage King Sten she observes coldly royalty nobility the Gentry and she says pausing to notice the three good fairies how qut even the rebel 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.74"%}>
+
+Traditionally, Disney’s animated villains move and speak with enormous style and panache — so much so that they often “steal” the scenes from the supposed leading characters in the stories. In this way, they more overtly “overperform” their gender roles and readily become the targets of camp readings. Like the evil Queen in *Snow White* and the wicked stepmother in *Cinderella* before her, Maleficent moves with grand sweeps of her cape and long-flowing gown, and strikes magnificent “diva"-like poses. It should also be mentioned that all her movements and poses are timed to the highly emotive melodies and rhythms of Tchaikowsky’s version of *Sleeping Beauty* — a homosexual composer of the “romantic” school. She also gets a number of well-placed pithy lines of dialogue. She makes a stunning entrance into the celebration of Aurora’s birth, then regards the royal pageant as if it were a soiree at the Hotel Algonquin in New York City. “Well, quite a glittering assem- blage, King Stephan,” she observes coldly. “Royalty, nobility, the gentry, and . . . ,” she says, pausing to notice the three “good” fairies before adding with a low throaty chuckle, “Oh, how quaint—even the rabble.”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Sleeping Beauty's Maleficent actively Works to spoil two generations of heterosexual coupling the film begins with the convention of a book opening to announce once upon a time during this overtly narrated introduction strong emphasis is placed on procreation particularly on the king and queen's difficulties in having a child the story proper begins with the Countrywide celebration of the birth of the Princess Aurora when Maleficent arrives she is informed quite bluntly you weren't wanted Maleficent retaliates in the the most dramatic way possible by placing a death sentence on the child to be fulfilled on her 16th birthday in this way she attempts to take away the procreative success of the king and queen and kill the princess just at the moment when she herself would be about to explore heterosexual courtship
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.74-75"%}>
+
+As described in chapter 1, Disney’s films increasingly emphasized heterosexual courtship as the studio moved more heavily into narrative and character animation. Fairy tales like “Snow White,” “Cinderella" and “Sleeping Beauty” lent themselves quite easily to this celebration and promotion of heterosexuality. Consequently, on a more basic level, gay culture’s appreciation of Disney villains is a humorous cheering on of those forces within the narrative that disrupt and frustrate heterosexuality’s dominance. *Sleeping Beauty*’s Maleficent actively works to spoil two generations of heterosexual coupling. The film begins with the convention of a book opening to announce “Once upon a time. . . .” During this overtly narrated introduction, strong emphasis is placed on procreation, particularly on the king and queen’s difficulties in having a child. The story proper begins with the countrywide celebration of the birth of the princess Aurora. When Maleficent arrives, she is informed quite bluntly that she is “not wanted.” Maleficent retaliates by placing a death sentence on the child to be fulfilled on her sixteenth birthday. In this way, she attempts to take away the procreative success of the king and queen and kill the princess just at the moment when she herself would be about to explore heterosexual courtship.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+elsewhere in Disney Cannon Cruella Deville is not only a fashion icon who serves Safari realness every single day but she similarly sweeps into every scene like a grand Dom making a stage entrance for an enthusiastic crowd constantly carrying an absurdly long cigarette holder she uses it repeatedly to further overemphasize every gesture and inflection no movement or line of dialogue is subtle or underplayed instead every damn moment is played to the cheap seats whether trying to write out a check for the dalmatian puppies or driving her Roadster down a mountain Road Cruella overdoes everything all these inflections seem to be attempts by the character to show show her astounding Chic and cultured femininity yet in her attempt to be the epitome of feminine glamour she consistently and quite hilariously points out the concept of gender as roleplaying
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.74"%}>
+
+Cruella de Vil similarly sweeps into every scene like a grand dame making a stage entrance for an enthusiastic crowd. Constantly carrying an absurdly long cigarette holder, she uses it repeatedly to further overemphasize every gesture and inflection. No movement or line of di- alogue is subtle or underplayed. Instead, her every moment is “played to the cheap seats.” Whether trying to write out a check for the Dalma- tian puppies or driving her roadster down a mountain road, Cruella overdoes everything. All these inflections seem to be attempts by the character to show her astounding chic and cultured femininity. Yet, in her attempts to be the epitome of feminine glamour (which is why she wants the Dalmatian coat that spurs the narrative), she consistently and quite hilariously points out the concept of gender-as-role-playing.
+
+</from>
+</compare>
+
+Cruella is also a single woman who has a fascination with Anita they
 were friends in the past or at least Cella believed them to be friends but they
 seem to have had a falling out or at least a distancing when Anita went and
 found herself a man a man Cruella truly low one could argue that her desire for
@@ -322,92 +402,123 @@ the Golden Age of Disney movies they could easily adapted Swan Lake and had a
 truly menacing male villain but that lingered in development hell and never got
 made by Disney The Swan Princess from 1994 was actually made by new line Cinema
 even though a lot of people attribute it to Disney same goes for Fox's Anastasia
-in 1997 though I guess Anastasia technically is owned by Disney now H anyway
-back to the Gaze the fishness of Honest John the fox and figuro the cat in
-Pinocchio make them easily read as a gay couple also in Pinocchio there's the
-storyline of young boys being abducted by an older man to be used in shocking
-ways Captain Hook the villain of Peter Pan was a classic case of the [ __ ]
-stereotype so prevalent in movies at the time hook attempts to hide his deviant
-villainy behind the refined airs commonly associated with the English Dandy hook
-speaks and moves fluidly as if every action was high melodrama he also dresses
-the part of a Dandy introduced holding two cigars and a long gold cigarette
-holder he wears a lavender blouse with ruffles later as he prepares for battle
-His companion Shmi helps him Dawn a purplish plumed hat and provides hook with a
-lavender handkerchief to stuff into his shirt sleeve though Cutthroat the
-Pirates under Hook's command are not above singing about the pleasures of being
-a pirate while dancing and waving tiny pirate flags and wiggling their hips in
-precision like chorus girls Shmi is constantly at Hook's side and although Hook
-is the maniacal Master of the relationship Shmi is obviously the emotional rock
-that keeps hook balanced whenever hook encounters the crocodile that took his
-hand he wailes for Shmi like a true Queen while hook battles with Peter Shmi
-loads up the Lifeboat in anticipation of defeat in a most revelatory scene Shmi
-advises hook to hoist anchor and head to Sea you know there treble Brewing on
-the island women treble and he doesn't want any part of that both Honest John
-and Captain Hook are represented as using their culture dandism to hide their
-evil intentions and both are focused on young boys similarly Shir Khan in The
-Jungle Book also moves and speaks in an over civilized manner yet again with the
-intention of luring a young boy away from safety voiced with exceptional
-archness by English actor George Sanders Shir Khan is introduced stalking a
-young deer and when he's interrupted he merely mutters what beastly luck his
-prospects brighten though when he overhears of a young manb who is wandering
-alone in the jungle he whispers to himself how delightful and vows to arrange a
-rendevu with the boy as he searches Through the Jungle he plays the total
-gentleman although K the snake bitterly points out oh who does he think he's
-fooling it looks like shiran isn't as good at playing it straight as he thinks
-unlike honest JN and Captain Hook though shiran does exude serious Menace he is
-not an underling for a more threatening villain as honest JN was and although
-witty he's never portrayed as a buffoon as hook invariably was rather even the
-most Whimsical of the Tigers lines contain an underlying Threat by the time of
-his death in 1966 Walt Disney had already had discussions with the FBI about the
-possibility of making educational films to warn children about the danger of the
-quote homosexual pedophile while it's impossible to draw a direct connection
-between these meetings and the sudden serious villainy of sheer Khan it is easy
-to see how a Disney villain suddenly becoming actually scary and Walt's
-animosity toward the queer Community might have had some connection the LGBT
-community was no longer a silly subgroup to be vilified and made fun of we were
-becoming a louder voice in the growing fight for civil rights which frightened
-conservatives like Walt though he wouldn't live to see it the Stonewall riots
-took place only 2 years after the release of the Jungle Book before his death
-Walt seemed mostly unaware of the queer employees who worked under him there
-were always people at Disney who self-identified as gay yet Society at large
-made most of these people hide their sexual orientation from others things were
-no less secretive during the first half of the Century on the Disney lot than
-anywhere else and with just cause an anecdote from the production of Fantasia
-describes the general attitude towards homosexuality during this time animator
-art babbit recalled I started taking piano lessons after the film opened Walt
-heard about it and in the presence of maybe 50 people at a story meeting he said
-I understand you're studying the piano I said yeah that's true he said well what
-the hell's the matter with you are you some kind of actors weren't immune to
-Walt's homophobia either Tommy Kirk began as a juvenile actor in some of
-Disney's TV shows and films playing one of The Hardy Boys on the Mickey Mouse
-Club and then starring an Old Yeller and the Shaggy Dog the inordinate success
-of both films made Kirk a hot commodity at the studio Kirk himself remembers
-Walt Disney's introducing the youngster to head a hopper as his good luck kid
-when the 1960s started Kirk had become the most promising male actor under
-contract to the studio and was often paired with the Studio's reigning female
-star Anette Funicello Kirk's promising future ended quickly though I was 18 Kirk
-recalled to an interviewer in the 1990s it was around this time that Kirk seemed
-to recall accepting that he was gay yet for a young and easily recognized actor
-during the early 1960s there were very few Avenues to explore this part of his
-personality without adverse attention anyway I was young and I had money he
-recounted I started fooling around and I got involved with a boy we saw each
-other maybe three times once at a public pool in Burbank the boy's parents found
-out and went to see Walt at the studio Kirk was summoned to the studio to speak
-directly with Disney while Kirk tried to stammer out an explanation he was
-informed that his contract had been terminated no criminal charges were placed
-on Kirk and the firing much less the reasons for the firing was never discussed
-in the press such a lack of reaction seems to suggest that the studio dealt with
-both the parents of the other boy as well as the press to keep the story Under
-Wraps when Kirk returned to the Walt Disney Studio in 1984 as a part of the
-Mickey Mouse Club reunion he discovered that his reputation still preceded him
-according to Kirk an employee from Disney's publicity Department told him if I
-had my way all you people would be buried in the same grave after Walt's death
+in 1997 though I guess Anastasia technically is owned by Disney now H 
+
+<compare>
+<james {% include timecode %}>
+
+anyway back to the Gaze the fishness of Honest John the fox and figuro the cat in Pinocchio make them easily read as a gay couple also in Pinocchio there's the storyline of young boys being abducted by an older man to be used in shocking ways Captain Hook the villain of Peter Pan was a classic case of the [ __ ] stereotype so prevalent in movies at the time hook attempts to hide his deviant villainy behind the refined airs commonly associated with the English Dandy hook speaks and moves fluidly as if every action was high melodrama he also dresses the part of a Dandy introduced holding two cigars and a long gold cigarette holder he wears a lavender blouse with ruffles later as he prepares for battle His companion Shmi helps him Dawn a purplish plumed hat and provides hook with a lavender handkerchief to stuff into his shirt sleeve though Cutthroat the Pirates under Hook's command are not above singing about the pleasures of being a pirate while dancing and waving tiny pirate flags and wiggling their hips in precision like chorus girls 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.75-76"%}>
+
+Although Disney’s animated features lean heavily towards female villains, this is not to say that the few male villains do not fit into this paradigm of “queerness.” On the contrary, the foppishness of Honest John the fox and Figaro the cat in *Pinocchio* makes them easily read as a gay couple, as Vito Russo did in *The Celluloid Closet*.<sup>67</sup> Another possible gay couple would be Smee and Captain Hook in *Peter Pan*. As with Honest John, Hook attempts to hide his deviant villainy behind the refined airs commonly associated with the English dandy. Voiced by Hans Conreid, Hook speaks and moves floridly, as if every action was high melodrama. He also dresses the part of a dandy: introduced hold- ing two cigars in a long gold cigarette holder, he wears a lavender blouse with ruffles. Later, as he prepares for battle, his companion Smee helps him don a purplish plumed hat and a deep red velvet coat and provides Hook with a lavender handkerchief to stuff in his shirt sleeve. Though cutthroat, the pirates under Hook’s command are not above singing about the pleasures of being a pirate while doing minuets and then waving tiny pirate flags while they wiggle their hips in precision like chorus girls.<sup>68</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Shmi is constantly at Hook's side and although Hook is the maniacal Master of the relationship Shmi is obviously the emotional rock that keeps hook balanced whenever hook encounters the crocodile that took his hand he wailes for Shmi like a true Queen while hook battles with Peter Shmi loads up the Lifeboat in anticipation of defeat in a most revelatory scene Shmi advises hook to hoist anchor and head to Sea you know there treble Brewing on the island women treble and he doesn't want any part of that 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.76"%}>
+
+Smee is constantly at Hook’s side, and, although Hook is the gruff maniacal master in the relationship, Smee is obviously the steady emotional rock that keeps Hook balanced. Whenever Hook encounters the crocodile that took his hand, he wails like a banshee for Smee. While Hook battles with Peter, Smee loads up the lifeboat in anticipation of defeat. In a most revelatory scene, Smee advises Hook to hoist anchor and head to sea, because there’s “women trouble on the island” and he doesn’t want to have anything to do with it.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+both Honest John and Captain Hook are represented as using their culture dandism to hide their evil intentions and both are focused on young boys similarly Shir Khan in The Jungle Book also moves and speaks in an over civilized manner yet again with the intention of luring a young boy away from safety voiced with exceptional archness by English actor George Sanders Shir Khan is introduced stalking a young deer and when he's interrupted he merely mutters what beastly luck his prospects brighten though when he overhears of a young manb who is wandering alone in the jungle he whispers to himself how delightful and vows to arrange a rendevu with the boy as he searches Through the Jungle he plays the total gentleman although K the snake bitterly points out oh who does he think he's fooling it looks like shiran isn't as good at playing it straight as he thinks
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.76"%}>
+
+Both Honest John and Captain Hook are represented as using their cultured dandyism to hide their evil designs, and both are focused on a young boy. Similarly, the tiger Shere Khan in *The Jungle Book* (1967) also moves and speaks in an “overcivilized” manner, yet again with the intention of luring a young boy from “safety.”<sup>69</sup> Voiced with exceptional archness by English actor George Sanders, Shere Khan is introduced stalking a young deer, and, when he is interrupted, he merely mutters “Beastly luck.” His prospects brighten, though, when he overhears of a “young man cub” who is wandering alone in the jungle. He whispers to himself, “How delightful,” and vows to arrange “a rendezvous” with the boy. As he searches through the jungle, he plays the total gentleman — although Kaa the snake bitterly points out, “Who does he think he’s fooling?”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+unlike honest JN and Captain Hook though shiran does exude serious Menace he is not an underling for a more threatening villain as honest JN was and although witty he's never portrayed as a buffoon as hook invariably was rather even the most Whimsical of the Tigers lines contain an underlying Threat by the time of his death in 1966 Walt Disney had already had discussions with the FBI about the possibility of making educational films to warn children about the danger of the quote homosexual pedophile while it's impossible to draw a direct connection between these meetings and the sudden serious villainy of sheer Khan 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.76-77"%}>
+
+Unlike Honest John and Hook, though, Shere Khan does exude serious menace. He is not an underling for a more threatening villain (as Honest John is). Although witty, he is never portrayed as a buffoon (as Hook invariably is). Rather, even the most whimsical of the tiger’s lines contains an underlying threat. By 1967, when the film was released, Walt had already had his discussion with the FBI about the possibilities of making educational films to warn children about homosexual pe-dophiles. While it is impossible to draw direct correlation between this meeting and the villainy of Shere Khan, the character’s threat might have some connection to the changes that were beginning to occur in American society — changes that seemed to be drawing the younger generation away from traditional values and morals. When Mowgli tries to escape from having to be brought to civilization, he encounters a beach bum bear, a quartet of Liverpudlian vultures and an African- American orangutan (who resides in an ancient city that plainly needs some urban assistance).<sup>70</sup> Mirroring the breakdown of societal conventions that was occurring during the late 1960s, it is unsurprising, then, to find a predatory male with a clipped British accent more frightening than he had been years before.
+
+</from>
+</compare>
+
+it is easy to see how a Disney villain suddenly becoming actually scary and Walt's animosity toward the queer Community might have had some connection the LGBT community was no longer a silly subgroup to be vilified and made fun of we were becoming a louder voice in the growing fight for civil rights which frightened conservatives like Walt though he wouldn't live to see it the Stonewall riots took place only 2 years after the release of the Jungle Book 
+
+<compare>
+<james {% include timecode %}>
+
+before his death Walt seemed mostly unaware of the queer employees who worked under him there were always people at Disney who self-identified as gay yet Society at large made most of these people hide their sexual orientation from others things were no less secretive during the first half of the Century on the Disney lot than anywhere else and with just cause an anecdote from the production of Fantasia describes the general attitude towards homosexuality during this time animator art babbit recalled I started taking piano lessons after the film opened Walt heard about it and in the presence of maybe 50 people at a story meeting he said I understand you're studying the piano I said yeah that's true he said well what the hell's the matter with you are you some kind of
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.99"%}>
+
+Ashman’s award in March of 1992 and that August’s formation of LEAGUE finally acknowledged what had probably been true from al- most the beginnings of the Walt Disney Company—that amongst its employees there existed individuals who self-identified as homosexuals. While such a statement may be specifically hard to document, it is almost as hard to believe that there weren’t any lesbians or gay men working at the studio during Walt’s life. Working in an industry that has traditionally attracted a large number of homosexuals, it only stands to reason that some percentage of the work force was lesbian or gay during Walt’s reign. Yet, society at large made most of these individuals hide their sexual orientation from others. Things were no less secretive during the first half of the century on the Disney lot than anywhere else, and with just cause. An anecdote related to the production of *Fantasia* (1940) describes the general attitude towards homosexuality during this time. Animator Art Babbitt recalled, “I started taking piano lessons. After the film opened, Walt heard about it, and in the presence of maybe fifty people at a story meeting, he said, ‘I understand you’re studying the piano.’ I said, ‘Yeah, that’s true.’ He said, ‘Well, what the hell’s the matter with you; are you some kind of faggot?’”<sup>9</sup>
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+actors weren't immune to Walt's homophobia either Tommy Kirk began as a juvenile actor in some of Disney's TV shows and films playing one of The Hardy Boys on the Mickey Mouse Club and then starring an Old Yeller and the Shaggy Dog the inordinate success of both films made Kirk a hot commodity at the studio Kirk himself remembers Walt Disney's introducing the youngster to head a hopper as his good luck kid when the 1960s started Kirk had become the most promising male actor under contract to the studio and was often paired with the Studio's reigning female star Anette Funicello 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.99-100"%}>
+
+The most notorious example to serve as a warning to gay and lesbian employees of Disney was the case of Tommy Kirk. Tommy Kirk began as a juvenile actor in some of Disney’s TV shows and films — playing one of “The Hardy Boys” on *The Mickey Mouse Club* and then starring in *Old Yeller* (1957) and *The Shaggy Dog* (1959). The inordinate success of both films made Kirk a hot commodity at the studio. Kirk himself remembers Walt Disney’s introducing the youngster to Hedda Hopper as his “good luck kid.”<sup>11</sup> When the 1960s started, Kirk had become the most promising male actor under contract to the studio and was often paired with the studio’s reigning female star, Annette Funi- cello. (Of course, many might choose to remember more fondly his brotherly friendship with James MacArthur in Swiss Family Robinson [1960].)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Kirk's promising future ended quickly though I was 18 Kirk recalled to an interviewer in the 1990s it was around this time that Kirk seemed to recall accepting that he was gay yet for a young and easily recognized actor during the early 1960s there were very few Avenues to explore this part of his personality without adverse attention anyway I was young and I had money he recounted I started fooling around and I got involved with a boy we saw each other maybe three times once at a public pool in Burbank the boy's parents found out and went to see Walt at the studio 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.100"%}>
+
+Kirk’s promising future ended quickly, though. “I was 18 [in 1961],” Kirk recalled to an interviewer in the 1990s. “My body was still growing.” It was around this time that Kirk seems to recall self-identifying as a homosexual. Yet, for a young and easily recognized actor during the early 1960s, there were very few avenues to explore this part of his personality without adverse attention. “I was young, and I had money,” Kirk recounted, “I started fooling around and I got involved with a boy. We saw each other about three times . . . once at a public pool in Burbank. The boy’s mother found out and went to see Walt at the studio.”<sup>12</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Kirk was summoned to the studio to speak directly with Disney while Kirk tried to stammer out an explanation he was informed that his contract had been terminated no criminal charges were placed on Kirk and the firing much less the reasons for the firing was never discussed in the press such a lack of reaction seems to suggest that the studio dealt with both the parents of the other boy as well as the press to keep the story Under Wraps when Kirk returned to the Walt Disney Studio in 1984 as a part of the Mickey Mouse Club reunion he discovered that his reputation still preceded him according to Kirk an employee from Disney's publicity Department told him if I had my way all you people would be buried in the same grave
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.100-101"%}>
+
+Kirk was summoned to the studio to speak directly with Walt. While Kirk tried to stammer out an explanation, he was informed that his contract had been terminated. No criminal charges were placed on Kirk, and the firing (much less the reasons for the firing) was never discussed in the press. Such a lack of reaction seems to suggest that the studio “dealt” with both the parents of the other boy as well as the press to keep the story “under wraps.”<sup>13</sup> Ironically, right after Kirk was let go, Disney brought him back to film *The Monkey’s Uncle* (1964), a sequel to *The Misadventures of Merlin Jones* (1963). During the six weeks of filming, Kirk became painfully aware that many of the people he was working with had heard the rumors. “It was a terrible feeling. I was very uncomfortable, knowing that they were watching me closely.”<sup>14</sup> Although Kirk was subsequently able to land work in a few American-International “beach party” musical comedies (again partnered with Annette Funicello), by the mid-1960s Kirk’s career as an actor was over. A slide into drug dependency and recovery followed until, in 1975, he began a carpet and upholstery cleaning business. When Kirk returned in 1984 to the Walt Disney studio as part of a *Mickey Mouse Club* reunion, he discovered that his reputation still preceded him. According to Kirk, an employee from Disney’s publicity department told him, “If I had my way, all you people would be buried in the same grave.”<sup>15</sup>
+
+</from>
+</compare> 
+
+after Walt's death
 the Disney Company seemed rudderless the new leadership couldn't seem to produce
 the kind of magic Walt had at his prime or even in his waning years that would
 change though in the 1980s with the introduction of the new executive team of
 Michael Eisner Frank Wells and Jeffrey kenberg one of their first Ventures was
 to take Disney into a more adult Realm by creating subsidiaries like Hollywood
-pictures and touchtone entertainment down in out in Beverly Hills was the first
+pictures and touchtone entertainment 
+
+down in out in Beverly Hills was the first
 R-rated film Disney ever released B Midler swears throughout the film and
 screams so loudly during an orgasm that everyone in the entire household hears
 also included are scenes of Midler's husband played by Richard dfus and their
@@ -415,7 +526,9 @@ house guest Nick Noti having sex with the Latina Maid of the house and there are
 overt hints that the son of the family is gay older Disney Executives gritted
 their teeth but the film went on to make $62 million in 1986 that's $148 million
 today following in the film's footsteps Ruthless People was another runchy
-comedy with B Midler that went on to take in$ 71.6 million Thomas pasiteri an
+comedy with B Midler that went on to take in$ 71.6 million 
+
+Thomas pasiteri an
 openly gay composer and orchestrator who arranged scores for some of Disney's
 films at the time described the music department as so gay friendly that when
 one straight artist was let go from a project he threat threatened to sue the
