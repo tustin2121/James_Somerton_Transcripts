@@ -25,10 +25,10 @@ cite:
     hp1: { short: "Philosopher's Stone (Heyman, 2001)", full: "Heyman, D. (Producer). Columbus, C. (Director). (2001). <em>Harry Potter and the Philosopher's Stone</em> [Film]. Warner Bros. Pictures, Heyday Films, 1492 Pictures." }
     hp5: { short: "Order of the Phoenix (Heyman, 2007)", full: "Heyman, D., Barron, D. (Producers). Yates, D. (Director). (2007). <em>Harry Potter and the Order of the Phoenix</em> [Film]. Warner Bros. Pictures, Heyday Films." }
     fb1: { short: "Fantastic Beasts (Heyman, 2016)", full: "Heyman, D., Rowling, J.K., Kloves, S., Wigram, L. (Producers). Yates, D. (Director). (2016). <em>Fantastic Beasts and Where to Find Them</em> [Film]. Warner Bros. Pictures, Heyday Films." }
-    thatcher: { short: "Thatcher", full: "TODO thatcher speaking somewhere" }
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    thatcher: { color: 1, short: "Margret Thatcher", full: "Labour Party (2018, Feb 28). <em>Here's what Section 28 was all about</em> [Video]. Labour Party, United Kingdom. YouTube. Retrieved Feb 19, 2024, from", url: "https://www.youtube.com/watch?v=pw8y6ufoaLY", archive: "https://web.archive.org/web/20240219161410/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
@@ -193,19 +193,36 @@ There was no protection for sexual orientation in England until 2003, so at the 
 
 </james>
 <from></from>
+{% assign timecode = "7:47" %}
 <james {% include timecode %}>
 
 In the 1980s, the Thatcher government was almost as hesitant as the Reagan government to acknowledge the AIDS epidemic.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.thatcher %}>
+</compare>
+
+<compare class="visual">
+<visual {% include citation for=page.cite.plagiarized.thatcher %}>
+
+James steals a clip from a (now unlisted) [Labour Party video on Section 28](https://www.youtube.com/watch?v=pw8y6ufoaLY), which is about censorship about LGBT issues in schools rather than AIDS.
+
+</visual>
+<visual-line></visual-line>
+<clip visual={{ page.cite.plagiarized.thatcher.color }} on="0:00" off="0:09" {% include citation for=page.cite.plagiarized.thatcher %}>
 
 <u>[As she speaks, the below called out quoted words appear on screen next to her head.]</u>
 
 Margaret Thatcher: "Children <q>who need to be taught to respect traditional moral values</q>, are <q>being taught that they have an inalienable right to be gay</q>."
 
 </clip>
+<comment {% include commenter for=tustin %}>
+
+Hilariously, in using this specific clip with the words showing on screen, he pinpointed exactly where he got the clip from. If he had just used a regular 4:3 clip of her speaking, without any of the typography effects, it could probably be considered public domain and not stealing. This clip of her saying these words is *everywhere*.
+
+Also, James, WHY did you crop in the video, thus cutting off the first line of the words she's saying?! For what reason?! So you wouldn't get caught?! Because it backfired! We were literally about to write it off as "yeah, he probably added those words himself" but I was like "wait, no, why not include *all* the words then??!"
+
+</comment>
 </compare>
 
 <compare>

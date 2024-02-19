@@ -118,10 +118,10 @@
 	}
 	
 	/* Visual Blocks */
-	.visual compare {
+	.visual compare, compare.visual {
 		grid-template-columns: [j-start n-start] 1fr [v-start] 1fr [j-end n-end mid-start] 5ch [mid-mid mid-end f-start] 1fr [v-end] 1fr [f-end];
 	}
-	.visual compare visual {
+	.visual compare visual, compare.visual visual {
 		grid-column: v-start / v-end;
 		border-color: var(--source-color);
 	}
