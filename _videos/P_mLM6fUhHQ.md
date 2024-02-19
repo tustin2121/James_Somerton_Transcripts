@@ -63,6 +63,7 @@ cite:
       short: "(DaVega, 2016)"
       full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
       url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
+      archive: "https://web.archive.org/web/20240219184030/"
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
@@ -102,8 +103,11 @@ cite:
           full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
         semiotic:
-          full: "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book)."
-          url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          full: "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus."
+          # url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          url: "http://www.tc.umn.edu/~rbeach/teachingmedia/module4/4.htm"
+          archive: "https://web.archive.org/web/20130302070542/"
+          offline: true
     plato_stanford: { color: 2, short: "Stanford Encyclopedia (Pickett, 2020)", full: "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", url: "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/" }
     gay_erased: 
       color: 5
@@ -739,7 +743,7 @@ But why is it so hard to believe that a Viking society, who believed that a god 
 <compare>
 <james {% include timecode %}>
 
-And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
+And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark stat:id="malaprop" fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
 
 </james>
 <comment id="torrid">
