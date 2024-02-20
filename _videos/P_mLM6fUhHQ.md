@@ -38,6 +38,8 @@ contributors:
     - $cite$penguinstorage
   citation:
     - $ref$sobbing$https://discord.com/channels/1180822793420554241/1180822793420554244/1207300957063618650
+  factcheck:
+    - "[HardyRoach](https://discord.com/channels/224921177532006400/1181019607604133938/1209464594834395157) from the HBomberGuy Discord"
 
 recs:
   - { title: "New Queer Cinema: The Director's Cut", author: "B. Ruby Rich", url: "https://www.jstor.org/stable/j.ctv11hpp0s", desc: "The author that James third-hand plagiarized about in this video." }
@@ -63,6 +65,7 @@ cite:
       short: "(DaVega, 2016)"
       full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
       url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
+      archive: "https://web.archive.org/web/20240219184030/"
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
@@ -102,8 +105,11 @@ cite:
           full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
         semiotic:
-          full: "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book)."
-          url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          full: "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus."
+          # url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          url: "http://www.tc.umn.edu/~rbeach/teachingmedia/module4/4.htm"
+          archive: "https://web.archive.org/web/20130302070542/"
+          offline: true
     plato_stanford: { color: 2, short: "Stanford Encyclopedia (Pickett, 2020)", full: "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", url: "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/" }
     gay_erased: 
       color: 5
@@ -135,7 +141,7 @@ cite:
             _desc_: "which summarizes..."
             _: { full: "Rich, B.R. (1992, Sep). New Queer Cinema [Article]. In <em>Sight & Sound Magazine</em> (September 1992 issue). (Originally published in <em>The Village Voice</em>, 1992.) Retrieved Feb 14, 2024, from", url: "https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/features/new-queer-cinema-b-ruby-rich" }
     mako_visual: { color: 12, short: "Mako x Wu (MoonFlower, 2020)", full: "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", url: "https://www.youtube.com/watch?v=1c-Km4I4bqA" }
-    visual_composition: { color: 13, short: "", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
+    visual_composition: { color: 13, short: (The Cinema Cartography, 2016)"", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
     thumbnail: { color: 1, short: "Artwork (ewasarts, 2017)", full: "ewasarts (Artist). (2017, Jul 22). <em>Stormpilot</em> [Artwork]. Retrieved Jan 29, 2024, from", url: "https://www.deviantart.com/ewasarts/art/Stormpilot-694082207" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -713,18 +719,29 @@ Or even something like The Lovers Of Me'dia<sup>1</sup>, petrified, holding hand
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And speaking of roommates, what about the *inexplicable mysteries* we will never *truly know the answers to*, like why [Lady Elanor Butler and Sarah Ponsonby](https://en.wikipedia.org/wiki/Ladies_of_Llangollen) would run away from their marriage arrangements, moved <del>to</del> Wales, and adopt a small dog they affectionately named... *Sapphos*. (Mysteries... we will never know...)
 
 And what about Abraham Lincoln, <mark fc=false>who shared his bed with his bodyguard for his entire tenure in The White House.</mark> Surely it was just a matter of different times. Times were different back then. Men expressed manliness in different ways! It was just different times, folks! Different times! No homo president!
 
 </james>
-<comment id="lincoln">
-{% include header for=lvence %}
+<comment {% include commenter for=lvence %}>
 
 There is an entire article [about Lincoln and his bodyguard](https://quod.lib.umich.edu/j/jala/2629860.0027.205/--did-abraham-lincoln-sleep-with-his-bodyguard-another-look-at?rgn=main;view=fulltext). At the very least, James is wrong about them sharing a bed for Lincoln's whole tenure in office. C. A. Tripp, the original author of this claim, states Derrickson was Lincoln's companion from September 1862 to April 1863.
 
+</comment>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209464594834395157" %}>
+<details>
+<summary>This bit gets on my nerves as a former historian.</summary>
+
+Yes there are instances in which historians have been willfully obtuse about the presence of a possibly homosexual relationship. But this flippant, sarcastic "oh lol things were different back then SUUUUUUURE" is just idiocy. Yes, things were different. The past is a foriegn country with extremely different cultural and social expectations and assumptions. If you go into reading history with a purely modern mindset you will constantly misread stuff. Reading primary sources requires a huge amount of contextual understanding to avoid this kind of shoddy assumption.
+
+The more modern reason why it's rare for historians to make confident judgements on the sexuality of historical figures is that there's rarely enough evidence to be remotely confident about it. Turns out people didn't write down "yes I like having sex with men" in a time when A. Even the concept of homosexuality was not culturally common, and B. Admitting to it could end your career and very probably your life.
+
+[...] There are occasional cases where it's pretty cut and dry. But most of the time it can only ever be speculation based on limited evidence, and generally speaking idle speculation is to be avoided in academic work. In the worst case it's speculation based on a limited understanding of cultural context, like with Lincoln. Surprise, people didn't have so many hangups about sharing beds in a time where central heating didn't exist (for most people) and families commonly all lived in one room. 
+
+</details>
 </comment>
 <james {% include timecode %}>
 
@@ -739,7 +756,7 @@ But why is it so hard to believe that a Viking society, who believed that a god 
 <compare>
 <james {% include timecode %}>
 
-And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
+And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark stat:id="malaprop" fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
 
 </james>
 <comment id="torrid">
@@ -857,13 +874,18 @@ Though an interesting observation of our own recorded history is how casually hi
 
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Food for thought: the term "companion" in history almost *always* was used to describe romantic or sexual relations,<sup cn></sup> not "buds" or "gal pals". That's why the movie *Long-Term Companion* is called that and not "Long-Term Friend With Benefits". 
 
 It's almost as if our ancestors never really expected homophobia or sex-phobia to be a serious issue. Instead we have to dig through implications, through innuendo, through double-entendres that were meant to be dirty jokes, that somehow survived over centuries, but whose double meanings can be dismissed as... just being from a different time. We have to dig. Maybe not because our ancestors saw same-sex relations and gender non-conformity as *shameful*. But instead because they took all of it completely for granted.
 
 </james>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209467570315329617" %}>
+
+This is complete ahistorical nonsense.
+
+</comment>
 <from></from>
 </compare>
 
@@ -961,11 +983,16 @@ James talks as though this is all in the past but [at least 40 countries worldwi
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 This is a pivotal distinction in how sexuality was observed before and after the development of clinical psychology. But extrapolate this mindset to pre-Christian societies, which had *no* stigma against queerness, and you kind of get this fantasy land where... people are people and sometimes they like men, and sometimes they like women, and... some cultures also didn't really care much for the distinction between *either of those either*. 
 
 </james>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209468808973131818" %}>
+
+This whole section [this box and the next four] is using a few legal technicalities to present historical societies as substantially more egalitarian than they actually were. Classic first-year history student stuff.
+
+</comment>
 <from></from>
 <james {% include timecode %}>
 

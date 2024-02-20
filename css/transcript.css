@@ -118,10 +118,10 @@
 	}
 	
 	/* Visual Blocks */
-	.visual compare {
+	compare:has(visual-line) {
 		grid-template-columns: [j-start n-start] 1fr [v-start] 1fr [j-end n-end mid-start] 5ch [mid-mid mid-end f-start] 1fr [v-end] 1fr [f-end];
 	}
-	.visual compare visual {
+	compare:has(visual-line) visual {
 		grid-column: v-start / v-end;
 		border-color: var(--source-color);
 	}
@@ -147,6 +147,7 @@
 	}
 	compare visual-line span a {
 		text-wrap: nowrap;
+		white-space: nowrap;
 	}
 	compare visual-line span.on {
 		border-top: var(--source-color) 2px solid;
@@ -161,7 +162,7 @@
 	}
 
 	@media (max-width: 800px) {
-		.visual compare {
+		compare:has(visual-line) {
 			grid-template-columns: [j-start n-start] 1fr [v-start] 3fr [j-end n-end mid-start] 8px [mid-mid mid-end f-start] 3fr [v-end] 1fr [f-end];
 		}
 		compare visual-line {
