@@ -52,124 +52,81 @@ This video contains copyrighted material. The use of which has not always been s
 
 {% include transcript-start %}
 
-and now our feature [Music] presentation on November 8th 2018 Disney's CEO Bob
-Iger announced Disney's latest World conquering Venture Disney plus a Digital
-streaming service dub a Netflix Killer by many in the media that would make
-almost all of Disney's content streamable in one place not you we don't talk
-about you big draws to the service were announcements of original series
-focusing on Disney's Marvel and Star Wars brands with Falcon and the Winter
-Soldier W division Loki and the Mandalorian being revealed though only the
-Mandalorian had a planned release date anytime soon alongside the Disney owned
-Brands would live content from companies the mouse had recently AC acquired
-namely 20th Century Fox the Frau bio to Fox had played out in entertainment
-reporting for months with most of the internet being in favor of the potential
-ever growing Monopoly since it would mean Marvel's X-Men and Fantastic 4 would
-be under the watchful eye of Kevin feige at Disney but along with the mutants
-Disney acquired hundreds of other properties from Fox including The Rocky Horror
-Picture Show which they've duy ignored ever since and the film writes to the
-novel Simon versus the homo sapien agenda by Becky albertal a young adult novel
-about a teenage gay romance that had been adapted into a hit film earlier that
-year unlike Rocky Horror Disney saw potential with love Simon's family-friendly
-representation of gay teens and announced a sequel streaming series as one of
-its main hooks to Disney plus you see Disney fully intended their streaming
-service to compete with Netflix the dominant force in the streaming game since
-it became a thing and something Netflix had become well known for was their LGBT
-inclusive content whether it was original shows like Orange is the New Black
-sense8 Shira and the princesses of power and Grace and Frankie or their
-extensive library of queer films Netflix had pretty much cornered the LGBT
-streaming market and Disney wanted a piece of it according to the Hollywood
-Reporter Disney has a massive amount of data pointing toward them being
-incredibly popular among the LGBT community and so they wanted to play into that
-by creating love Victor the company pushed Disney Plus's annual subscription
-early on locking audiences into a full Year's worth of membership before the
-vast majority of their original content had even begun production and one of its
-big selling points was the diversity representation of Love Victor according to
-Market Research approximately 3.5 million initial subscribers to Disney plus
-were LGBT obviously love Victor wasn't the sole reason reason for these people
-subscribing but I'm willing to bet that it certainly helped boost those numbers
-Disney plus went live in November of 2019 with the Mandalorian being their only
-major draw casting and production news surrounding love Victor had regularly
-trended on social media and the upcoming series was considered Disney's Next
-safe bet after the Mandalorian ran its course but then in February of 2020
-things changed Disney announced that love Victor would not be appearing on
-Disney plus despite selling people on it from the very beginning instead it
-would stream on the also Disney owned Hulu a service with half as many
-subscribers and one not available almost anywhere outside the United States
-their reasoning deadline reported that Executives at Disney thought love Victor
-wasn't familyfriendly enough for the brand I wonder what wasn't familyfriendly
-enough about it one needs to ask what would it have meant for a generation of
-queer kids to see a show representing them on a Disney platform you don't get
-much more mainstream than Disney that might have given hope to queer kids who
-are held down by their homophobic or transphobic families or communities and
-while many queer youth avoided love Simon in theaters for fear of being spotted
-seeing a gay movie This TV sequel could have allowed them to take in a cute gay
-teen comedy from the comfort of their own laptop or phone a possibility made all
-the more likely with how popular love Simon has been on streaming with Disney
-Plus in almost 50 million households by the time love Victor was released this
-June that would have been a gigantic potential audience but Hulu isn't in as
-nearly many homes it isn't nearly as mainstream Disney had the opportunity to
-say to those gay kids your stories are as good as anyone else's but now by
-shafting it over to Hulu the mouse has unequivocably said you don't belong here
-according to Hulu love Victor was its most binged show of 20120 which is pretty
-impressive considering how we've all been locked up with little more to do then
-stream TV shows so not only did Disney segregate the queer audience to a smaller
-platform but it missed out on a hit series something the service is in desperate
-need of with data showing that aside from the Mandalorian none of Disney Plus's
-original content has been a hit when Disney made the announcement that love
-Victor was being sent to Hulu I was frustrated but not shocked I was frustrated
-that even in 2020 queer people aren't considered familyfriendly enough for
-Disney but I wasn't shocked because Disney has an out and proud history of using
-and abusing the LGBT community for its own means in order to talk about that
-we'll need to discuss Disney's prolific history of queer coding villains
-straight washing Heroes and pandering to the LGBT community just to ignore us
-once they have our [Music] money 
+<compare>
 
-gay culture has always held the Disney UA in
-high regard but why exactly to say that Disney was queer coding in the early
-days would be a bit disingenuous I hardly believe that good old Uncle Walt hater
-of all things subversive would insert queer coded messages into his early
-animated films although six hairy men in one twink living together is a bit
-suspect but queer readings of Disney films are possible and quite well known
-really it all comes down to Fantasy 
+<clip> 
+
+And now, our feature presentation. (https://www.youtube.com/watch?v=ZwICzrnyFoI)
+
+</clip>
+</compare>
 
 <compare>
-<james {% include timecode %}>
+<credits class="opening">
 
-queer culture particularly gay male culture has long held a fascination with fantasy the close Association of gay men to the world of fantasy has attributed to some of the most most common insults for gay men in Western culture fairy queen and princess while elaborating on what constitutes a gay sensibility Michael bronsky LGBT historian stresses the importance of imagination imagination is especially threatening to a culture that repressively and rigidly defines gender roles because it can provide an alternative Vision to the real world therefore fantasy contains a a possible critique of dominant heteronormative culture as well as allowing for a proxy to exist one of the reasons young fantasy fans have been expected to grow out of the genre for decades with LGBT people living every day as an alternative to dominant culture ties to Fantasy seem inevitable 
+> <h3>Evil Queens</h3>
+> <h4>Disney's Queer Cold War</h4>
+> <h5>Based on the book</h5>
+> <h5>Tinker Belles and Evil Queens</h5>
+> <h5>By Sean Griffin</h5>
 
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.62-63"%}>
-
-Homosexual culture (particularly gay male culture) has long held a fascination with fantasy. The close association of gay men to the world of fantasy has contributed to some of the most common epithets for homosexuals in Western culture: “fairy,” “queen” and “princess.” Michael Bronski, elaborating on what constitutes a “gay sensibility,” stresses the importance of imagination to this sensibility: “Imagination is especially threatening to a culture that repressively and rigidly defines gender roles . . . because it can provide an alternative vision to the ‘real’ world.”<sup>40</sup> Hence, fantasy contains a possibile critique of dominant society, as well as a picturing of an alternative. With self-identified lesbians and gay men living every day as an alternative to dominant culture, ties to fantasy seem logical.
-
-</from>
+</credits>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-although not necessarily evoking a world of gender fluidity fantasy is often described as a method of escape from the trials and tribulations of everyday reality living in a society that has outlawed homosexual desire categorized it as a medical disease labeled it as a sin against God and allowed and often encouraged violent acts against LGBT people queer culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide heroes or heroins rise above their stations rewarded for all their hardship and vilification by finding Prince Charming Andor being crowned as royalty others leave their drab and shabby existence and find a fascinating otherw World in which Anything is Possible the second scenario is the basis for one of the key texts of queer culture the film version of The Wizard of Oz from 1939 in the narrative an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seems to 
+On November 8, 2018, Disney's CEO Bob Iger announced Disney's latest world conquering venture, Disney Plus. A digital streaming service, dubbed a "Netflix killer" by many in the media, that would make almost all of Disney's content streamable in one place. 
+
+<u>[The DVD cover of *Song of the South* appears.]</u> Not you, we don't talk about you!
+
+Big draws to the service were announcements of original series focusing on Disney's Marvel and Star Wars brands, with *Falcon and the Winter Soldier*, *WandaVision*, *Loki*, and *The Mandalorian* being revealed, though only *The Mandalorian* had a planned release date anytime soon. Alongside the Disney owned brands would live content from companies the mouse had recently acquired, namely 20th Century Fox. The fraught buyout of Fox had played out in entertainment reporting for months with most of the Internet being in favor of the potential ever growing monopoly, since it would mean Marvel's X-Men and Fantastic 4 would be under the watchful eye of Kevin Feige at Disney.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.63"%}>
+<from></from>
+</compare> 
 
-Although not necessarily evoking a world of polymorphous perversity, fantasy is often described as a method of escape from the tri- als and tribulations of everyday reality. Living in a society that has outlawed homosexual desire, categorized it as a medical disease, labeled it as a sin against God and allowed (and often encouraged) violent retribution against homosexuals, homosexual culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide. Heroes or heroines rise above their station—rewarded for all their hardship and vilification by finding Prince Charming and/or being crowned as royalty. Others leave their drab and shabby existence and find a fascinating other world in which anything is pos- sible. This second scenario is the basis for one of the key texts in homosexual culture, the film version of Frank L. Baum’s *The Wizard of Oz* (1939). In the narrative, an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seem to do. Although Dorothy, the main character, consistently declares her desire to “go home,” almost every viewer (gay or otherwise) enjoys the film not for the sepia-toned representa- tion of Kansas but for its breathtaking creation of a three-strip Technicolored Oz.
+<compare>
+<james {% include timecode %}>
 
-</from>
+But along with the mutants, Disney acquired *hundreds* of other properties from Fox including, *The Rocky Horror Picture Show*, which they've duly ignored ever since, and the film rights to the novel *Simon vs. the Homo Sapien<sup class="add">[sic: Sapiens]</sup> Agenda* by Becky Albertali, a young adult novel about a teenage gay romance that had been adapted into a hit film earlier that year. Unlike *Rocky Horror*, Disney saw potential with *Love, Simon*'s family-friendly representation of gay teens and announced a sequel streaming series as one of its main hooks to Disney Plus. 
+
+</james>
+<from></from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-funnily enough Walt Disney fought hard to get the film rights to
-The Wizard of Oz but failed he would rarely let the rights to something he
-wanted slip through his fingers ever again 
+You see, Disney fully intended their streaming service to compete with Netflix, the dominant force in the streaming game, since it became a thing, and something Netflix had become well known for was their LGBT inclusive content. Whether it was original shows like *Orange is the New Black* *Sense8*, *She-Ra and the Princesses of Power*, and *Grace and Frankie*, or their *extensive* library of queer films, Netflix had pretty much cornered the LGBT streaming market. And Disney wanted a piece of it. According to *The Hollywood Reporter*, Disney has a massive amount of data pointing toward them being *incredibly* popular among the LGBT community.<sup cn></sup> And so, they wanted to play into that by creating *Love, Victor*. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The company pushed Disney Plus's annual subscription early on, locking audiences into a full year's worth of membership before the vast majority of their original content had even begun production, and one of its big selling points was the diversity representation of *Love, Victor*. According to market research, approximately 3.5 *million* initial subscribers to Disney Plus were LGBT.<sup cn></sup> Obviously, *Love, Victor* wasn't the sole reason reason for these people subscribing, but I'm willing to bet that it certainly helped boost those numbers.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Disney Plus went live in November of 2019, with *The Mandalorian* being their only major draw. Casting and production news surrounding *Love, Victor* had regularly trended on social media, and the upcoming series was considered Disney's next safe bet after *The Mandalorian* ran its course. 
+
+But then, in February of 2020, things changed. Disney announced that love Victor would not be appearing on Disney Plus, despite selling people on it from the very beginning. Instead, it would stream on the also Disney-owned Hulu, a service with half as many subscribers, and one not available almost anywhere outside the United States. Their reasoning? *Deadline* reported that executives at Disney thought *Love, Victor* wasn't family friendly enough for the brand. I wonder what wasn't family friendly enough about it...? 
 
 </james>
 <from></from>
 <comment>
 
-Okay, I spent a while tracking this down. I found this claim on a fandom site and a blog site and tracked it down to Wikipedia. I looked at the citation for the Wikipedia claim, which is a 1990 documentary on the making of *The Wizard of Oz*. The narrator, Angela Lansbury, says that the production of the movie was influenced by the success of Disney's *Snow White* and that MGM bought the rights in 1938, but there's no mention of Disney trying to buy the rights at that time, though Disney would buy the rights to the rest of Baum's *Oz* books in the 50s and make several adaptations of their own over the years. So unless there's actually proof out there somewhere, I don't think this is true.
+Small note that in February 2020, [Disney Plus](https://variety.com/2021/tv/news/disney-plus-100-million-subscribers-worldwide-1234925654/) and [Hulu](https://www.statista.com/statistics/258014/number-of-hulus-paying-subscribers/) had similar numbers of subscribers, though by Fall 2020 Disney Plus did have about twice as many subscribers.
+
+James seems to be referring to [this](https://deadline.com/2020/02/love-simon-spinoff-series-love-victor-moves-from-disney-to-hulu-premiere-date-opens-season-2-writers-room-1202866549/) article, though he never shows it.
 
 </comment>
 </compare>
@@ -177,115 +134,7 @@ Okay, I spent a while tracking this down. I found this claim on a fandom site an
 <compare>
 <james {% include timecode %}>
 
-another narrative strand in Disney's films that would have a great appeal to the queer Community is the tale of the outsider throughout the Studio's history Disney has consistently returned to the stories about characters who don't fit in to society unlike the heroins of lfrank bomb's Oz these characters do not find another world to escape to and must confront their ostracization rebuffed by The Gatekeepers of what is normal and decent these rejects eventually find acceptance and Happiness by discovering a use for those aspects of themselves that were originally thought to be deficient or abnormal Hans Christian Anderson now recognized as gay himself provided what is probably the archetypal version of the story The Ugly Duckling which was adapted by Disney twice in 1930 and again in 1939 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64"%}>
-
-Another narrative strand in Disney’s films that would have a great appeal to homosexual subjects is the tale of the “outsider.” Throughout the studio’s history, Disney has consistently returned to stories about characters who don’t “fit in” to society. Unlike the heroines of Carroll and Baum, these characters do not find another world to escape to and must confront their ostracization. Rebuffed by the upholders of what is normal and decent, these “rejects” eventually find acceptance and hap- piness by finding a use for those aspects of themselves that were origi- nally thought to be deficient or “abnormal.” Hans Christian Andersen, now recognized as homosexual himself, provided what is probably the archetypal version of the story, “The Ugly Duckling,” which was filmed by Disney twice—in 1930 and again in 1939. Other versions of this type of story can be found in *Morris, the Midget Moose* (1950), *Lambert, the Sheepish Lion* (1952), *Goliath II* (1960), and the very popular feature film *Dumbo* (1941)
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-there are two early Disney shorts about Outsiders though that are more easily read as specifically gay texts and delightfully affirming of otherness the first of these is the Oscar winning short Ferdinand the Bull from 1937 the cartoon tells the story of a young bull who is content to spend his life just sitting quietly and smelling the flowers rather than going after other more conventionally masculine Pursuits while Ferdinand has never shown having romantic interest in another bull the character's quiet affection for flowers Associates him with images of gay men in American culture at the time you see in the 1920s and 30s gay men were frequently referred to as pansies or buttercups 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64-65"%}>
-
-There are two Disney texts about outsiders, though, that are more easily read as specifically “gay” texts and delightfully affirming of “otherness.” The first of these is the Oscar-winning short *Ferdinand the Bull* (1937). With backgrounds depicting a constantly sunny Spain, the cartoon tells the story of a young bull who is content to spend his life “just sitting quietly and smelling the flowers” rather than pursuing other more conventionally masculine pursuits. While Ferdinand is never shown having sexual interest in another bull, the character’s quiet affection for flowers associates him with images of homosexuals then current in American culture. In the 1920s and ’30s, gay men were frequently referred to as “pansies” or “buttercups,” and certain flowers, such as green carnations, had been secret symbols of one’s sexual inter- ests since the days of Oscar Wilde.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-interestingly the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires although his mother wants to know why he doesn't want to run and leap and butt heads like the other young Bulls she accepts her son's lifestyle without much second thought Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him on the contrary the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly neither the narrator nor the visual design of the film ever judge Ferdinand is somehow wrong rather there's a bemused acceptance of ferdinand's attitude 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65"%}>
-
-Interestingly, the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires. Although his mother wants to know why he doesn’t want to run and leap and butt heads like all the other young bulls, she accepts her son’s “lifestyle” without much second thought. Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him. On the contrary, the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly. Neither the narrator nor the visual design of the cartoon ever judge Ferdinand as somehow wrong in his choice. Rather, there is a bemused acceptance and delight in Ferdinand’s attitude.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-this delight and acceptance of an effeminate male recurs in The Reluctant Dragon 1941 if anything the eminency of the titular Reluctant Dragon is even more pronounced than ferdinand's like the bull the dragon Sports long emotive eyelashes and contains not an aggressive bone in his body with the dragon prancing and pouting throughout the story yet unlike the bull the dragon has a voice now boy now boy just run along tell the child to go home a high pitched masculine voice with the accent of an English Dandy in fact the dragon's long black fluffy ears often droop around the sides of his face in an approximation of Oscar wild rather than fight battles with knights this Dragon wants to play music hold high tea and write poetry at one point the dragon is specifically referred to as a punk poet at a time when the common slang definition for Punk was homosexual male this phrase is repeated about five times in one 15-second period of the short one of his poems owed to an upside down cake is filled with double on Tandra about sexual revers 
-
-> "Sweet little upside down cake, cares and woes — you got ’em
-
-> Poor little upside-down cake, your top is on your bottom.
-
-> Alas, little upside-down cake, your troubles never stop.
-
-> Because, little upside-down cake, your bottom’s on your top!"
-
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65-66"%}>
-
-This delight and acceptance of an effeminate male reoccurs in *The Reluctant Dragon* (1941). If anything, the effeminacy of the Reluctant Dragon in the title segment of the anthology film is even more pronounced than Ferdinand’s. Like the bull, the dragon sports long emotive eyelashes and contains not an aggressive bone in his body, with the dragon prancing and pirouetting throughout the story. Yet, unlike the bull, the dragon has a voice — a high-pitched masculine voice with the accent of an English dandy. In fact, the dragon’s long black fluffy ears often droop around the sides of his face in an approximation of the English dandy Oscar Wilde. Rather than fight battles with knights, this dragon wants to play music, hold high tea and write poetry. At one point, the dragon is specifically referred to as a “punk poet,” at a time when the common slang definition for “punk” was “homosexual male.” (This phrase is repeated about five times in one fifteen second period of the film.) One of his poems, “Ode to an Upside-Down Cake,” is fraught with double entendre about sexual reversal:
-
-> Sweet little upside down cake, cares and woes—you got ’em
-
-> Poor little upside-down cake, your top is on your bottom.
-
-> Alas, little upside-down cake, your troubles never stop.
-
-> Because, little upside-down cake, your bottom’s on your top!"
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-a young boy who fancies himself an expert on Knights and Dragons warns the dragon that a knight has been hired by the town thinking that the dragon is as ferocious as the Legends tell but both the boy and the dragon are surprised to find that the Knight or Giles is as much a tea lover and poetry writer as the dragon is the cartoon introduces both figures similarly caught taking baths by the boy and their figures contrasting sharply with the manly heroic illustrations contained in the boy's book
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
-
-A young lad who fancies himself an expert on knights and dragons warns the dragon that a knight has been hired by the town, thinking that the dragon is as ferocious as the legends tell, but both the lad and the dragon are surprised to find that the knight, Sir Giles, is as much a tea lover and poetry writer as the dragon is. The cartoon introduces both figures similarly — caught taking baths by the lad, and their figures contrasting sharply with the manly heroic illustrations contained in the lad’s book.
-
-</from>
-</compare> 
-
-<compare>
-<james {% include timecode %}>
-
-sir Giles and the dragon agree to Stage a mock battle in order to please the town the battle consists of hiding in caves or in Smoke and dust where the two have tea and at one point Walt with each other while yelping and Howling for the benefit of the audience
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
-
-Sir Giles and the dragon agree to stage a mock battle in order to please the town. The battle consists of hiding in caves or in smoke and dust—where the two hold tea and, at one point, waltz with each other, while yelping and howling for the benefit of the audience. Although the town has ostensibly hired the knight to kill the dragon, the townspeo- ple watching the battle root for both sides as if it were a sporting event. When the dragon pretends to be killed, it seems that the town is in on the ruse. The story ends with the narrator intoning, “Having reformed the dragon, the satisfied villagers welcomed him into society,” as the film shows the dragon being toasted to by the town.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-there is no mistaking how the film makes fun of the dragon's mincing Manner and prissy pretensions yet the film also makes it quite clear that the dragon does not believe in fighting and the film doesn't specifically make fun of him for that made just before the Japanese attack on Pearl Harbor many in the United States were also trying to keep from fighting and consequently would not quickly dismiss the dragon strongly held beliefs just as in Ferdinand the Bull The Reluctant Dragon presents an easily red gay character under the guise of fantasy and shows characters accepting him as he is
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
-
-There is no mistaking how the film makes fun of the dragon’s mincing manner and prissy pretensions. Yet, the film also makes it quite clear that the dragon does not believe in fighting, and the film doesn’t specifically make fun of him for that. Made just before the Japanese attacked Pearl Harbor, many in the United States were also trying to keep from fighting and, consequently, would not quickly dismiss the dragon’s strongly held beliefs. Just as in *Ferdinand the Bull*, *The Reluctant Dragon* presents an easily read gay character under the guise of fantasy and shows characters accepting him as he is.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-these fantasies of acceptance earned Walt Disney a lot of Praise in the early days of animation showing children that it's okay to be a little different but children weren't the only people partaking in these fantasies 
+One needs to ask, what would it have meant for a generation of queer kids to see a show representing them on a *Disney* platform? You don't get much more mainstream than Disney. That might have given hope to queer kids who are held down by their homophobic or transphobic families or communities. And while many queer youth avoided *Love, Simon* in theaters for fear of being spotted seeing a gay movie,<sup cn></sup> this TV sequel could have allowed them to take in a cute gay teen comedy from the comfort of their own laptop or phone. A possibility made all the more likely with how popular *Love, Simon* has been on streaming. 
 
 </james>
 <from></from>
@@ -294,12 +143,239 @@ these fantasies of acceptance earned Walt Disney a lot of Praise in the early da
 <compare>
 <james {% include timecode %}>
 
-queer adults come to Fantasy with a knowledge that children for the most part don't have at the same time that gay individuals Revel in the affirmations and opened possibilities that fantasy creates there is also an awareness and acceptance of the impossibility of fantasy as well as the absurdity of it all Cassandra Amy's concept of double reading although written in regard to Media fandom in general also applies to a queer subject position amsley writes that a reader can maintain and understand two Divergent points of view at once and use them to inform each other in this way identification and distinction may occur simultaneously there's an irony in the existence of queer fantasy a simultaneous Indulgence in and distancing from the work being engaged in a queer person can sit through Snow White and dream about being taken away from their drab life to a castle on a hill but they can also enjoy the absurdity of Snow White's grotesquely warbling contralto Michael Brony sees such a double reading in JM Barry's Peter Pan while conventionally thought of as a children's story bronsky describes it as a deeply disturbing meditation on the impossible desire for flight not so much a fantasy of Escape as it is a cleare eyed exposure of escape's impossibility the original 1904 play ends with Peter alone and Barry adds to the stage directions it has something to do with the riddle of his being if he could get the hang of the thing his cry might become to live would be an awfully big adventure but he can never quite get the hang of it and so no one is as gay as he
+With Disney Plus in almost 50 million households by the time *Love, Victor* was released this June, that would have been a gigantic potential audience. But Hulu isn't in as nearly many homes. It isn't nearly as mainstream. Disney had the opportunity to say to those gay kids, "your stories are as good as anyone else's," but now, by shafting it over to Hulu, the Mouse has unequivocably<sup class="add">[sic: unequivocally]</sup> said, "you don't belong here." 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark fc=false>According to Hulu, *Love, Victor* was its most binged show of 2020,</mark> which is pretty impressive considering how we've all been locked up with little more to do than stream TV shows. So not only did Disney segregate the queer audience to a smaller platform, but it missed out on a hit series, something the service is in desperate need of, with data showing that aside from *The Mandalorian*, none of Disney Plus's original content has been a hit. 
+
+</james>
+<from></from>
+<comment>
+
+No, it was ["the most-binged original drama series on Hulu in 2020 during its first week and the second most-binged original on Hulu placing behind *Solar Opposites*."](https://www.eonline.com/news/1166338/turns-out-love-victor-felt-quite-a-bit-of-viewer-love-on-hulu) This video was released in September 2020, you wouldn't be able to say anything definitive about the most-binged shows over the entire year anyway. 
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+When Disney made the announcement that *Love, Victor* was being sent to Hulu, I was... frustrated, but not shocked. I was frustrated that even in 2020, queer people aren't considered family friendly enough for Disney. But I wasn't shocked... because Disney has an out-and-proud history of using and abusing the LGBT community for its own means. In order to talk about *that*, we'll need to discuss Disney's prolific history of queer coding villains, straight-washing heroes, and pandering to the LGBT community just to ignore us once they have our money. 
+
+</james>
+<from></from>
+</compare>
+
+## Part One: The Days of Uncle Walt
+
+<compare>
+<james {% include timecode %}>
+
+Gay culture has always held the Disney oeuvre in high regard, but why exactly? To say that Disney was queer coding in the early days would be a bit disingenuous. I hardly believe that good ol' Uncle Walt, hater of all things subversive, would insert queer coded messages into his early
+animated films, although six hairy men in one twink living together is a bit suspect. But queer readings of Disney films *are* possible and quite well known. Really, it all comes down to fantasy. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Queer culture (particularly gay male culture) has long held a fascination with fantasy. The close association of gay men to the world of fantasy has attributed<sup class="add">[sic: contributed]</sup> to some of the most common insults for gay men in Western culture: "fairy," "queen" and "princess."</mark> <mark>While elaborating on what constitutes a gay sensibility,</mark> <mark>Michael Bronski,</mark> LGBT historian, <mark>stresses the importance of imagination:</mark> 
+
+> <mark>"Imagination is especially threatening to a culture that repressively and rigidly defines gender roles . . . because it can provide an alternative Vision to the real world."</mark>
+
+<mark>Therefore, fantasy contains a a possible critique of dominant heteronormative culture, as well as allowing for a proxy<sup class="add">[sic: ???]</sup> to exist, </mark>one of the reasons young fantasy fans have been expected to grow out of the genre for decades. <mark>With LGBT people living every day as an alternative to dominant culture, ties to fantasy seem inevitable.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.62-63"%}>
+
+<mark>Homosexual culture (particularly gay male culture) has long held a fascination with fantasy. The close association of gay men to the world of fantasy has contributed to some of the most common epithets for homosexuals in Western culture: “fairy,” “queen” and “princess.”</mark> <mark num=3>Michael Bronski,</mark> <mark num=2>elaborating on what constitutes a “gay sensibility,”</mark> <mark>stresses the importance of imagination</mark> to this sensibility: <mark>“Imagination is especially threatening to a culture that repressively and rigidly defines gender roles . . . because it can provide an alternative vision to the ‘real’ world.”</mark><sup>40</sup> <mark>Hence, fantasy contains a possibile critique of dominant society, as well as a picturing of an alternative.</mark> <mark>With self-identified lesbians and gay men living every day as an alternative to dominant culture, ties to fantasy seem logical.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Although not necessarily evoking a world of gender fluidity, fantasy is often described as a method of escape from the trials and tribulations of everyday reality. Living in a society that has outlawed homosexual desire, categorized it as a medical disease, labeled it as a sin against God and allowed (and often encouraged) violent acts against LGBT people, queer culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide. Heroes or heroines rise above their stations -rewarded for all their hardship and vilification by finding Prince Charming and/or being crowned as royalty. Others leave their drab and shabby existence and find a fascinating other world in which anything is possible. This second scenario is the basis for one of the key texts of queer culture, the film version of *The Wizard of Oz* from 1939. In the narrative, an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seems to.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.63"%}>
+
+<mark>Although not necessarily evoking a world of polymorphous perversity, fantasy is often described as a method of escape from the trials and tribulations of everyday reality. Living in a society that has outlawed homosexual desire, categorized it as a medical disease, labeled it as a sin against God and allowed (and often encouraged) violent retribution against homosexuals, homosexual culture has unsurprisingly embraced the potential for escape that fantasy and fairy tales provide. Heroes or heroines rise above their station — rewarded for all their hardship and vilification by finding Prince Charming and/or being crowned as royalty. Others leave their drab and shabby existence and find a fascinating other world in which anything is possible. This second scenario is the basis for one of the key texts in homosexual culture, the film version of Frank L. Baum’s *The Wizard of Oz* (1939). In the narrative, an underappreciated adolescent girl in the barren Midwest is whisked away to a fabulous land filled with color and spectacle where she finds friends who value her more than her biological family seem to</mark> do. Although Dorothy, the main character, consistently declares her desire to “go home,” almost every viewer (gay or otherwise) enjoys the film not for the sepia-toned representa- tion of Kansas but for its breathtaking creation of a three-strip Technicolored Oz.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Funnily enough, Walt Disney fought hard to get the film rights to *The Wizard of Oz* but failed. He would rarely let the rights to something he wanted slip through his fingers ever again. 
+
+</james>
+<from></from>
+<comment>
+
+I found this claim on a fandom site and a blog site and tracked it down to [Wikipedia](https://en.wikipedia.org/wiki/Oz_the_Great_and_Powerful#cite_ref-19). I looked at the citation for the Wikipedia claim, which is [a documentary on the making of *The Wizard of Oz*.](https://www.youtube.com/watch?v=v4UYr2ON5SM) The narrator, Angela Lansbury, says that the production of the movie was influenced by the success of Disney's *Snow White* and that MGM bought the rights in 1938, but there's no mention of Disney trying to buy the rights at that time, though Disney would buy the rights to the rest of Baum's *Oz* books in the 50s and make several adaptations over the years.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Another narrative strand in Disney's films that would have a great appeal to the queer community is the tale of the outsider. Throughout the studio's history, Disney has consistently returned to the stories about characters who don't "fit in" to society. Unlike the heroines of L. Frank Baum's *Oz*, these characters do not find another world to escape to and must confront their ostracization. Rebuffed by the gatekeepers of what is normal and decent, these rejects eventually find acceptance and happiness by discovering a use for those aspects of themselves that were originally thought to be deficient or abnormal. Hans Christian Anderson, now recognized as gay himself, provided what is probably the archetypal version of the story, "The Ugly Duckling," which was adapted by Disney twice - in 1930 and again in 1939. </mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64"%}>
+
+<mark>Another narrative strand in Disney’s films that would have a great appeal to homosexual subjects is the tale of the “outsider.” Throughout the studio’s history, Disney has consistently returned to stories about characters who don’t “fit in” to society. Unlike the heroines of Carroll and Baum, these characters do not find another world to escape to and must confront their ostracization. Rebuffed by the upholders of what is normal and decent, these “rejects” eventually find acceptance and happiness by finding a use for those aspects of themselves that were originally thought to be deficient or “abnormal.” Hans Christian Andersen, now recognized as homosexual himself, provided what is probably the archetypal version of the story, “The Ugly Duckling,” which was filmed by Disney twice — in 1930 and again in 1939.</mark> Other versions of this type of story can be found in *Morris, the Midget Moose* (1950), *Lambert, the Sheepish Lion* (1952), *Goliath II* (1960), and the very popular feature film *Dumbo* (1941)
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>There are two early Disney shorts about outsiders, though, that are more easily read as specifically gay texts and delightfully affirming of otherness. The first of these is the Oscar-winning short *Ferdinand the Bull* from 1937.</mark> <mark>The cartoon tells the story of a young bull who is content to spend his life "just sitting quietly and smelling the flowers" rather than going after other more conventionally masculine pursuits. While Ferdinand has never shown having romantic interest in another bull, the character's quiet affection for flowers associates him with images of gay men in American culture at the time. You see, in the 1920s and 30s, gay men were frequently referred to as "pansies" or "buttercups." </mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.64-65"%}>
+
+<mark>There are two Disney texts about outsiders, though, that are more easily read as specifically “gay” texts and delightfully affirming of “otherness.” The first of these is the Oscar-winning short *Ferdinand the Bull* (1937).</mark> With backgrounds depicting a constantly sunny Spain, <mark>the cartoon tells the story of a young bull who is content to spend his life “just sitting quietly and smelling the flowers” rather than pursuing other more conventionally masculine pursuits. While Ferdinand is never shown having sexual interest in another bull, the character’s quiet affection for flowers associates him with images of homosexuals then current in American culture. In the 1920s and ’30s, gay men were frequently referred to as “pansies” or “buttercups,”</mark> and certain flowers, such as green carnations, had been secret symbols of one’s sexual interests since the days of Oscar Wilde.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Interestingly the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires. Although his mother wants to know why he doesn't want to run and leap and butt heads like the other young bulls, she accepts her son's lifestyle without much second thought. Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him. On the contrary, the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly. Neither the narrator nor the visual design of the film ever judge Ferdinand as somehow wrong. Rather, there's a bemused acceptance of Ferdinand's attitude.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65"%}>
+
+<mark>Interestingly, the short never seems to suggest that Ferdinand is somehow depraved or deserving of contempt for his desires. Although his mother wants to know why he doesn’t want to run and leap and butt heads like all the other young bulls, she accepts her son’s “lifestyle” without much second thought. Ferdinand is never shown racked with guilt over his implied homosexuality or worried about what others may think of him. On the contrary, the cartoon continually shows close-ups of him batting his long eyelashes and sighing slowly and contentedly. Neither the narrator nor the visual design of the cartoon ever judge Ferdinand as somehow wrong in his choice. Rather, there is a bemused acceptance and delight in Ferdinand’s attitude.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>This delight and acceptance of an effeminate male recurs in *The Reluctant Dragon* in 1941. If anything, the effeminacy of the titular Reluctant Dragon is even more pronounced than Ferdinand's. Like the bull, the dragon sports long emotive eyelashes and contains not an aggressive bone in his body, with the dragon prancing and pirouetting throughout the story. Yet, unlike the bull, the dragon has a voice.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65"%}>
+
+<mark>This delight and acceptance of an effeminate male reoccurs in *The Reluctant Dragon* (1941). If anything, the effeminacy of the Reluctant Dragon in the title segment of the anthology film is even more pronounced than Ferdinand’s. Like the bull, the dragon sports long emotive eyelashes and contains not an aggressive bone in his body, with the dragon prancing and pirouetting throughout the story. Yet, unlike the bull, the dragon has a voice</mark> — [...]
+
+</from>
+</compare>
+
+<compare>
+<clip>
+
+Dragon: Now boy, now boy, *just* run along! Tell the child to go home.
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>A high-pitched masculine voice with the accent of an English Dandy. In fact, the dragon's long black fluffy ears often droop around the sides of his face in an approximation of Oscar Wilde. Rather than fight battles with knights, this dragon wants to play music, hold high tea and write poetry. At one point, the dragon is specifically referred to as a "punk poet," at a time when the common slang definition for "punk" was "homosexual male." (This phrase is repeated about five times in one fifteen second period of the short.) One of his poems, "Ode to an Upside-Down Cake," is filled with double entendre about sexual reversal:</mark>
+
+> <mark>"Sweet little upside down cake, cares and woes — you got ’em</mark>
+
+> <mark>Poor little upside-down cake, your top is on your bottom.</mark>
+
+> <mark>Alas, little upside-down cake, your troubles never stop.</mark>
+
+> <mark>Because, little upside-down cake, your bottom’s on your top!"</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.65-66"%}>
+
+[...] — <mark>a high-pitched masculine voice with the accent of an English dandy. In fact, the dragon’s long black fluffy ears often droop around the sides of his face in an approximation of the English dandy Oscar Wilde. Rather than fight battles with knights, this dragon wants to play music, hold high tea and write poetry. At one point, the dragon is specifically referred to as a “punk poet,” at a time when the common slang definition for “punk” was “homosexual male.” (This phrase is repeated about five times in one fifteen second period of the film.) One of his poems, “Ode to an Upside-Down Cake,” is fraught with double entendre about sexual reversal:</mark>
+
+> <mark>Sweet little upside down cake, cares and woes—you got ’em</mark>
+
+> <mark>Poor little upside-down cake, your top is on your bottom.</mark>
+
+> <mark>Alas, little upside-down cake, your troubles never stop.</mark>
+
+> <mark>Because, little upside-down cake, your bottom’s on your top!</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>A young boy who fancies himself an expert on knights and dragons warns the dragon that a knight has been hired by the town. thinking that the dragon is as ferocious as the legends tell, but both the boy and the dragon are surprised to find that the knight, Sir Giles, is as much a tea lover and poetry writer as the dragon is. The cartoon introduces both figures similarly - caught taking baths by the boy, and their figures contrasting sharply with the manly heroic illustrations contained in the boy's book.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+<mark>A young lad who fancies himself an expert on knights and dragons warns the dragon that a knight has been hired by the town, thinking that the dragon is as ferocious as the legends tell, but both the lad and the dragon are surprised to find that the knight, Sir Giles, is as much a tea lover and poetry writer as the dragon is. The cartoon introduces both figures similarly — caught taking baths by the lad, and their figures contrasting sharply with the manly heroic illustrations contained in the lad’s book.</mark>
+
+</from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Sir Giles and the dragon agree to stage a mock battle in order to please the town. The battle consists of hiding in caves or in smoke and dust - where the two have tea and, at one point, waltz with each other, while yelping and howling for the benefit of the audience.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+<mark>Sir Giles and the dragon agree to stage a mock battle in order to please the town. The battle consists of hiding in caves or in smoke and dust — where the two hold tea and, at one point, waltz with each other, while yelping and howling for the benefit of the audience.</mark> Although the town has ostensibly hired the knight to kill the dragon, the townspeo- ple watching the battle root for both sides as if it were a sporting event. When the dragon pretends to be killed, it seems that the town is in on the ruse. The story ends with the narrator intoning, “Having reformed the dragon, the satisfied villagers welcomed him into society,” as the film shows the dragon being toasted to by the town.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>There is no mistaking how the film makes fun of the dragon's mincing manner and prissy pretensions. Yet, the film also makes it quite clear that the dragon does not believe in fighting, and the film doesn't specifically make fun of him for that. Made just before the Japanese attack on Pearl Harbor, many in the United States were also trying to keep from fighting and, consequently, would not quickly dismiss the dragon strongly held beliefs. Just as in *Ferdinand the Bull*, *The Reluctant Dragon* presents an easily read gay character under the guise of fantasy and shows characters accepting him as he is.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.66"%}>
+
+<mark>There is no mistaking how the film makes fun of the dragon’s mincing manner and prissy pretensions. Yet, the film also makes it quite clear that the dragon does not believe in fighting, and the film doesn’t specifically make fun of him for that. Made just before the Japanese attacked Pearl Harbor, many in the United States were also trying to keep from fighting and, consequently, would not quickly dismiss the dragon’s strongly held beliefs. Just as in *Ferdinand the Bull*, *The Reluctant Dragon* presents an easily read gay character under the guise of fantasy and shows characters accepting him as he is.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+These fantasies of acceptance earned Walt Disney a lot of praise in the early days of animation, showing children that it's okay to be a little different. But children weren't the only people partaking in these fantasies.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Queer adults come to fantasy with a knowledge that children, for the most part, don't have. At the same time that gay individuals revel in the affirmations and opened possibilities that fantasy creates, there is also an awareness and acceptance of the impossibility of fantasy - as well as the absurdity of it all. Cassandra Amesley’s concept of "double reading," although written in regard to media fandom in general, also applies to a queer subject position. Amseley writes that a reader can "maintain and understand two divergent points of view at once, and use them to inform each other. In this way identification and distinction may occur simultaneously." 
+
+There's an irony in the existence of queer fantasy - a simultaneous indulgence in and distancing from the work being engaged in. A queer person can sit through *Snow White* and dream about being taken away from their drab life to a castle on a hill, but they can also enjoy the absurdity of Snow White's grotesquely warbling contralto. Michael Bronski sees such a double reading in JM Barry's Peter Pan while conventionally thought of as a children's story bronsky describes it as a deeply disturbing meditation on the impossible desire for flight not so much a fantasy of Escape as it is a cleare eyed exposure of escape's impossibility the original 1904 play ends with Peter alone and Barry adds to the stage directions it has something to do with the riddle of his being if he could get the hang of the thing his cry might become to live would be an awfully big adventure but he can never quite get the hang of it and so no one is as gay as he
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.68"%}>
 
-But lesbians and gay men also come to fantasy with a knowledge that children, for the most part, have not acquired. At the same time that gay individuals revel in the affirmations and opened possibilities that fantasy creates, there is also an awareness and acceptance of the impossibility of fantasy — as well as the absurdity of it all. Cassandra Amesley’s concept of “double reading,” although written in regard to media fandom in general, also applies to a lesbian or gay subject position. Amesley writes that a reader can “maintain and understand two divergent points of view at once, and use them to inform each other. In this way identification and distanciation may occur simultaneously.”<sup>47</sup> In regards to lesbian/gay use of fantasy, an irony exists — a simultaneous indulgence in and distancing from the work being engaged — which is far more developed than the normal child’s response. A lesbian/gay individual can sit through *Snow White* and dream of being taken away from a drab life to a castle on a hill, but s/he can also enjoy the absurdity of Snow White’s grotesquely warbling contralto. Michael Bronski sees such a double reading in Barrie’s *Peter Pan*. While conventionally thought of as a children’s story, Bronski describes it as “a deeply disturbing meditation on the impossible desire for flight . . . not so much a fantasy of escape as it is a clear-eyed exposure of escape’s impossibility.”<sup>48</sup> The original 1904 play ends with Peter alone, and Barrie adds in the stage directions, “It has something to do with the riddle of his being. If he could get the hang of the thing his cry might become ‘To live would be an awfully big adventure!’ but he can never quite get the hang of it, and so no one is as gay as he.”<sup>49</sup>
+<mark>But lesbians and gay men also come to fantasy with a knowledge that children, for the most part, have not acquired. At the same time that gay individuals revel in the affirmations and opened possibilities that fantasy creates, there is also an awareness and acceptance of the impossibility of fantasy — as well as the absurdity of it all. Cassandra Amesley’s concept of “double reading,” although written in regard to media fandom in general, also applies to a lesbian or gay subject position. Amesley writes that a reader can “maintain and understand two divergent points of view at once, and use them to inform each other. In this way identification and distanciation may occur simultaneously.”</mark><sup>47</sup> In regards to lesbian/gay use of fantasy, an irony exists — a simultaneous indulgence in and distancing from the work being engaged — which is far more developed than the normal child’s response. A lesbian/gay individual can sit through *Snow White* and dream of being taken away from a drab life to a castle on a hill, but s/he can also enjoy the absurdity of Snow White’s grotesquely warbling contralto. Michael Bronski sees such a double reading in Barrie’s *Peter Pan*. While conventionally thought of as a children’s story, Bronski describes it as “a deeply disturbing meditation on the impossible desire for flight . . . not so much a fantasy of escape as it is a clear-eyed exposure of escape’s impossibility.”<sup>48</sup> The original 1904 play ends with Peter alone, and Barrie adds in the stage directions, “It has something to do with the riddle of his being. If he could get the hang of the thing his cry might become ‘To live would be an awfully big adventure!’ but he can never quite get the hang of it, and so no one is as gay as he.”<sup>49</sup>
 
 </from>
 </compare>
