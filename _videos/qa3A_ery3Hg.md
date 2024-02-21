@@ -242,7 +242,7 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 <comment>
 {% include header for=tustin %}
 
-The why this is worded, James implies that Biden tweeted on February 25th, which is not true.
+The way this is worded, James implies that Biden tweeted on February 25th, which is not true.
 
 </comment>
 <from style="font-size: smaller;">

@@ -609,12 +609,14 @@ Kirk's promising future ended quickly, though. "I was 18," Kirk recalled to an i
 <compare>
 <james {% include timecode %}>
 
-Kirk was summoned to the studio to speak directly with Disney while Kirk tried to stammer out an explanation he was informed that his contract had been terminated no criminal charges were placed on Kirk and the firing much less the reasons for the firing was never discussed in the press such a lack of reaction seems to suggest that the studio dealt with both the parents of the other boy as well as the press to keep the story Under Wraps when Kirk returned to the Walt Disney Studio in 1984 as a part of the Mickey Mouse Club reunion he discovered that his reputation still preceded him according to Kirk an employee from Disney's publicity Department told him if I had my way all you people would be buried in the same grave
+<mark>Kirk was summoned to the studio to speak directly with Disney. While Kirk tried to stammer out an explanation, he was informed that his contract had been terminated. No criminal charges were placed on Kirk, and the firing (much less the reasons for the firing) was never discussed in the press. Such a lack of reaction seems to suggest that the studio "dealt" with both the parents of the other boy as well as the press to keep the story "under wraps."</mark> <mark>When Kirk returned to the Walt Disney Studio in 1984 as a part of the Mickey Mouse Club reunion, he discovered that his reputation still preceded him. According to Kirk, an employee from Disney's publicity department told him,</mark> 
+
+> <mark>"If I had my way, all you people would be buried in the same grave."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.100-101"%}>
 
-Kirk was summoned to the studio to speak directly with Walt. While Kirk tried to stammer out an explanation, he was informed that his contract had been terminated. No criminal charges were placed on Kirk, and the firing (much less the reasons for the firing) was never discussed in the press. Such a lack of reaction seems to suggest that the studio “dealt” with both the parents of the other boy as well as the press to keep the story “under wraps.”<sup>13</sup> Ironically, right after Kirk was let go, Disney brought him back to film *The Monkey’s Uncle* (1964), a sequel to *The Misadventures of Merlin Jones* (1963). During the six weeks of filming, Kirk became painfully aware that many of the people he was working with had heard the rumors. “It was a terrible feeling. I was very uncomfortable, knowing that they were watching me closely.”<sup>14</sup> Although Kirk was subsequently able to land work in a few American-International “beach party” musical comedies (again partnered with Annette Funicello), by the mid-1960s Kirk’s career as an actor was over. A slide into drug dependency and recovery followed until, in 1975, he began a carpet and upholstery cleaning business. When Kirk returned in 1984 to the Walt Disney studio as part of a *Mickey Mouse Club* reunion, he discovered that his reputation still preceded him. According to Kirk, an employee from Disney’s publicity department told him, “If I had my way, all you people would be buried in the same grave.”<sup>15</sup>
+<mark>Kirk was summoned to the studio to speak directly with Walt. While Kirk tried to stammer out an explanation, he was informed that his contract had been terminated. No criminal charges were placed on Kirk, and the firing (much less the reasons for the firing) was never discussed in the press. Such a lack of reaction seems to suggest that the studio “dealt” with both the parents of the other boy as well as the press to keep the story “under wraps.”</mark><sup>13</sup> Ironically, right after Kirk was let go, Disney brought him back to film *The Monkey’s Uncle* (1964), a sequel to *The Misadventures of Merlin Jones* (1963). During the six weeks of filming, Kirk became painfully aware that many of the people he was working with had heard the rumors. “It was a terrible feeling. I was very uncomfortable, knowing that they were watching me closely.”<sup>14</sup> Although Kirk was subsequently able to land work in a few American-International “beach party” musical comedies (again partnered with Annette Funicello), by the mid-1960s Kirk’s career as an actor was over. A slide into drug dependency and recovery followed until, in 1975, he began a carpet and upholstery cleaning business. <mark>When Kirk returned in 1984 to the Walt Disney studio as part of a *Mickey Mouse Club* reunion, he discovered that his reputation still preceded him. According to Kirk, an employee from Disney’s publicity department told him,</mark> <mark>“If I had my way, all you people would be buried in the same grave.”</mark><sup>15</sup>
 
 </from>
 </compare> 
@@ -622,21 +624,23 @@ Kirk was summoned to the studio to speak directly with Walt. While Kirk tried to
 <compare>
 <james {% include timecode %}>
 
-after Walt's death the Disney Company seemed rudderless the new leadership couldn't seem to produce the kind of magic Walt had at his prime or even in his waning years that would change though in the 1980s with the introduction of the new executive team of Michael Eisner Frank Wells and Jeffrey kenberg one of their first Ventures was to take Disney into a more adult Realm by creating subsidiaries like Hollywood pictures and touchtone entertainment 
+After Walt's death, the Disney Company seemed rudderless. The new leadership couldn't seem to produce the kind of magic Walt had at his prime or even in his waning years. That would change,  though, in the 1980s with the introduction of the new executive team of Michael Eisner, Frank Wells, and Jeffrey Katzenberg. 
 
 </james>
 <from></from>
 </compare>
 
+## Part Two: The New Blood
+
 <compare>
 <james {% include timecode %}>
 
-down in out in Beverly Hills was the first R-rated film Disney ever released B Midler swears throughout the film and screams so loudly during an orgasm that everyone in the entire household hears also included are scenes of Midler's husband played by Richard dfus and their house guest Nick Noti having sex with the Latina Maid of the house and there are overt hints that the son of the family is gay older Disney Executives gritted their teeth but the film went on to make 62 million in 1986 that's 148 million today following in the film's footsteps Ruthless People was another runchy comedy with B Midler that went on to take in$ 71.6 million 
+One of their first ventures was to take Disney into a more adult realm by creating subsidiaries like Hollywood Pictures and Touchtone Entertainment. <mark>*Down and Out in Beverly Hills* was the first R-rated film Disney ever released. Bette Midler swears throughout the film and screams so loudly during an orgasm that everyone in the entire household hears. Also included are scenes of Midler's husband (played by Richard Dreyfuss) and their house guest (Nick Nolte) having sex with the Latina maid of the house, and there are overt hints that the son of the family is gay. Older Disney executives gritted their teeth, but the film went on to make 62 million dollars in 1986.</mark> That's 148 million today. <mark>Following in the film's footsteps, *Ruthless People* was another raunchy comedy with Bette Midler that went on to take in 71.6 million dollars.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.107"%}>
 
-*Down and Out in Beverly Hills* was the first film to be released by the Walt Disney Company with an “R” rating, mainly for its sexual content than for any violence. Actress Bette Midler swears throughout the film and screams so loudly during a sexual orgasm that everyone in the entire household hears. Also included are scenes of Midler’s husband (played by Richard Dreyfuss) and their houseguest (Nick Nolte) having sex with the Latina maid of the house, and there are intimations that the son in the family is gay. Older Disney executives gritted their teeth, and the film went on to make $62 million in domestic grosses. Following in this film’s footsteps, *Ruthless People* was another flashy raunchy comedy with Bette Midler and an ensemble cast that went on to take in $71.6 million at the box office.<sup>24</sup>
+<mark>*Down and Out in Beverly Hills* was the first film to be released by the Walt Disney Company with an “R” rating, mainly for its sexual content than for any violence. Actress Bette Midler swears throughout the film and screams so loudly during a sexual orgasm that everyone in the entire household hears. Also included are scenes of Midler’s husband (played by Richard Dreyfuss) and their houseguest (Nick Nolte) having sex with the Latina maid of the house, and there are intimations that the son in the family is gay. Older Disney executives gritted their teeth, and the film went on to make $62 million in domestic grosses.</mark> <mark>Following in this film’s footsteps, *Ruthless People* was another flashy raunchy comedy with Bette Midler and an ensemble cast that went on to take in $71.6 million at the box office.</mark><sup>24</sup>
 
 </from>
 </compare>
@@ -644,12 +648,12 @@ down in out in Beverly Hills was the first R-rated film Disney ever released B M
 <compare>
 <james {% include timecode %}>
 
-Thomas pasiteri an openly gay composer and orchestrator who arranged scores for some of Disney's films at the time described the music department as so gay friendly that when one straight artist was let go from a project he threat threatened to sue the studio for sexual discrimination against heterosexuals but being hired and being appreciated were two different things at a time when all the studios and major tech companies began offering domestic partnership benefits to their LGBT employees gay Disney employees began calling for the same thing while at a charity event an apple executive cornered Michael Eisner in order to discuss domestic partner benefits and why Disney was lagging behind Eisner reportedly stated that it would simply cost too much money since he figured about 40% of Disney's Workforce was LGBT
+<mark>Thomas Pasatieri, an openly gay composer and orchestrator who arranged scores for some of Disney's films at the time, described the music department as so gay-friendly that when one straight artist was let go from a project, he threatened to sue the studio for sexual discrimination... against heterosexuals.</mark> But being hired and being appreciated were two different things. <mark>At a time when all the studios and major tech companies began offering domestic partnership benefits to their LGBT employees, gay Disney employees began calling for the same thing. While at a charity event, an Apple executive cornered Michael Eisner in order to discuss domestic partner benefits and why Disney was lagging behind. Eisner reportedly stated that it would simply cost too much money since he figured about 40 percent of Disney's workforce was LGBT.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.108"%}>
 
-Thomas Pasatieri, an openly gay composer and orchestrater who arranged scores for some of Disney’s films over the past decade, described the music department as so gay-friendly that when one straight artist was let go from a project, he threatened to sue the studio for sexual discrimination against heterosexuals!<sup>26</sup> An anecdote amongst Disney’s homosexual employees, and reported in at least one industry periodical, demonstrates that even Disney’s top-ranking executives often agreed that an inordinate number of homosexuals were now working for the company.<sup>27</sup> As homosexual Disney employees began calling for the company to grant domestic partners of homosexual employees the benefits that were given to the spouses of married heterosexual employees, an Apple computer executive met Michael Eisner at a charity function. When this executive cornered Eisner in order to discuss domestic partner benefits (Apple, like most of the computer industry, had already begun these benefits), Eisner reportedly stated that he feared a huge loss of money because he figured that about 40 percent of Disney’s work force was gay or lesbian.
+<mark>Thomas Pasatieri, an openly gay composer and orchestrater who arranged scores for some of Disney’s films over the past decade, described the music department as so gay-friendly that when one straight artist was let go from a project, he threatened to sue the studio for sexual discrimination against heterosexuals!</mark><sup>26</sup> An anecdote amongst Disney’s homosexual employees, and reported in at least one industry periodical, demonstrates that even Disney’s top-ranking executives often agreed that an inordinate number of homosexuals were now working for the company.<sup>27</sup> <mark>As homosexual Disney employees began calling for the company to grant domestic partners of homosexual employees the benefits that were given to the spouses of married heterosexual employees, an Apple computer executive met Michael Eisner at a charity function. When this executive cornered Eisner in order to discuss domestic partner benefits (Apple, like most of the computer industry, had already begun these benefits), Eisner reportedly stated that he feared a huge loss of money because he figured that about 40 percent of Disney’s work force was gay or lesbian.</mark>
 
 </from>
 </compare>
@@ -657,28 +661,53 @@ Thomas Pasatieri, an openly gay composer and orchestrater who arranged scores fo
 <compare>
 <james {% include timecode %}>
 
+Disney did have one employee who was out and who they couldn't convince to go back into the closet, though: lyricist Howard Ashman, the man who created the award-winning soundtracks for *The Little Mermaid*, *Beauty and the Beast* and *Aladdin*. <mark fc=false>Reportedly, Disney executives were frustrated with Ashman being so publicly out, but his growing clout made it impossible to do anything about it.</mark>
+
+But sadly, in March of 1991, Ashman passed away from complications related to AIDS. Later that year, *Beauty and the Beast* would go on to become a box office sensation and become the first animated movie to *ever* be nominated for Best Picture. Its main competition for Best Picture was seen to be *The Silence of the Lambs*, which was being protested against by the LGBT community for its portrayal of psychopath Buffalo Bill. 
+
+<mark fc=false>Disney saw an opening to win over the gay community and made a giant donation to the Aid for AIDS Foundation. The seemingly altruistic act was later confirmed to be nothing more than a PR stunt, as the money had come out of *Beauty and the Beast*'s award campaign budget. Disney saw it as nothing more than a "for your consideration" ad.</mark> When the Oscars rolled around, Disney lost Best Picture to *The Silence of the Lambs*, <mark fc=false>and when Howard Ashman's partner Bill Lauch took to the stage to accept the Oscar for Best Song on his late partner's behalf, Disney executives reportedly fumed</mark>.
+
+</james>
+<comment>
+
+Todd in the Shadows 2026s
+
+13. Disney cynically exploited Howard Ashman's death
+
+Okay, the best source I could find about Disney's relationship with Howard Ashman was the book *Disney War* and here's what it says: 
+
+First, about Howard Ashman's open gayness being a problem for Disney, the book points in the opposite direction. It says that when Disney recruited Ashman, he asked them if his sexuality was gonna be an issue, and he was assured that it would not be. And when he later revealed his AIDS diagnosis to Eisner and Katzenberg and animation head Peter Schneider, they were all very supportive. 
+
+Second, this supposed donation to the AID for AIDS Foundation, there's just nothing. I've looked and looked and found no connection between Disney and this charity, or any other shocking revelations about their Oscar campaign. There's just *no* publicity for this supposed publicity stunt. Disney *did* make a charity album for the Pediatric AIDS Foundation in 1991, but uh, it had no connection to the Oscars. They auctioned off some *Beauty in the Beast* art for the Gay Men's Health Crisis in 1992, but that would have been *after* the Oscars. The only connection I could find between Disney and AID for AIDS was the Disney Gay Night event I mentioned previously. And again, that was *not* connected to the Disney corporation.
+
+And as for them being upset about Ashman's partner accepting his Oscar, according to *Disney War* Katzenberg arranged that *personally*. If any other executives felt differently about it, *please* tell me where you found this information. But I don't understand why they'd make pandering donations to gays and then not be okay with a gay man on stage. Are they pandering to gays or not?
+ 
+</comment>
+<comment>
+
+James' own source, *Tinker Belles and Evil Queens*, provides additional evidence for the fact that Katzenberg was well-supported, at least by Katzenberg. It mentions that Katzenberg and Ashman had a close relationship several times (108, 192), and Katzenberg is said to have been involved with AIDS charities (110). Katzenberg called Ashman a "guardian angel" alongside Walt Disney, and there was a tribute to Ashman at the end of *Beauty and the Beast* (144). Also, [a Washington Post article](https://web.archive.org/web/20220422110450/https://www.washingtonpost.com/outlook/2022/04/22/lbgtq-audiences-artists-helped-save-disney/) claims that Disney even built a production unit near his house so that he could keep getting his treatments nearby.
+
+</comment>
+</compare>
+
 <compare>
 <james {% include timecode %}>
 
-Disney did have one employee who was out and who they couldn't convince to go back into the closet though Lyricist Howard Ashman the man who created the award-winning soundtracks for The Little Mermaid Beauty and the Beast and Aladdin reportedly Disney Executives were frustrated with Ashman being so publicly out but his growing clout made it impossible to do anything about it but but sadly in March of 1991 Ashman passed away from complications related to AIDS later that year Beauty and the Beast would go on to become a box office sensation and become the first animated movie to ever be nominated for Best Picture its main competition for best picture was seen to be the Silence of the Lambs which was being protested against by the LGBT community for its portrayal of psychopath Buffalo Bill Disney saw an opening to win over the gay community and made a giant Don to the aid for AIDS Foundation the seemingly altruistic Act was later confirmed to be nothing more than a PR stunt as the money had come out of Beauty and the beast's award campaign budget Disney saw it as nothing more than a 4-year consideration ad when the Oscars rolled around Disney lost best picture to Silence of the Lambs and when Howard ashman's partner Bill lock took to the stage to accept the Oscar for best song on his late partner's behalf Disney Executives reportedly fumed Disney's animosity toward the queer Community wasn't just all behind the scenes though it still managed to make it onto the big screen beginning immediately with the first film of the Disney Renaissance The Little Mermaid the film Source material was obviously written by noted gay writer Hans Christian Anderson so there's an immediate queer reading of the text available but Disney went further than that by carrying on their tradition of having an older female villain who is predatory toward a young girl but to add a special twist Ursula was is actually modeled after drag Legend Divine though despite rumors Disney never entertained the thought of offering the part to Divine and always intended on casting a female voice Talent recent calls for the live action Ursula to be played by a drag queen were roundly ignored Disney also never intended Ursula to sing in the film but Howard Ashman thought otherwise forcing Disney to accept the now iconic villain song Poor Unfortunate Souls 
+Disney's animosity toward the queer community wasn't just all behind the scenes, though. It still managed to make it onto the big screen, beginning immediately with the first film of the Disney Renaissance, *The Little Mermaid*. The film's source material was obviously written by noted gay writer Hans Christian Anderson, so there's an immediate queer reading of the text available, but Disney went further than that by carrying on their tradition of having an older female villain who is predatory toward a young girl. But to add a special twist, Ursula was actually modeled after drag legend Divine. Though despite rumors, Disney never entertained the thought of offering the part to Divine and always intended on casting a female voice talent. Recent calls for the live action Ursula to be played by a drag queen were roundly ignored. 
 
 </james>
 <from></from>
 </compare>
 
-</james>
-<from></from>
-</compare>
-
 <compare>
 <james {% include timecode %}>
 
-in the number Ursula uses various meth methods to convince Ariel to sell her soul from looking sorry and Saint likee to shimmying madly in excitement in its use of vocalist pack Carl's ability to slide up and down the musical register from shrieks to baritones Poor Unfortunate Souls is an unmistakable send up of the campy female impersonation numbers of underground queer films in the early days of Hollywood 
+Disney also never intended Ursula to sing in the film.<sup cn></sup> <mark>But Howard Ashman thought otherwise, forcing Disney to accept the now iconic villain song "Poor Unfortunate Souls." In the number, Ursula uses various methods to convince Ariel to sell her soul, from looking sorry and saintlike to shimmying madly in excitement. In its use of vocalist Pat Carroll's ability to slide up and down the musical register, from shrieks to baritones, "Poor Unfortunate Souls" is an unmistakable sendup of the campy female impersonation numbers</mark> of underground queer films in the early days of Hollywood. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.146-147"%}>
 
-Again, how much of this is due to Ashman needs to be placed in context with others working on the films. For example, Andreas Deja obviously did his share in adding to the camp value of these projects. Ashman himself probably had little say in the model sheet for Ursula. Yet, her campy nature is due at least in part to the words that Ashman gives her to perform. In *The Little Mermaid*, Ashman provided Ursula with a solo number, “Poor Unfortunate Souls.”<aup>37</aup> In the number, Ursula uses various methods to convince Ariel the mermaid to sell her soul — from looking penitent and saintlike to shimmying madly in excitement. “In its use of vocalist Pat Carroll’s ability to slide up and down the musical register, from shrieks to baritones, ‘Poor Unfortunate Souls’ is an unmistakable sendup of the campy female impersonation number.”38 Similarly, although Deja must share credit, Ashman not only helped conceive Gaston in *Beauty and the Beast* but emphasizes his campiness through the lyrics of his solo number, “Gaston,” a hysterical “male impersonation” number! As was discussed in chapter 2, the tradition of reading Disney villains as “gay-tinged” reaches much farther back than Ashman’s involvement with the studio. Ashman’s creation of musical numbers for the villains, though, underlines this position, allowing mainstream audiences and reviewers to positively revel in the campiness of their villainy.
+Again, how much of this is due to Ashman needs to be placed in context with others working on the films. For example, Andreas Deja obviously did his share in adding to the camp value of these projects. Ashman himself probably had little say in the model sheet for Ursula. Yet, her campy nature is due at least in part to the words that Ashman gives her to perform. In *The Little Mermaid*, <mark>Ashman provided Ursula with a solo number, “Poor Unfortunate Souls.”<sup>37</sup> In the number, Ursula uses various methods to convince Ariel the mermaid to sell her soul — from looking penitent and saintlike to shimmying madly in excitement. “In its use of vocalist Pat Carroll’s ability to slide up and down the musical register, from shrieks to baritones, ‘Poor Unfortunate Souls’ is an unmistakable sendup of the campy female impersonation number.”</mark><sup>38</sup> Similarly, although Deja must share credit, Ashman not only helped conceive Gaston in *Beauty and the Beast* but emphasizes his campiness through the lyrics of *his* solo number, “Gaston,” a hysterical “*male* impersonation” number! As was discussed in chapter 2, the tradition of reading Disney villains as “gay-tinged” reaches much farther back than Ashman’s involvement with the studio. Ashman’s creation of musical numbers for the villains, though, underlines this position, allowing mainstream audiences and reviewers to positively revel in the campiness of their villainy.
 
 </from>
 </compare>
@@ -686,16 +715,16 @@ Again, how much of this is due to Ashman needs to be placed in context with othe
 <compare>
 <james {% include timecode %}>
 
-I was shocked to learn that a queer reading of Beauty and the Beast was actually pretty well documented in popular culture at the time of its release not just comparing Gaston to the gay muscle queens that had become so well known in large Urban centers mostly because it was believed that high muscle mass would help you fight off the effects of HIV 
+I was shocked to learn that a queer reading of *Beauty and the Beast* was actually pretty well documented in popular culture at the time of its release. Not just comparing Gaston to the gay muscle queens that had become so well known in large urban centers, mostly because it was believed that high muscle mass would help you fight off the effects of HIV,<sup cn></sup> <mark>but the Beast himself became an AIDS allegory in the mainstream press, with Dan Rather writing an article in the LA Times that read,</mark>
 
-but the Beast himself became an AIDS allegory in the mainstream press with Dan Rather writing an article in the LA Times that read think of the spell as aids with the same arbitrary and harshly abbreviated limitations on time and you feel the beast's loneliness and Desperation a little more deeply he's just a guy trying as hard as he can to find a little meaning a Little Love a Little beauty while he still got a little life left 
+> <mark>"Think of the spell as AIDS, with the same arbitrary and harshly abbreviated limitations on time, and you feel the Beast's loneliness and desperation a little more deeply. He's just a guy trying as hard as he can to find a little meaning, a little love, a little beauty while he's still got a little life left."</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.134"%}>
 
-In fact, one doesn’t now necessarily need to identify as homosexual in order to find a subtext. CBS anchorman Dan Rather, in a special column for the Los Angeles Times in early 1992, noticed an AIDS allegory going on within Disney’s film version of the fairy tale *Beauty and the Beast* (1991): 
+In fact, one doesn’t now necessarily need to identify as homosexual in order to find a subtext. CBS anchorman <mark>Dan Rather, in a special column for the Los Angeles Times in early 1992, noticed an AIDS allegory going on</mark> within Disney’s film version of the fairy tale *Beauty and the Beast* (1991): 
 
-> Think of the spell [the Beast is under] as AIDS, with the same arbitrary and harshly abbreviated limitations on time, and you feel the Beast’s loneliness and desperation a little more deeply. He’s just a guy trying as hard as he can to find a little meaning — a little love, a little beauty— while he’s still got a little life left.<sup>3</sup>
+> <mark>Think of the spell [the Beast is under] as AIDS, with the same arbitrary and harshly abbreviated limitations on time, and you feel the Beast’s loneliness and desperation a little more deeply. He’s just a guy trying as hard as he can to find a little meaning — a little love, a little beauty — while he’s still got a little life left.</mark><sup>3</sup>
 
 </from>
 </compare>
@@ -703,7 +732,7 @@ In fact, one doesn’t now necessarily need to identify as homosexual in order t
 <compare>
 <james {% include timecode %}>
 
-the visual contrast made between the deteriorated form of the Beast and the painting of him as a beautiful young man possibly sets up a stereotypical opposition between ugliness and Beauty reminiscent of Oscar Wild's The Picture of Dorian Gray but in this context the ugliness beauty diad also supports attention crucial to the film's AIDS allegory between the issue of having health and not having it
+> <mark>"The visual contrast made between the deteriorated form of the Beast and the painting of him as a beautiful young man possibly sets up a stereotypical opposition between ugliness and beauty reminiscent of Oscar Wilde's *The Picture of Dorian Gray*... but in this context the ugliness/beauty dyad also supports a tension, crucial to the film's AIDS allegory, between the issue of having health and not having it."
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.134"%}>
@@ -713,21 +742,34 @@ Cynthia Erb, writing for a more academic audience, agrees with Rather’s interp
 > The visual contrast made between the deteriorated form of the Beast and the painting of him as a beautiful young man possibly sets up a stereotypical opposition between ugliness and beauty reminiscent of Oscar Wilde’s *The Picture of Dorian Gray*, but in this context the ugliness/beauty dyad also supports a tension, crucial to the film’s AIDS allegory, between the issue of having health or not having it.<sup>4</sup>
 
 </from>
+<comment>
+
+Rather than attributing this quote to Cynthia Erb, James reads it as if it is part of Dan Rather's quote. He also changes an "or" to "and."
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-certainly the lyrics written for the Mob song in which the villagers set out to attack the Beast add to this method of the interpretation in the song the villagers clearly State we don't like what we don't understand in fact it scares us and thus they must save their families and their lives by killing the Beast the quotation reverberates strongly as a parallel to AIDS Panic that many individuals as well as religious and political groups Express during the spread of the disease 
+<mark>Certainly, the lyrics written for "The Mob Song," in which the villagers set out to attack the Beast, add to this method of the interpretation. In the song, the villagers clearly state, "We don't like what we don't understand, in fact, it scares us," and thus they must save their families and their lives by killing the Beast. The quotation reverberates strongly as a parallel to AIDS panic that many individuals, as well as religious and political groups, expressed during the spread of the disease.</mark>
 
-a sizable majority of Americans believes that no segment of the general population will be spared Aid you know this felt like it this felt like the end of the world I I've had the opportunity again to kind of revisit the reason why I'm still working at such a late age is because I didn't plan for retirement just like everybody else I thought I was going to be dead 
+</james>
+<clip>
 
-to Disney's credit the Mob song Taps into the demonization of people with AIDS but its placement in the film definitely sides with the demonized rather than the lynchers whether this was ashman's own coded messaging that flew under Disney's radar or was sanctioned by the mouse it's still worth noting as queer scholar Harry benof notes recent critical essays in the mass media have demonstrated how the representational codes and narrative tropes of the monster movie have been grafted onto much television and newspaper coverage of AIDS
+<u>[Newscaster clip]</u> Tom Brokaw: "A sizable majority of Americans believes that no segment of the general population will be spared AIDS." 
+
+<u>[Documentary footage?]</u> Older gentleman interviewee: "You know, this felt like, it-- this felt like the end of the world. I-I've had the opportunity again to kind of revisit the reason why I'm still working at such a late age is because I didn't plan for retirement. Just like everybody else, I thought I was going to be dead."
+
+</clip>
+<james {% include timecode %}>
+
+<mark>To Disney's credit, "the Mob Song" taps into the demonization of people with AIDS, but its placement in the film definitely sides with the demonized rather than the lynchers.</mark> Whether this was Ashman's own coded messaging that flew under Disney's radar or was sanctioned by the Mouse, it's still worth noting. <mark>As queer scholar Harry Benshof notes, "recent critical essays in the mass media have demonstrated how the representational codes and narrative tropes of the monster movie . . . have been grafted onto much television and newspaper coverage of AIDS."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.134-135"%}>
 
-Certainly, the lyrics written for “The Mob Song,” in which the villagers set out to attack the Beast, add to this method of interpretation. In the song, the villagers state, “We don’t like what we don’t understand, in fact it scares us,” and thus they must save their families and their lives by killing the Beast. The quotation reverberates strongly as a parallel to AIDS panic that many individuals, as well as religious and political groups, expressed during the spread of the disease. As Harry Benshoff notes, many “recent critical essays on the mass media have demon- strated how the representational codes and narrative tropes of the mon- ster movie . . . have been grafted onto much television and newspaper coverage of AIDS.”<sup>5</sup> “The Mob Song” taps into this demonization of persons with AIDS (PWAs) but its placement in the film definitely sides with the demonized rather than the lynchers speaking.
+<mark>Certainly, the lyrics written for “The Mob Song,” in which the villagers set out to attack the Beast, add to this method of interpretation. In the song, the villagers state, “We don’t like what we don’t understand, in fact it scares us,” and thus they must save their families and their lives by killing the Beast. The quotation reverberates strongly as a parallel to AIDS panic that many individuals, as well as religious and political groups, expressed during the spread of the disease.</mark> <mark num=3>As Harry Benshoff notes, many “recent critical essays on the mass media have demonstrated how the representational codes and narrative tropes of the monster movie . . . have been grafted onto much television and newspaper coverage of AIDS.”</mark><sup>5</sup> <mark num=2>“The Mob Song” taps into this demonization of persons with AIDS (PWAs) but its placement in the film definitely sides with the demonized rather than the lynchers speaking.</mark>
 
 </from>
 </compare>
@@ -735,25 +777,34 @@ Certainly, the lyrics written for “The Mob Song,” in which the villagers set
 <compare>
 <james {% include timecode %}>
 
-the Beast has given the lifespan of a magical Rose to find a cure to his curse someone to love that will love him in return and although missing the deadline means only that he'll remain a beast permanently The Narrative contrives to have him at the brink of death just as the last Petal Falls from the flower this messaging was adopted by many people hospitalized with the disease at the time those who knew they were near death would ask for a pink rose to sit on their bedside a beautiful ticking clock counting down to when they too would be lost forever 
+<mark>The Beast has given the life span of a magical rose to find a cure to his curse (someone to love that will love him in return), and although missing the deadline means only that he'll remain a beast permanently, the narrative contrives to have him at the brink of death just as the last petal falls from the flower.</mark> <mark fc=false>This messaging was adopted by many people hospitalized with the disease at the time. Those who knew they were near death would ask for a pink rose to sit on their bedside, a beautiful ticking clock counting down to when they, too, would be lost forever.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.135"%}>
 
-The Beast is given the life span of a magical rose to find a cure to his curse (someone to love that will love him in return), and although missing the deadline means only that he’ll remain a Beast permanently, the narrative contrives to have him on the brink of death just as the last petal falls from the flower. Also, the Beast goes through many of the “five stages” of emotional reaction to impending death: anger, denial, bargaining, depression and acceptance. The Beast is definitely an angry creature, and his initial attempts to woo Belle are blatant bargaining, done simply to remove the curse without necessarily feeling any actual love towards her. When he allows Belle to leave his domain, he enters a state of depression that makes him unwilling to defend himself against the mob that arrives to string him up. Most touchingly, the Beast reaches acceptance just at the moment of his seeming death. As a soft rain falls around them, Belle caresses the dying Beast, and the Beast ventures that “Maybe it’s better this way.” Belle protests, but the Beast looks up at her with love, touches her face as he says “At least I got to see you one last time” and then lapses into unconsciousness. (Of course, the tale resurrects the Beast and cures the spell when she says “I love you” just as he seems to expire.)
+<mark>The Beast is given the life span of a magical rose to find a cure to his curse (someone to love that will love him in return), and although missing the deadline means only that he’ll remain a Beast permanently, the narrative contrives to have him on the brink of death just as the last petal falls from the flower.</mark> Also, the Beast goes through many of the “five stages” of emotional reaction to impending death: anger, denial, bargaining, depression and acceptance. The Beast is definitely an angry creature, and his initial attempts to woo Belle are blatant bargaining, done simply to remove the curse without necessarily feeling any actual love towards her. When he allows Belle to leave his domain, he enters a state of depression that makes him unwilling to defend himself against the mob that arrives to string him up. Most touchingly, the Beast reaches acceptance just at the moment of his seeming death. As a soft rain falls around them, Belle caresses the dying Beast, and the Beast ventures that “Maybe it’s better this way.” Belle protests, but the Beast looks up at her with love, touches her face as he says “At least I got to see you one last time” and then lapses into unconsciousness. (Of course, the tale resurrects the Beast and cures the spell when she says “I love you” just as he seems to expire.)
 
 </from>
+<comment>
+
+Todd in the Shadows 4010s
+
+27. Dying AIDS patients kept a "Beauty and the Beast" rose by their beds
+
+(God, this one video in particular man, I--) Anyway, the source for this fact is... <u>[Close-up of the "Source?" "I made it up" meme]</u> you know, who knows, question mark. I'm inclined to disbelieve it just because... just, I mean just because it's so ghoulish and horrible to keep a symbolic ticking death clock by your bed. Are, are you sure you're not thinking of just like, regular flowers that you give to hospital patients? Again, this is one of the segments that's largely sourced from *Tinker Belles*, everything he says about *Beauty and the Beast* AIDS subtext is from that book except this detail.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-lesbian and gay employees of the theme parks remarked on how many of their friends with AIDS desired to visit Disneyland and Walt Disney World one last time also many AIDS quilt panels include Disney imagery Mouse ears Disney song lyrics and the like some panels commemorate Disney employees lost while some paid tribute to a Fan's Devotion to the Studio's products such dedication to a magical brand that used their suffering to win Oscars 
+<u>[James reads this part in a quite emotional, almost tearful voice.]</u> <mark>Lesbian and gay employees of the theme parks remarked on how many of their friends with AIDS desired to visit Disneyland and Walt Disney World</mark> one last time. Also, many AIDS quilt panels include Disney imagery - mouse ears, Disney song lyrics and the like. Some panels commemorate Disney employees lost, while some paid tribute to a fan's devotion to the studio's products. <mark fc=false>Such dedication to a magical brand that used their suffering to win Oscars.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.135-136"%}>
 
-PWAs “poached” from Disney texts long before *Beauty and the Beast*. Lesbian and gay employees of the theme parks remark on how many of their AIDS-infected friends desire to visit Disneyland and Walt Disney World, specifically seeing their trips as a way of dealing with their status. Also, many AIDS quilt panels include Disney imagery—mouse ears, Disney song lyrics and the like. Some panels commemorate Disney employees, but some pay tribute to a fan’s devotion to the studio’s products. While wrong to conceive that every Disney-influenced panel *must* refer to a homosexual (thus implying that AIDS is only a homosexual disease), certain panels make the sexual orientation of the remembered person quite clear. For example, one particularly colorful panel commemorating an adult male depicts an underwater scene and contains a number of lines from songs written for *The Little Mermaid* (1989), the animated musical Disney made just before *Beauty and the Beast*. Amongst these are such quotes as “The men up there don’t like a lot of blather,” and “Don’t forget the importance of body language.” The attention paid by television and print news to the displays of the AIDS Quilt might have made some, like Rather, more aware of the im- portance of Disney in these people’s lives, thus making it easier to un- derstand the 1991 film as an AIDS allegory.
+PWAs “poached” from Disney texts long before *Beauty and the Beast*. <mark>Lesbian and gay employees of the theme parks remark on how many of their AIDS-infected friends desire to visit Disneyland and Walt Disney World,</mark> specifically seeing their trips as a way of dealing with their status. <mark>Also, many AIDS quilt panels include Disney imagery — mouse ears, Disney song lyrics and the like. Some panels commemorate Disney employees, but some pay tribute to a fan’s devotion to the studio’s products.</mark> While wrong to conceive that every Disney-influenced panel *must* refer to a homosexual (thus implying that AIDS is only a homosexual disease), certain panels make the sexual orientation of the remembered person quite clear. For example, one particularly colorful panel commemorating an adult male depicts an underwater scene and contains a number of lines from songs written for *The Little Mermaid* (1989), the animated musical Disney made just before *Beauty and the Beast*. Amongst these are such quotes as “The men up there don’t like a lot of blather,” and “Don’t forget the importance of body language.” The attention paid by television and print news to the displays of the AIDS Quilt might have made some, like Rather, more aware of the im- portance of Disney in these people’s lives, thus making it easier to understand the 1991 film as an AIDS allegory.
 
 </from>
 </compare>
@@ -761,7 +812,24 @@ PWAs “poached” from Disney texts long before *Beauty and the Beast*. Lesbian
 <compare>
 <james {% include timecode %}>
 
-with Howard Ashman gone many at Disney worried that the magic might have been lost Howard is referred to by Roy Disney as another Walt which shocked me when I was interviewing him of all people why would Roy say this about Howard Ashman but he was to us and to our generation he was a Walt Disney type and I think Howard Ashman was the key to much of our success but Executives steamrolled ahead with their next big animated film Aladdin with some of the songs for the film having been completed by Ashman before his death they felt secure in its prospects gay employees especially were excited because Ashman had managed to insert even more of his Camp sensibilities into Aladdin than either mermaid or beast especially when it came to the genie played by lifelong queer Ally Robin Williams 
+With Howard Ashman gone, many at Disney worried that the magic might have been lost. 
+
+</james>
+<clip>
+
+<u>[Source: DVD Bonus Features of the documentary "Waking Sleeping Beauty" https://www.youtube.com/watch?v=9PggMaREbs0 0:30-0:46 </u>
+
+???: Howard is referred to by Roy Disney as another Walt, which shocked me when I was interviewing with him. Of all people, why would Roy say this about Howard Ashman? But he was, to us and to our generation, he was a Walt Disney type. 
+
+???: And I think Howard Ashman was the key to much of our success. 
+
+</clip>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But executives steamrolled ahead with their next big animated film, *Aladdin*. With some of the songs for the film having been completed by Ashman before his death, they felt secure in its prospects. Gay employees especially were excited because Ashman had managed to insert even more of his camp sensibilities into *Aladdin* than either *Mermaid* or *Beast*, especially when it came to the Genie, played by lifelong queer ally Robin Williams. 
 
 </james>
 <from></from>
@@ -770,12 +838,34 @@ with Howard Ashman gone many at Disney worried that the magic might have been lo
 <compare>
 <james {% include timecode %}>
 
-just as critics noticed that some aspects of these new Disney animated features were for savier audiences they wondered what will children make of a film whose main character character the genie himself has such obvious parental appeal they won't know precisely what Mr Williams is evoking while Robin Williams impromptu recording sessions did a lot of the heavy lifting for the final character of the genie ashman's songs for him had been written long before Williams was even signed and the character that Ashman creates through his lyrics definitely portrays an overblown Larger than Life gay tinged figure the genie first appears in a huge production number centered around him telling Aladdin yes sir throughout the song the genie Zips from one metaphor to another with endless enthusiasm sprinkling his speech with phrases like true dish later as Aladdin enters the palace disguised as Prince Ali the genie promotes him shamelessly by pointing out and describing how he got all doled up and dropped by
+<mark>Just as critics noticed that some aspects of these new Disney animated features were for savvier audiences, they wondered</mark>
+
+> <mark>"What will children make of a film whose main character - the Genie himself - has such obvious parental appeal? They [won't] . . . know precisely what Mr. Williams is evoking."</mark> 
+
+<mark>While Robin Williams' impromptu recording sessions did a lot of the heavy lifting for the final character of the Genie, Ashman's songs for him had been written long before Williams was even signed, and the character that Ashman creates through his lyrics definitely portrays an overblown, larger than life, gay-tinged figure. The genie first appears in a huge production number centered around him telling Aladdin, <u>[Clip is used]</u> “C’mon whisper what it is you want / You ain’t never had a friend like me.” Throughout the song, the Genie zips from one metaphor to another with endless enthusiasm, sprinkling his speech with phrases like <u>[no clip]</u>"true dish."</mark> <mark>Later, as Aladdin enters the palace disguised as Prince Ali, the Genie promotes him shamelessly by pointing out <u>[clip used]</u>“That physique! How can I speak? Weak at the knee,” and describing how he <u>[no clip]</u>“got all dolled up and dropped by.”</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.147"%}>
 
-Nowhere is this camp perspective more apparent than in the character of the Genie in *Aladdin*. Just as critics noticed that some aspects of these new Disney animated features were for “savvier” audiences, they wondered “What will children make of a film whose main attraction — the Genie himself — has such obvious parent appeal? They [won’t] . . . know precisely what Mr. Williams is evoking.”<sup>39</sup> While Robin Williams’ impromptu recording sessions contributed mightily to the final character of the Genie, Ashman’s songs for the Genie had been written long before Williams was signed, and the character that Ashman creates through his lyrics definitely portrays him as an overblown, larger than life “gay-tinged” figure. The Genie first appears in a huge production number centered around him telling Aladdin, “C’mon whisper what it is you want / You ain’t never had a friend like me.” Throughout the song, the Genie zips from one metaphor to another in endless enthusiasm, sprinkling his speech with phrases like “true dish!” and a lisping “you big nabob!” Later, as Aladdin enters the palace disguised as “Prince Ali,” the Genie promotes him shamelessly by pointing out “That physique! How can I speak? Weak at the knee,” and describing how he “got all dolled up and dropped by.”
+Nowhere is this camp perspective more apparent than in the character of the Genie in *Aladdin*. <mark>Just as critics noticed that some aspects of these new Disney animated features were for “savvier” audiences, they wondered</mark><mark> “What will children make of a film whose main attraction — the Genie himself — has such obvious parent appeal? They [won’t] . . . know precisely what Mr. Williams is evoking.”</mark><sup>39</sup> <mark>While Robin Williams’ impromptu recording sessions contributed mightily to the final character of the Genie, Ashman’s songs for the Genie had been written long before Williams was signed, and the character that Ashman creates through his lyrics definitely portrays him as an overblown, larger than life “gay-tinged” figure. The Genie first appears in a huge production number centered around him telling Aladdin, “C’mon whisper what it is you want / You ain’t never had a friend like me.” Throughout the song, the Genie zips from one metaphor to another in endless enthusiasm, sprinkling his speech with phrases like “true dish!”</mark> and a lisping “you big nabob!” <mark>Later, as Aladdin enters the palace disguised as “Prince Ali,” the Genie promotes him shamelessly by pointing out “That physique! How can I speak? Weak at the knee,” and describing how he “got all dolled up and dropped by.”</mark>
+
+</from>
+<comment>
+
+James again changes one word in the quote, "[main] attraction" to "[main] character," making it incorrect because the Genie is not the main character, Aladdin is.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>While these examples tend to promote reading the Genie as a gay male, the character's manic nature often spills beyond this simple category, epitomizing what is truly a queer figure. While casting Williams makes the Genie ostensibly male, "he" rapidly shifts into a number of caricatures of famous people (William F. Buckley, Groucho Marx, Ethel Merman, Jack Nicholson and Arsenio Hall amongst others) and even gets in drag... multiple times (a flight attendant, a harem girl, a cheerleader.)</mark> <mark>He displays overt male heterosexuality one second as Arnold Schwarzenegger, then a caricature of homosexuality in the next second as a swishy tailor measuring Aladdin for his Prince Ali outfit. Everything is overemphasized (the Hirschfield-inspired drawings, the hyperkinetic voice of Williams) and it's paced lightning fast. The overabundance of transformation flaunts the instability of identity in the viewer's face, hilariously critiquing theories of essentialism in the process. It is all just another costume for the Genie to put on and discard.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.147"%}>
+
+<mark>While these examples tend to promote reading the Genie as a “gay male,” the character’s manic nature often spills beyond this simple category, becoming a truly “queer” figure.<sup>40</sup> While casting Williams makes the Genie ostensibly male, “he” rapidly shifts into a number of caricatures of famous people (William F. Buckley, Groucho Marx, Ethel Merman, Jack Nicholson and Arsenio Hall amongst others) as well as crossdresses (a flight attendant, a harem girl, a cheerleader)</mark> and even becomes different species (a goat, a sheep, a bumblebee). <mark>He displays “mucho-macho” male heterosexuality one second as Arnold Schwarzenegger, then a caricature of homosexuality in the next second as a swishy tailor measuring Aladdin for his Prince Ali outfit. Everything is overemphasized (the Hirschfeld-inspired drawings, the hyperkinetic voice of Williams) and paced lightning fast. The overabundance of transformation flaunts the instability of identity in the viewer’s face, hilariously critiquing theories of essentialism in the process. It is all just another costume for the Genie to put on and discard.</mark>
 
 </from>
 </compare>
@@ -783,38 +873,36 @@ Nowhere is this camp perspective more apparent than in the character of the Geni
 <compare>
 <james {% include timecode %}>
 
-while these examples tend to promote reading the genie as a gay male the character's manic nature often spills Beyond this simple category epitomizing what is truly a queer figure while casting Williams makes the genie extensively male he rapidly shifts into a number of caricatures of famous people William F Buckley grouo Marx Ethel Morman Jack Nicholson and arcenio Hall amongst others and even gets in drag multiple times a flight attendant a Herm girl a cheerleader he displays overt male heterosexuality 1 second as Arnold Schwarzenegger then a caricature of homosexual it in the next second is a swishy tailor measuring Aladdin for his Prince Ali outfit everything is overemphasized the hersfield inspired drawings the hyperkinetic voice of Williams and its pasted Lightning Fast the overabundance of transformation flaunts the instability of identity in the viewer's face hilariously critiquing theories of essentialism in the process it is all just another costume for the genie to put on and discard 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.147"%}>
-
-While these examples tend to promote reading the Genie as a “gay male,” the character’s manic nature often spills beyond this simple cat- egory, becoming a truly “queer” figure.<sup>40</sup> While casting Williams makes the Genie ostensibly male, “he” rapidly shifts into a number of caricatures of famous people (William F. Buckley, Groucho Marx, Ethel Merman, Jack Nicholson and Arsenio Hall amongst others) as well as crossdresses (a flight attendant, a harem girl, a cheerleader) and even becomes different species (a goat, a sheep, a bumblebee). He displays “mucho-macho” male heterosexuality one second as Arnold Schwarzenegger, then a caricature of homosexuality in the next second as a swishy tailor measuring Aladdin for his Prince Ali outfit. Everything is overemphasized (the Hirschfeld-inspired drawings, the hyperkinetic voice of Williams) and paced lightning fast. The overabundance of transformation flaunts the instability of identity in the viewer’s face, hilariously critiquing theories of essentialism in the process. It is all just another costume for the Genie to put on and discard.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-acknowledging the queerer nature of the genie though it is much easier to appreciate him from a gay male perspective particularly in his relationship with Aladdin as mentioned at one point the genie transforms into a prissy gay tailor mincing as he advises snipp first that Fez and vest combo is much to third Century these patches what are we trying to say beggar no let's work with me here during one emotional High Point in the narrative the genie tells Aladdin oh well I'm getting kind of fond of you kid not that I want to pick out curtains or anything the final ful clinch at the end of the film is not between Aladdin and the Princess Jasmine but between Aladdin and the genie the gay male aspects of Aladdin go much further than just the presence of the genie though animator Andreas DOA has admitted to drawing Jafar to be specifically a gay character flipping the script on the older single woman praying on a young girl to the even more toxic image of an older gay man praying on a teenage boy this was wrer around the time that the public at large became aware of nbla or the North American manboy love Association so the timing was a bit problematic the group actually used images from Aladdin in their messaging at the time a bold move considering how litigious Disney can be it's not shocking though what with both the genie and Jafar being obsessed with how Aladdin looks 
+<mark>Acknowledging the queerer nature of the Genie, though, it is much easier to appreciate him</mark> <mark>from a gay male perspective,</mark> <mark>particularly in his relationship with Aladdin. As mentioned, at one point the Genie transforms into a prissy gay tailor mincing as he advises snippily, <u>[clip used]</u>"First, that fez and vest combo is much too third century. These patches, what are we trying to say, beggar? No. [...] Let's work with me here." During one emotional high point in the narrative, the Genie tells Aladdin, <u>[clip used]</u>"Aww Al, I'm getting kind of fond of you, kid. Not that I want to pick out curtains or anything." The final tearful clinch at the end of the film is not between Aladdin and the princess Jasmine, but between Aladdin and the Genie. The gay male aspects of *Aladdin* go much further than just the presence of the Genie, though. Animator Andreas Deja has admitted to drawing Jafar to be specifically a gay character,</mark> flipping the script on the older single woman praying on a young girl to the even more toxic image of an older gay man praying on a teenage boy. This was right around the time that the public at large became aware of NAMBLA, or the North American Man/Boy Love Association, so the timing was a bit problematic. <mark fc=false>The group actually used images from *Aladdin* in their messaging at the time, a bold move considering how litigious Disney can be.</mark> It's not *shocking* though, what with <mark num=4>both the Genie and Jafar being obsessed with how Aladdin looks. </mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.147-148"%}>
 
-Acknowledging the “queerer” nature of the Genie, though, it is much easier to appreciate him (note gender identification) from a gay male viewpoint than, say, a lesbian viewpoint, particularly in his relationship with Aladdin. As mentioned, at one point the Genie transforms into a prissy gay tailor mincing as he advises snippily, “Those rags are much too ‘3rd-century’ — work with me here!” During one emotional high point in the narrative, the Genie tells Aladdin, “I’m getting kind of fond of you too, kid . . . not that I want to go shopping for curtains or anything.” The final tearful clinch at the end of the film is not between Aladdin and the princess Jasmine, but between Aladdin and the Genie. The “gay male” aspects of Aladdin go much farther than just the presence of the Genie, though. Deja’s admitted conception of the villainous Jafar as gay (making his relationship with his male parrot cohort Iago all the more intriguing) is almost in direct juxtaposition to the Genie. Both are tied directly to the hero Aladdin — one trying to help him, one trying to destroy him — and both are constantly concerned with how Aladdin looks.
+<mark>Acknowledging the “queerer” nature of the Genie, though, it is much easier to appreciate him</mark> (note gender identification) <mark>from a gay male viewpoint</mark> than, say, a lesbian viewpoint, <mark>particularly in his relationship with Aladdin. As mentioned, at one point the Genie transforms into a prissy gay tailor mincing as he advises snippily, “Those rags are much too ‘3rd-century’ — work with me here!” During one emotional high point in the narrative, the Genie tells Aladdin, “I’m getting kind of fond of you too, kid . . . not that I want to go shopping for curtains or anything.” The final tearful clinch at the end of the film is not between Aladdin and the princess Jasmine, but between Aladdin and the Genie. The “gay male” aspects of *Aladdin* go much farther than just the presence of the Genie, though. Deja’s admitted conception of the villainous Jafar as gay</mark> (making his relationship with his male parrot cohort Iago all the more intriguing) is almost in direct juxtaposition to the Genie. Both are tied directly to the hero Aladdin — one trying to help him, one trying to destroy him — and <mark>both are constantly concerned with how Aladdin looks.</mark>
 
 </from>
+<comment>
+
+Todd in the Shadows 3571s
+
+23. NAMBLA appropriated images from Disney's "Aladdin"
+
+<u>[sighs]</u> This is just another claim which seems to come from nothing, or at least nothing I could find. Also it sounds like he's saying they got away with it? No. No, if fucking NAMBLA had stolen images from Disney, the Mouse would eat them alive. 
+
+For the record, the bulk of this Disney video (I'd say about two thirds of it) is sourced from *Tinker Belles and Evil Queens* by Sean Griffin, so this is another one where you can just easily compare Somerton's video to the book and see what details he's added. Almost *everything* in that segment about Aladdin's gay subtext is from the book, *except* that NAMBLA detail. I guess he could be sprinkling in tidbits from other sources, but I feel like I would have found it, that's why I don't believe this.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-in fact the studio itself worked endlessly to create a visually pleasing body and face for Aladdin something that ended up creating the first animated Crush for a lot of young gay boys out there Disney's animators were accustomed to creating beautiful female figures with large eyes small waists pleasing soft curvs yet the animation Department also had a history of less success creating visually pleasing male characters especially during Walt's tenure except for Prince Phillip who doesn't love Prince Phillip with Aladdin then Disney's animators were faced with creating an objectified male body most critics agree that the various princes accompanying princesses seem wooden and are usually absent from the screen due to their lack of appeal in fact until Aladdin only Peter Pan had been successful in presenting a male figure that came close to the appeal of Snow White or her counterparts well maybe Robin Hood 
+<mark>In fact, the studio itself worked endlessly to create a visually pleasing body and face for Aladdin, something that ended up creating the first animated crush for a lot of young gay boys out there.</mark> <mark>Disney's animators were accustomed to creating beautiful female figures (large eyes, small waists, pleasing soft curves). Yet, the animation Department also had a history of less success creating visually pleasing male characters,</mark> especially during Walt's tenure. Except for Prince Phillip, who doesn't love Prince Phillip? <mark>With Aladdin then, Disney's animators were faced with creating an objectified male body. Most critics agree that the various princes accompanying princesses seem "wooden" and are usually absent from the screen due to their lack of appeal. In fact, until *Aladdin*, only</mark> <mark>*Peter Pan* had been successful in presenting a male figure that came close to the appeal of Snow White or her counterparts.</mark> Well, maybe Robin Hood. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.148"%}>
 
-In fact, the studio itself worked endlessly to create a visually pleasing body and face for Aladdin — a development that would obviously interest more gay male customers than lesbians. Having worked mainly on stories with female leads (Snow White, Cinderella, Sleeping Beauty, Ariel, Belle), Disney’s animators were accustomed to creating beautiful (read: fetishized) female figures (large eyes, small waists, pleasing soft curves). Yet, the animation department also had a history of less success in creating visually pleasing male characters. With *Aladdin* then, Disney’s animators were faced with creating an objectified male body.<sup>41</sup> Most critics agree that the various princes accompanying Snow White, Cinderella and Sleeping Beauty seem “wooden” and are usually absent from the screen due to their lack of “appeal.”<sup>42</sup> In fact, until *Aladdin*, only *Pinocchio* (1940) and *Peter Pan* (1953) had been successful in presenting male figures that came close to the “appeal” of Snow White or her counterparts. (It is interesting that while both are ostensibly male, their masculinity is problematized; the appeal of Pinocchio is more in his wooden puppet form than as the human boy he becomes, and the sexual ambiguity of Pan’s persona has been discussed by many.)<sup>43</sup>
+<mark>In fact, the studio itself worked endlessly to create a visually pleasing body and face for Aladdin — a development that would obviously interest more gay male customers</mark> than lesbians. Having worked mainly on stories with female leads (Snow White, Cinderella, Sleeping Beauty, Ariel, Belle), <mark>Disney’s animators were accustomed to creating beautiful (read: fetishized) female figures (large eyes, small waists, pleasing soft curves). Yet, the animation department also had a history of less success in creating visually pleasing male characters.</mark> <mark>With *Aladdin* then, Disney’s animators were faced with creating an objectified male body.<sup>41</sup> Most critics agree that the various princes accompanying Snow White, Cinderella and Sleeping Beauty seem “wooden” and are usually absent from the screen due to their lack of “appeal.”<sup>42</sup> In fact, until *Aladdin*, only</mark> *Pinocchio* (1940) and <mark>*Peter Pan* (1953) had been successful in presenting male figures that came close to the “appeal” of Snow White or her counterparts.</mark> (It is interesting that while both are ostensibly male, their masculinity is problematized; the appeal of Pinocchio is more in his wooden puppet form than as the human boy he becomes, and the sexual ambiguity of Pan’s persona has been discussed by many.)<sup>43</sup>
 
 </from>
 </compare>
@@ -822,14 +910,14 @@ In fact, the studio itself worked endlessly to create a visually pleasing body a
 <compare>
 <james {% include timecode %}>
 
-with ashman's involvement in Aladdin being cut short by his death certain Concepts he held for the project ended up dropped or Modified by the studio one major change was the elimination of the character of Aladdin's mother for whom Ashman had written the song proud of your boy to declaring her love for her son no matter how he lives his life this owed to maternal love attempted to tell Aladdin not to be ashamed of himself or want to be someone else just to make people accept him its message isn't exactly subtle so of course Disney cut it although Aladdin became an orphan in the final version of the film would it be a Disney movie if there weren't orphans his self-hatred and desire to become someone else still figur strongly into the narrative he pretends to be Prince Ali in order to find a new life in which he is welcomed and adored by Society instead of being called down to the lowest a street rat Aladdin must learn to accept himself for who he is before the narrative can reach its conventional happy ending 
+<mark>With Ashman's involvement in *Aladdin* being cut short by his death, certain concepts he held for the project ended up dropped or modified by the studio. One major change was the elimination of the character of Aladdin's mother, for whom Ashman had written the song, "Proud of Your Boy," declaring her love for her son no matter how he lives his life. This ode to maternal love attempted to tell Aladdin not to be ashamed of himself or want to be someone else just to make people accept him. Its message isn't exactly subtle,</mark> so of course Disney cut it. <mark>Although Aladdin became an orphan in the final version of the film</mark> (would it be a Disney movie if there weren't orphans), <mark>his self-hatred and desire to become someone else still figure strongly into the narrative. He pretends to be Prince Ali in order to find a new life in which he is welcomed and adored by society instead of being called down to the lowest, a street rat. Aladdin must learn to accept himself for who he is before the narrative can reach its conventional happy ending. </mark>
 
-some producers of Aladdin have claimed the queer coding in the film was entirely accidental and in fact it's so subtle that a lot of people don't pick it up but with ashman's involvement writing the songs and helping to develop the story after being diagnosed with AIDS knowing it might be his last project I'm willing to bet that the coding is there on purpose 
+Some producers of *Aladdin*<sup>who?</sup> have claimed the queer coding in the film was entirely accidental, and in fact it's so subtle that a lot of people don't pick it up. But with Ashman's involvement writing the songs and helping to develop the story after being diagnosed with AIDS, knowing it might be his last project, I'm willing to bet that the coding is there on purpose. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.149"%}>
 
-Ashman’s involvement in Aladdin was cut short by his death, and certain concepts he held for the project ended up dropped or modified by the studio. One major change was the elimination of the character of Aladdin’s mother, for whom Ashman had written a song, “Proud of Your Boy,” declaring her love for her son no matter how he lives his life.<sup>45</sup> This song of love attempted to tell Aladdin not to be ashamed of himself or want to be someone other than himself. The song’s message to homosexuals obviously lies close to the surface. Although Aladdin became a loner in the final version of the film, his self-hatred and desire to become someone else still figures strongly in the narrative. He pretends to be “Prince Ali” in order to find a new life in which he is welcomed and adored by society instead of being labeled a “street rat.” Aladdin must learn to accept himself for who he is before the narrative can reach its conventional happy ending.
+<mark>Ashman’s involvement in Aladdin was cut short by his death, and certain concepts he held for the project ended up dropped or modified by the studio. One major change was the elimination of the character of Aladdin’s mother, for whom Ashman had written a song, “Proud of Your Boy,” declaring her love for her son no matter how he lives his life.<sup>45</sup> This song of love attempted to tell Aladdin not to be ashamed of himself or want to be someone other than himself. The song’s message to homosexuals obviously lies close to the surface.</mark><mark> Although Aladdin became a loner in the final version of the film,</mark> <mark>his self-hatred and desire to become someone else still figures strongly in the narrative. He pretends to be “Prince Ali” in order to find a new life in which he is welcomed and adored by society instead of being labeled a “street rat.” Aladdin must learn to accept himself for who he is before the narrative can reach its conventional happy ending.</mark>
 
 </from>
 </compare>
@@ -837,7 +925,151 @@ Ashman’s involvement in Aladdin was cut short by his death, and certain concep
 <compare>
 <james {% include timecode %}>
 
-in Disney's Next animated feature we wouldn't get a sea drag queen an AIDS allegory or a campy Genie instead we got accidental gay parents and yet another queer coded villain but before then Disney accidentally produced an iconic entry into the queer cinematic Canon with Hocus Pocus no gay coding here though I always hoped Zary Binks was gay just three campy witches that would go on to inspire Generations upon generations of drag queens now to the Lions though we may not remember it The Lion King was pretty controversial upon release Disney's return to the main stage of Animation in the early 90s with the little mermaid had pissed off a lot of feminists who were a gas that Disney made a movie in which the female lead literally has her voice stolen from her to fix this they made Bell a very proactive intelligent character in Beauty and the Beast then they received a huge amount of backlash from arab-americans after the release of Aladdin for some less than sensitive lyrical choices and having an all-white voice cast 
+In Disney's next animated feature, we wouldn't get a sea drag queen, an AIDS allegory, or a campy Genie. Instead, we got accidental gay parents and yet another queer coded villain. But before then, Disney accidentally produced an iconic entry into the queer cinematic canon with *Hocus Pocus*. No gay coding here, though I always hoped Thackery Binks was gay, just three campy witches that would go on to inspire generations upon generations of drag queens. 
+
+Now... to the lions. Though we may not remember it, *The Lion King* was pretty controversial upon release. Disney's return to the main stage of animation in the early 90s with *The Little Mermaid* had pissed off a *lot* of feminists, who were aghast that Disney made a movie in which the female lead literally has her voice stolen from her. <mark>To fix this, they made Belle a very proactive, intelligent character in *Beauty and the Beast*.</mark> Then they received a huge amount of backlash from Arab Americans after the release of *Aladdin* for some... <u>[On screen, lyrics to "Arabian Nights" are shown: "Where they cut off your ear / If they don't like your face / It's barbaric, but hey, it's home."]</u> ... less than sensitive lyrical choices, and having an all-white voice cast. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.207"%}>
+
+<mark>The studio attempted to respond to these complaints when working on the character Belle in *Beauty and the Beast*, taking care to show her intelligence and independence,</mark> although the narrative still focuses on which man she will marry. 
+
+</from>
+<comment>
+
+This is, roughly, a paraphrase of p.207-210 of Griffin, combined with general pop culture knowledge. Some additional context: Disney actually hired a woman screenwriter, Linda Woolverton, for *Beauty and the Beast*, (likely) in response to the feminist critiques of *The Little Mermaid* (143, 207, 210), rising from Ariel's dependence on male characters (the book does not mention this commonly-cited "pop culture" feminist critique regarding Ariel's voice.) Still, he notes, "The variety of reaction from women when the film was released points out that many of the problems women found in *The Little Mermaid* were not solved. Consequently, while many gay men responded warmly to Beauty and the Beast, many lesbians might have had a hard time finding anything they could take from a film in which the female lead’s only duty is to choose whether she will marry an egotistical macho jerk or a male behemoth." (207-208) As for the criticisms by Arab Americans, I didn't see a criticism of the voice cast mentioned in the book, and the lyric criticisms were part of a larger criticism of how Arab culture is portrayed in *Aladdin* (which is to say, in a very sterotypical, orientalist way that does not at all match reality.)
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>To fix this, they made sure to hire actors of color to voice characters in *The Lion King*, but, again, they ran into problems.</mark> <mark>Robert Guillaume was cast as Rafiki, who was immediately deemed an Uncle Tom character, while Whoopi Goldberg and Cheech Marin were cast as bumbling villains.</mark> Simba is White, Scar is White, Timon and Pumbaa are White. With the exception of James Earl Jones as Mufasa, most of the lead characters were voiced by White actors, something that did not please Disney's African American fans. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.210"%}>
+
+The studio might have thought it would avoid the flack it received over *The Little Mermaid* and *Aladdin* when it began work on The Lion King, an all-animal cartoon. Similar in strategy to *Pocahontas*, <mark>a number of African Americans were hired as voice artists for this story about animals in the African veldt. Yet, the film elicited protests from many groups.</mark> Even if Ariel was a problematic character for feminists, at least she was the focus of the narrative. In *The Lion King*, lionesses (not to mention females from other species) are barely present. Many African Americans were also disturbed that the film actively refused to show any existence of human African civilization. <mark>The use of actor Robert Guillaume to create a mystic baboon with an Uncle Tom accent and Whoopi Goldberg and Cheech Marin as villainous (and boorish) hyenas</mark> who live in what constitutes the veldt’s ghetto did not help matters either.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But with all the talk of race, many people missed the queer messaging in the film. <u>[Screenshot of an obscure Medium article titled ["Racism in The Lion King"](https://medium.com/writing-the-ship/racism-in-the-lion-king-2c7a044ec6de)]</u> <mark>With songs by Elton John and an ad campaign that included cartoon characters saying that the film was "to die for,"</mark> a term that was just making its way out of the ballroom culture and into the mainstream, <mark>there seemed to be plenty for gay audiences to enjoy. Contrary to the complaints of non-visibility by women,</mark> Arab Americans, <mark>and African Americans, *gay* animals could be found quite easily in the film - gay *male* animals voiced by *White* actors. The adviser to the lion king is a fussy and pompous bird named Zazu, who seems to be modeled after queer actor Clifton Webb. Timon and Pumbaa, a meerkat and a warthog that Simba befriends after he is banished from his pride, can *easily* be read as a gay couple. They live happily together, reving in their marginalization from the rest of jungle society, and look disapprovingly at Simba's budding heterosexual romance. Voiced by out actor Nathan Lane, Timon has the personality of a New York drag queen: all patter and shtick, and ready to burst into a showtune at the drop of a hat, while Pumbaa</mark> <mark>depends on Timon constantly. </mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211"%}>
+
+<mark>With the songs of Elton John and an ad campaign that included cartoon characters saying that the film was “to die for”</mark> or that they would “put on a grass skirt and do the hula” to get customers into the theatre, <mark>there seemed to be plenty for gay audiences to enjoy. Contrary to the complaints of nonvisibility by women</mark> <mark>and African Americans, “gay” animals could be found quite easily in the film — gay *male* animals voiced by *white* actors. The advisor to the lion king is a fussy and pompous bird named Zazu, who seems to be modeled after actor Clifton Webb. Timon and Pumbaa, a meerkat and a warthog that the lion cub protagonist Simba befriends after he is banished from his tribe, can be easily read as a gay male couple. They live happily together, reveling in their marginalization from the rest of jungle society, and look askance at Simba’s budding heterosexual romance with a lioness. Voiced by Nathan Lane, who has played a number of gay male roles on stage and screen, Timon has the personality of a New York show queen: all patter and schtick, and ready to burst into a showtune at the drop of a hat. Pumbaa,</mark> the slower-witted of the pair, <mark>depends on Timon constantly,</mark> and the film prominently features his behind. Timon and Pumbaa would eventually star in their own animated TV series within the “Disney Afternoon,” where they would actually become even more gay-tinged. As Gael Sweeney discovered in her analysis of the program, the pair often function in episodes as a married couple and act as parents to young children in a number of storylines. Also, the two seem to enjoy dressing up in various types of drag throughout the run of the series.<sup>76</sup>
+
+</from>
+<comment>
+
+Nathan Lane had not publicly come out at the time of *The Lion King*'s release; [he came out in 1999](https://books.google.com/books?id=EmMEAAAAMBAJ&dq=Nathan+Lane+advocate&pg=PA31#v=onepage&q=Nathan%20Lane%20advocate&f=false), after the murder of Matthew Shepard.
+
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The most obvious queer figure in the film though, of course, is the villain, Scar, voiced by Jeremy Irons, who portrays a physically weak scoundrel who makes up for his lack of sheer strength with catty remarks and insidious plotting. The character swishes about and shows disdain at the concept of a heterosexual family as he plots to take the throne for himself. When Scar refers to Simba as a "hairball," Mufasa warns, <u>[clip used]</u> "That hairball is my son and your future king." "Oh, I shall practice my curtsy!" Later, when Simba laughs and tells Scar, "You're so weird." "You have *no* idea." 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211"%}>
+
+The most obvious gay figure in the film is the villainous lion Scar, voiced by Jeremy Irons, who archly portrays a physically weak male who makes up for his lack of sheer strength with catty remarks and invidious plotting. Animated by Deja, the character fairly swishes, disdaining the concept of the heterosexual family in his attempt to usurp the throne for himself. When Scar refers to the cub prince Simba as a “hairball,” Mufasa (Simba’s father and king) warns “That ‘hairball’ is my son and your future king.” Scar dons a mockingly prissy gracious- ness as he responds snidely, “Oh! I shall practice my curtsy!” Later, when Simba laughs and tells Scar, “You’re so weird,” the bored villain stares him straight in the eye and intones, “You have *no* idea . . .”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>While Disney's villains have routinely veered toward camp,</mark> <mark>the signifiers that seem to ally Scar with homosexuality have an added dose of menace. After the viewer enjoys his dry gay wit in the opening sections of the film, he sings a musical number that becomes an animated version of the Nurmberg rallies, with Scar at the podium as hyena henchmen goosestep in perfect cadence before him. The color scheme turns monochromatic during this section, furthering the similarities to the</mark> Leni Riefenstahl Nazi propaganda of <mark>*The Triumph of the Will*. Unlike other Disney villains, Scar actually kills someone (even the evil Queen in *Snow White* didn't manage to do that.)</mark> <mark>His reign over the kingdom seems to directly cause drought, pestilence and the general destruction of the ecosystem. It is only with the restoration of Simba to the throne that the land comes back to life, in a dissolve that makes the change seem miraculously immediate.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211-212"%}>
+
+<mark>While Disney’s villains have routinely veered towards camp</mark> (Captain Hook, Cruella de Vil, Ursula, Jafar), <mark>the signifiers that seem to ally Scar with homosexuality become disturbing. After the viewer enjoys his dry gay wit in the opening sections of the film, the fey lion sings a musical solo that becomes an animated version of the Nuremberg rallies, with Scar at the podium as hyena henchmen goosestep in perfect cadence before him. The color scheme turns monochromatic during this section, furthering the similarities to the</mark> Nuremberg documentary <mark>*The Triumph of the Will* (1936). Unlike the other villains, Scar actually kills someone (not even the evil Queen in Disney’s *Snow White* [1937] did that),</mark> when he throws Mufasa from a cliff into a stampede of wildebeests. <mark>His reign over the kingdom seems to directly cause drought, pestilence and the general destruction of the ecosystem. It is only with the restoration of Simba to the throne that the land comes back to life, in a dissolve that makes the change seem miraculously immediate.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Scar's unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent. This social system is canonized during the film's opening number, "The Circle of Life."</mark> <mark>While Scar actively defies the social order celebrated in this number, the other gay figures help the young straight lion and are not seen as monsters mainly because they view him as the rightful ruler of the land. Zazu, Timon and Pumbaa all aid Simba in his quest to reestablish his claim to the throne, endorsing his divine right. </mark>
+
+<mark>This would fit directly into ho</mark>w establishment liberals in corporate America like the queers to behave. "Fit into the already established social roles and everything will be okay." Pete Buttigeeg got to run for president because he was essentially a straight man with a husband  (suburban home, two dogs, no children yet, but surely they'll be on their way by 2024), fitting into exactly what heteronormative society expects. But Scar doesn't fit that mold, refuses to fit into that mold, and so he's looked down upon by the other lions, basically excommunicated from the pride. And since he doesn't fit the mold, he's portrayed as a Nazi, Hitler himself in fact, with all the mincing mannerisms that Hitler has been mocked for over the years. While *The Lion King* became a massive hit, Disney had to add gay men to the list of people unhappy with their product
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.212"%}>
+
+<mark>Scar’s unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent. This social system is canonized during the film’s opening number, “The Circle of Life,”</mark> which was used in its entirety as a theatrical trailer for the film — drawing in audiences through a ritual performance of heterosexual male privilege. <mark>While Scar actively defies the social order celebrated in this number, the other gay figures help the young “straight” lion and are not seen as monsters mainly because they view him as the rightful ruler of the land. Zazu, Timon and Pumbaa all aide Simba in his quest to reestablish his claim to the throne, endorsing his “divine right.”</mark> <mark>This would fit directly into how</mark> the corporations that target “the gay consumer” would like to define homosexual individuals as a market but not as a political social group.<sup>77</sup> By buying into the society, “the gay consumer” effectively supports the hegemonic order, much as Simba’s gay friends aid his return to power. The power of the film’s endorsement of heterosexual patriarchy on audience members was made clear when the *Timon and Pumbaa* TV series began airing. Since Simba did not appear in the show, Timon and Pumbaa’s “gayness” became all the more obvious and was not used to endorse the “natural order” of heterosexual dominance. Some Internet fans of the original film voiced outrage because the series seemed to be reveling in gay camp, countering the philosophies they found valuable in *The Lion King*.<sup>78</sup>
+
+</from>
+<comment>
+
+Pete Buttigieg does indeed have children now; [he and his husband adopted newborn fraternal twins in 2021](https://abcnews.go.com/Politics/pete-buttigieg-husband-introduce-babies-family-photo/story?id=79832236). But like, if you have an issue with him, then target his policies or public statements, not his lifestyle.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>John E. Harris wrote about his feelings on Scar's betrayal for the *Christopher
+Street* periodical:</mark> 
+
+> <mark>"On a deep level the lion King<sup class="add">[sic: *The Lion King*]</sup> dramatizes the danger of 'single affected males' to any society... implying that they have the power to destroy an entire civilization. This is of course the message that Pat Robertson and Pat Buchanan routinely sign-off on in order to scapegoat homosexuals for such heterosexual problems as abortion, single mothers, and the high divorce rate."</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.212-213"%}>
+
+Not all homosexual individuals willingly bought into the messages that *The Lion King* seemed to be sending. While some were entertained by Timon and Pumbaa, and identified with the “father issues” that Simba had to work through after being cast out by his community, <mark>others noticed the “lasting impression” of Scar (to coin a phrase). Writing for the gay periodical *Christopher Street*, John E. Harris noted how:</mark> 
+
+> <mark>On a deep level, *The Lion King* dramatizes the danger of single “affected” males to any society, implying that they have the power to destroy an entire civilization. This is, of course, the message that Pat Robertson and Pat Buchanan routinely sign-off on in order to scapegoat homosexuals for such heterosexual problems as abortion, single mothers, and the high divorce rate.</mark><sup>79</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Harris also noted in his review the possible racist implications of the hyenas, an aspect that Todd Hayward analyzed in great deal<sup class="add">[sic: detail]</sup> for an article in the West Hollywood gay 'zine *Planet Homo*. Unlike the film, which conceives of race, gender and sexuality as mutually exclusive concepts, Hayward links the negative racial and gender connotations with issues of sexuality, writing:</mark> 
+
+> <mark>"Disney's moral hierarchy has implications which are damaging to all of us who lie outside the 'mainstream.'" </mark>
+
+<mark>Hayward's analysis explicitly displays how queer activism and... theory counters concepts of the "gay consumer" with the recognition that not all homosexuals are white upscale men with the money or inclination to support Disney's product.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.213"%}>
+
+<mark>Harris also noted in his review the possible racist implications of the hyenas, an aspect that Todd Hayward analyzed in great detail for an article in the West Hollywood gay ’zine *Planet Homo*. Unlike the film, which conceives of race, gender and sexuality as mutually exclusive concepts, Hayward links the negative racial and gender connotations with issues of sexuality:</mark> <mark>“Disney’s moral hierarchy has implications which are damaging for all of us who lie outside the ‘mainstream.’”</mark><sup>80</sup> <mark>Hayward’s analysis explicitly displays how “queer” activism and theory counters concepts of “the gay consumer” with the recognition that not all homosexuals are white upscale men with the money or the inclination to support Disney’s product.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+> "Readers may be asking themselves, 'But if you substitute Disney’s simplicity with relativity, and if you make good characters physically indistinguishable from bad characters, or if you do away with all of *The Lion King*’s polarizations of good and evil, then everyone in the theatre has to come to his or her own conclusions about the film’s content.' To objections of this nature, I respond with a resounding, '*Good!*' Films that set up neat systems of good and evil — do’s and don’ts — are part of the pervasive simplemindedness that posits heterosexuality and queerdom as irreconcilable opposites which cannot co-exist respectfully."
+
+</james>
+<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.213"%}>
+
+> Readers may be asking themselves, “But if you substitute Disney’s simplicity with relativity, and if you make good characters physically indistinguishable from bad characters, or if you do away with all *The Lion King*’s polarizations of good and evil, then everyone in the theatre has to come to his or her own conclusions about the film’s content.” To objections of this nature, I respond with a resounding, “*Good!*” Films that set up neat systems of good and evil — do’s and don’ts — are part of the pervasive simplemindedness that posits heterosexuality and queerdom as irreconcilable opposites which cannot co-exist respectfully.<sup>81</sup>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Disney continued their trend of coding villains queer with the release of 1996's *Pocahontas*, a film where every Native male is portrayed as traditionally masculine, two-spirit people do not exist, and the villain is a flouncy rotund man who wears pink velvet, little bows in his hair, and has a devoted male companion.
 
 </james>
 <from></from>
@@ -846,160 +1078,56 @@ in Disney's Next animated feature we wouldn't get a sea drag queen an AIDS alleg
 <compare>
 <james {% include timecode %}>
 
-to fix this they made sure to hire actors of color to voice characters in The Lion King but again they ran into problems Robert gume was cast as Rafiki who was immediately deemed an Uncle Tom character while whoopy Goldberg and chich Marin were cast as bumbling villains 
-
-Simba is White Scar is white Timone and Pumba are white with the exception of James ear jones as Mufasa most of the lead characters were voiced by white actors something that did not please Disney's African-American fans but with all the talk of race many people missed the queer messaging in the film 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.210"%}>
-
-The studio might have thought it would avoid the flack it received over *The Little Mermaid* and *Aladdin* when it began work on The Lion King, an all-animal cartoon. Similar in strategy to *Pocahontas*, a number of African Americans were hired as voice artists for this story about animals in the African veldt. Yet, the film elicited protests from many groups. Even if Ariel was a problematic character for feminists, at least she was the focus of the narrative. In *The Lion King*, lionesses (not to mention females from other species) are barely present. Many African Americans were also disturbed that the film actively refused to show any existence of human African civilization. The use of actor Robert Guillaume to create a mystic baboon with an Uncle Tom accent and Whoopi Goldberg and Cheech Marin as villainous (and boorish) hyenas who live in what constitutes the veldt’s ghetto did not help matters either.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-with songs by Elton John and an ad campaign that included cartoon characters saying that the film was to die for a term that was just making its way out of the ballroom culture and into the mainstream there seemed to be plenty for gay Audi is to enjoy contrary to the complaints of non-visibility by women Arab Americans and African-Americans gay animals could be found quite easily in the film gay male animals voiced by white actors the adviser to The Lion King is a fussy and pompous bird named Zazu who seems to be modeled after queer actor Clifton Webb Tona Pumba a mircat and a warthog that Simba befriends after he is banished from his pride can easily be read as a gay couple they live happily together reving in their marginalization from the rest of jungle society and look disapprovingly at Simba's buding heterosexual romance voiced by out actor Nathan Lane Timone has the personality of a New York drag queen all patter and shtick and ready to burst into a show tune at the drop of a hat while Pumba depends on tone constantly 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211"%}>
-
-With the songs of Elton John and an ad campaign that included cartoon characters saying that the film was “to die for” or that they would “put on a grass skirt and do the hula” to get customers into the theatre, there seemed to be plenty for gay audiences to enjoy. Contrary to the complaints of nonvisibility by women and African Americans, “gay” animals could be found quite easily in the film — gay *male* animals voiced by *white* actors. The advisor to the lion king is a fussy and pompous bird named Zazu, who seems to be modeled after actor Clifton Webb. Timon and Pumbaa, a meerkat and a warthog that the lion cub protagonist Simba befriends after he is banished from his tribe, can be easily read as a gay male couple. They live happily to- gether, reveling in their marginalization from the rest of jungle society, and look askance at Simba’s budding heterosexual romance with a lioness. Voiced by Nathan Lane, who has played a number of gay male roles on stage and screen, Timon has the personality of a New York show queen: all patter and schtick, and ready to burst into a showtune at the drop of a hat. Pumbaa, the slower-witted of the pair, depends on Timon constantly, and the film prominently features his behind. Timon and Pumbaa would eventually star in their own animated TV series within the “Disney Afternoon,” where they would actually become even more gay-tinged. As Gael Sweeney discovered in her analysis of the program, the pair often function in episodes as a married couple and act as parents to young children in a number of storylines. Also, the two seem to enjoy dressing up in various types of drag throughout the run of the series.<sup>76</sup>
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-the most obvious queer figure in the film though of course is the villain scar voiced by Jeremy Irons who portrays a physically weak scoundrel who makes up for his lack of sheer strength with catty remarks and Insidious plotting the character swishes about and shows disdain at the concept of a heterosexual family as he plots to take the throne for himself when Scar refers to Simba as a hairball Mufasa warns that hairball is my son and your future king oh I shall practice my cury later when Simba laughs and tells scar you're so weird you have no idea 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211"%}>
-
-The most obvious gay figure in the film is the villainous lion Scar, voiced by Jeremy Irons, who archly portrays a physically weak male who makes up for his lack of sheer strength with catty remarks and in- vidious plotting. Animated by Deja, the character fairly swishes, dis- daining the concept of the heterosexual family in his attempt to usurp the throne for himself. When Scar refers to the cub prince Simba as a “hairball,” Mufasa (Simba’s father and king) warns “That ‘hairball’ is my son and your future king.” Scar dons a mockingly prissy gracious- ness as he responds snidely, “Oh! I shall practice my curtsy!” Later, when Simba laughs and tells Scar, “You’re so weird,” the bored villain stares him straight in the eye and intones, “You have *no* idea . . .”
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-while Disney's villains have routinely veered toward Camp the signifiers that seem to Ally scar with homosexuality have an added dose of Menace after the viewer enjoys his dry gay wit in the opening sections of the film he sings a musical number that becomes an animated version of the nurmberg rallies with scar at the podium as hyena henchman Goose step and perfect Cadence before him the color scheme turns monochromatic during this section furthering the similarities to the Lenny reeny Nazi prop Anda of the Triumph of the will unlike other Disney villains scar actually kills someone even the evil queen and Snow White didn't manage to do that his Reign Over The Kingdom seems to directly cause Dro pestilence and the general destruction of the ecosystem it is only with the restoration of Simba to the throne that the land comes back to life in a dissolve that makes the change seem miraculously immediate 
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.211-212"%}>
-
-While Disney’s villains have routinely veered towards camp (Captain Hook, Cruella de Vil, Ursula, Jafar), the signifiers that seem to ally Scar with homosexuality become disturbing. After the viewer enjoys his dry gay wit in the opening sections of the film, the fey lion sings a musical solo that becomes an animated version of the Nuremberg rallies, with Scar at the podium as hyena henchmen goosestep in perfect cadence before him. The color scheme turns monochromatic during this section, furthering the similarities to the Nuremberg documentary *The Triumph of the Will* (1936). Unlike the other villains, Scar actually kills someone (not even the evil Queen in Disney’s *Snow White* [1937] did that), when he throws Mufasa from a cliff into a stampede of wildebeests. His reign over the kingdom seems to directly cause drought, pestilence and the general destruction of the ecosystem. It is only with the restoration of Simba to the throne that the land comes back to life, in a dissolve that makes the change seem miraculously immediate.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Scar's unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent this social system is canonized during the film's opening number The Circle of Life while scar actively defies the social order celebrated in this number the other gay figures help the young straight lion and are not seen as monsters mainly because they view him as the rightful ruler of the land sazu Timone and Pumba all Aid Simba in his quest to reestablish his claim to the throne endorsing his divine right 
-
-this would fit directly into how establishment liberals in America like the queers to behave fit into the already established social roles and everything will be okay pedge got to run for president because he was essentially a straight man with a husband Suburban home two dogs no children yet but surely they'll be on their way by 2024 fitting into exactly what heteronormative Society expects but scar doesn't fit that mold refuses to fit into that mold and so he's looked down upon by the other Lions basically excommunicated from the pride and since he doesn't fit the mold he's portrayed as a Nazi Hitler himself in fact with all the mincing mannerisms that Hitler has been mocked for over the years while the lion king became a massive hit Disney had to add gay men to the list of people unhappy with their product
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.212"%}>
-
-Scar’s unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent. This social system is canonized during the film’s opening number, “The Circle of Life,” which was used in its entirety as a theatrical trailer for the film — drawing in audiences through a ritual performance of heterosexual male privilege. While Scar actively defies the social order celebrated in this number, the other gay figures help the young “straight” lion and are not seen as monsters mainly because they view him as the rightful ruler of the land. Zazu, Timon and Pumbaa all aide Simba in his quest to reestablish his claim to the throne, endorsing his “divine right.” This would fit directly into how the corporations that target “the gay consumer” would like to define homosexual individuals as a market but not as a political social group.<sup>77</sup> By buying into the society, “the gay consumer” effectively supports the hegemonic order, much as Simba’s gay friends aid his return to power. The power of the film’s endorsement of heterosexual patriarchy on audience members was made clear when the *Timon and Pumbaa* TV series began airing. Since Simba did not ap- pear in the show, Timon and Pumbaa’s “gayness” became all the more obvious and was not used to endorse the “natural order” of heterosexual dominance. Some Internet fans of the original film voiced outrage because the series seemed to be reveling in gay camp, countering the philosophies they found valuable in *The Lion King*.<sup>78</sup>
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Johnny Harris wrote about his feelings on scars betrayal for the Christopher
-Street periodical on a deep level The Lion King dramatizes the danger of single
-affected males to any society implying that they have the power to destroy an
-entire civilization this is of course the message that Pat Robertson and Pat
-Buchanan routinely sign off on in order to scapegoat homosexuals for such
-heterosexual problems as abortion single mothers and the high divorce rate
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.212-213"%}>
-
-Not all homosexual individuals willingly bought into the messages that *The Lion King* seemed to be sending. While some were entertained by Timon and Pumbaa, and identified with the “father issues” that Simba had to work through after being cast out by his community, oth- ers noticed the “lasting impression” of Scar (to coin a phrase). Writing for the gay periodical *Christopher Street*, John E. Harris noted how: 
-
-> On a deep level, *The Lion King* dramatizes the danger of single “affected” males to any society, implying that they have the power to destroy an entire civilization. This is, of course, the message that Pat Robertson and Pat Buchanan routinely sign-off on in order to scapegoat homosexuals for such heterosexual problems as abortion, single mothers, and the high divorce rate.<sup>79</sup>
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Harris also noted in his review the possible racist implications of the hyenas an aspect that Todd Hayward analyzed in great deal for an article in the West Hollywood gayzine Planet homo unlike the film which conceives of race gender and sexuality as mutually exclusive Concepts Hayward links the negative racial and gender connotations with issues of sexuality writing Disney's moral hierarchy has implications which are damaging to all of us who lie outside the mainstream hayward's analysis explicitly displays how queer activism and Theory counters concepts of the gay consumer with the recognition that not all homosexuals are white upscale men with the money or inclination to support Disney's product
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.213"%}>
-
-Harris also noted in his review the possible racist implications of the hyenas, an aspect that Todd Hayward analyzed in great detail for an article in the West Hollywood gay ’zine *Planet Homo*. Unlike the film, which conceives of race, gender and sexuality as mutually exclusive concepts, Hayward links the negative racial and gender connotations with issues of sexuality: “Disney’s moral hierarchy has implications which are damaging for all of us who lie outside the ‘mainstream.’”<sup>80</sup> Hayward’s analysis explicitly displays how “queer” activism and the- ory counters concepts of “the gay consumer” with the recognition that not all homosexuals are white upscale men with the money or the incli- nation to support Disney’s product.
-
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-readers may be asking themselves but if you substitute Disney's Simplicity with relativity and if you make good characters physically indistinguishable from Bad characters or if you do away with all of the Lion King's polarizations of Good and Evil then everyone in the theater has to come to his or her own conclusions about the film's content to objections of this nature I respond with a resounding good films that set up neat systems of Good and Evil dos and don'ts are part of the pervasive simplemindedness that posits heterosexuality and queered them as IR reconcilable opposites which cannot coexist respectfully
-
-</james>
-<from {% include citation for=page.cite.plagiarized.tinker_belles at="p.213"%}>
-
-> Readers may be asking themselves, “But if you substitute Disney’s simplicity with relativity, and if you make good characters physi- cally indistinguishable from bad characters, or if you do away with all *The Lion King*’s polarizations of good and evil, then everyone in the theatre has to come to his or her own conclusions about the film’s content.” To objections of this nature, I respond with a resounding, “*Good!*” Films that set up neat systems of good and evil — do’s and don’ts — are part of the pervasive simplemindedness that posits heterosexuality and queerdom as irreconcilable opposites which cannot co-exist respectfully.<sup>81</sup>
-
-</from>
-</compare>
-
-Disney continued their trend of coding villains queer with the release of 1996's
-Pocahontas a film where every native male is portrayed as traditionally
-masculine two spirit people do not exist and the villain is a flouncy rotund man
-who wears pink velvet little bows in his hair and has a devoted male companion
-
-<compare>
-<james {% include timecode %}>
-
-on TV ABC a network owned by Disney used the coming out episode of Ellen as a way to spike viewership during the May sweeps period to heighten ratings during this period the network extended Diane Sawyer's interview with Ellen on Prime Time live over two nights during the episode Disney advertised many of its big summer movies as well as promoted other ABC shows furthermore within the show itself Disney found a way to do some product placement when Ellen's therapist asks her what she's going to do now that she's come out as a lesbian Ellen parody's Disney's famous ad campaign and announces I'm going to Disneyland yet the network refused to allow the Human Rights Campaign an LGBT rights organization to buy time for a public service advertisement during the episode when Ellen's ratings dropped after coming out ABC swiftly canceled the show
+On TV, <mark>ABC, a network owned by Disney, used the coming out episode of Ellen as a way to spike viewership during the May sweeps period. To heighten ratings during this period, the network extended Diane Sawyer's interview with Ellen on *PrimeTime* Live over two nights. During the episode, Disney advertised many of its big summer movies, as well as promoted other ABC shows. Furthermore, within the show itself, Disney found a way to do some product placement. When Ellen's therapist asks her what she's going to do now that she's come out as a lesbian, Ellen parodies Disney's famous ad campaign and announces, <u>[clip used]</u> "I'm going to Disneyland!" Yet, the network refused to allow the Human Rights Campaign, an LGBT rights organization, to buy time for a public service advertisement during the episode.</mark> When Ellen's ratings dropped after coming out, ABC swiftly canceled the show.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.202"%}>
 
-Disney’s relationship with the gay community often mirrors this pattern. Deja, in his studio-sanctioned interviews, makes certain to as- sert that the work of the homoerotic artist Tom of Finland had no inﬂuence on his drawing of *Beauty and the Beast*’s beefy Gaston.48 In the interviews with Deja conducted just before the release of *Aladdin*, he is questioned about some of the jokes in the ﬁlm, such as the “Genie-as- prissy-tailor” scene. When told that such humor could easily be read as stereotypical and insensitive towards gays, Deja instead “gives an enthusiastic thumbs-up as a reply.”<sup>49</sup> This Disney-positive attitude is shared by Schumacher in his interview when the reporter for *The Advocate* questions him on “defecting to the enemy camp” by hiring renowned homophobe Mel Gibson as a voice for *Pocahontas*.<sup>50</sup> During a season when ABC was running low in the ratings, the Disney-owned network used the coming-out episode of *Ellen* as a way to spike viewership during the May sweeps period. To heighten ratings during this period, the network extended Diane Sawyer’s interview with Ellen DeGeneres on *PrimeTime* Live over two nights. During the episode, Disney advertised many of its big summer movies, as well as promoted other ABC shows. Furthermore, within the show itself, Disney found a way to do some “product placement.” When Ellen Morgan’s therapist (played by Oprah Winfrey) asks her what she’s going to do now that she’s come out as a lesbian, Ellen parodies Disney’s famous ad campaign and announces “I’m going to Disneyland!” Yet, the network refused to allow the Human Rights Campaign (HRC), a homosexual rights organization, to buy time for a public service advertisement during the episode. ABC informed the HRC that the network held “a policy against issue ads.”<sup>51</sup> Since ABC has had no trouble in the past airing ads about solving illiteracy, putting “Children First” or curing illegal drug use, this statement seems disingenuous. While ABC and Disney trumpeted the “issue” of Ellen Morgan’s lesbianism to boost ratings and proﬁts, political statements were not welcome. Further, the network seemed to be antagonistic towards anyone else making a proﬁt off lesbianism with Ellen, since the network not only turned down an ad by the HRC but also one by Olivia Cruises, a vacation company aimed at lesbians. Both organizations eventually bought ad time with local afﬁliates in certain cities (Atlanta, San Francisco, Los Angeles, Washington, Phoenix, Detroit), but only viewers in these areas saw these TV spots.
+Disney’s relationship with the gay community often mirrors this pattern. Deja, in his studio-sanctioned interviews, makes certain to as- sert that the work of the homoerotic artist Tom of Finland had no inﬂuence on his drawing of *Beauty and the Beast*’s beefy Gaston.48 In the interviews with Deja conducted just before the release of *Aladdin*, he is questioned about some of the jokes in the ﬁlm, such as the “Genie-as-prissy-tailor” scene. When told that such humor could easily be read as stereotypical and insensitive towards gays, Deja instead “gives an enthusiastic thumbs-up as a reply.”<sup>49</sup> This Disney-positive attitude is shared by Schumacher in his interview when the reporter for *The Advocate* questions him on “defecting to the enemy camp” by hiring renowned homophobe Mel Gibson as a voice for *Pocahontas*.<sup>50</sup> During a season when ABC was running low in the ratings, the Disney-owned network used the coming-out episode of *Ellen* as a way to spike viewership during the May sweeps period. To heighten ratings during this period, the network extended Diane Sawyer’s interview with Ellen DeGeneres on *PrimeTime* Live over two nights. During the episode, Disney advertised many of its big summer movies, as well as promoted other ABC shows. Furthermore, within the show itself, Disney found a way to do some “product placement.” When Ellen Morgan’s therapist (played by Oprah Winfrey) asks her what she’s going to do now that she’s come out as a lesbian, Ellen parodies Disney’s famous ad campaign and announces “I’m going to Disneyland!” Yet, the network refused to allow the Human Rights Campaign (HRC), a homosexual rights organization, to buy time for a public service advertisement during the episode. ABC informed the HRC that the network held “a policy against issue ads.”<sup>51</sup> Since ABC has had no trouble in the past airing ads about solving illiteracy, putting “Children First” or curing illegal drug use, this statement seems disingenuous. While ABC and Disney trumpeted the “issue” of Ellen Morgan’s lesbianism to boost ratings and proﬁts, political statements were not welcome. Further, the network seemed to be antagonistic towards anyone else making a proﬁt off lesbianism with Ellen, since the network not only turned down an ad by the HRC but also one by Olivia Cruises, a vacation company aimed at lesbians. Both organizations eventually bought ad time with local afﬁliates in certain cities (Atlanta, San Francisco, Los Angeles, Washington, Phoenix, Detroit), but only viewers in these areas saw these TV spots.
 
 </from>
 </compare>
 
-during the 1990s Disney's Parks also tried profiting from their LGBT fans by creating gay night a one nighty year event at the parks where LGBT folk would be the main guest it was a big hit and threatened boycotts against the company never seemed to materialize initially the revenue was all to be donated to the aid for AIDS Foundation but by 1995 donations to the charity had dried up and Disney was keeping all of the profits for themselves 
+<compare>
+<james {% include timecode %}>
 
+<mark fc=false>During the 1990s, Disney's parks also tried profiting from their LGBT fans by creating Gay Night, a one-night-a-year event at the parks where LGBT folks would be the main guest. It was a big hit, and threatened boycotts against the company never seemed to materialize. Initially, the revenue was all to be donated to the Aid for AIDS Foundation, but by 1995, donations to the charity had dried up. Disney was keeping all of the profits for themselves.</mark>
 
-in 1997 Disney committed
-their First Act of straightwashing with the release of Hercules based very
-Loosely on the Greek myth of Heracles the film overtly ignored the hero's
-well-known bisexuality as well as his yurdal mood swings and once again codes
-the villain gay this time making Hades the lord of the underworld one of the few
-Olympian Gods Not to have taken a male lover into yet another mincing older man
-like scar with intentions of usurping the Throne of power from his
-heteronormative brother hades's only relationship with a woman in the film is
-with herk's love interest Meg for whom he fills the role of Stanford blch to her
-Cary Bradshaw this one is different he's honest and and he's sweet he would
-never do anything to hurt me he's a guy all of the other overtly gay sections of
-Greek myth and the Heracles myth itself are completely ignored of course as it
-is with almost all incarnations of the Hero Stories in modern media not that
-anyone expected anything different from Disney queer audiences never really
-expected anything from the mouse at this point even the interesting coding
-inserted by Howard Ashman had dried up since his death 
+</james>
+<comment>
+
+Todd in the Shadows 584s
+
+5. Disney did a gay charity event and stole the profits.
+
+Okay, this *is* a thing that happened, but it wasn't Disney. Disney Gay Days was an informal, unsanctioned event organized by an outside travel agency. They had *no* official connections to the actual park. It was discovered that the agency wasn't giving the profits to charity like they promised, and after that they went out of business. This had nothing to do with the actual Disney corporation.
+
+</comment>
+<comment> 
+
+The history of Gay Nights are detailed in Griffin's book as well. "In the 1990s, the Odyssey Tours travel agency began renting out the park one night a year (usually during the early winter, traditionally a slow period for the park) to hold “Gay Nights” at the park. Although never specifically advertised with such a phrase, the flyers and print ads announced that portions of the proceeds would go to the Aid for AIDS charity, and, judging by the crowds these nights attracted, most people 'got the hint.' (191) "In 1995, the lesbian and gay circles of Southern California by and large turned away from the annual 'Gay Night' at Disneyland. While not a systemized boycott, word spread throughout the area that Odyssey Tours, who organized the event, was making only token donations of the proceeds to the Aid for AIDS charity — even though the publicity prominently described itself as a charity event. Conceiving of the 'Gay Night' as a 'con job' on lesbian and gay customers, attendance dropped precipitously." (203) There were various boycots and other protests by Christian fundamentalists and the like from the mid 1990s onward, but none of them had to do with Gay Nights.
+
+</comment>
+</compare>
 
 <compare>
 <james {% include timecode %}>
 
-so it was a pleasant surprise when in 1998 Mulan had theaters these lyrics from the song reflection say it all look at me I will never pass for a Perfect Bride or a perfect daughter can it be I'm not meant to play this part now I see that if I were truly to be myself I would break my family's heart who is that girl I see staring straight back at me why is my reflection someone I don't know somehow I cannot hide who I am though I've tried when will my reflection show who I am inside 
+In 1997 Disney committed their First Act of straightwashing with the release of Hercules based very Loosely on the Greek myth of Heracles the film overtly ignored the hero's well-known bisexuality as well as his yurdal mood swings and once again codes the villain gay this time making Hades the lord of the underworld one of the few Olympian Gods Not to have taken a male lover into yet another mincing older man like scar with intentions of usurping the Throne of power from his heteronormative brother hades's only relationship with a woman in the film is with herk's love interest Meg for whom he fills the role of Stanford blch to her Cary Bradshaw this one is different he's honest and and he's sweet he would never do anything to hurt me he's a guy all of the other overtly gay sections of Greek myth and the Heracles myth itself are completely ignored of course as it is with almost all incarnations of the Hero Stories in modern media not that anyone expected anything different from Disney queer audiences never really expected anything from the mouse at this point even the interesting coding inserted by Howard Ashman had dried up since his death 
+
+</james>
+<from></from>
+<comment>
+
+he skipped *The Hunchback of Notre Dame* smh
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So it was a pleasant surprise when in 1998, *Mulan* hit theaters. These lyrics from the song "Reflection" say it all: Look at me I will never pass for a perfect bride, or a perfect daughter Can it be I'm not meant to play this part? Now I see That if I were truly to be myself, I would break my family's heart Who is that girl I see staring straight back at me Why is my reflection someone I don't know Somehow I cannot hide who I am though I've tried When will my reflection show who I am inside 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 2"%}>
@@ -1022,12 +1150,12 @@ But nearly 20 years later, my perspective shifted: At a friend’s birthday part
 <compare>
 <james {% include timecode %}>
 
-Disney's Mulan is however unintentionally a queer narrative that explores both gender identity and sexual orientation it is not as it is often simplistically described a story about a disempowered woman who becomes empowered by masculinity it is a story about a young person who doesn't fit the rigid constructs of Womanhood or manhood and who must instead carve her own path
+<mark>Disney's *Mulan* is, however unintentionally, a queer narrative that explores both gender identity and sexual orientation. It is not, as it is often simplistically described, a story about a disempowered woman who becomes empowered by masculinity. It is a story about a young person who doesn't fit the rigid constructs of womanhood or manhood, and who must instead carve her own path.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 4"%}>
 
-Disney’s "Mulan" is, however unintentionally, a queer narrative that explores both gender identity and sexual orientation. It is not, as it is often simplistically described, a story about a disempowered woman who becomes empowered by masculinity. It is a story about a young person who doesn’t fit the rigid constructs of womanhood or manhood, and who must instead carve her own path. 
+<mark>Disney’s "Mulan" is, however unintentionally, a queer narrative that explores both gender identity and sexual orientation. It is not, as it is often simplistically described, a story about a disempowered woman who becomes empowered by masculinity. It is a story about a young person who doesn’t fit the rigid constructs of womanhood or manhood, and who must instead carve her own path. </mark>
 
 </from>
 </compare>
@@ -1035,12 +1163,12 @@ Disney’s "Mulan" is, however unintentionally, a queer narrative that explores 
 <compare>
 <james {% include timecode %}>
 
-mulan's gender Journey over the course of of the movie feels very familiar to many trans and non-binary people first in honor to us all the village women attempt to sculpt Mulan into an ideal woman more specifically an ideal wife Mulan fails the test of Womanhood when her meeting with the Matchmaker goes horribly arai as Mulan acknowledges this failure in reflection she poses a question that most trans people know intimately when will my reflection show who I am inside 
+<mark>Mulan's gender journey over the course of the movie feels very familiar <mark yikes>to many trans and non-binary people.</mark></mark> First, in "Honor to Us All," the village women attempt to sculpt Mulan into an ideal woman - more specifically, an ideal wife.</mark> <mark num=2>Mulan fails the test of womanhood when her meeting with the Matchmaker goes horribly awry. As Mulan acknowledges this failure in "Reflection," she poses a question that most trans people know intimately: "When will my reflection show who I am inside?"</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 5"%}>
 
-Mulan’s gender journey over the course of the movie feels very familiar to me as a nonbinary trans person. First, in "[Honor to Us All(https://www.youtube.com/watch?v=ZnUEDaeoF0Q)]," the village women attempt to sculpt Mulan into an ideal woman — and more specifically, an ideal wife. It surprises some of my friends that this has always been my favorite scene in the movie, and that as a child, I longed to dress as Mulan in full bridal garb for Halloween. But this actually fits my experience navigating gender: I was a child who was excellent at embodying girlhood and wanted badly to become a beautiful, graceful, feminine woman… but it just wasn’t in the cards for me. Mulan, too, fails the test of womanhood when her meeting with the Matchmaker goes horribly awry. As Mulan acknowledges this failure in "Reflection," she poses a question that most trans people know intimately: "When will my reflection show who I am inside?" And what exactly would that reflection be? If Mulan isn’t a woman, then who (or what) is she? 
+<mark>Mulan’s gender journey over the course of the movie feels very familiar to me as a nonbinary trans person. First, in "[Honor to Us All(https://www.youtube.com/watch?v=ZnUEDaeoF0Q)]," the village women attempt to sculpt Mulan into an ideal woman — and more specifically, an ideal wife.</mark> It surprises some of my friends that this has always been my favorite scene in the movie, and that as a child, I longed to dress as Mulan in full bridal garb for Halloween. But this actually fits my experience navigating gender: I was a child who was excellent at embodying girlhood and wanted badly to become a beautiful, graceful, feminine woman… but it just wasn’t in the cards for me. <mark>Mulan, too, fails the test of womanhood when her meeting with the Matchmaker goes horribly awry. As Mulan acknowledges this failure in "Reflection," she poses a question that most trans people know intimately: "When will my reflection show who I am inside?"</mark> And what exactly would that reflection be? If Mulan isn’t a woman, then who (or what) is she? 
 
 </from>
 </compare>
@@ -1048,12 +1176,12 @@ Mulan’s gender journey over the course of the movie feels very familiar to me 
 <compare>
 <james {% include timecode %}>
 
-many trans men in particular feel a kinship with Mulan as the character prepares to convince everyone they're a man practicing their Swagger affecting their voice to a lower register and scrambling to settle on a boy name in I'll Make a Man Out of You Mulan as ping progressively Works their way toward achieving manhood which is divined by catching fish carrying heavy things and of course wielding a big stick they later fail the test of manhood when they or she is revealed as a woman or rather as someone who is not a man ultimately Milan is able to defeat the Bad Guys by playing on their misperception of her gender through a queer lens the message of Disney's Mulan is something many people learned as they come into their trans or non-binary identity by rejecting society's limited ideals of Womanhood and manhood you can become your more authentic self 
+<mark><mark yikes>Many trans men in particular feel a kinship with Mulan,</mark> as the character prepares to convince everyone they're a man - practicing their swagger, affecting their voice to a lower register, and scrambling to settle on a boy name. In "I'll Make a Man Out of You," Mulan-as-Ping progressively works their way toward achieving manhood, which is defined by catching fish, carrying heavy things, and, of course, wielding a big stick. They later fail the test of manhood when they or she is revealed as a woman - or, rather, as someone who is not a man. Ultimately, Mulan is able to defeat the bad guys by playing on their misperception of her gender.</mark> <mark num=2>Through a queer lens, the message of Disney's *Mulan* is something <mark yikes>many people learned as they come into their trans or non-binary identity:</mark> By rejecting society's limited ideals of womanhood and manhood, you can become your more authentic self.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 6"%}>
 
-When I was at Smith College and coming into my own gender revolution, I thought, "I’m pretty sure I’m not a cis woman, so maybe I’m a trans man." I started binding my chest and wearing Oxford collar shirts and sweater vests (it was New England, so I thought I looked cool). I kept a secret Tumblr blog under a male alter-ego named Levitt, for Joseph Gordon-Levitt — which is very embarrassing to admit now. At that birthday party, I saw this version of myself in Mulan, as she prepares to convince everyone she’s a man — practicing her swagger, affecting her voice to a lower register, and scrambling to settle on a "boy name." In "[I’ll Make A Man Out of You](https://www.youtube.com/watch?v=j9MfuWSQoWc)," Mulan-as-Ping progressively works her way toward achieving manhood, which is defined by catching fish, carrying heavy things, and, of course, wielding a big stick. She later fails the test of manhood when she is revealed as a woman — or, rather, as someone who is not a man. Ultimately, Mulan is able to defeat the bad guys by playing on their misperceptions of her gender, and — in an unfortunately transmisogynistic scene — getting her friends to transgress gender, as well. Through a queer lens, the message of Disney’s "Mulan" is something I learned as I came into my nonbinary identity: By rejecting society’s limited ideals of "womanhood" and "manhood," you can become your most authentic self. 
+When I was at Smith College and coming into my own gender revolution, I thought, "I’m pretty sure I’m not a cis woman, so maybe I’m a trans man." I started binding my chest and wearing Oxford collar shirts and sweater vests (it was New England, so I thought I looked cool). I kept a secret Tumblr blog under a male alter-ego named Levitt, for Joseph Gordon-Levitt — which is very embarrassing to admit now. At that birthday party, <mark>I saw this version of myself in Mulan, as she prepares to convince everyone she’s a man — practicing her swagger, affecting her voice to a lower register, and scrambling to settle on a "boy name." In "[I’ll Make A Man Out of You](https://www.youtube.com/watch?v=j9MfuWSQoWc)," Mulan-as-Ping progressively works her way toward achieving manhood, which is defined by catching fish, carrying heavy things, and, of course, wielding a big stick. She later fails the test of manhood when she is revealed as a woman — or, rather, as someone who is not a man. Ultimately, Mulan is able to defeat the bad guys by playing on their misperceptions of her gender,</mark> and — in an unfortunately transmisogynistic scene — getting her friends to transgress gender, as well. <mark>Through a queer lens, the message of Disney’s "Mulan" is something I learned as I came into my nonbinary identity: By rejecting society’s limited ideals of "womanhood" and "manhood," you can become your most authentic self.</mark> 
 
 </from>
 </compare>
@@ -1061,12 +1189,12 @@ When I was at Smith College and coming into my own gender revolution, I thought,
 <compare>
 <james {% include timecode %}>
 
-then there's leang the handsome young General Who falls for both ping and Mulan and who has been memeified as a bisexual icon and so in the upcoming live action adaptation of Mulan the songs have been removed so no reflection or I'll Make a Man Out of You and leang has been removed entirely wouldn't want anyone queering up a possible billion dollar hit now would we
+<mark>Then there's Li Shang, the handsome young General who falls for both Ping and Mulan, and who has been meme-ified as a bisexual icon.</mark> And so in the upcoming live action adaptation of Mulan the songs have been removed so no reflection or I'll Make a Man Out of You and leang has been removed entirely wouldn't want anyone queering up a possible billion dollar hit now would we
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 7-8"%}>
 
-Then there’s Li Shang, the handsome young general who falls for both Ping and Mulan, and who has been meme-ified as a bisexual icon. Between the women in the rice paddy blushing and giggling as Mulan-as-Ping passes by, and Ping and Shang’s awkward flirtations, even the sexuality and romance in Disney’s "Mulan" is queer.
+<mark>Then there’s Li Shang, the handsome young general who falls for both Ping and Mulan, and who has been meme-ified as a bisexual icon.</mark> Between the women in the rice paddy blushing and giggling as Mulan-as-Ping passes by, and Ping and Shang’s awkward flirtations, even the sexuality and romance in Disney’s "Mulan" is queer.
 
 Because of all this, and because I’ve come to read Disney’s "Mulan" as a queer Asian American narrative, I feel apprehensive about the upcoming live action adaptation. With reports of major changes to the original — including a new villain, a new love interest, and no songs at all — it seems like the live action movie will be nothing less than a total departure from its animated original. This is a blow to anybody who loves the 1998 version, but especially to queer Asian Americans. Without Shang or the original soundtrack, there will likely be no bisexual love story or genderqueer introspection. Considering that 2015’s "Cinderella" and 2017’s "Beauty and the Beast," the only other live action Disney princess adaptations that have been released so far, both stay extremely faithful to the characters, songs, and even the shots of the animated originals, it feels particularly othering that Mulan — one of the only Disney "princesses" of color — is getting an extreme makeover. 
 
