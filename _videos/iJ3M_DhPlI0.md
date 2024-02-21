@@ -10,7 +10,7 @@ status: Finished
 aka: !!seq
   - "America's War on the Gays (and communists)"
   - "The Lavender Menace (Thumbnail)"
-  - "Black Listed (Opening Credits)
+  - "Black Listed (Opening Credits)"
 topics: !!seq
   - "Red Scare / Lavender Scare"
   - "McCarthyism"
@@ -38,15 +38,16 @@ contributors:
 
 cite:
   clips: !!map
-    mcarthy_footage: { short: "", full: "" }
+    mcarthy_footage: { short: "McCarthy Footage", full: "TODO mcarthy_footage" }
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book" }
+    johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book", style: "book" }
     wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
     wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign tobi = site.data.cite.tobicat %}
 
 <compare>
 <credits class="desc">
@@ -212,11 +213,8 @@ In the UK, it was just about social purity.<sup cn></sup> Yet in America, the ex
 <mark>Anytime the Lavender Scare is discussed, it is as an afterthought of the Red Scare, that is *so obvious* that it doesn't ever need explanation.</mark> <mark>The overlapping worries of communism and homosexuality have been largely *ignored*</mark> in <mark>even the most recent examinations of McCarthyism, both the defenses from the right and criticisms from the left.</mark> <mark>Many people who supported McCarthy back in the 1950s considered the systemic expulsion of gays from the State Department and other government positions to be his most *lasting* achievement.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.johnson_book at="p.3=4" %}>
-
-*The Lavender Scare* book p.3-4
-
-**Beyond McCarthy** 
+<from {% include citation for=page.cite.plagiarized.johnson_book at="p.3-4" %}>
+<h3>Beyond McCarthy</h3>
 
 <mark num=2>Despite the concern, even hysteria, at the time,</mark> and the many people affected, <mark num=1>historians of the McCarthy era have given stunningly little attention to the Lavender Scare.</mark> <mark num=4>Political historians of McCarthyism, anticommunism, and the rise of the national security state</mark> <mark num=3>emphasize the role of partisan politics and foreign policy,</mark> <mark>and minimize moral and cultural concerns.</mark> <mark>If they mention the Lavender Scare at all, they portray it as a minor byproduct of the Red Scare, one so seemingly natural and inevitable as to need no explanation.<sup>3</sup></mark> <mark num=8>Even the most recent studies of McCarthyism, both defenses from the Right and critiques from the Left,</mark> <mark num=7>all but ignore how the fears of Communists and homosexuals overlapped.</mark> <mark>In the 1950s many McCarthy supporters viewed the wholesale purge of homosexuals from the State Department and other government agencies as McCarthy’s vindicating legacy;</mark> with rare exceptions, however, neither new apologists for McCarthy nor those documenting the devastation he caused acknowledge the Lavender Scare.<sup>4</sup> [...]
 
@@ -256,16 +254,15 @@ Because of his attempts to protect his reputation, <mark fc=false>he insisted th
 Someday we will progress as a community to the point where the only remaining legacy of Roy Cohn is as the villain of Tony Kushner's iconic stage play *Angels In America*. But we're not quite there yet.
 
 </james>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 Cohn did not insist his doctors treat him for liver cancer; he told the public (and basically everyone else) that he had liver cancer. He did not undergo cancer treatments. There's no evidence that AZT destroyed his liver either; though AZT *can* cause liver damage, the only medical conditions mentioned in the biography *Citzen Cohn* are Kaposi sarcoma, anemia, and dementia, and his ultimate cause of death was listed as cardiac arrest (as well as dementia and complications from AIDS).
 
 </comment>
-<from></from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Because <mark>Cohn and McCarthy, with the help of FBI director, J. Edgar Hoover</mark> (who is also believed to have been gay), <mark>were responsible for the dismissal of thousands of gay government employees and the intimidation of many of their political opponents into silence by spreading false allegations about their sexual orientation.</mark> <mark>The state department revealed that it had dismissed 425 workers due to charges of homosexuality</mark> <mark>in the closing months of the Truman Administration</mark> <mark>in 1953.</mark> 
 
@@ -275,7 +272,7 @@ Because <mark>Cohn and McCarthy, with the help of FBI director, J. Edgar Hoover<
 [...] Together, <mark>McCarthy and Cohn – with the enthusiastic support of the head of the FBI, J. Edgar Hoover</mark> – <mark>were responsible for the firing of scores of gay men and women from government employment, and strong-armed many opponents into silence using rumors of their homosexuality.<sup>[28][29][30]</sup></mark> <mark num=5>In 1953,</mark> <mark>during the final months of the Truman administration,</mark> <mark num=3>the State Department reported that it had fired 425 employees for allegations of homosexuality.<sup>[31][32][33]</sup></mark>
 
 </from>
-<comment> 
+<comment {% include commenter for=tobi %}>
 
 In regards to Hoover, there are many rumors about his sexuality, and historians have a variety of opinions. Notably, the author of *The Lavender Scare*, David K. Johnson, dismisses the speculation that Hoover was gay as a "homophobic fantasy", and claims that if there were really any evidence, it would have lead to Hoover's immediate dismisal in a political climate where merely associating with a gay person was grounds for persecution. He also notes, "Like most men and women in 1950s America, Hoover saw homosexuality not as an inborn characteristic of a percentage of the population, but a sin or temptation to which anyone might succumb" and "Imposing present-day notions of sexuality — particularly the notion that persons are essentially born either heterosexual or homosexual — back onto this period further distorts our understanding." (Johnson 11-12)
 
@@ -326,9 +323,9 @@ In regards to Hoover, there are many rumors about his sexuality, and historians 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark>Executive order 10450,</mark> <mark>enacted by President Eisenhower</mark> <mark>in 1953,</mark> <mark>prohibited gays from holding federal government positions</mark> <mark>and established security criteria for federal employment.</mark> <mark>As a direct result of these policies, hundreds of openly gay State Department employees were outed and fired.</mark> <mark>About 5,000 gay individuals, including private contractors and military personnel, lost their jobs at the federal government</mark> <mark>as a result of this presidential order.</mark> <mark>The victims were not only fired from employment... but also outed to the public.</mark> 
+<mark>Executive order 10450,</mark> <mark>enacted by President Eisenhower</mark> <mark>in 1953,</mark> <mark>prohibited gays from holding federal government positions</mark> <mark>and established security criteria for federal employment.</mark> <mark>As a direct result of these policies, <mark fc>hundreds of openly gay State Department employees were outed</mark> and fired.</mark> <mark>About 5,000 gay individuals, including private contractors and military personnel, lost their jobs at the federal government</mark> <mark>as a result of this presidential order.</mark> <mark>The victims were not only fired from employment... but also outed to the public.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wiki_lavender at="Executive Order 10450, ¶ 1" %}>
@@ -336,7 +333,7 @@ In regards to Hoover, there are many rumors about his sexuality, and historians 
 <mark num=3>In 1953,</mark> <mark>President Eisenhower signed</mark> <mark num=1>Executive Order 10450,</mark> which <mark num=5>set security standards for federal employment and</mark> <mark>barred homosexuals from working in the federal government.</mark> <mark>The restrictions set in place were cause for hundreds of gay people to be forcibly outed and fired from the State Department.<sup>[38]</sup></mark> <mark num=8>The executive order was also the cause for</mark> <mark num=7>the firing of approximately 5,000 gay people from federal employment; this included private contractors and military personnel.</mark> <mark>Not only did the victims lose their jobs, but also they were forced out of the closet and thrust into the public eye</mark> as lesbian or gay. 
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 "Openly gay State Department employees were outed" try again
 
@@ -522,16 +519,15 @@ The film's depiction of the pod people paints them as robotic drones devoid of f
 Actor Arthur Franz, who plays David's father in the film, has been speculated to be homosexual in real life. Morris Ankrum, who was also thought to be gay, plays Dr. Kelston, an investigator of the UFO phenomena. There are aspects in *Invaders from Mars* that... *may* be seen via a queer lens, even if that wasn't the film's original intent. From the underlying ties between the male characters, to the overt themes of possession and invasion.
 
 </james>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 I couldn't find anything about Arthur Franz or Morris Ankrum being gay. 
 
 </comment>
-<from></from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The 1939 film, *Ninotchka* has also been interpreted by film critics as an allegory for *lesbian* desire and love.</mark> Firstly the character of Nina, played by Greta Garbo, is a stern and serious Soviet envoy, who comes to Paris to supervise a group of three bumbling comrades who have been sent there to sell jewels seized during the Russian Revolution. Nina is *initially* portrayed as cold and unfeeling. But she begins to thaw as she falls in love with the charming and carefree Count Léon d'Algou, played by Melvyn Douglas. 
 
@@ -540,14 +536,16 @@ This dynamic of a strict and buttoned up woman being seduced by a more carefree 
 Finally there is the character of Irma, played by Bela Lugosi, Irma is portrayed as a flamboyant and theatrical figure with a campy and exaggerated manner of speaking and gesturing. While the character is not explicitly identified as queer, the fact that Lugosi himself was bisexual and often played roles with homoerotic undertones has led some viewers to interpret Irma as a coded representation of queer desire. 
 
 </james>
-<comment>
+<comment {% include commenter for=lvence %}>
 
-LVence: Who said this? I could find examples of the Invasion of the body snatcher being called a queer allegory, but not Ninotchka. 
+Who said this? I could find examples of the Invasion of the body snatcher being called a queer allegory, but not Ninotchka. 
+
+</comment>
+<comment {% include commenter for=tobi %}>
 
 It's unclear why James is talking about this film in this video, since it came out well before the Red Scare/Lavender Scare. Also, I couldn't find any evidence that Lugosi himself was bisexual. I also couldn't find any documentation of Bela Lugosi's character in *Ninotchka*, Commander Razinin, being called Irma. (Or Urma, or Erma.) It's a female name anyway. And when James describes him as "flamboyant," "theatrical," and "exaggerated," he's just standing there in a plain uniform with a hand on his hip, talking with very little movement or expression. Did he write this using ChatGPT?
 
 </comment>
-<from></from>
 </compare>
 
 <compare>
@@ -571,7 +569,7 @@ Finally the film's low budget campy style can be seen as a celebration of the ma
 
 But suffice to say, the 1950s were a time of strict social conformity in America. <span visual=none on="?" off="?">The culture was dominated by the ideal of the nuclear family, where a husband worked and provided for his wife and children, while the wife stayed at home and took care of the household.</span> *Any* deviation from this norm was considered *dangerously* deviant, and subject to social ostracization.
 
-<footer>James's footage here is the 1950's short <a href="https://en.wikipedia.org/wiki/A_Date_with_Your_Family">"A Date With Your Family"</a>, which is best seen <a href="https://www.youtube.com/watch?v=_Hh4M4vipAo">with MST3K providing commentary</a>.,</footer>
+<footer>James's footage here is the 1950's short <a href="https://en.wikipedia.org/wiki/A_Date_with_Your_Family">"A Date With Your Family"</a>, which is best seen <a href="https://www.youtube.com/watch?v=_Hh4M4vipAo">with MST3K providing commentary</a>. {% include signed for=tustin %}</footer>
 
 </james>
 <from></from>
