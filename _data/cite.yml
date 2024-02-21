@@ -1,6 +1,10 @@
 ####### Contributor citations #######
 from-script:
   name: "James Somerton & Nick Herrgott (script used as closed captioning)"
+adobe-ai:
+  name: Premiere Pro Auto-Transcription
+anon:
+  name: Anonymous Contributor
 tustin2121:
   name: Tustin2121
   contributor: true
@@ -16,11 +20,6 @@ tobicat:
   contributor: true
   descriptive: Formatter, highlighter, and source contributor
   link: "https://github.com/tobi-cat"
-yvestan:
-  name: Yvestan
-  contributor: true
-  descriptive: Fact checker and asset contributor
-  link: ""
 scarylibrary:
   name: Scary-Library
   contributor: true

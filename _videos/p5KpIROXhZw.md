@@ -25,7 +25,6 @@ contributors:
   formatting: $cite$tustin2121
   factcheck: 
     - $ref$lvence$https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/
-    - $cite$yvestan
 
 cite:
   clips:
@@ -43,7 +42,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
-{% assign yvestan = site.data.cite.yvestan %}
+{% assign anon = site.data.cite.anon %}
 {% assign lvence_link = "https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/" %}
 
 <compare>
@@ -99,7 +98,7 @@ And believe me, the queer community has a heap of that. For instance, trans men 
 
 </james>
 <comment>
-{% include header for=yvestan %}
+{% include header for=anon %}
 <details>
 <summary>Confirmed. Several articles and media analyses have delved into a connection between rats and transness &mdash; usually with them representing something typically stereotyped as grotesque but is actuality adorable &mdash; it appears that it may either just be a punk thing or a fondness for fauna in general.</summary>
 

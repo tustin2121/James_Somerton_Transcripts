@@ -568,7 +568,7 @@ Like in the case of kawaii it only gained “significance” when the term was i
 </details>
 </comment>
 <comment>
-{% include header for=site.data.cite.yvestan %}
+{% include header for=site.data.cite.anon %}
 
 *Technically*, 可愛い/カワイイ/kawaii can [also refer to something pretty or charming despite its flaws](https://kotobank.jp/word/可愛い-468533), fitting Somerton's one interpretation, but essentially, it still comes down to meaning "cute."
 

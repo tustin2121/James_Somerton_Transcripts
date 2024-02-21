@@ -17,7 +17,7 @@ notes:
   - w-james-nick
 
 contributors:
-  transcription: "Yvestan (using Premiere Pro Auto-Transcription)"
+  transcription: $cite$adobe-ai
   formatting: $cite$tustin2121
 
 cite:

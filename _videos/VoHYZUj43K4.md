@@ -37,7 +37,7 @@ contributors:
 
 recs:
   - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
-  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["Yvestan", "The Ace Couple"] }
+  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["The Ace Couple"] }
 
 cite:
   clips: !!map
