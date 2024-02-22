@@ -15,6 +15,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
+  - w-james
 
 recs:
   - { title: "What Makes Disney Villains so Gay?", author: "Matt Baume", url: "https://youtu.be/GsWpUSEKSbk?si=p6p1pfOs8STiMMAX" }
@@ -28,6 +29,9 @@ cite:
     queer_mulan: { color: 5, short: "(Tom, 2018)", full: "Tom, J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", url: "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign todd = site.data.cite.todd.video %}
+{% assign hbomb = site.data.cite.hbomb.video %}
+{% assign tobi= site.data.cite.tustin2121 %}
 
 <compare>
 <credits class="desc">
@@ -48,12 +52,16 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="58:51" for="A New Era" %}  
 
 </credits>
+<comment {% include commenter for=tobi %}>
+
+This video was originally uploaded in July 2020. The "based on" in the description was not added until it was reuploaded in September 2020.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
 
 <compare>
-
 <clip> 
 
 And now, our feature presentation. (https://www.youtube.com/watch?v=ZwICzrnyFoI)
@@ -71,6 +79,11 @@ And now, our feature presentation. (https://www.youtube.com/watch?v=ZwICzrnyFoI)
 > <h5>By Sean Griffin</h5>
 
 </credits>
+<comment {% include commenter for=tobi %}>
+
+The "based on" section of the credits was not present in the original upload.
+
+</comment>
 </compare>
 
 <compare>
@@ -118,13 +131,13 @@ The company pushed Disney Plus's annual subscription early on, locking audiences
 
 Disney Plus went live in November of 2019, with *The Mandalorian* being their only major draw. Casting and production news surrounding *Love, Victor* had regularly trended on social media, and the upcoming series was considered Disney's next safe bet after *The Mandalorian* ran its course. 
 
-But then, in February of 2020, things changed. Disney announced that love Victor would not be appearing on Disney Plus, despite selling people on it from the very beginning. Instead, it would stream on the also Disney-owned Hulu, a service with half as many subscribers, and one not available almost anywhere outside the United States. Their reasoning? *Deadline* reported that executives at Disney thought *Love, Victor* wasn't family friendly enough for the brand. I wonder what wasn't family friendly enough about it...? 
+But then, in February of 2020, things changed. Disney announced that *Love, Victor* would not be appearing on Disney Plus, despite selling people on it from the very beginning. Instead, it would stream on the also Disney-owned Hulu, a service with half as many subscribers, and one not available almost anywhere outside the United States. Their reasoning? *Deadline* reported that executives at Disney thought *Love, Victor* wasn't family friendly enough for the brand. I wonder what wasn't family friendly enough about it...? 
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-Small note that in February 2020, [Disney Plus](https://variety.com/2021/tv/news/disney-plus-100-million-subscribers-worldwide-1234925654/) and [Hulu](https://www.statista.com/statistics/258014/number-of-hulus-paying-subscribers/) had similar numbers of subscribers, though by Fall 2020 Disney Plus did have about twice as many subscribers.
+Note that in February 2020, [Disney Plus](https://variety.com/2021/tv/news/disney-plus-100-million-subscribers-worldwide-1234925654/) and [Hulu](https://www.statista.com/statistics/258014/number-of-hulus-paying-subscribers/) had similar numbers of subscribers. At the time of this video's initial release, Disney Plus had more subscribers but not quite twice as many (~60 million versus Hulu's ~35.5 million).
 
 James seems to be referring to [this](https://deadline.com/2020/02/love-simon-spinoff-series-love-victor-moves-from-disney-to-hulu-premiere-date-opens-season-2-writers-room-1202866549/) article, though he never shows it.
 
@@ -156,9 +169,9 @@ With Disney Plus in almost 50 million households by the time *Love, Victor* was 
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-No, it was ["the most-binged original drama series on Hulu in 2020 during its first week and the second most-binged original on Hulu placing behind *Solar Opposites*."](https://www.eonline.com/news/1166338/turns-out-love-victor-felt-quite-a-bit-of-viewer-love-on-hulu) This video was released in September 2020, you wouldn't be able to say anything definitive about the most-binged shows over the entire year anyway. 
+No, it was ["the most-binged **original drama** series on Hulu in 2020 **during its first week** and the second most-binged original on Hulu placing behind *Solar Opposites*."](https://www.eonline.com/news/1166338/turns-out-love-victor-felt-quite-a-bit-of-viewer-love-on-hulu) This video was released in July 2020, you wouldn't be able to say anything definitive about the most-binged shows over the entire year anyway. 
 
 </comment>
 </compare>
@@ -221,7 +234,7 @@ Funnily enough, Walt Disney fought hard to get the film rights to *The Wizard of
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 I found this claim on a fandom site and a blog site and tracked it down to [Wikipedia](https://en.wikipedia.org/wiki/Oz_the_Great_and_Powerful#cite_ref-19). I looked at the citation for the Wikipedia claim, which is [a documentary on the making of *The Wizard of Oz*.](https://www.youtube.com/watch?v=v4UYr2ON5SM) The narrator, Angela Lansbury, says that the production of the movie was influenced by the success of Disney's *Snow White* and that MGM bought the rights in 1938, but there's no mention of Disney trying to buy the rights at that time, though Disney would buy the rights to the rest of Baum's *Oz* books in the 50s and make several adaptations over the years.
 
@@ -382,7 +395,7 @@ These fantasies of acceptance earned Walt Disney a lot of praise in the early da
 <mark>But lesbians and gay men also come to fantasy with a knowledge that children, for the most part, have not acquired. At the same time that gay individuals revel in the affirmations and opened possibilities that fantasy creates, there is also an awareness and acceptance of the impossibility of fantasy — as well as the absurdity of it all. Cassandra Amesley’s concept of “double reading,” although written in regard to media fandom in general, also applies to a lesbian or gay subject position. Amesley writes that a reader can</mark> <mark>“maintain and understand two divergent points of view at once, and use them to inform each other. In this way identification and distanciation may occur simultaneously.”</mark><sup>47</sup> <mark>In regards to lesbian/gay use of fantasy, an irony exists — a simultaneous indulgence in and distancing from the work being engaged — which is far more developed than the normal child’s response. A lesbian/gay individual can sit through *Snow White* and dream of being taken away from a drab life to a castle on a hill, but s/he can also enjoy the absurdity of Snow White’s grotesquely warbling contralto. Michael Bronski sees such a double reading in Barrie’s *Peter Pan*. While conventionally thought of as a children’s story, Bronski describes it as “a deeply disturbing meditation on the impossible desire for flight . . . not so much a fantasy of escape as it is a clear-eyed exposure of escape’s impossibility.”<sup>48</sup> The original 1904 play ends with Peter alone, and Barrie adds in the stage directions,</mark> <mark>“It has something to do with the riddle of his being. If he could get the hang of the thing his cry might become ‘To live would be an awfully big adventure!’ but he can never quite get the hang of it, and so no one is as gay as he.”</mark><sup>49</sup>
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 James changes the word "distanciation" to "distinction" in the first quote, thus causing the sentence to lose its meaning.
 
@@ -401,9 +414,16 @@ James changes the word "distanciation" to "distinction" in the first quote, thus
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.68-69"%}>
 
-<mark>Fantasy often walks hand in hand with camp, one of the cornerstones of gay culture. Susan Sontag declared in her influential article “Notes on ‘Camp’” that camp was</mark> <mark>“a way of looking at things . . . a quality discoverable in objects and the behavior of persons.”</mark><sup>50</sup> <mark>Most importantly for this discussion, Sontag observes that “camp sees everything in quotation marks . . . to perceive Camp in objects and persons is to understand Being-as-Playing-a-Role.”</mark><sup>51</sup> Taking from this, but expressly tying “camp” to the homosexual subculture (which Sontag downplays in her analysis), Jack Babuscio asserts that <mark>“camp, by focusing on the outward appearances of role, implies that roles, and in particular, sex roles, are superficial — a matter of style.”<sup>52</sup></mark> Babuscio and others describe how camp was used as a communication device within homosexual culture, as well as a weapon to deconstruct the heterosexual essentialism of the dominant culture.
+<mark>Fantasy often walks hand in hand with camp, one of the cornerstones of gay culture. Susan Sontag declared in her influential article “Notes on ‘Camp’” that camp was</mark> <mark>“a way of looking at things . . . a quality discoverable in objects and the behavior of persons.”</mark><sup>50</sup> <mark>Most importantly for this discussion, Sontag observes that “camp sees everything in quotation marks . . . to perceive Camp in objects and persons is to understand Being-as-Playing-a-Role.”</mark><sup>51</sup> Taking from this, but expressly tying “camp” to the homosexual subculture (which Sontag downplays in her analysis), Jack Babuscio asserts that <mark>“camp, by focusing on the outward appearances of role, implies that roles, and in particular, sex roles, are superficial — a matter of style.”</mark><sup>52</sup> Babuscio and others describe how camp was used as a communication device within homosexual culture, as well as a weapon to deconstruct the heterosexual essentialism of the dominant culture.
 
 </from>
+<comment {% include commenter video=hbomb at="7088" %}>
+
+When he rips off Griffin quoting more well-known writers like Susan Sontag, he reads them out and puts the quote on the screen. It looks like when he thinks he can get away with it, he passes obscure writers' words off as his own. [...]
+
+Somerton reuses a section of the book where Griffin quotes gay journalist and activist Jack Babuscio who passed away of AIDS in 1990. Griffin explains who he is and discusses his quote, mentioning by name repeatedly. You know, the way you quote someone and discuss what they said. Somerton removes all mention and discussion of Babuscio but he still steals everything he says. He then skips a few paragraphs since the book discusses what Babuscio meant by this and that would give away James didn't write it.
+
+</comment>
 </compare>
 
 <compare>
@@ -501,7 +521,7 @@ And so single older women became the go-to for villains in the Golden Age of Dis
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 Technically, *The Swan Princess* was made by Nest Family Entertainmen and *distributed* by New Line Cinema.
 
@@ -558,7 +578,7 @@ Although Disney’s animated features lean heavily towards female villains, this
 <mark>Unlike Honest John and Hook, though, Shere Khan does exude serious menace. He is not an underling for a more threatening villain (as Honest John is). Although witty, he is never portrayed as a buffoon (as Hook invariably is). Rather, even the most whimsical of the tiger’s lines contains an underlying threat. By 1967, when the film was released, Walt had already had his discussion with the FBI about the possibilities of making educational films to warn children about homosexual pedophiles. While it is impossible to draw direct correlation between this meeting and the villainy of Shere Khan, the character’s threat</mark> might have some connection to the changes that were beginning to occur in American society — changes that seemed to be drawing the younger generation away from traditional values and morals. When Mowgli tries to escape from having to be brought to civilization, he encounters a beach bum bear, a quartet of Liverpudlian vultures and an African- American orangutan (who resides in an ancient city that plainly needs some urban assistance).<sup>70</sup> Mirroring the breakdown of societal conventions that was occurring during the late 1960s, it is unsurprising, then, to find a predatory male with a clipped British accent more frightening than he had been years before.
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 Yeah, he'd have to have the conversations by the time of his death, otherwise they wouldn't have been had at all.
 
@@ -668,9 +688,7 @@ But sadly, in March of 1991, Ashman passed away from complications related to AI
 <mark fc=false>Disney saw an opening to win over the gay community and made a giant donation to the Aid for AIDS Foundation. The seemingly altruistic act was later confirmed to be nothing more than a PR stunt, as the money had come out of *Beauty and the Beast*'s award campaign budget. Disney saw it as nothing more than a "for your consideration" ad.</mark> When the Oscars rolled around, Disney lost Best Picture to *The Silence of the Lambs*, <mark fc=false>and when Howard Ashman's partner Bill Lauch took to the stage to accept the Oscar for Best Song on his late partner's behalf, Disney executives reportedly fumed</mark>.
 
 </james>
-<comment>
-
-Todd in the Shadows 2026s
+<comment {% include commenter video=todd at="2026" %}>
 
 13. Disney cynically exploited Howard Ashman's death
 
@@ -683,7 +701,7 @@ Second, this supposed donation to the AID for AIDS Foundation, there's just noth
 And as for them being upset about Ashman's partner accepting his Oscar, according to *Disney War* Katzenberg arranged that *personally*. If any other executives felt differently about it, *please* tell me where you found this information. But I don't understand why they'd make pandering donations to gays and then not be okay with a gay man on stage. Are they pandering to gays or not?
  
 </comment>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 James' own source, *Tinker Belles and Evil Queens*, provides additional evidence for the fact that Katzenberg was well-supported, at least by Katzenberg. It mentions that Katzenberg and Ashman had a close relationship several times (108, 192), and Katzenberg is said to have been involved with AIDS charities (110). Katzenberg called Ashman a "guardian angel" alongside Walt Disney, and there was a tribute to Ashman at the end of *Beauty and the Beast* (144). Also, [a Washington Post article](https://web.archive.org/web/20220422110450/https://www.washingtonpost.com/outlook/2022/04/22/lbgtq-audiences-artists-helped-save-disney/) claims that Disney even built a production unit near his house so that he could keep getting his treatments nearby.
 
@@ -702,14 +720,19 @@ Disney's animosity toward the queer community wasn't just all behind the scenes,
 <compare>
 <james {% include timecode %}>
 
-Disney also never intended Ursula to sing in the film.<sup cn></sup> <mark>But Howard Ashman thought otherwise, forcing Disney to accept the now iconic villain song "Poor Unfortunate Souls." In the number, Ursula uses various methods to convince Ariel to sell her soul, from looking sorry and saintlike to shimmying madly in excitement. In its use of vocalist Pat Carroll's ability to slide up and down the musical register, from shrieks to baritones, "Poor Unfortunate Souls" is an unmistakable sendup of the campy female impersonation numbers</mark> of underground queer films in the early days of Hollywood. 
+Disney also never intended Ursula to sing in the film.<sup cn></sup> <mark>But Howard Ashman thought otherwise, forcing Disney to accept the now iconic villain song "Poor Unfortunate Souls." In the number, Ursula uses various methods to convince Ariel to sell her soul, from looking sorry and saintlike to shimmying madly in excitement.</mark> <mark>In its use of vocalist Pat Carroll's ability to slide up and down the musical register, from shrieks to baritones, "Poor Unfortunate Souls" is an unmistakable sendup of the campy female impersonation numbers</mark> of underground queer films in the early days of Hollywood. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.146-147"%}>
 
-Again, how much of this is due to Ashman needs to be placed in context with others working on the films. For example, Andreas Deja obviously did his share in adding to the camp value of these projects. Ashman himself probably had little say in the model sheet for Ursula. Yet, her campy nature is due at least in part to the words that Ashman gives her to perform. In *The Little Mermaid*, <mark>Ashman provided Ursula with a solo number, “Poor Unfortunate Souls.”<sup>37</sup> In the number, Ursula uses various methods to convince Ariel the mermaid to sell her soul — from looking penitent and saintlike to shimmying madly in excitement. “In its use of vocalist Pat Carroll’s ability to slide up and down the musical register, from shrieks to baritones, ‘Poor Unfortunate Souls’ is an unmistakable sendup of the campy female impersonation number.”</mark><sup>38</sup> Similarly, although Deja must share credit, Ashman not only helped conceive Gaston in *Beauty and the Beast* but emphasizes his campiness through the lyrics of *his* solo number, “Gaston,” a hysterical “*male* impersonation” number! As was discussed in chapter 2, the tradition of reading Disney villains as “gay-tinged” reaches much farther back than Ashman’s involvement with the studio. Ashman’s creation of musical numbers for the villains, though, underlines this position, allowing mainstream audiences and reviewers to positively revel in the campiness of their villainy.
+Again, how much of this is due to Ashman needs to be placed in context with others working on the films. For example, Andreas Deja obviously did his share in adding to the camp value of these projects. Ashman himself probably had little say in the model sheet for Ursula. Yet, her campy nature is due at least in part to the words that Ashman gives her to perform. In *The Little Mermaid*, <mark>Ashman provided Ursula with a solo number, “Poor Unfortunate Souls.”<sup>37</sup> In the number, Ursula uses various methods to convince Ariel the mermaid to sell her soul — from looking penitent and saintlike to shimmying madly in excitement.</mark> <mark>“In its use of vocalist Pat Carroll’s ability to slide up and down the musical register, from shrieks to baritones, ‘Poor Unfortunate Souls’ is an unmistakable sendup of the campy female impersonation number.”</mark><sup>38</sup> Similarly, although Deja must share credit, Ashman not only helped conceive Gaston in *Beauty and the Beast* but emphasizes his campiness through the lyrics of *his* solo number, “Gaston,” a hysterical “*male* impersonation” number! As was discussed in chapter 2, the tradition of reading Disney villains as “gay-tinged” reaches much farther back than Ashman’s involvement with the studio. Ashman’s creation of musical numbers for the villains, though, underlines this position, allowing mainstream audiences and reviewers to positively revel in the campiness of their villainy.
 
 </from>
+<comment {% include commenter video=hbomb at="7046" %}>
+
+Throughout this video James uses parts of the book where Griffin quotes someone else, like here. This is from an essay by Cynthia Erb. James just keeps reading and doesn't tell you he's quoting anyone, and even changes it slightly. Almost like he knows it's wrong and is trying to get away with it.
+
+</comment>
 </compare>
 
 <compare>
@@ -742,9 +765,9 @@ Cynthia Erb, writing for a more academic audience, agrees with Rather’s interp
 > The visual contrast made between the deteriorated form of the Beast and the painting of him as a beautiful young man possibly sets up a stereotypical opposition between ugliness and beauty reminiscent of Oscar Wilde’s *The Picture of Dorian Gray*, but in this context the ugliness/beauty dyad also supports a tension, crucial to the film’s AIDS allegory, between the issue of having health or not having it.<sup>4</sup>
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-Rather than attributing this quote to Cynthia Erb, James reads it as if it is part of Dan Rather's quote. He also changes an "or" to "and."
+Rather than attributing this quote to Cynthia Erb, James reads it as if it is part of Dan Rather's quote. (This is the second time he's misattributed Cynthia Erb in this video.) He also changes an "or" to "and."
 
 </comment>
 </compare>
@@ -785,9 +808,7 @@ Rather than attributing this quote to Cynthia Erb, James reads it as if it is pa
 <mark>The Beast is given the life span of a magical rose to find a cure to his curse (someone to love that will love him in return), and although missing the deadline means only that he’ll remain a Beast permanently, the narrative contrives to have him on the brink of death just as the last petal falls from the flower.</mark> Also, the Beast goes through many of the “five stages” of emotional reaction to impending death: anger, denial, bargaining, depression and acceptance. The Beast is definitely an angry creature, and his initial attempts to woo Belle are blatant bargaining, done simply to remove the curse without necessarily feeling any actual love towards her. When he allows Belle to leave his domain, he enters a state of depression that makes him unwilling to defend himself against the mob that arrives to string him up. Most touchingly, the Beast reaches acceptance just at the moment of his seeming death. As a soft rain falls around them, Belle caresses the dying Beast, and the Beast ventures that “Maybe it’s better this way.” Belle protests, but the Beast looks up at her with love, touches her face as he says “At least I got to see you one last time” and then lapses into unconsciousness. (Of course, the tale resurrects the Beast and cures the spell when she says “I love you” just as he seems to expire.)
 
 </from>
-<comment>
-
-Todd in the Shadows 4010s
+<comment {% include commenter video=todd at="4010" %}>
 
 27. Dying AIDS patients kept a "Beauty and the Beast" rose by their beds
 
@@ -850,7 +871,7 @@ But executives steamrolled ahead with their next big animated film, *Aladdin*. W
 Nowhere is this camp perspective more apparent than in the character of the Genie in *Aladdin*. <mark>Just as critics noticed that some aspects of these new Disney animated features were for “savvier” audiences, they wondered</mark><mark> “What will children make of a film whose main attraction — the Genie himself — has such obvious parent appeal? They [won’t] . . . know precisely what Mr. Williams is evoking.”</mark><sup>39</sup> <mark>While Robin Williams’ impromptu recording sessions contributed mightily to the final character of the Genie, Ashman’s songs for the Genie had been written long before Williams was signed, and the character that Ashman creates through his lyrics definitely portrays him as an overblown, larger than life “gay-tinged” figure. The Genie first appears in a huge production number centered around him telling Aladdin, “C’mon whisper what it is you want / You ain’t never had a friend like me.” Throughout the song, the Genie zips from one metaphor to another in endless enthusiasm, sprinkling his speech with phrases like “true dish!”</mark> and a lisping “you big nabob!” <mark>Later, as Aladdin enters the palace disguised as “Prince Ali,” the Genie promotes him shamelessly by pointing out “That physique! How can I speak? Weak at the knee,” and describing how he “got all dolled up and dropped by.”</mark>
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 James again changes one word in the quote, "[main] attraction" to "[main] character," making it incorrect because the Genie is not the main character, Aladdin is.
 
@@ -881,9 +902,7 @@ James again changes one word in the quote, "[main] attraction" to "[main] charac
 <mark>Acknowledging the “queerer” nature of the Genie, though, it is much easier to appreciate him</mark> (note gender identification) <mark>from a gay male viewpoint</mark> than, say, a lesbian viewpoint, <mark>particularly in his relationship with Aladdin. As mentioned, at one point the Genie transforms into a prissy gay tailor mincing as he advises snippily, “Those rags are much too ‘3rd-century’ — work with me here!” During one emotional high point in the narrative, the Genie tells Aladdin, “I’m getting kind of fond of you too, kid . . . not that I want to go shopping for curtains or anything.” The final tearful clinch at the end of the film is not between Aladdin and the princess Jasmine, but between Aladdin and the Genie. The “gay male” aspects of *Aladdin* go much farther than just the presence of the Genie, though. Deja’s admitted conception of the villainous Jafar as gay</mark> (making his relationship with his male parrot cohort Iago all the more intriguing) is almost in direct juxtaposition to the Genie. Both are tied directly to the hero Aladdin — one trying to help him, one trying to destroy him — and <mark>both are constantly concerned with how Aladdin looks.</mark>
 
 </from>
-<comment>
-
-Todd in the Shadows 3571s
+<comment {% include commenter video=todd at="3571" %}>
 
 23. NAMBLA appropriated images from Disney's "Aladdin"
 
@@ -935,7 +954,7 @@ Now... to the lions. Though we may not remember it, *The Lion King* was pretty c
 <mark>The studio attempted to respond to these complaints when working on the character Belle in *Beauty and the Beast*, taking care to show her intelligence and independence,</mark> although the narrative still focuses on which man she will marry. 
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
 This is, roughly, a paraphrase of p.207-210 of Griffin, combined with general pop culture knowledge. Some additional context: Disney actually hired a woman screenwriter, Linda Woolverton, for *Beauty and the Beast*, (likely) in response to the feminist critiques of *The Little Mermaid* (143, 207, 210), rising from Ariel's dependence on male characters (the book does not mention this commonly-cited "pop culture" feminist critique regarding Ariel's voice.) Still, he notes, "The variety of reaction from women when the film was released points out that many of the problems women found in *The Little Mermaid* were not solved. Consequently, while many gay men responded warmly to Beauty and the Beast, many lesbians might have had a hard time finding anything they could take from a film in which the female lead’s only duty is to choose whether she will marry an egotistical macho jerk or a male behemoth." (207-208) As for the criticisms by Arab Americans, I didn't see a criticism of the voice cast mentioned in the book, and the lyric criticisms were part of a larger criticism of how Arab culture is portrayed in *Aladdin* (which is to say, in a very sterotypical, orientalist way that does not at all match reality.)
 
@@ -966,9 +985,9 @@ But with all the talk of race, many people missed the queer messaging in the fil
 <mark>With the songs of Elton John and an ad campaign that included cartoon characters saying that the film was “to die for”</mark> or that they would “put on a grass skirt and do the hula” to get customers into the theatre, <mark>there seemed to be plenty for gay audiences to enjoy. Contrary to the complaints of nonvisibility by women</mark> <mark>and African Americans, “gay” animals could be found quite easily in the film — gay *male* animals voiced by *white* actors. The advisor to the lion king is a fussy and pompous bird named Zazu, who seems to be modeled after actor Clifton Webb. Timon and Pumbaa, a meerkat and a warthog that the lion cub protagonist Simba befriends after he is banished from his tribe, can be easily read as a gay male couple. They live happily together, reveling in their marginalization from the rest of jungle society, and look askance at Simba’s budding heterosexual romance with a lioness. Voiced by Nathan Lane, who has played a number of gay male roles on stage and screen, Timon has the personality of a New York show queen: all patter and schtick, and ready to burst into a showtune at the drop of a hat. Pumbaa,</mark> the slower-witted of the pair, <mark>depends on Timon constantly,</mark> and the film prominently features his behind. Timon and Pumbaa would eventually star in their own animated TV series within the “Disney Afternoon,” where they would actually become even more gay-tinged. As Gael Sweeney discovered in her analysis of the program, the pair often function in episodes as a married couple and act as parents to young children in a number of storylines. Also, the two seem to enjoy dressing up in various types of drag throughout the run of the series.<sup>76</sup>
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-Nathan Lane had not publicly come out at the time of *The Lion King*'s release; [he came out in 1999](https://books.google.com/books?id=EmMEAAAAMBAJ&dq=Nathan+Lane+advocate&pg=PA31#v=onepage&q=Nathan%20Lane%20advocate&f=false), after the murder of Matthew Shepard.
+For the record, Nathan Lane had not publicly come out at the time of *The Lion King*'s release; [he came out in 1999](https://books.google.com/books?id=EmMEAAAAMBAJ&dq=Nathan+Lane+advocate&pg=PA31#v=onepage&q=Nathan%20Lane%20advocate&f=false) after the murder of Matthew Shepard.
 
 </compare>
 
@@ -1011,9 +1030,9 @@ The most obvious gay figure in the film is the villainous lion Scar, voiced by J
 <mark>Scar’s unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent. This social system is canonized during the film’s opening number, “The Circle of Life,”</mark> which was used in its entirety as a theatrical trailer for the film — drawing in audiences through a ritual performance of heterosexual male privilege. <mark>While Scar actively defies the social order celebrated in this number, the other gay figures help the young “straight” lion and are not seen as monsters mainly because they view him as the rightful ruler of the land. Zazu, Timon and Pumbaa all aide Simba in his quest to reestablish his claim to the throne, endorsing his “divine right.”</mark> <mark>This would fit directly into how</mark> the corporations that target “the gay consumer” would like to define homosexual individuals as a market but not as a political social group.<sup>77</sup> By buying into the society, “the gay consumer” effectively supports the hegemonic order, much as Simba’s gay friends aid his return to power. The power of the film’s endorsement of heterosexual patriarchy on audience members was made clear when the *Timon and Pumbaa* TV series began airing. Since Simba did not appear in the show, Timon and Pumbaa’s “gayness” became all the more obvious and was not used to endorse the “natural order” of heterosexual dominance. Some Internet fans of the original film voiced outrage because the series seemed to be reveling in gay camp, countering the philosophies they found valuable in *The Lion King*.<sup>78</sup>
 
 </from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-Pete Buttigieg does indeed have children now; [he and his husband adopted newborn fraternal twins in 2021](https://abcnews.go.com/Politics/pete-buttigieg-husband-introduce-babies-family-photo/story?id=79832236). But like, if you have an issue with him, then target his policies or public statements, not his lifestyle.
+Pete Buttigieg does indeed have children now; [he and his husband adopted newborn fraternal twins in 2021](https://abcnews.go.com/Politics/pete-buttigieg-husband-introduce-babies-family-photo/story?id=79832236). But like, if you have an issue with him, then target his policies or public statements, not his lifestyle?
 
 </comment>
 </compare>
@@ -1094,16 +1113,14 @@ Disney’s relationship with the gay community often mirrors this pattern. Deja,
 <mark fc=false>During the 1990s, Disney's parks also tried profiting from their LGBT fans by creating Gay Night, a one-night-a-year event at the parks where LGBT folks would be the main guest. It was a big hit, and threatened boycotts against the company never seemed to materialize. Initially, the revenue was all to be donated to the Aid for AIDS Foundation, but by 1995, donations to the charity had dried up. Disney was keeping all of the profits for themselves.</mark>
 
 </james>
-<comment>
-
-Todd in the Shadows 584s
+<comment {% include commenter video=todd at="584" %}>
 
 5. Disney did a gay charity event and stole the profits.
 
 Okay, this *is* a thing that happened, but it wasn't Disney. Disney Gay Days was an informal, unsanctioned event organized by an outside travel agency. They had *no* official connections to the actual park. It was discovered that the agency wasn't giving the profits to charity like they promised, and after that they went out of business. This had nothing to do with the actual Disney corporation.
 
 </comment>
-<comment> 
+<comment {% include commenter for=tobi %}> 
 
 The history of Gay Nights are detailed in Griffin's book as well. "In the 1990s, the Odyssey Tours travel agency began renting out the park one night a year (usually during the early winter, traditionally a slow period for the park) to hold “Gay Nights” at the park. Although never specifically advertised with such a phrase, the flyers and print ads announced that portions of the proceeds would go to the Aid for AIDS charity, and, judging by the crowds these nights attracted, most people 'got the hint.' (191) "In 1995, the lesbian and gay circles of Southern California by and large turned away from the annual 'Gay Night' at Disneyland. While not a systemized boycott, word spread throughout the area that Odyssey Tours, who organized the event, was making only token donations of the proceeds to the Aid for AIDS charity — even though the publicity prominently described itself as a charity event. Conceiving of the 'Gay Night' as a 'con job' on lesbian and gay customers, attendance dropped precipitously." (203) There were various boycots and other protests by Christian fundamentalists and the like from the mid 1990s onward, but none of them had to do with Gay Nights.
 
@@ -1113,13 +1130,28 @@ The history of Gay Nights are detailed in Griffin's book as well. "In the 1990s,
 <compare>
 <james {% include timecode %}>
 
-In 1997 Disney committed their First Act of straightwashing with the release of Hercules based very Loosely on the Greek myth of Heracles the film overtly ignored the hero's well-known bisexuality as well as his yurdal mood swings and once again codes the villain gay this time making Hades the lord of the underworld one of the few Olympian Gods Not to have taken a male lover into yet another mincing older man like scar with intentions of usurping the Throne of power from his heteronormative brother hades's only relationship with a woman in the film is with herk's love interest Meg for whom he fills the role of Stanford blch to her Cary Bradshaw this one is different he's honest and and he's sweet he would never do anything to hurt me he's a guy all of the other overtly gay sections of Greek myth and the Heracles myth itself are completely ignored of course as it is with almost all incarnations of the Hero Stories in modern media not that anyone expected anything different from Disney queer audiences never really expected anything from the mouse at this point even the interesting coding inserted by Howard Ashman had dried up since his death 
+In 1997, Disney committed their first act of straight-washing with the release of *Hercules*. Based *very* loosely on the Greek myth of Heracles, the film overtly ignored the hero's well-known bisexuality, as well as his [uxoricidal](https://www.merriam-webster.com/dictionary/uxoricide) mood swings, and once again codes the villain gay, this time making Hades the Lord of the Underworld, one of the few Olympian gods *not* to have taken a male lover, into yet another mincing older man like Scar, with intentions of usurping the throne of power from his heteronormative brother. 
+
+Hades's only relationship with a woman in the film is with Herc's love interest Meg, for whom he fills the role of Stanford Blatch to her Cary Bradshaw. 
+
+</james>
+<clip>
+
+Meg: "This one is *different*, he's honest and- and he's sweet--"
+Hades: "*Please*..."
+Meg: "He would never do anything to hurt me!
+Hades: "He's a *guy*!"
+
+</clip>
+<james>
+
+All of the other overtly gay sections of Greek myth and the Heracles myth itself are *completely* ignored, of course, as it is with almost all incarnations of the hero's stories in modern media. Not that anyone expected anything different from Disney. Queer audiences never really expected anything from the Mouse at this point. Even the interesting coding inserted by Howard Ashman had dried up since his death.
 
 </james>
 <from></from>
-<comment>
+<comment {% include commenter for=tobi %}>
 
-he skipped *The Hunchback of Notre Dame* smh
+He skipped *The Hunchback of Notre Dame* smh
 
 </comment>
 </compare>
@@ -1127,22 +1159,46 @@ he skipped *The Hunchback of Notre Dame* smh
 <compare>
 <james {% include timecode %}>
 
-So it was a pleasant surprise when in 1998, *Mulan* hit theaters. These lyrics from the song "Reflection" say it all: Look at me I will never pass for a perfect bride, or a perfect daughter Can it be I'm not meant to play this part? Now I see That if I were truly to be myself, I would break my family's heart Who is that girl I see staring straight back at me Why is my reflection someone I don't know Somehow I cannot hide who I am though I've tried When will my reflection show who I am inside 
+So it was a pleasant surprise when in 1998, *Mulan* hit theaters. <mark>These lyrics from the song "Reflection" say it all:</mark> 
+
+> <mark>Look at me </mark>
+
+> <mark>I will never pass for a perfect bride, or a perfect daughter</mark> 
+
+> <mark>Can it be I'm not meant to play this part?</mark> 
+
+> <mark>Now I see </mark>
+
+> <mark>That if I were truly to be myself, I would break my family's heart</mark> 
+
+> Who is that girl I see? 
+
+> Staring straight back at me 
+
+> Why is my reflection someone I don't know... 
+
+> Somehow I cannot hide 
+
+> Who I am though I've tried 
+
+> When will my reflection show 
+
+> Who I am inside 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 2"%}>
 
-But nearly 20 years later, my perspective shifted: At a friend’s birthday party in early 2017, I watched Disney’s "Mulan" for the first time as a queer, nonbinary trans adult. In the darkened living room, I found myself holding back a sudden swell of tears as I listened to the lyrics of Mulan’s iconic solo, "Reflection":
+But nearly 20 years later, my perspective shifted: At a friend’s birthday party in early 2017, I watched Disney’s "Mulan" for the first time as a queer, nonbinary trans adult. In the darkened living room, <mark>I found myself holding back a sudden swell of tears as I listened to the lyrics of Mulan’s iconic solo, "Reflection":</mark>
 
-> Look at me
->
-> I will never pass for a perfect bride, or a perfect daughter
->
-> Can it be I’m not meant to play this part?
->
-> Now I see
->
-> That if I were truly to be myself, I would break my family’s heart.
+> <mark>Look at me</mark>
+
+> <mark>I will never pass for a perfect bride, or a perfect daughter</mark>
+
+> <mark>Can it be I’m not meant to play this part?</mark>
+
+> <mark>Now I see</mark>
+
+> <mark>That if I were truly to be myself, I would break my family’s heart.</mark>
 
 </from>
 </compare>
@@ -1163,7 +1219,7 @@ But nearly 20 years later, my perspective shifted: At a friend’s birthday part
 <compare>
 <james {% include timecode %}>
 
-<mark>Mulan's gender journey over the course of the movie feels very familiar <mark yikes>to many trans and non-binary people.</mark></mark> First, in "Honor to Us All," the village women attempt to sculpt Mulan into an ideal woman - more specifically, an ideal wife.</mark> <mark num=2>Mulan fails the test of womanhood when her meeting with the Matchmaker goes horribly awry. As Mulan acknowledges this failure in "Reflection," she poses a question that most trans people know intimately: "When will my reflection show who I am inside?"</mark> 
+<mark>Mulan's gender journey over the course of the movie feels very familiar <mark yikes>to many trans and nonbinary people.</mark> First, in "Honor to Us All," the village women attempt to sculpt Mulan into an ideal woman - more specifically, an ideal wife.</mark> <mark num=2>Mulan fails the test of womanhood when her meeting with the Matchmaker goes horribly awry. As Mulan acknowledges this failure in "Reflection," she poses a question that most trans people know intimately: "When will my reflection show who I am inside?"</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 5"%}>
@@ -1176,7 +1232,7 @@ But nearly 20 years later, my perspective shifted: At a friend’s birthday part
 <compare>
 <james {% include timecode %}>
 
-<mark><mark yikes>Many trans men in particular feel a kinship with Mulan,</mark> as the character prepares to convince everyone they're a man - practicing their swagger, affecting their voice to a lower register, and scrambling to settle on a boy name. In "I'll Make a Man Out of You," Mulan-as-Ping progressively works their way toward achieving manhood, which is defined by catching fish, carrying heavy things, and, of course, wielding a big stick. They later fail the test of manhood when they or she is revealed as a woman - or, rather, as someone who is not a man. Ultimately, Mulan is able to defeat the bad guys by playing on their misperception of her gender.</mark> <mark num=2>Through a queer lens, the message of Disney's *Mulan* is something <mark yikes>many people learned as they come into their trans or non-binary identity:</mark> By rejecting society's limited ideals of womanhood and manhood, you can become your more authentic self.</mark> 
+<mark><mark yikes>Many trans men in particular feel a kinship with Mulan,</mark> as the character prepares to convince everyone they're a man - practicing their swagger, affecting their voice to a lower register, and scrambling to settle on a boy name. In "I'll Make a Man Out of You," Mulan-as-Ping progressively works their way toward achieving manhood, which is defined by catching fish, carrying heavy things, and, of course, wielding a big stick. They later fail the test of manhood when they, or she, is revealed as a woman - or, rather, as someone who is not a man. Ultimately, Mulan is able to defeat the bad guys by playing on their misperception of her gender.</mark> <mark num=2>Through a queer lens, the message of Disney's *Mulan* is something <mark yikes>many people learned as they come into their trans or non-binary identity:</mark> By rejecting society's limited ideals of womanhood and manhood, you can become your more authentic self.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 6"%}>
@@ -1189,7 +1245,7 @@ When I was at Smith College and coming into my own gender revolution, I thought,
 <compare>
 <james {% include timecode %}>
 
-<mark>Then there's Li Shang, the handsome young General who falls for both Ping and Mulan, and who has been meme-ified as a bisexual icon.</mark> And so in the upcoming live action adaptation of Mulan the songs have been removed so no reflection or I'll Make a Man Out of You and leang has been removed entirely wouldn't want anyone queering up a possible billion dollar hit now would we
+<mark>Then there's Li Shang, the handsome young general who falls for both Ping and Mulan, and who has been meme-ified as a bisexual icon.</mark> And so in the upcoming live action adaptation of *Mulan* the songs have been removed, so no "Reflection" or "I'll Make a Man Out of You," and Li Shang has been removed entirely. Wouldn't want anyone queerin' up a possible billion dollar hit, now would we?
 
 </james>
 <from {% include citation for=page.cite.plagiarized.queer_mulan at=" ¶ 7-8"%}>
@@ -1201,132 +1257,255 @@ Because of all this, and because I’ve come to read Disney’s "Mulan" as a que
 </from>
 </compare>
 
-Disney went into a prolonged slump with the birth of the New Millennium only the
-Pirates of the Caribbean franchise seemed to be keeping the studio afloat and
-even then when the first film was in production it was giving Executives heart
-problems the dailies coming in of Johnny Depp playing Jack Sparrow as at least
-questioningly queer put Michael Eisner under so much stress he literally had a
-heart attack in an interview after the film's release Depp said it trickled back
-to me that Michael Eisner went on some sort of bent about how godamn it Johnny
-Depp's ruining the film what is that thing is it drunk is it gay what the [ __ ]
-are you doing he'd asked when they asked me if if he was gay I said didn't you
-know all my characters are gay I really expected to be fired but I wasn't for
-some reason 
+<compare>
+<james {% include timecode %}>
 
-the film and its sequels went on to be big hits for the studio for
-the most part the new blood of 1980s Disney had all left the company by the time
-the Pirates sequel started coming out Jeffrey kenberg left the company to start
-DreamWorks with Steven Spielberg and David geffin Michael Eisner stepped down in
-a swirl of controversy and Frank Wells died in a helicopter crash in 2005 Bob
-Iger took over the position of CEO at Disney the company was Under New
-Management for the first time in 20 years Iger was well known in political
-circles as a progressive on social issues and had spearheaded multiple
-initiatives while working under Michael Eisner to increase the rights of LGBT
-employees at Disney and to empower LGBT Disney fans under his stewardship Disney
-switched from the once a year gay night at Disney parks to the full Gay Days
-event rebranding the occasion into a more familyfriendly affair with the
-intention of helping bring LGBT families into the mainstream he was vocally
-opposed to George W Bush's crusade to ban gay marriage and donated to the Obama
-for president campaign in 2008 under the caveat that Obama not defend the
-defensive Marriage Act or don't ask don't tell if he were to make it into office
-Obama agreed leading to both homophobic laws being overturned queer Disney
-stands were excited for iger's takeover of the company having such a vocal
-supporter of LGBT rights as the head of a company like Disney could only mean
-good things when Iger went on a spending spree buying up properties such as
-Marvel and Star Wars gay fans got excited to see if queer characters would make
-their way into those franchises as we know from the last video they did not Iger
-has been a benign CEO as far as LGBT representation goes while he hasn't allowed
-major characters to come out as LGBT putting his foot down when Tao atiti
-planned for valkyrie to be a lesbian and Thor Ragnarok he has allowed smaller
-queer characters to appear such as the lodge owners in Frozen lefu in the Beauty
-and the Beast remake Spectre in onward and a quick lesbian kiss in Star Wars
-Episode 9 one could argue that he could have been vetoing all LGBT
-representation like Disney CEOs before him that he could be actively opposing us
-but I say that's a pretty pathetically low bar Disney is the preeminent media
-provider right now with Pixar Star Wars Marvel Fox and their own original
-properties it could be argued that they're growing a media Monopoly when I've
-contributed to myself I was one of the people arguing for Disney to buy up Fox
-so that we could finally get some good X-Men and Fantastic 4 movies that weren't
-Logan also that they buy up Sony Pictures so that Spider-Man can stay in the MCU
-but now that Disney does own Fox I have to wonder when they make their X-Men
-movie will Iceman be straight again he came out of the closet in the comics a
-few years ago with a really touching storyline will Disney do away with that for
-a liveaction ican or will they simply keep him on the bench so they don't have
-to deal with it at all now that Disney owns The Rocky Horror Picture Show what
-will become of that will it continue to run as a midnight movie event or will
-Disney pull the film home prints that are in circulation they're certainly
-controlling over their copyrighted content so I can imagine they wouldn't be too
-pleased with theaters showing the film without their say so an odd Ray of Hope
-in Disney them is Kevin feige The Mastermind behind the MCU he's threatened to
-quit before not over pay raises but over control of characters Disney gave in to
-his demands and only once has stepped into to override his decision that being
-valkyrie's queerness even with their attempted straightwashing the coding is
-still so obvious it can barely be called coding his contract is once again
-coming up for Renewal and it looks like Valkyrie will indeed be looking for her
-Queen in Thor love and thunder a lesbian lead character in a potentially billion
-dooll movie will make Disney execs quake in their Gucci loafers but worrying
-over that might be worth keeping the Golden Goose that is Kevin feige the Young
-Avengers featuring Marvel's Premier gay couple Wiccan and hulkling is reportedly
-in development either e as a Disney Plus show or as a feature film hulkling
-being the king of space and Wiccan being the center point for all existence in
-the Marvel Universe makes them pretty much the ultimate superhero power couple
-and briee Larsson has been very blunt in her opinion the Captain Marvel should
-have a girlfriend in her sequel while Tom Holland will use any opportunity to
-let reporters know that he thinks his Spider-Man needs a boyfriend so is it
-possible for Disney via Marvel Studios to become the main source for LGBT rep
-representation in Hollywood all because of one producer they're terrified to
-lose it's a distinct possibility though the gay representation in Avengers
-endgame was much maligned by LGBT audiences it was an interesting experiment the
-scene is small and easily removable but Marvel refused to cut it for the film's
-release in countries like China Russia and places in the Middle East calling the
-bluff of those countries sensorship guidelines and since theater owners didn't
-want to lose out on a Marvel movie The Scene stayed in effectively a positive
-test run to see if fogy and Marvel could indeed get away with having queer
-characters in Marvel movies even in countries where homosexuality may be
-punishable by death but Marvel is the outlier at Disney no producer at Disney
-has the power and influence that Kevin feige does and even he hasn't managed to
-have an out queer main character in a film yet though we're apparently getting
-one with the eternals if that ever gets released the house of mouse continued
-use though to profit from its LGBT fan base while starving us for representation
-so that we'll be satisfied by the scraps they see fit to toss us a queer
-ascended extra or a blinking you miss it moment does not make up for everything
-Disney has done it's a well-known fact among industry professionals that Mulan
-was altered so drastically from its original animated form specifically to
-appeal to the Chinese box office which is why any hint at by or trans
-representation has been removed from the film even the Cod in at least according
-to the people I know who have seen the movie and their Jungle Cruise movie has
-an implied gay character that the test audiences found so offensive that the
-movie Saw massive delays in order to re-shoot Giant sections of the film at the
-Disney parks it's not uncommon to see Rainbow lace Disney shirts hats Mickey
-ears pins bracelets and notebooks all kinds of merchandise they're more than
-willing to sell us all sorts of stuff except a ticket to a movie with actual
-representation they will happily take our money and slightly wink when we ask if
-Elsa is a lesbian they'll sell us a movie ticket and shrug who knows when we ask
-if Po and Finn will kiss they'll sign you up for a Year's membership to Disney
-plus and then move L Victor to Hulu Disney is a company like any other they go
-where the prophets are and they are drawn to those profits like a sharked blood
-the thing is the LGBT community has been feeding them with no demand for
-something in return they queer B Stucky finp and Elsa we still give them our
-money they make a huge deal out of an exclusively gay moment just to give us two
-seconds of two men dancing and we still give them our money they remove even the
-gay coding from their remakes and we still give them our money is Disney the
-worst company in the world no of course not it's not like they're fracking when
-people leave the parks I've loved Disney for as long as I can remember the first
-movie I saw in theaters was Aladdin my first crushes were Aladdin and Hercules I
-knew for sure that I was 100% gay because I saw Tarzan swinging around half
-naked and thought yep that's what I want Disney isn't Chick-fil-A or Hobby Lobby
-it's not a hateful company and it's not a company most people can easily drop
-from their lives Disney is a part of the culture now hell they've created a big
-chunk of the culture that we live in so I'm not saying you need to stop seeing
-Disney movies but I do think we need to send Disney a very strong message either
-give us representation or don't stop the baiting stop the May and the who knows
-and the Som days and stop promising us representation and then taking it away
-this video began as a quick angry rant after Disney tried blocking my last video
-from going up but it evolved into something else entirely I started looking into
-the history of queerness in Disney movies and found a lot more than I was
-expecting I shouldn't be surprised because of course it's there there's
-queerness everywhere because we are everywhere we're storytellers and Artists
-Craftsmen and animators composers lyricists Executives and producers we help run
-the Disney parks and we're in costume at those Parks so of course we've found
-our way into the history of Disney as employees and fans we represent Disney
-every single day and it's about damn time Disney start representing [Music] us
+Disney went into a prolonged slump with the birth of the new millennium. Only the *Pirates of the Caribbean* franchise seemed to be keeping the studio afloat. And even then, when the first film was in production, it was giving executives heart problems. The dailies coming in of Johnny Depp playing Jack Sparrow as at least questioningly queer put Michael Eisner under so much stress he literally had a heart attack. 
+
+</james>
+<from></from>
+<comment {% include commenter for=tobi %}>
+
+There is no record of Michael Eisner having a heart attack during the production of *Pirates of the Caribbean*. [He did have heart surgery in 1994,](https://www.independent.co.uk/arts-entertainment/i-think-i-ve-got-a-real-problem-1078836.html), around the time Wells died and Katzenberg left the company, but that was well before *Pirates*.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+In an interview after the film's release, Depp said, 
+
+> "It trickled back to me that Michael Eisner went on some sort of bent about how 'Goddammit, Johnny Depp's ruining the film! What is that thing? Is it drunk, is it gay?' 
+
+> 'What the f**k are you doing?' he'd asked. When they asked me if it- he was gay, I said: 'Didn't you know all my characters are gay?' I really expected to be fired but I wasn't for some reason." 
+
+</james>
+<from>
+
+This quote comes from the AFI Film Festival on November 8, 2015, in a moderated conversation between Johnny Depp and *Black Pearl*'s director Scott Cooper.
+ 
+https://www.indiewire.com/features/general/afi-fest-johnny-depp-talks-black-mass-auditioning-for-the-coen-brothers-working-with-scott-cooper-more-106058/
+
+There's an audio recording of the interview, so I've transcribed the relevant section myself, in more exact detail. (around the 39 minute mark)
+
+"It trickled back to me that Michael Eisner went on some sort of bent about how 'Goddammit, Johnny Depp's ruining the film! What is it? What is that thing? What, is it drunk? Is it gay? And so I fully expected to be fired, and then I got a call from one of the upper echelon at Disney, who was courageous enough to ask me, "What the fuck are you doing?" And you know, again, the [unintelligible] words came up, "Is it drunk? Is it gay?" And all I could say was, 'cause it was just-- I was set up for a great line, so "Is it gay?" and I said "Didn't you know all my characters are gay?" I was really expecting to be fired, but they wouldn't for some reason. They were actually gonna subtitle my character. (Really? That's amazing!) Yeah, they couldn't understand Captain Jack."
+
+The closest match to James' quote is this article from the Independent, though he skips over the "upper echelon" part and attributes "What the fuck are you doing?" to Eisner.
+
+https://www.independent.co.uk/arts-entertainment/films/news/johnny-depp-recalls-what-he-told-disney-bosses-confused-by-jack-sparrow-didn-t-you-know-all-my-characters-are-gay-a6728081.html
+
+“It trickled back to me that [former CEO] Michael Eisner went on some sort of bent about how ‘Goddammit, Johnny Depp’s ruining the film! What is that thing? It is drunk, is it gay?’” he said, before recalling a meeting with “the upper echelon”.
+
+“What the f**k are you doing?” he was asked. “When they asked if it was gay, I said: ‘Didn’t you know all my characters are gay?’ I really expected to be fired but I wasn’t for some reason. They were actually gonna put subtitles under my character, they couldn’t understand Captain Jack.”
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The film and its sequels went on to be big hits for the studio... for the most part. The new blood of 1980s Disney had all left the company by the time the *Pirates* sequels started coming out. Jeffrey Katzenberg left the company to start DreamWorks with Steven Spielberg and David Geffen, Michael Eisner stepped down in a swirl of controversy, and Frank Wells died in a helicopter crash. In 2005, Bob Iger took over the position of CEO at Disney. 
+
+</james>
+<from></from>
+</compare>
+
+## Epilogue: A New Era?
+
+<compare>
+<james {% include timecode %}>
+
+The company was under new management for the first time in twenty years. <mark fc=false>Iger was well known in political circles as a progressive on social issues and had spearheaded multiple initiatives while working under Michael Eisner to increase the rights of LGBT employees at Disney. And to empower LGBT Disney fans, under his stewardship Disney switched from the once-a-year Gay Night at Disney parks to the full Gay Days event, rebranding the occasion into a more family-friendly affair with the intention of helping bring LGBT families into the mainstream. He was vocally opposed to George W. Bush's crusade to ban gay marriage and donated to the Obama for President campaign in 2008 under the caveat that Obama not defend the Defense of Marriage Act or Don't Ask, Don't Tell if he were to make it into office. Obama agreed, leading to both homophobic laws being overturned.</mark>
+
+</james>
+<from></from>
+<comment {% include commenter video=hbomb at="6711" %}>
+
+Now, obviously Iger couldn't rebrand something Disney wasn't doing and had no control over. Gay Days is actually a completely separate event which is also unofficial and unsanctioned by Disney. Also it started before Gay Night and 15 years before Iger became CEO. It's kind of impressive how wrong this was. He's giving fucking Disney credit for the actions of independent queer people. It really downplays the work that people put into organizing stuff like Gay Days. It's super disappointing, honestly. The first official Disney pride night happened this year [2023], three years after he made this video. *That's* how far off the mark he was on this.
+
+</comment>
+<comment {% include commenter video=todd at="2540" %}>
+
+18. Disney CEO Bob Iger has a strong pro-gay rights record
+
+Yeah I couldn't find any of that. If Iger ever did anything for gay Disney employees, I didn't find it. If Iger ever did anything for gay Disney fans, I didn't find it. Literally the only connection I could find between Iger and LGBT issues was that he was head of ABC when Ellen DeGeneres came out, which was under the Disney umbrella but not really Disney, you know? Any initiatives for gay Disney employees during the Eisner era happened before Iger ascended to the Disney corporation proper, so I don't think he was involved. 
+
+And I *know* Iger didn't redesign Gay Night into Disney Gay Days because, again, Gay Days was never a Disney sanctioned event. Disney didn't do a Pride event in America until this year, and for the record, it *was* a gay night. 
+
+And then [sighs] the stuff about opposing Bush's gay marriage ban, like... if a major executive at a family oriented American icon brand like Disney took a *bold* stance against the *president* on this *very* controversial issue, you'd think there'd be some coverage. But it just doesn't come up anywhere, not in searches, not in his memoir, not in 2017 when he was briefly floating a presidential run, he talked about climate change, gun violence, immigration, nothing about gay rights. If he had ever taken a stance *that* brave and ahead of the curve while running as a Democrat, it's political malpractice not to bring that up every chance you get. He has made some pro-gay rights statements more recently, but that was after he left the company and *well* after Somerton's video came out. 
+
+And okay, all that stuff about Obama. Uh, you can see people's donations, so I went to opensecrets.org, which does have a listing for all of Iger's donations. Uh, it doesn't list any donations to Obama in '08, and uh, none of the committees Iger donated to gave to Obama either, I think because Obama was not accepting any corporate PAC money that election.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Queer Disney stans were excited for Iger's takeover of the company.<sup cn></sup> <mark fc=false>Having such a vocal supporter of LGBT rights</mark> as the head of a company like Disney could *only* mean good things. When Iger went on a spending spree buying up properties such as Marvel and Star Wars, gay fans got excited to see if queer characters would make their way into those franchises. As we know from the last video, they did not. <u>[record scratch]</u>
+
+Iger has been a benign CEO as far as LGBT representation goes. While he hasn't allowed *major* characters to come out as LGBT, putting his foot down when Taiko Watiti planned for Valkyrie to be a lesbian in *Thor: Ragnarok*, he has allowed smaller queer characters to appear, such as the lodge owners in *Frozen*, LeFou in the *Beauty and the Beast* remake, Specter in *Onward*, and a quick lesbian kiss in *Star Wars: Episode IX.* 
+
+</james>
+<from></from>
+<comment {% include commenter video=todd at="2772" %}>
+
+And one minor bonus claim: on the other hand, Iger wouldn't let Valkyrie be gay in *Thor: Ragnarok*. 
+
+Okay, fact check, according to *Rolling Stone* they *did* shoot a scene confirming that Valkyrie *was* gay, but it was cut for pacing reasons. That's the official story, at least. You don't have to believe it, but there's no actual reporting saying that it was cut for any other reason or that Iger was the one that made that call. That's just speculation and I don't think you should present it as fact.
+
+</comment>
+<comment {% include commenter for=tobi %}>
+
+[Also, Valkyrie is bisexual, as is her actor, Tessa Thompson.](https://www.indiewire.com/features/general/marvel-gay-superhero-valkyrie-tessa-thompson-thor-lgbt-1202159737/) 
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+One *could* argue that he could have been vetoing all LGBT representation like Disney CEOs before him, that he could be actively opposing us... but I say that's a pretty pathetically low bar. Disney is the preeminent media provider right now, with *Pixar*, *Star Wars*, *Marvel*, *Fox*, and their own original properties, it could be argued that they're growing a media monopoly. One I've contributed to myself. I was one of the people arguing for Disney to buy up Fox so that we could finally get some good X-Men and Fantastic 4 movies that weren't Logan<sup>????</sup>. Also that they buy up Sony Pictures so that Spider-Man can stay in the MCU. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But now that Disney *does* own Fox, I have to wonder, when they make their X-Men movie, will Iceman be straight again? He came out of the closet in the comics a few years ago with a really touching storyline. Will Disney do away with that for a liveaction Iceman? Or will they simply... keep him on the bench so they don't have to deal with it at all? 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Now that Disney owns *The Rocky Horror Picture Show*, what will become of that? Will it continue to run as a midnight movie event, or will Disney pull the film prints that are in circulation? They're certainly controlling over their copyrighted content, so I can imagine they wouldn't be too pleased with theaters showing the film without their say so.
+
+</james>
+<from></from>
+</compare> 
+
+<compare>
+<james {% include timecode %}>
+
+An odd ray of hope in Disney, then, is Kevin Feige, the mastermind behind the MCU. He's threatened to quit before, not over pay raises, but over control of characters. Disney gave in to his demands, and only once has stepped into to override his decision, <mark fc=false>that being Valkyrie's queerness.</mark> Even with their attempted straight-washing, the coding is still... so *obvious* it can barely be called coding. 
+
+His contract is once again coming up for renewal, and it looks like Valkyrie will indeed be looking for her queen in *Thor: Love and Thunder*. A lesbian lead character in a potentially billion dollar movie will make Disney execs quake in their Gucci loafers, but worrying over that might be worth keeping the Golden Goose that is Kevin Feige.
+
+</james>
+<from></from>
+<comment {% include commenter for=tobi %}>
+
+As far as I can tell, Kevin Feige didn't have anything to do with the Valkyrie thing, again, that was just cut for pacing. Also, again, she's bisexual, this is a pretty well known fact.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The Young Avengers featuring Marvel's premier gay couple, Wiccan and Hulkling, is reportedly in development, either as a Disney Plus show or as a feature film. Hulkling being the king of space and Wiccan being the center point for all existence in the Marvel universe makes them pretty much the *ultimate* superhero power couple. And Brie Larsson has been very blunt in her opinion the Captain Marvel should have a girlfriend in her sequel<sup cn></sup>, while Tom Holland will use any opportunity to let reporters know that he thinks his Spider-Man needs a boyfriend.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So is it possible for Disney, via Marvel Studios, to become the main source for LGBT representation in Hollywood, all because of one producer they're terrified to lose? It's a distinct possibility. Though the gay representation in *Avengers: Endgame* was much maligned by LGBT audiences, it was an interesting experiment. The scene is small and easily removable, but Marvel refused to cut it for the film's release in countries like China, Russia, and... places in the Middle East, calling the bluff of those countries' censorship guidelines. And since theater owners didn't want to lose out on a Marvel movie, the scene stayed in. Effectively, a positive test run to see if Feige and Marvel could indeed get away with having queer characters in Marvel movies, even in countries where homosexuality may be punishable by death.
+
+</james>
+<from></from>
+<comment {% include commenter for=tobi %}>
+
+I found no evidence that Marvel "refused to cut" the scene in other countries. [One article about Russia claims that the scene was dubbed in a way that hid the romantic implications of the dialogue](https://meduza.io/en/shapito/2019/04/30/russia-s-dubbed-version-of-avengers-endgame-changes-marvel-s-first-gay-moment) [Also, apparently Disney refused to screen the English version of the film (with subtitles) in Russia](https://www.change.org/p/walt-disney-studios-motion-pictures-avengers-endgame-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-in-russia-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5-%D1%81-%D1%81%D1%83%D0%B1%D1%82%D0%B8%D1%82%D1%80%D0%B0%D0%BC%D0%B8-we-demand-subtitle) for some reason. I couldn't find anything about China or "places in the Middle East" that supports or refutes James' argument.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+But Marvel is the outlier at Disney. No producer at Disney has the power and influence that Kevin Feige does, and even *he* hasn't managed to have an out queer main character in a film yet, though we're apparently getting one with *The Eternals*, if that ever gets released. 
+
+The House of Mouse continues, though, to profit from its LGBT fan base while starving us for representation, so that we'll be satisfied by the scraps they see fit to toss us. A queer ascended extra, or a blink-and-you miss-it moment does not make up for everything Disney has done. It's a well-known fact among industry professionals that Mulan was altered *so* drastically from its original animated form *specifically* to appeal to the Chinese box office, which is why any hint at bi or trans representation has been removed from the film, even the coding, at least according
+to the people I know who have seen the movie. And their *Jungle Cruise* movie has an implied gay character that the test audiences found *so* offensive that the movie saw *massive* delays in order to re-shoot *giant* sections of the film.
+
+</james>
+<from></from>
+<comment {% include commenter for=tobi %}>
+
+*Jungle Cruise* did have reshoots (in spring 2019), and people did complain a lot about the initial reporting and trailers in regards to the gay character (for being played by a straight man, being described as "camp", and reports that the word "gay" wouldn't actually be used), but "they reshot the film because they made an offensive gay stereotypes" [seems to just be a Twitter rumor/speculation based on his lack of dialogue in the first trailer](https://www.themarysue.com/mcgregor-houghton-gay-character-disney-jungle-cruise/) that got spread as fact. The movie was delayed ([in October 2018, the release was pushed back from October 2019 to July 2020](https://www.slashfilm.com/561805/jungle-cruise-release-date/), and then later pushed back another year because of COVID), but there's no indication of why.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+At the Disney parks, it's not uncommon to see rainbow-laced Disney shirts, hats, Mickey ears, pins, bracelets, and notebooks, all kinds of merchandise. They are more than willing to sell us all sorts of stuff, except a ticket to a movie with actual representation. They will happily take our money and slyly wink when we ask if Elsa is a lesbian. They'll sell us a movie ticket and shrug "Who knows?" when we ask if Poe and Finn will kiss. They'll sign you up for a year's membership to Disney Plus, and then move *Love, Victor* to Hulu. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Disney is a company like any other: they go where the profits are, and they are drawn to those profits like a shark to blood. The thing is, the LGBT community has been feeding them with no demand for something in return. They queerbait Stucky, Finnpoe, and Elsa. We still give them our money. They make a huge deal out of an "exclusively gay moment," just to give us two seconds of two men dancing. And we still give them our money. They remove even the gay coding from their remakes. And we still give them our money.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Is Disney the worst company in the world? No, of course not, it's not like they're fracking when people leave the parks. I've loved Disney for as long as I can remember. The first movie I saw in theaters was *Aladdin*. My first crushes were Aladdin and Hercules. I knew for sure that I was 100% gay because I saw Tarzan swinging around half naked and thought, "yep, that's what I want." Disney isn't Chick-fil-A or Hobby Lobby, it's not a hateful company. And it's not a company most people can easily drop from their lives, Disney is a part of the culture now, hell, they've created a big chunk of the culture that we live in. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So I'm not saying you need to stop seeing Disney movies, but I do think we need to send Disney a very strong message. Either give us representation or don't, stop the baiting. Stop the "maybe"'s and the "who knows?" and the "someday"'s. And stop promising us representation and then taking it away. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+This video began as a quick angry rant after Disney tried blocking my last video from going up, but it evolved into something else entirely. I started looking into the history of queerness in Disney movies and found a lot more than I was expecting. And I shouldn't be surprised, because of course it's there! There's queerness everywhere because *we* are everywhere. We're storytellers and artists, craftsmen and animators, composers, lyricists, executives and producers. We help run the Disney parks, and we're in costume at those parks. So of course we've found our way into the history of Disney. As employees and fans, we represent Disney *every single day*... And it's about damn time Disney starts representing us.
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<credits class="closing">
+
+> Based on the book "Tinker Belles and Evil Queens" by Sean Griffin
+
+> Written and Edited by James Somerton
+
+> Thank you to my patrons!
+
+<u>[Patron names roll]</u>
+
+</credits>
+<comment {% include commenter for=tobi %}> 
+
+The "based on" section of the credits was not present in the original upload.
+
+</comment>
+</compare>
