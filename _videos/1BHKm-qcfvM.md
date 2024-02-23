@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-12-01
 title: The Gay Body Image Crisis
 runtime: 43:30
-status: Auto
+status: Complete
 aka: !!seq
   - "How Fascism Created The Gay Body Image Crisis"
 topics: !!seq

@@ -6,7 +6,7 @@ date: 2023-04-15
 title: America v. Homosexuality
 runtime: 30:00
 parent: pW_RjbZYi1s
-status: Finished
+status: Complete
 aka: !!seq
   - "America's War on the Gays (and communists)"
   - "The Lavender Menace (Thumbnail)"
@@ -23,7 +23,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=V2--C3AQfSE"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230415+iJ3M_DhPlI0+America+v.+Homosexuality.webm"
   - "https://archive.org/details/james-somerton-public-records/America%E2%80%99s+War+on+the+Gays+(and+communists).mp4"
-# description: "a video essay where James takes a break reading of Vito Russo's book and reads from another book on The Lavender Scare."
+description: "a video essay where James takes a break reading of Vito Russo's book and reads from some other sources on The Lavender Scare."
 notes:
   - hbomb
   - w-james
