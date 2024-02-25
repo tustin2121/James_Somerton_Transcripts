@@ -1,18 +1,18 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: '22.6', m: '2.7', 'y': '0.9', w: '13.6', v: 134}
+  vol: {p: '23.5', m: '2.8', 'y': '0.9', w: '14.5', v: 134}
   p-total: 120
-  m-total: 90
-  y-total: 21
+  m-total: 91
+  y-total: 25
   hbomb: 26
   w-james-nick: 13
   malaprop: 4
-  changed-quote: 20
+  changed-quote: 21
   made-quote: 5
   comp-delete: 5
   visual: 4
-  y-biphobia: 1
+  y-biphobia: 2
   p-youtube: 16
   sub-queer: 23
   p-wiki: 18
@@ -22,14 +22,14 @@ _global:
   m-context: 6
   inverse: 1
   y-persecution: 2
-  p-book: 8
+  p-book: 9
   p-student: 4
   podcast: 8
   y-acephobia: 4
   script-diff: 14
   w-nick-james: 11
   short-advert: 5
-  y-exclusion: 2
+  y-exclusion: 4
   highlighted: 1
   dec2-delete: 1
   baa: 4
@@ -44,7 +44,7 @@ _global:
   w-nick: 1
   mirror: 1
   w-james: 5
-  y-misogyny: 1
+  y-misogyny: 2
   y-transphobia: 1
   behind-scenes: 2
   y-misgendering: 3
@@ -245,12 +245,14 @@ Zcf3uNGbq4:
   vol: { p: 85.0, m: 2.5, y: 0.0, w: 57.8, v: 0 }
 fE4I6WhPryc:
   vol: { p: 0.0, m: 1.3, y: 2.7, w: 0.0, v: 0 }
+fzN9x4XgtwY:
+  vol: { p: 69.2, m: 3.8, y: 0.0, w: 61.7, v: 0 }
 iJ3M_DhPlI0:
   vol: { p: 45.9, m: 2.7, y: 0.0, w: 35.0, v: 0 }
 jJmN2rC1cVM:
   vol: { p: 33.9, m: 1.8, y: 0.0, w: 10.6, v: 0 }
 kvMq2FejBT8:
-  vol: { p: 11.6, m: 0.0, y: 1.4, w: 4.7, v: 0 }
+  vol: { p: 8.6, m: 3.2, y: 3.2, w: 4.7, v: 0 }
 m8DRQ9-sCSI:
   plagiarized: {}
   misinformation: {}
@@ -279,7 +281,8 @@ pW_RjbZYi1s:
     Zcf3uNGbq4$meanings: {_desc_: 'James has a habit of changing the meaning of what he''s copying, such as', inverted: Vito's use of the word "always"}
   yikes:
     SdtbQhAKFSI$lt-skip: 'James, basically reading beat for beat from Russo''s book, skips over any discussion about Lesbian or Transgender films of the era that Russo goes into.'
-  vol: { p: 60.1, m: 2.0, y: 0.0, w: 45.4, v: 0 }
+    fzN9x4XgtwY$bi_erasure: 'James just skips over several paragraphs of the book he''s copying from, which just so happen to talk about biphobia in films.'
+  vol: { p: 72.4, m: 2.8, y: 0.0, w: 57.2, v: 0 }
 qa3A_ery3Hg:
   vol: { p: 43.1, m: 3.9, y: 0.0, w: 16.1, v: 0 }
 xBDc6SedkAc:

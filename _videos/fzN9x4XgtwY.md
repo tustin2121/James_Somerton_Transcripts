@@ -26,10 +26,11 @@ contributors:
 
 cite:
   clips: !!map
-    sunday_bloody: { short: "Sunday, Bloody Sunday", full: "TODO sunday_bloody" }
-    archie_bunker: { short: "archie_bunker", full: "TODO archie_bunker" }
-    pink_flamingos: { short: "pink_flamingos", full: "TODO pink_flamingos" }
+    sunday_bloody: { short: "Sunday, Bloody Sunday (1971)", full: "Janni, J., Joseph, E. (Producers). Schlesinger, j. (Director). (1971). <em>Sunday Bloody Sunday</em> [Film]. Vectia. United Kingdom." }
+    archie_bunker: { short: "All in the Family (S1, Ep5)", full: "Lear, N. (Director). (1971, Feb 9). Judging Books by Covers [TV series episode]. In <em>All in the Family</em>. Tandem Productions." }
+    pink_flamingos: { short: "Pink Flamingos (1972)", full: "Waters, J. (1972). <em>Pink Flamingos</em> [Film]. Dreamland." }
   yikes: !!map
+    bi_erasure: "James just skips over several paragraphs of the book he's copying from, which just so happen to talk about biphobia in films."
   misinformation: !!map
   plagiarized: !!map
     celluloid_closet: $cite$celluloid_closet_book
@@ -390,13 +391,13 @@ Neither porno nor commercially oriented, <mark>*A Very Natural Thing* had such m
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Elsewhere in cinemas, <mark>John Schlesinger's *Sunday Bloody Sunday* was a poignant, understanding, and interesting story</mark> <mark>that has *consistently* been cited since as an example of a good gay film... that failed to make it at the box office: proof that homosexuality is not a money-making proposition in movie terms. </mark>
 
 <mark>The problem however was in the packaging. *Sunday Bloody Sunday* was a talky introspective British production that wasn't intended for a wide audience in the United States.</mark> It was noted in the 1980s that:
 
-> <span stat:id="changed-quote"><mark>"There appears to be very little room in the American market anymore for the 'small but interesting' film. According to producers and writers, this is now the specialty of television films."</mark></span>
+> <mark stat:id="changed-quote">"There appears to be very little room in the American market anymore for the 'small but interesting' film. According to producers and writers, this is now the specialty of television films."</mark>
 
 Interesting how history repeats itself, as small and interesting now seems to be the forte of streaming services.
 
@@ -414,7 +415,7 @@ James says "It was noted in the 1980s," as if everything before and after this i
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 > <mark>"This film... <ins>(Schlesinger said)</ins></mark>
 >
@@ -428,12 +429,12 @@ James says "It was noted in the 1980s," as if everything before and after this i
 <mark>"This film," Schlesinger said,</mark> <mark>"is not about the sexuality of these people."</mark> <mark>The people in question were a homosexual doctor (Peter Finch), a heterosexual career woman (Glenda Jackson) and the bisexual artist (Murray Head) with whom they were both in love. And Schlesinger was right; Sunday, Bloody Sunday was not about sexuality. But it was a film in which alternative sexuality was taken for granted, something that gay activists had been asking for all along. It was a film about human relationships and how they do not always match our ideas about what love ought to be.</mark> Everyone in the film settles for something less than he or she had hoped for or been taught to expect - except the bisexual, whose sexuality is viewed as part of his youthful noncommitment to anyone or anything but his work. When Head runs off to America at the end of the film, leaving Jackson and Finch to fend for themselves, it is clear that their lives will continue though they are trapped in resignation. In the end, they realize, one is always alone.
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="bi_erasure" {% include commenter for=tobi %}>
 
-The end of this paragraph and the next paragraph details how bisexuality is portrayed negatively in the film, as noncommited and unfaithful, as not as valid of a "choice" as being straight or gay. James just skips to the next paragraph, therefore focusing only on the positive representation of a monosexual gay character.
+The end of this paragraph and the next paragraph details how bisexuality is portrayed negatively in the film, as noncommited and unfaithful, as not as valid of a "choice" as being straight or gay. <span stat:id="y-biphobia"">James just</span> <span stat:id="y-exclusion">skips to the next paragraph</span>, therefore focusing only on the positive representation of a monosexual gay character.
 
 </comment>
-</compare
+</compare>
 
 <compare>
 <james {% include timecode %}>
@@ -441,7 +442,7 @@ The end of this paragraph and the next paragraph details how bisexuality is port
 <mark>The film portrayed a joyful ending for a gay character whose boring resignation is not the result of his homosexuality. In his final monologue, he informs the audience:</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.celluloid_closet at="p.210-211" %}>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="p.210-211" %}>
 
 <mark>The film presented a happy ending for a homosexual character whose dull resignation is not the product of his gayness. Finch tells the audience in a closing monologue,</mark> <mark>"People say to me, He never made you happy. And I say, But I am happy. Apart from missing him. All my life I've been looking for someone courageous and resourceful. He's not it. But something. We were something."</mark> The speech has little to do with homosexuality, but it does say that gay relationships are not nothing. And Sunday, Bloody Sunday said some- thing even more universal and important, that "the whole thing" that Jackson's mother spoke of is an illusion. Like the cold, metallic connections made by the telephone equipment at the beginning of the film, people connect randomly, hoping that their system of relating will not break down before they can connect and find a way to make it work together.
 
@@ -608,7 +609,7 @@ In 1976, as part of its Bicentennial salute to great Americans, CBS aired a dram
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Although Quentin Crisp's story in *The Naked Civil Servant* was</mark> <u>[chuckling]</u> <mark>not a gay liberationist's dream by any means, gays greatly admired and respected Crisp's defiant lifestyle.</mark>
 
@@ -620,7 +621,7 @@ In 1976, as part of its Bicentennial salute to great Americans, CBS aired a dram
 </from>
 <comment {% include commenter for=tobi %}>
 
-James mentions *The War Widow*, a 1976 movie about a woman falling in love with another woman during World War I, but skips over the passage that discusses it.
+James mentions *The War Widow*, a 1976 movie about a woman falling in love with another woman during World War I, <span stat:id="y-exclusion">but skips over</span> <span stat:id="y-misogyny">the passage that discusses it</span>.
 
 </comment>
 </compare>
@@ -667,7 +668,7 @@ Quentin: <u>[to man]</u> "No one, really. Sir."
 <compare>
 <james {% include timecode %}>
 
-Yet, no gay heroes emerged on the movie screen. 
+<mark>Yet, no gay heroes emerged on the movie screen.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.celluloid_closet at="p.226" %}>
@@ -702,7 +703,6 @@ Another important queer theme in *Dog Day Afternoon* is the way that Sonny's sex
 Made for a budget of <q>3.5 million dollars</q> it went on to gross <q>56 million dollars</q> at the box office, or <mark fc=false><q>381 million dollars</q> when adjusted for inflation.</mark> And was nominated for six Oscars, including Best Picture, *bursting the bubble* of the assumption that movies with queer characters and themes can't succeed. 
 
 </james>
-<from></from>
 <comment {% include commenter for=tobi %}>
 
 I used several different inflation calculators to determine how much 56 million in 1975 was worth in 2023, and all of them were 310-320 million. I presume James either mixed up 318 million as 381 million, or used the wrong year.
@@ -856,12 +856,13 @@ Content warning, though. <u>[laughing]</u>
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Waters' films are also notable for their celebration of Camp, a style that embraces theatricality and excess. Water's influence on the world of film and popular culture is *undeniable*. He has inspired countless artists and filmmakers, and his work has been celebrated for its subversive and irreverent humor. His films have also helped to pave the way for a greater representation of queer characters and stories in *mainstream* media. By challenging societal norms and pushing boundaries, Waters has left an indelible mark on the world of cinema and beyond. These queer underground round films opened the minds of many who wanted *nothing to do* with queer people.
+
+</james>
+<from></from>
+<james span=2 {% include timecode %}>
 
 Throughout the 1970s we continued to appear on some of the most popular TV shows in the world, such as *Dallas* and *MASH*. <mark fc=false>And in 1979, came the groundbreaking documentary *Before Stonewall*.</mark> The documentary combines archival footage, interviews with queer activists and scholars, and personal accounts to Chronicle the history of the queer community in America. It highlights the experiences of queer people in different regions of the country and in various spheres of society, including the arts, politics, and even Sports. 
 
