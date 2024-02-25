@@ -261,6 +261,14 @@ when it came to documenting women in general we're missing information on that
 front so we can't really speak to it secondly information about early lesbians
 kind of results in men not really being willing to talk about it in the legal
 case of Radcliffe Hall she in her book The Well of Loneliness depicted World War
+
+<comment {% include commenter for=lvence %}>
+
+[TODO]
+A good article on why English laws do not ban lesbianism on the book. I think this fits in debunking the Radclyffe Hall remark. TLDR the legislators really didn't want their wives and daughter to find out about lesbianism, but still punish it under different legal offenses. https://www.open.edu/openlearn/society-politics-law/law/lesbianism-and-the-criminal-law-england-and-wales
+
+</comment>
+
 One ambulance drivers as being primarily lesbians English courts were really not
 pleased with this depiction but women who love women with such an uncomfortable
 topic for them they threw her case out of the courts and just let her carry on

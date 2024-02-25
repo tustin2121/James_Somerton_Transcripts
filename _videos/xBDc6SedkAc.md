@@ -32,6 +32,7 @@ cite:
     barbie_movie: { short: "Barbie (Gerwig, 2023)", url: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films." }
   yikes: !!map
     sex_broccoli: "James likens sex to broccoli: obviously if you haven't tried it, how do you know you hate it?"
+    puritanical: "James seems to have gotten the wrong message from <em>Brokeback Mountain</em>."
   misinformation: !!map
     think_pieces: "James misinterprets a 'think piece' as queer men hating that there's gay sex on screen."
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
@@ -41,6 +42,7 @@ cite:
 ---
 {% assign todd = site.data.cite.todd.video %}
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign kenm = site.data.cite.kenm %}
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
@@ -391,7 +393,7 @@ Now was this just because they've never been exposed to the idea of gay sex befo
 They know that men have sex with men, and women have sex
 with women, but they're really icked out by the idea of knowing the ins and outs and tops and bottoms of it all. (Good thing Henry didn't eat any *beans* before the scene or that could have brought up even more uncomfortable questions.)
 
-The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
+The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen<sup stat:id="malaprop" class="add">[sic: ill omen]</sup> about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
 
 </james>
 <from></from>
@@ -459,8 +461,15 @@ character's relationships advance beyond hugging, even if it was offscreen. The 
 <compare>
 <james {% include timecode %}>
 
-"Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. We were either neutered
-and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)
+"Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. <mark yikes>We were either neutered and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)</mark>
+
+</james>
+<comment id="puritanical" {% include commenter for=kenm %}>
+
+Jack in "Brokeback Mountain" was killed by intolerance. I know it's an example of Bury Your Gays but it's not an example of puritanical moralization. At no point does the movie judge either character for being dirty sinners and Jack's death is clearly not intended as karmic punishment for his lifestyle. That's not what the movie is about. That's an insane takeaway from Brokeback Mountain. 
+
+</comment>
+<james {% include timecode %}>
 
 Many creators lean toward this over the years as a way to show gay representation without pissing off the straights too much. So I can understand why some people in the gay community (especially men my
 age who grew up with the trope of the 'sexless gay best friend' like Trixie) would be irritated by it even now when there *is* pretty mainstream gay movies and shows that *do* show the sex stuff, like *Young Royals* and *Elite*. But like I said Katya's opinions seem to shift between the two seasons. Our Queens who Watch looked at this story about a collection of various queer 15- and 16-year-olds, and they spent the duration of their video railing it because... well, nobody was getting railed. 

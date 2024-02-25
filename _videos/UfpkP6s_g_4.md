@@ -778,6 +778,15 @@ shishi leroux who christened him joey stefano and starring in more of a man he
 instantly rose to stardom not just within the world of gay porn but outside it
 as well he created a hit clothing line and was featured in multiple madonna
 projects the singer was so smitten with joey that she was apparently devastated
+
+<comment {% include commenter video=todd %}> [TODO]
+
+<u>[Added as an addendum in a pinned comment]:</u>
+
+1) Somerton claims that Joey Stefano "created a hit clothing line." I am finding no evidence of this.
+
+</comment>
+
 when she found out that he was actually gay and not gay for pay talent agent
 david del val who represented multiple hollywood actors and some of the biggest
 stars on broadway was thoroughly convinced that he could turn joey into a
