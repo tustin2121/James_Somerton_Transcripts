@@ -751,6 +751,7 @@ By September, when Carr entered a guilty plea of second-degree manslaughter, the
 
 </james>
 <from>
+
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 10
 
 
@@ -759,8 +760,9 @@ By September, when Carr entered a guilty plea of first-degree manslaughter, the 
 </from>
 <comment>
 
-James changes first-degreee to second-degree, presumably because the Medium article says "he pleaded guilty to second-degree manslaughter." I looked but I couldn't find which one he actually pleaded. I suspect it was first-degree manslaughter because it makes more sense from what I read about New York laws; second-degree manslaughter, also caused reckless homicide, is when you unintentionally cause someone else's death through reckless behavior, while first-degree manslaughter is when you intentionally kill someone while in a state of "extreme emotional disturbance."
+James changes first-degreee to second-degree, presumably because the Medium article says "he pleaded guilty to second-degree manslaughter." I looked but I couldn't find which one he actually pleaded. I suspect it was first-degree manslaughter because it makes more sense from what I read about New York laws; second-degree manslaughter, also called reckless homicide, is when you unintentionally cause someone else's death through reckless behavior, while first-degree manslaughter is when you intentionally kill someone while in a state of "extreme emotional disturbance."
 
+</comment>
 </compare>
 
 {% assign timecode = "00:19:25" %}
@@ -790,32 +792,33 @@ The facts in this case are elastic, with too many contradicting stories over the
 <compare>
 <james {% include timecode %}>
 
-William T Simpson. Like most gay men at the time, William T Simpson lived a pretty modest life. He was 27 and was one of many gay men who worked for Eastern Airlines as a flight attendant. Eastern Airlines was based in Miami and was Dade County's largest employer at the time. He was a shy person by all accounts, often skipping the parties planned by his coworkers.
+William T Simpson. <mark>Like most gay men at the time, William T Simpson lived a pretty modest life. He was 27 and was one of many gay men who worked for Eastern Airlines as a flight attendant. Eastern Airlines was based in Miami and was Dade County's largest employer at the time.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Man para 1
+
+<mark>Like most gays at the time, Simpson lived a pretty modest life. He was 27 and among many gay men who worked for Eastern Airlines as a flight attendant. Eastern Airlines was based in Miami and was Dade County's largest employer at the time.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:20:41" %}
+{% assign timecode = "00:20:37" %}
 
 <compare>
 <james {% include timecode %}>
 
-He rarely visited the underground gay bars that existed in Miami at the time and mostly kept to himself with no family living nearby. Some looked at him as a loner, but he simply preferred the company of a good book. He'd come to Miami in 1951 from Louisville, Kentucky, for his career, and so that his sexuality wouldn't be quite so stifled.
+<mark>He was a shy person</mark> <span stat:id="baa">by all accounts</span>, <mark>often skipping the parties planned by his coworkers. He rarely visited the underground gay bars that existed in Miami at the time</mark> and mostly kept to himself. <mark>With no family living nearby,</mark> some looked at him as a loner, but he simply preferred the company of a good book. <mark>He'd come to Miami in 1951 from Louisville, Kentucky, for his career, and so that his sexuality wouldn't be quite so stifled.</mark> Though, <mark>like most cities, the gay community of Miami was deeply secretive.</mark> It was one of the areas of the country with a reputation like New York or San Francisco. <mark>If you were a gay man living in America's South, you knew Miami was where you had to go if you wanted to have a life.</mark> And so Simpson lived a quiet, relatively happy life in the city.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:21:00" %}
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Man para 2
 
-<compare>
-<james {% include timecode %}>
+<mark>He was a low-key guy</mark> <mark>who would often skip the "crew parties" that were planned among his coworkers. He rarely visited the underground gay bars that existed in Miami at the time.</mark> <mark>Simpson had no family nearby.</mark> <mark>He came to Miami in 1951 from Louisville, Ky., for his career and his sexuality.</mark> <mark>For the most part, the gay community in Miami lived in obscurity,</mark> but <mark>if you were gay, you knew Miami was full of gay men.</mark>
 
-Though like most cities, the gay community of Miami was deeply secretive. It was one of the areas of the country with a reputation like New York or San Francisco. If you were a gay man living in America's South, you knew Miami was where you had to go if you wanted to have a life. And so Simpson lived a quiet, relatively happy life in the city.
-
-</james>
-<from></from>
+</from>
 </compare>
 
 {% assign timecode = "00:21:19" %}
@@ -823,21 +826,50 @@ Though like most cities, the gay community of Miami was deeply secretive. It was
 <compare>
 <james {% include timecode %}>
 
-On the evening of August 2nd, 1954, Simpson landed at Miami International Airport after a final shift working aboard a flight from Detroit. For most of the flight, his colleague, fellow flight attendant Dorothy Hoover, remembered him being almost giddy, mentioning several times a date he had planned for that evening. Simpson reportedly left his apartment around 10 p.m., according to his landlord.
+<mark>On the evening of August 2, 1954, Simpson landed at Miami International Airport after a final shift working aboard a flight from Detroit. For most of the flight, his colleague, fellow flight attendant Dorothy Hoover, remembered him being almost giddy, mentioning several times a date he had planned for that evening.</mark> 
 
 </james>
-<from></from>
+<from>
+
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Man para 3
+
+<mark>On the evening of Aug. 2, 1954, Simpson landed at Miami International Airport after a final shift working aboard a flight from Detroit. For most of the flight, his colleague, fellow flight attendant Dorothy Hoover, remembered him having a giddy attitude, mentioning several times a date he had planned for that evening.</mark> 
+
+</from>
 </compare>
 
-{% assign timecode = "00:21:42" %}
+{% assign timecode = "00:21:39" %}
 
 <compare>
 <james {% include timecode %}>
 
-2 hours later, his body was found face down in some gravel by decline in his girlfriend Joan, at a spot near the Creek Bridge near Biscayne Boulevard. Today, a Flanagan's bar and grill marks the spot. But in the mid 1950s, this area was a lover's lane featuring a small, secluded beach area under the bridge where one could park right along the little Ah Creek waterway.
+<mark>Simpson reportedly left his apartment around 10 p.m., according to his landlord.</mark> <mark>Two hours later, his body was found face-down in some gravel by Dick Cline and his girlfriend Joan at a spot near the Arc Creek Bridge near Biscayne Boulevard. </mark>
 
 </james>
-<from></from>
+<from>
+
+The Murder para 1
+
+<mark>Simpson reportedly left his NW Fourth Avenue apartment around 10 p.m., according to his landlord,</mark> who was the last to see him. <mark>Two hours later, his body was found face-down in some gravel by Dick Cline and his girlfriend Joan at a spot near the Arch Creek Bridge, near NE 134th Street and Biscayne Boulevard.</mark>
+
+</from>
+</compare>
+
+{% assign timecode = "00:21:52" %}
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Today, a Flanigan's Bar & Grill marks the spot, but in the mid 1950s, this area was a lover's lane, featuring a small, secluded beach area under the bridge where one could park right along the Lttle Arc Creek waterway.</mark>
+
+</james>
+<from>
+
+The Murder para 2
+
+<mark>Today, a Flanigan's Bar & Grill marks the spot, but in the mid-1950s this area was a "lovers lane," featuring a small, secluded beach area under the bridge where one could park a car right along the Little Arch Creek waterway</mark> and engage in sexual activity.
+
+</from>
 </compare>
 
 {% assign timecode = "00:22:05" %}
@@ -845,10 +877,16 @@ On the evening of August 2nd, 1954, Simpson landed at Miami International Airpor
 <compare>
 <james {% include timecode %}>
 
-Simpson never made it to his date. It is believed that on the way there he was propositioned by a young man named Charles Lawrence on the side of the road. Unknown to Simpson, Lawrence was notorious for rolling gay men, as local media called it, then luring them to a secluded spot where his accomplice, Lewis Killen, would jump out and help rob the victim.
+<mark>Simpson never made it to his date. It is believed that on the way there he was propositioned by a young man named Charles Lawrence on the side of the road. Unknown to Simpson, Lawrence was notorious for "rolling" gay men (as local media called it then) - luring them to a secluded spot where his accomplice, Lewis Killen, would jump out and help rob the victim.</mark>
 
 </james>
-<from></from>
+<from>
+
+The Murder para 3
+
+<mark>Simpson never made it to his date. It is believed that on the way there he was propositioned by a young man named Charles Lawrence on the side of the road. Unknown to Simpson, Lawrence was notorious for "rolling" gay men (as local media called it then) - luring them to a secluded spot where his accomplice, Lewis Killen, would jump out and help rob the victim.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:22:26" %}
@@ -856,10 +894,20 @@ Simpson never made it to his date. It is believed that on the way there he was p
 <compare>
 <james {% include timecode %}>
 
-Usually, Killen would wait until Lawrence began engaging in sexual activity with the victim before attempting the robbery killing. And Lawrence would not kill their victim. But in Simpson's case, for reasons still not clear, something spooked Lawrence when Simpson didn't cooperate like the other victims had. Lawrence shot him in his left side and Simpson stumbling out of the car, Finally tossed over his keys and wallet before collapsing a few yards away.
+<mark>Usually, Killen would wait until Lawrence began engaging in sexual activity with the victim before attempting the robbery. Killen Lawrence would not kill their victim. But in Simpson's case, for reasons still not clear, something spooked Lawrence when Simpson didn't cooperate like the other victims had.</mark> 
+
+<mark>Lawrence shot him in his left side and Simpson, stumbling out of the car,</mark> <mark>finally tossed over his keys and wallet before collapsing a few yards away</mark>.
 
 </james>
-<from></from>
+<from>
+
+The Murder para 4-5
+
+<mark>Usually, Killen would wait until Lawrence began engaging in sexual activity with the victim before attempting the robbery. Killen and Lawrence would not kill their victim, but in Simpson's case, for reasons still not clear, something spooked Lawrence when Simpson didn't cooperate like other victims had done.</mark>
+
+<mark>Lawrence shot him in his left side and Simpson, stumbling out of the car</mark> yelling, "Leave me alone! Leave me alone!" <mark>finally tossed over his keys and wallet before collapsing a few yards away.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:22:53" %}
@@ -867,54 +915,109 @@ Usually, Killen would wait until Lawrence began engaging in sexual activity with
 <compare>
 <james {% include timecode %}>
 
-According to the North Miami police report, Lawrence and Killen made off with $25 and claimed they thought Simpson would live. They said they were surprised when they found out the next day that he had died. Miami Daily News reporter Milt Susan was on the story from the moment it broke. He wrote his first front page article aptly titled Eagle Eastern Airlines Man is Slain on Lover's Lane, along with the headline, there was a picture of the head of Simpson's corpse.
+<mark>According to the North Miami police report, Lawrence and Killen made off with $25 and claimed they thought Simpson would live. They said they were surprised when they found out the next day that he had died.</mark>
 
 </james>
-<from></from>
+<from>
+
+The Murder para 6
+
+<mark>According to the North Miami Police report, Lawrence and Killen made off with $25 and claimed they thought Simpson would live. They said they were surprised when they found out the next day that he had died.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:23:21" %}
+{% assign timecode = "00:23:95" %}
 
 <compare>
 <james {% include timecode %}>
 
-Susan suspected Simpson was gay because of the location in which the murder took place. Susan referenced the potential killer as a man and suggested that it was possibly a sex crime. The story immediately gained traction. But rather than trying to report on the heinous crime itself, Susan instead focused on Simpson's sexuality. At the time, homosexuality was rarely mentioned in mainstream media, so it made Susan's writing all the more salacious.
+<mark>Miami Daily News reporter Milt Sosin was on the story from the moment it broke. He wrote his first front page article aptly titled "EAL [Eastern Airlines] Man is Slain on Lover's Lane."</mark> <mark>Along with the headline, there was a picture of the head of Simpson's corpse.</mark> <mark>Sosin suspected Simpson was gay because of the location in which the murder took place. Sosin referenced the potential killer as a man and suggested that it was possibly a sex crime. </mark>
 
 </james>
-<from></from>
+<from>
+
+The Reporting para 1-3
+
+<mark>Miami Daily News reporter Milt Sosin was on the story from the moment it broke. He wrote his first front page article aptly titled "EAL [Eastern Airlines] Man is Slain on Lovers Lane"</mark> in the afternoon edition of the paper Aug. 3, 1954. 
+
+<mark>Along with the headline, there was a picture of the head of Simpson's corpse.</mark>
+
+<mark>Sosin suspected Simpson was gay because of the location in which the murder took place. Sosin referenced the potential killer as a man and suggested that it was possibly a sex crime.</mark>
+
+</from>
 </compare>
 
-{% assign timecode = "00:23:47" %}
+{% assign timecode = "00:23:31" %}
 
 <compare>
 <james {% include timecode %}>
 
-Following the police investigation, Susan learned that the police were more interested in busting a colony of 500 gay men in the area than apprehending the murderers. Susan followed suit. The follow up front page story focused on Simpson's sexuality rather than the crime. In a story on August 9th, 1954, with the headline Pervert Colony uncovered in Simpson Slaying Probe, the article detailed that gay men congregated in a northeastern part of downtown Miami around where the Omni center is today.
+<mark>The story immediately gained traction, but rather than trying to report on the heinous crime itself, Sosin instead focused on Simpson's sexuality. At the time, homosexuality was rarely mentioned in mainstream media,</mark> so it made Susan's writing all the more salacious. <mark>Following the police investigation, Susan learned that the police were more interested in busting a colony of</mark> <mark>500 gay men</mark> <mark>in the area</mark> than apprehending the murderers. Sosin followed suit. 
 
 </james>
-<from></from>
+<from>
+
+The Murder para 4
+
+<mark>The story immediately gained traction, but rather than trying to report on the heinous crime itself, Sosin instead focused on Simpson's sexuality. At the time, homosexuality was rarely mentioned in mainstream media.</mark> <mark>Following the police investigation, Sosin learned that police felt they were busting a colony of</mark> maybe 30 gay men <mark num=4>in the area,</mark> but he knew he had a major story when he learned that police actually discovered the area was actually home to about <mark num=3>500 gay men</mark> - much larger than they could have imagined.
+
+</from>
 </compare>
 
-{% assign timecode = "00:24:19" %}
+{% assign timecode = "00:24:01" %}
 
 <compare>
 <james {% include timecode %}>
 
-The article went on to further accuse Simpson of mixing with the wrong crowd and getting involved in gay drama, which it suggested might have been the motive behind the murder. One investigator quoted in the article even claimed the murder might have been because Simpson was looking to become the queen of the colony. There was no doubt about who committed the crime, though Lawrence and Killen both admitted to the murder.
+<mark>The follow-up front page story focused on Simpson's sexuality, rather than the crime, in a story on August 9, 1954, with the headline "Pervert Colony Uncovered in Simpson Slaying Probe."</mark> <mark>The article detailed that gay men congregated in a northeastern part of downtown Miami around where the Omni center is today. The article went on to further accuse Simpson of mixing with the wrong crowd and getting involved in gay drama, which it suggested might have been the motive behind the murder. One investigator quoted in the article even claimed the murder might have been because Simpson was</mark> <u>[ words displayed on screen]</u> <mark>"looking to become the Queen of the Colony."</mark> 
 
 </james>
-<from></from>
+<from>
+
+The Murder para 5-6
+
+<mark>The follow-up front-page story focused on Simpson's sexuality, rather than the crime, in a story on Aug. 9, 1954 with the headline  "Pervert Colony Uncovered In Simpson Slaying Probe."</mark>
+
+<mark>The article detailed that nearly 500 gay men conjugated in a northeastern part of downtown Miami around where the Omni Center is today. The article went on to further accuse Simpson of mixing with the wrong crowd and getting involved in "gay drama," which it suggested might have been the motive behind his murder. One investigator quoted in the article even claimed the murder might have been because Simpson was</mark> <mark>looking to become "queen" of the colony</mark>.
+
+</from>
 </compare>
 
-{% assign timecode = "00:24:44" %}
+{% assign timecode = "00:24:38" %}
 
 <compare>
 <james {% include timecode %}>
 
-Testifying in November of 1954 that while they did like to roll gay men, Simpson took it too far. They claimed Simpson made them feel unsafe and made unwanted sexual advances toward Lawrence. The jury was reportedly so alarmed by the police and press stories of the gay colony that many covered their ears during testimony. The Miami Herald and Miami Daily News mostly ignored the trial, instead focusing on stories of homosexuality around the Miami community.
+<mark>There was no doubt about who committed the crime, though. Lawrence and Killen both admitted to the murder,</mark> <mark>testifying in November of 1954 that, while they did like to "roll" gay men, Simpson took it too far. They claimed Simpson made them feel unsafe and made unwanted sexual advances toward Lawrence.</mark> 
 
 </james>
-<from></from>
+<from>
+
+The Trial para 1
+
+<mark>There was no doubt about who committed the crime - Lawrence and Killen both admitted to the murder</mark> - but, even so, they played the gay-panic defense, <mark>testifying in November 1954 that, while they did like to "roll" gay men, Simpson took it too far. They claimed Simpson made them feel unsafe and made unwanted sexual advances towards Lawrence.</mark>
+
+</from>
+</compare>
+
+{% assign timecode = "00:24:59" %}
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The jury was reportedly *so alarmed* by the police and press stories of the gay colony</mark> that many covered their ears during testimony. <mark>The Miami Herald and Miami Daily News mostly ignored the trial, instead focusing on stories of homosexuality around the Miami community.</mark>
+
+</james>
+<from>
+
+The Trial para 2-3
+
+<mark>The jury appeared to be influenced by the fact that local newspapers alarmed them and the rest of the public about the activity that was going on.</mark>
+
+<mark>The Miami Herald and Miami Daily News mostly ignored the trial, instead focusing on stories of homosexuality around the Miami community.</mark> 
+
+</from>
 </compare>
 
 {% assign timecode = "00:25:14" %}
@@ -922,10 +1025,33 @@ Testifying in November of 1954 that while they did like to roll gay men, Simpson
 <compare>
 <james {% include timecode %}>
 
-Lawrence and Killen were eventually convicted of the lesser charge of manslaughter, with jurors reportedly furious when the judge sentenced them to 20 years in prison. Simpson's murder was the catalyst of what quickly seemed like endless homophobia in South Florida. Various Christian activist groups stepped up and called for Dade County politicians to rid the area of homosexuality by raiding known gay bars, clubs and hangout spots.
+<mark>Lawrence and Killen were eventually convicted of the lesser charge of manslaughter,</mark> <mark fc=false>with jurors reportedly furious</mark> when the judge <mark num=2>sentenced them to 20 years in prison.</mark> 
 
 </james>
-<from></from>
+<from>
+
+The Trial para 5
+
+<mark>Lawrence and Killen were eventually convicted of a lesser charge of manslaughter</mark> and <mark>sentenced to 20 years in prison.</mark> Both men are alive today and in their 80s, living in Palm Beach County.
+
+</from>
+</compare>
+
+{% assign timecode = "00:25:25" %}
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Simpson's murder was the *catalyst* of what quickly seemed like *endless* homophobia in South Florida. Various Christian activist groups stepped up and called for Dade County politicians to rid the area of homosexuality by raiding known gay bars, clubs and hangout spots.</mark>
+
+</james>
+<from>
+
+The Aftermath para 1
+
+<mark>Simpson's murder was the catalyst of what quickly seemed liked endless homophobia in South Florida. Various Christian activist groups stepped up and called for Dade County politicians to rid the area of homosexuality by raiding known gay bars, clubs and hangout spots.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:25:42" %}
@@ -933,10 +1059,16 @@ Lawrence and Killen were eventually convicted of the lesser charge of manslaught
 <compare>
 <james {% include timecode %}>
 
-TV J ran a documentary warning people of the dangers of gays in the mid 1960s. All three major newspapers in the area, the Miami Herald, Palm Beach Post and Fort Lauderdale News would run article after article throughout the sixties informing readers to be aware of their neighborhood surroundings and who their neighbors might be. In the event that one of them might be gay.
+<mark>WTVJ ran a documentary *warning* people of the *dangers* of *gays* in the mid-1960s. All three major newspapers in the area (The Miami Herald, Palm Beach Post and Fort Lauderdale News) would run article after article throughout the 60s informing readers to be aware of their neighborhood surroundings and who their neighbors might be... in the event that... one of them might be gay.</mark>
 
 </james>
-<from></from>
+<from>
+
+The Aftermath Para 2
+
+<mark>WTVJ ran a documentary warning people of the dangers of gay people in the mid-1960s. All three major area newspapers (The Miami Herald, Palm Beach Post and Ft. Lauderdale News) would run article after article throughout the '60s informing readers to be aware of their neighborhood surroundings and who their neighbors might be, in the event that one was gay.</mark>
+
+</from>
 </compare>
 
 {% assign timecode = "00:26:07" %}
@@ -944,10 +1076,18 @@ TV J ran a documentary warning people of the dangers of gays in the mid 1960s. A
 <compare>
 <james {% include timecode %}>
 
-In response to this panic, the state of Florida set up the Florida Legislative Investigative Committee, commonly known as John's Committee. This committee was responsible for distributing literature throughout the state, warning citizens of gay activity. The committee also targeted, interrogated and stripped suspected gay teachers of their credentials, spurring a nationwide campaign to protect the children, leading to a rise in gay murders across the state.
+<mark>In response to this panic, the state of Florida set up the Florida Legislative Investigative Committee (commonly known as Johns Committee). This committee was responsible for distributing literature throughout the state warning citizens of gay activity. The committee also targeted, interrogated and stripped suspected gay teachers of their credentials,</mark> spurring a nationwide campaign to protect the children, leading to a rise in gay murders across the state.<sup cn></sup>
 
 </james>
-<from></from>
+<from>
+
+The Aftermath para 6-7
+
+<mark>In response to this panic, the state of Florida set up the Florida Legislative Investigation Committee (commonly known as the Johns Committee). This committee was responsible for distributing literature throughout the state warning citizens of gay activity. The committee also targeted, interrogated and stripped teachers of their credentials whom members suspected of being gay.</mark>
+
+In the 1970s, singer and orange juice spokeswoman Anita Bryant launched her now infamous "Save Our Children" campaign in Miami-Dade county against the LGBT community - showing gay panic was still alive and well.
+
+</from>
 </compare>
 
 {% assign timecode = "00:26:33" %}
@@ -958,7 +1098,13 @@ In response to this panic, the state of Florida set up the Florida Legislative I
 Robert Jackson. On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital. The driver panicked, rushed Jackson to the nearest emergency room. Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.
 
 </james>
-<from></from>
+<from>
+
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.1
+
+It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to his last call of the night was flagged down by a man who appeared out of the dark. The bloody man told the tow truck driver that he had been shot and needed to go to a hospital. 
+
+</from>
 </compare>
 
 {% assign timecode = "00:27:01" %}
