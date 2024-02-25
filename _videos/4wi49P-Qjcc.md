@@ -4,7 +4,7 @@ redirect_from:
 
 date: 2022-10-21
 title: The Troubling Thirst for Jeffrey Dahmer
-status: Auto
+status: Finished
 aka: !!seq
   - "The Hunger, The Thirst (Thumbnail)"
   - "No Sympathy For The Devil (Opening Credits)"
@@ -13,21 +13,26 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
-# description: "a video essay on...?"
+description: "a video essay on how hordes of white women are in love with serial killers, because James says so."
 notes:
   - hbomb
   - w-james-nick
 
 contributors:
   downloaded: $cite$TerraJRiley
-  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSKrdfgMY9CJ-Su0c2p8X-4AoFmgAEwYjlQ0Jitc95v7CcefVmOmMqu0QAnES7uvylCcrPnAjW3XkQk/pub
+  formatting: $cite$tobicat
+  citation-plus: 
+    - $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSKrdfgMY9CJ-Su0c2p8X-4AoFmgAEwYjlQ0Jitc95v7CcefVmOmMqu0QAnES7uvylCcrPnAjW3XkQk/pub
+    - $cite$tobicat
 
 cite:
   clips: !!map
   yikes: !!map
+    hordes_of_women: "The famous \"hordes of white woman\" quote."
+    head_over_heels: "James stops plagerizing for a moment to make up something about girls and Ted Bundy."
   misinformation: !!map
-    dahmer_ships: 
-    hate_mobs: 
+    dahmer_ships: "Todd in the Shadows fact checks James on fangirls shipping Dahmer with others."
+    hate_mobs: "Todd also fact checks James's claim that there were hate mobs inspired by Dahmer."
   plagiarized: !!map
     shivani_dubey: { color: 1, short: "Mashable (Dubey, 2022)", full: "Dubey, S. (2022, Oct 6). <em>}Netflix's 'Dahmer' backlash highlights ethical issues in the platform's obsession with true crime</em> [Article]. Mashable. Retrieved February 14, 2024, from", url: "https://mashable.com/article/jeffrey-dahmer-netflix-true-crime-ethics" }
     john_russell: { color: 2, short: "LGBTQ Nation (Russell, 2022)", full: "Russel, J. (2022, Sep 30). <em>Women on TikTok are thirsting after Jeffrey Dahmer from Netflix’s new series</em> [Article]. LGBTQ Nation. Retrieved February 14, 2024, from", url: "https://www.lgbtqnation.com/2022/09/women-tiktok-thirsting-jeffrey-dahmer-netflixs-new-series/" }
@@ -41,7 +46,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign todd = site.data.cite.todd.video %}
 {% assign hbomb = site.data.cite.hbomb.video %}
-{% assign tobi= site.data.cite.tustin2121 %}
+{% assign tobi= site.data.cite.tobicat %}
 
 <compare>
 <credits class="desc">
@@ -63,7 +68,7 @@ PATREON: [link]
 {% include transcript-start %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>We all like true crime.</mark> If the glut of true crime series is any indication, it's very suddenly become <mark>one of the most engaging forms of contemporary entertainment.</mark> And there's no sign of it stopping. From streaming to YouTube, to networks to podcasts, it seems the genre has yet to find its saturation point.
 
@@ -146,24 +151,24 @@ We all love [true crime](https://mashable.com/feature/ethics-of-true-crime). It�
 </compare>
 
 <compare>
-<credits class = "opening">
+<credits class="opening">
 
-> presented by
+> presented by  
 James Somerton
 
-> written by
+> written by  
 James Somerton & Nick Herrgott
 
-> Executive Producers
+> Executive Producers  
 [Six patron names]
 
-> Executive Producers
+> Executive Producers  
 [Six more patron names]
 
-> Executive Producers
+> Executive Producers  
 [Five patron names]
 
-> Edited & Directed by
+> Edited & Directed by  
 James Somerton
 
 > No Sympathy For The Devil
@@ -222,9 +227,9 @@ Lest we forget, Dahmer was a serial killer, necrophile, paedophile, and a cannib
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark>Navigating the ethics of true crime content is tricky.</mark> There is a fine line drawn between real life procedural cop dramas and celebrating the infamous. <mark>Critics have begun to question the need for entertainment mediums which fetishize or even sexualize serial killers (in the last three years alone, we've seen multiple films about Ted Bundy, with two of them coming from Netflix, one of them starring Zac Efron.)</mark> <mark yikes>A whole new generation of girls fell head over heels for the infamous killer, which was a grim remake in itself of the real life Ted Bundy trial. He had fangirls defending him in the press and even begging to marry him.</mark> <mark>After the release of the Zac Efron movie,</mark> <mark>*Extremely Wicked, Shockingly Evil, and Vile*,</mark> <mark>Netflix's social media team actually begged viewers to stop stanning Bundy.</mark>
+<mark>Navigating the ethics of true crime content is tricky.</mark> There is a fine line drawn between real life procedural cop dramas and celebrating the infamous. <mark>Critics have begun to question the need for entertainment mediums which fetishize or even sexualize serial killers (in the last three years alone, we've seen multiple films about Ted Bundy, with two of them coming from Netflix, one of them starring Zac Efron.)</mark> <mark yikes id="head_over_heels">A whole new generation of girls fell head over heels for the infamous killer, which was a grim remake in itself of the real life Ted Bundy trial. He had fangirls defending him in the press and even begging to marry him.</mark> <mark>After the release of the Zac Efron movie,</mark> <mark>*Extremely Wicked, Shockingly Evil, and Vile*,</mark> <mark>Netflix's social media team actually begged viewers to stop stanning Bundy.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.shivani_dubey at="¶ 9" %}>
@@ -242,9 +247,9 @@ He added a whole new bit fantasizing about millennial girls' attraction to a ser
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-But unlike Bundy, nobody ever thirsted for Jeffrey Dahmer when he was on trial or in prison, at least not as publicly as with Bundy. But that seems to have changed now. <mark>There is a thirst for Dahmer made apparent on TikTok and Twitter,</mark> <mark yikes>with hordes of white women droning over how attractive he is,</mark> because the message we need to send is that violent crime can turn a 5 into an 11. <mark>Again, both Bundy and Dahmer were serial killers who tortured and murdered dozens of people whose families are still alive and can see these tweets and posts on TikTok.</mark>
+But unlike Bundy, nobody ever thirsted for Jeffrey Dahmer when he was on trial or in prison, at least not as publicly as with Bundy. But that seems to have changed now. <mark>There is a thirst for Dahmer made apparent on TikTok and Twitter,</mark> <mark yikes id="hordes_of_women">with hordes of white women droning over how attractive he is,</mark> because the message we need to send is that violent crime can turn a 5 into an 11. <mark>Again, both Bundy and Dahmer were serial killers who tortured and murdered dozens of people whose families are still alive and can see these tweets and posts on TikTok.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.shivani_dubey at="¶ 10" %}>
@@ -291,7 +296,7 @@ Oh god, that sounds familiar.
 
 <u>[Distorted music plays; pan up on the last panel of *Killing Stalking* Chapter One. The screen shakes and a low drone plays before cutting back to James.]</u>
 
-In April of 2021, I released a video looking at the controversial Korean manhwa *Killing Stalking*, the story of a young man who is abducted by a maniacal serial killer and over the course of the series falls madly in love with him. The series ends with them both (presumed) dead.
+In April of 2021, [I released a video looking at the controversial Korean manhwa *Killing Stalking*](ujmgqNyZ190), the story of a young man who is abducted by a maniacal serial killer and over the course of the series falls madly in love with him. The series ends with them both (presumed) dead.
 
 <mark yikes>The audience for *Killing Stalking* seemed to be split between people who enjoy dark complex horror stories (me) and teenage girls who were rooting for Yoon Bum and his captor, Oh Sangwoo... to come out of it as a happy couple.</mark> Because if you talk to a social worker, working out your problems with a violent abuser and finding some common ground is absolutely... not the objective. 
 
@@ -299,6 +304,8 @@ In April of 2021, I released a video looking at the controversial Korean manhwa 
 <comment {% include commenter for=tobi %}>
 
 [eyeroll]
+
+[TODO Expand --tustin2121]
 
 </comment>
 </compare>
@@ -386,12 +393,19 @@ And in many sections of the United States, this fear of gay men never went away.
 
 <h4>7. Jeffrey Dahmer inspired violent hate mobs</h4>
 
-Okay, I did a lot of hunting for these supposed anti-gay hate mobs and I came up with a big ol' nothing. The closest thing I found was a reference to a spike in hate crimes in Milwaukee after Dahmer was arrested there ("The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer"), but that turned out to be mostly harassment, not violence. The only violence it mentioned was school bullying. ("Dahmer Disource and Gay Identity: The Paradox of Queer Politics") 
+Okay, I did a lot of hunting for these supposed anti-gay hate mobs and I came up with a big ol' nothing. The closest thing I found was a reference to a spike in hate crimes in Milwaukee after Dahmer was arrested there<sup cn>1</sup>, but that turned out to be mostly harassment, not violence. The only violence it mentioned was school bullying.<sup cn>2</sup> 
 
-So if Somerton is talking about stuff that happened elsewhere, or he means like a more indirect link between hate crimes and Dahmer, uh I- I can't prove or disprove that without more details about what he's referring to. But, I would point out that anti-gay bigots were mostly pro-Dahmer, not anti. ("Dahmer Disource and Gay Identity: The Paradox of Queer Politics") The popular perception of Dahmer was as a killer *of* gay men, not a gay man himself. ("The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer") That was a relatively obscure detail until recently. [A screenshot of a collection of tweets of users admitting they didn't know that Dahmer was gay.] At the time hate groups would do things like call Dahmer a hero, or they'd invoke him as a threat against gay people ("Dahmer Disource and Gay Identity: The Paradox of Queer Politics") the same way neo-nazis invoke Hitler to threaten Jews. 
+So if Somerton is talking about stuff that happened elsewhere, or he means like a more indirect link between hate crimes and Dahmer, uh I- I can't prove or disprove that without more details about what he's referring to. But, I would point out that anti-gay bigots were mostly pro-Dahmer, not anti.<sup cn>2</sup> The popular perception of Dahmer was as a killer *of* gay men, not a gay man himself.<sup cn>1</sup> That was a relatively obscure detail until recently. [A screenshot of a collection of tweets of users admitting they didn't know that Dahmer was gay.] At the time hate groups would do things like call Dahmer a hero, or they'd invoke him as a threat against gay people<sup cn>2</sup> the same way neo-nazis invoke Hitler to threaten Jews. 
 
 In fact, Somerton himself talks later in the video about how Dahmer's homosexuality was buried in the news coverage. Yeah, so while I cannot be 100% sure on this one, I think the evidence I found points to these mobs being made up.
 
+<footer>
+
+1. Barnard, I. (2000). The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer [Chapter]. In G. Hekma & I. Hoving (Eds.), *Thamyris Overcoming Boundaries: Ethnicity, Gender and Sexuality* (pp67-97). Rodopi, Amsterdam. https://digitalcommons.chapman.edu/english_books/19/
+
+2. Schmidt, M. A. (1994, Oct). Dahmer Discourse and Gay Identity: The Paradox of Queer Politics. In *Critical Sociology* (vol 20, issue 3)(pp.81-105). https://doi.org/10.1177/089692059402000305
+
+</footer>
 </comment>
 </compare>
 
@@ -407,7 +421,7 @@ And so the queer community, especially gay men, have lived with Dahmer's spectre
 <compare>
 <james {% include timecode %}>
 
-In fact, there was a huge pushback when the series was released because it was tagged as LGBTQ on Netflix, presumably because of Dahmer's own sexuality and the sexualities of his victims. But while the queer community fights back against a renewed push to remove our rights, do we want people seeing LGBTQ tagged to Jeffrey <u>[silenced Fucking]</u> Dahmer when they're browsing Netflix? No. 
+In fact, there was a huge pushback when the series was released because it was tagged as LGBTQ on Netflix, presumably because of Dahmer's own sexuality and the sexualities of his victims. But while the queer community fights back against a renewed push to remove our rights, do we want people seeing LGBTQ tagged to Jeffrey <u>[silenced] *Fucking*</u> Dahmer when they're browsing Netflix? No. 
 
 </james>
 <from></from>
@@ -484,7 +498,7 @@ This is a telling that at least doesn't completely ignore Dahmer's effect on the
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The media also played a role in the criminalization of City residents who were seen as leading immoral lifestyles.</mark> <mark>The Milwaukee Journal's</mark> <mark>editorials</mark> <mark>from the 1940s</mark> <mark>frequently used terms like "slaves of lust" and "menace of sex perverts"</mark> <mark>to describe the emerging gay community.</mark> <mark>It also supported</mark> <mark>the Metropolitan Commission on Crime Prevention's 1946</mark> <mark>"Sexual Psychopath Law,"</mark> <mark>which would have institutionalized "overt homosexuals" until their deviant behavior was "cured</mark> or otherwise." Otherwise meaning dead. 
 
@@ -554,9 +568,9 @@ I cannot find any documentation of the phrasing "cured or otherwise" being used 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark>These long histories of anti-Black and anti-queer violence created in an environment where Dahmer could murder 17 Black, Indigenous, Asian, Latino, and gay men and boys</mark> with little pushback. <mark>Many were particularly susceptible to Dahmer and his tactics because of decades of the city's structured racism and homophobia.</mark>
+<mark>These long histories of anti-Black and anti-queer violence created in an environment where Dahmer could murder 17 Black, Indigenous, Asian, Latino, and <span stat:id="sub-queer">gay</span> men and boys</mark> with little pushback. <mark>Many were particularly susceptible to Dahmer and his tactics because of decades of the city's structured racism and homophobia.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.kidiocus_king-carroll at="¶ 16" %}>
@@ -587,7 +601,7 @@ Dahmer convinced the officers that Sinthasomphone was his 19-year-old lover, and
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Over the years and <mark>the many retellings of the Dahmer story,</mark> his victims have been described as "street urchins," "drug addicts," and "people not unfamiliar with their <mark>own brushes with the law."</mark> As if that should justify the heinous things done to them. <mark>Creating a sense that they were far from innocent victims</mark> allows most people to look at the crime spree as the actions of one queer psychopath.
 
@@ -658,15 +672,6 @@ Really, he just wanted an excuse to complain women see their gay friends as disp
 What teenage girl did this to you in high school, James? And why are you inserting fan fiction about her into an article you stole instead of going to therapy? 
 
 This is the only new stuff he wrote. The rest is stolen. This is all he has to say! What the fuck is wrong with this guy? 
-
-</comment>
-<comment {% include commenter for=tobi %}>
-
-<u>[Insert that one clip from the Snapcube Sonic 2006 fandub]</u>
-
-Mephiles/Memphis Tennessee: It's not as pleasant as you'd think. They don't treat you like a friend, they treat you like an item. Sometimes I wish I could be more than just an accessory to these women. But unfortunately, as a gamer, I don't get respect.
-
-(you don't actually have to add this lol)
 
 </comment>
 </compare>

@@ -1,19 +1,21 @@
 # This file is auto-generated using scripts/update-percentages.mjs
 # Do not commit this file.
 _global:
-  vol: {p: '21.9', m: '2.7', 'y': '0.8', w: '13.3', v: 134}
-  p-total: 114
-  m-total: 88
+  vol: {p: '22.6', m: '2.7', 'y': '0.9', w: '13.6', v: 134}
+  p-total: 120
+  m-total: 90
   y-total: 21
   hbomb: 26
-  w-james-nick: 12
-  malaprop: 3
+  w-james-nick: 13
+  malaprop: 4
   changed-quote: 20
   made-quote: 5
   comp-delete: 5
   visual: 4
   y-biphobia: 1
   p-youtube: 16
+  sub-queer: 23
+  p-wiki: 18
   multipart: 3
   commentary: 3
   vimeo: 2
@@ -22,7 +24,6 @@ _global:
   y-persecution: 2
   p-book: 8
   p-student: 4
-  p-wiki: 17
   podcast: 8
   y-acephobia: 4
   script-diff: 14
@@ -32,7 +33,6 @@ _global:
   highlighted: 1
   dec2-delete: 1
   baa: 4
-  sub-queer: 22
   changed-name: 5
   mined-quote: 1
   irony: 5
@@ -71,6 +71,12 @@ _all:
   - {color: 9, short: 'What is Fascism? (Hanford, 2014)', full: 'Hanford, R. (2014, Mar 3). What is Fascism? [Unpublished manuscript] Ruskin College, Oxford. Retrieved February 15, 2024, from', url: 'https://www.academia.edu/9345262/What_is_Fascism'}
   - {color: 10, short: 'BBC article (Sooke, 2015)', full: 'Sooke, A. (2015). <em>The Discobolus: Greeks, Nazis and the body beautiful</em>. BBC. Retrived February 10, 2024, from', url: 'https://www.bbc.com/culture/article/20150324-hitlers-idea-of-the-perfect-body'}
   - {color: 10, short: 'The Celluloid Closet (Friedman, 1996)', full: 'Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from', url: 'https://www.youtube.com/watch?v=YndHaKuD6MI'}
+  - {color: 1, short: 'Mashable (Dubey, 2022)', full: 'Dubey, S. (2022, Oct 6). <em>}Netflix''s ''Dahmer'' backlash highlights ethical issues in the platform''s obsession with true crime</em> [Article]. Mashable. Retrieved February 14, 2024, from', url: 'https://mashable.com/article/jeffrey-dahmer-netflix-true-crime-ethics'}
+  - {color: 2, short: 'LGBTQ Nation (Russell, 2022)', full: 'Russel, J. (2022, Sep 30). <em>Women on TikTok are thirsting after Jeffrey Dahmer from Netflix’s new series</em> [Article]. LGBTQ Nation. Retrieved February 14, 2024, from', url: 'https://www.lgbtqnation.com/2022/09/women-tiktok-thirsting-jeffrey-dahmer-netflixs-new-series/'}
+  - {color: 3, short: 'Washington Post (King-Carol, 2022)', full: 'King-Carol, K. (2022, Oct 11). <em>Racism, and homophobia enabled Jeffrey Dahmer''s crimes</em> [Article]. Washington Post. Retrieved February 14, 2024, from', url: 'https://web.archive.org/web/20230624013110/https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/'}
+  - {color: 4, short: 'Jezebel (Ashcraft, 2022)', full: 'Ashcraft, K. (2022, Oct 3). <em>Thirsting for Jeffrey Dahmer Is Heinous. Don’t Do It.</em> [Article]. Jezebel. Retrieved February 14, 2024, from', url: 'https://jezebel.com/thirsting-for-jeffrey-dahmer-is-heinous-dont-do-it-1849609819'}
+  - {color: 5, short: 'Racialization of Sexuality (Barnard, 2000)', full: 'Barnrad, I. (2000). <em>The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer</em>. Thamyris Overcoming Boundaries: Ethnicity, Gender and Sexuality, 7(1-2), 67-97. Chapman University Commons. Retrieved February 14, 2024, from', url: 'https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books'}
+  - {color: 6, short: 'Jeffrey Dahmer (Wikipedia, 2022)', full: 'Wikipedia (2022, Oct 11). <em>Jeffrey Dahmer</em>. Retrieved February 14, 2024, from', url: 'https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589'}
   - {color: 4, short: 'Pink Triangle (Plant, 1986)', full: 'Plant, R. (1986). <em>The Pink Triangle: The Nazi War Against Homosexuals</em>. Henry Holt and Company.', type: book, style: book}
   - {color: 3, short: 'Senior Thesis (Rokakis, 2013)', full: 'Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.', url: 'https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors', type: student}
   - {color: 8, short: 'Branded (Setterington, 2013)', full: 'Setterington, K. (2013). <em>Branded by the Pink Triangle</em>. Second Story Press.', type: book, style: book}
@@ -185,6 +191,8 @@ _all:
   vol: { p: 25.3, m: 10.1, y: 0.0, w: 14.2, v: 0 }
 4YWslnyUxcs:
   vol: { p: 50.0, m: 7.7, y: 0.0, w: 0.0, v: 27 }
+4wi49P-Qjcc:
+  vol: { p: 58.6, m: 1.7, y: 5.2, w: 36.9, v: 0 }
 4zPCM14-SCQ:
   plagiarized: {}
   misinformation: {}
