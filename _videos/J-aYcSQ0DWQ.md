@@ -41,9 +41,9 @@ cite:
     eiji_character: "James characterizes Eiji as 'pure and innocent' when he's not."
     gay_italy: "James makes up an English propaganda campaign against Italian tourism, because supposedly going to Italy turned boys gay."
   plagiarized: !!map
-    wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
-    pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
-    irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
+    wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Ẉikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
+    pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
+    irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt‚ J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
 
 factcheck:
   cinnamorollmiku: { short: "cinnamorollmiku", url: "https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320" }

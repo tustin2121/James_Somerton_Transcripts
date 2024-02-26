@@ -38,7 +38,7 @@ cite:
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
     sex_backlash: "James fabricates a massive backlash against RWRB."
   plagiarized: !!map
-    wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
+    wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Ẉikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
 {% assign todd = site.data.cite.todd.video %}
 {% assign tustin = site.data.cite.tustin2121 %}

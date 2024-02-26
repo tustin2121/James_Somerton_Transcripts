@@ -37,11 +37,11 @@ cite:
     stewart_stern: "James did not double-check the name of the screenwriter."
   plagiarized: !!map
     celluloid_closet: $cite$celluloid_closet_book
-    wiki_summer: { color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843" }
+    wiki_summer: { color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843" }
     wiki_childhour: { color: 4, short: "The Children's Hour (Wikipedia, 2023)", full: "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913" }
-    wiki_advise: { color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205" }
+    wiki_advise: { color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205" }
     # wiki_victim: { color: 6, short: "Victim (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811" }
-    cherwell: { color: 7, short: "Cherwell Article (Deeson, 2020)", full: "Deeson, J.H. (2020, Dec 4). <em>Making Queer Cinema history: Victim (1961)</em> [Article]. Cherwell. Retrieved Feb 25, 2024, from", url: "https://www.cherwell.org/2020/12/04/making-queer-cinema-history-victim-1961/", archive: "https://web.archive.org/web/20230204062045/" }
+    cherwell: { color: 7, short: "Cherwell Article (Deeson, 2020)", full: "Deeson‚ J.H. (2020, Dec 4). <em>Making Queer Cinema history: Victim (1961)</em> [Article]. Cherwell. Retrieved Feb 25, 2024, from", url: "https://www.cherwell.org/2020/12/04/making-queer-cinema-history-victim-1961/", archive: "https://web.archive.org/web/20230204062045/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

@@ -28,7 +28,7 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    thatcher: { color: 1, short: "Margret Thatcher", full: "Labour Party (2018, Feb 28). <em>Here's what Section 28 was all about</em> [Video]. Labour Party, United Kingdom. YouTube. Retrieved Feb 19, 2024, from", url: "https://www.youtube.com/watch?v=pw8y6ufoaLY", archive: "https://web.archive.org/web/20240219161410/" }
+    thatcher: { color: 1, short: "Margret Thatcher", full: "Labour Party (2018, Feb 28). <em>Here's what Section 28 was all about</em> [Video]. Labour Party, United Kingdom. YouTube. Retrieved Feb 19, 2024, from", url: "https://www.youtube.com/watch?v=pw8y6ufoaLY", archive: "https://web.archive.org/web/20240219161410/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}

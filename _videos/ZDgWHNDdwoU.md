@@ -44,9 +44,9 @@ cite:
   misinformation: !!map
     fan-fiction: "James takes an anecdote about Anne Rice and presents it as fact."
   plagiarized: !!map 
-    monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
-    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
-    ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
+    monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk‚ D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
+    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
+    ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
 --- 
 {% assign tustin = site.data.cite.tustin2121 %}
 

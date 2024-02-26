@@ -43,7 +43,7 @@ cite:
       _desc_: "James has a habit of changing the meaning of what he's copying, such as"
       inverted: "Vito's use of the word \"always\""
   plagiarized: !!map
-    sophie_cleghorn: { color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62" }
+    sophie_cleghorn: { color: 1, short: "(Cleghorn, 2017)", full: "Cleghorn, S. (2017, Nov 6). <em>Film: The Hollywood Production Code of 1930 and LGBT Characters</em> [Article]. Medium. Retrieved Jan 8, 2024, from", url: "https://medium.com/@sophiecleg/how-did-the-hollywood-production-code-of-1930-shape-the-representation-of-lgbt-characters-in-film-93e92a4fec62" }
     celluloid_closet: $cite$celluloid_closet_book
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
