@@ -15,6 +15,7 @@ links: !!seq
 description: "a video essay on how we should see terrible gay movies for a few decades so that we can get good gay movies later; you know, just like how Black people had terrible movies made about them and then later got Black Panther!"
 notes:
   - visual
+  - feb26-unprivate
 
 contributors:
   downloaded: $cite$TerraJRiley

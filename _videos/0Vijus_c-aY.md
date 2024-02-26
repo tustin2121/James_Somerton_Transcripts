@@ -13,6 +13,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 cite:
   clips: !!map

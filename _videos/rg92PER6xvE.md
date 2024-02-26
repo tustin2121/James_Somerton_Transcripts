@@ -11,6 +11,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 contributors:
   downloaded: $cite$TerraJRiley
