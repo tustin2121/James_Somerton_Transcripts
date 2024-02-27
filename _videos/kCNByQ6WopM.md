@@ -84,17 +84,17 @@ This fell upon Nick, as well, as a non-binary person on the ace spectrum, they w
 <compare>
 <james {% include timecode %}>
 
-Um, I'd also like to extend a personal apology to Jesse Earl, better known as Jesse Gender. Out of everyone that I spoke to who was... also a YouTuber, Jesse was by far the kindest person&mdash; I think Jesse might be one of the kindest people I've ever met&mdash; or ever encountered; we never actually met in person. Because of my hot headedness, I... drew her into just this... anger spiral of mine that was... unwarranted and... absolutely ruined a possible friendship. 
+Um, I'd also like to extend a personal apology to Jessie Earl, better known as Jessie Gender. Out of everyone that I spoke to who was... also a YouTuber, Jessie was by far the kindest person&mdash; I think Jessie might be one of the kindest people I've ever met&mdash; or ever encountered; we never actually met in person. Because of my hot headedness, I... drew her into just this... anger spiral of mine that was... unwarranted and... absolutely ruined a possible friendship. 
 
-Jesse was actually doing her best to kind of... mitigate my frustration an-and everything, a-and uh... at that moment, and... I just... wasn't allowing her to do that, and I really truly honestly want to apologize to her for that. Again, if you ever get the chance to speak with Jesse one-on-one, or if you have gotten the chance, you'll know just how nice she is, and how kind, and... I was a... a real asshole... for, uh... dragging her into my... reactionary... unwarranted frustration. We&mdash; obviously, we haven't spoke since all of that happened, um, but Jesse if you are *watching* this video, um... I do want you to know that I am honestly sorry.. for that. I hope... truly, honestly, I hope everything... goes as well as possible for you, because you deserve all of it.
+Jessie was actually doing her best to kind of... mitigate my frustration an-and everything, a-and uh... at that moment, and... I just... wasn't allowing her to do that, and I really truly honestly want to apologize to her for that. Again, if you ever get the chance to speak with Jessie one-on-one, or if you have gotten the chance, you'll know just how nice she is, and how kind, and... I was a... a real asshole... for, uh... dragging her into my... reactionary... unwarranted frustration. We&mdash; obviously, we haven't spoke since all of that happened, um, but Jessie if you are *watching* this video, um... I do want you to know that I am honestly sorry.. for that. I hope... truly, honestly, I hope everything... goes as well as possible for you, because you deserve all of it.
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-There was a misunderstanding between Jesse and I, um, *after* that happened that I do want to clear up. Where someone who at least claimed to be a fan of Jesse's... you know, did an internet and threatened to kill me, which is... you know, being a person on the internet, death threats are unfortunately not uncommon. At the time though, uh... I was in a very panicked state and so I did report it to the police. I did not report Jesse to the police, which is the misunderstanding that people, um... came away with. I did not report Jesse to the police. I would have no reason to do that. And it did end up that this person had a prior record with the police, um, of violent acts. And they actually lived quite near me. Um, so the police took it very seriously. They took it *so* seriously that they implored me not to... speak to Jesse, which I took their... advice on, which I *shouldn't* have, honestly. I should have *at least* clarified to Jesse what was going on, and not just left her hanging. And so, I want to again apologize to Jesse for that. But in that state, I listen to the police, which is... you know, maybe not the best decision all the time, because the cops don't usually have the best interests of people at heart, so...
+There was a misunderstanding between Jessie and I, um, *after* that happened that I do want to clear up. Where someone who at least claimed to be a fan of Jessie's... you know, did an internet and threatened to kill me, which is... you know, being a person on the internet, death threats are unfortunately not uncommon. At the time though, uh... I was in a very panicked state and so I did report it to the police. I did not report Jessie to the police, which is the misunderstanding that people, um... came away with. I did not report Jessie to the police. I would have no reason to do that. And it did end up that this person had a prior record with the police, um, of violent acts. And they actually lived quite near me. Um, so the police took it very seriously. They took it *so* seriously that they implored me not to... speak to Jessie, which I took their... advice on, which I *shouldn't* have, honestly. I should have *at least* clarified to Jessie what was going on, and not just left her hanging. And so, I want to again apologize to Jessie for that. But in that state, I listen to the police, which is... you know, maybe not the best decision all the time, because the cops don't usually have the best interests of people at heart, so...
 
-Jesse, I want to apologize for that and everything else that happened. Completely understand why you would not want to speak to me *ever* again, but I just want you to know that I am sorry. 
+Jessie, I want to apologize for that and everything else that happened. Completely understand why you would not want to speak to me *ever* again, but I just want you to know that I am sorry. 
 
 </james>
 <from></from>
@@ -154,13 +154,13 @@ I sent the finished video to him, and he watched it and he gave me permission. B
 
 So after three or four videos, I brought Nick on as a main writer for the channel. The idea is that they would write the vast majority of the scripts... I would film, voice, and edit the videos, and we'd split the money that came in. 
 
-We were roommates at the time, and Nick didn't have a job, so I figured it would help both of us. This is actually when we had some of our biggest videos. Uh, like the ones talking about [Wiccan and Hulkling](SHFUAlDFdYY), where we lucked out because it came out right in time for *Wanda Vision* to hit. And then the [*Killing Stalking* video](ujmgqNyZ190), which became our... biggest video by far. Uh, the [Sadism of Class](xsrV2LXP0bY) was another one. These videos *weren't* plagiarized, and we loved making them. 
+We were roommates at the time, and Nick didn't have a job, so I figured it would help both of us. This is actually when we had some of our biggest videos. Uh, like the ones talking about [Wiccan and Hulkling](SHFUAlDFdYY), where we lucked out because it came out right in time for *WandaVision* to hit. And then the [*Killing Stalking* video](ujmgqNyZ190), which became our... biggest video by far. Uh, the [Sadism of Class](xsrV2LXP0bY) was another one. These videos *weren't* plagiarized, and we loved making them. 
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-Uh... it didn't take long for the channel income to start growing. Lucky timing, really, because this was around the same time that I was laid off since the company that I was working for downsized once Covid hit its second year. Nick and I had both grown up poor. So we started doing what we could to try and stabilize our income as much as possible. This meant putting out *more* videos, which meant I had to take over more of the *writing* duties, but since filming, editing &mdash; usually doing... multiple edits because of YouTube copyright issues &mdash; as well as managing the channel... *and* dealing with my mom's recent cancer diagnosis. All of that was already taking up so much of my time and attention. 
+Uh... it didn't take long for the channel income to start growing. Lucky timing, really, because this was around the same time that I was laid off since the company that I was working for downsized once COVID hit its second year. Nick and I had both grown up poor. So we started doing what we could to try and stabilize our income as much as possible. This meant putting out *more* videos, which meant I had to take over more of the *writing* duties, but since filming, editing &mdash; usually doing... multiple edits because of YouTube copyright issues &mdash; as well as managing the channel... *and* dealing with my mom's recent cancer diagnosis. All of that was already taking up so much of my time and attention. 
 
 This led to a lot of... copy and pasting... blocks of text into scripts. My *intention*, at the time, was to use these as a jumping off point once Nick and I sat down to edit the script, because that's what we would do: I would sort of put in my parts, Nick would put in his parts, and then we would sit down at a table, read through the whole script, and kind of try and make it seem cohesive. 
 
@@ -171,7 +171,7 @@ This led to a lot of... copy and pasting... blocks of text into scripts. My *int
 <compare>
 <james {% include timecode %}>
 
-But &mdash; and here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child. Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a excuse anyway.
+But &mdash; and here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child. Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a bullshit excuse anyway.
 
 The head injury is actually what led to me having epilepsy, which is why I can't work in any job that involves physical labor. Employers can't get insurance for me to, like, lift things or operate vehicles and stuff like that. I actually did marketing for a restaurant group for a little while, but got let go when they found out that I was epileptic because, at least according to *them*, I couldn't be insured to be in the kitchens... where I needed to be to film videos and take photos and stuff like that. But anyway.
 
@@ -202,7 +202,7 @@ There was supposed to be a buffer here, money-wise, as my mom had a life insuran
 <from></from>
 <james {% include timecode %}>
 
-One of the things &mdash; the main thing, really &mdash; that I was supposed to do with my portion of the insurance money was I was supposed to make a movie. These were direct instructions from my mom, herself. She'd been *very much* behind me when I decided&mdash; when I was about 10, that I wanted to be a filmmaker. And she wanted me to finally have the opportunity to do that, even if she never got to see it. So when the life insurance... went bust... I decided to try and crowdfund it. At least enough to make a short film or two.This is what... Telos grew out of. 
+One of the things &mdash; the main thing, really &mdash; that I was supposed to do with my portion of the insurance money was I was supposed to make a movie. These were direct instructions from my mom, herself. She'd been *very much* behind me when I decided&mdash; when I was about 10, that I wanted to be a filmmaker. And she wanted me to finally have the opportunity to do that, even if she never got to see it. So when the life insurance... went bust... I decided to try and crowdfund it. At least enough to make a short film or two. This is what... Telos grew out of. 
 
 </james>
 <from></from>
@@ -214,7 +214,7 @@ One of the things &mdash; the main thing, really &mdash; that I was supposed to 
 
 So, what happened with Telos? Let me break down the timeline:
 
-When we launched the campaign in February of 2022, we hoped to raise $3,000 to produce a short film that we hoped that we would then use as a sort of proof of concept to attract investors, either private, public, or through Canada's telefilm program, to produce a feature. Some people online have stated that $3,000 *never* would have covered the cost of a short film, but these were not going to be unionized movies, and we were very clear about that upfront. We wanted to be able to pay actors as best that we *could*, but we never expected to be able to reach typical union wages. 
+When we launched the campaign in February of 2022, we hoped to raise $3,000 to produce a short film that we hoped that we would then use as a sort of proof of concept to attract investors, either private, public, or through Canada's Telefilm program, to produce a feature. Some people online have stated that $3,000 *never* would have covered the cost of a short film, but these were not going to be unionized movies, and we were very clear about that upfront. We wanted to be able to pay actors as best that we *could*, but we never expected to be able to reach typical union wages. 
 
 </james>
 <from></from>
@@ -234,7 +234,7 @@ After the campaign launched, it did *infinitely* better than we could have expec
 
 And to those who say that I plagiarized the plot from the novel *Final Girl Support Group* by Grady Hendrix, read the book. It's nothing like the plot of the movie. And the final girl is a trope in horror movies. So if using the Final Girl trope is plagiarism, then basically everyone who's made a slasher movie since *Texas Chainsaw Massacre* owes the Toby Hooper Estates some money. But anyway.
 
-Nick and I planned out the movie, but I didn't want to start *writing it* until the campaign ended and the money was actually deposited. Uh, after the insurance debacle, I didn't want to count our chickens before they hatched. When the money was officially deposited, I immediately began work on the screenplay. I finished it that summer, soon after Nick had left to spend two months at home in Ottawa, Ontario with family. I sent the script to him to read right away, because I was proud&mdash; very proud of it. But Nick didn't want to share his opinion on it until he got back to the east coast. So in the *meantime*, I put out a preliminary casting call on local job boards. 
+Nick and I planned out the movie, but I didn't want to start *writing it* until the campaign ended and the money was actually deposited. Uh, after the insurance debacle, I didn't want to count our chickens before they hatched. When the money was officially deposited, I immediately began work on the screenplay. I finished it that summer, soon after Nick had left to spend two months at home in Ottawa, Ontario with family. I sent the script to him to read right away, because I was proud&mdash; very proud of it. But Nick didn't want to share his opinion on it until he got back to the East Coast. So in the *meantime*, I put out a preliminary casting call on local job boards. 
 
 </james>
 <from></from>
@@ -251,7 +251,7 @@ That was a mistake. There I had free access to the campground that would serve a
 <from></from>
 <james {% include timecode %}>
 
-After Nick and I moved to the Toronto area, he decided that he actually wanted to move home to Ottawa... uh, to the Ottawa area, about 5 hours away. At least for a little while. In the meantime he would take a train to the GTA (the Greater Toronto Area) once a month... uh, to work on YouTube videos for a few days and then head back. 
+After Nick and I moved to the Toronto area, he decided that he actually wanted to move home to Ottawa... uh, to the Ottawa area, about five hours away. At least for a little while. In the meantime he would take a train to the GTA (the Greater Toronto Area) once a month... uh, to work on YouTube videos for a few days and then head back. 
 
 This went on for... <u>[Doing mental math]</u> ...a little less than a year. So, I began brainstorming new movies that we could film in Ontario. This is where the multiple posters and teaser trailers came from. I was trying to create something *tangible* to show that work was still being done with Telos. I wrote multiple treatments for movies over the next few months. And Nick and I eventually landed on one called "Antisocial", a murder mystery about a former social media clique, who had gone their separate ways on very bad terms and they were coming together for a reunion at a sort of VidCon event. Um, they were all sharing a house and then some of them were going to start showing up dead.
 
@@ -304,7 +304,7 @@ During our work on Telos is also when the YouTube channel started getting sponso
 <from></from>
 <james {% include timecode %}>
 
-We tried to take the summer off from YouTube in 2023 to work on Telos exclusively, but even that went up in smoke because my housing situation... just... I won't go into it here. I've talked about it ad nauseum on streams and stuff. If you followed me on social media, you know the cluster I ended up in... that led to me moving twice in two months. 
+We tried to take the summer off from YouTube in 2023 to work on Telos exclusively, but even that went up in smoke because my housing situation... just... I won't go into it here. I've talked about it ad nauseam on streams and stuff. If you followed me on social media, you know the cluster I ended up in... that led to me moving twice in two months. 
 
 In the last couple of months, I've received a lot of emails, as you can imagine. Uh... many from people who were rightfully let down. Some from people threatening everything from doxing to violence, because the internet. Some with the kindest words of support I've ever heard, and others simply asking why I made it so difficult to contact me and if I was okay. They wanted to know why, as they put it, I "nuked" my social media presence.
 
@@ -364,7 +364,7 @@ The point being it was never *malicious*. We didn't... we weren't trying to *lie
 <from></from>
 <james {% include timecode %}>
 
-As for my Patreon. everyone can stop worrying about me relaunching it right in time for a billing cycle. That will not be happening. I don't want anyone who... either doesn't know about the plagiarism or simply forgot to unsubscribe to get billed. So... I'm going to start from zero. I have put together a new patreon account.
+As for my Patreon. everyone can stop worrying about me relaunching it right in time for a billing cycle. That will not be happening. I don't want anyone who... either doesn't know about the plagiarism or simply forgot to unsubscribe to get billed. So... I'm going to start from zero. I have put together a new Patreon account.
 
 So if you want to support my documentaries about gay history... fantastic. Honestly, your faith in me after everything... means *the world* to me. If not, I completely understand. Like I said... I've lost your trust... I'm going to work my ass off to earn it back, though. 
 
@@ -372,7 +372,7 @@ So if you want to support my documentaries about gay history... fantastic. Hones
 <from></from>
 <james {% include timecode %}>
 
-And I know for some of you, I'll *never* be able to do that, but I'm going to try anyway. You know, there's a link in the description to the patreon if you want to join it, where you'll be able to see the two yet-to-be-released videos right now, as well as, you know... take part in other stuff that will be on there, like a book club, podcasts, uh... voting on upcoming videos, all the usual Patreon stuff. 
+And I know for some of you, I'll *never* be able to do that, but I'm going to try anyway. You know, there's a link in the description to the Patreon if you want to join it, where you'll be able to see the two yet-to-be-released videos right now, as well as, you know... take part in other stuff that will be on there, like a book club, podcasts, uh... voting on upcoming videos, all the usual Patreon stuff. 
 
 </james>
 <from></from>
@@ -424,7 +424,7 @@ I can't... <u>[long moment of contemplation]</u> I can't really put into words h
 
 I'm sorry to everyone I plagiarized. I'm sorry to... everyone I've hurt. I'm sorry to people who feel lied to. I'm sorry to people who... feel like I abused the queer community. Was never my intention. 
 
-Again, I'm sorry to Jesse. There were actually... several other YouTubers who, uh, were very nice to me. But I feel like with everything that went down Jess&mdash; Jesse is the one that I should apologize to the most.
+Again, I'm sorry to Jessie. There were actually... several other YouTubers who, uh, were very nice to me. But I feel like with everything that went down Jess&mdash; Jessie is the one that I should apologize to the most.
 
 I'm sorry for the people who felt scammed. Who thought that Telos was a grift. It was not. It is not. 
 
