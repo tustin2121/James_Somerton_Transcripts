@@ -12,7 +12,7 @@ links: !!seq
   - "https://www.dailymotion.com/video/k42EF9WcjrdBmAA4AvE"
   - "https://www.youtube.com/watch?v=MTxpevpyRuE"
   - "https://archive.org/details/a-measured-response_somerton"
-description: "A new apology has hit the south tower..."
+description: "A video wherein James vows to make things right again and to pick up where he left off in terms of making videos, among many other empty words."
 notes:
   - post-callout
   - unscripted
@@ -20,6 +20,7 @@ notes:
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
   formatting: $cite$tustin2121
+  # factcheck: "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
 
 cite:
   yikes: !!map
