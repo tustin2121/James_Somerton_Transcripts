@@ -5,7 +5,7 @@ redirect_from:
 date: 2022-03-20
 title: The Tragedy of Being Rich #｜ James Somerton
 runtime: 53:50
-status: Script
+status: Finished
 aka: !!seq
   - "Let Them Eat Cake (Thumbnail)"
 topics: !!seq
@@ -17,6 +17,7 @@ links: !!seq
 description: "a video essay on how media portrays wealth."
 notes:
   - short-advert
+  - feb26-unprivate
   - w-nick-james
 
 cite:

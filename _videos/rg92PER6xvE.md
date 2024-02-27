@@ -8,9 +8,12 @@ status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220508+rg92PER6xvE+Nintendo's+Queer+Relationship+With+Gender.webm"
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -61,8 +64,42 @@ cat boys and a girl and meow at each other but nintendo's gender journey didn't
 start in 2013. they've been on this raucous roller coaster ride since well since
 the original nintendo entertainment system so let's have a look back at the
 grand history of nintendo and its confusingly progressive yet conservative
-stance on gender not looking forward to the comment section on this one [Music]
-[Music] [Applause] [Music] [Music] nintendo was first founded as yamauchi
+stance on gender not looking forward to the comment section on this one 
+
+
+{% assign timecode = "1:24" %}
+<compare>
+<credits {% include timecode %}>
+
+> James Somerton  
+Presents
+
+> Written by  
+Nick Herrgott  
+& James Somerton
+
+> Produced by  
+[Scrolling list of Patron names]
+
+> Executive Producers  
+[Scrolling list of Patron names]
+
+> Thumbnail Art by  
+Theo Dokomi
+
+> Compositing by  
+Telos Pictures
+
+> Edited & Directed by  
+James Somerton
+
+> GENDER SWITCH
+
+</credits>
+</compare>
+
+
+nintendo was first founded as yamauchi
 nintendo in 1889 in kyoto japan at first they solely produced and marketed
 hanafuda playing cards the cards soon began to rise in popularity and the
 company had to expand to meet the increasing demand fast forward to 1959 when

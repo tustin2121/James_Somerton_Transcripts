@@ -37,19 +37,37 @@ contributors:
     # - "[/u/Nightfall1409](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kce4olm)"
     # - "[Vin](https://youtu.be/hY2tHl0M0DA?si=9zOkeLHxCI17rhVg) (via [Discord](https://discord.com/channels/224921177532006400/1181019607604133938/1181509885557493851))"
 
+recs:
+  - { title: "Why Revolutionary Girl Utena is Amazing", author: "Noralities", url: "https://www.youtube.com/watch?v=hY2tHl0M0DA" }
+  - { title: "The Nanami Problem", author: "Noralities", url: "https://www.youtube.com/watch?v=1kelqWPHw9w" }
+  - { title: "is revolutionary girl utena still relevant?", author: "Stushi", url: "https://www.youtube.com/watch?v=gFvSXBxrVMs", desc: "Part 1 of 2." }
+  # - { title: "why revolutionary girl utena still slaps", author: "Stushi", url: "https://www.youtube.com/watch?v=vTB9pP2Bkfw" }
+  - { title: "Adolescence & Eternity: Revolutionary Girl Utena", author: "Zarinthel", url: "https://www.youtube.com/watch?v=Ku-pJcNuFhQ", desc: "Part 1 in a 5-part series." }
+  - { title: "Episode by Episode Breakdown of Utena", author: "Critic Vrai Kaiser", url: "https://vraikaiser.com/2014/07/18/an-introduction-to-revolutionary-girl-utena/", thumb: "https://vraikaiser.files.wordpress.com/2014/07/prologue.png?w=300" }
+  - { title: "Revolutionary Girl Utena Playlist", author: "Snake Eye Dreams", url: "https://www.youtube.com/watch?list=PLtNKgbqZqfcxsBw7eFzYF6N1eDeqELPKp&v=-9kFZzaahJ8" }
+
 cite:
+  deus:
+    name: "deus-and-the-machina"
+    link: "https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   clips: !!map
     utena: { short: "Revolutionary Girl Utena (Noriko, 1997)", full: "Noriko K., Shinichi I. (Producers). (1997). <em>Revolutionary Girl Utena</em> [Television broadcast]. J.C.Staff." }
     lotr: { short: "LotR (Jackson, 2002)", full: "Jackson, P. (Director). (2002). <em>Lord of the Rings</em> [Film]. New Line Cinema, WingNut Films." }
+  other:
+    gibberish: "Does James even know what he's talking about?!"
   yikes: !!map
     bi_vibes: "James makes a sexual joke about Touga and Akio, one of whom is underage."
+    unfit: "James's take on people being deemed 'unfit to make their own decisions' is kind of tone deaf."
   misinformation: !!map
+    mispronounce: { _desc_: "Just assumed that every name in this script has been mispronounced, right down to the main character's name, as if he never watched the show at all." }
     # deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
-    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
-    wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
+    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (2005‚ Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
+    wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Ẉikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign kenm = site.data.cite.kenm %}
+{% assign deus = page.cite.deus %}
 
 <compare>
 <credits header="Video Thumbnail:">
@@ -276,14 +294,18 @@ Though she admits her memory on this is a bit foggy. She doesn't even quite reme
 <compare>
 <james {% include timecode %}>
 
-As an audience, you really don't have any idea how important this is until like the last *five* episodes, maybe even the last *two?* Until then, it simply seems to be a backstory that drives Utena to enroll in the prestigious and exclusive Ohtori Academy. There she is the source of wonder for the girls, a source of envy for all the boys, and a source of confusion for all the teachers. She acts and dresses like a boy and is noted for her fierce sense of justice and dignified nobility.
+<mark fc>As an audience, you really don't have any idea how important this is until like the last *five* episodes, maybe even the last *two?* Until then, it simply seems to be a backstory that drives Utena to enroll in the prestigious and exclusive Ohtori Academy.</mark> There she is the source of wonder for the girls, a source of envy for all the boys, and a source of confusion for all the teachers. She acts and dresses like a boy and is noted for her fierce sense of justice and dignified nobility.
 
 Spying a shy and reclusive Anthy Himemiya being slapped by her boyfriend, she intervenes on what she believes is Anthy's behalf.
 
 <u>[meme cutaway]:</u> Homer (slaps Moe with glove): "I challenge you to a duel!"
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+I mean sure the truth behind this moment isn’t revealed until the end but it definitely motivates her throughout the series beyond just enrolling. Touga specifically dangles it in front of her in the first arc, foreshadowing how easy she can be to manipulate by someone she thinks is her prince. He even brings this up later albeit offhandedly so it seems odd.
+
+</comment>
 </compare>
 
 <compare>
@@ -343,7 +365,7 @@ Utena, through her close connection and apparent engagement to Anthy, works at c
 <compare>
 <james {% include timecode %}>
 
-In the first arc, we see the various reasons that the members of the student council would want to use the Power of Revolution. Her winning streak against all of them is brought to an end when the student council president Touga tricks Utena into believing that he is the Rose Prince from her childhood. Though after utena finds her courage again, she defeats him handedly.
+In the first arc, we see the various reasons that the members of the student council would want to use the Power of Revolution. Her winning streak against all of them is brought to an end when the student council president Touga tricks Utena into believing that he is the Rose Prince from her childhood. Though after utena finds her courage again, she defeats him handedly<sup class="add">[sic: handily]</sup>.
 
 The first arc is privy to a number of... oddities. Outside of the premise of dueling in the upside down floating Castle in the Sky where Eternity lies with the power to bring Revolution to the world, Touga's younger sister Nanami seems to have a bit of a... complex. Like a very strong fixation that by far exceeds... protective. (But don't worry it does get weirder.)
 
@@ -392,13 +414,18 @@ I really don't want another content strike from YouTube (I already have one), so
 
 Akio is the principal villain of the series and was both "end of the world", as well as the Rose Prince who gave Utena her ring. Which, drawing a parallel to utena's duel with Touga, Akio's primary objective seems to be to feminize Utena and *groom* her. Because Utena is under the impression that she's basically promised herself to the prince from her childhood, she is magnetically drawn to him. 
 
-This naturally causes Anthy to... *fester* due to being so gaslit her whole life that she feels her only sense of value is to be of service to men, something that Utena is interrupting. And, the once-best-friends develop a *toxic* rivalry.
-
 </james>
 <from></from>
-</compare>
+<james {% include timecode %}>
 
-<compare>
+<mark fc>This naturally causes Anthy to... *fester* due to being so gaslit her whole life that she feels her only sense of value is to be of service to men, something that Utena is interrupting.</mark> And, the once-best-friends develop a *toxic* rivalry.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+This is such an odd interpretation to me. She’s very clearly concerned for Utena. She lingers behind them and between them in shots in a way that causes a sense of dread. Because we know what she knows. Whenever she watches them, it isn’t with jealousy but with sad resignation because she knows what’s happening to Utena. 
+
+</comment>
 <clip {% include citation for=page.cite.clips.utena %}>
 
 Utena: "I put a lot of poison in your tea."
@@ -406,9 +433,9 @@ Utena: "I put a lot of poison in your tea."
 Anthy: "You don't say!"
 
 </clip>
-<comment>
+<comment {% include commenter for=deus %}>
 
-This scene is used to demonstrate their "toxic rivalry", but [@deus-and-the-machina on tumblr](https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you) points out that this scene is specifically the scene where they make up.
+THAT SCENE IS LITERALLY THEM MAKING UP HOW DID YOU MISS THAT. THEY SAY THEY WANT TO KEEP HANGING OUT AND PROMISE TO MEET AGAIN IN TEN YEARS FOR TEA SOBBING. 
 
 </comment>
 </compare>
@@ -418,14 +445,30 @@ This scene is used to demonstrate their "toxic rivalry", but [@deus-and-the-mach
 
 As one does, the girls appear to resolve their differences when Utena rescues Anthy from an 'unaliving' attempt, and acknowledges that **this is kind of completely fucked up!** 
 
+</james>
+<comment {% include commenter for=deus %}>
+
+He cuts it very out of context then refers to Anthy throwing herself off the roof as them making up, which it is but it’s part two of that moment. The reason she does that to begin with [is] because she likely feels renewed guilt over Utena now that she’s extended a gesture of “I want to hang out with you despite everything”, especially since Utena doesn’t know the extent to which Anthy has “used her” in her own words, and feels she will still betray her for Akio in the end because she’s trapped in that mindset. 
+
+</comment>
+<james {% include timecode %}>
+
 After a final stab at gaslighting Utena into believing that it's her time to shed her juvenile boyish fantasies and be a proper lady to be valuable to him (and presumably by extension society at large) Utena challenges Akio to a duel for Anthy's fate. 
 
 Akio basically says that the dueling rules are different now: A) because he'll straight up *murder her* if she loses, and B) because the dueling Arena may or may not have existed and may have been a hologram this whole time, but *don't worry,* we've yet to hit the summit of Weird Mountain.
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 Guarding Anthy from her brother Utena is stabbed in the back by... Anthy. Who upon the command of her brother has accepted that it's simply her role in life to suffer. According to a man who has been domestically busing his own sister for who knows how long, Akio claims that she has *chosen* this... and that she's happy like this.
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+Not everything is bad. [H]e does correctly identify the ways Akio gaslights Anthy and says she “chose this” in regards to her suffering and how fucked up that is.
+
+</comment>
 </compare>
 
 <compare>
@@ -433,7 +476,7 @@ Guarding Anthy from her brother Utena is stabbed in the back by... Anthy. Who up
 
 Akio: "And now she actually enjoys living in this pathetic tortured role. She can no longer be happy... except like this.
 
-<u>[Shot of Anthy, where James superimposed "The face of 'enjoyment' \*Sarcasm\*]</u>
+<u>[Shot of Anthy, where James superimposed]: "The face of 'enjoyment' \*Sarcasm\*"</u>
 
 </clip>
 </compare>
@@ -441,12 +484,28 @@ Akio: "And now she actually enjoys living in this pathetic tortured role. She ca
 <compare>
 <james {% include timecode %}>
 
-Looking at real world parallels, a given individual can endure *much less* debilitating physical and psychological trauma and be ruled as "unfit by the state to make their own decisions". 
+Looking at real world parallels, a given individual can endure *much less* debilitating physical and psychological trauma and be ruled as <mark yikes>"unfit by the state to make their own decisions"</mark>.
 
-There are a number of other hints and instances in the plot that strongly indicate that Anthy's willpower is so eroded that she has no sense of self-preservation whatsoever, and is emotionally stunted to the point where she *needs* people to make decisions for her because she does not know *how* to think for *herself.* ...something that Utena has been trying to get her to realize about herself this whole time.
+There are a number of other hints and instances in the plot that strongly indicate that Anthy's willpower is so eroded that she has no sense of self-preservation whatsoever, and is emotionally stunted to the point where she *needs* people to make decisions for her because she does not know *how* to think for *herself.*
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+Ok. so. While it’s true that Anthy’s been through a lot and has had her agency restricted time and time again that does NOT mean she’s incapable of making decisions for herself. The narrative literally pushes against the idea of people making decisions for Anthy, and she’s still able to assert herself in small ways, like the times she puts herself between Akio and Utena or the Nanami episodes which are assumed by many to be Anthy tormenting her bully via the world they’re in being a malleable illusion. She can clearly think for herself, she just suppresses it often because she feels it won’t help her. Think about the time she misses Utena after Touga beats her. 
+
+<span id="unfit">Also, after Britney Spears you’d think people would be more skeptical of people with trauma being deemed “unfit to make decisions for themselves” so this seems like a rather uncritical and tone deaf interpretation.</span>
+
+</comment>
+<james {% include timecode %}>
+
+...something that Utena has been trying to get her to realize about herself this whole time.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+He also ends [with this line] and he’s conveniently skipped over all the parts so far in which Utena’s view of Anthy and being her prince is challenged and just framing it as Utena trying to teach poor gaslit Anthy that she has autonomy.
+
+</comment>
 </compare>
 
 <compare>
@@ -460,13 +519,19 @@ It's not like any of this really mattered. It's ***fine...!***
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Utena meanwhile desperately claws at the rose thorns that guard the Power of Revolution, in a
-sheer refusal to give up on Anthy (for which I'm sure there's a heterosexual explanation, somehow). And in a final attempt to free Anthy from the coffin of her psyche, the floor gives out and Utena is left wounded, defeated, and at the mercy of all the swords that Akio forced upon Anthy so that they would not attack him.
+Utena meanwhile desperately claws at the rose thorns that guard the Power of Revolution, in a sheer refusal to give up on Anthy (for which I'm sure there's a heterosexual explanation, somehow). 
+
+<mark fc>And in a final attempt to free Anthy from the coffin of her psyche, the floor gives out and Utena is left wounded, defeated</mark>, and at the mercy of all the swords that Akio forced upon Anthy so that they would not attack him.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+Know that he’s covered Anthy stabbing Utena at this point and there’s been no mention of Utena’s notion of being Anthy’s savior being challenged, or the fact that it’s Anthy that reaches out and has to free herself. 
+
+</comment>
+<james {% include timecode %}>
 
 Flash Forward a few weeks and Utena is not in school, and all of the students have begun to forget her, save for Anthy and Akio. The latter is disappointed that Utena never managed to use the power to revolutionize the world and begins a new scheme to try it all again. Anthy however declares that she'll have no part of this. And next to a bewildered brother announces that she's leaving Ohtori Academy to find Utena.
 
@@ -486,8 +551,7 @@ The manga and the movie have some *vast* differences but maintain the overall th
 <compare>
 <james {% include timecode %}>
 
-I am going to drop some bombs because *my* reading of *Revolutionary Girl Utena* seems to be
-*vastly* different than the bulk of the discourse I have found, not to mention the actual Wikipedia page!
+I am going to drop some bombs because *my* reading of *Revolutionary Girl Utena* seems to be *vastly* different than the bulk of the discourse I have found, not to mention the actual Wikipedia page!
 
 And sure, you could take it literally. You could assume that Dios was the former incarnation of Akio, who was transformed / imprisoned by Anthy who is a witch, a damsel-in-distress, and also simultaneously the vestige of all men's hatred who desperately want Prince Dios to deflower their daughter. And that's not outside the realm of *normal* for anime...
 
@@ -503,7 +567,11 @@ Or we can observe *Revolutionary Girl Utena* as a deeply allegorical and symboli
 Which is, quite frankly, a lot more effort but unfortunately we have postmodernism. So... I guess we have to try.
 
 </james>
-<from></from>
+<comment id="gibberish" {% include commenter for=kenm %}>
+
+This is just gibberish. I have no idea what James or Nick (probably Nick) is trying to say about postmodernism. This video goes in circles and circles about what is and isn't literal and it's like... who fucking cares.
+
+</comment>
 </compare>
 
 ## 2. Three, if by post
@@ -524,7 +592,7 @@ What *you* need to know is that postmodernism is a response to the modernism mov
 
 In contrast to the modernists, postmodernism is rooted heavily in relativism, and implores a rejection of stable and concrete, let alone universal, truths. Due to the focus around ephemerality, identity, and especially the ways that identity may be concealed or altered in a world which is chronically changing, *Revolutionary Girl Utena* conforms miraculously to this school of thought.
 
-And quite frankly it seems to be... a shining Exemplar of presenting these tenants in a way that is clear, though compelling enough, to be more than just a textbook case. This is considered one of the most significant and influential animes of the '90s for a very good reason.
+And quite frankly it seems to be... a shining Exemplar of presenting these tenants<sup class="add">[sic: tenets]</sup> in a way that is clear, though compelling enough, to be more than just a textbook case. This is considered one of the most significant and influential animes of the '90s for a very good reason.
 
 </james>
 <from></from>
@@ -535,10 +603,14 @@ And quite frankly it seems to be... a shining Exemplar of presenting these tenan
 
 Now, it's easy to see how this anime fits into a postmodern framework from the theme alone: you've got a bunch of teenagers who are not only struggling with ways to project their true selves into the world, but also struggling to reconcile what that true self even is.
 
-There is an ongoing discussion about gender, developing sexuality, coming of age, direct and indirect challenges to established values, a question of truth versus illusion, a distrust of therapy (that feels at home with Scientology), and ultimately a threat of losing oneself in a sea of modernity. (That's lowercase "modernity", by the way.)
+There is an ongoing discussion about gender, developing sexuality, coming of age, direct and indirect challenges to established values, a question of truth versus illusion, <mark fc>a distrust of therapy (that feels at home with Scientology)</mark>, and ultimately a threat of losing oneself in a sea of modernity. (That's lowercase "modernity", by the way.)
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+I don’t really know what this is trying to say. Why would you just connect that to scientology without prompting.
+
+</comment>
 </compare>
 
 <compare>
@@ -604,7 +676,11 @@ The weird thing about an analysis like this is that you.. kind of have to gauge 
 A basic premise is that Utena Tenjou is a middle school student who is struggling to navigate adolescence. If we assume that *this is real,* as the more universal experience that a young lady can expect in her life, then all elements outside the realm of normal can be seen as symbolic reflections of struggles that middle school students will go through.
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+Ok so he’s correctly identifying there’s symbolism and we’re not meant to take things at face value, but he’s taking it a bit far and trying to definitively “prove” what we’re meant to take literally vs non literally. To me this kind of defeats the point of the symbolism, everything is weird and there’s creative reasons for that.
+
+</comment>
 </compare>
 
 <compare>
@@ -612,65 +688,91 @@ A basic premise is that Utena Tenjou is a middle school student who is strugglin
 
 Especially because all discourse around the duels and the Rose Bride and the floating Castle in the Sky are not accessible to most of the student body. Only the student council and a handful of students know about these things the rest of the students are just... students.
 
-This creates a broad yet clearly defined separation between the fantastical events events and the literal ones. And this is also primarily why I prefer the anime to the movie. The separation between reality and illusion is a little bit more defined. Whereas in the movie *Adolescence of Utena* students participated in these duels as the audience. It makes the symbolism of everything around Anthy a little bit more literal. (Except when you get to the
-whole "cars" thing.)
+This creates a broad yet clearly defined separation between the fantastical events events and the literal ones. And this is also primarily why I prefer the anime to the movie. The separation between reality and illusion is a little bit more defined. Whereas in the movie *Adolescence of Utena* students participated in these duels as the audience. It makes the symbolism of everything around Anthy a little bit more literal. (Except when you get to the whole "cars" thing.)
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+Given what he’s already said and will go on to say about Anthy, I don’t think he was taking the original symbolism literally enough. The car thing too is also meant to be literal in the sense it actually happens, but it’s also a metaphor. It’s the reason the world has very surreal rules, so this sort of literal symbolism can happen. Drawing a clean line between the literal and metaphorical misses the point.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-That said the movie was much less about the question of identity and more about escaping the oppressive elements of conformity in school. The movie itself I view as more of a companion piece to the anime, beefing up secondary thematic messaging that was present in the anime, and clarifying some character motivations. For instance, Touga's romantic feelings for Utena were genuine and that Shiori really is just that... that bad.
+That said the movie was much less about the question of identity and more about escaping the oppressive elements of conformity in school. <mark fc>The movie itself I view as more of a companion piece to the anime, beefing up secondary thematic messaging that was present in the anime, and clarifying some character motivations. For instance, Touga's romantic feelings for Utena were genuine and that Shiori really is just that... that bad.</mark>
+
+</james>
+<comment {% include commenter for=deus %}>
+
+I feel like the series already clarifies Touga’s feelings as genuine. The last episode centered around him is literally about him questioning that and going “yeah i do think it’s not just vapid playboy urges Uh Oh” and still proceeding to go about “protecting” Utena in a very demeaning way that still fits with his character. It serves to help us get a better look at him finally being genuine while also being a flawed and crappy person. 
+
+Also tell me you didn’t think deeper about Shiori without telling me that.
+
+</comment>
+<james {% include timecode %}>
 
 Though Utena's revamped design was a great improvement, I felt (Granted the whole movie is just gorgeous), painting the school as an M.C. Escher-esque prison of militant conformity... It's also just a lot gayer.
 
+There's a reason why I chose to focus on the anime specifically. Both the film and the manga are worth their own analysis each. The only major overlapping symbol is that cars represent adulthood and passage into adulthood. <mark fc>A problem with postmodern analysis is that symbolic language and what is presented as "real events" can often be overlapping.</mark>
+
 </james>
-<from></from>
-</compare>
+<comment {% include commenter for=deus %}>
 
-<compare>
+He’s sooooo close to getting it.
+
+</comment>
 <james {% include timecode %}>
-
-There's a reason why I chose to focus on the anime specifically. Both the film and the manga are worth their own analysis each. The only major overlapping symbol is that cars represent adulthood and passage into adulthood. A problem with postmodern analysis is that symbolic language and what is presented as "real events" can often be overlapping.
 
 An element of realism is important in most stories, as most audiences need these real events to identify within their own lives in order to empathize with the characters. There is a degree of uncertainty when gauging analysis and the temptation to assume that everything is symbolic. Which I feel gives a lot of undo complexity to work that is otherwise meant to just be straightforward.
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-To bring up an example nobody's going to expect (and I mean nobody): look at the music video for "Wrecking Ball" by Miley Cyrus. I do like Miley, but... this one was a bit of a miss. She responded to criticism of the video describing it as "weird" and "unnecessary" by claiming that the whole "lickin; the hammer" thing was symbolic of a failed relationship... or something.
+To bring up an example nobody's going to expect (and I mean nobody): look at the music video for "Wrecking Ball" by Miley Cyrus.
+
+I do like Miley, but... this one was a bit of a miss. She responded to criticism of the video describing it as "weird" and "unnecessary" by claiming that the whole "lickin; the hammer" thing was symbolic of a failed relationship... or something.
 
 A problem with the video is that it is under the assumption that the audience is going to read these visuals as *symbolic* without the music video itself doing anything to suggest that these things are symbolic. The lyrics also don't do a whole lot to play off of the "housebreaking" imagery of a wrecking ball, besides that one line. The end result is a weird sexual trist with inanimate construction site objects, which seems to be playing off of nothing but the song. But that's a creator assuming that their audience will read symbolism into their work without prompt.
 
-It can work in the other direction too. Taking *Lord of the Rings* as an example (and this is entirely hypothetical), it would be like saying that Aragorn kicking the orc helmet and crying out in anguish is symbolic of his rejection of Regal responsibilities resulting in the
-suffering of those around him. ...No.
+</james>
+<from></from>
+<james {% include timecode %}>
+
+It can work in the other direction too. Taking *Lord of the Rings* as an example (and this is entirely hypothetical), it would be like saying that Aragorn kicking the orc helmet and crying out in anguish is symbolic of his rejection of Regal responsibilities resulting in the suffering of those around him. ...No.
 
 He's kicking a helmet because he's frustrated that he's misplaced his Hobbits and screaming because Viggo Mortensen accidentally *broke his foot* kicking that helmet. 
 
 </james>
-<from></from>
-</compare>
+<comment span=3 {% include commenter for=deus %}>
 
-<compare>
+Basically he says the [Miley Cyrus] video is a failure because she claims the video is symbolic but the video doesn’t do anything to establish that it’s symbolic aside from just being bizarre.
+
+[And the Lord of the Rings thing is]… an odd example. Especially because the interpretation he gives that’s meant to be “taking things too symbolically” isn’t even that crazy of an interpretation.
+
+He also argues that repetition is needed to show an action is symbolic or carries weight. Utena does do this, yes, with the roses and cars being recurring themes, but recurring themes and symbolism/allegory don’t necessarily need to always be the same thing. 
+
+He then says there are no rules for art so. It’s a bit unclear what he’s getting at in a concrete sense. 
+
+</comment>
 <clip {% include citation for=page.cite.clips.lotr %}>
 
 <u>[Aragorn kicking an orc helmet and screaming.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Now, if the plot made a specific point of Aragorn repeatedly kicking or pushing objects away from him with due consequences, then yes we could say that this action carries symbolic weight. But only if it's repeated. And only if, through repetition, the audience can see evolution in Aragorn's internal conflict.
 
 And unfortunately there aren't any solid rules about when we should observe an action or element as symbolic and when we should dismiss it as taken for granted. Because if you want to establish a rule, then some author at some point in history has made a masterpiece textbook example of a symbolic device that breaks that rule. 
+
+</james>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 The primary reason that AI will never be able to replace artists is because the collection of values that are used to present literary devices can shift from one artist to the next. it's a matter of merit to have the kind of creative judgment to discern how an audience will interpret literary devices. And in the language of each individual author, there is a variable ability to present meaning in variable ways, using variable methods.
 
@@ -683,28 +785,48 @@ The primary reason that AI will never be able to replace artists is because the 
 
 TL;DR: if there's a rule, then it would not be art. The quality of an artist is gauged by their ability not only to make their own rules, but to efficiently project that set of rules to their audience. We live in a world where *Watchmen*, *Carrie*, *Slaughterhouse 5*, and *The Color Purple* are all considered post-modern masterpieces. Yet their syntactic mechanics, narrative structure, and even their very underlying philosophies are foundationally different.
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 Though in Utena, there seems to be one side character who is able to appropriately frame the realism from the symbolism. Though she's in less than about half of the total episodes. Utena's best friend Wakaba is the most important character for discerning what is meant to be symbolic. Wakaba is a regular girl whose--
 
 <u>[Meme cutaway]:</u> "incredibly gay"
 
---and not at all involved in the component of dueling that takes place in the school. Wakaba sees conflict between the dualists but not the duels themselves. She's the cipher character with whom the audience can appreciate what the average student would see. I would argue that whatever Wakaba sees is what the audience can take for granted is the reality of what's transpiring. Everything else, including very personal moments (such as Anthy's attempted un-aliving) and even including things that happen in the real world (such as school teacher sexual exploiting his female students) can be read as symbolic representations of something more abstract.
+--and <mark fc=false>not at all involved in the component of dueling that takes place in the school</mark>. Wakaba sees conflict between the dualists but not the duels themselves. She's the cipher character with whom the audience can appreciate what the average student would see. 
+
+I would argue that whatever Wakaba sees is what the audience can take for granted is the reality of what's transpiring. Everything else, including very personal moments (such as Anthy's attempted un-aliving) and even including things that happen in the real world (such as school teacher sexual exploiting his female students) <mark yikes>can be read as symbolic representations of something more abstract</mark>.
 
 </james>
-<from></from>
-</compare>
+<comment {% include commenter for=deus %}>
 
-<compare>
+I guess he missed the part where [Wakaba] is [part of the dueling component]. She literally is. There’s a whole episode about it. 
+
+I don’t think I should have to spell out why arguing first that every moment Wakaba specifically isn’t there for isn’t literal, but also using this to then say the suicide attempt and sexual assault isn’t “literal” is kind of gross. Especially when other characters like Nanami DO see the sexual assault and are horrified by it before Utena sees it and misinterprets it. Claiming Wakaba is the only character allowed to experience literal events devalues every other character’s scenes because “you can’t take them literally”.
+
+</comment>
 <james {% include timecode %}>
 
-And even if we do read those aforementioned issues as real, that doesn't also mean that they can't carry additional symbolic value to a larger abstract concept. They're just very well-developed concepts. And because of Wakaba we can approach them with uncertainty rather than confusion.
-
-This is the principle of my thoughts on *Attack on Titan*, where I felt that things that fans *and* detractors argued were symbolic were just too messy and inconsistent and contradictory to be set in stone allegories. Okay, this is a world where people can get bone marrow injections and turn into giant monsters who, depending on the circumstances, may or may not have sentient reasoning based on an ambiguous rule of genetic heritage. But also magic too. At this point of anything-goes world-building, *Attack on Titan* goes out of its way to establish that weird shit happens in this world and can be accepted as fact, rather than allegory.
+<mark fc>And even if we do read those aforementioned issues as real, that doesn't also mean that they can't carry additional symbolic value to a larger abstract concept.</mark> They're just very well-developed concepts. And because of Wakaba we can approach them with uncertainty rather than confusion.
 
 </james>
-<from></from>
-</compare>
+<comment {% include commenter for=deus %}>
 
-<compare>
+Then why don’t you read it this way??? You can still claim that these moments carry weight by showing the themes of gender and abuse and not say that they aren’t real? I also think he’s confusing themes for symbolism here. Events in a story can contribute to a thematic message and still have actually happened because you know. That’s how stories work.
+
+</comment>
+<james>
+
+<mark fc>This is the principle of my thoughts on *Attack on Titan*, where I felt that things that fans *and* detractors argued were symbolic were just too messy and inconsistent and contradictory to be set in stone allegories. </mark>
+
+Okay, this is a world where people can get bone marrow injections and turn into giant monsters who, depending on the circumstances, may or may not have sentient reasoning based on an ambiguous rule of genetic heritage. But also magic too. At this point of anything-goes world-building, *Attack on Titan* goes out of its way to establish that weird shit happens in this world and can be accepted as fact, rather than allegory.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+He [uses this about *Attack on Titan*] to prove his point. This however, doesn’t prove his point because a fantasy species not aligning perfectly with a real world group isn’t the same thing as *sexual assault*.
+
+</comment>
 <james {% include timecode %}>
 
 Whereas *Revolutionary Girl Utena* *does not do that*. Which is something you could accept about Utena, except for Wakaba, who, yes, participates in one duel, but she was brainwashed and has no recollection of it. Wakaba is the element of normal in this cast. Things that happen in her awareness are *certain*. Wakaba is like us, the audience. We don't pull weaponry out of random people or have uncommon hair colors. 
@@ -713,13 +835,21 @@ I'm sorry, almost none of us are main characters in an anime.
 
 And therefore what happens outside of Wakaba's awareness is subject to discourse on truth or illusion. Because of Wakaba, we can read some of the more... *weird* things in this plot as symbolic, and not just absurd. 
 
+</james>
+<comment {% include commenter for=deus %}>
+
+He finally brings up that she participates in one duel but says that since she was brainwashed and doesn’t remember any of it, that it doesn’t count. Ignoring that the duel was all about her own feelings and that other Black Rose duelists also have a degree of “brainwashing”. He briefly brings up this thing that contradicts his point, disregards it, and throws it away. 
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Not that Utena doesn't have some absurd things. But even something seemingly benign and uselessly cute, like Chu Chu, serves to help characterize Anthy as a sympathetic character who is earnest in her sensitivity rather than at being a front to help her brother groom girls at the school. "Cares about animals" is the tried and true method in anime of signifying that the audience ought to empathize with a given character.
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.cite.clips.utena %}>
 
 Anthy (putting a mongoose in a dresser drawer): "Okay, Mr Mongoose, we're studying, so I'll have to see you later. Did you like eating that mean old snake?"
@@ -727,9 +857,6 @@ Anthy (putting a mongoose in a dresser drawer): "Okay, Mr Mongoose, we're studyi
 <u>[Student in the foreground faints.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 But there's a lot more to dig into than simple symbology.
@@ -744,6 +871,13 @@ But there's a lot more to dig into than simple symbology.
 <james {% include timecode %}>
 
 Probably the most prominent symbol in the entire show is the Sword of Dios. Aside from being the key that gives access to the power of Revolution, it is made symbolic by *how* it is acquired. It being removed from Anthy's chest can be read as symbolic, rather than your average magical girl transformation stock footage. It's very easy in any work of fiction to observe weapons as symbols of power. This is almost universal. What's a little more creative is when a creator questions what a weapon is. 
+
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 So given that a small yet significant collection of the student body run around spontaneously pulling swords out of their chesticles, this isn't something that we can really dismiss. The power to revolutionize the world is hidden behind a gate for which the Sword of Dios is the key to access. 
 
@@ -760,10 +894,21 @@ Granted it... *probably* should not get lost on us that "dios" means "god" in La
 
 However, the figure of Dios as a character is important to the plot, and in my opinion, a rather contentious one. A surface level reading of Dios is that he is either a god, a reflection of a god, a prince who died ages ago, or a collection of household insects given material form by Anthy (depending on the version of your story).
 
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
 Now, yes, if you want to you can look at him like that. And that who he *was* is now a spectre that resides in the sword and/or castle. He is the figure who gave Utena her signet ring and inspired her to become a prince. And he is not Akio (though can be read as, and is occasionally, a *reflection* of Akio). 
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+I heavily disagree with this point. Even if you do identify the very up for interpretation specter of Dios in the final episode as separate from Akio (which I also argue the framing supports, he literally walks away from him and gets on a horse which coincides with Akio’s plan crumbling and him becoming panicked), there’s no doubt that Akio was Dios, that the idea of the original Dios as a perfect prince was always flawed and that ties into how he becomes Akio, and Akio pretty firmly claims and states that he was the one who talked to Utena as a child. 
+
+</comment>
 </compare>
 
 <compare>
@@ -784,8 +929,18 @@ So, yes the literal reading is there. But! That's boring, when there's so much s
 
 Dios is simply more useful as a tool to explain the motivations of characters that *do* exist, than as a character himself. When a character is a character, but is *not* a character, but represents an internal character foil that portends to their identity... that may be a figurative mask. But a mask nevertheless. So Dios doesn't exist, not strictly. He exists as a concept given a name. The concept is nobility, chivalry, and power. 
 
-The subject of nobility is also noteworthy in Utena. The Prince of Roses as a concept seems to hold a different meaning to each character. To Utena, the prince is the archetype of the nobility she wants to represent. One may even say a transition icon, if you want to adopt that reading of Utena. However additional instances of castles, princesses, damsels, and evil
-witches also enrich this symbolic language. 
+</james>
+<comment {% include commenter for=deus %}>
+
+This is true but then why did you downplay his connection to Akio. He makes it sound like they’re foils and not two reflections of the same guy. Then he goes on to say Dios doesn’t exist and is moreso the concept of chivalry, nobility, etc. Again, true, but again he so firmly disregards the possibility of any of this being literal AND symbolic that he overlooks basically all of Anthy’s backstory in this section, which y'know, feels kind of important when discussing interpretations of Dios (it’s in the next section but I don’t understand why you’d leave it out of this if it’s all about your interpretation of Dios as a symbol)
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+The subject of nobility is also noteworthy in Utena. The Prince of Roses as a concept seems to hold a different meaning to each character. To Utena, the prince is the archetype of the nobility she wants to represent. One may even say a transition icon, if you want to adopt that reading of Utena. However additional instances of castles, princesses, damsels, and evil witches also enrich this symbolic language. 
 
 The castle may be an illusion, kind of. Akio says it is, but then hinges his entire plan on breaking open an illusion door, so... I don't know.
 
@@ -860,13 +1015,18 @@ Akio: "It is her punishment for taking the prince away from the girls of the wor
 <compare>
 <james {% include timecode %}>
 
-So, through a postmodern lens, we can use this to characterize Akio to offer context
-for his actions. In his mind, he is Dios, and his version of Dios offered himself to the world and the world's princesses, and the world was better for it. Within the shadow play, there is language to suggest that he had the ability to fight monsters to protect people. 
+So, through a postmodern lens, we can use this to characterize Akio to offer context for his actions. In his mind, he is Dios, and his version of Dios offered himself to the world and the world's princesses, and the world was better for it. Within the shadow play, there is language to suggest that he had the ability to fight monsters to protect people. 
 
-In akio's elaboration later on in the same episode, it's subtly implied that Dios gets power from deflowering the princesses of the world. And by the witch taking away his unbridled ability to get his dick wet, he lost his ability to maintain peace and order in the world. His exploitation of Anthy, in that light, is a means by which he can recover the power he perceives she stole from him. In the most *postmodern way possible!*
+In Akio's elaboration later on in the same episode, it's subtly implied that <mark fc=false>Dios gets power from deflowering the princesses of the world.</mark> And by the witch taking away his unbridled ability to get his dick wet, he lost his ability to maintain peace and order in the world. His exploitation of Anthy, in that light, is a means by which he can recover the power he perceives she stole from him. In the most *postmodern way possible!*
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+I’m not sure where he’s getting this from. Again it’s meant to tie into Akio’s sexual abuse and the idea being that Anthy stole from him the ability to “get his dick wet” with other women. Only problem, HE DOES THAT ANYWAYS AT OHTORI. He clearly doesn’t think he’s lost the ability to seduce people or his entitlement to people other than Anthy.
+
+Not to mention that when we’re shown Anthy and Dios as kids in a more gritty flashback to contrast the fairy tale, thus implied to be the true version of events, not only is the emphasis on Dios “saving” the princesses and nothing about romancing them, but they’re much younger and I don’t particularly think twelve year old Dios is going around “deflowering women”. Again, he probably would use the excuse that “it’s symbolic” even though the framing clearly implies it’s the truer version of events, not only through its contrast with the fairy tale but with it being recounted to child Utena and reiterated time and time again. But it doesn’t count because Wakaba wasn’t there I guess.
+
+</comment>
 </compare>
 
 <compare>
@@ -874,12 +1034,39 @@ In akio's elaboration later on in the same episode, it's subtly implied that Dio
 
 This is what I mean when I said that this might not even be literal exploitation, because this kind of demonstration can be extrapolated to indicate *any* kind of power and balance in this relationship. This can signify any kind of control or abuse, but the *instance* of exploitation here is used because assault has deep roots as indicating that akio feels *gender* is the source of his imbalance. 
 
-However, there is also an invitation to observe this conflict of princes, damsels, and witches as itself representative of a greater cultural hole. The plot outlines that exploitation of *all kinds* is damaging, not just the sexual instances outlined here. And how in the situation of a life's worth of gaslighting, someone can actively believe that their only role in life is to be a victim. 
+</james>
+<comment {% include commenter for=deus %}>
 
-People generally feel good when they are reassured of their self existing in the world. When you have been told that your self is to be a victim, over time, your brain can cross those wires. Suddenly victimhood feels good, because you get that positive reassurance dopamine hit. Anthy's conformity to the Rose Bride is based around the fact that she feels good being subservient, because this is the only thing in her life that has ever brought her any kind of positive reward. It takes the entire series for Utena to shake her out of this mindset and she begins to see herself as her own person. 
+Again, it’s thematic, *not* symbolic. The abuse having a greater meaning in the story doesn’t mean the abuse isn’t literal or didn’t happen. You don’t even have to argue that to make this point I think he just wants to seem smart by going “oooooo this part maybe isn’t real” and it’s not helping the misogyny claims.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+However, there is also an invitation to observe this conflict of princes, damsels, and witches as itself representative of a greater cultural hole. <mark fc>The plot outlines that exploitation of *all kinds* is damaging, not just the sexual instances outlined here. And how in the situation of a life's worth of gaslighting, someone can actively believe that their only role in life is to be a victim.</mark> 
+
+People generally feel good when they are reassured of their self existing in the world. When you have been told that your self is to be a victim, over time, your brain can cross those wires. Suddenly victimhood feels good, because you get that positive reassurance dopamine hit. <mark fc=false>Anthy's conformity to the Rose Bride is based around the fact that she feels good being subservient</mark>, because this is the only thing in her life that has ever brought her any kind of positive reward.
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+Again it brushes aside that the most prominent examples of abuse ARE sexual and doesn’t really go into how that ties into gender. He really can’t conceive of why sexual assault and commentary on women’s roles would go together, or at least doesn’t think it’s worth mentioning.
+
+Also, Anthy does not just see herself as a victim. In fact, it’s the opposite in a lot of ways. She is blamed for being a “witch”, Akio says she brought this on herself, she blames herself for misleading and using Utena, I’d argue that she sees herself as the one at fault rather than a victim who can’t do anything. Seeing herself as awful is also a greater reason why she hasn’t tried to resist Akio or go against before. Saying that Anthy’s “just a victim” and saying right after that she “finds enjoyment in subservience because it’s the only thing left to her anymore” is just false! When is it ever implied she enjoys being subservient? If anything it’s shown she resents it but feels she can’t do anything about it!
+
+</comment>
+<james {% include timecode %}>
+
+It takes the entire series for Utena to shake her out of this mindset and she begins to see herself as her own person. 
+
+</james>
+<comment {% include commenter for=deus %}>
+
+Again, crediting Utena for this with no critique of the very blatant flaws of Utena’s desire to be her savior. Literally the show does this work for you. It ignores the fact Anthy has to be the one to reach out and free herself 
+
+</comment>
 </compare>
 
 <compare>
@@ -887,14 +1074,18 @@ People generally feel good when they are reassured of their self existing in the
 
 And the really cool thing is that we're now at a point of analysis where we can get to the exciting stuff. Because the language of plurality? It can apply to these characters themselves.
 
-So that we're not just talking about Akio, Anthy, and Utena, but the ways that Akio *is* a stand in for every man; and that Anthy represents every victim; and that Utena represents a *kind* of a woman.
+<mark fc>So that we're not just talking about Akio, Anthy, and Utena, but the ways that Akio *is* a stand in for every man; and that Anthy represents every victim; and that Utena represents a *kind* of a woman.</mark>
 
 So we arrive at a game state where men seek the power of Revolution to facilitate their control over women (which they already have mostly) in order to return to times when things were... "better".
 
 Lacking the freedom to commit sexual exploitation, to Akio (and therefore men like him), impedes their ability to properly manage the world and keep everything *safe*. This power that was once exclusively theirs, they perceive, was stolen from them by the women who they are already exploiting. 
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+While “In the end, all girls are like the Rose Bride” is a rather iconic quote that does point towards Anthy’s struggles being symbolic of the whole of what girlhood is like, and Akio being all men, sure, he does combine a lot of the aspects we see from the various main male cast in the series, a sort of final boss of all the gender hangups we see, but this view of Utena is super simplistic because Utena herself is a victim and falls into a lot of pitfalls the show portrays in female and male characters, namely, again, her desire to save Anthy which lacks nuance because she’s a teenager. You get the point by now.
+
+</comment>
 </compare>
 
 <compare>
@@ -920,13 +1111,20 @@ come to a singular conclusion: that the objective of those in power is to facili
 
 The power brokers don't need to get their hands dirty when they can just organize an increasingly complicated schedule of duels to sic the students onto each other. Another reading of Akio, outside of Dios and the revolution, is that his surname is Ohtori. Which is different from his sister's, Himemiya. Ohtori being the same name as the academy. 
 
-Again, rather than a singular individual, he could represent a broader scope of authority figures in schooling institutions. This could range from statutory malice to mere unprofessionalism. I mean, there is a *lot more* to Utena than Akio. I'm sorry if my focus is here, at the expense of spending basically *no time* talking about Nanami.
+Again, rather than a singular individual, he could represent a broader scope of authority figures in schooling institutions. This could range from statutory malice to mere unprofessionalism. 
 
 </james>
 <from></from>
-</compare>
+<james {% include timecode %}>
 
-<compare>
+I mean, there is a *lot more* to Utena than Akio. I'm sorry if my focus is here, at the expense of spending basically *no time* talking about Nanami.
+
+</james>
+<comment span=3 {% include commenter for=deus %}>
+
+He reiterates some points and then for good measure makes fun of Nanami and goes “I’m sure that’s all symbolic for something” and can I say if you’re analyzing Utena and refuse to approach the Nanami episodes you should go rewatch them all again. Inject Nanami into your brain. She is integral here, especially if he wants to frame this analysis about the dichotomy of abused/abuser, Nanami would also serve to break this framework since he can’t seem to identify that Anthy has more autonomy than just “poor gaslit victim who needs Utena”.
+
+</comment>
 <clip {% include citation for=page.cite.clips.utena %}>
 
 Nanami: "Oh! This can't be! I was so close to becoming the idol of the school! I can't seem to think clearly any*moooooooore.* Am I having deluuuuuuuusions? Do I need my appendix remoooooooooved? Bring me a blanket someone and suuuuuuuuu--"
@@ -934,22 +1132,27 @@ Nanami: "Oh! This can't be! I was so close to becoming the idol of the school! I
 <u>[slap!]</u> "Shut up!"
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 (Girl needs help!) I'm sure that whole... *ordeal* is symbolic for something...
 
+</james>
+<james {% include timecode %}>
+
 Anyway, the ability of a single element of the show to function in a myriad of ways with multiple applications speaks to the creator's credit. Even if, and this is often the case with authors, many of these meanings were unintended. An authorial ability to deconstruct the world into a collection of symbols that have this kind of universality showcases a savvy and insightful creative team.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+He praises the team for having symbols that could apply to a number of things but no man. I think a lot of them have more specific meanings and you’re the one watering them down. Then praising the creative team for it? C’mon now. 
+
+</comment>
+<james {% include timecode %}>
 
 However, there is something thus far omitted. This is a show called the ***Revolutionary** Girl Utena*. What is this Revolution? And how is Utena the one to be revolutionary if she spends most of the anime trying to prevent others from using Revolution? The use of revolution in the show is only... *slightly* different from how we would use it. It's not something like the... "retirement" of the French aristocracy, a nation becoming independent from a parent state, or even say Bernie Sanders attempting to impose a tax structure in America that's similar to what existed in the 1960s.
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 Revolution itself in *Utena* seems to be an object. One would use revolution the same way you would use a toaster. And those who know that the power of Revolution resides at Ohtori Academy seem to be *desperate* to use it. But even though they talk about Revolution as if it were a power, or a tool, the language of postmodernism opens up a number of possibilities for what use revolution serves to the characters to the plot and to the audience.
@@ -996,25 +1199,30 @@ However, the more we begin to empathize with the student council the more we beg
 Student council monologue: "If it cannot break out of its shell, the chick will die without ever being born. We are the chick. The world is our egg. If we don't crack the world's shell, we will die without truly being born."
 
 </clip>
-</compare>
-
-<compare>
-<james span=2 {% include timecode %}>
+<james {% include timecode %}>
 
 Utena echoes a particular anxiety of growing up in Japan in the 1990s, when the nation was in one of the worst Financial depressions in its history. To many, it did feel like the end of the world. And discourse around Revolution was not far off. (We'll get more into that in an upcoming *Evangelion* video, I promise.)
 
 And if Japanese Youth of the 90s got it anything like Millennials of the late 2000s got it, then it would have seemed like the entire weight of the world was imparted on *their* shoulders to fix things, all the while the powers at be insisting that fixing things was the responsibility of the nation's youth, simultaneously *scolded* them for talking about upsetting The Establishment Values that led to these hardships in the first place.
 
+</james>
+<from></from>
+<james span=3 {% include timecode %}>
+
 Especially towards the end of the second arc, discourse around growing up takes a a central role as a driving theme. (😏) And then suddenly we get the third season and everyone is in cars and their shirts are flying off and... <mark yikes>Is Akio fucking Touga?! Not that Akio doesn't have these chaotic Bi vibes but... what does a casual approach to sexuality have to do with cars?</mark>
 
 </james>
-<from></from>
-<comment id="bi_vibes">
-{% include header name="Beckyhop13" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/9" %}
+<comment {% include commenter for=deus %}>
 
-> Touga is a highschooler and Akio is an adult, so painting this as "chaotic Bi vibes" and "a casual approach to sexuality" is super gross.
+Says “Not that Akio doesn’t have those chaotic bi vibes” in response to Akio fucking Touga. Who is like. 17. Also a minor that Akio is abusing. It’s in extremely poor taste, especially with a previous joke about Anthy being a “bottom” because she’s submissive to Utena. He’s so fucking wishy washy about acceptive the sexual assault as a real concrete thing and then makes a joke about the other example of it. Lovely!
 
-{% include header for=tustin %}
+</comment>
+<comment {% include commenter name="Beckyhop13" link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/9" %}>
+
+Touga is a highschooler and Akio is an adult, so painting this as "chaotic Bi vibes" and "a casual approach to sexuality" is super gross.
+
+</comment>
+<comment {% include commenter for=tustin %}>
 
 This especially after James made a point in his narration to point out that Utena is supposed to be a middle schooler, and explicitly instructed us to remember that.
 
@@ -1028,19 +1236,28 @@ This especially after James made a point in his narration to point out that Uten
 
 Right, so, as indicated in an episode where Nanami's younger boyfriend desperately wants to be a grown-up so that he can interact with women the way that he sees older boy doing, there is a single line questioning when someone becomes an adult. The gang tosses around a few things that signify the kind of adulthood that they have in their mind. And one of them is driving a car.
 
+</james>
+<from></from>
+<james {% include timecode %}>
+
 And then the third arc becomes all about driving cars. Where we see Akio basically grooming the student body into helping him indoctrinate Utena. These scenes can be read as an older man ushering high school students into adulthood (at times before they're ready) but also certainly on his terms and not theirs. 
 
 Akio's depiction of adulthood is suave, mysterious, and sexy. Even though his promises seem to ring "adulthood", there's an unspoken reminder that they are in *his* car. Even during the duel where each respective pretender bride is driving around trying to vehicular manslaughter Utena, they are in *his* car. They are not in their *own* cars. 
+
+</james>
+<from></from>
+<james {% include timecode %}>
 
 It's not until Souji begins to question why Touga is letting himself be manipulated into being Akio's wingman that we see them in their own vehicle. With Touga driving Souji. A scene we can read as these two young men breaking away from the patterns of manipulation and oppression that have been established by the adults in their lives.
 
 And that isn't to say that either of these young men don't have *a lot* to make up for. But they have a better shot at doing the right thing while cutting their own path, rather than being under the tutelage of someone like Akio. This is doubled down on in the movie, where the student council members including Souji appear at the end to help Anthy escape.
 
 </james>
-<from></from>
-</compare>
+<comment {% include commenter for=deus %}>
 
-<compare>
+Solid enough point.
+
+</comment>
 <james {% include timecode %}>
 
 So, what is revolution? In probably the most postmodern turn of events, that's never made clear. What exactly is this power that everyone wanted to use, abuse, and exploit Anthy and/or women in general to get a hold of? What made all of *this* worth it? Especially because the power is found in a castle in the sky that is described as an illusion generated by a holographic machine, but described by a character who is *routinely* outlined as being unreliable.
@@ -1059,25 +1276,36 @@ He was already doing a bang up job at finding a horde of people to ship his sist
 Is this a good place to mention that corrective rape is the most common form of sexual assault imposed on lesbians, asexuals, and transmen? And it means exactly what it sounds like.
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+[He] has the gaul to bring up how corrective rape is often used on lesbians, asexuals, and trans people after he called all of the explicit sexual abuse in the show “non literal” or joked about it.
+
+</comment>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-And while he may express disappointment Utena for not being able to bring Revolution
-to the world, he's met with a nasty surprise that the key to his martyrdom is suddenly making decisions for herself. And worse yet, using that new power to leave him. So we the audience can easily interpret that as a victory in spite of Utena's apparent defeat. That, yes, she somehow *did* manage to use the power of Revolution, and she used it in an impossible selfless way. She liberated her best friend from a toxic power dynamic she had with her family. 
-
-And for those who *know*, getting someone to abandon a toxic family environment, even if it is emotionally and psychologically damaging, is next to impossible. Many people who try to separate a friend from a toxic family end up having to abandon their friendship to protect their own mental health. Through a not-so-allegorical reading, we can say Utena did the same. That ultimately in spite of her bravado and nobility, she had to throw in the towel.
-
-Anime can show teenagers saving the world from interdimensional vampires (all it once), presenting a story where a teenager can engage with deeply toxic authority figures without
-deep-seated emotional scars is always going to be more unrealistic. Anthy's final decision to leave the school and find Utena speaks to her acknowledgement that she has been a participant in this. And that she wants to make things right.
+And while he may express disappointment Utena for not being able to bring Revolution to the world, he's met with a nasty surprise that the key to his martyrdom is suddenly making decisions for herself. And worse yet, using that new power to leave him. So we the audience can easily interpret that as a victory in spite of Utena's apparent defeat. That, yes, she somehow *did* manage to use the power of Revolution, and she used it in an impossible selfless way. She liberated her best friend from a toxic power dynamic she had with her family. 
 
 </james>
 <from></from>
-</compare>
+<james {% include timecode %}>
 
-<compare>
+<mark fc>And for those who *know*, getting someone to abandon a toxic family environment, even if it is emotionally and psychologically damaging, is next to impossible.</mark> Many people who try to separate a friend from a toxic family end up having to abandon their friendship to protect their own mental health. Through a not-so-allegorical reading, we can say Utena did the same. That ultimately in spite of her bravado and nobility, she had to throw in the towel.
+
+</james>
+<comment {% include commenter for=deus %}>
+
+Hm I wonder why that is James. I wonder if Anthy had to make that decision for herself James. I WONDER IF YOU SHOULDN’T BE GIVING UTENA ALL THE CREDIT JAMES.
+
+</comment>
+<james {% include timecode %}>
+
+Anime can show teenagers saving the world from interdimensional vampires (all it once), presenting a story where a teenager can engage with deeply toxic authority figures without deep-seated emotional scars is always going to be more unrealistic. Anthy's final decision to leave the school and find Utena speaks to her acknowledgement that she has been a participant in this. And that she wants to make things right.
+
+</james>
+<from></from>
 <james {% include timecode %}>
 
 This also echoes the final act of *Adolescence of Utena*, where she becomes the *literal vehicle* of anthy's escape, rather than the figurative vehicle in the anime. However, this is a postmodern reading, which means this isn't Utena, Anthy. and Akio, but a new wave of unconventional women, the suffering and victimhood of all women, and the patriarchal values that oppress women. Utena prophesies women and their struggle to free themselves from victimhood, and how this uphill battle will have casualties. 
@@ -1100,14 +1328,25 @@ Though as more information is revealed to Utena, she remembers that no it was no
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Utena sees this as injustice, and her vow to become a prince is not in honor of the prince who rescued her. Her bravado is not due to a pep talk from a handsome man. Her drive to become a prince, her will, her determination, her very driving motivation that she herself does not remember, is to free Anthy from the swords of men who somehow believe that *all* women are responsible for the suffering of the world, and that a woman's only contribution in this world is to endure suffering. For the benefit of a man.
 
 Utena's princely quest is not just to rescue Anthy, but to rescue all the damsels in distress, to rescue all women from suffering, by empowering them to rescue themselves.
 
 </james>
-<from></from>
+<comment {% include commenter for=deus %}>
+
+So his final conclusion is to take Utena’s princehood and savior position at face value, then add on that she’s “empowering them to save themselves” even though he did not at all pay attention to that aspect of Anthy’s character, only adding it in at the very end. Cool.
+
+Overall, this is a very shallow take on the source material. It doesn’t seem to be plagiarized from what others online are saying, but honestly you can already tell that because if he’d plagiarized from any half decent Utena analyst it would’ve been better than this. Go watch Revolutionary Girl Utena for yourselves everyone, it’s been uploaded on youtube for a while now so it’s very easy to find.
+
+</comment>
+<comment {% include commenter for=tustin %}>
+
+Deus and the Machina recommends a few replacements at the end of their document, which I have put at the top of this transcript in the Recommended Replacements section. (Click the yellow rectangle.)
+
+</comment>
 </compare>
 
 <compare>

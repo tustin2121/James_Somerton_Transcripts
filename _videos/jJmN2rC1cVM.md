@@ -32,10 +32,10 @@ cite:
   misinformation: !!map
     malfoy_trans: "James spreads a viral hoax about Draco Malfoy being trans-supportive."
   plagiarized: !!map
-    gardner: { color: 4, short: "Breakdown (Gardner, 2023)", full: "Gardner, A. (2023, Feb 7). <em>A Complete Breakdown of the J.K. Rowling Transgender-Comments Controversy</em> [Article]. Glamour.", url: "https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy", archive: "https://web.archive.org/web/20230207232206/" }
-    amnesty: { color: 3, short: "Digital Safeguarding (Amnesty UK, 2023)", full: "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", url: "https://www.amnesty.org.uk/digital-safeguarding-guidance" }
-    uppercut: { color: 5, short: "(Abrahamson, 2022)", full: "Abrahamson, M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", url: "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/" }
-    nava: { color: 12, short: "Troubling Antisemitic References (Nava, 2023)", full: "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", url: "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/" }
+    gardner: { color: 4, short: "Breakdown (Gardner, 2023)", full: "Gardner, A. (2023, Feb 7). <em>A Complete Breakdown of the J.K. Rowling Transgender-Comments Controversy</em> [Article]. Glamour.", url: "https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy", archive: "https://web.archive.org/web/20230207232206/" }
+    amnesty: { color: 3, short: "Digital Safeguarding (Amnesty UK, 2023)", full: "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", url: "https://www.amnesty.org.uk/digital-safeguarding-guidance" }
+    uppercut: { color: 5, short: "(Abrahamson, 2022)", full: "Abrahamson‚ M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", url: "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/" }
+    nava: { color: 12, short: "Troubling Antisemitic References (Nava, 2023)", full: "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", url: "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}

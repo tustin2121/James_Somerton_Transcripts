@@ -654,6 +654,12 @@
 			animation-timeline: scroll(self inline);
 		}
 	}
+	@supports not (animation-timeline: scroll(self inline)) {
+		/* Just give up at this point... */
+		.recs-list > div {
+			justify-content: start;
+		}
+	}
 	
 	.rec {
 		display: flex;
@@ -696,6 +702,11 @@
 	}
 	.rec h3:empty::before {
 		content: none;
+	}
+	.rec h4 {
+		padding: 0; margin: 0;
+		font-size: small;
+		text-align: center;
 	}
 }
 

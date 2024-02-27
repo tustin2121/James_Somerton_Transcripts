@@ -15,6 +15,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - short-advert
+  - feb26-unprivate
 
 contributors:
   downloaded: $cite$TerraJRiley

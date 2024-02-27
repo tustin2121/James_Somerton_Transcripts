@@ -24,8 +24,8 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    tinker_belles: { color: 3, short: "(Griffin, 2000)", full: "Griffin, S. (2000). <em>Tinker Belles and Evil Queens: The Walt Disney Company from the Inside Out</em> New York. New York University Press.", url: "https://www.jstor.org/stable/j.ctv12pnpj2", type: "book", style: 'book' }
-    queer_mulan: { color: 5, short: "(Tom, 2018)", full: "Tom, J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", url: "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/" }
+    tinker_belles: { color: 3, short: "(Griffin, 2000)", full: "Griffin, S. (2000). <em>Tinker Belles and Evil Queens: The Walt Disney Company from the Inside Out</em> New York. New York University Press.", url: "https://www.jstor.org/stable/j.ctv12pnpj2", type: "book", style: 'book' }
+    queer_mulan: { color: 5, short: "(Tom, 2018)", full: "Tom‚ J. (2018, Jun 5). <em>The Groundbreaking Queerness of Disney's 'Mulan'</em> Shondaland. Retrieved Jan 25, 2024, from", url: "https://www.shondaland.com/live/a21073307/disney-mulan-queerness/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
@@ -501,6 +501,9 @@ remain a beast permanently The Narrative contrives to have him at the brink of
 death just as the last Petal Falls from the flower this messaging was adopted by
 many people hospitalized with the disease at the time those who knew they were
 near death would ask for a pink rose to sit on their bedside a beautiful ticking
+
+<!-- Todd's comment about the "pink rose" being red was considered and deemed far too insignificant to even include. -->
+
 clock counting down to when they too would be lost forever lesbian and gay
 employees of the theme parks remarked on how many of their friends with AIDS
 desired to visit Disneyland and Walt Disney World one last time also many AIDS
