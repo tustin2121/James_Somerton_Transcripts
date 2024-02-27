@@ -16,7 +16,9 @@
 			--mark-stolen-bg: #47005b;
 			--mark-source-text: #c9d1d9;
 			--mark-source-bg: #033a16;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #ffffff;
 			--mark-yikes-border: #668701;
 			--mark-yikes-text: #f6fdeb;
 		}
@@ -38,7 +40,9 @@
 			--mark-stolen-bg: #f4ccff;
 			--mark-source-text: #000000;
 			--mark-source-bg: #abf1c4;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #000000;
 			--mark-yikes-border: #4f6706;
 			--mark-yikes-text: #1b2207;
 		}
@@ -324,9 +328,15 @@
 	compare :is(james, nick, clip, from) mark[fc] {
 		background-color: unset;
 		/* border: solid 1px var(--mark-misinfo-border); */
-		text-decoration: var(--mark-misinfo-border) wavy underline 1px;
+		text-decoration: var(--mark-misinfo-neutral-border) wavy underline 1px;
 		text-decoration-style: dotted;
 		text-underline-offset: 2px;
+	}
+	compare :is(james, nick, clip, from) mark[fc=false] {
+		text-decoration-color: var(--mark-misinfo-false-border);
+	}
+	compare :is(james, nick, clip, from) mark[fc=true] {
+		text-decoration-color: var(--mark-misinfo-true-border);
 	}
 	compare :is(james, nick, clip) mark[yikes] {
 		background-color: unset;
@@ -774,6 +784,11 @@
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);
+	}
+	
+	compare comment {
+		--source-color: var(--box-border-comment);
+		border-color: var(--source-color);
 	}
 	
 	.srcstyle-book {

@@ -2,7 +2,7 @@
 redirect_from:
   - "/videos/qvu84kjtgve"
 
-date: 2020-09-10
+date: 2020-07-20
 title: "Evil Queens: A Queer Look at Disney History"
 status: Auto
 aka: !!seq
@@ -48,6 +48,15 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="58:51" for="A New Era" %}  
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+This video was originally released on July 20th, 2020. In the Patreon Post announcing it, James claims to have accidentally publicly released it, and it was supposed to be Patreon-exclusive for a while.
+
+On September 5th, 2020, James was called out by someone about how this video plagiarized whole pages from *Tinker Belles and Evil Queens* by Sean Griffin. James promptly took the video down and sent an email to Griffin asking if he could use the video. He put the video back up on September 10th with added crediting in the video's opening title sequence.
+
+Sean Griffin himself [wrote a blog post](https://www.fromthesquare.org/how-my-book-became-the-subject-of-a-youtube-scandal-by-sean-griffin/) [[archived](https://web.archive.org/web/20240217204808/https://www.fromthesquare.org/how-my-book-became-the-subject-of-a-youtube-scandal-by-sean-griffin/)] about the whole experience from his perspective. He didn't want to get dragged into this drama against his will. (Griffin has turned down HBomberGuy's offer to be compensated, as he was not struggling financially.)
+
+</comment>
 </compare>
 
 {% include transcript-start %}

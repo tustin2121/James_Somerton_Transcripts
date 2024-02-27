@@ -67,6 +67,15 @@ PATRON: [link]
 {% include chapter-link at="59:35" for="Part 4: They Isolate You" slug="Part IV: They Isolate You" %}  
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+James in the infamous "Well today's been fun!" live stream where the accusations of plagerism started. After vaguely mentioning about stealing from [AreTheyGay in Unrequited](m8DRQ9-sCSI), and getting "permission" for [Evil Queens](Qvu84kjtGvE), he says this: 
+
+> And then there was the silly one about the Hannibal video, <u>[laughing]</u> um... which I talked about before, but it's, um... it was, uh.... a younger YouTuber. She made a mistake. It was, you know, she and I... She and I spoke to each other and... you know, she apologized and everything and there's nothing... there, no kind of drama or anything there.
+
+<u>[TODO figure out what he's talking about.]</u>
+
+</comment>
 </compare>
 
 {% include transcript-start %}
