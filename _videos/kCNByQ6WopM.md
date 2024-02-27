@@ -33,6 +33,7 @@ cite:
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
+{% assign kenm = site.data.cite.kenm %}
 {% assign hbomb = site.data.cite.hbomb.video %}
 {% assign rebo = page.cite.rebo %}
 
@@ -108,7 +109,7 @@ And so I tried speaking for everyone. And this was a horrible mistake. What I th
 Notice how he's tried to shift this away from being an apology for plagiarism and into something murkier that he can portray as an innocent mistake? And even when he's trying to apologise, he's still rationalising his behaviour and trying to get you to sympathise with him. Guys, seriously, he just wanted to be a good representative of the LGBT community, he just went about it the wrong way!
 
 </comment>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 This fell upon Nick, as well, as a non-binary person on the ace spectrum, they wanted to include asexuality and non-binary representation in our videos. But because Nick's experience is not *universal*... (there is no universal experience...) people felt that we were de-legitimizing their own experiences... *because* we focused on Nick's, and I apologize for that. <mark num=1 fc>And I'm sure that Nick does as well.</mark> 
 
@@ -286,18 +287,26 @@ This led to a lot of... copy and pasting... blocks of text into scripts. <mark n
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 But &mdash; and <mark num=1 fc>here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child.</mark> Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a excuse anyway.
 
-<mark num=2 fc>The head injury is actually what led to me having epilepsy, which is why I can't work in any job that involves physical labor.</mark> Employers can't get insurance for me to, like, lift things or operate vehicles and stuff like that. I actually did marketing for a restaurant group for a little while, but got let go when they found out that I was epileptic because, at least according to *them*, I couldn't be insured to be in the kitchens... where I needed to be to film videos and take photos and stuff like that. But anyway.
+The head injury is actually what led to me having epilepsy, which is why I can't work in any job that involves physical labor. Employers can't get insurance for me to, like, lift things or operate vehicles and stuff like that. I actually did marketing for a restaurant group for a little while, but got let go when they found out that I was epileptic because, at least according to *them*, <mark num=2 fc>I couldn't be insured to be in the kitchens...</mark> where I needed to be to film videos and take photos and stuff like that. But anyway.
 
 </james>
 <comment {% include commenter for=rebo %}>
 
 <mark num=1></mark>He claims he's talked about this before but he knows "some people" will call bullshit anyway. Well, yea, James, we're calling bullshit but not because you didn't talk about your head injury enough. It's because you're to claim you have a disability that causes you to accidentally plagiarise people and then forgot you did it.
 
-<mark num=2></mark>Look, I'm not going to engage in ableist shit about whether this is true, I don't know him. But I do think the only reason James is talking about this is because people have been telling him his career is over since the last apology video and saying he should go work in retail. So he's bringing this up as both an excuse for what he did to other people, and a justification for why he should just be allowed to keep making videos guuuuuuys
+</comment>
+<comment {% include commenter for=tustin %}>
+
+<mark num=1></mark>James has never mentioned epilepsy in a main-channel video before, and most people on the former fans discord could not remember him discussing it before. We do have evidence of him mentioning it 2-3 times in as many "Podreon" episodes, and he might have mentioned it on-stream (but we don't have transcripts for those at time of writing).
+
+</comment>
+<comment {% include commenter for=kenm %}>
+
+<mark num=2></mark>Epileptics are allowed to be in kitchens.
 
 </comment>
 </compare>
@@ -305,14 +314,9 @@ But &mdash; and <mark num=1 fc>here's something... I'm sure a lot of people will
 <compare>
 <james {% include timecode %}>
 
-When it came to editing the scripts, I couldn't remember what I'd written and what had been copy-pasted. <mark num=1 fc>We should have just chucked out *everything* that I had put into the script and filled them in with *wholly* original thoughts.</mark> Or I should have been taking notes on where things came from so that we could at least cite them in the video, if nothing else. But I never did that.
+When it came to editing the scripts, I couldn't remember what I'd written and what had been copy-pasted. We should have just chucked out *everything* that I had put into the script and filled them in with *wholly* original thoughts. Or I should have been taking notes on where things came from so that we could at least cite them in the video, if nothing else. But I never did that.
 
 </james>
-<comment {% include commenter for=rebo %}>
-
-<mark num=1></mark>Once more trying to brush this off as an innocent mistake and a citation error. What he isn't saying [here] is that he's trying to give the audience [a reason] for why he hasn't sent any information to HBomb and Kat Lo on all the people he plagiarised so they can be compensated from the Plagiarism video. 
-
-</comment>
 <james {% include timecode %}>
 
 According to my... therapist, my not thinking to do that <mark num=1 fc>probably stems from my recently diagnosed ADHD</mark>, but I don't know if I'm willing to... *say* that really. Maybe it was? Or maybe it was just plain laziness. Maybe I thought that this was somewhere that I could cut a corner because I was torn in so many other directions. Honestly, I can't remember &mdash; like I said, memory issues. But, yes, we should have just thrown out my contributions to the scripts and filled them in with original writing... <mark num=2 fc>but we felt like we had too much of a time crunch. We felt like we had to get videos out more often to feed the algorithm.</mark> 
@@ -340,11 +344,6 @@ And then my mom died... and I became completely useless. I couldn't think straig
 There was supposed to be a buffer here, money-wise, as my mom had a life insurance policy that was going to be split between my dad and myself. But the insurance company (RBC Insurance so if you have insurance with them, maybe rethink that) uh, refuse to pay out the policy because my mother never mentioned that she had family with diabetes. *She* didn't have diabetes, but because she didn't think to mention that she had family with diabetes, it apparently voided the policy. All they did was refund a year's worth of premiums that she'd paid even, though she'd been paying them for about 15 years...
 
 </james>
-<comment {% include commenter for=rebo %}>
-
-[He] decides this is a good time to warn people not to get life insurance with that company! In his apology video! By the way this life insurance story? This was the one James told when he posted [the infamous update](XYESkleNUSA) implying his channel was on the edge of destruction to goose his Patreon numbers, then blew all the money on $8000 worth of cameras. No, he does not address this.
-
-</comment>
 <james {% include timecode %}>
 
 One of the things &mdash; the main thing, really &mdash; that I was supposed to do with my portion of the insurance money was I was supposed to make a movie. These were direct instructions from my mom, herself. She'd been *very much* behind me when I decided&mdash; when I was about 10, that I wanted to be a filmmaker. And she wanted me to finally have the opportunity to do that, even if she never got to see it. So when the life insurance... went bust... I decided to try and crowdfund it. At least enough to make a short film or two.This is what... Telos grew out of. 
@@ -594,13 +593,23 @@ Less than four minutes left and he's justifying all the work he stole from Cellu
 But I don't think I ever mentioned his name in those videos. He was cred&mdash; like I said, his name's in the opening credits. But I don't think I ever... verbally mentioned his name. Someone who I have *so much* respect for, who's kind of an idol of mine, and... I never mentioned his name. It wasn't because I didn't respect him or anything like that... and it also wasn't because I wanted people to think that this was all me, agai&mdash; if&mdash; if that was the case I wouldn't have put his name in the in the credits. I never... wanted people to think that this was all me.
 
 </james>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-So that's actually one of the videos I want to make... I want to make a... documentary-style video talking about Vito Russo... and his life, and everything that he accomplished. 'Cause he didn't just write *The Celluloid Closet*, he did a lot more than that. He's someone that people *should know* about. 
+So that's actually one of the videos I want to make... <mark num=1 fc>I want to make a... documentary-style video talking about Vito Russo...</mark> and his life, and everything that he accomplished. 'Cause he didn't just write *The Celluloid Closet*, he did a lot more than that. He's someone that people *should know* about. 
 
 Obviously, people can research him, uh, there's books about him. But I know, you know, it's easier to sit down and watch a 20 or 30 minute YouTube video than it is to read a book. I'd like to make a video about Vito Russo, properly cited, and not just, you know, copy-pasted from a book. I want to do the work.I want to *prove*, not just to you, but to myself, that I *can* do the work. And that's why I've started making these documentaries, working on these. 
 
 </james>
+<comment {% include commenter for=lvence %}>
+
+<mark num=1></mark>James, don't do it.
+
+</comment>
+<comment {% include commenter for=tustin %}>
+
+James does seem to have a weird obsession with The Celluloid Closet, seeing as he's [used](m8DRQ9-sCSI) it in (at [least](4YWslnyUxcs)) three-to-eight [different](pW_RjbZYi1s) videos before (depending on how you count the multipart videos).
+
+</comment>
 <james {% include timecode %}>
 
 I can't... <u>[long moment of contemplation]</u> I can't really put into words how sorry I am. I've tried. I've tried writing... like a blog entry... to say that I was sorry for about two months now... and I just can't... I can't get across how sorry I am. And I know actions speak way louder than words. And I hope, with my actions, that I can show you... that I am sorry.
