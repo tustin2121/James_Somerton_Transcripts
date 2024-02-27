@@ -95,7 +95,7 @@ I also want to apologize to my audience, though. You trusted me to be a good rep
 
 <mark num=2></mark>He says that because of this, he "used their own words." Does not acknowledge that his "use" was literally taking their words and rewriting them to sound like they were his own words.
 
-<mark num=3></mark>James frequently ignored other queer YouTubers and writers unless they were promoting his channel. And oh yea, plagiarising their words? THAT MEANS YOU WANTED TO BE THE ONLY VOICE!
+<mark num=3></mark>James frequently ignored other queer YouTubers and writers unless they were promoting his channel.
 
 </comment>
 <james {% include timecode %}>
@@ -119,7 +119,10 @@ He claims a "non-binary person on the ace spectrum" wanted to include asexuality
 
 [Also,] First instance of directly blaming Nick for something he did. 
 
-<mark num=1></mark>As a chaser, "I apologise for that and I'm sure that Nick does as well" NICK ISN'T ASSOCIATED WITH YOU ANYMORE YOU BUTTHEAD
+</comment>
+<comment {% include commenter for=tustin %}>
+
+<mark num=1></mark>Can James even apologize on behalf of Nick? Pretty sure they're not on speaking terms any longer...
 
 </comment>
 </compare>
@@ -445,18 +448,14 @@ We'd had a meeting about it, and we were talking about how best to move forward,
 </james>
 <james {% include timecode %}>
 
-We were in over our heads once we left the East Coast. <mark num=1 fc>But the intention was never *ever* to take the money and run.</mark> I was so insanely excited about getting to make Telos a reality. I was excited about getting to make a *short* film, let alone a feature. It's always been my dream to make movies. So Telos meant... and *means*... the world to me.
+We were in over our heads once we left the East Coast. But the intention was never *ever* to take the money and run. I was so insanely excited about getting to make Telos a reality. I was excited about getting to make a *short* film, let alone a feature. It's always been my dream to make movies. So Telos meant... and *means*... the world to me.
 
-<mark num=2 fc>For Nick, it was a very exciting project, but not his passion.</mark> Nick wanted to write novels, he still does. Nick looked at this as a good creative outlet that was way more fulfilling than writing video essays. I should have stayed where I was, and not gone to Ontario. The move uprooted... *everything* that was solid about Telos, and it took a whole year to get it back onto even anything close to stable footing.
+<mark num=21 fc>For Nick, it was a very exciting project, but not his passion.</mark> Nick wanted to write novels, he still does. Nick looked at this as a good creative outlet that was way more fulfilling than writing video essays. I should have stayed where I was, and not gone to Ontario. The move uprooted... *everything* that was solid about Telos, and it took a whole year to get it back onto even anything close to stable footing.
 
 </james>
 <comment {% include commenter for=rebo %}>
 
-<mark num=1></mark>THEN WHERE'S THE MONEY JAMES?!
-
-<mark num=2></mark>Also 5th bus toss on Nick, he claims making movies just wasn't Nick's *passion*. Also suggests Nick didn't even want to write videos? I mean I guess that explains why Nick claimed they were lazy about research.
-
-JAMES WHERE IS THE MONEY AND WHY DIDN'T YOU KEEP YOUR BACKERS UPDATED!? If you had casting calls, storyboards, script drafts, costume designs and walls of photos, why didn't share any of this?! Multiple backers reached out to you and got either radio silence or in the case of the Ace Couple, direct harassment.
+<mark num=1></mark>5th bus toss on Nick, he claims making movies just wasn't Nick's *passion*. Also suggests Nick didn't even want to write videos? I mean I guess that explains why Nick claimed they were lazy about research.
 
 </comment>
 <james {% include timecode %}>
