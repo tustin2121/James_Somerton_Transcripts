@@ -89,6 +89,14 @@ So I just wanted to ask to share this video if you can. To let more people know 
 
 I've also added a very *special* new tier: the Angel Investor Tier. This is for someone with *way* too much money on their hands, but wants to see a specific type of queer story told. You get all the perks of the Telos founder tier, plus you get to pitch and idea to Telos that we'll figure out how to make happen. The link to the IndieGoGo campaign is in the description of this video, where you can also ask me *any* questions that you might have about Telos Pictures. 
 
+</james>
+<comment {% include commenter for=tustin %}>
+
+The "Angel Investor" tier is $3,000 Canadian. Before this, the highest tier was "Executive Producer" at $1,000 Canadian, which is the tier [the Ace Couple paid for](https://theacecouple.com/episode116/).
+
+</comment>
+<james {% include timecode %}>
+
 So again, thank you so much for everything you've done for us. A month ago, Telos was a dream of an idea. Now it's real, and becoming stronger and clearer every single day. Something that's given *me*  hope at a time that so many politicians are trying to erase us. And that hope is all because of you! Thank you... *all*... so much, *truly, honestly*, from the bottom of my heart, thank you so much!
 
 </james>
