@@ -65,7 +65,7 @@ Video archives:
     {%- unless site.data.options.hide_video_links -%}
       <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
     {%- endunless -%}
-    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
+    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0/0.jpg" | relative_url }}" />
   </div>
 </div>
 
