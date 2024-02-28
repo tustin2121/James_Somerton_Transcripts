@@ -16,7 +16,7 @@ links: !!seq
 description: "A manipulative attempt at apologizing without actually apologizing. Trigger warning on the video and first paragraph."
 notes:
   - post-callout
-  - unscripted
+  - meta-video
 
 contributors:
   transcription: "[an anonymous pastebin user](https://pastebin.com/zDXsHrFv)"

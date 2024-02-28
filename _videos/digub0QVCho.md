@@ -177,6 +177,8 @@ The Queer Panic, or better known as gay or trans Panic. Defense has been a legal
 
 {% assign timecode = "00:05:18" %}
 
+<!-- LVence: Oh I should probably remind you of this. The first clip James play of news report at like 5 minutes for the gay panic video looks cropped. I can't find the report online so I didn't include it in my highlight. -->
+
 <compare>
 <james {% include timecode %}>
 

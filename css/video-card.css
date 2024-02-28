@@ -70,7 +70,7 @@
 	.video-card.podcast {
 		background-color: var(--video-box-bg-color-pod);
 	}
-	.video-card.unscripted {
+	.video-card.meta-video {
 		background-color: var(--video-box-bg-color-umm);
 	}
 	.video-card.post-callout {

@@ -1,9 +1,12 @@
 ---
 redirect_from:
   - "/videos/qvu84kjtgve"
+  - "/videos/5Iw43-kZVNI"
+  - "/videos/5iw43-kzvni"
 
 date: 2020-07-20
 title: "Evil Queens: A Queer Look at Disney History"
+runtime: 1:08:57
 status: Auto
 aka: !!seq
   - "Evil Queens：A Gay Look at Disney History (Video essay)"
@@ -15,6 +18,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
+  - meta
 
 recs:
   - { title: "What Makes Disney Villains so Gay?", author: "Matt Baume", url: "https://youtu.be/GsWpUSEKSbk?si=p6p1pfOs8STiMMAX" }

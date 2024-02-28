@@ -23,6 +23,7 @@ topics: !!seq
   - The Imitation Game / Rent
   - The Favorite
 links: !!seq
+  - "https://web.archive.org/web/20201204124414/https://www.youtube.com/watch?v=P_mLM6fUhHQ&gl=US&hl=en"
   - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
 description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:

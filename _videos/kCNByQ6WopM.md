@@ -15,7 +15,7 @@ links: !!seq
 description: "A video wherein James vows to make things right again and to pick up where he left off in terms of making videos, among many other empty words."
 notes:
   - post-callout
-  - unscripted
+  - meta-video
 
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
@@ -541,6 +541,11 @@ I have no sponsors now, so... probably not going to be two videos a month. It'll
 The point being it was never *malicious*. We didn't... we weren't trying to *lie* about things, despite what a lot of people think. We were not trying to spread misinformation. That was not *ever* our intention. And that's something else that I want to apologize for.
 
 </james>
+<comment {% include commenter for=kenm %}>
+
+James's claim that the misinformation was simply misremembered or repeated from erroneous sources (rather than maliciously invented) seems very unlikely. [Todd’s video]({{ site.data.cite.todd.video.url }}) proved that many of his claims comes from chunks of text lifted wholesale from other sources, except for the wrong information that inserted into it or in some cases actively rewrote, often contradicting his source.
+
+</comment>
 <james {% include timecode %}>
 
 As for my Patreon. everyone can stop worrying about me relaunching it right in time for a billing cycle. That will not be happening. I don't want anyone who... either doesn't know about the plagiarism or simply forgot to unsubscribe to get billed. So... I'm going to start from zero. I have put together a new patreon account.

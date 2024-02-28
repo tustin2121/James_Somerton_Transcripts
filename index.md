@@ -115,7 +115,7 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
-  <label><input type="checkbox" id="view-umm" /> Show unscripted videos</label>
+  <label><input type="checkbox" id="view-umm" /> Show meta videos</label>
   <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>

@@ -10,6 +10,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://web.archive.org/web/20200810171203/https://www.youtube.com/watch?v=4zPCM14-SCQ"
 # description: "a video essay on...?"
 notes:
   - hbomb
