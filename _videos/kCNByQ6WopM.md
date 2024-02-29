@@ -60,6 +60,11 @@ Uh, just a disclosure: this video *is* monetized, but revenue from it will be se
 Uh, you may have also noticed that a few of my past videos have gone up on the channel again, and revenue from *those*, as well, will also be sent along with the revenue from this video.
 
 </james>
+<comment {% include commenter name="@Hbomberguy" link="https://vxtwitter.com/Hbomberguy/status/1762965666003603610" %}>
+
+![@QueenMomichan: I’m so curious if James Somerton has actually reached out to you or your team about the funds from his “Measured Reaponse” video / @Hbomberguy: He has not!](../media/receipts/apology2_hbomb.png)
+
+</comment>
 </compare>
 
 {% assign timecode = "00:45" %}
@@ -80,6 +85,8 @@ Mick Abrahamson (his work stolen in the [Hogwarts Legacy](jJmN2rC1cVM) video) [m
 David Demchuk (the [Hannibal video](ZDgWHNDdwoU) and not-quite-mentioned in [James's library talk](SMqbxh0zkW0)) mentioned [getting one as well](https://twitter.com/david_demchuk/status/1747729128181092673) {% include twitter-mirror link="https://twitter.com/david_demchuk/status/1747729128181092673" %} but not having the energy to even open it.
 
 Alexander Avila (his videos used in [Unrequited](m8DRQ9-sCSI)) confirmed that [James never reached out to him](https://twitter.com/aretheygay/status/1762301894431490514) to apologize, and that he was still blocked by him. {% include twitter-mirror link="https://twitter.com/aretheygay/status/1762301894431490514" %}
+
+Katelyn Burns (plagiarized in [the JKR Bad video](xLuNGhQPDHM)) also [implied she never was contacted by James](https://twitter.com/transscribe/status/1762369114696220973). {% include twitter-mirror link="https://twitter.com/transscribe/status/1762369114696220973" %}
 
 </comment>
 {% assign timecode = "1:33" %}
