@@ -42,6 +42,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Harry Potter and All The Crap 

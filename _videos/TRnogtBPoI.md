@@ -28,6 +28,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Part 3 (not 2. Unlike what it says in the opening title card SMH) of a video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.

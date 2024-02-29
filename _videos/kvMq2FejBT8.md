@@ -86,6 +86,7 @@ cite:
 </compare>
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A dive into Revolutionary Girl Utena, and what this iconic anime means today.

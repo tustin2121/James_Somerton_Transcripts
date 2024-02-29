@@ -23,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 In this episode I talk about DC's attempts at created a cinematic universe like Marvel's, how they're failing, and how they could make it succeed.

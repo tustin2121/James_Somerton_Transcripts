@@ -38,6 +38,15 @@ cite:
 {% assign rebo = page.cite.rebo %}
 
 <compare>
+{% include thumbnail-history video=page %}
+<credits class="desc">
+
+[...]
+
+</credits>
+</compare>
+
+<compare>
 <credits {% include timecode %}>
 
 <u>[On screen over black]:</u>

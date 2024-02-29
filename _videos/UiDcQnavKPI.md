@@ -62,6 +62,7 @@ cite:
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 What is shipping? Why do we do it? And what does it mean for LGBT representation?

@@ -4,6 +4,7 @@ redirect_from:
   - "/videos/gQVWepgSvfg" # original upload
   - "/videos/gqvwepgsvfg"
 
+prev_ids: [ "gQVWepgSvfg" ]
 date: 2022-09-19
 title: Reclaiming the "Q" Word
 status: Auto
@@ -25,6 +26,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 *Re-upload*

@@ -7,6 +7,7 @@ redirect_from:
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
+prev_ids: [ "5RPsRpk8aKA" ]
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'
 status: Finished
@@ -55,6 +56,7 @@ cite:
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits header="Video Description (Original):">
 
 There might be a lot less going on in "Attack on Titan" than you think.
@@ -106,7 +108,7 @@ Patron: [link]
 
 
 <compare>
-<credits {% include timecode %}>
+<credits header="Title Card:">
 
 > Content Warning:  
 Fascism and Anime
@@ -447,7 +449,7 @@ To some fans, it all feels a little too close to the broad arc of most <mark>ant
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 <mark>This outrage should come as no surprise, knowing the history between Japan and Korea. But that is exactly what</mark> most <mark>people may not be aware of. Korea was occupied by Japan from 1910 to 1945, only one of many East Asian nations colonized by Japan as part of its growing Imperial presence</mark> at the time. 
 
@@ -516,7 +518,7 @@ Anime fans have gotten themselves into a tangle trying to decipher where Isayama
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 Looking at some of the major characters, <mark>would Hange not be just as disgusted with Japanese politicians denying war crimes</mark> against Koreans and <mark>rewriting history for textbooks</mark> as they are <mark>with the Wall Cult and the government that keeps secrets about Titans from the public?</mark> 
 

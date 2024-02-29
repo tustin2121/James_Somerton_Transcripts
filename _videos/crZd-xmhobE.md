@@ -23,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 I think Marvel has a problem on its hands, and in this video I fill you in on why I think so, and what they need to do to fix it.

@@ -40,6 +40,7 @@ cite:
 {% assign ace_062 = site.data.cite.ace_couple.ep062 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Something new to the channel! Maybe something we'll keep doing? Let us know what you think of this format!

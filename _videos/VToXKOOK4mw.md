@@ -31,6 +31,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 [???]

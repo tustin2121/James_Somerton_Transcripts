@@ -46,6 +46,7 @@ cite:
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 [Sponsor plug]

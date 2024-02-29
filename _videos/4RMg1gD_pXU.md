@@ -25,6 +25,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Concluding the story of the gay men lost to hatred during World War 2.

@@ -52,6 +52,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 JK Rowling has made her opinion of trans people clear, but where she stands in the hearts of the fans isn't nearly as obvious. Is enjoying Harry Potter also supporting Rowling by default? Or... can there be Harry Potter without JK Rowling?

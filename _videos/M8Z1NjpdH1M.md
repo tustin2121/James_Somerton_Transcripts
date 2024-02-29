@@ -90,6 +90,7 @@ cite:
 </div>
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A video essay delving into the horrors of society, and how they effect the queer population.

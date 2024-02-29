@@ -46,6 +46,7 @@ cite:
 ---
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 [Sponsor spot]

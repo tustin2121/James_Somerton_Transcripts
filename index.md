@@ -65,7 +65,7 @@ Video archives:
     {%- unless site.data.options.hide_video_links -%}
       <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
     {%- endunless -%}
-    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0/0.jpg" | relative_url }}" />
+    <img class="thumbnail" src="{{ "/media/thumbs/example.webp" | relative_url }}" />
   </div>
 </div>
 
@@ -116,7 +116,7 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
   <label><input type="checkbox" id="view-umm" /> Show meta videos</label>
-  <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">

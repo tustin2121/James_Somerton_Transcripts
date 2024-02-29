@@ -51,6 +51,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 From the toxic love of 'Hannibal' to the immortal gaslighting in Anne Rice's Vampire Chronicles...

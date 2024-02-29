@@ -34,6 +34,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A look at gay themes in JK Rowling's Harry Potter series. From Philosopher's Stone to Fantastic Beasts!

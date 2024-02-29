@@ -44,6 +44,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Nostalgia can be fun and whimsical... but it may also lead to the downfall of society. 

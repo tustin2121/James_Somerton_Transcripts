@@ -165,6 +165,7 @@ This thumbnail is [uncredited, stolen artwork](https://www.deviantart.com/ewasar
 </from>
 </compare>
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A look into what Film Theory is... what Queer Theory is... and why it does matter, actually.

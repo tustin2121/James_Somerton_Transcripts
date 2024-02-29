@@ -57,6 +57,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A lot of horrible things have happened because of the rise of the far right. But would you guess that the gay body image crisis is one of them?

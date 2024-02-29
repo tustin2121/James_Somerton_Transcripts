@@ -48,6 +48,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Why did Disney cancel The Owl House? Oh we know.

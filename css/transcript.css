@@ -242,9 +242,14 @@
 	compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
 	compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 	
+	compare james.deleted { border-color: red; }
+	/* compare james.deleted[timecode]::before   { content: 'James: (Deleted) (' attr(timecode) ')'; text-align-last: justify; }
+	compare james.deleted::before             { content: 'James: (Deleted) \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; } */
+	
 	compare credits.opening::before { content: 'Opening Credits:'; }
 	compare credits.closing::before { content: 'Closing Credits:'; }
 	compare credits.desc::before { content: 'Video Description:'; }
+	compare credits.thumb::before { content: 'Thumbnail History:'; }
 	compare credits[header]::before { content: attr(header); }
 	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 	
@@ -564,6 +569,23 @@
 	}
 }
 
+@layer source {
+	credits.thumb .entry {
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: space-evenly;
+		align-items: flex-start;
+		margin-block: 0.2em;
+	}
+	credits.thumb .entry img {
+		max-width: 60%;
+	}
+	credits.thumb .entry span {
+		margin-top: 1em;
+		min-width: 12ch;
+		text-align: right;
+	}
+}
 @layer source {
 	.lyrics {
 		margin-inline: auto;

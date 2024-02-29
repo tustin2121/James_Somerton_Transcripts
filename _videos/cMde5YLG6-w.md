@@ -23,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Disney has always had a problem with LGBT representation… but in the summer of 2021 they took it to a new level.

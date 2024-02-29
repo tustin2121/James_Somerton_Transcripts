@@ -52,6 +52,7 @@ factcheck:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 What started as a look at the anime "Banana Fish" turned into a deep exploration of why crime might just be essential to gay life.

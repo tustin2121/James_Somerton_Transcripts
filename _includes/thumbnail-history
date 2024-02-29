@@ -1,0 +1,23 @@
+{% comment %} Expected: video parameter {% endcomment %}
+{%- assign vids = include.video.prev_ids | push: include.video.slug -%}
+{%- assign all_thumbs = site.data.info.empty -%}
+{%- for vid in vids -%}
+	{%- assign thumb = "/media/thumbs/" | append: vid -%}
+	{%- assign thumb_exp = thumb | prepend: "file.path contains '" |  append: "/'"   -%}
+	{%- assign files = site.static_files | where_exp: "file", thumb_exp -%}
+	<!-- {{ files | map: "path" }} -->
+	{%- assign all_thumbs = all_thumbs | concat: files -%}
+{%- endfor -%}
+{%- if all_thumbs.size > 1 -%}
+	<credits class="thumb">
+		{%- for t in all_thumbs -%}
+			{%- capture date -%}
+				{{ t.basename | slice: 0, 4 }}-{{ t.basename | slice: 4, 2 }}-{{ t.basename | slice: 6, 2 }}
+			{%- endcapture -%}
+			<div class="entry">
+				<span>{{ date | date: "%b %d, %Y" }}</span>
+				<img src="{{ t.path | relative_url }}" />
+			</div>
+		{%- endfor -%}
+	</credits>
+{%- endif -%}

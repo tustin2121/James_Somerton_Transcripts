@@ -50,6 +50,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

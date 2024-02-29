@@ -26,6 +26,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Part 1 of a video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.

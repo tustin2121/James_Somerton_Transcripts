@@ -69,6 +69,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 The vastly ignored history of Germany's war on gay men during World War 2.

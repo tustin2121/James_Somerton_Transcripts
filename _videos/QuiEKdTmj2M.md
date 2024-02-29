@@ -35,6 +35,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Heartstopper by @aliceoseman is charming, cute, corny, adorable, and something we absolutely need right now.

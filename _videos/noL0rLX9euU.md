@@ -29,6 +29,7 @@ cite:
 ---
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 In the first episode of Film Theory, I have a look at what some are calling "The Death of the Summer Blockbuster"

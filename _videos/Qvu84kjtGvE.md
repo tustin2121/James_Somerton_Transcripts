@@ -1,9 +1,10 @@
 ---
 redirect_from:
   - "/videos/qvu84kjtgve"
-  - "/videos/5Iw43-kZVNI"
+  - "/videos/5Iw43-kZVNI"  # original upload
   - "/videos/5iw43-kzvni"
 
+prev_ids: [ "5Iw43-kZVNI" ]
 date: 2020-07-20
 title: "Evil Queens: A Queer Look at Disney History"
 runtime: 1:08:57
@@ -34,6 +35,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A deep dive into the history of LGBT representation (or lackthereof) in Disney films. From the Silly Symphonies to Star Wars and Marvel. 

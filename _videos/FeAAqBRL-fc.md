@@ -26,6 +26,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Six million jewish lost their lives within the hellish borders of death camps across Europe. But they weren't alone. Among them were Catholics, Roma, Communists and, the often ignored, gay men. 

@@ -21,6 +21,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 I went through a bunch of lists of “the best” LGBTQ movies and decided to put them in their place.

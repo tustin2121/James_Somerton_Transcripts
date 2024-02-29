@@ -74,6 +74,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.

@@ -30,6 +30,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include thumbnail-history video=page %}
 <credits class="desc">
 
 Queer as Folk revolutionized the portrayal of gay and lesbian characters on TV. So why did we forget about it?
