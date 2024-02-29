@@ -17,16 +17,36 @@ notes:
   - post-callout
   - meta-video
 
+recs:
+  - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
+  - { title: "Somerton Apology 2: Electric Boogaloo - is there actually a future for James?", author: "Council of Geeks", url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ" }
+  - { title: "James Somerton Apology 2/? | A Measured Reaction", author: "MATRIARCHETYPE", url: "https://www.youtube.com/watch?v=M5TKdYLUHIw" }
+
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
   formatting: $cite$tustin2121
   factcheck: "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
 
 cite:
-  rebo:
-    color: 18
-    name: "Rebochan"
-    link: "https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit"
+  responses:
+    council_of_geeks:
+      color: 5
+      short: "Vera Wylde"
+      url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ"
+    matriarch:
+      color: 7
+      short: "MATRIARCHETYPE"
+      url: "https://www.youtube.com/watch?v=M5TKdYLUHIw"
+    folding_ideas:
+      color: 3
+      name: "Dan Olsen"
+      link: "https://www.patreon.com/posts/djs0-99390338"
+    rebo:
+      color: 18
+      name: "Rebochan"
+      link: "https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit"
+  other:
+    recs: { _desc_: 'See the "Recommended Replacements" section below for responses to this video.' }
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
@@ -34,8 +54,13 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign lvence = site.data.cite.lvence %}
 {% assign kenm = site.data.cite.kenm %}
+
 {% assign hbomb = site.data.cite.hbomb.video %}
-{% assign rebo = page.cite.rebo %}
+
+{% assign rebo = page.cite.responses.rebo %}
+{% assign dan = page.cite.responses.folding_ideas %}
+{% assign matriarch = page.cite.responses.matriarch %}
+{% assign vera = page.cite.responses.council_of_geeks %}
 
 <compare>
 {% include thumbnail-history video=page %}
@@ -99,20 +124,30 @@ Katelyn Burns (plagiarized in [the JKR Bad video](xLuNGhQPDHM)) also [implied sh
 
 </comment>
 {% assign timecode = "1:33" %}
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-I also want to apologize to my audience, though. You trusted me to be a good representative of the queer community, and I was not that. I *tried* to be. <mark num=1 fc>I tried to be a voice for every member of the queer community</mark>, but that was a... failed endeavor... before it even started. I'm a cis white gay man. No matter *how* much I try to be a good *spokes*person... I can never really truly understand the life experiences of other far more put-upon members of the queer community. <mark num=2 fc>This is one of the reasons that I would use the their own words.</mark> But I should have made it very clear that that's what I was doing. 
+I also want to apologize to my audience, though. You trusted me to be a good representative of the queer community, and I was not that. I *tried* to be. <mark num=1 fc>I tried to be a voice for every member of the queer community</mark>, but that was a... failed endeavor... before it even started. I'm a cis white gay man. <mark num=2 fc>No matter *how* much I try to be a good *spokes*person... I can never really truly understand the life experiences of other far more put-upon members of the queer community. This is one of the reasons that I would use the their own words.</mark> But I should have made it very clear that that's what I was doing. 
 
-<mark num=3 fc>I never... ever... thought that I was the only voice out there</mark>, as some have said, but... being a cis white man, I thought I might be able to win over some people who... wouldn't otherwise listen, unless it was someone who looks and sounds just like them. 
+<mark num=3 fc>I never... ever... thought that I was the only voice out there</mark>, as some have said, but... <mark num=4 fc>being a cis white man, I thought I might be able to win over some people who... wouldn't otherwise listen,</mark> unless it was someone who looks and sounds just like them. 
 
 </james>
 <comment {% include commenter for=rebo %}>
 
 <mark num=1></mark>[James conveniently ignores] that multiple people contacted him before these claims came out and he either ignored them or harassed them.
 
-<mark num=2></mark>He says that because of this, he "used their own words." Does not acknowledge that his "use" was literally taking their words and rewriting them to sound like they were his own words.
-
 <mark num=3></mark>James frequently ignored other queer YouTubers and writers unless they were promoting his channel.
+
+</comment>
+<comment {% include commenter video=vera at="11m35s" %}>
+
+<mark num=2></mark>Like everything he says, this may or may not be true. But this is kind of a classic manipulation tactic, which is to speak to the purity of his intentions regardless of his actions.
+
+</comment>
+<comment {% include commenter video=vera at="2m10s" %}>
+
+<mark num=4></mark>The uncharitable version of that is he (a cisgender white man) felt he was *entitled* to just take these opinions and present them. But if *we're going to be generous* (which you do not have to be), but if we're going to be... there is some truth in the idea that, at the very least, other cisgender white guys... might be more willing to listen to him than... someone like me, or a queer person of color, or someone who's trans masculine or any number of things. There's some actual truth in that. 
+
+Of course, the way to counteract that is for you to not just regurgitate what other people said (without proper citation), but to to actually *bolster* them. [...] If you want to bolster other voices, yeah, you *can* and you *should*, but you do it by *literally bolstering them*, not stealing their words and slapping their name at the front end under an "inspired by" or "based on the works of" and not indicate what the hell it was they did!
 
 </comment>
 <james {% include timecode %}>
@@ -292,6 +327,22 @@ James claims there's no plagiarism in the videos he mentions (and which I have l
 
 Uh... it didn't take long for the channel income to start growing. Lucky timing, really, because this was around the same time that I was laid off since the company that I was working for downsized once Covid hit its second year. Nick and I had both grown up poor. So we started doing what we could to try and stabilize our income as much as possible. This meant putting out *more* videos, which meant I had to take over more of the *writing* duties, but since filming, editing &mdash; usually doing... multiple edits because of YouTube copyright issues &mdash; as well as managing the channel... *and* dealing with my mom's recent cancer diagnosis. All of that was already taking up so much of my time and attention. 
 
+</james>
+<comment {% include commenter video=matriarch at="22m49s" %}>
+
+Okay anti-gaslight work here: What he's also failing to admit here is that the scale of production very much correlates to how many videos the channel puts out. So, yes, I'm sure it was a very busy time for you and a difficult time for you; I'm sorry to hear what happened in the background. 
+
+But that doesn't mean you couldn't scale back the level of production, still try and optimize on the monetization elements, but also not put out too much to the extent that you have to *steal people's work* in order to do so. I'm not saying, like, "don't make videos". I'm saying if you find yourself having to steal work, plagiarize work, in order to put out a certain amount of videos, you *don't deserve to be putting out that many videos*. 
+
+It's like the recent thing we see in late-stage capitalism now, of companies not paying their staff a living wage! You don't deserve to have a business then! You're not "taking the risk"! You're not, like, innovating new thin&mdash;! You're just not paying people properly! You're not doing the basic moral thing you need to do in this capitalist hell we live in! 
+
+I have no sympathy&mdash; As difficult it was that [...] [you and Nick] were not making enough, then there are other avenues than stealing and plagiarizing people's hard-earned work! What about the work that *they* made, that *they* didn't get that recognition for, that they didn't get *any* of that money? And yes, you can monetize this [apology video] and say you're going to give HBomerGuy twenty dollars to say sorry or whatever, how what you make&mdash; but that's no way in comparison to *stealing* someone's hard-earned work! You don't deserve to grow if you're not good enough to grow! 
+
+The algorithm is cutthroat, for sure. I'm not an advocate for this. I wish, as a leftist socialist, I wasn't on YouTube, contracted to them to make content for this massive corporate machine in order to get some form of money to pay my bills. But it's a choice I made! It is a choice I made. And it's a choice you made to *steal* to get where you are as well. 
+
+</comment>
+<james>
+
 This led to a lot of... copy and pasting... blocks of text into scripts. <mark num=1 fc>My *intention*, at the time, was to use these as a jumping off point once Nick and I sat down to edit the script</mark>, because that's what we would do: I would sort of put in my parts, Nick would put in his parts, and then we would sit down at a table, read through the whole script, and kind of try and make it seem cohesive. 
 
 </james>
@@ -303,21 +354,16 @@ This led to a lot of... copy and pasting... blocks of text into scripts. <mark n
 </compare>
 
 <compare>
-<james span=3 {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 But &mdash; and <mark num=1 fc>here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child.</mark> Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a excuse anyway.
 
 The head injury is actually what led to me having epilepsy, which is why I can't work in any job that involves physical labor. Employers can't get insurance for me to, like, lift things or operate vehicles and stuff like that. I actually did marketing for a restaurant group for a little while, but got let go when they found out that I was epileptic because, at least according to *them*, <mark num=2 fc>I couldn't be insured to be in the kitchens...</mark> where I needed to be to film videos and take photos and stuff like that. But anyway.
 
 </james>
-<comment {% include commenter for=rebo %}>
-
-<mark num=1></mark>He claims he's talked about this before but he knows "some people" will call bullshit anyway. Well, yea, James, we're calling bullshit but not because you didn't talk about your head injury enough. It's because you're to claim you have a disability that causes you to accidentally plagiarise people and then forgot you did it.
-
-</comment>
 <comment {% include commenter for=tustin %}>
 
-<mark num=1></mark>James has never mentioned epilepsy in a main-channel video before, and most people on the former fans discord could not remember him discussing it before. We do have evidence of him mentioning it 2-3 times in as many "Podreon" episodes, and he might have mentioned it on-stream (but we don't have transcripts for those at time of writing).
+<mark num=1></mark>James has never mentioned epilepsy in a main-channel video before, and most people on the former fans discord could not remember him discussing it before. However, we [do](https://github.com/tustin2121/James_Somerton_Transcripts/blob/main/Archive/vtt/2022-05-24_RJMByOx9ey8_Podreon-Ep-6-BURN-OUT.mp4.en.vtt#L1295) have [evidence](https://github.com/tustin2121/James_Somerton_Transcripts/blob/main/Archive/vtt/2022-06-13_KSVdngCloP0_Podreon-Ep-9-Memories-of-Me.mp4.en.vtt#L1500) of him mentioning it 2-3 times in as many "Podreon" episodes, and he might have mentioned it on-stream (but we don't have transcripts for those at time of writing).
 
 </comment>
 <comment {% include commenter for=kenm %}>
@@ -347,12 +393,19 @@ According to my... therapist, my not thinking to do that <mark num=1 fc>probably
 </comment>
 <james {% include timecode %}>
 
-And then my mom died... and I became completely useless. I couldn't think straight, at all, so Nick had to *completely* take over writing duties, while *I* dealt with things you deal with after a person dies. My dad, you see, he can't read or write, uh... he was *very* poor when he was a kid, so he had to leave school really young to work in order to feed his *many* brothers and sisters. So I had to deal with all the legal stuff after my mom died, as well as making sure that all my dad's bills were paid and whatnot. Especially after his income was basically cut in half. 
+And then my mom died... and I became completely useless. I couldn't think straight, at all, so Nick had to *completely* take over writing duties, while *I* dealt with things you deal with after a person dies. <mark fc>My dad, you see, he can't read or write, uh... he was *very* poor when he was a kid, so he had to leave school really young to work in order to feed his *many* brothers and sisters.</mark> So I had to deal with all the legal stuff after my mom died, as well as making sure that all my dad's bills were paid and whatnot. Especially after his income was basically cut in half. 
 
 </james>
-<comment {% include commenter for=rebo %}>
+<comment {% include commenter for=dan at="10m30s" %}>
 
-3rd time Nick is thrown under the bus. Also blames his dad's illiteracy and then diverts to a tangent about how his dad was also poor growing up. Remember that every tangent is meant as a distraction.
+I... don't even really know where to start. It's just-- It's so... fantastical, like it-it's-- it's sitting on the edge of a thing that *maybe* could have happened in Canada in rural Nova Scotia in the 1950s-1960s. But the *details* make no sense. 
+
+His dad had to leave school, which means he was already going to school (because you can't *leave* school unless you were already *going* to school). His dad had to leave school *really young* in order to feed his many brothers and sisters. So here's my question: if you're going to school in the 1950s-1960s and you need to quit to get a job *before* you learn to read and write, which is *kind of* the first thing they teach you to do, especially in the 1950s... How old are you? What job did you get? When did this happen?
+
+So Canada began regulating child labor in the 1870s. Is James's dad over 150 years old? Like the implications of this story are that... James's dad quit school to get a job when he was seven? To feed his many brothers and sisters?
+Who are presumably... younger than *him?* Otherwise... they'd be getting jobs to feed him? What? *What??* 
+
+It's just-- It's a bizarre and needless elaboration? [...] You were in your mid-30s, James. This happened two years ago. You were a full-ass adult. You can just say you had to pick up the slack dealing with bureaucracy after your mother's death! You don't need a tragic backstory to explain why you specifically needed to handle this stuff! Why are you adding this bizarre distracting detail??
 
 </comment>
 <james {% include timecode %}>
@@ -362,9 +415,16 @@ There was supposed to be a buffer here, money-wise, as my mom had a life insuran
 </james>
 <james {% include timecode %}>
 
-One of the things &mdash; the main thing, really &mdash; that I was supposed to do with my portion of the insurance money was I was supposed to make a movie. These were direct instructions from my mom, herself. She'd been *very much* behind me when I decided&mdash; when I was about 10, that I wanted to be a filmmaker. And she wanted me to finally have the opportunity to do that, even if she never got to see it. So when the life insurance... went bust... I decided to try and crowdfund it. At least enough to make a short film or two.This is what... Telos grew out of. 
+One of the things &mdash; the main thing, really &mdash; that I was supposed to do with my portion of the insurance money was I was supposed to make a movie. These were direct instructions from my mom, herself. She'd been *very much* behind me when I decided&mdash; when I was about 10, that I wanted to be a filmmaker. And she wanted me to finally have the opportunity to do that, even if she never got to see it. So when the life insurance... went bust... I decided to try and crowdfund it. At least enough to make a short film or two. 
+
+This is what... Telos grew out of. 
 
 </james>
+<comment {% include commenter for=matriarch %}>
+
+...Is he really about to hit us with "It was my mum's dying wish"? <u>[Closes eyes, laughing under breath in disbelief]</u>
+
+</comment>
 </compare>
 
 <compare>
@@ -448,9 +508,33 @@ Around the same time, summer of 2023, uh, Nick had moved to the GTA full-time. U
 </james>
 <james {% include timecode %}>
 
-Uh, the movie had too many characters and too many locations... and it was just way too complex to be able to pull off... with the budget. So I started working on a script for a movie called "The Listener", about a true crime podcaster focused on the mysterious deaths of homeless gay men in his city. I was a fair way into the script when we realized... it'd be about a year... before we could even film anything. Since winter was on its way and the story relied heavily on a summer setting. 
+Uh, the movie had too many characters and too many locations... and it was just way too complex to be able to pull off... with the budget. So I started working on a script for a movie called "The Listener", about a true crime podcaster focused on the mysterious deaths of homeless gay men in his city. <mark fc>I was a fair way into the script when we realized... it'd be about a year... before we could even film anything. Since winter was on its way and the story relied heavily on a summer setting. </mark>
 
 </james>
+<comment {% include commenter for=dan at="25m40s" %}>
+
+<u>[Near the end of a lengthy monologue about Telos pictures budgeting and the logistics of all that, from Dan's previous real-world experience of being a filmmaker...]</u>
+
+[...] there are directors who can make magic happen with scraps, who can just will a trashy low-budget feature into existence in 8 weeks. James is not one of them. [...] He's just not that kind of personality. And, you know what, that's fine. I'm not that kind of filmmaker either. Most people aren't. [...]
+
+If you're not that kind of filmmaker, then in theory, having a draft of your script done<sup cn>1</sup> at the start of winter, for a script that requires shooting in the summer, that's kind of ideal! Because now, now you've got four to six months to...
+- Find a Director of Photography 
+- Find a First Assistant Director 
+- Make story boards 
+- Do additional drafts of the script 
+- Secure props and costumes 
+- Scout locations
+- Figure out what you're going to need to pay for 
+- What you're going to be able to get for free 
+
+...that all takes time! How much time do you think that takes, James? How much time do you think it takes to make a movie? [...] Yeah, of course, it was going to be a year before you could go to camera, *because that's how long it takes to make a movie!!*
+
+<footer>
+
+1. Editing Dan: "I just realized he said he was a fairway into the script. So the script wasn't even done."
+
+</footer>
+</comment>
 </compare>
 
 <compare>
@@ -480,11 +564,6 @@ But I am working with the producer now. So you can expect an *actual product* fr
 I know I've lost your trust. But I will make nothing financially from this project. The money that is there will go *wholly* to paying queer artists to work on a queer film. I am not, nor have I *ever intended to be*, one of the people paid by Telos. Neither was Nick; we made this very clear to everyone who asked. 
 
 </james>
-<comment {% include commenter for=rebo %}>
-
-Finally, says something about the money!
-
-</comment>
 <james {% include timecode %}>
 
 During our work on Telos is also when the YouTube channel started getting sponsors. Which, as I said, as someone who grew up poor, I basically accepted all of them. Except for a few that I didn't think lined up with the message of the channel or had some... bad... news surrounding them. There were a couple that had some anti-trans stuff going on in the news and I just didn't want to associate with that. But by accepting as many sponsors as we *did*, which became very important when Nick and I started living apart and suddenly had *two* rents to pay, we ended up needing to produce even more videos. Which along with the work on Telos, and making sure everything was okay with my dad while living thousands of kilometers away... meant I had even *less* time for writing. Putting more stress on Nick and leading to even more copy-pasting from me. That's what led to us putting out... I think *six* videos in one month at one point? It might have been five. But in any case it was *way* too damn many videos to go out in one month.
@@ -534,6 +613,15 @@ This is almost word for word the phrasing he used in the "About Those Death Thre
 So what's next then? Like I said... you'll notice that a few of my videos are live again on the channel. These ones don't come from plagiarized content. And, for the most part, are written entirely by Nick. Nick lost *three years* worth of work when everything on the channel was taken down. And that's... simply not fair... to Nick. He worked hard writing those videos and deserves to have something to *point* to when he's looking for new writing work.
 
 </james>
+<comment {% include commenter video=matriarch at="52m39s" %}>
+
+Then change the name of your channel. Change the name of your channel to "Nick Herrgott". Leave Nick's videos up. Give everyone the opportunity to continue to support Nick, if you want to. And be done with it. Wash your hands of it.
+
+The fact that we are now just being *admitted to* by James Somerton, that one of the first actions he's taking in trying to rebuild his &mdash; ***his*** &mdash; character and brand, is keep the videos up that Nick made on James Somerton's channel. That irony is not lost on me. 
+
+Yes, you can credit him now, he can have worked for you at that time. But morally, it just doesn't really seem to stick right with me, in that everyone knows what you have done in the past. Nothing is in a vacuum. Everything must be taken into context. And for someone that has been found out for plagiarizing, keeping up the monetization of videos, even if that's being donated to someone else, for someone that worked for you at the time, that you didn't really create yourself, under your name, doesn't sit that right. There are other ways you can do that.
+
+</comment>
 <james {% include timecode %}>
 
 I've also done some heavy editing on *other* videos that did contain other people's writing, um... breaking it down to only original content, again, so that Nick has an actual portfolio of work. As mentioned at the beginning of the video, revenue from these will be going to the HBomberGuy team to be sent out to the writers I plagiarized from, or donated to charity. However it works out in the end.
@@ -583,7 +671,19 @@ There are lots of people who make videos on YouTube. There are lots of people wh
 </james>
 <james {% include timecode %}>
 
-Knowing my patrons as I did, in hindsight, I'm pretty damn sure that if I had said, "guys, I need to step away for a couple of months to deal with this"... I don't think a whole lot of people would have fled the Patreon. A part of me thought they would at the time, because I catastrophize... but I really don't think that would have happened. Even in the very beginning, when I was like, "oh, I got to get as many videos out as possible", if I had said to those people who subscribed to the channel early on, you know, for the next video, I want to make sure that it's fully correct and I want to make sure that, you know, it's as high quality as it can possibly be, I-I don't think anyone would have you know unsubscribed or not watched the next video because it didn't come out a couple of weeks after... the algorithm decided that I was important for some reason. I convinced myself of these things. But I don't think, in hindsight looking at it, I don't think any of that would have happened. And so there is no excuse for the misinformation. And there is certainly no excuse for the plagiarism. 
+Knowing my patrons as I did, in hindsight, I'm pretty damn sure that if I had said, "guys, I need to step away for a couple of months to deal with this"... I don't think a whole lot of people would have fled the Patreon. A part of me thought they would at the time, because I catastrophize... but I really don't think that would have happened.
+
+</james>
+<comment {% include commenter for=tustin %}>
+
+As a former patron of James, I can say very much that yes, we wouldn't have cared if he wanted to step away for a while to get his head on straight after his mom passed.
+
+Granted, he's using this as some sort of excuse or justification for the plagiarism he had already been doing for *years* at the point when his mother decided to go (via MAID, btw; he talked about it on stream and [Podreon](https://github.com/tustin2121/James_Somerton_Transcripts/blob/main/Archive/vtt/2022-07-26_B_y5OnhijHI_Podreon-Ep-13-The-Paranormal.mp4.en#L2853)), so it's not like it would have made much of a difference to the information HBomberGuy dropped.
+
+</comment>
+<james {% include timecode %}>
+
+Even in the very beginning, when I was like, "oh, I got to get as many videos out as possible", if I had said to those people who subscribed to the channel early on, you know, for the next video, I want to make sure that it's fully correct and I want to make sure that, you know, it's as high quality as it can possibly be, I-I don't think anyone would have you know unsubscribed or not watched the next video because it didn't come out a couple of weeks after... the algorithm decided that I was important for some reason. I convinced myself of these things. But I don't think, in hindsight looking at it, I don't think any of that would have happened. And so there is no excuse for the misinformation. And there is certainly no excuse for the plagiarism. 
 
 </james>
 {% assign timecode = "37:36" %}
@@ -604,16 +704,20 @@ We have less than six minutes left and suddenly James finally verbalises the cri
 And so, yes, just putting their name in the opening credits was wrong. I thought it was cool and, you know, cinematic, but it was wrong. Citations should have been done properly. There should never have been just chunks of text being put into videos. There were times, like with uh [the queer history of Hollywood videos](pW_RjbZYi1s) that I released this past spring. They were based *directly* on *The Celluloid Closet* by Vito Russo. The book, not the documentary. I expanded on it quite a bit, but it was based directly on Vito's work, and I credited him in the opening credits. And I thought it was okay to just do that? Because... the book was out of print... and Vito had passed away unfortunately from HIV complications due to HIV and AIDS. And I looked at it more as "extending his legacy", making sure that people knew about the work that he did. 
 
 </james>
-<comment {% include commenter for=rebo %}>
-
-Less than four minutes left and he's justifying all the work he stole from Celluloid Closet and even tries to claim the video was a tribute to his legacy! James then says he now understands he should have done better. This is a huge fucking lie. As you might remember from the HBomb video, James clearly knew what he did was wrong and that the consequences of being caught would end his channel. Because when the person who first caught the plagiarism of "Tinkerbelles" in "Evil Queens" learned about his plagiarism of the Celluloid Closet, she announced she planned to compare The Celluloid Closet to Unrequited. Immediately after this was when James began his harassment campaign against her on his Patreon, Twitter, and YouTube channel. James has *always* known this behaviour was wrong, that what he is doing was not okay, and he has taken aggressive action to silence critics that tried to hold him to account. And throughout this entire video he has tried to spin a tale that he just didn't know any better and of course people have been out to get him!
-
-</comment>
 <james {% include timecode %}>
 
-But I don't think I ever mentioned his name in those videos. He was cred&mdash; like I said, his name's in the opening credits. But I don't think I ever... verbally mentioned his name. Someone who I have *so much* respect for, who's kind of an idol of mine, and... I never mentioned his name. It wasn't because I didn't respect him or anything like that... and it also wasn't because I wanted people to think that this was all me, agai&mdash; if&mdash; if that was the case I wouldn't have put his name in the in the credits. I never... wanted people to think that this was all me.
+But I don't think I ever mentioned his name in those videos. He was cred&mdash; like I said, his name's in the opening credits. <mark fc>But I don't think I ever... verbally mentioned his name.</mark> Someone who I have *so much* respect for, who's kind of an idol of mine, and... I never mentioned his name. It wasn't because I didn't respect him or anything like that... and it also wasn't because I wanted people to think that this was all me, agai&mdash; if&mdash; if that was the case I wouldn't have put his name in the in the credits. I never... wanted people to think that this was all me.
 
 </james>
+<comment {% include commenter video=matriarch at="1h10m18s" %}>
+
+<u>[Just starts laughing in disbelief, holding her head]</u> (Okay, this is fast becoming one of the worst apologies. If he [pulls out ukulele](https://knowyourmeme.com/memes/colleen-ballinger-miranda-sings-ukulele-apology-video), it's done -- 2024 bingo card.)
+
+I feel like this [is] the most genuine moment we're seeing of him. [...] He's like actually maybe seeing like... "as I'm telling the camera now, I-I didn't cite properly..." he's also then like <u>[mumbling]</u> "yeah, I didn't mention that guy once in the whole video essay... that was "'"based"'" on his work..." 
+
+That's a choice James! That's a literary choice! That is a 👏 decision 👏 you 👏 made! You don't get to just say "oh, I'm sorry, I didn't do that now..." and then it'd be okay! There's a choice you made!
+
+</comment>
 <james span=2 {% include timecode %}>
 
 So that's actually one of the videos I want to make... <mark num=1 fc>I want to make a... documentary-style video talking about Vito Russo...</mark> and his life, and everything that he accomplished. 'Cause he didn't just write *The Celluloid Closet*, he did a lot more than that. He's someone that people *should know* about. 
@@ -643,14 +747,18 @@ I'm sorry for the people who felt scammed. Who thought that Telos was a grift. I
 
 I am very sorry...
 
+</james>
+<james span=4 >
+
 And I hope given time... and... my actions proving it... that you can believe me.
 
 <u>[Video ends promptly without fanfare.]</u>
 
 </james>
 <comment {% include commenter for=rebo %}>
+<details>
+<summary>Stuff James never addressed in the apology:</summary>
 
-Stuff James never addressed in the apology:
 - Aside from Sean Griffin and Vito Russo, he never directly acknowledges any of the other people he stole from by name
 - The rampant misogyny
 - Repeated harassment of Becky Albertalli
@@ -658,6 +766,46 @@ Stuff James never addressed in the apology:
 - The Nebula incident aside from the part where he harassed Jessie - the other creators who he smeared aren't brought up at all
 - Basically Todd's entire video and Todd did in fact [leave a comment about this on this apology!](https://twitter.com/ShadowTodd/status/1762203400907968680/photo/1)
 
+</details>
+</comment>
+<comment {% include commenter video=matriarch at="1h14m10s" %}>
+<details>
+<summary>Okay, let me be let me be real with you:</summary>
 
+[...] I really wanted to believe him. I don't. I think he thinks people stupid, or less intelligent than him, if he thinks that we are all going to just... assume that it was just this big mistake or something. We don't.
+
+I think that I won't personally be watching his content in a time in an age where content, clicks, and attention, and loyalty, and trust are *so* fragile right now, that like... why would we "give" him that time? Maybe there are some of his uber-fans out there that will. Great. Six people have signed up to his new Patron. 
+
+I would worry that the only people left on his side that would be part of a new fandom would be people that didn't see exactly what he did as wrong? And I would maybe argue that they're not the nicest people to have in your audience. Not that that necessarily matters, but... I wonder if that is kind of a segue to a... "Why I left the left" move. I don't know that's a hypothesis at this point. I don't really feel there's been much growth. 
+
+</details>
+</comment>
+<comment {% include commenter video=vera at="42m43s" %}>
+<details>
+<summary>Now, I said at the beginning that there is actually a path of redemption here. I think there could be. But I also don't think he's on it right now.</summary>
+
+[...] James: Here's what you need to understand. You are not welcome here. You said in your video that you had an intention to release more videos... including one that you claim will be wholly original. We don't want it. Don't upload it.
+
+I'm sorry if these are things you are passionate about, that you genuinely want to do, you have burned that bridge. We cannot trust you in this space. Even if you make the best video essay or documentary or whatever that anyone has *ever seen* &mdash; every citation, perfect, everybody credited, amazing, original work, just a monumental achievement in online film content &mdash; it won't matter 'cause we *can't trust you.* And even if we watch it and we can't find plagiarism, we can't trust that somebody won't find that you've plagiarized stuff later on. *You can't come back here!* You can't! You cannot come back to this space to do the thing that you *lied and stole* in order to do! Even if you don't lie and steal to do it anymore, *we can't trust you!!* You have no credibility, no grace, no wiggle room, no benefit of the doubt, *none*, in the video essay space!
+
+*But*... you *do* have a *tiny bit* in the realm of original *fictional* work. It's actually to your benefit right now, the fact that Telos had not yet put out a product when everything blew up. Because while there were suspicions from HBomberGuy about whether or not you had plagiarized your notion for your "Final Girl" movie, *that* was unprovable. We don't know if you would have plagiarized or stolen for your creative works. If you want the path forward, *abandon* your plans to release any video essay, whether it's something that was completed before all this went down or something new. Don't do it! We can't trust you. We don't want it.
+
+But if you put your heart and soul into an original script, an original short film, and whatever part in it that you intend to take, [...] if the end result is *good*, if you display *genuine talent* in the creation of ***fiction*** [...] if you make a ***good film***, *that* is not something that we cannot just dismiss. [...]
+
+Because we can't trust you with the truth! We cannot trust you to deliver us facts. [...] So you should instead pivot to giving us fiction. I very honestly believe that, if you have actual talent and actual drive, *that* is the way you need to move forward. You need to *abandon* the idea of ever coming back for video essays. Don't do it. [...]
+
+</details>
+</comment>
+<comment {% include commenter for=dan at="29m7s" %}>
+<details>
+<summary>He doesn't want to make movies; he wants to be a filmmaker.</summary>
+
+James Somerton was never going to make anything, and he was in fact going to eternally find *some* new excuse for why things just... weren't quite ready yet. Because he was going to wait *forever* for things to be perfect. And that is not a perfectionist tendency, it is a procrastinator tendency. 
+
+He doesn't want to make movies; he wants to be a filmmaker. He wants the prestige. He wants the attention. He wants the accolades. He does not want to do the work. He does not have stories to tell. He does not have a hunger for communicating with others, or expressing something, or... just creating beautiful images. 
+
+This is why he plagiarized. He wanted to be a YouTuber, but didn't want to actually do the work of being a YouTuber. So he took a shortcut. And there is absolutely no reason to believe that, when it came to the much much *much* harder process of making films, he was suddenly just going to *find* the discipline inside him to focus on the task, not take shortcuts, not just try to *wish* it into existence. He has ambitions but not drive or talent. And ambitions without actions or avenues to achieve them... are called fantasies.
+
+</details>
 </comment>
 </compare>
