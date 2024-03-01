@@ -21,11 +21,17 @@ recs:
   - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
   - { title: "Somerton Apology 2: Electric Boogaloo - is there actually a future for James?", author: "Council of Geeks", url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ" }
   - { title: "James Somerton Apology 2/? | A Measured Reaction", author: "MATRIARCHETYPE", url: "https://www.youtube.com/watch?v=M5TKdYLUHIw" }
+  - { title: "James Somerton's Measured Response: An Unhinged Response", author: "Mack Attack", url: "https://www.youtube.com/watch?v=t3T2AShGO5g" }
+  - { title: "annoyed at james", author: "Pillar of Garbage", url: "https://www.youtube.com/watch?v=9PcyUaa3cqA" }
 
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
   formatting: $cite$tustin2121
-  factcheck: "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
+  factcheck: 
+    - "[Council of Geeks](https://www.youtube.com/watch?v=q1RLUSVWnoQ)"
+    - "[Dan Olsen](https://www.patreon.com/posts/djs0-99390338)"
+    - "[MATRIARCHETYPE](https://www.youtube.com/watch?v=M5TKdYLUHIw)"
+    - "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
 
 cite:
   responses:
