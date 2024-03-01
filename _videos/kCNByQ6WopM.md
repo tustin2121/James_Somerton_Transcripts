@@ -5,7 +5,7 @@ redirect_from:
 date: 2024-02-26
 title: "A Measured Response"
 runtime: 43:01
-status: Finished
+status: Complete
 aka: !!seq
 topics: !!seq
 links: !!seq
@@ -376,9 +376,14 @@ The head injury is actually what led to me having epilepsy, which is why I can't
 <compare>
 <james {% include timecode %}>
 
-When it came to editing the scripts, I couldn't remember what I'd written and what had been copy-pasted. We should have just chucked out *everything* that I had put into the script and filled them in with *wholly* original thoughts. Or I should have been taking notes on where things came from so that we could at least cite them in the video, if nothing else. But I never did that.
+<mark fc>When it came to editing the scripts, I couldn't remember what I'd written and what had been copy-pasted.</mark> We should have just chucked out *everything* that I had put into the script and filled them in with *wholly* original thoughts. Or I should have been taking notes on where things came from so that we could at least cite them in the video, if nothing else. But I never did that.
 
 </james>
+<comment {% include commenter for=tustin %}>
+
+The only way what James is saying here makes *any* logical sense is if he is using the phrase "what I'd written" to mean "what I had already taken a thesaurus to and rearranged the phrases of". Because *that* could be easily mixed up. There are several passages you'll find in his transcripts on this site that are taken word-for-word from the source material with *no changes whatsoever*. *Usually* he attempts to at least throw a thesaurus at the sentences and replace random words, but sometimes he just "forgot". So he *must* mean "I couldn't remember what I had and hadn't rearranged yet".
+
+</comment>
 <james {% include timecode %}>
 
 According to my... therapist, my not thinking to do that <mark num=1 fc>probably stems from my recently diagnosed ADHD</mark>, but I don't know if I'm willing to... *say* that really. Maybe it was? Or maybe it was just plain laziness. Maybe I thought that this was somewhere that I could cut a corner because I was torn in so many other directions. Honestly, I can't remember &mdash; like I said, memory issues. But, yes, we should have just thrown out my contributions to the scripts and filled them in with original writing... <mark num=2 fc>but we felt like we had too much of a time crunch. We felt like we had to get videos out more often to feed the algorithm.</mark> 

@@ -49,7 +49,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [J1Qhuu9iJ-s](_videos/J1Qhuu9iJ-s.md) | Auto        | Ranking "The Best" Gay Movies Of All Time
 | [jJmN2rC1cVM](_videos/jJmN2rC1cVM.md) | Finished    | The Real Hogwarts Legacy
 | [KarOvBQCyKE](_videos/KarOvBQCyKE.md) | Finished    | How Spoilers Are Ruining Everything
-| [kCNByQ6WopM](_videos/kCNByQ6WopM.md) | Auto        | A Measured Response
+| [kCNByQ6WopM](_videos/kCNByQ6WopM.md) | Complete    | A Measured Response
 | [ke9qOMDq3cc](_videos/ke9qOMDq3cc.md) | Missing     | Monsters in the Closet: The Modern Ganymede
 | [KR7Ab5d9wno](_videos/KR7Ab5d9wno.md) | Auto        | Sex, Violence, Showgirls, and The American Way
 | [kvMq2FejBT8](_videos/kvMq2FejBT8.md) | Finished    | The Real Revolution of Utena

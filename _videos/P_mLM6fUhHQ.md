@@ -60,6 +60,7 @@ cite:
     women_prosecuted: "James claims that women weren't prosecuted for being gay, which is just outright untrue."
   other: !!map
     torrid: "James doesn't know what the word 'torrid' actually means."
+    film_handout: "HBomberGuy's video called out a section of this video where James was just reading several wikipedia pages on film theory. HBomberGuy actually gave James too much credit here; James was lazier. He copied instead from a Film Theory 101 class handout, which in turn copied from Wikipedia."
   plagiarized: !!map
     film_class:
       color: 4
@@ -442,8 +443,7 @@ Today there are many different schools of film theory. So let's talk about them:
 <mark>During the 1990s the digital revolution in image technologies has had an impact on film theory in various ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists like Mary Ann Doane, Philip Rosen and Laura Mulvey</mark> who was informed by psychoanalysis. From a psychoanalytical perspective, after the Lacanian notion of the Real, Slavoj Žižek offered new aspects of the gaze extensively used in contemporary film analysis. There has also been a historical revisiting of early cinema screenings, practices and spectatorship modes by writers Tom Gunning, Miriam Hansen and Yuri Tsivian.
 
 </from>
-<comment>
-{% include header for=tustin %}
+<comment id="film_handout" {% include commenter for=tustin %}>
 
 Note: The following sections are still using the university handout as a source, but the university handout is using wikipedia as a source. See the top of the page for the full plagiarism chain.
 
@@ -500,7 +500,7 @@ Note: The following sections are still using the university handout as a source,
 
 </james>
 <from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
-<h3 style="font-weight:700;">formalist film theory</h3>
+<h3 style="font-weight:700;">feminist film theory</h3>
 
 <mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis, regarding the film elements analysed and their theoretical underpinnings. The development of feminist film theory was influenced by second wave feminism and the development of women's studies within the academy. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970’s were generally based on sociological theory and focused on the function of women characters in particular film narratives or genres and of stereotypes as a reflection of a society's view of women.</mark> Works such as Marjorie Rosen’s Popcorn Venus: Women, Movies, and the American Dream (1973) and Molly Haskell’s From Reverence to Rape: The Treatment of Women in Movies (1974) analyzed how the women portrayed in film related to the broader historical context, the stereotypes depicted, the extent to which the women were shown as active or passive, and the amount of screen time given to women.[1]
 
@@ -512,7 +512,7 @@ Note: The following sections are still using the university handout as a source,
 <mark>Auteur theory</mark> in film <mark>holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced</mark>, such as David Os Selnick and Kevin Feige. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 15" %}>
 <h3 style="font-weight:700;">auteur theory</h3>
 
 In film criticism, the 1950s-era <mark>Auteur theory</mark> <mark>holds that a director's films reflect that director's personal creative vision, as if he were the primary "Auteur" (the French word for "author"). In some cases, film producers are considered to have a similar "Auteur" role for films that they have produced</mark>. In law the Auteur is the creator of a film as a work of art, and is the original copyright holder. Under European Union law the film director shall always be considered the author or one of the authors of a film. [1] Auteur theory has had a major impact on film criticism ever since it was advocated by film director and film critic François Truffaut in 1954. "Auteurism" is the method of analyzing films based on this theory or, alternately, the characteristics of a director's work that makes him an Auteur. Both the Auteur theory and the Auteurism method of film analysis are frequently associated with the French New Wave and the film critics who wrote for the influential French film review periodical Cahiers du cinéma.
