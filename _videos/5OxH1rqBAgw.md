@@ -21,6 +21,12 @@ notes:
   - vimeo
   - w-james-nick
 
+history:
+  2020-09-23: 'Teased on Patreon as "Pink Triangles: The Accepted Holocaust"'
+  2021-01-03: Teased on Patreon
+  2021-01-11: First uploaded, unlisted.
+  2021-01-14: First published.
+
 contributors:
   downloaded: $cite$kenm
   formatting: $cite$tobicat
@@ -69,7 +75,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 The vastly ignored history of Germany's war on gay men during World War 2.

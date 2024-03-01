@@ -28,6 +28,10 @@ notes:
   - short-advert
   - unreleased
 
+history:
+  2023-10-07: First uploaded, available to patrons.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
   formatting: $cite$tustin2121
@@ -70,35 +74,28 @@ cite:
 {% assign deus = page.cite.deus %}
 
 <compare>
-<credits header="Video Thumbnail:">
-
-![Alt text](../media/thumbs/kvMq2FejBT8.jpg)
-
-</credits>
+{% include meta-history video=page force-thumb=true %}
 <from {% include citation for=page.cite.plagiarized.thumbnail %}>
-
-![](https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg)
-<!-- ![Alt text](../media/tumblr_1788f9934204be2ac813539f6ef969ca_8536800c_2048.jpg) -->
+<picture style="max-width: 60%; margin-inline: auto;">
+  <source srcset="https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg" />
+  <img src="{{ "/media/tumblr_1788f9934204be2ac813539f6ef969ca_8536800c_2048.jpg" | relative_url }}">
+</picture>
 
 [@re-mortal on tumblr](https://www.tumblr.com/re-mortal/735857211803303936/i-thought-the-thumbnail-of-the-utena-video) points out that the video's thumbnail was [uncredited, stolen fan artwork](http://gallery.minitokyo.net/view/93510).
 
 </from>
-</compare>
-
-<compare>
-{% include thumbnail-history video=page %}
 <credits class="desc">
 
 A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 
-00:00 Intro
-06:01 Part 1
-17:45 Part 2
-22:58 Part 3
-31:06 Part 4
-34:29 Part 5
-41:32 Part 6
-48:12 Part 7
+00:00 Intro  
+06:01 Part 1  
+17:45 Part 2  
+22:58 Part 3  
+31:06 Part 4  
+34:29 Part 5  
+41:32 Part 6  
+48:12 Part 7  
 
 </credits>
 </compare>

@@ -1,8 +1,11 @@
 ---
 redirect_from:
   - "/videos/n41rayav_d8"
+  - "/videos/0oMttFa-cZM" # Teaser trailer slug
+  - "/videos/0omttfa-czm"
 
 # cSpell:words: Iger Chapek
+prev_ids: [ "0oMttFa-cZM" ]
 date: 2022-08-13
 title: How Disney Tore Down The Owl House
 runtime: 1:04:12
@@ -18,6 +21,9 @@ links: !!seq
 description: "a video essay on the Owl House, but also Bob Iger v Bob Chapek fan fiction."
 notes:
   - hbomb
+
+history:
+  2022-08-05: Teaser trailer posted (0oMttFa-cZM).
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -48,7 +54,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Why did Disney cancel The Owl House? Oh we know.

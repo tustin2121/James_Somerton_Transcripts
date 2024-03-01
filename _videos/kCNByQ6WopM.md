@@ -17,6 +17,9 @@ notes:
   - post-callout
   - meta-video
 
+history:
+  2024-02-26: First published.
+
 recs:
   - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
   - { title: "Somerton Apology 2: Electric Boogaloo - is there actually a future for James?", author: "Council of Geeks", url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ" }
@@ -69,13 +72,15 @@ cite:
 {% assign vera = page.cite.responses.council_of_geeks %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 [...]
 
 </credits>
 </compare>
+
+{% include transcript-start %}
 
 <compare>
 <credits {% include timecode %}>

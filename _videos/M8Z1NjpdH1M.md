@@ -23,6 +23,11 @@ notes:
   - hbomb
   - dec2-delete
 
+history:
+  2020-09-27: Teased on Patron.
+  2020-10-04: First published.
+  2023-12-03: Deleted less than an hour post-callout.
+
 contributors:
   downloaded: "Alyx from the Hbombergy Discord"
   formatting: $cite$tustin2121
@@ -90,7 +95,7 @@ cite:
 </div>
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 A video essay delving into the horrors of society, and how they effect the queer population.

@@ -15,6 +15,11 @@ links: !!seq
   - "https://web.archive.org/web/20201223182829/https://www.youtube.com/watch?v=ke9qOMDq3cc"
 # description: "a video essay on...?"
 
+history:
+  2018-04-28: First published.
+  # 2018-10-22: "Deleted in favor of <a href='4zPCM14-SCQ'>the compilation video.</a>"
+  2020-08-08: Delisted from YouTube over a "copyright claim from Universal".
+
 contributors:
 
 cite:
@@ -26,8 +31,14 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
+
+<u>[Patreon]:</u>
+
+A look at the connection between homosexuality, and classic horror in the early 20th century.
+
+<u>[YouTube]:</u>
 
 A look at the connection between homosexuality, and classic horror.
 

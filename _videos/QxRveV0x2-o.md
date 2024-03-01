@@ -29,7 +29,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 What kind of representation actually counts as gay representation? What counts as pandering? What counts as baiting? And what's the difference? When is nuance enough? 

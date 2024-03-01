@@ -32,7 +32,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Just how bad is Secrets of Dumbledore as a movie? And... what does it say about its creator?

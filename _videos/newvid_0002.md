@@ -11,6 +11,9 @@ links: !!seq
 notes:
   - post-callout
 
+history:
+  2024-02-26: Teased in apology 2, available on Patreon.
+
 contributors:
 
 cite:
@@ -22,7 +25,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 In October of 1990 a gay man was found dead in a West Hollywood dumpster. It took 33 years to find his killer. 

@@ -49,7 +49,7 @@ cite:
 {% assign tobi= site.data.cite.tobicat %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 There's always been an attraction to fictional monsters, but what happens when that monster is real?

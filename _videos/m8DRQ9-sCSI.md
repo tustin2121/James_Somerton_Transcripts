@@ -7,8 +7,10 @@ redirect_from:
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
+runtime: 1:29:45
 status: Finished
 aka: !!seq
+  - For The Love of Stucky
 topics: !!seq
   - The Hays Code
   - Rebel Without A Cause
@@ -24,6 +26,13 @@ description: "a video essay repackaging The Celluloid Closet and Alexander Avila
 notes:
   - visual
   - hbomb
+
+history:
+  2018-05-29: Teased on Patreon as "For The Love of Stucky".
+  2020-07-01: First published.
+  2020-10-11: Privated after Alexander Avila called James out for plagiarism.
+  2020-10-14: "Reuploaded as parts parts <a href='4Nx1aD9Khg0'>1</a>, <a href='UAv5yxnCGyc'>2</a>, and <a href='TRnogtBPoI'>3</a>."
+
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=cLWZV-SHmeY)"
@@ -74,7 +83,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 A video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.

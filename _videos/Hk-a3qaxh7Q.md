@@ -1,7 +1,10 @@
 ---
 redirect_from:
   - "/videos/hk-a3qaxh7q"
+  - "/videos/zuoKRMMxzSo" # Original video slug?
+  - "/videos/zuokrmmxzso"
 
+prev_ids: [ "zuoKRMMxzSo" ]
 date: 2022-06-09
 title: How a Gay Show Changed TV... and Was Forgotten
 status: Auto
@@ -13,7 +16,13 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://web.archive.org/web/20220609235655/https://www.youtube.com/watch?v=Hk-a3qaxh7Q"
 # description: "a video essay on...?"
+
+history:
+  2022-06-09: First published.
+  2022-06-17: 'Something entitled "The Hit Gay Show We Forgot" uploaded?'
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -30,7 +39,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Queer as Folk revolutionized the portrayal of gay and lesbian characters on TV. So why did we forget about it?

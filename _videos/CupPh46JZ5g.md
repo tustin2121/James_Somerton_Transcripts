@@ -18,6 +18,10 @@ links: !!seq
   - "https://www.youtube.com/watch?v=AgaSGvhUHyE" # Reuploads channel
 # description: "a video essay on...?"
 
+history:
+  2023-06-27: First published.
+  2023-12-07: Privated post-callout.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -27,7 +31,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

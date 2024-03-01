@@ -16,6 +16,12 @@ links: !!seq
 description: "a video essay on how Harry Potter is an allegory for growing up gay and for the government's handling of the AIDS crisis."
 notes:
 
+history:
+  2018-05-29: Teased on Patreon.
+  2018-06-20: Thumbnail teased on Patreon.
+  2018-06-30: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tobicat
@@ -34,7 +40,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 A look at gay themes in JK Rowling's Harry Potter series. From Philosopher's Stone to Fantastic Beasts!

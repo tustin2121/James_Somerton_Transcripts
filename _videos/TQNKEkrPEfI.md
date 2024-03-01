@@ -7,6 +7,7 @@ title: Video Games and the Choice to be Gay
 status: Auto
 aka: !!seq
   - "The GAYming Agenda (Thumbnail)"
+  - "Extra Lives: Gays, Games, and Toxic Masculinity (Working title)"
 topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ"
@@ -14,6 +15,11 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - behind-scenes
+
+history:
+  2020-09-23: 'Teased on Patron as "Extra Lives: Gays, Games, and Toxic Masculinity".'
+  2021-11-05: First published.
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=Pm8VaSZEUkQ)"
@@ -30,7 +36,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Is being gay a choice? According to mainstream video games… probably.

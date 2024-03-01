@@ -12,6 +12,10 @@ links: !!seq
 notes:
   - post-callout
 
+history:
+  2023-11-20: Thumbnails teased in Patreon discord
+  2024-02-26: Teased in apology 2, available on Patreon.
+
 recs:
   # - { title: "The Complex Trans Rep of Bob's Burgers", author: "Lily Simpson", url: "https://www.youtube.com/watch?v=Dln1rylCGb4" }
 
@@ -29,7 +33,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Bob's Burgers is one of the rare shows on TV where being queer isn't just normal... it's completely unremarkable. And that's a good thing....

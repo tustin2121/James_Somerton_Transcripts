@@ -250,6 +250,7 @@
 	compare credits.closing::before { content: 'Closing Credits:'; }
 	compare credits.desc::before { content: 'Video Description:'; }
 	compare credits.thumb::before { content: 'Thumbnail History:'; }
+	compare credits.history::before { content: 'Upload History:'; }
 	compare credits[header]::before { content: attr(header); }
 	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 	
@@ -570,6 +571,29 @@
 }
 
 @layer source {
+	credits.history {
+		padding-bottom: 0.5em;
+	}
+	credits.history .entry {
+		text-indent: -1em;
+		padding-inline-start: 1em;
+	}
+	credits.history .entry:nth-child(2n+1) {
+		background-color: var(--color-canvas-subtle);
+	}
+	credits.history .entry:nth-child(2n) {
+		background-color: var(--color-border-muted);
+	}
+	credits.history .entry span:first-child {
+		text-align: left;
+		padding-inline: 4px;
+		font-weight: bold;
+	}
+	credits.history .entry span:first-child::after {
+		content: ':';
+		font-weight: normal;
+	}
+	
 	credits.thumb .entry {
 		display: flex;
 		flex-direction: row-reverse;

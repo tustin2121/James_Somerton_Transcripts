@@ -16,6 +16,12 @@ notes:
   - hbomb
   - dec5-delete
 
+history:
+  2020-08-21: Preview posted to Patreon.
+  2020-08-26: "First uploaded (???????????), available to Patrons. 'Part 2: Hard Times' teased."
+  2020-08-30: "First published (UfpkP6s_g_4). Previous 'Part 1' deleted."
+  2023-12-05: Deleted post-callout.
+
 # https://archive.org/details/biggerthanlifehi0000esco
 
 cite:
@@ -27,7 +33,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Men, Murder, and Monopolies

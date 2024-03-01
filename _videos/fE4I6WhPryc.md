@@ -51,7 +51,7 @@ cite:
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 

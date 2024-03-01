@@ -14,12 +14,24 @@ aka: !!seq
   - "Evil Queens: Disney's Queer Cold War (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Evil+Queens+-+A+Gay+Look+at+Disney+History+(Video+essay).mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20200910+Qvu84kjtGvE+Evil+Queens%EF%BC%9A+A+Gay+Look+at+Disney+History+(Video+essay).webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Evil+Queens_+A+Gay+Look+at+Disney+History+(Video+essay)-(1080p).mp4"
 # description: "a video essay on...?"
 notes:
   - hbomb
   - meta
+
+history:
+  2020-07-14: Teased on Patreon.
+  2020-07-20: First published (5Iw43-kZVNI).
+  2020-09-05: Called out about plagiarism on Twitter.
+  2020-09-06T5:00:00: 'Description updated to add "Based on" line.'
+  2020-09-06T7:00:00: Twitter critic blocked.
+  2020-09-07T10:12:00: Twitter critic expresses desire to compare Unrequited.
+  2020-09-07T22:09:00: Video privated in response to Twitter critic.
+  2020-09-10: Republished (Qvu84kjtGvE) with credit added to opening title.
+  2023-12-07: Privated post-HBomb callout.
 
 recs:
   - { title: "What Makes Disney Villains so Gay?", author: "Matt Baume", url: "https://youtu.be/GsWpUSEKSbk?si=p6p1pfOs8STiMMAX" }
@@ -35,7 +47,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 A deep dive into the history of LGBT representation (or lackthereof) in Disney films. From the Silly Symphonies to Star Wars and Marvel. 

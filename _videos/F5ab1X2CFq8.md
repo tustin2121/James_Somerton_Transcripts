@@ -12,11 +12,17 @@ topics: !!seq
 links: !!seq
   - "https://www.youtube.com/watch?v=Y9yi8yocZMY" # Reuploads channel
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
+description: "a video essay on dystopias, oppression, and division over rights means less rights for us all."
 notes:
   - script-diff
   - feb26-unprivate
   - w-nick-james
+
+history:
+  2023-04-20: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+  2024-03-01: Privated for unknown reason.
 
 contributors:
   transcription: $cite$from-script
@@ -36,7 +42,7 @@ cite:
 ---
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 [Sponsor link]

@@ -36,7 +36,7 @@ cite:
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Hollywood, despite the best efforts of executives and studio heads, has been gay since the day it was born. In this video we'll explore the first seventy years of Tinsel Town's not-so-private closet. From silent film and federal investigations to the golden age of coding and the rise of out and proud queer cinema. 

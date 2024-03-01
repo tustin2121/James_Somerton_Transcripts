@@ -39,7 +39,7 @@ cite:
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 James sits down to talk about the history of gays in film, and what "The Stonewall Film Effect" may mean for the future of gay cinema.

@@ -29,7 +29,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits header="Video Description (YouTube Original):">
 
 This formerly Patreon exclusive video essay explores the history of the Gay and Trans Panic Defenses in The United States.

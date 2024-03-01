@@ -18,6 +18,10 @@ notes:
   - post-callout
   - meta-video
 
+history:
+  2023-12-20T0:00:00: First published.
+  2023-12-20T7:00:00: Deleted 7 hours later.
+
 contributors:
   transcription: "[an anonymous pastebin user](https://pastebin.com/zDXsHrFv)"
 
@@ -31,7 +35,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 [???]

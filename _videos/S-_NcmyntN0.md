@@ -35,7 +35,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Why does the family-friendly empire of Disney, and society as a whole, hold such animosity toward gay kids?

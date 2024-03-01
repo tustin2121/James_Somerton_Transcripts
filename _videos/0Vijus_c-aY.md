@@ -18,6 +18,12 @@ notes:
   - feb26-unprivate
   - w-nick-james
 
+history:
+  2023-09-14: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+  2024-03-01: Privated for unknown reason.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -27,7 +33,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

@@ -14,6 +14,10 @@ links: !!seq
   - "https://www.youtube.com/watch?v=o9rlnC_EUAE"
 # description: "a video essay on...?"
 
+history:
+  2021-08-31: First published.
+  2023-12-07: Privated post-callout.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -23,7 +27,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Disney has always had a problem with LGBT representation… but in the summer of 2021 they took it to a new level.

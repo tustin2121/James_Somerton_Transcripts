@@ -30,6 +30,13 @@ notes:
   - hbomb
   - w-nick-james
 
+history:
+  2022-09-04: First published (5RPsRpk8aKA).
+  2022-12-18: seldomusings calls James out in a blog post.
+  2022-12-20: Video deleted due to callout post.
+  2023-01-02: Reuploaded (VoHYZUj43K4).
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
@@ -56,7 +63,7 @@ cite:
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits header="Video Description (Original):">
 
 There might be a lot less going on in "Attack on Titan" than you think.

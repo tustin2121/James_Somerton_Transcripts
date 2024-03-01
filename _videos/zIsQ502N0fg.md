@@ -49,7 +49,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
-{% include thumbnail-history video=page %}
+{% include meta-history video=page %}
 <credits class="desc">
 
 Stop using China as an excuse for Hollywood's lack of LGBTQ content.  
