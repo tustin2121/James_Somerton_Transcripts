@@ -26,6 +26,12 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    fandom: { color: 3, short: "History (Fandom, 2022)", full: "Fandom. (2022, Apr 22). <em>History of Nintendo</em> [Article].", url: "https://nintendo.fandom.com/wiki/History_of_Nintendo?oldid=665541" }
+    kotaku: { color: 4, short: "Nintendo Forget (Ashcroft, 2011)", full: "Ashcroft, B. (2011, Mar 22). <em>The Nintendo They've Tried to Forget: Gambling, Gangsters, and Love Hotels</em> [Article].", url: "https://kotaku.com/the-nintendo-theyve-tried-to-forget-gambling-gangster-5784314" }
+    wiki_black: { color: 5, short: "African American cinema (Wikipedia, 2022)", full: "Wikipedia. (2022, Mar 11). <em>African American cinema</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=African_American_cinema&oldid=1076449456" }
+    wiki_women: { color: 6, short: "Women's cinema (Wikipedia, 2022)", full: "Wikipedia. (2022, Apr 29). <em>Women's cinema</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Women%27s_cinema&oldid=1152387094" }
+    wiki_tomadachi: { color: 7, short: "Tomodachi Life (Wikipedia, 2022)", full: "Wikipedia. (2022, Apr 27). <em>Tomodachi Life</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Tomodachi_Life&oldid=1085014622" }
+    dark_corners: { color: 10, short: "Dracula (Dark Corner Reviews, 2021)", full: "Dark Corner Reviews. (2021, Apr 18). <em>Dracula vs Spanish Dracula - a tale of two visions</em> [Video essay].", url: "https://www.youtube.com/watch?v=ZZDoon5n_Q4" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

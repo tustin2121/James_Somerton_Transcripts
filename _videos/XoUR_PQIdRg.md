@@ -27,6 +27,11 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    gq_mag: { color: 1, short: "", full: "", url: "https://www.gq.com/story/how-to-come-out-later-in-life" }
+    salon: { color: 2, short: "", full: "", url: "https://www.salon.com/2010/03/15/us_gay_seniors/" }
+    cbsnews: { color: 3, short: "", full: "", url: "https://www.cbsnews.com/news/coming-out-of-the-closet-in-retirement/" }
+    cancer_network: { color: 4, short: "", full: "", url: "https://cancer-network.org/wp-content/uploads/2017/02/Elevated_Physical_Health_Risk_Among_Gay_Men_Who_Conceal.pdf" }
+    wilde_account: { color: 5, short: "", full: "", url: "http://law2.umkc.edu/faculty/projects/ftrials/wilde/wildeaccount.html" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

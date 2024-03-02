@@ -35,6 +35,9 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_queer: { color: 1, short: "Queer as Folk (Wikipedia, 2022)", full: "Wikipedia. (2022, May 18). <em>Queer as Folk (American TV series)</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Queer_as_Folk_(American_TV_series)&oldid=1088564989" }
+    goombastomp: { color: 2, short: "(Ricky D, 2022)", full: "Ricky D. (2022, Jun 9). <em>Queer As Folk – A Cultural Milestone</em> [Article]. Tilt Magazine. Goomba Stomp. Retrieved March 1, 2024, from", url: "https://tilt.goombastomp.com/tv/queer-folk-cultural-milestone/" }
+    xtramag: { color: 9, short: "(DeVito, 2005)", full: "DeVito, C. (2005, Aug 31). <em>A requiem for Queer as Folk</em> [Article]. Xtra* Magazine. Pink Triangle Press. Retrieved March 1, 2024, from", url: "https://xtramagazine.com/culture/a-requiem-for-queer-as-folk-23464" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

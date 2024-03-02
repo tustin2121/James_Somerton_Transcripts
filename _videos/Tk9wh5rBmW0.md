@@ -30,6 +30,7 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    syfy: { color: 4, short: "Hagsploitation (Pahle, 2019)", full: "Pahle, R. (2019, Oct 24). <em>A Primer For The Unexpectedly Awesome Hagsploitation Horror Subgenre</em> [Article]. Syfy Wire.", url: "https://www.syfy.com/syfy-wire/a-primer-for-the-unexpectedly-awesome-hagsploitation-horror-subgenre" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

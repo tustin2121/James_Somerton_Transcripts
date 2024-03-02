@@ -28,6 +28,17 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_lit: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426" }
+    homo_codes: { color: 2, short: "", full: "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University.", url: "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", type: "student" }
+    the_take: { color: 1, short: "", full: "", url: "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable" }
+    wiki_dracula: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications" }
+    wiki_nightmare: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge&oldid=862007103#Homoerotic_subtext" }
+    gay_panic_news: { color: 1, short: "", full: "", url: "https://www.kxan.com/news/local/austin/after-using-rare-gay-panic-legal-defense-austin-man-avoids-prison-time/1141686601/" }
+    wiki_gay_panic: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=839228741" }
+    epgn: { color: 1, short: "", full: "", url: "https://epgn.com/2017/10/18/1954-miami-murder-leads-to-homosexual-panic/" }
+    wiki_cruising: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Cruising_(film)&oldid=863495842" }
+    wiki_silence: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=The_Silence_of_the_Lambs_(film)&oldid=863606000" }
+    sociological_cinema: { color: 1, short: "", full: "", url: "https://www.thesociologicalcinema.com/blog/the-not-so-hidden-transphobia-in-silence-of-the-lambs" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
