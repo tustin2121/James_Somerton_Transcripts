@@ -21,6 +21,11 @@ notes:
   - script-diff
   - w-james-nick
 
+history:
+  2020-09-23: 'Teased on Patreon as "This Thing of Ours: The Untold Story of Gays and The Mafia".'
+  2022-01-08: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley

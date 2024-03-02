@@ -1,6 +1,7 @@
 ---
 redirect_from:
   - "/videos/ufpkp6s_g_4"
+  - "/videos/-CQhPCVZhho"
 
 date: 2020-08-30
 title: Making It Big：The History of Gay Adult Film (Documentary)
@@ -18,7 +19,7 @@ notes:
 
 history:
   2020-08-21: Preview posted to Patreon.
-  2020-08-26: "First uploaded (???????????), available to Patrons. 'Part 2: Hard Times' teased."
+  2020-08-26: "First uploaded (-CQhPCVZhho), available to Patrons. 'Part 2: Hard Times' teased."
   2020-08-30: "First published (UfpkP6s_g_4). Previous 'Part 1' deleted."
   2023-12-05: Deleted post-callout.
 
