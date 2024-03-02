@@ -10,7 +10,7 @@ status: Auto Script
 aka: !!seq
   - "Irresistible Impulse - The Sad History of the Queer Panic Defense in America"
   - "The Queer Panic Defense (Thumbnail)"
-  - "Irresistible Impulse - The History of the Queer Panic Defense in America" (Opening Credits)
+  - "Irresistible Impulse - The History of the Queer Panic Defense in America (Opening Credits)"
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Panic.mp4"
@@ -1095,19 +1095,36 @@ In the 1970s, singer and orange juice spokeswoman Anita Bryant launched her now 
 <compare>
 <james {% include timecode %}>
 
-Robert Jackson. On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital. The driver panicked, rushed Jackson to the nearest emergency room. Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.
+Robert Jackson. On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital. 
 
 </james>
 <from>
 
-https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.1
+https://www.youtube.com/watch?v=0ZZCjlnvg0M (0:00-0:18)
 
 It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to his last call of the night was flagged down by a man who appeared out of the dark. The bloody man told the tow truck driver that he had been shot and needed to go to a hospital. 
 
 </from>
 </compare>
 
-{% assign timecode = "00:27:01" %}
+{% assign timecode = "00:26:48" %}
+
+<compare>
+<james {% include timecode %}>
+
+The driver panicked, rushed Jackson to the nearest emergency room. Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.
+
+</james>
+<from>
+
+0:45-1:02
+
+At the hospital, Jackson was able to give a few more details. He said he left a boy scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.
+
+</from>
+</compare>
+
+{% assign timecode = "00:27:03" %}
 
 <compare>
 <james {% include timecode %}>
@@ -1115,7 +1132,17 @@ It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to hi
 He told police that the man had pulled a gun on him and shot, but he couldn't remember any other details. He only knew the man had stolen his car. Jackson was then rushed into surgery and an all points bulletin was put out for the vehicle. At 5:35 a.m., an officer found Jackson's car pulled into a parking lot with 19 year old John Stephen Parisi asleep inside.
 
 </james>
-<from></from>
+<from>
+
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.1
+
+Mr. Jackson said he remembered a gun being pulled on him and gunshots, but he couldn't remember any of the other details.
+
+[...]
+
+Jackson was taken into surgery and an all-points bulletin was issued for his car. At 5:35 a.m. an officer on patrol found Mr. Jackson's car pulled into a parking lot and John Stephan Parisie, age 19 asleep behind the wheel.
+
+</from>
 </compare>
 
 {% assign timecode = "00:27:23" %}
@@ -1126,7 +1153,19 @@ He told police that the man had pulled a gun on him and shot, but he couldn't re
 After finding Jackson's wallet on him, Presley was arrested. Now in police custody. Parisi said that he had met Jackson a few days before when he had gone into Chet's and Motors to look at used sports cars. Parisi told police that he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later, while walking downtown, Jackson drove up alongside him and offered Parisi a ride, which he said he accepted.
 
 </james>
-<from></from>
+<from>
+
+p.1-2
+
+Mr. Parisie was placed under arrest and searched at the scene, the officer found Jackson's wallet, gas credit card and cigarette lighter in Parisie's pocket.
+
+[...]
+
+At the scene and in police custody Mr. Parisie readily admitted that he had shot Jackson, though he said many of the details were fuzzy.
+
+In his account, Parisie said that he had met Jackson a few days before when he had gone into Chetson Motors to look at used sports cars. Parisie told police he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later while walking downtown Jackson drove up alongside him and offered Parisie a ride which he says he accepted.
+
+</from>
 </compare>
 
 {% assign timecode = "00:27:50" %}
@@ -1137,7 +1176,13 @@ After finding Jackson's wallet on him, Presley was arrested. Now in police custo
 Parisi said he thought that they would drive around Springfield Lake, but Jackson drove down a dark, secluded street instead. According to Parisi, Jackson stopped the car, pushed the driver's seat back and placing his hand on Theresa's crotch. Said John, I'd like to give you a blowjob, Parisi says. He declined the offer. Smiling, Jackson told him, If you don't let me do it, you'll have to walk back to town.
 
 </james>
-<from></from>
+<from>
+
+p.2
+
+Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. Parisie said Jackson stopped the car, pushed the driver's seat back placing his hand on Parisie's crotch saying, "John I'd like to give you a blowjob" Parisie says he declined the offer. Smiling Jackson told him, "If you don't let me "do it" you'll have to walk back to town."
+
+</from>
 </compare>
 
 {% assign timecode = "00:28:16" %}
@@ -1148,7 +1193,17 @@ Parisi said he thought that they would drive around Springfield Lake, but Jackso
 Perris He told police that the threat of being stranded in the middle of nowhere made him blow up and lose it. Parisi said he remembered some sort of struggle and gunshots, but all the other details were fuzzy. That morning, at 10:20 a.m.. Robert Jackson died from his injuries. He was 36 years old. The murder of Robert Jackson and the trial that followed helped to define how the Gaye panicked defense would be used in courts across America.
 
 </james>
-<from></from>
+<from>
+
+p.2
+
+Parisie told police that the threat of being stranded in the middle of nowhere made him, "blow-up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.
+
+At 10:20 am April 13th, 1968 after several hours of surgery Robert Jackson died from his injuries. He was 36 years old, married and the father of three children, the eldest of whom was 10 years old.
+
+The murder of Robert Jackson and the trial that followed helped to define how the homosexual panic defense would be used in courts across the United States.
+
+</from>
 </compare>
 
 {% assign timecode = "00:28:42" %}
@@ -1156,7 +1211,7 @@ Perris He told police that the threat of being stranded in the middle of nowhere
 <compare>
 <james {% include timecode %}>
 
-It became tabloid fodder and even drew the attention of conservatives in the federal government who had been zeroing in on the LGBT community for decades. In the 1950s, during Joseph McCarthy's Red Scare, more gay men were fired from government jobs and suspected communists. The so-called lavender scare among lawmakers, lawyers and judges easily transformed into gay panic. What makes the John Parisi murder trial unique in the life of the queer panic defense is how his lawyers stuck to Dr. Edward Kemp's 1920 theory of homosexual panic as it applied to police's defense.
+It became tabloid fodder and even drew the attention of conservatives in the federal government who had been zeroing in on the LGBT community for decades. In the 1950s, during Joseph McCarthy's Red Scare, more gay men were fired from government jobs and suspected communists. The so-called lavender scare among lawmakers, lawyers and judges easily transformed into gay panic. 
 
 </james>
 <from></from>
@@ -1167,10 +1222,22 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <compare>
 <james {% include timecode %}>
 
-First, they wanted to demonstrate that he was suffering from a mental illness. In this case, paranoid schizophrenia, which helped trigger a gay panic episode. The second part of the defense strategy was to show Robert Jackson's prior homosexual activity. Perez's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader and successful businessman by day who led a secret life of sexual deviancy at night.
+What makes the John Parisi murder trial unique in the life of the queer panic defense is how his lawyers stuck to Dr. Edward Kemp's 1920 theory of homosexual panic as it applied to police's defense. First, they wanted to demonstrate that he was suffering from a mental illness. In this case, paranoid schizophrenia, which helped trigger a gay panic episode. The second part of the defense strategy was to show Robert Jackson's prior homosexual activity. Perez's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader and successful businessman by day who led a secret life of sexual deviancy at night.
 
 </james>
-<from></from>
+<from>
+
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.2
+
+What makes the John Parisie murder trial unique in the life of the homosexual panic defense is how slavishly his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie’s defense.
+
+First, they wanted to demonstrate that Mr. Parisie was suffering from a mental illness, in this case, paranoid schizophrenia which helped trigger a homosexual panic.
+
+The second part of the defense strategy was to show Robert Jackson's prior homosexual activity.
+
+Parisie's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader, and successful businessman by day who lead a secret life of sexual deviancy at night.
+
+</from>
 </compare>
 
 {% assign timecode = "00:29:49" %}
@@ -1178,10 +1245,18 @@ First, they wanted to demonstrate that he was suffering from a mental illness. I
 <compare>
 <james {% include timecode %}>
 
-That was the plan. But the entirety of this defense would never be heard by a jury. Two months prior to the trial, Robert Jackson's brother, Bert Jackson, a lawyer representing the victim, and Jackson's widow, requested and were granted a private conversation with the trial judge. The family's attorney read this prepared statement. I represent the widow and three young children of the deceased and nature.
+That was the plan. But the entirety of this defense would never be heard by a jury. Two months prior to the trial, Robert Jackson's brother, Bert Jackson, a lawyer representing the victim, and Jackson's widow, requested and were granted a private conversation with the trial judge. The family's attorney read this prepared statement. 
 
 </james>
-<from></from>
+<from>
+
+p.2
+
+That was the plan but the entirety of this defense would never be heard by a jury.
+
+Two months before the trial, Robert Jackson's brother Bert Jackson, a private lawyer representing the family and Jackson's widow Mrs. Jackson requested and were granted a private conversation with the trial judge. (You know, I wasn't been able to find Mrs. Jackson's name in any printed account of the trial. Another artifact from the 1950s I guess.) The family’s attorney read this prepared statement to the trial judge.
+
+</from>
 </compare>
 
 {% assign timecode = "00:30:13" %}
@@ -1189,10 +1264,20 @@ That was the plan. But the entirety of this defense would never be heard by a ju
 <compare>
 <james {% include timecode %}>
 
-I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the deceased. They are untrue. The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities. The judge took the request under advisement and issued a ruling that said, although the court recognizes that evidence of homosexuality can be very important and would be admissible, that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.
+I represent the widow and three young children of the deceased and nature. I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the deceased. They are untrue. The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities. The judge took the request under advisement and issued a ruling that said, although the court recognizes that evidence of homosexuality can be very important and would be admissible, that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.
 
 </james>
-<from></from>
+<from>
+
+p.2-3
+
+“I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”
+
+The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities.
+
+The judge took the request under advisement and issued a ruling saying, although the court recognizes that evidence of "homosexuality can be very important" and "would be admissible," that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.
+
+</from>
 </compare>
 
 {% assign timecode = "00:30:46" %}
@@ -1203,7 +1288,17 @@ I am informed and believe that the nature of the allegations will be devastating
 This was a devastating blow to Perez's defense. How does one persuade a jury that you killed a man in a gay panic? If you can't prove that the man you killed was gay. But things would get worse for the defense during the first day of the jury selection. The court asked members of the potential jury pool the following question.
 
 </james>
-<from></from>
+<from>
+
+p.3
+
+This was a devasting blow to Parise’s defense. How do you persuade a jury that you reacted in a homosexual panic if you can’t offer proof that the man you killed engaged in previous homosexual activity?
+
+But things would get worse for the defense.
+
+During the first day of voir dire, the trial court asked members of the potential jury pool the following question:
+
+</from>
 </compare>
 
 {% assign timecode = "00:31:05" %}
@@ -1211,10 +1306,16 @@ This was a devastating blow to Perez's defense. How does one persuade a jury tha
 <compare>
 <james {% include timecode %}>
 
-There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person? According to court records, one juror said, You can't expect me to say that this isn't going to make any difference to me if this man was a homosexual.
+There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person? According to court records, one juror said, You can't expect me to say that this isn't going to make any difference to me if this man was a homosexual. The newspaper account said no jurors were choice one the first day of the trial.
 
 </james>
-<from></from>
+<from>
+
+p.3
+
+“There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, “No jurors were choice one the first day of the trial.
+
+</from>
 </compare>
 
 {% assign timecode = "00:31:31" %}
@@ -1222,10 +1323,20 @@ There may be some evidence in this case of homosexuality. If the evidence should
 <compare>
 <james {% include timecode %}>
 
-The newspaper account said no jurors were choice one the first day of the trial. Instead of looking for new jurors, they removed the question from the screening process and moved forward, willfully allowing people who hated homosexuals onto the jury. Ladies and gentlemen of the jury, our client, John Parisi. The 19 year old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson.
+Instead of looking for new jurors, they removed the question from the screening process and moved forward, willfully allowing people who hated homosexuals onto the jury. Ladies and gentlemen of the jury, our client, John Parisi. The 19 year old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson. When John Parisi pulled the trigger of the gun that killed Robert Jackson. He did so while repulsing a homosexual attack.
 
 </james>
-<from></from>
+<from>
+
+p.3
+
+Which was just as well because on the second day of jury selection the trial court reversed itself and announced that it would no longer ask the jury about their ability to be objective in a case involving homosexuality.
+
+Meaning none of the twelve jurors chosen were asked about their views on homosexuality and the trial got underway. The defense opened with this statement:
+
+"Ladies and gentlemen of the Jury, our client, John Parisie, the 19-year-old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson when John Parisie pulled the trigger of the gun that killed Robert Jackson he did so while repulsing a homosexual attack.
+
+</from>
 </compare>
 
 {% assign timecode = "00:31:59" %}
@@ -1233,10 +1344,16 @@ The newspaper account said no jurors were choice one the first day of the trial.
 <compare>
 <james {% include timecode %}>
 
-When John Parisi pulled the trigger of the gun that killed Robert Jackson. He did so while repulsing a homosexual attack. A court appointed clinical psychologist who examined Parisi found him to be highly delusional, paranoid schizophrenic who is bisexual, loner with a basic distrust of people who had suppressed his emotions, causing periodical blowups. He found Parisi to be a highly latent homosexual who would avoid homosexual situations like the plague with strong feelings of inferiority, and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia.
+A court appointed clinical psychologist who examined Parisi found him to be highly delusional, paranoid schizophrenic who is bisexual, loner with a basic distrust of people who had suppressed his emotions, causing periodical blowups. He found Parisi to be a highly latent homosexual who would avoid homosexual situations like the plague with strong feelings of inferiority, and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, the individual comes apart and becomes insane for a period of time.
 
 </james>
-<from></from>
+<from>
+
+p.3
+
+A court-appointed clinical psychologist who examined Parisie found him to be a highly delusional paranoid schizophrenic who was a bisexual loner with a basic distrust of people and who suppressed his emotions causing periodical blow-ups. He found Parisie to be a highly latent homosexual (who would avoid homosexual situations like the plaque) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, "the individual comes apart and becomes insane for a period of time." (That description is right out of Dr. Kempf Homosexual Panic theory almost to the letter.)
+
+</from>
 </compare>
 
 {% assign timecode = "00:32:39" %}
@@ -1244,10 +1361,20 @@ When John Parisi pulled the trigger of the gun that killed Robert Jackson. He di
 <compare>
 <james {% include timecode %}>
 
-During this schizophrenic reaction, the individual comes apart and becomes insane for a period of time. Parisi was only examined once This description of him was not an actual diagnosis. It was a word for word reproduction of Dr. Kemp's theory of homosexual panic. When prosecutors cross-examined the psychologist, they managed to have him admit that gay panic was not a mental illness, nor was it part of psychiatric nomenclature.
+Parisi was only examined once This description of him was not an actual diagnosis. It was a word for word reproduction of Dr. Kemp's theory of homosexual panic. When prosecutors cross-examined the psychologist, they managed to have him admit that gay panic was not a mental illness, nor was it part of psychiatric nomenclature.
 
 </james>
-<from></from>
+<from>
+
+p.4 
+
+Homosexual panic, the psychiatrist stated, is a mental defect and symptomatic of a mental disease.
+
+This last bit of summation is directly lifted from Dr. Kempf’s theory of homosexual panic.
+
+On redirect the prosecution got the homosexual panic psychiatrist to admit that homosexual panic was not a mental illness nor was it part of the psychiatric nomenclature.
+
+</from>
 </compare>
 
 {% assign timecode = "00:33:07" %}
@@ -1255,10 +1382,23 @@ During this schizophrenic reaction, the individual comes apart and becomes insan
 <compare>
 <james {% include timecode %}>
 
-They were using junk science to justify a murder. The jury audibly booed the prosecutor. With no intervention from the judge, Theresa hadn't even testified yet. But the trial was essentially over. Parisi was convicted of manslaughter, but upon appeal was set free. The appeals court stated that by not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak.
+They were using junk science to justify a murder. The jury audibly booed the prosecutor. With no intervention from the judge, Theresa hadn't even testified yet. But the trial was essentially over. Parisi was convicted of manslaughter, but upon appeal was set free. The appeals court stated that by not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak. The original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversity, a full acquittal would have been likely. And so John, Steven Parisi was let back into the world, a world Robert Jackson no longer lived in.
 
 </james>
 <from></from>
+<comment>
+
+"The jury audibly booed the prosecutor." Right, and then everyone clapped. And why would the jury deliver a guilty verdict if they hated the prosecutor?
+
+Anyway, most of this misinformation is sourced from the podcast: 
+
+Reggie claims that Parisie was convicted for manslaughter, but none of the records of the case I could find mentioned manslaughter, only murder. It wouldn't make sense anyway; manslaughter wouldn't get a 40 to 70 year sentence, the sentence length that Reggie claims. 
+
+Reggie then goes into the appeals that Parisie made in the following years, and claims that Parisie was released after his appeal in 1983. This is not true. I'm not a lawyer, so I'm having a hard time parsing the legal text, but what seems to have happened is: when Parisie's appeals to the state courts failed, he appealed to the federal courts. In 1979, the United States District Court for Southern Illinois denied Parisie's appeal. He then appealed to the next highest court, the United States Court of Appeals (Seventh Circuit). [In 1982, the Court of Appeals said that Parisie should have a new trial](https://casetext.com/case/parisie-v-greer). However, note what it says after the court's decision: "reversed and remanded." [A later case by the Court of Appeals in 1983 upheld the District Court's decision](https://casetext.com/case/parisie-v-greer-3). Parisie could have further appealed the case to the Supreme Court, but the Supreme Court is extremely selective about which cases it chooses to argue. I could find no further information about Parisie's status, but he was not released in 1983; he wasn't even granted a retrial.
+
+Here's a text that goes into more detail about the case: https://pure.manchester.ac.uk/ws/portalfiles/portal/54513052/FULL_TEXT.PDF (see p.231 for a more technical summary of the appeals process).
+
+</comment>
 </compare>
 
 {% assign timecode = "00:33:35" %}
@@ -1266,7 +1406,7 @@ They were using junk science to justify a murder. The jury audibly booed the pro
 <compare>
 <james {% include timecode %}>
 
-The original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversity, a full acquittal would have been likely. And so John, Steven Parisi was let back into the world, a world Robert Jackson no longer lived in. Over the next 20 years, the gay panic defense was used regularly in American courtrooms, but not just in the murder of gay men, because defendants often received reduced sentences when claiming gay panic.
+Over the next 20 years, the gay panic defense was used regularly in American courtrooms, but not just in the murder of gay men, because defendants often received reduced sentences when claiming gay panic.
 
 </james>
 <from></from>
@@ -1277,7 +1417,7 @@ The original judge allowed too much doubt to seep in. If the jury were completel
 <compare>
 <james {% include timecode %}>
 
-Many murderers began claiming gay panic even when the victim was, by all accounts, straight. It was an easy way to have a sentence reduced from murder to manslaughter, death penalties to prison time, a defense the prosecutors loathed that gay rights organizations fought to end the use of. But that was roundly ignored by the general population. Most people had never heard of gay panic or the gay panic defense.
+Many murderers began claiming gay panic even when the victim was, <span stat:id="baa">by all accounts</span>, straight.<sup cn></sup> It was an easy way to have a sentence reduced<sup cn></sup> from murder to manslaughter, death penalties to prison time, a defense the prosecutors loathed that gay rights organizations fought to end the use of. But that was roundly ignored by the general population. Most people had never heard of gay panic or the gay panic defense.
 
 </james>
 <from></from>
@@ -1288,10 +1428,14 @@ Many murderers began claiming gay panic even when the victim was, by all account
 <compare>
 <james {% include timecode %}>
 
-It was just a relatively obscure temporary insanity plea that most people would never need to know existed. But gay panic would eventually get national attention. Scott Amador. Scott Amador was a military veteran who appeared on the Jenny Jones show in 1995 at the age of 32. The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003.
+It was just a relatively obscure temporary insanity plea that most people would never need to know existed. But gay panic would eventually get national attention. 
 
 </james>
 <from></from>
+<comment>
+
+As Cynthia Lee states, the gay panic defense generally did not work as a temporary insanity plea (491-494). I'm not sure if there's even one case of it working as a temporary insanity plea, though there were cases of it working as a diminished capacity plea.
+
 </compare>
 
 {% assign timecode = "00:34:58" %}
@@ -1299,54 +1443,33 @@ It was just a relatively obscure temporary insanity plea that most people would 
 <compare>
 <james {% include timecode %}>
 
-Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result.
+Scott Amador. Scott Amador was a military veteran who appeared on the Jenny Jones show in 1995 at the age of 32. The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003. Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result. On air, have spouses reveal affairs and break up with their partners. Bring in unruly teenagers who needed discipline and reveal secret same sex crushes. 
+
+Jenny Jones, though, wasn't quite as popular as her contemporaries. The show had started out as a competitor to Oprah, but it switched gears to trash TV eventually 
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:35:20" %}
+https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 2
+
+*The Jenny Jones Show* was a daytime tabloid talk show that ran for 12 years, between 1991 and 2003. Low ratings in early seasons led the show to pivot to voyeuristic, exploitative content, inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, [encouraging them to confront one another](https://www.youtube.com/watch?v=DZ6YzM1QZHs) in front of her live studio audience. She’d surprise a couple with paternity test results on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed disciplining, and reveal secret same-sex crushes. 
+
+</from>
+</compare>
 
 <compare>
 <james {% include timecode %}>
 
-On air, have spouses reveal affairs and break up with their partners. Bring in unruly teenagers who needed discipline and reveal secret same sex crushes. Jenny Jones, though, wasn't quite as popular as her contemporaries. The show had started out as a competitor to Oprah, but it switched gears to trash TV eventually on one episode that would never actually be aired.
+on one episode that would never actually be aired. The show's premise was to shock straight men by having their gay friend admit to having a crush on them. It was on this episode that the world would have met Scott Amador. The episode was taped on March 6th, 1995. On that day, Scott admitted to having a crush on his friend Jonathan Schmitz. Schmitz knew the premise of the episode was people admitting their secret crushes. But since it was between his friend Scott and a female friend, Donna, he assumed that it would be Donna. Especially after Scott swore it wasn't him the night before. Schmitz later stated that he participated in the show due to curiosity, and he claimed later that the producers implied before the show that his admirer was, in fact, the woman. Although the producers of the show claimed that they did tell Schmitz that the admirer could be anyone. The unaired episode begins with Jones asking Scott Amador to tell the audience about his fantasies involving the 24 year old Schmitz, who was backstage at the time, unable to hear. After Amador was pressed to reveal a fantasy that involved Schmitz Hammock, strawberries and whipped cream, Jones brought out Schmitz, who awkwardly embraced Amador before sitting down. After Jones revealed it was Amador who had the secret crush and played back. The audio of Amador was relatively tame fantasies. Schmitz professes his complete heterosexuality, smiling forcibly and laughing uncomfortably to raucous cheers from the audience. 
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:35:43" %}
+https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 3
 
-<compare>
-<james {% include timecode %}>
+The first episode of *Trial By Media* examines [such a segment that](https://www.youtube.com/watch?v=3EvUzzbzFNc) was shot for *The Jenny Jones Show* on March 6, 1995, but never aired because of the devastating aftermath of the events filmed for the program. The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the 24-year-old Schmitz, who was backstage at the time, unable to hear, and clueless as to who might be waiting to reveal themself to him. After Amedure is pressed to reveal a fantasy that involves Schmitz, a hammock, strawberries, and whipped cream, Jones brings out Schmitz, who awkwardly embraces Amedure before he sits down. After Jones reveals it to be Amedure who has the secret crush and plays back the audio of Amedure’s explicit fantasies, Schmitz professes his “complete heterosexuality,” smiling forcibly and laughing uncomfortably. The clip never aired on television. 
 
-The show's premise was to shock straight men by having their gay friend admit to having a crush on them. It was on this episode that the world would have met Scott Amador. The episode was taped on March 6th, 1995. On that day, Scott admitted to having a crush on his friend Jonathan Schmitz. Schmitz knew the premise of the episode was people admitting their secret crushes.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:36:02" %}
-
-<compare>
-<james {% include timecode %}>
-
-But since it was between his friend Scott and a female friend, Donna, he assumed that it would be Donna. Especially after Scott swore it wasn't him the night before. Schmitz later stated that he participated in the show due to curiosity, and he claimed later that the producers implied before the show that his admirer was, in fact, the woman.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:36:20" %}
-
-<compare>
-<james {% include timecode %}>
-
-Although the producers of the show claimed that they did tell Schmitz that the admirer could be anyone. The unaired episode begins with Jones asking Scott Amador to tell the audience about his fantasies involving the 24 year old Schmitz, who was backstage at the time, unable to hear. After Amador was pressed to reveal a fantasy that involved Schmitz Hammock, strawberries and whipped cream, Jones brought out Schmitz, who awkwardly embraced Amador before sitting down.
-
-</james>
-<from></from>
+</from>
 </compare>
 
 {% assign timecode = "00:36:47" %}
@@ -1354,29 +1477,7 @@ Although the producers of the show claimed that they did tell Schmitz that the a
 <compare>
 <james {% include timecode %}>
 
-After Jones revealed it was Amador who had the secret crush and played back. The audio of Amador was relatively tame fantasies. Schmitz professes his complete heterosexuality, smiling forcibly and laughing uncomfortably to raucous cheers from the audience. It was later stated by Donna that Amador and Schmitz went out drinking together that night after the taping and an alleged sexual encounter actually occurred.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:37:13" %}
-
-<compare>
-<james {% include timecode %}>
-
-Though this has never actually been confirmed, after the trio flew home, Jonathan called his father to tell him what happened. Jonathan found it quite funny, but his father reportedly was not so easy going. In a later trial, his father admitted to telling his son that if he didn't do something about this, that people would think he was gay.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:37:30" %}
-
-<compare>
-<james {% include timecode %}>
-
-Specifically, he had to kill Scott. Otherwise people would think he had been okay with the gay advances. Though he admitted under oath to coercing his son into committing murder. Jonathan's father was never tried. Other testimony said that when Jonathan returned home, he found a sexually suggestive note on his doorstep. Schmitz then drove to Amador, his mobile home, to ask about whether the note was from him.
+It was later stated by Donna that Amador and Schmitz went out drinking together that night after the taping and an alleged sexual encounter actually occurred. Though this has never actually been confirmed, after the trio flew home, Jonathan called his father to tell him what happened. Jonathan found it quite funny, but his father reportedly was not so easy going. In a later trial, his father admitted to telling his son that if he didn't do something about this, that people would think he was gay. Specifically, he had to kill Scott. Otherwise people would think he had been okay with the gay advances. Though he admitted under oath to coercing his son into committing murder. Jonathan's father was never tried. 
 
 </james>
 <from></from>
@@ -1387,10 +1488,16 @@ Specifically, he had to kill Scott. Otherwise people would think he had been oka
 <compare>
 <james {% include timecode %}>
 
-When Amador admitted that it was, Schmitz went to his car and returned to the door with a newly purchased 12 gauge shotgun. Schmitz shot Amador twice in the chest, killing him. He immediately called 911 to turn himself in. During the call, Schmitz was asked why he shot Amador, which he replied, Because he played a very fucking bad thing on me.
+Other testimony said that when Jonathan returned home, he found a sexually suggestive note on his doorstep. Schmitz then drove to Amador, his mobile home, to ask about whether the note was from him. When Amador admitted that it was, Schmitz went to his car and returned to the door with a newly purchased 12 gauge shotgun. Schmitz shot Amador twice in the chest, killing him. He immediately called 911 to turn himself in. During the call, Schmitz was asked why he shot Amador, which he replied, Because he played a very fucking bad thing on me. He took me on Jenny Jones.
 
 </james>
-<from></from>
+<from>
+
+https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 4
+
+Three days after Amedure and Schmitz flew home together to Detroit from Chicago following the episode’s taping, Schmitz showed up at Amedure’s mobile home to inquire about whether a suggestive note left on his driveway was from Amedure. When Amedure admitted it was, Schmitz went to his car and returned to the door with a newly purchased 12-gauge shotgun. Schmitz shot Amedure twice in the chest and killed him. He immediately called 911 to turn himself in. During the call Schmitz is asked why he shot Amedure, to which he replies “Because he played a very fucking bad thing on me. He took me on Jenny Jones.” 
+
+</from>
 </compare>
 
 {% assign timecode = "00:38:17" %}
@@ -1398,10 +1505,18 @@ When Amador admitted that it was, Schmitz went to his car and returned to the do
 <compare>
 <james {% include timecode %}>
 
-He took me on Jenny Jones. Schmitz was charged with first degree murder and committing a felony with a firearm to convict him of first degree murder. Prosecutors had to prove that the murder was premeditated. If convicted of this charge, Schmitz faced life imprisonment without the possibility of parole. The prosecution argued that though Schmitz may have been embarrassed by the Jenny Jones taping.
+Schmitz was charged with first degree murder and committing a felony with a firearm to convict him of first degree murder. Prosecutors had to prove that the murder was premeditated. If convicted of this charge, Schmitz faced life imprisonment without the possibility of parole.
 
 </james>
-<from></from>
+<from>
+
+https://murderpedia.org/male.S/s/schmitz-jonathan.htm
+
+The Charges
+
+Schmitz was charged with first-degree murder and committing a felony with a firearm. To convict him of first-degree murder, prosecutors must prove that the murder was premeditated. If convicted of this charge, Schmitz faces life imprisonment without the possibility of parole. The jury is alowed to consider lesser charges, such as second-degree murder or manslaughter. 
+
+</from>
 </compare>
 
 {% assign timecode = "00:38:38" %}
@@ -1409,10 +1524,22 @@ He took me on Jenny Jones. Schmitz was charged with first degree murder and comm
 <compare>
 <james {% include timecode %}>
 
-It did not justify his killing of Amador. Schmitz drove to one store to purchase a shotgun, drove to another for ammunition, and then drove to Amador his home before firing the fatal shots that demonstrated premeditation. Prosecutors contended that when Schmitz went to Amador, his mobile home, Schmitz became violent. They said that the police report indicating an upturned chair at the crime scene shows that Amador was trying to defend himself.
+The prosecution argued that though Schmitz may have been embarrassed by the Jenny Jones taping. It did not justify his killing of Amador. Schmitz drove to one store to purchase a shotgun, drove to another for ammunition, and then drove to Amador his home before firing the fatal shots that demonstrated premeditation. Prosecutors contended that when Schmitz went to Amador, his mobile home, Schmitz became violent. They said that the police report indicating an upturned chair at the crime scene shows that Amador was trying to defend himself. The state had an oral confession and a videotaped confession from Schmitz. In a pretrial hearing, however, the judge ruled that both confessions were inadmissible.
 
 </james>
-<from></from>
+<from>
+
+https://murderpedia.org/male.S/s/schmitz-jonathan.htm
+
+The Prosecution's Case
+
+Though Schmitz may have been embarrassed by the Jenny Jones taping, it did not justify his killing Amedure, the state argued. Schmitz drove to one store to purchase a shotgun, drove to another for ammunition, and drove to Amedure's home before firing the fatal shots. That demonstrates premeditation, prosecutors said. 
+
+Prosecutors contended that when Schmitz went to Amedure's mobile home, Schmitz became violent. They say that a police report indicating an upturned chair at the crime scene shows that Amedure was trying to defend himself. 
+
+The State had an oral confession and a videotaped confession. In a pretrial hearing, however, the judge ruled that both confessions were inadmissible because the oral confession was made without Schmitz being read his Miranda rights and the videotaped confession was made while his right to counsel was being violated. 
+
+</from>
 </compare>
 
 {% assign timecode = "00:39:06" %}
@@ -1420,21 +1547,20 @@ It did not justify his killing of Amador. Schmitz drove to one store to purchase
 <compare>
 <james {% include timecode %}>
 
-The state had an oral confession and a videotaped confession from Schmitz. In a pretrial hearing, however, the judge ruled that both confessions were inadmissible. SCHMITZ His attorneys argued the defense of diminished capacity. They claimed Schmitz lacked the mental state required to have committed premeditated murder when he shot Amador. According to the defense's theory, Schmitz simply snapped. After finding the note on his doorstep.
+SCHMITZ His attorneys argued the defense of diminished capacity. They claimed Schmitz lacked the mental state required to have committed premeditated murder when he shot Amador. According to the defense's theory, Schmitz simply snapped. After finding the note on his doorstep. Lawyers argued that the very idea of being perceived as gay broke SCHMITZ mentally, that it would do so to any man. But Schmitz, who apparently suffered from manic depression, was particularly vulnerable that he felt the world was falling down on him and that the only way he could stop his mental spiral was to kill Scott. This was years before his father admitted to demanding that he kill his friend.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:39:31" %}
+https://murderpedia.org/male.S/s/schmitz-jonathan.htm
 
-<compare>
-<james {% include timecode %}>
+The Defense's Case
 
-Lawyers argued that the very idea of being perceived as gay broke SCHMITZ mentally, that it would do so to any man. But Schmitz, who apparently suffered from manic depression, was particularly vulnerable that he felt the world was falling down on him and that the only way he could stop his mental spiral was to kill Scott. This was years before his father admitted to demanding that he kill his friend.
+Schmitz's attorneys argued the defense of diminished capacity. They claimed Schmitz lacked the mental state required to have committed premeditated murder when he shot Amedure.
 
-</james>
-<from></from>
+According to the defense's theory, Schmitz simply snapped after finding the note on his doorstep. Lawyers attributed Schmitz' reaction to Grave's disease -- a thyroid gland disorder that can cause irrational and violent behavior -- and manic depression. 
+
+</from>
 </compare>
 
 {% assign timecode = "00:39:54" %}
@@ -1468,7 +1594,7 @@ Jonathan was a good boy. Jonathan never did anything in his whole life. He reall
 <compare>
 <james {% include timecode %}>
 
-LGBT advocate groups fought hard to bring attention to the legally unsound gay panic defense that had been utilized. But people simply weren't interested. It had only been a few years since the supposedly liberal Clinton administration had banned gay men from serving in the military and banned same sex marriage federally to high approval ratings among the American public. In the late 1990s, there was far more sympathy for those who murdered queer people than there was for the queer people being murdered.
+LGBT advocate groups fought hard to bring attention to the legally unsound gay panic defense that had been utilized. But people simply weren't interested. It had only been a few years since the supposedly liberal Clinton administration had banned gay men from serving in the military and banned same sex marriage federally to high approval ratings among the American public. In the late 1990s, there was far more sympathy for those who murdered queer people than there was for the queer people being murdered. A sad reality that was about to be shaken one night in Laramie, Wyoming.
 
 </james>
 <from></from>
@@ -1479,10 +1605,16 @@ LGBT advocate groups fought hard to bring attention to the legally unsound gay p
 <compare>
 <james {% include timecode %}>
 
-A sad reality that was about to be shaken one night in Laramie, Wyoming. Matthew Shepard, Aaron Crow Falls inspected the twisted wheel of his mountain bike. He decided earlier that evening to take a ride on an old double rutted road just outside Laramie, Wyoming. Now, it didn't seem like such a good idea. He had fallen while struggling through deep sand, although he was unhurt.
+Matthew Shepard, Aaron Crow Falls inspected the twisted wheel of his mountain bike. He decided earlier that evening to take a ride on an old double rutted road just outside Laramie, Wyoming. Now, it didn't seem like such a good idea. He had fallen while struggling through deep sand, although he was unhurt. His bike was too badly damaged to ride home. Looking at the bent metal in his hands, he noticed something tied to a nearby fence. At first I thought it was a scarecrow, he said later.
 
 </james>
-<from></from>
+<from>
+
+https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.121
+
+Aaron Kreifels inspected the twisted wheel of his mountain bike. An avid cyclist, the eighteen-year-old college student had decided earlier that cool evening of October 7, 1998, to take a ride on an old, double-rutted road just outside Laramie, Wyoming. Now, it did not seem like such a good idea. He had fallen while struggling through deep sand. Although he was unhurt, his bike was too badly damaged to ride home. Looking at the broken spokes, he noticed something tied to a nearby fence. “At first I thought it was a scarecrow,” Kreifels later told the Denver Post, “so I didn’t think much of it. Then I went around and noticed it was a real person. I checked to see if he was conscious or not, and when I found out he wasn’t, I ran and got help as fast as I could.”<sup>1</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:41:42" %}
@@ -1490,10 +1622,16 @@ A sad reality that was about to be shaken one night in Laramie, Wyoming. Matthew
 <compare>
 <james {% include timecode %}>
 
-His bike was too badly damaged to ride home. Looking at the bent metal in his hands, he noticed something tied to a nearby fence. At first I thought it was a scarecrow, he said later. The scarecrow was Matthew Shepard, a 21 year old University of Wyoming student. Small and slightly built, he only five feet two inches tall and weighed some £105.
+The scarecrow was Matthew Shepard, a 21 year old University of Wyoming student. Small and slightly built, he only five feet two inches tall and weighed some £105. Friends described him as a gentle person, passionately committed to human rights. Shepard was also bold, being openly gay in a conservative state. The night before to Laramie, roofers pretending to be gay had lured him out of a popular local bar, driving Shepard to the spot a mile outside town. They stopped their truck and turned on him, saying, Guess what? We're not gay and you just got jacked. They then bludgeoned him beyond recognition with the butt of a 357 magnum and tied him to the old wooden fence
 
 </james>
-<from></from>
+<from>
+
+https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.121
+
+The “scarecrow” was Matthew Shepard, a twenty-one-year- old University of Wyoming student. Small and slightly built, he stood only five-feet-two-inches tall and weighed some 105 pounds. Friends described him as a gentle person, passionately committed to human rights. Shepard was also bold, being openly gay in a conservative state. The night before, two Laramie roofers, pretending to be gay, had lured him out of a popular local bar. Driving Shepard to this spot a mile outside town, they stopped their truck and, turning to him, said: “Guess what? We’re not gay and you just got jacked.” They then bludgeoned him beyond recognition with the butt of a .357 Magnum and lashed him to the crude wooden fence.<sup>2</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:42:07" %}
@@ -1501,18 +1639,7 @@ His bike was too badly damaged to ride home. Looking at the bent metal in his ha
 <compare>
 <james {% include timecode %}>
 
-Friends described him as a gentle person, passionately committed to human rights. Shepard was also bold, being openly gay in a conservative state. The night before to Laramie, roofers pretending to be gay had lured him out of a popular local bar, driving Shepard to the spot a mile outside town. They stopped their truck and turned on him, saying, Guess what?
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:42:31" %}
-
-<compare>
-<james {% include timecode %}>
-
-We're not gay and you just got jacked. They then bludgeoned him beyond recognition with the butt of a 357 magnum and tied him to the old wooden fence after finding Matthew's body. Aaron rifles rushed to get in touch with paramedics who got to the scene and thought Matthew was already dead. Finding a pulse shocked them into action and they rushed him to a nearby hospital.
+After finding Matthew's body. Aaron rifles rushed to get in touch with paramedics who got to the scene and thought Matthew was already dead. Finding a pulse shocked them into action and they rushed him to a nearby hospital.
 
 </james>
 <from></from>
@@ -1523,10 +1650,19 @@ We're not gay and you just got jacked. They then bludgeoned him beyond recogniti
 <compare>
 <james {% include timecode %}>
 
-The story soon hit America's newspapers, TV networks and the Internet. In response, celebrities and politicians decried the attack. Thousands staged candlelight vigils while the media kept a 24 hour death watch outside Matthew's hospital room. On October 12th, Matthew let out his last breath. Suspects Aaron McKinney and Russell Henderson had been arrested shortly after the attack and were now charged with first degree murder.
+The story soon hit America's newspapers, TV networks and the Internet. In response, celebrities and politicians decried the attack. Thousands staged candlelight vigils while the media kept a 24 hour death watch outside Matthew's hospital room. On October 12th, Matthew let out his last breath. 
 
 </james>
-<from></from>
+<from>
+
+https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.121-123
+
+The story soon hit America’s newswires, television networks, and the Internet. In response, prominent public figures issued state- ments decrying the attack. Thousands staged candlelight vigils while the news media kept a twenty-four-hour watch outside Shepard’s hospital room. The national discussion of the attack at first centered on the legal issue of hate crimes, that is, violence directed against another because that person belongs to a marginalized group. As a gay man in conservative Wyoming, many asserted, Shepard was the
+victim of a hate crime.
+
+When Matthew Shepard died early on the morning of October 12, many Americans proclaimed him a gay martyr. [...]
+
+</from>
 </compare>
 
 {% assign timecode = "00:43:21" %}
@@ -1534,22 +1670,24 @@ The story soon hit America's newspapers, TV networks and the Internet. In respon
 <compare>
 <james {% include timecode %}>
 
-A media circus rose up around the murder and what the role of Shepard's sexual orientation played as a motive for the commission of the crime. Though obviously.
+Suspects Aaron McKinney and Russell Henderson had been arrested shortly after the attack and were now charged with first degree murder. A media circus rose up around the murder and what the role of Shepard's sexual orientation played as a motive for the commission of the crime. 
 
 </james>
-<from></from>
-</compare>
+<from>
 
-00:43:29:18 - 00:43:34:20
-Speaker 3
-No way too early to know for a fact that.
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 para 2
+
+Suspects Aaron McKinney and Russell Henderson were arrested shortly after the attack and charged with first-degree murder following Shepard's death. Significant media coverage was given to the murder and what role Shepard's sexual orientation played as a motive for the commission of the crime. 
+
+</from>
+</compare>
 
 {% assign timecode = "00:43:36" %}
 
 <compare>
 <james {% include timecode %}>
 
-This was not your typical gay bashing in the media's Matthew's boyish good looks, radiant smile and almost angelic presence allowed them to portray him as more than just another murdered queer. He was the boy next door, your daughter's best friend, the babysitter. Your kids loved Matthew's face never seemed to leave TV screens in the days after his death.
+Though obviously. 00:43:29:18 - 00:43:34:20 Speaker 3 No way too early to know for a fact that. This was not your typical gay bashing in the media's Matthew's boyish good looks, radiant smile and almost angelic presence allowed them to portray him as more than just another murdered queer. He was the boy next door, your daughter's best friend, the babysitter. Your kids loved Matthew's face never seemed to leave TV screens in the days after his death.
 
 </james>
 <from></from>
@@ -1560,7 +1698,7 @@ This was not your typical gay bashing in the media's Matthew's boyish good looks
 <compare>
 <james {% include timecode %}>
 
-Even Far-Right Christians, unable to reconcile their idea of homosexuality with Matthew's innocent face, called for retribution. Though there were some protests proclaiming that Matthew was in hell, they were far outnumbered by the opposition. The media paid rapt attention when the murder trial against Aaron McKinney and Russell Henderson began. During the trial, we learned that on the night of October 6th, 1998, Matthew was approached by McKinney and Henderson at the Fireside Lounge in Laramie.
+Even Far-Right Christians, unable to reconcile their idea of homosexuality with Matthew's innocent face, called for retribution. Though there were some protests proclaiming that Matthew was in hell, they were far outnumbered by the opposition. The media paid rapt attention when the murder trial against Aaron McKinney and Russell Henderson began.
 
 </james>
 <from></from>
@@ -1571,10 +1709,18 @@ Even Far-Right Christians, unable to reconcile their idea of homosexuality with 
 <compare>
 <james {% include timecode %}>
 
-McKinney and Henderson decided to give him a ride home. They subsequently drove to a remote rural area and proceeded to rob, pistol whip and torture Matthew. His walk through the jungle right after he's already paid for. So many media reports contained the graphic account of the pistol whipping and his fractured skull. Matthew was beaten so brutally that his face was completely covered in blood, except for white streaks from his tears.
+During the trial, we learned that on the night of October 6th, 1998, Matthew was approached by McKinney and Henderson at the Fireside Lounge in Laramie. McKinney and Henderson decided to give him a ride home. They subsequently drove to a remote rural area and proceeded to rob, pistol whip and torture Matthew. His walk through the jungle right after he's already paid for. So many media reports contained the graphic account of the pistol whipping and his fractured skull. Matthew was beaten so brutally that his face was completely covered in blood, except for white streaks from his tears.
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 
+
+Murder
+
+On the night of October 6, 1998, Shepard was approached by Aaron McKinney and Russell Henderson at the Fireside Lounge in Laramie; all three men were in their early 20s.<sup>[11][9]</sup> McKinney and Henderson offered to give Shepard a ride home.<sup>[12][13]</sup> They subsequently drove to a remote rural area and proceeded to rob, pistol-whip, and torture Shepard, tying him to a barbed-wire fence and leaving him to die. Many media reports contained the graphic account of the pistol-whipping and his fractured skull. Reports described how Shepard was beaten so brutally that his face was completely covered in blood, except where it had been partially cleansed by his tears.<sup>[10][14][15]</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:45:00" %}
@@ -1582,10 +1728,16 @@ McKinney and Henderson decided to give him a ride home. They subsequently drove 
 <compare>
 <james {% include timecode %}>
 
-The killer's girlfriends testified that neither McKinney nor Henderson was under the influence of alcohol or other drugs at the time of the attack. And that they had been persuaded to provide alibis for them and help them dispose of evidence. Matthew was in a coma when he had been found 18 hours after the attack. He had suffered fractures to the back of his head and in front of his right ear.
+The killer's girlfriends testified that neither McKinney nor Henderson was under the influence of alcohol or other drugs at the time of the attack. And that they had been persuaded to provide alibis for them and help them dispose of evidence. 
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 Murder para 2
+
+The assailants' girlfriends testified that neither McKinney nor Henderson was under the influence of alcohol or other drugs at the time of the attack.<sup>[16][17]</sup> McKinney and Henderson testified that they learned of Shepard's address and intended to steal from his home as well. After attacking Shepard and leaving him tied to the fence in near-freezing temperatures, McKinney and Henderson returned to town. McKinney proceeded to pick a fight with two men, 19-year-old Emiliano Morales and 18-year-old Jeremy Herrara. The fight resulted in head wounds for both Morales and McKinney.<sup>[18]</sup> Police officer Flint Waters arrived at the scene of the fight. He arrested Henderson, searched McKinney's truck, and found a blood-smeared gun along with Shepard's shoes and credit card.<sup>[9]</sup> Henderson and McKinney later tried to persuade their girlfriends to provide alibis for them and help them dispose of evidence.<sup>[19]</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:45:20" %}
@@ -1593,10 +1745,20 @@ The killer's girlfriends testified that neither McKinney nor Henderson was under
 <compare>
 <james {% include timecode %}>
 
-He experienced severe brain stem damage, which affected his body's ability to regulate his heart, body temperature and other vital functions. There were also about a dozen small lacerations around his head, face and neck. His injuries were deemed too severe for doctors to operate. Sheppard was pronounced dead six days after the attack at 12:53 a.m. at McKinney's in November 1990 pretrial hearing.
+Matthew was in a coma when he had been found 18 hours after the attack. He had suffered fractures to the back of his head and in front of his right ear. He experienced severe brain stem damage, which affected his body's ability to regulate his heart, body temperature and other vital functions. There were also about a dozen small lacerations around his head, face and neck. His injuries were deemed too severe for doctors to operate. Sheppard was pronounced dead six days after the attack at 12:53 a.m.
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 Murder para 3-5
+
+Still tied to the fence, Shepard was in a coma eighteen hours after the attack when he was discovered by Aaron Kreifels, a cyclist who initially mistook Shepard for a scarecrow.<sup>[20]</sup> Reggie Fluty, the first police officer to arrive at the scene, found Shepard alive but covered in blood. The medical gloves issued by the Albany County Sheriff's Department were faulty, and Fluty's supply ran out. She decided to use her bare hands to clear an airway in Shepard's bloody mouth. A day later, she was informed that Shepard was HIV-positive and that she might have been exposed to the virus due to cuts on her hands. After taking an AZT regimen for several months, she tested negative for HIV.<sup>[21]</sup> Judy Shepard later wrote that she learned of her son's HIV status while he lay dying in the hospital.<sup>[22]</sup>
+
+Shepard was transported first to Ivinson Memorial Hospital in Laramie before being moved to the more advanced trauma ward at Poudre Valley Hospital in Fort Collins, Colorado.<sup>[23]</sup> He had suffered fractures to the back of his head and in front of his right ear. He experienced severe brainstem damage, which affected his body's ability to regulate his heart rate, body temperature, and other vital functions. There were also about a dozen small lacerations around his head, face, and neck. His injuries were deemed too severe for doctors to operate. Shepard never regained consciousness and remained on full life support. While he lay in intensive care and in the days following the attack, candlelight vigils were held around the world.<sup>[24][25][26]</sup>
+
+Shepard was pronounced dead six days after the attack at 12:53 a.m. on October 12, 1998.<sup>[27][28][29][30]</sup> He was 21.<sup>[11] </sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:45:47" %}
@@ -1604,10 +1766,18 @@ He experienced severe brain stem damage, which affected his body's ability to re
 <compare>
 <james {% include timecode %}>
 
-Sergeant Rob Debris testified that McKinney had stated in an interview on October 9th that he and Henderson had identified Sheppard as a robbery target and pretended to be gay to lure him out to their truck and that McKinney had attacked Sheppard after Matthew had put his hand on McKinney's knee. Henderson avoided going to trial when he pleaded guilty to murder and kidnaping charges in order to avoid the death penalty.
+at McKinney's in November 1990 pretrial hearing. Sergeant Rob Debris testified that McKinney had stated in an interview on October 9th that he and Henderson had identified Sheppard as a robbery target and pretended to be gay to lure him out to their truck and that McKinney had attacked Sheppard after Matthew had put his hand on McKinney's knee.
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842
+
+Arrests and Trial
+
+McKinney and Henderson were arrested and initially charged with attempted murder, kidnapping, and aggravated robbery. After Shepard's death, the charges were upgraded from attempted murder to first-degree murder, which meant that the two defendants were eligible for the death penalty. Their girlfriends, Kristen Price and Chasity Pasley, were charged with being accessories after the fact.<sup>[29][31]</sup> At McKinney's November 1998 pretrial hearing, Sergeant Rob Debree testified that McKinney had stated in an interview on October 9 that he and Henderson had identified Shepard as a robbery target and pretended to be gay to lure him out to their truck, and that McKinney had attacked Shepard after Shepard put his hand on McKinney's knee.<sup>[31]</sup> Detective Ben Fritzen testified that Price stated McKinney told her the violence against Shepard was triggered by how McKinney "[felt] about gays".<sup>[31]</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:46:08" %}
@@ -1615,10 +1785,16 @@ Sergeant Rob Debris testified that McKinney had stated in an interview on Octobe
 <compare>
 <james {% include timecode %}>
 
-He agreed to testify against McKinney and was sentenced to two consecutive life terms. In the opening remarks of the trial of Aaron McKinney in the fall of 1999, McKinney's defense launched an all out offense on the myth of Saint Matthew in a familiar pattern of the gay panic defense. They attacked Shepherd's conduct, his lifestyle, his sexual experiences, his morals and everything else that might sway a jury.
+Henderson avoided going to trial when he pleaded guilty to murder and kidnaping charges in order to avoid the death penalty. He agreed to testify against McKinney and was sentenced to two consecutive life terms. 
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 Arrests and Trial para 2
+
+In December 1998, Pasley pleaded guilty to being an accessory after the fact to first-degree murder.<sup>[32]</sup> On April 5, 1999, Henderson avoided going to trial when he pleaded guilty to murder and kidnapping charges. In order to avoid the death penalty, he agreed to testify against McKinney and was sentenced by District Judge Jeffrey A. Donnell to two consecutive life terms. At Henderson's sentencing, his lawyer argued that Shepard had not been targeted because he was gay.<sup>[32]</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:46:36" %}
@@ -1626,7 +1802,7 @@ He agreed to testify against McKinney and was sentenced to two consecutive life 
 <compare>
 <james {% include timecode %}>
 
-The judge refused to even entertain the notion of gay panic. And so the defense team changed strategies. They would instead argue that Matthew's murder was justified publicly announcing that he was HIV positive and therefore a danger to the entire community that he was a sexual predator. But their smears weren't sticking. For McKinney's lawyers, the greatest threat to their defense was an emerging memory of Matthew Shepard as a valued, respected and likable person.
+In the opening remarks of the trial of Aaron McKinney in the fall of 1999, McKinney's defense launched an all out offense on the myth of Saint Matthew in a familiar pattern of the gay panic defense. They attacked Shepherd's conduct, his lifestyle, his sexual experiences, his morals and everything else that might sway a jury. The judge refused to even entertain the notion of gay panic. And so the defense team changed strategies. They would instead argue that Matthew's murder was justified publicly announcing that he was HIV positive and therefore a danger to the entire community that he was a sexual predator. But their smears weren't sticking. For McKinney's lawyers, the greatest threat to their defense was an emerging memory of Matthew Shepard as a valued, respected and likable person.
 
 </james>
 <from></from>
@@ -1648,10 +1824,16 @@ For the first time, legal professionals and the American public were wholly reje
 <compare>
 <james {% include timecode %}>
 
-Religious leaders also weighed in, although they could have framed Matthew and the attack using a religious perspective. They maintained a secular focus and avoided any religious language. Frank Griswold, presiding bishop of the Episcopal Church, described Sheppard as a member of our human community and as our brother, and decried a national climate of hate that makes such a crime possible.
+Religious leaders also weighed in, although they could have framed Matthew and the attack using a religious perspective. They maintained a secular focus and avoided any religious language. Frank Griswold, presiding bishop of the Episcopal Church, described Sheppard as a member of our human community and as our brother, and decried a national climate of hate that makes such a crime possible. Dignity USA a Catholic organization, declared The murder of Matthew Shepard is an extreme example of a hate motivated crime. But neither organization called for people to for Matthew.
 
 </james>
-<from></from>
+<from>
+
+https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.131
+
+Religious leaders also weighed in. Although they could have framed Shepard and the attack using a religious perspective, they also maintained the same secular focus and avoided any religious lan- guage. Frank Griswold, Presiding Bishop of the Episcopal Church, described Shepard as a member of “our human community” and as “our brother” and decried a national “climate of hate” that “makes such a crime possible.” He did not, unlike the president’s statement, request prayers on Shepard’s behalf, nor, as might be expected from a cleric, did Griswold mention Shepard might be in heaven. Dignity/USA, a gay Catholic organization, declared: “the murder of Matthew Shepard is an extreme example of a hate motivated crime.” Yet, it also contained no mention of prayers for the young man. An exception to this trend, however, came from the Metropolitan Community Church. Troy Perry firmly declared: “Matt has truly ‘slipped the surly bonds of earth to touch the face of God.’” This image of Shepard in the presence of God, then, was the exception that proved the rule. Only Perry was willing to depart from a secular construction of Shepard to broach a religious one, although without the language of popular martyrdom. On the whole, the media and prominent public leaders — including many religious leaders — tended to cast Shepard and the attack in a secular light.<sup>25</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:48:00" %}
@@ -1659,10 +1841,14 @@ Religious leaders also weighed in, although they could have framed Matthew and t
 <compare>
 <james {% include timecode %}>
 
-Dignity USA a Catholic organization, declared The murder of Matthew Shepard is an extreme example of a hate motivated crime. But neither organization called for people to for Matthew. After a grueling trial, the jury found McKinney not guilty of premeditated murder, but guilty of felony murder and began to deliberate on the death penalty. Shepard's parents brokered a deal that resulted in McKinney receiving two consecutive life terms without the possibility of parole.
+After a grueling trial, the jury found McKinney not guilty of premeditated murder, but guilty of felony murder and began to deliberate on the death penalty. Shepard's parents brokered a deal that resulted in McKinney receiving two consecutive life terms without the possibility of parole.
 
 </james>
-<from></from>
+<from>
+
+McKinney's trial took place in October and November 1999. Prosecutor Cal Rerucha alleged that McKinney and Henderson pretended to be gay to gain Shepard's trust. Price, McKinney's girlfriend, testified that Henderson and McKinney had "pretended they were gay to get [Shepard] in the truck and rob him."<sup>[12][33]</sup> McKinney's lawyer attempted to put forward a gay panic defense, arguing that McKinney was driven to temporary insanity by alleged sexual advances by Shepard. This defense was rejected by the judge. McKinney's lawyer stated that the two men wanted to rob Shepard but never intended to kill him.<sup>[9]</sup> Rerucha argued that the killing had been premeditated, driven by "greed and violence", rather than by Shepard's sexual orientation.<sup>[34]</sup> The jury found McKinney not guilty of premeditated murder but guilty of felony murder and began to deliberate on the death penalty. Shepard's parents brokered a deal that resulted in McKinney receiving two consecutive life terms without the possibility of parole.<sup>[35]</sup> Henderson and McKinney were incarcerated in the Wyoming State Penitentiary in Rawlins and were later transferred to other prisons because of overcrowding.<sup>[36]</sup> Following her testimony at McKinney's trial, Price pleaded guilty to a reduced charge of misdemeanor interference with a police officer.<sup>[37]</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:48:30" %}
@@ -1706,7 +1892,13 @@ In 2013, a book entitled The Book of Matt was released. The claimed Matthew to b
 The legacy of Matthew Shepard doesn't live on as a salacious book by a writer who first intended on writing a screenplay about the murder, though it lives on in the Matthew Shepard and James Byrd Jr Hate Crimes Prevention Act into law in October of 2009. The measure expands the 1969 United States federal hate crimes law to include crimes motivated by a victim's actual or perceived gender, sexual orientation or gender identity.
 
 </james>
-<from></from>
+<from>
+
+https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.147
+
+The most significant and direct development since 1998 is passage of the Matthew Shepard and James Byrd, Jr., Hate Crimes Prevention Act, the latest incarnation of the bill that was in Congress when Shepard died. It expands the definition of federal hate-crime law to in- clude violence committed because of the victim’s sexual orientation, gender, gender identity, or disability. It also allows the FBI to step in where state hate-crime laws do not exist or where local law enforcement is hesitant to act. After languishing for years, held back and filibustered by conservatives, the bill was finally signed into law on October 28, 2009, by President Obama in the presence of Dennis and Judy Shepard. These events did not simply occur spontaneously as a result of Shepard’s death. Rather, they are part of an ongoing and growing awareness of gay issues in recent decades. Shepard’s popular martyrdom nonetheless did spur that awareness to greater heights, opening the door to further acceptance of gays by many other Americans.<sup>56</sup>
+
+</from>
 </compare>
 
 {% assign timecode = "00:50:14" %}
@@ -1714,7 +1906,7 @@ The legacy of Matthew Shepard doesn't live on as a salacious book by a writer wh
 <compare>
 <james {% include timecode %}>
 
-There was hope after Matthew's murder that the country would wake up, that the LGBT community in America would no longer have to fear for their lives. But before Matthew's murderers even entered a courtroom, people's hopes would be sadly dashed. Billy Jack Gaither, Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there. Only around 100 gay people lived there, but most weren't open.
+There was hope after Matthew's murder that the country would wake up, that the LGBT community in America would no longer have to fear for their lives. But before Matthew's murderers even entered a courtroom, people's hopes would be sadly dashed.
 
 </james>
 <from></from>
@@ -1725,10 +1917,16 @@ There was hope after Matthew's murder that the country would wake up, that the L
 <compare>
 <james {% include timecode %}>
 
-Most would travel to bars in Birmingham to meet other gay people. All of his life, Billy was a faithful Baptist singing in the choir and never missing services. He especially loved gospel music. He kept a Bible on his nightstand, and a friend said he read from it every night. He was described as quiet and easy going in school.
+Billy Jack Gaither, Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there. Only around 100 gay people lived there, but most weren't open. Most would travel to bars in Birmingham to meet other gay people. 
 
 </james>
-<from></from>
+<from>
+
+https://www.youtube.com/watch?v=ynLdCgd3TDc 5:55-6:32
+
+the town of silica alabama had less than 13 000 residents and 70 churches when billy jack gather lived and died there for perspective i live in a city of about 150 000 people and we have 140 churches we are almost 11 times bigger but have only twice as many churches there were only around 100 gay people in sylacauga and none of them were open about it most of the gay people in town including billy would travel to gay bars in birmingham or montgomery to hang out so they could be themselves
+
+</from>
 </compare>
 
 {% assign timecode = "00:51:06" %}
@@ -1736,10 +1934,30 @@ Most would travel to bars in Birmingham to meet other gay people. All of his lif
 <compare>
 <james {% include timecode %}>
 
-He was often bullied. He dropped out of high school in the 11th grade, later getting his GED. He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else. He enlisted in the Marines after getting his GED, but was honorably discharged soon after. Due to high blood pressure.
+All of his life, Billy was a faithful Baptist singing in the choir and never missing services. He especially loved gospel music. He kept a Bible on his nightstand, and a friend said he read from it every night. He was described as quiet and easy going 
 
 </james>
-<from></from>
+<from>
+
+6:46-7:13
+
+all of his life billy was very involved with his baptist church singing in the choir and never missing services he especially loved gospel music he kept a bible on his nightstand and was said to have read from it every night billy jack had four brothers and two sisters one sister named kathy is also gay he has been described as quiet and easy going
+
+</from>
+</compare>
+<compare>
+<james {% include timecode %}>
+
+in school He was often bullied. He dropped out of high school in the 11th grade, later getting his GED. He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else. He enlisted in the Marines after getting his GED, but was honorably discharged soon after. Due to high blood pressure.
+
+</james>
+<from>
+
+7:40-8:23
+
+in school billy was often bullied he was called a [ __ ] and a queer his brother ricky said the name calling was difficult for billy to deal with in such a small town billy jack dropped out of high school in the 11th grade and later got his ged but he stood up for himself and his siblings he didn't like bullies and he would also put his brothers in check if he thought they were bullying someone else according to billy's brother ricky if you triggered his button you better be ready billy's parents told the new york times that after he got his ged he enlisted in the marines but was honorably discharged a year later due to high blood pressure
+
+</from>
 </compare>
 
 {% assign timecode = "00:51:26" %}
@@ -1747,10 +1965,16 @@ He was often bullied. He dropped out of high school in the 11th grade, later get
 <compare>
 <james {% include timecode %}>
 
-When he was 19, his brother sat him down to talk to him about him being gay. He denied it even though they were fine with it. When his brother pressed that it was fine and that they'd stand up for him, he said, Well, maybe I'm bisexual. As he grew into his sexuality, he kept it hidden from his parents, who were both disabled and who he acted as caretaker for taking them to doctors appointments, buying the groceries, cooking the meals, cleaning their house, all while holding down a full time job.
+When he was 19, his brother sat him down to talk to him about him being gay. He denied it even though they were fine with it. When his brother pressed that it was fine and that they'd stand up for him, he said, Well, maybe I'm bisexual. 
 
 </james>
-<from></from>
+<from>
+
+8:24-8:53
+
+when billy was 19 ricky had a discussion with him about his sexuality billy denied being gay and ricky assured him that it was okay if he was billy jack reportedly said well i'm not gay but maybe bisexual his sister kathy also confronted billy around this age he also tried to deny it to her but kathy was also gay and she told him in no uncertain words that he was gay and he needed to figure it out
+
+</from>
 </compare>
 
 {% assign timecode = "00:51:56" %}
@@ -1758,10 +1982,39 @@ When he was 19, his brother sat him down to talk to him about him being gay. He 
 <compare>
 <james {% include timecode %}>
 
-He wasn't a shut in, though. He had gay friends in other parts of the state and in North Florida and had at least two long term relationships, not including a woman he almost married, make his parents happy. When single he would go to gay or at least gay inclusive bars in more populated areas of the state. On February 19th, 1999, Billy Jack Gaither went to the Tavern, an Alabama nightclub where he had been friends with the owner, Marion Hammond, for 20 years.
+As he grew into his sexuality, he kept it hidden from his parents, who were both disabled and who he acted as caretaker for taking them to doctors appointments, buying the groceries, cooking the meals, cleaning their house, all while holding down a full time job.
 
 </james>
-<from></from>
+<from>
+
+10:00-10:15
+
+but at 39 years old he seemed to have accepted himself and his place in sylacauga he was not out to his parents and friends say he never flaunted his sexuality but if you asked him he would tell the truth 
+
+10:51-11:16
+
+he lived with his disabled parents in their silica home he took care of his parents and was devoted to them friends say that billy jack's parents were his whole life he always put them first he did all the shopping he cooked all of their meals and cleaned the house mowed their lawn took them to doctor's appointments all while holding down a full-time job
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+He wasn't a shut in, though. He had gay friends in other parts of the state and in North Florida and had at least two long term relationships, not including a woman he almost married, make his parents happy. When single he would go to gay or at least gay inclusive bars in more populated areas of the state. 
+
+</james>
+<from>
+
+8:55-9:03
+
+billy really did try to be straight for the sake of his parents he was even engaged to a girl once
+
+12:37-12:46
+
+friends say billy did have at least two short-term relationships with other men but he would meet them out of town
+
+</from>
 </compare>
 
 {% assign timecode = "00:52:23" %}
@@ -1769,10 +2022,20 @@ He wasn't a shut in, though. He had gay friends in other parts of the state and 
 <compare>
 <james {% include timecode %}>
 
-Gaither was a regular there, another regular, Steve Mullins, also started hanging out at the tavern. His presence, though, wasn't quite so benign. He sometimes showed up wearing racist t shirts and harassing African-American customers. He was known locally as a wannabe skinhead. People mentioned later that they saw Mullins and Gaither together at the bar a lot. Assuming that Gaither was talking him out of his borderline white supremacist ways, sometimes they would leave together, which made some people assume that they had a sexual relationship when in reality, Billy Jack was well known for driving his drunk friends home at the end of the night.
+On February 19th, 1999, Billy Jack Gaither went to the Tavern, an Alabama nightclub where he had been friends with the owner, Marion Hammond, for 20 years. Gaither was a regular there, another regular, Steve Mullins, also started hanging out at the tavern. His presence, though, wasn't quite so benign. He sometimes showed up wearing racist t shirts and harassing African-American customers. He was known locally as a wannabe skinhead. People mentioned later that they saw Mullins and Gaither together at the bar a lot. Assuming that Gaither was talking him out of his borderline white supremacist ways, sometimes they would leave together, which made some people assume that they had a sexual relationship when in reality, Billy Jack was well known for driving his drunk friends home at the end of the night.
 
 </james>
-<from></from>
+<from>
+
+13:55-14:42
+
+though billy often traveled to birmingham to hang out at the toolbox a local gay bar there his hometown bar was called the tavern the bar his friend miriam hammond owned billy went to the tavern almost every friday and saturday night and on weekdays when he didn't have to work he met a man at the tavern named stephen mullins according to mullins they were supposedly just acquaintances there were rumors that billy and steven often sat in the back of the tavern together and then would leave together at the end of the night but it was probably not a sexual relationship billy often gave rides home to drunken friends at the tavern he sometimes took gas money but that was it
+
+14:42-15:42
+
+stephen mullins was one of billy's murderers at 25 years old he was an ex-con and stood six feet one inch tall and weighed 200 pounds he wore kkk and white power t-shirts and shaved his head he had a nazi ss symbol tattooed on his hand according to marion stephen was a regular at the bar she said when he first started coming in he was a wannabe bad boy but if someone challenged him he'd back down if a black person came into the bar stephen would sit away from them and make racist comments but not actually directly confront them he would later testify to being a former skinhead he sounds like your average racist redneck piece of [ __ ] all talk and intimidation when he was actually a coward steven occasionally worked construction but he was usually unemployed
+
+</from>
 </compare>
 
 {% assign timecode = "00:52:59" %}
@@ -1783,7 +2046,22 @@ Gaither was a regular there, another regular, Steve Mullins, also started hangin
 Mullins had recently taken to hanging out with a man named Charles Butler. They'd known each other for years because Mullins had lived with Butler's cousin. The two were hanging out at the tavern one night when Billy Jack arrived a few hours later. No one was surprised when Billy Jack offered the pair drive home. What Billy Jack didn't know before he made the offer was that Mullins had told Butler that Billy Jack had propositioned him and that he was going to make sure it never happened again.
 
 </james>
-<from></from>
+<from>
+
+15:42-15:57
+
+about a month before billy was murdered steven started hanging around with a guy named charles butler jr his nickname was charles e they had known each other for a few years because steven had lived with charles's half-brother
+
+16:34-16:45
+
+stephen and charles didn't know billy until the night of the murder steven had told charles that billy had propositioned him and stephen was quote planning on doing something about it
+
+</from>
+<comment>
+
+According to the podcast, Stephen asked Billy to give him a ride to the Tavern, Charles was at a pool tournament at a different bar, Stephen went back and forth between the two bars a couple times and talked to Charles about the murder plan at some point, Billy picked them both up when the tournament was over, the police were at the Tavern so they went to Charles' house instead.
+
+</comment>
 </compare>
 
 {% assign timecode = "00:53:27" %}
@@ -1791,10 +2069,16 @@ Mullins had recently taken to hanging out with a man named Charles Butler. They'
 <compare>
 <james {% include timecode %}>
 
-From all accounts, the proposition never actually happened. Billy Jack never had encounters with men from Sylacauga for fear that word would get back to his parents. He only dated men from Birmingham and even admonished other gay men in local bars when they flirted too. Obviously. A friend said later that Billy was proud of being gay, but never expected anyone else to accept him.
+<span stat:id="baa">From all accounts,</span> the proposition never actually happened. Billy Jack never had encounters with men from Sylacauga for fear that word would get back to his parents. He only dated men from Birmingham and even admonished other gay men in local bars when they flirted too. Obviously. A friend said later that Billy was proud of being gay, but never expected anyone else to accept him.
 
 </james>
-<from></from>
+<from>
+
+16:52-17:50
+
+billy claimed he didn't say anything back but billy's brother ricky said he didn't believe billy would proposition anyone quote he wouldn't approach anybody that didn't approach him he didn't push himself on people he didn't push the gay life on people he accepted people for what they were marian hammond owner of the tavern agreed and said billy was really strict about his life in sylacauga and would even admonish other gay men in the tavern if they were too flamboyant or hit on straight men he was insistent that there were gay bars for that in birmingham and it would cause trouble in the silica bar he loved the tavern and he didn't want anyone to be offended from all accounts billy strictly dated men in birmingham or sometimes montgomery the rumors about him and stephen were really just that rumors there's no proof that billy had any sort of relationship with stephen
+
+</from>
 </compare>
 
 {% assign timecode = "00:53:50" %}
@@ -1805,7 +2089,13 @@ From all accounts, the proposition never actually happened. Billy Jack never had
 Mullins and Butler convinced Billy Jack to join them near a creek where they could talk and drink, and according to several people at the bar, implied that more than just that would happen. Billy's sister would later say that Billy would never drive out there because you had to take a gravel road. He loved his car too much for that.
 
 </james>
-<from></from>
+<from>
+
+21:11-22:28
+
+when they were done discussing their plans charles came out and told billy that they should all go to the watersheds so billy drove them there thinking they were just gonna sit outside talking and drinking billy's sister kathy said that billy would never have driven his car out there because you had to take a gravel road he loved his car a gold-colored honda but it would seem like he did accounts differ some people believe that stephen and charles forced billy into the trunk before going to the watersheds but this is one part of their stories that matches they said they asked billy to drive them all there and he did whether he just wanted to hang out and drink for a good time or whether he actually expected sex is debatable it's certainly possible he was lonely a friend later told the media that billy jack had recently broken up with a married man he had been seeing and that he was very sad about it perhaps those feelings nudged billy into breaking his own rules about his sex life in silicoga we can't be sure we only have the words of his murderers and their accounts differ
+
+</from>
 </compare>
 
 {% assign timecode = "00:54:10" %}
@@ -1816,7 +2106,11 @@ Mullins and Butler convinced Billy Jack to join them near a creek where they cou
 Though accounts for Mullins and Butler differ. We know that once they had arrived at the creek, the two began beating Billy, striking him over the head until he fell to the ground. Butler reportedly urinated on Billy once he was on the ground and then Mullins cut his throat with a dull pocket knife. The dullness of the knife, though, meant Billy was bleeding, but not dead.
 
 </james>
-<from></from>
+<from>
+
+charles said that at the watersheds billy started talking about wanting to have a threesome which made him mad so he kicked billy in the chest and back then he walked around the front of billy's car and urinated stephen walked over to where billy was on the ground and started punching him and then took out his pocket knife and cut billy's throat stephen would later say that he began the assault that as charles was urinating he saw that billy was watching him so he grabbed him threw him to the ground and cut his throat and now billy was on the ground kneeling on his hands and knees but not yet dead
+
+</from>
 </compare>
 
 {% assign timecode = "00:54:32" %}
@@ -1824,10 +2118,16 @@ Though accounts for Mullins and Butler differ. We know that once they had arrive
 <compare>
 <james {% include timecode %}>
 
-Clutching his throat, he begged for his life. The two men picked him up and dumped him in the trunk of his car. Mullins threw the knife in a creek before the two men drove the car back to Butler's trailer. They got two old tires, matches and a can of kerosene and an ax handle. They then drove to an embankment in neighboring Coosa County.
+Clutching his throat, he begged for his life. The two men picked him up and dumped him in the trunk of his car. Mullins threw the knife in a creek before the two men drove the car back to Butler's trailer. They got two old tires, matches and a can of kerosene and an ax handle. 
 
 </james>
-<from></from>
+<from>
+
+23:06-23:46
+
+stephen told charles to open the trunk and when billy tried to stand up stephen stabbed him twice in the rib cage and told him not to move then he told him to get into the trunk and he and charles claimed that billy did climb into the trunk on his own then steven threw the pocketknife into the river after billy got into the trunk charles sat in the passenger seat while stephen drove them to his trailer they got two tires matches and a can of kerosene steven also grabbed an axe handle and then they threw all of this stuff in the trunk with billy
+
+</from>
 </compare>
 
 {% assign timecode = "00:54:55" %}
@@ -1835,10 +2135,16 @@ Clutching his throat, he begged for his life. The two men picked him up and dump
 <compare>
 <james {% include timecode %}>
 
-Then they pulled Billy out of the trunk of the car. He took his chance, pushing Mullins down the embankment. Butler was much smaller than Billy got scared and ran into the woods. Billy jumped into the car, hands slick with blood and tried to escape, but in a scene right out of a horror movie. Mullins climbed up the embankment.
+They then drove to an embankment in neighboring Coosa County. Then they pulled Billy out of the trunk of the car. He took his chance, pushing Mullins down the embankment. Butler was much smaller than Billy got scared and ran into the woods. Billy jumped into the car, hands slick with blood and tried to escape, but in a scene right out of a horror movie. Mullins climbed up the embankment.
 
 </james>
-<from></from>
+<from>
+
+23:59-24:33
+
+steven then drove them to a remote area near peckerwood creek in coosa county outside of sylacauga after parking stephen opened the trunk and billy saw his chance and jumped out quickly pushing stephen down the creek embankment where he fell into the water seeing this charles got scared and ran down the street and into the woods where he hid billy got into the car and tried to leave but stephen was able to get back up the embankment and back to the car
+
+</from>
 </compare>
 
 {% assign timecode = "00:55:14" %}
@@ -1846,10 +2152,20 @@ Then they pulled Billy out of the trunk of the car. He took his chance, pushing 
 <compare>
 <james {% include timecode %}>
 
-Keys held aloft. He dragged Billy out of the car and beat him to death with the ax handle. Butler back to the car. Once he saw that Billy was down. Helped to set up the tires and lit them on fire. Mullins then tossed Billy's body onto the flames. The two watched Billy in the flames for 5 minutes before leaving in his car.
+Keys held aloft. He dragged Billy out of the car and beat him to death with the ax handle. Butler back to the car. Once he saw that Billy was down. Helped to set up the tires and lit them on fire. Mullins then tossed Billy's body onto the flames. The two watched Billy in the flames for 5 minutes before leaving in his car. The smell of burning flesh was easily covered by the smell of burning rubber.
 
 </james>
-<from></from>
+<from>
+
+24:33-25:24
+
+he told billy that he wasn't going anywhere and showed him the keys in his hand stephen grabbed billy by his pants legs and drug him away from the car and started beating him with the axe handle at this point charles left his hiding spot and went back to watch steven was viciously beating billy over the head with the axe handle and he was barking orders to charles he told him to start cleaning the blood from billy's car charles grabbed steven's sweatshirt and started wiping the seats billy jack had been punched kicked stabbed and had his throat cut but he had still survived he finally fell unconscious after being bludgeoned with the axe handle repeatedly
+
+25:24-25:45
+
+stephen and charles got the tires out of the car doused them with a kerosene and let them on fire then they dragged billy and threw him onto the fire steven threw his sweatshirt and the axe handle into the fire and then he and charles watched for about five minutes before they took billy's car and left 
+
+</from>
 </compare>
 
 {% assign timecode = "00:55:37" %}
@@ -1857,10 +2173,16 @@ Keys held aloft. He dragged Billy out of the car and beat him to death with the 
 <compare>
 <james {% include timecode %}>
 
-The smell of burning flesh was easily covered by the smell of burning rubber. When Billy didn't return home by the morning, his friends started searching for him and called the police. It wasn't long before they tied. The missing person reports to the reports of black smoke that morning. When they arrived, they found teeth and hair on the ground.
+When Billy didn't return home by the morning, his friends started searching for him and called the police. It wasn't long before they tied. The missing person reports to the reports of black smoke that morning. When they arrived, they found teeth and hair on the ground. And then Billy's charred body. His skull was split open, His nose had been caved in and his face was described as barely human. An autopsy came to the conclusion that, thankfully, Billy was dead before his body hit the flames.
 
 </james>
-<from></from>
+<from>
+
+26:20-27:31
+
+when billy didn't return home by the morning his friends started searching for him on february 20th a woman named jody her husband and her son were taking a shortcut in their truck through the peckerwood creek area when they found billy's body jody called the police in years past this creek had been used by baptists and pentecostals for baptisms when police arrived they saw teeth and hair on the ground a clear sign of a struggle and then they found billy's badly burned body with the tires his skull was split open his nose was caved in and it looked like his head had been hit repeatedly the state medical examiner conducted the autopsy and found that billy had been hit in the head with a blunt object which could have been an axe handle at least 10 times he concluded that billy's cause of death was the result of multiple blunt force trauma to the head and also that thankfully billy was dead before he was burned
+
+</from>
 </compare>
 
 {% assign timecode = "00:55:57" %}
@@ -1868,21 +2190,16 @@ The smell of burning flesh was easily covered by the smell of burning rubber. Wh
 <compare>
 <james {% include timecode %}>
 
-And then Billy's charred body. His skull was split open, His nose had been caved in and his face was described as barely human. An autopsy came to the conclusion that, thankfully, Billy was dead before his body hit the flames. Butler's father later said that when his son returned home the night of the murder, he said, I've got to tell you something.
+Butler's father later said that when his son returned home the night of the murder, he said, I've got to tell you something. We killed somebody. We kicked the queers ass. Butler said he'd turn himself in if his father went with him, but his father refused, saying he would never turn his own son in. But about a week later, Butler's father did tell a friend about what happened, and his friend went to the police. Butler confessed, saying God told him to do it. Later, Mullins said he did it because he did not trust homosexuals. Both men were arrested for murder. Neither men were charged with a hate crime because Alabama did not consider murdering a queer person a hate crime.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "00:56:19" %}
+27:31-28:58
 
-<compare>
-<james {% include timecode %}>
+according to charles butler senior his son came home around 3 am the night of the murder charles jr told his dad he had something important to tell him he started crying and said quote daddy we killed somebody and said that they had quote kicked a queer's ass charles then said he would turn himself in if his dad would go with him but charles senior said he couldn't turn his own son in but about a week later charles senior did tell his friend joey about what happened this joey then went to the police a day later on march 1 1999 charles jr went to the police and turned himself in he said he couldn't sleep he confessed to what he and stephen had done to billy jack on march 3rd stephen gave a statement to the silica police he said god told him he needed to confess at first stephen told the police that he and charles had planned on killing billy a few weeks before they actually did steven said he killed billy because he quote did not trust homosexual people both stephen and charles were arrested for murder and held on 500 000 bail stephen and charles were not charged with a hate crime because in alabama sexual orientation is not included in the hate crime statute 
 
-We killed somebody. We kicked the queers ass. Butler said he'd turn himself in if his father went with him, but his father refused, saying he would never turn his own son in. But about a week later, Butler's father did tell a friend about what happened, and his friend went to the police. Butler confessed, saying God told him to do it.
-
-</james>
-<from></from>
+</from>
 </compare>
 
 {% assign timecode = "00:56:40" %}
@@ -1890,7 +2207,7 @@ We killed somebody. We kicked the queers ass. Butler said he'd turn himself in i
 <compare>
 <james {% include timecode %}>
 
-Later, Mullins said he did it because he did not trust homosexuals. Both men were arrested for murder. Neither men were charged with a hate crime because Alabama did not consider murdering a queer person a hate crime. Butler claimed the gay panic defense, telling the police, Well, sir, he started talking, you know, queer stuff, you know, And I just didn't want no part of it.
+Butler claimed the gay panic defense, telling the police, Well, sir, he started talking, you know, queer stuff, you know, And I just didn't want no part of it.
 
 </james>
 <from></from>
