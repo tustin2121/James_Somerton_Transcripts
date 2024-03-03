@@ -240,6 +240,13 @@
 		],
 		"description": "Insert \"by all accounts\""
 	},
+	"sub-queer": {
+		"prefix": "sub-queer",
+		"body": [
+			"<span stat:id=\"sub-queer\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert \"sub-queer\""
+	},
 	"statistic": {
 		"prefix": "statistic",
 		"body": [
