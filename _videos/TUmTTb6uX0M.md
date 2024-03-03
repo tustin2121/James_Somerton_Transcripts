@@ -20,6 +20,11 @@ notes:
   - feb26-unprivate
   - w-nick-james
 
+history:
+  2022-02-25: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tobicat
@@ -35,9 +40,10 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-02-25" %}>
 
-#scarletwitch #multiverseofmadness #wandavision
-
+#scarletwitch #multiverseofmadness #wandavision  
+  
 
 {% include chapter-link at="00:00" for="Introduction" %}  
 {% include chapter-link at="06:23" for="Part One: Queen Witch" %}  
@@ -45,6 +51,20 @@ cite:
 {% include chapter-link at="31:42" for="Part Three: The Witch Is Back" %}  
 {% include chapter-link at="44:57" for="Part Four: Life's A Witch" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+#scarletwitch #multiverseofmadness #wandavision  
+  
+[patreon link]
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="06:23" for="Part One: Queen Witch" %}  
+{% include chapter-link at="15:18" for="Part Two: She's a Witch, She's a Lover" %}  
+{% include chapter-link at="31:42" for="Part Three: The Witch Is Back" %}  
+{% include chapter-link at="44:57" for="Part Four: Life's A Witch" %}  
+
+</details>
 </credits>
 </compare>
 

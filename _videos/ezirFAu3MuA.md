@@ -14,6 +14,11 @@ links: !!seq
 notes:
   - feb26-unprivate
 
+history:
+  2022-11-05: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -25,6 +30,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-11-05" %}>
 
 Why is it that, for queer people, perfection is a necessity instead of an option?
 
@@ -37,6 +43,21 @@ PATREON: [link]
 31:27 Chapter 4  
 40:29 Chapter 5  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Why is it that, for queer people, perfection is a necessity instead of an option?
+
+[patreon link]
+
+00:00 Introduction  
+03:50 Chapter 1  
+12:00 Chapter 2  
+18:55 Chapter 3  
+31:27 Chapter 4  
+40:29 Chapter 5  
+
+</details>
 </credits>
 </compare>
 

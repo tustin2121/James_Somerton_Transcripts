@@ -224,6 +224,17 @@
 		],
 		"description": "Insert a header for a <comment> block."
 	},
+	"description-version": {
+		"prefix": "description-version",
+		"body": [
+			"<details {% include description-version for=\"2022-09-04\" %}>",
+			"",
+			"$TM_SELECTED_TEXT$0",
+			"",
+			"</details>",
+		],
+		"description": "Insert description version block."
+	},
 	
 	"video-on-off": {
 		"prefix": "video-on-off",

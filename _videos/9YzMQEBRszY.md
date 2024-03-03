@@ -14,6 +14,11 @@ links: !!seq
 notes:
   - feb26-unprivate
 
+history:
+  2023-02-01: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSyzDH5rNZUyxnHrQAhxXQpfeL1HHBEfzgWB1ze6_xnzdvUKQkv6ZiHnPx_zZun3_aUDgOv1ALMteA8/pub
@@ -40,6 +45,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-02-01" %}>
 
 [sponsor plug]
 
@@ -55,6 +61,22 @@ Nicks Twitter: [link]
 23:40 Part Three - Terms and Conditions  
 31:30 Part Four - The Fine Print  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+[sponsor plug]
+
+With the release of "Knock At The Cabin", we decided to take a look at the growing attacks on the queer community's privacy and security. 
+
+[patreon link]  
+
+00:00 Introduction  
+05:57 Part One - Full Coverage  
+18:18 Part Two - Policy Reminder  
+23:40 Part Three - Terms and Conditions  
+31:30 Part Four - The Fine Print  
+
+</details>
 </credits>
 </compare>
 

@@ -44,13 +44,14 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-04-20" %}>
 
 [Sponsor link]
 
 [Another Sponsor link]
 
-PATREON: [link]
- 
+PATREON: [link]  
+  
 
 {% include chapter-link at="00:00" for="Introduction" %}  
 {% include chapter-link at="05:10" for="Part One - Always Watching" %}  
@@ -59,6 +60,20 @@ PATREON: [link]
 {% include chapter-link at="30:32" for="Part Four - A Day At The Human Races" %}  
 {% include chapter-link at="36:19" for="Part Five - Know Thine Enemy" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+PATREON: [new link]  
+  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="05:10" for="Part One - Always Watching" %}  
+{% include chapter-link at="11:41" for="Part Two - Making A STATEment" %}  
+{% include chapter-link at="22:11" for="Part Three - Bureaucrats Bearing Gifts" %}  
+{% include chapter-link at="30:32" for="Part Four - A Day At The Human Races" %}  
+{% include chapter-link at="36:19" for="Part Five - Know Thine Enemy" %}  
+
+</details>
 </credits>
 </compare>
 

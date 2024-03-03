@@ -20,6 +20,11 @@ notes:
   - feb26-unprivate
   - w-nick-james
 
+history:
+  2023-01-14: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting:
@@ -53,6 +58,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-01-14" %}>
 
 Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
 
@@ -68,6 +74,26 @@ PATREON: [link]
 
 #helluvaboss #hazbinhotel
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Written by Nick Herrgott
+
+[patreon link]
+
+Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
+
+{% include chapter-link at="00:00" for="Introduction" slug="Introduction" %}  
+{% include chapter-link at="12:03" for="Part 1 - Genre F***" slug="Part One: Genre F***" %}  
+{% include chapter-link at="22:46" for="Part 2 - Mr. Rogers' Neighbourhood" slug="Part Two: Mr. Rogers' Neighbourhood" %}  
+{% include chapter-link at="29:33" for="Part 3 - Gate Kept" slug="Part Three: Gate Kept" %}  
+{% include chapter-link at="36:41" for="Part 4 - Size Queen" slug="Part Four: Size Queen" %}  
+{% include chapter-link at="46:33" for="Part 5 - Targeted Audience" slug="Part Five: Targeted Audience" %}  
+{% include chapter-link at="52:04" for="Part 6 - Raise Hell" slug="Part Six: Raise Hell" %}  
+
+#helluvaboss #hazbinhotel
+
+</details>
 </credits>
 </compare>
 

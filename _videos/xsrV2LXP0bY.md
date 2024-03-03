@@ -18,6 +18,11 @@ notes:
   - odd-linebreaks
   - feb26-unprivate
 
+history:
+  2021-07-31: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -29,6 +34,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-07-31" %}>
 
 There's so much more going on in "Painter of the Night" than just sex and violence.
 
@@ -44,6 +50,23 @@ My Patreon:
 
 #PainteroftheNight #Manga #VideoEssay
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+There's so much more going on in "Painter of the Night" than just sex and violence.
+
+[patreon link]
+
+{% include chapter-link at="00:00" for="Intro" %}  
+{% include chapter-link at="03:47" for="Part 1 - Spilling Tea" %}  
+{% include chapter-link at="11:15" for="Part 2 - Subjugation Fetish" %}  
+{% include chapter-link at="18:27" for="Part 3 - We Eat Our Own" %}  
+{% include chapter-link at="30:17" for="Part 4 - We Are All Parasites" %}  
+{% include chapter-link at="41:27" for="Part 5 - Class Contrast" %}  
+
+#PainteroftheNight #Manga #VideoEssay
+
+</details>
 </credits>
 </compare>
 

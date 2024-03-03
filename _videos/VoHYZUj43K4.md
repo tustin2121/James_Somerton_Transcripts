@@ -64,7 +64,8 @@ cite:
 
 <compare>
 {% include meta-history video=page %}
-<credits header="Video Description (Original):">
+<credits class="desc">
+<details {% include description-version for="2022-09-04" label="Original upload" %}>
 
 There might be a lot less going on in "Attack on Titan" than you think.
 
@@ -80,16 +81,8 @@ Patron: [link]
 
 #attackontitan #lordoftherings
 
-</credits>
-<comment span="2">
-{% include header for=tustin %}
-
-This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
-
-This transcript is of the original upload, clocking in at 1:00:01. Timestamps on boxes in the transcript proper will be for the original upload, and comments will point out when something was removed for the reupload.
-
-</comment>
-<credits header="Video Description (Reupload):">
+</details>
+<details {% include description-version for="2023-01-02" label="Reupload" %}>
 
 The actual meaning of Attack on Titan might be far more complicated than you think. Or... it might be so simple you won't want to admit it.
 
@@ -107,7 +100,16 @@ Patron: [link]
 {% include chapter-link at="40:13" for="Chapter 4 (Part 2)" slug="Chapter 4: Part Two: Applicability" %}  
 {% include chapter-link at="51:38" for="Chapter 4 (Part 3)" slug="Chapter 4: Part Three: Caged Interpretation"%}  
 
+</details>
 </credits>
+<comment>
+{% include header for=tustin %}
+
+This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
+
+This transcript is of the original upload, clocking in at 1:00:01. Timestamps on boxes in the transcript proper will be for the original upload, and comments will point out when something was removed for the reupload.
+
+</comment>
 </compare>
 
 {% include transcript-start %}

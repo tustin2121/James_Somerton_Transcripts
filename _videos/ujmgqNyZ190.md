@@ -17,6 +17,11 @@ notes:
   - short-advert
   - feb26-unprivate
 
+history:
+  2021-04-01: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
@@ -37,6 +42,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-04-01" %}>
 
 What the hell is “Killing Stalking”?
 
@@ -65,6 +71,36 @@ https://www.chaosopus.com
 {% include chapter-link at="44:05" for="6. This Is Not A Love Song" %}  
 {% include chapter-link at="52:32" for="7. Love Never Dies" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+What the hell is “Killing Stalking”?
+
+[patreon link]
+
+#KillingStalking #VideoEssay #manga  
+\====================  
+
+https://www.thehotline.org  
+https://www.loveisrespect.org  
+https://www.strongheartshelpline.org  
+http://www.glbtnationalhelpcenter.org  
+
+chAosOPUS STUDIOS  
+https://www.chaosopus.com
+
+\====================  
+
+{% include chapter-link at="00:00" for="Content Warning and Introduction" %}  
+{% include chapter-link at="05:17" for="1. Tainted Love" %}  
+{% include chapter-link at="19:58" for="2. Crazy in Love" %}  
+{% include chapter-link at="22:22" for="3. Is It Love?" %}  
+{% include chapter-link at="29:51" for="4. You Give Love A Bad Name" %}  
+{% include chapter-link at="35:53" for="5. I Would Do Anything For Love (But I Won't Do That)" %}  
+{% include chapter-link at="44:05" for="6. This Is Not A Love Song" %}  
+{% include chapter-link at="52:32" for="7. Love Never Dies" %}  
+
+</details>
 </credits>
 </compare>
 

@@ -20,6 +20,11 @@ notes:
   - feb26-unprivate
   - w-nick-james
 
+history:
+  2022-03-20: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 cite:
   clips: !!map
     the_favorite: { short: "the_favorite", full: "TODO the_favorite" }
@@ -33,6 +38,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-03-20" %}>
 
 What's more tragic? Being poor or being rich? You might be surprised at how media portrays it.
 
@@ -47,6 +53,23 @@ PATREON: [link]
 {% include chapter-link for="Part Five" at="38:08" %}  
 {% include chapter-link for="Part Six" at="47:50" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+What's more tragic? Being poor or being rich? You might be surprised at how media portrays it.
+
+[patreon link]
+
+{% assign chLinkStyle = "text time" %}
+{% include chapter-link for="Introduction" at="00:00" %}  
+{% include chapter-link for="Part One" at="03:52" %}  
+{% include chapter-link for="Part Two" at="15:16" %}  
+{% include chapter-link for="Part Three" at="25:41" %}  
+{% include chapter-link for="Part Four" at="32:02" %}  
+{% include chapter-link for="Part Five" at="38:08" %}  
+{% include chapter-link for="Part Six" at="47:50" %}  
+
+</details>
 </credits>
 </compare>
 

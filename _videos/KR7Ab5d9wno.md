@@ -18,6 +18,11 @@ links: !!seq
 notes:
   - feb26-unprivate
 
+history:
+  2023-04-07: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -29,6 +34,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-04-07" %}>
 
 [Sponsor plug]
 
@@ -49,6 +55,29 @@ Nicks Twitter: [link]
 {% include chapter-link at="51:43" for="Re-Examination" %}  
 {% include chapter-link at="56:35" for="Climax" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Written by Nick Herrgott
+
+[Sponsor plug]
+
+Modest Proposal Art by Henry Behrens
+
+[patreon link]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="4:58" for="The Bad Movies Club" %}  
+{% include chapter-link at="12:44" for="Isn't It Iconic?" %}  
+{% include chapter-link at="22:06" for="Please Sir, I Want Some Gore" %}  
+{% include chapter-link at="31:01" for="Basic" %}  
+{% include chapter-link at="37:32" for="Showtime!" %}  
+{% include chapter-link at="38:23" for='"BAD"' %}  
+{% include chapter-link at="46:03" for="Suspension of Disbelief" %}  
+{% include chapter-link at="51:43" for="Re-Examination" %}  
+{% include chapter-link at="56:35" for="Climax" %}  
+
+</details>
 </credits>
 </compare>
 

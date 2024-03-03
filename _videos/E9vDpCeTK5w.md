@@ -17,6 +17,11 @@ links: !!seq
 notes:
   - feb26-unprivate
 
+history:
+  2023-01-24: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -28,6 +33,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-01-24" %}>
 
 Experience the queer joy in the multiverse of Everything Everywhere All At Once
 
@@ -40,6 +46,23 @@ PATREON: [link]
 
 #everythingeverywhereallatonce #Oscars #academyawards
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Written by Nick Herrgott
+
+[patreon link]
+
+Experience the queer joy in the multiverse of Everything Everywhere All At Once
+
+00:00 Introduction  
+01:40 Part One  
+11:56 Part Two  
+19:49 Part Three  
+
+#everythingeverywhereallatonce #Oscars #academyawards
+
+</details>
 </credits>
 </compare>
 
