@@ -28,6 +28,10 @@ notes:
   - short-advert
   - unreleased
 
+history:
+  2023-10-07: First uploaded, available to patrons.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
   formatting: $cite$tustin2121
@@ -62,42 +66,36 @@ cite:
     mispronounce: { _desc_: "Just assumed that every name in this script has been mispronounced, right down to the main character's name, as if he never watched the show at all." }
     # deus_tumblr: "deus-and-the-machina. (Dec 5, 2023). <em>I Watched the James Somerton Video on Utena So You Don't Have Too</em> [Blog post]. https://www.tumblr.com/deus-and-the-machina/735920677682626560/i-watched-the-james-somerton-video-on-utena-so-you"
   plagiarized: !!map
-    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (2005, Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
-    wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Wikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
+    thumbnail: { color: 2, short: "Wallpaper (eeee, 2005)", full: "eeee (Artist). (2005‚ Mar 5). <em>Shoujo Kakumei Utena Wallpaper: falling castles</em> [Artwork]. Retrieved December 13th, 2023, from", url: "http://gallery.minitokyo.net/view/93510" }
+    wiki_utena_article: { color: 1, short: "Revolutionary Girl Utena (Wikipedia, n.d.)", full: "Ẉikipedia. (n.d.). <em>Revolutionary Girl Utena.</em> Retrieved December 12th, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Revolutionary_Girl_Utena&oldid=1177893479" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign kenm = site.data.cite.kenm %}
 {% assign deus = page.cite.deus %}
 
 <compare>
-<credits header="Video Thumbnail:">
-
-![Alt text](../media/thumbs/kvMq2FejBT8.jpg)
-
-</credits>
+{% include meta-history video=page force-thumb=true %}
 <from {% include citation for=page.cite.plagiarized.thumbnail %}>
-
-![](https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg)
-<!-- ![Alt text](../media/tumblr_1788f9934204be2ac813539f6ef969ca_8536800c_2048.jpg) -->
+<picture style="max-width: 60%; margin-inline: auto;">
+  <source srcset="https://64.media.tumblr.com/1788f9934204be2ac813539f6ef969ca/eabac75539d7bcb8-ff/s2048x3072/8536800c821a4ff97669213c9eee538bd2ff8900.jpg" />
+  <img src="{{ "/media/tumblr_1788f9934204be2ac813539f6ef969ca_8536800c_2048.jpg" | relative_url }}">
+</picture>
 
 [@re-mortal on tumblr](https://www.tumblr.com/re-mortal/735857211803303936/i-thought-the-thumbnail-of-the-utena-video) points out that the video's thumbnail was [uncredited, stolen fan artwork](http://gallery.minitokyo.net/view/93510).
 
 </from>
-</compare>
-
-<compare>
 <credits class="desc">
 
 A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 
-00:00 Intro
-06:01 Part 1
-17:45 Part 2
-22:58 Part 3
-31:06 Part 4
-34:29 Part 5
-41:32 Part 6
-48:12 Part 7
+00:00 Intro  
+06:01 Part 1  
+17:45 Part 2  
+22:58 Part 3  
+31:06 Part 4  
+34:29 Part 5  
+41:32 Part 6  
+48:12 Part 7  
 
 </credits>
 </compare>

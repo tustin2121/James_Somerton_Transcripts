@@ -17,6 +17,13 @@ links: !!seq
 notes:
   - comp-delete
 
+history:
+  2020-06-01: First published.
+  2020-09-07: "Video privated in response to <a href='Qvu84kjtGvE'>Twitter critic</a>."
+  2020-11-02: Video unprivated.
+  2023-12-07: Privated post-HBomb callout.
+
+
 contributors:
 
 cite:
@@ -28,6 +35,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Part 3 (not 2. Unlike what it says in the opening title card SMH) of a video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.
@@ -43,5 +51,24 @@ This video contains copyrighted material. The use of which has not always been s
 
 {% include transcript-start %}
 {% assign timecode = "0:00" %}
+
+<compare>
+<credits header="Title card:" {% include timecode %}>
+
+> This video was originally released as "Unrequited: The History of Queer Baiting" in  
+> July of 2020. It has since been edited to remove content owned by other people.  
+> 
+> In the original form, this video was 90 minutes long. I have broken it down into  
+> Shorter videos to ensure it is easier to watch in chunks.
+>
+> This is Part 2 of 3.
+
+</credits>
+<comment {% include commenter for=tustin %}>
+
+James forgot to edit this title card to say "Part 3 of 3".
+
+</comment>
+</compare>
 
 <div class="notice-banner">This transcript is missing, but this video has been superseded by <a href="{{ page.parent }}">its compilation video.<i class="fa-solid fa-arrow-turn-up"></i></a> Please see that video instead.</div>

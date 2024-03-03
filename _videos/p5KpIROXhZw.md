@@ -46,6 +46,7 @@ cite:
 {% assign lvence_link = "https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/" %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

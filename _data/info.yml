@@ -1,3 +1,4 @@
+empty: []
 notes:
   hbomb:
     icon: "fa-solid fa-bomb"
@@ -26,21 +27,29 @@ notes:
   podcast:
     icon: "fa-solid fa-podcast"
     desc: "Podcast-style video." # rather than a video essay
-  unscripted:
-    icon: "fa-solid fa-pen-nib"
-    desc: "(Ostensibly) unscripted video." # rather than a video essay
+  # unscripted:
+  #   icon: "fa-solid fa-pen-nib"
+  #   desc: "(Ostensibly) unscripted video." # rather than a video essay
+  meta-video:
+    icon: "fa-solid fa-bullhorn"
+    desc: "Meta videos, eg apologies, updates, teasers, etc."
   post-callout:
-    icon: "fa-solid fa-square-rss"
+    # icon: "fa-solid fa-square-rss"
+    # icon: "fa-solid fa-radiation"
+    icon: "fa-solid fa-ribbon"
     desc: "Released post-callout by HBomberGuy."
-  dec2-delete:
-    icon: "fa-solid fa-calendar-xmark"
-    desc: "Deleted on Dec 2nd, less than an hour post-callout."
-  dec5-delete:
-    icon: "fa-regular fa-calendar-xmark"
-    desc: "Deleted on Dec 5th, before deleting everything else on Dec 7th."
-  comp-delete:
-    icon: "fa-solid fa-trash-can"
-    desc: "Deleted in favor of the compilation video."
+  # dec2-delete:
+  #   icon: "fa-solid fa-calendar-xmark"
+  #   desc: "Deleted on Dec 2nd, less than an hour post-callout."
+  # dec5-delete:
+  #   icon: "fa-regular fa-calendar-xmark"
+  #   desc: "Deleted on Dec 5th, before privating everything else on Dec 7th."
+  # comp-delete:
+  #   icon: "fa-solid fa-trash-can"
+  #   desc: "Deleted in favor of the compilation video."
+  feb26-unprivate:
+    icon: "fa-solid fa-eye"
+    desc: "Unprivated on Feb 26 with apology 2, claiming there was no plagiarism."
   w-nick:
     icon: "wr-nick"
     desc: "Written by Nick Herrgott."

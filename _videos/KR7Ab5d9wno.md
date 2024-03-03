@@ -15,6 +15,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=4fEjYHiEDU8" # reuploads channel
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 cite:
   clips: !!map
@@ -25,6 +27,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [Sponsor plug]

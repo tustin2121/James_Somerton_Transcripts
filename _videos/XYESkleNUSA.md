@@ -11,7 +11,7 @@ links: !!seq
   - "https://web.archive.org/web/20230401194144/https://www.youtube.com/watch?v=XYESkleNUSA"
 description: "a video where a man lies directly into a camera for eight solid minutes and manages to convince thousands of caring people to give him even more money."
 notes:
-  - unscripted
+  - meta-video
 
 contributors:
   transcription: $cite$adobe-ai
@@ -29,6 +29,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Thank you guys for letting us do this for as long as you have.  

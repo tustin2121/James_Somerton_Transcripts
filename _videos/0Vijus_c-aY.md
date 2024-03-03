@@ -4,15 +4,25 @@ redirect_from:
 
 date: 2023-09-14
 title: The Campy Queer Sensibilities of Barbie
+runtime: 48:57
 status: Auto
 aka: !!seq
   - The Campy Depth of Barbie
   - "Deep Pink (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230914+0Vijus_c-aY+The+Campy+Queer+Sensibilities+of+Barbie.webm"
   - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
+  - w-nick-james
+
+history:
+  2023-09-14: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+  2024-03-01: Privated for unknown reason.
 
 cite:
   clips: !!map
@@ -23,6 +33,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]
@@ -156,7 +167,57 @@ the ability and ambition to recreate these styles are celebrated again Tarantino
 is not validating an existing artistic sensibility he is Dem demonstrating that
 these elements had always been valid something to keep in mind for going into
 this video which is as stated not about Forrest Gump but it's also not about
-Pulp Fiction so let's talk about Barbie [Music] [Music] [Music] [Music] thank
+Pulp Fiction 
+
+<compare>
+<james {% include timecode %}>
+
+So...
+
+<u>[James takes off his coat and pink lights light up the set.]</u>
+
+Let's talk about Barbie.
+
+</james>
+<from></from>
+</compare>
+
+{% assign timecode = "8:05" %}
+<compare>
+<credits class="opening" {% include timecode %}>
+
+> James Somerton  
+Presents
+
+> Written By  
+<span style="font-size:x-large">Nick Herrgott</span>
+& James Somerton
+
+> Edited By  
+James Somerton
+
+> Lighting By  
+Nick Herrgott
+
+> Executive Producers
+[Eight Patron Names]
+
+> Executive Producers
+[Eight Patron Names]
+
+> Executive Producers
+[Ten Patron Names]
+
+> Deep Pink  
+The Depth and Significance of The Barbie Movie
+
+
+</credits>
+</compare>
+
+
+
+[Music] [Music] [Music] [Music] thank
 you [Music] this video is brought to you by Manta sleep Manta makes the world's
 best sleep masks and sleep accessories a huge part of their mission is taking a
 stand against hustle culture and giving naps a PR makeover and their Pro nap

@@ -21,6 +21,12 @@ notes:
   - vimeo
   - w-james-nick
 
+history:
+  2020-09-23: 'Teased on Patreon as "Pink Triangles: The Accepted Holocaust"'
+  2021-01-03: Teased on Patreon
+  2021-01-11: First uploaded, unlisted.
+  2021-01-14: First published.
+
 contributors:
   downloaded: $cite$kenm
   formatting: $cite$tobicat
@@ -56,11 +62,11 @@ cite:
     politicians: "James claims that \"most\" politicians wanted Hitler to \"finish the job\" when it came to gay people, then proceeds to cite no one because that didn't happen."
     antigay_laws: "James says that Western nations won't do anything about anti-gay violence when that is <em>not</em> the case."
   plagiarized: !!map
-    pink_triangle: { color: 4, short: "Pink Triangle (Plant, 1986)", full: "Plant, R. (1986). <em>The Pink Triangle: The Nazi War Against Homosexuals</em>. Henry Holt and Company.", type: "book", style: "book" }
-    rokakis_thesis: { color: 3, short: "Senior Thesis (Rokakis, 2013)", full: "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", url: "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", type: "student" }
-    branded_setterington: { color: 8, short: "Branded (Setterington, 2013)", full: "Setterington, K. (2013). <em>Branded by the Pink Triangle</em>. Second Story Press.", type: "book", style: "book" }
-    grau_schoppmann: { color: 10, short: "Hidden Holocaust? (Grau & Schoppmann, 1995)", full: "Grau, G., & Schoppmann, C. (1995). <em>Hidden Holocaust?: Gay and Lesbian Persecution in Germany, 1933-45</em>. Taylor & Francis.", type: "book" }
-    knives_wikipedia: { color: 11, short: "Long Knives (Wikipedia, 2020)", full: "Wikipedia. (2020, Dec 26). <em>Night of the Long Knives</em>. Retrieved Feb 6, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835" } 
+    pink_triangle: { color: 4, short: "Pink Triangle (Plant, 1986)", full: "Plant‚ R. (1986). <em>The Pink Triangle: The Nazi War Against Homosexuals</em>. Henry Holt and Company.", type: "book", style: "book" }
+    rokakis_thesis: { color: 3, short: "Senior Thesis (Rokakis, 2013)", full: "Rokakis, J. (2013). The persecution of homosexuals during the Holocaust [Thesis]. In <em>Senior Honors Theses & Projects.</em> Item 338. Eastern Michigan University.", url: "https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1337&context=honors", type: "student" }
+    branded_setterington: { color: 8, short: "Branded (Setterington, 2013)", full: "Setterington‚ K. (2013). <em>Branded by the Pink Triangle</em>. Second Story Press.", type: "book", style: "book" }
+    grau_schoppmann: { color: 10, short: "Hidden Holocaust? (Grau & Schoppmann, 1995)", full: "Grau, G., & Schoppmann, C. (1995). <em>Hidden Holocaust?: Gay and Lesbian Persecution in Germany, 1933-45</em>. Taylor & Francis.", type: "book" }
+    knives_wikipedia: { color: 11, short: "Long Knives (Wikipedia, 2020)", full: "Wikipedia. (2020, Dec 26). <em>Night of the Long Knives</em>. Retrieved Feb 6, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Night_of_the_Long_Knives&oldid=996498835" } 
     
 ---
 {% assign tobi = site.data.cite.tobicat %}
@@ -69,6 +75,7 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 The vastly ignored history of Germany's war on gay men during World War 2.

@@ -1,5 +1,5 @@
 {%- if include.video.notes contains "podcast" %} podcast
-{%- elsif include.video.notes contains "unscripted" %} unscripted
+{%- elsif include.video.notes contains "meta-video" %} meta-video
 {%- elsif include.video.notes contains "post-callout" %} post-callout
 {%- else %} pre-callout
 {%- endif -%}

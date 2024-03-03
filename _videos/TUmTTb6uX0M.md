@@ -17,6 +17,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - script-diff
+  - feb26-unprivate
   - w-nick-james
 
 contributors:
@@ -32,6 +33,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 #scarletwitch #multiverseofmadness #wandavision

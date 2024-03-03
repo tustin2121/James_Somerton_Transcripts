@@ -12,6 +12,10 @@ links: !!seq
   - "https://www.youtube.com/watch?v=SzD3JpWNRxE" # Reuploads channel
 # description: "a video on <xyz>."
 
+history:
+  2022-12-16: First published.
+  2023-12-07: Privated post-callout.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -21,6 +25,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Nick's Book!

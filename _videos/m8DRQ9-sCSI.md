@@ -7,8 +7,10 @@ redirect_from:
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
+runtime: 1:29:45
 status: Finished
 aka: !!seq
+  - For The Love of Stucky
 topics: !!seq
   - The Hays Code
   - Rebel Without A Cause
@@ -24,6 +26,13 @@ description: "a video essay repackaging The Celluloid Closet and Alexander Avila
 notes:
   - visual
   - hbomb
+
+history:
+  2018-05-29: Teased on Patreon as "For The Love of Stucky".
+  2020-07-01: First published.
+  2020-10-11: Privated after Alexander Avila called James out for plagiarism.
+  2020-10-14: "Reuploaded as parts parts <a href='4Nx1aD9Khg0'>1</a>, <a href='UAv5yxnCGyc'>2</a>, and <a href='TRnogtBPoI'>3</a>."
+
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=cLWZV-SHmeY)"
@@ -57,23 +66,24 @@ cite:
       richard_dyer: "Richard Dyer"
   plagiarized: !!map
     celluloid_closet: $cite$celluloid_closet_doc
-    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
-    maddy_myers: { color: 12, short: "On Stucky Fandom (Myers, 2016)", full: "Myer, M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", url: "https://www.themarysue.com/why-cant-stucky-just-be-friends/" }
-    jill_gutowitz: { color: 7, short: "Ocean's 8 (Gutowitz, 2018)", full: "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", url: "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/" }
-    aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
-    aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
-    aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
-    aretheygay_sterek: { color: 6, short: "Sterek (Avila, 2017)", full: "Avila, A. (2017, Jul 6). <em>Are They Gay? - Derek Hale and Stiles Stilinski (Sterek)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=7ei-Le2O7lc" }
-    aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
-    rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
-    merthur_ytcrack: { color: 9, short: "(Wolflynn98, 2019)", full: "Wolflynn98 (2019, Jul 16). <em>merthur crack(?) or whatever</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=8CZtuSNqlnM" }
-    johnlock_clips: { color: 8, short: "(hehehegay, 2014)", full: "hehehegay (2014, May 12). <em>JOHNLOCK EVIDENCE (Series 1-3)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=fsKWdvsxvN4" }
-    johnlock_maryamv: { color: 13, short: "(OneAllysa, 2017)", full: "OneAllysa (2017, Mar 19). <em>BBC Sherlock || Mary Watson || Love and War</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=xc_L7oSPdgQ" }
+    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
+    maddy_myers: { color: 12, short: "On Stucky Fandom (Myers, 2016)", full: "Myer‚ M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", url: "https://www.themarysue.com/why-cant-stucky-just-be-friends/" }
+    jill_gutowitz: { color: 7, short: "Ocean's 8 (Gutowitz, 2018)", full: "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", url: "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/" }
+    aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila‚ A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
+    aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
+    aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
+    aretheygay_sterek: { color: 6, short: "Sterek (Avila, 2017)", full: "Avila‚ A. (2017, Jul 6). <em>Are They Gay? - Derek Hale and Stiles Stilinski (Sterek)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=7ei-Le2O7lc" }
+    aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
+    rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
+    merthur_ytcrack: { color: 9, short: "(Wolflynn98, 2019)", full: "Wolflynn98 (2019, Jul 16). <em>merthur crack(?) or whatever</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=8CZtuSNqlnM" }
+    johnlock_clips: { color: 8, short: "(hehehegay, 2014)", full: "hehehegay (2014, May 12). <em>JOHNLOCK EVIDENCE (Series 1-3)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=fsKWdvsxvN4" }
+    johnlock_maryamv: { color: 13, short: "(OneAllysa, 2017)", full: "OneAllysa (2017, Mar 19). <em>BBC Sherlock || Mary Watson || Love and War</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=xc_L7oSPdgQ" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.

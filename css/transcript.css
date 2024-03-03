@@ -16,7 +16,9 @@
 			--mark-stolen-bg: #47005b;
 			--mark-source-text: #c9d1d9;
 			--mark-source-bg: #033a16;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #ffffff;
 			--mark-yikes-border: #668701;
 			--mark-yikes-text: #f6fdeb;
 		}
@@ -38,7 +40,9 @@
 			--mark-stolen-bg: #f4ccff;
 			--mark-source-text: #000000;
 			--mark-source-bg: #abf1c4;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #000000;
 			--mark-yikes-border: #4f6706;
 			--mark-yikes-text: #1b2207;
 		}
@@ -238,9 +242,15 @@
 	compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
 	compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 	
+	compare james.deleted { border-color: red; }
+	/* compare james.deleted[timecode]::before   { content: 'James: (Deleted) (' attr(timecode) ')'; text-align-last: justify; }
+	compare james.deleted::before             { content: 'James: (Deleted) \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; } */
+	
 	compare credits.opening::before { content: 'Opening Credits:'; }
 	compare credits.closing::before { content: 'Closing Credits:'; }
 	compare credits.desc::before { content: 'Video Description:'; }
+	compare credits.thumb::before { content: 'Thumbnail History:'; }
+	compare credits.history::before { content: 'Upload History:'; }
 	compare credits[header]::before { content: attr(header); }
 	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
 	
@@ -324,9 +334,15 @@
 	compare :is(james, nick, clip, from) mark[fc] {
 		background-color: unset;
 		/* border: solid 1px var(--mark-misinfo-border); */
-		text-decoration: var(--mark-misinfo-border) wavy underline 1px;
+		text-decoration: var(--mark-misinfo-neutral-border) wavy underline 1px;
 		text-decoration-style: dotted;
 		text-underline-offset: 2px;
+	}
+	compare :is(james, nick, clip, from) mark[fc=false] {
+		text-decoration-color: var(--mark-misinfo-false-border);
+	}
+	compare :is(james, nick, clip, from) mark[fc=true] {
+		text-decoration-color: var(--mark-misinfo-true-border);
 	}
 	compare :is(james, nick, clip) mark[yikes] {
 		background-color: unset;
@@ -555,6 +571,46 @@
 }
 
 @layer source {
+	credits.history {
+		padding-bottom: 0.5em;
+	}
+	credits.history .entry {
+		text-indent: -1em;
+		padding-inline-start: 1em;
+	}
+	credits.history .entry:nth-child(2n+1) {
+		background-color: var(--color-canvas-subtle);
+	}
+	credits.history .entry:nth-child(2n) {
+		background-color: var(--color-border-muted);
+	}
+	credits.history .entry span:first-child {
+		text-align: left;
+		padding-inline: 4px;
+		font-weight: bold;
+	}
+	credits.history .entry span:first-child::after {
+		content: ':';
+		font-weight: normal;
+	}
+	
+	credits.thumb .entry {
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: space-evenly;
+		align-items: flex-start;
+		margin-block: 0.2em;
+	}
+	credits.thumb .entry img {
+		max-width: 60%;
+	}
+	credits.thumb .entry span {
+		margin-top: 1em;
+		min-width: 12ch;
+		text-align: right;
+	}
+}
+@layer source {
 	.lyrics {
 		margin-inline: auto;
 		width: max-content;
@@ -774,6 +830,11 @@
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);
+	}
+	
+	compare comment {
+		--source-color: var(--box-border-comment);
+		border-color: var(--source-color);
 	}
 	
 	.srcstyle-book {

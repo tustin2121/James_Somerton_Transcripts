@@ -23,12 +23,19 @@ topics: !!seq
   - The Imitation Game / Rent
   - The Favorite
 links: !!seq
+  - "https://web.archive.org/web/20201204124414/https://www.youtube.com/watch?v=P_mLM6fUhHQ&gl=US&hl=en"
   - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
 description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:
   - hbomb
   - visual
   - w-james-nick
+
+history:
+  2020-11-24: Teased on Patreon.
+  2020-12-04: First published.
+  2022-12-22: Video removed for unknown reason.
+  # 2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
@@ -59,50 +66,51 @@ cite:
     women_prosecuted: "James claims that women weren't prosecuted for being gay, which is just outright untrue."
   other: !!map
     torrid: "James doesn't know what the word 'torrid' actually means."
+    film_handout: "HBomberGuy's video called out a section of this video where James was just reading several wikipedia pages on film theory. HBomberGuy actually gave James too much credit here; James was lazier. He copied instead from a Film Theory 101 class handout, which in turn copied from Wikipedia."
   plagiarized: !!map
     film_class:
       color: 4
       short: "(DaVega, 2016)"
-      full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
+      full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
       url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
       archive: "https://web.archive.org/web/20240219184030/"
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
-          full: "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Sep 10). <em>Film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719"
           chain:
             _desc_: "which plagiarized from..."
             read_film: &read_film { color: 1, short: "(Monaco, 1977)", full: "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", url: "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover" }
         wiki_structuralist:
-          full: "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"
         wiki_marxist:
-          full: "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"
         wiki_screen:
-          full: "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Aug 7). <em>Screen theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"
         wiki_formalist:
-          full: "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"
         encyclopedia_realist:
           full: "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article]."
           url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"
         wiki_feminist:
-          full: "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"
         wiki_auteur:
-          full: "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article]."
+          full: "Ẉikipedia. (2009, Sep 12). <em>Auteur</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"
         wiki_apparatus:
-          full: "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"
         wiki_linguistic:
-          full: "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"
         wiki_psychoanalytic:
-          full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
+          full: "Ẉikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
         semiotic:
           full: "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus."
@@ -114,20 +122,20 @@ cite:
     gay_erased: 
       color: 5
       short: "Midlands Zone Magazine (Spinks, 2019)"
-      full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
+      full: "Spinks‚ S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
       url: "https://www.midlandszone.co.uk/features/homophobic-erasure-the-cull-of-lgbtq-presence-from-history/64"
       archive: "https://web.archive.org/web/20210127145049/"
       offline: true
       chain:
         _desc_: "Midlands Zone Magazine succumbed to the pandemic, so here's alternate methods of accessing content:"
         issuu: { full: "via Issuu.com. Retrieved Jan 27, 2024, from", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
-    achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
-    ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
+    achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
+    ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
     film_ref_queer: { color: 3, short: "Queer Theory (Film Reference, n.d.)", full: "<em>Queer Theory</em> [Encyclopedia entry]. (n.d.). Film Reference. Advameg, Inc", url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Queer-Theory.html", archive: "https://web.archive.org/web/20200702185638/" }
     movie_mezzanine: 
       color: 1
       short: "(Turner, 2015)"
-      full: "Turner, K. (2015, Feb, 20). <em>Coded Switch: “The Imitation Game” and The Queer Film</em> [Article]. Movie Mezzanine. Retrieved Feb 14, 2024, from"
+      full: "Turner‚ K. (2015, Feb, 20). <em>Coded Switch: “The Imitation Game” and The Queer Film</em> [Article]. Movie Mezzanine. Retrieved Feb 14, 2024, from"
       url: "http://moviemezzanine.com/the-imitation-game-and-the-queer-film/"
       archive: "https://web.archive.org/web/20230923004927/"
       chain: 
@@ -135,7 +143,7 @@ cite:
         wiki_queer_cinema: 
           color: 8
           short: "New queer cinema (Wikipedia, 2020)"
-          full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article]."
+          full: "Ẉikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524"
           chain:
             _desc_: "which summarizes..."
@@ -164,6 +172,7 @@ This thumbnail is [uncredited, stolen artwork](https://www.deviantart.com/ewasar
 </from>
 </compare>
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A look into what Film Theory is... what Queer Theory is... and why it does matter, actually.
@@ -440,8 +449,7 @@ Today there are many different schools of film theory. So let's talk about them:
 <mark>During the 1990s the digital revolution in image technologies has had an impact on film theory in various ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists like Mary Ann Doane, Philip Rosen and Laura Mulvey</mark> who was informed by psychoanalysis. From a psychoanalytical perspective, after the Lacanian notion of the Real, Slavoj Žižek offered new aspects of the gaze extensively used in contemporary film analysis. There has also been a historical revisiting of early cinema screenings, practices and spectatorship modes by writers Tom Gunning, Miriam Hansen and Yuri Tsivian.
 
 </from>
-<comment>
-{% include header for=tustin %}
+<comment id="film_handout" {% include commenter for=tustin %}>
 
 Note: The following sections are still using the university handout as a source, but the university handout is using wikipedia as a source. See the top of the page for the full plagiarism chain.
 
@@ -498,7 +506,7 @@ Note: The following sections are still using the university handout as a source,
 
 </james>
 <from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
-<h3 style="font-weight:700;">formalist film theory</h3>
+<h3 style="font-weight:700;">feminist film theory</h3>
 
 <mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis, regarding the film elements analysed and their theoretical underpinnings. The development of feminist film theory was influenced by second wave feminism and the development of women's studies within the academy. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970’s were generally based on sociological theory and focused on the function of women characters in particular film narratives or genres and of stereotypes as a reflection of a society's view of women.</mark> Works such as Marjorie Rosen’s Popcorn Venus: Women, Movies, and the American Dream (1973) and Molly Haskell’s From Reverence to Rape: The Treatment of Women in Movies (1974) analyzed how the women portrayed in film related to the broader historical context, the stereotypes depicted, the extent to which the women were shown as active or passive, and the amount of screen time given to women.[1]
 
@@ -510,7 +518,7 @@ Note: The following sections are still using the university handout as a source,
 <mark>Auteur theory</mark> in film <mark>holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced</mark>, such as David Os Selnick and Kevin Feige. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 15" %}>
 <h3 style="font-weight:700;">auteur theory</h3>
 
 In film criticism, the 1950s-era <mark>Auteur theory</mark> <mark>holds that a director's films reflect that director's personal creative vision, as if he were the primary "Auteur" (the French word for "author"). In some cases, film producers are considered to have a similar "Auteur" role for films that they have produced</mark>. In law the Auteur is the creator of a film as a work of art, and is the original copyright holder. Under European Union law the film director shall always be considered the author or one of the authors of a film. [1] Auteur theory has had a major impact on film criticism ever since it was advocated by film director and film critic François Truffaut in 1954. "Auteurism" is the method of analyzing films based on this theory or, alternately, the characteristics of a director's work that makes him an Auteur. Both the Auteur theory and the Auteurism method of film analysis are frequently associated with the French New Wave and the film critics who wrote for the influential French film review periodical Cahiers du cinéma.

@@ -46,6 +46,7 @@ cite:
 ---
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [Sponsor spot]

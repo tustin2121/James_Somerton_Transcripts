@@ -15,6 +15,12 @@ links: !!seq
 notes:
   - comp-delete
 
+history:
+  2020-09-23: 'Teased on Patron as "Pink Triangles: The Accepted Holocaust"'
+  2020-11-05: First published.
+  2023-12-07: Privated post-callout.
+  # 2000-01-01: Deleted in favor of the compilation video. # Replace with parent date
+
 contributors:
 
 cite:
@@ -26,6 +32,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Six million jewish lost their lives within the hellish borders of death camps across Europe. But they weren't alone. Among them were Catholics, Roma, Communists and, the often ignored, gay men. 

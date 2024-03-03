@@ -23,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A look at what I think will happen in the coming years within the Marvel Cinematic Universe. Share and like! :)

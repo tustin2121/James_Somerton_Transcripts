@@ -11,6 +11,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=blJ-Z1A3Ixw" # Reuploads channel
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 cite:
   clips: !!map
@@ -21,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Why is it that, for queer people, perfection is a necessity instead of an option?

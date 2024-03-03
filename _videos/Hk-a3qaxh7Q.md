@@ -1,7 +1,10 @@
 ---
 redirect_from:
   - "/videos/hk-a3qaxh7q"
+  - "/videos/zuoKRMMxzSo" # Original video slug?
+  - "/videos/zuokrmmxzso"
 
+prev_ids: [ "zuoKRMMxzSo" ]
 date: 2022-06-09
 title: How a Gay Show Changed TV... and Was Forgotten
 status: Auto
@@ -13,7 +16,13 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://web.archive.org/web/20220609235655/https://www.youtube.com/watch?v=Hk-a3qaxh7Q"
 # description: "a video essay on...?"
+
+history:
+  2022-06-09: First published.
+  2022-06-17: 'Something entitled "The Hit Gay Show We Forgot" uploaded?'
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -26,10 +35,14 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_queer: { color: 1, short: "Queer as Folk (Wikipedia, 2022)", full: "Wikipedia. (2022, May 18). <em>Queer as Folk (American TV series)</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Queer_as_Folk_(American_TV_series)&oldid=1088564989" }
+    goombastomp: { color: 2, short: "(Ricky D, 2022)", full: "Ricky D. (2022, Jun 9). <em>Queer As Folk – A Cultural Milestone</em> [Article]. Tilt Magazine. Goomba Stomp. Retrieved March 1, 2024, from", url: "https://tilt.goombastomp.com/tv/queer-folk-cultural-milestone/" }
+    xtramag: { color: 9, short: "(DeVito, 2005)", full: "DeVito, C. (2005, Aug 31). <em>A requiem for Queer as Folk</em> [Article]. Xtra* Magazine. Pink Triangle Press. Retrieved March 1, 2024, from", url: "https://xtramagazine.com/culture/a-requiem-for-queer-as-folk-23464" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Queer as Folk revolutionized the portrayal of gay and lesbian characters on TV. So why did we forget about it?

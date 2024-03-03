@@ -21,6 +21,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Check out my list of characters that I'd love to see find their way into the Marvel Cinematic Universe.

@@ -16,7 +16,11 @@ links: !!seq
 description: "A manipulative attempt at apologizing without actually apologizing. Trigger warning on the video and first paragraph."
 notes:
   - post-callout
-  - unscripted
+  - meta-video
+
+history:
+  2023-12-20T0:00:00: First published.
+  2023-12-20T7:00:00: Deleted 7 hours later.
 
 contributors:
   transcription: "[an anonymous pastebin user](https://pastebin.com/zDXsHrFv)"
@@ -31,6 +35,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [???]

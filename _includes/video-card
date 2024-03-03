@@ -72,10 +72,11 @@
 		{%- endif -%}
 	{%- endcapture -%}
 	<picture class="thumbnail" {{ runtime }}>
-		{%- assign thumb = "/media/thumbs/" | append: vid | append: ".jpg" -%}
-		{%- assign file = site.static_files | where: "path", thumb |  first -%}
+		{%- assign thumb = "/media/thumbs/" | append: vid -%}
+		{%- assign thumb_exp = thumb | prepend: "file.path contains '" |  append: "/'"   -%}
+		{%- assign file = site.static_files | where_exp: "file", thumb_exp | last -%}
 		{%- if file -%}
-			<img src="{{ thumb | relative_url }}" />
+			<img src="{{ file.path | relative_url }}" />
 		{%- else -%}
 			<img src="{{ "/media/thumbs/missing.jpg" | relative_url }}" />
 		{%- endif -%}

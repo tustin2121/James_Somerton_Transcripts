@@ -7,6 +7,7 @@ redirect_from:
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
+prev_ids: [ "5RPsRpk8aKA" ]
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'
 status: Finished
@@ -29,6 +30,13 @@ notes:
   - hbomb
   - w-nick-james
 
+history:
+  2022-09-04: First published (5RPsRpk8aKA).
+  2022-12-18: seldomusings calls James out in a blog post.
+  2022-12-20: Video deleted due to callout post.
+  2023-01-02: Reuploaded (VoHYZUj43K4).
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
@@ -41,20 +49,21 @@ recs:
 
 cite:
   clips: !!map
-    aot: { short: "Attack on Titan (Wit Studio, 2013)", full: "Kinoshita, T., Tateishi, K., Maeda, T., et al. (Producers). Araki, T.,Hayashi, Y., et al. (Directors.) (2013) <em>Shingeki no Kyojin; Attack on Titan</em> [Television series]. Wit Studio, MAPPA." }
+    aot: { short: "Attack on Titan (Wit Studio, 2013)", full: "Kinoshita‚ T., Tateishi, K., Maeda, T., et al. (Producers). Araki, T.,Hayashi, Y., et al. (Directors.) (2013) <em>Shingeki no Kyojin; Attack on Titan</em> [Television series]. Wit Studio, MAPPA." }
   yikes: !!map
   misinformation: !!map
     aot_infiltrate: "James diverges from his plagiarism to make up something about Eren infiltrating Marley?"
   plagiarized: !!map
     wiki_aot: { color: 1, short: "Attack on Titan (Wikipedia, 2022)", full: "Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533" }
-    seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
-    cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
-    vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan" }
+    seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
+    cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
+    vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson‚ G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>
+{% include meta-history video=page %}
 <credits header="Video Description (Original):">
 
 There might be a lot less going on in "Attack on Titan" than you think.
@@ -106,7 +115,7 @@ Patron: [link]
 
 
 <compare>
-<credits {% include timecode %}>
+<credits header="Title Card:">
 
 > Content Warning:  
 Fascism and Anime
@@ -447,7 +456,7 @@ To some fans, it all feels a little too close to the broad arc of most <mark>ant
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 <mark>This outrage should come as no surprise, knowing the history between Japan and Korea. But that is exactly what</mark> most <mark>people may not be aware of. Korea was occupied by Japan from 1910 to 1945, only one of many East Asian nations colonized by Japan as part of its growing Imperial presence</mark> at the time. 
 
@@ -516,7 +525,7 @@ Anime fans have gotten themselves into a tangle trying to decipher where Isayama
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 Looking at some of the major characters, <mark>would Hange not be just as disgusted with Japanese politicians denying war crimes</mark> against Koreans and <mark>rewriting history for textbooks</mark> as they are <mark>with the Wall Cult and the government that keeps secrets about Titans from the public?</mark> 
 

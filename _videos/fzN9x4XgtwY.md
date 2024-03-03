@@ -40,6 +40,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

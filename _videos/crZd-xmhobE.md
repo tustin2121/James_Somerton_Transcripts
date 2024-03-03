@@ -14,6 +14,10 @@ links: !!seq
   - "https://web.archive.org/web/20220605191048/https://www.youtube.com/watch?v=crZd-xmhobE"
 # description: "a video essay on...?"
 
+history:
+  2013-11-20: First published.
+  2023-12-07: Privated post-callout.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -23,6 +27,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 I think Marvel has a problem on its hands, and in this video I fill you in on why I think so, and what they need to do to fix it.

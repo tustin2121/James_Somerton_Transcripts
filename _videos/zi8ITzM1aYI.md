@@ -23,6 +23,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 My review of Marvel's next blockbuster; Captain America: The Winter Solider.

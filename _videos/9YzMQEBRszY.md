@@ -11,6 +11,8 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -21,10 +23,22 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    queerty: { color: 1, short: "", full: "", url: "https://www.queerty.com/evicted-closet-8-times-queer-celebrities-outed-allies-20210612" }
+    tandfonline: { color: 1, short: "", full: "", url: "https://www.tandfonline.com/doi/full/10.1080/13698230.2019.1709029" }
+    cbs_hate_crimes: { color: 1, short: "", full: "", url: "https://www.cbsnews.com/losangeles/news/hate-crimes-are-higher-in-la-county-than-they-have-been-in-19-years-report/" }
+    # https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/caa802e9-00f0-455e-9c44-db7ef7a06e4c/2021%20LA%20County%20Hate%20Crime%20Report.pdf
+    crime_stats: { color: 1, short: "", full: "", url: " https://www.security.org/resources/anti-lgbt-hate-crime-stats/" }
+    the_atlantic: { color: 1, short: "", full: "", url: " https://www.theatlantic.com/ideas/archive/2021/11/scary-future-american-right-national-conservatism-conference/620746/" }
+    grooming: { color: 1, short: "", full: "", url: " https://www.rainn.org/news/grooming-know-warning-signs" }
+    news_row_v_wade: { color: 1, short: "", full: "", url: " https://www.cnbc.com/2022/06/24/roe-v-wade-supreme-court-justice-thomas-says-gay-rights-rulings-open-to-be-tossed.html" }
+    news_respect_marriage: { color: 1, short: "", full: "", url: " https://themessenger.com/grid/the-surprising-ways-the-respect-for-marriage-act-would-and-wouldnt-protect-same-sex-marriage" }
+    wiki_rights: { color: 1, short: "", full: "", url: " https://en.wikipedia.org/w/index.php?title=Personal_Rights_in_Defense_and_Education&oldid=1118084544" }
+    
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

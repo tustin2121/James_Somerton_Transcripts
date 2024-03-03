@@ -1,21 +1,38 @@
 ---
 redirect_from:
   - "/videos/qvu84kjtgve"
+  - "/videos/5Iw43-kZVNI"  # original upload
+  - "/videos/5iw43-kzvni"
 
-date: 2020-09-10
+prev_ids: [ "5Iw43-kZVNI" ]
+date: 2020-07-20
 title: "Evil Queens: A Queer Look at Disney History"
+runtime: 1:08:57
 status: Auto
 aka: !!seq
   - "Evil Queens：A Gay Look at Disney History (Video essay)"
   - "Evil Queens: Disney's Queer Cold War (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Evil+Queens+-+A+Gay+Look+at+Disney+History+(Video+essay).mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20200910+Qvu84kjtGvE+Evil+Queens%EF%BC%9A+A+Gay+Look+at+Disney+History+(Video+essay).webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Evil+Queens_+A+Gay+Look+at+Disney+History+(Video+essay)-(1080p).mp4"
 # description: "a video essay on...?"
 notes:
   - hbomb
   - w-james
+  - meta
+
+history:
+  2020-07-14: Teased on Patreon.
+  2020-07-20: First published (5Iw43-kZVNI).
+  2020-09-05: Called out about plagiarism on Twitter.
+  2020-09-06T5:00:00: 'Description updated to add "Based on" line.'
+  2020-09-06T7:00:00: Twitter critic blocked.
+  2020-09-07T10:12:00: Twitter critic expresses desire to compare Unrequited.
+  2020-09-07T22:09:00: Video privated in response to Twitter critic.
+  2020-09-10: Republished (Qvu84kjtGvE) with credit added to opening title.
+  2023-12-07: Privated post-HBomb callout.
 
 recs:
   - { title: "What Makes Disney Villains so Gay?", author: "Matt Baume", url: "https://youtu.be/GsWpUSEKSbk" }
@@ -78,6 +95,7 @@ cite:
 {% assign tobi= site.data.cite.tobicat %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A deep dive into the history of LGBT representation (or lackthereof) in Disney films. From the Silly Symphonies to Star Wars and Marvel. 
@@ -96,9 +114,13 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="58:51" for="A New Era" %}  
 
 </credits>
-<comment {% include commenter for=tobi %}>
+<comment {% include commenter for=tustin %}>
 
-This video was originally uploaded in July 2020. The "based on" in the description was not added until it was reuploaded in September 2020.
+This video was originally released on July 20th, 2020. In the Patreon Post announcing it, James claims to have accidentally publicly released it, and it was supposed to be Patreon-exclusive for a while.
+
+On September 5th, 2020, James was called out by someone about how this video plagiarized whole pages from *Tinker Belles and Evil Queens* by Sean Griffin. James promptly took the video down and sent an email to Griffin asking if he could use the video. He put the video back up on September 10th with added crediting in the video's opening title sequence.
+
+Sean Griffin himself [wrote a blog post](https://www.fromthesquare.org/how-my-book-became-the-subject-of-a-youtube-scandal-by-sean-griffin/) [[archived](https://web.archive.org/web/20240217204808/https://www.fromthesquare.org/how-my-book-became-the-subject-of-a-youtube-scandal-by-sean-griffin/)] about the whole experience from his perspective. He didn't want to get dragged into this drama against his will. (Griffin has turned down HBomberGuy's offer to be compensated, as he was not struggling financially.)
 
 </comment>
 </compare>

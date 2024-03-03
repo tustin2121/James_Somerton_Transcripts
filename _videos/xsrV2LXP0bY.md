@@ -16,6 +16,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes: 
   - odd-linebreaks
+  - feb26-unprivate
 
 cite:
   clips: !!map
@@ -26,6 +27,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 There's so much more going on in "Painter of the Night" than just sex and violence.

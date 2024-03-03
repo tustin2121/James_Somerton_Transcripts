@@ -28,10 +28,14 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    gary_ryan: { color: 1, short: "Chucky (Ryan, 2021)", full: "Ryan, G. (2021, Dec 9). <em>“Kill the twink!”: how ‘Chucky’ cements the murderous doll’s legacy as a queer ally</em> [Article].", url: "https://www.nme.com/features/opinion/chucky-tv-series-queer-ally-3111995" }
+    sasha_geffen: { color: 2, short: "(Geffen, 2018)", full: "Geffen, S. (2018, Aug 21). <em>Trans Horror Stories and Society's Fear of the Transmasculine Body</em> [Article].", url: "https://www.them.us/story/transmasculine-horror-stories" }
+    abigail_waldron: { color: 3, short: "(Waldron, 2022)", full: "Waldron, A. (2022, Aug 17). <em>Queer Screams: A History of LGBTQ+ Survival Through the Lens of American Horror Cinema</em> [Book].", url: "", type: "book", style: "book" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Horror movies have been getting queerer in the new millennium.  

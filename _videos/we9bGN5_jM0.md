@@ -16,6 +16,12 @@ links: !!seq
 description: "a video essay on how Harry Potter is an allegory for growing up gay and for the government's handling of the AIDS crisis."
 notes:
 
+history:
+  2018-05-29: Teased on Patreon.
+  2018-06-20: Thumbnail teased on Patreon.
+  2018-06-30: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tobicat
@@ -28,12 +34,13 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    thatcher: { color: 1, short: "Margret Thatcher", full: "Labour Party (2018, Feb 28). <em>Here's what Section 28 was all about</em> [Video]. Labour Party, United Kingdom. YouTube. Retrieved Feb 19, 2024, from", url: "https://www.youtube.com/watch?v=pw8y6ufoaLY", archive: "https://web.archive.org/web/20240219161410/" }
+    thatcher: { color: 1, short: "Margret Thatcher", full: "Labour Party (2018, Feb 28). <em>Here's what Section 28 was all about</em> [Video]. Labour Party, United Kingdom. YouTube. Retrieved Feb 19, 2024, from", url: "https://www.youtube.com/watch?v=pw8y6ufoaLY", archive: "https://web.archive.org/web/20240219161410/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A look at gay themes in JK Rowling's Harry Potter series. From Philosopher's Stone to Fantastic Beasts!

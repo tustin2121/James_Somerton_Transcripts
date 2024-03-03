@@ -1,8 +1,11 @@
 ---
 redirect_from:
   - "/videos/n41rayav_d8"
+  - "/videos/0oMttFa-cZM" # Teaser trailer slug
+  - "/videos/0omttfa-czm"
 
 # cSpell:words: Iger Chapek
+prev_ids: [ "0oMttFa-cZM" ]
 date: 2022-08-13
 title: How Disney Tore Down The Owl House
 runtime: 1:04:12
@@ -18,6 +21,9 @@ links: !!seq
 description: "a video essay on the Owl House, but also Bob Iger v Bob Chapek fan fiction."
 notes:
   - hbomb
+
+history:
+  2022-08-05: Teaser trailer posted (0oMttFa-cZM).
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -37,17 +43,18 @@ cite:
     gay_marriage: "James claims Bob Iger donated to Obama to get him to support gay marriage when there's no proof of any such thing."
     disney_funeral: "James outright claims that Disney has a whole industry for princess themed funerals, when in fact Disney has basically the exact opposite."
   plagiarized: !!map
-    disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello, R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
-    kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", full: "Oliveros, K. (2022, Jul 18). <em>Bob Iger Reportedly Regrets Picking Bob Chapek as Disney’s CEO</em> [Blog post]. The Disney Food Blog. Retrieved Jan 24, 2024, from", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
-    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", full: "Tremaine, J. (2022, Mar 18). <em>Can Bob Chapek recover from his latest PR crisis? The complicated legacy of Disney's most contentious CEO.</em> [News article]. SFGate.com. Retrieved Jan 24, 2024, from", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php/"}
-    fandom_65: {color: 9, short: "(Fandom, 2022)", full: "Fandom. (n.d.) <em>65th Episode Rule</em> [Article]. The Disney Wiki on Fandom.com.", url: "https://disney.fandom.com/wiki/65th_Episode_Rule?oldid=4933016/"}
-    petrana_radulovic: {color: 10, short: "(Radulovic, 2022)", full: "Radulovic, P. (2022, May 3). <em>The Owl House is proving itself to be too good for Disney</em> [Article]. Polygon. Retrieved Jan 24, 2024, from", url: "https://www.polygon.com/23055769/the-owl-house-reveal-season-2"}
+    disney_brand_paper: { color: 5, short: "(Borello, 2014)", full: "Borello‚ R., Jullière, T., Lamarche, J.E., Mortellier, A., Saladin, S. [Authors]. (2014, Oct 1). <em>Disney Brand Analysis; Group Project for Strategic Marketing</em> [Academic paper]. Graduate Business School of Clermont-Ferrand. Retrieved Jan 12, 2024, from", url: "https://www.academia.edu/31726520/Disney_Brand_Analysis_GRADUATE_BUSINES_SCHOOL_OF_CLERMONT_FERRAND_STRATEGIC_MARKETING_Disney_Brand_Analysis_Group_Project_Strategic_Marketing", type: "student" } # https://discord.com/channels/1180822793420554241/1180822793420554244/1195243755993833473
+    kelly_oliveros: {color: 6, short: "(Oliveros, 2022)", full: "Oliveros, K. (2022, Jul 18). <em>Bob Iger Reportedly Regrets Picking Bob Chapek as Disney’s CEO</em> [Blog post]. The Disney Food Blog. Retrieved Jan 24, 2024, from", url: "https://www.disneyfoodblog.com/2022/07/18/bob-iger-reportedly-regrets-picking-bob-chapek-as-disneys-ceo/"}
+    julie_tremaine: {color: 8, short: "(Tremaine, 2022)", full: "Tremaine‚ J. (2022, Mar 18). <em>Can Bob Chapek recover from his latest PR crisis? The complicated legacy of Disney's most contentious CEO.</em> [News article]. SFGate.com. Retrieved Jan 24, 2024, from", url: "https://www.sfgate.com/disneyland/article/Can-Bob-Chapek-recover-from-PR-crisis-16770217.php/"}
+    fandom_65: {color: 9, short: "(Fandom, 2022)", full: "Fandom. (n.d.) <em>65th Episode Rule</em> [Article]. The Disney Wiki on Fandom.com.", url: "https://disney.fandom.com/wiki/65th_Episode_Rule?oldid=4933016/"}
+    petrana_radulovic: {color: 10, short: "(Radulovic, 2022)", full: "Radulovic, P. (2022, May 3). <em>The Owl House is proving itself to be too good for Disney</em> [Article]. Polygon. Retrieved Jan 24, 2024, from", url: "https://www.polygon.com/23055769/the-owl-house-reveal-season-2"}
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobicat = site.data.cite.tobicat %}
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Why did Disney cancel The Owl House? Oh we know.

@@ -10,6 +10,8 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
+notes:
+  - feb26-unprivate
 
 cite:
   clips: !!map
@@ -20,6 +22,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 How did Marvel accidentally create a gay power couple? And what exactly does the Scarlet Witch have to do with it?

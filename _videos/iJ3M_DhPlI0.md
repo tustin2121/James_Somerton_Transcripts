@@ -42,14 +42,15 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson, D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book", style: "book" }
-    wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
-    wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
+    johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson‚ D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book", style: "book" }
+    wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Ẉikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
+    wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Ẉikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]
