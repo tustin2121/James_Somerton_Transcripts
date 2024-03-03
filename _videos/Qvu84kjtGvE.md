@@ -8,7 +8,7 @@ prev_ids: [ "5Iw43-kZVNI" ]
 date: 2020-07-20
 title: "Evil Queens: A Queer Look at Disney History"
 runtime: 1:08:57
-status: Auto
+status: Complete
 aka: !!seq
   - "Evil Queens：A Gay Look at Disney History (Video essay)"
   - "Evil Queens: Disney's Queer Cold War (Thumbnail)"
