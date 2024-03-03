@@ -308,9 +308,12 @@
 		markVisuals();
 		window.addEventListener("resize", markVisuals);
 		
-	{% if jekyll.environment == "development" %}
-		
-	{% endif %}
+		{% if jekyll.environment == "development" %}
+			
+		{% endif %}
+	</script>
+	<script>
+		document.querySelector("credits.desc details:last-child")?.setAttribute('open', '');
 	</script>
 </body>
 </html>

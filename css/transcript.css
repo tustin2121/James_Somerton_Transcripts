@@ -377,6 +377,31 @@
 }
 
 @layer markup {
+	credits.desc details {
+		border-left: 1px solid red;
+		padding-left: 10px;
+		margin-bottom: 0;
+	}
+	credits.desc details:nth-last-of-type(6n+0) { border-left-color: red; }
+	credits.desc details:nth-last-of-type(6n+1) { border-left-color: orange; }
+	credits.desc details:nth-last-of-type(6n+2) { border-left-color: yellow; }
+	credits.desc details:nth-last-of-type(6n+3) { border-left-color: green; }
+	credits.desc details:nth-last-of-type(6n+4) { border-left-color: blue; }
+	credits.desc details:nth-last-of-type(6n+5) { border-left-color: blueviolet; }
+	
+	credits.desc details summary {
+		font-size: small;
+		padding: 3px 0px 3px 12px;
+		margin: 0 12px 0px -6px;
+		border-bottom: 1px solid grey;
+		color: var(--mark-action-text);
+	}
+	compare details:not([open]) summary::after {
+		content: " (Click/Tap here to show)";
+	}
+}
+
+@layer markup {
 	compare :is(james, nick, clip, credits):not([mark]) { 
 		counter-reset: left-count;
 	}

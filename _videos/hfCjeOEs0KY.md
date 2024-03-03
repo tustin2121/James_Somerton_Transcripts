@@ -32,6 +32,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2024-03-02" %}>
 
 In October of 1990 a gay man was found dead in a West Hollywood dumpster. It took 33 years to find his killer. 
 
@@ -44,6 +45,24 @@ https://www.latimes.com/california/story/2023-02-07/sleuths-help-lapd-cold-case-
 
 #truecrime #truecrimecommunity
 
+</details>
+<details {% include description-version for="2024-03-03" %}>
+
+In October of 1990 a gay man was found dead in a West Hollywood dumpster. It took 33 years to find his killer. 
+
+[patreon link]
+
+Further information can be found at the following links:  
+https://avn.com/business/articles/video/Billy-London-Murder-Reinvestigated-46373.html  
+https://thedinnerpartyshow.com/2023/02/the-murder-of-william-newton-episode-guide/  
+https://www.latimes.com/california/story/2023-02-07/sleuths-help-lapd-cold-case-bill-newton  
+
+William Arnold Newton  
+Billy Newton  
+Billy London  
+#truecrime #truecrimecommunity  
+
+</details>
 </credits>
 <comment {% include commenter for=tustin %}>
 
