@@ -17,7 +17,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Evil+Queens+-+A+Gay+Look+at+Disney+History+(Video+essay).mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20200910+Qvu84kjtGvE+Evil+Queens%EF%BC%9A+A+Gay+Look+at+Disney+History+(Video+essay).webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Evil+Queens_+A+Gay+Look+at+Disney+History+(Video+essay)-(1080p).mp4"
-# description: "a video essay on...?"
+description: "an 'adaption' of Tinker Belles and Evil Queens, a video essay about Disney's relationship with gay representation."
 notes:
   - hbomb
   - w-james
