@@ -368,10 +368,14 @@ So. Having a wildly temperamental family who have weirdly specific decency-relat
 <compare>
 <james {% include timecode %}>
 
-And we do tend to gravitate toward people who go through these queer-adjacent expiriences and come out of the other side as a nurturing, empathetic individual. Who, not only themselves try to live normal lives, but who want to help others do the same. Though it’s not really part of the Pride discourse, there were, in earlier Pride Parades, a presence of accepting mothers who would, either by proxy of their own queer children or of their own vocation, would be part of queer circles to be surrogate moms. And while this was never in a comic, I can absolutely see Wanda from the 70s and 80s doing something like that. Ooh… headcannon<sup class="add">[sic: headcanon]</sup>. Willed her own children to be queer so she could have a foothold in the community to be the community mom. Marvel’s over there sleeping on this while they figure out how to shove as many fridgable gays and rainbow flags into Spider Man games. 
+And we do tend to gravitate toward people who go through these queer-adjacent expiriences and come out of the other side as a nurturing, empathetic individual. Who, not only themselves try to live normal lives, but who want to help others do the same. Though it’s not really part of the Pride discourse, there were, in earlier Pride Parades, a presence of accepting mothers who would, either by proxy of their own queer children or of their own vocation, would be part of queer circles to be surrogate moms. And while this was never in a comic, I can absolutely see Wanda from the 70s and 80s doing something like that. <mark yikes>Ooh… headcannon<sup class="add">[sic: headcanon]</sup>. Willed her own children to be queer so she could have a foothold in the community to be the community mom.</mark> Marvel’s over there sleeping on this while they figure out how to shove as many fridgable gays and rainbow flags into Spider Man games. 
 
 </james>
-<from></from>
+<comment {% include commenter for=tustin %}>
+
+Contributor [EmuAnon34](https://github.com/tustin2121/James_Somerton_Transcripts/issues/134) says that this line has bothered them for years. James does have very odd headcannon here. Not only this is implying that Wanda is deliberately using her children to, more or less, "invade" the queer community ("foothold"??), but it's also leaning into the [very problematic trope](https://www.splcenter.org/fighting-hate/intelligence-report/2011/10-anti-gay-myths-debunked#:~:text=MYTH%20%23%203,-People%20become%20homosexual) that there 'has to be a reason' that people are queer. (Usually the trope involves things like [abuse turning you gay](https://tvtropes.org/pmwiki/pmwiki.php/Main/RapeAndSwitch) or a childhood with 'no good role model'. So this is... a new angle, at least.)
+
+</comment>
 </compare>
 
 <compare>

@@ -40,11 +40,6 @@ kenm:
   contributor: true
   descriptive: Fact-checker and source contributor
   link: ""
-alexschmidt:
-  name: AlexSchmidtTheRussianItalian
-  contributor: false
-  descriptive: Fact-checker and source contributor
-  link: ""
 sciclone1984:
   name: sciclone1984
   contributor: true
@@ -56,6 +51,18 @@ TerraJRiley:
   descriptive: project creator
   link: "https://github.com/TerraJRiley/James_Somerton_Transcripts"
 
+####### Common contributor citations #######
+
+llyrium:
+  name: l-lyrium
+  contributor: false
+  descriptive: 
+  link: "https://github.com/l-lyrium"
+emuanon34:
+  name: EmuAnon34 
+  contributor: false
+  descriptive: 
+  link: "https://github.com/EmuAnon34"
 
 ####### Common video citations #######
 todd: # assign todd = site.data.cite.todd

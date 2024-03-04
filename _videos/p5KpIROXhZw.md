@@ -36,6 +36,8 @@ cite:
     yuri_comments: "James pretends that straight women are denying the gay romance in Yuri on Ice."
     helen_of_troy: "James needs to brush up on his Greek history and stop watching Troy (2004)."
     constantinople: "James mixes up Constantinople and Bagdad when talking about progressive cities in the middle ages."
+    ambiguous_partner: "James just kind of assumes the gender of Nina's partner?"
+    desires_pronouns: "James gets a few things wrong about Desire's pronouns."
   plagiarized: !!map
 ---
 {% assign hbomb = site.data.cite.hbomb.video %}
@@ -267,12 +269,18 @@ The first season of Good Omen was a show that had a couple, our angel and demon 
 <compare>
 <james {% include timecode %}>
 
-In order to deter an investigation from heaven, Crowley and Aziraphale need to stage a love story. Maggie is a lonely record saleswoman who has a strong crush on Nina, the overworked owner of a cafe. Nina however is already in a relationship. We never meet her partner, but through text messages, we have clear indication that not everything's coming up rosey there. Nina’s girlfriend is so intensely jealous it likely crosses into emotional abuse. We aren’t put on any kind of pedestal here. We have the same kind of relationship problems that straight people have. 
+In order to deter an investigation from heaven, Crowley and Aziraphale need to stage a love story. Maggie is a lonely record saleswoman who has a strong crush on Nina, the overworked owner of a cafe. Nina however is already in a relationship. <mark fc>We never meet her partner, but through text messages, we have clear indication that not everything's coming up rosey there. Nina’s girlfriend is so intensely jealous it likely crosses into emotional abuse.</mark> We aren’t put on any kind of pedestal here. We have the same kind of relationship problems that straight people have. 
 
-However, as much as Maggie is love sick and Nina is stressed out over a relationship that turns into a messy breakup, neither of them are defined by their attraction to the other. Their personhood is primary over their queerness. And neither are justified by a romantic attraction. Nina smartly decides that immediately after a break up is not a good time to get emotionally invested with another woman. Which is sound psychological advice coming out of a fantastic queer fiction! Good on you!
+However, as much as Maggie is love sick and Nina is stressed out over a relationship that turns into a messy breakup, neither of them are defined by their attraction to the other. Their personhood is primary over their queerness. And neither are justified by a romantic attraction. <mark fc>Nina smartly decides that immediately after a break up is not a good time to get emotionally invested with another woman.</mark> Which is sound psychological advice coming out of a fantastic queer fiction! Good on you!
 
 </james>
-<from></from>
+<comment id="ambiguous_partner" {% include commenter for=site.data.cite.llyrium link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/132" %}>
+
+The gender of Nina's partner is deliberately left ambiguous. Lindsay is not, explicitly, Nina's girlfriend. Neil has answered [a couple asks](https://neil-gaiman.tumblr.com/post/733039647952945152/is-ninas-ex-nonbinary-im-asking-since-nina-uses) about it on Tumblr that this was [intentional as it is non-essential to the story how Nina's partner identifies](https://neil-gaiman.tumblr.com/post/724932799238406144/nothing-is-ever-accidental-and-nina-never-uses-a).
+
+I realize this is petty and nit-picky, but it's technically incorrect, and very ironic because he talks about "partner" being an "apt, genderless descriptor" a few sentences later.
+
+</comment>
 </compare>
 
 <compare>
@@ -345,7 +353,17 @@ The Next is referred to as the prodigal, who has been wandering for sometime and
 <compare>
 <james {% include timecode %}>
 
-Younger still are the twins, Desire being the secondary antagonist of the Netflix series, the behind-the-scene string-puller of all things shit-disturbing. Desire was and remained non-binary, though back in the day, Desire was referred to as "it" rather than "they/them" in the Netflix series. 
+Younger still are the twins, Desire being the secondary antagonist of the Netflix series, the behind-the-scene string-puller of all things shit-disturbing. <mark fc=false>Desire was and remained non-binary, though back in the day, Desire was referred to as "it" rather than "they/them" in the Netflix series.</mark> 
+
+</james>
+<comment id="desires_pronouns" {% include commenter for=site.data.cite.llyrium link="https://github.com/tustin2121/James_Somerton_Transcripts/issues/133" %}>
+
+It/its pronouns are used for Desire, but not exclusively. I would argue Desire is more often referred to with both feminine and masculine pronouns in the comics, often in succession. This is also usually true with gendered titles (i.e "Sister-brother", "uncle-aunt"). It can also be dependent on who is perceiving Desire as to what pronouns are used.
+
+In *The Sandman: Endless Nights* a mortal woman, Kara, mostly refers to Desire with masculine pronouns, although she does express uncertainty about Desire's gender. I also did a quick skim through volumes 1-6 of the mainline comics to get a sense of what pronouns are used to refer to Desire, but I didn't do any type of statistical count of it.
+
+</comment>
+<james {% include timecode %}>
 
 In the mythological and literary history of depicting the personification of lust and sex as a contemporarily beautiful woman, this speaks to a masculine centric society where the only individuals for whom Desire matters is men. To make Desire either or any gender would exclude the people for whom that particular expression of physical beauty is not the object of desire. There is also an argument to be made that might suggest that Desire’s pronoun are better as "it," because desire and fetishization are dehumanizing.
 
