@@ -43,7 +43,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.w-nick }} | {{T}} Nick Herrgott
 | {{stats.w-none }} | {{T}} (no credit)
 | | |
-| {{stats.irony }} | Instances of [irony in hindsight.](ironic.md) |
+| {{stats.irony }} | Instances of [irony in hindsight.]({{ "/themes/ironic.md" | relative_url }}) |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
 | {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |

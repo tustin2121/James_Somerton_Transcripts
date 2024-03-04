@@ -22,3 +22,7 @@ collections:
     output: true
     permalink: /:collection/:title
     layout: transcript
+  themes:
+    output: true
+    permalink: /:collection/:title
+    layout: default

@@ -46,7 +46,7 @@ cite:
     alex_jones: { short: "TODO", full: "TODO" }
     public_speaking: { color: 4, short: "Public Speaking (2010)", full: "Lebowitz, F., Scorsese, M., Carter, G., Bodde, M. (Producers). Scorsese, M. (Director). (2010). <em>Public Speaking</em> [Documentary]. HBO Documentary Films, American Express Portraits, Consolidated Documentaries, Sikelia Productions. Retrieved Jan 28, 2024, from", url: "https://www.youtube.com/watch?v=G46BVjjkDfA" }
   yikes: !!map
-    died_from_aids: "The infamous quote where James says that media is bad now because all the 'interesting' gays died during the AIDS crisis."
+    died_from_aids: "The infamous quote about 'boring gays', where James says that media is bad now because all the 'interesting' gays died during the AIDS crisis."
   misinformation: !!map
     90s_activists: "James claims that LGBT activities of the 1990's didn't care to work for employment equality protections, when this is provably wrong."
   plagiarized: !!map

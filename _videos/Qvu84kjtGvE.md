@@ -92,7 +92,8 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign todd = site.data.cite.todd.video %}
 {% assign hbomb = site.data.cite.hbomb.video %}
-{% assign tobi= site.data.cite.tobicat %}
+{% assign tobi = site.data.cite.tobicat %}
+{% assign alex = site.data.cite.alexschmidt %}
 
 <compare>
 {% include meta-history video=page %}
@@ -636,18 +637,23 @@ Technically, *The Swan Princess* was made by Nest Family Entertainment and *dist
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark v>The foppishness of Honest John the fox and Figaro the cat in *Pinocchio* make them easily read as a gay couple.</mark> Also in *Pinocchio* there's the storyline of young boys being abducted by an older man to be used in shocking ways. 
+<mark v>The foppishness of Honest John the fox and <mark fc=false>Figaro</mark> the cat in *Pinocchio* make them easily read as a gay couple.</mark> Also in *Pinocchio* there's the storyline of young boys being abducted by an older man to be used in shocking ways. 
 
 Captain Hook, the villain of *Peter Pan*, was a classic case of the sissy stereotype so prevalent in movies at the time. <mark v>Hook attempts to hide his deviant villainy behind the refined airs commonly associated with the English dandy.</mark> <mark v>Hook speaks and moves floridly, as if every action was high melodrama. He also dresses the part of a dandy: introduced holding two cigars and a long gold cigarette holder, he wears a lavender blouse with ruffles. Later, as he prepares for battle, his companion Smee helps him don a purplish plumed hat and provides Hook with a lavender handkerchief to stuff into his shirt sleeve. Though cutthroat, the pirates under Hook's command are not above singing about the pleasures of being a pirate while dancing and waving tiny pirate flags and wiggling their hips in precision like chorus girls.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tinker_belles at="p.75-76"%}>
 
-Although Disney’s animated features lean heavily towards female villains, this is not to say that the few male villains do not fit into this paradigm of “queerness.” On the contrary, <mark>the foppishness of Honest John the fox and Figaro the cat in *Pinocchio* makes them easily read as a gay couple,</mark> as Vito Russo did in *The Celluloid Closet*.<sup>67</sup> Another possible gay couple would be Smee and Captain Hook in *Peter Pan*. As with Honest John, <mark>Hook attempts to hide his deviant villainy behind the refined airs commonly associated with the English dandy.</mark> Voiced by Hans Conreid, <mark>Hook speaks and moves floridly, as if every action was high melodrama. He also dresses the part of a dandy: introduced holding two cigars in a long gold cigarette holder, he wears a lavender blouse with ruffles. Later, as he prepares for battle, his companion Smee helps him don a purplish plumed hat and a deep red velvet coat and provides Hook with a lavender handkerchief to stuff in his shirt sleeve. Though cutthroat, the pirates under Hook’s command are not above singing about the pleasures of being a pirate while doing minuets and then waving tiny pirate flags while they wiggle their hips in precision like chorus girls.</mark><sup>68</sup>
+Although Disney’s animated features lean heavily towards female villains, this is not to say that the few male villains do not fit into this paradigm of “queerness.” On the contrary, <mark>the foppishness of Honest John the fox and <mark fc=false>Figaro</mark> the cat in *Pinocchio* makes them easily read as a gay couple,</mark> as Vito Russo did in *The Celluloid Closet*.<sup>67</sup> Another possible gay couple would be Smee and Captain Hook in *Peter Pan*. As with Honest John, <mark>Hook attempts to hide his deviant villainy behind the refined airs commonly associated with the English dandy.</mark> Voiced by Hans Conreid, <mark>Hook speaks and moves floridly, as if every action was high melodrama. He also dresses the part of a dandy: introduced holding two cigars in a long gold cigarette holder, he wears a lavender blouse with ruffles. Later, as he prepares for battle, his companion Smee helps him don a purplish plumed hat and a deep red velvet coat and provides Hook with a lavender handkerchief to stuff in his shirt sleeve. Though cutthroat, the pirates under Hook’s command are not above singing about the pleasures of being a pirate while doing minuets and then waving tiny pirate flags while they wiggle their hips in precision like chorus girls.</mark><sup>68</sup>
 
 </from>
+<comment {% include commenter for=alex link="https://discord.com/channels/1180822793420554241/1180822793420554244/1213985595496333362" %}>
+
+Gideon is the name of the cat Griffin's looking for, Figaro is Geppetto's non-anthropomorphic cat.
+
+</comment>
 </compare>
 
 <compare>
@@ -1316,7 +1322,7 @@ Scar: "You have *no* idea."
 
 <mark>Scar's unforgivable sin seems to be his refusal to support the heterosexual patriarchy that Simba and his father represent. This social system is canonized during the film's opening number, "The Circle of Life."</mark> <mark>While Scar actively defies the social order celebrated in this number, the other gay figures help the young straight lion and are not seen as monsters mainly because they view him as the rightful ruler of the land. Zazu, Timon and Pumbaa all aid Simba in his quest to reestablish his claim to the throne, endorsing his divine right. </mark>
 
-<mark>This would fit directly into how</mark> establishment liberals in corporate America like the queers to behave. "Fit into the already established social roles and everything will be okay." <span visual=none on="?" off="?">Pete Buttigeeg got to run for president because he was essentially a straight man with a husband  (suburban home, two dogs, no children yet, but surely they'll be on their way by 2024), fitting into exactly what heteronormative society expects.</span> 
+<mark>This would fit directly into how</mark> establishment liberals in corporate America like the queers to behave. "Fit into the already established social roles and everything will be okay." <span visual=none on="?" off="?"><mark yikes>Pete Buttigeeg got to run for president because he was essentially a straight man with a husband (suburban home, two dogs, no children yet, but surely they'll be on their way by 2024), fitting into exactly what heteronormative society expects.</mark></span> 
 
 But Scar doesn't fit that mold, refuses to fit into that mold, and so he's looked down upon by the other lions, basically excommunicated from the pride. And since he doesn't fit the mold, he's portrayed as a Nazi, Hitler himself in fact, with all the mincing mannerisms that Hitler has been mocked for over the years. While *The Lion King* became a massive hit, Disney had to add gay men to the list of people unhappy with their product
 
@@ -1662,9 +1668,9 @@ Now, obviously Iger couldn't rebrand something Disney wasn't doing and had no co
 </compare>
 
 <compare>
-<james span=2 {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-Iger has been a benign CEO as far as LGBT representation goes. While he hasn't allowed *major* characters to come out as LGBT, <mark fc>putting his foot down when Taiko Watiti planned for Valkyrie to be a lesbian in *Thor: Ragnarok*,</mark> he has allowed smaller queer characters to appear, such as the lodge owners in *Frozen*, LeFou in the *Beauty and the Beast* remake, Specter in *Onward*, and a quick lesbian kiss in *Star Wars: Episode IX.* 
+Iger has been a benign CEO as far as LGBT representation goes. While he hasn't allowed *major* characters to come out as LGBT, <mark fc num=1>putting his foot down when Taiko Watiti planned for Valkyrie to be a lesbian in *Thor: Ragnarok*,</mark> he has allowed smaller queer characters to appear, <mark fc num=2>such as the lodge owners in *Frozen*</mark>, LeFou in the *Beauty and the Beast* remake, Specter in *Onward*, and a quick lesbian kiss in *Star Wars: Episode IX.* 
 
 </james>
 <comment {% include commenter video=todd at="2772" %}>
@@ -1676,7 +1682,12 @@ Okay, fact check, according to *Rolling Stone* they *did* shoot a scene confirmi
 </comment>
 <comment {% include commenter for=tobi %}>
 
-[Also, Valkyrie is bisexual, as is her actor, Tessa Thompson.](https://www.indiewire.com/features/general/marvel-gay-superhero-valkyrie-tessa-thompson-thor-lgbt-1202159737/) 
+<mark num=1></mark>[Also, Valkyrie is bisexual, as is her actor, Tessa Thompson.](https://www.indiewire.com/features/general/marvel-gay-superhero-valkyrie-tessa-thompson-thor-lgbt-1202159737/) 
+
+</comment>
+<comment {% include commenter for=alex link="https://discord.com/channels/1180822793420554241/1180822793420554244/1213997479742152775" %}>
+
+<mark num=2></mark>While there was a lot of speculation that Oaken was gay because when he shouts out his family in the sauna you see a man and no wife, I don't believe there has been any official acknowledgement of this the way there was for the other small inclusions of queer characters mentioned in that section
 
 </comment>
 </compare>

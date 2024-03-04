@@ -9,8 +9,12 @@
   "author": "tustin2121",
   "license": "ISC",
   "dependencies": {
+    "@types/jsdom": "^21.1.6",
     "front-matter": "^4.0.2",
     "js-yaml": "^4.1.0",
     "jsdom": "^23.1.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9"
   }
 }

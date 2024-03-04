@@ -48,4 +48,6 @@
 		"liquid"
 	],
 	"git.branchProtectionPrompt": "alwaysCommit",
+	"javascript.validate.enable": true,
+	"typescript.validate.enable": true
 }

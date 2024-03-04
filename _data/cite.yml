@@ -40,6 +40,11 @@ kenm:
   contributor: true
   descriptive: Fact-checker and source contributor
   link: ""
+alexschmidt:
+  name: AlexSchmidtTheRussianItalian
+  contributor: false
+  descriptive: Fact-checker and source contributor
+  link: ""
 sciclone1984:
   name: sciclone1984
   contributor: true
