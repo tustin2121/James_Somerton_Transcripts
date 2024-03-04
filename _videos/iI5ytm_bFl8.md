@@ -15,7 +15,6 @@ links: !!seq
 description: "a short video essay on how The Crimes of Grindlewald was bad."
 notes:
   - script-diff
-  - dec5-delete
 
 contributors:
   transcription: $cite$from-script

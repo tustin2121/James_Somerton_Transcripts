@@ -16,7 +16,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes: 
   - odd-linebreaks
-  - feb26-unprivate
+  - online
 
 history:
   2021-07-31: First published.

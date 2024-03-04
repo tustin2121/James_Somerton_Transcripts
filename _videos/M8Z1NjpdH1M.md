@@ -21,7 +21,6 @@ description: "a video essay that is so plagiarized that it ended a man's whole c
 notes: 
   - highlighted
   - hbomb
-  - dec2-delete
 
 history:
   2020-09-27: Teased on Patron.

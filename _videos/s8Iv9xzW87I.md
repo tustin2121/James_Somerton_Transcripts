@@ -15,7 +15,6 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
-  - dec5-delete
 
 contributors:
   downloaded: $cite$TerraJRiley

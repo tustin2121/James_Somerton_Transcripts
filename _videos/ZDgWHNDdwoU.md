@@ -20,7 +20,6 @@ links: !!seq
 description: "a video essay ruminating on why people would rather be in toxic relationships than being alone, complete with portion where James dresses as Hannibal."
 notes: 
   - hbomb
-  - dec5-delete
   - commentary
   - script-diff
   - w-james-nick

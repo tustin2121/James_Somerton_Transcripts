@@ -17,7 +17,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
 description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Helluva Boss, Brandon Rogers, and Bros for an hour."
 notes:
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 history:

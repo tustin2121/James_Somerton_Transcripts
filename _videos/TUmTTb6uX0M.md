@@ -17,7 +17,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - script-diff
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 history:

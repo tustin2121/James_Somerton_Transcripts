@@ -12,7 +12,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-videos-backup"
 # description: "a video essay on...?"
 notes:
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 contributors:

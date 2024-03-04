@@ -18,8 +18,7 @@ notes:
 history:
   2020-09-23: 'Teased on Patron as "Pink Triangles: The Accepted Holocaust"'
   2020-11-05: First published.
-  2023-12-07: Privated post-callout.
-  # 2000-01-01: Deleted in favor of the compilation video. # Replace with parent date
+  2021-01-19: Privated in favor of the compilation video.
 
 contributors:
 

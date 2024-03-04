@@ -15,7 +15,6 @@ links: !!seq
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.mp4"
 description: "a video essay ostensibly talking about shipping but mostly complaining about how lesbians have it so much better."
 notes:
-  - dec5-delete
   - odd-linebreaks
   - script-diff
   - w-nick-james

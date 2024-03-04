@@ -15,8 +15,8 @@ links: !!seq
 description: "a video essay on dystopias, oppression, and division over rights means less rights for us all."
 notes:
   - script-diff
-  - feb26-unprivate
   - w-nick-james
+  # - online
 
 history:
   2023-04-20: First published.

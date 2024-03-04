@@ -38,18 +38,12 @@ notes:
     # icon: "fa-solid fa-radiation"
     icon: "fa-solid fa-ribbon"
     desc: "Released post-callout by HBomberGuy."
-  # dec2-delete:
-  #   icon: "fa-solid fa-calendar-xmark"
-  #   desc: "Deleted on Dec 2nd, less than an hour post-callout."
-  # dec5-delete:
-  #   icon: "fa-regular fa-calendar-xmark"
-  #   desc: "Deleted on Dec 5th, before privating everything else on Dec 7th."
   # comp-delete:
   #   icon: "fa-solid fa-trash-can"
   #   desc: "Deleted in favor of the compilation video."
-  feb26-unprivate:
+  online:
     icon: "fa-solid fa-eye"
-    desc: "Unprivated on Feb 26 with apology 2, claiming there was no plagiarism."
+    desc: "Currently available on Somerton's channel."
   w-nick:
     icon: "wr-nick"
     desc: "Written by Nick Herrgott."

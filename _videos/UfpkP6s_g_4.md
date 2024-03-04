@@ -15,7 +15,6 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - hbomb
-  - dec5-delete
 
 history:
   2020-08-21: Preview posted to Patreon.

@@ -15,14 +15,15 @@ links: !!seq
   - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
 # description: "a video essay on...?"
 notes:
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 history:
-  2023-09-14: First published.
+  2023-09-14: First published (0Vijus_c-aY, 48:57).
   2023-12-07: Privated post-callout.
   2024-02-26: Unprivated with apology 2, claiming no plagiarism.
   2024-03-01: Privated for unknown reason.
+  2024-03-04: Unprivated with sponsor removed (47:52).
 
 cite:
   clips: !!map
@@ -54,9 +55,28 @@ How Barbie is a masterpiece of modern camp, and why queer people connected with 
 </details>
 <details {% include description-version for="2024-02-26" %}>
 
-[patreon link]
+[sponsor plug]
 
 How Barbie is a masterpiece of modern camp, and why queer people connected with it so much.
+
+[patreon link]
+
+00:00 Introduction  
+08:53 Sponsor  
+09:56 Part 1  
+15:42 Part 2  
+21:56 Part 3  
+30:52 Part 4  
+38:20 Part 5  
+
+#Barbie #videoessay
+
+</details>
+<details {% include description-version for="2024-03-04" %}>
+
+How Barbie is a masterpiece of modern camp, and why queer people connected with it so much.
+
+[patreon link]
 
 00:00 Introduction  
 08:53 Sponsor  

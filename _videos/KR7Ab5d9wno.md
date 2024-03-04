@@ -17,7 +17,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - alt-version
-  - feb26-unprivate
+  - online
 
 history:
   2023-04-07: First published.

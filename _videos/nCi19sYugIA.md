@@ -16,7 +16,7 @@ links: !!seq
 description: "a video essay on Mommie Dearest and all the drama surrounding it."
 notes:
   - visual
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 history:

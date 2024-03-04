@@ -11,7 +11,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
 notes:
-  - feb26-unprivate
+  - online
 
 history:
   2021-02-11: First published.

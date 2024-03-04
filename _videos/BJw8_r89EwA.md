@@ -17,7 +17,7 @@ links: !!seq
 description: "a video essay on how media portrays wealth."
 notes:
   - short-advert
-  - feb26-unprivate
+  - online
   - w-nick-james
 
 history:

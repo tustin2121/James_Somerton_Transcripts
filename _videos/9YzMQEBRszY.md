@@ -12,7 +12,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
 # description: "a video essay on...?"
 notes:
-  - feb26-unprivate
+  - online
 
 history:
   2023-02-01: First published.
