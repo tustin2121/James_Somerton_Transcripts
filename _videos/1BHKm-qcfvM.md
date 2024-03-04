@@ -20,6 +20,10 @@ notes:
   - hbomb
   - w-james-nick
 
+history:
+  2022-12-01: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSs_lMoXppFBQ9OnQ6jO5glGzfk0HzZt-NWoXzBPaxbhtNZ4YBJUGEwZHxI0e_gonQ9B_R5e0_up585/pub
@@ -59,6 +63,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-12-01" %}>
 
 A lot of horrible things have happened because of the rise of the far right. But would you guess that the gay body image crisis is one of them?
 
@@ -68,6 +73,7 @@ A lot of horrible things have happened because of the rise of the far right. But
 {% include chapter-link at="27:13" for="3. Industrialization" %}  
 {% include chapter-link at="36:50" for="4. The Ubermensch" %}  
 
+</details>
 </credits>
 </compare>
 

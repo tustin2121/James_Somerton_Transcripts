@@ -17,6 +17,10 @@ description: "a 'Gays Behaving Badly' podcast episode on Asexuality."
 notes:
   - podcast
 
+history:
+  2022-11-16: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting:
@@ -42,11 +46,13 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-11-16" %}>
 
 Something new to the channel! Maybe something we'll keep doing? Let us know what you think of this format!
 
 [patreon link]
 
+</details>
 </credits>
 <comment id="moderation">
 {% include header video=ace_116 at="1h23m33s" %}

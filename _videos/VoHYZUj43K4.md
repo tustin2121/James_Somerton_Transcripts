@@ -10,6 +10,7 @@ redirect_from:
 prev_ids: [ "5RPsRpk8aKA" ]
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'
+runtime: 1:00:01
 status: Finished
 aka: !!seq
   - "The Important Non-Meaning of Attack on Titan"
@@ -31,10 +32,10 @@ notes:
   - w-nick-james
 
 history:
-  2022-09-04: First published (5RPsRpk8aKA).
+  2022-09-04: First published (5RPsRpk8aKA, 1:00:01).
   2022-12-18: seldomusings calls James out in a blog post.
   2022-12-20: Video deleted due to callout post.
-  2023-01-02: Reuploaded (VoHYZUj43K4).
+  2023-01-02: Reuploaded (VoHYZUj43K4, 59:01).
   2023-12-07: Privated post-callout.
 
 contributors:
@@ -102,8 +103,7 @@ Patron: [link]
 
 </details>
 </credits>
-<comment>
-{% include header for=tustin %}
+<comment {% include commenter for=tustin %}>
 
 This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
 

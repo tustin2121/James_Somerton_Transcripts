@@ -17,6 +17,10 @@ notes:
   - multipart
   - commentary
 
+history:
+  2018-10-22: First published.
+  2023-12-07: Privated post-callout.
+
 # https://archive.org/details/monstersincloset0000bens
 
 contributors:
@@ -45,6 +49,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2018-10-22" %}>
 
 A feature length video essay looking at the history of LGBT represenation in horror cinema.
 
@@ -53,6 +58,7 @@ Inspired by the book of the same name by Harry M. Benshoff
 PATREON: [link]  
 TWITTER: [link]  
 
+</details>
 </credits>
 </compare>
 

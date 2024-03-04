@@ -33,6 +33,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-06-27" %}>
 
 [sponsor plug]
 
@@ -51,6 +52,7 @@ What has RENT gone down in history as THE queer play about HIV/AIDS when it's ba
 50:30 7. Manic Pixie Dream Homelessness  
 01:03:17 8. Glory To  
 
+</details>
 </credits>
 </compare>
 

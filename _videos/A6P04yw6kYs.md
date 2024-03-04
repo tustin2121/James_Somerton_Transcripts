@@ -20,12 +20,17 @@ notes:
   - script-diff
   - w-nick-james
 
+history:
+  2023-05-27: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
   formatting: $cite$tustin
 
 recs:
+  - { title: "Why Should I Wake Up? | Cabaret. Isherwood. Fascism.", author: "David J Bradley", url: "https://www.youtube.com/watch?v=1ef4lptWIIA&pp=ygUPYnJhZGxleSBjYWJlcmV0" }
   - { title: "Endnote 2: White Fascism", author: "Innuendo Studios", url: "https://www.youtube.com/watch?v=5Luu1Beb8ng" }
   - { title: "I Read The Most Hateful Book Ever Written", author: "Thought Slime", url: "https://www.youtube.com/watch?v=67Rg8V4g3ak" }
 
@@ -40,6 +45,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-05-27" %}>
 
 [sponsor plug]
 
@@ -57,6 +63,7 @@ How the media's cooption of fascist imagery, and it's constant "greyness" of vil
 
 #lgbt #lgbtq
 
+</details>
 </credits>
 </compare>
 

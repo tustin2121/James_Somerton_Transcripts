@@ -5,9 +5,10 @@ redirect_from:
 
 date: 2024-03-04
 title: The Queerness of Bob's Burgers
-# runtime: 
+runtime: 22:26
 status: Auto Script
 aka: !!seq
+  - "Linda Gene Bob Tina & Louise (Thumbnail)"
 topics: !!seq
   - Bob's Burgers
 links: !!seq
@@ -40,9 +41,13 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2024-03-04" %}>
 
-Bob's Burgers is one of the rare shows on TV where being queer isn't just normal... it's completely unremarkable. And that's a good thing....
+Bob's Burgers is one of the rare shows on TV where being queer isn't just normal... it's completely unremarkable. And that's a good thing.
 
+[new patreon link]
+
+</details>
 </credits>
 <comment {% include commenter for=tustin %}>
 

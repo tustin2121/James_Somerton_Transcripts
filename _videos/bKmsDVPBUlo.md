@@ -14,6 +14,10 @@ description: "a update about how the Telos Pictures IndieGoGo campaign is going 
 notes:
   - meta-video
 
+history:
+  2022-03-10: First published.
+  2023-12-02: Taken down sometime prior to the HBomb.
+
 contributors:
   transcription: $cite$tustin2121
   formatting: $cite$tustin2121
@@ -29,10 +33,12 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-03-10" %}>
 
 IndieGoGo Link:  
 [link]
 
+</details>
 </credits>
 </compare>
 

@@ -18,6 +18,10 @@ notes:
   - hbomb
   - w-james-nick
 
+history:
+  2022-10-21: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   formatting: $cite$tobicat
@@ -51,6 +55,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-10-21" %}>
 
 There's always been an attraction to fictional monsters, but what happens when that monster is real?
 
@@ -63,6 +68,7 @@ PATREON: [link]
 
 #dahmer #KillingStalking #truecrime
 
+</details>
 </credits>
 </compare>
 

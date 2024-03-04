@@ -29,9 +29,11 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2013-11-20" %}>
 
 I think Marvel has a problem on its hands, and in this video I fill you in on why I think so, and what they need to do to fix it.
 
+</details>
 </credits>
 </compare>
 

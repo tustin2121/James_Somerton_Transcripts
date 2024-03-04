@@ -20,6 +20,10 @@ notes:
   - behind-scenes
   - w-nick-james
 
+history:
+  2022-06-14: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 

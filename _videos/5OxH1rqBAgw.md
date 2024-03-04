@@ -24,8 +24,11 @@ notes:
 history:
   2020-09-23: 'Teased on Patreon as "Pink Triangles: The Accepted Holocaust"'
   2021-01-03: Teased on Patreon
-  2021-01-11: First uploaded, unlisted.
+  2021-01-11: First uploaded, unlisted (5OxH1rqBAgw).
   2021-01-14: First published.
+  2021-12-19: Uploaded to Vimeo (567992423).
+  2022-08-28: Deleted from YouTube [due to algorithm worries](digub0QVCho#algorithm).
+  2023-12-07: Deleted post-callout.
 
 contributors:
   downloaded: $cite$kenm
@@ -77,6 +80,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-01-14" label="YouTube Upload" %}>
 
 The vastly ignored history of Germany's war on gay men during World War 2.
 
@@ -102,7 +106,36 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="01:00:19" for="Part Nine: Does It End?" %}  
 {% include chapter-link at="01:03:48" for="Part Ten: Remember" %}  
 
+</details>
+<details {% include description-version for="2022-08-28" label="Vimeo Upload" %}>
+
+The vastly ignored history of Germany's war on gay men during World War 2.
+
+A special note: Trans women were also persecuted but Germany categorized them as gay men so there's no official records to refer to.
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+James's patreon post about uploading the video to Vimeo:
+
+> Hey there everyone.
+> 
+> It was recently brought to my attention that YouTube has set my video about gay holocaust victims to 18+. So a lot of people can't view it. I appealed it, but the appeal was denied. 
+> 
+> (Can only imagine what kind of fury the algorithm will bring down on me for that).
+> 
+> Anyway, I uploaded it to Vimeo to make it available to everyone. I don't think I have any Patrons who are under 18, but it's you guys who let me thumb my nose at YouTube every once and a while so I thought it only right I share the link here. Not exactly the kind of thing I imagine most people want to watch more than once, but here's the link anyway lol.  :)
+
+Eventually, he deleted the YouTube upload [as he feared the algorithm was angry](digub0QVCho#algorithm) that he had multiple 18+ videos on his channel.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -2061,9 +2094,9 @@ Maybe he just doesn't know what 'impervious' means? Why would the people alleged
 </compare>
 
 <compare>
-<james span=2 {% include timecode %} id="exclusively"> 
+<james span=2 {% include timecode %} id="exclusively" stat:id="y-persecution"> 
 
-In other camps, <mark yikes stat:id="y-persecution">gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
+In other camps, <mark yikes>gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.178-179" %}>

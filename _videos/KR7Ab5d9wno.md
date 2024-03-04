@@ -16,6 +16,7 @@ links: !!seq
   - "https://www.youtube.com/watch?v=4fEjYHiEDU8" # reuploads channel
 # description: "a video essay on...?"
 notes:
+  - alt-version
   - feb26-unprivate
 
 history:
@@ -79,6 +80,17 @@ Modest Proposal Art by Henry Behrens
 
 </details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+This video had two versions posted, according to his patreon post on April 12th, 2023:
+
+> This is a VERY different version of the this video than the one that will go live on YouTube this weekend. It's, shall we say, our first R-rated video. The YouTube version is MUCH more tame, with a lot less footage from the movies discussed lol. Less swearing, less violence, fewer boobs. But hey! That's what Patreon exclusives are for :-p
+
+This post contained a link to [a vimeo upload](https://vimeo.com/815174451/27f8aa78c1) which no longer exists. No wayback archives exist either.
+
+The transcript will cover the YouTube version.
+
+</comment>
 </compare>
 
 {% include transcript-start %}

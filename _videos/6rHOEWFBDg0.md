@@ -15,6 +15,10 @@ links: !!seq
 notes:
   - hbomb
 
+history:
+  2023-10-13: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRdleA0_a_Nf6OFYVWhFE_bTdi2ADco71HjJtNKrGacMyIzq9_fppXf5q2XhwIHJsWnvGDRLdZZQpve/pub
@@ -41,6 +45,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-10-13" %}>
 
 [sponsor plug]
 
@@ -57,6 +62,7 @@ Vampires have been a part of queer culture for as long as queer culture has exis
 39:42 Part 4 De-Fanged  
 48:22 Part 5: The Sun Rises  
 
+</details>
 </credits>
 </compare>
 

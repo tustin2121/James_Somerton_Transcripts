@@ -1,7 +1,10 @@
 ---
 redirect_from:
   - "/videos/j-aycsq0dwq"
+  - "/videos/n4W4YL2Kb2c" # patreon version
+  - "/videos/n4w4yl2kb2c"
 
+prev_ids: [ "n4W4YL2Kb2c" ]
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
 runtime: 59:15
@@ -14,16 +17,20 @@ topics: !!seq
   - "Capitalism & Anarchy"
   - "Classism & Poor Underclasses"
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/The+Necessity+of+Gay+Crime++James+Somerton.mp4"
+  - "https://archive.org/details/james-somerton-public-records/The+Necessity+of+Gay+Crime++Patreon+Version.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
   - script-diff
   - w-james-nick
+  - alt-version
 
 history:
   2020-09-23: 'Teased on Patreon as "This Thing of Ours: The Untold Story of Gays and The Mafia".'
-  2022-01-08: First published.
+  2022-01-05: Patreon version published (n4W4YL2Kb2c).
+  2022-01-08: Public version published (J-aYcSQ0DWQ).
   2023-12-07: Privated post-callout.
 
 contributors:
@@ -59,6 +66,7 @@ factcheck:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-01-08" label="Public" %}>
 
 What started as a look at the anime "Banana Fish" turned into a deep exploration of why crime might just be essential to gay life.
 
@@ -71,6 +79,7 @@ Follow me on Twitter: [link]
 {% include chapter-link at="27:43" for="Part Three" slug="Part Three: Leather & Lace" %}  
 {% include chapter-link at="43:37" for="Part Four" slug="Part Four: After the Glitter" %}  
 
+</details>
 </credits>
 </compare>
 

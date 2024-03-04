@@ -25,6 +25,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [A6P04yw6kYs](_videos/A6P04yw6kYs.md) | Finished    | The Dangers of Blissful Ignorance
 | [AlyJl0ddcPs](_videos/AlyJl0ddcPs.md) | Finished    | The Gay Horror Manga You Should Be Reading
 | [BJw8_r89EwA](_videos/BJw8_r89EwA.md) | Finished    | The Tragedy of Being Rich
+| [bKmsDVPBUlo](_videos/bKmsDVPBUlo.md) | Complete    | Let's Go To The Movies
 | [bOXpv0llE4g](_videos/bOXpv0llE4g.md) | Auto        | Best Of Queer Media 2022
 | [c9BmsQSOD6c](_videos/c9BmsQSOD6c.md) | Auto        | Nostalgia, and Remembering The Bad Times
 | [Camp-000001](_videos/Camp-000001.md) | Finished    | How The Gays Stole Cinema
@@ -41,6 +42,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [FeAAqBRL-fc](_videos/FeAAqBRL-fc.md) | Superseded  | Pink Triangles: The History of the Gay Holocaust (Part 1)
 | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | Finished    | When Hollywood Came Out of the Closet
 | [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Auto Script | Geek Review: X-men "Days of Future Past"
+| [hfCjeOEs0KY](_videos/hfCjeOEs0KY.md) | Auto Script | The 33 Year Hunt For A Queer Killer
 | [Hk-a3qaxh7Q](_videos/Hk-a3qaxh7Q.md) | Auto        | How a Gay Show Changed TV... and Was Forgotten
 | [HkO2hSN6_fI](_videos/HkO2hSN6_fI.md) | Auto        | The Gays and Dating Apps (A Conversation)
 | [iI5ytm_bFl8](_videos/iI5ytm_bFl8.md) | Finished    | The Secret Crimes of a Dying Franchise
@@ -68,12 +70,13 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [noL0rLX9euU](_videos/noL0rLX9euU.md) | Finished    | Film Theory #1: Is The Blockbuster Dying
 | [ogPYycNAo8](_videos/ogPYycNAo8.md)   | Auto        | The Problem With Pride
 | [p5KpIROXhZw](_videos/p5KpIROXhZw.md) | Finished    | Neil Gaiman & Queering Fantasy
+| [PBU9Wo_uoYk](_videos/PBU9Wo_uoYk.md) | Auto Script | The Queerness of Bob's Burgers
 | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | Finished    | The History of Gay Hollywood
 | [P_mLM6fUhHQ](_videos/P_mLM6fUhHQ.md) | Complete    | CODEBREAKERS: Queer film theory (and why it matters)
 | [qa3A_ery3Hg](_videos/qa3A_ery3Hg.md) | Complete    | Disney's Silence on Gay Youth
 | [qT6IsmUrHeY](_videos/qT6IsmUrHeY.md) | Auto        | The Role of Adult Media in Gay Identity (A Conversation)
 | [QuiEKdTmj2M](_videos/QuiEKdTmj2M.md) | Complete    | Heartstopper and Queer Optimism
-| [Qvu84kjtGvE](_videos/Qvu84kjtGvE.md) | Auto        | Evil Queens: A Queer Look at Disney History
+| [Qvu84kjtGvE](_videos/Qvu84kjtGvE.md) | Complete    | Evil Queens: A Queer Look at Disney History
 | [QxRveV0x2-o](_videos/QxRveV0x2-o.md) | Script      | Yuri on Ice - How Gay is Gay Enough?
 | [rg92PER6xvE](_videos/rg92PER6xvE.md) | Auto        | Nintendo's Queer Relationship With Gender
 | [S-_NcmyntN0](_videos/S-_NcmyntN0.md) | Finished    | Disney's War on Gay Kids

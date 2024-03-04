@@ -29,6 +29,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-08-31" %}>
 
 Disney has always had a problem with LGBT representation… but in the summer of 2021 they took it to a new level.
 
@@ -41,6 +42,7 @@ Disney has always had a problem with LGBT representation… but in the summer of
 {% include chapter-link at="25:48" for="Luca" %}  
 {% include chapter-link at="29:50" for="Real Talk" %}  
 
+</details>
 </credits>
 </compare>
 

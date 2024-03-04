@@ -24,6 +24,10 @@ notes:
   - hbomb
   - commentary
 
+history:
+  2022-07-16: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRBkM1gu7DlbMv8UpzOzCMv4a_-6M-cmzlY3LwX2P1P7ORV2-4qsq2XI-VSeBi8egy89yUoA4EVauyH/pub
@@ -46,6 +50,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-07-16" %}>
 
 Nostalgia can be fun and whimsical... but it may also lead to the downfall of society. 
 
@@ -62,7 +67,13 @@ PATREON: [link]
 
 #strangerthings #nostalgia
 
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+Along with [Pink Triangles](5OxH1rqBAgw) and [The History of Gay Panic](digub0QVCho), the audio commentary of this video was also moved to Vimeo (743814709). The video itself did not move.
+
+</comment>
 </compare>
 
 {% include transcript-start %}

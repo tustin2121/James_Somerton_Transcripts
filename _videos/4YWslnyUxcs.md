@@ -16,6 +16,12 @@ description: "a video essay on how we should see terrible gay movies for a few d
 notes:
   - visual
   - feb26-unprivate
+  - w-none
+
+history:
+  2017-07-01: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -41,9 +47,11 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2017-07-01" %}>
 
 James sits down to talk about the history of gays in film, and what "The Stonewall Film Effect" may mean for the future of gay cinema.
 
+</details>
 </credits>
 <comment {% include commenter for=tustin %}>
 

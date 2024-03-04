@@ -1,2 +1,2 @@
 {%- comment %} Expected: for = date of version {% endcomment -%}
-><summary>As of {{ include.for | date: "%b %d, %Y" }}</summary
+><summary>As of {{ include.for | date: "%b %d, %Y" }} {%- if include.label %} ({{ include.label }}){%- endif -%}</summary

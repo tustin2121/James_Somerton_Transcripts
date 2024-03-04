@@ -32,6 +32,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-01-19" %}>
 
 Concluding the story of the gay men lost to hatred during World War 2.
 
@@ -51,6 +52,7 @@ This video contains copyrighted material. The use of which has not always been s
 32:58​ Part Ten: Remember  
 
 
+</details>
 </credits>
 </compare>
 

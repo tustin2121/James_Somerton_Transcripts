@@ -19,6 +19,10 @@ notes:
   - short-advert
   - script-diff
 
+history:
+  2023-10-29: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
@@ -36,6 +40,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-10-29" %}>
 
 [Sponsor plug]
 
@@ -46,6 +51,7 @@ The Summer Hikaru Died is an ongoing horror manga SO GOOD I had to make a video 
 
 #manga #horrorstories
 
+</details>
 </credits>
 </compare>
 

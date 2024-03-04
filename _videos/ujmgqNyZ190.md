@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-04-01
 title: !!str “Killing Stalking” and The Romancing of Abuse
+runtime: 1:00:05
 status: Auto
 aka: !!seq
   - "Killing Stalking and the Love of a Bad Boy (Short)"

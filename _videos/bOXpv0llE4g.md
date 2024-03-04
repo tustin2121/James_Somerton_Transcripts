@@ -27,6 +27,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-12-16" %}>
 
 Nick's Book!
 Amazon: [link]
@@ -47,6 +48,7 @@ My Instagram
 
 #Bestof #Bestof2022
 
+</details>
 </credits>
 </compare>
 
