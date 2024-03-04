@@ -21,11 +21,12 @@ history:
   2024-02-26: First published.
 
 recs:
-  - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
+  - { title: "annoyed at james", author: "Pillar of Garbage", url: "https://www.youtube.com/watch?v=9PcyUaa3cqA" }
+  - { title: "Disability does not make you plagiarise - An Epileptic Response", author: "SirisLayer", url: "https://www.youtube.com/watch?v=2PGIndS4qZQ" }
+  - { title: "James Somerton's Measured Response: An Unhinged Response", author: "Mack Attack", url: "https://www.youtube.com/watch?v=t3T2AShGO5g" }
   - { title: "Somerton Apology 2: Electric Boogaloo - is there actually a future for James?", author: "Council of Geeks", url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ" }
   - { title: "James Somerton Apology 2/? | A Measured Reaction", author: "MATRIARCHETYPE", url: "https://www.youtube.com/watch?v=M5TKdYLUHIw" }
-  - { title: "James Somerton's Measured Response: An Unhinged Response", author: "Mack Attack", url: "https://www.youtube.com/watch?v=t3T2AShGO5g" }
-  - { title: "annoyed at james", author: "Pillar of Garbage", url: "https://www.youtube.com/watch?v=9PcyUaa3cqA" }
+  - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
 
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
@@ -74,9 +75,13 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2024-02-26" %}>
 
-[...]
+What I should have said in December. 
 
+[new patron link]
+
+</details>
 </credits>
 </compare>
 
