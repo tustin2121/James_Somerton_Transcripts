@@ -1,8 +1,12 @@
 ---
-date: 2024-02-25
+redirect_from:
+  - "/videos/pbu9wo_uoyk"
+  - "/videos/newvid_0001"
+
+date: 2024-03-04
 title: The Queerness of Bob's Burgers
 # runtime: 
-status: Missing
+status: Auto Script
 aka: !!seq
 topics: !!seq
   - Bob's Burgers
@@ -15,13 +19,14 @@ notes:
 history:
   2023-11-20: Thumbnails teased in Patreon discord
   2024-02-26: Teased in apology 2, available on Patreon.
+  2024-03-04: First published.
 
 recs:
   # - { title: "The Complex Trans Rep of Bob's Burgers", author: "Lily Simpson", url: "https://www.youtube.com/watch?v=Dln1rylCGb4" }
 
 contributors:
-  citation:
-    - "[Lily Simpson](https://twitter.com/LilySimpson1312/status/1762985100680241250)"
+  # citation:
+    # - "[Lily Simpson](https://twitter.com/LilySimpson1312/status/1762985100680241250)"
 
 cite:
   clips: !!map
