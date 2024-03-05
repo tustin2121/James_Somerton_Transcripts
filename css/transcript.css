@@ -243,8 +243,6 @@
 	compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 	
 	compare james.deleted { border-color: red; }
-	/* compare james.deleted[timecode]::before   { content: 'James: (Deleted) (' attr(timecode) ')'; text-align-last: justify; }
-	compare james.deleted::before             { content: 'James: (Deleted) \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; } */
 	
 	compare credits.opening::before { content: 'Opening Credits:'; }
 	compare credits.closing::before { content: 'Closing Credits:'; }
@@ -253,6 +251,9 @@
 	compare credits.history::before { content: 'Upload History:'; }
 	compare credits[header]::before { content: attr(header); }
 	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
+	
+	compare credits.deleted { border-color: red; }
+	compare :is(james,credits).deleted::before { content: 'James: (Deleted)'; text-align-last: justify; }
 	
 	compare footer {
 		font-size: small;

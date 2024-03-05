@@ -1,7 +1,10 @@
 ---
 redirect_from:
+  - "/videos/zdmpyndokac"
+  - "/videos/p5KpIROXhZw" # original ID
   - "/videos/p5kpiroxhzw"
 
+prev_ids: [ "p5KpIROXhZw" ]
 date: 2023-11-23
 title: Neil Gaiman & Queering Fantasy
 runtime: 45:26
@@ -20,8 +23,13 @@ description: "a video essay on how to do good representation of queer people in 
 notes:
   - short-advert
 
+history:
+  2023-11-23: First published (p5KpIROXhZw, 45:26).
+  2023-12-07: Privated post-callout.
+  2024-03-05: Reuploaded (zDMpYNdokac, 41:38) with sponsor and credits removed.
+
 contributors:
-  trascription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"
+  transcription: "[/u/DHLawrence_sGhost](https://www.reddit.com/r/hbomberguy/comments/18caidv/i_made_a_transcript_of_james_latest_video_neil/) (direct link to [original document](https://docs.google.com/document/d/e/2PACX-1vR-G5Sdt_EI2g4VkJYvRDSO6bGxFx0PtqlrmYXXT_i71rVvmuxgUW9WaBSooubkAPewckhqNFIZxtS4/pub))"
   formatting: $cite$tustin2121
   factcheck: 
     - $ref$lvence$https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/
@@ -50,6 +58,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-11-23" %}>
 
 [sponsor plug]
 
@@ -67,13 +76,22 @@ How is it that a straight writer creates some of the best queer characters in fi
 {% include chapter-link at="35:51" for="Vers Six" %}  
 {% include chapter-link at="39:18" for="Vers Seven" %}  
 
+</details>
+<details {% include description-version for="2024-03-05" %}>
+
+Written by Nick Herrgott  
+[new patreon link]  
+
+Neil Gaiman has been writing stories for over four decades, and he's been including queer characters in them all along. How does he make it look so easy?
+
+</details>
 </credits>
 </compare>
 
 {% include transcript-start %}
 
 <compare>
-<james {% include timecode %}>This video is brought to you by SquareSpace</james>
+<james class="deleted" {% include timecode %}>This video is brought to you by SquareSpace</james>
 </compare>
 
 <compare>
@@ -147,9 +165,12 @@ Now while queer creators are finally getting a chance to tell their own stories,
 
 </james>
 <from></from>
-</compare>
+<james class="deleted" {% include timecode %}>
 
 <u>[Sponsor Read]</u>
+
+</james>
+</compare>
 
 ## Vers One: Of Angles & Demons
 
@@ -869,13 +890,16 @@ For all that we create our dreams without thinking, it’s still possible, thoug
 
 </james>
 <from></from>
-</compare>
-<compare>
-<credits class="closing" {% include timecode %}>
+<credits class="closing deleted" {% include timecode %}>
 
 <u>&lt;Patreon plug&gt;</u>
 
 <u>[Patreon names roll over piano music (as of yet unidentified).]</u>
 
 </credits>
+<comment {% include commenter for=tustin2121 %}>
+
+The reupload deletes the credits, and therefore cuts off very abruptly.
+
+</comment>
 </compare>
