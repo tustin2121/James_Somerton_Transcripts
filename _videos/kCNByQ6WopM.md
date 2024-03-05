@@ -34,7 +34,7 @@ contributors:
   formatting: $cite$tustin2121
   factcheck: 
     - "[Council of Geeks](https://www.youtube.com/watch?v=q1RLUSVWnoQ)"
-    - "[Dan Olsen](https://www.patreon.com/posts/djs0-99390338)"
+    - "[Dan Olson](https://www.patreon.com/posts/djs0-99390338)"
     - "[MATRIARCHETYPE](https://www.youtube.com/watch?v=M5TKdYLUHIw)"
     - "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
 
@@ -50,7 +50,7 @@ cite:
       url: "https://www.youtube.com/watch?v=M5TKdYLUHIw"
     folding_ideas:
       color: 3
-      name: "Dan Olsen"
+      name: "Dan Olson"
       link: "https://www.patreon.com/posts/djs0-99390338"
     rebo:
       color: 18
