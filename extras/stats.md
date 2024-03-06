@@ -42,6 +42,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.w-james }} | {{T}} James Somerton
 | {{stats.w-nick }} | {{T}} Nick Herrgott
 | {{stats.w-none }} | {{T}} (no credit)
+| {{stats.wp-nick }} | {{T}} Nick Herrgott (credited post-callout in the description) (non-exclusive with one of the above)
 | | |
 | {{stats.irony }} | Instances of [irony in hindsight.]({{ "/themes/ironic" | relative_url }}) |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |

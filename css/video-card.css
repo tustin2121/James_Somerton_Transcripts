@@ -232,7 +232,7 @@
 	i.wr-nick-james::after  { content: "J"; vertical-align: sub; }
 	i.wr-james-nick::before { content: "J"; vertical-align: super; }
 	
-	i.wr-nick, i.wr-james, i.wr-nick-james, i.wr-james-nick {
+	i.wr-nick, i.wr-james, i.wr-nick-james, i.wr-james-nick, i.wr-nick-post {
 		-moz-osx-font-smoothing: grayscale;
 		-webkit-font-smoothing: antialiased;
 		display: var(--fa-display,inline-block);
@@ -243,4 +243,11 @@
 		font-weight: 900;
 		font-family: serif;
 	}
+	
+	i.wr-nick-post::before       { content: "N"; }
+	i.wr-nick-post {
+		font-family: 'Schoolbell', "Comic Sans MS", "Comic Sans", 'Chalkboard SE', 'Comic Neue', cursive;
+	}
 }
+
+/* @import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap') */

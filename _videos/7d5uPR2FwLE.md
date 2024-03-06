@@ -1,5 +1,7 @@
 ---
 redirect_from:
+  - "/videos/7d5upr2fwle"
+  - "/videos/kvMq2FejBT8" # original video id
   - "/videos/kvmq2fejbt8"
   - "/videos/-Uoqmxlcusg" # actually the video id of the short
   - "/videos/-uoqmxlcusg"
@@ -8,6 +10,7 @@ redirect_from:
 # cspell:words  Utena Tenjou  Anthy Himemiya  Akio Ohtori  Touga Kiryuu  Nanami  Wakaba Shinohara  Shiori Takatsuki  Juri Arisugawa  Souji
 # cspell:words  Ikuhara Kunihiko  Saito Chiho  Hasegawa Shinya  Enokido Yōji  Oguro Yūichirō  Shōjo Kakumei  Sato Junichi  Toei Evangelion Takarazuka Jun'ichi Nakahara Shūji Terayama Seazer Toole
 
+prev_id: [ "kvMq2FejBT8" ]
 date: 2023-10-07
 title: The Real Revolution of Utena
 runtime: 56:52
@@ -26,11 +29,15 @@ links: !!seq
 description: "a video essay on postmodernism, symbolism, and gender roles; where if James had plagiarized more, he'd probably have better takes."
 notes: 
   - short-advert
-  - unreleased
+  - online
+  - w-none
+  - wp-nick
+  - snip-credits
 
 history:
-  2023-10-07: First uploaded, available to patrons.
+  2023-10-07: First uploaded (kvMq2FejBT8, 56:52), available to patrons.
   2023-12-07: Privated post-callout.
+  2024-03-06: Reuploaded (7d5uPR2FwLE, 54:31) with credits removed.
 
 contributors:
   downloaded: "Cap'n Lee, the maintainer of the [\"public records\" archive](https://archive.org/details/james-somerton-public-records)"
@@ -85,6 +92,7 @@ cite:
 
 </from>
 <credits class="desc">
+<details {% include description-version for="2023-10-07" %}>
 
 A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 
@@ -97,6 +105,15 @@ A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 41:32 Part 6  
 48:12 Part 7  
 
+</details>
+<details {% include description-version for="2024-03-06" %}>
+
+Written by Nick Herrgott  
+[new patreon link]  
+
+An attempted analysis of the iconic anime Revolutionary Girl Utena
+
+</details>
 </credits>
 </compare>
 
@@ -108,7 +125,7 @@ A dive into Revolutionary Girl Utena, and what this iconic anime means today.
 
 <u>[On Screen]: "Health Warning: Flashing lights in some scenes. Because anime."</u>
 
-This is what happened, more or less. The magical girl trope of anime hit a fever pitch in the 1990s with the international phenomenon of Sailor Moon, which typified the style. Both in homage and parody, these tropes have been recreated by artists ever since and have also become an entire genre in their own right.
+This is what happened... more or less. The magical girl trope of anime hit a fever pitch in the 1990s with the international phenomenon of Sailor Moon, which typified the style. Both in homage and parody, these tropes have been recreated by artists ever since and have also become an entire genre in their own right.
 
 Whether it's newer magical girls like *Puella Magi Madoka Magica*, the westernized magical girls like the cast of *Shira and the Princesses of Power*, or the genderbent magical boys of *Cute High Earth Defense Club*, the trope has been a staple of animation for decades. 
 
@@ -339,8 +356,7 @@ Student council president Touga Kiryuu: "Nanami, you like girls more than boys?"
 
 His sister Nanami: "Yes!"
 
-Touga: "Listen, Nanami, God created men and women for a reason. That reason being that they join in the best sort of way. No matter how good something may
-feel, going against God's plan is--"
+Touga: "Listen, Nanami, God created men and women for a reason. That reason being that they join in the best sort of way. No matter how good something may feel, going against God's plan is--"
 
 Nanami: "What are you implying, Big Brother?! You *know* you're the only one that I love!"
 
@@ -354,10 +370,18 @@ Nanami: "What are you implying, Big Brother?! You *know* you're the only one tha
 
 Utena, through her close connection and apparent engagement to Anthy, works at coaching Anthy to think for herself. An unfortunate drawback of the Rose Bride is that the Rose Bride can only ever *do or feel* the way that she is instructed to *by* her betrothed. Even as her bridegroom, Utena tirelessly coaches Anthy to advocate for her own needs and her own feelings, and to do what she wants rather than what her magical-husband-person-to-be tells her.
 
+</james>
+<from></from>
+<james class="deleted" {% include timecode %}>
+
 (I'm sure tops of all genders can identify with both the irony and endless struggle of trying to coax their bottoms into being less subservient.)
 
 </james>
-<from></from>
+<comment {% include commenter for=tustin %}>
+
+This joke was removed from the reupload.
+
+</comment>
 </compare>
 
 <compare>
@@ -1330,7 +1354,7 @@ Though as more information is revealed to Utena, she remembers that no it was no
 
 Utena sees this as injustice, and her vow to become a prince is not in honor of the prince who rescued her. Her bravado is not due to a pep talk from a handsome man. Her drive to become a prince, her will, her determination, her very driving motivation that she herself does not remember, is to free Anthy from the swords of men who somehow believe that *all* women are responsible for the suffering of the world, and that a woman's only contribution in this world is to endure suffering. For the benefit of a man.
 
-Utena's princely quest is not just to rescue Anthy, but to rescue all the damsels in distress, to rescue all women from suffering, by empowering them to rescue themselves.
+Utena's princely quest is not just to just rescue Anthy, but to rescue *all* the damsels in distress, to rescue all women from suffering, by empowering them to rescue themselves.
 
 </james>
 <comment {% include commenter for=deus %}>
@@ -1348,9 +1372,14 @@ Deus and the Machina recommends a few replacements at the end of their document,
 </compare>
 
 <compare>
-<credits class="closing" {% include timecode %}>
+<credits class="closing deleted" {% include timecode %}>
 
 <u>[Patreon names roll over the ending credits song for Utena's final episode of the English Dub.]</u>
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+Credits removed from reupload. It doesn't cut off nearly as abruptly as some others.
+
+</comment>
 </compare>

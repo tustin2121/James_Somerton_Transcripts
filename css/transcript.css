@@ -678,6 +678,37 @@
 		letter-spacing: 6px; 
 		font-family: serif;
 	}
+	
+}
+@layer markup {
+	/* Everything, Everywhere, All at Once video: */
+	.eeaot-bookShelf {
+	}
+	.eeaot-greenScreen {
+	}
+	@media (prefers-color-scheme: dark) {
+		.eeaot-brickWall {
+			/* Created by Benjamin Ward. Originally found at Subtle Patterns. https://www.transparenttextures.com/brick-wall.html */
+			background-image: url('brick-wall-dark.png');
+		}
+		.eeaot-masquerade {
+			background-color: rgba(255, 0, 0, 0.1);
+		}
+	}
+	@media (prefers-color-scheme: light) {
+		.eeaot-brickWall {
+			/* Created by Benjamin Ward. Originally found at Subtle Patterns. https://www.transparenttextures.com/brick-wall.html */
+			background-image: url('brick-wall.png');
+		}
+		.eeaot-masquerade {
+			background-color: rgb(27, 0, 0);
+			color: #c9d1d9;
+		}
+	}
+	compare nick.eeaot-greenScreen::before  { content: 'Video!Nick:'; }
+	compare james.eeaot-bookShelf::before   { content: 'Book!James:'; }
+	compare james.eeaot-brickWall::before   { content: 'Coat!James:'; }
+	compare james.eeaot-masquerade::before  { content: 'Masked!James:'; }
 }
 @layer markup {
 	compare q mark, compare mark q, compare blockquote mark {

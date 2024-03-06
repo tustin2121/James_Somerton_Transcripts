@@ -22,6 +22,9 @@ links: !!seq
 description: "a video essay on how to do good representation of queer people in media."
 notes:
   - short-advert
+  - w-none
+  - wp-nick
+  - snip-credits
 
 history:
   2023-11-23: First published (p5KpIROXhZw, 45:26).

@@ -44,6 +44,9 @@ notes:
   online:
     icon: "fa-solid fa-eye"
     desc: "Currently available on Somerton's channel."
+  snip-credits:
+    icon: "fa-solid fa-receipt"
+    desc: "Reupload removed credits from the video."
   w-nick:
     icon: "wr-nick"
     desc: "Written by Nick Herrgott."
@@ -56,5 +59,8 @@ notes:
   w-james-nick:
     icon: "wr-james-nick"
     desc: "Written by James Somerton and Nick Herrgott."
+  wb-nick:
+    icon: "wr-nick-post"
+    desc: "Post-callout video description credit to Nick."
 
   
