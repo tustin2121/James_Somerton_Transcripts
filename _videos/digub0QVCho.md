@@ -2239,6 +2239,11 @@ Butler claimed the gay panic defense, telling the police, Well, sir, he started 
 
 </james>
 <from></from>
+<comment>
+
+The only places I could find this full quote online was at [murderpedia](https://murderpedia.org/male.B/b/butler-charles.htm) and on page 79 of Cynthia Lee's *Murder and the Reasonable Man: Passion and Fear in the Criminal Courtroom* (2007). (They found the quote in the same place, a 1999 article at Court TV by Bryan Robinson than seems to have been erased from the Internet.) Butler actually withdrew his mental defect defense before the trial and instead argued that he had not killed Billy himself, Mullins had done that alone, though "gay panic" was still featured in the trial. (Lee 2008, p. 493) 
+
+</comment>
 </compare>
 
 {% assign timecode = "00:57:03" %}
@@ -2246,10 +2251,18 @@ Butler claimed the gay panic defense, telling the police, Well, sir, he started 
 <compare>
 <james {% include timecode %}>
 
-The judge refused to accept it. Both men were sentenced to life in prison. And in 2019, 20 years after he beat Billy Jack Gaither to death, Stephen Mullins was stabbed to death in prison. Charles Butler remains in prison. Ever since his death, there has been a memorial held in honor of Billy Jack on the steps of the Alabama State House.
+The judge refused to accept it. Both men were sentenced to life in prison. And in 2019, 20 years after he beat Billy Jack Gaither to death, Stephen Mullins was stabbed to death in prison. Charles Butler remains in prison. 
+
+Ever since his death, there has been a memorial held in honor of Billy Jack on the steps of the Alabama State House. State reps and congresspeople fought for almost 20 years to have the murder of LGBT people considered a hate crime in Alabama. As of November 2021, according to state law, murdering a gay man in Alabama is still not considered a hate crime.
 
 </james>
-<from></from>
+<from>
+
+according to al.com democratic state representative patricia todd was alabama's first openly lesbian lawmaker she tried for a long time to amend the hate crime laws in alabama to include sexual orientation and gender identity but she was unsuccessful as of this episode alabama still does not include sexual orientation as a hate crime
+
+every year close to the anniversary of billy jack's death there is an annual vigil held on the steps of the alabama state capitol to remember billy and other victims of hate crimes and to demand change to the alabama hate crime statute
+
+</from>
 </compare>
 
 {% assign timecode = "00:57:26" %}
@@ -2257,7 +2270,7 @@ The judge refused to accept it. Both men were sentenced to life in prison. And i
 <compare>
 <james {% include timecode %}>
 
-State reps and congresspeople fought for almost 20 years to have the murder of LGBT people considered a hate crime in Alabama. As of November 2021, according to state law, murdering a gay man in Alabama is still not considered a hate crime. Weeks after Billy Jack's death, Terrence Houser was murdered by his next door neighbor, Joseph Biederman, after he found out he was gay.
+Weeks after Billy Jack's death, Terrence Houser was murdered by his next door neighbor, Joseph Biederman, after he found out he was gay.
 
 </james>
 <from></from>
