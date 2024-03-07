@@ -1382,21 +1382,38 @@ On redirect the prosecution got the homosexual panic psychiatrist to admit that 
 <compare>
 <james {% include timecode %}>
 
-They were using junk science to justify a murder. The jury audibly booed the prosecutor. With no intervention from the judge, Theresa hadn't even testified yet. But the trial was essentially over. Parisi was convicted of manslaughter, but upon appeal was set free. The appeals court stated that by not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak. The original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversity, a full acquittal would have been likely. And so John, Steven Parisi was let back into the world, a world Robert Jackson no longer lived in.
+They were using junk science to justify a murder. The jury audibly booed the prosecutor. With no intervention from the judge. Theresa hadn't even testified yet. But the trial was essentially over.
+
+</james>
+<comment>
+
+Todd 4464s
+
+okay I have the source that he's pulling from which I I guess is like a transcript of some no-name podcast or something I'm not sure but but there is no mention in there of the jury booing none at all and also that's just ridiculous on its face juries don't boo that'd be an instant mistrial please find me any instance of this happening anywhere ever also the jury cited with the prosecutor why would they have booed him for proving that gay Panic wasn't a real thing I don't understand what this detail is even supposed to mean
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Parisi was convicted of manslaughter, but upon appeal was set free. The appeals court stated that "by not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak. The original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversity, a full acquittal would have been likely." And so John, Steven Parisi was let back into the world, a world Robert Jackson no longer lived in.
 
 </james>
 <from></from>
 <comment>
 
-"The jury audibly booed the prosecutor." Right, and then everyone clapped. And why would the jury deliver a guilty verdict if they hated the prosecutor?
+Todd:
 
-Anyway, most of this misinformation is sourced from the podcast: 
+so it is true that after 14 years in prison perzi did win his appeal in 1982 partially because of the suppressed Witnesses however this quote right here the one where the judge calls the dead gay man a pervert and said his perversions would have led to an acqu I am almost certain that this quote is completely fabricated it does not appear in the source he's pulling from and it does not appear in any of the court rulings of which there were several uh it's possible that I just don't know my way around legal documents well enough to find the source of this quote 
 
-Reggie claims that Parisie was convicted for manslaughter, but none of the records of the case I could find mentioned manslaughter, only murder. It wouldn't make sense anyway; manslaughter wouldn't get a 40 to 70 year sentence, the sentence length that Reggie claims. 
+but also just on basic logic I don't buy it the gay Panic defense is used to get leniency not AC quiddle Summerton says that himself earlier in the video and it's definitely not likely that pesi would have been acquitted perzi said beforehand that he was going to go quote roll a queer because he needed the money and when he was arrested he was in possession of the victim's wallet wedding ring and car plus the prosecutor debunked gay Panic as made up anyway so even with the testimony I don't buy that he would have been acquitted a judge did not say that 
 
-Reggie then goes into the appeals that Parisie made in the following years, and claims that Parisie was released after his appeal in 1983. This is not true. I'm not a lawyer, so I'm having a hard time parsing the legal text, but what seems to have happened is: when Parisie's appeals to the state courts failed, he appealed to the federal courts. In 1979, the United States District Court for Southern Illinois denied Parisie's appeal. He then appealed to the next highest court, the United States Court of Appeals (Seventh Circuit). [In 1982, the Court of Appeals said that Parisie should have a new trial](https://casetext.com/case/parisie-v-greer). However, note what it says after the court's decision: "reversed and remanded." [A later case by the Court of Appeals in 1983 upheld the District Court's decision](https://casetext.com/case/parisie-v-greer-3). Parisie could have further appealed the case to the Supreme Court, but the Supreme Court is extremely selective about which cases it chooses to argue. I could find no further information about Parisie's status, but he was not released in 1983; he wasn't even granted a retrial.
+finally I did consult with some lawyers about these court documents thank you Devon legal eagle and Jewish lawyer lib on Twitter and based on what they told me I think the entire conclusion of this segment is wrong that's not sum's fault the Source he's using misinterpreted the case but what actually happened was perzi won the right to a retrial in 1982 not his freedom just a retrial however the state appealed that ruling and a year later the court changed its mind based on like minor procedural stuff like perzi missed a filing deadline somewhere along the line so the first appeal was overturned and the original guilty verdict stood perizzy did not get his retrial and again that's not sum's fault his Source was wrong but the embellishments he added those do belong to him and they make the initial error much worse the prosecutor had argued that the victim probably wasn't even gay and one appeals judge thought if you're going to call this guy a liar he has the right to prove you wrong if you think they were maybe some biased undertones to that decision uh you know what go ahead and make that case but the decision was about the right to a fair trial not whether it's okay to murder perverts he's once again fabricating evidence to support someone else's conclusion which in this case wasn't even valid 
 
-Here's a text that goes into more detail about the case: https://pure.manchester.ac.uk/ws/portalfiles/portal/54513052/FULL_TEXT.PDF (see p.231 for a more technical summary of the appeals process).
+<comment>
+
+Also, Reggie (and then James) claims that Parisie was convicted for manslaughter, but none of the records of the case I could find mentioned manslaughter, only murder. It wouldn't make sense anyway; manslaughter wouldn't get a 40 to 70 year sentence, the sentence length that Reggie claims. 
 
 </comment>
 </compare>
@@ -1436,6 +1453,7 @@ It was just a relatively obscure temporary insanity plea that most people would 
 
 As Cynthia Lee states, the gay panic defense generally did not work as a temporary insanity plea (491-494). I'm not sure if there's even one case of it working as a temporary insanity plea, though there were cases of it working as a diminished capacity plea.
 
+</comment>
 </compare>
 
 {% assign timecode = "00:34:58" %}
@@ -2230,22 +2248,20 @@ Ever since his death, there has been a memorial held in honor of Billy Jack on t
 </james>
 <from>
 
+36:43-37:09
 according to al.com democratic state representative patricia todd was alabama's first openly lesbian lawmaker she tried for a long time to amend the hate crime laws in alabama to include sexual orientation and gender identity but she was unsuccessful as of this episode alabama still does not include sexual orientation as a hate crime
+
+40:08-40:25
 
 every year close to the anniversary of billy jack's death there is an annual vigil held on the steps of the alabama state capitol to remember billy and other victims of hate crimes and to demand change to the alabama hate crime statute
 
 </from>
-</compare>
+<comment>
 
-{% assign timecode = "00:57:26" %}
+tobi
 
-<compare>
-<james {% include timecode %}>
+I'm being pedantic, but murdering a gay woman is not considered a hate crime either.
 
-Weeks after Billy Jack's death, Terrence Houser was murdered by his next door neighbor, Joseph Biederman, after he found out he was gay.
-
-</james>
-<from></from>
 </compare>
 
 {% assign timecode = "00:57:48" %}
@@ -2253,10 +2269,20 @@ Weeks after Billy Jack's death, Terrence Houser was murdered by his next door ne
 <compare>
 <james {% include timecode %}>
 
-In a now rare case of the gay panic defense working, Biederman was fully acquitted of the crime. The jury decided it was strictly self-defense. As mentioned in My Monsters in the Closet video, James Miller of Austin, Texas, used the gay panic defense at his trial following the killing of his neighbor, Daniel Spencer, in September of 2015. The two were playing guitar together and drinking, and Miller testified he thought Spencer had propositioned him.
+Weeks after Billy Jack's death, Terrence Houser was murdered by his next door neighbor, Joseph Biederman, after he found out he was gay. In a now rare case of the gay panic defense working, Biederman was fully acquitted of the crime. The jury decided it was strictly self-defense. 
 
 </james>
-<from></from>
+<comment>
+
+LVence
+
+James seems to think ‘weeks later’ means a decade, because Terrance Hauser was killed in 2008.
+
+tobicat
+
+This could have been paraphrased from any number of sources, but I'm going to guess it's from [Wikipedia](https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=1004212938#Uses_of_the_gay_panic_defense)
+
+</comment>
 </compare>
 
 {% assign timecode = "00:58:14" %}
@@ -2264,10 +2290,21 @@ In a now rare case of the gay panic defense working, Biederman was fully acquitt
 <compare>
 <james {% include timecode %}>
 
-The prosecution stated that Miller had stabbed Spencer in the back in April 2018. A jury found Miller guilty of criminally negligent homicide, but not guilty of manslaughter or murder. Miller received a sentence of six months jail time, ten years probation, and 100 hours of community service. The gay men have not been the only victims of the queer panic defense, often ignored by the media of the murders of trans women, especially trans women of color.
+As mentioned in My Monsters in the Closet video, James Miller of Austin, Texas, used the gay panic defense at his trial following the killing of his neighbor, Daniel Spencer, in September of 2015. The two were playing guitar together and drinking, and Miller testified he thought Spencer had propositioned him. The prosecution stated that Miller had stabbed Spencer in the back. In April 2018 a jury found Miller guilty of criminally negligent homicide, but not guilty of manslaughter or murder. Miller received a sentence of six months jail time, ten years probation, and 100 hours of community service. 
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=1004212938#Uses_of_the_gay_panic_defense para 25
+
+James Miller of Austin, Texas used the gay panic defense at his trial following the killing of his neighbor, Daniel Spencer, in September 2015. The two were playing guitar together and drinking, and Miller testified he thought Spencer had propositioned him. The prosecution stated that Miller had stabbed Spencer in the back and that Miller showed no sign of harm, undercutting Miller's defense that deadly force was needed because of the disparity in the two men's sizes and ages.<sup>[152]</sup> In April 2018, a jury found Miller guilty of criminally negligent homicide, but not guilty of manslaughter and murder.<sup>[153]</sup> Miller received a sentence of six months jail time, 10 years probation, 100 hours of community service, and $11,000 in restitution to Spencer's family.<sup>[154]</sup>
+
+</from>
+<comment>
+
+The Wikipedia ID is from February 2021 because that was the last version before all of the gay panic examples were removed from the article. I found this section quoted in a [Reddit comment](https://www.reddit.com/r/Dallas/comments/bwd5jt/transgender_womans_body_found_in_white_rock_lake/), which is the only reason I could find this. He said he'd been working on this video for a year, so presumably he copied this bit from Wikipedia early on, or he just took from the Reddit post.
+
+</comment>
 </compare>
 
 {% assign timecode = "00:58:44" %}
@@ -2275,7 +2312,7 @@ The prosecution stated that Miller had stabbed Spencer in the back in April 2018
 <compare>
 <james {% include timecode %}>
 
-Though in many cases their killers are never caught and in some cases never even really looked for. Sometimes these women's killers do end up in court where queer panic becomes the backbone of their defense. I debated whether to keep the following section in the video as transgender people begin to be acknowledged by society. They've also received the entirely wrong kind of attention, especially trans women of color.
+The gay men have not been the only victims of the queer panic defense, often ignored by the media of the murders of trans women, especially trans women of color. Though in many cases their killers are never caught and in some cases never even really looked for. Sometimes these women's killers do end up in court where queer panic becomes the backbone of their defense. I debated whether to keep the following section in the video as transgender people begin to be acknowledged by society. They've also received the entirely wrong kind of attention, especially trans women of color.
 
 </james>
 <from></from>
@@ -2290,6 +2327,13 @@ And I cannot speak for those women. My life experience as a cisgender gay man wh
 
 </james>
 <from></from>
+<comment>
+
+tobi
+
+People talk about gun violence all the time in the media, don't they? What does he mean by this?
+
+</comment>
 </compare>
 
 {% assign timecode = "00:59:36" %}
@@ -2319,10 +2363,14 @@ Just to have that taken away from them in death. A final blow from a society so 
 <compare>
 <james {% include timecode %}>
 
-And so I decided that though I may be an imperfect messenger, that I need to tell their stories so that more people will know their names. Gwen Ariyo Gwen, often called a woman, was really just a £90.17 year old girl with no chance against the man who murdered her. Gwen grew up in Newark, California. By all accounts, she was a happy and energetic child who expressed the desire to be female from a very early age.
+And so I decided that though I may be an imperfect messenger, that I need to tell their stories so that more people will know their names. Gwen Ariyo. <mark>Gwen, often called a woman, was really just a 90 pound, 17 year old girl with no chance against the man who murdered her.</mark> 
 
 </james>
-<from></from>
+<from>
+
+<mark>Gwen, often called a woman, was really just a 90-pound girl with no chance against the four drunken young men,</mark> including two who had been sexually intimate with her, Guerrero said. They viciously beat and strangled Gwen to death at a Newark house party on Oct. 4, 2002, after they confirmed she was biologically male.
+
+</from>
 </compare>
 
 {% assign timecode = "01:00:58" %}
@@ -2330,10 +2378,22 @@ And so I decided that though I may be an imperfect messenger, that I need to tel
 <compare>
 <james {% include timecode %}>
 
-She came out as trans in 1999 at the age of 14 and began using the name Gwen after her favorite singer, Gwen Stefani. It was around this time that she began to be bullied at school. As the bullying intensified, she transferred out of public school and into alternative school. Her family didn't have the money for the hormone treatments and surgeries she required, so she began looking for work.
+Gwen grew up in Newark, California. <span stat:id="baa">By all accounts,</span> she was a happy and energetic child who expressed the desire to be female from a very early age. She came out as trans in 1999 at the age of 14 and began using the name Gwen after her favorite singer, Gwen Stefani. It was around this time that she began to be bullied at school. As the bullying intensified, she transferred out of public school and into alternative school. Her family didn't have the money for the hormone treatments and surgeries she required, so she began looking for work. But finding a job as a trans girl in the early 2000s wasn't easy. According to her family, her happy, bubbly demeanor started to fade, and she dropped out of school at the beginning of her senior year. 
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Life
+
+Gwen lived in Newark, California, USA. Family members knew Gwen as a happy and energetic child who was always laughing and quite active. Gwen expressed the desire to be female from an early age and just prior to her death she had started to live as female. She attended public school and a local church with family members until the controversy surrounding her trans status grew, at which time she began to withdraw socially. She stopped attending Newark Memorial High School prior to her graduation and began to look for work. She was unable to find a job, which her mother believed was the result of intolerance created by her child’s gradual transition between genders. 
+
+https://en.wikipedia.org/w/index.php?title=Murder_of_Gwen_Araujo&oldid=1056817039 Background
+
+Gwen Araujo was born on February 24, 1985, in Brawley, California, to Edward Araujo, Sr. and Sylvia Guerrero.[6] Her parents divorced when she was 10 months old.[7]
+
+Araujo came out as transgender in 1999 at the age of 14, and began using the name Gwen after her favorite musician, Gwen Stefani, but also went by Wendy and Lida.[8] She began to grow her hair long and planned to undergo hormone treatment and surgery.[9][10] Her older sister said that she was bullied in junior high school because of her voice and bearing. She transferred to an alternative high school, but did not return for the 2002–03 academic year.[8] 
+
+</from>
 </compare>
 
 {% assign timecode = "01:01:20" %}
@@ -2341,10 +2401,16 @@ She came out as trans in 1999 at the age of 14 and began using the name Gwen aft
 <compare>
 <james {% include timecode %}>
 
-But finding a job as a trans girl in the early 2000s wasn't easy. According to her family, her happy, bubbly demeanor started to fade, and she dropped out of school at the beginning of her senior year. It was around this time that she met a circle of friends. The group of young adults was a mix of races and genders and enjoyed playing dominoes at the house they shared.
+It was around this time that she met a circle of friends. The group of young adults was a mix of races and genders and enjoyed playing dominoes at the house they shared. Four men in the group Michael Madison, Josie Morrell, Yara Nabors and Jason Cazares took a particular shine to Gwen. A few weeks into the friendship, she was invited to a party they were planning.
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Death para 1
+
+Gwen, who was going by the name “Lida” at the time, was introduced to a circle of friends whom she met during a chance encounter while walking down a local street. The group of young adults enjoyed passing the evening hours with party activities that included playing dominos and consuming drugs and alcohol at the home of Gwen’s to-be assailants. Gwen was reported to have engaged in sexual activities with several of the men from the group. She was later invited back to the house where a party was planned a few weeks after she and the men had first met. She wore her mother’s peasant blouse to the party. Gwen’s mother had asked her not to wear the clothing she had picked out for that evening and expressed her discomfort with Gwen’s appearance. Gwen told her mother that she was just being jealous of her. This was the last time Sylvia Guerrero would see her child alive.
+
+</from>
 </compare>
 
 {% assign timecode = "01:01:40" %}
@@ -2352,21 +2418,21 @@ But finding a job as a trans girl in the early 2000s wasn't easy. According to h
 <compare>
 <james {% include timecode %}>
 
-Four men in the group Michael Madison, Josie Morrell, Yara Nabors and Jason Cazares took a particular shine to Gwen. A few weeks into the friendship, she was invited to a party they were planning at the party on October 3rd, 22. It was discovered by forced inspection that Gwen had a penis. Quickly, two of the men she befriended became extremely agitated.
+at the party on October 3rd, 22. It was discovered by forced inspection that Gwen had a penis. Quickly, two of the men she befriended became extremely agitated. One of them, Madison, began choking her in the hallway of the house. People began fleeing, but Jose, Maria Elena and neighbors remained. Jason Cazares claimed to go outside at this point. However, he didn't leave because. Madison had driven him there, and apparently he couldn't fathom walking home. Inside, the three assailants continued assaulting Gwen. She was brutally beaten for 5 hours. Josie Morrell beat her over the head with a frying pan and then struck her again with a can of tomatoes. Mike Madison need her in the head against the living room wall with such force that it left an indentation in the plaster.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "01:02:03" %}
+https://t-vox.org/history/people/gwen-araujo Death para 2
 
-<compare>
-<james {% include timecode %}>
+At the party on (October 3, 2002) it was discovered, by forced inspection (conducted by a young woman at the party), that Gwen had male genitalia. In an explosion of activity, the men that she had sexual relations with became extremely agitated. Once it was discovered that Gwen Araujo was biologically male Mike Magidson began choking Lida in the hallway of the house. At this point numerous guests left the residence. Jose Merel and Jaron Nabors remained inside the residence with Mike Magidson. Jason Cazares claimed to go outside at this point, however he did not leave because he had arrived in Mike Magidson’s truck. Once everyone left, the three assailants began assaulting her. Jose Merel struck her on the head with a frying pan and then struck again with a can of tomatoes, causing a gash to her head which bled profusely. Jaron Nabors struck her with a barbell weight. Mike Magidson kneed her in the head against the living room wall. The blow was so forceful that her head caused an indentation in the plaster wall.
 
-One of them, Madison, began choking her in the hallway of the house. People began fleeing, but Jose, Maria Elena and neighbors remained. Jason Cazares claimed to go outside at this point. However, he didn't leave because. Madison had driven him there, and apparently he couldn't fathom walking home. Inside, the three assailants continued assaulting Gwen. She was brutally beaten for 5 hours.
+</from>
+<comment>
 
-</james>
-<from></from>
+I could not find an indication of how much time elapsed during the men's assault of Gwen.
+
+</comment>
 </compare>
 
 {% assign timecode = "01:02:28" %}
@@ -2374,21 +2440,16 @@ One of them, Madison, began choking her in the hallway of the house. People bega
 <compare>
 <james {% include timecode %}>
 
-Josie Morrell beat her over the head with a frying pan and then struck her again with a can of tomatoes. Mike Madison need her in the head against the living room wall with such force that it left an indentation in the plaster. After this, Gwen was taken to the garage and strangled with a rope. She was then hogtied, wrapped in a blanket and placed in the bed of a pickup truck.
+After this, Gwen was taken to the garage and strangled with a rope. She was then hogtied, wrapped in a blanket and placed in the bed of a pickup truck. The three assailants, plus Jason Cazares, drove her body to Parkland in El Dorado County, a wooded area in the foothills of the Sierra Nevada, known as Silver Fork, where she was finally buried in a shallow grave. It's not clear at what point during this sequence of events Gwen actually died. However, the autopsy did show that she left us before being buried.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "01:02:51" %}
+https://t-vox.org/history/people/gwen-araujo
 
-<compare>
-<james {% include timecode %}>
+After some time in the living room, Gwen was then taken to the garage of the home, where she was strangled by a rope (stories conflict as to whether Mike Magidson or Jaron Nabors strangled her). Most accounts have Jose Merel cleaning blood out of the carpet at the time she was strangled. She was then hog-tied, wrapped in a blanket and placed in the bed of a pick-up truck. The three assailants, plus Jason Cazares drove her body to parkland in El Dorado County, California, a wooded area in the foothills of the Sierra Nevada known as Silver Fork, where she was finally buried in a shallow grave. It is not clear at what point during this sequence of events Gwen’s death occurred. However the autopsy showed that Gwen died from strangulation associated with blunt force trauma to the head.
 
-The three assailants, plus Jason Cazares, drove her body to Parkland in El Dorado County, a wooded area in the foothills of the Sierra Nevada, known as Silver Fork, where she was finally buried in a shallow grave. It's not clear at what point during this sequence of events Gwen actually died. However, the autopsy did show that she left us before being buried.
-
-</james>
-<from></from>
+</from>
 </compare>
 
 {% assign timecode = "01:03:17" %}
@@ -2399,7 +2460,13 @@ The three assailants, plus Jason Cazares, drove her body to Parkland in El Dorad
 Nearly two weeks passed before Gwen's body was discovered by the authorities for fear of reprisal. The partygoers did not report the crime, and the assailants all agreed not to say a word to anyone. Later, however, your neighbors began talking to a friend about what happened. The friend called the police and neighbors later detained and questioned. Under interrogation, he disclosed the location of Gwen's body.
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Trial para 2
+
+Nearly two weeks passed before Gwen’s body was discovered by the authorities. Partygoers present, for fear of reprisal, did not report the crime that had occurred and the assailants all agreed not to say a word to anyone about the matter. Later however, Jaron Nabors began talking to a friend about what happened. The friend called the police and Jaron Nabors was later detained and questioned. Under interrogation, Jaron Nabors disclosed the location of Gwen’s body.
+
+</from>
 </compare>
 
 {% assign timecode = "01:03:40" %}
@@ -2407,10 +2474,16 @@ Nearly two weeks passed before Gwen's body was discovered by the authorities for
 <compare>
 <james {% include timecode %}>
 
-Alameda County Sheriff's Office dispatched four crime scene investigators and two detectives who discovered the body at the gravesite. The deputies were led there on October 16th, 2000, to by neighbors, the youngest of the four individuals. The four accused of the murder were Michael Madison Duran neighbors Jose Morrow and Paul Palmeiro, Jose's older brother. Palmeiro was quickly released, though, because his girlfriend came forward to the police telling them that Paul had left the party with her.
+Alameda County Sheriff's Office dispatched four crime scene investigators and two detectives who discovered the body at the gravesite. The deputies were led there on October 16th, 2000, to by neighbors, the youngest of the four individuals. The four accused of the murder were Michael Madison Duran neighbors Jose Morrow and Paul Palmeiro, Jose's older brother. Palmeiro was quickly released, though, because his girlfriend came forward to the police telling them that Paul had left the party with her. Paul and his girlfriend were never charged and became witnesses for the prosecution. Neighbors later testified against the other three in a deal with the D.A. for a lesser charge of manslaughter. Jason Cazares was arrested over a month after the other defendants and only after neighbors implicated him.
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Trial para 2
+
+Alameda County Sheriff’s Department dispatched four crime scene investigators and two detectives who recovered the body at the gravesite. The deputies were led there on 16 October 2002 by Jaron Nabors, the youngest of the four individuals charged with her murder and hate crime. The four accused of the murder were: Michael Magidson, 25, Jaron Nabors, 22, José Merél, 25 and Paul Merel, Jose’s older brother. Paul Merel was quickly released because his girlfriend (the one who checked Gwen’s genitalia in the bathroom) came forward to the police telling them that Paul had left that night with her. Paul Merel and his girlfriend were never charged and became witnesses for the prosecution. Nabors later testified against the other three in a deal with the DA for a lesser charge of manslaughter after police monitored a jailhouse letter and information gained during a conversation with one of the accused using a wiretap. Jason Cazares was arrested over a month after the other defendants and only after Nabors implicated Cazares in a letter to Nabors’ girlfriend, explaining how he (Nabors) wasn’t involved in the killing. However, Nabors would later testify that he was involved in the killing, bringing into question the reliabiltiy of the letter. Additionally, Nabors’ girlfriend testified that the letter contained numerous lies and Nabors frequently lied to her.
+
+</from>
 </compare>
 
 {% assign timecode = "01:04:08" %}
@@ -2418,32 +2491,16 @@ Alameda County Sheriff's Office dispatched four crime scene investigators and tw
 <compare>
 <james {% include timecode %}>
 
-Paul and his girlfriend were never charged and became witnesses for the prosecution. Neighbors later testified against the other three in a deal with the D.A. for a lesser charge of manslaughter. Jason Cazares was arrested over a month after the other defendants and only after neighbors implicated him in their first trial. Some of the defendants used a variant of the gay panic defense.
+In their first trial, some of the defendants used a variant of the gay panic defense: the trans panic defense. Madison's defense involved an implicit acknowledgment of his role in Gwen's death, but argued that he acted in the heat of passion. The discovering that Gwen was transgender caused him to spiral into a fit of uncontrollable rage. And therefore, he should be found guilty of manslaughter, not murder, under California law. Morales attorney denied any involvement by Morrell in the killing. Cazares, the only defendant to actually testify at the first trial, denied involvement in the murder, but admitted to helping bury her. All three attacked neighbors as credibility, arguing that he minimized his own role in Gwen's death and had the most to gain by lying. The jury deadlocked on all three defendants, with the case ending in a mistrial. They were free.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "01:04:27" %}
+https://t-vox.org/history/people/gwen-araujo First Trial
 
-<compare>
-<james {% include timecode %}>
+In their first trial, some of the defendants appeared to use a variant of the gay panic defense. Magidson’s defense involved an implicit acknowledgment of his role in Araujo’s death, but argued that Magidson acted in the heat of passion, and therefore, should be found guilty of manslaughter, not murder, under California law. Merel’s attorney denied any involvement by Merél in the killing. Cazares, the only defendant to testify at that first trial and the only defendant who never had a physical relationship with Araujo, denied involvement but admitted to help burying Araujo. Prosecution witnesses pointed out that Cazares attempted to intervene on behalf of Araujo (to stop the beating) on as many as five separate occasions prior to everyone fleeing the house. All three attacked Nabors’ credibility, arguing that he minimized his own role in Gwen’s death and had the most to gain by lying. The jury deadlocked on all three defendants, and a mistrial was recorded. The jury appeared to be unable to decide whether the murders were premeditated, and so whether to convict them of first degree murder or second degree murder. However, another possibility — one that the prosecution appeared to respond to in the second trial — was that the prosecution’s lack of a coherent theory as to who was responsible for what role in Araujo’s death made it impossible for the jurors to determine who of the three, if any, was guilty.
 
-The trans panic defense. Madison's defense involved an implicit acknowledgment of his role in Gwen's death, but argued that he acted in the heat of passion. The discovering that Gwen was transgender caused him to spiral into a fit of uncontrollable rage. And therefore, he should be found guilty of manslaughter, not murder, under California law. Morales attorney denied any involvement by Morrell in the killing.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "01:04:52" %}
-
-<compare>
-<james {% include timecode %}>
-
-Cazares, the only defendant to actually testify at the first trial, denied involvement in the murder, but admitted to helping bury her. All three attacked neighbors as credibility, arguing that he minimized his own role in Gwen's death and had the most to gain by lying. The jury deadlocked on all three defendants, with the case ending in a mistrial. They were free.
-
-</james>
-<from></from>
+</from>
 </compare>
 
 {% assign timecode = "01:05:13" %}
@@ -2451,10 +2508,31 @@ Cazares, the only defendant to actually testify at the first trial, denied invol
 <compare>
 <james {% include timecode %}>
 
-However, they were tried a second time. In contrast to the first trial where only Cazares testified, all three defendants testified in this trial and blamed each other as well as neighbors. Prosecutor Chris Lim Yero appeared to abandon the strategy that the prosecution employed in the first trial, blaming all three defendants equally for the crime and arguing heard only for first degree murder and instead concentrated his argument against Madison, calling him a pathetic, despicable excuse for a man.
+However, they were tried a second time. In contrast to the first trial where only Cazares testified, all three defendants testified in this trial and blamed each other as well as neighbors. 
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Second Trial
+
+In contrast to the first trial, where only Cazares testified, all three defendants testified in this trial — and blamed each other as well as Nabors. However, Jose Merel conceded (like the prosecution witnesses) that Cazares intervened on behalf of Araujo during the beating. Magidson claimed to have blacked out during the beating and was unable to recall whether Cazares intervened. Cazares again claimed to be only involved in burying Araujo. No witnesses ever testified to seeing Cazares strike the victim in any manner. Jose Merél blamed Nabors as the main killer, and indicated that Magidson helped Nabors strangle Araujo to death; Merél acknowledged hitting Araujo over the head with a pan, but claimed he never wanted to kill her. Magidson also largely blamed Nabors, but also claimed to be heavily intoxicated the night of Araujo’s death. Jose Merel and Mike Magidson said that Jaron Nabors struck Gwen in the head with a barbell weight, which had not previously been disclosed. A weight from the house was brought into court and did show a presumptively positive test for blood. Nabors denied that anyone used a weight to strike Gwen. Nabors’ girlfriend also testified about the letter she received from Nabors while she was in custody. She testified that the letter contained a number of factual accounts that were lies, and that Nabors often lied to her.
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+Prosecutor Chris Lim Yero appeared to abandon the strategy that the prosecution employed in the first trial, blaming all three defendants equally for the crime and arguing heard only for first degree murder and instead concentrated his argument against Madison, calling him a pathetic, despicable excuse for a man. As for Caceres, Lemieux argued that his assistance made him just as culpable as Madison for murder.
+
+</james>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Second Trial para 2
+
+On August 24, 2005, closing argument commenced. Prosecutor Chris Lamiero appeared to abandon the strategy that the prosecution employed in the first trial — blaming all three defendants equally for the crime and arguing hard only for first degree murder — and instead concentrated his argument against Magidson, calling him a “pathetic, despicable excuse for a man”. As for Cazares, Lamiero argued that his assistance of Magidson made him as culpable as Magidson for murder. He repeatedly referred to Cazares as “the killer’s friend” during his argument. Lamiero further appeared to concede that the murder might not be first degree murder, by arguing that the most important thing for the jury is to find Magidson and Cazares guilty of murder, either first degree or second degree. Lamiero’s closing arguments appeared to leave Merél entirely out of his fire — stating merely that Merél’s fate was up to the jury. This may be because Merél’s testimony, if believed, would tend to establish Magidson’s and Cazares’ guilt.
+
+</from>
 </compare>
 
 {% assign timecode = "01:05:42" %}
@@ -2462,10 +2540,18 @@ However, they were tried a second time. In contrast to the first trial where onl
 <compare>
 <james {% include timecode %}>
 
-As for Caceres, Lemieux argued that his assistance made him just as culpable as Madison for murder. The defense, on the other hand, continued to claim trans panic. On September 8th, the jury announced that it had reached verdicts on two of the three defendants. On September 12th, after the jury announced that it had deadlocked on the third defendant, the verdicts were announced.
+The defense, on the other hand, continued to claim trans panic. On September 8th, the jury announced that it had reached verdicts on two of the three defendants. On September 12th, after the jury announced that it had deadlocked on the third defendant, the verdicts were announced. As it turned out, the defendant that the jury had deadlocked on was Cazares, while Madison Morrow were each convicted of second degree murder. But the jury found that the murder was not a hate crime. 
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo para 6-7
+
+On September 8, the jury announced that it had reached verdicts on two of the three defendants. As Judge Sheppard instructed, the verdicts were kept secret.
+
+On September 12, after the jury announced that it had deadlocked on the third defendant, the verdicts were announced. As it turned out, the defendant that the jury had deadlocked on was Cazares, while Magidson and Merél were each convicted of second degree murder, but the jury found the hate crime enhancement allegation to be not true. Magidson and Merél each faces a mandatory 15 years-to-life sentence as a result of this conviction.
+
+</from>
 </compare>
 
 {% assign timecode = "01:06:06" %}
@@ -2473,10 +2559,24 @@ As for Caceres, Lemieux argued that his assistance made him just as culpable as 
 <compare>
 <james {% include timecode %}>
 
-As it turned out, the defendant that the jury had deadlocked on was Cazares, while Madison Morrow were each convicted of second degree murder. But the jury found that the murder was not a hate crime. Later on, a juror went on the record saying that members of the jury did not believe a hate crime had been committed because it was just a bunch of boys being boys.
+Later on, a juror went on the record saying that members of the jury did not believe a hate crime had been committed because it was just a bunch of boys being boys.
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo para 8
+
+In an interview with the San Francisco Chronicle, juror Max Stern, a San Francisco attorney, indicated that the jury did not particularly believe any of the defendants or prosecution witness Nabors. He indicated that the jury believed that the offense was murder rather than manslaughter because the jurors believed that Magidson and Merél’s reactions were not reasonable, but rejected the hate crime enhancement because some jurors did not believe that the crime was committed because of Araujo’s sexual orientation, but because the situation got out of hand. According to Stern, the jury convicted Magidson and Merél largely based on their admissions of their roles in Araujo’s death.
+
+</from>
+<comment>
+
+LVence
+
+The jury did not think it was “just a bunch of boys being boys.” According to T-vox it was
+“because the situation got out of hand.”
+
+</comment>
 </compare>
 
 {% assign timecode = "01:06:30" %}
@@ -2484,10 +2584,18 @@ As it turned out, the defendant that the jury had deadlocked on was Cazares, whi
 <compare>
 <james {% include timecode %}>
 
-Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St Edward's Catholic Church in Newark. Following the ceremonies there was a march through the main streets leading to the community's mall, attended by community dignitaries and leaders. Eventually, California would pass the Gwen Arapaho Justice for Victims Act legislation that would eventually lead to the banning of the queer panic defense in California.
+Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St Edward's Catholic Church in Newark. Following the ceremonies there was a march through the main streets leading to the community's mall, attended by community dignitaries and leaders. Eventually, California would pass the Gwen Arapaho Justice for Victims Act legislation that would eventually lead to the banning of the queer panic defense in California. At her mother's request, a judge posthumously changed Gwen's legal name. On June 23rd, 2004,
 
 </james>
-<from></from>
+<from>
+
+https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
+
+Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St. Edward’s Catholic Church in Newark. Following the ceremonies, there was a march through main streets leading to the community’s mall attended by community dignitaries and leaders. Gwen was remembered again during the “Remembering Our Dead” vigils that took place in several major cities to commemorate the deaths of 27 transgender people during the 12 month period that contained Gwen Araujo’s own death. A few days after the funeral, members of the Westboro Baptist Church (followers of Fred Phelps) picketed the church proclaiming that “cross-dressing teen pervert Eddie Araujo (a.k.a. Gwen or Lida) has joined Matthew Shepard in hell.” The clan also picketed many places around the Newark area including Newark Memorial High School where drama students performed The Laramie Project.
+
+At Gwen’s mother request, a judge posthumously changed Gwen’s legal name to Gwen on June 23, 2004.
+
+</from>
 </compare>
 
 {% assign timecode = "01:06:54" %}
@@ -2495,10 +2603,18 @@ Those who knew Gwen were joined by hundreds of sympathizers for her funeral loca
 <compare>
 <james {% include timecode %}>
 
-At her mother's request, a judge posthumously changed Gwen's legal name. On June 23rd, 2004, Angie Zapata, those who followed the murder trial of 18 year old Angie Zapata in 2009 found out a lot about her life in the days directly surrounding her murder. How two of her sisters found her on July 17, lying on the living room floor of her one bedroom apartment, her stiff body covered with a bloodstained blanket.
+Angie Zapata. Those who followed the murder trial of 18 year old Angie Zapata in 2009 found out a lot about her life in the days directly surrounding her murder. How two of her sisters found her on July 17, lying on the living room floor of her one bedroom apartment, her stiff body covered with a bloodstained blanket. How three days earlier, she'd borrowed her mother's car to pick up a man in Thornton. How she hadn't told friends or family who he was.
 
 </james>
-<from></from>
+<from>
+
+https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955 para 1-2
+
+Those who followed last month's trial of the man who murdered eighteen-year-old Angie Zapata know a lot about what her life was like on July 14, 15 and 16 of last year.
+
+They know how two of her sisters found her on July 17, lying on the carpeted living-room floor of her one-bedroom apartment in Greeley, her stiff body covered with a bloodstained blanket. How three days earlier, she'd borrowed her mother's car to pick up a guy in Thornton. How she hadn't told friends or family who he was.
+
+</from>
 </compare>
 
 {% assign timecode = "01:07:23" %}
@@ -2506,10 +2622,16 @@ At her mother's request, a judge posthumously changed Gwen's legal name. On June
 <compare>
 <james {% include timecode %}>
 
-How? Three days earlier, she'd borrowed her mother's car to pick up a man in Thornton. How she hadn't told friends or family who he was. The man was Alan Andrada, an unemployed 31 year old who Angie had met online. Andrada spent three days with Angie, and on the third day, Angie went to babysit her sister, Monica's three kids.
+The man was Alan Andrada, an unemployed 31 year old who Angie had met online. Andrada spent three days with Angie, and on the third day, Angie went to babysit her sister, Monica's three kids.
 
 </james>
-<from></from>
+<from>
+
+https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955 para 3
+
+That guy was Allen Andrade, an unemployed 31-year-old whom Angie had met on the social networking website MocoSpace. Andrade spent three days with Angie, and on the third day, Angie went to babysit her sister Monica's three kids. After that, according to court testimony, Angie stopped by a friend's apartment in Greeley. She told her friend there was an older guy staying with her and that she was going to get him to help her pay one of her bills. Then, she said, she was going to kick him out.
+
+</from>
 </compare>
 
 {% assign timecode = "01:07:42" %}
@@ -2517,10 +2639,20 @@ How? Three days earlier, she'd borrowed her mother's car to pick up a man in Tho
 <compare>
 <james {% include timecode %}>
 
-Andrada had spent the day alone in Angie's apartment and later told police that he'd begun to grow suspicious of Andie's gender after looking at the photographs that decorated her living room. That night, Andrada demanded Angie prove she was a woman. She refused. So he did it himself, grabbing her crotch. She froze as he began beating her until she fell down.
+Andrada had spent the day alone in Angie's apartment and later told police that he'd begun to grow suspicious of Andie's gender after looking at the photographs that decorated her living room. That night, Andrada demanded Angie prove she was a woman. She refused. So he did it himself, grabbing her crotch. She froze as he began beating her until she fell down. Then he grabbed a fire extinguisher from the kitchen wall and hit her twice in the head. After that, he covered her with a blanket and began cleaning up. 
 
 </james>
-<from></from>
+<from>
+
+https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955 para 4-6
+
+Andrade had spent the day alone in Angie's apartment and later told police that he'd begun to grow suspicious of Angie's gender after looking at the photographs that decorated her neat living room. That night, he said, he confronted her about it.
+
+"I am all woman," Angie told him.
+
+Andrade asked Angie to prove it. She refused. So he did it himself, grabbing her crotch. He felt a penis, he later told the police, and reacted by beating her with his fists until she fell down. Then he grabbed a fire extinguisher from the kitchen wall and hit her twice in the head. After that, he covered her with a blanket and began cleaning up.
+
+</from>
 </compare>
 
 {% assign timecode = "01:08:04" %}
@@ -2528,10 +2660,16 @@ Andrada had spent the day alone in Angie's apartment and later told police that 
 <compare>
 <james {% include timecode %}>
 
-Then he grabbed a fire extinguisher from the kitchen wall and hit her twice in the head. After that, he covered her with a blanket and began cleaning up. But Angie wasn't dead. Andrada told the police he heard gurgling sounds coming from underneath the blanket and saw her struggling to sit up. So he hit her in the head with the fire extinguisher once more.
+But Angie wasn't dead. Andrada told the police he heard gurgling sounds coming from underneath the blanket and saw her struggling to sit up. So he hit her in the head with the fire extinguisher once more. Then grabbed his stuff and left. 
 
 </james>
-<from></from>
+<from>
+
+https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955 para 7
+
+But Angie wasn't dead. Andrade told the police he heard gurgling sounds coming from underneath the blanket and saw her struggling to sit up. So he hit her in the head with the fire extinguisher once more. Then he grabbed his stuff and fled.
+
+</from>
 </compare>
 
 {% assign timecode = "01:08:27" %}
@@ -2539,10 +2677,14 @@ Then he grabbed a fire extinguisher from the kitchen wall and hit her twice in t
 <compare>
 <james {% include timecode %}>
 
-Then grabbed his stuff and left. Those are the grisly details of Angie's murder, the ones that made her family sob in the courtroom that prosecutors diagramed that defense attorneys tried to invalidate, that a jury used to convict Andrada of first degree murder, the first time in American history that a man was convicted of first degree murder for the death of a trans woman.
+Those are the grisly details of Angie's murder, the ones that made her family sob in the courtroom that prosecutors diagramed that defense attorneys tried to invalidate, that a jury used to convict Andrada of first degree murder, the first time in American history that a man was convicted of first degree murder for the death of a trans woman. But these details only describe the end of Angie's life. They don't reveal who she was. 
 
 </james>
-<from></from>
+<from>
+
+Those are the grisly details of Angie's murder, the ones that made her family sob in the courtroom, that prosecutors diagrammed, that defense attorneys tried to rebut — that a jury used to convict Andrade of murder. But these details only describe the end of Angie's life. They don't reveal what she meant to friends and family or answer questions about who Angie was before she met Andrade and how she found herself with him.
+
+</from>
 </compare>
 
 {% assign timecode = "01:08:46" %}
@@ -2550,10 +2692,18 @@ Then grabbed his stuff and left. Those are the grisly details of Angie's murder,
 <compare>
 <james {% include timecode %}>
 
-But these details only describe the end of Angie's life. They don't reveal who she was. Angie Zapata was born on August 5th, 1989, assigned male at birth and was one of six children. Much of the media coverage of Angie used her dead name and often referred to her with the wrong pronouns. Regardless, she talked with her family and close friends about her gender identity, and they started calling her Angie at a young age.
+Angie Zapata was born on August 5th, 1989, assigned male at birth and was one of six children. Much of the media coverage of Angie used her dead name and often referred to her with the wrong pronouns. Regardless, she talked with her family and close friends about her gender identity, and they started calling her Angie at a young age.
 
 </james>
-<from></from>
+<from>
+
+https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
+
+Who Was Angie Zapata? para 1
+
+Angie Zapata was born Justin Zapata on August 5, 1989, and was one of six children. Zapata was feminine from an early age and was attracted to boys. She talked with her family and close friends about her gender identity and they referred to her as “Angie” when she presented as female.
+
+</from>
 </compare>
 
 {% assign timecode = "01:09:12" %}
@@ -2561,10 +2711,18 @@ But these details only describe the end of Angie's life. They don't reveal who s
 <compare>
 <james {% include timecode %}>
 
-Zapata began living as a woman full time when she was 16 years old. She was loved and accepted as a woman by her family and her friends because she had been bullied in school and was at times troubled and lonely. She dropped out of school and moved into her own apartment. She was meticulous about her appearance and loved to go out dancing.
+Zapata began living as a woman full time when she was 16 years old. She was loved and accepted as a woman by her family and her friends because she had been bullied in school and was at times troubled and lonely. She dropped out of school and moved into her own apartment. She was meticulous about her appearance and loved to go out dancing. Most of the time, she was upbeat and excited about her future. 
 
 </james>
-<from></from>
+<from>
+
+https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
+
+Who Was Angie Zapata? para 2
+
+She began living as a woman full-time when she was 16 years old. Zapata was loved and accepted as a woman by her family and friends. Because she had been bullied in school and was at times troubled and lonely, she dropped out of school and moved into her own apartment. She lived as a female and both looked and sounded female. She was meticulous about her appearance and loved to go out dancing. Most of the time she was upbeat and excited about her future.
+
+</from>
 </compare>
 
 {% assign timecode = "01:09:31" %}
@@ -2572,10 +2730,18 @@ Zapata began living as a woman full time when she was 16 years old. She was love
 <compare>
 <james {% include timecode %}>
 
-Most of the time, she was upbeat and excited about her future. According to Angie, Sister Monica, Angie had dreams of moving to Denver to work as a cosmetologist. She was looking for the love of someone who could be proud of who she was. When that became all too hard to find, she began hanging around with a rough crowd and dating dangerous men.
+According to Angie, Sister Monica, Angie had dreams of moving to Denver to work as a cosmetologist. She was looking for the love of someone who could be proud of who she was. When that became all too hard to find, she began hanging around with a rough crowd and dating dangerous men.
 
 </james>
-<from></from>
+<from>
+
+https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
+
+Who Was Angie Zapata? para 3
+
+According to Angie’s sister, Monica, Angie had dreams of moving to Denver to work as a cosmetologist and become a professional drag queen. She was looking for the love of someone who could be proud of who she was. Instead, she began hanging around with a rough crowd and dating too many dangerous men. She had gotten into drugs and at one point mentioned making extra money through prostitution.
+
+</from>
 </compare>
 
 {% assign timecode = "01:09:50" %}
@@ -2594,10 +2760,20 @@ This is what led her to Al-Anon draw. Her murder was in a rare occurrence at the
 <compare>
 <james {% include timecode %}>
 
-The trial lasted only a week. The defense did not deny that Andrada had killed Zapata, but said that nothing was premeditated. They claimed that Zapata had misled Andrada, and after meeting her and discovering that she was transgender, he simply snapped like so many men before him he simply couldn't control himself in the presence of a queer person. The jury, consisting of four women and eight men, deliberated for only 2 hours before finding him guilty of first degree murder and also of a hate crime.
+The trial lasted only a week. The defense did not deny that Andrada had killed Zapata, but said that nothing was premeditated. They claimed that Zapata had misled Andrada, and after meeting her and discovering that she was transgender, he simply snapped like so many men before him he simply couldn't control himself in the presence of a queer person.
 
 </james>
-<from></from>
+<from>
+
+https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
+
+The Trial and Conviction para 1-2
+
+The trial lasted a week. The prosecution argued that Andrade had realized at some point during their Internet contact that Zapata was born male and, because of his hatred for gay and transgender people, planned to kill her. They argued that it was not a meeting at all. They suggested that he waited in her apartment for her to return home and attacked her.
+
+The defense did not deny that Andrade had killed Zapata but said that nothing was premeditated. They claimed that Zapata had misled Andrade and after meeting her and discovering that she was transgender, he simply snapped.
+
+</from>
 </compare>
 
 {% assign timecode = "01:10:37" %}
@@ -2605,10 +2781,18 @@ The trial lasted only a week. The defense did not deny that Andrada had killed Z
 <compare>
 <james {% include timecode %}>
 
-He would spend the remainder of his natural life in prison without the possibility of parole, plus an extra 60 years for good measure. Unlike many transgender women who disappear or are murdered, Angie had not been abandoned by her family. She was deeply loved by them and her countless friends. People loved her immediately upon meeting her. She was, as some described after her death, a sweet soul whose greatest was to be happy and help others.
+The jury, consisting of four women and eight men, deliberated for only 2 hours before finding him guilty of first degree murder and also of a hate crime. He would spend the remainder of his natural life in prison without the possibility of parole, plus an extra 60 years for good measure. 
 
 </james>
-<from></from>
+<from>
+
+https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
+
+The Trial and Conviction para 4
+
+The jury consisting of four women and eight men deliberated for nearly two hours and found him guilty of first-degree murder and also guilty of a hate crime. He would spend the remainder of his natural life in prison without the possibility of parole. This is the mandatory penalty in Colorado for a first-degree murder conviction. He was also sentenced to an additional 60 years in prison in May of 2009 because his six prior felony convictions clearly placed him as a habitual offender.
+
+</from>
 </compare>
 
 {% assign timecode = "01:11:05" %}
@@ -2616,7 +2800,7 @@ He would spend the remainder of his natural life in prison without the possibili
 <compare>
 <james {% include timecode %}>
 
-Angie is sorely missed, most by her mother, but by friends and family as well, by coworkers and acquaintances but she'll always be remembered not just as the sweet soul that she was in life, but in the lingering impact of her death being the first time that the murder of a trans woman was tried as a hate crime and saw a successful conviction that she cracked that already shaky bedrock on which the trans panic defense rests.
+Unlike many transgender women who disappear or are murdered, Angie had not been abandoned by her family. She was deeply loved by them and her countless friends. People loved her immediately upon meeting her. She was, as some described after her death, a sweet soul whose greatest was to be happy and help others. Angie is sorely missed, most by her mother, but by friends and family as well, by coworkers and acquaintances but she'll always be remembered not just as the sweet soul that she was in life, but in the lingering impact of her death being the first time that the murder of a trans woman was tried as a hate crime and saw a successful conviction that she cracked that already shaky bedrock on which the trans panic defense rests. Though it was far from shattered
 
 </james>
 <from></from>
@@ -2627,26 +2811,27 @@ Angie is sorely missed, most by her mother, but by friends and family as well, b
 <compare>
 <james {% include timecode %}>
 
-Though it was far from shattered is Lynn Nettles. Finally, I would like to take a moment to talk about Nettles. On August 17th, 2013, she was walking home from work when she was spotted by James Dixon and his friends on Frederick Douglass Boulevard in Harlem. Dixon crossed the street and began talking to her, asking her for her name and where she was from.
+Lynn Nettles. Finally, I would like to take a moment to talk about Nettles. On August 17th, 2013, she was walking home from work when she was spotted by James Dixon and his friends on Frederick Douglass Boulevard in Harlem. Dixon crossed the street and began talking to her, asking her for her name and where she was from. His friends began mocking him for flirting with Nettles, saying that's Guy.
 
 </james>
-<from></from>
-</compare>
+<from>
 
-{% assign timecode = "01:12:02" %}
+https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
+
+</from>
+</compare>
 
 <compare>
-<james {% include timecode %}>
+<clip>
 
-His friends began mocking him for flirting with Nettles, saying that's Guy.
-
-</james>
-<from></from>
-</compare>
+https://www.youtube.com/watch?v=XrbDpePgYkM 1:15
 
 01:12:07:06 - 01:12:36:10
 Speaker 3
 And across the street. The two other people were female, which they were. And we engaged in conversation. And I guess a friend of mine was to realize I was a good girl. I yelled out, You know, we want you as. I pushed away, you know, trying to leave. I guess you must push back. You know, I was drunk and with these, you know, that.
+
+</clip>
+</compare>
 
 {% assign timecode = "01:12:36" %}
 
@@ -2656,7 +2841,19 @@ And across the street. The two other people were female, which they were. And we
 Dixon's attack left her comatose. Her face battered beyond recognition. She died five days later in hospital. Three days after the assault, Dixon turned himself in to the police and confessed, telling a detective that he had flown into a blind fury when he discovered that he was talking to a transgender person. The next morning, he was videotaped repeating a story for prosecutors.
 
 </james>
-<from></from>
+<from>
+
+https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
+
+para 7, 9
+
+Ms. Nettles died of head injuries she sustained when her head rammed into the pavement as Mr. Dixon hit her, prosecutors say. Battered beyond recognition, she was taken off life support after a week in a coma.
+
+[...]
+
+Three days after the assault, Mr. Dixon, of Classon Avenue in Brooklyn, turned himself in to the police and confessed, telling a detective he had flown into “a blind fury” when he discovered he was talking to a transgender woman. The next morning, he was videotaped repeating the story for prosecutors.
+
+</from>
 </compare>
 
 {% assign timecode = "01:13:01" %}
@@ -2667,7 +2864,14 @@ Dixon's attack left her comatose. Her face battered beyond recognition. She died
 Confession notwithstanding, he was not indicted until March of 2015. A year and a half after the murder, despite public outcry and a personal plea from England's mother, Dolores, the state of New York refused to charge Dixon with a hate crime. Nearly three years after the murder, Dixon was finally sentenced to 12 years with the possibility of parole. When the media announced the verdict most headlines, simply read Transgender Woman's Killer Sentenced to 12 Years.
 
 </james>
-<from></from>
+<from>
+
+https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html para 10
+
+His confession notwithstanding, Mr. Dixon was not indicted until March 2015, because some witnesses had identified Paris Wilson, a casual friend of Mr. Dixon’s, as the attacker, muddying the investigation. In the end, charges were dropped against Mr. Wilson.
+
+
+</from>
 </compare>
 
 {% assign timecode = "01:13:29" %}
