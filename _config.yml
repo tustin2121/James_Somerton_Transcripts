@@ -1,5 +1,6 @@
 exclude: [ Archive, scripts, "Gemfile*", "*.ipynb", ".github", ".vscode" ]
 markdown: GFM
+repository: tustin2121/James_Somerton_Transcripts
 defaults:
   -
     scope:

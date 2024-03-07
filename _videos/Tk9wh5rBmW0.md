@@ -131,6 +131,7 @@ To Good Taste?
 
 <!-- # Transcript of "How The Gays Stole Cinema" -->
 
+<compare>
 <james meta fade=out {% include timecode %} id="title-out">
 
 *All About Eve* is a perfect place to start. Like I said, not the first queer icon movie, but one of the first you may hear referenced. A drag queen may refer to someone as an "Eve Harrington", and you may not know what that means. But what they're doing is accusing someone 
@@ -152,7 +153,7 @@ A fandom that upon the movie's release would hang Christina Crawford in effigy. 
 ## Intermission
 
 {% assign timecode = "59:46" %}
-
+<compare>
 <james meta fade=out {% include timecode %} id="ch2-in">
 
 Believe it or not, studio heads *rarely* know what they're doing. Which is how you can have money catapulted at projects like *Cleopatra* or *Mommie Dearest*. 
