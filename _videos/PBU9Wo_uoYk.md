@@ -16,6 +16,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - post-callout
+  - online
 
 history:
   2023-11-20: Thumbnails teased in Patreon discord
@@ -26,6 +27,8 @@ recs:
   # - { title: "The Complex Trans Rep of Bob's Burgers", author: "Lily Simpson", url: "https://www.youtube.com/watch?v=Dln1rylCGb4" }
 
 contributors:
+  transcription: "[Poe The Salmon Roe](Archive/Transcript for The Queer Normality of Bobs Burgers.txt)"
+  formatting:
   # citation:
     # - "[Lily Simpson](https://twitter.com/LilySimpson1312/status/1762985100680241250)"
 

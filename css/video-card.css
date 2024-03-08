@@ -250,4 +250,10 @@
 	}
 }
 
+@layer dev-only {
+	.video-card.lvence a {
+		color: gold;
+	}
+}
+
 /* @import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap') */

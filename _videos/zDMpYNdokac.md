@@ -25,6 +25,7 @@ notes:
   - w-none
   - wp-nick
   - snip-credits
+  - online
 
 history:
   2023-11-23: First published (p5KpIROXhZw, 45:26).

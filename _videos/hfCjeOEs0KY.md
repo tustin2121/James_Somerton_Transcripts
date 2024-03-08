@@ -14,12 +14,14 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - post-callout
+  - online
 
 history:
   2024-02-26: Teased in apology 2, available on Patreon.
   2024-03-02: Released for the first time.
 
 contributors:
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vTRj3iou0Nliq4wzf8srKnLKDm6FdYT9yvz6ak6wYzeJxz8htMKTVKeSes1LJzNN5ET9_TuzTxrTx6S/pub
 
 cite:
   clips: !!map

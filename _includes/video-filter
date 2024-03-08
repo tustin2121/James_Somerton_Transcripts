@@ -5,3 +5,6 @@
 {%- endif -%}
 {%- if include.video.status == "Finished" %} finished{% endif -%}
 {%- if include.video.status == "Complete" %} finished{% endif -%}
+{%- if jekyll.environment == "development" -%}
+	{%- if include.video.contributors.citation-plus contains "$ref$lvence" %} lvence{%- endif -%}
+{%- endif -%}

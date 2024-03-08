@@ -24,6 +24,8 @@ notes:
 
 history:
   2022-08-05: Teaser trailer posted (0oMttFa-cZM).
+  2022-08-13: First published (n41RAyav_d8).
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: $cite$TerraJRiley
