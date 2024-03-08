@@ -294,9 +294,9 @@ James Somerton
 
 Based on the plagiarised sources, "Reggie" refers to the man behind the podcast "Panic Queer True Crime."
 
-James does not credit Cynthia Lee, Jennifer Berube, Scott W. Hoffman, Erica Kelley (Southern Fried True Crime), Steve Joynt & Phillip Hoffman, and Julie Compton. As well as Wikipedia, Murderpedia, T-Vox ("Trans Wikipedia"), VICE news, and the Human Rights Campaign.
+James does not credit Cynthia Lee, Jennifer Berube, Scott W. Hoffman, Erica Kelley (Southern Fried True Crime), Steve Joynt & Phillip Hoffman, Julie Compton, and James C. McKinley Jr. As well as Wikipedia, Murderpedia, T-Vox ("Trans Wikipedia"), VICE news, and the Human Rights Campaign.
 
-Jeremy Gray did write an article on Billy Jack Gaither, but Somerton plagiarised the Gaither section from Erica Kelley's podcast, not Gray's article.
+Jeremy Gray did write an article on Billy Jack Gaither, but Somerton plagiarised the Gaither section from Erica Kelley's podcast, not Gray's article. Similarly, Yanan Wang wrote an article on Islan Nettles that James seems to have read and used information from, but he plagiarised directly from James C. McKinley Jr.'s article.
 
 </comment>
 </compare>
@@ -443,7 +443,7 @@ James seems to be taking the "latent homosexuality is a mental illness" fragment
 
 Gay panic in and of itself is a useless defense. It must be attached to something more meaty, something you can win over a jury with. 
 
-<mark>Excuse or justification. [Title card with A|Excuse or justification appears.]</mark> <mark>An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances.</mark> 
+<mark>Excuse or justification. <u>[Title card with A|Excuse or justification appears.]</u></mark> <mark>An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances.</mark> 
 
 </james>
 <from>
@@ -754,7 +754,6 @@ By September, when Carr entered a guilty plea of second-degree manslaughter, the
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 10
 
-
 By September, when Carr entered a guilty plea of first-degree manslaughter, the Assistant District Attorney believed that Carr “had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer’s persistence,” the prosecutor added, “had made young Carr ‘emotionally unstable.’ ” In her testimony, Mrs. Carr described Kammerer as a “veritable Iago” who had corrupted her son “purely for the love of evil.”
 
 </from>
@@ -1006,7 +1005,7 @@ The Trial para 1
 <compare>
 <james {% include timecode %}>
 
-<mark>The jury was reportedly *so alarmed* by the police and press stories of the gay colony</mark> that many covered their ears during testimony. <mark>The Miami Herald and Miami Daily News mostly ignored the trial, instead focusing on stories of homosexuality around the Miami community.</mark>
+<mark>The jury was reportedly *so alarmed* by the police and press stories of the gay colony</mark> that many covered their ears during testimony.<sup cn></sup> <mark>The Miami Herald and Miami Daily News mostly ignored the trial, instead focusing on stories of homosexuality around the Miami community.</mark>
 
 </james>
 <from>
@@ -1035,6 +1034,11 @@ The Trial para 5
 <mark>Lawrence and Killen were eventually convicted of a lesser charge of manslaughter</mark> and <mark>sentenced to 20 years in prison.</mark> Both men are alive today and in their 80s, living in Palm Beach County.
 
 </from>
+<comment>
+
+Why the hell would they be furious? It's the jury's decision to decide guilt or innocence, not the judge's.
+
+</comment>
 </compare>
 
 {% assign timecode = "00:25:25" %}
@@ -1095,14 +1099,14 @@ In the 1970s, singer and orange juice spokeswoman Anita Bryant launched her now 
 <compare>
 <james {% include timecode %}>
 
-Robert Jackson. On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital. 
+Robert Jackson. <mark>On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital.</mark> 
 
 </james>
 <from>
 
 https://www.youtube.com/watch?v=0ZZCjlnvg0M (0:00-0:18)
 
-It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to his last call of the night was flagged down by a man who appeared out of the dark. The bloody man told the tow truck driver that he had been shot and needed to go to a hospital. 
+<mark>It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to his last call of the night was flagged down by a man who appeared out of the dark. The bloody man told the tow truck driver that he had been shot and needed to go to a hospital.</mark> 
 
 </from>
 </compare>
@@ -1112,14 +1116,14 @@ It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to hi
 <compare>
 <james {% include timecode %}>
 
-The driver panicked, rushed Jackson to the nearest emergency room. Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.
+The driver panicked, rushed Jackson to the nearest emergency room. <mark>Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.</mark>
 
 </james>
 <from>
 
 0:45-1:02
 
-At the hospital, Jackson was able to give a few more details. He said he left a boy scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.
+<mark>At the hospital, Jackson was able to give a few more details. He said he left a boy scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.</mark>
 
 </from>
 </compare>
@@ -1129,18 +1133,18 @@ At the hospital, Jackson was able to give a few more details. He said he left a 
 <compare>
 <james {% include timecode %}>
 
-He told police that the man had pulled a gun on him and shot, but he couldn't remember any other details. He only knew the man had stolen his car. Jackson was then rushed into surgery and an all points bulletin was put out for the vehicle. At 5:35 a.m., an officer found Jackson's car pulled into a parking lot with 19 year old John Stephen Parisi asleep inside.
+<mark>He told police that the man had pulled a gun on him and shot, but he couldn't remember any other details.</mark> He only knew the man had stolen his car. <mark>Jackson was then rushed into surgery and an all points bulletin was put out for the vehicle. At 5:35 a.m., an officer found Jackson's car pulled into a parking lot with 19 year old John Stephan Parisie asleep inside.</mark>
 
 </james>
 <from>
 
 https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.1
 
-Mr. Jackson said he remembered a gun being pulled on him and gunshots, but he couldn't remember any of the other details.
+<mark>Mr. Jackson said he remembered a gun being pulled on him and gunshots, but he couldn't remember any of the other details.</mark>
 
 [...]
 
-Jackson was taken into surgery and an all-points bulletin was issued for his car. At 5:35 a.m. an officer on patrol found Mr. Jackson's car pulled into a parking lot and John Stephan Parisie, age 19 asleep behind the wheel.
+<mark>Jackson was taken into surgery and an all-points bulletin was issued for his car. At 5:35 a.m. an officer on patrol found Mr. Jackson's car pulled into a parking lot and John Stephan Parisie, age 19 asleep behind the wheel.</mark>
 
 </from>
 </compare>
@@ -1173,7 +1177,7 @@ In his account, Parisie said that he had met Jackson a few days before when he h
 <compare>
 <james {% include timecode %}>
 
-Parisi said he thought that they would drive around Springfield Lake, but Jackson drove down a dark, secluded street instead. According to Parisi, Jackson stopped the car, pushed the driver's seat back and placing his hand on Theresa's crotch. Said John, I'd like to give you a blowjob, Parisi says. He declined the offer. Smiling, Jackson told him, If you don't let me do it, you'll have to walk back to town.
+Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark, secluded street instead. According to Parisi, Jackson stopped the car, pushed the driver's seat back and placing his hand on Theresa's crotch. Said John, I'd like to give you a blowjob, Parisi says. He declined the offer. Smiling, Jackson told him, If you don't let me do it, you'll have to walk back to town.
 
 </james>
 <from>
@@ -2816,7 +2820,11 @@ Lynn Nettles. Finally, I would like to take a moment to talk about Nettles. On A
 </james>
 <from>
 
-https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
+https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
+
+Though he initially gave a different account of his encounter with Ms. Nettles, Mr. Dixon admitted while being questioned by a homicide detective that he had seen some of his friends talking to her and a second transgender woman, who was more heavy set and wore a white top and sandals. He crossed the street and began chatting with Ms. Nettles, whom he did not realize was transgender. “I remember asking her what is her name, where are you from,” he said. “That’s how I roll up.”
+
+Then, he said, he heard one of his friends mocking him, saying, “That’s a guy,” and he became enraged. “They were clowning me,” he told the detectives.
 
 </from>
 </compare>
@@ -2843,7 +2851,7 @@ Dixon's attack left her comatose. Her face battered beyond recognition. She died
 </james>
 <from>
 
-https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
+https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
 
 para 7, 9
 
@@ -2861,28 +2869,21 @@ Three days after the assault, Mr. Dixon, of Classon Avenue in Brooklyn, turned h
 <compare>
 <james {% include timecode %}>
 
-Confession notwithstanding, he was not indicted until March of 2015. A year and a half after the murder, despite public outcry and a personal plea from England's mother, Dolores, the state of New York refused to charge Dixon with a hate crime. Nearly three years after the murder, Dixon was finally sentenced to 12 years with the possibility of parole. When the media announced the verdict most headlines, simply read Transgender Woman's Killer Sentenced to 12 Years.
+Confession notwithstanding, he was not indicted until March of 2015. A year and a half after the murder, despite public outcry and a personal plea from England's mother, Dolores, the state of New York refused to charge Dixon with a hate crime. Nearly three years after the murder, Dixon was finally sentenced to 12 years with the possibility of parole. When the media announced the verdict most headlines, simply read Transgender Woman's Killer Sentenced to 12 Years. The New York Times. NBC News. The New York Post. The Cut Bcom. The New York Daily News. None of them put is name in the headline. Transgender woman thought she was just another dead trans woman of color whose life had been stolen. Not for anything she had done, but because of who she was. 
 
 </james>
 <from>
 
-https://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html para 10
+https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html para 10
 
 His confession notwithstanding, Mr. Dixon was not indicted until March 2015, because some witnesses had identified Paris Wilson, a casual friend of Mr. Dixon’s, as the attacker, muddying the investigation. In the end, charges were dropped against Mr. Wilson.
 
-
 </from>
-</compare>
+<comment>
 
-{% assign timecode = "01:13:29" %}
+It is standard practice for newspapers to not put names in the headlines unless they're well-known public figures.
 
-<compare>
-<james {% include timecode %}>
-
-The New York Times. NBC News. The New York Post. The Cut Bcom. The New York Daily News. None of them put is name in the headline. Transgender woman thought she was just another dead trans woman of color whose life had been stolen. Not for anything she had done, but because of who she was. In 2020 and 20, 21 years in which most people have barely left their houses.
-
-</james>
-<from></from>
+</comment>
 </compare>
 
 {% assign timecode = "01:13:53" %}
@@ -2890,10 +2891,16 @@ The New York Times. NBC News. The New York Post. The Cut Bcom. The New York Dail
 <compare>
 <james {% include timecode %}>
 
-More trans and gender nonconforming people have been murdered in America than in any year prior. These people were killed by people they knew, people they loved and people they'd never met before. Some have been arrested and charged. Others have yet to be identified. Some of these cases involve clear transphobe women, while in others the victims where gender identity may have put them at risk due to unemployment, poverty and homelessness.
+In 2020 and 20, 21 years in which most people have barely left their houses. More trans and gender nonconforming people have been murdered in America than in any year prior. These people were killed by people they knew, people they loved and people they'd never met before. Some have been arrested and charged. Others have yet to be identified. Some of these cases involve clear transphobe women, while in others the victims where gender identity may have put them at risk due to unemployment, poverty and homelessness.
 
 </james>
-<from></from>
+<from>
+
+https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-expansive-community-in-2021 para 2 after the list of victims
+
+These victims were killed by acquaintances, partners or strangers, some of whom have been arrested and charged, while others have yet to be identified. Some of these cases involve clear anti-transgender bias. In others, the victim’s transgender or gender-expansiveexpansive status may have put them at risk in other ways, such as forcing them into unemployment, poverty, homelessness and/or survival sex work.
+
+</from>
 </compare>
 
 {% assign timecode = "01:14:20" %}
@@ -2912,10 +2919,21 @@ Dozens of trans people are murdered every year in the United States, and these a
 <compare>
 <james {% include timecode %}>
 
-In 2013, the American Bar Association unanimously passed a resolution imploring states to ban the use of the queer panic defense. But as of December 2021, only 11 states have done so. Though I've only discussed the queer panic defense within America. It is by no means a uniquely American problem. Australia, New Zealand, the Philippines and the UK also have their own versions of the defense with varying rates of success and legality.
+In 2013, the American Bar Association unanimously passed a resolution imploring states to ban the use of the queer panic defense. But as of December 2021, only <mark fc=false>11 states</mark> have done so. Though I've only discussed the queer panic defense within America. It is by no means a uniquely American problem. Australia, New Zealand, the Philippines and the UK also have their own versions of the defense with varying rates of success and legality.
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=1056614978#State_laws para 1
+
+In 2006, the California State Legislature amended the Penal Code to include jury instructions to ignore bias, sympathy, prejudice, or public opinion in making their decision, and a directive was made to educate district attorneys' offices about panic strategies and how to prevent bias from affecting trial outcomes.<sup>[50][51]</sup> The American Bar Association (ABA) unanimously passed a resolution in 2013 urging governments to follow California's lead in prescribing explicit juror instructions to ignore bias and to educate prosecutors about panic defenses.<sup>[52][53]</sup>
+
+</from>
+<comment>
+
+James seems to be skimming the Wikipedia article for the rest of this section. He's not very good at it though, because in December 2021 there were more than 11 states that had banned some version of the gay panic defense. It's possible that, like before, he is still referring to an earlier version of the article despite having updated the date to December 2021, or he just read "In July 2020, Colorado became the 11th US state to abolish the gay panic defense" and just didn't look any closer. Anyway, in December 2021, according to the Wikipedia article, 15 states had banned the gay/trans panic defense, plus the District of Columbia. [As of March 2024, it's now 17 states](https://www.lgbtmap.org/equality-maps/panic_defense_bans)
+
+</comment>
 </compare>
 
 {% assign timecode = "01:15:05" %}
@@ -2923,7 +2941,7 @@ In 2013, the American Bar Association unanimously passed a resolution imploring 
 <compare>
 <james {% include timecode %}>
 
-Many judges today reject the defense immediately, and many juries will hold it against the defense for trying to use it. There's a stigma against the defense now, even if it is still perfectly legal in 39 states. But just because jurors and judges may dismiss the use of queer panic, it's not a sure thing. The only way to ensure that justice is achieved in the murder of queer people is to enact a legislative ban on the gay and trans panic defenses, something 11 states have done.
+Many judges today reject the defense immediately, and many juries will hold it against the defense for trying to use it. There's a stigma against the defense now, even if it is still perfectly legal in 39 states. But just because jurors and judges may dismiss the use of queer panic, it's not a sure thing. The only way to ensure that justice is achieved in the murder of queer people is to enact a legislative ban on the gay and trans panic defenses, something <mark fc=false>11 states</mark> have done.
 
 </james>
 <from></from>
