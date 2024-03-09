@@ -5,7 +5,7 @@ redirect_from:
 date: 2023-02-01
 title: The Death of Queer Privacy
 runtime: 39:26
-status: Auto
+status: Finished
 aka: !!seq
   - The Cabin With Glass Walls (Title card)
   - The Death of Queer Security & Privacy (Subtitle card)
@@ -14,7 +14,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-public-records/The+Death+of+Queer+Privacy.mp4"
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
-# description: "a video essay on...?"
+description: "a video essay on hate crimes, privacy, and security of queer people."
 notes:
   - online
   - w-james-nick
@@ -30,22 +30,23 @@ contributors:
 
 cite:
   clips: !!map
+    grooming: { color: 6, short: "(RAINN, 2020)", full: "RAINN. (2020, Jul 10). <em>Grooming: Know the Warning Signs</em> [Webpage]. RAINN. Retrieved Mar 8, 2024, from", url: " https://www.rainn.org/news/grooming-know-warning-signs" }
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    queerty: { color: 1, short: "", full: "", url: "https://www.queerty.com/evicted-closet-8-times-queer-celebrities-outed-allies-20210612" }
-    tandfonline: { color: 1, short: "", full: "", url: "https://www.tandfonline.com/doi/full/10.1080/13698230.2019.1709029" }
-    cbs_hate_crimes: { color: 1, short: "", full: "", url: "https://www.cbsnews.com/losangeles/news/hate-crimes-are-higher-in-la-county-than-they-have-been-in-19-years-report/" }
+    queerty: { color: 1, short: "(Gremore, 2021)", full: "Gremore, G. (2021, Jun 12). <em> Evicted from the closet: 8 times queer celebrities were outed by their own allies</em> [Article]. Queerty. Retrieved Mar 8, 2024, from", url: "https://www.queerty.com/evicted-closet-8-times-queer-celebrities-outed-allies-20210612", archive: "https://web.archive.org/web/20230112143354/" }
+    tandfonline: { color: 2, short: "(Vitikainen, 2020)", full: "Vitikainen, A. (2020, Jan 3). On being good gay: ‘covering’ and the social structure of being LGBT+ [Journal article]. In <em>Critical Review of International Social and Political Philosophy</em>, vol 24 (iss 7), pp1083-1090", url: "https://doi.org/10.1080/13698230.2019.1709029" } #url: "https://www.tandfonline.com/doi/full/10.1080/13698230.2019.1709029" }
+    # cbs_hate_crimes: { color: 3, short: "", full: "", url: "https://www.cbsnews.com/losangeles/news/hate-crimes-are-higher-in-la-county-than-they-have-been-in-19-years-report/" }
     # https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/caa802e9-00f0-455e-9c44-db7ef7a06e4c/2021%20LA%20County%20Hate%20Crime%20Report.pdf
-    crime_stats: { color: 1, short: "", full: "", url: " https://www.security.org/resources/anti-lgbt-hate-crime-stats/" }
-    the_atlantic: { color: 1, short: "", full: "", url: " https://www.theatlantic.com/ideas/archive/2021/11/scary-future-american-right-national-conservatism-conference/620746/" }
-    grooming: { color: 1, short: "", full: "", url: " https://www.rainn.org/news/grooming-know-warning-signs" }
-    news_row_v_wade: { color: 1, short: "", full: "", url: " https://www.cnbc.com/2022/06/24/roe-v-wade-supreme-court-justice-thomas-says-gay-rights-rulings-open-to-be-tossed.html" }
-    news_respect_marriage: { color: 1, short: "", full: "", url: " https://themessenger.com/grid/the-surprising-ways-the-respect-for-marriage-act-would-and-wouldnt-protect-same-sex-marriage" }
-    wiki_rights: { color: 1, short: "", full: "", url: " https://en.wikipedia.org/w/index.php?title=Personal_Rights_in_Defense_and_Education&oldid=1118084544" }
+    crime_stats: { color: 4, short: "(Vigderman, 2022)", full: "Vigderman, A. (2022). <em>Anti-LGBT Hate Crimes Are Rising</em> [Article]. Security.org. Retrieved Mar 8, 2024, from", url: "https://www.security.org/resources/anti-lgbt-hate-crime-stats/", archive: "https://web.archive.org/web/20230112022755/" }
+    the_atlantic: { color: 5, short: "(Brooks, 2021)", full: "Brooks, D. (2021, Nov 18). <em>The Terrifying Future of the American Right</em> [Article]. The Atlantic. Retrieved Mar 8, 2024, from", url: "https://www.theatlantic.com/ideas/archive/2021/11/scary-future-american-right-national-conservatism-conference/620746/" }
+    news_row_v_wade: { color: 7, short: "", full: "Mangan, D. (2022, Jun 24). <em>Supreme Court Justice Clarence Thomas says gay rights, contraception rulings should be reconsidered after Roe is overturned</em> [News article]. CNBC. Retrieved Mar 8, 2024, from", url: "https://www.cnbc.com/2022/06/24/roe-v-wade-supreme-court-justice-thomas-says-gay-rights-rulings-open-to-be-tossed.html" }
+    news_respect_marriage: { color: 8, short: "", full: "", url: "https://themessenger.com/grid/the-surprising-ways-the-respect-for-marriage-act-would-and-wouldnt-protect-same-sex-marriage" }
+    wiki_rights: { color: 9, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Personal_Rights_in_Defense_and_Education&oldid=1118084544" }
     
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign lvence = site.data.cite.lvence %}
 
 <compare>
 {% include meta-history video=page %}
@@ -109,13 +110,38 @@ First let's talk about celebrities. While many people feel like celebrities give
 
 Of course, the most prominent recent example of this is Kit Connor, who was forced out of the closet this past year when an internet mob essentially accused him of "queerbaiting" (real people can't queerbait, by the way) by playing a queer character in multiple pieces of media while not *actively* being out as queer himself. It got even worse for him when, horror of horrors, he was spotted holding a girl's hand. So to Tamp down on the rising tide of the internet boundary pushing, he came out as bisexual. Some have since accused him of being a *fake* bisexual, and refused to believe him until he has a boyfriend. To them I say: *stop.* 
 
-But he's far from the only celebrity to be *pushed* out of the closet. In 1996, Nathan Lane appeared on Oprah to promote *The Birdcage*. Prior to the taping, he specifically said he didn't want to talk about his sexuality. But when they went live, Oprah began pushing for answers anyway. <!-- TODO: look up Nathan Lane episode from Matt Baume. -->
-
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-Lance Bass was forced to make a public statement about his sexuality in 2006, after Perez Hilton nicknamed him "Princess Frosty Locks" and wouldn't stop posting blog entries about how obviously gay he was. Perez Hilton also instigated a similar campaign against Neil Patrick Harris the same year. And it's only gotten worse since social media became a factor. Rumors swirled around online about actresses such as Rebel Wilson and Kristen Stewart, eventually leading to them coming out under threats from tabloid sites. 
+But he's far from the only celebrity to be *pushed* out of the closet. <mark num=1 v>In 1996</mark>, <mark num=2 v>Nathan Lane</mark> <mark num=3>appeared on Oprah</mark> <mark num=4 v>to promote *The Birdcage*. Prior to the taping, he</mark> specifically <mark>said he didn't want to talk about his sexuality. But when they went live, Oprah began pushing for answers anyway.</mark> <!-- TODO: look up Nathan Lane episode from Matt Baume. -->
+
+<mark>Lance Bass was forced to make a public statement about his sexuality in 2006, after</mark> <mark>Perez Hilton nicknamed him "Princess Frosty Locks" and wouldn't stop posting</mark> blog entries about how obviously gay he was. <mark x>Perez Hilton also instigated a similar campaign against Neil Patrick Harris the same year.</mark> And it's only gotten worse since social media became a factor. Rumors swirled around online about actresses such as Rebel Wilson and Kristen Stewart, eventually leading to them coming out under threats from tabloid sites. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.queerty at="¶ 11" %}>
+<h3><mark num=2>Nathan Lane</mark></h3>
+
+<u>[Video unavailable: This video contains content from Oprah_Winfrey_Network, who has blocked it on copyright grounds]</u>
+
+The iconic comedic actor <mark num=3>appeared on Oprah</mark>‘s show <mark num=1>in 1996</mark> <mark num=4 v>to promote *The Birdcage*. Prior to the taping, he</mark> <mark>said he didn’t want to talk about his sexuality. But when the cameras were rolling, Oprah asked him about it anyway.</mark> Lane froze. Thankfully, his co-star, Robin Williams, quickly intervened. Speaking to The Hollywood Reporter about it last year, Lane called the whole experience “terrifying.” See the uncomfortable moment at around the 15:56 in the video above.
+
+</from>
+<from mark=cont {% include citation for=page.cite.plagiarized.queerty at="¶ 9-10" %}>
+<h3>Lance Bass</h3>
+
+<u>[Instagram [@lancebass](https://www.instagram.com/p/B2vM46klKJ0/)]</u>
+
+<mark>The *NSYNC crooner was forced to make a public statement about his sexuality in 2006 after</mark> gay gossip blogger <mark>Perez Hilton nicknamed him “Princess Frosty Locks” and wouldn’t stop posting</mark> nasty and degrading articles about him. In 2007, Bass told [Attitude](https://attitude.co.uk/article/lance-bass-perez-hilton-bullied-me-to-come-out/5395/), “Two years before I came out I was really bullied on the internet by bloggers. That’s when Perez Hilton just started and was just really malicious against me.” The singer finally came out in an exclusive interview with People “because of the bloggers like him hounding me.”
+
+<h3>Neil Patrick Harris</h3>
+
+<u>[Instagram [@nph](https://www.instagram.com/p/CGOXvENF8j7/)]</u>
+
+Last June, the actor/singer/comedian opened up about <mark x>when he, too, fell victim to a vicious outing campaign by Perez Hilton in 2006.</mark> “[He] started posting about me and asking people to come forward with truths or stories,” Harris recalled. “Then it became apparent that I needed to make some sort of decisive respectable move.” The actor added that his biggest concern was coming out in a way that was respectful to his husband. “It wasn’t simple for me,” he said, “but I tried to represent myself well.”
+
+</from>
+<james {% include timecode %}>
 
 It's not like the old days when gay rumors would start up in a Hollywood studio or a record label would have a star paired up with a similarly famous celebrity to hide their sexuality. Though many fans still think this *does* happen with people like Taylor Swift and Harry Styles. Studios and labels have *much* less control over stars now, though they do continue to influence many people to stay *in* the closet. I personally know of at least *three* Hollywood actors who have been in major box office successes who are out to their friends and family but not to the public. Which *some say* is as bad as them *lying* to their fans. But why do fans have a right to know who's dating who? I blame Ben Affleck and Jennifer Lopez for this. They helped reignite the celebrity couple industry back in the 90s, and it hasn't died down since.
 
@@ -403,13 +429,28 @@ The frustrating part is that... as these dog whistling bigots blanket us *all* a
 <compare>
 <james {% include timecode %}>
 
-There's always been pressure for queer people to "cover" in public. Covering, as anamari Vida kinen describes it, refers to queer people toning down their sexuality in order to fit better or easier into mainstream society. The expectation that queer people *cover* is acknowledged as establishing a system of oppression that coerces queer people to act in specific ways. With substantial threats of punishment for not doing so when it is expected of them. No holding hands in public, for instance. And certainly no kissing in public. 
-
-Almost every gay teenager has the fantasy of being *just* as affectionate with their real (or in most cases, imaginary) boyfriend or girlfriend as their straight friends are. But, there *is* an immediate fear when those thoughts enter your mind. Of the repercussions of doing so. There did seem to be *some* movement on this front in the last couple of decades. It used to be that you had to go to the gay hotspots of Castro Street, Chelsea, or Church Street to feel comfortable and safe expressing your queerness. Unless there was a Pride Parade going on. 
+There's always been pressure for queer people to "cover" in public. Covering, as Annamari Vitikainen describes it, <mark>refers to <span stat:id="sub-queer">queer</span> people</mark> <mark>toning down their sexuality in order to fit better or easier into mainstream society. The expectation that <span stat:id="sub-queer">queer</span> people *cover* is acknowledged</mark> <mark>as establishing a system of oppression</mark> <mark>that coerces queer people to act in specific ways. With substantial threats of punishment for not doing so when it is expected of them.</mark> No holding hands in public, for instance. And certainly no kissing in public. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.tandfonline at="¶ 2" %}>
+
+‘Gay covering’, in line with Yoshino’s (2002, 2006) work, <mark>refers to the acts of gay persons</mark> to disattend or <mark>tone down their sexuality in order to fit better (or easier) into the mainstream society. The demands of gay persons to ‘cover’ are recognized</mark>, both by Yoshino and by Ghosh (2018), <mark>as constituting a system oppression</mark> by <mark>which LGBT+<sup cn>1</sup> persons are coerced to act in certain ways, with substantive threats of punishment for failing to do so.</mark> For Ghosh, these demands to cover are not, however, the only oppressive demands that LGBT+ persons are subjected to. To the contrary, Ghosh argues that Yoshino’s critique of covering incorporates another demand on LGBT+ persons, this time to ‘reverse cover’ – to flaunt and signal – that, according to Ghosh, is ‘just as oppressive as the oppression it is mobilized to dismantle’ (p. 73).
+
+<footer>
+
+Yoshino, K. (2002). Covering. The Yale Law Journal, 111, 769–939.
+
+Yoshino, K. (2006). Covering: The hidden assault on our civil rights. New York: Random House Trade Paperpacks.
+
+Ghosh, C. (2018). De-moralizing gay rights: Some queer remarks on LGBT+ rights politics in the US. Cham: Palgrave Macmillan, Palgrave Pivot.
+
+1. I follow Ghosh in using the term LGBT+ as an inclusive umbrella term for a variety of non-heterosexual orientations and non-conforming gender identifications. Many of the examples, as well as the generic language of this essay, nevertheless refer to gay males, although I see no reason why some of the same issues could not also apply to the other subcategories of LGBT+.
+
+</footer>
+</from>
 <james {% include timecode %}>
+
+Almost every gay teenager has the fantasy of being *just* as affectionate with their real (or in most cases, imaginary) boyfriend or girlfriend as their straight friends are. But, there *is* an immediate fear when those thoughts enter your mind. Of the repercussions of doing so. There did seem to be *some* movement on this front in the last couple of decades. It used to be that you had to go to the gay hotspots of Castro Street, Chelsea, or Church Street to feel comfortable and safe expressing your queerness. Unless there was a Pride Parade going on. 
 
 But when I was in my late teens, I saw a marked shift to where a queer person could be comfortable being themselves. The map seemed to open up to include most major cities and even small towns. Gays were making out *on every street corner in America*, according to conservatives. This was never really the case. But it's the image that was sent out by the mainstream media. That homophobia had, for the most part, been dealt with. Especially after gay marriage started going mainstream. If we could get married, we must have won the war.
 
@@ -419,25 +460,53 @@ But fights over people refusing to issue marriage licenses, and refusing to bake
 <from></from>
 <james {% include timecode %}>
 
-Los Angeles, a city *most* would consider pretty queer-friendly, saw a 21 percent increase in gay hate crimes in 2021 alone, marking the highest rate of such hate crimes in *18 years*. Gay men with a target of 85 percent of these crimes. Meanwhile, 93 percent of anti-*trans* hate crimes that were reported were violent in nature. 
+Los Angeles, a city *most* would consider pretty queer-friendly, saw <mark fc=false>a 21 percent increase in gay hate crimes</mark> in 2021 alone, marking the highest rate of such hate crimes in <mark fc=false>*18 years*</mark>. Gay men with a target of 85 percent of these crimes. Meanwhile, 93 percent of anti-*trans* hate crimes that were reported were violent in nature. 
 
-This percentage of violence was greater than any other stigmatized group that was recorded by the 2021 Hate Crimes Report. Law enforcement expect that these figures only represent a small portion of the actual total number of instances that were motivated by hatred, since many would go unreported due to people not being out of the closet, feeling ashamed, or a lingering animosity toward police from the queer community. In fact, hate crimes targeting LGBT individuals have climbed for the past four straight years, according to data published by the FBI. 
+This percentage of violence was greater than any other stigmatized group that was recorded by the 2021 Hate Crimes Report. <mark fc num=A>Law enforcement expect that these figures only represent a small portion of the actual total number of instances</mark> that were motivated by hatred, since many would go unreported due to people not being out of the closet, feeling ashamed, or a lingering animosity toward police from the queer community. 
+
 
 </james>
-<from></from>
+<comment {% include commenter for=lvence %}>
+
+It's not an 18 years high, it's 19 years since it counts from the year 2002. The percent is not 21 percent, but 23 in general hate crime. James is being misleading. “These crimes” refers to sexual orientation crimes. The report isn’t a generic 2021 hate crime report, it’s the Los Angeles County Commission on Human Relations 2021 Hate Crime Report. 
+
+<mark num=A></mark>This isn’t found in both the [CBS article](https://www.cbsnews.com/losangeles/news/hate-crimes-are-higher-in-la-county-than-they-have-been-in-19-years-report/) and [the LA County report](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/caa802e9-00f0-455e-9c44-db7ef7a06e4c/2021%20LA%20County%20Hate%20Crime%20Report.pdf). The closest I can find in the report is: 
+
+> “The report may not reflect the actual outcome of the investigation of individual cases. We receive the original police incident report for cases in which the investigation may be ongoing. We may review it and include it before the investigation is completed or charges are filed. Therefore, the number of hate crimes reported here may differ from the reporting law enforcement agency for a given jurisdiction. Also, reporting agencies may release data to the press and public using a different methodology.”
+
+</comment>
+<james {% include timecode %}>
+
+In fact, <mark>hate crimes targeting LGBT individuals have climbed for the past four straight years, according to data published by the FBI.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.crime_stats at="¶ 1" %}>
+
+<mark>Hate crimes targeting LGBT individuals have climbed for the past four straight years, according to data published by the FBI.</mark> While such hate crimes do not account for the majority of all hate crimes reported by the FBI (racially motivated hate crimes are by far the most common), the fact that such incidents are growing more frequent is a cause for concern and special attention.
+
+</from>
 <james {% include timecode %}>
 
 All of this coincided with a rise in right-wing thinking across North America and Europe. One *unnamed* Republican staffer said to the Atlantic,
 
-> "Conservatives who came before us were insufferably naive. They thought liberals and conservatives both want what's best for America, disagreeing only on how to get there. But that's not true. Woke elites &mdash; increasingly the mainstream left of this country &mdash; do not want what we want.
+> "<mark stat:id="made-quote">Conservatives who came before us were insufferably naive. They thought liberals and conservatives both want what's best for America, disagreeing only on how to get there. But that's not true</mark>. <mark>Woke elites &mdash; increasingly the mainstream left of this country &mdash; do not want what we want.</mark>
 >
-> What they want is to destroy us."
+> <mark>What they want is to destroy us</mark>."
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.the_atlantic at="¶ 1-2" %}>
+
+Rachel Bovard is one of the thousands of smart young Americans who flock to Washington each year to make a difference. She’s worked in the House and Senate for Republicans Rand Paul, Pat Toomey, and Mike Lee, was listed among the “Most Influential Women in Washington Under 35” by *National Journal*, did a stint at the Heritage Foundation, and is now policy director of the Conservative Partnership Institute, whose mission is to train, equip, and unify the conservative movement. She’s bright, cheerful, and funny, and has a side hustle as a sommelier. And, like most young people, she has absorbed the dominant ideas of her peer group.
+
+One of the ideas she’s absorbed is that the <mark>conservatives who came before her were insufferably naive. They thought liberals and conservatives both want what’s best for America, disagreeing only on how to get there. But that’s not true</mark>, she believes. “<mark>Woke elites—increasingly the mainstream left of this country—do not want what we want,</mark>” she told the National Conservatism Conference, which was held earlier this month in a bland hotel alongside theme parks in Orlando. “<mark>What they want is to destroy us</mark>,” she said. “Not only will they use every power at their disposal to achieve their goal,” but they’ve already been doing it for years “by dominating every cultural, intellectual, and political institution.”
+
+<u>[Paywall starts here]</u>
+
+</from>
+{% assign timecode = "26:52" %}
 <james {% include timecode %}>
 
-The rise in right-wing radicalism, seen in the likes of the MAGA movement, the increasing hate toward trans people, and the *surprising* rise of actual fascists like Francis Marie Le Pen, lines up directly with the rise of LGBTQ hate crimes. Trans people had been the main target of these groups, with trans bathroom access drawing the ire of so-called <u>[air quotes]</u> "feminists", who thought that *dangerous men* would actually put in the effort to dress as a woman to gain access to women's bathrooms. Th-they don't do that.
+The rise in right-wing radicalism, seen in the likes of the MAGA movement, the increasing hate toward trans people, and the *surprising* rise of actual fascists like France's [Marine Le Pen](https://en.wikipedia.org/wiki/Marine_Le_Pen), lines up directly with the rise of LGBTQ hate crimes. Trans people had been the main target of these groups, with trans bathroom access drawing the ire of so-called <u>[air quotes]</u> "feminists", who thought that *dangerous men* would actually put in the effort to dress as a woman to gain access to women's bathrooms. Th-they don't do that.
 
 This gave gay men a sense of safety, I think, believing that the target had shifted. And so we gays could relax. But the people who hate the LGBTQ community... don't really give a damn which letter you associate with, since attacks on gay men *have* been on the rise recently, with the growing fervor over the... <u>[air quotes, disgusted tone]</u> "groomer" anti-queer propaganda. 
 
@@ -449,12 +518,21 @@ According to the <q>[Center On Extremism](https://www.adl.org/research-centers/c
 
 [RAINN](https://rainn.org/) (Rape Abuse And Incest National Network), the largest anti-sexual violence organization in the United States, defines grooming as &mdash;
 
-> "Manipulative behaviors used by sexual abusers to gain access to a potential victim, coerce them into agreeing to be abused, and reduce the risk of being caught."
+> "<mark meta>Manipulative behaviors</mark> used by sexual abusers <mark meta>to gain access to a potential victim, coerce them</mark> <mark meta>into agreeing to be abused,</mark> <mark meta>and reduce the risk of being caught.</mark>"
 
 Words like "grooming" and "groomer" are not used in a proper context by anti-queer people. Instead they argue that talking about sexual orientation and gender identity in public ***in general*** makes queer individuals pedophiles who prey on children. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.clips.grooming at="¶ 1" %}>
+
+One tool common to those who sexually abuse kids is grooming: <mark>manipulative behaviors</mark> that the abuser uses <mark>to gain access to a potential victim, coerce them</mark> <mark>to agree to the abuse,</mark> <mark>and reduce the risk of being caught.</mark> While these tactics are used most often against younger kids, teens and vulnerable adults are also at risk.
+
+<footnote>
+
+This is arguably actually cited properly? And it's akin to citing the dictionary. So I don't think this counts as plagiarism per se. {% include signed for=tustin %}
+
+</footnote>
+</from>
 </compare>
 
 <compare>
