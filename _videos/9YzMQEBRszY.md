@@ -5,7 +5,7 @@ redirect_from:
 date: 2023-02-01
 title: The Death of Queer Privacy
 runtime: 39:26
-status: Finished
+status: Complete
 aka: !!seq
   - The Cabin With Glass Walls (Title card)
   - The Death of Queer Security & Privacy (Subtitle card)
@@ -14,7 +14,7 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   - "https://archive.org/details/james-somerton-public-records/The+Death+of+Queer+Privacy.mp4"
   - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
-description: "a video essay on hate crimes, privacy, and security of queer people."
+description: "a video essay on hate crimes, privacy, and the security of queer people."
 notes:
   - online
   - w-james-nick
@@ -41,8 +41,8 @@ cite:
     crime_stats: { color: 4, short: "(Vigderman, 2022)", full: "Vigderman, A. (2022). <em>Anti-LGBT Hate Crimes Are Rising</em> [Article]. Security.org. Retrieved Mar 8, 2024, from", url: "https://www.security.org/resources/anti-lgbt-hate-crime-stats/", archive: "https://web.archive.org/web/20230112022755/" }
     the_atlantic: { color: 5, short: "(Brooks, 2021)", full: "Brooks, D. (2021, Nov 18). <em>The Terrifying Future of the American Right</em> [Article]. The Atlantic. Retrieved Mar 8, 2024, from", url: "https://www.theatlantic.com/ideas/archive/2021/11/scary-future-american-right-national-conservatism-conference/620746/" }
     news_row_v_wade: { color: 7, short: "", full: "Mangan, D. (2022, Jun 24). <em>Supreme Court Justice Clarence Thomas says gay rights, contraception rulings should be reconsidered after Roe is overturned</em> [News article]. CNBC. Retrieved Mar 8, 2024, from", url: "https://www.cnbc.com/2022/06/24/roe-v-wade-supreme-court-justice-thomas-says-gay-rights-rulings-open-to-be-tossed.html" }
-    news_respect_marriage: { color: 8, short: "", full: "", url: "https://themessenger.com/grid/the-surprising-ways-the-respect-for-marriage-act-would-and-wouldnt-protect-same-sex-marriage" }
-    wiki_rights: { color: 9, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Personal_Rights_in_Defense_and_Education&oldid=1118084544" }
+    news_respect_marriage: { color: 8, short: "(Severns, 2022)", full: "Severns, M. (2022, Sep 15). <em>The surprising ways the Respect for Marriage Act would — and wouldn’t — protect same-sex marriage</em> [News article]. TheMessenger. Retrieved Mar 9, 2024, from", url: "https://themessenger.com/grid/the-surprising-ways-the-respect-for-marriage-act-would-and-wouldnt-protect-same-sex-marriage", archive: "https://web.archive.org/web/20230606104356/", offline: true }
+    wiki_pride: { color: 9, short: "(Wikipedia, 2022)", full: "Wikipedia. (2022, Oct 25). <em>Personal Rights in Defense and Education</em> [Article]. Retrieved Mar 9, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Personal_Rights_in_Defense_and_Education&oldid=1118084544" }
     
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -527,11 +527,11 @@ Words like "grooming" and "groomer" are not used in a proper context by anti-que
 
 One tool common to those who sexually abuse kids is grooming: <mark>manipulative behaviors</mark> that the abuser uses <mark>to gain access to a potential victim, coerce them</mark> <mark>to agree to the abuse,</mark> <mark>and reduce the risk of being caught.</mark> While these tactics are used most often against younger kids, teens and vulnerable adults are also at risk.
 
-<footnote>
+<footer>
 
 This is arguably actually cited properly? And it's akin to citing the dictionary. So I don't think this counts as plagiarism per se. {% include signed for=tustin %}
 
-</footnote>
+</footer>
 </from>
 </compare>
 
@@ -555,26 +555,49 @@ The result of this widespread hateful rhetoric has been a spike in harassment, t
 <from></from>
 <james {% include timecode %}>
 
-And it's not just crazies on the internet or whack job Congress people driving at this either. Actual members of the United States Supreme Court have floated the idea of repealing gay rights laws in America. Clarence Thomas, in particular, has been vocal about his intentions to roll back gay rights, bluntly stating that *Lawrence V Texas*, the 2003 ruling that decriminalized gay sex in the U.S, and the 2015 ruling in *Oberger Fell Vs Hodges*, which said that there is a right to same-sex marriage, should be *overturned* as they were (quote) <q>"Demonstrably Erroneous Decisions"</q>. <u>[clasps hands irritatedly]</u>
+And it's not just crazies on the internet or whack job Congress people driving at this either. Actual members of the United States Supreme Court have floated the idea of repealing gay rights laws in America. <mark x>Clarence Thomas, in particular, has been vocal about his intentions to roll back gay rights</mark>, bluntly stating that <mark num=2 x>*Lawrence V Texas*, the 2003 ruling that decriminalized gay sex in the U.S, and the 2015 ruling in *Oberger Fell Vs Hodges*, which said that there is a right to same-sex marriage</mark>, should be *overturned* as they were (quote) <q>"<mark num=3>Demonstrably Erroneous Decisions</mark>"</q>. <u>[clasps hands irritatedly]</u>
 
-Now... Thomas's call for a re-examination of these rulings carries *no* weight in law, and cannot compel his Supreme Court colleagues to follow his lead. The *implication*, though, is that conservative state legislatures *should* draft laws that conflict with Supreme Court precedent, in the hopes that the Court would overturn its previous decisions. Which... with the *Roe v Wade* decision of 2022... wouldn't be out of the question.
+Now... <mark>Thomas's call for a re-examination of these rulings carries *no* weight in law, and cannot compel his Supreme Court colleagues to follow his lead.</mark> <mark>The *implication*, though, is that conservative state legislatures *should* draft laws that conflict with Supreme Court precedent, in the hopes that the Court would overturn its previous decisions.</mark> Which... with the *Roe v Wade* decision of 2022... wouldn't be out of the question.
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.news_row_v_wade at="¶ 1-5" %}>
 
-So these wars that we had *ostensibly* won, which had at worse developed into cultural cold wars... seem to be heating back up. The U.S Congress *did* pass the Right to Marriage Act in 2022, signed by President Biden, but it's mostly toothless. It wouldn't require states to license same-sex marriages, but it would require states to *recognize* same-sex marriages performed in *other* states. Attorney Paul Smith said,
+Supreme Court Justice <mark x>Clarence Thomas on Friday said landmark high court rulings that established gay rights and contraception rights should be reconsidered</mark> now that the federal right to abortion has been revoked.
 
-> "It's designed not to mandate a given state to marry anyone they don't want to marry. Instead, if you found some place to get married, everyone has to treat you as married.
+Thomas wrote that those rulings “were <mark num=3>demonstrably erroneous decisions</mark>.”
+
+The cases he mentioned are Griswold vs. Connecticut, the 1965 ruling in which the Supreme Court said married couples have the right to obtain contraceptives; <mark num=2 x>Lawrence v. Texas, which in 2003 established the right to engage in private sexual acts; and the 2015 ruling in Obergefell v. Hodges, which said there is a right to same-sex marriage.</mark>
+
+<mark>Thomas’ recommendation to reconsider that trio of decisions does not have the force of legal precedent, nor does it compel his colleagues on the Supreme Court to take the action he suggested.</mark>
+
+<mark>But it is an implicit invitation to conservative lawmakers in individual states to pass legislation that might run afoul of the Supreme Court’s past decisions, with an eye toward having that court potentially reverse those rulings.</mark>
+
+</from>
+<james span=2 {% include timecode %}>
+
+So these wars that we had *ostensibly* won, which had at worse developed into cultural cold wars... seem to be heating back up. The U.S Congress *did* pass the <mark num=1 fc=false>Right to Marriage Act</mark> in 2022, signed by President Biden, but it's mostly toothless. <mark>It wouldn't require states to license same-sex marriages</mark>, but <mark>it would require states to *recognize* same-sex marriages performed in *other* states.</mark> Attorney Paul Smith said,
+
+> "<mark>It's designed not to mandate a given state</mark> <span stat:id="changed-quote">to</span> <mark>marry anyone they don't want to marry. Instead, if you found some place to get married, everyone has to treat you as married</mark>.
 >
-> That's less of an intrusion on the sovereignty of states."
+> <mark>That's less of an intrusion on the sovereignty of states</mark>."
 
 In other words, <u>[air quotes]</u> the "sovereignty of states" is more important than the dignity of the people who live in them. 
 
 So this all leads to a very uncomfortable question: does our visibility only make us more vulnerable? Especially when the government is only willing to pass *halfway* measures of protection.
 
 </james>
-<from></from>
+<comment {% include commenter for=lvence %}>
+
+<mark num=1></mark>It's the [Respect for Marriage Act](https://en.wikipedia.org/wiki/Respect_for_Marriage_Act).
+
+</comment>
+<from {% include citation for=page.cite.plagiarized.news_respect_marriage at="¶ 4" %}>
+
+The Respect for Marriage Act is a more permissive law than the precedent set by Obergefell. <mark>It wouldn’t require states to license same-sex marriages</mark>, which Obergefell does. <mark>It would mandate they recognize same-sex marriages performed in other states.</mark> The Respect for Marriage Act also doesn’t explicitly regulate businesses, which could help quell concern from Republicans concerned about religious liberties, experts told Grid.
+
+<mark>“It’s designed not to mandate a given state</mark> <mark>marry anyone they don’t want to marry. Instead, if you found some place to get married, everyone has to treat you as married</mark>,” said Paul Smith, a lawyer who argued a 2003 Supreme Court case that paved the way for the Obergefell decision. “<mark>That’s less of an intrusion on the sovereignty of states</mark> — it doesn’t run the risk of commandeering the marriage apparatus of the state and telling them to do their job.”
+
+</from>
 </compare>
 
 ## Part Four: The Fine Print
@@ -590,21 +613,66 @@ The fight for our rights was fruitless when fought from offices and boardrooms. 
 <from></from>
 <james {% include timecode %}>
 
-It's been said that Pride was a riot. But that's only half true. Before it was a parade and platform for overpriced corporate sponsorships, PRIDE was an organization that stood for &mdash;
+It's been said that Pride was a riot. But that's only half true. Before it was a parade and platform for overpriced corporate sponsorships, <mark>PRIDE was an organization that stood for</mark> &mdash;
 
+> <mark style="position: absolute; left: 5px;"></mark>
 > <span style="color: pink;">P</span>ersonal  
 > <span style="color: pink;">R</span>ights  
 > <span style="color: pink;">I</span>n  
 > <span style="color: pink;">D</span>efense and  
 > <span style="color: pink;">E</span>ducation  
 
-PRIDE was first formed in LA in 1966. From the very beginning, they were *considerably* more radical than the gay rights groups that existed *prior* to them in the 1960s and 50s. Before then, gay rights groups were more deferential to the ideas of straight people. As opposed to the more conservative strategy that was followed by PRIDE's predecessors, the primary objective of *PRIDE* was to engage in political action and protests that were as boisterous and as loud as possible, in order to confront the opposition. To stand up and make a point. It was this kind of action that would write the how-to manual for future groups like ACT UP to force government action.
+PRIDE <mark>was first formed in LA in 1966</mark>. <mark>From the very beginning, they were *considerably* more radical than the gay rights groups that existed *prior* to them in the 1960s</mark> and 50s. Before then, <mark>gay rights groups were more deferential</mark> to the ideas of straight people. <mark num=6>As opposed to the more conservative strategy that was followed by PRIDE's predecessors</mark>, <mark num=7>the primary objective of *PRIDE* was to engage in political action and protests that were as boisterous and as loud as possible, in order to confront the opposition</mark>. To stand up and make a point. <mark>It was this kind of action that would write the how-to manual for future groups like ACT UP to force government action.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.wiki_pride at="History ¶1" %}>
+
+<mark>PRIDE is an acronym for</mark> <mark>Personal Rights in Defense and Education</mark>. The organization <mark>was formed in Los Angeles, California in 1966</mark> by Steve Ginsburg. PRIDE, <mark>from its very inception, was much more radical than the pre-1960s homosexual rights groups,</mark> <mark>which were more deferential</mark>. <mark num=7>PRIDE's goal was to get out on the streets and get in the faces of the opposition with noisy, loud demonstrations and political action</mark>, <mark num=6>as opposed to the conservative approach taken by its predecessors</mark>.<sup>[2]</sup> The then 27-year-old founder, Steve Ginsburg, made it clear from the start that the organization would not hold back on showing its youthful overt sexuality. Ginsburg set the example for members by wearing his leather gear to run the PRIDE management meetings. <mark>This was a new breed of radical activist whose approach gave permission to later groups like the GLF, ACT UP and the Radical Faeries.</mark><sup>[1][2]</sup>
+
+<footer>
+
+1. Gay LA, Page 154, Authors Faderman & Timmons, University of California Press, 2006
+2. Gay LA, Page 155, Authors Faderman & Timmons, University of California Press, 2006
+
+</footer>
+</from>
 <james {% include timecode %}>
 
-When compared to other organizations, PRIDE had a greater degree of success in rallying *huge* numbers of people to stage demonstrations against any group or individual who denied members of the queer community their equal rights or dignity. But, in 1968, the year before the famous Stonewall Riots, PRIDE was dissolved due to *ever* increasing pressure from The Straights, and even a number of gays in the community, to *sit down*, *shut up*, and be polite. This "be nice to our oppressors" strategy led to *exponentially* more arrests and attacks against queer people. However, one night in New York City, a group of gay men, lesbians, and trans women had had enough and fought back, lighting the flame of the Stonewall Riots and the modern LGBTQ Rights Movement. 
+When <mark>compared to other organizations, PRIDE had a greater degree of success in rallying *huge* numbers of people to stage demonstrations against any group or individual who denied members of the <span stat:id="sub-queer">queer</span> community their equal rights or dignity.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_pride at="History ¶3" %}>
+
+<mark>Compared to other organizations, PRIDE had greater success at organizing large groups of disenfranchised youth to demonstrate against any group or person that denied the gay community their equal rights or dignity.</mark><sup>[7]</sup> The LAPD was often targeted because of its aggressive and openly violent oppression of gays. The raid on the Black Cat Tavern in the Silverlake section of Los Angeles on New Year's Eve 1967 was the defining moment for PRIDE<sup>[4][7][8]</sup> Undercover police staked out the bar, waiting for the moment that male patrons kissed each other at midnight. Word went out to waiting police reinforcements and they poured into the bar, assaulting patrons, smashing the furniture and chasing several patrons down the street to another bar called New Faces, where the police knocked the manager (a woman) to the ground and subsequently beat the bartenders.<sup>[2]</sup> PRIDE acted quickly, organizing large vocal street demonstrations, handing out thousands of leaflets to passing drivers and pedestrians outside the Black Cat Tavern and in the Sunset Junction area.<sup>[2]</sup> This happened a full two years prior to the gay rights riots at the Stonewall Inn in New York City. PRIDE ran fundraising efforts for the six customers arrested during the raid at the Black Cat Tavern who were convicted. The case went all the way to the United States Supreme Court. The Court refused to hear the case and the convictions were sustained.<sup>[9]</sup>
+
+<footer>
+<ol start=4>
+<li>Third issue of the "Los Angeles Advocate" (Volume 1 #3, November 1967)</li>
+</ol><ol start=7>
+<li>Gay LA, Page 156, Authors Faderman & Timmons, University of California Press, 2006</li>
+<li>The Gay Metropolis: The Landmark History of Gay Life in America, Page 171, Author Charles Kaiser, Houghton Mifflin Then Grove Press, copyright 1997 then 2007</li>
+<li>Gay LA, Page 157, Authors Faderman & Timmons, University of California Press, 2006</li>
+</ol>
+</footer>
+</from>
+<james {% include timecode %}>
+
+But, <mark>in 1968</mark>, the year before the famous Stonewall Riots, <mark>PRIDE was dissolved due to *ever* increasing pressure from The Straights, and even a number of gays in the community</mark>, to *sit down*, *shut up*, and be polite.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.wiki_pride at="History ¶6" %}>
+
+<mark>In late 1968</mark> <mark>PRIDE under tremendous pressure from all sides (gay and straight) to cease its aggressive radical approach and activities<sup>[16]</sup> was dissolved by its founders</mark>.<sup>[16]</sup>
+
+<footer>
+
+16. "L Leather History Timeline". Leatherarchives.org. Archived from the original on 2012-04-21. Retrieved 2013-12-02.
+
+</footer>
+</from>
+<james {% include timecode %}>
+
+This "be nice to our oppressors" strategy led to *exponentially* more arrests and attacks against queer people. However, one night in New York City, a group of gay men, lesbians, and trans women had had enough and fought back, lighting the flame of the Stonewall Riots and the modern LGBTQ Rights Movement. 
 
 </james>
 <from></from>
