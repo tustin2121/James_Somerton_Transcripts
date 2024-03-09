@@ -47,6 +47,9 @@ notes:
   snip-credits:
     icon: "fa-solid fa-receipt"
     desc: "Reupload removed credits from the video."
+  _rec-list:
+    icon: "fa-solid fa-list"
+    desc: "This video has recommended replacements."
   w-nick:
     icon: "wr-nick"
     desc: "Written by Nick Herrgott."

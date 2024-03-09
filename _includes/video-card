@@ -3,7 +3,7 @@
 	<div class="title">
 		<a href="{{ include.video.url | relative_url }}{%- if include.anchor -%}#{{ include.anchor }}{%- endif -%}">{{ include.video.title }}</a>
 		{% comment %} {{ include.video.notes }} {% endcomment %}
-		{%- include notes notes=include.video.notes -%}
+		{%- include notes video=include.video -%}
 	</div>
 	<div class="date">{{ include.video.date | date_to_string }}</div>
 	<div class="aka">

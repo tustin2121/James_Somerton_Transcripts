@@ -1,5 +1,9 @@
-{%- for n in include.notes -%}
+{%- for n in include.video.notes -%}
 	{%- assign ni = site.data.info.notes | map: n | first -%}
 	{%- unless ni -%}{%- continue -%}{%- endunless -%}
 	&nbsp;<a title="{{ ni.desc }}" class="note"><i class="{{ ni.icon }}"></i></a>
 {%- endfor -%}
+{%- if include.video.recs -%}
+	{%- assign ni = site.data.info.notes._rec-list -%}
+	&nbsp;<a title="{{ ni.desc }}" class="note"><i class="{{ ni.icon }}"></i></a>
+{%- endif -%}
