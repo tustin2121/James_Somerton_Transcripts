@@ -4,7 +4,7 @@
 	{%- assign _cite = item[1] -%}
 	{%- include resolve-common-citation -%}
 	<li id="{{ _cite.short | slugify }}">
-		{{ _cite.full }} 
+		{% include obfuscate-source for=_cite.full %}
 		{%- if _cite.offline %}
 			<a href="{{ _cite.archive }}{{ _cite.url }}">{{ _cite.url }}</a>
 		{%- else %}
