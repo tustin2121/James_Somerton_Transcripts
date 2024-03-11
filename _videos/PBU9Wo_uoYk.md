@@ -12,7 +12,9 @@ aka: !!seq
 topics: !!seq
   - Bob's Burgers
 links: !!seq
-  - "https://www.patreon.com/posts/queerness-of-99195284"
+  - "https://archive.org/details/james-somerton-public-records/The+Queer+Normality+of+Bobs+Burgers.mp4"
+  - "https://youtu.be/O9zR0-yHrNY" # Mirror
+  - "https://www.YOUTUBE.com/watch?v=PBU9Wo_uoYk" # James's Channel
 # description: "a video essay on...?"
 notes:
   - post-callout

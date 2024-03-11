@@ -10,8 +10,8 @@ aka: !!seq
   - "The LGB Dystopia (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://www.youtube.com/watch?v=Y9yi8yocZMY" # Reuploads channel
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230420+F5ab1X2CFq8+The+Queer+Dystopia+of+the+LGB+Movement.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Queer+Dystopia+of+the+LGB+Movement.mp4"
 description: "a video essay on dystopias, oppression, and division over rights means less rights for us all."
 notes:
   - script-diff

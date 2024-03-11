@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-04-07
 title: Sex, Violence, Showgirls, and The American Way
+runtime: 1:05:44
 status: Auto
 aka: !!seq
   - 'Good "Bad" Media and the Death of Satire'
@@ -12,8 +13,8 @@ aka: !!seq
   - "Sex & Satire ; Good Bad"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=4fEjYHiEDU8" # reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230407+KR7Ab5d9wno+Sex%2C+Violence%2C+Showgirls%2C+and+The+American+Way.webm"
+  - "https://www.YOUTUBE.com/watch?v=KR7Ab5d9wno" # James's
 # description: "a video essay on...?"
 notes:
   - alt-version

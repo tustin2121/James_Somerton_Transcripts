@@ -4,13 +4,14 @@ redirect_from:
 
 date: 2023-10-13
 title: Vampires, and the Gays That Love Them
+runtime: 54:06
 status: Auto
 aka: !!seq
   - "Blood Sucking Queers (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=DjyGL_0zGXM" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231013+6rHOEWFBDg0+Vampires%2C+and+the+Gays+That+Love+Them.webm"
+  - "https://archive.org/details/james-somerton-public-records/Vampires%2C+and+the+Gays+That+Love+Them.mp4"
 # description: "a video essay on...?"
 notes:
   - hbomb

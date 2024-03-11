@@ -5,17 +5,24 @@ redirect_from:
   - "/videos/gqvwepgsvfg"
 
 prev_ids: [ "gQVWepgSvfg" ]
-date: 2022-09-19
+date: 2021-05-23
 title: Reclaiming the "Q" Word
+runtime: 39:31
 status: Auto
 aka: !!seq
   - !!str In Defense of "Queer"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Reclaiming+the+Q+Word.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220919+KXGpVm09GCM+Reclaiming+the+%EF%BC%82Q%EF%BC%82+Word.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Reclaiming+the+_Q_+Word.mp4"
   # - "https://web.archive.org/web/20210523190521/https://www.youtube.com/watch?v=gQVWepgSvfg" # Original upload
 # description: "a video essay on...?"
+
+history:
+  2021-05-23: First published (gQVWepgSvfg).
+  2022-09-19: Reuploaded (KXGpVm09GCM).
+  2023-12-07: Privated post-callout.
 
 cite:
   clips: !!map
@@ -28,6 +35,7 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-09-19" %}>
 
 *Re-upload*
 
@@ -42,6 +50,7 @@ The Q word is a very contentious one these days. But gay words have always been 
 28:18 Part Six  
 34:36 Part Seven  
 
+</details>
 </credits>
 </compare>
 

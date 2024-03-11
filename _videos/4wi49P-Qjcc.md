@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2022-10-21
 title: The Troubling Thirst for Jeffrey Dahmer
+runtime: 30:40
 status: Finished
 aka: !!seq
   - "The Hunger, The Thirst (Thumbnail)"
@@ -11,8 +12,9 @@ aka: !!seq
 topics: !!seq
   - "Dahmer"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/The+Troubling+Thirst+for+Jeffrey+Dahmer.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221021+4wi49P-Qjcc+The+Troubling+Thirst+for+Jeffrey+Dahmer.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+The+Troubling+Thirst+for+Jeffrey+Dahmer.mp4"
 description: "a video essay on how hordes of white women are in love with serial killers, because James says so."
 notes:
   - hbomb
@@ -38,12 +40,12 @@ cite:
     dahmer_ships: "Todd in the Shadows fact checks James on fangirls shipping Dahmer with others."
     hate_mobs: "Todd also fact checks James's claim that there were hate mobs inspired by Dahmer."
   plagiarized: !!map
-    shivani_dubey: { color: 1, short: "Mashable (Dubey, 2022)", full: "Dubey‚ S. (2022, Oct 6). <em>}Netflix's 'Dahmer' backlash highlights ethical issues in the platform's obsession with true crime</em> [Article]. Mashable. Retrieved February 14, 2024, from", url: "https://mashable.com/article/jeffrey-dahmer-netflix-true-crime-ethics" }
-    john_russell: { color: 2, short: "LGBTQ Nation (Russell, 2022)", full: "Russel, J. (2022, Sep 30). <em>Women on TikTok are thirsting after Jeffrey Dahmer from Netflix’s new series</em> [Article]. LGBTQ Nation. Retrieved February 14, 2024, from", url: "https://www.lgbtqnation.com/2022/09/women-tiktok-thirsting-jeffrey-dahmer-netflixs-new-series/" }
-    kidiocus_king-carroll: { color: 3, short: "Washington Post (King-Carol, 2022)", full: "King-Carol, K. (2022, Oct 11). <em>Racism, and homophobia enabled Jeffrey Dahmer's crimes</em> [Article]. Washington Post. Retrieved February 14, 2024, from", url: "https://web.archive.org/web/20230624013110/https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/"}
-    kady_ashcraft: { color: 4, short: "Jezebel (Ashcraft, 2022)", full: "Ashcraft‚ K. (2022, Oct 3). <em>Thirsting for Jeffrey Dahmer Is Heinous. Don’t Do It.</em> [Article]. Jezebel. Retrieved February 14, 2024, from", url: "https://jezebel.com/thirsting-for-jeffrey-dahmer-is-heinous-dont-do-it-1849609819"}
-    ian_barnard: { color: 5, short: "Racialization of Sexuality (Barnard, 2000)", full: "Barnrad, I. (2000). <em>The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer</em>. Thamyris Overcoming Boundaries: Ethnicity, Gender and Sexuality, 7(1-2), 67-97. Chapman University Commons. Retrieved February 14, 2024, from", url: "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books"}
-    dahmer_wikipedia: { color: 6, short: "Jeffrey Dahmer (Wikipedia, 2022)", full: "Ẉikipedia (2022, Oct 11). <em>Jeffrey Dahmer</em>. Retrieved February 14, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589"}
+    shivani_dubey: { color: 1, short: "Mashable (Dubey, 2022)", full: "Dubey, S. (2022, Oct 6). <em>}Netflix's 'Dahmer' backlash highlights ethical issues in the platform's obsession with true crime</em> [Article]. Mashable. Retrieved February 14, 2024, from", url: "https://mashable.com/article/jeffrey-dahmer-netflix-true-crime-ethics" }
+    john_russell: { color: 2, short: "LGBTQ Nation (Russell, 2022)", full: "Russel, J. (2022, Sep 30). <em>Women on TikTok are thirsting after Jeffrey Dahmer from Netflix’s new series</em> [Article]. LGBTQ Nation. Retrieved February 14, 2024, from", url: "https://www.lgbtqnation.com/2022/09/women-tiktok-thirsting-jeffrey-dahmer-netflixs-new-series/" }
+    kidiocus_king-carroll: { color: 3, short: "Washington Post (King-Carol, 2022)", full: "King-Carol, K. (2022, Oct 11). <em>Racism, and homophobia enabled Jeffrey Dahmer's crimes</em> [Article]. Washington Post. Retrieved February 14, 2024, from", url: "https://web.archive.org/web/20230624013110/https://www.washingtonpost.com/made-by-history/2022/10/11/racism-homophobia-enabled-jeffrey-dahmers-crimes/"}
+    kady_ashcraft: { color: 4, short: "Jezebel (Ashcraft, 2022)", full: "Ashcraft, K. (2022, Oct 3). <em>Thirsting for Jeffrey Dahmer Is Heinous. Don’t Do It.</em> [Article]. Jezebel. Retrieved February 14, 2024, from", url: "https://jezebel.com/thirsting-for-jeffrey-dahmer-is-heinous-dont-do-it-1849609819"}
+    ian_barnard: { color: 5, short: "Racialization of Sexuality (Barnard, 2000)", full: "Barnrad, I. (2000). <em>The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer</em>. Thamyris Overcoming Boundaries: Ethnicity, Gender and Sexuality, 7(1-2), 67-97. Chapman University Commons. Retrieved February 14, 2024, from", url: "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books"}
+    dahmer_wikipedia: { color: 6, short: "Jeffrey Dahmer (Wikipedia, 2022)", full: "Wikipedia (2022, Oct 11). <em>Jeffrey Dahmer</em>. Retrieved February 14, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589"}
 
 
 ---

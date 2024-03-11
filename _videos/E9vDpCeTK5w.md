@@ -12,8 +12,9 @@ aka: !!seq
 topics: !!seq
   - Everything<br/>Everywhere<br/>All At Once
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=qyQcCzV0lGE" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230124+E9vDpCeTK5w+The+Queer+Joy+of+Everything+Everywhere+All+At+Once.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Queer+Joy+of+Everything+Everywhere+All+At+Once.mp4"
+  - "https://www.YOUTUBE.com/watch?v=E9vDpCeTK5w" # James's channel
 description: "a video essay on how when everything means nothing, nothing matters but your feelings."
 notes:
   - online

@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-05-11
 title: 'Where The "Bury Your Gays" Trope Came From'
+runtime: 30:12
 parent: pW_RjbZYi1s
 status: Complete
 aka: !!seq
@@ -15,8 +16,8 @@ topics: !!seq
   - "The Children's Hour"
   - "Advise & Consent"
 links: !!seq
-  - "https://www.youtube.com/watch?v=8gOOSspflfA"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230511+UtRyi-e_HTc+Where+The+%EF%BC%82Bury+Your+Gays%EF%BC%82+Trope+Came+From.webm"
+  - "https://archive.org/details/james-somerton-public-records/Where+The+Bury+Your+Gays+Trope+Came+From.mp4"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering many instances of gay characters dying in the end."
 notes:
   - hbomb

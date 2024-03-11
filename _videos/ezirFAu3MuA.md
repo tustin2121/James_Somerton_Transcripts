@@ -4,12 +4,14 @@ redirect_from:
 
 date: 2022-11-05
 title: The Harmful Drive for Queer Perfection
+runtime: 45:39
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=blJ-Z1A3Ixw" # Reuploads channel
+  - "https://archive.org/details/james-somerton-public-records/The+Harmful+Drive+for+Queer+Perfection.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221105+ezirFAu3MuA+The+Harmful+Drive+for+Queer+Perfection.webm"
+  - "https://www.YOUTUBE.com/watch?v=ezirFAu3MuA" # James's channel
 # description: "a video essay on...?"
 notes:
   - online
@@ -62,6 +64,15 @@ Why is it that, for queer people, perfection is a necessity instead of an option
 </compare>
 
 {% include transcript-start %}
+
+<compare>
+<credits header="Content Warning" {% include timecode %}>
+
+> Content Warning:  
+> Brief discussion of eating disorders, assault, and straight people.
+
+</credits>
+</compare>
 
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it

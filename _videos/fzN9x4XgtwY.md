@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-05-18
 title: When Hollywood Came Out of the Closet
+runtime: 30:00
 parent: pW_RjbZYi1s
 status: Finished
 aka: !!seq
@@ -13,8 +14,8 @@ topics: !!seq
   - Sunday Bloody Sunday
   - John Waters
 links: !!seq
-  - "https://www.youtube.com/watch?v=PimkEyKQqoQ"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230518+fzN9x4XgtwY+When+Hollywood+Came+Out+of+the+Closet.webm"
+  - "https://archive.org/details/james-somerton-public-records/When+Hollywood+Came+Out+of+the+Closet.mp4"
 notes:
   - hbomb
   - w-james

@@ -12,7 +12,7 @@ topics: !!seq
   - "Unrequited"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
-  - "https://www.youtube.com/watch?v=4shTfS6hyjE" # Reuploads channel
+  - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Hollywood.mp4"
 description: "a remake of his Unrequited video, ripping off the book instead of the documentary this time."
 notes: 
   - multipart

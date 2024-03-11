@@ -4,12 +4,13 @@ redirect_from:
 
 date: 2023-04-26
 title: The Glass Ceiling of Gay Success (A Discussion)
+runtime: 41:02
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=8UXWQacdLmc" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230426+M5-SZckaMtc+The+Glass+Ceiling+of+Gay+Success+(A+Discussion).webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Glass+Ceiling+of+Gay+Success+(A+Discussion).mp4"
 # description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast

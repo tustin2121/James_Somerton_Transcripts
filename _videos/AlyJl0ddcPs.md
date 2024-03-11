@@ -12,8 +12,11 @@ aka: !!seq
 topics: !!seq
   - "The Summer Hikaru Died"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=v_KG7r3ClZc" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231029+AlyJl0ddcPs+The+Gay+Horror+Manga+You+Should+Be+Reading.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Gay+Horror+Manga+You+Should+Be+Reading.mp4"
+alt-links:
+  "advertising short":
+    - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231101+V-ebMOx6aBc+The+Gay+Horror+Manga+You+should+Be+Reading+-+The+Summer+Hikaru+Died+%23horrorstories+%23manga.webm"
 description: "a video essay that's just talking about this one horror Manga that James or Nick really likes."
 notes:
   - short-advert

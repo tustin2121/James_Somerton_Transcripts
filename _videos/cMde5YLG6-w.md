@@ -4,14 +4,14 @@ redirect_from:
 
 date: 2021-08-31
 title: Disney's Gay Cultural Appropriation # ｜ James Somerton
+runtime: 36:00
 status: Auto
 aka: !!seq
   - "No Gays At Disney"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210831+cMde5YLG6-w+Disney's+Gay+Cultural+Appropriation+%EF%BD%9C+James+Somerton.webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Disney's+Gay+Cultural+Appropriation+_+James+Somerton.mp4"
-  - "https://www.youtube.com/watch?v=o9rlnC_EUAE"
 # description: "a video essay on...?"
 
 history:

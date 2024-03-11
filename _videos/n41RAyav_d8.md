@@ -16,8 +16,9 @@ topics: !!seq
   - Don't Say Gay
   - Bob Iger / Chapek
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/How+Disney+Tore+Down+The+Owl+House.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220813+n41RAyav_d8+How+Disney+Tore+Down+The+Owl+House.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+How+Disney+Tore+Down+The+Owl+House.mp4"
 description: "a video essay on the Owl House, but also Bob Iger v Bob Chapek fan fiction."
 notes:
   - hbomb

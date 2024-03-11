@@ -11,9 +11,9 @@ aka: !!seq
   - The Death of Queer Security & Privacy (Subtitle card)
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230201+9YzMQEBRszY+The+Death+of+Queer+Privacy.webm"
   - "https://archive.org/details/james-somerton-public-records/The+Death+of+Queer+Privacy.mp4"
-  - "https://www.youtube.com/watch?v=_phKV9gZUJc" # Reuploads channel
+  - "https://www.YOUTUBE.com/watch?v=9YzMQEBRszY" # James's channel
 description: "a video essay on hate crimes, privacy, and the security of queer people."
 notes:
   - online

@@ -19,8 +19,6 @@ topics: !!seq
   - The Hays Code
   - Rocky Horror Picture Show
 links: !!seq
-  - "https://www.youtube.com/watch?v=cXCfeN7idJo"
-  - "https://www.youtube.com/watch?v=SH3DkDmMTAk"
   - "https://archive.org/details/james-somerton-public-records/How+Hollywood+was+Born+Gay.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230215+-Zcf3uNGbq4+How+Hollywood+was+Born+Gay.webm"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the early history of queer cinema, from 'Wings' and Dr. Magnus Hirschfeld, to the Hays Code and the Rocky Horror Picture Show."

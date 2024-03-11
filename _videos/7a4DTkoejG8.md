@@ -12,7 +12,6 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221116+7a4DTkoejG8+The+Queer+Erasure+of+Asexuality+(A+Discussion).webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+The+Queer+Erasure+of+Asexuality+(A+Discussion).mp4"
-  - "https://www.youtube.com/watch?v=D_6S1CT8uVM" # Reuploads channel
 description: "a 'Gays Behaving Badly' podcast episode on Asexuality."
 notes:
   - podcast

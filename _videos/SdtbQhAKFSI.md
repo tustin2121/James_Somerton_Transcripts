@@ -15,8 +15,6 @@ topics: !!seq
   - "Laurel and Hardy"
   - "Rope / Rope's End"
 links: !!seq
-  - "https://www.youtube.com/watch?v=MrXDLbiiMD8"
-  - "https://www.youtube.com/watch?v=17lkL9KwUOY"
   - "https://archive.org/details/james-somerton-public-records/Hollywood's+Golden+Age+(of+Queer+Coding).mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230315+SdtbQhAKFSI+Hollywood's+Golden+Age+(of+Queer+Coding).webm"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the fifties, Ben-Hur, Rope, and skipping over nearly all of the Lesbian and Trans examples."

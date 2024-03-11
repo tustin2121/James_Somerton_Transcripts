@@ -6,13 +6,13 @@ redirect_from:
 
 date: 2023-06-06
 title: The Problem With Pride #｜ James Somerton
-# slug: -ogPYycNAo8
+runtime: 51:43
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=Lj_WYIOeCiM" # reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230606+-ogPYycNAo8+The+Problem+With+Pride+%EF%BD%9C+James+Somerton.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Problem+With+Pride++James+Somerton.mp4"
 # description: "a podcast episode on <xyz>."
 notes:
   - podcast

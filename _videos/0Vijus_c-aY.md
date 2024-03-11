@@ -12,7 +12,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230914+0Vijus_c-aY+The+Campy+Queer+Sensibilities+of+Barbie.webm"
-  - "https://www.youtube.com/watch?v=d_3rnwKzRD4" # Reuploads channel
+  - "https://www.YOUTUBE.com/watch?v=0Vijus_c-aY" # James's channel
 # description: "a video essay on...?"
 notes:
   - online

@@ -595,7 +595,7 @@
 	
 	.video-card a[href^="http:"]::after, 
 	.video-card a[href^="https:"]::after {
-		/* content: none !important; */
+		content: none !important;
 		content: revert-layer;
 	}
 }

@@ -20,7 +20,6 @@ topics: !!seq
   - "Ninotchka ??"
   - "Plan 9 from Outer Space"
 links: !!seq
-  - "https://www.youtube.com/watch?v=V2--C3AQfSE"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230415+iJ3M_DhPlI0+America+v.+Homosexuality.webm"
   - "https://archive.org/details/james-somerton-public-records/America%E2%80%99s+War+on+the+Gays+(and+communists).mp4"
 description: "a video essay where James takes a break reading of Vito Russo's book and reads from some other sources on The Lavender Scare."
@@ -43,8 +42,8 @@ cite:
   misinformation: !!map
   plagiarized: !!map
     johnson_book: { color: 7, short: "(Johnson, 2004)", full: "Johnson‚ D. K. (2004). <em>The Lavender Scare: The Cold War Persecution of Gays and Lesbians in the Federal Government</em> [Book]. Chicago; London: University of Chicago Press.", url: "https://archive.org/details/lavenderscarecol00john_0", type: "book", style: "book" }
-    wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Ẉikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
-    wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Ẉikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
+    wiki_lavender: { color: 8, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 19). <em>Lavender Scare</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Lavender_Scare&oldid=1145482176" }
+    wiki_blacklist: { color: 6, short: "(Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Hollywood blacklist</em> [Article]. Retrieved Jan 11, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Hollywood_blacklist&oldid=1146747102" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}

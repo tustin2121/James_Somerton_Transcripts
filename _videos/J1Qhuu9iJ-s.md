@@ -4,12 +4,14 @@ redirect_from:
 
 date: 2022-08-26
 title: Ranking "The Best" Gay Movies Of All Time
+runtime: 58:37
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Ranking+The+Best+Gay+Movies+Of+All+Time.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220826+J1Qhuu9iJ-s+Ranking+%EF%BC%82The+Best%EF%BC%82+Gay+Movies+Of+All+Time.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Ranking+_The+Best_+Gay+Movies+Of+All+Time.mp4"
 # description: "a video essay on...?"
 
 cite:

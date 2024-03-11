@@ -4,12 +4,14 @@ redirect_from:
 
 date: 2022-05-08
 title: Nintendo's Queer Relationship With Gender
+runtime: 54:32
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/Nintendo's+Queer+Relationship+With+Gender.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220508+rg92PER6xvE+Nintendo's+Queer+Relationship+With+Gender.webm"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Nintendo's+Queer+Relationship+With+Gender.mp4"
 # description: "a video essay on...?"
 notes:
   - online

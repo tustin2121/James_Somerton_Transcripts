@@ -4,16 +4,16 @@ redirect_from:
 
 date: 2021-09-13
 title: Disney's War on Gay Kids
-runtime: 31:04
+runtime: 31:07
 status: Finished
 aka: !!seq
   - Disney's War Against Gay Kids #｜ James Somerton
   - "Why does society hate gay kids?"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
-  - "https://www.youtube.com/watch?v=j5tg1quSfTU"
+  - "https://archive.org/details/james-somerton-public-records/Disney's+War+Against+Gay+kids++James+Somerton.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210913+S-_NcmyntN0+Disney's+War+Against+Gay+kids+%EF%BD%9C+James+Somerton.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Disney's+War+Against+Gay+kids+_+James+Somerton.mp4"
 description: "a video essay on why it is Disney is so safe and how being gay is not abnormal."
 notes:
   - script-diff

@@ -14,7 +14,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230114+fE4I6WhPryc+Why+Bad+Gays+Are+Good.webm"
   - "https://archive.org/details/james-somerton-public-records/Why+Bad+Gays+Are+Good.mp4"
-  - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
+  - "https://www.YOUTUBE.com/watch?v=fE4I6WhPryc" # James's channel
 description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Helluva Boss, Brandon Rogers, and Bros for an hour."
 notes:
   - online

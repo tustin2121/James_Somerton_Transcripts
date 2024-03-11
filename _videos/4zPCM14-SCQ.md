@@ -4,13 +4,18 @@ redirect_from:
 
 date: 2018-10-22
 title: Monsters in the Closet #- A History of LGBT Representation in Horror Cinema (Video essay)
+runtime: 56:35
 status: Auto
 aka: !!seq
   - "A History of LGBT Representation in Horror Cinema"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20181022+4zPCM14-SCQ+Monsters+in+the+Closet+-+A+History+of+LGBT+Representation+in+Horror+Cinema+(Video+essay).webm"
+  - "https://archive.org/details/james-somerton-public-records/Monsters+in+the+Closet+-+A+History+of+LGBT+Representation+in+Horror+Cinema+(Video+essay).mp4"
   - "https://web.archive.org/web/20200810171203/https://www.youtube.com/watch?v=4zPCM14-SCQ"
+alt-links:
+  "audio commentary": 
+    - "https://archive.org/details/james-somerton-public-records/Monsters+in+the+Closet+-+Audio+Commentary+(Patrons+Only).mp4"
 # description: "a video essay on...?"
 notes:
   - hbomb

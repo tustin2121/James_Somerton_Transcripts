@@ -21,7 +21,7 @@ Contributors:
 - [{{ name.name }}]({{name.link}}) - {{name.descriptive}}
 {%- endfor -%}
 
-</div>{%- unless site.data.options.hide_video_links -%}<div>
+</div>{%- unless site.data.options.hide_video_links or true -%}<div>
 
 Video archives:
 - [James Somerton Youtube (2023-12-03)](https://archive.org/details/james-somerton-youtube-2023-12-03) on the Internet Archive

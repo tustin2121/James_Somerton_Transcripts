@@ -4,14 +4,16 @@ redirect_from:
 
 date: 2022-10-09
 title: Queer Representation in Modern Horror
+runtime: 57:42
 status: Auto
 aka: !!seq
   - "The Queerness of Modern Horror Cinema"
   - "Fear The Queer (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Queer+Representation+in+Modern+Horror.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221009+s8Iv9xzW87I+Queer+Representation+in+Modern+Horror.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Queer+Representation+in+Modern+Horror.mp4"
 # description: "a video essay on...?"
 notes:
   - hbomb

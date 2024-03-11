@@ -11,6 +11,7 @@ aka: !!seq
 topics: !!seq
   - "Fantastic Beasts: The Secrets of Dumbledore"
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/The+Secret+Crimes+of+a+Dying+Franchise.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220417+iI5ytm_bFl8+The+Secret+Crimes+of+a+Dying+Franchise.webm"
 description: "a short video essay on how The Crimes of Grindlewald was bad."
 notes:

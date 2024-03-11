@@ -20,8 +20,8 @@ topics: !!seq
   - "Psycho"
   - "Game of Thrones"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=qNxoyHlVM48" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230429+KarOvBQCyKE+How+Spoilers+Are+Ruining+Everything.webm"
+  - "https://archive.org/details/james-somerton-public-records/How+To+Stop+Caring+And+Learn+To+Love+Spoilers.mp4"
 description: "a video essay on spoiler culture and how it's caused our media to get worse over time. Uses the phrase 'spoiler alert' 21 times."
 notes:
   - w-nick-james

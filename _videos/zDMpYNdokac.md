@@ -18,7 +18,7 @@ topics: !!seq
   - "Good Omens"
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Neil+Gaiman+%26+Queering+Fantasy.mp4"
-  - "https://www.youtube.com/watch?v=GcafKojHhT8"
+  - "https://www.YOUTUBE.com/watch?v=zDMpYNdokac"
 description: "a video essay on how to do good representation of queer people in media."
 notes:
   - short-advert

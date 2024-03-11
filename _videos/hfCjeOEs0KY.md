@@ -10,7 +10,10 @@ status: Auto Script
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://www.patreon.com/posts/33-year-hunt-for-99195360"
+  - "https://archive.org/details/james-somerton-public-records/The+33+Year+Hunt+for+a+Queer+Killer.mp4"
+  - "https://www.youtube.com/watch?v=LCnPQU9rHMg" # Mirror
+  - "https://youtu.be/RaAPQM2a8rA" # Mirror
+  - "https://www.YOUTUBE.com/watch?v=hfCjeOEs0KY" # James's Channel
 # description: "a video essay on...?"
 notes:
   - post-callout

@@ -4,12 +4,13 @@ redirect_from:
 
 date: 2022-12-16
 title: Best Of Queer Media 2022
+runtime: 29:08
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=SzD3JpWNRxE" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221216+bOXpv0llE4g+Best+Of+Queer+Media+2022.webm"
+  - "https://archive.org/details/james-somerton-public-records/Best+Of+Queer+Media+2022.mp4"
 # description: "a video on <xyz>."
 
 history:

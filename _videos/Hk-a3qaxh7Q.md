@@ -7,6 +7,7 @@ redirect_from:
 prev_ids: [ "zuoKRMMxzSo" ]
 date: 2022-06-09
 title: How a Gay Show Changed TV... and Was Forgotten
+runtime: 26:56
 status: Auto
 aka: !!seq
   - "The Hit Gay Show We Forgot"
@@ -14,8 +15,9 @@ aka: !!seq
 topics: !!seq
   - "Queer as Folk"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/How+a+Gay+Show+Changed+TV...+and+Was+Forgotten.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220609+Hk-a3qaxh7Q+How+a+Gay+Show+Changed+TV...+and+Was+Forgotten.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+How+a+Gay+Show+Changed+TV...+and+Was+Forgotten.mp4"
   - "https://web.archive.org/web/20220609235655/https://www.youtube.com/watch?v=Hk-a3qaxh7Q"
 # description: "a video essay on...?"
 

@@ -11,7 +11,7 @@ redirect_from:
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
-runtime: 0
+runtime: 44:43
 status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
@@ -24,7 +24,6 @@ topics: !!seq
   - The Favorite
 links: !!seq
   - "https://web.archive.org/web/20201204124414/https://www.youtube.com/watch?v=P_mLM6fUhHQ&gl=US&hl=en"
-  - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
 description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:
   - hbomb
@@ -71,46 +70,46 @@ cite:
     film_class:
       color: 4
       short: "(DaVega, 2016)"
-      full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
+      full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
       url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
       archive: "https://web.archive.org/web/20240219184030/"
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
-          full: "Ẉikipedia. (2009, Sep 10). <em>Film theory</em> [Article]."
+          full: "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719"
           chain:
             _desc_: "which plagiarized from..."
             read_film: &read_film { color: 1, short: "(Monaco, 1977)", full: "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", url: "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover" }
         wiki_structuralist:
-          full: "Ẉikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article]."
+          full: "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"
         wiki_marxist:
-          full: "Ẉikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article]."
+          full: "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"
         wiki_screen:
-          full: "Ẉikipedia. (2009, Aug 7). <em>Screen theory</em> [Article]."
+          full: "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"
         wiki_formalist:
-          full: "Ẉikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article]."
+          full: "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"
         encyclopedia_realist:
           full: "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article]."
           url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"
         wiki_feminist:
-          full: "Ẉikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article]."
+          full: "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"
         wiki_auteur:
-          full: "Ẉikipedia. (2009, Sep 12). <em>Auteur</em> [Article]."
+          full: "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"
         wiki_apparatus:
-          full: "Ẉikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article]."
+          full: "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"
         wiki_linguistic:
-          full: "Ẉikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article]."
+          full: "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"
         wiki_psychoanalytic:
-          full: "Ẉikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
+          full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
         semiotic:
           full: "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus."
@@ -122,20 +121,20 @@ cite:
     gay_erased: 
       color: 5
       short: "Midlands Zone Magazine (Spinks, 2019)"
-      full: "Spinks‚ S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
+      full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
       url: "https://www.midlandszone.co.uk/features/homophobic-erasure-the-cull-of-lgbtq-presence-from-history/64"
       archive: "https://web.archive.org/web/20210127145049/"
       offline: true
       chain:
         _desc_: "Midlands Zone Magazine succumbed to the pandemic, so here's alternate methods of accessing content:"
         issuu: { full: "via Issuu.com. Retrieved Jan 27, 2024, from", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
-    achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
-    ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
+    achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
+    ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
     film_ref_queer: { color: 3, short: "Queer Theory (Film Reference, n.d.)", full: "<em>Queer Theory</em> [Encyclopedia entry]. (n.d.). Film Reference. Advameg, Inc", url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Queer-Theory.html", archive: "https://web.archive.org/web/20200702185638/" }
     movie_mezzanine: 
       color: 1
       short: "(Turner, 2015)"
-      full: "Turner‚ K. (2015, Feb, 20). <em>Coded Switch: “The Imitation Game” and The Queer Film</em> [Article]. Movie Mezzanine. Retrieved Feb 14, 2024, from"
+      full: "Turner, K. (2015, Feb, 20). <em>Coded Switch: “The Imitation Game” and The Queer Film</em> [Article]. Movie Mezzanine. Retrieved Feb 14, 2024, from"
       url: "http://moviemezzanine.com/the-imitation-game-and-the-queer-film/"
       archive: "https://web.archive.org/web/20230923004927/"
       chain: 
@@ -143,7 +142,7 @@ cite:
         wiki_queer_cinema: 
           color: 8
           short: "New queer cinema (Wikipedia, 2020)"
-          full: "Ẉikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article]."
+          full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524"
           chain:
             _desc_: "which summarizes..."

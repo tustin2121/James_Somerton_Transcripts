@@ -4,13 +4,13 @@ redirect_from:
 
 date: 2013-11-20
 title: 'Geek Theory - Episode #1 "The Marvel Issue"'
+runtime: 5:28
+runtime: 
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  # - "https://archive.org/details/james-somerton-videos-backup"
-  - "https://www.youtube.com/watch?v=xHPd2xtG5xQ"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20131120+crZd-xmhobE+Geek+Theory+-+Episode+%231+%EF%BC%82The+Marvel+Issue%EF%BC%82.webm"
   - "https://web.archive.org/web/20220605191048/https://www.youtube.com/watch?v=crZd-xmhobE"
 # description: "a video essay on...?"
 

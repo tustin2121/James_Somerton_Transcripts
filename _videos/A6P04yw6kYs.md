@@ -13,8 +13,8 @@ aka: !!seq
 topics: !!seq
   - "Cabaret"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=d9hr7hDryps" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230527+A6P04yw6kYs+The+Dangers+of+Blissful+Ignorance.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Dangers+of+Blissful+Ignorance.mp4"
 # description: "a video essay on...?"
 notes:
   - script-diff

@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2022-07-16
 title: Nostalgia, and Remembering The Bad Times
+runtime: 1:21:16
 status: Auto
 aka: !!seq
   - "The Strange Dangers of Nostalgia"
@@ -18,7 +19,8 @@ topics: !!seq
   - Ayn Rand
   - The Sound of Music
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records/Stranger+Things+and+the+Danger+of+Nostalgia.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220716+c9BmsQSOD6c+Nostalgia%2C+and+Remembering+The+Bad+Times.webm"
 # description: "a video essay on...?"
 notes:
   - hbomb
@@ -39,11 +41,11 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    kristen_miller_hill: { color: 2, short: "(Hill, 2021)", full: "Hill, K. M. (2021). ‘We lie best when we lie to ourselves’: Stephen King’s It and the horrors of nostalgia. <em>Horror Studies, 12</em>(Reappraising Stephen King), 249–263. doi:10.1386/host_00041_1", url: "https://intellectdiscover.com/content/journals/10.1386/host_00041_1" } # Have to buy the article for 25$ ???
-    guardian_abbey: { color: 3, short: "(Groskp, 2014)", full: "Groskp, V. (2014, Sep 17). <em>Downton Abbey’s class nostalgia is another toxic British export</em> [Article]. The Guardian. ", url: "https://www.theguardian.com/commentisfree/2014/sep/17/downton-abbey-nostalgia-british-export-stereotypes" }
-    tablet_abbey: { color: 4, short: "(Telushkin, 2018)", full: "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", url: "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television" }
-    history_today: { color: 5, short: "(deGroot, 2011)", full: "deGroot‚ J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", url: "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past" }
-    politico_abbey: { color: 6, short: "(Weiss, 2019)", full: "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", url: "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/" }
+    kristen_miller_hill: { color: 2, short: "(Hill, 2021)", full: "Hill, K. M. (2021). ‘We lie best when we lie to ourselves’: Stephen King’s It and the horrors of nostalgia. <em>Horror Studies, 12</em>(Reappraising Stephen King), 249–263. doi:10.1386/host_00041_1", url: "https://intellectdiscover.com/content/journals/10.1386/host_00041_1" } # Have to buy the article for 25$ ???
+    guardian_abbey: { color: 3, short: "(Groskp, 2014)", full: "Groskp, V. (2014, Sep 17). <em>Downton Abbey’s class nostalgia is another toxic British export</em> [Article]. The Guardian. ", url: "https://www.theguardian.com/commentisfree/2014/sep/17/downton-abbey-nostalgia-british-export-stereotypes" }
+    tablet_abbey: { color: 4, short: "(Telushkin, 2018)", full: "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", url: "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television" }
+    history_today: { color: 5, short: "(deGroot, 2011)", full: "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", url: "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past" }
+    politico_abbey: { color: 6, short: "(Weiss, 2019)", full: "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", url: "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

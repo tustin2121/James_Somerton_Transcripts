@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-06-27
 title: Broadway, Living, and Gay Hope
+runtime: 1:10:23
 status: Auto
 aka: !!seq
   - Why Straight Creators Fail Queer Stories
@@ -14,8 +15,8 @@ topics: !!seq
   - "RENT"
   - "Angels in America"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=AgaSGvhUHyE" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230627+CupPh46JZ5g+Broadway%2C+Living%2C+and+Gay+Hope.webm"
+  - "https://archive.org/details/james-somerton-public-records/Broadway%2C+Living%2C+and+Gay+Hope.mp4"
 # description: "a video essay on...?"
 
 history:

@@ -12,7 +12,8 @@ topics: !!seq
   - Young Royals
   - Shameless
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records/The+Tragedy+of+Being+Rich++James+Somerton.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220320+BJw8_r89EwA+The+Tragedy+of+Being+Rich+%EF%BD%9C+James+Somerton.webm"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on how media portrays wealth."
 notes:

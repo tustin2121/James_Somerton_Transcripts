@@ -14,7 +14,6 @@ links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221201+1BHKm-qcfvM+The+Gay+Body+Image+Crisis.webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+The+Gay+Body+Image+Crisis.mp4"
   - "https://archive.org/details/james-somerton-public-records/The+Gay+Body+Image+Crisis.mp4"
-  - "https://www.youtube.com/watch?v=7PA6EsHhKxI" # Reuploads channel
 # description: "a video essay on...?"
 notes:
   - hbomb
@@ -50,10 +49,10 @@ cite:
     soviet_bodies: "...and how soldier never saw Soviet bodies because they were always bundled up...?"
     invented_quote: "James seems to have invented a quote wholesale?"
   plagiarized: !!map
-    greg_johnson: { color: 12, short: "Center for Relationship Health (Johnson, 2021)", full: "Johnson, G. (2021). <em>Gay men have body image issues</em>. The Center for Relationship Health. Retrieved Feb 10, 2024, from", url: "https://crsh.com/2021/08/03/gay-men-have-body-image-issues/"}
-    nick_levine: { color: 4, short: "GQ article (Levine, 2020)", full: "Levine, N. (2020). <em>Why Body Image Issues Pervade the Gay Community</em>. GQ. Retrieved Feb 10, 2024, from", url: "https://www.gq.com/story/why-body-image-issues-pervade-the-gay-community"}
-    robin_hanford: { color: 9, short: "What is Fascism? (Hanford, 2014)", full: "Hanford‚ R. (2014, Mar 3). What is Fascism? [Unpublished manuscript] Ruskin College, Oxford. Retrieved Feb 15, 2024, from", url: "https://www.academia.edu/9345262/What_is_Fascism" }
-    alastair_sooke: { color: 10, short: "BBC article (Sooke, 2015)", full: "Sooke, A. (2015). <em>The Discobolus: Greeks, Nazis and the body beautiful</em>. BBC. Retrieved Feb 10, 2024, from", url: "https://www.bbc.com/culture/article/20150324-hitlers-idea-of-the-perfect-body"} 
+    greg_johnson: { color: 12, short: "Center for Relationship Health (Johnson, 2021)", full: "Johnson, G. (2021). <em>Gay men have body image issues</em>. The Center for Relationship Health. Retrieved Feb 10, 2024, from", url: "https://crsh.com/2021/08/03/gay-men-have-body-image-issues/"}
+    nick_levine: { color: 4, short: "GQ article (Levine, 2020)", full: "Levine, N. (2020). <em>Why Body Image Issues Pervade the Gay Community</em>. GQ. Retrieved Feb 10, 2024, from", url: "https://www.gq.com/story/why-body-image-issues-pervade-the-gay-community"}
+    robin_hanford: { color: 9, short: "What is Fascism? (Hanford, 2014)", full: "Hanford, R. (2014, Mar 3). What is Fascism? [Unpublished manuscript] Ruskin College, Oxford. Retrieved Feb 15, 2024, from", url: "https://www.academia.edu/9345262/What_is_Fascism" }
+    alastair_sooke: { color: 10, short: "BBC article (Sooke, 2015)", full: "Sooke, A. (2015). <em>The Discobolus: Greeks, Nazis and the body beautiful</em>. BBC. Retrieved Feb 10, 2024, from", url: "https://www.bbc.com/culture/article/20150324-hitlers-idea-of-the-perfect-body"} 
 ---
 {% assign tobi = site.data.cite.tobicat %}
 {% assign tustin = site.data.cite.tustin2121 %}
