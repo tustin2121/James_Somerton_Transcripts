@@ -28,6 +28,7 @@ recs:
   - { title: "Somerton Apology 2: Electric Boogaloo - is there actually a future for James?", author: "Council of Geeks", url: "https://www.youtube.com/watch?v=q1RLUSVWnoQ" }
   - { title: "James Somerton Apology 2/? | A Measured Reaction", author: "MATRIARCHETYPE", url: "https://www.youtube.com/watch?v=M5TKdYLUHIw" }
   - { title: "About James Somerton's Apology To Me...", author: "Jessie Gender", url: "https://www.youtube.com/watch?v=2aKlt9-XZik" }
+  - { title: "James Somerton is Back: A (Not So) Quick Sip with KylaTea", author: "KylaTea", url: "https://www.youtube.com/watch?v=-IHHXU91HK8" }
 
 contributors:
   transcription: "[https://youtubetranscript.com](https://youtubetranscript.com/?v=kCNByQ6WopM)"
