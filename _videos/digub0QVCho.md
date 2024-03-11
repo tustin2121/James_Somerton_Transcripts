@@ -875,7 +875,7 @@ https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The 
 </james>
 <from>
 
-The Murder para 1
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 1
 
 <mark>Simpson reportedly left his NW Fourth Avenue apartment around 10 p.m., according to his landlord,</mark> who was the last to see him. <mark>Two hours later, his body was found face-down in some gravel by Dick Cline and his girlfriend Joan at a spot near the Arch Creek Bridge, near NE 134th Street and Biscayne Boulevard.</mark>
 
@@ -892,7 +892,7 @@ The Murder para 1
 </james>
 <from>
 
-The Murder para 2
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 2
 
 <mark>Today, a Flanigan's Bar & Grill marks the spot, but in the mid-1950s this area was a "lovers lane," featuring a small, secluded beach area under the bridge where one could park a car right along the Little Arch Creek waterway</mark> and engage in sexual activity.
 
@@ -909,7 +909,7 @@ The Murder para 2
 </james>
 <from>
 
-The Murder para 3
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 3
 
 <mark>Simpson never made it to his date. It is believed that on the way there he was propositioned by a young man named Charles Lawrence on the side of the road. Unknown to Simpson, Lawrence was notorious for "rolling" gay men (as local media called it then) - luring them to a secluded spot where his accomplice, Lewis Killen, would jump out and help rob the victim.</mark>
 
@@ -928,7 +928,7 @@ The Murder para 3
 </james>
 <from>
 
-The Murder para 4-5
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 4-5
 
 <mark>Usually, Killen would wait until Lawrence began engaging in sexual activity with the victim before attempting the robbery. Killen and Lawrence would not kill their victim, but in Simpson's case, for reasons still not clear, something spooked Lawrence when Simpson didn't cooperate like other victims had done.</mark>
 
@@ -947,7 +947,7 @@ The Murder para 4-5
 </james>
 <from>
 
-The Murder para 6
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 6
 
 <mark>According to the North Miami Police report, Lawrence and Killen made off with $25 and claimed they thought Simpson would live. They said they were surprised when they found out the next day that he had died.</mark>
 
@@ -964,7 +964,7 @@ The Murder para 6
 </james>
 <from>
 
-The Reporting para 1-3
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Reporting para 1-3
 
 <mark>Miami Daily News reporter Milt Sosin was on the story from the moment it broke. He wrote his first front page article aptly titled "EAL [Eastern Airlines] Man is Slain on Lovers Lane"</mark> in the afternoon edition of the paper Aug. 3, 1954. 
 
@@ -985,7 +985,7 @@ The Reporting para 1-3
 </james>
 <from>
 
-The Murder para 4
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 4
 
 <mark>The story immediately gained traction, but rather than trying to report on the heinous crime itself, Sosin instead focused on Simpson's sexuality. At the time, homosexuality was rarely mentioned in mainstream media.</mark> <mark>Following the police investigation, Sosin learned that police felt they were busting a colony of</mark> maybe 30 gay men <mark num=4>in the area,</mark> but he knew he had a major story when he learned that police actually discovered the area was actually home to about <mark num=3>500 gay men</mark> - much larger than they could have imagined.
 
@@ -1002,7 +1002,7 @@ The Murder para 4
 </james>
 <from>
 
-The Murder para 5-6
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Murder para 5-6
 
 <mark>The follow-up front-page story focused on Simpson's sexuality, rather than the crime, in a story on Aug. 9, 1954 with the headline  "Pervert Colony Uncovered In Simpson Slaying Probe."</mark>
 
@@ -1021,7 +1021,7 @@ The Murder para 5-6
 </james>
 <from>
 
-The Trial para 1
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Trial para 1
 
 <mark>There was no doubt about who committed the crime - Lawrence and Killen both admitted to the murder</mark> - but, even so, they played the gay-panic defense, <mark>testifying in November 1954 that, while they did like to "roll" gay men, Simpson took it too far. They claimed Simpson made them feel unsafe and made unwanted sexual advances towards Lawrence.</mark>
 
@@ -1038,7 +1038,7 @@ The Trial para 1
 </james>
 <from>
 
-The Trial para 2-3
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Trial para 2-3
 
 <mark>The jury appeared to be influenced by the fact that local newspapers alarmed them and the rest of the public about the activity that was going on.</mark>
 
@@ -1057,14 +1057,14 @@ The Trial para 2-3
 </james>
 <from>
 
-The Trial para 5
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Trial para 5
 
 <mark>Lawrence and Killen were eventually convicted of a lesser charge of manslaughter</mark> and <mark>sentenced to 20 years in prison.</mark> Both men are alive today and in their 80s, living in Palm Beach County.
 
 </from>
 <comment>
 
-Why the hell would they be furious? It's the jury's decision to decide guilt or innocence, not the judge's.
+Why the hell would the jury be furious? They're the ones who convicted him.
 
 </comment>
 </compare>
@@ -1079,7 +1079,7 @@ Why the hell would they be furious? It's the jury's decision to decide guilt or 
 </james>
 <from>
 
-The Aftermath para 1
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Aftermath para 1
 
 <mark>Simpson's murder was the catalyst of what quickly seemed liked endless homophobia in South Florida. Various Christian activist groups stepped up and called for Dade County politicians to rid the area of homosexuality by raiding known gay bars, clubs and hangout spots.</mark>
 
@@ -1096,7 +1096,7 @@ The Aftermath para 1
 </james>
 <from>
 
-The Aftermath Para 2
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Aftermath Para 2
 
 <mark>WTVJ ran a documentary warning people of the dangers of gay people in the mid-1960s. All three major area newspapers (The Miami Herald, Palm Beach Post and Ft. Lauderdale News) would run article after article throughout the '60s informing readers to be aware of their neighborhood surroundings and who their neighbors might be, in the event that one was gay.</mark>
 
@@ -1113,7 +1113,7 @@ The Aftermath Para 2
 </james>
 <from>
 
-The Aftermath para 6-7
+https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson The Aftermath para 6-7
 
 <mark>In response to this panic, the state of Florida set up the Florida Legislative Investigation Committee (commonly known as the Johns Committee). This committee was responsible for distributing literature throughout the state warning citizens of gay activity. The committee also targeted, interrogated and stripped teachers of their credentials whom members suspected of being gay.</mark>
 
@@ -1144,14 +1144,14 @@ https://www.youtube.com/watch?v=0ZZCjlnvg0M (0:00-0:18)
 <compare>
 <james {% include timecode %}>
 
-The driver panicked, rushed Jackson to the nearest emergency room. <mark>Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.</mark>
+The driver, panicked, rushed Jackson to the nearest emergency room. <mark>Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.</mark>
 
 </james>
 <from>
 
-0:45-1:02
+https://www.youtube.com/watch?v=0ZZCjlnvg0M (0:45-1:02)
 
-<mark>At the hospital, Jackson was able to give a few more details. He said he left a boy scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.</mark>
+<mark>At the hospital, Jackson was able to give a few more details. He said he left a Boy Scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.</mark>
 
 </from>
 </compare>
@@ -1177,234 +1177,245 @@ https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Par
 </from>
 </compare>
 
-{% assign timecode = "00:27:23" %}
+{% assign timecode = "00:27:26" %}
 
 <compare>
 <james {% include timecode %}>
 
-After finding Jackson's wallet on him, Presley was arrested. Now in police custody. Parisi said that he had met Jackson a few days before when he had gone into Chet's and Motors to look at used sports cars. Parisi told police that he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later, while walking downtown, Jackson drove up alongside him and offered Parisi a ride, which he said he accepted.
+<mark>After finding Jackson's wallet on him, Parisie was arrested.</mark> Now <mark>in police custody</mark> <mark>Parisie said that he had met Jackson a few days before when he had gone into Chetson Motors to look at used sports cars. Parisie told police that he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later, while walking downtown, Jackson drove up alongside him and offered Parisie a ride which he said he accepted.</mark>
 
 </james>
 <from>
 
-p.1-2
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.1-2
 
-Mr. Parisie was placed under arrest and searched at the scene, the officer found Jackson's wallet, gas credit card and cigarette lighter in Parisie's pocket.
+<mark>Mr. Parisie was placed under arrest and searched at the scene, the officer found Jackson's wallet,</mark> gas credit card and cigarette lighter in Parisie's pocket.
 
 [...]
 
-At the scene and in police custody Mr. Parisie readily admitted that he had shot Jackson, though he said many of the details were fuzzy.
+At the scene and <mark>in police custody</mark> Mr. Parisie readily admitted that he had shot Jackson, though he said many of the details were fuzzy.
 
-In his account, Parisie said that he had met Jackson a few days before when he had gone into Chetson Motors to look at used sports cars. Parisie told police he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later while walking downtown Jackson drove up alongside him and offered Parisie a ride which he says he accepted.
+In his account, <mark>Parisie said that he had met Jackson a few days before when he had gone into Chetson Motors to look at used sports cars. Parisie told police he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later while walking downtown Jackson drove up alongside him and offered Parisie a ride which he says he accepted.</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:27:50" %}
+{% assign timecode = "00:27:52" %}
 
 <compare>
 <james {% include timecode %}>
 
-Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark, secluded street instead. According to Parisi, Jackson stopped the car, pushed the driver's seat back and placing his hand on Theresa's crotch. Said John, I'd like to give you a blowjob, Parisi says. He declined the offer. Smiling, Jackson told him, If you don't let me do it, you'll have to walk back to town.
+<mark>Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. According to Parisie, Jackson stopped the car, pushed the driver's seat back, and placing his hand on Parisie's crotch, said <q>"John, I'd like to give You a blow job."</q> Parisie says he declined the offer. Smiling Jackson told him, <q>"If you don't let me Do it you'll have to walk back to town."</q></mark>
 
 </james>
 <from>
 
-p.2
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.2
 
-Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. Parisie said Jackson stopped the car, pushed the driver's seat back placing his hand on Parisie's crotch saying, "John I'd like to give you a blowjob" Parisie says he declined the offer. Smiling Jackson told him, "If you don't let me "do it" you'll have to walk back to town."
+<mark>Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. Parisie said Jackson stopped the car, pushed the driver's seat back placing his hand on Parisie's crotch saying, "John I'd like to give you a blowjob" Parisie says he declined the offer. Smiling Jackson told him, "If you don't let me "do it" you'll have to walk back to town."</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:28:16" %}
+{% assign timecode = "00:28:18" %}
 
 <compare>
 <james {% include timecode %}>
 
-Perris He told police that the threat of being stranded in the middle of nowhere made him blow up and lose it. Parisi said he remembered some sort of struggle and gunshots, but all the other details were fuzzy. That morning, at 10:20 a.m.. Robert Jackson died from his injuries. He was 36 years old. The murder of Robert Jackson and the trial that followed helped to define how the Gaye panicked defense would be used in courts across America.
+<mark>Parisie told police that the threat of being stranded in the middle of nowhere made him "blow up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.</mark> <mark>That morning, at 10:20 a.m.,</mark> <mark>Robert Jackson died from his injuries. He was 36 years old.</mark> <mark>The murder of Robert Jackson and the trial that followed helped to define how the gay panic defense would be used in courts across America.</mark>
 
 </james>
 <from>
 
-p.2
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf p.2
 
-Parisie told police that the threat of being stranded in the middle of nowhere made him, "blow-up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.
+<mark>Parisie told police that the threat of being stranded in the middle of nowhere made him, "blow-up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.</mark>
 
-At 10:20 am April 13th, 1968 after several hours of surgery Robert Jackson died from his injuries. He was 36 years old, married and the father of three children, the eldest of whom was 10 years old.
+<mark>At 10:20 am April 13th, 1968</mark> after several hours of surgery <mark>Robert Jackson died from his injuries. He was 36 years old,</mark> married and the father of three children, the eldest of whom was 10 years old.
 
-The murder of Robert Jackson and the trial that followed helped to define how the homosexual panic defense would be used in courts across the United States.
+<mark>The murder of Robert Jackson and the trial that followed helped to define how the homosexual panic defense would be used in courts across the United States.</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:28:42" %}
+{% assign timecode = "00:28:44" %}
 
 <compare>
 <james {% include timecode %}>
 
-It became tabloid fodder and even drew the attention of conservatives in the federal government who had been zeroing in on the LGBT community for decades. In the 1950s, during Joseph McCarthy's Red Scare, more gay men were fired from government jobs and suspected communists. The so-called lavender scare among lawmakers, lawyers and judges easily transformed into gay panic. 
+It became tabloid fodder and even drew the attention of conservatives in the federal government, who had been zeroing in on the LGBT community for decades. In the 1950s, during Joseph McCarthy's Red Scare, more gay men were fired from government jobs than suspected communists. The so-called Lavender Scare among lawmakers, lawyers and judges easily transformed into gay panic. 
 
 </james>
 <from></from>
 </compare>
 
-{% assign timecode = "00:29:15" %}
+{% assign timecode = "00:29:06" %}
 
 <compare>
 <james {% include timecode %}>
 
-What makes the John Parisi murder trial unique in the life of the queer panic defense is how his lawyers stuck to Dr. Edward Kemp's 1920 theory of homosexual panic as it applied to police's defense. First, they wanted to demonstrate that he was suffering from a mental illness. In this case, paranoid schizophrenia, which helped trigger a gay panic episode. The second part of the defense strategy was to show Robert Jackson's prior homosexual activity. Perez's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader and successful businessman by day who led a secret life of sexual deviancy at night.
+<mark>What makes the John Parisie murder trial unique in the life of the queer panic defense is how his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie's defense.</mark> <mark>First, they wanted to demonstrate that he was suffering from a mental illness, in this case, paranoid schizophrenia which helped trigger a gay panic episode.</mark> <mark>The second part of the defense strategy was to show Robert Jackson's prior homosexual activity.</mark> <mark>Parisie's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader and successful businessman by day who led a secret life of sexual deviancy at night.</mark>
 
 </james>
 <from>
 
 https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.2
 
-What makes the John Parisie murder trial unique in the life of the homosexual panic defense is how slavishly his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie’s defense.
+<mark>What makes the John Parisie murder trial unique in the life of the homosexual panic defense is how slavishly his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie’s defense.</mark>
 
-First, they wanted to demonstrate that Mr. Parisie was suffering from a mental illness, in this case, paranoid schizophrenia which helped trigger a homosexual panic.
+<mark>First, they wanted to demonstrate that Mr. Parisie was suffering from a mental illness, in this case, paranoid schizophrenia which helped trigger a homosexual panic.</mark>
 
-The second part of the defense strategy was to show Robert Jackson's prior homosexual activity.
+<mark>The second part of the defense strategy was to show Robert Jackson's prior homosexual activity.</mark>
 
-Parisie's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader, and successful businessman by day who lead a secret life of sexual deviancy at night.
-
-</from>
-</compare>
-
-{% assign timecode = "00:29:49" %}
-
-<compare>
-<james {% include timecode %}>
-
-That was the plan. But the entirety of this defense would never be heard by a jury. Two months prior to the trial, Robert Jackson's brother, Bert Jackson, a lawyer representing the victim, and Jackson's widow, requested and were granted a private conversation with the trial judge. The family's attorney read this prepared statement. 
-
-</james>
-<from>
-
-p.2
-
-That was the plan but the entirety of this defense would never be heard by a jury.
-
-Two months before the trial, Robert Jackson's brother Bert Jackson, a private lawyer representing the family and Jackson's widow Mrs. Jackson requested and were granted a private conversation with the trial judge. (You know, I wasn't been able to find Mrs. Jackson's name in any printed account of the trial. Another artifact from the 1950s I guess.) The family’s attorney read this prepared statement to the trial judge.
+<mark>Parisie's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader, and successful businessman by day who lead a secret life of sexual deviancy at night.</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:30:13" %}
+{% assign timecode = "00:29:51" %}
 
 <compare>
 <james {% include timecode %}>
 
-I represent the widow and three young children of the deceased and nature. I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the deceased. They are untrue. The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities. The judge took the request under advisement and issued a ruling that said, although the court recognizes that evidence of homosexuality can be very important and would be admissible, that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.
+<mark>That was the plan, but the entirety of this defense would never be heard by a jury.</mark> <mark>Two months prior to the trial, Robert Jackson's brother, Bert Jackson, a lawyer representing the victim, and Jackson's widow, requested and were granted a private conversation with the trial judge.</mark> <mark>The family's attorney read this prepared statement.</mark>
 
 </james>
 <from>
 
-p.2-3
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.2
 
-“I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”
+<mark>That was the plan but the entirety of this defense would never be heard by a jury.</mark>
 
-The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities.
-
-The judge took the request under advisement and issued a ruling saying, although the court recognizes that evidence of "homosexuality can be very important" and "would be admissible," that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.
+<mark>Two months before the trial, Robert Jackson's brother Bert Jackson, a private lawyer representing the family and Jackson's widow Mrs. Jackson requested and were granted a private conversation with the trial judge.</mark> (You know, I wasn't been able to find Mrs. Jackson's name in any printed account of the trial. Another artifact from the 1950s I guess.) <mark>The family’s attorney read this prepared statement to the trial judge.</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:30:46" %}
+{% assign timecode = "00:30:11" %}
 
 <compare>
 <james {% include timecode %}>
 
-This was a devastating blow to Perez's defense. How does one persuade a jury that you killed a man in a gay panic? If you can't prove that the man you killed was gay. But things would get worse for the defense during the first day of the jury selection. The court asked members of the potential jury pool the following question.
+<mark><q>"I represent the widow and three young children of the deceased. And nature - I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the deceased. They are untrue."</q></mark> 
+
+<mark>The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities.</mark> <mark>The judge took the request under advisement and issued a ruling that said,</mark>
+
+<mark><q>"Although the court recognizes that evidence of homosexuality can be very important and would be admissible, that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial."</q></mark>
 
 </james>
 <from>
 
-p.3
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.2-3
 
-This was a devasting blow to Parise’s defense. How do you persuade a jury that you reacted in a homosexual panic if you can’t offer proof that the man you killed engaged in previous homosexual activity?
+<mark>“I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”</mark>
 
-But things would get worse for the defense.
+<mark>The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities.</mark>
 
-During the first day of voir dire, the trial court asked members of the potential jury pool the following question:
+<mark>The judge took the request under advisement and issued a ruling saying,</mark> <mark>although the court recognizes that evidence of "homosexuality can be very important" and "would be admissible," that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial.</mark>
+
+</from>
+<comment>
+
+James displays this quote as if it came from the judge, when it is a quote from Reggie's podcast wtih a few phrases directly quoted from the judge. 
+
+</comment>
+</compare>
+
+{% assign timecode = "00:30:48" %}
+
+<compare>
+<james {% include timecode %}>
+
+<mark>This was a devastating blow to Parisie's defense. How does one persuade a jury that you killed a man in a gay panic... if you can't prove that the man you killed was gay?</mark> <mark>But things would get worse for the defense.</mark> <mark>During the first day of the jury selection. The court asked members of the potential jury pool the following question:</mark>
+
+</james>
+<from>
+
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.3
+
+<mark>This was a devasting blow to Parise’s defense. How do you persuade a jury that you reacted in a homosexual panic if you can’t offer proof that the man you killed engaged in previous homosexual activity?</mark>
+
+<mark>But things would get worse for the defense.</mark>
+
+<mark>During the first day of voir dire, the trial court asked members of the potential jury pool the following question:</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:31:05" %}
+{% assign timecode = "00:31:07" %}
 
 <compare>
 <james {% include timecode %}>
 
-There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person? According to court records, one juror said, You can't expect me to say that this isn't going to make any difference to me if this man was a homosexual. The newspaper account said no jurors were choice one the first day of the trial.
+<mark><q>"There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?"</q> According to court records, one juror said, <q>"You can't expect me to say that this isn't going to make any difference to me if this man was a homosexual."</q> The newspaper account said no jurors were choice one the first day of the trial.</mark>
 
 </james>
 <from>
 
-p.3
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.3
 
-“There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, “No jurors were choice one the first day of the trial.
+<mark>“There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, “No jurors were choice one the first day of the trial."</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:31:31" %}
+{% assign timecode = "00:31:40" %}
 
 <compare>
 <james {% include timecode %}>
 
-Instead of looking for new jurors, they removed the question from the screening process and moved forward, willfully allowing people who hated homosexuals onto the jury. Ladies and gentlemen of the jury, our client, John Parisi. The 19 year old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson. When John Parisi pulled the trigger of the gun that killed Robert Jackson. He did so while repulsing a homosexual attack.
+Instead of looking for new jurors, <mark>they removed the question from the screening process and moved forward,</mark> <mark>willfully allowing people who hated homosexuals onto the jury.</mark> 
+
+<mark><q>"Ladies and gentlemen of the Jury, our client, John Parisie, the 19-year-old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson. When John Parisi pulled the trigger of the gun that killed Robert Jackson he did so while repulsing a homosexual attack."</q></mark>
 
 </james>
 <from>
 
-p.3
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.3
 
-Which was just as well because on the second day of jury selection the trial court reversed itself and announced that it would no longer ask the jury about their ability to be objective in a case involving homosexuality.
+Which was just as well because on the second day of jury selection <mark>the trial court reversed itself and announced that it would no longer ask the jury about their ability to be objective in a case involving homosexuality.</mark>
 
-Meaning none of the twelve jurors chosen were asked about their views on homosexuality and the trial got underway. The defense opened with this statement:
+<mark>Meaning none of the twelve jurors chosen were asked about their views on homosexuality</mark> and the trial got underway. The defense opened with this statement:
 
-"Ladies and gentlemen of the Jury, our client, John Parisie, the 19-year-old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson when John Parisie pulled the trigger of the gun that killed Robert Jackson he did so while repulsing a homosexual attack.
+<mark>"Ladies and gentlemen of the Jury, our client, John Parisie, the 19-year-old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson when John Parisie pulled the trigger of the gun that killed Robert Jackson he did so while repulsing a homosexual attack."</mark>
 
 </from>
 </compare>
 
-{% assign timecode = "00:31:59" %}
+{% assign timecode = "00:32:09" %}
 
 <compare>
 <james {% include timecode %}>
 
-A court appointed clinical psychologist who examined Parisi found him to be highly delusional, paranoid schizophrenic who is bisexual, loner with a basic distrust of people who had suppressed his emotions, causing periodical blowups. He found Parisi to be a highly latent homosexual who would avoid homosexual situations like the plague with strong feelings of inferiority, and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, the individual comes apart and becomes insane for a period of time.
+<mark>A court-appointed clinical psychologist who examined Parisie found him to be highly delusional, paranoid schizophrenic who is bisexual, loner with a basic distrust of people who had suppressed his emotions, causing periodical blowups. He found Parisi to be a highly latent homosexual() who would avoid homosexual situations like the plague) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, <q>"the individual comes apart and becomes insane for a period of time."</q></mark>
 
 </james>
 <from>
 
-p.3
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.3
 
-A court-appointed clinical psychologist who examined Parisie found him to be a highly delusional paranoid schizophrenic who was a bisexual loner with a basic distrust of people and who suppressed his emotions causing periodical blow-ups. He found Parisie to be a highly latent homosexual (who would avoid homosexual situations like the plaque) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, "the individual comes apart and becomes insane for a period of time." (That description is right out of Dr. Kempf Homosexual Panic theory almost to the letter.)
+<mark>A court-appointed clinical psychologist who examined Parisie found him to be a highly delusional paranoid schizophrenic who was a bisexual loner with a basic distrust of people and who suppressed his emotions causing periodical blow-ups. He found Parisie to be a highly latent homosexual (who would avoid homosexual situations like the plaque) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, "the individual comes apart and becomes insane for a period of time."</mark> (That description is right out of Dr. Kempf Homosexual Panic theory almost to the letter.)
 
 </from>
 </compare>
 
-{% assign timecode = "00:32:39" %}
+{% assign timecode = "00:32:48" %}
 
 <compare>
 <james {% include timecode %}>
 
-Parisi was only examined once This description of him was not an actual diagnosis. It was a word for word reproduction of Dr. Kemp's theory of homosexual panic. When prosecutors cross-examined the psychologist, they managed to have him admit that gay panic was not a mental illness, nor was it part of psychiatric nomenclature.
+Parisie was only examined once. This description of him was not an actual diagnosis. <mark>It was a word for word reproduction of Dr. Kempf's theory of homosexual panic.</mark> <mark>When prosecutors cross-examined the psychologist, they managed to have him admit that gay panic was not a mental illness, nor was it part of psychiatric nomenclature.</mark>
 
 </james>
 <from>
 
-p.4 
+https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.4 
 
 Homosexual panic, the psychiatrist stated, is a mental defect and symptomatic of a mental disease.
 
-This last bit of summation is directly lifted from Dr. Kempf’s theory of homosexual panic.
+<mark>This last bit of summation is directly lifted from Dr. Kempf’s theory of homosexual panic.</mark>
 
-On redirect the prosecution got the homosexual panic psychiatrist to admit that homosexual panic was not a mental illness nor was it part of the psychiatric nomenclature.
+<mark>On redirect the prosecution got the homosexual panic psychiatrist to admit that homosexual panic was not a mental illness nor was it part of the psychiatric nomenclature.</mark>
 
 </from>
 </compare>
@@ -1414,22 +1425,24 @@ On redirect the prosecution got the homosexual panic psychiatrist to admit that 
 <compare>
 <james {% include timecode %}>
 
-They were using junk science to justify a murder. The jury audibly booed the prosecutor. With no intervention from the judge. Theresa hadn't even testified yet. But the trial was essentially over.
+They were using junk science to justify a murder. <mark fc=false>The jury audibly booed the prosecutor. With no intervention from the judge.</mark> Parisie hadn't even testified yet, but the trial was essentially over.
 
 </james>
 <comment>
 
 Todd 4464s
 
-okay I have the source that he's pulling from which I I guess is like a transcript of some no-name podcast or something I'm not sure but but there is no mention in there of the jury booing none at all and also that's just ridiculous on its face juries don't boo that'd be an instant mistrial please find me any instance of this happening anywhere ever also the jury cited with the prosecutor why would they have booed him for proving that gay Panic wasn't a real thing I don't understand what this detail is even supposed to mean
+Okay I have the source that he's pulling from which I I guess is like a transcript of some no-name podcast or something I'm not sure but but there is no mention in there of the jury booing none at all and also that's just ridiculous on its face juries don't boo that'd be an instant mistrial please find me any instance of this happening anywhere ever also the jury cited with the prosecutor why would they have booed him for proving that gay Panic wasn't a real thing I don't understand what this detail is even supposed to mean
 
 </comment>
 </compare>
 
+{% assign timecode = "00:33:22" %}
+
 <compare>
 <james {% include timecode %}>
 
-Parisi was convicted of manslaughter, but upon appeal was set free. The appeals court stated that "by not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak. The original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversity, a full acquittal would have been likely." And so John, Steven Parisi was let back into the world, a world Robert Jackson no longer lived in.
+<mark fc=false>Parisie was convicted of manslaughter, but upon appeal was set free. The appeals court stated that <q>"By not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak, the original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversities, a full acquittal would have been likely."</q> And so John Stephan Parisie was let back into the world, a world Robert Jackson no longer lived in.</mark>
 
 </james>
 <from></from>
@@ -1443,6 +1456,7 @@ but also just on basic logic I don't buy it the gay Panic defense is used to get
 
 finally I did consult with some lawyers about these court documents thank you Devon legal eagle and Jewish lawyer lib on Twitter and based on what they told me I think the entire conclusion of this segment is wrong that's not sum's fault the Source he's using misinterpreted the case but what actually happened was perzi won the right to a retrial in 1982 not his freedom just a retrial however the state appealed that ruling and a year later the court changed its mind based on like minor procedural stuff like perzi missed a filing deadline somewhere along the line so the first appeal was overturned and the original guilty verdict stood perizzy did not get his retrial and again that's not sum's fault his Source was wrong but the embellishments he added those do belong to him and they make the initial error much worse the prosecutor had argued that the victim probably wasn't even gay and one appeals judge thought if you're going to call this guy a liar he has the right to prove you wrong if you think they were maybe some biased undertones to that decision uh you know what go ahead and make that case but the decision was about the right to a fair trial not whether it's okay to murder perverts he's once again fabricating evidence to support someone else's conclusion which in this case wasn't even valid 
 
+</comment>
 <comment>
 
 Also, Reggie (and then James) claims that Parisie was convicted for manslaughter, but none of the records of the case I could find mentioned manslaughter, only murder. It wouldn't make sense anyway; manslaughter wouldn't get a 40 to 70 year sentence, the sentence length that Reggie claims. 
@@ -1450,34 +1464,12 @@ Also, Reggie (and then James) claims that Parisie was convicted for manslaughter
 </comment>
 </compare>
 
-{% assign timecode = "00:33:35" %}
+{% assign timecode = "00:33:53" %}
 
 <compare>
 <james {% include timecode %}>
 
-Over the next 20 years, the gay panic defense was used regularly in American courtrooms, but not just in the murder of gay men, because defendants often received reduced sentences when claiming gay panic.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:34:02" %}
-
-<compare>
-<james {% include timecode %}>
-
-Many murderers began claiming gay panic even when the victim was, <span stat:id="baa">by all accounts</span>, straight.<sup cn></sup> It was an easy way to have a sentence reduced<sup cn></sup> from murder to manslaughter, death penalties to prison time, a defense the prosecutors loathed that gay rights organizations fought to end the use of. But that was roundly ignored by the general population. Most people had never heard of gay panic or the gay panic defense.
-
-</james>
-<from></from>
-</compare>
-
-{% assign timecode = "00:34:28" %}
-
-<compare>
-<james {% include timecode %}>
-
-It was just a relatively obscure temporary insanity plea that most people would never need to know existed. But gay panic would eventually get national attention. 
+Over the next twenty years, the gay panic defense was used regularly<sup cn></sup> in American courtrooms, but not just in the murder of gay men. Because defendants often received reduced sentences when claiming gay panic, *many* murderers began claiming gay panic even when the victim was, <span stat:id="baa">by all accounts</span>, straight.<sup cn></sup> It was an easy way to have a sentence reduced<sup cn></sup> from murder to manslaughter, death penalties to prison time. A defense that prosecutors *loathed*, that gay rights organizations *fought* to end the use of, but that was roundly ignored by the general population. Most people had never *heard* of gay panic or the gay panic defense. It was just a... *relatively* obscure temporary insanity plea that most people would never need to know existed. But gay panic would eventually get national attention. 
 
 </james>
 <from></from>
@@ -1488,21 +1480,21 @@ As Cynthia Lee states, the gay panic defense generally did not work as a tempora
 </comment>
 </compare>
 
-{% assign timecode = "00:34:58" %}
+{% assign timecode = "00:34:44" %}
 
 <compare>
 <james {% include timecode %}>
 
-Scott Amador. Scott Amador was a military veteran who appeared on the Jenny Jones show in 1995 at the age of 32. The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003. Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result. On air, have spouses reveal affairs and break up with their partners. Bring in unruly teenagers who needed discipline and reveal secret same sex crushes. 
+Scott Amedure. Scott Amedure was a military veteran who appeared on *The Jenny Jones Show* in 1995 at the age of 32. <mark>The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003. Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed discipline, and reveal *secret* same sex crushes.</mark> 
 
-Jenny Jones, though, wasn't quite as popular as her contemporaries. The show had started out as a competitor to Oprah, but it switched gears to trash TV eventually 
+Jenny Jones, though, wasn't quite as popular as her contemporaries. The show had started out as a competitor to *Oprah*, but it switched gears to trash TV eventually. 
 
 </james>
 <from>
 
 https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 2
 
-*The Jenny Jones Show* was a daytime tabloid talk show that ran for 12 years, between 1991 and 2003. Low ratings in early seasons led the show to pivot to voyeuristic, exploitative content, inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, [encouraging them to confront one another](https://www.youtube.com/watch?v=DZ6YzM1QZHs) in front of her live studio audience. She’d surprise a couple with paternity test results on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed disciplining, and reveal secret same-sex crushes. 
+<mark>*The Jenny Jones Show* was a daytime tabloid talk show that ran for 12 years, between 1991 and 2003. Low ratings in early seasons led the show to pivot to voyeuristic, exploitative content, inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, [encouraging them to confront one another](https://www.youtube.com/watch?v=DZ6YzM1QZHs) in front of her live studio audience. She’d surprise a couple with paternity test results on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed disciplining, and reveal secret same-sex crushes.</mark> 
 
 </from>
 </compare>
@@ -1510,14 +1502,30 @@ https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedur
 <compare>
 <james {% include timecode %}>
 
-on one episode that would never actually be aired. The show's premise was to shock straight men by having their gay friend admit to having a crush on them. It was on this episode that the world would have met Scott Amador. The episode was taped on March 6th, 1995. On that day, Scott admitted to having a crush on his friend Jonathan Schmitz. Schmitz knew the premise of the episode was people admitting their secret crushes. But since it was between his friend Scott and a female friend, Donna, he assumed that it would be Donna. Especially after Scott swore it wasn't him the night before. Schmitz later stated that he participated in the show due to curiosity, and he claimed later that the producers implied before the show that his admirer was, in fact, the woman. Although the producers of the show claimed that they did tell Schmitz that the admirer could be anyone. The unaired episode begins with Jones asking Scott Amador to tell the audience about his fantasies involving the 24 year old Schmitz, who was backstage at the time, unable to hear. After Amador was pressed to reveal a fantasy that involved Schmitz Hammock, strawberries and whipped cream, Jones brought out Schmitz, who awkwardly embraced Amador before sitting down. After Jones revealed it was Amador who had the secret crush and played back. The audio of Amador was relatively tame fantasies. Schmitz professes his complete heterosexuality, smiling forcibly and laughing uncomfortably to raucous cheers from the audience. 
+On one episode that would never actually be aired, the show's premise was to *shock* straight men by having their gay friend admit to having a crush on them. It was on this episode that the world would have met Scott Amedure. <mark>The episode was taped on March 6, 1995. On that day, Scott admitted to having a crush on his friend Jonathan Schmitz.</mark> Schmitz knew the premise of the episode was people admitting their secret crushes, but since it was between his friend Scott and a *female* friend, Donna, he assumed that it would be Donna. Especially after Scott *swore* it wasn't him the night before.<sup cn></sup> <mark>Schmitz later stated that he participated in the show due to curiosity, and he claimed later that the producers implied before the show that his admirer was, in fact, the woman. Although the producers of the show claimed that they did tell Schmitz that the admirer could be anyone.</mark> 
+
+</james>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Murder_of_Scott_Amedure&oldid=1004903593#Appearance_on_The_Jenny_Jones_Show para 1
+
+<mark>On March 6, 1995, Amedure videotaped an episode of The Jenny Jones Show, in which he admitted to being a secret admirer of Jonathan Schmitz,</mark> who lived near him in Lake Orion, Michigan. Until the taping, Schmitz did not know who would be revealed as his secret admirer. <mark>Schmitz stated that he participated in the show due to curiosity, and he claimed later that the producers implied that his admirer was a woman,<sup>[1][2]</sup> although the producers of the show claim that they did tell Schmitz that the admirer could be male or female.<sup>[3]</sup></mark>
+
+</mark>
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the twenty four year old Schmitz, who was backstage at the time, unable to hear.</mark> <mark>After Amedure was pressed to reveal a fantasy that involved Schmitz, a hammock, strawberries and whipped cream, Jones brought out Schmitz, who awkwardly embraced Amedure before sitting down. After Jones revealed it was Amedure who had the secret crush and played back the audio of Amedure's</mark> relatively tame <mark>fantasies, Schmitz professes his *complete* heterosexuality, smiling forcibly and laughing uncomfortably</mark> to *raucous* cheers from the audience. 
 
 </james>
 <from>
 
 https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 3
 
-The first episode of *Trial By Media* examines [such a segment that](https://www.youtube.com/watch?v=3EvUzzbzFNc) was shot for *The Jenny Jones Show* on March 6, 1995, but never aired because of the devastating aftermath of the events filmed for the program. The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the 24-year-old Schmitz, who was backstage at the time, unable to hear, and clueless as to who might be waiting to reveal themself to him. After Amedure is pressed to reveal a fantasy that involves Schmitz, a hammock, strawberries, and whipped cream, Jones brings out Schmitz, who awkwardly embraces Amedure before he sits down. After Jones reveals it to be Amedure who has the secret crush and plays back the audio of Amedure’s explicit fantasies, Schmitz professes his “complete heterosexuality,” smiling forcibly and laughing uncomfortably. The clip never aired on television. 
+The first episode of *Trial By Media* examines [such a segment that](https://www.youtube.com/watch?v=3EvUzzbzFNc) was shot for *The Jenny Jones Show* on March 6, 1995, but never aired because of the devastating aftermath of the events filmed for the program. <mark>The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the 24-year-old Schmitz, who was backstage at the time, unable to hear,</mark> and clueless as to who might be waiting to reveal themself to him. <mark>After Amedure is pressed to reveal a fantasy that involves Schmitz, a hammock, strawberries, and whipped cream, Jones brings out Schmitz, who awkwardly embraces Amedure before he sits down. After Jones reveals it to be Amedure who has the secret crush and plays back the audio of Amedure’s</mark> explicit <mark>fantasies, Schmitz professes his “complete heterosexuality,” smiling forcibly and laughing uncomfortably</mark>. The clip never aired on television. 
 
 </from>
 </compare>
@@ -1527,10 +1535,21 @@ The first episode of *Trial By Media* examines [such a segment that](https://www
 <compare>
 <james {% include timecode %}>
 
-It was later stated by Donna that Amador and Schmitz went out drinking together that night after the taping and an alleged sexual encounter actually occurred. Though this has never actually been confirmed, after the trio flew home, Jonathan called his father to tell him what happened. Jonathan found it quite funny, but his father reportedly was not so easy going. In a later trial, his father admitted to telling his son that if he didn't do something about this, that people would think he was gay. Specifically, he had to kill Scott. Otherwise people would think he had been okay with the gay advances. Though he admitted under oath to coercing his son into committing murder. Jonathan's father was never tried. 
+<mark>It was later stated by Donna that Amador and Schmitz went out drinking together that night after the taping and an alleged sexual encounter actually occurred,</mark> though this has never actually been confirmed. After the trio flew home, Jonathan called his father to tell him what happened. Jonathan found it quite funny, but his father reportedly was not so easygoing. In a later trial, his father admitted to telling his son that if he didn't do something about this, that people would think he was gay. Specifically, he had to kill Scott. Otherwise people would think he had been okay with the gay advances. Though he admitted under oath to coercing his son into committing murder, Jonathan's father was never tried. 
 
 </james>
-<from></from>
+<from>
+
+https://en.wikipedia.org/w/index.php?title=Murder_of_Scott_Amedure&oldid=1004903593#Aftermath_and_murder para 1
+
+According to footage of the murder trial, <mark>it was stated later by a friend of Amedure's that Amedure and Schmitz went out drinking together the night after the taping and an alleged sexual encounter occurred.<sup>[3]</sup></mark> According to the testimony at the murder trial, three days after the taping, Amedure left a "suggestive" note at Schmitz's house.<sup>[5]</sup> After finding the note, Schmitz withdrew money from a bank, purchased a shotgun, and then went to Amedure's mobile home. He questioned Amedure about the note. Schmitz then returned to his car, got his gun, and returned to Amedure's trailer. He then shot Amedure twice in the chest, killing him. After killing Amedure, Schmitz left the residence, telephoned 9-1-1, and confessed to the killing.<sup>[6][7]</sup>
+
+</from>
+<comment>
+
+James is exagerrating *far* beyond what actually happened in the civil trial. Schmitz's father was homophobic and he was angry about the Jenny Jones incident. He *speculated* that Schmitz may have killed Amedure because he didn't want people thinking he was gay. But there is no indication that he *coerced* Schmitz into killing Amedure, why would he admit to that if he had done that? If you want to speculate, fine, but it kind of takes the responsibility away from Schmitz, doesn't it?
+
+</comment>
 </compare>
 
 {% assign timecode = "00:37:53" %}
