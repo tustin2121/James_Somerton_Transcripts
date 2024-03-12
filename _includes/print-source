@@ -1,0 +1,10 @@
+{%- comment %} Required: for = citation to print {% endcomment -%}
+{%- assign src = include.for.full | default: include.for.short | default: "[MISSING]" -%}
+{% include obfuscate-source for=src %}
+{%- assign _parts = include.for.url | split: "/" -%}
+{%- if include.for.offline or site.data.options.offline-sites contains _parts[2] %}
+	<a href="{{ include.for.archive }}{{ include.for.url }}">{{ include.for.url }} [Archive link]</a>
+{%- else %}
+	<a href="{{ include.for.url }}">{{ include.for.url }}</a>
+	{%- if include.for.archive %} [<a href="{{ include.for.archive }}{{ include.for.url }}">Archived</a>]{%- endif -%}
+{%- endif -%}

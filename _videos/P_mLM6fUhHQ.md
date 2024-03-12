@@ -124,7 +124,6 @@ cite:
       full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
       url: "https://www.midlandszone.co.uk/features/homophobic-erasure-the-cull-of-lgbtq-presence-from-history/64"
       archive: "https://web.archive.org/web/20210127145049/"
-      offline: true
       chain:
         _desc_: "Midlands Zone Magazine succumbed to the pandemic, so here's alternate methods of accessing content:"
         issuu: { full: "via Issuu.com. Retrieved Jan 27, 2024, from", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
