@@ -98,6 +98,11 @@ Follow me on Twitter: [link]
 > 1965-2022
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+The patreon version did not have this card at the start.
+
+</comment>
 </compare>
 
 <u>[Fade to video]</u>
@@ -167,7 +172,7 @@ All of this so that I can talk about *Banana Fish*.
 <compare>
 <credits class="opening" {% include timecode %}>
 
-<u>[Credits play over a generic rock guitar and drum song, with stock images of grungy places, red light districts, and cars on fire in the background.]</u>
+<u>[Credits play over a generic rock guitar and drum song, with stock footage of grungy places, red light districts, and cars on fire in the background.]</u>
 
 > James Somerton  
 Presents
@@ -199,6 +204,11 @@ NECESSITY
 <sup>of</sup> GAY CRIME
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+The Patreon version of the video had a completely different opening sequence set to "Edge of Seventeen" instead of some royalty free music. The patreon version's opening uses footage from *Banana Fish*. It also had a different list of patreon names, and the final credit before the title is "Directed & Edited by" James.
+
+</comment>
 </compare>
 
 ## Part One: The Edge of Seventeen
@@ -1040,6 +1050,13 @@ So be gay. Do crime. And have a good time while you do it.
 <u>[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]</u>
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+In the patreon version, the credits roll over ["La Pompetta C"](https://open.spotify.com/track/7wHJOCFkoUOhwBdgQXzJvU?si=568b97309491459b) by Vito Giordano & Giuseppe Vasapolli, from the motion picture soundtrack for [*Un Mondo Sotto Social*](https://www.imdb.com/title/tt21331840/).
+
+Which, frankly, is a *very* strange choice; did James just... look up some random music to use for the credits? He usually finds a random royalty free song to use. Does this imply that he just kind of... casts a random net and use anything? It makes some sense now why the non-patreon version has no music.
+
+</comment>
 </compare>
 
 
