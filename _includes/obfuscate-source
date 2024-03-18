@@ -1,5 +1,5 @@
 {%- comment %} Expect: for = source text {% endcomment -%}
-{%- if site.data.options.markup_sources -%}
+{%- if site.data.options.obfuscate_sources -%}
 	{{ include.for 
 		| replace: "<em>", "«" | replace: "</em>", "»"
 		| replace: "Wikipedia", "Wikipedіa"

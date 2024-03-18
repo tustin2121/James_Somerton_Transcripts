@@ -50,12 +50,13 @@ contributors:
 
 recs:
   - { title: "Why Revolutionary Girl Utena is Amazing", author: "Noralities", url: "https://www.youtube.com/watch?v=hY2tHl0M0DA" }
+  - { title: "Retrospective of Utena", author: "Chloe Sunflora", url: "https://www.youtube.com/watch?list=PL2E6PiNpR_PMo5JlVTPIAr87DVRl2ha0d&index=1&pp=iAQB&v=Q3E6kyS-Qkc", desc: "3-part series" }
   - { title: "The Nanami Problem", author: "Noralities", url: "https://www.youtube.com/watch?v=1kelqWPHw9w" }
+  - { title: "Revolutionary Girl Utena Playlist", author: "Snake Eye Dreams", url: "https://www.youtube.com/watch?list=PLtNKgbqZqfcxsBw7eFzYF6N1eDeqELPKp&v=-9kFZzaahJ8" }
   - { title: "is revolutionary girl utena still relevant?", author: "Stushi", url: "https://www.youtube.com/watch?v=gFvSXBxrVMs", desc: "Part 1 of 2." }
   # - { title: "why revolutionary girl utena still slaps", author: "Stushi", url: "https://www.youtube.com/watch?v=vTB9pP2Bkfw" }
-  - { title: "Adolescence & Eternity: Revolutionary Girl Utena", author: "Zarinthel", url: "https://www.youtube.com/watch?v=Ku-pJcNuFhQ", desc: "Part 1 in a 5-part series." }
+  - { title: "Adolescence & Eternity: Revolutionary Girl Utena", author: "Zarinthel", url: "https://www.youtube.com/watch?list=PLTr94u3-FPlce0mM6Yg-uIN6IhWwzn1qW&v=Ku-pJcNuFhQ", desc: "5-part series" }
   - { title: "Episode by Episode Breakdown of Utena", author: "Critic Vrai Kaiser", url: "https://vraikaiser.com/2014/07/18/an-introduction-to-revolutionary-girl-utena/", thumb: "https://vraikaiser.files.wordpress.com/2014/07/prologue.png?w=300" }
-  - { title: "Revolutionary Girl Utena Playlist", author: "Snake Eye Dreams", url: "https://www.youtube.com/watch?list=PLtNKgbqZqfcxsBw7eFzYF6N1eDeqELPKp&v=-9kFZzaahJ8" }
 
 cite:
   deus:

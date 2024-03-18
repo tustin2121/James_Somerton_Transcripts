@@ -4,19 +4,13 @@
 	{%- assign _cite = item[1] -%}
 	{%- include resolve-common-citation -%}
 	<li id="{{ _cite.short | slugify }}">
-		{% include obfuscate-source for=_cite.full %}
-		{%- if _cite.offline %}
-			<a href="{{ _cite.archive }}{{ _cite.url }}">{{ _cite.url }}</a>
-		{%- else %}
-			<a href="{{ _cite.url }}">{{ _cite.url }}</a>
-			{%- if _cite.archive %} [<a href="{{ _cite.archive }}{{ _cite.url }}">Archived</a>]{%- endif -%}
-		{%- endif -%}
+		{% include print-source for=_cite %}
 		{%- if _cite.chain -%}
-		{%- if _cite.chain._desc_ %} <span class="chain-prefix">({{ _cite.chain._desc_ }})</span>{% endif -%}
-		<ul>
-			{% assign chain = _cite.chain %}
-			{% include plag-cite-chain list=chain %}
-		</ul>
+			{%- if _cite.chain._desc_ %} <span class="chain-prefix">({{ _cite.chain._desc_ }})</span>{% endif -%}
+			<ul>
+				{% assign chain = _cite.chain %}
+				{% include plag-cite-chain list=chain %}
+			</ul>
 		{%- endif -%}
 	</li>
 {%- endfor -%}
