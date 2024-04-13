@@ -72,7 +72,14 @@ cite:
     zoe_fortier: { color: 10, short: "(Fortier, 2020)", full: "Fortier, Z. (2020, Jul 1). <em>Women and Queerness in Horror: Jennifer's Body</em> [Editorial]. Phenixx Gaming. Retrieved Dec 20, 2023, from", url: "https://phenixxgaming.com/2020/07/01/women-and-queerness-in-horror-jennifers-body/" }
     dani_leever: { color: 11, short: "(Leever, 2017)", full: "Leever, D. (2017, Oct 31). <em>Opinion: From facehuggers to phallic tails, is 'Alien' is one of the queerest films ever?</em> [Article]. SBS. Retrieved Dec 23, 2023, from", url: "https://www.sbs.com.au/voices/article/opinion-from-facehuggers-to-phallic-tails-is-alien-is-one-of-the-queerest-films-ever/8h3lw4xj5" }
     michaela_barton: { color: 9, short: "(Barton, 2020)", full: "Barton, M. (2020, Aug 18). <em>How ‘Alien’ (1979) Queered the Binaries of Traditional Gender</em> [Article]. Flipscreen. Retrieved Dec 23, 2023, from", url: "https://flipscreened.com/2020/08/18/how-alien-queered-the-binaries-of-traditional-gender/comment-page-1/" }
-    bart_bishop: { color: 7, short: "(Bishop, 2019)", full: "Bishop‚ B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from", url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/" }
+    bart_bishop: 
+      color: 7
+      short: "(Bishop, 2019)"
+      full: "Bishop‚ B. (2019, May 31). <em>Queering James Cameron's Aliens (1986)</em> [Article]. Retrieved Dec 23, 2023, from"
+      url: "https://bartcave.wordpress.com/2019/05/31/the-sexual-politics-of-aliens-1986/"
+      chain:
+        _desc_: "which cites"
+        _: { full: "Greven, D. (2010). Demeter and Persephone in space: transformation, femininity, and myth in the Alien films [Article]. in <em>Jump Cut: A Review of Contemporary Media</em> [Journel]. (issue 52, summer 2010). Julia Lesage (Editor). Retrieved May 31, 2019, from", url: "https://www.ejumpcut.org/archive/jc52.2010/GrevenAliens/index.html", archive: "https://web.archive.org/web/20240301171609/" }
     jf_sargent: { color: 17, short: "(Sargent, 2015)", full: "Sargent, J.F. (2015, Oct 6). <em>5 Terrible Movies With Awesome Hidden Meanings</em> [Listicle]. Cracked. Retrieved Dec 23, 2023, from", url: "https://www.cracked.com/blog/5-famously-bad-movies-with-mind-blowing-hidden-meanings" }
     david_church: { color: 18, short: "(Church, 2018)", full: "Church, D. (2018). <em>Queer Ethics, Urban Spaces,and the Horrors of Monogamy in It Follows</em> [Journal article]. Cinema Journal (issue 57). Retrieved Dec 23, 2023, from", url: "https://www.academia.edu/31247943/Queer_Ethics_Urban_Spaces_and_the_Horrors_of_Monogamy_in_It_Follows" }
     david_greven: { color: 16, short: "(Greven, 2014)", full: "Greven‚ D. (2014). Fears of a Millennial Masculinity: Scream's Queer Killers. In M. DeAngelis (ed.), <em>Reading the Bromance: Homosocial Relationships in Film and Television</em> (pp. 79-106). Detroit: Wayne State University Press. Retrieved Dec 23, 2023, from", url: "https://archive.org/details/readingbromanceh0000unse", type: "academic" }
