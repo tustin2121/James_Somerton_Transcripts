@@ -19,6 +19,13 @@ notes:
   - script-diff
   - w-nick-james
 
+history:
+  2022-02-10: First published.
+  2023-12-05: Deleted post-callout.
+
+recs:
+  - { title: "Queer Subtext & Symbolism in Sk8 the Infinity", author: "Josei Cafe", url: "https://www.youtube.com/watch?v=lwdTyVBl_ws" }
+
 contributors:
   transcription: $cite$from-script
   downloaded: $cite$TerraJRiley
