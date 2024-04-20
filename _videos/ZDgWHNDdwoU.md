@@ -15,7 +15,7 @@ topics: !!seq
   - "Hannibal"
   - The Vampire Chronicles
 links: !!seq
-  - "https://www.youtube.com/watch?v=SduGQEP8goU"
+  # - "https://www.youtube.com/watch?v=SduGQEP8goU" # Account terminated
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20211004+ZDgWHNDdwoU+The+Gay+Appeal+of+Toxic+Love.webm"
 description: "a video essay ruminating on why people would rather be in toxic relationships than being alone, complete with portion where James dresses as Hannibal."
 notes: 

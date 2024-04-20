@@ -15,7 +15,7 @@ links: !!seq
 # description: "a video essay on...?"
 
 contributors:
-  transcription: $cite$sf1
+  transcription: $cite$GilaTheArkanian
 
 cite:
   clips: !!map

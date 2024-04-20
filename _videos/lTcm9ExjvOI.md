@@ -10,18 +10,19 @@ topics: !!seq
 links: !!seq
   # - "https://archive.org/details/james-somerton-youtube-2023-12-03"
   # - "https://archive.org/details/james-somerton-videos-backup"
-  - "https://www.youtube.com/watch?v=nFg8hONxr7E"
+  # - "https://www.youtube.com/watch?v=nFg8hONxr7E" # takedown request
   - "https://web.archive.org/web/20220605190931/https://www.youtube.com/watch?v=ltcm9exjvoi"
 # description: "a video essay on...?"
 
 contributors:
-  transcription: $cite$sf1
+  transcription: $cite$GilaTheArkanian
 
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign sf1 = site.data.cite.GilaTheArkanian %}

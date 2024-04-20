@@ -18,7 +18,7 @@ history:
   2023-12-07: Privated post-callout.
 
 contributors:
-  transcription: $cite$sf1
+  transcription: $cite$GilaTheArkanian
 
 cite:
   clips: !!map

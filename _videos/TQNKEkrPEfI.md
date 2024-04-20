@@ -10,7 +10,7 @@ aka: !!seq
   - "Extra Lives: Gays, Games, and Toxic Masculinity (Working title)"
 topics: !!seq
 links: !!seq
-  - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ"
+  # - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ" # takedown request
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
 notes:
