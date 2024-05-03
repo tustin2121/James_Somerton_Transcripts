@@ -4,7 +4,7 @@ redirect_from:
 
 date: 2014-08-12
 title: "Geek Theory #4: The Fantastic Five!"
-status: Auto
+status: Finished
 aka: !!seq
 topics: !!seq
 links: !!seq
