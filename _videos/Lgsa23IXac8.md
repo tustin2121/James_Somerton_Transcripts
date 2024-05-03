@@ -12,6 +12,11 @@ links: !!seq
   - "https://web.archive.org/web/20220605190710/https://www.youtube.com/watch?v=Lgsa23IXac8"
 # description: "a video essay on...?"
 
+contributors:
+  transcription: $cite$GilaTheArkanian
+  citation: 
+    - "$ref$GilaTheArkanian$https://github.com/tustin2121/James_Somerton_Transcripts/issues/137"
+
 cite:
   clips: !!map
   yikes: !!map
