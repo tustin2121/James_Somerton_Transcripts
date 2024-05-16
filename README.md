@@ -19,10 +19,10 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [4YWslnyUxcs](_videos/4YWslnyUxcs.md) | Finished    | The Stonewall Film Effect - Gay Geek Theory (Video essay)
 | [4zPCM14-SCQ](_videos/4zPCM14-SCQ.md) | Auto        | Monsters in the Closet
 | [5OxH1rqBAgw](_videos/5OxH1rqBAgw.md) | Complete    | Pink Triangles: The History of the Gay Holocaust
-| [6rHOEWFBDg0](_videos/6rHOEWFBDg0.md) | Auto        | Vampires, and the Gays That Love Them
+| [6rHOEWFBDg0](_videos/6rHOEWFBDg0.md) | Finished    | Vampires, and the Gays That Love Them
 | [7a4DTkoejG8](_videos/7a4DTkoejG8.md) | Complete    | The Queer Erasure of Asexuality (A Discussion)
 | [7d5uPR2FwLE](_videos/7d5uPR2FwLE.md) | Finished    | The Real Revolution of Utena
-| [9YzMQEBRszY](_videos/9YzMQEBRszY.md) | Auto        | The Death of Queer Privacy
+| [9YzMQEBRszY](_videos/9YzMQEBRszY.md) | Complete    | The Death of Queer Privacy
 | [A6P04yw6kYs](_videos/A6P04yw6kYs.md) | Finished    | The Dangers of Blissful Ignorance
 | [AlyJl0ddcPs](_videos/AlyJl0ddcPs.md) | Finished    | The Gay Horror Manga You Should Be Reading
 | [BJw8_r89EwA](_videos/BJw8_r89EwA.md) | Finished    | The Tragedy of Being Rich
@@ -32,7 +32,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [Camp-000001](_videos/Camp-000001.md) | Finished    | How The Gays Stole Cinema
 | [Camp-000002](_videos/Camp-000002.md) | In Progress | The Mainstreaming of Camp
 | [cMde5YLG6-w](_videos/cMde5YLG6-w.md) | Auto        | Disney's Gay Cultural Appropriation
-| [crZd-xmhobE](_videos/crZd-xmhobE.md) | Auto        | Geek Theory - Episode #1 "The Marvel Issue"
+| [crZd-xmhobE](_videos/crZd-xmhobE.md) | Finished    | Geek Theory - Episode #1 "The Marvel Issue"
 | [CupPh46JZ5g](_videos/CupPh46JZ5g.md) | Auto        | Broadway, Living, and Gay Hope
 | [digub0QVCho](_videos/digub0QVCho.md) | Auto Script | The History of Gay Panic
 | [E9vDpCeTK5w](_videos/E9vDpCeTK5w.md) | Finished    | The Queer Joy of Everything Everywhere All At Once
@@ -42,7 +42,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [fE4I6WhPryc](_videos/fE4I6WhPryc.md) | Finished    | Why Bad Gays Are Good
 | [FeAAqBRL-fc](_videos/FeAAqBRL-fc.md) | Superseded  | Pink Triangles: The History of the Gay Holocaust (Part 1)
 | [fzN9x4XgtwY](_videos/fzN9x4XgtwY.md) | Finished    | When Hollywood Came Out of the Closet
-| [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Auto Script | Geek Review: X-men "Days of Future Past"
+| [H65WG2s4pzY](_videos/H65WG2s4pzY.md) | Finished    | Geek Review: X-men "Days of Future Past"
 | [hfCjeOEs0KY](_videos/hfCjeOEs0KY.md) | Auto Script | The 33 Year Hunt For A Queer Killer
 | [Hk-a3qaxh7Q](_videos/Hk-a3qaxh7Q.md) | Auto        | How a Gay Show Changed TV... and Was Forgotten
 | [HkO2hSN6_fI](_videos/HkO2hSN6_fI.md) | Auto        | The Gays and Dating Apps (A Conversation)
@@ -57,9 +57,9 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [KR7Ab5d9wno](_videos/KR7Ab5d9wno.md) | Auto        | Sex, Violence, Showgirls, and The American Way
 | [kvsjmtku9do](_videos/kvsjmtku9do.md) | Finished    | One Scene For Hope: The Last Jedi
 | [KXGpVm09GCM](_videos/KXGpVm09GCM.md) | Auto        | Reclaiming the "Q" Word
-| [ldiZgzNRlHE](_videos/ldiZgzNRlHE.md) | Auto        | Days of Marvel Future - Geek Theory Episode 3
-| [Lgsa23IXac8](_videos/Lgsa23IXac8.md) | Auto        | Geek Theory #4: The Fantastic Five!
-| [lTcm9ExjvOI](_videos/lTcm9ExjvOI.md) | Auto        | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
+| [ldiZgzNRlHE](_videos/ldiZgzNRlHE.md) | Finished    | Days of Marvel Future - Geek Theory Episode 3
+| [Lgsa23IXac8](_videos/Lgsa23IXac8.md) | Finished    | Geek Theory #4: The Fantastic Five!
+| [lTcm9ExjvOI](_videos/lTcm9ExjvOI.md) | Finished    | Geek Theory - Episode #2 "The DC Cinematic Black Hole"
 | [M5-SZckaMtc](_videos/M5-SZckaMtc.md) | Auto        | The Glass Ceiling of Gay Success (A Discussion)
 | [m8DRQ9-sCSI](_videos/m8DRQ9-sCSI.md) | Finished    | Unrequited: The History of Queer Baiting
 | [M8Z1NjpdH1M](_videos/M8Z1NjpdH1M.md) | Complete    | Deep Cuts: Society and Queer Horror
@@ -69,6 +69,7 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [nCi19sYugIA](_videos/nCi19sYugIA.md) | Finished    | The Traumatic Camp of "Mommie Dearest"
 | [noL0rLX9euU](_videos/noL0rLX9euU.md) | Finished    | Film Theory #1: Is The Blockbuster Dying
 | [ogPYycNAo8](_videos/ogPYycNAo8.md)   | Auto        | The Problem With Pride
+| [PBU9Wo_uoYk](_videos/PBU9Wo_uoYk.md) | Auto Script | The Queerness of Bob's Burgers
 | [pW_RjbZYi1s](_videos/pW_RjbZYi1s.md) | Finished    | The History of Gay Hollywood
 | [P_mLM6fUhHQ](_videos/P_mLM6fUhHQ.md) | Complete    | CODEBREAKERS: Queer film theory (and why it matters)
 | [qa3A_ery3Hg](_videos/qa3A_ery3Hg.md) | Complete    | Disney's Silence on Gay Youth
@@ -104,5 +105,5 @@ See [the main webpage](https://tustin2121.github.io/James_Somerton_Transcripts) 
 | [Zcf3uNGbq4](_videos/Zcf3uNGbq4.md)   | Complete    | How Hollywood was Born Gay
 | [ZDgWHNDdwoU](_videos/ZDgWHNDdwoU.md) | Finished    | "Hannibal" and the Appeal of Toxic Love
 | [zDMpYNdokac](_videos/zDMpYNdokac.md) | Finished    | Neil Gaiman & Queering Fantasy
-| [zi8ITzM1aYI](_videos/zi8ITzM1aYI.md) | Auto        | Geek Movie Review! Captain America: The Winter Solider
+| [zi8ITzM1aYI](_videos/zi8ITzM1aYI.md) | Finished    | Geek Movie Review! Captain America: The Winter Solider
 | [zIsQ502N0fg](_videos/zIsQ502N0fg.md) | Finished    | Hollywood's (Gay) China Problem

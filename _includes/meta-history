@@ -12,6 +12,7 @@
 			<span>{{ h[1] }}</span>
 		</div>
 	{%- endfor -%}
+	<div class="entry"><span>May 8, 2024</span><span>Channel deleted</span></div>
 </credits>
 
 {%- comment %} Thumbnail History {% endcomment -%}

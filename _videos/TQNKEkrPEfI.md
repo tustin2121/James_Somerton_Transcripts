@@ -26,6 +26,7 @@ recs:
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=Pm8VaSZEUkQ)"
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vQlofBa_9ZNg2jW8gf2anPsBk1gfW7IM5vuYNVBoVETDs_Jes7-KznvqlM1Xxz9WxxejorgAZrj59Oe/pub
   citation: 
     - "[Verity Ritchie](https://www.patreon.com/posts/james-somerton-3-94126743) (aka [/u/verilyb](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc4i28h))"
     - "[augustjune](https://discord.com/channels/224921177532006400/1181019607604133938/1181661918268768367)" # https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history

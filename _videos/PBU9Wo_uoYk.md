@@ -30,7 +30,7 @@ recs:
 
 contributors:
   transcription: "[Poe The Salmon Roe](Archive/Transcript for The Queer Normality of Bobs Burgers.txt)"
-  formatting:
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vTWf51ay4LrYK__wadeNe7YGitM6ePxOuN1C9d_Yc_dMhz515HDs3VlyAON_F_J-NR5b0Mr9F0rsbOS/pub
   # citation:
     # - "[Lily Simpson](https://twitter.com/LilySimpson1312/status/1762985100680241250)"
 
@@ -40,6 +40,9 @@ cite:
   misinformation: !!map
   plagiarized: !!map
     # simpson: { color: 2, short: "(Simpson, 2023)", full: "Simpson, L. (2023, Jun 20). <em>The Complex Trans Rep of Bob's Burgers</em> [Video Essay]. YouTube.", url: "https://www.youtube.com/watch?v=Dln1rylCGb4" }
+    wiki_bob: { color: 4, short: "Bob's Burgers (Wikipedia, 2024)", full: "Wikipedia (2024, Jan 8). <em>Bob's Burgers</em> [Article]. Retrieved May 16, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Bob%27s_Burgers&oldid=1194259239" }
+    gaycle: { color: 5, short: "(Gay in the CLE, 2022)", full: "GAYINTHECLE (2022, Feb 10). <em>Is Bob’s Burger LGBTQ Friendly?</em> [Article]. Gay in the CLE. Retrieved May 16, 2024, from", url: "https://gayinthecle.com/2022/02/10/is-bobs-burger-lgbtq-friendly/" }
+    hollywood: { color: 6, short: "", full: "Z Murphy (2022, Feb 2). <em>In-Depth Analysis | The Unexpected Queerness of ‘Bob’s Burgers’: Why the Show is an Animated Ally</em> [Article]. Hollywood Insider. Retrieved May 16, 2024, from", url: "https://www.hollywoodinsider.com/bobs-burgers-queerness/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 

@@ -24,11 +24,16 @@ history:
   2022-09-19: Reuploaded (KXGpVm09GCM).
   2023-12-07: Privated post-callout.
 
+contributors:
+  # transcription: "[Poe The Salmon Roe](Archive/Transcript for The Queer Normality of Bobs Burgers.txt)"
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSxxYUNU4KNi9OmQd6qullJp5WHx6uBUWrleOUygoROPIIkLKJyCw0Y6xuw0TSMixxb08I80m0aGBmq/pub
+
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_pheno: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Phenotype&oldid=1022106186" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
