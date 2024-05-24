@@ -1,8 +1,8 @@
 # This file is auto-generated using scripts/update-percentages.mts
 # Do not commit this file.
 _global:
-  vol: {p: "22.7", m: "3.1", "y": "1.0", w: "14.5", v: 134}
-  p-total: 162
+  vol: {p: "22.9", m: "3.1", "y": "1.0", w: "14.5", v: 134}
+  p-total: 169
   m-total: 108
   y-total: 29
   online: 19
@@ -14,7 +14,7 @@ _global:
   made-quote: 6
   comp-delete: 4
   sub-queer: 38
-  p-wiki: 28
+  p-wiki: 30
   visual: 4
   w-none: 3
   y-biphobia: 3
@@ -34,7 +34,7 @@ _global:
   snip-credits: 2
   changed-number: 2
   baa: 5
-  p-news: 11
+  p-news: 12
   script-diff: 14
   meta-video: 4
   irony: 6
@@ -74,9 +74,10 @@ _all:
   - {"color": 5, "short": "Racialization of Sexuality (Barnard, 2000)", "full": "Barnrad, I. (2000). <em>The Racialization of Sexuality: The Queer Case of Jeffrey Dahmer</em>. Thamyris Overcoming Boundaries: Ethnicity, Gender and Sexuality, 7(1-2), 67-97. Chapman University Commons. Retrieved February 14, 2024, from", "url": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1018&context=english_books"}
   - {"color": 6, "short": "Jeffrey Dahmer (Wikipedia, 2022)", "full": "Wikipedia (2022, Oct 11). <em>Jeffrey Dahmer</em>. Retrieved February 14, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Jeffrey_Dahmer&oldid=1115535589"}
   - {"color": 10, "short": "The Celluloid Closet (Friedman, 1996)", "full": "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", "url": "https://www.youtube.com/watch?v=YndHaKuD6MI"}
-  - {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426"}
-  - {"color": 2, "short": "", "full": "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University.", "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", "type": "student"}
-  - {"color": 1, "short": "", "full": "", "url": "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable"}
+  - {"color": 1, "short": "Gay Literature (Wikipedia, 2018)", "full": "Wikipedia. (2018, Oct 10). <em>Gay literature</em> [Article]. Retrieved Apr 21, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426"}
+  - {"color": 2, "short": "", "full": "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University. Retrieved Apr 21, 2024, from", "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", "type": "student"}
+  - {"color": 3, "short": "Gothic Studies (Eberle-Sinatra, 2005)", "full": "Eberle-Sinatra, M. (2005, Nov). Readings of Homosexuality in Mary Shelley's Frankenstein and Four Film Adaptions [Chapter]. In <em>Gothic Studies</em> (Vol 7, Iss 2, pp185-202). ISSN 1362-7937. <a href='https://doi.org/10.7227/GS.7.2.7'>https://doi.org/10.7227/GS.7.2.7</a>. Retrieved Apr 21, 2024, from", "url": "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/13519/homosexuality-frankenstein_Sinatra-ROC.pdf?sequence=3&isAllowed=y"}
+  - {"color": 4, "short": "(Saporito, 2015)", "full": "Saporito, J. (2015, Dec 1). <em>Why Is “Bride Of Frankenstein” Often Analyzed As A Gay Parable?</em> The Take.", "url": "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable"}
   - {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications"}
   - {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge&oldid=862007103#Homoerotic_subtext"}
   - {"color": 1, "short": "", "full": "", "url": "https://www.kxan.com/news/local/austin/after-using-rare-gay-panic-legal-defense-austin-man-avoids-prison-time/1141686601/"}
@@ -107,6 +108,7 @@ _all:
   - {"color": 4, "short": "(Telushkin, 2018)", "full": "Telushkin, S. (2018, Jul 16). <em>Why ‘Downton Abbey’ Was the Frummest Show on Television</em> [Article]. Tablet Magazine. ", "url": "https://www.tabletmag.com/sections/news/articles/why-downton-abbey-was-the-frummest-show-on-television"}
   - {"color": 5, "short": "(deGroot, 2011)", "full": "deGroot, J. (2011, Sep 19). <em>Downton Abbey: Nostalgia For An Idealised Past?</em> [Article]. History Today.", "url": "https://www.historytoday.com/archive/downton-abbey-nostalgia-idealised-past"}
   - {"color": 6, "short": "(Weiss, 2019)", "full": "Weiss, J. (2019, Sep 24). <em>The Strange Appeal of Downton Abbey-Style Aristocracy</em> [Article]. Politico Magazine.", "url": "https://www.politico.com/magazine/story/2019/09/24/downton-abbey-movie-inequality-228171/"}
+  - {"color": 4, "short": "Hagsploitation (Pahle, 2019)", "full": "Pahle, R. (2019, Oct 24). <em>A Primer For The Unexpectedly Awesome Hagsploitation Horror Subgenre</em> [Article]. Syfy Wire.", "url": "https://www.syfy.com/syfy-wire/a-primer-for-the-unexpectedly-awesome-hagsploitation-horror-subgenre"}
   - {"color": 2, "short": "(Russo, 1987)", "full": "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", "url": "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", "type": "book", "style": "book"}
   - {"color": 1, "short": "Queer as Folk (Wikipedia, 2022)", "full": "Wikipedia. (2022, May 18). <em>Queer as Folk (American TV series)</em> [Article]. Retrieved March 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Queer_as_Folk_(American_TV_series)&oldid=1088564989"}
   - {"color": 2, "short": "(Ricky D, 2022)", "full": "Ricky D. (2022, Jun 9). <em>Queer As Folk – A Cultural Milestone</em> [Article]. Tilt Magazine. Goomba Stomp. Retrieved March 1, 2024, from", "url": "https://tilt.goombastomp.com/tv/queer-folk-cultural-milestone/"}
@@ -121,6 +123,8 @@ _all:
   - {"color": 3, "short": "Digital Safeguarding (Amnesty UK, 2023)", "full": "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", "url": "https://www.amnesty.org.uk/digital-safeguarding-guidance"}
   - {"color": 5, "short": "(Abrahamson, 2022)", "full": "Abrahamson, M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", "url": "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/"}
   - {"color": 12, "short": "Troubling Antisemitic References (Nava, 2023)", "full": "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", "url": "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/"}
+  - {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=Phenotype&oldid=1022106186"}
+  - {"color": 1, "short": "Gorr (Fandom, 2014)", "full": "Fandom (2014, Jul 7). <em>Gorr (Earth-616)</em> [Article]. Retrieved Apr 18, 2024, from", "url": "https://marvel.fandom.com/wiki/Gorr_(Earth-616)?oldid=2755351"}
   - {"color": 2, "short": "(Howell, 2014)", "full": "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", "url": "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
   - {"color": 12, "short": "On Stucky Fandom (Myers, 2016)", "full": "Myer‚ M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", "url": "https://www.themarysue.com/why-cant-stucky-just-be-friends/"}
   - {"color": 7, "short": "Ocean's 8 (Gutowitz, 2018)", "full": "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", "url": "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/"}
@@ -161,6 +165,9 @@ _all:
   - {"color": 10, "short": "(Radulovic, 2022)", "full": "Radulovic, P. (2022, May 3). <em>The Owl House is proving itself to be too good for Disney</em> [Article]. Polygon. Retrieved Jan 24, 2024, from", "url": "https://www.polygon.com/23055769/the-owl-house-reveal-season-2"}
   - {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production", "chain": {"_desc_": "which condensed from...", "_": {"full": "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com.", "url": "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest", "chain": {"_desc_": "which got it from...", "_": {"full": "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com.", "url": "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/", "chain": {"_desc_": "which got it from...", "_": {"full": "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter", "url": "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"}}}}}}}
   - {"color": 1, "short": "(Be Kind Rewind, 2021)", "full": "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=jb-C4fcn2E0"}
+  - {"color": 4, "short": "Bob's Burgers (Wikipedia, 2024)", "full": "Wikipedia (2024, Jan 8). <em>Bob's Burgers</em> [Article]. Retrieved May 16, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Bob%27s_Burgers&oldid=1194259239"}
+  - {"color": 5, "short": "(Gay in the CLE, 2022)", "full": "GAYINTHECLE (2022, Feb 10). <em>Is Bob’s Burger LGBTQ Friendly?</em> [Article]. Gay in the CLE. Retrieved May 16, 2024, from", "url": "https://gayinthecle.com/2022/02/10/is-bobs-burger-lgbtq-friendly/"}
+  - {"color": 6, "short": "", "full": "Z Murphy (2022, Feb 2). <em>In-Depth Analysis | The Unexpected Queerness of ‘Bob’s Burgers’: Why the Show is an Animated Ally</em> [Article]. Hollywood Insider. Retrieved May 16, 2024, from", "url": "https://www.hollywoodinsider.com/bobs-burgers-queerness/"}
   - {"color": 4, "short": "(DaVega, 2016)", "full": "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College.", "url": "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf", "archive": "https://web.archive.org/web/20240219184030/", "chain": {"_desc_": "which took overviews from...", "wiki_theory": {"full": "Wikipedia. (2009, Sep 10). <em>Film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Film_theory&oldid=312921719", "chain": {"_desc_": "which plagiarized from...", "read_film": {"color": 1, "short": "(Monaco, 1977)", "full": "Monaco, J. (1977). <em>How to Read a Film: Movies, Media, and Beyond</em> Oxford University Press, Inc.", "url": "https://www.google.com/books/edition/How_to_Read_a_Film/ub74_dtjxKoC?hl=en&gbpv=1&pg=PA297&printsec=frontcover"}}}, "wiki_structuralist": {"full": "Wikipedia. (2009, Jul 4). <em>Structuralist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Structuralist_film_theory&oldid=300187768"}, "wiki_marxist": {"full": "Wikipedia. (2009, Apr 15). <em>Marxist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Marxist_film_theory&oldid=283969058"}, "wiki_screen": {"full": "Wikipedia. (2009, Aug 7). <em>Screen theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Screen_theory&oldid=306555687"}, "wiki_formalist": {"full": "Wikipedia. (2009, Jun 5). <em>Formalist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Formalist_film_theory&direction=prev&oldid=324062286"}, "encyclopedia_realist": {"full": "Schirmer Encyclopedia of Film. (n.d.). <em>Realism</em> [Article].", "url": "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Realism-THEORIES-OF-REALISM.html"}, "wiki_feminist": {"full": "Wikipedia. (2009, Jun 8). <em>Feminist film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Feminist_film_theory&oldid=295168600"}, "wiki_auteur": {"full": "Wikipedia. (2009, Sep 12). <em>Auteur</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Auteur&oldid=313298258"}, "wiki_apparatus": {"full": "Wikipedia. (2009, Jul 1). <em>Apparatus theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Apparatus_theory&oldid=299761800"}, "wiki_linguistic": {"full": "Wikipedia. (2009, Sep 8). <em>Linguistic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Linguistic_film_theory&oldid=312575299"}, "wiki_psychoanalytic": {"full": "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article].", "url": "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"}, "semiotic": {"full": "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus.", "url": "http://www.tc.umn.edu/~rbeach/teachingmedia/module4/4.htm", "archive": "https://web.archive.org/web/20130302070542/", "offline": true}}}
   - {"color": 2, "short": "Stanford Encyclopedia (Pickett, 2020)", "full": "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", "url": "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/"}
   - {"color": 5, "short": "Midlands Zone Magazine (Spinks, 2019)", "full": "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17.", "url": "https://www.midlandszone.co.uk/features/homophobic-erasure-the-cull-of-lgbtq-presence-from-history/64", "archive": "https://web.archive.org/web/20210127145049/", "chain": {"_desc_": "Midlands Zone Magazine succumbed to the pandemic, so here's alternate methods of accessing content:", "issuu": {"full": "via Issuu.com. Retrieved Jan 27, 2024, from", "url": "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16"}}}
@@ -191,7 +198,6 @@ _all:
   - {"color": 1, "short": "Chucky (Ryan, 2021)", "full": "Ryan, G. (2021, Dec 9). <em>“Kill the twink!”: how ‘Chucky’ cements the murderous doll’s legacy as a queer ally</em> [Article].", "url": "https://www.nme.com/features/opinion/chucky-tv-series-queer-ally-3111995"}
   - {"color": 2, "short": "(Geffen, 2018)", "full": "Geffen, S. (2018, Aug 21). <em>Trans Horror Stories and Society's Fear of the Transmasculine Body</em> [Article].", "url": "https://www.them.us/story/transmasculine-horror-stories"}
   - {"color": 3, "short": "(Waldron, 2022)", "full": "Waldron, A. (2022, Aug 17). <em>Queer Screams: A History of LGBTQ+ Survival Through the Lens of American Horror Cinema</em> [Book].", "url": "", "type": "book", "style": "book"}
-  - {"color": 4, "short": "Hagsploitation (Pahle, 2019)", "full": "Pahle, R. (2019, Oct 24). <em>A Primer For The Unexpectedly Awesome Hagsploitation Horror Subgenre</em> [Article]. Syfy Wire.", "url": "https://www.syfy.com/syfy-wire/a-primer-for-the-unexpectedly-awesome-hagsploitation-horror-subgenre"}
   - {"color": 1, "short": "(Grosso, 2019)", "full": "Grosso, R. (2019, Feb 18). <em>Queer Characters in Gaming - A Brief History</em> [Article].", "url": "https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history"}
   - {"color": 11, "short": "(verilybitchie, 2021)", "full": "verilybitchie. (2021, Sep 3). <em>How Bisexuality Changed Video Games</em> [Video essay]. YouTube.", "url": "https://www.youtube.com/watch?v=iZGkxUTbDqw"}
   - {"color": 1, "short": "(Eske, 2020)", "full": "Eske, J., Legg, T.J. (2020, Oct 1). <em>What is Stockholm syndrome?</em> Medical News Today.", "url": "https://www.medicalnewstoday.com/articles/stockholm-syndrome"}
@@ -219,6 +225,7 @@ _all:
   - {"color": 1, "short": "(Demchuk, 2021)", "full": "Demchuk‚ D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", "url": "https://hazlitt.net/feature/where-monsters-are-made"}
   - {"color": 2, "short": "(Primuth, 2014)", "full": "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", "url": "https://glreview.org/article/vampires-are-us/", "type": "academic"}
   - {"color": 3, "short": "(Hansen, 2020)", "full": "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s"}
+  - {"color": 1, "short": "Entertainment Weekly (Breznican, 2012)", "full": "Breznican, A. (2012, Apr 5). <em>'Captain America' sequel announced</em> [News article]. Entertainment Weekly. Retrieved Apr 18, 2024, from", "url": "https://ew.com/article/2012/04/05/marvel-announces-captain-america-sequel-set-for-april-2014/"}
   - {"color": 1, "short": "China (Wikipedia, 2021)", "full": "Wikipedia (2021, Nov 14). <em>Cinema of China</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Cinema_of_China&oldid=1055246644"}
   - {"color": 3, "short": "Addicted (Wikipedia, 2021)", "full": "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215"}
   - {"color": 4, "short": "Untamed (Wikipedia, 2021)", "full": "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551"}
@@ -234,9 +241,10 @@ _all:
   vol: { p: 50.0, m: 7.7, y: 0.0, w: 0.0, v: 27 }
 4zPCM14-SCQ:
   plagiarized:
-    wiki_lit: {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426"}
-    homo_codes: {"color": 2, "short": "", "full": "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University.", "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", "type": "student"}
-    the_take: {"color": 1, "short": "", "full": "", "url": "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable"}
+    wiki_lit: {"color": 1, "short": "Gay Literature (Wikipedia, 2018)", "full": "Wikipedia. (2018, Oct 10). <em>Gay literature</em> [Article]. Retrieved Apr 21, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426"}
+    homo_codes: {"color": 2, "short": "", "full": "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University. Retrieved Apr 21, 2024, from", "url": "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", "type": "student"}
+    gothic_studies: {"color": 3, "short": "Gothic Studies (Eberle-Sinatra, 2005)", "full": "Eberle-Sinatra, M. (2005, Nov). Readings of Homosexuality in Mary Shelley's Frankenstein and Four Film Adaptions [Chapter]. In <em>Gothic Studies</em> (Vol 7, Iss 2, pp185-202). ISSN 1362-7937. <a href='https://doi.org/10.7227/GS.7.2.7'>https://doi.org/10.7227/GS.7.2.7</a>. Retrieved Apr 21, 2024, from", "url": "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/13519/homosexuality-frankenstein_Sinatra-ROC.pdf?sequence=3&isAllowed=y"}
+    the_take: {"color": 4, "short": "(Saporito, 2015)", "full": "Saporito, J. (2015, Dec 1). <em>Why Is “Bride Of Frankenstein” Often Analyzed As A Gay Parable?</em> The Take.", "url": "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable"}
     wiki_dracula: {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications"}
     wiki_nightmare: {"color": 1, "short": "", "full": "", "url": "https://en.wikipedia.org/w/index.php?title=A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge&oldid=862007103#Homoerotic_subtext"}
     gay_panic_news: {"color": 1, "short": "", "full": "", "url": "https://www.kxan.com/news/local/austin/after-using-rare-gay-panic-legal-defense-austin-man-avoids-prison-time/1141686601/"}
@@ -247,6 +255,7 @@ _all:
     sociological_cinema: {"color": 1, "short": "", "full": "", "url": "https://www.thesociologicalcinema.com/blog/the-not-so-hidden-transphobia-in-silence-of-the-lambs"}
   misinformation: {}
   yikes: {}
+  vol: { p: 52.9, m: 5.9, y: 0.0, w: 20.8, v: 0 }
 5OxH1rqBAgw:
   plagiarized: {}
   misinformation: {}
@@ -259,7 +268,7 @@ _all:
 9YzMQEBRszY:
   vol: { p: 17.6, m: 3.9, y: 0.0, w: 7.3, v: 0 }
 Camp-000001:
-  vol: { p: 0.0, m: 1.6, y: 0.0, w: 0.0, v: 0 }
+  vol: { p: 1.6, m: 1.6, y: 0.0, w: 0.2, v: 0 }
 crZd-xmhobE:
   vol: { p: 0.0, m: 14.3, y: 0.0, w: 0.0, v: 0 }
 F5ab1X2CFq8:
@@ -278,6 +287,8 @@ KarOvBQCyKE:
   vol: { p: 0.0, m: 1.9, y: 0.0, w: 0.0, v: 0 }
 kCNByQ6WopM:
   vol: { p: 0.0, m: 4.0, y: 0.0, w: 0.0, v: 0 }
+Lgsa23IXac8:
+  vol: { p: 14.3, m: 0.0, y: 0.0, w: 11.2, v: 0 }
 m8DRQ9-sCSI:
   plagiarized: {}
   misinformation: {}
@@ -322,16 +333,16 @@ SdtbQhAKFSI:
   vol: { p: 89.1, m: 2.2, y: 0.0, w: 68.4, v: 0 }
 Tk9wh5rBmW0:
   plagiarized:
+    syfy: {"color": 4, "short": "Hagsploitation (Pahle, 2019)", "full": "Pahle, R. (2019, Oct 24). <em>A Primer For The Unexpectedly Awesome Hagsploitation Horror Subgenre</em> [Article]. Syfy Wire.", "url": "https://www.syfy.com/syfy-wire/a-primer-for-the-unexpectedly-awesome-hagsploitation-horror-subgenre"}
     wiki_film: {"color": 2, "short": "(Wikipedia, 2022)", "full": "Wikipedia. (2022, Oct 27). <em>Mommie Dearest (Film)</em> [Article]. Retrieved Jan 1, 2024, from", "url": "https://en.wikipedia.org/w/index.php?title=Mommie_Dearest_(film)&oldid=1118538428#Production", "chain": {"_desc_": "which condensed from...", "_": {"full": "Aquino, T. (2016, Feb 21). <em>12 Over-the-Top Facts About Mommie Dearest</em> [Listicle]. mentalfloss.com.", "url": "http://mentalfloss.com/article/75812/12-over-top-facts-about-mommie-dearest", "chain": {"_desc_": "which got it from...", "_": {"full": "Keeling, B. (2013, May 10). <em>'People Despised Faye': Tales From The Set Of &lt;em&gt;Mommie Dearest&lt;/em&gt;</em> [Article]. SFiST.com.", "url": "https://sfist.com/2013/05/10/people_despised_faye_life_on_the_se/", "chain": {"_desc_": "which got it from...", "_": {"full": "Nahmod, D-E. (2013, May 7). <em>Dunaway Dearest</em> [Article]. Bay Area Reporter", "url": "https://www.ebar.com/story.php?ch=arts__culture&sc=movies&id=228609#:~:text=Faye%20Dunaway%2C%20who%20played%20Crawford,was%20so%20rude%20to%20people"}}}}}}}
     bkr_video: {"color": 1, "short": "(Be Kind Rewind, 2021)", "full": "Be Kind Rewind. (2021, Feb 26). <em>Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)</em> [Video]. YouTube.", "url": "https://www.youtube.com/watch?v=jb-C4fcn2E0"}
-    syfy: {"color": 4, "short": "Hagsploitation (Pahle, 2019)", "full": "Pahle, R. (2019, Oct 24). <em>A Primer For The Unexpectedly Awesome Hagsploitation Horror Subgenre</em> [Article]. Syfy Wire.", "url": "https://www.syfy.com/syfy-wire/a-primer-for-the-unexpectedly-awesome-hagsploitation-horror-subgenre"}
   misinformation:
     nCi19sYugIA$haunted: "James invents a quote for Faye Dunnaway about basically being haunted by Joan Crawford."
     nCi19sYugIA$misattributed: "James misattributes a quote from a news article as being from a book."
     nCi19sYugIA$director_misquote: "James edited out the context of a quote for director Herbert Kenwith, making it look like he was saying something when he was quoting someone else."
     nCi19sYugIA$cola_company: "James probably overblows Joan's value to the Pepsi-Cola company."
   yikes: {}
-  vol: { p: 3.8, m: 0.5, y: 0.0, w: 0.5, v: 5 }
+  vol: { p: 4.4, m: 0.5, y: 0.0, w: 0.5, v: 5 }
 TUmTTb6uX0M:
   vol: { p: 0.0, m: 0.0, y: 1.3, w: 0.0, v: 0 }
 UiDcQnavKPI:
@@ -354,5 +365,7 @@ ZDgWHNDdwoU:
   vol: { p: 14.7, m: 0.0, y: 1.5, w: 8.3, v: 0 }
 zDMpYNdokac:
   vol: { p: 0.0, m: 7.7, y: 0.0, w: 0.0, v: 0 }
+zi8ITzM1aYI:
+  vol: { p: 16.7, m: 0.0, y: 0.0, w: 1.7, v: 0 }
 zIsQ502N0fg:
   vol: { p: 32.4, m: 2.9, y: 0.0, w: 13.7, v: 0 }
