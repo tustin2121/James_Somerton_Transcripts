@@ -236,17 +236,17 @@ We won't know if Larry would have ever done that, though, because they only spen
 
 https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.474-475
 
-<mark>While there is more acceptance of lesbians and gays today compared to just a few years ago,<sup>6</sup></mark> <mark>gays and lesbians still experience a significant amount of prejudice and discrimination.<sup>7</sup></mark> <mark>Approximately three-quarters of gays and lesbians have been the target of verbal abuse and approximately one-third have been the target of physical violence</mark> based on their sexual orientation.<sup>8</sup> <mark>Violence against gays and lesbians is a problem even in cities with sizable gay and lesbian populations. In a survey of young adults in the San Francisco Bay Area, “almost 1 in 5 men admitted to physically assaulting or threatening people whom they believed were homosexual.”<sup>9</sup></mark> 
+<mark>While there is more acceptance of lesbians and gays today compared to just a few years ago,<sup>6</sup></mark> <mark>gays and lesbians still experience a significant amount of prejudice and discrimination.<sup>7</sup></mark> <mark>Approximately three-quarters of gays and lesbians have been the target of verbal abuse and approximately one-third have been the target of physical violence</mark> based on their sexual orientation.<sup>8</sup> <mark>Violence against gays and lesbians is a problem even in cities with sizable gay and lesbian populations. In a survey of young adults in the San Francisco Bay Area, "almost 1 in 5 men admitted to physically assaulting or threatening people whom they believed were homosexual."<sup>9</sup></mark> 
 
 <footer>
 
-<sup>6</sup> See Jeni Loftus, America’s Liberalization of Attitudes Toward Homosexuality, 1973 to 1998, 66 AM. SOC. REV. 762, 765 (2001).
+<sup>6</sup> See Jeni Loftus, America's Liberalization of Attitudes Toward Homosexuality, 1973 to 1998, 66 AM. SOC. REV. 762, 765 (2001).
 
-<sup>7</sup> See HENRY J. KAISER FAMILY FOUND., PUBL’N. NO. 3194, INSIDE-OUT: A REPORT ON THE EXPERIENCES OF LESBIANS, GAYS AND BISEXUALS IN AMERICA AND THE PUBLIC’S VIEWS ON ISSUES AND POLICIES RELATED TO SEXUAL ORIENTATION 19 (2001), available at http://www.kff.org/kaiserpolls/upload/New-Surveys-on-Experiences-of-Lesbians-Gays-and-Bisexuals-and-the-Public-s-Views-Related-to-Sexual -Orientation-Report.pdf.
+<sup>7</sup> See HENRY J. KAISER FAMILY FOUND., PUBL'N. NO. 3194, INSIDE-OUT: A REPORT ON THE EXPERIENCES OF LESBIANS, GAYS AND BISEXUALS IN AMERICA AND THE PUBLIC'S VIEWS ON ISSUES AND POLICIES RELATED TO SEXUAL ORIENTATION 19 (2001), available at http://www.kff.org/kaiserpolls/upload/New-Surveys-on-Experiences-of-Lesbians-Gays-and-Bisexuals-and-the-Public-s-Views-Related-to-Sexual -Orientation-Report.pdf.
 
 <sup>8</sup> *Id.*; *see also* Dominic J. Parrott & Amos Zeichner, *Effects of Sexual Prejudice and
 Anger on Physical Aggression Toward Gay and Heterosexual Men*, 6 PSYCHOL. OF MEN &
-MASCULINITY 3, 3 (2005) (“Alarmingly, over one third of gay men and lesbians have been victims of interpersonal violence, and up to 94% report some type of victimization related to their sexual orientation.”). In 2006, 1,415 of the 9,080 hate crimes reported to the FBI were based on the victim’s sexual orientation. FED. BUREAU OF INVESTIGATION , U.S. DEP’T OF JUSTICE, 2006 HATE CRIME STATISTICS 1 (2007), available at http://www.fbi.gov/ucr/hc2006/table1.html (last visited June 17, 2008). In 2007, the number of reported bias incidents nationwide fell 1.3 percent. *Hate Crimes: Good news on bias incidents based on race and religion. Bad news on those based on sexual orientation*, WASH. POST, Nov. 5, 2008, at A22. This decrease was driven by a 4.2 percent reduction in the number of reported bias crimes based on religion and a 3.2 reduction in those based on race. *Id.* These decreases were accompanied by a 5.5 percent increase in reported hate crimes based on the victim’s perceived sexual orientation. *Id.*
+MASCULINITY 3, 3 (2005) ("Alarmingly, over one third of gay men and lesbians have been victims of interpersonal violence, and up to 94% report some type of victimization related to their sexual orientation."). In 2006, 1,415 of the 9,080 hate crimes reported to the FBI were based on the victim's sexual orientation. FED. BUREAU OF INVESTIGATION , U.S. DEP'T OF JUSTICE, 2006 HATE CRIME STATISTICS 1 (2007), available at http://www.fbi.gov/ucr/hc2006/table1.html (last visited June 17, 2008). In 2007, the number of reported bias incidents nationwide fell 1.3 percent. *Hate Crimes: Good news on bias incidents based on race and religion. Bad news on those based on sexual orientation*, WASH. POST, Nov. 5, 2008, at A22. This decrease was driven by a 4.2 percent reduction in the number of reported bias crimes based on religion and a 3.2 reduction in those based on race. *Id.* These decreases were accompanied by a 5.5 percent increase in reported hate crimes based on the victim's perceived sexual orientation. *Id.*
 
 <sup>9</sup> Karen Franklin & Gregory M. Herek, Homosexuals, Violence Toward, in 2 ENCYCLOPEDIA OF VIOLENCE, PEACE, CONFLICT 139, 144 (Lester Kurtz & Jennifer Turpin eds., 1999)
 
@@ -266,11 +266,11 @@ MASCULINITY 3, 3 (2005) (“Alarmingly, over one third of gay men and lesbians h
 
 https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.475
 
-<mark>When a heterosexual man kills a gay man</mark> and faces a murder charge, <mark>a common defense strategy is to use the concept of “gay panic”</mark> to explain the killing.<sup>10</sup> <mark>There is no officially recognized “gay panic” defense,</mark> <mark>but many use the term to refer to defense strategies that rely on the notion that a criminal defendant should be excused or justified if his violent actions were in response to a (homo)sexual advance.<sup>11</sup></mark> <mark>Such strategies include using gay panic to bolster claims of insanity, diminished capacity, provocation, and self-defense.</mark> In this paper, I use the term “gay panic defense” as shorthand for these strategies.
+<mark>When a heterosexual man kills a gay man</mark> and faces a murder charge, <mark>a common defense strategy is to use the concept of "gay panic"</mark> to explain the killing.<sup>10</sup> <mark>There is no officially recognized "gay panic" defense,</mark> <mark>but many use the term to refer to defense strategies that rely on the notion that a criminal defendant should be excused or justified if his violent actions were in response to a (homo)sexual advance.<sup>11</sup></mark> <mark>Such strategies include using gay panic to bolster claims of insanity, diminished capacity, provocation, and self-defense.</mark> In this paper, I use the term "gay panic defense" as shorthand for these strategies.
 
 <footer>
 
-<sup>10</sup> See Duncan Osborne, *The Homosexual Panic Defense: Are Juries Really Buying It?*, LGNY NEWS, Nov. 4, 1999, at 4; see also Gary David Comstock, *Dismantling the Homosexual Panic Defense*, 2 LAW & SEXUALITY 81, 81-82 (1992) [hereinafter Comstock, *Dismantling the Homosexual Panic Defense*]; *Developments in the Law — Sexual Orientation and the Law*, 102 HARV. L. REV . 1519, 1542-46 (1989); Joshua Dressler, *When “Heterosexual” Men Kill “Homosexual” Men: Reflections On Provocation Law, Sexual Advances, and the “Reasonable Man” Standard*, 85 J. CRIM. L. & CRIMINOLOGY 726, 726-32 (1995) [hereinafter Dressler, *When “Heterosexual” Men Kill “Homosexual” Men*]; Robert Mison, *Homophobia in Manslaughter: The Homosexual Advance As Insufficient Provocation*, 80 CAL. L. REV. 133, 133-34 (1992); Martha C. Nussbaum, *“Secret Sewers of Vice”: Disgust, Bodies, and the Law*, in THE PASSIONS OF LAW 30, 35-38 (Susan Bandes ed., 1999); Christina Pei-Lin Chen, Note, *Provocation’s Privileged Desire: The Provocation Doctrine, “Homosexual Panic,” and the Non-Violent Unwanted Sexual Advance Defense*, 10 CORNELL J. L. & PUB. POL’Y 195, 201-03, 210-13 (2000); Kara S. Suffredini, Note, *Pride and Prejudice: The Homosexual Panic Defense*, 21 B.C. THIRD WORLD L.J. 279, 279, 302 (2001).
+<sup>10</sup> See Duncan Osborne, *The Homosexual Panic Defense: Are Juries Really Buying It?*, LGNY NEWS, Nov. 4, 1999, at 4; see also Gary David Comstock, *Dismantling the Homosexual Panic Defense*, 2 LAW & SEXUALITY 81, 81-82 (1992) [hereinafter Comstock, *Dismantling the Homosexual Panic Defense*]; *Developments in the Law - Sexual Orientation and the Law*, 102 HARV. L. REV . 1519, 1542-46 (1989); Joshua Dressler, *When "Heterosexual" Men Kill "Homosexual" Men: Reflections On Provocation Law, Sexual Advances, and the "Reasonable Man" Standard*, 85 J. CRIM. L. & CRIMINOLOGY 726, 726-32 (1995) [hereinafter Dressler, *When "Heterosexual" Men Kill "Homosexual" Men*]; Robert Mison, *Homophobia in Manslaughter: The Homosexual Advance As Insufficient Provocation*, 80 CAL. L. REV. 133, 133-34 (1992); Martha C. Nussbaum, *"Secret Sewers of Vice": Disgust, Bodies, and the Law*, in THE PASSIONS OF LAW 30, 35-38 (Susan Bandes ed., 1999); Christina Pei-Lin Chen, Note, *Provocation's Privileged Desire: The Provocation Doctrine, "Homosexual Panic," and the Non-Violent Unwanted Sexual Advance Defense*, 10 CORNELL J. L. & PUB. POL'Y 195, 201-03, 210-13 (2000); Kara S. Suffredini, Note, *Pride and Prejudice: The Homosexual Panic Defense*, 21 B.C. THIRD WORLD L.J. 279, 279, 302 (2001).
 
 <sup>11</sup> Gay panic arguments have been called the Homosexual Advance Defense, the Homosexual Panic Defense, and the Homosexual Rage Defense.
 
@@ -343,7 +343,7 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 I. HISTORICAL ORIGINS OF THE CONCEPT OF GAY PANIC
 
-<mark>The use of gay panic in murder cases has its roots in theories about latent homosexuality as a mental disorder. The term “homosexual panic” was coined by Dr. Edward Kempf, a clinical psychiatrist, in 1920.<sup>37</sup> After treating many patients who exhibited similar characteristics, Kempf came to the conclusion that certain troubled individuals who thought of themselves as heterosexuals were actually latent homosexuals.<sup>38</sup> These individuals suffered from an internal conflict between their feelings of attraction to individuals of the same sex and societal views of such feelings as perverse.<sup>39</sup> They also experienced a heightened sense of anxiety in same-sex environments, caused by this tension</mark> between their true feelings of attraction to members of the same sex and what they perceived as the socially acceptable feelings they were supposed to have — attraction to members of the opposite sex.<sup>40</sup>
+<mark>The use of gay panic in murder cases has its roots in theories about latent homosexuality as a mental disorder. The term "homosexual panic" was coined by Dr. Edward Kempf, a clinical psychiatrist, in 1920.<sup>37</sup> After treating many patients who exhibited similar characteristics, Kempf came to the conclusion that certain troubled individuals who thought of themselves as heterosexuals were actually latent homosexuals.<sup>38</sup> These individuals suffered from an internal conflict between their feelings of attraction to individuals of the same sex and societal views of such feelings as perverse.<sup>39</sup> They also experienced a heightened sense of anxiety in same-sex environments, caused by this tension</mark> between their true feelings of attraction to members of the same sex and what they perceived as the socially acceptable feelings they were supposed to have - attraction to members of the opposite sex.<sup>40</sup>
 
 <footer>
 
@@ -402,7 +402,7 @@ James implies that this is a direct quote from Kempf, when it is a direct quote 
 
 https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.483
 
-<mark>The Diagnostic and Statistical Manual of Mental Disorders, the official list of psychiatric disorders published by the American Psychiatric Association, listed “Homosexual Panic Disorder” in its 1952 edition, but the term has not appeared in that Manual since then.<sup>44</sup></mark> Even in 1952, many of the standard psychiatric and psychological dictionaries did not recognize Homosexual Panic Disorder as a psychiatric disorder.<sup>45</sup>
+<mark>The Diagnostic and Statistical Manual of Mental Disorders, the official list of psychiatric disorders published by the American Psychiatric Association, listed "Homosexual Panic Disorder" in its 1952 edition, but the term has not appeared in that Manual since then.<sup>44</sup></mark> Even in 1952, many of the standard psychiatric and psychological dictionaries did not recognize Homosexual Panic Disorder as a psychiatric disorder.<sup>45</sup>
 
 <footer>
 
@@ -426,7 +426,7 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications p.483-484
 
-<mark>While Kempf’s original theory has been stretched almost beyond recognition in its use as a defense in the criminal courtroom today, modern support does exist for the idea that men who self-identify as heterosexual and express hostility toward gays may actually be latent homosexuals.</mark> <mark>In 1996, Henry Adams conducted a study to find out whether heterosexual men who exhibited strong anti-gay sentiments would be aroused by homosexual erotica.<sup>46</sup></mark> Adams started by measuring sixty-four Caucasian male participants’ feelings toward gays.<sup>47</sup> All participants self-identified as heterosexual.<sup>48</sup> After evaluating their responses, Adams divided the participants into two groups which he labeled “homophobic” (those who seemed hostile toward gays) and “not homophobic” (those who were not hostile toward gays). He then placed a sensor on the penises of all the participants, and measured penile response to erotic videotapes involving heterosexuals, lesbians, and gay men engaging in sexual activity. Only the men in Adams’s homophobic category showed an increase in penile erection in response to male homosexual erotic stimuli.<sup>49</sup>
+<mark>While Kempf's original theory has been stretched almost beyond recognition in its use as a defense in the criminal courtroom today, modern support does exist for the idea that men who self-identify as heterosexual and express hostility toward gays may actually be latent homosexuals.</mark> <mark>In 1996, Henry Adams conducted a study to find out whether heterosexual men who exhibited strong anti-gay sentiments would be aroused by homosexual erotica.<sup>46</sup></mark> Adams started by measuring sixty-four Caucasian male participants' feelings toward gays.<sup>47</sup> All participants self-identified as heterosexual.<sup>48</sup> After evaluating their responses, Adams divided the participants into two groups which he labeled "homophobic" (those who seemed hostile toward gays) and "not homophobic" (those who were not hostile toward gays). He then placed a sensor on the penises of all the participants, and measured penile response to erotic videotapes involving heterosexuals, lesbians, and gay men engaging in sexual activity. Only the men in Adams's homophobic category showed an increase in penile erection in response to male homosexual erotic stimuli.<sup>49</sup>
 
 <footer>
 
@@ -480,15 +480,15 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 <mark>*A. Excuse or Justification?*</mark>
 
-A preliminary question is whether gay panic, if allowed as a defense argument, should be recognized as an excuse or a justification. An excuse defense is one in which the actor’s conduct is viewed as wrongful, but the actor himself is not seen as morally blameworthy.<sup>75</sup> A justification defense, in contrast, focuses on the actor’s conduct more than the individual characteristics of the actor.<sup>76</sup> A justification defense says the actor’s conduct was appropriate under the circumstances.<sup>77</sup> Examples of excuse defenses include insanity, duress, and intoxication. Necessity, self-defense, and defense of others are usually considered justification defenses.
+A preliminary question is whether gay panic, if allowed as a defense argument, should be recognized as an excuse or a justification. An excuse defense is one in which the actor's conduct is viewed as wrongful, but the actor himself is not seen as morally blameworthy.<sup>75</sup> A justification defense, in contrast, focuses on the actor's conduct more than the individual characteristics of the actor.<sup>76</sup> A justification defense says the actor's conduct was appropriate under the circumstances.<sup>77</sup> Examples of excuse defenses include insanity, duress, and intoxication. Necessity, self-defense, and defense of others are usually considered justification defenses.
 
 <footer>
 
-<sup>75</sup> Dressler, *When “Heterosexual” Men Kill “Homosexual” Men*, *supra* note 10, at 763 n.17 (“[A]n excuse is in the nature of a claim that although the actor has harmed society, she should not be blamed . . . for causing that harm . . . . [A]n excuse negates the moral blameworthiness of the actor for causing the harm.”).
+<sup>75</sup> Dressler, *When "Heterosexual" Men Kill "Homosexual" Men*, *supra* note 10, at 763 n.17 ("[A]n excuse is in the nature of a claim that although the actor has harmed society, she should not be blamed . . . for causing that harm . . . . [A]n excuse negates the moral blameworthiness of the actor for causing the harm.").
 
-<sup>76</sup> GEORGE FLETCHER, RETHINKING CRIMINAL LAW 759 (1978) (“A justification speaks to the rightness of the act . . . .”); Joshua Dressler, *New Thoughts About the Concept of Justification in the Criminal Law: A Critique of Fletcher’s Thinking and Rethinking*, 32 UCLA L. REV. 61, 66, 68 n.37 (1984) (discussing distinction between justifications and excuses).
+<sup>76</sup> GEORGE FLETCHER, RETHINKING CRIMINAL LAW 759 (1978) ("A justification speaks to the rightness of the act . . . ."); Joshua Dressler, *New Thoughts About the Concept of Justification in the Criminal Law: A Critique of Fletcher's Thinking and Rethinking*, 32 UCLA L. REV. 61, 66, 68 n.37 (1984) (discussing distinction between justifications and excuses).
 
-<sup>77</sup> FLETCHER, *supra* note 76, at 759 (“A justification speaks to the rightness of the act.”).
+<sup>77</sup> FLETCHER, *supra* note 76, at 759 ("A justification speaks to the rightness of the act.").
 
 </footer>
 </from>
@@ -513,7 +513,7 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 <footer>
 
-<sup>78</sup> If the victim does more than just make a pass — if, for example, the victim tries to forcibly rape the defendant, then ordinary self-defense principles would allow the defendant to protect himself from the imminent threat of grievous bodily injury.
+<sup>78</sup> If the victim does more than just make a pass - if, for example, the victim tries to forcibly rape the defendant, then ordinary self-defense principles would allow the defendant to protect himself from the imminent threat of grievous bodily injury.
 
 </footer>
 </from>
@@ -602,7 +602,7 @@ https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty
 
 <mark>*C. Diminished Capacity*</mark>
 
-<mark>Another doctrinal hook for defendants charged with murdering a gay man is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a mental disease or defect which affected his capacity to premeditate and deliberate or form the requisite intent to kill.</mark> There are two variants of the diminished capacity defense. Under the mens rea variant, “evidence that [the defendant] suffered from a mental disease or defect at the time of his conduct is admissible whenever it is relevant to prove that he lacked a mental state that is an element of the charged offense.”<sup>103</sup> Under the partial responsibility variant, the charge is reduced from murder to manslaughter because the defendant is seen as “less blameworthy and therefore less deserving of punishment, than a killer who acts with a normal state of mind.”<sup>104</sup>
+<mark>Another doctrinal hook for defendants charged with murdering a gay man is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a mental disease or defect which affected his capacity to premeditate and deliberate or form the requisite intent to kill.</mark> There are two variants of the diminished capacity defense. Under the mens rea variant, "evidence that [the defendant] suffered from a mental disease or defect at the time of his conduct is admissible whenever it is relevant to prove that he lacked a mental state that is an element of the charged offense."<sup>103</sup> Under the partial responsibility variant, the charge is reduced from murder to manslaughter because the defendant is seen as "less blameworthy and therefore less deserving of punishment, than a killer who acts with a normal state of mind."<sup>104</sup>
 
 <footer>
 
@@ -632,7 +632,7 @@ Now that we've taken a law class, it's time to take a history class. David Kamme
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 1
 
-<mark>The first time Jack Kerouac’s name appeared in the press was</mark> August 17, 1944, <mark>when he and William Burroughs were arrested as material witnesses to murder.</mark> While the headlines were consumed that day with news of the Allies’ successful landing on the southern coast of France, the murder was sensational enough to make the front page of the New York Times: “Columbia Student Kills Friend and Sinks Body in Hudson River.”
+<mark>The first time Jack Kerouac's name appeared in the press was</mark> August 17, 1944, <mark>when he and William Burroughs were arrested as material witnesses to murder.</mark> While the headlines were consumed that day with news of the Allies' successful landing on the southern coast of France, the murder was sensational enough to make the front page of the New York Times: "Columbia Student Kills Friend and Sinks Body in Hudson River."
 
 </from>
 </compare>
@@ -649,7 +649,7 @@ David <mark>Kammerer and Carr had met in Saint Louis at a summer camp for boys w
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 6 (after first page break)
 
-<mark>Kammerer and Carr had met in St. Louis at a summer camp for boys, where Kammerer was an instructor and Carr a student. From a middle-class family, Kammerer earned a Ph.D. in English, and had taught literature and physical education at Washington University. What started as an infatuation turned into a decade-long attraction. He followed the young Carr across the country, from Andover, to the University of Chicago, to Bowdoin College in Maine, before moving to New York City when Carr entered Columbia University. The Burroughs biographer Ted Morgan related that while many believed these moves reflected Carr’s attempt to “get away from Kammerer,” others were dubious, for “when you saw them together, they seemed to be the best of friends, drinking and horsing around.”</mark> [...]
+<mark>Kammerer and Carr had met in St. Louis at a summer camp for boys, where Kammerer was an instructor and Carr a student. From a middle-class family, Kammerer earned a Ph.D. in English, and had taught literature and physical education at Washington University. What started as an infatuation turned into a decade-long attraction. He followed the young Carr across the country, from Andover, to the University of Chicago, to Bowdoin College in Maine, before moving to New York City when Carr entered Columbia University. The Burroughs biographer Ted Morgan related that while many believed these moves reflected Carr's attempt to "get away from Kammerer," others were dubious, for "when you saw them together, they seemed to be the best of friends, drinking and horsing around."</mark> [...]
 
 </from>
 <comment>
@@ -682,7 +682,7 @@ Kerouac in particular was torn. He was engaged to a wealthy heiress, Edie Parker
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 12
 
-In fact, the twenty-two-year-old Kerouac, according to the biographer Ellis Amburn, was struggling with his own sexual desires that summer, torn between his feeling for Lucien Carr and pressure to marry the wealthy Edie Parker. <mark>Kammerer had become intensely jealous when both Kerouac and Allen Ginsberg competed for Carr’s affection. Ultimately, Kerouac and Carr formed a close relationship.</mark> Kerouac affectionately called Lucien “Lou,” and Carr returned such affections with his usual impertinence, calling Jack his “has-been queen.”
+In fact, the twenty-two-year-old Kerouac, according to the biographer Ellis Amburn, was struggling with his own sexual desires that summer, torn between his feeling for Lucien Carr and pressure to marry the wealthy Edie Parker. <mark>Kammerer had become intensely jealous when both Kerouac and Allen Ginsberg competed for Carr's affection. Ultimately, Kerouac and Carr formed a close relationship.</mark> Kerouac affectionately called Lucien "Lou," and Carr returned such affections with his usual impertinence, calling Jack his "has-been queen."
 
 </from>
 </compare>
@@ -729,9 +729,9 @@ Once in custody, Carr told police that over the years of their acquaintance, Kam
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 6-7
 
-[...] <mark>In his police confession, Carr claimed that over the years of their acquaintance, Kammerer had several times “made improper advances to him, but that he had always rebuffed the older man.”</mark>
+[...] <mark>In his police confession, Carr claimed that over the years of their acquaintance, Kammerer had several times "made improper advances to him, but that he had always rebuffed the older man."</mark>
 
-<mark>The phrase improper advances was not new to crime stories in the forties. Since the late nineteenth century, such terms were common in the press to describe verbal and physical assaults on women. They connoted criminal actions that simmered with sexual abuses too shocking to make explicit. While the terms improper advance or indecent advance appeared in queer crime stories in the thirties, it was in the post–World War II years when such terms used in the press and the courtroom came to embody the perceived threats of homosexuals on the home front.</mark>
+<mark>The phrase improper advances was not new to crime stories in the forties. Since the late nineteenth century, such terms were common in the press to describe verbal and physical assaults on women. They connoted criminal actions that simmered with sexual abuses too shocking to make explicit. While the terms improper advance or indecent advance appeared in queer crime stories in the thirties, it was in the post-World War II years when such terms used in the press and the courtroom came to embody the perceived threats of homosexuals on the home front.</mark>
 
 </from>
 </compare>
@@ -748,7 +748,7 @@ https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 8
 
-<mark>Initially, Assistant District Attorney Jacob Grumet had doubts about Carr’s confession, telling the *New York Times* he “was uncertain whether he was dealing with a slayer or a lunatic.” Determining whether the crime was the work of a vulnerable teenager or a crazed, psychopathic queer lover would become the compelling question for detectives and journalists alike. Solving this mystery depended on solving the riddle of Carr’s sexuality.</mark>
+<mark>Initially, Assistant District Attorney Jacob Grumet had doubts about Carr's confession, telling the *New York Times* he "was uncertain whether he was dealing with a slayer or a lunatic." Determining whether the crime was the work of a vulnerable teenager or a crazed, psychopathic queer lover would become the compelling question for detectives and journalists alike. Solving this mystery depended on solving the riddle of Carr's sexuality.</mark>
 
 </from>
 </compare>
@@ -765,7 +765,7 @@ https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 9
 
-<mark>Initial press accounts described Carr with a myriad of unmanly attributes, including “a pale slender youth,” “refined,” and “a frail blond youth,” “whose frail build and earnest expression might easily arouse sympathy.” The New York tabloids presented the teen as a helpless victim of a psychotic homosexual attack. The *Daily Mirror* called the crime a “twisted sex murder.” The *New York Daily News* described Carr’s stabbing as an “honor slaying.” The *Daily News* contrasted the “mild” expression on Carr’s “young face” against the “33 year old former English teacher” who, Carr claimed, was “a homosexual.” In drawing this contrast between youthful innocence and sexual deviance, it was often difficult to discern who was the real victim of the crime.</mark>
+<mark>Initial press accounts described Carr with a myriad of unmanly attributes, including "a pale slender youth," "refined," and "a frail blond youth," "whose frail build and earnest expression might easily arouse sympathy." The New York tabloids presented the teen as a helpless victim of a psychotic homosexual attack. The *Daily Mirror* called the crime a "twisted sex murder." The *New York Daily News* described Carr's stabbing as an "honor slaying." The *Daily News* contrasted the "mild" expression on Carr's "young face" against the "33 year old former English teacher" who, Carr claimed, was "a homosexual." In drawing this contrast between youthful innocence and sexual deviance, it was often difficult to discern who was the real victim of the crime.</mark>
 
 </from>
 </compare>
@@ -782,7 +782,7 @@ By September, when Carr entered a guilty plea of second-degree manslaughter, the
 
 https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/ para 10
 
-By September, when Carr entered a guilty plea of first-degree manslaughter, the Assistant District Attorney believed that Carr “had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer’s persistence,” the prosecutor added, “had made young Carr ‘emotionally unstable.’ ” In her testimony, Mrs. Carr described Kammerer as a “veritable Iago” who had corrupted her son “purely for the love of evil.”
+By September, when Carr entered a guilty plea of first-degree manslaughter, the Assistant District Attorney believed that Carr "had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence," the prosecutor added, "had made young Carr 'emotionally unstable.' " In her testimony, Mrs. Carr described Kammerer as a "veritable Iago" who had corrupted her son "purely for the love of evil."
 
 </from>
 <comment>
@@ -1307,7 +1307,7 @@ https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Par
 
 https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.2-3
 
-<mark>“I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”</mark>
+<mark>"I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”</mark>
 
 <mark>The family asked the judge to exclude any evidence that Robert Jackson was ever involved in homosexual activities.</mark>
 
@@ -1354,7 +1354,7 @@ https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Par
 
 https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two.pdf p.3
 
-<mark>“There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, “No jurors were choice one the first day of the trial."</mark>
+<mark>"There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, "No jurors were choice one the first day of the trial."</mark>
 
 </from>
 </compare>
@@ -1527,7 +1527,7 @@ https://en.wikipedia.org/w/index.php?title=Murder_of_Scott_Amedure&oldid=1004903
 
 https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 3
 
-The first episode of *Trial By Media* examines [such a segment that](https://www.youtube.com/watch?v=3EvUzzbzFNc) was shot for *The Jenny Jones Show* on March 6, 1995, but never aired because of the devastating aftermath of the events filmed for the program. <mark>The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the 24-year-old Schmitz, who was backstage at the time, unable to hear,</mark> and clueless as to who might be waiting to reveal themself to him. <mark>After Amedure is pressed to reveal a fantasy that involves Schmitz, a hammock, strawberries, and whipped cream, Jones brings out Schmitz, who awkwardly embraces Amedure before he sits down. After Jones reveals it to be Amedure who has the secret crush and plays back the audio of Amedure’s</mark> explicit <mark>fantasies, Schmitz professes his “complete heterosexuality,” smiling forcibly and laughing uncomfortably</mark>. The clip never aired on television. 
+The first episode of *Trial By Media* examines [such a segment that](https://www.youtube.com/watch?v=3EvUzzbzFNc) was shot for *The Jenny Jones Show* on March 6, 1995, but never aired because of the devastating aftermath of the events filmed for the program. <mark>The unaired episode begins with Jones asking Scott Amedure to tell the audience about his fantasies involving the 24-year-old Schmitz, who was backstage at the time, unable to hear,</mark> and clueless as to who might be waiting to reveal themself to him. <mark>After Amedure is pressed to reveal a fantasy that involves Schmitz, a hammock, strawberries, and whipped cream, Jones brings out Schmitz, who awkwardly embraces Amedure before he sits down. After Jones reveals it to be Amedure who has the secret crush and plays back the audio of Amedure’s</mark> explicit <mark>fantasies, Schmitz professes his "complete heterosexuality,” smiling forcibly and laughing uncomfortably</mark>. The clip never aired on television. 
 
 </from>
 </compare>
@@ -1566,7 +1566,7 @@ Other testimony said that <mark>when Jonathan returned home,</mark> <mark>he fou
 
 https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/ para 4
 
-Three days after <mark>Amedure and Schmitz flew home</mark> together to Detroit from Chicago following the episode’s taping, <mark num=3>Schmitz showed up at Amedure’s mobile home to inquire about whether</mark> <mark num=2>a suggestive note left on his driveway</mark> <mark>was from Amedure. When Amedure admitted it was, Schmitz went to his car and returned to the door with a newly purchased 12-gauge shotgun. Schmitz shot Amedure twice in the chest and killed him. He immediately called 911 to turn himself in. During the call Schmitz is asked why he shot Amedure, to which he replies “Because he played a very fucking bad thing on me. He took me on Jenny Jones.”</mark> 
+Three days after <mark>Amedure and Schmitz flew home</mark> together to Detroit from Chicago following the episode’s taping, <mark num=3>Schmitz showed up at Amedure’s mobile home to inquire about whether</mark> <mark num=2>a suggestive note left on his driveway</mark> <mark>was from Amedure. When Amedure admitted it was, Schmitz went to his car and returned to the door with a newly purchased 12-gauge shotgun. Schmitz shot Amedure twice in the chest and killed him. He immediately called 911 to turn himself in. During the call Schmitz is asked why he shot Amedure, to which he replies "Because he played a very fucking bad thing on me. He took me on Jenny Jones.”</mark> 
 
 </from>
 </compare>
@@ -1706,7 +1706,7 @@ Matthew Shepard. <mark>Aaron Kreifels inspected the twisted wheel of his mountai
 
 https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.121
 
-<mark>Aaron Kreifels inspected the twisted wheel of his mountain bike.</mark> An avid cyclist, the eighteen-year-old college student <mark>had decided earlier that cool evening</mark> of October 7, 1998, <mark>to take a ride on an old, double-rutted road just outside Laramie, Wyoming. Now, it did not seem like such a good idea. He had fallen while struggling through deep sand. Although he was unhurt, his bike was too badly damaged to ride home. Looking at the broken spokes, he noticed something tied to a nearby fence. “At first I thought it was a scarecrow,” Kreifels later told</mark> the Denver Post, “so I didn’t think much of it. Then I went around and noticed it was a real person. I checked to see if he was conscious or not, and when I found out he wasn’t, I ran and got help as fast as I could.”<sup>1</sup>
+<mark>Aaron Kreifels inspected the twisted wheel of his mountain bike.</mark> An avid cyclist, the eighteen-year-old college student <mark>had decided earlier that cool evening</mark> of October 7, 1998, <mark>to take a ride on an old, double-rutted road just outside Laramie, Wyoming. Now, it did not seem like such a good idea. He had fallen while struggling through deep sand. Although he was unhurt, his bike was too badly damaged to ride home. Looking at the broken spokes, he noticed something tied to a nearby fence. "At first I thought it was a scarecrow,” Kreifels later told</mark> the Denver Post, "so I didn’t think much of it. Then I went around and noticed it was a real person. I checked to see if he was conscious or not, and when I found out he wasn’t, I ran and got help as fast as I could.”<sup>1</sup>
 
 </from>
 </compare>
@@ -1723,7 +1723,7 @@ https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american
 
 https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.121
 
-<mark>The “scarecrow” was Matthew Shepard, a twenty-one-year-old University of Wyoming student. Small and slightly built, he stood only five-feet-two-inches tall and weighed some 105 pounds. Friends described him as a gentle person, passionately committed to human rights. Shepard was also bold, being openly gay in a conservative state. The night before, two Laramie roofers, pretending to be gay, had lured him out of a popular local bar. Driving Shepard to this spot a mile outside town, they stopped their truck and, turning to him, said: “Guess what? We’re not gay and you just got Jacked.” They then bludgeoned him beyond recognition with the butt of a .357 Magnum and lashed him to the crude wooden fence.<sup>2</sup></mark>
+<mark>The "scarecrow” was Matthew Shepard, a twenty-one-year-old University of Wyoming student. Small and slightly built, he stood only five-feet-two-inches tall and weighed some 105 pounds. Friends described him as a gentle person, passionately committed to human rights. Shepard was also bold, being openly gay in a conservative state. The night before, two Laramie roofers, pretending to be gay, had lured him out of a popular local bar. Driving Shepard to this spot a mile outside town, they stopped their truck and, turning to him, said: "Guess what? We’re not gay and you just got Jacked.” They then bludgeoned him beyond recognition with the butt of a .357 Magnum and lashed him to the crude wooden fence.<sup>2</sup></mark>
 
 </from>
 </compare>
@@ -1913,7 +1913,7 @@ In the opening remarks of the trial of Aaron McKinney in the fall of 1999, McKin
 </james>
 <comment>
 
-I am fairly certain that Somerton made up the part about "Matthew's murder was justified" - I found no record of such a "defense" being used, and I'm sure it would have been a big deal if it had been used. The Westboro protesters were saying those things, not the defense attorneys. I'm not sure if most of the earlier attacks on Shepard actually happened either; from what I read of the trial, the defense mostly focused on explaining how McKinney's drug and alcohol use and trauma from sexual abuse led to him "snapping" when Shepard supposedly propositioned him, and that he hadn't intended to kill him when he beat him. It is true, though, that a gay panic defense was made and the judge refused to consider it. (https://www.washingtonpost.com/wp-srv/national/daily/nov99/shepard110199.htm) (https://www.washingtonpost.com/wp-srv/national/longterm/hatecrimes/stories/shepard102699.htm) 
+I am certain that Somerton made up the part about "Matthew's murder was justified" - I found no record of such a "defense" being used, and I'm sure it would have been a big deal if it had been used. The Westboro protesters were saying those things, not the defense attorneys. I'm not sure if most of the earlier attacks on Shepard (minus accusing Shepard of propositioning McKinney) actually happened either; from what I read of the trial, the defense mostly focused on explaining how McKinney's drug and alcohol use and trauma from sexual abuse led to him "snapping" when Shepard supposedly propositioned him, and that he hadn't intended to kill him when he beat him. It is true, though, that a gay panic defense was made and the judge refused to consider it. (https://www.washingtonpost.com/wp-srv/national/daily/nov99/shepard110199.htm) (https://www.washingtonpost.com/wp-srv/national/longterm/hatecrimes/stories/shepard102699.htm) 
 
 </comment>
 <from></from>
@@ -1942,7 +1942,7 @@ For the first time, legal professionals and the American public were wholly reje
 
 https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE p.131
 
-<mark>Religious leaders also weighed in. Although they could have framed Shepard and the attack using a religious perspective, they also maintained the same secular focus and avoided any religious language. Frank Griswold, Presiding Bishop of the Episcopal Church, described Shepard as a member of “our human community” and as “our brother” and decried a national “climate of hate” that “makes such a crime possible.” </mark>He did not, unlike the president’s statement, request prayers on Shepard’s behalf, nor, as might be expected from a cleric, did Griswold mention Shepard might be in heaven. <mark>Dignity/USA, a gay Catholic organization, declared: “the murder of Matthew Shepard is an extreme example of a hate motivated crime.”</mark> Yet, it also contained no mention of prayers for the young man. An exception to this trend, however, came from the Metropolitan Community Church. Troy Perry firmly declared: “Matt has truly ‘slipped the surly bonds of earth to touch the face of God.’” This image of Shepard in the presence of God, then, was the exception that proved the rule. Only Perry was willing to depart from a secular construction of Shepard to broach a religious one, although without the language of popular martyrdom. On the whole, the media and prominent public leaders — including many religious leaders — tended to cast Shepard and the attack in a secular light.<sup>25</sup>
+<mark>Religious leaders also weighed in. Although they could have framed Shepard and the attack using a religious perspective, they also maintained the same secular focus and avoided any religious language. Frank Griswold, Presiding Bishop of the Episcopal Church, described Shepard as a member of "our human community" and as "our brother" and decried a national "climate of hate" that "makes such a crime possible." </mark>He did not, unlike the president's statement, request prayers on Shepard's behalf, nor, as might be expected from a cleric, did Griswold mention Shepard might be in heaven. <mark>Dignity/USA, a gay Catholic organization, declared: "the murder of Matthew Shepard is an extreme example of a hate motivated crime."</mark> Yet, it also contained no mention of prayers for the young man. An exception to this trend, however, came from the Metropolitan Community Church. Troy Perry firmly declared: "Matt has truly 'slipped the surly bonds of earth to touch the face of God.'" This image of Shepard in the presence of God, then, was the exception that proved the rule. Only Perry was willing to depart from a secular construction of Shepard to broach a religious one, although without the language of popular martyrdom. On the whole, the media and prominent public leaders - including many religious leaders - tended to cast Shepard and the attack in a secular light.<sup>25</sup>
 
 </from>
 </compare>
@@ -2024,7 +2024,7 @@ There was hope after Matthew's murder that the country would wake up, that the L
 <compare>
 <james {% include timecode %}>
 
-<mark>Billy Jack Gaither, Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there.</mark> <mark>Only around 100 gay people lived there, but most weren't open. Most would travel to bars in Birmingham to meet other gay people.</mark> 
+<q>Billy Jack Gaither.</q> <mark>Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there.</mark> <mark>Only around 100 gay people lived there, but most weren't open. Most would travel to bars in Birmingham to meet other gay people.</mark> 
 
 </james>
 <from>
@@ -2041,7 +2041,7 @@ The town of <mark>Sylacauga, Alabama had less than 13,000 residents and seventy 
 <compare>
 <james {% include timecode %}>
 
-<mark>All of his life, Billy was a faithful Baptist singing in the choir and never missing services. He especially loved gospel music. He kept a Bible on his nightstand, and a friend said he read from it every night.</mark> <mark>He was described as quiet and easy going</mark> 
+<mark>All of his life, Billy was a faithful Baptist, singing in the choir and never missing services. He especially loved gospel music. He kept a Bible on his nightstand, and a friend said he read from it every night.</mark> <mark>He was described as quiet and easy going</mark> 
 
 </james>
 <from>
@@ -2055,16 +2055,21 @@ The town of <mark>Sylacauga, Alabama had less than 13,000 residents and seventy 
 <compare>
 <james {% include timecode %}>
 
-<mark>in school He was often bullied.</mark> <mark>He dropped out of high school in the 11th grade, later getting his GED.</mark> He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else. <mark>He enlisted in the Marines</mark> <mark>after getting his GED,</mark> <mark>but was honorably discharged soon after. Due to high blood pressure.</mark>
+<mark>In school, he was often bullied.</mark> <mark>He dropped out of high school in the 11th grade, later getting his GED.</mark> He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else. <mark>He enlisted in the Marines</mark> <mark>after getting his GED,</mark> <mark>but was honorably discharged soon after due to high blood pressure.</mark>
 
 </james>
 <from>
 
 7:40-8:23
 
-<mark>In school, Billy was often bullied</mark> he was called a fag and a queer. His brother Ricky said the name calling was difficult for Billy to deal with in such a small town. <mark>Billy Jack dropped out of high school in the 11th grade and later got his GED.</mark> but he stood up for himself and his siblings. He didn't like bullies and he would also put his brothers in check if he thought they were bullying someone else. According to Billy's brother Ricky, if you triggered his button, you better be ready. Billy's parents told the New York Times that <mark>after he got his GED</mark> <mark>he enlisted in the Marines</mark> <mark>but was honorably discharged a year later due to high blood pressure</mark>
+<mark>In school, Billy was often bullied</mark> - he was called a fag and a queer. His brother Ricky said the name calling was difficult for Billy to deal with in such a small town. <mark>Billy Jack dropped out of high school in the 11th grade and later got his GED.</mark> but he stood up for himself and his siblings. He didn't like bullies and he would also put his brothers in check if he thought they were bullying someone else. According to Billy's brother Ricky, if you triggered his button, you better be ready. Billy's parents told the New York Times that <mark>after he got his GED</mark> <mark>he enlisted in the Marines</mark> <mark>but was honorably discharged a year later due to high blood pressure</mark>
 
 </from>
+<comment>
+
+James makes this truly bizarre exagerration where Billy is portrayed as some sort of local folk hero fighting against racism and sexism? What?
+
+</comment>
 </compare>
 
 {% assign timecode = "00:51:26" %}
@@ -2122,6 +2127,11 @@ According to his sibling, <mark>Billy really did try to be straight for the sake
 Friends say Billy <mark>did have at least two short-term relationships with other men,</mark> but he would meet them out of town.
 
 </from>
+<comment>
+
+James changes "short-term" to "long-term."
+
+</comment>
 </compare>
 
 {% assign timecode = "00:52:23" %}
@@ -2129,7 +2139,7 @@ Friends say Billy <mark>did have at least two short-term relationships with othe
 <compare>
 <james {% include timecode %}>
 
-On February 19th, 1999, <mark>Billy Jack Gaither went to The Tavern, an Alabama nightclub where he had been friends with the owner, Marion Hammond,</mark> for 20 years. <mark>Gaither was a regular there.</mark> <mark>Another regular, Steve Mullins, also started hanging out at The Tavern.</mark> His presence, though, wasn't quite so benign. <mark>He sometimes showed up wearing racist T-shirts</mark> and <mark>harassing African American customers.</mark> <mark>He was known locally as a wannabe</mark> <mark>skinhead.</mark> <mark>People mentioned later that they saw Mullins and Gaither together at the bar a lot.</mark> Assuming that Gaither was talking him out of his borderline white supremacist ways, <mark>sometimes they would leave together, which made some people assume that they had a sexual relationship when in reality,</mark> <mark>Billy Jack was well known for driving his drunk friends home</mark> at the end of the night.
+On February 19th, 1999, <mark>Billy Jack Gaither went to The Tavern, an Alabama nightclub where he had been friends with the owner, Marion Hammond,</mark> for 20 years. <mark>Gaither was a regular there.</mark> <mark>Another regular, Steve Mullins, also started hanging out at The Tavern.</mark> His presence, though, wasn't quite so benign. <mark>He sometimes showed up wearing racist T-shirts</mark> and <mark>harassing African American customers.</mark> <mark>He was known locally as a wannabe</mark> <mark>skinhead.</mark> <mark>People mentioned later that they saw Mullins and Gaither together at the bar a lot,</mark> assuming that Gaither was talking him out of his borderline white supremacist ways. <mark>Sometimes they would leave together, which made some people assume that they had a sexual relationship when in reality,</mark> <mark>Billy Jack was well known for driving his drunk friends home</mark> at the end of the night.
 
 </james>
 <from>
@@ -2168,6 +2178,8 @@ Steven and Charles didn't know Billy until the night of the murder. <mark>Steven
 
 According to the podcast, Steven asked Billy to give him a ride to The Tavern, while Charles was at a pool tournament at a different bar, Steven went back and forth between the two bars a couple times and talked to Charles about the murder plan at some point, then Billy picked them both up at the other bar when the tournament was over. The police were at The Tavern, so they went to Charles' house instead.
 
+Also, why did he change "half-brother" to "cousin"? He clearly has the podcast transcript in front of him, from how little he changes everything else.
+
 </comment>
 </compare>
 
@@ -2176,7 +2188,7 @@ According to the podcast, Steven asked Billy to give him a ride to The Tavern, w
 <compare>
 <james {% include timecode %}>
 
-<mark><span stat:id="baa">From all accounts,</span></mark> <mark>the proposition never actually happened.</mark> <mark>Billy Jack never had encounters with men from Sylacauga</mark> for fear that word would get back to his parents. <mark>He only dated men from Birmingham</mark> <mark>and even admonished other gay men in local bars when they flirted too. Obviously.</mark> A friend said later that Billy was proud of being gay, but never expected anyone else to accept him.
+<mark><span stat:id="baa">From all accounts,</span></mark> <mark>the proposition never actually happened.</mark> <mark>Billy Jack never had encounters with men from Sylacauga</mark> for fear that word would get back to his parents. <mark>He only dated men from Birmingham</mark> <mark>and even admonished other gay men in local bars when they flirted too obviously.</mark> A friend said later that Billy was proud of being gay, but never expected anyone else to accept him.
 
 </james>
 <from>
@@ -2186,6 +2198,11 @@ According to the podcast, Steven asked Billy to give him a ride to The Tavern, w
 Billy claimed he didn't say anything back, but Billy's brother Ricky said <mark num=2>he didn't believe Billy would proposition anyone.</mark> Quote "he wouldn't approach anybody that didn't approach him. He didn't push himself on people. He didn't push the gay life on people. He accepted people for what they were." Marion Hammond, owner of The Tavern, agreed and said <mark num=3>Billy was really strict about his life in Sylacauga</mark> <mark num=5>and would even admonish other gay men in The Tavern if they were too flamboyant or hit on straight men.</mark> He was insistent that there were gay bars for that in Birmingham and it would cause trouble in the Sylacauga bar. He loved The Tavern and he didn't want anyone to be offended. <mark num=1>From all accounts,</mark> <mark num=4>Billy strictly dated men in Birmingham</mark> or sometimes Montgomery. The rumors about him and Steven were really just that, rumors. There's no proof that Billy had any sort of relationship with Steven.
 
 </from>
+<comment>
+
+I could not find any account of anyone making that last remark. [Marion Hammond said that he "was not ashamed of who he was"](https://en.wikipedia.org/wiki/Murder_of_Billy_Jack_Gaither) but nothing about being afraid of not being accepted.
+
+</comment>
 </compare>
 
 {% assign timecode = "00:53:50" %}
@@ -2488,7 +2505,7 @@ Gwen Araujo was born on February 24, 1985, in Brawley, California, to Edward Ara
 
 https://t-vox.org/history/people/gwen-araujo Death para 1
 
-<mark>Gwen, who was going by the name “Lida” at the time, was introduced to a circle of friends</mark> whom she met during a chance encounter while walking down a local street. The group of young adults <mark>enjoyed passing the evening hours with party activities that included playing dominos</mark> and consuming drugs and alcohol <mark>at the home of Gwen’s to-be assailants.</mark> Gwen was reported to have engaged in sexual activities with several of the men from the group. <mark>She was later invited back to the house where a party was planned a few weeks after she and the men had first met.</mark> She wore her mother’s peasant blouse to the party. Gwen’s mother had asked her not to wear the clothing she had picked out for that evening and expressed her discomfort with Gwen’s appearance. Gwen told her mother that she was just being jealous of her. This was the last time Sylvia Guerrero would see her child alive.
+<mark>Gwen, who was going by the name "Lida” at the time, was introduced to a circle of friends</mark> whom she met during a chance encounter while walking down a local street. The group of young adults <mark>enjoyed passing the evening hours with party activities that included playing dominos</mark> and consuming drugs and alcohol <mark>at the home of Gwen’s to-be assailants.</mark> Gwen was reported to have engaged in sexual activities with several of the men from the group. <mark>She was later invited back to the house where a party was planned a few weeks after she and the men had first met.</mark> She wore her mother’s peasant blouse to the party. Gwen’s mother had asked her not to wear the clothing she had picked out for that evening and expressed her discomfort with Gwen’s appearance. Gwen told her mother that she was just being jealous of her. This was the last time Sylvia Guerrero would see her child alive.
 
 </from>
 </compare>
@@ -2612,7 +2629,7 @@ https://t-vox.org/history/people/gwen-araujo Second Trial
 
 https://t-vox.org/history/people/gwen-araujo Second Trial para 2
 
-On August 24, 2005, closing argument commenced. <mark>Prosecutor Chris Lamiero appeared to abandon the strategy that the prosecution employed in the first trial - blaming all three defendants equally for the crime and arguing hard only for first degree murder - and instead concentrated his argument against Magidson, calling him a “pathetic, despicable excuse for a man”. As for Cazares, Lamiero argued that his assistance of Magidson made him as culpable as Magidson for murder.</mark> He repeatedly referred to Cazares as “the killer’s friend” during his argument. Lamiero further appeared to concede that the murder might not be first degree murder, by arguing that the most important thing for the jury is to find Magidson and Cazares guilty of murder, either first degree or second degree. Lamiero’s closing arguments appeared to leave Merél entirely out of his fire - stating merely that Merél’s fate was up to the jury. This may be because Merél’s testimony, if believed, would tend to establish Magidson’s and Cazares’ guilt.
+On August 24, 2005, closing argument commenced. <mark>Prosecutor Chris Lamiero appeared to abandon the strategy that the prosecution employed in the first trial - blaming all three defendants equally for the crime and arguing hard only for first degree murder - and instead concentrated his argument against Magidson, calling him a "pathetic, despicable excuse for a man”. As for Cazares, Lamiero argued that his assistance of Magidson made him as culpable as Magidson for murder.</mark> He repeatedly referred to Cazares as "the killer’s friend” during his argument. Lamiero further appeared to concede that the murder might not be first degree murder, by arguing that the most important thing for the jury is to find Magidson and Cazares guilty of murder, either first degree or second degree. Lamiero’s closing arguments appeared to leave Merél entirely out of his fire - stating merely that Merél’s fate was up to the jury. This may be because Merél’s testimony, if believed, would tend to establish Magidson’s and Cazares’ guilt.
 
 </from>
 </compare>
@@ -2655,7 +2672,7 @@ In an interview with the San Francisco Chronicle, juror Max Stern, a San Francis
 
 LVence
 
-The jury did not think it was “just a bunch of boys being boys.” According to T-vox it was “because the situation got out of hand.”
+The jury did not think it was "just a bunch of boys being boys.” According to T-vox it was "because the situation got out of hand.”
 
 </comment>
 </compare>
@@ -2672,7 +2689,7 @@ The jury did not think it was “just a bunch of boys being boys.” According t
 
 https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
 
-<mark>Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St. Edward’s Catholic Church in Newark. Following the ceremonies, there was a march through main streets leading to the community’s mall attended by community dignitaries and leaders.</mark> Gwen was remembered again during the “Remembering Our Dead” vigils that took place in several major cities to commemorate the deaths of 27 transgender people during the 12 month period that contained Gwen Araujo’s own death. A few days after the funeral, members of the Westboro Baptist Church (followers of Fred Phelps) picketed the church proclaiming that “cross-dressing teen pervert Eddie Araujo (a.k.a. Gwen or Lida) has joined Matthew Shepard in hell.” The clan also picketed many places around the Newark area including Newark Memorial High School where drama students performed The Laramie Project.
+<mark>Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St. Edward’s Catholic Church in Newark. Following the ceremonies, there was a march through main streets leading to the community’s mall attended by community dignitaries and leaders.</mark> Gwen was remembered again during the "Remembering Our Dead” vigils that took place in several major cities to commemorate the deaths of 27 transgender people during the 12 month period that contained Gwen Araujo’s own death. A few days after the funeral, members of the Westboro Baptist Church (followers of Fred Phelps) picketed the church proclaiming that "cross-dressing teen pervert Eddie Araujo (a.k.a. Gwen or Lida) has joined Matthew Shepard in hell.” The clan also picketed many places around the Newark area including Newark Memorial High School where drama students performed The Laramie Project.
 
 <mark>At Gwen’s mother request, a judge posthumously changed Gwen’s legal name to Gwen on June 23, 2004.</mark>
 
@@ -2784,7 +2801,7 @@ https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime
 
 Who Was Angie Zapata? para 1
 
-<mark>Angie Zapata was born Justin Zapata on August 5, 1989, and was one of six children.</mark> Zapata was feminine <mark num=3>from an early age</mark> and was attracted to boys. <mark num=2>She talked with her family and close friends about her gender identity and they referred to her as “Angie”</mark> when she presented as female.
+<mark>Angie Zapata was born Justin Zapata on August 5, 1989, and was one of six children.</mark> Zapata was feminine <mark num=3>from an early age</mark> and was attracted to boys. <mark num=2>She talked with her family and close friends about her gender identity and they referred to her as "Angie”</mark> when she presented as female.
 
 </from>
 </compare>
@@ -2901,9 +2918,9 @@ Lynn Nettles. Finally, I would like to take a moment to talk about Nettles. On A
 
 https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html
 
-Though he initially gave a different account of his encounter with Ms. Nettles, Mr. Dixon admitted while being questioned by a homicide detective that he had seen some of his friends talking to her and a second transgender woman, who was more heavy set and wore a white top and sandals. He crossed the street and began chatting with Ms. Nettles, whom he did not realize was transgender. “I remember asking her what is her name, where are you from,” he said. “That’s how I roll up.”
+Though he initially gave a different account of his encounter with Ms. Nettles, Mr. Dixon admitted while being questioned by a homicide detective that he had seen some of his friends talking to her and a second transgender woman, who was more heavy set and wore a white top and sandals. He crossed the street and began chatting with Ms. Nettles, whom he did not realize was transgender. "I remember asking her what is her name, where are you from,” he said. "That’s how I roll up.”
 
-Then, he said, he heard one of his friends mocking him, saying, “That’s a guy,” and he became enraged. “They were clowning me,” he told the detectives.
+Then, he said, he heard one of his friends mocking him, saying, "That’s a guy,” and he became enraged. "They were clowning me,” he told the detectives.
 
 </from>
 </compare>
@@ -2940,7 +2957,7 @@ Ms. Nettles died of head injuries she sustained when her head rammed into the pa
 
 [...]
 
-<mark>Three days after the assault, Mr. Dixon, of Classon Avenue in Brooklyn, turned himself in to the police and confessed, telling a detective he had flown into “a blind fury” when he discovered he was talking to a transgender woman. The next morning, he was videotaped repeating the story for prosecutors.</mark>
+<mark>Three days after the assault, Mr. Dixon, of Classon Avenue in Brooklyn, turned himself in to the police and confessed, telling a detective he had flown into "a blind fury” when he discovered he was talking to a transgender woman. The next morning, he was videotaped repeating the story for prosecutors.</mark>
 
 </from>
 </compare>
