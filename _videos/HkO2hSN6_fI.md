@@ -4,12 +4,13 @@ redirect_from:
 
 date: 2023-04-05
 title: The Gays and Dating Apps (A Conversation)
+runtime: 51:03
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=mgNS_u4eWVU" # reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230405+HkO2hSN6_fI+The+Gays+and+Dating+Apps+(A+Conversation).webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Gays+and+Dating+Apps+(A+Conversation).mp4"
 # description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast
@@ -23,6 +24,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

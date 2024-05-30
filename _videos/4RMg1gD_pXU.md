@@ -2,7 +2,7 @@
 redirect_from:
   - "/videos/4rmg1gd_pxu"
 
-date: 2020-11-05
+date: 2021-11-05
 title: "Pink Triangles (Part 2)"
 parent: 5OxH1rqBAgw
 status: Superseded
@@ -13,6 +13,11 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - comp-delete
+
+history:
+  2020-09-23: 'Teased on Patron as "Pink Triangles: The Accepted Holocaust"'
+  2021-01-19: First uploaded, unlisted.
+  2023-12-28: Confirmed deleted.
 
 contributors:
 
@@ -25,7 +30,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-01-19" %}>
 
 Concluding the story of the gay men lost to hatred during World War 2.
 
@@ -45,6 +52,7 @@ This video contains copyrighted material. The use of which has not always been s
 32:58​ Part Ten: Remember  
 
 
+</details>
 </credits>
 </compare>
 

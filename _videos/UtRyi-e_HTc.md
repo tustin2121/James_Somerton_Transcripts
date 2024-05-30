@@ -4,8 +4,9 @@ redirect_from:
 
 date: 2023-05-11
 title: 'Where The "Bury Your Gays" Trope Came From'
+runtime: 30:12
 parent: pW_RjbZYi1s
-status: Finished
+status: Complete
 aka: !!seq
   - "Dying to be Gay (Thumbnail)"
 topics: !!seq
@@ -15,8 +16,8 @@ topics: !!seq
   - "The Children's Hour"
   - "Advise & Consent"
 links: !!seq
-  - "https://www.youtube.com/watch?v=8gOOSspflfA"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230511+UtRyi-e_HTc+Where+The+%EF%BC%82Bury+Your+Gays%EF%BC%82+Trope+Came+From.webm"
+  - "https://archive.org/details/james-somerton-public-records/Where+The+Bury+Your+Gays+Trope+Came+From.mp4"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering many instances of gay characters dying in the end."
 notes:
   - hbomb
@@ -36,15 +37,17 @@ cite:
   misinformation: !!map
     stewart_stern: "James did not double-check the name of the screenwriter."
   plagiarized: !!map
-    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
-    wiki_summer: { color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843" }
+    celluloid_closet: $cite$celluloid_closet_book
+    wiki_summer: { color: 3, short: "Suddenly, Last Summer (Wikipedia, 2023)", full: "Wikipedia (2023, Apr 1). <em>Suddenly, Last Summer (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Suddenly,_Last_Summer_(film)&oldid=1147675843" }
     wiki_childhour: { color: 4, short: "The Children's Hour (Wikipedia, 2023)", full: "Wikipedia (2023, Feb 27). <em>The Children's Hour (film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Children%27s_Hour_(film)&oldid=1141905913" }
-    wiki_advise: { color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205" }
-    wiki_victim: { color: 6, short: "Victim (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811" }
+    wiki_advise: { color: 5, short: "Advise & Consent (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 26). <em>Advise & Consent</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Advise_%26_Consent&oldid=1146679205" }
+    # wiki_victim: { color: 6, short: "Victim (Wikipedia, 2023)", full: "Wikipedia (2023, Mar 27). <em>Victim (1961 film)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Victim_(1961_film)&oldid=1146846811" }
+    cherwell: { color: 7, short: "Cherwell Article (Deeson, 2020)", full: "Deeson‚ J.H. (2020, Dec 4). <em>Making Queer Cinema history: Victim (1961)</em> [Article]. Cherwell. Retrieved Feb 25, 2024, from", url: "https://www.cherwell.org/2020/12/04/making-queer-cinema-history-victim-1961/", archive: "https://web.archive.org/web/20230204062045/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]
@@ -609,10 +612,10 @@ Martha: (sobbing) "There's always been something wrong. Always, just as long as 
 <compare>
 <james {% include timecode %}>
 
-A year later, the <mark num=1>political drama film</mark> <mark num=2>*Advise & Consent*</mark>, <mark>based on Alan drury's Pulitzer prize-winning novel of the same name</mark>, was released. <mark>The film examines the intricate and frequently treacherous world of politics in Washington DC, where a nomination for Secretary of State becomes the battleground for personal and political agendas.</mark> While the film predominantly focuses on political intrigue and corruption, the character of Senator Anderson, portrayed by Don Murray, discreetly investigates homosexual themes.
+A year later, the <mark num=1>political drama film</mark> <mark num=2>*Advise & Consent*</mark>, <mark>based on Alan drury's Pulitzer prize-winning novel of the same name</mark>, was released. <mark>The film</mark> examines the intricate and frequently treacherous world of politics in Washington DC, where a <mark>nomination for Secretary of State</mark> becomes the battleground for personal and political agendas. While the film predominantly focuses on political intrigue and corruption, the character of Senator Anderson, portrayed by Don Murray, discreetly investigates homosexual themes.
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wiki_advise at="Intro¶ 1" %}>
+<from {% include citation for=page.cite.plagiarized.wiki_advise at="Intro ¶1-4" %}>
 
 <mark num=2>*Advise & Consent*</mark> is a 1962 American <mark num=1>political drama film</mark> <mark>based on the Pulitzer Prize–winning novel *Advise and Consent* by Allen Drury</mark>, published in 1959.<sup>[2]</sup>
 
@@ -620,7 +623,7 @@ The film was adapted for the screen by Wendell Mayes and was directed by Otto Pr
 
 The title derives from the United States Constitution's Article II, Sec. 2, cl. 2, which provides that the president of the United States "shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the Supreme Court, and all other Officers of the United States."
 
-<mark>The film, set in Washington, D.C., follows the nomination process of a man who commits perjury in confirmation hearings for his nomination as Secretary of State.</mark>
+<mark>The film</mark>, set in Washington, D.C., follows the nomination process of a man who commits perjury in confirmation hearings for his <mark>nomination as Secretary of State</mark>.
 
 </from>
 <james {% include timecode %}>
@@ -628,27 +631,45 @@ The title derives from the United States Constitution's Article II, Sec. 2, cl. 
 Young Utah Senator Anderson is designated chairperson of the committee responsible for assessing the Secretary of State nominee proposed by the president. As the confirmation hearings continue, Anderson begins to suspect that the nominee may harbor... <u>[dramatic]</u> *communist sympathies*... which could compromise National Security. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wiki_advise at="Plot¶ 3" %}>
+<from span=2 {% include citation for=page.cite.plagiarized.wiki_advise at="Plot ¶3-5" %}>
 
 The Senate Foreign Relations Committee appoints a subcommittee, chaired by majority member Brigham Anderson of Utah, to evaluate the nominee. The young and devoted family man is undecided on Leffingwell. Cooley dramatically introduces a surprise witness, Herbert Gelman, during the subcommittee's hearing. The minor Treasury Department clerk testifies that he was briefly affiliated with a communist cell with Leffingwell and two others at the University of Chicago. Leffingwell denies the charge and questions Gelman's credibility but later tells the president that he had committed perjury and that Gelman was correct. He asks the president to withdraw his nomination, but the president refuses.
+
+Cooley identifies another member of the cell, senior treasury official Hardiman Fletcher. He forces Fletcher to confess to Anderson, who tells Munson. Despite personal lobbying by the president, the subcommittee chairman insists that the White House withdraw the nomination because of Leffingwell's perjury or he will subpoena Fletcher to testify. The president angrily refuses, but the majority leader admits that the White House will soon have to nominate another candidate. Anderson delays his committee's report on Leffingwell, but the president sends Fletcher out of the country, angering the senator.
+
+<mark>Anderson's wife receives anonymous phone calls from a man warning that unless the subcommittee reports favorably on</mark> Leffingwell, <mark>information about what happened with "Ray" in Hawaii will be disclosed</mark>. <mark>A worried Anderson visits fellow army veteran Ray Schaff in New York.</mark> <mark>Schaff admits that he sold evidence of a past homosexual relationship between the two</mark>. Hudson and Anderson's friend, Smith, joins others in attempting to counsel the troubled chairman, but unable to reconcile his duty and his secret, <mark>Anderson takes his own life</mark>.
+
+</from>
+<james mark=cont {% include timecode %}>
+
+However, Anderson's personal life is scrutinized when he is coerced by a former male admirer, who threatens to reveal their past relationship... if Anderson does not withdraw his opposition to the nomination. The film's portrayal of homosexuality is nuanced, but it emphasizes the personal and professional dangers gay people confronted in a society that was still primarily antagonistic toward them at the time. Senator Anderson is portrayed as a sympathetic figure who struggles with the contradictions between his private and public lives. He is conflicted between his responsibility as a senator to safeguard the nation, and his desire to live an authentic existence as a gay man. The film illustrates how his sexual orientation could be used against him, not only by political adversaries, but also by those who sought to exploit his vulnerability for personal gain. 
+
+In the end, <mark>Anderson's wife receives anonymous phone messages from a man warning that if the subcommittee does not report favorably on</mark> the nominee, <mark>information about what occurred between Anderson and Rey in Hawaii will be made public.</mark> <mark>An anxious Anderson travels to New York to meet a fellow army veteran named Ray Shaff.</mark> <mark>Shaff confesses to selling evidence of a previous gay relationship between the two</mark>, leading... to <mark>Anderson's suicide</mark>.
+
+</james>
+<james {% include timecode %}>
+
+The film *Victim* was released the same year. <mark>Melville Farr</mark>, played by Dirk Bogarde, <mark>appears to be a successful London attorney in a loving marriage, but he conceals his sexual orientation from everyone. When his ex-lover Barrett contacts him for assistance in paying off some blackmailers, he disregards his requests. Barrett has stolen money from his employers and has been apprehended by law enforcement. Knowing that his sexual orientation would soon be revealed... he commits suicide in his jail cell.</mark>
+
+<mark>Farr, now plagued with remorse, resolves to take on the blackmailing organization, but each of the victims he approaches refuses to assist, preferring to pay the money to keep their private lives hidden.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.cherwell at="¶ 2" %}>
+
+It tells the story of <mark>Melville Farr</mark>, <mark>on the surface a successful London lawyer in a happy marriage, yet who conceals the secret of his sexuality from all. When his former lover, ‘Boy’ Barrett contacts him asking for help to pay off blackmailers, he ignores his requests. Barrett has stolen money from his employers and is caught by the police. Aware that his sexuality would soon become clear, he commits suicide in his cell.</mark> <mark>Farr, racked with guilt, resolves to take on the ring of blackmailers, yet each of their victims that he talks to refuses to help, prefering to pay the money in order to keep their private lives secret.</mark> Finally, he resolves to help the police catch them, knowing that it will most likely destroy his promising career.
 
 </from>
 <james {% include timecode %}>
 
-However, Anderson's personal life is scrutinized when he is coerced by a former male admirer, who threatens to reveal their past relationship... if Anderson does not withdraw his opposition to the nomination. The film's portrayal of homosexuality is nuanced, but it emphasizes the personal and professional dangers gay people confronted in a society that was still primarily antagonistic toward them at the time. Senator Anderson is portrayed as a sympathetic figure who struggles with the contradictions between his private and public lives. He is conflicted between his responsibility as a senator to safeguard the nation, and his desire to live an authentic existence as a gay man. The film illustrates how his sexual orientation could be used against him, not only by political adversaries, but also by those who sought to exploit his vulnerability for personal gain. 
+<mark num=1>Knowing that Dirk Bogarde himself lived his life as a closeted gay man</mark> <mark num=3>makes *Victim*</mark> <mark num=2>all the more poignant from a retrospective standpoint</mark>. <mark>Those who were familiar with the industry at the time</mark> claimed <mark>that his refusal to enter into a marriage of convenience hindered his prospects at a successful career in Hollywood.</mark>
 
-In the end, Anderson's wife receives anonymous phone messages from a man warning that if the subcommittee does not report favorably on the nominee, information about what occurred between Anderson and Rey in Hawaii will be made public. An anxious Anderson travels to New York to meet a fellow army veteran named Ray Shaff. Shaff confesses to selling evidence of a previous gay relationship between the two, leading... to Anderson's suicide.
-
-</james>
-<from></from>
-<james {% include timecode %}>
-
-The film *Victim* was released the same year. Melville Farr, played by Dirk Bogard, appears to be a successful London attorney in a loving marriage, but he conceals his sexual orientation from everyone. When his ex-lover Barrett contacts him for assistance in paying off some blackmailers, he disregards his requests. Barrett has stolen money from his employers and has been apprehended by law enforcement. Knowing that his sexual orientation would soon be revealed... he commits suicide in his jail cell.
-
-Farr, now plagued with remorse, resolves to take on the blackmailing organization, but each of the victims he approaches refuses to assist, preferring to pay the money to keep their private lives hidden. Knowing that Dirk Bogart himself lived his life as a closeted gay man makes *Victim* all the more poignant from a retrospective standpoint. Those who were familiar with the industry at the time claimed that his refusal to enter into a marriage of convenience hindered his prospects at a successful career in Hollywood.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.cherwell at="¶ 5" %}>
+
+<mark num=3>‘Victim’ is made</mark> <mark num=2>all the more poignant from a retrospective point of view</mark> with the <mark num=1>knowledge that Dirk Bogarde himself lived his life as a closeted gay man</mark>. His struggles in the film were real, and it was often said by <mark>those who knew the industry at the time</mark> <mark>that his refusal to enter into a ‘marriage of convenience’ limited his chances of a Hollywood career.</mark> You cannot fail to view this film with this in mind, as well as the knowledge that the blackmail element would partly cease, although not end entirely, just seven years later. It is also important not to underestimate the positive effects of this film for gay men, many of whom had lived their lives in denial, and for the first time saw genuine and credible representations of their often unassuming lives on screen, endorsed by Bogarde, a matinee idol of 1950s British cinema. Relph later wrote of his film that his primary aim was to “show that homosexuality may be found in otherwise completely responsible citizens in every strata of society”. In this he is successful. These are not activists living in the fantasy of the metropolitan ideal of the ‘Swinging Sixties’ but, simply, victims. They are profoundly normal lawyers, actors, barmen and hairdressers, found in all walks of life, that do not demand attention, only sympathy. There was no more powerful message required at this moment in history, and the power of this is as profound to a modern viewer as it was in 1961.
+
+</from>
 <james {% include timecode %}>
 
 Hollywood continued to produce similar works throughout the 1960s and beyond. Despite widespread criticism of these and other films that perpetuated the Bury Your Gays trope, numerous LGBTQ+ activists and advocates viewed the trend as evidence of a hostile broader cultural and political climate towards the community as a whole. They argue that the trope contributed to a culture of dread and shame surrounding queer identities and reinforced detrimental stereotypes of queer individuals as ill, immoral, and dangerous. The practice however persisted *well* into the New Millennium. 

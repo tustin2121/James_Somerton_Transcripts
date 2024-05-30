@@ -32,6 +32,7 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.y-misgendering }} | {{T}} Instances of misgendering. |
 | {{stats.y-transphobia }} | {{T}} Instances of transphobia. |
 | {{stats.y-acephobia }} | {{T}} Instances of acephobia. |
+| {{stats.y-biphobia }} | {{T}} Instances of biphobia / bi erasure. |
 | {{stats.y-exclusion }} | {{T}} Instances of any of the above by exclusion. |
 | {{stats.y-persecution }} | {{T}} Times that James implies that gay men are the only ones being persecuted. |
 | | |
@@ -40,8 +41,10 @@ The following table of statistics is calculated from the video transcripts autom
 | {{stats.w-james-nick }} | {{T}} James Somerton & Nick Herrgott
 | {{stats.w-james }} | {{T}} James Somerton
 | {{stats.w-nick }} | {{T}} Nick Herrgott
+| {{stats.w-none }} | {{T}} (no credit)
+| {{stats.wp-nick }} | {{T}} Nick Herrgott (credited post-callout in the description) (non-exclusive with one of the above)
 | | |
-| {{stats.irony }} | Instances of [irony in hindsight.](ironic.md) |
+| {{stats.irony }} | Instances of [irony in hindsight.]({{ "/themes/ironic" | relative_url }}) |
 | {{stats.blatant-bgm }} | Clips that include background music added by the third party James stole the clip from. |
 | {{stats.sub-queer }} | Times James substituted an umbrella term ("queer" usually) over a more specific identity ("trans", "lesbian", etc). |
 | {{stats.changed-number }} | Times James inexplicably changed a number in something he was plagiarizing. |

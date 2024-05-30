@@ -12,7 +12,7 @@ topics: !!seq
   - "Unrequited"
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230713+pW_RjbZYi1s+The+History+of+Gay+Hollywood.webm"
-  - "https://www.youtube.com/watch?v=4shTfS6hyjE" # Reuploads channel
+  - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Hollywood.mp4"
 description: "a remake of his Unrequited video, ripping off the book instead of the documentary this time."
 notes: 
   - multipart
@@ -36,6 +36,7 @@ cite:
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Hollywood, despite the best efforts of executives and studio heads, has been gay since the day it was born. In this video we'll explore the first seventy years of Tinsel Town's not-so-private closet. From silent film and federal investigations to the golden age of coding and the rise of out and proud queer cinema. 

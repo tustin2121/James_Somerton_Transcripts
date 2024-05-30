@@ -4,12 +4,13 @@ redirect_from:
 
 date: 2023-03-22
 title: The Role of Adult Media in Gay Identity (A Conversation)
+runtime: 41:05
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=qTuK0RiEy88" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230322+qT6IsmUrHeY+The+Role+of+Adult+Media+in+Gay+Identity+(A+Conversation).webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Role+of+Adult+Media+in+Gay+Identity+(A+Conversation).mp4"
 # description: "a 'Gays Behaving Badly' podcast episode on <xyz>."
 notes:
   - podcast
@@ -23,6 +24,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

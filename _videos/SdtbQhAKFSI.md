@@ -15,8 +15,6 @@ topics: !!seq
   - "Laurel and Hardy"
   - "Rope / Rope's End"
 links: !!seq
-  - "https://www.youtube.com/watch?v=MrXDLbiiMD8"
-  - "https://www.youtube.com/watch?v=17lkL9KwUOY"
   - "https://archive.org/details/james-somerton-public-records/Hollywood's+Golden+Age+(of+Queer+Coding).mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230315+SdtbQhAKFSI+Hollywood's+Golden+Age+(of+Queer+Coding).webm"
 description: "a video essay — I mean, a reading of Vito Russo's book — covering the fifties, Ben-Hur, Rope, and skipping over nearly all of the Lesbian and Trans examples."
@@ -40,11 +38,12 @@ cite:
   misinformation: !!map
     misquote: "James continues a 'direct quote' that doesn't exist."
   plagiarized: !!map
-    celluloid_closet: { color: 2, short: "(Russo, 1987)", full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row.", url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up", type: "book", style: "book" } # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+    celluloid_closet: $cite$celluloid_closet_book
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [sponsor plug]

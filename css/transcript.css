@@ -16,7 +16,9 @@
 			--mark-stolen-bg: #47005b;
 			--mark-source-text: #c9d1d9;
 			--mark-source-bg: #033a16;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #ffffff;
 			--mark-yikes-border: #668701;
 			--mark-yikes-text: #f6fdeb;
 		}
@@ -38,7 +40,9 @@
 			--mark-stolen-bg: #f4ccff;
 			--mark-source-text: #000000;
 			--mark-source-bg: #abf1c4;
-			--mark-misinfo-border: #ff0000;
+			--mark-misinfo-false-border: #ff0000;
+			--mark-misinfo-true-border: #00ff00;
+			--mark-misinfo-neutral-border: #000000;
 			--mark-yikes-border: #4f6706;
 			--mark-yikes-text: #1b2207;
 		}
@@ -118,10 +122,10 @@
 	}
 	
 	/* Visual Blocks */
-	.visual compare {
+	compare:has(visual-line) {
 		grid-template-columns: [j-start n-start] 1fr [v-start] 1fr [j-end n-end mid-start] 5ch [mid-mid mid-end f-start] 1fr [v-end] 1fr [f-end];
 	}
-	.visual compare visual {
+	compare:has(visual-line) visual {
 		grid-column: v-start / v-end;
 		border-color: var(--source-color);
 	}
@@ -140,10 +144,14 @@
 		text-align: center;
 		border-right: var(--source-color) 3px solid;
 		margin-right: -3px;
-		overflow-y: hidden;
+		overflow: clip hidden;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
+	}
+	compare visual-line span a {
+		text-wrap: nowrap;
+		white-space: nowrap;
 	}
 	compare visual-line span.on {
 		border-top: var(--source-color) 2px solid;
@@ -158,7 +166,7 @@
 	}
 
 	@media (max-width: 800px) {
-		.visual compare {
+		compare:has(visual-line) {
 			grid-template-columns: [j-start n-start] 1fr [v-start] 3fr [j-end n-end mid-start] 8px [mid-mid mid-end f-start] 3fr [v-end] 1fr [f-end];
 		}
 		compare visual-line {
@@ -216,6 +224,8 @@
 	compare clip > header::before { content: 'Video Clip:'; }
 	compare comment > header::before { content: 'Comment:'; }
 	
+	compare from.smaller { font-size: smaller; }
+	
 	compare :is(james, nick, credits, subvideo)::before
 	{
 		display: block;
@@ -232,11 +242,18 @@
 	compare james[timecode][mid-text]::before   { content: 'James: ' attr(mid-text) ' (' attr(timecode) ')'; text-align-last: justify; }
 	compare james[mid-text]::before             { content: 'James: ' attr(mid-text) ' \00A0\00A0\00A0\00A0\00A0\00A0\00A0\00A0'; text-align-last: justify; }
 	
+	compare james.deleted { border-color: red; }
+	
 	compare credits.opening::before { content: 'Opening Credits:'; }
 	compare credits.closing::before { content: 'Closing Credits:'; }
 	compare credits.desc::before { content: 'Video Description:'; }
+	compare credits.thumb::before { content: 'Thumbnail History:'; }
+	compare credits.history::before { content: 'Upload History:'; }
 	compare credits[header]::before { content: attr(header); }
 	compare credits[header][timecode]::before { content: attr(header)' (' attr(timecode) ')'; text-align-last: justify; }
+	
+	compare credits.deleted { border-color: red; }
+	compare :is(james,credits).deleted::before { content: 'James: (Deleted)'; text-align-last: justify; }
 	
 	compare footer {
 		font-size: small;
@@ -254,6 +271,9 @@
 	compare footer li > p:last-child {
 		margin-bottom: 0;
 	}
+	compare footer ol:has(+ ol) {
+		margin-block: 0;
+	}
 	
 	compare clip hr {
 		margin: 0 3em 1em !important;
@@ -261,14 +281,15 @@
 	
 	compare credits blockquote {
 		color: unset !important;
-			text-align: center;
-			background-color: var(--color-canvas-subtle);
-			border-inline: 0.25em solid var(--color-border-default);
+		text-align: center;
+		background-color: var(--color-canvas-subtle);
+		border-inline: 0.25em solid var(--color-border-default);
 	}
 	
 	compare blockquote {
+		position: relative;
 		color: unset !important;
-			background-color: var(--color-canvas-subtle);
+		background-color: var(--color-canvas-subtle);
 	}
 	
 }
@@ -318,9 +339,15 @@
 	compare :is(james, nick, clip, from) mark[fc] {
 		background-color: unset;
 		/* border: solid 1px var(--mark-misinfo-border); */
-		text-decoration: var(--mark-misinfo-border) wavy underline 1px;
+		text-decoration: var(--mark-misinfo-neutral-border) wavy underline 1px;
 		text-decoration-style: dotted;
 		text-underline-offset: 2px;
+	}
+	compare :is(james, nick, clip, from) mark[fc=false] {
+		text-decoration-color: var(--mark-misinfo-false-border);
+	}
+	compare :is(james, nick, clip, from) mark[fc=true] {
+		text-decoration-color: var(--mark-misinfo-true-border);
 	}
 	compare :is(james, nick, clip) mark[yikes] {
 		background-color: unset;
@@ -351,6 +378,31 @@
 	compare details:not([open]) summary::after {
 		content: " (Click/Tap here for more details)";
 		color: var(--mark-action-text);
+	}
+}
+
+@layer markup {
+	credits.desc details {
+		border-left: 1px solid red;
+		padding-left: 10px;
+		margin-bottom: 0;
+	}
+	credits.desc details:nth-last-of-type(6n+0) { border-left-color: red; }
+	credits.desc details:nth-last-of-type(6n+1) { border-left-color: orange; }
+	credits.desc details:nth-last-of-type(6n+2) { border-left-color: yellow; }
+	credits.desc details:nth-last-of-type(6n+3) { border-left-color: green; }
+	credits.desc details:nth-last-of-type(6n+4) { border-left-color: blue; }
+	credits.desc details:nth-last-of-type(6n+5) { border-left-color: blueviolet; }
+	
+	credits.desc details summary {
+		font-size: small;
+		padding: 3px 0px 3px 12px;
+		margin: 0 12px 0px -6px;
+		border-bottom: 1px solid grey;
+		color: var(--mark-action-text);
+	}
+	compare details:not([open]) summary::after {
+		content: " (Click/Tap here to show)";
 	}
 }
 
@@ -413,6 +465,9 @@
 	}
 
 	compare from :is(h1,h2,h3,h4,h5,h6) {
+		margin-block: 0 4px !important;
+	}
+	compare comment :is(h1,h2,h3,h4,h5,h6) {
 		margin-block: 0 4px !important;
 	}
 
@@ -540,11 +595,51 @@
 	
 	.video-card a[href^="http:"]::after, 
 	.video-card a[href^="https:"]::after {
-		/* content: none !important; */
+		content: none !important;
 		content: revert-layer;
 	}
 }
 
+@layer source {
+	credits.history {
+		padding-bottom: 0.5em;
+	}
+	credits.history .entry {
+		text-indent: -1em;
+		padding-inline-start: 1em;
+	}
+	credits.history .entry:nth-child(2n+1) {
+		background-color: var(--color-canvas-subtle);
+	}
+	credits.history .entry:nth-child(2n) {
+		background-color: var(--color-border-muted);
+	}
+	credits.history .entry span:first-child {
+		text-align: left;
+		padding-inline: 4px;
+		font-weight: bold;
+	}
+	credits.history .entry span:first-child::after {
+		content: ':';
+		font-weight: normal;
+	}
+	
+	credits.thumb .entry {
+		display: flex;
+		flex-direction: row-reverse;
+		justify-content: space-evenly;
+		align-items: flex-start;
+		margin-block: 0.2em;
+	}
+	credits.thumb .entry img {
+		max-width: 60%;
+	}
+	credits.thumb .entry span {
+		margin-top: 1em;
+		min-width: 12ch;
+		text-align: right;
+	}
+}
 @layer source {
 	.lyrics {
 		margin-inline: auto;
@@ -587,6 +682,37 @@
 		letter-spacing: 6px; 
 		font-family: serif;
 	}
+	
+}
+@layer markup {
+	/* Everything, Everywhere, All at Once video: */
+	.eeaot-bookShelf {
+	}
+	.eeaot-greenScreen {
+	}
+	@media (prefers-color-scheme: dark) {
+		.eeaot-brickWall {
+			/* Created by Benjamin Ward. Originally found at Subtle Patterns. https://www.transparenttextures.com/brick-wall.html */
+			background-image: url('brick-wall-dark.png');
+		}
+		.eeaot-masquerade {
+			background-color: rgba(255, 0, 0, 0.1);
+		}
+	}
+	@media (prefers-color-scheme: light) {
+		.eeaot-brickWall {
+			/* Created by Benjamin Ward. Originally found at Subtle Patterns. https://www.transparenttextures.com/brick-wall.html */
+			background-image: url('brick-wall.png');
+		}
+		.eeaot-masquerade {
+			background-color: rgb(27, 0, 0);
+			color: #c9d1d9;
+		}
+	}
+	compare nick.eeaot-greenScreen::before  { content: 'Video!Nick:'; }
+	compare james.eeaot-bookShelf::before   { content: 'Book!James:'; }
+	compare james.eeaot-brickWall::before   { content: 'Coat!James:'; }
+	compare james.eeaot-masquerade::before  { content: 'Masked!James:'; }
 }
 @layer markup {
 	compare q mark, compare mark q, compare blockquote mark {
@@ -645,6 +771,12 @@
 			animation-timeline: scroll(self inline);
 		}
 	}
+	@supports not (animation-timeline: scroll(self inline)) {
+		/* Just give up at this point... */
+		.recs-list > div {
+			justify-content: start;
+		}
+	}
 	
 	.rec {
 		display: flex;
@@ -687,6 +819,11 @@
 	}
 	.rec h3:empty::before {
 		content: none;
+	}
+	.rec h4 {
+		padding: 0; margin: 0;
+		font-size: small;
+		text-align: center;
 	}
 }
 
@@ -754,6 +891,11 @@
 	
 	compare credits[header="Audience-member:"] {
 		border-color: var(--video-box-stolen-bg);
+	}
+	
+	compare comment {
+		--source-color: var(--box-border-comment);
+		border-color: var(--source-color);
 	}
 	
 	.srcstyle-book {

@@ -7,17 +7,32 @@ redirect_from:
 # cspell:words: Umbridge ALBUS Snape Hermione Dementors Diggory Slytherin Gryffindor Malfoy
 date: 2020-07-01
 title: "Unrequited: The History of Queer Baiting"
+runtime: 1:29:45
 status: Finished
 aka: !!seq
+  - For The Love of Stucky
 topics: !!seq
+  - The Hays Code
+  - Rebel Without A Cause
+  - Ben-Hur | Children's Hour
+  - Merlin | Sherlock | Cursed Child
+  - Teen Wolf | Frozen | Star Wars
+  - Ocean's Eleven | Captain America
 links: !!seq
   - "https://www.youtube.com/watch?v=cLWZV-SHmeY"
   - "https://vimeo.com/907695863"
   - "https://web.archive.org/web/20200703125317/https://www.youtube.com/watch?v=m8DRQ9-sCSI&gl=US&hl=en"
-# description: "a video essay on...?"
+description: "a video essay repackaging The Celluloid Closet and Alexander Avila's videos."
 notes:
   - visual
   - hbomb
+
+history:
+  2018-05-29: Teased on Patreon as "For The Love of Stucky".
+  2020-07-01: First published.
+  2020-10-11: Privated after Alexander Avila called James out for plagiarism.
+  2020-10-14: "Reuploaded as parts parts <a href='4Nx1aD9Khg0'>1</a>, <a href='UAv5yxnCGyc'>2</a>, and <a href='TRnogtBPoI'>3</a>."
+
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=cLWZV-SHmeY)"
@@ -26,7 +41,7 @@ contributors:
 
 cite:
   clips: !!map
-    celluloid_closet: { short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office." }
+    celluloid_closet: $cite$celluloid_closet_doc
     cabaret: { short: "Cabaret", full: "TODO Cabaret" }
     rebel_without_cause: { short: "Rebel Without A Cause", full: "TODO Rebel Without A Cause" }
     merlin: { short: "Merlin", full: "TODO Merlin" }
@@ -39,9 +54,10 @@ cite:
     captain_america: { short: "captain_america", full: "TODO captain_america" }
     winter_soldier: { short: "winter_soldier", full: "TODO winter_soldier" }
     
+    buzzfeed_costumes: { color: 11, short: "(Vary, 2018)", full: "Vary, A.B. (2918, Jun 8). <em>Everything You Need To Know About The Fabulous Costumes In \"Ocean's 8\"</em> [Article]. Buzzfeed News. Retrieved Feb 16, 2024, from", url: "https://www.buzzfeednews.com/article/adambvary/oceans-8-costumes" }
   yikes: !!map
   misinformation: !!map
-    historians: "James just makes up a term and passes it off as something commonly heard in the queer community."
+    historians: "James just steals a made-up (sarcastic?) term and passes it off as something commonly heard in the queer community."
     misinterpretation:
       _desc_: James has a propensity to misunderstand what he's playwriting from, like
       scorpius_life: the time he said Scorpius's life was worse with Albus in it
@@ -49,16 +65,25 @@ cite:
       _desc_: James seemingly deliberately gets multiple names wrong in his script, presumably to avoid plagiarism detection, including
       richard_dyer: "Richard Dyer"
   plagiarized: !!map
-    celluloid_closet: { color: 10, short: "The Celluloid Closet (Friedman, 1996)", full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from", url: "https://www.youtube.com/watch?v=YndHaKuD6MI" }
-    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
-    aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila, A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
-    aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
-    aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
-    aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
+    celluloid_closet: $cite$celluloid_closet_doc
+    peter_howell: { color: 2, short: "(Howell, 2014)", full: "Howell, P. (2014, Jun 20). <em>Why Rebel Without a Cause was a milestone for gay rights</em> [Article]. Toronto Star.", url: "https://www.thestar.com/entertainment/movies/why-rebel-without-a-cause-was-a-milestone-for-gay-rights/article_2243c10d-f260-5dfa-b132-1e6911d0bffd.html"}
+    maddy_myers: { color: 12, short: "On Stucky Fandom (Myers, 2016)", full: "Myer‚ M. (2016, Jul 5). <em>On Captain America: Civil War, Stucky Fandom, and “Why Can’t They Just Be Friends?”</em> [Article]. The Mary Sue. Retrieved February 15, 2024, from", url: "https://www.themarysue.com/why-cant-stucky-just-be-friends/" }
+    jill_gutowitz: { color: 7, short: "Ocean's 8 (Gutowitz, 2018)", full: "Gutowitz, J. (2018, Jun 11.) <em>‘Ocean’s 8’ is Extremely Gay—So Why Isn’t It Gay?</em> [Article]. INTO. Retrieved February 15, 2024, from", url: "https://www.intomore.com/culture/oceans-8-is-extremely-gay-so-why-isnt-it-gay/" }
+    aretheygay_merlin: { color: 1, short: "Merlin (Avila, 2016)", full: "Avila‚ A. (2016, Nov 23). <em>Are They Gay? - Merlin and Arthur (Merthur)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=6BkOoEhtxTs"}
+    aretheygay_finnpoe: { color: 3, short: "Poe/Finn (Avila, 2016)", full: "Avila, A. (2016, Jan 24). <em>Are They Gay? - Poe and Finn (Star Wars)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=NVompS_JoJw" }
+    aretheygay_sherlock: { color: 4, short: "Johnlock (Avila, 2016)", full: "Avila, A. (2016, Apr 8). <em>Are They Gay? - Sherlock Holmes and John Watson (Johnlock)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=RpItybDHavo" }
+    aretheygay_sterek: { color: 6, short: "Sterek (Avila, 2017)", full: "Avila‚ A. (2017, Jul 6). <em>Are They Gay? - Derek Hale and Stiles Stilinski (Sterek)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=7ei-Le2O7lc" }
+    aretheygay_cursed: { color: 5, short: "Albus/Scorpius (Avila, 2016)", full: "Avila, A. (2016, Oct 11). <em>Are They Gay? - Albus Potter and Scorpius Malfoy</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=MNntQQ1qHuo" }
+    rowan_ellis_queerbaiting: { color: 15, short: "Queerbaiting (Ellis, 2019)", full: "Ellis, R. (2019, Jan 30). <em>The Evolution Of Queerbaiting: From Queercoding to Queercatching</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=riKVQjZK1z8" }
+    merthur_ytcrack: { color: 9, short: "(Wolflynn98, 2019)", full: "Wolflynn98 (2019, Jul 16). <em>merthur crack(?) or whatever</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=8CZtuSNqlnM" }
+    johnlock_clips: { color: 8, short: "(hehehegay, 2014)", full: "hehehegay (2014, May 12). <em>JOHNLOCK EVIDENCE (Series 1-3)</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=fsKWdvsxvN4" }
+    johnlock_maryamv: { color: 13, short: "(OneAllysa, 2017)", full: "OneAllysa (2017, Mar 19). <em>BBC Sherlock || Mary Watson || Love and War</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=xc_L7oSPdgQ" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign tobi = site.data.cite.tobicat %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A video essay exploring the history of queer coding, queer baiting and, basically, the history of gay representation in Hollywood.
@@ -83,7 +108,7 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="36:04" for="Merlin" %}  
 {% include chapter-link at="44:05" for="Sherlock" %}  
 {% include chapter-link at="49:25" for="Harry Potter" %}  
-{% include chapter-link at="1:00:25" for="Ocean's Eleven" %}  
+{% include chapter-link at="1:00:25" for="Ocean's Eleven" slug="oceans-eleven" %}  
 {% include chapter-link at="1:03:39" for="Teen Wolf" %}  
 {% include chapter-link at="1:10:57" for="Frozen" %}  
 {% include chapter-link at="1:13:03" for="Star Wars" %}  
@@ -92,10 +117,28 @@ This video contains copyrighted material. The use of which has not always been s
 </comment>
 </compare>
 
+{% assign tcc = site.data.cite.celluloid_closet_doc.color %}
+{% capture VISUAL_TCC %}
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+
+James uses MANY clips from *The Celluloid Closet* (1996).
+
+</visual>
+<visual-line></visual-line>
+{% endcapture %}
+
+<!-- 
+
+<span visual={{tcc}} on="15:32" off="15:42">The "RESTRICTED" list</span>
+<span visual={{tcc}} on="20:40">Rope</span>
+<span visual={{tcc}} on="24:56">Tea and Sympathy</span>
+
+-->
+
 {% include transcript-start %}
-{% assign timecode = "0:00" %}
 
 <compare>
+{{ VISUAL_TCC }}
 <credits class="opening">
 
 <u>[Piano music playing over fancy title screen]:</u>
@@ -107,14 +150,16 @@ of
 Queer Baiting
 
 </credits>
-</compare>
-
-<compare>
+{% assign timecode = "0:14" %}
 <james vid {% include timecode %}>
 
-<span visual>The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not. For over a century of film and television, we've probably been the most underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist.</span> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
+<span visual=none on="?" off="?">The queer community has become incredibly good at finding queer subtext in movies and TV shows, whether it exists or not.</span> 
 
-<span visual>At the same time, it's become a culturally agreed upon fact among cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America.</span>
+<span visual={{tcc}} on="0:50" off="0:54">For over a century of film and television, we've probably been the most</span>  
+<span visual={{tcc}} on="1:06" off="1:17">underrepresented minority in media. It was never illegal for a character of color to exist in a movie, but it *was* illegal, for a long time, for a queer character to exist.</span> Writers, directors, and producers could be taken to court under obscenity laws, fined and even jailed, for having the nerve to show a queer character. 
+
+<span visual={{tcc}} on="1:36" off="1:40">At the same time, it's become a culturally agreed upon fact among</span>  
+<span visual={{tcc}} on="10:22" off="10:37">cis-straight people, to the point of parody, that the queer community runs Hollywood. The Velvet or Pink Mafia, supposedly now run by David Geffin, is even an assumed queer media cartel that inserts LGBT messaging into movies and TV shows to corrupt the youth of America.</span>
 
 The funny thing is, this isn't entirely false. I mean, we're not trying to corrupt the youth of America; growing up alone in the suburbs is doing a fine job of that all on its own. 
 
@@ -122,7 +167,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 <from></from>
 <james {% include timecode %}>
 
-<span visual>But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout. It's reached a bit of a fever pitch lately, with Poe and Finn, Steve and Bucky, *Teen Wolf*, *The Legend of Kora*, and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing. What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
+<span visual={{tcc}} on="2:23" off="2:40">But there has always been a loose collective of queer creators that *do* insert coding into a lot of movies, TV shows, and books, coding that would likely be ignored by straight audiences but immediately recognized by those of us who are on the lookout.</span> <span visual="starwars">It's reached a bit of a fever pitch lately, with Poe and Finn,</span> <span visual="cap">Steve and Bucky,</span> <span visual="teenwolf">*Teen Wolf*,</span> <span visual="kora">*The Legend of Kora*,</span> <span visual="frozen">and even *Frozen*. But just because people outside queer spaces are finally recognizing it doesn't mean it's a new thing.</span> <span visual={{tcc}} on="4:59" off="5:04">What we now call queer baiting has been around since the early days of cinema. Sort of.</span> Film historians have given the early days of this phenomenon the name "queer coding", which a lot of people confuse with "queer baiting", but there is a big difference between the two. 
 
 </james>
 <from></from>
@@ -130,7 +175,7 @@ The funny thing is, this isn't entirely false. I mean, we're not trying to corru
 
 "Queer coding" is when you're unable to show actual queer characters on screen, either because of the laws or morals of the day, or because studio executives just won't let you. So you create characters that the right audience will *obviously* view as gay, lesbian, bi, or transgender, to allow for LGBT representation when the entire world is telling you not to. A little golden nugget hidden deep underground for the people who are willing to dig for it. 
 
-<span visual>While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so. One is an effort to give LGBT audiences at least a taste of representation, while the other is used to reel in said audience with an implied promise of queer characters without ever actually intending on fulfilling that promise.</span>
+<span visual="teenwolf">While "queer baiting" is when you *do* have the ability to add queer characters to your film or TV show, but just don't want to risk turning off certain audiences or advertisers by doing so.</span> <span visual={{tcc}} on="3:10" off="3:15">One is an effort to give LGBT audiences at least a taste of representation,</span> <span visual="teenwolf">while the other is used to reel in said audience with an implied promise of queer characters without ever actually</span> <span visual="cap">intending on fulfilling that promise.</span>
 
 It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "2:51" %}
@@ -139,7 +184,7 @@ It's like the cinematic equivalent of edging without the money shot.
 <from></from>
 <james {% include timecode %}>
 
-<span visual>So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have an out LGBT superhero in the MCU.</span>
+<span visual={{tcc}} on="2:43" off="2:53">So let's look at the history of this practice, discover media you may not know is intended to be read as queer, see when the line between queer coding and queer baiting began to blur, and why we still don't have</span> an out LGBT superhero in the MCU.
 
 </james>
 <from></from>
@@ -149,28 +194,74 @@ It's like the cinematic equivalent of edging without the money shot.
 {% assign timecode = "3:06" %}
 
 <compare>
-<james {% include timecode %}>
+{{ VISUAL_TCC }}
+<james span=2 {% include timecode %}>
 
 <u>[Text printing on screen (typewriter effect)]:</u>
 
-> "Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
+> <mark></mark>"Your ideas about who you are don't just come from inside you, they come from the culture. And in this culture they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."
 >
 > <mark fc=false id="richard_dyer" stat:id="changed-name">-Richard Dryer, film historian</fc>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(6:22)" %}>
+
+Richard Dyer (Film Historian): <mark>"Your ideas about who you are don't just come from inside you, they come from the culture. And in *this* culture, they come especially from the movies. So we learn from the movies what it means to be a man or a woman. What it means to have sexuality."</mark>
+
+</from>
+<comment {% include commenter for=tustin %}>
+
+Throughout this section, James uses the same footage and same examples that *The Celluloid Closet* does, in the same order, but crops the video in close to remove the titles showing what movie it is, or cuts around when the titles appear, and makes the edits faster.
+
+</comment>
 <james {% include timecode %}>
 
-<wbr on />A long time ago, in a Hollywood Far Far Away, gay characters were not all that uncommon. But they were played for laughs. In the early days of silent film, movies like *A Florida Enchantment*, *Algae the Minor*, and *The Soilers* featured gay characters as easy comic relief. The idea of homosexuality was even a gag in *Behind the Screen*, an early Charlie Chaplain film that showed him kissing a tomboy and being mocked for it. Being mocked by someone whose eye makeup could make Trixie Mattel blush.
+<span visual={{tcc}} on="6:38" off="6:48">A long time ago, in a Hollywood Far Far Away, gay characters were not all that uncommon. But they were played for laughs. In the early days of silent film,</span>  
+<span visual={{tcc}} on="5:56" off="5:58">movies like *A Florida Enchantment*,</span>  
+<span visual={{tcc}} on="6:02" off="6:03">*Algae the Minor*</span>,  
+<span visual={{tcc}} on="6:16" off="6:23">and *The Soilers* featured gay characters as easy comic relief. The idea of homosexuality was even a gag</span>  
+<span visual={{tcc}} on="7:05" off="7:20">in <mark num=1>*Behind the Screen*</mark>, <mark num=2>an early Charlie Chaplain film</mark> <mark num=3>that showed him kissing a tomboy</mark> and <mark num=4 x>being mocked for it</mark>. Being mocked by someone whose eye makeup could make Trixie Mattel blush.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(6:39)" %}>
+
+<!--<u>[Showing footage of *Wanderer of the West* (1927)]</u>
+
+<u>[Silent movie card]:</u> "Clarence, the clerk &mdash; &mdash; one of Nature's mistakes in a country where mene were men."
+
+Dyer: "The movies did provide us with some kind of history of how society though homosexuals were."
+
+<u>[Silent movie card]:</u> "'I wonder if you're going out with the boys tonight?'" -->
+
+<u>[Showing footage now of *Behind the Screen* (1916)]</u>
+
+Dyer: "A very good example, is <mark num=2>a Chaplin film</mark>, <mark num=1>'Behind The Screen'</mark>. There's an extraordinary moment <mark num=3>where Chaplin kisses someone who looks like a man</mark>. He knows that it's a woman. And someone else comes along and sees it. And <mark num=4 x>immediately starts swishing around in the most kind of overt effeminate way</mark>."
+
+<u>[Footage shows just that.]</u>
+
+Dyer: "It's fascinating that those stereotypes were so completely in place. That a, you know, a mainstream popular film could assume that the audience would know what this-- this swishy mime was all about."
+
+</from>
 <james {% include timecode %}>
 
-It was around this time that that the "sissy" stereotype was born: flouncy, bouncy, frilly men with creative jobs. Artists, designers... This grew out of the self-hatred among straight men who found it hard to provide for their families in lean times. You weren't a man if you couldn't support a wife and three kids. You weren't a man if you couldn't go off to war. So to appeal to the egos of these (quote-unquote) "real men", producers created characters to make them feel better about their masculinity. Movies like *Our Betters*, *The Broadway Melody*, *Meron Merge*, and *Call Her Savage* were just a few films with such characters.<wbr off />
+<span visual={{tcc}} on="8:17" off="8:28">It was around this time that that <mark num=1>the "sissy" stereotype was born</mark>: flouncy, bouncy, frilly men with creative jobs. Artists, designers... This grew out of the self-hatred among straight men who found it hard</span>  
+<span visual={{tcc}} on="7:49" off="8:00">to provide for their families in lean times. You weren't a man if you couldn't support a wife and three kids. You weren't a man if you couldn't go off to war. So to appeal to the egos of these (quote-unquote) "real men",</span>  
+<span visual={{tcc}} on="8:51" off="9:00">producers created <mark num=2>characters to make them feel better about their masculinity</mark>. Movies like *Our Betters*, *The Broadway Melody*,</span>  
+<span visual={{tcc}} on="9:16" off="9:17">*Myrt and Marge*, and</span>  
+<span visual={{tcc}} on="10:36" off="10:40"></span>*Call Her Savage* were just a few films with such characters.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(8:03)" %}>
+
+Narrator: "<mark num=1>Enter the sissy</mark>. Hollywood's first gay stock character."
+
+<u>[Footage from *The Gay Divorcee* (1934)]</u>
+
+Narrator: "<mark num=2>The sissy made everyone feel more manly</mark> or more womanly by occupying the space in between. He didn't seem to have a sexuality. So, Hollywood allowed him to thrive."
+
+Jau Presson Allen (Screenwriter): "They were sissies. They were never addressed as homosexuals. It was a convention that wsa totally accepted."
+
+</from>
 <james {% include timecode %}>
 
 This type of representation of gay men was not appreciated.
@@ -179,34 +270,80 @@ This type of representation of gay men was not appreciated.
 <from></from>
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-Quentin Crisp: "We're always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs."
+Quentin Crisp: "<mark visual={{tcc}} on="10:48" off="11:02">We're always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(10:46)" %}>
+
+<u>[Showing footage of *Call Her Savage* (1932). Clip continues a little into Crisp's talking, cutting after "in movies".]</u>
+
+Quentin Crisp (Writer): "Well, sissy characters in movies <mark>were always a joke. There's no sin like being a woman. When a man dresses as a woman, the audience laughs. When a woman dresses [as] a man, nobody laughs.</mark>"
+
+<u>[Showing footage of *Morocco* (1930)]</u>
+
+Quentin Crisp: "They just thought she looked wonderful."
+
+</from>
 <james {% include timecode %}>
 
-This wasn't the only representation though. <wbr on />The 1927 film *Wings* featured a...<wbr off /> a very intense friendship between two pilots that culminates in this scene:
+This wasn't the only representation though. <span visual=none on="?" off="?">The 1927 film *Wings* featured a...</span> a very intense friendship between two pilots that culminates in this scene:
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on /><u>[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]</u><wbr off />
+<u>[Silent clip from *Wings* where the main character kisses and talks to his co-pilot buddy who's dying.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 But scenes like that were few and far between. So while gay men were played for laughs, lesbians were something else entirely. 
 
-<wbr on />Marina Dietrich turned on both men and women with this scene in 1930s *Morocco*. A woman in a tuxedo wasn't entirely unheard of coming out of the Roaring 20s, but a woman in a tuxedo on film? That was groundbreaking. The lesbian kiss, a cherry on top. Gary Cooper may have been Dietrich's real love interest in the film, but everybody left the theater talking about that scene.
-
-Not long after *Morocco*, we got *Queen Christina* the story of a realife Swedish Monarch who was infamous for being a,,, pretty out and proud lesbian for the day, though the filmmakers went out of their way to straightwash the historical figure, her real life sexuality bled onto the celluloid despite their best efforts.
+<span visual={{tcc}} on="11:09" off="11:24"><mark num=1>Marina Dietrich turned on both men and women</mark> with this scene in 1930s *Morocco*. A woman in a tuxedo wasn't entirely unheard of coming out of the Roaring 20s, but a woman in a tuxedo on film? That was</span> <span visual={{tcc}} on="11:44" off="11:56">groundbreaking. The lesbian kiss, a cherry on top. <mark num=2>Gary Cooper may have been Dietrich's real love interest in the film</mark>, but everybody left the theater talking about that scene.</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips. %}>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(11:09)" class="smaller" %}>
+
+<u>[Showing footage from Morocco (1030)]</u>
+
+Susie Bright (Writer): "I saw Marlene Dietrich in *Morocco* when I was a teenager. I just was flipping the channels and saw her and decided to settle in for an old movie. And there's this scene where she comes into a nightclub and she's just stunning in this tuxedo."
+
+<u>[Showing footage from Morocco (1030)]</u>
+
+> Dietrich: (to lady at table) "May I have this?"
+>
+> Woman: "Of course."
+> 
+> [Dietrich takes flower, sniffs it, then kisses lady. Everyone bursts into raucous laughter and applause.]
+
+Bright: "And the camera lingers. I mean, it wasn't like I was catching this out of the side of the screen. It's right in the center."
+
+Bright: "<mark num=2>She has a romance with Gary Cooper in this movie</mark>. But that romance just went right out the window for me. I was just like, 'Who was that woman? What had happened?'" I started writing a whole other script <u>[laughs]</u> for what was really going on."
+
+Arthur Laurents (Screenwriter): "So the thing worked for everybody of every sex. And what's amazing, I don't think they've done anything as delicious sexually as that since. They didn't pretend it was anything but what it was. <mark num=1>She was doing it to turn on both the woman and the man</mark>, which appealed to everybody. As it should. It was so free."
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="12:43" off="13:03">Not long after *Morocco*, we got *Queen Christina* the story of a realife Swedish Monarch who was infamous for being a,,, pretty out and proud lesbian for the day, though the filmmakers went out of their way to straightwash the historical figure, her real life sexuality bled onto the celluloid despite their best efforts.</span>
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(12:57)" %}>
+
+Narrator: "The movie *Queen Christina* was based on the life of a real Swedish monarch and lesbian. Hollywood changed the story, but traces of the truth seem to linger."
+
+> Chancellor: "There are rumors that your majesty is planning a foreign marriage?"
+>
+> Queen Christina: (shrugs) "They're baseless." (walks away)
+> 
+> Chancellor: "But your majesty! You cannot die an old maid!"
+> 
+> Queen Christina: (turns) "I have no intention to, Chancellor. I shall die a bachelor!"
+> 
+> <u>[Fades out]</u>
+
+</from>
+<clip visual={{tcc}} on="13:08" off="13:28" {% include citation for=page.cite.plagiarized.celluloid_closet %}>
 
 Chancellor: "There are rumors that your majesty is planning a foreign marriage?"
 
@@ -216,17 +353,28 @@ Chancellor: "But your majesty! You cannot die an old maid!"
 
 Queen Christina: (turns) "I have no intention to, Chancellor. I shall die a bachelor!"
 
-</clip>
-</compare>
+<u>[Fades out]</u>
 
-<compare>
+</clip>
 <james {% include timecode %}>
 
-Along with homosexuality, sex, violence, and orgies were pretty common in early Hollywood, oddly in biblical films. And some people we're getting fed up with it.<wbr off />
+<span visual={{tcc}} on="13:43" off="13:46">Along with homosexuality, sex,</span> <span visual={{tcc}} on="13:57" off="14:06">violence, and orgies were pretty common in early Hollywood, oddly in biblical films. And some people we're getting fed up with it.</span>
 
-Starting in 1922, after the earliest of these morally questionable films had become massive successes, and a series of real life Hollywood scandals had rocked the papers, studio heads enlisted William H. Hayes, the former Postmaster General (so he was obviously qualified) to rehabilitate Hollywood's image. He was one of the few unindighted members of Warren G. Harding's administration at the time, so obviously his moral fortitude was robust.
+Starting in 1922, after the earliest of these morally questionable films had become massive successes, and a series of real life Hollywood scandals had rocked the papers, <mark num=1>studio heads enlisted <span visual={{tcc}} on="14:43" off="14:43">William H. Hayes, the former Postmaster General</span></mark> (so he was obviously qualified) to rehabilitate Hollywood's image. He was one of the few <mark num=2>unindighted members of Warren G. Harding's administration</mark> at the time, so obviously his moral fortitude was robust.
 
-<wbr on />In 1924, he ented introduced a set of recommendations dubbed "The Formula", which Studios were advised to strictly follow. Back in 1915, the Supreme Court case *Mutual Film Corporation v. Industrial Commission of Ohio* had already decided that Free Speech laws didn't extend to Motion Pictures, stating that<wbr off /> "because film may be used for evil, we cannot regard censorship as beyond the power of the government". So the industry was on thin ice as it was. It could be a *disaster* for them to draw the ire of conservatives in government. Directors and writers, though, mostly ignored the suggestions.
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(14:17)" %}>
+
+Gore Vidal (Screenwriter): "The big change occurred when the movie moguls got together. Let's save Hollywood. We must get an outsider, preferably some politician who was above suspicion. So they looked into <mark num=2>the cabinet of Warren G. Harding. At that time there were a number of unindicted members of his cabinet</mark>. And <mark num=1>they picked the post-master general, Will Hays</mark> of Indiana. Who looked not unlike Mickey Mouse."
+
+<u>[Will Hays appears on screen, heralded by grim music foreshadowing the terror to come.]</u>
+
+Hays: "The code sets up high standards of performance for motion picture producers."
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="14:58" off="15:06">In 1924, he introduced a set of recommendations dubbed "The Formula", which Studios were advised to strictly follow. Back in 1915, the Supreme Court case *Mutual Film Corporation v. Industrial Commission of Ohio* had already decided that Free Speech laws didn't extend to Motion Pictures, stating that</span> "because film may be used for evil, we cannot regard censorship as beyond the power of the government". So the industry was on thin ice as it was. It could be a *disaster* for them to draw the ire of conservatives in government. Directors and writers, though, mostly ignored the suggestions.
 
 </james>
 <from></from>
@@ -269,97 +417,205 @@ In 1927, Hayes strongly suggested Studios form a committee to discuss film censo
 
 > Special care should also be taken when portraying the use of firearms, the American flag, men and women sharing a bed, and actual murder[s].
 
-So it was relatively okay to show *actual murder*, but even the idea, *the inference*, of homosexuality was a big no-no. 
+So it was relatively okay to show *actual murder*, but even *the idea*, *the inference*, of homosexuality was a big no-no. 
 
 </james>
 <from></from>
+</compare>
+
+<compare>
+{{ VISUAL_TCC }}
 <james {% include timecode %}>
 
 The Federation of Women's Club was one of the loudest voices of the era calling for theaters to be raided by police if they *dare* show any films released before The Code was put into effect.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="13:28" off="13:42" stat:id="blatant-bgm" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on />Woman: "We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open."<wbr off />
+Woman: <mark>"We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open.</mark>"
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(13:28)" %}>
+
+> Mrs. Gustav Ketterer (Federation of Women's Club): <mark>"We hope that it will not be necessary to close all the motion picture houses because of some of the ones that are not desirable. But that we will have cleaner and better motion pictures so that they may all stay open."</mark>
+
+<u>[Cut to a scene labeled "Tarzan and His Mate (1934) / Censored Scene"]</u>
+
+</from>
 <james {% include timecode %}>
 
 In 1930, the code was agreed upon by the studios and put into effect, essentially making the depiction of homosexuality on screen more or less illegal.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="14:42" off="14:57" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<wbr on />Man: "The Code sets up high standards of performance for motion picture producers. it states the considerations which good taste and community value make necessary in this universal form of entertainment."<wbr off />
+<u stat:id="blatant-bgm">[Grim foreboding music.]</u>
+
+Man: <mark>"The Code sets up high standards of performance for motion picture producers. It states the considerations which good taste and community value make necessary in this universal form of entertainment."</mark>
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(14:40)" %}>
+
+Vidal: "[...]Who looked not unlike Mickey Mouse."
+
+<u>[Will Hays appears on screen, heralded by grim music foreshadowing the terror to come.]</u>
+
+> Will Hays (Head of Production Code): <mark>"The code sets up high standards of performance for motion picture producers. It states the considerations which good taste and community value make necessary in this universal form of entertainment."</mark>
+
+Narrator: "Will Hays would head the movie's first voluntary effort at self-censorship."
+
+</from>
+<james {% include timecode %}>
+
+<mark>[Joe Breen](https://en.wikipedia.org/wiki/Joseph_Breen) ran the code office for two decades.</mark> His position <mark>authorized him to change anything about a movie, from the script, plots, edits, characters</mark>, even camera angles. 
+
+<span visual={{tcc}} on="15:54" off="16:11">Under his rule, <mark>*The Lost Weekend*, a novel about an alcoholic coming to terms with his sexuality, became a movie about an alcoholic with writer's block.</mark> <mark>*Crossfire*, a novel about gay bashing, became a novel about antisemitism.</mark></span>
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(15:44)" %}>
+
+Narrator: "Code director, <mark>Joe Breen, ran Hollywood's censorship machenery for over two decades.</mark> He was <mark>authorized to change words, personalities, and plots</mark>."
+
+<!-- 15:56 -->
+<u>[Footage of *The Lost Weekend* (1945)]</u>
+
+Narrator: "<mark>A novel about a sexually confused alcoholic became a movie about an alcoholic with writer's block.</mark>"
+
+<!-- 16:04 -->
+<u>[Footage of *Crossfire* (1947)]</u>
+
+Narrator: "<mark>A novel about gay-bashing and murder became a movie about anti-Semitism and murder.</mark>"
+
+<!-- 16:11 -->
+> Joseph Breen (Code Enforcement Officer): "Our American people are a pretty homely and wholesome crowd. <mark>Cock-eyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff.</mark> And it is our job to see to it, that they get none of it."
+
+<!-- 16:34 -->
+<u>[Footage of *Dracula's Daughter* (1936)]</u>
+
+</from>
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+
+Joe Breen(?): "<mark>Cockeyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff!</mark>"
+
+<footer>Unlike *The Celluloid Closet*, James makes no attempt to label the people speaking in any of these clips. {% include signed for=tustin %}</footer>
+
+</clip>
+<james {% include timecode %}>
+
+Many writers and directors in Hollywood, many of them gay themselves were, not too happy with the implementation of the Hays Code. Especially since in places like Weimar Republic Germany, advancement of queer representation on film was becoming mainstream. (At least until the rise of Adolf Hitler.) They saw what little progress that was taking place in North American Cinema come to a screeching halt with the Hays Code introduction, and they decided to fight back against it any way they could. And the only way they could at the time was to create characters that were quite obviously gay to any queer person watching, but who could fly under the radar of the censors.
+
+</james>
+<from></from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="17:46" off="18:02">One way to get the censors to turn the other way was to code villains as gay. Such as the obsessive Mrs Danvers and Alfred Hitchcock's *Rebecca*. After the titular Rebecca dies, it is revealed to the audience that her housekeeper Mrs Danvers</span> <span visual={{tcc}} on="18:31" off="18:34">has kept all of her clothes,</span> <span visual={{tcc}} on="19:07" off="19:11">with a special care given to her underwear.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(17:56)" %}>
+
+<u>[Showing footage of *Rebecca* (1940)]</u>
+
+Bright: "Rebecca is one of the movies in which the word homosexuality or lesbianism is never uttered. But there's this *one scene* that, uh, really stands out for a gay audience. And that is, Rebecca is dead. She was the beautiful woman who is mysteriously not on the scene any longer. And her former housekeeper, Mrs. Danvers, is obsessed with her. Even after her death."
+
+[...] 
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="20:02" off="20:19">Another example is <mark>1941's *The Maltese Falcon*</mark>. In the film, Peter Lori plays Joel Cairo, one of the film's villains. <mark>In the book on which it's based, Cairo is stated very clearly to be gay, queer in fact, but in the movie it's instead inferred,</mark></span>  
+<span visual={{tcc}} on="19:46" off="19:48">with his business card being sprayed with perfume,</span>  
+<span visual={{tcc}} on="20:27" off="20:32">a lilting feminine demeanor, and his propensity to orally fondle his cane.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(19:42)" %}>
+
+<u>[Showing footage of <mark>*The Maltese Falcon* (1941)</mark>]</u>
+
+Dyer: "We know Peter Lorre is gay in The Maltese Falcon, even before we *see* him. We're told that there's a man outside wearing perfume. Gardenia. And then we also hear some kind of funny, slightly Oriental, feminine music."
+
+Narrator: "<mark>The original novel didn't mince words about Peter Lorre's character. It read 'This guy is queer.' The movie could only hint, broadly.</mark>"
+
+</from>
+<james {% include timecode %}>
+
+This trend of coding villains as gay lasted for decades, a topic I covered *more* in depth in my [Monsters in the Closet video](4zPCM14-SCQ.md). <span visual={{tcc}} on="22:12" off="22:35">Sometimes the censors would turn a blind eye to lesbians on the screen, but only under certain circumstance. The "lesbian prison movie" became almost a cliche in the 1940s and 50s, killing two birds with one stone: scaring girls into following the law lest they end up in prison with big scary lesbians, and convincing many young lesbians to go straight, since lesbians seem to have no fate *but* to end up in prison.</span>
+
+</james>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(21:53)" %}>
+
+<u>[Showing footage of *Caged* (1950)]</u>
+
+Bright: "There's supposed to be a social message to all this. Isn't it terrible to go to prison? Isn't it terrible to lose your femininity? Uh, isn't it terrible for a woman to go hard?"
+
+<u>[Showing more footage of *Caged* (1950)]</u>
+
+[...dialog...]
+
+<u>[Showing footage of *Young Man With a Horn* (1950)]</u>
+
+Bright: "In *Young Man With a Horn*, we have one of my favorite lesbian glamor symbols."
+
+> Amy: <mark>"She sure is interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."</mark>
+> 
+> Rick: "She's a good singer, too."
+
+Bright: "I like Lauren Bacall because she gets up in the morning and she has no idea what's going to happen to her next."
+
+<u>[Showing more footage of *Young Man With a Horn* (1950)]</u>
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="22:41">Lesbians in these movies tended to be played by large imposing women, and they likely had a position of authority within the prison. Not guards or anything like that, God forbid, but the women who had been in prison the longest had relationships with the guards. And so the guards were more likely to turn a blind eye to their sapphic tendencies.</span>
+
+Representation of queer women was more subtle in 1950s *Young Man With A Horn*, but just barely. Lauren Bacall plays Amy, an obviously bisexual character that becomes a chaotic force in the life of our main character, Rick. While observing Doris Day's Joe Jordan, Amy comments:
+
+</james>
+<clip visual={{tcc}} off="23:21" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+Amy: <mark>"It was interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."</mark>
+
+</clip>
+<james {% include timecode %}>
+
+<span visual={{tcc}} on="24:06" off="24:19">She's referred to by other characters as having a twisted mind, and eventually <mark>Rick tells her that she's sick</mark>; this description falling into the prevailing medical opinion on homosexuality at the time.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(24:06)" %}>
+
+<u>[Showing more footage of *Young Man With a Horn* (1950)]</u>
+
+Rick: "What a swell combination we were. You said you wanted experiences, Amy. Well here's one for you. I'm leaving you."
+
+Amy: (turning, growling) "I'd like to kill you."
+
+Rick: "You almost did. <mark>You're a sick girl, Amy.</mark> You'd better see a doctor. "
+
+</from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-Joe Breen ran the code office for two decades. His position authorized him to change anything about a movie, from the script, plots, edits, characters, even camera angles. 
+An iconic example of queer coding that straddles the line of Hays Code approval is 1955's *Rebel Without a Cause*. Starring two teen heartthrobs, James Dean and Sal Mineo, both of whom are at least *rumored* to have been queer. <mark>Dean's character Jim is a teenager kicking against authority and parental neglect. Who becomes both friend and fascination to Mineo's Plato, a lonely younger kid.</mark> 
 
-<wbr on />Under his rule, *The Lost Weekend*, a novel about an alcoholic coming to terms with his sexuality, became a movie about an alcoholic with writer's block. *Crossfire*, a novel about gay bashing, became a novel about antisemitism.
-
-</james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-Joe Breen(?): "Cockeyed philosophies of life, ugly sex situations, cheap jokes, and dirty dialogue are not wanted. Decent people don't like this sort of stuff!"
-
-</clip>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Many writers and directors in Hollywood, many of them gay themselves were, not too happy with the implementation of the Hays Code. Especially since in places like Weimar Republic Germany, advancement of queer representation on film was becoming mainstream. At least until the rise of Adolf Hitler. They saw what little progress that was taking place in North American Cinema come to a screeching halt with the Hays Code introduction, and they decided to fight back against it any way they could. And the only way they could at the time was to create characters that were quite obviously gay to any queer person watching, but who could fly under the radar of the censors.
-
-<wbr on />One way to get the censors to turn the other way was to code villains as gay. Such as the obsessive Mrs Danverse and Alfred Hitchcock's *Rebecca*. After the titular Rebecca dies, it is revealed to the audience that her housekeeper Mrs danverse has kept all of her clothes, with a special care given to her underwear.
+<mark>Plato is obviously gay, although it's easier to say that in 2020 than it was in 1955. If you don't pick up on that from the photo of hunky Alan Ladd that Plato has taped inside of his locker, or the looks of adoration he gives Jim, it becomes *abundantly* clear when he makes a coded declaration of love to Jim late in the film.</mark>
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<comment {% include commenter for=tustin %}>
 
-Another example is 1941's *The Maltese Falcon*. In the film, Peter Lori plays Joel Cairo, one of the film's villains. In the book on which it's based, Cairo is stated very clearly to be gay, queer in fact, but in the movie it's instead inferred, with his business card being sprayed with perfume, a lilting feminine demeanor, and his propensity to orally fondle his cane.
+James doesn't use *The Celluloid Closet*'s footage of *Rebel* for this section.
 
-<wbr off />This trend of coding villains as gay lasted for decades, a topic I covered more in depth in my [Monsters in the Closet video](4zPCM14-SCQ.md). <wbr on />Sometimes the censors would turn a blind eye to lesbians on the screen, but only under certain circumstance. The "lesbian prison movie" became almost a cliche in the 1940s and 50s, killing two birds with one stone: scaring girls into following the law lest they end up in prison with big scary lesbians, and convincing many young lesbians to go straight, since lesbians seem to have no fate *but* to end up in prison.
+</comment>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 7-8" %}>
 
-</james>
-<from></from>
-<james {% include timecode %}>
+<mark>Dean’s character Jim, a teen kicking against authority and parental neglect, becomes both friend and fascination to Mineo’s Plato, a lonely younger kid.</mark>
 
-Lesbians in these movies tended to be played by large imposing women, and they likely had a position of authority within the prison. not guards or anything like that, God forbid, but the women who had been in prison the longest had relationships with the guards. and so the guards were more likely to turn a blind eye to their sapphic tendencies.
+<mark>Plato is obviously gay, although it’s easier to say this in 2014 than it was in 1955. If you don’t pick that up from the photo of hunky Alan Ladd that Plato has taped inside his locker, or the looks of adoration he gives Jim, it becomes abundantly clear when he makes a coded declaration of love to Jim late in the film.</mark>
 
-representation of queer women was more subtle in 1950s *Young Man With A Horn*, but just barely. Lauren Bacall plays Amy, an obviously bisexual character that becomes a chaotic force in the life of our main character, Rick. while observing Doris Day's Joe Jordan, Amy comments:
-
-</james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-Amy: "It was interesting, isn't she? So simple and uncomplicated. Must be wonderful to wake up in the morning and know just which door you're going to walk through. But she's so terribly normal."
-
-</clip>
-<james {% include timecode %}>
-
-She's referred to by other characters as having a twisted mind, and eventually Rick tells her that she's sick; this description falling into the prevailing medical opinion on homosexuality at the time. 
-
-</james>
-<from></from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-An iconic example of queer coding that straddles the line of Hays Code approval is 1955's *Rebel Without a Cause*. Starring two teen heartthrobs, James Dean and Sal Mineo, both of whom are at least *rumored* to have been queer. Dean's character Jim is a teenager kicking against authority and parental neglect. Who becomes both friend and fascination to Mineo's Plato, a lonely younger kid. 
-
-Plato is obviously gay, although it's easier to say that in 2020 than it was in 1955. If you don't pick up on that from the photo of hunky Alan Ladd that Plato has taped inside of his locker, or the looks of adoration he gives Jim, it becomes *abundantly* clear when he makes a coded declaration of love to Jim late in the film. 
-
-</james>
-<from></from>
+</from>
 </compare>
 
 <compare>
@@ -380,23 +636,46 @@ Plato: (deer-in-the-headlights look) "Can I keep it?"
 </clip>
 <james {% include timecode %}>
 
-Jim has feelings for Plato too, although the main narrative is him falling in love with Natalie Wood's character Judy. James Dean could read the subtext though. prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, "look at me the way that *I* look at Natalie". 
+<mark>Jim has feelings for Plato too, although the main narrative is him falling in love with Natalie Wood's character Judy.</mark> <mark>James Dean could read the subtext though.</mark> <mark>Prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, "look at me the way that *I* look at Natalie".</mark> 
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 9-10" %}>
 
-Such homoerotic bonding couldn't be spoken about in the repressive 1950s. Being gay was still illegal in most of the country, and at minimum frowned upon everywhere else, and the censors of the day took pains to keep it that way. A production code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that--<wbr off />
+<mark>Jim has feelings for Plato, too, although the main narrative has him falling in love with Natalie Wood’s schoolgirl character Judy.</mark>
 
-<u>[on screen, radio filter]:</u>
-> "it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim."
+<mark>Dean knew what was going on.</mark> <mark>Prior to filming the intense encounter with Mineo in the abandoned Getty Mansion, he told him, “Look at me the way I look at Natalie.”</mark>
 
-</james>
-<from></from>
+</from>
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.rebel_without_cause %}>
+<james span=2 {% include timecode %}>
+
+<mark>Such homoerotic bonding couldn't be spoken about in the repressive 1950s.</mark> <mark>Being gay was still illegal in most of the country,</mark> and at minimum frowned upon everywhere else, and <mark>the censors of the day took pains to keep it that way.</mark> <mark>A Production Code officer sent a memo to Jack Warner in the spring of 1955 during the filming of *Rebel Without a Cause*, reminding the Warner Brothers executive that</mark>--<wbr off />
+
+<u>[on screen, radio filter]:</u>
+> <mark>"it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim."</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 11-13" %}>
+
+<mark>Such homoerotic bonding couldn’t be spoken about in the repressive ’50s,</mark> even though Mineo actually was gay and Dean was reputed to be bisexual.
+
+<mark>It was an era when homosexuality was still a crime in many parts of America.</mark> Indeed, <mark>the censors of the day took pains to keep it that way.</mark>
+
+<mark>A Production Code officer sent a memo to Jack L. Warner in the spring of 1955, during the filming of *Rebel Without a Cause*, reminding the Warner Bros. honcho that</mark> <mark>“it is of course vital that there be no inference of a questionable or homosexual relationship between Plato and Jim.”</mark>
+
+</from>
+<comment {% include commenter for=tobi %}>
+
+A correction to the article - [Mineo was openly bisexual](https://web.archive.org/web/20150924093740/http://www.salmineo.com/news/inter_hadleigh.html). 
+
+</comment>
+</compare>
+
+<compare>
+<!-- Theoretically, this clip could come from either rebel directly or its use in TCC. -->
+<clip visual={{tcc}} on="26:40" off="26:48" {% include citation for=page.cite.clips.rebel_without_cause %}>
 
 <wbr on /><u>[Plato and Jim close a garage door]</u>
 
@@ -405,7 +684,6 @@ Plato: "Hey, you want to come home with me? I mean, there's nobody home at my ho
 </clip>
 <james {% include timecode %}>
 
-
 Now *that's* some *subtle* inference. 😏
 
 </james>
@@ -413,29 +691,89 @@ Now *that's* some *subtle* inference. 😏
 </compare>
 
 <compare>
+<james span=2 {% include timecode %}>
+
+<wbr on /><mark>Most straight reviewers of *Rebel* didn't pick up on anything beyond "Boy Meets Girl" and the romantic entanglements.</mark> <mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean's Jim isn't afraid to show affection for Plato as well as Judy.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 14" %}>
+
+<mark>Most straight reviewers of Rebel didn’t pick up on anything beyond boy-meets-girl in the romantic entanglements,</mark> even as they recognized the effect the film would have on young viewers.
+
+</from>
+<from {% include citation for=page.cite.plagiarized.peter_howell at="¶ 16" %}>
+
+<mark>The strongest impact the film makes is non-verbal, operating on an unconscious level. The mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean’s Jim isn’t afraid to show affection for Plato as well as Judy.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-<wbr on />Most straight reviewers of *Rebel* didn't pick up on anything beyond "Boy Meets Girl" and the romantic entanglements. the strongest impact the film makes is non-verbal, operating on an unconscious level. the mere sight of Dean and Mineo exhibiting unabashed love for each other sent a powerful message. Dean's Jim isn't afraid to show affection for Plato as well as Judy. as Brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down.
-
-So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
+As brave as the filmmakers were to show a pretty blatant example of a gay, or at least questioningly gay, relationship on screen, they knew the strict morals of the day might take the picture down. So Plato, the more obviously gay of the two characters, has to die in the end. He can't live happily ever after. He can't live at all. Can't give the impression that that kind of lifestyle could result in anything but pain and death. James Dean would die in a car accident before the film was even released. And... Sal Mineo would be stabbed to death in West Hollywood at the age of 37. <wbr off />
 
 </james>
 <from></from>
 </compare>
 
 <compare>
-<james {% include timecode %}>
+{{ VISUAL_TCC }}
+<james span=2 {% include timecode %}>
 
 And now for an abrupt segue!
 {% assign timecode = "16:27" %}
 
-<wbr on />You wouldn't expect expect there to be queer coding in *Ben-Hur*, of all movies -- the book was subtitled "The Tale of the Christ" -- but there actually is. Gore Vidal, screenwriter of the film, said this in 1996:
+<span visual={{tcc}} on="28:50" off="29:03">You wouldn't expect expect there to be queer coding in *Ben-Hur*, of all movies -- the book was subtitled "The Tale of the Christ" -- but there actually is. Gore Vidal, screenwriter of the film, said this in 1996:</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<comment {% include commenter for=tustin %}>
 
-Gore Vidal (being interviewed): "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
+The reason for the "abrupt segue" is because James apparently couldn't think of a good way to go from his insert about *Rebel* and the next part of the documentary he's ripping off.
+
+Also note, all footage for this next section is flipped and the footage of *Ben-Hur* is additionally vignetted, zoomed, and sepia-toned, to avoid copyright.
+
+</comment>
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(28:18)" %}>
+
+<u>[Showing the scene where Plato is shot in *Rebel Without A Cause*]</u>
+
+Gore Vidal (Screenwriter, *Ben-Hur*): "Well, you got very good at, uh, projecting subtext without saying a word about what you were doing. The best example I lived through was, uh... writing Ben-Hur."
+
+<u>[Footage of *Ben-Hur* (1959)]</u>
+
+Vidal: "Ben-Hur and Messala, one Jewish, one Roman, had known each other in youth. They disagree over politics and now they hate each other for the next three hours. Well, that isn't much to put a whole three hour movie on, even something as gorgeously junky as Ben-Hur."
+
+<u>[Footage continues of *Ben-Hur* (1959)]</u>
+
+Vidal: "The director of the movie, William Wyler, said, 'What do you do?' I said, well, look. Let me try something.
+
+Vidal: "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
+
+Vidal: "So, uh, Willie stared at me, face gray, and I said 'well, I'll never use the word, there'll be nothing overt, but it'll be perfectly clear that Messala is in love with Ben-Hur.'
+
+Vidal: "Willie said 'Gore, this is Ben-Hur. A Tale of the Christ, I think is the subtitle,' he said rather vaguely looking around. And Willie finally said, 'Well, it's certainly better than what we've got. We'll try.'"
+
+<u>[Footage from *Ben-Hur*, music swelling]</u>
+
+> Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> 
+> Ben-Hur: "In every way." (chuckling)
+
+Vidal: "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" <mark>[laugh-snort]</mark> "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." <mark>[demonstrating]</mark>
+
+Vidal: "And Steven Boyd is acting it *to pieces*. There are looks that he gives him that are just *so clear*."
+
+<u>[Footage from *Ben-Hur*]</u>
+
+> Messala: (giving one of said looks) "I said I'd come back."
+> 
+> Ben-Hur: "I never thought you would. I'm so glad." <u>[Both laugh]</u> [...]
+
+</from>
+<clip visual={{tcc}} on="29:06" off="30:44" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+<mark num></mark>Gore Vidal (being interviewed): "Let's say that these two guys, when they were 15-16 when they last saw each other, they had been lovers, and now they're meeting again, and the Roman wants to start it up. Messala, played by Steven Boyd, wants to started up again with Ben-Hur, played by Charlton Heston, heaven knows why, but he does. Anyway, he's Roman.
 
 Vidal: "So, uh, Willie stared at me, face gray, and I said 'well, I'll never use the word, there'll be nothing overt, but it'll be perfectly clear that Messala is in love with Ben-Hur.'
 
@@ -443,31 +781,22 @@ Vidal: "Willie said 'Gore, this is Ben-Hur. A Tale of the Christ, I think is the
 
 <u>[Playing clip from Ben-Hur, music swelling]</u>
 
-Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> Messala: (laughing, clasping hands with Ben-Hur) "After all these years! Still close!"
+> 
+> Ben-Hur: "In every way." (chuckling)
 
-Ben-Hur: "In every way." (chuckling)
-
-Vidal (being interviewed): "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" (laugh-snort) "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." (demonstrating)
+Vidal (being interviewed): "He said, 'Have you talked to anybody about this?' and I said 'No.' He said, 'You talk to Boyd (Messala). Uh... don't say *anything* to Heston, because Chuck will fall apart. I'll take care of him.'" <mark>[laugh-snort]</mark> "So Heston he's doing 'Francis X Bushman'. In the silent version, his head is always constantly on high like this and like this." <mark>[demonstrating]</mark>
 
 Vidal: "And Steven Boyd is acting it *to pieces*. There are looks that he gives him that are just *so clear*."
 
 <u>[Playing clip from Ben-Hur]</u>
 
-Messala: (giving one of said looks) "I said I'd come back."
-
-Ben-Hur: "I never thought you wouldn't."<wbr off />
+> Messala: (giving one of said looks) "I said I'd come back."
+> 
+> Ben-Hur: "I never thought you wouldn't."
 {% assign timecode = "18:20" %}
 
 </clip>
-<comment>
-{% include header for=tustin %}
-
-Yes, James just spliced a whole, uncut two minutes of the documentary into his video.
-
-</comment>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
 <u>[Abrupt cut back to James's face]</u>
@@ -476,18 +805,43 @@ Ben-Hur wasn't the only surprising movie you'd find queer coding in as the produ
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<u>[Black and white cowboy movie]</u>
+<u visual={{tcc}} on="32:48">[Black and white cowboy movie]</u>
 
 Cowboy A: "Can I see it?"
 
 <u>[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]</u>
 
-B: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice. You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
+<span visual={{tcc}} off="33:03">A: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice."</span>
+
+-----
+
+<span visual={{tcc}} on="33:13">A: "You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"</span>
+
+<u visual={{tcc}} off="33:24">[B contemplates this]</u>
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(32:44)" %}>
+
+<u>[Footage of *Red River* (1948)]</u>
+
+> Cowboy A: "That's a good looking gun you were about to use back there. Can I see it?"
+> 
+> <u>[Cowboy B scratches his nose in a strangely knowing way then pulls out his pistol and hands it to A handle-first.]</u>
+> 
+> A: "Maybe you'd like to see mine." (examining gun) "Nice. Awful nice." 
+
+Laurents: "Mony Clift and John Ireland knew what they were doing. I think that's why the scene is, I think, funny. Cause of their delight in playing the sexuality of the gun."
+
+> A: "You know, there are only two things more beautiful than a good gun: Swiss watch or a woman from anywhere. You ever had a good Swiss watch?"
+> 
+> <u>[B contemplates this, then]</u>
+> 
+> B: (points) "Go ahead, try it." [...]
+
+</from>
+<clip visual={{tcc}} on="31:39" off="31:53" stat:id="blatant-bgm" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Technicolor western movie]</u>
 
@@ -496,23 +850,65 @@ Cowgirl A: (staring at girl in ballerina dress up and down in awe) "Gosh almight
 Ballerina: (freaks out) "Please!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(32:44)" %}>
+
+<u>[Footage of *Calamity Jane* (1953)]</u>
+
+Narrator: "Hollywood had learned to write movies between the lines. And some members of the audience had learned to watch them that way."
+
+> Cowgirl A: <u>[staring at girl in ballerina dress up and down in awe]</u> "Gosh almighty... You're the perttiest thing I ever seen. Never know a woman could look like that." <u>[Comes forward]</u> "Say, how do you hold that dress up there?!"
+> 
+> Ballerina: <u>[freaks out]</u> "Please!"
+
+Bright: "It's amazing how if you're a gay audience and you're accustomed to crumbs, how you will watch an entire movie, just to see somebody wear an outfit that you think means that they're a homosexual."
+
+<u>[Footage of *Johnny Guitar* (1954)]</u>
+
+Bright: "The whole movie can be a dud but you're just sitting there waiting for Jaon Crawford to put on her black cowboy shirt again."
+
+> Cowgirl B: <u>[in awe, staring up at C]</u> "I'm going to kill you."
+>
+> Cowgirl C: <u>[looking down haltingly]</u> "I know. If I don't kill you first." 
+
+</from>
+<clip visual={{tcc}} on="32:16" off="32:25" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Cowgirl B: (in awe, staring up at C) "I'm going to kill you."
 
 Cowgirl C: (looking down haltingly) "I know. If I don't kill you first." 
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-Characters Meeting The Obvious Gay Stereotypes Even Started Popping Up In Mainstream Comedies, Like In *Lover Come Back* In 1961.
+Characters meeting the obvious gay stereotypes even started popping up in mainstream comedies, like in *Lover Come Back* in 1961.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- No filter? -->
+<from span=2 {% include citation for=page.cite.plagiarized.celluloid_closet at="(36:25)" %}>
+
+Paul Rudnick (Screenwirter): "In the 50s and 60s, especially in sex comedies, there were often characters who could be read as gay. Whether they were the Tony Randall roles or the boss of the decorating establishment."
+
+<u>[Footage from *Lover Come Back* (1961)]</u>
+
+> Man: "And here..."
+> 
+> Woman: "Hm, this is bad either. But what color is that floor?"
+> 
+> Man: "Lilac."
+> 
+> Woman: "Lilac?! Leonard, who has a lilac floor in their kitchen?!"
+> 
+> Man: (serious, to her) "I have."
+> 
+> Woman: "Oh..." (recalculating) "Well, Leonard everyone isn't as artistic as you are."
+> 
+> Man: (Seems satisfied with that, smiling)
+> 
+> Woman: "We have to sell this wax to average, ordinary, everyday people."
+> 
+> Man: "Ehhh... *them*."
+
+</from>
+<clip visual={{tcc}} on="36:37" off="36:59" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Man: "Yeah?"
 
@@ -526,33 +922,48 @@ Man: (serious, to her) "I have."
 
 Woman: "Oh..." (recalculating) "Well, Leonard everyone isn't as artistic as you are."
 
-</clip>
-</compare>
+<footer>Footage zoomed in and has a slight "old-timey movie" (slight sepia and crease lines) filter over it?</footer>
 
-<compare>
+</clip>
 <james {% include timecode %}>
 
-And straight characters started acting gay in order to get a woman in bed. Funnily enough, an awful lot of these characters were played by Rock Hudson. 
+And straight characters started <mark num=1>acting gay in order to get a woman in bed</mark>. Funnily enough, an awful lot of <mark num=2>these characters were played by Rock Hudson</mark>. 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(37:42)" %}>
+
+<u>[Footage of *Pillow Talk* (1959)]</u>
+
+Armistead Maupin (Writer): "Rock had a screening room in his house, and he liked to assemble his house guests and show his old movies. Most of the guys I knew really liked to see the old Doris Day films. And I think one of the reasons we laughed at them so hard, was that there was a real gay in-joke occurring in almost all of those light comedies. Because at some point or another, <mark num=2>the character that Rock Hudson played</mark>, <mark num=1>posed as gay in order to get a woman into bed</mark>."
+
+> Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
+>
+> <u>[Doris Day freezes in confusion. He takes a drink from a glass with his pinky in the air. Her eyes follow the finger in concern.]</u>
+
+Maupin: "It was tremendously ironic, because here was a gay man, impersonating a straight man, impersonating a gay man."
+
+> Rock: <u>[takes bite of chip and dip]</u> "Mmm-mmm! Ain't these tasty?! I wonder if I could get the recipe."
+>
+> <u>[Doris Day freezes with a thousand-yard stare again.]</u>
+>
+> Rock: "Sure would like to surprise my ma when I go back home."
+
+<u>[Horizontal wipe to *Some Like It Hot* (1959) footage.]</u>
+
+</from>
+<clip visual={{tcc}} on="38:08" off="38:21" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 Rock Hudson: "Tell me about your job. Must be... very exciting working with all them colors... and fabrics, yaknaw?"
 
 <u>[He takes a drink from a glass with his pinky in the air as the woman he was flirting with looks on in concern.]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />And then came *Some Like It Hot*, a movie where two straight musicians dress in drag in order to avoid the mafia killer looking for them. One of the first major studio films to be released *without* the Motion Picture Production Code... approval since the 1930s.
+<span visual={{tcc}} on="38:51" off="39:01">And then came *Some Like It Hot*, a movie where two straight musicians dress in drag in order to avoid the mafia killer looking for them. One of the first major studio films to be released</span> <span visual={{tcc}} on="39:12" off="39:17">*without* the Motion Picture Production Code... approval since the 1930s.</span>
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+<clip visual={{tcc}} on="39:25" off="39:34" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 A: "Men!"
 
@@ -563,13 +974,24 @@ A: "We wouldn't be caught *dead* with men! Rough hairy beasts with eight hands!"
 </clip>
 <james {% include timecode %}>
 
-The Code Had Been Weakening For Years As Social Attitudes Became More Progressive, And Many Consider *Some Like It Hot* To Be The Final Nail In The Code Coffin. Even Though It Would Technically Remain In Effect Until 1968.
+<span visual={{tcc}} on="40:08" off="40:21">The Code had been weakening for years as social attitudes became more progressive, and many consider *Some Like It Hot* to be the final nail in the code coffin. even though it would technically remain in effect until 1968.</span>
 
-A Famous Instance Of Gay Coding Being Too Obvious, Even For The Production Code Office, Was 1960 *Spartacus*, Where Slave Antoninus, Played By Tony Curtis Who Was Also In *Some Like It Hot*, Bathes His Master, Played By Laurence Olivier.
+A famous instance of gay coding being too obvious, even for the Production Code Office, was 1960 *Spartacus*, where slave Antoninus, played by Tony Curtis who was also in *Some Like It Hot*, bathes his master, played by Laurence Olivier.
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}><!-- no filter? -->
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(40:30)" %}>
+
+<u>[Footage from *Sparticus* (1960)]</u>
+
+Narrator: "When the subject turns serious and actual sex was suggested, out came the blue pencil, the scissors, and the scene."
+
+[...]
+
+</from>
+</compare>
+
+<compare>
+<clip {% include citation for=page.cite.clips.spartacus %}><!-- no filter? -->
 
 Crassius: "Do you eat oysters?"
 
@@ -583,9 +1005,18 @@ Crassius: "Do you consider the eating of oysters to be moral, and the eating of 
 
 Antoninus: "No, master."
 
-Crassius: "Of course not. My taste includes... both snails and oysters."<wbr off />
+Crassius: "Of course not." 
+
+----
+
+Crassius: "My taste includes... both snails and oysters."
 
 </clip>
+<comment {% include commenter for=tustin %}>
+
+This clip did not come from *The Celluloid Closet*, which interviewed the actor playing Antoninus, and he summarized the scene more than they showed. James must have specifically gone and gotten this deleted scene footage from somewhere else.
+
+</comment>
 <james {% include timecode %}>
 
 The bisexual overtones of "snails and oysters" was too obvious even for the pretty oblivious censors of the day.
@@ -597,7 +1028,9 @@ An adaptation of the Tennessee Williams play, *Cat on a Hot Tin Roof*, also had 
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+{{ VISUAL_TCC }}
+<clip visual={{tcc}} on="42:54" off="43:18" {% include citation for=page.cite.clips.celluloid_closet %}>
+
 Brick "What are you suggesting?"
 
 Big Daddy: "Nothing, but..."
@@ -618,54 +1051,120 @@ Brick: "Skipper is the only thing that I got left to believe in! And you are dra
 
 Big Daddy: "Now just a minut--!"
 
-Brick: "You are making it shameful and filthy, you--!" (Ditches his crutch to attack Big Daddy, falls over instead)
+Brick: "You are making it shameful and filthy, you--!" <u>[Ditches his crutch to attack Big Daddy, falls over instead]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-And even more egregiously with another Tennessee Williams adaptation *Suddenly Last Summer*. <wbr on />Screenwriter Gore Vidal (...seemed to be writing a lot of these movies at the time) said the film was forced before the legion of decency and cut to bits until it made no sense at all. But the messaging, though now coded, was still there. That the unseen character of Sebastian used the women in his life to attract men he could sleep with, ending in his violent murder by a savage mob.
-
-When the film was released, the New York Times ran a *scathing* review, telling potential movie goers "if you'd like incest, rape, sodomy, cannibalism, degeneracy, this *sickening* picture is the the one for you." <wbr off />*Inadvertently* they had given the film the best advertising campaign it could possibly hope for! Making it a *breakaway* success for stars Elizabeth Taylor and Katharine Hepburn.
+And even more egregiously with another <mark>Tennessee Williams adaptation *Suddenly Last Summer*</mark>. <span visual=none on="?" off="?">Screenwriter Gore Vidal (...seemed to be writing a lot of these movies at the time) said <mark x>the film was forced before the legion of decency and cut to bits until it made no sense at all</mark>. But the messaging, though now coded, was still there. That the unseen character of Sebastian used the women in his life to attract men</span>  
+<span visual=none on="?" off="?">he could sleep with, ending in his violent murder by a savage mob.</span>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(43:19)" %}>
+
+Vidal: "It was perfectly clear to anybody on the right wavelength what you were doing. You just couldn't use the word. And I met this head-on in a movie called <mark>*Suddenly, Last Summer,* from a Tennessee Williams play</mark>."
+
+<u>[Footage from *Suddenly, Last Summer* (1959)]</u>
+
+> Woman: "You know why I was doing it? I told you. I was procuring for him. Sebastian was lonely, doctor."
+
+<mark x>Vidal: "The legion of decency, headed by this sort of shark-like Jesuit priest. I must have had five meetings with him. 'Oh, well, you can't say this, you can't say that.' By the time we started to cut it, it was making no sense at all."</mark>
+
+> <u>[...More Footage from *Suddenly, Last Summer* (1959)...]</u>
+
+Vidal: "It was like working under the Kremlin. You know, like writing for Pravda. You did learn how to write between the lines, or photograph between the lines. You do it with a look, or something. There'd be a take on Hepburn's face as Elizabeth Taylor would be telling her, getting closer and closer to the truth. Which the Legion of Decency wouldn't dare let us say."
+
+> <u>[...More Footage from *Suddenly, Last Summer* (1959)...]</u>
+
+</from>
 <james {% include timecode %}>
 
-<wbr on />Coding went out *the window* with 1961's *Victim*, giving filmgoers their first gay hero. And a sympathetic betrayal of homosexuals in general. The British film was attacked by censors in the UK and the US. with UK censors giving it an X rating and America's production code refusing to classify at all. Decades later, when it was eventually released on home video?<wbr off /> It was rated PG-13.
-
-<wbr on />As the production code slowly began to fade away in America, with original restrictions like open-mouth kissing, nudity, profanity, abortion, and prostitution now finding their way through the censoring process, only one remained: the sex perversion clause.
-
-<wbr off />No major studios and stars had yet tackled the subject of homosexuality in any meaningful way in Hollywood... But that would change with 1961's *The Children's Hour* <wbr on />starring Audrey Hepburn and Shirley MacLaine.
+<span visual=none on="?" off="?"><mark>When the film was released, the New York Times ran a *scathing* review</mark>, telling potential movie goers <mark>"if you'd like incest, rape, sodomy, cannibalism, degeneracy, this *sickening* picture is the the one for you."</mark></span> *Inadvertently* they had given the film the best advertising campaign it could possibly hope for! <mark>Making it a *breakaway* success</mark> for stars Elizabeth Taylor and Katharine Hepburn.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(46:17)" %}>
+
+Vidal: "<mark>So, *Suddenly, Last Summer* opens and The New York Times is going to destroy this degenerate film</mark>, the work of degenerates. So you've got a review from Bosley Crowther that says, <mark>'If you like incest, rape, sodomy, cannibalism, degeneracy, this is the movie for you, this sickening picture.'</mark>
+
+Vidal: "Everyone in the country went to see it. <mark>That review made the movie</mark>."
+
+</from>
 <james {% include timecode %}>
 
-The film was willing to show that, yes, homosexuality *is a thing*, it *does exist*, but it's not something good moral people should talk about. MacLaine and Hepburn play two friends, Martha and Karen, who opened a private school for girls. When one of their students, a vicious little bully, is punished by Karen by not allowing her to attend that weekend's boat race, the little wretch concocts a story about the two women being lesbians and tells her grandmother. This leads to a series of ever escalating circumstances, including a lawsuit, that leave the two women emotionally drained. And Karen's engagement (to a man) left in limbo. 
-
-But even after the accusation has proven false, their lives are not the same. Karen's fiance leaves, so Karen wants to leave town for good start a new life somewhere else. A fevered back and forth leads to Martha realizing that she actually does *love* Karen, and not just as friends. She's *in* love with her best friend and feels *terrible* about it. She feels responsible for ruining their lives and is disgusted by her feelings for Karen. And so one day while Karen is out for a walk...<wbr off /> Martha hangs herself.
+<span visual={{tcc}} on="46:46" off="46:56">Coding went out *the window* with 1961's *Victim*, giving filmgoers their first gay hero. And a sympathetic betrayal of homosexuals in general.</span>  
+<span visual={{tcc}} on="47:08" off="47:24">The British film was attacked by censors in the UK and the US. with UK censors giving it an X rating and America's production code refusing to classify at all. Decades later, when it was eventually released on home video?</span> It was rated PG-13.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.celluloid_closet at="(46:50)" %}>
+
+<u>[Footage from *Victim* (1961)]</u>
+
+Narrator: "While Hollywood remained reticent, British films began to tackle homosexuality head-on... with a major star like Dirk Bogarde as the screen's first gay hero."
+
+</from>
 <james {% include timecode %}>
 
-The film was nominated for five Academy Awards and is considered one of the best courtroom dramas ever made, but its Legacy is not quite so positive. The entire movie is about how horrible it would be for two nice young women to be lesbians, just the idea of it leads people to gasp, and end with one of them killing herself. Homosexuality was not really a part of the movie, it was only a negative plot device. How people are treated when accused of a crime so heinous. The lesbian experience isn't really expressed in the film at all, and even Shirley MacLaine has gone on record in 1996 saying William Wyler, the director, never even *spoke* to her about the lesbian elements.
+<u>[A purple-filtered <mark>graphic of the jail door opening on the things banned by the code... and one by one they vanish, save for "sex perversion".</mark>]</u>
 
-But though the film's depiction of homosexuality and reactions to it are flawed, it still rings true to many. people still live in environments where they're called "sick" and "dirty" for being gay, either by those around them or by depictions of queer people in the media. So Martha's self-loathing is *all* too familiar to *many* people. After *The Children's Hour*, movies about queer self-loathing became more frequent.
+<span visual={{tcc}} on="48:09" off="48:25">As the production code slowly began to fade away in America, with original restrictions like open-mouth kissing, nudity, profanity, abortion, and prostitution now finding their way through the censoring process, only one remained: the sex perversion clause.</span>
 
 </james>
-<from></from>
-</compare>
+<from span=3 {% include citation for=page.cite.plagiarized.celluloid_closet at="(48:06)" %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
+Back in Hollywood, the production code had gradually been whittled away. Movie makers, fed up with restrictions, set out to smash the last taboo.
 
-<u>[Clip from *Walk on the Wild Side*]:</u>
+<u>[Dramatic music as a <mark num=1>graphic of the jail door opening on the things banned by the code... and one by one they vanish, save for "sex perversion".</mark>]</u>
 
-Jo Courtney: (slams door) "Oliver saw you. You were with Dove all afternoon. Now you know lying to me, Elliot. Oh well, perhaps maturity will change all that."
+Narrator: "Homosexuality was finally being talked about on the screen. But only as <mark num=2>something that nice people didn't talk about.</mark>"
+
+<u>[A scene from *The Children's Hour* (1962)]</u>
+
+Shirley MacLaine (Actor): "At the time that we made the picture, there were not real discussions about homosexuality. It was about a child's accusations. It would have been about anything."
+
+MacLaine: "So none of us were really aware. We might have been the forerunners, but we weren't really cause we didn't do the picture right. We were in the mindset of, um, of not understand what we were basically doing."
+
+<u>[Another scene from *The Children's Hour* (1962)]</u>
+
+MacLaine: "<mark x num=3>These days, there would be a tremendous outcry. As well, there should be.</mark> Why would Martha break down and say, 'Oh my God, what's wrong with me? I'm so polluted. I've ruined you.'? She would fight. She would fight for her budding preference. And when you look at it, to have Martha play that scene... <mark num=4>And no one questioned what that meant, or what the alternatives could have been underneath the dialog.</mark>" <u>[Shakes her head]</u> "It's, uh... It's mindboggling. We were unaware."
+
+<u>[Another scene from *The Children's Hour* (1962)]</u>
+
+MacLaine: <mark num=4>"The profundity of this subject was not in the lexicon of our rehearsal period, even. Audrey and I never talked about this. Isn't that amazing? Truly amazing."</mark>
+
+Bright: "The loathing she feels, how sick she is with herself, it still makes me cry when I see that. And I think, well you know, why am I crying? Why does this till get to me? This is just an old silly movie, you know, and people don't feel this way anymore. But I don't think that's true. <mark x num=5>I think people do feel that way, today, still.</mark> And there's part of me, despite all my little signs, you know, like, *happy, proud, well-adjusted, bisexual, queer, kinky!* You know, now matter how many posters I hold up saying 'I'm a big pervert and I'm so happy about it,' there's this part of me that's like.. 'How could I be this way?'"
+
+</from>
+<james mark=cont {% include timecode %}>
+
+No major studios and stars had yet tackled the subject of homosexuality in any meaningful way in Hollywood... But that would change <span visual={{tcc}} on="48:26">with 1961's *The Children's Hour* starring Audrey Hepburn and Shirley MacLaine.</span>
+
+<span visual={{tcc}} off="48:38">The film was willing to show that, yes, homosexuality *is a thing*, it *does exist*, <mark num=2>but it's not something good moral people should talk about.</mark> MacLaine and Hepburn play two friends, Martha and Karen, who</span>  
+<span visual={{tcc}} on="48:56" off="48:58">opened a private school for girls. When</span>  
+<span visual={{tcc}} on="48:45" off="48:56">one of their students, a vicious little bi-- ...bully, is punished by Karen by not allowing her to attend that weekend's boat race, the little wretch concocts a story about the two women being lesbians and tells her grandmother. This leads to a series of ever</span>  
+<span visual={{tcc}} on="49:05" off="59:08">escalating circumstances, including a lawsuit,</span>  
+<span visual={{tcc}} on="49:29">that leave the two women emotionally drained. And Karen's engagement (to a man) left in limbo.</span> 
+
+<span visual={{tcc}} off="49:41">But even after the accusation has proven false,</span>  
+<span visual={{tcc}} on="50:13" off="50:40">their lives are not the same. Karen's fiance leaves, so Karen wants to leave town for good start a new life somewhere else. A fevered back and forth leads to Martha realizing that she actually does *love* Karen, and not just as friends. She's *in* love with her best friend and feels *terrible* about it. She feels responsible for ruining their lives and is disgusted by her feelings for Karen. And so one day while Karen is out for a walk...</span> Martha hangs herself.
+
+</james>
+<james span=2 {% include timecode %}>
+
+The film was nominated for five Academy Awards and is considered one of the best courtroom dramas ever made, but <mark x num=3>its Legacy is not quite so positive</mark>. The entire movie is about how horrible it would be for two nice young women to be lesbians, just the idea of it leads people to gasp, and end with one of them killing herself. Homosexuality was not really a part of the movie, it was only a negative plot device. How people are treated when accused of a crime so heinous. The lesbian experience isn't really expressed in the film at all, and <mark num=4 x>even Shirley MacLaine has gone on record in 1996 <mark fc=false>saying William Wyler, the director</mark>, </mark><mark x num visual={{tcc}} on="48:33" off="48:35">never even *spoke* to her about the lesbian elements.</mark>
+
+But though the film's depiction of homosexuality and reactions to it are flawed, <mark x num=5>it still rings true to many. People still live in environments where they're called "sick" and "dirty" for being gay, either by those around them or by depictions of queer people in the media.</mark> So Martha's self-loathing is *all* too familiar to *many* people. After *The Children's Hour*, movies about queer self-loathing became more frequent.
+
+</james>
+<comment {% include commenter for=tustin %}>
+
+Technically, Shirley MacLaine said nothing about the director specifically. She was talking about the production much more generally.
+
+</comment>
+<clip visual={{tcc}} on="54:22" off="55:22" {% include citation for=page.cite.clips.celluloid_closet %}>
+
+<u>[Clip from *Walk on the Wild Side* (1962)]:</u>
+
+Jo Courtney: (slams door) "Oliver saw you. You were with Dove all afternoon. Now you know lying to me, Hallie. Oh well, perhaps maturity will change all that."
 
 Hallie: "what do you think I'll mature into? You?"
 
@@ -681,7 +1180,7 @@ Jo: "Perhaps even get married!"
 
 Hallie: "Yes, even get married."
 
-Jo: (in shock) "...Alright, Allie. I'll be sorry to lose you. But if you think the world is your oyster, go ahead and take it! But how do you think the boy is going to feel when he finds out what you are?! What you've been?!"
+Jo: (in shock) "...Alright, Hallie. I'll be sorry to lose you. But if you think the world is your oyster, go ahead and take it! But how do you think the boy is going to feel when he finds out what you are?! What you've been?!"
 
 Hallie: "He'll forgive me."
 
@@ -696,7 +1195,7 @@ Hallie: "I'll change!"
 Jo: "Of course, you'll change! But haven't you said that so many times before?! But go on and tell him! Tell them about the days and nights of Hallie Gerard! Tell them about the mud you've rolled in for years! Well, tell him!!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.the_detective %}>
+<clip visual={{tcc}} on="55:32" off="56:09" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Clip from *The Detective* (1968)]:</u>
 
@@ -707,33 +1206,46 @@ MacIver (voice over): "The thought of turning, of turning *involuntarily* into o
 MacIver (voice over): "Was this what I was like?! Oh my God!"
 
 </clip>
-</compare>
+<comment {% include commenter for=tustin %}>
 
-<compare>
+These clips are nearly back to back in *The Celluloid Closet*, save for a very brief snippet of an interview between them. The Detective clips goes on for another minute.
+
+</comment>
 <james {% include timecode %}>
 
 And that self-loathing, inevitably, turned to death, suicide, murder, whatever it needed to be, because it was clear that if you were gay, or coded gay, in a movie, you *had* to die.
 
 </james>
 <from></from>
-</compare> 
+<clip visual={{tcc}} on="58:56" off="59:58" {% include citation for=page.cite.clips.celluloid_closet %}>
 
-<compare>
-<clip {% include citation for=page.cite.clips.celluloid_closet %}>
-
-<u>[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]<wbr off /></u>
+<u>[Montage from several movies of people getting shot, killed, stabbed, railing-killed, etc, ending with a long clip of the ending of *The Children's Hour*.]</u>
 {% assign timecode = "29:07" %}
 
 </clip>
+</compare>
+
+{% capture VISUAL_TCC %}
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+
+James uses MANY clips from *The Celluloid Closet* (1996). (Add 1 hour to all below times.)
+
+</visual>
+<visual-line></visual-line>
+{% endcapture %}
+
+
+<compare>
+{{ VISUAL_TCC }}
 <james {% include timecode %}>
 
-But as the 1960s came to a close, there was change in the air. Following the Stonewall riots, Hollywood finally released a truly gay film, with the release of *The Boys In The Band* in 1970. <wbr on />We saw our first major release, feature gay characters who are out... and nobody dies!
+But as the 1960s came to a close, there was change in the air. Following the Stonewall riots, Hollywood finally released a truly gay film, with the release of *The Boys In The Band* in 1970. <span visual={{tcc}} on="+00:21" off="+00:29">We saw our first major release, feature gay characters who are out... and nobody dies!</span>
 
 Two years later we even popped up in an Oscar juggernaut with *Cabaret*.
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.cabaret %}>
+<clip visual={{tcc}} on="+05:24" off="+05:41" {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Brian walks away from the bed, changes record.]</u>
 
@@ -756,10 +1268,44 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 </compare>
 
 <compare>
+{{ VISUAL_TCC }}
 <clip {% include citation for=page.cite.clips.celluloid_closet %}>
 
 <u>[Montage of various movies to ["I'm Coming Out" by Diana Ross](https://www.youtube.com/watch?v=F-mjl63e0ms) (severely pitch-shifted and sped up to avoid copyright).]</u>
 {% assign timecode = "31:08" %}
+
+<div class="lyrics" style="font-size: larger;">
+<span visual={{tcc}} on="+31:36" off="+31:39">I'm coming</span>
+<span visual={{tcc}} on="+31:17" off="+31:21" style="margin-left: 4em;">... out</span>
+<span visual={{tcc}} on="+32:46" off="+32:56">I'm ... coming ... out</span>
+&nbsp;
+[Hook]
+<span visual={{tcc}} on="+33:43" off="+33:47">I'm coming out
+I want the world to know,</span> 
+<span visual={{tcc}} on="+35:21" off="+35:27" style="margin-left: 4em;">got to let it show
+I'm coming out</span>
+<span visual={{tcc}} on="+33:29" off="+33:32">I want the world to know,</span>
+<span visual={{tcc}} on="+36:00" off="+36:06" style="margin-left: 4em;">I got to let it show
+&nbsp;
+[Verse 1]
+There's a new me coming out</span> 
+<span visual=none on="?" off="?" style="margin-left: 4em;">and I just had to live</span>
+<span visual={{tcc}} on="+34:17" off="+34:19">And I wanna give,</span> 
+<span visual={{tcc}} on="+33:33" off="+33:36" style="margin-left: 4em;">I'm completely positive</span>
+<span visual={{tcc}} on="+34:26" off="+34:28">this time around,</span>
+<span visual={{tcc}} on="+26:02" off="+26:04" style="margin-left: 4em;">I think I am gonna do it</span>
+<span visual=none on="?" off="?">Like you never knew it,</span>
+<span visual=none on="?" off="?" style="margin-left: 4em;">oh, I'll make it through</span>
+<span visual={{tcc}} on="+33:38" off="+33:42">The time has come for me 
+<span style="margin-left: 4em;"></span>to break out of this shell</span>
+<span visual=none on="?" off="?">I have to shout </span>
+<span visual=none on="?" off="?" style="margin-left: 4em;">that I am coming out
+&nbsp;
+[Chorus]
+I'm coming out[...]</span>
+</div>
+
+&nbsp;
 
 </clip>
 </compare>
@@ -767,7 +1313,6 @@ It wasn't the end of gay coding, but gay stereotypes began to replace it. There 
 <compare>
 <james {% include timecode %}>
 
-<wbr off />
 By the new millennium, the queer audience was one the producers, mostly on TV but some movies, were willing to appeal to. <wbr on />*Will and Grace* became a smash hit for NBC. *Queer as Folk* and *The L-Word* broke ratings records for showtime. And *Queer Eye For The Straight Guy* became a cultural sensation/ In Hollywood *Kissing Jessica Stein* became a surprise hit. *The Hours* was an award season darling, and *Brokeback Mountain* made $178 million, breaking the hearts of movie goers around the world in the process.
 
 </james>
@@ -788,7 +1333,7 @@ The queer audience was a volatile one. One that wouldn't accept just any movie y
 <compare>
 <james {% include timecode %}>
 
-The Harry Potter series of books and movies had birthed Harry / Draco slash fiction, on online forums, and was becoming a massive trend with stories and art spreading all over the internet. Although the characters have almost no positive interactions at all in the books or movies, let alone romantic ones, fans were drawing romantic conclusions from breadcrumbs that really didn't even exist. This is when creators realized that the queer community would do the work for you. They'd fill in the LGBT-shaped blanks and all you had to do was drop a few hints. And leave a few empty spaces. And straight audiences be none the wiser. 
+<span visual=none on="?" off="?">The Harry Potter series of books and movies had birthed Harry / Draco slash fiction, on online forums, and was becoming a massive trend with stories and art spreading all over the internet. Although the characters have almost no positive interactions at all in the books or movies, let alone romantic ones, fans were drawing romantic conclusions from breadcrumbs that really didn't even exist. This is when creators realized that the queer community would do the work for you. They'd fill in the LGBT-shaped blanks and all you had to do was drop a few hints. And leave a few empty spaces.</span> And straight audiences be none the wiser. 
 
 And so, gay-bating was born.
 {% assign timecode = "33:11" %}
@@ -804,7 +1349,7 @@ And so, gay-bating was born.
 
 Now here's where I lay out a little caveat for you. In doing my research for this, I found enough instances of gay baiting to fill a whole book, let alone a video. So I decided to break it down into eight instances that stood out amongst the rest. These got the most media attention and the most fanfiction and the most fan attention. 
 
-I'm also not going to be covering any queer baiting that was eventually made canonical, like with *The Legend Of Korra* and *Adventure Time*. That's actually called queer catching, which is when a character's queerness is confirmed *after* a media franchise has finished and therefore you're not running the possibility of impacting its ratings or its sales. Or you reveal that a character is gay on a press tour for a movie but it's never really manifests in the movie itself. 
+I'm also not going to be covering any queer baiting that was eventually made canonical, like with *The Legend Of Korra* and *Adventure Time*. That's actually called "queer catching", which is when a character's queerness is confirmed *after* a media franchise has finished and therefore you're not running the possibility of impacting its ratings or its sales. Or you reveal that a character is gay on a press tour for a movie but it's never really manifests in the movie itself. 
 
 </james>
 <from></from>
@@ -820,7 +1365,9 @@ An interesting trend in queer baiting is that slightly more loose rules apply to
 
 But even then, lesbian characters are only likely to be confirmed to be queer at the end of the story if not afterwards in some other form of media, uh novels, comic books, stuff like that. Again, this happened with *The Legend Of Korra*, notoriously. It also *almost* happened very recently with the new incarnation of *She-Ra*, but they got that lesbian confirmation in *right* under the wire. And of course, that research doesn't cover everyone and there are plenty of people who find lesbians just as disgusting as gay men. 
 
-The acceptance of lesbians in mainstream culture is just slightly more prevalent, mostly thanks to Ellen's brand of family safe gayness. *But* if anyone of you wants to share some videos or articles that cover lesbian queer baiting that I might have missed, please share them with me and I will link them in the description below. And I just want everyone to know... I tried to include *Supernatural*, I did, but try as I might I could not follow that show at all, it makes no sense!
+The acceptance of lesbians in mainstream culture is just slightly more prevalent, mostly thanks to Ellen's brand of family safe gayness. *But* if anyone of you wants to share some videos or articles that cover lesbian queer baiting that I might have missed, please share them with me and I will link them in the description below. 
+
+And I just want everyone to know... I tried to include *Supernatural*, I did, but try as I might I could not follow that show at all, it makes no sense!
 
 So now that the caveats are out of the way...
 
@@ -832,10 +1379,24 @@ So now that the caveats are out of the way...
 {% assign timecode = "36:04" %}
 
 <compare>
+<comment {% include commenter for=tustin %}>
+
+Note, this whole section was cut out of re-released versions of this video due to Alexander Avila calling James out about stealing his videos.
+
+</comment>
+</compare>
+
+<compare>
 <visual {% include citation for=page.cite.plagiarized.aretheygay_merlin %}>
 {% assign atg = page.cite.plagiarized.aretheygay_merlin.color %}
 
 Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.merthur_ytcrack %}>
+{% assign ytc1 = page.cite.plagiarized.merthur_ytcrack.color %}
+
+Several clips have been taken from random YouTube compilation videos, like this one entitled "merthur crack(?) or whatever".
 
 </visual>
 <visual class="color-none">
@@ -849,11 +1410,11 @@ Clips marked in gray I cannot find in the above video, and so therefore must be 
 
 <span visual>Merlin premiered on the BBC in September of 2008 and almost immediately became fodder for gay fan fiction. And it's no wonder why: Colin Moran's Merlin and Bradley James's Prince Arthur (he's not a king yet) have so much sexual tension between them you could cut it with a knife.</span>
 
-<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark x>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark x>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
+<span visual={{atg}} james="36:22" on="1:55" off="2:15">Merlin is set in ancient Albion, a mythical version of England, in a time prior to the Arthurian legends (mostly prior to the Arthurian legends). <mark>Merlin has become the apprentice of Gaius the king's potions master.</mark> Merlin, in case you didn't know, also <mark>has the ability to use magic</mark>, but he needs to keep it secret from everyone. Because--</span>
 
 <span visual={{atg}} james="36:40" on="1:01" off="1:05">-- the King Arthur's father Uther is homophobic--</span> I-I mean he hates magic!
 
-<span visual={{atg}} on="2:49" off="2:53"><mark x>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
+<span visual={{atg}} on="2:49" off="2:53"><mark>Hates it so much, that he believes people ought to be executed if they have magical powers.</mark> Because it's simply not natural.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(0:14)" %}>
@@ -863,7 +1424,7 @@ For those of you who don't know: Merlin is set in arthurian legend, A time when 
 </from>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(1:02)" %}>
 
-Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark x>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark x>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark x>So bad, in fact, that he thinks people should be executed for it.</mark>
+Merlin, the titular character, is the new guy in town. And as Merlin enters this new kingdom <mark>he becomes apprentice to the court <del>positions</del><ins>physician</ins>/gay mentor/exposition man Gayus.</mark> <mark>He also has magic</mark>, which, acording to King Uther of Camelot is a bad thing. <mark>So bad, in fact, that he thinks people should be executed for it.</mark>
 
 <footer>Avila says "physician", but his subtitles say "positions", and James says "potions". So, did James rip off Avila's subtitles...?</footer>
 </from>
@@ -979,13 +1540,16 @@ Arthur: "Well then... think we'd probably get on."
 </from>
 <james {% include timecode %}>
 
-<span visual=none on=? off=?>As the seasons go on, Merlin's feelings for Arthur become more prevalent. He becomes incredibly jealous when women show affection to Arthur. There's a running gag about him wanting to *hug* Arthur. And he's not shy about ripping Arthur's pants off.</span>
+<span visual={{ytc1}} on="3:29" off="3:33">As the seasons go on, Merlin's feelings for Arthur become more prevalent.</spam>  
+<span visual={{ytc1}} on="6:31" off="6:34">He becomes incredibly jealous when women show affection to Arthur. There's a</span>  
+<span visual={{ytc1}} on="1:42" off="1:45">running gag about him wanting to *hug* Arthur. And he's not shy about</span>  
+<span visual={{ytc1}} on="8:35" off="8:38">ripping Arthur's pants off.</span>
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual=none on=? off=?>And Arthur's own father would execute Merlin if he found out about him. In fact<mark x> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
+But there's a bond between the two, one that Merlin can't *let* become too strong. He can't become too connected to Arthur because he's gay-- I mean, a wizard. He's gay *and* a wizard. <span visual={{ytc1}} on="9:36" off="10:02">And Arthur's own father would execute Merlin if he found out about him. In fact<mark> the show doesn't exactly *hide* that magic is a metaphor for homosexuality</mark>. It's on the level of obviousness of *X-Men 2*. Even in the language used, <mark>no one ever says they *practice* magic, they say that they *have* magic.</mark> It's something they're born with, something they have no say over, and yet they're persecuted for it anyway, because of the ignorance of the majority.</span>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(6:33)" %}>
@@ -994,7 +1558,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 
 <u>[On screen]: "2. magic is gay"</u>
 
-<mark x>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
+<mark>Throughout the series it's pretty obvious that magic is a metaphor for being LGBT+</mark>. From just the overall exclusion to the death penalty. It gets in your face at times. 
 
 <u>[Various clips from the show as a big rainbow flag slowly grows over the screen]:</u>  
 "What if... magic isn't something you choose?"  
@@ -1008,7 +1572,7 @@ But we can't ignore the obvious here. Merlin has magic and Camelot is strictly a
 <mark>It's not even "I practice magic" it's "I have magic".</mark> Merlin has to deal with that shame while at the same time using magic to save Arthur's life and never getting recognition. He speaks out about his frustrations;
 
 </from>
-<clip {% include citation for=page.cite.clips.merlin %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.merlin %}>
 
 Morgana: "What if... magic isn't something you choose? What if it chooses you?"
 
@@ -1030,12 +1594,12 @@ This clip James did *not* lift directly from Are They Gay. Because in the Are Th
 </james>
 <from></from>
 <james {% include timecode %}>
-<span visual=none on="?" off="?">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark x>it means Arthur *can* love a servant</mark>.
+<span visual={{ytc1}} on="2:09" off="2:35">As the series progresses, the dynamic between the two becomes even clearer. Arthur seems to prefer the company of Merlin to most *anyone* else. And though Arthur falls in love with a servant girl named Gwen, that only intensifies Merlin's hope, as <mark>it means Arthur *can* love a servant</mark>.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(10:00)" %}>
 
-If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark x>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
+If you don't know, Gwen is this other servant girl who works in Camelot and is the son<sup class="add">[sic: daughter]</sup> of a blacksmith, is also a badass and is local friend to Merlin and Arthur and she's great. And although that may seem like a bad thing for a love-struck Merlin, <mark>it helps him believe that maybe Arthur can learn to love a servant</mark>. His relationship with Gwen gives him hope. Hope that Arthur can look beyond class and love somebody for who they are.
 
 </from>
 <james {% include timecode %}>
@@ -1047,19 +1611,23 @@ And when Merlin goads Arthur into revealing his true feelings about Gwen,</span>
 
 jeez I mean even when Arthur's talking about Gwen it sounds like he's talking about Merlin.
 
-"Just say it!" 
-
-"I can't!" 
-
-"How can i admit that..." "I think about it all the time?" 
-
-"Merlin" 
-
-"Or that I care about her more than anyone?"
-
-"How can I admit that..." "I don't know what I'd do if any harm comes to her."
-
-"To admit my feelings knowing that..." "Hurts too much"
+> "Just say it!" 
+> 
+> "I can't!" 
+> 
+> "How can i admit that..." "I think about it all the time?" 
+> 
+> <u>[Spliced in clip]:</u> "Merlin" 
+> 
+> "Or that I care about her more than anyone?"
+> 
+> <u>[Spliced in clip]</u>
+> 
+> "How can I admit that..." "I don't know what I'd do if any harm comes to her."
+> 
+> <u>[Spliced in clip]</u>
+> 
+> "To admit my feelings knowing that..." "Hurts too much"
 
 </from>
 {% assign timecode = "41:00" %}
@@ -1073,15 +1641,15 @@ Arthur: "I can't!"
 
 Arthur: "How can I admit that I think about her all the time?"
 
-<u>[Sliced in clip]:</u> Arthur (in bed): "Mer..."
+<u>[Spliced in clip]:</u> Arthur (in bed): "Mer..."
 
 Arthur: "Or that I care about her more than anyone."
 
-<u>[Sliced in clip]:</u> Woman (voice over): "Arthur's strangely fond of the boy."
+<u>[Spliced in clip]:</u> Woman (voice over): "Arthur's strangely fond of the boy."
 
 Arthur: "How can I admit that... I don't know what I'll do if any harm comes?"
 
-<u>[Sliced in clip]:</u> Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
+<u>[Spliced in clip]:</u> Arthur: "I came back 'cause you're the only friend I have and I couldn't bear to lose you."
 
 Arthur: "To admit my feelings, knowing that... hurts... too much."
 
@@ -1097,33 +1665,33 @@ But even Gwen's not blind to how Arthur feels about Merlin.
 
 And the comparisons to Gwen don't end there. When Gwen's bro Elliot is gossiping with her about Arthur he uses the fact that Arthur would rescue her, a servant, as evidence that Arthur loves her. 
 
-Gwen: "Maybe Arthur can think of something."
-
-Ellion: "Arthur?" 
-
-Gwen: "Prince Arthur." "I came with him."
-
-Ellion: "Prince Arthur of Camelot?" 
-
-Gwen: "Yes, Ellion, Prince Arthur of Camelot." 
-
-Ellion: "Why would he want to help you?"
-
-Gwen: "Why shouldn't he?" 
-
-Ellion: "Ha. Cause he's a prince and you're a servant?" 
-
-Gwen: "He doesn't care about that sorta thing, he's..." "You know." "Chivalrous." 
-
-Ellion: "Alright." "So he's like that with all the maids in Camelot?"
-
-Gwen: "No." 
-
-<u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
-
-"Yes." "I mean..."
-
-<u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
+> Gwen: "Maybe Arthur can think of something."
+> 
+> Ellion: "Arthur?" 
+> 
+> Gwen: "Prince Arthur." "I came with him."
+> 
+> Ellion: "Prince Arthur of Camelot?" 
+> 
+> Gwen: "Yes, Ellion, Prince Arthur of Camelot." 
+> 
+> Ellion: "Why would he want to help you?"
+> 
+> Gwen: "Why shouldn't he?" 
+> 
+> Ellion: "Ha. Cause he's a prince and you're a servant?" 
+> 
+> Gwen: "He doesn't care about that sorta thing, he's..." "You know." "Chivalrous." 
+> 
+> Ellion: "Alright." "So he's like that with all the maids in Camelot?"
+> 
+> Gwen: "No." 
+> 
+> <u>[On screen, next to her, like Gwen is thinking this]: "oh right he'd like that with merlin"</u>
+> 
+> "Yes." "I mean..."
+> 
+> <u>[On screen, next to her, like Gwen is thinking this]: "wait a second..."</u>
 
 </from>
 <clip visual={{atg}} on="16:56" off="17:18" {% include citation for=page.cite.clips.merlin %}>
@@ -1150,13 +1718,13 @@ Gwen: "Yes. I mean..."
 {% assign timecode = "41:55" %}
 <james {% include timecode %}>
 
-And then, Arthur's <mark x>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual=none on="?" off="?">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark x>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
+And then, Arthur's <mark>father dies</mark>. And since he was the homophobic-- I mean, magic-phobic? -- <span visual={{ytc1}} on="1:59" off="2:08">son of a bitch that was making everyone's lives so difficult, it's the catalyst for <mark>Arthur to become his own person, a king. He can think the way he wants to</mark> and love who he wants to.</span> 
 
 <footer>Clip used above includes thinking text [Merlin: "why can't you just give me a hug ;(("]</footer>
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_merlin at="(18:34)" %}>
 
-And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark x>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark x>Arthur he starts to think for himself</mark>. That is not without his friend's help.
+And then, the turning point: Ah yes, the turning point. It's those things like the Battle of Saratoga and that point in 11th grade when you stop being emo that makes life interesting and for Arthur that is <mark>Uther dying</mark>. Uther his father is the one that imposed all these ideals on Arthur the idea that magic is bad a king must be strong and unforgiving the kingdom is more important than the heart and that wearing the same haircut for ten years is a good idea. But after there's no one else to impose these ideals onto <mark>Arthur he starts to think for himself</mark>. That is not without his friend's help.
 
 </from>
 <james {% include timecode %}>
@@ -1189,28 +1757,28 @@ When merlin is presumed to be dead in "A Servant of two masters" Arthur cannot a
 
 But Arthur's giving up with Arthur dying Merlin's hope for himself and the future dies as well. Arthur starts to say <mark num=1>his last words and they're for no one else but Merlin.</mark> 
 
-Merlin: *panting*
-
-Arthur: "All your magic, Merlin..." "can't save my life."
-
-Merlin: "I can! I'm not going to leave you!"
-
-Arthur: "Just... just... "Just hold me..." 
-
-Merlin: *heavy panting* 
-
-Arthur: "Please."
+> Merlin: *panting*
+> 
+> Arthur: "All your magic, Merlin..." "can't save my life."
+> 
+> Merlin: "I can! I'm not going to leave you!"
+> 
+> Arthur: "Just... just... "Just hold me..." 
+> 
+> Merlin: *heavy panting* 
+> 
+> Arthur: "Please."
 
 I think that the speaks for itself. <mark num=2>Wanting to be held by your lover as you die.</mark>
 
 </from>
 <clip visual={{atg}} on="30:50" {% include citation for=page.cite.clips.merlin %}>
 
-Arthur: "All your magic, Merlin, you... can't save my life."
-
-Merlin: "I can. I'm not going to lose you."
-
-Arthur: "just-- just-- just hold me, please."
+> Arthur: "All your magic, Merlin, you... can't save my life."
+> 
+> Merlin: "I can. I'm not going to lose you."
+> 
+> Arthur: "just-- just-- just hold me, please."
 
 </clip>
 {% assign timecode = "43:03" %}
@@ -1225,9 +1793,9 @@ Arthur: "just-- just-- just hold me, please."
 </james>
 <james {% include timecode %}>
 
-Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual="none" on=? off=?>fan fiction. Fan fiction that made it to the showrunners, who decided to give those fans a little bit more red meat as each new season went on. </span>
+Obviously, Merlin and Arthur are never confirmed to be gay. But the chemistry between the two characters was so potent, from the *very* beginning of the series, that fans immediately ran with it in <span visual={{ytc1}} on="0:00" off="0:03">fan fiction. Fan fiction that made it to the showrunners, who decided to give those</span> <span visual={{ytc1}} on="0:12" off="0:15"></span>fans a little bit more red meat as each new season went on. </span>
 
-<span visual=none on=? off=?>And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.</span>
+<span visual={{ytc1}} on="1:13" off="1:29">And even though there is nary an uncoded queer moment on the show, Merlin is still listed as an LGBTQ show on many sites online. The Merlin fandom turned it into a big hit for the BBC, and it ended up airing all across the world because of it.</span>
 
 </james>
 <from></from>
@@ -1250,6 +1818,18 @@ But they weren't the only show on the BBC that realized what kind of audience qu
 {% assign atg = page.cite.plagiarized.aretheygay_sherlock.color %}
 
 James lifts clips of the show from Alexander Avila's *Are They Gay?* video. 
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.johnlock_clips %}>
+{% assign ytc1 = page.cite.plagiarized.johnlock_clips.color %}
+
+James also lifts clips from a clip compilation video.
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.johnlock_maryamv %}>
+{% assign ytc2 = page.cite.plagiarized.johnlock_maryamv.color %}
+
+James also lifts clips from an AMV on Mary Watson.
 
 </visual>
 <visual-line></visual-line>
@@ -1325,12 +1905,12 @@ And then Sherlock goes on to reject John coming on to Sherlock by saying:
 </from>
 <james {% include timecode %}>
 
-Hell, <mark x>when the waiter approaches Sherlock, he assumes John is his date!</mark>
+Hell, <mark>when the waiter approaches Sherlock, he assumes John is his date!</mark>
 
 </james>
 <from span="4" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(4:12)" %}>
 
-Let's also think about the beginning of the restaurant scene. <mark x>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
+Let's also think about the beginning of the restaurant scene. <mark>When Angelo first brought John and Sherlock their food, he assumes that John is his date.</mark>
 
 > Waiter: "Sherlock. Anything on the menu, whatever you want: free. On the house for you, and for your date." 
 > 
@@ -1442,12 +2022,12 @@ What are you thinking about John? You're so defensive when it comes to people sa
 </from>
 <james {% include timecode %}>
 
-John is so no-homo it hurts. He's so no-homo, in fact, <mark x>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
+John is so no-homo it hurts. He's so no-homo, in fact, <mark>that he dates a string of unremarkable women</mark>, all of whom he chooses Sherlock over.
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(16:25)" %}>
 
-<mark x>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
+<mark>So John instead dates a string of women: women who aren't really that important to him</mark>. The women are even angry at him for putting Sherlock above them. They outright say it, even hinting that Sherlock and John are a couple.
 
 > Watson: "I'm really sorry."
 > 
@@ -1464,7 +2044,7 @@ John is so no-homo it hurts. He's so no-homo, in fact, <mark x>that he dates a s
 > Watson: "Oh.... Janette, please -" [...]
 
 </from>
-<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="1:15" off="1:22" {% include citation for=page.cite.clips.sherlock %}>
 
 Woman: "You're a great boyfriend."
 
@@ -1495,12 +2075,12 @@ So, John puts Sherlock above everything, and <mark>when Sherlock</mark>--
 </from>
 <james {% include timecode %}>
 
-<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark x>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
+<span visual={{atg}} on="10:08" off="10:15">He doesn't know how to cope. He wanted to say something to Sherlock before he died, something incredibly important. When <mark>his therapist asks him to say it now, he can't.</mark> He can't bring himself to say it out loud to another person. It was *only* for Sherlock.</span>
 
 </james>
 <from span="3" {% include citation for=page.cite.plagiarized.aretheygay_sherlock at="(9:56)" %}>
 
-John also has a similar scene where <mark x>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
+John also has a similar scene where <mark>his therapist asks him to say what he wanted to say to Sherlock before he died. He can't.</mark>
 
 > <u>[There's a long build up to the dialog. During this, Avila adds "15 minutes into dramatic zoom and chill and he gives you this look".]</u>
 > 
@@ -1512,7 +2092,7 @@ John also has a similar scene where <mark x>his therapist asks him to say what h
 >
 > Watson: "No." (Long pause) "Sorry, I can't."
 
-<mark x>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
+<mark>What did he want to say?</mark> So, when they shake hands, Sherlock gets on a plane.[...]
 
 <footer> When James stole this clip, he cuts around the on-screen text.</footer>
 
@@ -1526,7 +2106,7 @@ Watson: (shakes head) "No." (Long pause) "Sorry, I can't."
 </clip>
 <james {% include timecode %}>
 
-<mark x>What could it have been...? </mark>
+<mark>What could it have been...? </mark>
 
 </james>
 <james {% include timecode %}>
@@ -1558,19 +2138,19 @@ What Irene is saying here, ASSERTING, is that John and Sherlock are a couple. Sh
 <mark num=3>As in they're both primarily attracted to women, but somehow they fell in love with Sherlock.</mark> Irene isn't one to get these sorts of things wrong. <mark num=2>She's an expert of sorts on human sexuality</mark>. She knows what she sees. John stands there in silence: not in denial, but in defeat. As in: "Oh. She got me."
 
 </from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="0:57" off="1:15" {% include citation for=page.cite.clips.sherlock %}>
 
-<span visual=none on="?">Watson: "We're not a couple."</span>
+Watson: "We're not a couple."
 
-<span visual=none off="?">Adler: (not looking up from phone) "Yes you are."</span>
+Adler: (not looking up from phone) "Yes you are."
 
 ----
 
-<span visual=none on="?">Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."</span>
+Watson: "Who-Who the hell knows about Sherlock Holmes. But for the record, if anyone out there still cares, I'm not actually gay."
 
 Adler: "Well I am. Look at us both."
 
-<span visual=none off="?"><u>[Watson stares off, and scoffs.]</u></span>
+<u>[Watson stares off, and scoffs.]</u>
 
 <footer>James uses the same clips here that Avila uses, but did not source them from Avila. James's clips are lower quality, have a watermark in the top corner, and are not a subset of usable footage of Avila's.</footer>
 
@@ -1580,13 +2160,13 @@ Adler: "Well I am. Look at us both."
 <mark num=2>An expert in human sexuality</mark> and how men's minds work. Her statement that she is in fact gay is interesting, since she's *obviously* in love with Sherlock. <mark num=3>Saying, in essence, that you can be primarily attracted to *women*, but still fall in love with Sherlock Holmes.</mark>
 
 </james>
-<james {% include timecode %}>
+<james visual={{ytc1}} on="5:29" off="5:43" {% include timecode %}>
 
 Moving forward, John gets *so incredibly jealous whenever Sherlock* comes in contact with a woman. And Sherlock gets incredibly jealous whenever John interacts with another man. 
 
 </james>
 <from></from>
-<clip {% include citation for=page.cite.clips.sherlock %}>
+<clip visual={{ytc1}} on="6:02" off="6:26" {% include citation for=page.cite.clips.sherlock %}>
 
 Sherlock: "So that's him. Major [unintelligible]."
 
@@ -1621,10 +2201,15 @@ Sherlock: "Ah. He's bouncing around him like a puppy."
 </clip>
 <james {% include timecode %} span="2">
 
-<span visual=none on="?" off="?">Then there is Mary, the woman John eventually gets married to. She's a special one, someone who understands his relationship with Sherlock and even encourages it. They kind of become a thruple for a while. Until she does the one thing Sherlock could never forgive. She hurts John. John forgives her, but Sherlock holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
+<span visual={{ytc1}} on="6:31" off="6:36">Then there is Mary, the woman John eventually gets married to. She's a special one,</span>  
+<span visual={{ytc1}} on="1:31" off="1:43">someone who understands his relationship with Sherlock and even encourages it. They kind of become a throuple for a while. Until she does the one thing Sherlock could never forgive.</span> 
+
+<span visual={{ytc2}} on="1:26" off="1:32">She hurts John. John forgives her, but Sherlock</span>  
+<span visual={{ytc2}} on="1:42" off="1:48">holds on to that anger until the day *she* dies, jumping in front of a bullet to protect him.</span>
 
 </james>
 <comment>
+{% include header for=tustin %}
 
 AreTheyGay goes into Mary, but not for very long or this deep. So this must be sourced from elsewhere.
 
@@ -1635,7 +2220,7 @@ AreTheyGay goes into Mary, but not for very long or this deep. So this must be s
 <compare>
 <james {% include timecode %}>
 
-So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the shows creators, Mark Gatiss, is gay himself! 
+So, does Sherlock love John? Yes. He might be the only person he *does* love. Does John love Sherlock? Everyone certainly seems to *think* he does. Is it ever confirmed, really, one way or another? *Of course not*, because confirming it one way or another means that you might lose one group of fans or another. The oblivious straights or the love struck shippers. They knew better. They knew how to queer bait, and become an international hit show doing it. Plus, it's extra egregious because one of the show's creators, Mark Gatiss, is gay himself! 
 
 <u>[Sighs heavily.]</u>
 {% assign timecode = "49:26" %}
@@ -1677,7 +2262,7 @@ Eventually, <mark>Rose leaves </mark>the two and we get this description:
 
 > <mark></mark>Scorpius and Albus look at each other and something passes between them.
 
-<mark x>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
+<mark>Things pass between me and my straight friends all the time</mark> when we were starting puberty, no big deal. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(1:38)" %}>
@@ -1692,14 +2277,14 @@ Albus and Scorpius exchange an awkward introduction, and soon after <mark>Rose l
 
 > <mark></mark>Scorpius and Albus look at each other, and something passes between them. 
 
-Come on, <mark x>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
+Come on, <mark>I get that ambiguous and subtextual feeling with my bros all the time</mark>! Calm down.
 
 </from>
 <james {% include timecode %}>
 
 <mark>The play moves on to follow the lives of our two boys over the next few years. Focused obviously on Albus</mark>, since he's Harry Potter's kid and all. 
 
-We learned more about Albus's life at home, his awkward relationship with his family -- <mark x>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
+We learned more about Albus's life at home, his awkward relationship with his family -- <mark>he feels like he doesn't fit in</mark>, especially after being <mark>sorted into Slytherin</mark> with a family entirely made up of Gryffindors. 
 
 Same for Scorpius: he doesn't live up to his father's expectations either. He's a bit weird, kind of a goofball, which doesn't fly with the Malfoy family. 
 
@@ -1720,7 +2305,7 @@ Both Scorpius and Albus don't live up to other people's expectations. <mark>but 
 <compare>
 <james {% include timecode %}>
 
-<mark x>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
+<mark>Harry *tried* to make Albus feel welcome</mark>, but he just doesn't understand his son. It's an easy allegory for parents of queer kids trying to be accepting, but they're just can't get it right. <mark>Scorpius is the only person that Albus feels comfortable with.</mark>
 
 > <mark></mark>Albus hugs his friend.  
 > With fierceness.  
@@ -1731,7 +2316,7 @@ Both Scorpius and Albus don't live up to other people's expectations. <mark>but 
 >
 > The two boys awkwardly dislocate.
 
-Albus *will not* hug his father or family. But he'll hug Scorpius. F<mark>iercely. With passion.</mark>
+Albus *will not* hug his father or family. But he'll hug Scorpius. <mark>Fiercely. With passion.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(3:19)" %}>
@@ -1833,7 +2418,7 @@ Naturally, a bro is happy for his bro finding a person that they're interested i
 <compare>
 <james {% include timecode %}>
 
-Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark x>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
+Delphi won't be going back in time with them though because... reasons. As they <mark>make their way through the Forbidden Forest</mark>, the pair talk about their lives. And <mark>Albus reveals how how much he hates it at Hogwarts, how terrible it is for him</mark>.
 
 > <mark></mark>**SCORPIUS:** Not for me.
 >
@@ -1872,7 +2457,7 @@ They more or less <mark>succeed</mark> in saving Cedric but... when they return 
 > 
 > **HARRY:** He's dangerous.  
 
-<mark x>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
+<mark>This reads painfully like a parent finding out that their son has a boyfriend, and telling them that under No circumstances... are they to see them again.</mark> <mark>Albus gives in</mark> and promises not to see Scorpius anymore.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(8:22)" %}>
@@ -2066,9 +2651,9 @@ Albus begins explaining why he was avoiding Scorpius and how Harry thinks Scorpi
 <compare>
 <james {% include timecode %}>
 
-<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark x num=4>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
+<mark>The two boys reconcile</mark>, finally realizing that they need each other in their lives. <mark>They go back in time again</mark> to fix the mistakes in the timeline, but they... screw it up even worse. So bad, now, that <mark>Albus doesn't even exist</mark>. <mark>Dolores Umbridge is head Mistress</mark> of Hogwarts, and Voldemort is still alive. Time travel is problematic. 
 
-<mark num=5>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
+<mark>In this new timeline, Scorpius is super popular.</mark> The guy everyone wants to be, but he hates it. <mark>He wants his old life</mark>. <mark>Even with how unhappy he was</mark>, none of this new happy life is worth it, because he can't have Albus with him.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.aretheygay_cursed at="(17:27)" %}>
@@ -2208,33 +2793,64 @@ I am thoroughly convinced that at some point in the writing process, the playwri
 {% assign timecode = "1:00:25" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-The reboot / sequel to *The Ocean's Eleven* franchise stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit.
+<mark fc>The reboot / sequel to *The Ocean's Eleven* franchise</mark> stars an amazing, almost *all* female cast, including Sandra Bullock, Kate Blanchett, Aquafina, Sarah Palson, Anne Hathaway, Rihanna, Helena Bonham Carter... the first time I watched the movie, I was honestly shocked at how a major movie with some of the *biggest* stars in the *world*... had two lesbian leading characters. But then the movie ended and... oh, they're not lesbians. I call bullshit. 
 
-</james>
-<from></from>
-<james {% include timecode %}>
-
-Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple. I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. Queer people around the world noticed it. Even straight people!
-
-One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie. So... why did so many people read it that way?
+<mark>Debbie Ocean, played by Sandra Bulock, and Lou, played by Kate Blanchett, are essentially a couple.</mark> I don't care if it's never stated in the movie. They're a couple. Or at least they *were* a couple before Debbie landed in the slammer. And I wasn't the only one who saw this. <mark>Queer people around the world noticed it.</mark> Even straight people! <mark>One could even argue that this movie is meant to set straight women onto the proper path of lesbianism and crime. But nothing of the sort is ever stated outright in the movie.</mark>
 
 </james>
-<from></from>
+<comment {% include commenter for=tustin %}>
+
+It's weird, right? That James never actually says the name of the film? Which is *Ocean's Eight*? To be honest, I thought it was still called *Ocean's Eleven* until I started reading the sources.
+
+</comment>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 1" %}>
+
+<mark>The all-female *Ocean*’s reboot</mark> hits theaters today, starring eight vibrant and galvanic women in the titular roles, and though critics are claiming Anne Hathaway [stole the show](https://www.vanityfair.com/hollywood/2018/06/anne-hathaway-oceans-8-performance-review-daphne-kluger) (she totally did), I had my eye on the bubbling sexual tension between the two leading ladies. <mark>Debbie Ocean and Lou, played by Sandra Bullock and Cate Blanchett, played, essentially, a couple.</mark> <mark>Many a [gay](https://www.intomore.com/culture/identity/what-does-it-mean-to-be-gay/) have picked up on the inherent [queerness](http://www.vulture.com/2018/06/oceans-8-is-a-lesbian-movie.html) of this movie and the nature of their relationship,</mark> and multiple moments in the con film nod to a relationship between the two. <mark>And while this is inarguably a gay movie put forth by [lesbian](https://www.intomore.com/culture/identity/mean-come-lesbian/) propagandists as a means to convert heterosexuals and lead them down the path of righteousness — no one in the film actually confirms this relationship.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection. But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou. Coming at this film with a queer lens, I initially felt like the filmmakers were saying it without actually saying it, giving us queer characters whose whole point in life isn't just being queer characters. While telling about her history of running Cons with Lou, Debbie refers to Lou as as her partner. Business partner? Life partner? Yes.
-
-When recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch". Were they strapped for cash? Or on the Rocks romantically? Again, yes. 
+So... why did so many people read it that way? <mark>Well first off, Blanchett's character is coded extremely gay. The outfits that she wears are crafted to queer perfection.</mark> <mark>But if you look past the aesthetic glory of the film, you'll see that there's a real love between Debbie and Lou.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 2" %}>
+
+Lesbian bias aside, I can’t imagine watching this movie and not thinking Cate and Sandra have a long-winded romantic history together. <mark>First of all, the *Carol* actress’s character reads as extremely gay. Every outfit she wears was crafted to queer perfection,</mark> from her emerald velvet suit to her pastel suit to her jumpsuit to—look, there were suits. <mark>But if you can get past the aesthetic porn of *Ocean’s 8*, you’ll see there’s something real and tender between Debbie and Lou.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Queer people would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that. <mark fc=false>There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+Coming at this film with a queer lens, <mark>I initially felt like the filmmakers were saying it without actually saying it,</mark> giving us queer characters whose whole point in life isn't just being queer characters. <mark>While telling about her history of running cons with Lou, Debbie refers to Lou as as her partner.</mark> <mark>Business partner? Life partner? Yes.</mark>
 
 </james>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 3" %}>
+
+<mark>At times, I felt like, maybe the filmmakers are saying it without having to actually say it.</mark> <mark>While recounting her history of running cons with Lou, Debbie refers to Lou as her “partner,”</mark> which can be up for interpretation: <mark>Does this moniker exclusively refer to their business relationship, or is there something more?</mark> It’s an interesting choice of words, made more confusing by the next play.
+
+</from>
+</compare>
+
+<compare>
+<james span=3 {% include timecode %}>
+
+When <mark>recalling a rock bottom moment for the two, when they were pulling scams at a retirement home's bingo night, Debbie refers to this as their "rough patch".</mark> <mark>Were they strapped for cash? Or on the Rocks romantically? Again, yes.</mark> 
+
+<mark>Queer <span stat:id="sub-queer">people</span> would read this phrasing as an obvious admission of their lesbian relationship, while straight people would just read it as "awww, they're such good friends." Because straight people can be *clueless* like that.</mark> <mark fc=false stat:id="m-context">There's actually a term for this obliviousness in the gay community, it's called "The Great Straight Divide"</mark>, when straight people are so clueless, they actually believe that two men are roommates or two women who have lived together for 20 years are "gal pals".
+
+</james>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 3"  class="smaller" %}>
+
+Bullock’s extremely chic lead <mark>recalls a rock-bottom moment for the two, when they were pulling scams at an elderly home’s bingo night. Debbie refers to the period of time 10 years ago as her and Lou’s “rough patch.”</mark> Again, up for interpretation: <mark>Was it “rough” because they were strapped for cash? Or were they on the rocks romantically?</mark> Tough to say, because the moment is so catastrophically ambiguous. <mark>Queer women would interpret this moment as an exclusively lesbian admission, while clueless straight people would easily watch and think, “Aww, gal pals”</mark> — <mark fc>a conundrum known all too well by the gay community as The Great Straight Divide.</mark>
+
+</from>
 <comment id="historians">
 {% include header for=tustin %}
 
@@ -2243,48 +2859,144 @@ I have never heard of this term before in my life. I've also asked and several o
 It's definitely a thing that online queer people make fun of all the time, but usually in terms of, like, "historians", eg, ["Historians will say that they were Just Friends"](https://www.reddit.com/r/AskHistorians/comments/kqkmk3/historians_say_they_were_just_friends_but_they/) or ["I'm the historian"](https://www.reddit.com/r/aaaaaaacccccccce/comments/vhrzj2/were_all_the_historian_once_in_a_while/) (and obligatory mention of [/r/SapphoAndHerFriend](https://www.reddit.com/r/SapphoAndHerFriend/) and [/r/AchillesAndHisPal](https://www.reddit.com/r/AchillesAndHisPal/)). Or the whole ["omg, they were roommates" meme](https://knowyourmeme.com/memes/oh-my-god-they-were-roommates).
 
 </comment>
+<comment {% include commenter for=tobi %}>
+
+It seems like the author was being sarcatic/overdramatic, while James stole her words and then took them literally.
+
+</comment>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
-Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues.
+<mark>Additionally, there's physical flirtation between the duo. In a diner, Sandra spoon feeds Kate a bite of her food, in a very intimate "Lady and the Tramp"-esque manner. I don't know about you, but I never delicately placed sporkfuls<sup class="add">[sic: placed forkfuls]</sup> of diner food onto my platonic friend's tongues. Whenever the duo interacts, it’s clear there’s a shared intimacy between them that the other women don’t experience with each other.</mark>
+
+<mark>So for me, nothing about their relationship points to just being friends.</mark>
 
 </james>
-<from></from>
-<james {% include timecode %}>
+<from {% include citation for=page.cite.plagiarized.jill_gutowitz at="¶ 5-6" %}>
 
-Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other. So for me nothing about their relationship points to just being friends. And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer, for the movie said in an interview after the film's release:
+<mark>Additionally, there’s physical flirtations between the duo. In a diner, Sandra spoon-feeds Cate a bite of her food, in a very intimate *Lady and the Tramp*-esque manner. I don’t know about you, but I never delicately place forkfuls of diner food on to my platonic friends’ tongues. Whenever the duo interacts it's clear there's a shared intimacy between them that the other women in the crew don't experience with each other.</mark>
+
+And while we’re at it, there’s another scene where Lou reprimands Debbie for trying to exact revenge on her male ex while simultaneously stealing millions of dollars worth of jewels from the Met Gala. “Do not run a job in a job,” Lou chides. But is she genuinely concerned about the ways in which Debbie’s emotional center will interfere with the job, or is she jealous that Debbie still harbors anger towards — excuse my French — a *MAN*! <mark>So for me, nothing about their relationship points to “just really good friends.”</mark>
+
+</from>
+</compare>
+
+<compare>
+<james span=3 {% include timecode %}>
+
+And honestly, I could keep going on but it's actually been confirmed. Sarah Edwards, costume designer for the movie said in an interview after the film's release:
 
 <u>[Quote from above now placed correctly, scrolling on screen]:</u>
-> "You know, early there was an idea that Lou and Debbie having been in a relationship might be the case, but we seemed to move away from that the shooting went on."
+> "<mark>You know, early there was an idea that</mark> <mark fc stat:id="changed-quote">Lou and Debbie having been in a relationship</mark> <mark>might <span stat:id="changed-quote">have been</span> the case</mark>, <mark>but we seemed to move away from that as shooting went on.</mark>"
 
 So when they started production, Lou and Debbie had been in a relationship, but by the time they'd wrapped, that was no longer the case. Secret lesbians confirmed. Now give me a sequel so they can kiss already!
 
 </james>
-<from></from>
+<comment {% include commenter for=tustin %}>
+
+It's iffy if you could consider this plagiarized, since it's technically a quote... but James doesn't cite the source of the quote, *and* he gets the direct quote *wrong*, and there's actually very few places to even get the quote from, according to Google. 
+
+One of the sources you can get the quote from is [Buzzfeed](https://www.buzzfeednews.com/article/adambvary/oceans-8-costumes), who did the interview with the costume designer.
+
+</comment>
+<from {% include citation for=page.cite.clips.buzzfeed_costumes at="¶ 19-20" class="smaller" %}>
+
+For some viewers, Lou's overall look suggests that the character could be queer, and even that her close friendship with Debbie was perhaps born from a romantic entanglement in their past. When asked if this was intentional, Edwards laughed.
+
+"<mark>You know, <span stat:id="changed-quote"></span> early on, there was an idea that</mark> that <mark>might be the case</mark>," she said. "<mark>But we seemed to move away from that as the shooting went on.</mark>"
+
+</from>
+<comment {% include commenter for=tustin %}>
+
+The *other* place you can get the quote, and I suspect this is where he lifted it from given the wording, is [Rowan Ellis's video on queerbaiting](https://www.youtube.com/watch?v=riKVQjZK1z8&t=1445s):
+
+!["You know, I think early on, there was an idea that that (Lou and Debbie having been in a relationship) might be the case... But we seemed to move away from that as shooting went on."](../media/rowan_queerbaiting.png)
+
+</comment>
 </compare>
 
 ## Teen Wolf
 {% assign timecode = "1:03:39" %}
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_sterek %}>
+{% assign atg = page.cite.plagiarized.aretheygay_sterek.color %}
+
+Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
+
+</visual>
+<visual {% include citation for=page.cite.plagiarized.celluloid_closet %}>
+
+James uses one more clips from *The Celluloid Closet* (1996) here. ("+" means add 1 hour.)
+
+</visual>
+<visual class="color-none">
+{% include header for=tustin %}
+
+Clips marked in gray aren't able to be taken from Avila's video, so there must be another source for them aside from going directly to *Teen Wolf* itself.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 Oh God, here we go...
 
-<wbr on />Hitting TV screens in 2011, the MTV show became famous for its propensity to show nearly naked men in nearly every episode. Maybe it was their way of paying reparations for the "I'm not a fag. I'm a werewolf" line from the 1985 movie. The whole show is pretty gay, if we're being honest, kind of like a teenage version of *True Blood* in more ways than one, but the relationship that drove the series into will-they-won't-they territory was between lovable nerd Stiles and brooding alpha werewolf Derek. Fondly known online by the couple name "Sterek". 
+<span visual={{atg}} on="0:30" off="0:37">Hitting TV screens in 2011, the MTV show became famous for its propensity to show</span> <span visual=none on="?" off="?">nearly naked men in nearly every episode.</span> 
+
+Maybe it was their way of <span visual={{tcc}} on="+10:43" off="+10:49">paying reparations for the "I'm not a fag. I'm a werewolf" line from the 1985 movie.</span> 
+
+<span visual=none on="?" off="?">The whole show is pretty gay, if we're being honest, kind of like a teenage version of *True Blood* in more ways than one, but the relationship that drove the series into will-they-won't-they territory was</span>  
+<span visual=none on="?" off="?">between lovable nerd Stiles and brooding alpha werewolf Derek. Fondly known online by the couple name "Sterek". </span>
 
 </james>
 <from></from>
 <james {% include timecode %}>
 
-Much like with Merlin, the pair start the series off on a bad paw. But over the course of a few seasons, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.<wbr off /> But because they're *two guys*... 
+<span visual=none on="?" off="?">Much like with Merlin, the pair start the series off on a bad paw. But <mark>over the course of a few seasons</mark>, end up in a scenario that, if they were a man and a woman, would undoubtedly end in a relationship.</span> But because they're *two guys*... 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<from span=3 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(1:56)" %}>
+
+Now, it is the relationship between Stiles and Derek that we're here to talk about, and cherry-picked evidence that preconclude assumptions about. (kidding but kind of not.)
+
+<mark>Over the course of the seasons</mark> they go from sort of hating each other to... Loving each other? <u>[first few notes of George Michael's "Careless Whisper" playing]</u>
+
+It may be my <u>[echoing]</u> HOMOSEXUAL AGENDA talking, but I think there might be something real here. Let's try to examine it with an... open mind.
+
+<h3>1. Stiles is 100% bi</h3>
+
+To the untrained eye Stiles may seem like a straight dude.
+
+> <mark></mark>Stiles: "I-... Well, dad. There's a conversation that we-"
+>
+> Dad: "You're not gay."
+>
+> Stiles: (balks) "Well I could be!"
+
+He loves the ladies! Of course he does.
+
+> <mark num=2></mark>Girl: "I do like girls. Do you?"
+>
+> Stiles: "Absolutely."
+
+But as me and the entire queer community has acknowledged, liking girls doesn't mean you can't like other genders.
+
+> <mark num=2></mark>Stiles: "Do you also like boys?"
+>
+> Girl: "Absolutely! Do you?"
+>
+> Music in background: "*I said I love you!*"
+>
+> Stiles: [Stares off into the distance] *sudden realisation*
+
+</from>
+<clip mark=cont visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Garage]</u>
 
-Stiles: "Well, Dad, there's a conversation that we--"
+<mark></mark>Stiles: "Well, Dad, there's a conversation that we--"
 
 Dad: "You're not gay."
 
@@ -2293,11 +3005,11 @@ Stiles: (balks) "Wha-- I could be!"
 Dad: "Not dressed like that."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip mark=cont visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Dance club]</u>
 
-Stiles: "Uh, I thought you liked girls."
+<mark></mark>Stiles: "Uh, I thought you liked girls."
 
 Girl: "I do like girls. Do you?"
 
@@ -2317,8 +3029,60 @@ Music in background: "*I said I love you!*"
 So pretty quickly, it set up that Stiles is bisexual. Is it said outright? *No!* Of course <wbr on />not! That would be too easy.<wbr off /> But is it made painfully obvious?
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<from span=7 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(1:56)" %}>
+
+And this isn't just a one-time thing. Stiles' Potential Gayness is hinted at throughout the show. One of the first is when he wonders about how attractive he is the gay guys, which is usually a thing only people who *want* gay guys attention worry about.
+
+> <u>[Walking down school hallway]</u>
+> 
+> Stiles: "I don't think Danny likes me very much."
+> 
+> Scott: "I asked Alison on a date and now we're hanging out."
+> 
+> Stiles: "Am I not attractive to gay guys?"
+> 
+> Scott: "I make first lineup and the team captain wants to destroy me, and now... I'm going to be late for work."
+> 
+> Stiles: "Wait, Scott! You didn't--! Am I attractive to gay guy--!? You didn't answer my question."
+
+Now, this may be a vanity thing or an overly self-aware type of humor, but it's still only funny in a world where gay is seen as funny. And if this world -as the creator has stated- is truly a world without homophobia, then why do these lines exist? It's not just the homoerotic dialogue, but Stiles' attraction to men actually manifests in certain forms.
+
+> Stiles (to Scott): "Everyone wants you. You know, you're like the hot girl that every guy wants."
+
+> <u>[Stiles shouting out a car window]</u>
+>
+> Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
+
+> Man: "We should, maybe, take this upstairs?"
+> 
+> Girl: "He's my type."
+> 
+> <u>[Meaningful looks all around]</u>
+> 
+> Stiles: (scratches neck) "Okay, Issac can come too."
+
+> <u>[School hallway]</u>
+> 
+> Stiles: (sighs) "And I also got to say, this new-found heroism has making me very attracted to you."
+> 
+> Scott: "Shut up."
+> 
+> Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott pushes him) "Just to see how it feels!"
+
+There's even a point where <mark>Stiles and Scott go to a gay bar and a guy ordered a drink for Scott and not Stiles, and Stiles gets jealous!</mark>
+
+> Hot Bartender: "That one's payed for." <u>[Nods across the bar at another guy, who tips his beer at him.]</u>
+>
+> Scott: [Smiles giddily at Stiles]
+>
+> Stiles: [Looking pissed] "Oh Shut up!"
+> 
+> Scott: "I didn't say anything!"
+>
+> Stiles: "Yeah, well your face did!"
+
+</from>
+<clip nark=cont visual={{atg}} on="3:22" off="3:38" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Walking down school hallway]</u>
 
@@ -2333,19 +3097,19 @@ Scott: "I make first lineup and the team captain wants to destroy me, and now...
 Stiles: "Wait, Scott! You didn't--! Am I attractive to gay guy--!? You didn't answer my question."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} on="4:04" {% include citation for=page.cite.clips.teenwolf %}>
 
-Guy (to Derek): "Everyone wants you. You know, you're like the hot girl that every guy wants."
+Stiles (to Scott): "Everyone wants you. You know, you're like the hot girl that every guy wants."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Stiles shouting out a car window]</u>
 
 Stiles: "Hey, come on, Jackson, you're way too pretty to be out here all by yourself."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} {% include citation for=page.cite.clips.teenwolf %}>
 
 Man: "We should, maybe, take this upstairs?"
 
@@ -2356,7 +3120,7 @@ Girl: "He's my type."
 Stiles: (scratches neck) "Okay, Issac can come too."
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip nark=cont visual={{atg}} off="4:27" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[School hallway]</u>
 
@@ -2371,14 +3135,10 @@ Stiles: "No, but seriously. You wanna try to make out for a second?" (Scott push
 
 Yes, yes, it is.
 
-When Stiles and the main character, Scott, go to a gay bar, Stiles even gets frustrated when a guy buys a drink for *Scott* and not for him. Why are they at a gay bar? Because it's *Teen Wolf*, why would wouldn't they be at a gay bar?
+<mark visual={{atg}} on="4:34" off="4:44" >When Stiles and the main character, Scott, go to a gay bar, Stiles even gets frustrated when a guy buys a drink for *Scott* and not for him.</mark> Why are they at a gay bar? Because it's *Teen Wolf*, why would wouldn't they be at a gay bar?
 
 </james>
-<from></from>
-</compare>
-
-<compare>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual={{atg}} on="5:11" off="5:15" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Classroom]</u>
 
@@ -2389,7 +3149,7 @@ Danny: "What?!"
 Stiles: "Do you find me attractive?"
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual={{atg}} on="5:39" off="6:03" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Locker Room]</u>
 
@@ -2408,14 +3168,14 @@ Danny: "Yes. I'm kidding!"
 Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it's not attractive! Alright?!"
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Classroom]</u>
 
 <u>[Previous scene, Stiles is apparently waiting for Danny to answer, falls over and causes clattering.]</u>
 
 </clip>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+<clip visual=none on="?" off="?" {% include citation for=page.cite.clips.teenwolf %}>
 
 <u>[Cafeteria]</u>
 
@@ -2425,57 +3185,107 @@ Stiles: "Okay, you know you don't toy with a guy's emotions like that, Danny, it
 </compare>
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.aretheygay_sterek %}>
+{% assign atg = page.cite.plagiarized.aretheygay_sterek.color %}
+
+Most of the clips of the show below James lifted from Alexander Avila's *Are They Gay?* video.
+
+</visual>
+<visual-line></visual-line>
 <james {% include timecode %}>
 
 <u>[Over Black screen]:</u> Okay, this is becoming a "look how queer Stiles is" clip show, so let's move on to Derek.
 
-<wbr on />Derek is straight. Very straight. He has all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.<wbr off /> But Stiles can't get him off his mind.
+<span visual={{atg}} on="7:01" off="7:04">Derek is straight. Very straight. He has</span>  
+<span visual={{atg}} on="7:13" off="7:17">all the girlfriends. He's emotionally distant, locked off, and doesn't like being touched.</span><wbr off /> But Stiles can't get him off his mind.
 
 </james>
-<from></from>
-</compare>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(6:55)" %}>
+<h3>2. Derek's "immovable" heterosexuality</h3>
 
-<compare>
-<clip {% include citation for=page.cite.clips.teenwolf %}>
+Now Derek is your typical Shady Emo who kind of just drifts through the wind and breaks hearts. Well, actually he's the one getting his heart broken See there's the relationship with Paige when he was a kid, and Kate Jennifer Braeden and... Well, he gets around.
 
-Stiles: "No more questions. No more talk about the alpha, or Derek. Especially Derek." (Thousand-yard stare)
+</from>
+{% assign timecode = "1:06:49" %}
+<clip visual={{atg}} on="9:33" off="9:40" {% include citation for=page.cite.clips.teenwolf %}>
+
+Stiles: "No more questions. No more talk about the alpha, or Derek. Especially Derek." <u>[Thousand-yard stare]</u>
 
 </clip>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />In one episode, Derek is paralyzed by a monster and has to be held afloat in the middle of a pool by Stiles, because... the monster can't swim. Stiles holds him up for over two hours. Much like Merlin, Stiles risks his life for Derek *over and over and over* again, and becomes visibly jealous when girls show interest in his hunky were-crush. His feelings for Derek are *not* subtle.<wbr off />
+<mark visual={{atg}} on="11:25" off="11:34">In one episode, Derek is paralyzed by a monster and has to be held afloat in the middle of a pool by Stiles, because... the monster can't swim.</mark>  
 
-And this is not an accident. Even the action is pointing toward romance, whether it's obvious or not. <wbr on />Take this scene, where they're both paralyzed (a-again). Stiles files on top of Derek the same way that we've seen women fall on top of men in a hundred romantic comedies. The way they lock eyes, time and time again. The way they *annoy* each other, needle each other, but always come to the rescue.<wbr off />
+<mark visual={{atg}} on="11:36" off="11:38">Stiles holds him up for over two hours.</mark>
+
+<footer>Note, the two seconds between the two clips is so that James can cut around Avila putting "PARALYZED" on screen for a joke. It's not noticeable unless you're literally doing what I'm doing and comparing videos side-by-side. {% include signed for=tustin %}</footer>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(11:24)" %}>
+
+<mark>There's this one time where they're fighting this... lizard thing called the Kanima, but the Kanima can't swim, so they have to stay in the pool. The problem is... Derek is kind of like uh... **PARALYZED**!</mark>
+
+<mark>Stiles holds up Derek for two hours in the pool.</mark> Two hours. Not to mention that there's this girl named Erica sort of just lying unconscious on the other side of the pool..? Now Derek insists that they don't trust each other, and that the only reason Stiles is keeping him alive is because he's his protection. But Stiles looks really offended at that.
+
+</from>
+<james {% include timecode %}>
+
+<span visual={{atg}} on="13:31" off="13:23">Much like Merlin, <mark>Stiles risks his life for Derek</mark></span>  
+<span visual={{atg}} on="13:38" off="13:39">*over and over*</span>  
+<span visual={{atg}} on="13:06" off="13:15">*and over* again, and <mark>becomes visibly jealous when girls show interest in his hunky were-crush</mark>. His feelings for Derek are *not* subtle.</span>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(12:58)" %}>
+
+He is willing to help Derek in situations where it'll be dangerous. And no matter the monster, <mark>Stiles was willing to sacrifice himself for Derek</mark>. And those close moments, where it seems all is lost and Derek might be in danger Stiles' true colors come out.
+
+He <mark>shows visible Jealousy at Derek for choosing to be with Jennifer</mark>. But it comes from a place of caring. Gay caring. When he sees Derek lying on the ground, perhaps even dead, he stops. There's a moment where... He's sad. Maybe even realizing his true feelings.
+
+</from>
+<james {% include timecode %}>
+
+And this is not an accident. Even the action is pointing toward romance, whether it's obvious or not. <mark visual=none on="?" off="?">Take this scene, where they're both paralyzed (a-again). Stiles falls on top of Derek the same way that we've seen women fall on top of men in a hundred romantic comedies.</mark> The way they lock eyes, time and time again. The way they *annoy* each other, needle each other, but always come to the rescue.
+
+</james>
+<from span=2 {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(17:00)" %}>
+
+The writers seem to deliberately torture us with these scenes. <mark>Take the suggestive collision that happens when they're both paralyzed: They didn't have to land on top of each other in a way that happens in every movie with a romantic subplot!</mark> It could be a friendship, but it could also be something else, and I fear it's a something else that isn't very good.
+
+<h3>6. Representation and Queerbaiting</h3>
+
+<mark>In an interview with AfterElton, Jeff Davis, the creator of the show</mark>, made this comment about the teenwolf he was trying to create:
+
+> <mark></mark>"I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
+
+<mark>While that certainly *is* an admirable intention... it's not possible.</mark>
+
+</from>
 <james {% include timecode %}>
 
 👏 This 👏 is 👏 not 👏 subtle! 👏 This is on purpose.
 
-In an interview, with after Elton Show creator Jeff Davis said:
+<mark>In an interview with AfterElton, show creator Jeff Davis said</mark>:
 
-> "I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
+> <mark></mark>"I'm trying to create a world where there's no racism, there's no sexism, there's no homophobia. And I know it's not real life, but I kind of don't care. I'd like to create a world where none of that matters: you have the supernatural creatures for that to work as an analogy. In my mind, if you can create a world like that on TV, maybe life starts to imitate it."
 
-That's a very noble pursuit, but it's not realistic to even try to achieve it. 
+<mark>That's a very noble pursuit, but it's not realistic to even try to achieve it.</mark> 
 
 </james>
-<from></from>
-</compare>
-
-<compare>
 <james {% include timecode %}>
 
-<wbr on />There are plenty of out queer characters on Teen Wolf, but none of them are leads. The Sterek fandom became rabid online with art and fan fiction, becoming just as popular as the show itself. Some of the cast encouraged the shipping, including Dylan O'Brien and Tyler Hoechlin, *who would cuddle with each other at fan events*.<wbr off /> They baited Sterek as a couple, they baited Stiles's sexuality, with absolutely *no* intention on following through. 
+<span visual=none on="?" off="?"><mark>There are plenty of out queer characters on Teen Wolf</mark>, <mark>but none of them are leads.</mark> The Sterek fandom became rabid online with art and fan fiction, becoming just as popular as the show itself. Some of the cast encouraged the shipping, including Dylan O'Brien and Tyler Hoechlin,</span> *who would cuddle with each other at fan events*.<wbr off /> They baited Sterek as a couple, they baited Stiles's sexuality, with absolutely *no* intention on following through. 
 
 The reason this is so onerous is because the queer baiting didn't even stay in the show! They moved it over into real life. Stiles wasn't just coded adorably bisexual, they used *queer baiting* to get you to *do something* for them! 
 
 </james>
-<from></from>
-<clip {% include citation for=page.cite.clips.teenwolf_advert %}>
+<from {% include citation for=page.cite.plagiarized.aretheygay_sterek at="(18:22)" %}>
+
+<mark>There are some openly queer characters</mark>. The ones that get the most screen time are Danny and Ethan. There's also caitlin and her girlfriend, Callie and Mason, and these stories were done relatively well in some regards, <mark>but they were never at the forefront.</mark> The romances were unexplored and the characters were secondary. Danny even just sort of disappeared!
+
+There is some representation, which I am really grateful for, but the problem is that there seems to be a lot of bait. For Pete's sake they literally queer baited Danny. And also- What about all those queerish moments between Stiles and Derek that were probably put in for fanservice? The actors and creators are sometimes receptive to Sterek in a good way..? But only in ways that attract open-minded and queer viewers, and then kick them to the curb.
+
+</from>
+<clip visual={{atg}} on="19:42" off="20:06" {% include citation for=page.cite.clips.teenwolf_advert %}>
 
 <u>[Dylan O'Brien and Tyler Hoechlin on a boat, in one another's arms.]</u>
 
@@ -2495,12 +3305,13 @@ Dylan: "And we'll take more naps like these for you. Maybe on UStream. Uh, yeah,
 
 Dylan: "Sterek all the way."
 
+<footer>James took Avila's clip insert of the video and just cropped out the paper background Avila has in his video, making it black bars instead. {% include signed for=tustin %}</footer>
 </clip>
 <james {% include timecode %}>
 
 *I don't know!* Maybe I'm inordinately frustrated by this because... Dylan O'Brien's so cute. <u>[Shrugs]</u>
 
-<wbr on />This is probably the most obvious example of queer baiting to have ever existed in monitored media.<wbr off /> But it wasn't the most well-known. Bringing out the big guns now.
+<span visual=none on="?" off="?">This is probably the most obvious example of queer baiting to have ever existed in modern media.</span> But it wasn't the most well-known. Bringing out the big guns now.
 
 </james>
 <from></from>
@@ -2585,7 +3396,7 @@ Well, they didn't tell us "they fell madly in love", <span class="visual">but th
 <compare>
 <james {% include timecode %}>
 
-<span class="visual">Finn is then set up for <mark x>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
+<span class="visual">Finn is then set up for <mark>what would *usually* be a love story with the lead female character Rey</mark>, but no, that doesn't go anywhere! <mark>Finn shows *interest*</mark>, for sure, but it's not reciprocated, leaving the door open for Finn to fall in love *with someone else maybe...*</span> 
 
 <span class="visual">And eventually, we find out that Poe is still alive. And we get this scene:</span>
 
@@ -2630,12 +3441,12 @@ James likely lifts the clip of Ellen from Are They Gay's video on Finn and Poe
 
 The eye fucking! Oh my God! 
 
-<mark x>Before the movie was released, the cast went on to the Ellen show. </mark>
+<mark>Before the movie was released, the cast went on to the Ellen show. </mark>
 
 </james>
 <from span="2" {% include citation for=page.cite.plagiarized.aretheygay_finnpoe at="(6:10)" %}>
 
-<mark x>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
+<mark>There was an interview on The Ellen Show before the film came out.</mark> And she asked them if there's any romance between the three characters. Oscar, who plays Poe, says this:
 
 <u>[Clip from Ellen: Oscar Issac (Poe) and John Boyega (Finn) next to Daisy Ridley (Rey) on Ellen's couch.]</u>
 
@@ -2731,7 +3542,7 @@ Fast forward seventy years and about a hundred iterations later, and we see the 
 
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 There's also a hint of gay shame. Steve feels like he's not good enough, <span visual=none on="?" off="?">not a real man, and he wants *so badly* to be like everyone else that he's willing to go through a very risky procedure to make it happen. Was this gay coding in the 1940s? Of course not! It was just a superhero origin story. It may not be allegorical, but it's certainly applicable. Which is something that makes superheroes so timeless: no matter who you are no matter where or when you live, you can project yourself onto a superhero.</span>
 
@@ -2739,11 +3550,16 @@ But I'm not here to say that Captain America and Bucky Barnes are gay. ...I'm he
 
 </james>
 <from></from>
+<comment {% include commenter for=tobi %}>
+
+You know, the word "bisexual" is right there.
+
+</comment>
 <clip {% include citation for=page.cite.clips.captain_america %}>
 
 Peggy: "You must have danced."
 
-Steve: "well, asking a woman to dance always seemed so terrifying. In the past few years, just didn't seem to matter that much. Figured I'd wait."
+Steve: "Well, asking a woman to dance always seemed so terrifying. In the past few years, just didn't seem to matter that much. Figured I'd wait."
 
 Peggy: "For what?"
 
@@ -2824,13 +3640,45 @@ Steve trusts Bucky, even now in this demented state. He trusts him with his life
 <compare>
 <james {% include timecode %}>
 
-So Steve and Bucky love each other. Even Joe Russo, the director of *Civil War*, said so! Calling the movie a love story between the two heroes. Now you can say, "James, they're just good friends." 
-These arguments often start out under the guise of progressive thought, making claims like "there's so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men." This sounds like a good argument at first, until you think about it for a minute or two and remember that *almost all* media is about male relationships and male friendships. When it comes to Captain America, and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who fought alongside each other in a war has been the topic of *many* stories throughout Millennia. It's one of the most popular male friendship stories ever.
+So Steve and Bucky love each other. Even Joe Russo, the director of *Civil War*, said so! Calling the movie a love story between the two heroes. 
 
-And why shouldn't that relationship go beyond just a friendship? Does it ruin the value of the friendship if it's also nonplatonic? *The Iliad*'s story of Achilles and Patroclus's relationship should serve as an early counterpoint here. Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship *ruins* that for you, then perhaps you should think about why you feel that way. 
+Now you can say, "James, they're just good friends." <mark>These arguments often start out under the guise of progressive thought, making claims like "there's so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men." This sounds like a good argument at first, until you think about it for a minute or two and remember that *almost all* media is about male relationships and male friendships.</mark> 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 12" %}>
+
+Let’s get back to the “Why can’t they just be friends” argument, though. <mark>These arguments often start out under the guide of progressive thought, making claims like “there are so few examples of non-toxic masculinity in media, so we need more portrayals of a positive friendship between two men.” This sounds like a good argument at first, until you think about it for a minute or two and remember that almost *all* media is about male relationships and male friendships.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>When it comes to Captain America, and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who fought alongside each other in a war has been the topic of *many* stories throughout millennia. It's one of the most popular male friendship stories ever. And why shouldn't that relationship go beyond just a friendship? Does it ruin the value of the friendship if it's also non-platonic? *The Iliad*'s story of Achilles and Patroclus' relationship should serve as an early counterpoint here.
+
+</james>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 13" %}>
+
+<mark>When it comes to Captain America and Bucky Barnes specifically, that well has been tapped quite thoroughly. The relationship between two men who’ve fought alongside each other in a war has been the topic of many stories throughout millennia. It’s one of the most popular male friendship stories *ever*. And why shouldn’t that relationship go beyond just a friendship? Does it “ruin” the value of the friendship if it’s also non-platonic? *The Iliad*‘s story of [Achilles and Patroclus’ relationship](https://en.wikipedia.org/wiki/Achilles_and_Patroclus) should serve as an early counterpoint here.</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship *ruins* that for you, then perhaps you should think about why you feel that way.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.maddy_myers at="¶ 14" %}>
+
+<mark>Ideally, people in a relationship with one another would also be friends. If the idea of characters being in a relationship “ruins” that for you, then perhaps you should think about why you feel that way.</mark>
+
+</from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 And flip the coin for a second, say Bucky's a woman. Watching these movies, seeing this relationship, would you think for even a second that these two people *aren't* going to end up together in the end? Really? But of course, they don't, because fucking Disney. 
@@ -2839,6 +3687,9 @@ And oddly enough the Stucky pairing would probably be the most Disney friendly g
 
 </james>
 <from></from>
+</compare>
+
+<compare>
 <james {% include timecode %}>
 
 I don't even think it was done on purpose, to be honest. Unlike *Teen Wolf* and *Sherlock*, I don't think the writers wrote this pairing or the actors played these parts with the intent on baiting gays into <wbr on />loving them. We were going to go see Chris Evans anyway it's just kind of happened.<wbr off /> A natural outgrowth of the chemistry between the two actors, playing two characters that are innately drawn to one another. I think it's a beautiful accident that can be read as either platonic or romantic love. The fact that so many gay people read it as being a queer love story just shows how starved we are for representation in movies. Just like in the days of queer coding, we're willing to dig deep into our favorite media to find any hint of us possibly being represented. Whether those golden nuggets are actually there or not. But we keep looking and looking, someday, hopefully very soon, there will be a gold rush. Even if right now we're only finding fool's gold.

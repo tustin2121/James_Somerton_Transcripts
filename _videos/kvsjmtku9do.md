@@ -17,7 +17,7 @@ notes:
   - w-james-nick
 
 contributors:
-  transcription: "Yvestan (using Premiere Pro Auto-Transcription)"
+  transcription: $cite$adobe-ai
   formatting: $cite$tustin2121
 
 cite:
@@ -35,6 +35,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 You can find hope in the strangest places. Even in a galaxy far far away.

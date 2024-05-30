@@ -11,11 +11,19 @@ aka: !!seq
 topics: !!seq
   - Mommie Dearest
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=A72beWKKnCc" # Reuploads channel
+  - "https://archive.org/details/james-somerton-public-records/The+Traumatic+Camp+of+Mommie+Dearest.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221110+nCi19sYugIA+The+Traumatic+Camp+of+%EF%BC%82Mommie+Dearest%EF%BC%82.webm"
+  - "https://www.YOUTUBE.com/watch?v=nCi19sYugIA" # James's channel
 description: "a video essay on Mommie Dearest and all the drama surrounding it."
 notes:
   - visual
+  - online
+  - w-nick-james
+
+history:
+  2022-11-10: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -66,7 +74,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-11-10" %}>
 
 If it wasn't camp, it would just be true.
 
@@ -74,6 +84,14 @@ This was previously released as a segment in the "Whatever Happened To Good Tast
 
 PATREON: [link]
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+(Some BTS footage from the Be Kind Rewind video "Mommie Dearest and the Legacies of Faye Dunaway and Joan Crawford (ft. Lypsinka)" is utilized here. LINK: https://www.youtube.com/watch?v=jb-C4fcn2E0&t=2358s)
+
+[patreon link]
+
+</details>
 </credits>
 </compare>
 

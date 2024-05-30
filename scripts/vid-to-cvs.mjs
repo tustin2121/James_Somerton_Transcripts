@@ -5,9 +5,10 @@ import { readFile, writeFile, readdir } from "fs/promises";
 import fm from "front-matter";
 import * as PATH from 'path';
 
-const TYPE = 'readme'; //'tasklist';
+// const TYPE = 'readme'; //'tasklist';
+const TYPE = process.argv[2] || 'readme';
 const INPUT_PATH = `../_videos`;
-const OUTPUT_FILE = `output.csv`;
+const OUTPUT_FILE = `output.txt`;
 
 let list = [];
 
@@ -33,24 +34,38 @@ switch (TYPE) {
 		output.push(`|:---|:---:|:----|`);
 		break;
 	case 'titles': break;
+	case 'history': 
+		output.push(`# History`);
+		output.push(`# Please copy the following into the video's frontmatter:`);
+		break;
 }
 
 for (const { name, id } of list) {
 	console.log(`Processing ${id}...`);
-	let line = [];
 	try {
 		const data = fm(await readFile(PATH.join(INPUT_PATH, name), { flag: 'r', encoding:'utf8' }));
 		if (data.frontmatter === undefined) continue;
 		data.id = id;
 		
 		switch (TYPE) {
-			case 'tasklist': line = line_tasklist(data); break;
-			case 'issues': line = line_issues(data); break;
-			case 'readme': line = line_readme(data); break;
-			case 'titles': line = line_titles(data); break;
+			case 'tasklist': 
+				output.push(line_tasklist(data).join(','));
+				break;
+			case 'issues': 
+				output.push(line_issues(data).join(','));
+				break;
+			case 'readme': 
+				output.push(line_readme(data).join(','));
+				break;
+			case 'titles': 
+				output.push(line_titles(data).join(','));
+				break;
+			case 'history': 
+				output.push(line_history(data).join('\n'));
+				break;
+				
 		}
 		
-		output.push(line.join(',')); // Add the line to the output
 	} catch (ex) {
 		console.error(`Error processing file [${name}]:`, ex);
 	}
@@ -105,6 +120,35 @@ function line_readme(data) {
 }
 function line_titles(data) {
 	return [`[${data.id}] ${data.attributes["title"]}`];
+}
+
+function line_history(data) {
+	if (data.attributes['history'] !== undefined) return [];
+	let out = [
+		`${data.id}:`,
+		`  ${data.attributes['date'].toISOString().split('T')[0]}: First published.`,
+	];
+	if (!data.attributes['notes']) {
+		out.push(`  2023-12-07: Privated post-callout.`);
+		return out;
+	}
+	
+	if (data.attributes['notes'].includes('dec2-delete')) {
+		out.push(`  2023-12-03: Deleted less than an hour post-callout.`);
+	}
+	else if (data.attributes['notes'].includes('dec5-delete')) {
+		out.push(`  2023-12-05: Deleted post-callout.`);
+	} 
+	else {
+		out.push(`  2023-12-07: Privated post-callout.`);
+	}
+	if (data.attributes['notes'].includes('comp-delete')) {
+		out.push(`  2000-01-01: Deleted in favor of the compilation video. # Replace with parent date`);
+	}
+	if (data.attributes['notes'].includes('feb26-unprivate')) {
+		out.push(`  2024-02-26: Unprivated with apology 2, claiming no plagiarism.`);
+	}
+	return out;
 }
 
 

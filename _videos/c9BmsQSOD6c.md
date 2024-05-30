@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2022-07-16
 title: Nostalgia, and Remembering The Bad Times
+runtime: 1:21:16
 status: Auto
 aka: !!seq
   - "The Strange Dangers of Nostalgia"
@@ -18,11 +19,16 @@ topics: !!seq
   - Ayn Rand
   - The Sound of Music
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records/Stranger+Things+and+the+Danger+of+Nostalgia.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220716+c9BmsQSOD6c+Nostalgia%2C+and+Remembering+The+Bad+Times.webm"
 # description: "a video essay on...?"
 notes:
   - hbomb
   - commentary
+
+history:
+  2022-07-16: First published.
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -44,7 +50,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-07-16" %}>
 
 Nostalgia can be fun and whimsical... but it may also lead to the downfall of society. 
 
@@ -61,7 +69,13 @@ PATREON: [link]
 
 #strangerthings #nostalgia
 
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+Along with [Pink Triangles](5OxH1rqBAgw) and [The History of Gay Panic](digub0QVCho), the audio commentary of this video was also moved to Vimeo (743814709). The video itself did not move.
+
+</comment>
 </compare>
 
 {% include transcript-start %}

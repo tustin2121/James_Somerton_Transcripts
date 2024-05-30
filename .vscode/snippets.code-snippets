@@ -143,6 +143,17 @@
 		],
 		"description": "Insert compare block with credits block"
 	},
+	"comment-block": {
+		"prefix": "comment",
+		"body": [
+			"<comment {% include commenter for=$1 %}>",
+			"",
+			"$TM_SELECTED_TEXT$0",
+			"",
+			"</comment>".
+		],
+		"description": "Insert comment block"
+	},
 	"clip-block": {
 		"prefix": "clip",
 		"body": [
@@ -213,6 +224,17 @@
 		],
 		"description": "Insert a header for a <comment> block."
 	},
+	"description-version": {
+		"prefix": "description-version",
+		"body": [
+			"<details {% include description-version for=\"2022-09-04\" %}>",
+			"",
+			"$TM_SELECTED_TEXT$0",
+			"",
+			"</details>",
+		],
+		"description": "Insert description version block."
+	},
 	
 	"video-on-off": {
 		"prefix": "video-on-off",
@@ -228,6 +250,13 @@
 			"<span stat:id=\"baa\">$TM_SELECTED_TEXT</span>"
 		],
 		"description": "Insert \"by all accounts\""
+	},
+	"sub-queer": {
+		"prefix": "sub-queer",
+		"body": [
+			"<span stat:id=\"sub-queer\">$TM_SELECTED_TEXT</span>"
+		],
+		"description": "Insert \"sub-queer\""
 	},
 	"statistic": {
 		"prefix": "statistic",

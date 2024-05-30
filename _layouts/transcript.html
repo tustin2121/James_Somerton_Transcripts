@@ -174,7 +174,7 @@
 				{%- if page.notes contains "podcast" -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
+							<p>Video transcript is on the left. <mark fc="false">Misinformation is highlighted</mark>
 							For more info, see <a href="../instructions.html">how to read this site</a></p>
 						</james>
 						<comment example>
@@ -199,7 +199,7 @@
 						</visual>
 						<visual-line></visual-line>
 						<james example>
-							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc="false">misinformation</mark>.
 							For more info, see <a href="../instructions.html">how to read this site</a></p>
 							
 							{%- if page.notes contains "script-diff" -%}
@@ -221,10 +221,10 @@
 						</from>
 					</compare>
 					{% assign hr_due = true %}
-				{%- elsif page.notes contains "unscripted" -%}
+				{%- elsif page.notes contains "meta-video" -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left. <mark fc>Misinformation is highlighted</mark>
+							<p>Video transcript is on the left. <mark fc="false">Misinformation is highlighted</mark>
 							For more info, see <a href="../instructions.html">how to read this site</a></p>
 						</james>
 						<comment example>
@@ -236,7 +236,7 @@
 				{%- else -%}
 					<compare>
 						<james example>
-							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc>misinformation</mark>.
+							<p>Video transcript is on the left. <mark>Plagiarized text is highlighted,</mark> as is <mark fc="false">misinformation</mark>.
 							For more info, see <a href="../instructions.html">how to read this site</a></p>
 							
 							{%- if page.notes contains "script-diff" -%}
@@ -259,9 +259,7 @@
 				
 				{% if page.cite.clips.size > 0 -%}
 					<ul class="refs" header="Clips used:">
-						{% for item in page.cite.clips %}
-							<li id="{{ item[1].short | slugify }}"> {{ item[1].full }} <a href="{{ item[1].url }}">{{ item[1].url }}</a></li>
-						{% endfor %}
+						{% include plag-cite-chain list=page.cite.clips %}
 					</ul>
 					{% assign hr_due = true %}
 				{%- endif %}
@@ -310,35 +308,12 @@
 		markVisuals();
 		window.addEventListener("resize", markVisuals);
 		
-	{% if jekyll.environment == "development" %}
-		let update = ["# Goes in _data/volume.yml", "{{ page.id | split: "/" | last }}:"];
-		let nodes = Array.from(document.querySelectorAll("james:not([example])")).map(n => {
-			let total = n.innerText.split(" ").length;
-			let p = Array.from(n.querySelectorAll("mark:not([fc])")).map(m => m.innerText.split(" ")).flat().length;
-			let m = Array.from(n.querySelectorAll("mark[fc]")).map(m => m.innerText.split(" ")).flat().length;
-			let y = 0; // Not yet implemented
+		{% if jekyll.environment == "development" %}
 			
-			return { p, m, y, total };
-		});
-		{
-			let p = nodes.map(n => n.p).reduce((a, b) => a + b);
-			let m = nodes.map(n => n.m).reduce((a, b) => a + b);
-			let y = nodes.map(n => n.y).reduce((a, b) => a + b);
-			let total = nodes.map(n => n.total).reduce((a, b) => a + b);
-			console.log(`Plagiarized words: ${p} / ${total} (${Math.round((p / total) * 100)}%)`, `volumeWords: { p: ${p}, m: ${m}, y: ${y}, total: ${total} }`);
-			update.push(`  words: { p: ${((p/total)*100).toFixed(1)}, m: ${((m/total)*100).toFixed(1)}, y: ${((y/total)*100).toFixed(1)} }`);
-		}{
-			let p = nodes.map(n => n.p > 0 ? 1 : 0).reduce((a, b) => a + b);
-			let m = nodes.map(n => n.m > 0 ? 1 : 0).reduce((a, b) => a + b);
-			let y = nodes.map(n => n.y > 0 ? 1 : 0).reduce((a, b) => a + b);
-			let total = nodes.map(n => n.total > 0 ? 1 : 0).reduce((a, b) => a + b);
-			console.log(`Plagiarized sections: ${p} / ${total} (${Math.round((p / total) * 100)}%)`, `volumeSections: { p: ${p}, m: ${m}, y: ${y}, total: ${total} }`);
-			update.push(`  sections: { p: ${((p/total)*100).toFixed(1)}, m: ${((m/total)*100).toFixed(1)}, y: ${((y/total)*100).toFixed(1)} }`);
-		}
-		console.log("Data:", nodes);
-		document.getElementById("font-matter-update").innerText = update.join("\n");
-		
-	{% endif %}
+		{% endif %}
+	</script>
+	<script>
+		document.querySelector("credits.desc details:last-child")?.setAttribute('open', '');
 	</script>
 </body>
 </html>

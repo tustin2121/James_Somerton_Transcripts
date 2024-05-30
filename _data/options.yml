@@ -1,1 +1,12 @@
-hide_video_links: true
+# Show the video links on the site
+hide_video_links: false
+
+# Add obfuscating marks (invisible characters) to source citations
+obfuscate_sources: true
+
+# Add any sites that have gone offline here and the links 
+# will automatically link to the archive version.
+offline-sites: !!seq
+  - "www.midlandszone.co.uk"
+  - "themessenger.com"
+  # - "www.vice.com"  # Due to shutdown soon

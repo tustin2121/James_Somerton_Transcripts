@@ -5,19 +5,26 @@ redirect_from:
 date: 2022-03-20
 title: The Tragedy of Being Rich #｜ James Somerton
 runtime: 53:50
-status: Script
+status: Finished
 aka: !!seq
   - "Let Them Eat Cake (Thumbnail)"
 topics: !!seq
   - Young Royals
   - Shameless
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-public-records/The+Tragedy+of+Being+Rich++James+Somerton.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220320+BJw8_r89EwA+The+Tragedy+of+Being+Rich+%EF%BD%9C+James+Somerton.webm"
   - "https://archive.org/details/james-somerton-videos-backup"
 description: "a video essay on how media portrays wealth."
 notes:
   - short-advert
+  - online
   - w-nick-james
+
+history:
+  2022-03-20: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 cite:
   clips: !!map
@@ -30,7 +37,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-03-20" %}>
 
 What's more tragic? Being poor or being rich? You might be surprised at how media portrays it.
 
@@ -45,6 +54,23 @@ PATREON: [link]
 {% include chapter-link for="Part Five" at="38:08" %}  
 {% include chapter-link for="Part Six" at="47:50" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+What's more tragic? Being poor or being rich? You might be surprised at how media portrays it.
+
+[patreon link]
+
+{% assign chLinkStyle = "text time" %}
+{% include chapter-link for="Introduction" at="00:00" %}  
+{% include chapter-link for="Part One" at="03:52" %}  
+{% include chapter-link for="Part Two" at="15:16" %}  
+{% include chapter-link for="Part Three" at="25:41" %}  
+{% include chapter-link for="Part Four" at="32:02" %}  
+{% include chapter-link for="Part Five" at="38:08" %}  
+{% include chapter-link for="Part Six" at="47:50" %}  
+
+</details>
 </credits>
 </compare>
 

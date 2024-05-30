@@ -1,0 +1,16 @@
+{%- comment %}
+	Assume there's a variable called "_cite" that contains the citation data to resolve.
+	We're going to modify it, which is a "include" 'feature' of Liquid that they corrected in later versions with a different tag.
+	Basically to use this, assign the citation to "_cite" and then include this file.
+{% endcomment -%}
+{%- assign __check = _cite | split: "$" -%}
+{%- if __check[0] == empty -%}
+	{%- case __check[1] -%}
+		{%- when "cite" -%}
+			{%- assign _cite = site.data.cite | map: __check[2] | first -%}
+		{%- when "cite2" -%}
+			{%- assign _cite = site.data.cite | map: __check[2] | map: __check[3] | first -%}
+		{% else %}
+			{%- assign _cite = "ERROR[" | append: _cite | append: "]" -%}
+	{%- endcase -%}
+{%- endif -%}

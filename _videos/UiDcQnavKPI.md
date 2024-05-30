@@ -15,10 +15,16 @@ links: !!seq
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+SHIPPING+-+The+Good%2C+The+Bad%2C+and+the+Thirsty.mp4"
 description: "a video essay ostensibly talking about shipping but mostly complaining about how lesbians have it so much better."
 notes:
-  - dec5-delete
   - odd-linebreaks
   - script-diff
   - w-nick-james
+
+history:
+  2022-02-10: First published.
+  2023-12-05: Deleted post-callout.
+
+recs:
+  - { title: "Queer Subtext & Symbolism in Sk8 the Infinity", author: "Josei Cafe", url: "https://www.youtube.com/watch?v=lwdTyVBl_ws" }
 
 contributors:
   transcription: $cite$from-script
@@ -62,6 +68,7 @@ cite:
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 What is shipping? Why do we do it? And what does it mean for LGBT representation?
@@ -303,7 +310,7 @@ Though shipping has its roots in antiquity, there is a somewhat concrete instanc
 <from></from>
 <clip {% include citation for=page.cite.clips.the_lego_movie %}>
 
-<ins>LEGO figure: FRIENDSHIP!!!</ins>
+<ins>Benny: SPACESHIP!!!</ins>
 
 </clip>
 <james {% include timecode %}>
@@ -568,7 +575,7 @@ Like in the case of kawaii it only gained “significance” when the term was i
 </details>
 </comment>
 <comment>
-{% include header for=site.data.cite.yvestan %}
+{% include header for=site.data.cite.anon %}
 
 *Technically*, 可愛い/カワイイ/kawaii can [also refer to something pretty or charming despite its flaws](https://kotobank.jp/word/可愛い-468533), fitting Somerton's one interpretation, but essentially, it still comes down to meaning "cute."
 
@@ -832,8 +839,7 @@ Look at this. Look at this shelf. All of its<sup class="add">[sic: it's]</sup> g
 So why don’t gay men get to represent themselves in media? At least media that’s widely accepted by the mainstream? <mark fc=false>Queer women get to represent themselves. At least sometimes. Look at animated hits like *Stephen<sup class="add">[sic: Steven]</sup> Universe*, or *She-Ra and the Princesses of Power*.</mark>
 
 </james>
-<comment id="nd_stevenson">
-{% include header video=hbomb at="2h45m16s" %}
+<comment id="nd_stevenson" {% include commenter video=hbomb at="2h45m16s" %}>
 
 This approach to female queers reaches a territory where he doesn't even accept other people's identities if he has a bone to pick. In one video while trying to argue queer women have it better than men in Hollywood, he misgenders two show runners. <span stat:id="y-misgendering">ND Stevenson</span> and <span stat:id="y-misgendering">Rebecca Sugar</span> are trans masculine and non-binary respectively, but for the purposes of James' point, they count as women.
 
@@ -1105,8 +1111,7 @@ Shipping our way to a world where we could be happy, however, may have snapped i
 So there’s this kind of perfect storm of angst as different areas of media interplay off each other and send conflicting messages. You have high-brow fiction telling us to expect tragedy. Which. Thanks for the anxiety. <mark fc>You have mass-consumption media which takes gay emotions and removes gay expiriences<sup class="add">[sic: experiences]</sup>, leaving a husk of empty gestures and unanswered questions which feels more like a gambling addiction than even implied representation.</mark> And then, in response to that, you have publishing. Where gay authors are trying to depict their own experiences with queerness, but where a lot of content being created is either an overly positive response to gay tragedy-media, or as filling in the blanks that media like *Sk8* refuses to fill in. And in either case that results in this weird rose-tinted world where the beginning and end of the queer expirience is defined by your ability to have a boyfriend and look cute being gay together. 
 
 </james>
-<comment id="straight-women">
-{% include header video=hbomb at="2h46m53s" %}
+<comment id="straight-women" {% include commenter video=hbomb at="2h46m53s" %}>
 
 As arbiter of gender, James also gets to decide who's queer and who isn't. I don't know who gave him this power, but it means he has a lot of fascinating opinions about *Love, Simon.* The film is based on a book by Becky Albertalli-- a bisexual woman who was not public about her sexuality when the book was published. Albertalli was subsequently harassed for years, accused of writing a book about being gay without being queer herself and being a straight woman profiting off the queer community. In 2020, she came out publicly with [a quite powerful essay about how she was doing it specifically because of this type of shit](https://medium.com/@rebecca.albertalli/i-know-im-late-9b31de339c62). This event hopefully serves as a lesson not to make assumptions of people's sexuality and then write criticism based on those assumptions. 
 

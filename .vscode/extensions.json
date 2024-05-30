@@ -2,6 +2,7 @@
 	"recommendations": [
 		"sissel.shopify-liquid",
 		"bierner.github-markdown-preview",
-		"qcz.text-power-tools"
+		"qcz.text-power-tools",
+		"wengerk.highlight-bad-chars"
 	]
 }

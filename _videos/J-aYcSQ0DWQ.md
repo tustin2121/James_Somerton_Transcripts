@@ -1,7 +1,10 @@
 ---
 redirect_from:
   - "/videos/j-aycsq0dwq"
+  - "/videos/n4W4YL2Kb2c" # patreon version
+  - "/videos/n4w4yl2kb2c"
 
+prev_ids: [ "n4W4YL2Kb2c" ]
 date: 2022-01-08
 title: The Necessity of Gay Crime #｜ James Somerton 
 runtime: 59:15
@@ -14,12 +17,20 @@ topics: !!seq
   - "Capitalism & Anarchy"
   - "Classism & Poor Underclasses"
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/The+Necessity+of+Gay+Crime++James+Somerton.mp4"
+  - "https://archive.org/details/james-somerton-public-records/The+Necessity+of+Gay+Crime++Patreon+Version.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=MTiXpKgIfFo"
 description: "a video essay on how many poor queer people have to break laws in order to just survive, and how our society's laws are written for the wealthy and not the rest of us."
 notes:
   - script-diff
   - w-james-nick
+  - alt-version
+
+history:
+  2020-09-23: 'Teased on Patreon as "This Thing of Ours: The Untold Story of Gays and The Mafia".'
+  2022-01-05: Patreon version published (n4W4YL2Kb2c).
+  2022-01-08: Public version published (J-aYcSQ0DWQ).
+  2023-12-07: Privated post-callout.
 
 contributors:
   transcription: $cite$from-script
@@ -29,7 +40,7 @@ contributors:
     - "[/u/Ptolemaeus42069](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kbvv72d)"
     - "[/u/noxxris](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc6ro5s/)"
   factcheck:
-    - "lapin (on the [Former Fans discord](https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320))"
+    - "cinnamorollmiku (on the [Former Fans discord](https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320))"
 
 cite:
   clips: !!map
@@ -41,18 +52,20 @@ cite:
     eiji_character: "James characterizes Eiji as 'pure and innocent' when he's not."
     gay_italy: "James makes up an English propaganda campaign against Italian tourism, because supposedly going to Italy turned boys gay."
   plagiarized: !!map
-    wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
-    pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
-    irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt, J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
+    wiki_banana_fish: { color: 3, short: "(Wikipedia, 2021)", full: "Wikipedia. (2021, Dec 10). <em>Banana Fish</em>. Retrieved Dec 21, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Banana_Fish&oldid=1059562468" }
+    pose_article: { color: 1, short: "(Keown, 2021)", full: "Keown, B. (2021, Sep 28). <em>Narrative Privilege and the Power of Pose</em> [Review]. Nursing CLIO. Retrieved Dec 21, 2023, from", url: "https://nursingclio.org/2021/09/28/narrative-privilege-and-the-power-of-pose/" }
+    irish_indie: { color: 2, short: "(Hunt, 2019)", full: "Hunt‚ J. (2019, Oct 16). <em>Pose role has destigmatised sex work – Indya Moore</em> [Article]. Irish Independent. Retrieved Dec 21, 2023, from", url: "https://www.independent.ie/entertainment/television/tv-news/pose-role-has-destigmatised-sex-work-indya-moore/38603476.html" }
 
 factcheck:
-  cinnamorollmiku: { short: "lapin" }
+  cinnamorollmiku: { short: "cinnamorollmiku", url: "https://discord.com/channels/1180822793420554241/1180822793420554244/1187612203747123320" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-01-08" label="Public" %}>
 
 What started as a look at the anime "Banana Fish" turned into a deep exploration of why crime might just be essential to gay life.
 
@@ -65,6 +78,7 @@ Follow me on Twitter: [link]
 {% include chapter-link at="27:43" for="Part Three" slug="Part Three: Leather & Lace" %}  
 {% include chapter-link at="43:37" for="Part Four" slug="Part Four: After the Glitter" %}  
 
+</details>
 </credits>
 </compare>
 
@@ -84,6 +98,11 @@ Follow me on Twitter: [link]
 > 1965-2022
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+The patreon version did not have this card at the start.
+
+</comment>
 </compare>
 
 <u>[Fade to video]</u>
@@ -153,7 +172,7 @@ All of this so that I can talk about *Banana Fish*.
 <compare>
 <credits class="opening" {% include timecode %}>
 
-<u>[Credits play over a generic rock guitar and drum song, with stock images of grungy places, red light districts, and cars on fire in the background.]</u>
+<u>[Credits play over a generic rock guitar and drum song, with stock footage of grungy places, red light districts, and cars on fire in the background.]</u>
 
 > James Somerton  
 Presents
@@ -185,6 +204,11 @@ NECESSITY
 <sup>of</sup> GAY CRIME
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+The Patreon version of the video had a completely different opening sequence set to "Edge of Seventeen" instead of some royalty free music. The patreon version's opening uses footage from *Banana Fish*. It also had a different list of patreon names, and the final credit before the title is "Directed & Edited by" James.
+
+</comment>
 </compare>
 
 ## Part One: The Edge of Seventeen
@@ -399,8 +423,7 @@ Granted, though, <mark fc=false>this was at the same time of European history wh
 <mark fc=false>Rich families noticed that after their sons toured Europe, something about them would change after they spent a few months in Italy. The combination of a prevalent casual approach towards sex, a culture focused around pursuing artistic romance, and simply being one of the most scenic landmasses on the damn planet, usually culminated in cold, English boys’ sexual hang-ups being eroded by the hordes of beautiful Italians with a ‘when in Rome’ attitude when it came to 69ing with other guys.</mark> 
 
 </james>
-<comment id="gay_italy">
-{% include header video=todd at="416s" %}
+<comment id="gay_italy" {% include commenter video=todd at="416s" %}>
 
 **4. England had a homophobic propaganda campaign against Italy tourism because Italy was turning their kids gay**
 
@@ -1027,6 +1050,13 @@ So be gay. Do crime. And have a good time while you do it.
 <u>[Patreon credits roll over silence (or perhaps copyrighted music that was removed).]</u>
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+In the patreon version, the credits roll over ["La Pompetta C"](https://open.spotify.com/track/7wHJOCFkoUOhwBdgQXzJvU?si=568b97309491459b) by Vito Giordano & Giuseppe Vasapolli, from the motion picture soundtrack for [*Un Mondo Sotto Social*](https://www.imdb.com/title/tt21331840/).
+
+Which, frankly, is a *very* strange choice; did James just... look up some random music to use for the credits? He usually finds a random royalty free song to use. Does this imply that he just kind of... casts a random net and use anything? It makes some sense now why the non-patreon version has no music.
+
+</comment>
 </compare>
 
 

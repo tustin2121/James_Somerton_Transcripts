@@ -17,7 +17,6 @@ links: !!seq
   - "https://archive.org/details/james-somerton-public-records/Gay+Happiness+and+Mainstream+Media.mp4"
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20231113+xBDc6SedkAc+Gay+Happiness+and+Mainstream+Media.webm"
   - "https://www.youtube.com/watch?v=BODX90z4R7E" # Todd in the Shadows upload, unlisted
-  - "https://www.youtube.com/watch?v=F56WPODVG5c" # Reuploads channel
 description: "a video on sexuality in happy gay media."
 notes:
   - hbomb
@@ -32,18 +31,21 @@ cite:
     barbie_movie: { short: "Barbie (Gerwig, 2023)", url: "Gerwig, G. (Director). (2023). <em>Barbie</em> [Film]. Heyday Films, LuckyChap Entertainment, NB/GG Pictures, Mattel Films." }
   yikes: !!map
     sex_broccoli: "James likens sex to broccoli: obviously if you haven't tried it, how do you know you hate it?"
+    puritanical: "James seems to have gotten the wrong message from <em>Brokeback Mountain</em>."
   misinformation: !!map
     think_pieces: "James misinterprets a 'think piece' as queer men hating that there's gay sex on screen."
     missionary_tweets: "To James, one tweet expressing confusion means whole swaths of straight people being confused about gay sex."
     sex_backlash: "James fabricates a massive backlash against RWRB."
   plagiarized: !!map
-    wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
+    wiki_rwrb: { color: 1, short: "RWRB Movie (Wikipedia, 2023)", full: "Wikipedia. (2023, Nov 7). <em>Red, White & Royal Blue (film)</em> [Article]. Retrieved Dec 12, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Red,_White_%26_Royal_Blue_(film)&oldid=1183944381" }
 ---
-{% assign todd = site.data.cite.todd %}
+{% assign todd = site.data.cite.todd.video %}
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign kenm = site.data.cite.kenm %}
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [Sponsor plug]
@@ -242,8 +244,14 @@ On election night, Henry returns to the United States to be with Alex. Alex's pl
 </from>
 </compare>
 
+<compare>
+<james {% include timecode %}>
+
 <u>[Sponsor Read]</u>
 <!-- this video is brought to you by Squarespace Squarespace is an all-in-one web design and hosting platform that makes it easy for you to create a website and Market your brand with industry-leading website templates that are easy to customize you don't need any design experience to show the world your best digital self Squarespace also makes it easy to keep in touch with your audience or customers with their expertly designed email templates that are just as easy to customize as their websites you can follow up with customers or just keep your audience in the loop with your latest updates that's why we're launching a newsletter with certain social media sites going the way of the dodo we wanted a way to keep in touch with our amazing subscribers and Squarespace gives us the perfect way to do that in fact you can sign up for our newsletter right now which will include links to new videos progress updates for Telos pictures as well as reviews articles and so much more you can sign up for free at our Squarespace website jameson.com you can head to squarespace.com right now for a free trial and when you're ready to launch your site go to Squarespace / James that's j m s to save 10% off of your first purchase of a website or domain start showing the world how amazing you are today with Squarespace  -->
+
+</james>
+</compare>
 
 ## Chapter 1: Missionary Suppression
 
@@ -294,9 +302,10 @@ The twist? Some of these naysayers were gay men. It's a bit of a "the call is co
 Royal Blue*'s sex was, compared to other gay media released in recent memory.
 
 </james>
-<comment id="think_pieces" {% include citation for=todd.video at="(18:35)" %}>
+<comment id="think_pieces" {% include commenter video=todd at="(18:35)" %}>
 
-Todd in the Shadows attempted to find the "think pieces" discussed herein. He found: 
+Todd in the Shadows attempted to find the "think pieces" discussed herein. He found:
+<!-- TODO: Copy script here. -->
 
 ["I'm A Queer Man. So Why Are Queer Sex Scenes Making Me So Uncomfortable?"](https://www.huffingtonpost.co.uk/entry/im-a-queer-man-so-why-are-queer-sex-scenes-making-me-so-uncomfortable_uk_64e38a13e4b0400efa5890d3) By Ian Kumamoto, Guest Writer for the Huffington Post UK (Aug 21st, 2023).
 
@@ -315,9 +324,10 @@ The bulk of criticism however was found on social media, <mark fc=false>where st
 As a result they rushed to the internet, first to investigate how the missionary position could *possibly* work with gays, and then to express their dissatisfaction with the situation. 
 
 </james>
-<comment id="missionary_tweets" {% include citation for=todd.video at="(22:55)" %}>
+<comment id="missionary_tweets" {% include commenter video=todd at="(22:55)" %}>
 
 Todd looked for evidence of this, and found the following two articles:
+<!-- TODO: Copy script here. -->
 
 [Straight people SHOCKED to learn gays can have missionary sex after seeing “Red, White & Royal Blue”](https://www.queerty.com/straight-people-shocked-to-learn-gays-can-have-missionary-sex-too-after-seeing-red-white-royal-blue-20230814) By Alex Reimer (Aug 14, 2023)
 
@@ -356,9 +366,10 @@ According to what I've gathered, the majority of viewers who were... *offended* 
 However, they were *so* taken aback, <mark fc=false>that they criticized the film for having an *excessive* amount of sexual content</mark> which once more is *one scene* and, in both a physical and figurative sense, it's not quite as steamy as the sex scene that took place between Rose and Jack and the car in Titanic. They were shut down online pretty quickly by a huge swath of fans (made up *mostly* of women, but to my delightful surprise a lot of gay men as well), who told them to pipe down and accept that sex exists, thank you. But for a few days this very very vocal minority were making it seem like Alex and Henry having sex in the most *basic* position known to humankind, while using a condom (and even to my recollection being under the bed sheets) was compared on a one-to-one basis as the third day of a meth orgy.
 
 </james>
-<comment id="sex_backlash" {% include citation for=todd.video at="(18:35)" %}>
+<comment id="sex_backlash" {% include commenter video=todd at="(18:35)" %}>
 
 It is highly unlikely that people who would react in this manner would willingly watch the movie, which must be sought out on streaming and is not being shown in theaters.
+<!-- TODO: Copy script here. -->
 
 It is *technically* possible, but as of yet, no single tweet has been dug up that makes this true.
 
@@ -382,7 +393,7 @@ Now was this just because they've never been exposed to the idea of gay sex befo
 They know that men have sex with men, and women have sex
 with women, but they're really icked out by the idea of knowing the ins and outs and tops and bottoms of it all. (Good thing Henry didn't eat any *beans* before the scene or that could have brought up even more uncomfortable questions.)
 
-The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
+The controversy about the sex in *Red, White, and Royal Blue*, while quickly suppressed, seems to paint an ill-fated omen<sup stat:id="malaprop" class="add">[sic: ill omen]</sup> about the condition of gay men, and possibly by extension, all of queerness and the ability to be open about sex lives. Especially in the same comfort that straight creators depict straight sex. 
 
 </james>
 <from></from>
@@ -450,8 +461,15 @@ character's relationships advance beyond hugging, even if it was offscreen. The 
 <compare>
 <james {% include timecode %}>
 
-"Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. We were either neutered
-and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)
+"Cute" wasn't cutting it anymore. Gay people were "cute" when I was growing up, in the same way way that a gerbil or a guinea pig would be cute: caged, fawned over, taken out to play with, but ignored when no longer novel, and at the time probably dead within 2 years. It felt patronizing to be reduced to this. <mark yikes>We were either neutered and cute, such as in teen focused TV shows, or sexually active and eventually dead, such as in movies like *Brokeback Mountain*. (Tell me the puritanical moralization of sexual values doesn't exist anymore.)</mark>
+
+</james>
+<comment id="puritanical" {% include commenter for=kenm %}>
+
+Jack in "Brokeback Mountain" was killed by intolerance. I know it's an example of Bury Your Gays but it's not an example of puritanical moralization. At no point does the movie judge either character for being dirty sinners and Jack's death is clearly not intended as karmic punishment for his lifestyle. That's not what the movie is about. That's an insane takeaway from Brokeback Mountain. 
+
+</comment>
+<james {% include timecode %}>
 
 Many creators lean toward this over the years as a way to show gay representation without pissing off the straights too much. So I can understand why some people in the gay community (especially men my
 age who grew up with the trope of the 'sexless gay best friend' like Trixie) would be irritated by it even now when there *is* pretty mainstream gay movies and shows that *do* show the sex stuff, like *Young Royals* and *Elite*. But like I said Katya's opinions seem to shift between the two seasons. Our Queens who Watch looked at this story about a collection of various queer 15- and 16-year-olds, and they spent the duration of their video railing it because... well, nobody was getting railed. 

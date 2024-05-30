@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2021-04-01
 title: !!str “Killing Stalking” and The Romancing of Abuse
+runtime: 1:00:05
 status: Auto
 aka: !!seq
   - "Killing Stalking and the Love of a Bad Boy (Short)"
@@ -15,6 +16,12 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - short-advert
+  - online
+
+history:
+  2021-04-01: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -27,12 +34,16 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
-    stockholm: { color: 1, short: "", full: "", url: "https://www.medicalnewstoday.com/articles/stockholm-syndrome" } # at 14:00
+    stockholm: { color: 1, short: "(Eske, 2020)", full: "Eske, J., Legg, T.J. (2020, Oct 1). <em>What is Stockholm syndrome?</em> Medical News Today.", url: "https://www.medicalnewstoday.com/articles/stockholm-syndrome" } # at 14:00
+    purdue: { color: 2, short: "(Felluga, 2011)", full: "Felluga, D. F. (2011, Jan 31). Modules on Baudrillard: On Simulation [Chapter]. In <em>Introductory Guide to Critical Theory</em>. Purdue U. Retrieved Mar 1, 2024, from", url: "https://cla.purdue.edu/academic/english/theory/postmodernism/modules/baudrillardsimulation.html", archive: "https://web.archive.org/web/20210309140656/" }
+    anime_click: { color: 3, short: "AnimeClick.it (dany87, 2018)", full: "dany87. (2018, Jan 5). <em>Un killer, uno stalker: amore o follia? Ce ne parla Koogi in persona</em> [Article]. Lucca Comics and Games. AnimeClick.it. Translated from Italian to English via Google Translate. Retrieved Mar 1, 2024, from", url: "https://www.animeclick.it/news/71391-animeclickit-intervista-koogi-autrice-di-killing-stalking-lucca-2017", archive: "https://web.archive.org/web/20211020111518/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-04-01" %}>
 
 What the hell is “Killing Stalking”?
 
@@ -61,6 +72,36 @@ https://www.chaosopus.com
 {% include chapter-link at="44:05" for="6. This Is Not A Love Song" %}  
 {% include chapter-link at="52:32" for="7. Love Never Dies" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+What the hell is “Killing Stalking”?
+
+[patreon link]
+
+#KillingStalking #VideoEssay #manga  
+\====================  
+
+https://www.thehotline.org  
+https://www.loveisrespect.org  
+https://www.strongheartshelpline.org  
+http://www.glbtnationalhelpcenter.org  
+
+chAosOPUS STUDIOS  
+https://www.chaosopus.com
+
+\====================  
+
+{% include chapter-link at="00:00" for="Content Warning and Introduction" %}  
+{% include chapter-link at="05:17" for="1. Tainted Love" %}  
+{% include chapter-link at="19:58" for="2. Crazy in Love" %}  
+{% include chapter-link at="22:22" for="3. Is It Love?" %}  
+{% include chapter-link at="29:51" for="4. You Give Love A Bad Name" %}  
+{% include chapter-link at="35:53" for="5. I Would Do Anything For Love (But I Won't Do That)" %}  
+{% include chapter-link at="44:05" for="6. This Is Not A Love Song" %}  
+{% include chapter-link at="52:32" for="7. Love Never Dies" %}  
+
+</details>
 </credits>
 </compare>
 
@@ -729,3 +770,17 @@ and links for anyone who might feel that they've become trapped in an abusive
 relationship abuse is not love trauma is not romance please do not let they can
 change trap you in an unhealthy or dangerous situation get away while you can
 because a happily ever after should never involve pain you
+
+{% comment %}
+
+Plaigarism (maybe?)
+
+James Somerton uses an almost direct quote from a purdue.edu page covering Baudrillard at timestamp 29:58 of his “Killing Stalking” and The Romancing of Abuse video, without even properly spelling the guys name in the subtitles and saying "in general terms" even when the real sentence was from this page. It was only one sentence before he went off, but this sentence was based off a 2 parter scholar article I can't afford to spend 50$ to read through to check, so take it what you will.
+
+His Words: "One of the most significant philosophies of art criticism comes from Jean Baudrillard, he argues in very generalized terms that we as a society have lost or are losing our ability to tell the difference between artifice and nature."
+
+The .edu page which, according to inspect element, may have been from like 2003 or something?: "His point, rather, is that we have lost all ability to make sense of the distinction between nature and artifice."
+
+Additionally at 36:06 he misattributes a quote from the korean author Koogi to a 2018 interview (presumably) in Korean bc he mentions she's Korean here, but it's actually a 2017 interview with Animeclick.it at Lucca Comics found here in Italian. He also doesn't credit anyone for the translation, though I guess google translate did a fine enough job to get a very similar translation result when manually running the interview in Italian through it.
+
+{% endcomment %}

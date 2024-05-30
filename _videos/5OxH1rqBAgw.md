@@ -13,6 +13,7 @@ aka: !!seq
   - "The Pink Triangles - The Story of the Gay Holocaust (Complete Documentary)"
 topics: !!seq
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/The+Pink+Triangles+-+The+Story+of+the+Gay+Holocaust+(Complete+Documentary).mp4"
   - "https://web.archive.org/web/20210425012726/https://www.youtube.com/watch?v=5OxH1rqBAgw"
   - "https://web.archive.org/web/20210627030740/https://vimeo.com/567992423"
 description: "an amalgamation of five different stolen sources held together by a glue made of misinformation, purporting to be a somber video essay about gay men in the Holocaust."
@@ -20,6 +21,15 @@ notes:
   - hbomb
   - vimeo
   - w-james-nick
+
+history:
+  2020-09-23: 'Teased on Patreon as "Pink Triangles: The Accepted Holocaust"'
+  2021-01-03: Teased on Patreon
+  2021-01-11: First uploaded, unlisted (5OxH1rqBAgw).
+  2021-01-14: First published.
+  2021-12-19: Uploaded to Vimeo (567992423).
+  2022-08-28: Deleted from YouTube [due to algorithm worries](digub0QVCho#algorithm).
+  2023-12-07: Deleted post-callout.
 
 contributors:
   downloaded: $cite$kenm
@@ -69,7 +79,9 @@ cite:
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-01-14" label="YouTube Upload" %}>
 
 The vastly ignored history of Germany's war on gay men during World War 2.
 
@@ -95,7 +107,36 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="01:00:19" for="Part Nine: Does It End?" %}  
 {% include chapter-link at="01:03:48" for="Part Ten: Remember" %}  
 
+</details>
+<details {% include description-version for="2022-08-28" label="Vimeo Upload" %}>
+
+The vastly ignored history of Germany's war on gay men during World War 2.
+
+A special note: Trans women were also persecuted but Germany categorized them as gay men so there's no official records to refer to.
+
+Patreon: [link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+James's patreon post about uploading the video to Vimeo:
+
+> Hey there everyone.
+> 
+> It was recently brought to my attention that YouTube has set my video about gay holocaust victims to 18+. So a lot of people can't view it. I appealed it, but the appeal was denied. 
+> 
+> (Can only imagine what kind of fury the algorithm will bring down on me for that).
+> 
+> Anyway, I uploaded it to Vimeo to make it available to everyone. I don't think I have any Patrons who are under 18, but it's you guys who let me thumb my nose at YouTube every once and a while so I thought it only right I share the link here. Not exactly the kind of thing I imagine most people want to watch more than once, but here's the link anyway lol.  :)
+
+Eventually, he deleted the YouTube upload [as he feared the algorithm was angry](digub0QVCho#algorithm) that he had multiple 18+ videos on his channel.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -1341,8 +1382,7 @@ On July 15, 1940, Himmler added an amendment to his April 1938 directive: men ar
 <mark fc=false>But Himmler soon found himself the topic of mockery, as more and more people began to realize that the SS was becoming dominated by gay men. Leadership positions were teeming with homosexuals, and it was an open Secret among many in Germany that if a man were to offer sexual favors to an SS officer, most any crime could be forgiven.</mark> 
 
 </james>
-<comment id="homo_ss">
-{% include header video=todd at="1007" %}
+<comment id="homo_ss" {% include commenter video=todd at="1007" %}>
 
 ... No it wasn't [teeming with homosexuals]. That isn't true.
 
@@ -1526,8 +1566,7 @@ These figures must be treated with caution. They indicate only the number of peo
 
 </footer>
 </from>
-<comment id="fifteen_percent">
-{% include header video=todd at="1039" %}
+<comment id="fifteen_percent" {% include commenter video=todd at="1039" %}>
 
 Okay, the thing about Somerton is that sometimes he will cite his sources and you can just read along and see where he's adding things. He got most of this video from Richard Plant's *The Pink Triangle* and the passage he's quoting from actually says that 15% of the *teenage boys* kicked out of the Hitler Youth were kicked out for being being gay, not the adult leadership. Also, there's nothing in there about any coverups.
 
@@ -2056,9 +2095,9 @@ Maybe he just doesn't know what 'impervious' means? Why would the people alleged
 </compare>
 
 <compare>
-<james span=2 {% include timecode %} id="exclusively"> 
+<james span=2 {% include timecode %} id="exclusively" stat:id="y-persecution"> 
 
-In other camps, <mark yikes stat:id="y-persecution">gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
+In other camps, <mark yikes>gay men were used as test subjects</mark> to see how long a person could survive underwater without drowning. Dehydration experiments, high altitude simulations, freezing, and being used as test subjects for new chemical weapons of war. <mark fc=false>But only at Buchenwald were gay men used exclusively.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.pink_triangle at="p.178-179" %}>

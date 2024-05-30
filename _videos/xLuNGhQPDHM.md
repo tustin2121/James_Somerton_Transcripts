@@ -38,20 +38,21 @@ cite:
     vox_jkr_article: 
       color: 1
       short: "Vox Article (Burns, 2019)"
-      full: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from"
+      full: "Burns, K. (2019, Dec 19). J.K. Rowling’s transphobia is a product of British culture. <em>Vox.com</em>. Retrieved December 14, 2023, from"
       url: "https://www.vox.com/identities/2019/12/19/21029874/jk-rowling-transgender-tweet-terf"
       chain:
         _desc_: "which reused paragraphs from..."
         _:
           full: "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em>. Retrieved December 14, 2023, from"
           url: "https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical"
-    scotsman_article: { color: 2, short: "Scotsman Article (Burns, 2019)" , full: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", url: "https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977" }
-    potter_day_article: { color: 3, short: "Harry Potter Day (National Today, n.d.)" , full: "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", url: "https://nationaltoday.com/harry-potter-day/" }
+    scotsman_article: { color: 2, short: "Scotsman Article (Burns, 2019)" , full: "Shennan, R. (2020, Jun 8). JK Rowling on Twitter: why the Harry Potter author has been accused of transphobia on social media platforms. <em>The Scotsman</em>. Retrieved December 14, 2023, from", url: "https://www.scotsman.com/arts-and-culture/books/jk-rowling-on-twitter-why-the-harry-potter-author-has-been-accused-of-transphobia-on-social-media-platforms-2877977" }
+    potter_day_article: { color: 3, short: "Harry Potter Day (National Today, n.d.)" , full: "National Today. (n.d.). HARRY POTTER DAY - May 2, 2024 <em>National Today</em> Retrieved December 14, 2023, from", url: "https://nationaltoday.com/harry-potter-day/" }
     # vox_terf_article: { color: 4, short: "(Burns, 2019)" , full: "Burns, K. (2019, Sep 5). The rise of anti-trans “radical” feminists, explained. <em>Vox.com</em>. Retrieved December 14, 2023" url: "https://www.vox.com/identities/2019/9/5/20840101/terfs-radical-feminists-gender-critical" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 JK Rowling has made her opinion of trans people clear, but where she stands in the hearts of the fans isn't nearly as obvious. Is enjoying Harry Potter also supporting Rowling by default? Or... can there be Harry Potter without JK Rowling?
@@ -1069,7 +1070,7 @@ They’re all still there within the pages and on the screen. Inside a worn pape
 <compare>
 <credits class="closing" {% include timecode %}>
 
-Patreon names roll over uplifting music.
+<u>[Patreon names roll over uplifting music.]</u>
 
 </credits>
 </compare>

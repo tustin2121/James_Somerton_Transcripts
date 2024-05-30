@@ -1,6 +1,10 @@
 ####### Contributor citations #######
 from-script:
   name: "James Somerton & Nick Herrgott (script used as closed captioning)"
+adobe-ai:
+  name: Premiere Pro Auto-Transcription
+anon:
+  name: Anonymous Contributor
 tustin2121:
   name: Tustin2121
   contributor: true
@@ -16,11 +20,6 @@ tobicat:
   contributor: true
   descriptive: Formatter, highlighter, and source contributor
   link: "https://github.com/tobi-cat"
-yvestan:
-  name: Yvestan
-  contributor: true
-  descriptive: Fact checker and asset contributor
-  link: ""
 scarylibrary:
   name: Scary-Library
   contributor: true
@@ -31,6 +30,11 @@ penguinstorage:
   contributor: true
   descriptive: Highlighter and source contributor
   link: "https://github.com/jordantullis"
+sobbing:
+  name: SobbingOntoTheColdLinoleumFloor
+  contributor: true
+  descriptive: Source contributor
+  link: ""
 kenm:
   name: KenM
   contributor: true
@@ -41,12 +45,29 @@ sciclone1984:
   contributor: true
   descriptive: Project contributor
   link: "https://github.com/sciclone1984"
+GilaTheArkanian:
+  name: GilaTheArkanian
+  contributor: true
+  descriptive: Formatter, highlighter, and source contributor
+  link: "https://github.com/GilaTheArkanian"
 
 TerraJRiley:
   name: TerraJRiley
   descriptive: project creator
   link: "https://github.com/TerraJRiley/James_Somerton_Transcripts"
 
+####### Common contributor citations #######
+
+llyrium:
+  name: l-lyrium
+  contributor: false
+  descriptive: 
+  link: "https://github.com/l-lyrium"
+emuanon34:
+  name: EmuAnon34 
+  contributor: false
+  descriptive: 
+  link: "https://github.com/EmuAnon34"
 
 ####### Common video citations #######
 todd: # assign todd = site.data.cite.todd
@@ -96,3 +117,18 @@ ace_couple:
     short: "Ep. 62 (The Ace Couple, 2023)"
     full: "The Ace Couple. (2022, Nov 30) <em>Asexuality & Kink ft. Evie Lupine</em> [Audio podcast episode]. In <em>The Ace Couple Podcast</em>. https://theacecouple.com/episode062/"
     url: "https://www.youtube.com/watch?v=EfL6B-rUfao"
+
+####### Commonly plagiarized sources #######
+celluloid_closet_doc: 
+  color: 10
+  short: "The Celluloid Closet (Friedman, 1996)"
+  full: "Epstein, R., Friedman, J. (Directors). (1996). <em>The Celluloid Closet</em> [Film]. Channel 4, Home Box Office. Retrieved Jan 25, 2024, from"
+  url: "https://www.youtube.com/watch?v=YndHaKuD6MI"
+celluloid_closet_book:
+  color: 2
+  short: "(Russo, 1987)"
+  full: "Russo, V. (1987). <em>The Celluloid Closet: Homosexuality in the Movies</em> (Revised ed.) Quality Paperback Book Club, New York. HarperCollins née Harper & Row."
+  url: "https://archive.org/details/celluloidcloseth00russ/page/n9/mode/2up"
+  # https://backend.ecstaticstatic.com/wp-content/uploads/2021/05/The-Celluloid-Closet.pdf
+  type: "book"
+  style: "book"

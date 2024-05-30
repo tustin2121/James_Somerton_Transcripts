@@ -12,10 +12,13 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221116+7a4DTkoejG8+The+Queer+Erasure+of+Asexuality+(A+Discussion).webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+The+Queer+Erasure+of+Asexuality+(A+Discussion).mp4"
-  - "https://www.youtube.com/watch?v=D_6S1CT8uVM" # Reuploads channel
 description: "a 'Gays Behaving Badly' podcast episode on Asexuality."
 notes:
   - podcast
+
+history:
+  2022-11-16: First published.
+  2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -40,12 +43,15 @@ cite:
 {% assign ace_062 = site.data.cite.ace_couple.ep062 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-11-16" %}>
 
 Something new to the channel! Maybe something we'll keep doing? Let us know what you think of this format!
 
 [patreon link]
 
+</details>
 </credits>
 <comment id="moderation">
 {% include header video=ace_116 at="1h23m33s" %}

@@ -4,17 +4,19 @@ redirect_from:
 
 date: 2023-04-01
 title: "Maybe the end (Not an April Fool's Day Thing)"
+runtime: 8:13
 status: Complete
 aka: !!seq
 topics: !!seq
 links: !!seq
+  - "https://archive.org/details/james-somerton-public-records/Maybe+the+end+(Not+an+April+Fool's+Day+Thing).mp4"
   - "https://web.archive.org/web/20230401194144/https://www.youtube.com/watch?v=XYESkleNUSA"
 description: "a video where a man lies directly into a camera for eight solid minutes and manages to convince thousands of caring people to give him even more money."
 notes:
-  - unscripted
+  - meta-video
 
 contributors:
-  transcription: "Yvestan (using Premiere Pro Auto-Transcription)"
+  transcription: $cite$adobe-ai
   formatting: $cite$tustin2121
 
 cite:
@@ -29,6 +31,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Thank you guys for letting us do this for as long as you have.  

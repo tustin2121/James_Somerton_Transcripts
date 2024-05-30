@@ -11,7 +11,6 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230301+jJmN2rC1cVM+The+Real+Hogwarts+Legacy.webm"
   - "https://archive.org/details/james-somerton-public-records/The+Real+Hogwarts+Legacy.mp4"
-  - "https://www.youtube.com/watch?v=d72Ze-_Du6s" # Reuploads channel
 description: "a video essay enumerating all the ways that JK Rowling is transphobic."
 notes:
   - hbomb
@@ -35,12 +34,14 @@ cite:
     gardner: { color: 4, short: "Breakdown (Gardner, 2023)", full: "Gardner, A. (2023, Feb 7). <em>A Complete Breakdown of the J.K. Rowling Transgender-Comments Controversy</em> [Article]. Glamour.", url: "https://www.glamour.com/story/a-complete-breakdown-of-the-jk-rowling-transgender-comments-controversy", archive: "https://web.archive.org/web/20230207232206/" }
     amnesty: { color: 3, short: "Digital Safeguarding (Amnesty UK, 2023)", full: "Amnesty International UK. (2023, Nov 6). <em>Digital Safeguarding Guidance</em> [Article].", url: "https://www.amnesty.org.uk/digital-safeguarding-guidance" }
     uppercut: { color: 5, short: "(Abrahamson, 2022)", full: "Abrahamson, M. (2022, Jun 3). <em>Hogwarts Legacy of Antisemitism?</em> [Article]. Uppercut", url: "https://uppercutcrit.com/hogwarts-legacy-of-antisemitism/" }
+    nava: { color: 12, short: "Troubling Antisemitic References (Nava, 2023)", full: "Nava, A.M. (2023, Feb 10). <em>Hogwarts Legacy Players Are Already Finding More Troubling Antisemitic References</em> [Article]. The Mary Sue. Retrived February 15, 2024, from", url: "https://www.themarysue.com/hogwarts-legacy-players-are-already-finding-more-troubling-antisemitic-references/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign tobi = site.data.cite.tobicat %}
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Harry Potter and All The Crap 
@@ -293,8 +294,7 @@ The actor continued, “It is also a reminder that as much as Jo is the founder 
 <mark fc=false>(It was probably after this that Joanne actually head-cannoned an *adult* Draco Malfoy into going around Diagon Alley Shops and vandalizing them with messages of supporting trans rights. She literally did that. Look it up. She did that. She did.)</mark>
 
 </james>
-<comment id="malfoy_trans">
-{% include header video=todd %}
+<comment id="malfoy_trans" {% include commenter video=todd %}><!-- TODO: Add at="" -->
 
 I did look it up. [That was a viral hoax from last year,](https://www.reuters.com/article/idUSL1N2ZN0PY/) it's a series of fake tweets that started out as [a joke on clickhole](https://clickhole.com/the-saga-continues-jk-rowling-has-announced-that-in-the-harry-potter-universe-she-is-a-universally-beloved-potions-shop-owner-who-no-one-considers-a-bigot/) and people started spreading them around like they were real. They're not.
 
@@ -593,13 +593,13 @@ Goblins are heavily featured in many European countries’ folklore and vary fro
 
 <mark>Rabbi Jo David</mark> said: 
 
-<u>[A photo of [Rabbi Dr. Jo David(https://rabbijodavid.org/) is shown next to the quote scrolling on screen.]</u>
+<u>[A photo of [Rabbi Dr. Jo David](https://rabbijodavid.org/) is shown next to the quote scrolling on screen.]</u>
 
 > <mark></mark>"That whole concept of the Jew as misshapen and ugly, actually comes from early Christian writings… 
 >
 > The way the church looked at the Jews, the more that they [the Jews] continued to reject Catholicism, and then later Protestantism, the more ugly they became. 
 >
-> The more that the church preached about their ugliness and their corruption and the corruption of their soul."k> 
+> The more that the church preached about their ugliness and their corruption and the corruption of their soul."
 
 </james>
 <from {% include citation for=page.cite.plagiarized.uppercut at="¶ 4-5" %}>
@@ -680,16 +680,14 @@ So, that isn’t to say that the Goblins are directly antisemitic, or carry ster
 <compare>
 <james {% include timecode %}>
 
-The game even has a Goblin Rebellion that takes place in the year 1612, and it turns out that there was a real-life massacre that occurred against Jewish people during the <mark fc=false>1612</mark> [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising). This massacre was one of many [pogroms](https://en.wikipedia.org/wiki/Pogrom), or strategically conducted attacks, that were carried out in predominantly Jewish neighborhoods over the course of history. The date seems to be too specific not to be a reference to <ins>the</ins> hate crimes committed against Jews in the real world. 
+<mark>The game even has a Goblin Rebellion that takes place in the year 1612, and it turns out that there was a real-life massacre that occurred against Jewish people during the 1612 [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising). This massacre was one of many [pogroms](https://en.wikipedia.org/wiki/Pogrom), or strategically conducted attacks, that were carried out in predominantly Jewish neighborhoods over the course of history. The date seems to be too specific not to be a reference to <ins>the</ins> hate crimes committed against Jews in the real world.</mark>
 
 </james>
-<from></from>
-<comment>
-{% include header for=tustin %}
+<from {% include citation for=page.cite.plagiarized.nava at="¶ 2" %}
 
-According to Wikipedia, the [Feltmilth uprising](https://en.wikipedia.org/wiki/Fettmilch_uprising) was in 1614, not 1612. So not an exact year match, but it is close.
+It looks like Hogwarts Legacy already has its own sketchy parallel. As some have pointed out on social media, <mark>a “1612 Goblin Rebellion” is referenced in the game, and it turns out there was a real-life massacre that occurred against Jewish people during the [1612-1616 Fettmilch uprising](https://www.jstor.org/stable/4546068) - one of many strategically conducted attacks, called pogroms, in predominately Jewish neighborhoods over the course of history. The date feels too specific not to be a reference to hate crimes committed in our very, very real world.</mark>
 
-</comment>
+</from>
 </compare>
 
 <compare>
@@ -697,7 +695,7 @@ According to Wikipedia, the [Feltmilth uprising](https://en.wikipedia.org/wiki/F
 
 *Hogwarts Legacy* has, of course, sold a gazillion copies already, and will likely end up, by direct royalties, or further licensing agreements, making JK Rowling richer than she already is. She even brags about getting royalty checks on Twitter now. Because, again, she’s as petty as an eighth grader. 
 
-I say ‘8th grader’ figuratively. I’m sure many ankle-biters have more emotional maturity than this woman is displaying. Seeing how most of her tweeting and award-winning, grammatically <del>unstructured</del><ins>unconstructed</ins> essay-ing is equivalent to ’I’m rubber and you’re glue.’ 
+I say ‘8th grader’ figuratively. I’m sure many ankle-biters have more emotional maturity than this woman is displaying. Seeing how most of her tweeting and award-winning, grammatically <del>unstructured</del> <span stat:id="malaprop"><ins>unconstructed</ins></span> essay-ing is equivalent to ’I’m rubber and you’re glue.’ 
 
 But even with the success of the game making her richer… does that even matter? Should we even care? 
 
@@ -723,7 +721,7 @@ There is no changing that. Boycotting a game or a movie or eventual TV show will
 <compare>
 <james {% include timecode %}>
 
-Media boycotts never work. I’ve seen boycotts against *Brokeback Mountain* because it was gay, *Star Wars* because it had a black male lead and a female co-lead (This is when we thought john boyega<sup class="add">[sic: John Boyega]</sup> would actually be a Jedi). People boycotted *Captain Marvel* because… powerful women, and *Beauty and the Beast* for having two gays spin in a circle for a few frames. But all of those movies made a fortune. People have boycotted video games for being racist, <ins>and</ins> sexist, <ins>and</ins> homophobic, you name it. But the games still go on to make a t*on of money for the studios. 
+Media boycotts never work. I’ve seen boycotts against *Brokeback Mountain* because it was gay, *Star Wars* because it had a black male lead and a female co-lead (This is when we thought john boyega<sup class="add">[sic: John Boyega]</sup> would actually be a Jedi). People boycotted *Captain Marvel* because… powerful women, and *Beauty and the Beast* for having two gays spin in a circle for a few frames. But all of those movies made a fortune. People have boycotted video games for being racist, <ins>and</ins> sexist, <ins>and</ins> homophobic, you name it. But the games still go on to make a ton of money for the studios. 
 
 </james>
 <from></from>

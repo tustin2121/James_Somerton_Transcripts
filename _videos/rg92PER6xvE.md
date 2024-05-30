@@ -4,13 +4,18 @@ redirect_from:
 
 date: 2022-05-08
 title: Nintendo's Queer Relationship With Gender
+runtime: 54:32
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Nintendo's+Queer+Relationship+With+Gender.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220508+rg92PER6xvE+Nintendo's+Queer+Relationship+With+Gender.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Nintendo's+Queer+Relationship+With+Gender.mp4"
 # description: "a video essay on...?"
+notes:
+  - online
+  - w-nick-james
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -23,10 +28,17 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    fandom: { color: 3, short: "History (Fandom, 2022)", full: "Fandom. (2022, Apr 22). <em>History of Nintendo</em> [Article].", url: "https://nintendo.fandom.com/wiki/History_of_Nintendo?oldid=665541" }
+    kotaku: { color: 4, short: "Nintendo Forget (Ashcroft, 2011)", full: "Ashcroft, B. (2011, Mar 22). <em>The Nintendo They've Tried to Forget: Gambling, Gangsters, and Love Hotels</em> [Article].", url: "https://kotaku.com/the-nintendo-theyve-tried-to-forget-gambling-gangster-5784314" }
+    wiki_black: { color: 5, short: "African American cinema (Wikipedia, 2022)", full: "Wikipedia. (2022, Mar 11). <em>African American cinema</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=African_American_cinema&oldid=1076449456" }
+    wiki_women: { color: 6, short: "Women's cinema (Wikipedia, 2022)", full: "Wikipedia. (2022, Apr 29). <em>Women's cinema</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Women%27s_cinema&oldid=1152387094" }
+    wiki_tomadachi: { color: 7, short: "Tomodachi Life (Wikipedia, 2022)", full: "Wikipedia. (2022, Apr 27). <em>Tomodachi Life</em> [Article]. Retrieved March 1, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Tomodachi_Life&oldid=1085014622" }
+    dark_corners: { color: 10, short: "Dracula (Dark Corner Reviews, 2021)", full: "Dark Corner Reviews. (2021, Apr 18). <em>Dracula vs Spanish Dracula - a tale of two visions</em> [Video essay].", url: "https://www.youtube.com/watch?v=ZZDoon5n_Q4" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Nintendo has always had an odd relationship with gender representation and presentation. So let's talk it about it!
@@ -61,8 +73,42 @@ cat boys and a girl and meow at each other but nintendo's gender journey didn't
 start in 2013. they've been on this raucous roller coaster ride since well since
 the original nintendo entertainment system so let's have a look back at the
 grand history of nintendo and its confusingly progressive yet conservative
-stance on gender not looking forward to the comment section on this one [Music]
-[Music] [Applause] [Music] [Music] nintendo was first founded as yamauchi
+stance on gender not looking forward to the comment section on this one 
+
+
+{% assign timecode = "1:24" %}
+<compare>
+<credits {% include timecode %}>
+
+> James Somerton  
+Presents
+
+> Written by  
+Nick Herrgott  
+& James Somerton
+
+> Produced by  
+[Scrolling list of Patron names]
+
+> Executive Producers  
+[Scrolling list of Patron names]
+
+> Thumbnail Art by  
+Theo Dokomi
+
+> Compositing by  
+Telos Pictures
+
+> Edited & Directed by  
+James Somerton
+
+> GENDER SWITCH
+
+</credits>
+</compare>
+
+
+nintendo was first founded as yamauchi
 nintendo in 1889 in kyoto japan at first they solely produced and marketed
 hanafuda playing cards the cards soon began to rise in popularity and the
 company had to expand to meet the increasing demand fast forward to 1959 when

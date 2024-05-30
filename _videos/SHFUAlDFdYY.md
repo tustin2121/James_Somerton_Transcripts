@@ -10,6 +10,13 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
+notes:
+  - online
+
+history:
+  2021-02-11: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism
 
 cite:
   clips: !!map
@@ -20,7 +27,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-02-11" %}>
 
 How did Marvel accidentally create a gay power couple? And what exactly does the Scarlet Witch have to do with it?
 
@@ -38,6 +47,26 @@ This video contains copyrighted material. The use of which has not always been s
 {% include chapter-link at="19:26" for="The Wizard and the Warrior" %}  
 {% include chapter-link at="28:58" for="Identity Marketing" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+How did Marvel accidentally create a gay power couple? And what exactly does the Scarlet Witch have to do with it?
+
+Patreon: [new link]
+
+Twitter: [handle]
+
+This video contains copyrighted material. The use of which has not always been specifically authorized by the copyright owner. I am making this material available in my efforts to further bring to light the history of LGBTQ+ representation in film and television. I believe this constitutes a fair use of any such copyrighted material as provided for in section 107 of the US Copyright Law.
+
+#Marvel #disney+ #Kang
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="03:04" for="The Kids Are Not Alright" %}  
+{% include chapter-link at="07:23" for="A Witch Called Wanda" %}  
+{% include chapter-link at="19:26" for="The Wizard and the Warrior" %}  
+{% include chapter-link at="28:58" for="Identity Marketing" %}  
+
+</details>
 </credits>
 </compare>
 

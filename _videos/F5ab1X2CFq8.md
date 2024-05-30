@@ -10,12 +10,19 @@ aka: !!seq
   - "The LGB Dystopia (Thumbnail)"
 topics: !!seq
 links: !!seq
-  - "https://www.youtube.com/watch?v=Y9yi8yocZMY" # Reuploads channel
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-description: "a video essay on dystopias, opression, and division over rights means less rights for us all."
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230420+F5ab1X2CFq8+The+Queer+Dystopia+of+the+LGB+Movement.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Queer+Dystopia+of+the+LGB+Movement.mp4"
+description: "a video essay on dystopias, oppression, and division over rights means less rights for us all."
 notes:
   - script-diff
   - w-nick-james
+  # - online
+
+history:
+  2023-04-20: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
+  2024-03-01: Privated for unknown reason.
 
 contributors:
   transcription: $cite$from-script
@@ -35,14 +42,16 @@ cite:
 ---
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-04-20" %}>
 
 [Sponsor link]
 
 [Another Sponsor link]
 
-PATREON: [link]
- 
+PATREON: [link]  
+  
 
 {% include chapter-link at="00:00" for="Introduction" %}  
 {% include chapter-link at="05:10" for="Part One - Always Watching" %}  
@@ -51,6 +60,20 @@ PATREON: [link]
 {% include chapter-link at="30:32" for="Part Four - A Day At The Human Races" %}  
 {% include chapter-link at="36:19" for="Part Five - Know Thine Enemy" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+PATREON: [new link]  
+  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="05:10" for="Part One - Always Watching" %}  
+{% include chapter-link at="11:41" for="Part Two - Making A STATEment" %}  
+{% include chapter-link at="22:11" for="Part Three - Bureaucrats Bearing Gifts" %}  
+{% include chapter-link at="30:32" for="Part Four - A Day At The Human Races" %}  
+{% include chapter-link at="36:19" for="Part Five - Know Thine Enemy" %}  
+
+</details>
 </credits>
 </compare>
 

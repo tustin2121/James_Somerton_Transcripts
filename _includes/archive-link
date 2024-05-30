@@ -8,37 +8,49 @@
 	{%- if include.short -%}
 		{%- if parts[4] == "james-somerton-youtube-2023-12-03" -%}
 			{%- comment %} https://archive.org/details/james-somerton-youtube-2023-12-03/ {% endcomment -%}
-			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">IA1</a>
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on Dated Archive">IA1</a>
 		{%- elsif parts[4] == "james-somerton-public-records" -%}
 			{%- comment %} https://archive.org/details/james-somerton-public-records/ {% endcomment -%}
-			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">PR</a>
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on Public Records Archive">PR</a>
 		{%- elsif parts[4] == "james-somerton-videos-backup" -%}
 			{%- comment %} https://archive.org/details/james-somerton-videos-backup/ {% endcomment -%}
-			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">VB</a>
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on Backup Archive">VB</a>
 		{%- else -%}
 			{%- comment %} unidentified internet archive link {% endcomment -%}
-			<a href="{{ link }}" target="_blank" rel="noopener noreferrer">IA</a>
+			<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on the Internet Archive">IA</a>
 		{%- endif -%}
 	{%- else -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on the Internet Archive</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on the Internet Archive</a>
+	{%- endif -%}
+{%- elsif parts[2] == "www.YOUTUBE.com" -%} {%- comment %} Special hack for James Channel videos {% endcomment -%}
+	{%- if include.short -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on James Somerton's Channel">JS</a>
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on James's Channel</a>
 	{%- endif -%}
 {%- elsif parts[2] == "youtube.com" or parts[2] == "www.youtube.com" or parts[2] == "youtu.be" -%}
 	{%- if include.short -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">YT</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on YouTube">YT</a>
 	{%- else -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on YouTube</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on YouTube</a>
 	{%- endif -%}
 {%- elsif parts[2] == "web.archive.org" -%}
 	{%- if include.short -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">WB</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on the Wayback Machine">WB</a>
 	{%- else -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on the Wayback Machine</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on the Wayback Machine</a>
 	{%- endif -%}
 {%- elsif parts[2] == "vimeo.com" or parts[2] == "www.vimeo.com" -%}
 	{%- if include.short -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">Vm</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on Vimeo">Vm</a>
 	{%- else -%}
-		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">here on Vimeo</a>
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on Vimeo</a>
+	{%- endif -%}
+{%- elsif parts[2] == "dailymotion.com" or parts[2] == "www.dailymotion.com" -%}
+	{%- if include.short -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer" title="on DailyMotion">Dm</a>
+	{%- else -%}
+		<a href="{{ link }}" target="_blank" rel="noopener noreferrer">on DailyMotion</a>
 	{%- endif -%}
 {%- else -%}
 	{%- if include.short -%}

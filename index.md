@@ -21,7 +21,7 @@ Contributors:
 - [{{ name.name }}]({{name.link}}) - {{name.descriptive}}
 {%- endfor -%}
 
-</div>{%- unless site.data.options.hide_video_links -%}<div>
+</div>{%- unless site.data.options.hide_video_links or true -%}<div>
 
 Video archives:
 - [James Somerton Youtube (2023-12-03)](https://archive.org/details/james-somerton-youtube-2023-12-03) on the Internet Archive
@@ -65,7 +65,7 @@ Video archives:
     {%- unless site.data.options.hide_video_links -%}
       <div class="vidlinks"><a href>Video</a> | <a href>Links</a></div>
     {%- endunless -%}
-    <img class="thumbnail" src="{{ "/media/thumbs/4Nx1aD9Khg0.jpg" | relative_url }}" />
+    <img class="thumbnail" src="{{ "/media/thumbs/example.webp" | relative_url }}" />
   </div>
 </div>
 
@@ -115,8 +115,8 @@ Finished: {{ vids_fin.size }} / {{ site.videos.size }} &nbsp; | &nbsp;  Complete
 <div class="instructions">
   <label><input type="checkbox" id="view-old" /> Show old videos</label>
   <label><input type="checkbox" id="view-pod" /> Show podcast videos</label>
-  <label><input type="checkbox" id="view-umm" /> Show unscripted videos</label>
-  <label style="display:none;"><input type="checkbox" id="view-new" /> Show new videos</label>
+  <label><input type="checkbox" id="view-umm" /> Show meta videos</label>
+  <label><input type="checkbox" id="view-new" /> Show new videos</label>
   <label><input type="checkbox" id="view-done" /> Hide incomplete</label>
 </div>
 <div class="video-list">

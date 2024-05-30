@@ -4,7 +4,7 @@ redirect_from:
 
 date: 2022-06-14
 title: The Queer Sensibilities of Cinema
-status: Auto
+status: In Progress
 aka: !!seq
   - "How The Gays Stole Cinema"
   - "The Mainstreaming of Camp"
@@ -20,6 +20,10 @@ notes:
   - behind-scenes
   - w-nick-james
 
+history:
+  2022-06-14: First published.
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
@@ -30,10 +34,12 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 PATREON: [link]
@@ -125,6 +131,7 @@ To Good Taste?
 
 <!-- # Transcript of "How The Gays Stole Cinema" -->
 
+<compare>
 <james meta fade=out {% include timecode %} id="title-out">
 
 *All About Eve* is a perfect place to start. Like I said, not the first queer icon movie, but one of the first you may hear referenced. A drag queen may refer to someone as an "Eve Harrington", and you may not know what that means. But what they're doing is accusing someone 
@@ -146,7 +153,7 @@ A fandom that upon the movie's release would hang Christina Crawford in effigy. 
 ## Intermission
 
 {% assign timecode = "59:46" %}
-
+<compare>
 <james meta fade=out {% include timecode %} id="ch2-in">
 
 Believe it or not, studio heads *rarely* know what they're doing. Which is how you can have money catapulted at projects like *Cleopatra* or *Mommie Dearest*. 

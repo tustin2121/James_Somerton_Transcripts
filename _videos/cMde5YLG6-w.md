@@ -4,15 +4,19 @@ redirect_from:
 
 date: 2021-08-31
 title: Disney's Gay Cultural Appropriation # ｜ James Somerton
+runtime: 36:00
 status: Auto
 aka: !!seq
   - "No Gays At Disney"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20210831+cMde5YLG6-w+Disney's+Gay+Cultural+Appropriation+%EF%BD%9C+James+Somerton.webm"
   - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Disney's+Gay+Cultural+Appropriation+_+James+Somerton.mp4"
-  - "https://www.youtube.com/watch?v=o9rlnC_EUAE"
 # description: "a video essay on...?"
+
+history:
+  2021-08-31: First published.
+  2023-12-07: Privated post-callout.
 
 cite:
   clips: !!map
@@ -23,7 +27,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2021-08-31" %}>
 
 Disney has always had a problem with LGBT representation… but in the summer of 2021 they took it to a new level.
 
@@ -36,6 +42,7 @@ Disney has always had a problem with LGBT representation… but in the summer of
 {% include chapter-link at="25:48" for="Luca" %}  
 {% include chapter-link at="29:50" for="Real Talk" %}  
 
+</details>
 </credits>
 </compare>
 

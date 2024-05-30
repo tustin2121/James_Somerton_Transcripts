@@ -6,6 +6,7 @@ redirect_from:
 
 date: 2021-12-16
 title: The History of Gay Panic
+runtime: 1:19:40
 status: Auto Script
 aka: !!seq
   - "Irresistible Impulse - The Sad History of the Queer Panic Defense in America"
@@ -21,6 +22,11 @@ notes:
   - hbomb
   - vimeo
 
+history:
+  2021-12-16: First published (digub0QVCho).
+  2022-08-28: Deleted from YouTube, uploaded to Vimeo (701876979).
+  2023-12-07: Deleted post-callout.
+
 cite:
   clips: !!map
   yikes: !!map
@@ -30,30 +36,50 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
-<credits header="Video Description (YouTube Original):">
+{% include meta-history video=page %}
+<credits class="desc">
+<details {% include description-version for="2021-12-16" label="YouTube Upload" %}>
 
 This formerly Patreon exclusive video essay explores the history of the Gay and Trans Panic Defenses in The United States.
 
-00:00 Content Warning
-03:29 Introduction
-08:38 Law Class
-14:30 David Kammerer
-20:18 William T. Simpson
-26:36 Robert Jackson
-34:46 Scott Amedure
-41:23 Matthew Shepard
-50:38 Billy Jack Gaither
-58:36 My Conflict
-01:00:43 Gwen Araujo
-01:07:09 Angie Zapata
-01:11:46 Islan Nettles
+00:00 Content Warning  
+03:29 Introduction  
+08:38 Law Class  
+14:30 David Kammerer  
+20:18 William T. Simpson  
+26:36 Robert Jackson  
+34:46 Scott Amedure  
+41:23 Matthew Shepard  
+50:38 Billy Jack Gaither  
+58:36 My Conflict  
+01:00:43 Gwen Araujo  
+01:07:09 Angie Zapata  
+01:11:46 Islan Nettles  
 
-</credits>
-<credits header="Video Description (Vimeo Reupload):">
+</details>
+<details {% include description-version for="2022-08-28" label="Vimeo Upload" %}>
 
 [None]
 
+</details>
 </credits>
+<comment id="algorithm" {% include commenter for=tustin %}>
+
+James's patreon post about moving the video from YouTube to Vimeo:
+
+> Hey there everyone,
+> 
+> I hope you're having a great weekend! So, as a lot of you know, my YouTube videos haven't been getting the same recommendations or views lately as they used to. Started around January when a lot of my videos, old ones and new ones, started getting hit with the dreaded 18+.
+> 
+> I've been informed by someone who actually has a manager who works with YouTube that when you have multiple 18+ videos on your channel, the algorithm stops recommending your channel to people under 18, and even stops recommending them to people over 18 who don't usually watch 18+ content. But it can possibly be fixed by deleting your 18+ stuff (unlisted and private isn't good enough). So I'm going to do that tonight.
+> 
+> Some of my videos that have been hit are so random, like Part 2 of the Camp video series (even though the full series as one video is perfectly fine), and yet my video about the history of gay porn (which talks about porn, underage porn, and murder) is also perfectly fine. 
+> 
+> Anyway!
+>
+> I don't want you guys going without access to the videos. They wouldn't exist without you. Hell, my channel as a whole wouldn't exist without you! So I've put them up on Vimeo and you can find the links below. Hopefully this will clear up the mess and my channel will go back to normal with the next video? Hopefully? Fingers Crossed.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -186,6 +212,8 @@ The queer panic, or better known as gay or trans panic, defense has been a legal
 </compare>
 
 {% assign timecode = "00:05:18" %}
+
+<!-- LVence: Oh I should probably remind you of this. The first clip James play of news report at like 5 minutes for the gay panic video looks cropped. I can't find the report online so I didn't include it in my highlight. -->
 
 <compare>
 <james {% include timecode %}>

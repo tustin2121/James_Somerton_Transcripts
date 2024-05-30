@@ -16,10 +16,14 @@
 		"Narratively",
 		"pansexual",
 		"polyamorous",
+		"privated",
+		"unprivated",
 		"Somerton",
 		"timecode",
 		"victimhood"
 	],
+	"highlight-bad-chars.asciiOnly": true,
+	// "highlight-bad-chars.additionalUnicodeChars": ["\u2002"],
 	"cSpell.maxNumberOfProblems": 1000,
 	"files.associations": {
         "**/_includes/*": "liquid",
@@ -44,4 +48,6 @@
 		"liquid"
 	],
 	"git.branchProtectionPrompt": "alwaysCommit",
+	"javascript.validate.enable": true,
+	"typescript.validate.enable": true
 }

@@ -4,28 +4,43 @@ redirect_from:
   - "/videos/gQVWepgSvfg" # original upload
   - "/videos/gqvwepgsvfg"
 
-date: 2022-09-19
+prev_ids: [ "gQVWepgSvfg" ]
+date: 2021-05-23
 title: Reclaiming the "Q" Word
+runtime: 39:31
 status: Auto
 aka: !!seq
   - !!str In Defense of "Queer"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Reclaiming+the+Q+Word.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20220919+KXGpVm09GCM+Reclaiming+the+%EF%BC%82Q%EF%BC%82+Word.webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+Reclaiming+the+_Q_+Word.mp4"
   # - "https://web.archive.org/web/20210523190521/https://www.youtube.com/watch?v=gQVWepgSvfg" # Original upload
 # description: "a video essay on...?"
+
+history:
+  2021-05-23: First published (gQVWepgSvfg).
+  2022-09-19: Reuploaded (KXGpVm09GCM).
+  2023-12-07: Privated post-callout.
+
+contributors:
+  # transcription: "[Poe The Salmon Roe](Archive/Transcript for The Queer Normality of Bobs Burgers.txt)"
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vSxxYUNU4KNi9OmQd6qullJp5WHx6uBUWrleOUygoROPIIkLKJyCw0Y6xuw0TSMixxb08I80m0aGBmq/pub
 
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    wiki_pheno: { color: 1, short: "", full: "", url: "https://en.wikipedia.org/w/index.php?title=Phenotype&oldid=1022106186" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-09-19" %}>
 
 *Re-upload*
 
@@ -40,6 +55,7 @@ The Q word is a very contentious one these days. But gay words have always been 
 28:18 Part Six  
 34:36 Part Seven  
 
+</details>
 </credits>
 </compare>
 
@@ -261,6 +277,14 @@ when it came to documenting women in general we're missing information on that
 front so we can't really speak to it secondly information about early lesbians
 kind of results in men not really being willing to talk about it in the legal
 case of Radcliffe Hall she in her book The Well of Loneliness depicted World War
+
+<comment {% include commenter for=lvence %}>
+
+[TODO]
+A good article on why English laws do not ban lesbianism on the book. I think this fits in debunking the Radclyffe Hall remark. TLDR the legislators really didn't want their wives and daughter to find out about lesbianism, but still punish it under different legal offenses. https://www.open.edu/openlearn/society-politics-law/law/lesbianism-and-the-criminal-law-england-and-wales
+
+</comment>
+
 One ambulance drivers as being primarily lesbians English courts were really not
 pleased with this depiction but women who love women with such an uncomfortable
 topic for them they threw her case out of the courts and just let her carry on

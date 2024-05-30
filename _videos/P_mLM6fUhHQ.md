@@ -11,7 +11,7 @@ redirect_from:
 
 date: 2020-12-04
 title: "CODEBREAKERS: Queer film theory (and why it matters)"
-runtime: 0
+runtime: 44:43
 status: Complete
 aka: !!seq
   - "Queering Cinema (by any means necessary)"
@@ -23,12 +23,18 @@ topics: !!seq
   - The Imitation Game / Rent
   - The Favorite
 links: !!seq
-  - "https://www.youtube.com/watch?v=i_ElaGEfcxg"
+  - "https://web.archive.org/web/20201204124414/https://www.youtube.com/watch?v=P_mLM6fUhHQ&gl=US&hl=en"
 description: "a video essay on film theory, heteronormativity, erasure, and historian memes taken too seriously, all presented in the CinemaScope aspect ratio because we're being pretentious today."
 notes:
   - hbomb
   - visual
   - w-james-nick
+
+history:
+  2020-11-24: Teased on Patreon.
+  2020-12-04: First published.
+  2022-12-22: Video removed for unknown reason.
+  # 2023-12-07: Privated post-callout.
 
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=i_ElaGEfcxg)"
@@ -36,6 +42,13 @@ contributors:
   citation-plus: 
     - $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vR3mq0zwqGEIXnqZ8A8lMb7OrYlaQxrOdZ1FK-7TtxqqL-Lsq4KRiedV3lW9ahtrTKbUCHWxtdoWBeu/pub
     - $cite$penguinstorage
+  citation:
+    - $ref$sobbing$https://discord.com/channels/1180822793420554241/1180822793420554244/1207300957063618650
+  factcheck:
+    - "[HardyRoach](https://discord.com/channels/224921177532006400/1181019607604133938/1209464594834395157) from the HBomberGuy Discord"
+
+recs:
+  - { title: "New Queer Cinema: The Director's Cut", author: "B. Ruby Rich", url: "https://www.jstor.org/stable/j.ctv11hpp0s", desc: "The author that James third-hand plagiarized about in this video." }
 
 cite:
   clips: !!map
@@ -52,12 +65,14 @@ cite:
     women_prosecuted: "James claims that women weren't prosecuted for being gay, which is just outright untrue."
   other: !!map
     torrid: "James doesn't know what the word 'torrid' actually means."
+    film_handout: "HBomberGuy's video called out a section of this video where James was just reading several wikipedia pages on film theory. HBomberGuy actually gave James too much credit here; James was lazier. He copied instead from a Film Theory 101 class handout, which in turn copied from Wikipedia."
   plagiarized: !!map
     film_class:
       color: 4
       short: "(DaVega, 2016)"
       full: "DaVega, S.W. (2016). Film Theories Handout in <em>FILMST 101 - Intro to Film Studies</em> [Class materials]. Santa Barbara City College."
       url: "https://soma.sbcc.edu/users/davega/xNON_ACTIVE_CLASSES/FILMST_101/04_FILM_THEORIES/FilmTheories.pdf"
+      archive: "https://web.archive.org/web/20240219184030/"
       chain:
         _desc_: "which took overviews from..."
         wiki_theory: 
@@ -97,15 +112,42 @@ cite:
           full: "Wikipedia. (2009, Mar 17). <em>Psychoanalytic film theory</em> [Article]."
           url: "https://en.wikipedia.org/w/index.php?title=Psychoanalytic_film_theory&oldid=277910836"
         semiotic:
-          full: "Unknown. (Unknown). <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Chapter]. In (unknown book)."
-          url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          full: "Beach, R. (2006). Semiotic Theory [Section]. In <em>Module 4: Critical Approaches to Responding to Media Texts</em> [Class module]. On website for <em>CI5472 Teaching Film, Television, and Media</em> Class, University of Minnesota, Twin Cities campus."
+          # url: "https://www.studocu.com/row/document/universite-sidi-mohamed-ben-abdellah-de-fes/cinema/ch04-critical-approaches-to-responding-to-media-texts/46426745"
+          url: "http://www.tc.umn.edu/~rbeach/teachingmedia/module4/4.htm"
+          archive: "https://web.archive.org/web/20130302070542/"
+          offline: true
     plato_stanford: { color: 2, short: "Stanford Encyclopedia (Pickett, 2020)", full: "Pickett, B. (2020). Homosexuality. In <em>The Stanford Encyclopedia of Philosophy</em> (Summer 2020 Edition). Zalta, E.N. (Editor). Metaphysics Research Lab, Stanford University. Retrieved Jan 27, 2024, from", url: "https://plato.stanford.edu/archives/sum2020/entries/homosexuality/" }
-    gay_erased: { color: 5, short: "Midlands Zone Magazine (Spinks, 2019)", full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17.", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
+    gay_erased: 
+      color: 5
+      short: "Midlands Zone Magazine (Spinks, 2019)"
+      full: "Spinks, S. (2019, March). Gay Erased. In This Gay Live: The Stephen Spinks Column. <em>Midlands Zone</em>(Issue 263), pages 16-17."
+      url: "https://www.midlandszone.co.uk/features/homophobic-erasure-the-cull-of-lgbtq-presence-from-history/64"
+      archive: "https://web.archive.org/web/20210127145049/"
+      chain:
+        _desc_: "Midlands Zone Magazine succumbed to the pandemic, so here's alternate methods of accessing content:"
+        issuu: { full: "via Issuu.com. Retrieved Jan 27, 2024, from", url: "https://issuu.com/midlands-zone/docs/midlands_zone_march_2019/16" }
     achilles: { color: 7, short: "Academus Education (Jani, 2020)", full: "Jani, R. (2020, June 24). <em>Achilles and Patroclus: The erasure of LGBT+ history</em>. Academus Education. Retrieved Jan 27, 2024, from", url: "https://www.academuseducation.co.uk/post/achilles-and-patroclus-the-erasure-of-lgbt-history-by-reyna-jani" }
-    wiki_queer_cinema: { color: 8, short: "New queer cinema (Wikipedia, 2020)", full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article].", url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524" }
     ff2media: { color: 9, short: "(Plys-Garzotto, 2018)", full: "Plys-Garzotto, G. (2018, Dec 27). <em>'The favourite' queers the past and the present</em> [Article]. FF2 Media.", url: "https://ff2media.com/blog/2018/12/26/the-favourite-queers-the-past-and-the-present/", archive: "https://web.archive.org/web/20210121203358/" }
+    film_ref_queer: { color: 3, short: "Queer Theory (Film Reference, n.d.)", full: "<em>Queer Theory</em> [Encyclopedia entry]. (n.d.). Film Reference. Advameg, Inc", url: "http://www.filmreference.com/encyclopedia/Independent-Film-Road-Movies/Queer-Theory.html", archive: "https://web.archive.org/web/20200702185638/" }
+    movie_mezzanine: 
+      color: 1
+      short: "(Turner, 2015)"
+      full: "Turner, K. (2015, Feb, 20). <em>Coded Switch: “The Imitation Game” and The Queer Film</em> [Article]. Movie Mezzanine. Retrieved Feb 14, 2024, from"
+      url: "http://moviemezzanine.com/the-imitation-game-and-the-queer-film/"
+      archive: "https://web.archive.org/web/20230923004927/"
+      chain: 
+        _desc_: "which quotes..."
+        wiki_queer_cinema: 
+          color: 8
+          short: "New queer cinema (Wikipedia, 2020)"
+          full: "Wikipedia. (2020, Nov 29). <em>New queer cinema</em> [Article]."
+          url: "https://en.wikipedia.org/w/index.php?title=New_queer_cinema&oldid=991242524"
+          chain:
+            _desc_: "which summarizes..."
+            _: { full: "Rich, B.R. (1992, Sep). New Queer Cinema [Article]. In <em>Sight & Sound Magazine</em> (September 1992 issue). (Originally published in <em>The Village Voice</em>, 1992.) Retrieved Feb 14, 2024, from", url: "https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/features/new-queer-cinema-b-ruby-rich" }
     mako_visual: { color: 12, short: "Mako x Wu (MoonFlower, 2020)", full: "MoonFlower (2020, Apr 8). <em>(Wuko) Crush (Mako x Wu)</em> [Music video]. YouTube.", url: "https://www.youtube.com/watch?v=1c-Km4I4bqA" }
-    visual_composition: { color: 13, short: "", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
+    visual_composition: { color: 13, short: (The Cinema Cartography, 2016)"", full: "The Cinema Cartography. (2016, Jan 22). <em>Composition In Storytelling</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=CvLQJReDhic" }
     thumbnail: { color: 1, short: "Artwork (ewasarts, 2017)", full: "ewasarts (Artist). (2017, Jul 22). <em>Stormpilot</em> [Artwork]. Retrieved Jan 29, 2024, from", url: "https://www.deviantart.com/ewasarts/art/Stormpilot-694082207" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -128,6 +170,7 @@ This thumbnail is [uncredited, stolen artwork](https://www.deviantart.com/ewasar
 </from>
 </compare>
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 A look into what Film Theory is... what Queer Theory is... and why it does matter, actually.
@@ -404,8 +447,7 @@ Today there are many different schools of film theory. So let's talk about them:
 <mark>During the 1990s the digital revolution in image technologies has had an impact on film theory in various ways. There has been a refocus onto celluloid film's ability to capture an indexical image of a moment in time by theorists like Mary Ann Doane, Philip Rosen and Laura Mulvey</mark> who was informed by psychoanalysis. From a psychoanalytical perspective, after the Lacanian notion of the Real, Slavoj Žižek offered new aspects of the gaze extensively used in contemporary film analysis. There has also been a historical revisiting of early cinema screenings, practices and spectatorship modes by writers Tom Gunning, Miriam Hansen and Yuri Tsivian.
 
 </from>
-<comment>
-{% include header for=tustin %}
+<comment id="film_handout" {% include commenter for=tustin %}>
 
 Note: The following sections are still using the university handout as a source, but the university handout is using wikipedia as a source. See the top of the page for the full plagiarism chain.
 
@@ -462,7 +504,7 @@ Note: The following sections are still using the university handout as a source,
 
 </james>
 <from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
-<h3 style="font-weight:700;">formalist film theory</h3>
+<h3 style="font-weight:700;">feminist film theory</h3>
 
 <mark>Feminist film theory is the theoretical film criticism derived from feminist politics and feminist theory. Feminists have many approaches to cinema analysis, regarding the film elements analysed and their theoretical underpinnings. The development of feminist film theory was influenced by second wave feminism and the development of women's studies within the academy. Feminist scholars began applying the new theories arising from these movements to analyzing film. Initial attempts in the United States in the early 1970’s were generally based on sociological theory and focused on the function of women characters in particular film narratives or genres and of stereotypes as a reflection of a society's view of women.</mark> Works such as Marjorie Rosen’s Popcorn Venus: Women, Movies, and the American Dream (1973) and Molly Haskell’s From Reverence to Rape: The Treatment of Women in Movies (1974) analyzed how the women portrayed in film related to the broader historical context, the stereotypes depicted, the extent to which the women were shown as active or passive, and the amount of screen time given to women.[1]
 
@@ -474,7 +516,7 @@ Note: The following sections are still using the university handout as a source,
 <mark>Auteur theory</mark> in film <mark>holds that a director's film reflects that director's personal creative vision, as if he were the primary auteur, the French word for "author". In some cases, film producers are considered to have a similar auteur role for films that they have produced</mark>, such as David Os Selnick and Kevin Feige. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 14" %}>
+<from {% include citation for=page.cite.plagiarized.film_class at="Types¶ 15" %}>
 <h3 style="font-weight:700;">auteur theory</h3>
 
 In film criticism, the 1950s-era <mark>Auteur theory</mark> <mark>holds that a director's films reflect that director's personal creative vision, as if he were the primary "Auteur" (the French word for "author"). In some cases, film producers are considered to have a similar "Auteur" role for films that they have produced</mark>. In law the Auteur is the creator of a film as a work of art, and is the original copyright holder. Under European Union law the film director shall always be considered the author or one of the authors of a film. [1] Auteur theory has had a major impact on film criticism ever since it was advocated by film director and film critic François Truffaut in 1954. "Auteurism" is the method of analyzing films based on this theory or, alternately, the characteristics of a director's work that makes him an Auteur. Both the Auteur theory and the Auteurism method of film analysis are frequently associated with the French New Wave and the film critics who wrote for the influential French film review periodical Cahiers du cinéma.
@@ -494,10 +536,15 @@ So it's clear that there are many ways of examining film in a critical way. not 
 <compare>
 <james {% include timecode %}>
 
-Originating in the early 1990s, the school of thought called "Queer Theory" compromises<sup class="add">[sic: comprises]</sup> a diverse body of intellectual inquiry. It holds that specific psychological, political, and cultural codes have elevated heterosexuality to the status of a sexual given. A man or woman can automatically be assumed to be cisgender and heterosexual. Differences in gender and sexuality are modifications on what is considered to be a given. He isn't just a *man*, he is a *gay man*. Straight is the default, and furthermore, straight is the objective. 
+<mark>Originating in the early 1990s,</mark> the school of thought called <mark>"Queer Theory" compromises<sup class="add">[sic: comprises]</sup> a diverse body of intellectual inquiry. It</mark> holds <mark>that specific psychological, political, and cultural codes have elevated heterosexuality to the status of a sexual given.</mark> A man or woman can automatically be assumed to be cisgender and heterosexual. Differences in gender and sexuality are modifications on what is considered to be a given. He isn't just a *man*, he is a *gay man*. Straight is the default, and furthermore, straight is the objective. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.film_ref_queer at="¶ 1" %}>
+<h2>Queer Theory</h2>
+
+<mark>Originating in the early 1990s,</mark> <mark>queer theory comprises a diverse body of intellectual inquiry. It</mark> takes as its premise the notion <mark>that specific psychological, political, and cultural codes have elevated heterosexuality to the status of a sexual "given."</mark> By revealing these codes and exposing their limitations, along with the unstable foundations upon which they operate and sustain their power, queer theory aims to "undo" the heterosexual norm, and to extend the power of cultural presence and voice to sexually marginalized groups who do not adhere to the workings of heteronormativity. A "queer" perspective, then, is attentive to a multiplicity of sexual codes that operate in the products of cultural institutions, and does not privilege heterosexual codes as natural or authoritative. The designation of "queer" is itself a form of empowerment, through which a disenfranchised subculture has taken charge of a term that dominant heterosexual culture has used historically as a derogatory label. 
+
+</from>
 </compare>
 
 <compare>
@@ -568,10 +615,9 @@ But other movies require a bit more digging. In [Evil Queens](Qvu84kjtGvE), I ta
 
 </james>
 <from></from>
-<comment>
-{% include header video=hbomb at="1h59m18s" %}
+<comment {% include commenter video=hbomb at="1h59m18s" %}>
 
-> And everyone clapped.
+And everyone clapped.
 
 </comment>
 </compare>
@@ -679,18 +725,29 @@ Or even something like The Lovers Of Me'dia<sup>1</sup>, petrified, holding hand
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And speaking of roommates, what about the *inexplicable mysteries* we will never *truly know the answers to*, like why [Lady Elanor Butler and Sarah Ponsonby](https://en.wikipedia.org/wiki/Ladies_of_Llangollen) would run away from their marriage arrangements, moved <del>to</del> Wales, and adopt a small dog they affectionately named... *Sapphos*. (Mysteries... we will never know...)
 
 And what about Abraham Lincoln, <mark fc=false>who shared his bed with his bodyguard for his entire tenure in The White House.</mark> Surely it was just a matter of different times. Times were different back then. Men expressed manliness in different ways! It was just different times, folks! Different times! No homo president!
 
 </james>
-<comment id="lincoln">
-{% include header for=lvence %}
+<comment {% include commenter for=lvence %}>
 
 There is an entire article [about Lincoln and his bodyguard](https://quod.lib.umich.edu/j/jala/2629860.0027.205/--did-abraham-lincoln-sleep-with-his-bodyguard-another-look-at?rgn=main;view=fulltext). At the very least, James is wrong about them sharing a bed for Lincoln's whole tenure in office. C. A. Tripp, the original author of this claim, states Derrickson was Lincoln's companion from September 1862 to April 1863.
 
+</comment>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209464594834395157" %}>
+<details>
+<summary>This bit gets on my nerves as a former historian.</summary>
+
+Yes there are instances in which historians have been willfully obtuse about the presence of a possibly homosexual relationship. But this flippant, sarcastic "oh lol things were different back then SUUUUUUURE" is just idiocy. Yes, things were different. The past is a foriegn country with extremely different cultural and social expectations and assumptions. If you go into reading history with a purely modern mindset you will constantly misread stuff. Reading primary sources requires a huge amount of contextual understanding to avoid this kind of shoddy assumption.
+
+The more modern reason why it's rare for historians to make confident judgements on the sexuality of historical figures is that there's rarely enough evidence to be remotely confident about it. Turns out people didn't write down "yes I like having sex with men" in a time when A. Even the concept of homosexuality was not culturally common, and B. Admitting to it could end your career and very probably your life.
+
+[...] There are occasional cases where it's pretty cut and dry. But most of the time it can only ever be speculation based on limited evidence, and generally speaking idle speculation is to be avoided in academic work. In the worst case it's speculation based on a limited understanding of cultural context, like with Lincoln. Surprise, people didn't have so many hangups about sharing beds in a time where central heating didn't exist (for most people) and families commonly all lived in one room. 
+
+</details>
 </comment>
 <james {% include timecode %}>
 
@@ -705,7 +762,7 @@ But why is it so hard to believe that a Viking society, who believed that a god 
 <compare>
 <james {% include timecode %}>
 
-And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
+And on the topic of mythology, many classical scholars<sup cn></sup> like to gloss over and rewrite myths to have a straight leaning. <mark stat:id="malaprop" fc=false>Heracles's torrid of male lovers</mark> are mostly forgotten about. Or Achilles, who by most mythological accounts, preferred men exclusively. Not that you'd know it; from nearly a thousand years the scholar is desperately trying to rearrange all of Hellenic culture to invent this kind of masculinity where straight men can just be *that close*. 
 
 </james>
 <comment id="torrid">
@@ -823,13 +880,18 @@ Though an interesting observation of our own recorded history is how casually hi
 
 </james>
 <from></from>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Food for thought: the term "companion" in history almost *always* was used to describe romantic or sexual relations,<sup cn></sup> not "buds" or "gal pals". That's why the movie *Long-Term Companion* is called that and not "Long-Term Friend With Benefits". 
 
 It's almost as if our ancestors never really expected homophobia or sex-phobia to be a serious issue. Instead we have to dig through implications, through innuendo, through double-entendres that were meant to be dirty jokes, that somehow survived over centuries, but whose double meanings can be dismissed as... just being from a different time. We have to dig. Maybe not because our ancestors saw same-sex relations and gender non-conformity as *shameful*. But instead because they took all of it completely for granted.
 
 </james>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209467570315329617" %}>
+
+This is complete ahistorical nonsense.
+
+</comment>
 <from></from>
 </compare>
 
@@ -927,11 +989,16 @@ James talks as though this is all in the past but [at least 40 countries worldwi
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 This is a pivotal distinction in how sexuality was observed before and after the development of clinical psychology. But extrapolate this mindset to pre-Christian societies, which had *no* stigma against queerness, and you kind of get this fantasy land where... people are people and sometimes they like men, and sometimes they like women, and... some cultures also didn't really care much for the distinction between *either of those either*. 
 
 </james>
+<comment {% include commenter name="HardyRoach" link="https://discord.com/channels/224921177532006400/1181019607604133938/1209468808973131818" %}>
+
+This whole section [this box and the next four] is using a few legal technicalities to present historical societies as substantially more egalitarian than they actually were. Classic first-year history student stuff.
+
+</comment>
 <from></from>
 <james {% include timecode %}>
 
@@ -993,16 +1060,20 @@ However, <mark>with the absence of explicit evidence of graphic sexual activity 
 
 <mark>To some</mark> historians, <mark>it is the love that launched a thousand warriors, and representation that survived the test of time. To other</mark> more pigheaded historians, <mark>it is</mark> nothing but a <mark>friendship</mark>. A very good friendship. A friendship which was very... beneficial.
 
+</james>
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 2" %}>
+
+<mark>To some</mark>, <mark>it is the love that launched a thousand warriors and a representation that survived the test of time. To others</mark>, <mark>it is</mark> the intimate <mark>friendship</mark> which brought the wrath of Achilles upon the Trojan walls. But how has homophobia influenced the reading of the Iliad? 
+
+</from>
+<james {% include timecode %}>
+
 <mark>However, looking at the relationship between Achilles and Patroclus, scholars</mark> <mark num=6>have discussed</mark> <mark num=7>over the years</mark> <mark>whether their relationship *matches* with our understanding of homosexuality today. Many scholars argue that Greeks do not have the same sex labels as we do now. Many claimed that Homer's treatment of the relationship between Achilles and Patroclus in the Iliad is ambiguous. It's not clear if they were lovers who slept together or just "best friends who shared the same bed".</mark> <u>[Ironic stretching, forced smile]</u>
 
 <mark>So how did this affect the current representation of the pair?</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.achilles at="¶ 2-4" %}>
-
-<mark>To some</mark>, <mark>it is the love that launched a thousand warriors and a representation that survived the test of time. To others</mark>, <mark>it is</mark> the intimate <mark>friendship</mark> which brought the wrath of Achilles upon the Trojan walls. But how has homophobia influenced the reading of the Iliad? 
-
-Pederasty was an ancient custom wherein an erastes (an older male in his mid-to-late twenties) and an eromenos (a younger male past puberty but under the age of eighteen) would partake in the pleasures of an intellectual and/or sexual relationship. This was seen to be beneficial to Greek society since the erastes ideally had a teacher-like relationship with the eromenos. This was modelled in the relationship of Zeus and Ganymede, which was ideal due to their age difference; Ganymede was a beautiful boy, granted immortality in exchange for entertaining Zeus.  
+<from {% include citation for=page.cite.plagiarized.achilles at="¶ 4" %}>
 
 <mark>However, when examining the relationship between Achilles and Patroclus, scholars</mark> <mark num=7>over the centuries</mark> <mark num=6>have debated</mark> <mark>whether their relationship fits with our conception of homosexuality today – many scholars argue that the Greeks did not have the same labels for sexuality that we do now. Many argue that Homer’s treatment of Achilles and Patroclus’ relationship in the Iliad is ambiguous. It is unclear whether they were lovers who slept together, or were simply best friends that shared a tent.</mark> <mark>So, how has this influenced modern depictions of the pair?</mark> 
 
@@ -1081,45 +1152,36 @@ Some <mark>recent stories tended to portray Achilles and Patroclus's relationshi
 <compare>
 <james span=2 {% include timecode %}>
 
-As a film, *The Imitation Game* is... fine. Conventional but not painful to watch. A plethora of critics, queer and not, determined that the film's a safe *desexualized* version of Turing's life at a singular moment, possibly implying that it was a desexualization of Turing himself. The Daily Beast's Tim Teeman argues that the film is <q>one big gay lie</q>, saying:
+<mark num=1>As a film, *The Imitation Game* is... fine. Conventional but not painful</mark> to watch.<mark num=2> A plethora of critics, queer and not, determined that the film's a safe *desexualized* version of Turing's life at a singular moment, possibly implying that it was a desexualization of Turing himself.</mark> <mark num=3>The Daily Beast's Tim Teeman argues that the film is <q>one big gay lie</q>, saying</mark>:
 
-> <mark></mark>"<span stat:id="changed-quote">The film</span> winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen."
+> <mark num=4></mark>"<mark fc stat:id="changed-quote">The film</mark> winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen."
 
-Gawker accused the film of cowardice, writing:
+Gawker <mark num=5>accused the film of cowardice, writing</mark>:
 
-> <mark></mark>"*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest."
-
-The vitriol thrown toward *The Imitation Game* made me consider films with queer characters that were not queer films, and conversely films with straight characters (or at least a lack of queer ones) and yet, they still fit within the categorization of "queer". There's a *lot* of movies with peripheral and incidental queer characters where identity and sexuality aren't at the forefront. 
+> <mark num=6></mark>"*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest."
 
 </james>
-<from>
-<header></header>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 1-2" %}>
 
-The Imitation Game <mark>winds up feeling like one of those films where the real story, in this case Turing's personal life, is happening off-screen.</mark> The producers clearly made a decision not to extensively feature his adult private life.
+<mark num=1>As a film, *The Imitation Game* is fine: a conventional, but not unenjoyable</mark> little biopic. Benedict Cumberbatch’s performance is distracting, the use of archival footage is sort of atrocious, but it’s suspenseful like a BBC movie, which is fine by me. But I’m less interested in it as a biopic and more as a queer film.<mark num=2> A plethora of critics, queer and not, have determined that the film’s a safe, desexualized version of Turing’s life at this moment, possibly implying that it was a de-sexualization of Turing himself.</mark>
 
-<footer>Teeman, T. (2015, Feb 3). <em>The Imitation Game’s Big Gay Lie</em> [Article]. The Daily Beast. (¶ 26) <a href="https://www.thedailybeast.com/the-imitation-games-big-gay-lie">https://www.thedailybeast.com/the-imitation-games-big-gay-lie</a></footer>
+[Rich Juzwiak at Gawker](http://gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712) <mark num=5>accuses the film of cowardice, writing</mark>, <mark num=6>“*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing’s life because it follows a gay man during a time when the revelation of such details could lead to his arrest.”</mark> <mark num=3>[The Daily Beast’s Tim Teeman](http://www.thedailybeast.com/articles/2015/02/03/the-imitation-game-s-big-gay-lie.html) argues that the film is one “Big Gay Lie”, saying</mark>,<mark num=4> “[The film] winds up feeling like one of those films where the real story, in this case Turing’s personal life, is happening off-screen.”</mark> But it’s Mark Harris, author of Pictures at a Revolution and an Editor-at-Large of Entertainment Weekly, who brings me to my main argument, [tweeting](https://twitter.com/MarkHarrisNYC/status/563580972764266496):
+
+> Mark Harris | @MarkHarrisNYC  
+The Imitation Game is what happens when homosexuality is understood as first a plot device, only secondarily a human reality.
+
+
+<footer>
+
+- Juziak, R. (2014, Nov 26). <em>But Is It Gay Enough?: The Imitation Game</em> [Article]. Gawker. (¶ 13) <a href="https://web.archive.org/web/20230205211059/https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712">https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712</a>
+- Teeman, T. (2015, Feb 3). <em>The Imitation Game’s Big Gay Lie</em> [Article]. The Daily Beast. (¶ 26) <a href="https://www.thedailybeast.com/the-imitation-games-big-gay-lie">https://www.thedailybeast.com/the-imitation-games-big-gay-lie</a>
+
+</footer>
 </from>
-<from mark=cont>
-<header></header>
-
-<mark>*The Imitation Game* thinks it can get away with skirting the more salacious details of Turing's life because it follows a gay man during a time when the revelation of such details could lead to his arrest.</mark> Though Cumberbatch's Turing is, in some scenes, more matter of fact about his sexuality than you might expect given the social climate, *The Imitation Game* undersells him there, too. Hodges again:
-
-<footer>Juziak, R. (2014, Nov 26). <em>But Is It Gay Enough?: The Imitation Game</em> [Article]. Gawker. (¶ 13) <a href="https://web.archive.org/web/20230205211059/https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712">https://www.gawker.com/but-is-it-gay-enough-the-imitation-game-1663663712</a></footer>
-</from>
-</compare>
-
-<compare>
-<james {% include timecode %}>
-
-Ironically, it's *RENT*, despite its multiple queer characters, seems to be one of the *least* queer films I've ever seen. Even as a teenager, though I *adored* the message of "No Day But Today", I barely acknowledged it as a *queer* musical. How could I, after having seen *Hedwig and The Angry Inch* five-thousand times. *RENT* screenwriter Stephen Chbosky and director Chris Columbus's notions of queerness seem... limited. 
-
-The queer characters on display, regardless of whether they're given a song or not, are really secondary to the Gen X whining of extremely flawed straight characters like Mark, Roger, and Mimi. Instead it's articulated expositionally in tracks like "Tango Maureen", <mark>where the bisexual Maureen is described as being the sluttiest slut in all of slutdom, because bisexual.</mark> And "I'll Follow You", where queer couple Angel and Collins sing about the near-fantasy life they hope to have together after escaping New York, and assumedly AIDS. 
-
-</james>
 <comment>
 {% include header for=tustin %}
 
-This bit feels a lot like Lindsay Ellis's video on RENT, [specifically her line (at 6:37)](https://youtu.be/q0qfFbtIj5w?t=393) "This is also one of the rare representations of a bisexual character, although she, of course, is the Slutty McSlutter-Slutterson who wants to slut it up with every living human, because 'bi.'" Lindsay also talks about the Gen X whining (not those words specifically), and mentions the filming of "I'll Follow You". But I don't know if this is enough to condemn this whole segment for plagiarizing it.
+James's removal of the square brackets from the quote he's plagiarizing from effectively changes the quote.
 
 </comment>
 </compare>
@@ -1127,35 +1189,38 @@ This bit feels a lot like Lindsay Ellis's video on RENT, [specifically her line 
 <compare>
 <james {% include timecode %}>
 
-But even these are products of Jonathan Larson and not the filmmakers. It ends up being more queer-adjacent than queer in-and-of-itself. Something to consider when using the phrase "queer-adjacent" is "who is this film for?" *RENT* is for straight people, mostly, and it shows in its depictions of its queer characters as a palatable and watered down version of queerness, especially as they compare to the *real world* queers of New York at the time &mdash; contemporaries to the characters in *Pose*. 
-
-*RENT* deals with heavy subjects &mdash; AIDS, addiction, homelessness &mdash; but without much complexity. And it's mostly presented in an asexual way. That's fine in the mid 1990s when the musical was produced, but almost three decades later the depiction, at least with regard to the lack of nuance, feels dated. Who was *RENT* for originally? The dominant culture. As a way of elevating visibility. So these pieces of text were not made with a queer audience in mind. At least not at the forefront.
+<mark>The vitriol thrown toward *The Imitation Game* made me consider films with queer characters that were not queer films, and conversely films with straight characters (or at least a lack of queer ones) and yet, they still fit within</mark> <mark x>the categorization of "queer".</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 4" %}>
+
+These are all, I know, abstract questions that come down to different theories regarding film and queerness, and whose answers are much murkier than one would probably like. <mark>The vitriol thrown toward *The Imitation Game* made me consider films with queer characters that were not queer films and, conversely, films with straight characters, or at least a lack of queer ones, and yet still fit within</mark> <mark x>that vague cinematic categorization.</mark> For the latter, it’s easy to look towards the work of Todd Haynes: an out filmmaker to be sure, his depictions of queerness exist primarily in *Far From Heaven*, *Poison*, and *Velvet Goldmine*. Yet, monumental films like *[SAFE]* and *Mildred Pierce* still qualify as piece of queer texts. Part of this is that both texts serve allegorical purposes: both Julianne Moore’s and Kate Winslet’s characters are adrift and othered in the culture they should hypothetically belong in; Moore even becomes *allergic* to it.
+
+</from>
 </compare>
 
 <compare>
 <james span=2 {% include timecode %}>
 
-Frankly, it doesn't feel like *The Imitation Game* was either. Despite how much it was touted as a queer film around Oscar season, the writer very bluntly said he did not write a gay movie. To come down on a more concrete definition of queer cinema, one may merely look at critic B. Ruby Rich. She described queer cinema as being able to articulate the--
+<mark>There's a *lot* of movies with peripheral and incidental queer characters where identity and sexuality aren't at the forefront.</mark> 
 
-> "<mark stat:id="made-quote">gay, lesbian, bisexual, and transgender identity and experience, as well as a form of sexuality that is fluid and subversive in comparison to traditional understandings of sexuality.</mark>"
+<mark>Ironically, it's *RENT*, despite its multiple queer characters, seems to be one of the *least* queer films</mark> I've ever seen. Even as a teenager, though I *adored* the message of "No Day But Today", I barely acknowledged it as a *queer* musical. How could I, after having seen *Hedwig and The Angry Inch* five-thousand times. <mark>*RENT* screenwriter Stephen Chbosky and director Chris Columbus's notions of queerness seem... limited.</mark> 
 
-As well as heteronormativity. Basically it comes down to the character's lived experience. 
+<mark>The queer characters on display, regardless of whether they're given a song or not, are</mark> really secondary to the Gen X whining of extremely flawed straight characters like Mark, Roger, and Mimi. Instead <mark>it's articulated expositionally in tracks like "Tango Maureen"</mark>, <mark fc>where the bisexual Maureen is described as being the sluttiest slut in all of slutdom, because bisexual.</mark> <mark>And "I'll Follow You",</mark> where queer couple Angel and Collins sing about the near-fantasy life they hope to have together after escaping New York, and assumedly AIDS. 
 
-So where does *The Imitation Game* fit in this? That's the funny thing: the film occupies an ambiguous limbo. Perhaps best described as a film that *desperately* wants to qualify as queer (the Oscars do love them some gays), but doesn't know how to do it right. Some of the ingredients are there, but they feel half baked. Alan Turing is *gay*... but... we only know this because of history. 
+But even these are <mark>products of Jonathan Larson and not the filmmakers. It ends up being more queer-adjacent than queer in-and-of-itself.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.wiki_queer_cinema at="¶ 1" %}>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 6" %}>
 
-**"New Queer Cinema"** is a term first coined by the academic B. Ruby Rich in *Sight & Sound*<sup>[1]</sup> magazine in 1992 to define and describe a movement in queer-themed independent filmmaking in the early 1990s. The term developed from use of the word queer in academic writing in the 1980s and 1990s as an inclusive way of describing <mark>gay, lesbian, bisexual and transgender identity and experience, and also defining a form of sexuality that was fluid and subversive of traditional understandings of sexuality.</mark> The major film studio to discuss these issues was aptly named New Line Cinema with its Fine Line Features division. Since 1992, the phenomenon has also been described by various other academics and has been used to describe several other films released since the 1990s. Films of the New Queer Cinema movement typically share certain themes, such as the rejection of heteronormativity and the lives of LGBT protagonists living on the fringe of society.<sup>[2][3]</sup>
+<mark>There are plenty of films with peripheral, casual, and incidental queer characters without delving into ideas of identity or sexuality.</mark> <mark>Ironically, it’s Rent that, despite its heavy presence of queer characters, seems the least queer as a film</mark>. This is nothing on the musical, but <mark>screenwriter Stephen Chbosky and director Chris Columbus’s notion of queerness seems limited</mark> in relatively conventional terms and subsequent depictions. <mark>The queer characters on display, regardless of whether they’re given a song or not, are</mark> less inclined to investigate aspects of queerness that are, though conceptual, easily identifiable, like desire. <mark>It’s articulated expositionally in tracks like “Tango Maureen”</mark> <mark>and “I’ll Follow You”,</mark> <mark>products of Jonathan Larson and not the filmmakers. It ends up being more “queer-adjacent” than queer in and of itself.</mark>
+
 
 </from>
 <comment>
 {% include header for=tustin %}
 
-Once again, James fabricates a quote from something that isn't a quote at all.
+This bit feels a lot like Lindsay Ellis's video on RENT, [specifically her line (at 6:37)](https://youtu.be/q0qfFbtIj5w?t=393) "This is also one of the rare representations of a bisexual character, although she, of course, is the Slutty McSlutter-Slutterson who wants to slut it up with every living human, because 'bi.'" Lindsay also talks about the Gen X whining (not those words specifically in this video; she has used those words in other videos), and she talks about the filming of "I'll Follow You".
 
 </comment>
 </compare>
@@ -1163,7 +1228,78 @@ Once again, James fabricates a quote from something that isn't a quote at all.
 <compare>
 <james {% include timecode %}>
 
-It's interesting that so many commentators have been vocal about the sex, or lack thereof, in *The Imitation Game*, which raises the question of how one should approach sexuality. On one side, there are aged representations of queer men as being basically asexual (*Philadelphia*, *Will and Grace*) beings that are never given the opportunity to desire, or act on desire, really. Conversely some media appears to be working toward a *normalization* of queerness, such as the show *Shameless*, which features gay characters in its main ensemble, an FTM love interest, and an underlying sense of pansexuality running through a great number of the cast of characters. 
+<mark>Something to consider when using the phrase "queer-adjacent" is</mark> <mark>"who is this film for?" *RENT* is for straight people, mostly, and it shows in its depictions of its queer characters as a palatable and watered down version of queerness,</mark> especially as they compare to the *real world* queers of New York at the time &mdash; contemporaries to the characters in *Pose*. 
+
+*RENT* <mark>deals with heavy subjects &mdash; AIDS, addiction, homelessness &mdash; but without much complexity. And it's mostly presented in an asexual way</mark>. <mark>That's fine in the mid 1990s when the</mark> <mark>musical was produced, but</mark> almost three <mark>decades later the depiction, at least with regard to the lack of nuance, feels dated. Who was *RENT* for originally? The dominant culture. As a way of elevating visibility. So these pieces of text were not made with a queer audience in mind. At least not at the forefront.</mark>
+
+<mark>Frankly, it doesn't feel like *The Imitation Game* was either.</mark> 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 7" %}>
+
+<mark>Something to consider when using the phrase “queer-adjacent” is</mark> the consideration for the audience: <mark>who is this film for? Rent is for straight people, mostly, and it shows in its depictions of its queer characters as a palatable and watered-down version of queerness.</mark> Yes, it <mark>deals with heavy subjects (AIDS, homelessness, etc.) but without much complexity, and it’s mostly presented in an asexual way</mark> (similar to Philadelphia).<mark> That’s “fine” in the mid-1990s, when the</mark> Demme film and <mark>musical were produced; but</mark> a <mark>decade later, the depiction, at least with regard to the lack of nuance, feels dated. Who were those products for originally? The dominant culture, as a way of elevating visibility. So, these pieces of text were not made with a queer audience in mind, at least not at the forefront.</mark> <mark>Frankly, it doesn’t feel like The Imitation Game was either.</mark> It’s trying, though.
+
+</from>
+</compare>
+
+<compare>
+<james span=2 {% include timecode %}>
+
+Despite how much it was touted as a queer film around Oscar season, the writer very bluntly said he did not write a gay movie.<sup cn></sup> <mark>To come down on a more concrete definition of queer cinema, one may merely look at critic B. Ruby Rich. She described queer cinema as being able to articulate the</mark> &mdash;
+
+> <mark stat:id="made-quote">"gay, lesbian, bisexual, and transgender identity and experience, as well as a form of sexuality that is fluid and subversive in comparison to traditional understandings of sexuality."</mark>
+
+<mark>As well as heteronormativity. Basically it comes down to the character's lived experience</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 8" %}>
+
+But, <mark>to come down on a more concrete definition of queer cinema, one may merely look to critic B. Ruby Rich. She described queer cinema as being able to articulate the</mark> <mark>“gay, lesbian, bisexual, and transgender identity and experience, as well as a form of sexuality that is fluid and subversive in comparison to traditional understandings of [sexuality](http://en.wikipedia.org/wiki/New_Queer_Cinema)”</mark>, <mark>as well as heteronormativity. Essentially, it comes down to the character’s personal experience</mark> (I feel the queer experience is as singular as the POC experience) and social metaphor.
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+James presents this as a quote of B. Ruby Rich. But the article he's plagiarizing from is actually quoting Wikipedia (which it links to), and Wikipedia's first paragraph is, at best, a summary of [B. Ruby Rich's very long article](https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/features/new-queer-cinema-b-ruby-rich) on it, where the quoted words are never actually said.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+So <mark>where does *The Imitation Game* fit in</mark> <mark>this? That's the funny thing</mark>: the <mark>film occupies an ambiguous limbo. Perhaps best described as a film that *desperately* wants to qualify as queer</mark> (the Oscars do love them some gays), <mark>but doesn't know how to do it right. Some of the ingredients are there, but they feel half baked. Alan Turing is *gay*</mark>... but... <mark fc=false stat:id="m-inverse">we only know this because of history</mark>. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 9" %}>
+
+<mark>Where does *The Imitation Game* fit in</mark> in all of <mark>this? That’s the funny thing</mark>. Morten Tyldum’s <mark>film occupies an ambiguous limbo, perhaps best described as a film that desperately wants to qualify as queer</mark> <mark>but doesn’t know how to do it right. Some of the ingredients are there, but they feel half-baked. Alan Turing is gay.</mark> <mark fc>We know this because he says some version of “I am a homosexual” half a dozen times in the film</mark>. And we understand, based at least on the previous definition from Rich if not the aforementioned examples, that saying it isn’t enough. We have a backstory to Turing’s life, which informs the audience of the character’s budding sexual identity; he fosters a close relationship with a schoolboy named Christopher. And we know the relationship [...]
+
+<footer stat:id="m-context">The article goes on for another couple paragraphs talking about the ways it shows queerness in the movie, but in a impersonal manner. "It struggles to understand queerness as essentially a human condition."</footer>
+</from>
+</compare>
+
+<compare>
+<james span=2 {% include timecode %}>
+
+<mark>It's interesting that so many commentators have been vocal about the sex, or lack thereof, in *The Imitation Game*, which raises the question of how one should approach sexuality. On one side, there are aged representations of queer men as being basically asexual (*Philadelphia*, *Will and Grace*) beings that are never given the opportunity to desire, or act on desire</mark>, really. <mark>Conversely some media appears to be working toward a *normalization* of queerness</mark>, such as the show *Shameless*, which features gay characters in its main ensemble, an FTM love interest, and an underlying sense of pansexuality running through a great number of the cast of characters. 
+
+</james>
+<from {% include citation for=page.cite.plagiarized.movie_mezzanine at="¶ 13" %}>
+
+<mark>It’s interesting that so many writers have been vocal about the sex, or lack thereof, in *The Imitation Game*, which raises the question of how one should approach sexuality. On one side, there are aged representations of queer men as being asexual (*Philadelphia*, *Will & Grace*), beings that are never given the opportunity to desire or act on desire</mark>. <mark>Conversely, media appears to be working toward a normalization of queerness</mark>, bifurcated by a saturation of queer sex (*How to Get Away with Murder*, *Looking*) and a desaturation (*Heartbeats*, *Tom at the Farm*). (Whether or not this normalization is good is a piece of its own. However, it inspires the question of how we want queerness represented on screen, for fear of erasure or further discrimination.)
+
+</from>
+<comment>
+{% include header for=tustin %}
+
+James diverges from the article here. For one thing, Turner talks about [*The Way He Looks*](https://en.wikipedia.org/wiki/The_Way_He_Looks), which is one of my personal favorite queer films, which James never gave the time of day to.
+
+</comment>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 It just feels odd. We're over two decades out from *Will and Grace*. *Queer as Folk* spent five years on TV showing gay characters being *very* sexual. Ryan Murphy has made a career of queering up TV and streaming. Hollywood hasn't *really* shied away from it; they've made movies like *Brokeback Mountain*. But here's *The Imitation Game*, legs squeezed tightly together, too afraid to give up its modesty, but *desperately* wanting to be invited to the orgy. Acknowledging that, yes, Alan Turing was gay, but *hey! How about that science?!* 
 
@@ -1194,7 +1330,18 @@ But we seem to be making *some* progress? Whether historians like it or not.
 <compare>
 <james {% include timecode %}>
 
-*The Favorite*, directed by Yorgos Lanthimos, with the BAFTA and oscar winning Olivia Coleman in the role of Queen Anne. The film focuses on the relationships between Anne and her ladies in waiting: Sarah Duchess of Marlborough, played by Rachel Weisz, and Abigail Masham, played by Emma Stone.
+<mark>*The Favorite*, directed by Yorgos Lanthimos, with the BAFTA and oscar winning Olivia Coleman in the role of</mark> <mark>Queen Anne. The film focuses on the relationships between Anne and her ladies in waiting: Sarah Duchess of Marlborough, played by</mark> <mark>Rachel Weisz, and Abigail Masham, played by Emma Stone.</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.gay_erased at="¶ 22" %}>
+
+And so we come to the second movie I saw: <mark>*The Favourite*, directed by Yorgos Lanthimos, with the Bafta and Oscar-winning Olivia Colman in the role of</mark> the busty <mark>Queen Anne. The film focuses on the relationships between Anne and her ladies-in-waiting - Sarah, Duchess of Marlborough (played by</mark> the fabulous <mark>Rachel Weisz) and Abigail Masham (Emma Stone).</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 <mark>*The Favorite* is queer history in *two* senses of the term, since it depicts what <span stat:id="baa">by all accounts</span> was a real queer relationship between Queen Anne and Lady Sarah Churchill, an 18th century forbearer to Winston. While also extrapolating on what we know, to actively create the relationship's more intimate moments. Queering history.</mark>
 

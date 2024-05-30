@@ -7,18 +7,28 @@ title: Video Games and the Choice to be Gay
 status: Auto
 aka: !!seq
   - "The GAYming Agenda (Thumbnail)"
+  - "Extra Lives: Gays, Games, and Toxic Masculinity (Working title)"
 topics: !!seq
 links: !!seq
-  - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ"
+  # - "https://www.youtube.com/watch?v=Pm8VaSZEUkQ" # takedown request
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
 # description: "a video essay on...?"
 notes:
   - behind-scenes
 
+history:
+  2020-09-23: 'Teased on Patron as "Extra Lives: Gays, Games, and Toxic Masculinity".'
+  2021-11-05: First published.
+  2023-12-07: Privated post-callout.
+
+recs:
+  - { title: "How Bisexuality Changed Video Games", author: "", url: "https://www.youtube.com/watch?v=iZGkxUTbDqw" }
+
 contributors:
   downloaded: "[tobi-cat](https://github.com/tobi-cat) from [YouTube Archive video](https://www.youtube.com/watch?v=Pm8VaSZEUkQ)"
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vQlofBa_9ZNg2jW8gf2anPsBk1gfW7IM5vuYNVBoVETDs_Jes7-KznvqlM1Xxz9WxxejorgAZrj59Oe/pub
   citation: 
-    - "[/u/verilyb](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc4i28h)"
+    - "[Verity Ritchie](https://www.patreon.com/posts/james-somerton-3-94126743) (aka [/u/verilyb](https://www.reddit.com/r/hbomberguy/comments/18a50c1/comment/kc4i28h))"
     - "[augustjune](https://discord.com/channels/224921177532006400/1181019607604133938/1181661918268768367)" # https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history
 
 cite:
@@ -26,10 +36,13 @@ cite:
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    techraptor: { color: 1, short: "(Grosso, 2019)", full: "Grosso, R. (2019, Feb 18). <em>Queer Characters in Gaming - A Brief History</em> [Article].", url: "https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history" }
+    verilybitchie: { color: 11, short: "(verilybitchie, 2021)", full: "verilybitchie. (2021, Sep 3). <em>How Bisexuality Changed Video Games</em> [Video essay]. YouTube.", url: "https://www.youtube.com/watch?v=iZGkxUTbDqw" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Is being gay a choice? According to mainstream video games… probably.
@@ -595,5 +608,73 @@ https://techraptor.net/gaming/features/queer-characters-in-gaming-brief-history
 The same video also extensively rips off our video "The Gay Button: How Bisexuality Changed Video Games" as detailed here. (We don't want any money for it, just to let it be known!)
 
 https://www.patreon.com/posts/james-somerton-3-94126743
+
+
+------
+https://www.patreon.com/posts/james-somerton-3-94126743
+
+James Somerton Ripped Off Our Video - Verily Podcasty - Ep 3
+Dec 5, 2023
+
+We finally get to talk about something we didn’t think we could ever publicly address. Thanks hbomberguy!
+
+Notes [Edit]
+Overview of both videos
+Our video came out on 3 September 2021, his on 5 November 2021.
+
+While we largely use different games as examples, with ours focused on bi characters and his on gay characters, both our video and Somerton's can be summarised as follows:
+
+Begins with queer gaming history focusing on The Sims and Fable
+Playersexuality
+Liara in Mass Effect and how that character’s gender/sexuality are about being titillating to straight men
+Bloodlines in a game series forcing gay players to end up with other gender
+Game where you can choose a male or female character and the game treats both characters the same despite sexism in the culture
+Jokes, including a joke about how easy it is to get married in Skyrim and living your millennial fantasy
+Implications of “choosing” gay content
+Comparing opt-in video game mechanics to queerbaiting and similar strategies in film
+Hidden gay content
+Requirements for “canonical” representation (which was original to our video)
+Queer NPCs
+Queer protagonists
+Ends on the note of the potential of indie games (mentioning Stardew Valley)
+We missed some points/evidence in the podcast which we want to clarify here:
+
+Wasn't this just a popular topic at the time?
+No. This wasn’t a hot topic at the time. It wasn’t like when the Barbie movie came out and every youtuber had their own take (which is common and fine). And our video wasn't inspired by a recent article or anything, it was inspired by having played some (not new) games. And then suddenly two months later Somerton covered the exact same niche topic with the exact same take, but with no citations.
+
+There were a couple of small videos on youtube discussing playersexuality before ours came out, but because we all did our independent research and had our own opinions, the videos are completely different, even when discussing the same topics or games, and neither of these videos inspired ours. For example, both our video and this video talk about cheating mechanics, but their video comes at it from the perspective of games enabling dodgy behaviour towards your in-game partner, whereas we cover it from the perspective of games forcing you to cheat if you want to play them bisexually. The other video comes up with an original classification system for characters, as did we, but of course it’s completely different from ours because we both based it on our individual observations.
+
+These videos prove that even when covering the same niche topics, doing your own research and forming your own opinions will lead to vastly different takes. So it’s interesting that James’ video was so similar to ours not just in takes but also in structure and even jokes. It’s also interesting that both our video and the two videos discussed above all cover playersexuality through a bisexual lens – playersexuality is often equated with bisexuality so that’s an obvious angle – whereas the bisexual perspective is completely absent from James’ video and replaced with a gay one. It’s also notable that while other videos on the same topic use the common term “playersexuality,” James makes up his own terminology as if he’s actively trying to avoid the conventional terms. But why would he need to do that? Neither of the linked videos cover the gay button aspect of playersexuality, which we do – and so does James, but again, he avoids the actual term »the gay button« (which is in the thumbnail of our video).
+
+But couldn’t it just be a coincidence and he didn’t plagiarise?
+On top of being a well established plagiarist, we know he plagiarised at least part of this video already from TechRaptor. It’s not a question of “did he plagiarise?” but rather “who else did he plagiarise?” Even if he happened to use all the same sources as we did to come to his own conclusion independently, then he ripped off those sources instead.
+
+"Four Years Later"
+Where we give the year 2000 as The Sims' release date and then proceed to explain that Fable arrived "four years later," Somerton gives no dates for The Sims (or Fable) but still uses the phrase "four years later" to segue into Fable.
+
+"The Glass Ceiling"
+Somerton's script has clearly been so heavily rearranged that it has become nonsensical. He titles a chapter "Glass Ceiling," but doesn't talk about a glass ceiling in that chapter. He mentions a glass ceiling halfway through the following chapter, only to say that it's not really a "tried-and-true glass ceiling" anyway.
+
+Links to things we mention in the podcast
+The Gay Button: How Bisexuality Changed Video Games - verilybitchie, our original video
+
+Video Games and the Choice to be Gay - James Somerton, his rubbish imitation
+
+Queer Characters in Gaming - A Brief History - TechRaptor, Robert Grosso’s article James plagiarised at the start of the video
+
+Comparison clips - our video vs James Somerton’s (also the article he plagiarised)
+
+Plagiarism and You(Tube) - hbomberguy’s video about plagiarism (the part about James starts at 1:49:33)
+
+Dan Olson's twitter thread about Somerton’s financial manipulation of his viewers
+
+The comment on hbomberguy’s video about James having ripped off our video
+
+Ringlight falls on my face blooper
+
+hbomberguy’s playlist of other queer creators
+
+
+
 
 {% endcomment %}

@@ -42,13 +42,14 @@ cite:
     wiki_addicted: { color: 3, short: "Addicted (Wikipedia, 2021)", full: "Wikipedia (2021, Oct 7). <em>Addicted (web series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Addicted_(web_series)&oldid=1050398215" }
     wiki_untamed: { color: 4, short: "Untamed (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 9). <em>The Untamed (TV series)</em> [Article]. Retrieved Jan 12, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=The_Untamed_(TV_series)&oldid=1054287551" }
     manga_planet: { color: 6, short: "What is BL (Binimbol, 2020)", full: "Binimbol, H. (2020, Apr 3). <em>What Is Boys' Love (BL)?</em> [Article]. Manga Planet. Retrieved Jan 12, 2024, from", url: "https://web.archive.org/web/20220617211507/https://mangaplanet.com/what-is-boys-love/" }
-    vice_article: { color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq" }
+    vice_article: { color: 2, short: "Flirting boys (Zhou, 2021)", full: "Zhou, V., Ewe, K. (2021, Apr 5). <em>Boys Keep Flirting With Each Other on Chinese TV But Never Fall in Love</em> [Article]. Vice News. Retrieved Jan 12, 2024, from", url: "https://www.vice.com/en/article/7k95mg/boys-love-drama-china-tv-untamed-lgbtq", archive: "https://web.archive.org/web/20210405094746/" }
     ap_article: { color: 5, short: "China bans men (McDonald, 2021)", full: "McDonald, J. (2021, Sep 2). <em>China bans men it sees as not masculine enough from TV</em> [News article]. The Associated Press. Retrieved Jan 12, 2024, from", url: "https://apnews.com/article/lifestyle-entertainment-business-religion-china-62dda0fc98601dd5afa3aa555a901b3f" }
 ---
 {% assign penguinstorage = site.data.cite.penguinstorage %}
 {% assign todd = site.data.cite.todd.video %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 Stop using China as an excuse for Hollywood's lack of LGBTQ content.  
@@ -305,8 +306,7 @@ China wasn’t a communist backwater nation like North Korea. It was a growing e
 <mark fc=false>All of this lead to today, where China reportedly keeps a whopping 75-80% of the box office returns. With studios getting as little as 20%. There’s no public financial data for representing this because, again, studios like to keep how much their movies make, and where that money comes from, as secret as possible. Lest they be forced to pay their share of taxes.</mark> 
 
 </james>
-<comment id="profits">
-{% include header video=todd at="3869s" %}
+<comment id="profits" {% include commenter video=todd at="3869s" %}>
 
 **25. China keeps jacking up their cut of the profits from imported Hollywood movies**
 
@@ -349,8 +349,7 @@ But then, earlier this year, *Detective Chinatown 3* opened in China to a report
 <mark fc=false num=3>The news wasn’t even announced on local Chinese news, only the English Language variant. Making it pretty clear that it was a dick wagging move, allowing the Chinese film industry — and by proxy the Chinese government — to flex how well they were doing economically, while most of the rest of the world’s cinemas still stood empty because of COVID-19. And since there’s no way for Hollywood studios to confirm these numbers, they’re just forced to take the Chinese government at its word.</mark>
 
 </james>
-<comment id="record_box_office">
-{% include header video=todd at="1858s" %}
+<comment id="record_box_office" {% include commenter video=todd at="1858s" %}>
 
 **12. The record box office for a recent Chinese blockbuster was obviously faked**
 

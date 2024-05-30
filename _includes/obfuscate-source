@@ -1,0 +1,37 @@
+{%- comment %} Expect: for = source text {% endcomment -%}
+{%- if site.data.options.obfuscate_sources -%}
+	{{ include.for 
+		| replace: "<em>", "«" | replace: "</em>", "»"
+		| replace: "Wikipedia", "Wikipedіa"
+		| replace_first: ", A.", ", A."  | replace_first: "a", "а"
+		| replace_first: ", B.", ", B․"  
+		| replace_first: ", C.", "‚ C."  | replace_first: "c", "с"
+		| replace_first: ", D.", "‚ D․"  | replace_first: "d", "ԁ"
+		| replace_first: ", E.", ", E."  | replace_first: "e", "е"
+		| replace_first: ", F.", "‚ F."  | replace_first: "f", "ꬵ"
+		| replace_first: ", G.", "‚ G․"  | replace_first: "g", "ɡ"
+		| replace_first: ", H.", ", H․"  | replace_first: "h", "һ"
+		| replace_first: ", I.", ", I."  | replace_first: "i", "і"
+		| replace_first: ", J.", "‚ J․"  | replace_first: "j", "ј"
+		| replace_first: ", K.", ", K."  
+		| replace_first: ", L.", ", L․"  
+		| replace_first: ", M.", "‚ M."  | replace_first: "m", "ⅿ"
+		| replace_first: ", N.", ", N․"  | replace_first: "n", "ո"
+		| replace_first: ", O.", "‚ O."  | replace_first: "o", "ο"
+		| replace_first: ", P.", ", P․"  | replace_first: "p", "ρ"
+		| replace_first: ", Q.", ", Q."  | replace_first: "q", "ԛ"
+		| replace_first: ", R.", ", R․"  
+		| replace_first: ", S.", "‚ S."  | replace_first: "s", "ѕ"
+		| replace_first: ", T.", "‚ T."  
+		| replace_first: ", U.", ", U․"  | replace_first: "u", "υ"
+		| replace_first: ", V.", ", V."  | replace_first: "v", "ν"
+		| replace_first: ", W.", ", W․"  | replace_first: "w", "ѡ"
+		| replace_first: ", X.", "‚ X."  | replace_first: "x", "х"
+		| replace_first: ", Y.", ", Y."  | replace_first: "y", "у"
+		| replace_first: ", Z.", "‚ Z․"  
+		| replace_first: "). <", "). <"
+		| replace_first: " ", " " 
+		| replace: "«", "<em>" | replace: "»", "</em>" }}
+{%- else -%}
+	{{ include.for }}
+{%- endif -%}

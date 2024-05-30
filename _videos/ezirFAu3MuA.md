@@ -4,13 +4,22 @@ redirect_from:
 
 date: 2022-11-05
 title: The Harmful Drive for Queer Perfection
+runtime: 45:39
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=blJ-Z1A3Ixw" # Reuploads channel
+  - "https://archive.org/details/james-somerton-public-records/The+Harmful+Drive+for+Queer+Perfection.mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221105+ezirFAu3MuA+The+Harmful+Drive+for+Queer+Perfection.webm"
+  - "https://www.YOUTUBE.com/watch?v=ezirFAu3MuA" # James's channel
 # description: "a video essay on...?"
+notes:
+  - online
+
+history:
+  2022-11-05: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 cite:
   clips: !!map
@@ -21,7 +30,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-11-05" %}>
 
 Why is it that, for queer people, perfection is a necessity instead of an option?
 
@@ -34,10 +45,34 @@ PATREON: [link]
 31:27 Chapter 4  
 40:29 Chapter 5  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Why is it that, for queer people, perfection is a necessity instead of an option?
+
+[patreon link]
+
+00:00 Introduction  
+03:50 Chapter 1  
+12:00 Chapter 2  
+18:55 Chapter 3  
+31:27 Chapter 4  
+40:29 Chapter 5  
+
+</details>
 </credits>
 </compare>
 
 {% include transcript-start %}
+
+<compare>
+<credits header="Content Warning" {% include timecode %}>
+
+> Content Warning:  
+> Brief discussion of eating disorders, assault, and straight people.
+
+</credits>
+</compare>
 
 one of the cornerstones that our society is constructed around is success for
 all that it is an abstract concept we certainly push our entire lives to meet it

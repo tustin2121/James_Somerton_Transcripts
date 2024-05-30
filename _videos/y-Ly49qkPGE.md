@@ -13,6 +13,7 @@ links: !!seq
 # description: "a podcast episode on <xyz>."
 notes:
   - podcast
+  - online
 
 cite:
   clips: !!map
@@ -23,6 +24,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 We need to talk about the horrible situation that "fans" put Kit Connor in. 

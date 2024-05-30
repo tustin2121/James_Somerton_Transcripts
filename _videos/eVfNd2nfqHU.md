@@ -4,12 +4,14 @@ redirect_from:
 
 date: 2022-10-04
 title: The Issues With "Bros" (Special Podcast Episode)
+runtime: 46:26
 status: Auto
 aka: !!seq
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://archive.org/details/james-somerton-videos-backup"
+  - "https://archive.org/details/james-somerton-public-records/Podreon+Podcast/The+Issues+With+Bros+(Special+Podcast+Episode).mp4"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20221004+eVfNd2nfqHU+The+Issues+With+%EF%BC%82Bros%EF%BC%82+(Special+Podcast+Episode).webm"
+  - "https://archive.org/details/james-somerton-videos-backup/James+Somerton/James+Somerton+-+The+Issues+With+_Bros_+(Special+Podcast+Episode).mp4"
 # description: "a podcast episode on <xyz>."
 notes:
   - podcast
@@ -23,6 +25,7 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 [patreon link]

@@ -14,10 +14,16 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230114+fE4I6WhPryc+Why+Bad+Gays+Are+Good.webm"
   - "https://archive.org/details/james-somerton-public-records/Why+Bad+Gays+Are+Good.mp4"
-  - "https://www.youtube.com/watch?v=yWyqKG1nZLQ" # Reuploads channel
+  - "https://www.YOUTUBE.com/watch?v=fE4I6WhPryc" # James's channel
 description: "the video essay where James says the thing about all the good gays dying in the AIDS crisis, after talking about Helluva Boss, Brandon Rogers, and Bros for an hour."
 notes:
+  - online
   - w-nick-james
+
+history:
+  2023-01-14: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 contributors:
   downloaded: $cite$TerraJRiley
@@ -40,7 +46,7 @@ cite:
     alex_jones: { short: "TODO", full: "TODO" }
     public_speaking: { color: 4, short: "Public Speaking (2010)", full: "Lebowitz, F., Scorsese, M., Carter, G., Bodde, M. (Producers). Scorsese, M. (Director). (2010). <em>Public Speaking</em> [Documentary]. HBO Documentary Films, American Express Portraits, Consolidated Documentaries, Sikelia Productions. Retrieved Jan 28, 2024, from", url: "https://www.youtube.com/watch?v=G46BVjjkDfA" }
   yikes: !!map
-    died_from_aids: "The infamous quote where James says that media is bad now because all the 'interesting' gays died during the AIDS crisis."
+    died_from_aids: "The infamous quote about 'boring gays', where James says that media is bad now because all the 'interesting' gays died during the AIDS crisis."
   misinformation: !!map
     90s_activists: "James claims that LGBT activities of the 1990's didn't care to work for employment equality protections, when this is provably wrong."
   plagiarized: !!map
@@ -50,7 +56,9 @@ cite:
 {% assign ace_116 = site.data.cite.ace_couple.ep116 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-01-14" %}>
 
 Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
 
@@ -66,6 +74,26 @@ PATREON: [link]
 
 #helluvaboss #hazbinhotel
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Written by Nick Herrgott
+
+[patreon link]
+
+Helluva Boss, Brandon Rogers, and why the "bad gays" are actually the good ones. 
+
+{% include chapter-link at="00:00" for="Introduction" slug="Introduction" %}  
+{% include chapter-link at="12:03" for="Part 1 - Genre F***" slug="Part One: Genre F***" %}  
+{% include chapter-link at="22:46" for="Part 2 - Mr. Rogers' Neighbourhood" slug="Part Two: Mr. Rogers' Neighbourhood" %}  
+{% include chapter-link at="29:33" for="Part 3 - Gate Kept" slug="Part Three: Gate Kept" %}  
+{% include chapter-link at="36:41" for="Part 4 - Size Queen" slug="Part Four: Size Queen" %}  
+{% include chapter-link at="46:33" for="Part 5 - Targeted Audience" slug="Part Five: Targeted Audience" %}  
+{% include chapter-link at="52:04" for="Part 6 - Raise Hell" slug="Part Six: Raise Hell" %}  
+
+#helluvaboss #hazbinhotel
+
+</details>
 </credits>
 </compare>
 
@@ -981,8 +1009,7 @@ Things in the culture which had nothing to DO with the New York City Ballet... i
 
 </details>
 </from>
-<comment>
-{% include header video=todd at="1h3m57s" %}
+<comment {% include commenter video=todd at="1h3m57s" %}>
 
 I need you to all understand that this is not a serious historical analysis. Libowitz was just talking shit to make a point. That's her entire shtick: she's a shit-talker.
 
@@ -1015,8 +1042,7 @@ Plenty - and I mean *plenty* - of gays online were on edge when Billy Porter sta
 > Royce: That’s a statement that just gets worse the longer you think about it.
 
 </comment>
-<comment mark=cont color={{todd.color}} id="90s_activists">
-{% include header video=todd at="1h2m19s" %}
+<comment mark=cont id="90s_activists" {% include commenter video=todd at="1h2m19s" %}>
 
 <mark num=2></mark>Oho boy... This was the first claim that really got got my attention, and it's the entire reason why I watched the rest of his stuff. Disregarding *whatever else* you want to say about that passage... yes, gay activists were *absolutely* fighting against employment discrimination and for protected status for sexuality! Those were *the fights* of the 90s! I heard about that shit all the time! [There was a big giant movie about it!](https://en.wikipedia.org/wiki/Philadelphia_(film))
 

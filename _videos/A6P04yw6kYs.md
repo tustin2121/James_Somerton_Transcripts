@@ -13,12 +13,16 @@ aka: !!seq
 topics: !!seq
   - "Cabaret"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=d9hr7hDryps" # Reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230527+A6P04yw6kYs+The+Dangers+of+Blissful+Ignorance.webm"
+  - "https://archive.org/details/james-somerton-public-records/The+Dangers+of+Blissful+Ignorance.mp4"
 # description: "a video essay on...?"
 notes:
   - script-diff
   - w-nick-james
+
+history:
+  2023-05-27: First published.
+  2023-12-07: Privated post-callout.
 
 contributors:
   transcription: $cite$from-script
@@ -26,6 +30,7 @@ contributors:
   formatting: $cite$tustin
 
 recs:
+  - { title: "Why Should I Wake Up? | Cabaret. Isherwood. Fascism.", author: "David J Bradley", url: "https://www.youtube.com/watch?v=1ef4lptWIIA&pp=ygUPYnJhZGxleSBjYWJlcmV0" }
   - { title: "Endnote 2: White Fascism", author: "Innuendo Studios", url: "https://www.youtube.com/watch?v=5Luu1Beb8ng" }
   - { title: "I Read The Most Hateful Book Ever Written", author: "Thought Slime", url: "https://www.youtube.com/watch?v=67Rg8V4g3ak" }
 
@@ -38,7 +43,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-05-27" %}>
 
 [sponsor plug]
 
@@ -56,6 +63,7 @@ How the media's cooption of fascist imagery, and it's constant "greyness" of vil
 
 #lgbt #lgbtq
 
+</details>
 </credits>
 </compare>
 

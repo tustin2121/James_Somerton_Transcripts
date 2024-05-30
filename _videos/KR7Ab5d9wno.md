@@ -4,6 +4,7 @@ redirect_from:
 
 date: 2023-04-07
 title: Sex, Violence, Showgirls, and The American Way
+runtime: 1:05:44
 status: Auto
 aka: !!seq
   - 'Good "Bad" Media and the Death of Satire'
@@ -12,9 +13,17 @@ aka: !!seq
   - "Sex & Satire ; Good Bad"
 topics: !!seq
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=4fEjYHiEDU8" # reuploads channel
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230407+KR7Ab5d9wno+Sex%2C+Violence%2C+Showgirls%2C+and+The+American+Way.webm"
+  - "https://www.YOUTUBE.com/watch?v=KR7Ab5d9wno" # James's
 # description: "a video essay on...?"
+notes:
+  - alt-version
+  - online
+
+history:
+  2023-04-07: First published.
+  2023-12-07: Privated post-callout.
+  2024-02-26: Unprivated with apology 2, claiming no plagiarism.
 
 cite:
   clips: !!map
@@ -25,7 +34,9 @@ cite:
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2023-04-07" %}>
 
 [Sponsor plug]
 
@@ -46,7 +57,41 @@ Nicks Twitter: [link]
 {% include chapter-link at="51:43" for="Re-Examination" %}  
 {% include chapter-link at="56:35" for="Climax" %}  
 
+</details>
+<details {% include description-version for="2024-02-26" %}>
+
+Written by Nick Herrgott
+
+[Sponsor plug]
+
+Modest Proposal Art by Henry Behrens
+
+[patreon link]  
+
+{% include chapter-link at="00:00" for="Introduction" %}  
+{% include chapter-link at="4:58" for="The Bad Movies Club" %}  
+{% include chapter-link at="12:44" for="Isn't It Iconic?" %}  
+{% include chapter-link at="22:06" for="Please Sir, I Want Some Gore" %}  
+{% include chapter-link at="31:01" for="Basic" %}  
+{% include chapter-link at="37:32" for="Showtime!" %}  
+{% include chapter-link at="38:23" for='"BAD"' %}  
+{% include chapter-link at="46:03" for="Suspension of Disbelief" %}  
+{% include chapter-link at="51:43" for="Re-Examination" %}  
+{% include chapter-link at="56:35" for="Climax" %}  
+
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+This video had two versions posted, according to his patreon post on April 12th, 2023:
+
+> This is a VERY different version of the this video than the one that will go live on YouTube this weekend. It's, shall we say, our first R-rated video. The YouTube version is MUCH more tame, with a lot less footage from the movies discussed lol. Less swearing, less violence, fewer boobs. But hey! That's what Patreon exclusives are for :-p
+
+This post contained a link to [a vimeo upload](https://vimeo.com/815174451/27f8aa78c1) which no longer exists. No wayback archives exist either.
+
+The transcript will cover the YouTube version.
+
+</comment>
 </compare>
 
 {% include transcript-start %}

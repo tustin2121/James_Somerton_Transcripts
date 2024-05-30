@@ -18,6 +18,10 @@ assignees: ''
 
 [Copy-paste sentences or specify timestamps, sections, etc]
 
+**How would you like to be credited?**
+
+[We will use your github username and link back to this issue unless otherwise requested.]
+
 **Anything else?**
 
 

@@ -7,8 +7,10 @@ redirect_from:
 # cspell:words  Eren Armin Mikasa Leonhart Bertholdt Reiner Ackerman Reiss Grisha 
 # cspell:words  Shiganshina Eldians Marleyans Eldian Marleyan Yeagerists Paradis
 # cspell:words  Hajime Isayama
+prev_ids: [ "5RPsRpk8aKA" ]
 date: 2022-09-04
 title: '"Attack on Titan" and the Death of Media Literacy'
+runtime: 1:00:01
 status: Finished
 aka: !!seq
   - "The Important Non-Meaning of Attack on Titan"
@@ -21,40 +23,52 @@ topics: !!seq
   - Ern Malley
   - Applicability
 links: !!seq
-  - "https://www.youtube.com/watch?v=9Le14V0K2Fw" # Reuploads channel
-  # - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230101+VoHYZUj43K4+The+Important+Non-Meaning+of+Attack+on+Titan.webm"  # This is the reupload version
-  # - "https://web.archive.org/web/20220904180035/https://www.youtube.com/watch?v=5RPsRpk8aKA" # Original video?
+  - "https://web.archive.org/web/20220904180035/https://www.youtube.com/watch?v=5RPsRpk8aKA" # Original video?
+alt-links:
+  "reupload version":
+    - "https://archive.org/details/james-somerton-public-records/Attack+on+Titan+and+Media+Literacy.mp4"
+    - "https://archive.org/details/james-somerton-youtube-2023-12-03/20230101+VoHYZUj43K4+The+Important+Non-Meaning+of+Attack+on+Titan.webm"  # reupload version
 description: "a video essay on media literacy, messaging, allegory, applicability, fascist imagery, not dealing in absolutes, and something something 'don't let the hate flow through you'."
 notes: 
   - hbomb
   - w-nick-james
 
+history:
+  2022-09-04: First published (5RPsRpk8aKA, 1:00:01).
+  2022-12-18: seldomusings calls James out in a blog post.
+  2022-12-20: Video deleted due to callout post.
+  2023-01-02: Reuploaded (VoHYZUj43K4, 59:01).
+  2023-12-07: Privated post-callout.
+
 contributors:
   downloaded: $cite$TerraJRiley
   citation: 
     - "[Bumo](https://discord.com/channels/1180822793420554241/1180822793420554244/1191194701768953947) from the Former Fans discord"
+    - "[distressingly](https://github.com/tustin2121/James_Somerton_Transcripts/pull/117)"
 
 recs:
   - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
-  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["Yvestan", "The Ace Couple"] }
+  - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["The Ace Couple"] }
 
 cite:
   clips: !!map
-    aot: { short: "Attack on Titan (Wit Studio, 2013)", full: "Kinoshita, T., Tateishi, K., Maeda, T., et al. (Producers). Araki, T.,Hayashi, Y., et al. (Directors.) (2013) <em>Shingeki no Kyojin; Attack on Titan</em> [Television series]. Wit Studio, MAPPA." }
+    aot: { short: "Attack on Titan (Wit Studio, 2013)", full: "Kinoshita‚ T., Tateishi, K., Maeda, T., et al. (Producers). Araki, T.,Hayashi, Y., et al. (Directors.) (2013) <em>Shingeki no Kyojin; Attack on Titan</em> [Television series]. Wit Studio, MAPPA." }
   yikes: !!map
   misinformation: !!map
     aot_infiltrate: "James diverges from his plagiarism to make up something about Eren infiltrating Marley?"
   plagiarized: !!map
     wiki_aot: { color: 1, short: "Attack on Titan (Wikipedia, 2022)", full: "Wikipedia. (2022, Aug 22). <em>Attack on Titan</em> [Article]. Wikipedia. Retrieved Dec 31, 2023, from", url: "https://en.wikipedia.org/w/index.php?title=Attack_on_Titan&oldid=1106030533" }
-    seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
-    cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
-    vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson, G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan" }
+    seldommusings: { color: 2, short: "(seldomusings, 2013)", full: "seldomusings. (2013, Oct, 19). <em>The Possible Disturbing Dissonance Between Hajime Isayama’s Beliefs and Attack on Titan’s Themes</em> [Blog post]. Wordpress. Retrieved Dec 31, 2023, from", url: "https://seldomusings.wordpress.com/2013/10/19/migiteorerno/" }
+    cultural_review: { color: 3, short: "Cultural Revue (Hummel, 2022)", full: "Hummel, T. (2022, Apr 8). <em>Is Attack on Titan Fascistic? – A Messy Attempt to Humanistically Reject the Oppressor/Oppressed Dynamic</em> [Article]. Cultural Revue. Retrieved Dec 31, 2023, from", url: "https://culturalrevue.com/2022/04/08/is-attack-on-titan-fascistic-a-messy-attempt-to-humanistically-reject-the-oppressor-oppressed-dynamic/" }
+    vice_article: { color: 4, short: "Vice (Jackson, 2021)", full: "Jackson‚ G. (2021, Apr 22). <em>Everyone Loves Attack on Titan. So Why Does Everyone Hate Attack on Titan?</em> [Article]. Vice Motherboard. Retrieved Dec 31, 2023, from", url: "https://www.vice.com/en/article/7kvpj4/everyone-loves-attack-on-titan-so-why-does-everyone-hate-attack-on-titan", archive: "https://web.archive.org/web/20210613011303/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 {% assign hbomb = site.data.cite.hbomb %}
 
 <compare>
-<credits header="Video Description (Original):">
+{% include meta-history video=page %}
+<credits class="desc">
+<details {% include description-version for="2022-09-04" label="Original upload" %}>
 
 There might be a lot less going on in "Attack on Titan" than you think.
 
@@ -70,16 +84,8 @@ Patron: [link]
 
 #attackontitan #lordoftherings
 
-</credits>
-<comment span="2">
-{% include header for=tustin %}
-
-This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
-
-This transcript is of the original upload, clocking in at 1:00:01. Timestamps on boxes in the transcript proper will be for the original upload, and comments will point out when something was removed for the reupload.
-
-</comment>
-<credits header="Video Description (Reupload):">
+</details>
+<details {% include description-version for="2023-01-02" label="Reupload" %}>
 
 The actual meaning of Attack on Titan might be far more complicated than you think. Or... it might be so simple you won't want to admit it.
 
@@ -97,7 +103,15 @@ Patron: [link]
 {% include chapter-link at="40:13" for="Chapter 4 (Part 2)" slug="Chapter 4: Part Two: Applicability" %}  
 {% include chapter-link at="51:38" for="Chapter 4 (Part 3)" slug="Chapter 4: Part Three: Caged Interpretation"%}  
 
+</details>
 </credits>
+<comment {% include commenter for=tustin %}>
+
+This video was taken down after [James was caught plagiarizing](https://seldomusings.wordpress.com/2022/12/18/james-somerton-plagiarized-me/) from {% include inline-citation for=page.cite.plagiarized.seldommusings %}. It was later reuploaded with a minute cut out of the runtime, cutting out specifically what was called out in the above-linked post.
+
+This transcript is of the original upload, clocking in at 1:00:01. Timestamps on boxes in the transcript proper will be for the original upload, and comments will point out when something was removed for the reupload.
+
+</comment>
 </compare>
 
 {% include transcript-start %}
@@ -105,7 +119,7 @@ Patron: [link]
 
 
 <compare>
-<credits {% include timecode %}>
+<credits header="Title Card:">
 
 > Content Warning:  
 Fascism and Anime
@@ -446,7 +460,7 @@ To some fans, it all feels a little too close to the broad arc of most <mark>ant
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 <mark>This outrage should come as no surprise, knowing the history between Japan and Korea. But that is exactly what</mark> most <mark>people may not be aware of. Korea was occupied by Japan from 1910 to 1945, only one of many East Asian nations colonized by Japan as part of its growing Imperial presence</mark> at the time. 
 
@@ -488,7 +502,25 @@ And before you turn around and say "how dare he commit war crimes", please exami
 
 We take for granted that they're pillars of our culture, because they gave a speech or something, regardless that they were privy to massacres and genocide. In our own culture, there is such an air of veneration around these figures, the criticism is almost a cultural taboo. it's not uncommon for creators to have problematic views, ones which are rooted in their own cultural upbringing. even leftists give a pass to FDR as being a great president, and ignore the fact that he locked up hundreds of thousands of Japanese Americans during World War II, but nobody calls *him* a fascist. (Well, Republicans might, but not for the right reasons.)
 
-Some have even gone so far as to call *Attack on Titan* *itself* fascist and anti-semitic. Because while *Attack on Titan* does have a large fandom of... *normal* people, it also has a notable and Loud right-wing fan base. The New Republic even dubbed it "the alt-right's favorite manga".
+</james>
+<from></from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
+
+<mark>Some have even gone so far as to call *Attack on Titan* *itself* fascist and anti-semitic</mark>. Because <mark x>while *Attack on Titan* does have a large fandom</mark> of... *normal* people, <mark>it also has a notable and Loud right-wing fan base</mark>. <mark>The New Republic even dubbed it "the alt-right's favorite manga".</mark>
+
+</james>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 12" %}>
+
+These themes have been pointed out before, with <mark>some even saying that the work itself is fascist and antisemetic<sup class="add">[sic: antisemitic]</sup></mark>. <mark>While *Attack on Titan* boasts a huge audience, it also has a noted and vocal right wing fanbase</mark> as well; <mark>the New Republic even called it "the Alt-Right's Favorite Manga."</mark>
+
+</from>
+</compare>
+
+<compare>
+<james {% include timecode %}>
 
 Anime fans have gotten themselves into a tangle trying to decipher where Isayama draws the line between the metaphors he engages in and his own personal convictions. But *Attack on Titan* contradicts Isayama's apparent nationalism. 
 
@@ -497,7 +529,7 @@ Anime fans have gotten themselves into a tangle trying to decipher where Isayama
 </compare>
 
 <compare>
-<james {% include timecode %} span="2">
+<james span=2 class="deleted" {% include timecode %}>
 
 Looking at some of the major characters, <mark>would Hange not be just as disgusted with Japanese politicians denying war crimes</mark> against Koreans and <mark>rewriting history for textbooks</mark> as they are <mark>with the Wall Cult and the government that keeps secrets about Titans from the public?</mark> 
 
@@ -540,27 +572,37 @@ Alternately, and this concerns me, I've begun to wonder if the left also lacks t
 <compare>
 <james {% include timecode %}>
 
-But is this the case with Eren Jaeger? Especially, as the series reaches its apocalyptic conclusion. As *Attack on Titan* comes to a close, the question becomes how to interact with it. And also whether or not a show can handle fascist ideas in the manner with which it does without being fascist and anti-semitic itself. Isayama declined to comment on the topic, saying
+But is this the case with Eren Jaeger? Especially, as the series reaches its apocalyptic conclusion. <mark>As *Attack on Titan* comes to a close, the question becomes how to interact with it</mark>. And also <mark>whether or not a show can handle fascist ideas in the manner with which it does without being fascist and anti-semitic itself</mark>. <mark>Isayama declined to comment on the topic, saying</mark>
 
 <u>[Quote shown on screen]:</u>
 
-> "Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."
+> <mark>"Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 14" %}>
+
+<mark>The question, then, as the series wraps up, is figuring out how to engage with it</mark>, and figuring out <mark>whether a show can deal with fascistic themes in the way it does without being fascistic and antisemitic itself</mark>. The manga's creator Hajime <mark>Isayama</mark>, for his part, told the New Republic that he <mark>didn't want to weigh in on the controversy, stating that "Being a writer, I believe it is impolite to instruct your readers the way of how to read your story."</mark>
+
+</from>
 </compare>
 
 <compare>
 <james {% include timecode %}>
 
-A large portion of the anime community, as a generic group, hold *Attack on Titan* with very high regard. You've probably seen some of the show's recognizable symbols, especially its military insignia, even if you haven't seen the anime or read the manga it's based on. If anything, you've probably heard portions of the iconic first season theme song, which is a banger.
+<mark x num=1>A large portion of the anime community, as a generic group, hold *Attack on Titan* with very high regard.</mark> <mark num=3>You've probably seen some of the show's recognizable symbols, especially its military insignia</mark>, <mark num=2>even if you haven't seen the anime or read the manga it's based on</mark>. If anything, you've probably heard portions of <mark num=8>the iconic first season theme</mark> song, which is <mark num=9>a banger</mark>.
 
-<u>[Plays potion of theme song]</u>
+<u>[Plays portion of theme song]</u>
 
-The show introduced many people to anime and manga, which is what makes criticism so tricky. It's hard to criticize one's first love. However being unable or unwilling to address the problems in *Attack on Titan*'s fictional world has caused a... long simmering unresolved conflict within the anime fandom.
+<mark num=4>The show introduced many people to anime</mark> and manga, which is <mark num=6>what makes criticism so tricky</mark>. It's hard to criticize <mark x num=5>one's first love</mark>. However <mark num=7>being unable or unwilling to address the problems in *Attack on Titan*'s fictional world has caused a... long simmering unresolved conflict within the anime fandom.</mark>
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 16-17" %}>
+
+As a show, <mark x num=1>*Attack on Titan* has taken a position of reverence among anime fans</mark>. <mark num=2>Even if you don't currently watch the show, or read the manga on which it is based</mark>, <mark num=3>you've at least seen the iconography from the show, especially its military insignia</mark>, in the wild. <mark num=4>For a lot of people this was their first anime</mark>, <mark x num=5>and their first introduction to a genre of fiction they love</mark>. It's the position <mark num=6>that makes it uniquely difficult to criticize</mark>. In the case of *Attack on Titan*, <mark num=7>not being able to discuss the issues in its fiction has led to a long simmering, never resolved conflict within the fandom</mark> itself.
+
+At first glance, it would be easy just to dismiss *Attack on Titan* as being unambiguously pro-fascist. The anime plays into the militarism at the heart of the story; <mark num=8>the show's first theme</mark>, <mark num=9>a certified banger</mark> and classic meme, opens on the lyric "Are you prey? No, we are the hunters," sung in German. 
+
+</from>
 </compare>
 {% assign timecode = "19:08" %}
 
@@ -706,10 +748,14 @@ Thew told Motherboard that he hadn't totally caught up on Attack on Titan becaus
 </from>
 <james {% include timecode %}>
 
-For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world. Anime fans have generally avoided discussing the political content of their favorite shows because the art form was, until recently, a niche that was sometimes wrongly characterized as being obscene and dangerous. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
+<mark num=1>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=2>Anime fans have generally avoided discussing the political content of their favorite shows</mark> <mark num=3>because the art form was, until recently, a niche</mark> <mark num=4>that was sometimes wrongly characterized as being obscene and dangerous</mark>. Given the cultural status in Japan of animation as a medium and not a genre, there are venues for animation to receive prestigious acclaim that is typically denied to animation in America. The equivalent of rejecting all anime due to sweeping generalizations is like shunning all live-action movies because porn is also live action.
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vice_article at="¶ 26" %}>
+
+<mark num=1>For a long time, anime fans had no way of knowing what their favorite writers and artists even looked like, let alone what they thought about the world.</mark> <mark num=3>Because anime was, until recently, a niche</mark> culture, and one <mark num=4>that has occasionally been unfairly maligned for being pornographic and violent</mark>, <mark num=2>anime fans in general have avoided talking about the politics of their favorite shows</mark>.
+
+</from>
 <james {% include timecode %}>
 
 <mark num=5>Andrea Horbinski, a scholar with a doctorate in New Media studies and history</mark>, said:

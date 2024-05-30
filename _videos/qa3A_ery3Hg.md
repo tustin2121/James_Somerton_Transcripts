@@ -12,7 +12,7 @@ aka: !!seq
 topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-youtube-2023-12-03"
-  - "https://www.youtube.com/watch?v=J2t3ibyMNVg"
+  # - "https://www.youtube.com/watch?v=J2t3ibyMNVg" # takedown request
 description: "a video essay on the 'Don't Say Gay' bill and why Disney is saying nothing."
 notes:
   - odd-characters  # Lots of non-breaking spaces and also a "Left-to-Right Isolate" character U+2066 from a copied tweet
@@ -48,6 +48,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 As a company, Disney has so much influence that they've forced copyright laws to change over and over. And yet they keep quiet when it comes to the health and safety of queer youth.
@@ -242,7 +243,7 @@ In response to the bill passing, *former* Disney CEO and Chairman Bob Igre<sup c
 <comment>
 {% include header for=tustin %}
 
-The why this is worded, James implies that Biden tweeted on February 25th, which is not true.
+The way this is worded, James implies that Biden tweeted on February 25th, which is not true.
 
 </comment>
 <from style="font-size: smaller;">

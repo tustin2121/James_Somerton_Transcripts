@@ -1,20 +1,16 @@
 {%- comment %} Expected: list of sources {% endcomment -%}
 {%- for item in include.list -%}
 	{%- if item[0] == "_desc_" -%}{%- continue -%}{%- endif -%}
-	<li id="{{ item[1].short | slugify }}">
-		{{ item[1].full }} 
-		{%- if item[1].offline %}
-			<a href="{{ item[1].archive }}{{ item[1].url }}">{{ item[1].url }}</a>
-		{%- else %}
-			<a href="{{ item[1].url }}">{{ item[1].url }}</a>
-			{%- if item[1].archive %} [<a href="{{ item[1].archive }}{{ item[1].url }}">Archived</a>]{%- endif -%}
-		{%- endif -%}
-		{%- if item[1].chain -%}
-		{%- if item[1].chain._desc_ %} <span class="chain-prefix">({{ item[1].chain._desc_ }})</span>{% endif -%}
-		<ul>
-			{% assign chain = item[1].chain %}
-			{% include plag-cite-chain list=chain %}
-		</ul>
+	{%- assign _cite = item[1] -%}
+	{%- include resolve-common-citation -%}
+	<li id="{{ _cite.short | slugify }}">
+		{% include print-source for=_cite %}
+		{%- if _cite.chain -%}
+			{%- if _cite.chain._desc_ %} <span class="chain-prefix">({{ _cite.chain._desc_ }})</span>{% endif -%}
+			<ul>
+				{% assign chain = _cite.chain %}
+				{% include plag-cite-chain list=chain %}
+			</ul>
 		{%- endif -%}
 	</li>
 {%- endfor -%}

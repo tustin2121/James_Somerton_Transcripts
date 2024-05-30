@@ -15,12 +15,11 @@ topics: !!seq
   - "Hannibal"
   - The Vampire Chronicles
 links: !!seq
-  - "https://www.youtube.com/watch?v=SduGQEP8goU"
+  # - "https://www.youtube.com/watch?v=SduGQEP8goU" # Account terminated
   - "https://archive.org/details/james-somerton-youtube-2023-12-03/20211004+ZDgWHNDdwoU+The+Gay+Appeal+of+Toxic+Love.webm"
 description: "a video essay ruminating on why people would rather be in toxic relationships than being alone, complete with portion where James dresses as Hannibal."
 notes: 
   - hbomb
-  - dec5-delete
   - commentary
   - script-diff
   - w-james-nick
@@ -44,13 +43,14 @@ cite:
   misinformation: !!map
     fan-fiction: "James takes an anecdote about Anne Rice and presents it as fact."
   plagiarized: !!map 
-    monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk, D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
-    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
-    ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
+    monsters_made: { color: 1, short: "(Demchuk, 2021)", full: "Demchuk‚ D. (2022, Jan 21). <em>Where Monsters Are Made</em> [Excerpt]. On Hazlitt. (Reprinted from <em>Red X</em> by D. Demchuk, Aug 2021, Strange Light Books, Penguin Random House Canada.) Retrieved Dec 29, 2023, from", url: "https://hazlitt.net/feature/where-monsters-are-made" }
+    vampires_r_us: { color: 2, short: "(Primuth, 2014)", full: "Primuth, R. (2014). Vampires Are Us [Article]. <em>The Gay & Lesbian Review</em> (is.108 for Mar-Apr). Retrieved Dec 29, 2023, from", url: "https://glreview.org/article/vampires-are-us/", type: "academic" }
+    ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
 --- 
 {% assign tustin = site.data.cite.tustin2121 %}
 
 <compare>
+{% include meta-history video=page %}
 <credits class="desc">
 
 From the toxic love of 'Hannibal' to the immortal gaslighting in Anne Rice's Vampire Chronicles...
@@ -67,6 +67,15 @@ PATRON: [link]
 {% include chapter-link at="59:35" for="Part 4: They Isolate You" slug="Part IV: They Isolate You" %}  
 
 </credits>
+<comment {% include commenter for=tustin %}>
+
+James in the infamous "Well today's been fun!" live stream where the accusations of plagerism started. After vaguely mentioning about stealing from [AreTheyGay in Unrequited](m8DRQ9-sCSI), and getting "permission" for [Evil Queens](Qvu84kjtGvE), he says this: 
+
+> And then there was the silly one about the Hannibal video, <u>[laughing]</u> um... which I talked about before, but it's, um... it was, uh.... a younger YouTuber. She made a mistake. It was, you know, she and I... She and I spoke to each other and... you know, she apologized and everything and there's nothing... there, no kind of drama or anything there.
+
+<u>[TODO figure out what he's talking about.]</u>
+
+</comment>
 </compare>
 
 {% include transcript-start %}

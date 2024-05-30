@@ -13,7 +13,7 @@
 			{%- assign parts = rec.url | split: "/" -%}
 			{%- if parts[2] == "youtube.com" or parts[2] == "www.youtube.com" -%}
 				{%- comment %} https://www.youtube.com/watch?v=XXXXXXXXXXX {% endcomment -%}
-				{%- assign parts = parts[3] | split: '=' -%}
+				{%- assign parts = parts[3] | split: 'v=' -%}
 				{%- assign thumb = "https://img.youtube.com/vi/" | append: parts[1] | append: "/0.jpg" -%}
 			{%- elsif parts[2] == "youtu.be" -%}
 				{%- comment %} https://youtu.be/XXXXXXXXXXX {% endcomment -%}
@@ -30,6 +30,7 @@
 			<a href="{{ rec.url }}"><h1>{{ rec.title }}</h1></a>
 			<h2>{{ rec.author }}</h2>
 			<h3>{%- include name-list name=rec.by -%}</h3>
+			<h4>{{ rec.desc }}</h4>
 		</div>
 	{%- endfor -%}
 	</div>
