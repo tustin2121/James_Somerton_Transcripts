@@ -7,7 +7,7 @@ redirect_from:
 date: 2021-12-16
 title: The History of Gay Panic
 runtime: 1:19:40
-status: Auto Script
+status: Complete
 aka: !!seq
   - "Irresistible Impulse - The Sad History of the Queer Panic Defense in America"
   - "The Queer Panic Defense (Thumbnail)"
@@ -16,7 +16,7 @@ topics: !!seq
 links: !!seq
   - "https://archive.org/details/james-somerton-public-records/The+History+of+Gay+Panic.mp4"
   - "https://web.archive.org/web/20220118151845/https://www.youtube.com/watch?v=digub0QVCho"
-  - "https://web.archive.org/web/20220518171418/https://vimeo.com/701876979"
+  - "https://web.archive.org/web/20231203134139/https://vimeo.com/701876979"
 # description: "a video essay on...?"
 notes: 
   - hbomb
@@ -27,31 +27,59 @@ history:
   2022-08-28: Deleted from YouTube, uploaded to Vimeo (701876979).
   2023-12-07: Deleted post-callout.
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  formatting:
+    - $cite$tobicat
+    - $cite$tustin2121
+
 cite:
   clips: !!map
+    news_clip1: { short: "", full: "TODO" }
+    news_clip2: { short: "", full: "TODO" }
+    shepard_interview1: { short: "", full: "TODO" }
+    nettles_interview1: { short: "", full: "TODO", url: "https://www.youtube.com/watch?v=XrbDpePgYkM" }
   yikes: !!map
   misinformation: !!map
+    defense_attorneys: "Excuse or justification? Defense attorneys decide?"
+    furious_juries: "The jurors were allegedly furious over the conviction <em>they</em> decided on."
+    jury_booing: "James thinks that a jury <em>booing</em> at the prosecutors wouldn't be an immediate mistrial."
+    todd_1: "Todd in the Shadows is quite sure that James just made up an entire quote, and even asked lawyers about how wrong James was."
+    amedure_trial: "James exaggerated the details of another trial he recounts."
+    murder_justified: "James makes up something about the defense arguing that murder was justified??"
+    superhero: "James writes superhero fan fiction about one of the victims he talks about..."
+    long_term: "James confuses short term relationships with long term ones."
+    brother_cousin: "And he doesn't know the difference between a cousin and a half-brother."
+    outdated_info: "James copies from an older version of the wikipedia page, and therefore doesn't get updated stats on what states have outlawed the gay panic defense."
   plagiarized: !!map
-    cynthia_lee: { color: 1, short: "Legal paper (Lee, 2008)", full: "Lee, Cynthia (2008). <em>The Gay Panic Defense</em>. GW Law Faculty Publications & Other Works. Retrieved June 20, 2024, from", url: "https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications"}
-    james_polchin: { color: 2, short: "Paris Review article (Polchin, 2019)", full: "Polchin, J. (2019). <em>The Queer Crime That Launched the Beats</em>. The Paris Review. Retrieved June 20, 2024, from", url: "https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/"}
-    jennifer_berube: { color: 3, short: "Medium article (Berube, 2011)", full: "Berube, J. (2011). <em>The Truth Behind David Kammerer's Murder</em>. Medium. Retrieved June 20, 2024, from", url: "https://archive.is/nnLOc#selection-607.0-607.444"}
-    graham_brunk: { color: 4, short: "Erie Gay News article (Brunk, 2017)", full: "Brunk, G. (2017). <em>1954 Miami Murder Leads to 'Homosexual Panic'</em>. Erie Gay News. Retrieved June 20, 2024, from", url: "https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson"}
-    reggie_podcast: { color: 5, short: "Reggie's podcast (Panic Queer True Crime, 2019)", full: "Panic Queer True Crime (2019, Jun). <em>Panic a Killer Defense</em>. (Parts One and Two). Retrieved June 20, 2024, from", url: "https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf" and "https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two-1.pdf" }
-    lauren_kranc: { color: 6, short: "Esquire article (Kranc, 2020)", full: "Kranc, L. (2020). <em>Trial By Media Re-Examines the Murder of Scott Amedure After a Talk Show Appearance</em>. Esquire. Retrieved June 20, 2024, from", url: "https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/" }
-    wikipedia_amedure: { color: 7, short: "Scott Amedure (Wikipedia, 2021)", full: "Wikipedia (2021, Feb 5). <em>Murder of Scott Amedure</em>. Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Murder_of_Scott_Amedure&oldid=1004903593#Appearance_on_The_Jenny_Jones_Show" }
-    murderpedia_schmitz: { color: 8, short: "Jonathan Schmitz (Murderpedia, n.d.)", full: "Murderpedia (n.d.). <em>Johnathan Schmitz<em>. Retrieved June 20, 2024, from", url: "https://murderpedia.org/male.S/s/schmitz-jonathan.htm" }
-    scott_hoffman: { color: 9, short: "Shepard journal article (Hoffman, 2011)", full: "Hoffman, S.W. (2011). <em>'Last Night, I Prayed to Matthew': Matthew Shepard, Homosexuality, and Popular Martyrdom in Contemporary America</em>. Religion and American Culture: A Journal of Interpretation, Vol. 21, No. 1. Retrieved June 20, 2024, from", url: "https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE" }
-    wikipedia_shepard: { color: 10, short: "Matthew Shepard (Wikipedia, 2021)", full: "Wikipedia (2021, Dec 6). <em>Matthew Shepard</em>. Reitrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842" }
+    cynthia_lee: { color: 1, short: "(Lee, 2008)", full: "Lee, Cynthia (2008). <em>The Gay Panic Defense</em>. GW Law Faculty Publications & Other Works. Retrieved June 20, 2024, from", url: "https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1796&context=faculty_publications"}
+    james_polchin: { color: 2, short: "(Polchin, 2019)", full: "Polchin, J. (2019). <em>The Queer Crime That Launched the Beats</em>. The Paris Review. Retrieved June 20, 2024, from", url: "https://www.theparisreview.org/blog/2019/06/27/the-queer-crime-that-launched-the-beats/"}
+    jennifer_berube: { color: 3, short: "(Berube, 2011)", full: "Berube, J. (2011). <em>The Truth Behind David Kammerer's Murder</em>. Medium. Retrieved June 20, 2024, from", url: "https://archive.is/nnLOc#selection-607.0-607.444"}
+    graham_brunk: { color: 4, short: "(Brunk, 2017)", full: "Brunk, G. (2017). <em>1954 Miami Murder Leads to 'Homosexual Panic'</em>. Erie Gay News. Retrieved June 20, 2024, from", url: "https://www.eriegaynews.com/news/article.php?recordid=201711williamtsimpson"}
+    reggie_podcast: 
+      color: 5
+      short: "(Panic Queer True Crime, 2019)"
+      full: "Panic Queer True Crime (2019, Jun). <em>Panic a Killer Defense</em>. (Parts One and Two). Retrieved June 20, 2024."
+      chain:
+        _desc_: "from..."
+        yt: { full: "YouTube Video (YT)", url: "" }
+        p1: { full: "Transcript Part One (T1)", url: "https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-One.pdf" }
+        p2: { full: "Transcript Part Two (T2)", url: "https://reggiedeepdive.com/wp-content/uploads/2020/03/Panic-A-Killer-Defense-Part-Two-1.pdf" }
+    lauren_kranc: { color: 6, short: "(Kranc, 2020)", full: "Kranc, L. (2020). <em>Trial By Media Re-Examines the Murder of Scott Amedure After a Talk Show Appearance</em>. Esquire. Retrieved June 20, 2024, from", url: "https://www.esquire.com/entertainment/tv/a32416884/jonathan-schmitz-scott-amedure-murder-trial-by-media-true-story-jenny-jones-show/" }
+    wikipedia_amedure: { color: 7, short: "(Wikipedia, 2021)", full: "Wikipedia (2021, Feb 5). <em>Murder of Scott Amedure</em>. Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Murder_of_Scott_Amedure&oldid=1004903593#Appearance_on_The_Jenny_Jones_Show" }
+    murderpedia_schmitz: { color: 8, short: "(Murderpedia, n.d.)", full: "Murderpedia (n.d.). <em>Johnathan Schmitz</em>. Retrieved June 20, 2024, from", url: "https://murderpedia.org/male.S/s/schmitz-jonathan.htm" }
+    scott_hoffman: { color: 9, short: "(Hoffman, 2011)", full: "Hoffman, S.W. (2011). <em>'Last Night, I Prayed to Matthew': Matthew Shepard, Homosexuality, and Popular Martyrdom in Contemporary America</em>. Religion and American Culture: A Journal of Interpretation, Vol. 21, No. 1. Retrieved June 20, 2024, from", url: "https://sci-hub.se/https://www.cambridge.org/core/journals/religion-and-american-culture/article/abs/last-night-i-prayed-to-matthew-matthew-shepard-homosexuality-and-popular-martyrdom-in-contemporary-america/4F55D8B7130E1B5FDB7980025167B3DE" }
+    wikipedia_shepard: { color: 10, short: "(Wikipedia, 2021)", full: "Wikipedia (2021, Dec 6). <em>Matthew Shepard</em>. Reitrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842" }
     wikipedia_shepardact: { color: 11, short: "Shepard Hate Crimes Prevention Act (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 15). <em>Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act</em> Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Matthew_Shepard_and_James_Byrd_Jr._Hate_Crimes_Prevention_Act&oldid=1055325927" }
-    southern_podcast: { color: 12, short: "Gaither podcast", full: "Southern Fried True Crime (2020, Jun 14). <em>Small Town Hate: The Murder of Billy Jack Gaither</em>. Retrieved June 20, 2024, from", url: "https://www.southernfriedtruecrime.com/100-small-town-hate-the-murder-of-billy-jack-gaither" }
+    southern_podcast: { color: 12, short: "(Southern Fried True Crime, 2020)", full: "Southern Fried True Crime (2020, Jun 14). <em>Small Town Hate: The Murder of Billy Jack Gaither</em>. Retrieved June 20, 2024, from", url: "https://www.southernfriedtruecrime.com/100-small-town-hate-the-murder-of-billy-jack-gaither" }
     wikipedia_gaypanic: { color: 13, short: "Gay panic defense (Wikipedia, 2021)", full: "Wikipedia (2021, Feb 1). <em>Gay panic defense</em>. Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=1004212938#Uses_of_the_gay_panic_defense" }
-    malaika_fraley: { color: 20, short: "East Bay Times article (Fraley, 2016)", full: "Fraley, M. (2016, Oct 14). <em>Gwen Araujo murder 14 years later: Transgender teen’s killers face parole</em>. East Bay Times. Retrieved June 20, 2024, from", url: "https://www.eastbaytimes.com/2016/10/14/the-murder-of-gwen-araujo/"}
-    tvox_araujo: { color: 14, short: "T-vox Gwen article (T-vox, n.d.)", full: "T-vox (n.d.). <em>Gwen Araujo</em>. Retrieved June 20, 2024, from", url: "https://t-vox.org/history/people/gwen-araujo" }
-    wikipedia_araujo: { color: 15, short: "Wikipedia Gwen Article (Wikipedia, 2021)", full: "Wikipedia (2021, Nov 23) <em>Murder of Gwen Araujo</em>. Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Murder_of_Gwen_Araujo&oldid=1056817039" }
-    melanie_asmar: { color: 16, short: "Westword article (Asmar, 2009)", full: "Asmar, M. (2009, May 28). <em>Who was Angie Zapata? Her murderer's trial didn't tell the whole story</em>. Westword. Retrieved June 20, 2024, from", url: "https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955" }
-    kathy_craig: { color: 17, short: "The Swamp article (Craig, 2017)", full: "Craig, K. (2017). <em>Allen Andrade's Horrific Hate Crime: The Murder of Angie Zapata</em>. The Swamp. Retrieved June 20, 2024, from", url: "https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime" }
-    james_mckinley: { color: 18, short: "NY Times article (McKinley, 2016)", full: "McKinley, J.C., Jr. (2016, April 2). <em>Man’s Confession in Transgender Woman’s Death Is Admissible, Judge Rules</em>. The New York Times. Retrieved June 20, 2024, from", url: "https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html" }
-    hrc_violence: { color: 19, short: "Human Rights Campaign resource (HRC, 2021)", full: "HRC Foundation (2021). <em>Fatal Violence Against the Transgender and Gender-Expansive Community in 2021</em>. The Human Rights Campaign. Retrieved June 20, 2024, from", url: "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-expansive-community-in-2021" }
+    malaika_fraley: { color: 20, short: "(Fraley, 2016)", full: "Fraley, M. (2016, Oct 14). <em>Gwen Araujo murder 14 years later: Transgender teen’s killers face parole</em>. East Bay Times. Retrieved June 20, 2024, from", url: "https://www.eastbaytimes.com/2016/10/14/the-murder-of-gwen-araujo/"}
+    tvox_araujo: { color: 14, short: "(T-vox, n.d.)", full: "T-vox (n.d.). <em>Gwen Araujo</em>. Retrieved June 20, 2024, from", url: "https://t-vox.org/history/people/gwen-araujo" }
+    wikipedia_araujo: { color: 15, short: "(Wikipedia, 2021)", full: "Wikipedia (2021, Nov 23) <em>Murder of Gwen Araujo</em>. Retrieved June 20, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Murder_of_Gwen_Araujo&oldid=1056817039" }
+    melanie_asmar: { color: 16, short: "(Asmar, 2009)", full: "Asmar, M. (2009, May 28). <em>Who was Angie Zapata? Her murderer's trial didn't tell the whole story</em>. Westword. Retrieved June 20, 2024, from", url: "https://www.westword.com/news/who-was-angie-zapata-her-murderers-trial-didnt-tell-the-whole-story-5103955" }
+    kathy_craig: { color: 17, short: "(Craig, 2017)", full: "Craig, K. (2017). <em>Allen Andrade's Horrific Hate Crime: The Murder of Angie Zapata</em>. The Swamp. Retrieved June 20, 2024, from", url: "https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime" }
+    james_mckinley: { color: 18, short: "(McKinley, 2016)", full: "McKinley, J.C., Jr. (2016, April 2). <em>Man’s Confession in Transgender Woman’s Death Is Admissible, Judge Rules</em>. The New York Times. Retrieved June 20, 2024, from", url: "https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html" }
+    hrc_violence: { color: 19, short: "(HRC, 2021)", full: "HRC Foundation (2021). <em>Fatal Violence Against the Transgender and Gender-Expansive Community in 2021</em>. The Human Rights Campaign. Retrieved June 20, 2024, from", url: "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-expansive-community-in-2021" }
 
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -62,28 +90,28 @@ cite:
 <compare>
 {% include meta-history video=page %}
 <credits class="desc">
+<details {% include description-version for="2022-08-28" label="Vimeo Upload" %}>
+
+[None]
+
+</details>
 <details {% include description-version for="2021-12-16" label="YouTube Upload" %}>
 
 This formerly Patreon exclusive video essay explores the history of the Gay and Trans Panic Defenses in The United States.
 
-00:00 Content Warning  
-03:29 Introduction  
-08:38 Law Class  
-14:30 David Kammerer  
-20:18 William T. Simpson  
-26:36 Robert Jackson  
-34:46 Scott Amedure  
-41:23 Matthew Shepard  
-50:38 Billy Jack Gaither  
-58:36 My Conflict  
-01:00:43 Gwen Araujo  
-01:07:09 Angie Zapata  
-01:11:46 Islan Nettles  
-
-</details>
-<details {% include description-version for="2022-08-28" label="Vimeo Upload" %}>
-
-[None]
+{% include chapter-link at="00:00" for="Content Warning" %}  
+{% include chapter-link at="03:29" for="Introduction" %}  
+{% include chapter-link at="08:38" for="Law Class" %}  
+{% include chapter-link at="14:30" for="David Kammerer" %}  
+{% include chapter-link at="20:18" for="William T. Simpson" %}  
+{% include chapter-link at="26:36" for="Robert Jackson" %}  
+{% include chapter-link at="34:46" for="Scott Amedure" %}  
+{% include chapter-link at="41:23" for="Matthew Shepard" %}  
+{% include chapter-link at="50:38" for="Billy Jack Gaither" %}  
+{% include chapter-link at="58:36" for="My Conflict" %}  
+{% include chapter-link at="01:00:43" for="Gwen Araujo" %}  
+{% include chapter-link at="01:07:09" for="Angie Zapata" %}  
+{% include chapter-link at="01:11:46" for="Islan Nettles" %}  
 
 </details>
 </credits>
@@ -112,6 +140,8 @@ James's patreon post about moving the video from YouTube to Vimeo:
 
 <compare>
 <james {% include timecode %}>
+
+<u>[James at his computer desk]</u>
 
 Hey guys. I'm just in the process of editing the video that you're about to watch, and I thought I would drop a *severe* content warning right here. It's... it's a lot. Obviously, there's discussion of the murder of queer people. That's what the video's about. But there's also instances of audio that was taken from the killers, one of which they consistently refer to a trans woman as "he." I've made sure to keep any kind of deadnaming or anything like that out of there.
 
@@ -176,8 +206,10 @@ So thank you guys for watching. Thank you guys for being patrons. I really, real
 
 {% assign timecode = "00:03:31" %}
 
+<h4 id="introduction">(Introduction)</h4>
+
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 In early February 2008, in Oxnard, California, a 15 year old named Larry asked a fellow eighth grader named Brandon to be their valentine. Somehow, our society had given Brandon the impression that this innocent request was tantamount to a criminal offense. And so on February 12th, Brandon murdered Larry, shooting them twice in the back of the head. The first trial ended in a mistrial with several members of the jury agreeing with the defense's use of queer panic, stating that by Larry coming on to Brandon, they were essentially bullying him, leaving him with no choice but to kill the 15 year old.
 
@@ -190,7 +222,7 @@ Ellen DeGeneres (Feb. 29, 2008)<sup>1</sup>
 
 <footer>
 
-<sup>1</sup> DeGeneres spoke about the killing of Lawrence King on the Ellen DeGeneres show during an opening segment on February 29, 2008. For footage of this clip see The Ellen DeGeneres Show, A Tragedy That Should Never Have Happened, http://ellen.warnerbros.com/2008/07/a_tragedy_that_should_never_ha.php (last visited Oct. 16, 2008).
+<sup>1</sup> DeGeneres spoke about the killing of Lawrence King on the Ellen DeGeneres show during an opening segment on February 29, 2008. For footage of this clip see The Ellen DeGeneres Show, [A Tragedy That Should Never Have Happened](http://ellen.warnerbros.com/2008/07/a_tragedy_that_should_never_ha.php). (last visited Oct. 16, 2008).
 
 </footer>
 </from>
@@ -213,7 +245,7 @@ A second trial saw Brandon sentenced to 21 years in prison for voluntary manslau
 </compare>
 
 <compare>
-<clip>
+<clip {% include citation for=page.clips.news_clip1 %}>
 
 Newscaster 1: There was a surprise plea deal tonight in the case of a gay junior high student shot to death by a classmate. 
 
@@ -298,44 +330,39 @@ We won't know if Larry would have ever done that, though, because they only spen
 </from>
 </compare>
 
-{% assign timecode = "00:07:32"}
+{% assign timecode = "00:07:32" %}
 
 <compare>
 <credits class="opening">
 
-> James Somerton
+<u>[Over a background of ocean waves and classical music]</u>
+
+> James Somerton  
 Presents
 
-> Written by
+> Written by  
 James Somerton
 
-> Based on the reporting of:
+> Based on the reporting of:  
+Graham Brunk  
+James Polchin  
+Reggie  
+Lauren Kranc  
+Jeremy Gray  
+Malaika Fraley  
+Melanie Asmar  
+Yanan Wang  
 
-> Graham Brunk
-
-> James Polchin
-
-> Reggie
-
-> Lauren Kranc
-
-> Jeremy Gray
-
-> Malaika Fraley
-
-> Melanie Asmar
-
-> Yanan Wang
-
-> Produced by:
+> Produced by:  
 [Eight patron names]
 
-> Executive Producers:
+> Executive Producers:  
 [Six patron names]
 
-> Irresistible Impulse
+> ### Irresistible<br/>Impulse
 
-> The Sad History of the Queer Panic Defense in America
+> The Sad History of the Queer  
+> Panic Defense in America
 
 </credits>
 <comment {% include commenter for=tobi %}>
@@ -348,6 +375,8 @@ Jeremy Gray did write an article on Billy Jack Gaither, but Somerton plagiarised
 
 </comment>
 </compare>
+
+<h4 id="law-class">(Law Class)</h4>
 
 {% assign timecode = "00:08:38" %}
 
@@ -452,7 +481,7 @@ I. HISTORICAL ORIGINS OF THE CONCEPT OF GAY PANIC
 {% assign timecode = "00:10:51" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Kempf's study has since been used to back up the use of the queer panic defense that latent homosexuality is in and of itself a mental disorder, therefore excusing the defendant as being not in control of their own faculties. By using the gay panic defense, they are essentially admitting to be latently queer themselves. A nuance many of the defendants, I'm sure, are unaware of. 
 
@@ -474,16 +503,18 @@ James seems to be taking the "latent homosexuality is a mental illness" fragment
 <compare>
 <james {% include timecode %}>
 
-Gay panic in and of itself is a useless defense. It must be attached to something more meaty, something you can win over a jury with. 
+Gay panic in and of itself is a useless defense. It must be attached to something more meaty, something you can win over a jury with.
 
-<mark>Excuse or justification. <u>[Title card with A|Excuse or justification appears.]</u></mark> <mark>An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances.</mark> 
+<u>[Title Card]: A <span style="color:red">|</span></u> <mark>Excuse or justification</mark>
+
+<mark>An excuse defense is one in which the defendant's conduct is viewed as wrongful, but that he himself is not seen as morally at fault. A justification defense, on the other hand, focuses on the defendant's conduct more than his individual characteristics. A justification defense argues that the attacker's conduct was appropriate under the circumstances.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.cynthia_lee at="p.489" %}>
 
 <mark>*A. Excuse or Justification?*</mark>
 
-A preliminary question is whether gay panic, if allowed as a defense argument, should be recognized as an excuse or a justification. An excuse defense is one in which the actor's conduct is viewed as wrongful, but the actor himself is not seen as morally blameworthy.<sup>75</sup> A justification defense, in contrast, focuses on the actor's conduct more than the individual characteristics of the actor.<sup>76</sup> A justification defense says the actor's conduct was appropriate under the circumstances.<sup>77</sup> Examples of excuse defenses include insanity, duress, and intoxication. Necessity, self-defense, and defense of others are usually considered justification defenses.
+A preliminary question is whether gay panic, if allowed as a defense argument, should be recognized as an excuse or a justification. <mark>An excuse defense is one in which the actor's conduct is viewed as wrongful, but the actor himself is not seen as morally blameworthy.<sup>75</sup> A justification defense, in contrast, focuses on the actor's conduct more than the individual characteristics of the actor.<sup>76</sup> A justification defense says the actor's conduct was appropriate under the circumstances.<sup>77</sup></mark> Examples of excuse defenses include insanity, duress, and intoxication. Necessity, self-defense, and defense of others are usually considered justification defenses.
 
 <footer>
 
@@ -500,7 +531,7 @@ A preliminary question is whether gay panic, if allowed as a defense argument, s
 {% assign timecode = "00:11:47" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Truthfully, <mark>it's difficult to argue that queer panic should be called either a justification or an excuse. Justification suggests the defendant did the right thing in killing the victim, that he did what society would have wanted him to do.</mark> And <mark>an excuse defense suggests that the killer is not as morally blameworthy</mark> <mark>as he would have been had he killed a straight man or a cisgender woman.</mark> Both, in my humble opinion, are bullshit. <mark fc=false>Even most defense attorneys know that, so they very rarely try to argue for either justification or excuse.</mark>
 
@@ -517,7 +548,7 @@ Truthfully, <mark>it's difficult to argue that queer panic should be called eith
 
 </footer>
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="defense_attorneys" {% include commenter for=tobi %}>
 
 No, attorneys *have* to argue excuse or justification, or they're not going to get anywhere with a gay panic defense. The text literally says that out of the gay panic defense arguments, "provocation is a partial excuse defense, self-defense is a justification defense, and insanity and diminished capacity are excuse defenses." (Lee 490)
 
@@ -529,7 +560,11 @@ No, attorneys *have* to argue excuse or justification, or they're not going to g
 <compare>
 <james {% include timecode %}>
 
-Instead, they lean toward <mark>insanity. [Title card with B| Insanity appears.]</mark> <mark>Heterosexual men charged with killing gay men have argued that the victim's (homo)sexual advances triggered in them a violent psychotic reaction, causing them to lose control over their mental abilities.</mark> But always, always in a temporary manner. They were perfectly sane again after they were done killing them. 
+Instead, they lean toward...
+
+<u>[Title Card]: B <span style="color:red">|</span></u> <mark>Insanity</mark>
+
+<mark>Heterosexual men charged with killing gay men have argued that the victim's (homo)sexual advances triggered in them a violent psychotic reaction, causing them to lose control over their mental abilities.</mark> But always, always in a temporary manner. They were perfectly sane again after they were done killing them. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.cynthia_lee at="p.491" %}>
@@ -585,9 +620,13 @@ Instead, they lean toward <mark>insanity. [Title card with B| Insanity appears.]
 {% assign timecode = "00:13:45" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-They do have one other option though: <mark>diminished capacity. [Title card appears with C| Diminshd Capacity appears.]</mark> <mark>Another hook for defendants charged with murdering a gay man or trans woman is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a psychological illness that made it impossible for him to premeditate the murder.</mark> Unlike excuse, justification or insanity, this argument will not have you set free, but it will at the very least remove the possible charge of first degree murder, which could result in life in prison or the death penalty.
+They do have one other option though: 
+
+<u>[Title Card]: C <span style="color:red">|</span></u> <mark>Diminished Capacity</mark>
+
+<mark>Another hook for defendants charged with murdering a gay man or trans woman is the diminished capacity defense. Diminished capacity, a partial defense to murder, generally requires proof that the defendant was acting under the influence of a psychological illness that made it impossible for him to premeditate the murder.</mark> Unlike excuse, justification or insanity, this argument will not have you set free, but it will at the very least remove the possible charge of first degree murder, which could result in life in prison or the death penalty.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.cynthia_lee at="p.494-495" %}>
@@ -626,6 +665,8 @@ Now that we've taken a law class, it's time to take a history class. David Kamme
 
 </from>
 </compare>
+
+<h4 id="david-kammerer">David Kammerer</h4>
 
 {% assign timecode = "00:14:45" %}
 
@@ -746,14 +787,14 @@ Once in custody, Carr told police that over the years of their acquaintance, Kam
 {% assign timecode = "00:18:55" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-By September, when Carr entered a guilty plea of second-degree manslaughter, the assistant district attorney believed the Carr had not intended to kill Kammerer, a homosexual, but the Kammere for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence had made young Carr emotionally unstable. In her testimony, Mrs. Carr described Kammerer as a veritable Iago who had corrupted her son "purely for the love of evil."
+<mark>By September, when Carr entered a guilty plea of</mark> <span stat:id="changed-number">second-degree</span> <mark>manslaughter, the assistant district attorney believed the Carr had not intended to kill Kammerer, a homosexual, but the Kammere for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence</mark> <mark>had made young Carr emotionally unstable. In her testimony, Mrs. Carr described Kammerer as a veritable Iago who had corrupted her son "purely for the love of evil."</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.james_polchin at="¶10" %}>
 
-By September, when Carr entered a guilty plea of first-degree manslaughter, the Assistant District Attorney believed that Carr "had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence," the prosecutor added, "had made young Carr 'emotionally unstable.' " In her testimony, Mrs. Carr described Kammerer as a "veritable Iago" who had corrupted her son "purely for the love of evil."
+<mark>By September, when Carr entered a guilty plea of</mark> first-degree <mark>manslaughter, the Assistant District Attorney believed that Carr "had not intended to kill Kammerer, a homosexual, but that Kammerer for more than five years had persisted in making advances to Carr, which always were repulsed. Kammerer's persistence</mark>," the prosecutor added, "<mark>had made young Carr 'emotionally unstable.' " In her testimony, Mrs. Carr described Kammerer as a "veritable Iago" who had corrupted her son "purely for the love of evil."</mark>
 
 </from>
 <comment {% include commenter for=tobi %}>
@@ -787,10 +828,17 @@ The facts in this case are elastic, with too many contradicting stories over the
 
 {% assign timecode = "00:20:17" %}
 
+<h2 id="william-t-simpson">William T. Simpson <span style="font-size: small;">(1954)</span></h2>
+
 <compare>
+<comment {% include commenter for=tustin %}>
+
+This is the first actual section title card of the video, despite the description linking three different sections prior to this.
+
+</comment>
 <james {% include timecode %}>
 
-William T Simpson. <mark>Like most gay men at the time, William T Simpson lived a pretty modest life. He was 27 and was one of many gay men who worked for Eastern Airlines as a flight attendant. Eastern Airlines was based in Miami and was Dade County's largest employer at the time.</mark> 
+<mark>Like most gay men at the time, William T Simpson lived a pretty modest life. He was 27 and was one of many gay men who worked for Eastern Airlines as a flight attendant. Eastern Airlines was based in Miami and was Dade County's largest employer at the time.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.graham_brunk at="The Man ¶1" %}>
@@ -995,7 +1043,7 @@ William T Simpson. <mark>Like most gay men at the time, William T Simpson lived 
 {% assign timecode = "00:25:14" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Lawrence and Killen were eventually convicted of the lesser charge of manslaughter,</mark> <mark fc=false>with jurors reportedly furious</mark> when the judge <mark num=2>sentenced them to 20 years in prison.</mark> 
 
@@ -1005,7 +1053,7 @@ William T Simpson. <mark>Like most gay men at the time, William T Simpson lived 
 <mark>Lawrence and Killen were eventually convicted of a lesser charge of manslaughter</mark> and <mark>sentenced to 20 years in prison.</mark> Both men are alive today and in their 80s, living in Palm Beach County.
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="furious_juries" {% include commenter for=tobi %}>
 
 Why would the jury be furious? They're the ones who convicted him.
 
@@ -1059,15 +1107,16 @@ In the 1970s, singer and orange juice spokeswoman Anita Bryant launched her now 
 </from>
 </compare>
 
+<h2 id="robert-jackson">Robert Jackson <span style="font-size: small">(1968)</span></h2>
 {% assign timecode = "00:26:33" %}
 
 <compare>
 <james {% include timecode %}>
 
-Robert Jackson. <mark>On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital.</mark> 
+<mark>On the night of April 12th, 1968, a tow truck driver was flagged down by a man who appeared out of nowhere on the dark road. He told the driver that he'd been shot and needed to go to the hospital.</mark> 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Youtube Video 0:00-0:18" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="YT (0:00-0:18)" %}>
 
 <mark>It was April 12th, 1968, at 10:45 p.m., when a tow truck driver on the way to his last call of the night was flagged down by a man who appeared out of the dark. The bloody man told the tow truck driver that he had been shot and needed to go to a hospital.</mark> 
 
@@ -1082,7 +1131,7 @@ Robert Jackson. <mark>On the night of April 12th, 1968, a tow truck driver was f
 The driver, panicked, rushed Jackson to the nearest emergency room. <mark>Once there, he was able to give some details to the local police that on the way home from a scout meeting, he had been approached by a young man asking for a ride.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Youtube Video 0:45-1:02" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="YT (0:45-1:02)" %}>
 
 <mark>At the hospital, Jackson was able to give a few more details. He said he left a Boy Scout meeting around 8:30 that night and while walking back to his car he was approached by a young man he didn't know who engaged him in conversation and then asked if he could give the young man a ride.</mark>
 
@@ -1097,7 +1146,7 @@ The driver, panicked, rushed Jackson to the nearest emergency room. <mark>Once t
 <mark>He told police that the man had pulled a gun on him and shot, but he couldn't remember any other details.</mark> He only knew the man had stolen his car. <mark>Jackson was then rushed into surgery and an all points bulletin was put out for the vehicle. At 5:35 a.m., an officer found Jackson's car pulled into a parking lot with 19 year old John Stephan Parisie asleep inside.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part One p.1" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T1 p.1" %}>
 
 <mark>Mr. Jackson said he remembered a gun being pulled on him and gunshots, but he couldn't remember any of the other details.</mark>
 
@@ -1116,7 +1165,7 @@ The driver, panicked, rushed Jackson to the nearest emergency room. <mark>Once t
 <mark>After finding Jackson's wallet on him, Parisie was arrested.</mark> Now <mark>in police custody</mark> <mark>Parisie said that he had met Jackson a few days before when he had gone into Chetson Motors to look at used sports cars. Parisie told police that he had given Jackson his phone number so he could be contacted when new sports cars became available. A few days later, while walking downtown, Jackson drove up alongside him and offered Parisie a ride which he said he accepted.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part One p.1-2" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T1 p.1-2" %}>
 
 <mark>Mr. Parisie was placed under arrest and searched at the scene, the officer found Jackson's wallet,</mark> gas credit card and cigarette lighter in Parisie's pocket.
 
@@ -1137,7 +1186,7 @@ In his account, <mark>Parisie said that he had met Jackson a few days before whe
 <mark>Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. According to Parisie, Jackson stopped the car, pushed the driver's seat back, and placing his hand on Parisie's crotch, said <q>"John, I'd like to give You a blow job."</q> Parisie says he declined the offer. Smiling Jackson told him, <q>"If you don't let me Do it you'll have to walk back to town."</q></mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part One p.2" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T1 p.2" %}>
 
 <mark>Parisie said he thought that they would drive around Springfield Lake, but Jackson drove down a dark secluded street instead. Parisie said Jackson stopped the car, pushed the driver's seat back placing his hand on Parisie's crotch saying, "John I'd like to give you a blowjob" Parisie says he declined the offer. Smiling Jackson told him, "If you don't let me "do it" you'll have to walk back to town."</mark>
 
@@ -1152,7 +1201,7 @@ In his account, <mark>Parisie said that he had met Jackson a few days before whe
 <mark>Parisie told police that the threat of being stranded in the middle of nowhere made him "blow up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.</mark> <mark>That morning, at 10:20 a.m.,</mark> <mark>Robert Jackson died from his injuries. He was 36 years old.</mark> <mark>The murder of Robert Jackson and the trial that followed helped to define how the gay panic defense would be used in courts across America.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part One p.2" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T1 p.2" %}>
 
 <mark>Parisie told police that the threat of being stranded in the middle of nowhere made him, "blow-up and lose it." Parisie said he remembered some sort of struggle and gunshots, but all the other details were fuzzy.</mark>
 
@@ -1182,7 +1231,7 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <mark>What makes the John Parisie murder trial unique in the life of the queer panic defense is how his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie's defense.</mark> <mark>First, they wanted to demonstrate that he was suffering from a mental illness, in this case, paranoid schizophrenia which helped trigger a gay panic episode.</mark> <mark>The second part of the defense strategy was to show Robert Jackson's prior homosexual activity.</mark> <mark>Parisie's defense hinged on persuading the jury that his fear and revulsion of his own latent homosexuality collided with Robert Jackson, a married father, scout leader and successful businessman by day who led a secret life of sexual deviancy at night.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.2" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.2" %}>
 
 <mark>What makes the John Parisie murder trial unique in the life of the homosexual panic defense is how slavishly his lawyers stuck to Dr. Edward Kempf's 1920 theory of homosexual panic as it applied to Parisie’s defense.</mark>
 
@@ -1203,7 +1252,7 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <mark>That was the plan, but the entirety of this defense would never be heard by a jury.</mark> <mark>Two months prior to the trial, Robert Jackson's brother, Bert Jackson, a lawyer representing the victim, and Jackson's widow, requested and were granted a private conversation with the trial judge.</mark> <mark>The family's attorney read this prepared statement.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.2" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.2" %}>
 
 <mark>That was the plan but the entirety of this defense would never be heard by a jury.</mark>
 
@@ -1224,7 +1273,7 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <span stat:id="made-quote"><mark><q>"Although the court recognizes that evidence of homosexuality can be very important and would be admissible, that it would nevertheless enter an order prohibiting defense counsel from mentioning Jackson's homosexuality in the trial."</q></mark></span>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.2-3" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.2-3" %}>
 
 <mark>"I represent the widow and three young children of the decedent. And nature — I am informed and believe that the nature of the allegations will be devastating to the character and reputation of the decedent. They are untrue.”</mark>
 
@@ -1243,7 +1292,7 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <mark>This was a devastating blow to Parisie's defense. How does one persuade a jury that you killed a man in a gay panic... if you can't prove that the man you killed was gay?</mark> <mark>But things would get worse for the defense.</mark> <mark>During the first day of the jury selection. The court asked members of the potential jury pool the following question:</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.3" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.3" %}>
 
 <mark>This was a devasting blow to Parise’s defense. How do you persuade a jury that you reacted in a homosexual panic if you can’t offer proof that the man you killed engaged in previous homosexual activity?</mark>
 
@@ -1262,7 +1311,7 @@ It became tabloid fodder and even drew the attention of conservatives in the fed
 <mark><q>"There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?"</q> According to court records, one juror said, <q>"You can't expect me to say that this isn't going to make any difference to me if this man was a homosexual."</q> The newspaper account said no jurors were choice one the first day of the trial.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.3" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.3" %}>
 
 <mark>"There may be some evidence in this case of homosexuality. If the evidence should show any person whose name comes up during the trial of this case was involved in acts of homosexuality, would that fact alone create prejudice or sympathy for that person?” According to court records, one juror said: "You can't expect me to say this isn't going to make any difference to me if this man was a homosexual." The newspaper account said, "No jurors were choice one the first day of the trial."</mark>
 
@@ -1279,7 +1328,7 @@ Instead of looking for new jurors, <mark>they removed the question from the scre
 <mark><q>"Ladies and gentlemen of the Jury, our client, John Parisie, the 19-year-old boy that sits here at the table, has authorized us to tell you that his hand pulled the trigger of the gun that killed Robert Jackson. When John Parisi pulled the trigger of the gun that killed Robert Jackson he did so while repulsing a homosexual attack."</q></mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.3" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.3" %}>
 
 Which was just as well because on the second day of jury selection <mark>the trial court reversed itself and announced that it would no longer ask the jury about their ability to be objective in a case involving homosexuality.</mark>
 
@@ -1298,7 +1347,7 @@ Which was just as well because on the second day of jury selection <mark>the tri
 <mark>A court-appointed clinical psychologist who examined Parisie found him to be highly delusional, paranoid schizophrenic who is bisexual, loner with a basic distrust of people who had suppressed his emotions, causing periodical blowups. He found Parisi to be a highly latent homosexual (who would avoid homosexual situations like the plague) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, <q>"the individual comes apart and becomes insane for a period of time."</q></mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.3" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.3" %}>
 
 <mark>A court-appointed clinical psychologist who examined Parisie found him to be a highly delusional paranoid schizophrenic who was a bisexual loner with a basic distrust of people and who suppressed his emotions causing periodical blow-ups. He found Parisie to be a highly latent homosexual (who would avoid homosexual situations like the plaque) with strong feelings of inferiority and testified that severe stress of any type could result in an acute schizophrenic reaction with accompanying amnesia. During this schizophrenic reaction, "the individual comes apart and becomes insane for a period of time."</mark> (That description is right out of Dr. Kempf Homosexual Panic theory almost to the letter.)
 
@@ -1313,7 +1362,7 @@ Which was just as well because on the second day of jury selection <mark>the tri
 Parisie was only examined once. This description of him was not an actual diagnosis. <mark>It was a word for word reproduction of Dr. Kempf's theory of homosexual panic.</mark> <mark>When prosecutors cross-examined the psychologist, they managed to have him admit that gay panic was not a mental illness, nor was it part of psychiatric nomenclature.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.reggie_podcast at="Transcript Part Two p.4" %}>
+<from {% include citation for=page.cite.plagiarized.reggie_podcast at="T2 p.4" %}>
 
 Homosexual panic, the psychiatrist stated, is a mental defect and symptomatic of a mental disease.
 
@@ -1332,7 +1381,7 @@ Homosexual panic, the psychiatrist stated, is a mental defect and symptomatic of
 They were using junk science to justify a murder. <mark fc=false>The jury audibly booed the prosecutor. With no intervention from the judge.</mark> Parisie hadn't even testified yet, but the trial was essentially over.
 
 </james>
-<comment {% include commenter video=todd at="4464" %}>
+<comment id="jury_booing" {% include commenter video=todd at="4464" %}>
 
 Okay, I have the source that he's pulling from, which I guess is like a transcript of some no-name podcast or something, I'm not sure, but there is no mention in there of the jury *booing*, none at all. And also that's just ridiculous on its face, juries don't *boo*, that'd be an instant mistrial. Please find me *any* instance of this happening anywhere ever. Also the jury sided with the prosecutor, why would they have booed him for proving that gay panic wasn't a real thing? I don't understand what this detail is even supposed to mean.
 
@@ -1342,13 +1391,16 @@ Okay, I have the source that he's pulling from, which I guess is like a transcri
 {% assign timecode = "00:33:22" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark fc=false>Parisie was convicted of manslaughter, but upon appeal was set free. The appeals court stated that <q>"By not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak, the original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversities, a full acquittal would have been likely."</q> And so John Stephan Parisie was let back into the world, a world Robert Jackson no longer lived in.</mark>
+<mark fc=false></mark>Parisie was convicted of manslaughter, but upon appeal was set free. The appeals court stated that 
+
+> <mark fc=false stat:id="made-quote"></mark>"By not allowing more witnesses to testify that Robert Jackson was homosexual, but allowing Jackson's wife to speak, the original judge allowed too much doubt to seep in. If the jury were completely convinced of his perversities, a full acquittal would have been likely."
+
+And so John Stephan Parisie was let back into the world, a world Robert Jackson no longer lived in.
 
 </james>
-<from></from>
-<comment {% include commenter video=todd at="4590" %}>
+<comment id="todd_1" {% include commenter video=todd at="4590" %}>
 
 So it is true that after 14 years in prison, Parisie did win his appeal in 1982, partially because of the suppressed witnesses. However, this quote right here, the one where the judge calls the dead gay man a pervert and said his perversions would have led to an acquittal - I am almost certain that this quote is *completely fabricated*. It does *not* appear in the source he's pulling from, and it does not appear in any of the court rulings, of which there were several. It's possible that I just don't know my way around legal documents well enough to find the source of this quote, but also just on basic logic, I don't buy it. The gay Panic defense is used to get *leniency*, not acquittal. Somerton says that himself earlier in the video. 
 
@@ -1374,7 +1426,6 @@ Also, Reggie (and then James) claims that Parisie was convicted for manslaughter
 Over the next twenty years, the gay panic defense was used regularly<sup cn></sup> in American courtrooms, but not just in the murder of gay men. Because defendants often received reduced sentences when claiming gay panic, *many* murderers began claiming gay panic even when the victim was, <span stat:id="baa">by all accounts</span>, straight.<sup cn></sup> It was an easy way to have a sentence reduced<sup cn></sup> from murder to manslaughter, death penalties to prison time. A defense that prosecutors *loathed*, that gay rights organizations *fought* to end the use of, but that was roundly ignored by the general population. Most people had never *heard* of gay panic or the gay panic defense. It was just a... *relatively* obscure temporary insanity plea that most people would never need to know existed. But gay panic would eventually get national attention. 
 
 </james>
-<from></from>
 <comment {% include commenter for=tobi %}>
 
 As Cynthia Lee states, the gay panic defense generally did not work as a temporary insanity plea (491-494). I'm not sure if there's even one case of it working as a temporary insanity plea, though there were cases of it working as a diminished capacity plea.
@@ -1382,12 +1433,14 @@ As Cynthia Lee states, the gay panic defense generally did not work as a tempora
 </comment>
 </compare>
 
+<h2 id="scott-amedure">Scott Amedure <span style="font-size: small">(1995)</span></h2>
+
 {% assign timecode = "00:34:44" %}
 
 <compare>
 <james {% include timecode %}>
 
-Scott Amedure. Scott Amedure was a military veteran who appeared on *The Jenny Jones Show* in 1995 at the age of 32. <mark>The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003. Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed discipline, and reveal *secret* same sex crushes.</mark> 
+Scott Amedure was a military veteran who appeared on *The Jenny Jones Show* in 1995 at the age of 32. <mark>The Jenny Jones Show was a daytime tabloid talk show that ran for 12 years between 1991 and 2003. Low ratings and early seasons led the show to pivot to voyeuristic, exploitive content inspired by successes from talk show hosts such as Jerry Springer and Maury Povich. For example, Jenny Jones would bring in a woman who slept with a married man and his wife, encouraging them to confront one another in front of her live studio audience. She'd surprise a couple with a paternity test result on air, have spouses reveal affairs and break up with their partners, bring in unruly teenagers who needed discipline, and reveal *secret* same sex crushes.</mark> 
 
 Jenny Jones, though, wasn't quite as popular as her contemporaries. The show had started out as a competitor to *Oprah*, but it switched gears to trash TV eventually. 
 
@@ -1429,7 +1482,7 @@ The first episode of *Trial By Media* examines [such a segment that](https://www
 {% assign timecode = "00:36:47" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>It was later stated by Donna that Amedure and Schmitz went out drinking together that night after the taping and an alleged sexual encounter actually occurred,</mark> though this has never actually been confirmed. After the trio flew home, Jonathan called his father to tell him what happened. <mark fc=false>Jonathan found it quite funny, but his father reportedly was not so easygoing. In a later trial, his father admitted to telling his son that if he didn't do something about this, that people would think he was gay. Specifically, he had to kill Scott. Otherwise people would think he had been okay with the gay advances. Though he admitted under oath to coercing his son into committing murder, Jonathan's father was never tried. </mark>
 
@@ -1439,9 +1492,9 @@ The first episode of *Trial By Media* examines [such a segment that](https://www
 According to footage of the murder trial, <mark>it was stated later by a friend of Amedure's that Amedure and Schmitz went out drinking together the night after the taping and an alleged sexual encounter occurred.<sup>[3]</sup></mark> According to the testimony at the murder trial, three days after the taping, Amedure left a "suggestive" note at Schmitz's house.<sup>[5]</sup> After finding the note, Schmitz withdrew money from a bank, purchased a shotgun, and then went to Amedure's mobile home. He questioned Amedure about the note. Schmitz then returned to his car, got his gun, and returned to Amedure's trailer. He then shot Amedure twice in the chest, killing him. After killing Amedure, Schmitz left the residence, telephoned 9-1-1, and confessed to the killing.<sup>[6][7]</sup>
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="amedure_trial" {% include commenter for=tobi %}>
 
-[James is exagerrating *far* beyond what actually happened in the civil trial.](https://www.courttv.com/title/56-amedure-v-jenny-jones-allyn-schmitz-pt3/) Schmitz's father was homophobic and he was angry about the Jenny Jones incident. He *speculated* that Schmitz may have killed Amedure because he didn't want people thinking he was gay. But there is no clear indication that he *coerced* Schmitz into killing Amedure, why would he admit to that if he had done that? Like, he *could* have I guess, but I don't know, it just seems implausible. It feels like the prosecutor was just trying to insinuate that to improve his case. 
+[James is exaggerating *far* beyond what actually happened in the civil trial.](https://www.courttv.com/title/56-amedure-v-jenny-jones-allyn-schmitz-pt3/) Schmitz's father was homophobic and he was angry about the Jenny Jones incident. He *speculated* that Schmitz may have killed Amedure because he didn't want people thinking he was gay. But there is no clear indication that he *coerced* Schmitz into killing Amedure, why would he admit to that if he had done that? Like, he *could* have I guess, but I don't know, it just seems implausible. It feels like the prosecutor was just trying to insinuate that to improve his case. 
 
 </comment>
 </compare>
@@ -1479,7 +1532,7 @@ Three days after <mark>Amedure and Schmitz flew home</mark> together to Detroit 
 {% assign timecode = "00:38:35" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The prosecution argued that</mark> <mark>though Schmitz may have been embarrassed by the Jenny Jones taping, it did not justify his killing of Amedure.</mark> <mark>Schmitz drove to one store to purchase a shotgun, drove to another for ammunition, and then drove to Amedure's home before firing the fatal shots. That demonstrated premeditation.</mark> <mark>Prosecutors contended that when Schmitz went to Amedure's mobile home, Schmitz became violent. They said that the police report indicating an upturned chair at the crime scene shows that Amedure was trying to defend himself.</mark> <mark>The state had an oral confession and a videotaped confession from Schmitz. In a pretrial hearing, however, the judge ruled that both confessions were inadmissible.</mark>
 
@@ -1525,7 +1578,6 @@ Somerton leaves out why the confessions were ruled inadmissable, even though it 
 *Everyone* involved in the trial expected Schmitz to be convicted of first degree murder with a life sentence.<sup cn></sup> So there was palpable shock<sup cn></sup> when the jury did not convict of first degree murder, but second degree murder with a sentence of 25 years. A sentence that was soon overturned. Schmitz was tried once again in 1999, where he was convicted and sentenced to 50 years in prison, though he was released in 2017.
 
 </james>
-<from></from>
 <comment {% include commenter for=tobi %}>
 
 Schmitz received a sentence of 25-50 years in both trials, not 25 in the first trial and 50 in the other. He was granted parole in 2017. 
@@ -1547,10 +1599,11 @@ The murder of Scott Amedure should have brought the gay panic defense into publi
 {% assign timecode = "00:40:35" %}
 
 <compare>
-<clip {% include citation for=page.cite.clips. %}>
+<clip {% include citation for=page.cite.clips.news_clip2 %}>
 
-CNN commentator: Jonathan was a good boy. Jonathan never did anything in his whole life. 
-Elderly woman: He really is a good kid.
+<u>CNN commentator:</u> "Jonathan was a good boy. Jonathan never did anything in his whole life."
+
+<u>Elderly woman:</u> "He really is a good kid."
 
 </clip>
 </compare>
@@ -1560,7 +1613,7 @@ Elderly woman: He really is a good kid.
 <compare>
 <james {% include timecode %}>
 
-LGBT advocate groups fought hard to bring attention to the legally unsound gay panic defense that had been utilized, but people simply weren't interested. It had only been a few years since the supposedly liberal Clinton administration had banned gay men from serving in the military and banned same sex marriage federally, to high approval ratings among the American public. In the late 1990s, there was far more sympathy for those who murdered queer people than there was for the queer people being murdered. A sad reality that was about to be shaken one night in Laramie, Wyoming.
+LGBT advocate groups fought hard to bring attention to the legally unsound gay panic defense that had been utilized, but people simply weren't interested. It had only been a few years since the supposedly liberal Clinton administration had banned gay men from serving in the military and banned same sex marriage federally, to high approval ratings among the American public. In the late 1990s, there was far more sympathy for those who murdered queer people than there was for the queer people being murdered. A sad reality... that was about to be shaken one night in Laramie, Wyoming.
 
 </james>
 <comment {% include commenter for=tobi %}>
@@ -1570,9 +1623,9 @@ Clinton's "Don't Ask, Don't Tell" policy also banned out lesbians and bisexual p
 Clinton's Defense of Marriage Act prevented federal recognition of same sex marriage and allowed states to refuse to recognize same sex marriages performed in other states. The way James phrases it, it sounds like he thinks that it banned same sex marriage everywhere in the country, which it did not. 
 
 </comment>
-<from></from>
 </compare>
 
+<h2 id="matthew-shepard">Matthew Shepard <span style="font-size: small">(1998)</span></h2>
 {% assign timecode = "00:41:22" %}
 
 <compare>
@@ -1641,8 +1694,6 @@ After finding Matthew's body, Aaron Kreifels rushed to get in touch with paramed
 </james>
 <from {% include citation for=page.cite.plagiarized.wikipedia_shepard at="¶2" %}>
 
-https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 para 2
-
 <mark>Suspects Aaron McKinney and Russell Henderson were arrested shortly after the attack and charged with first-degree murder following Shepard's death. Significant media coverage was given to the murder and what role Shepard's sexual orientation played as a motive for the commission of the crime.</mark>
 
 </from>
@@ -1651,11 +1702,16 @@ https://en.wikipedia.org/w/index.php?title=Matthew_Shepard&oldid=1058975842 para
 {% assign timecode = "00:43:30" %}
 
 <compare>
-<clip {% include citation for=page.cite.clips. %}>
+<clip {% include citation for=page.cite.clips.shepard_interview1 %}>
 
-<q>Lt. DeBree: So, Obviously you don't like Gay people.</q>
+<u>[An audio clip of a cop interrogating one of the killers, with the words appearing on screen as the words are said.]</u>
 
-<q>McKinney: I really don't hate them, but When they start coming on to me and Stuff like that, I get pretty aggravated.</q>
+> Lt. DeBree: So, Obviously you don't like  
+> Gay people.
+>
+> McKinney: I really don't hate them, but  
+> When they start coming on to me and  
+> Stuff like that, I get pretty aggravated.
 
 </clip>
 </compare>
@@ -1678,24 +1734,30 @@ This was not your typical gay bashing in the media's eyes. Matthew's boyish good
 
 The media paid rapt attention when the murder trial against Aaron McKinney and Russell Henderson began. During the trial, we learned that <mark>on the night of October 6th, 1998, Matthew was approached by McKinney and Henderson at the Fireside Lounge in Laramie.</mark> <mark>McKinney and Henderson decided to give him a ride home. They subsequently drove to a remote rural area and proceeded to rob, pistol-whip and torture Matthew.</mark> 
 
-<clip {% include citation for=page.cite.clips. %}>
-
-McKinney: I hit him like three more Times after he was tied up.
-
-Lt. DeBree: Right after he has already Begged for you guys to stop?
-
-McKinney: He wasn't really saying nothing.
-
-</clip>
-
-<mark>Many media reports contained the graphic account of the pistol-whipping and his fractured skull. Matthew was beaten so brutally that his face was completely covered in blood, except for white streaks from his tears.</mark>
-
 </james>
-<from {% include citation for=page.cite.plagiarized.wikipedia_shepard at="Murder ¶1" %}>
+<from span=3 {% include citation for=page.cite.plagiarized.wikipedia_shepard at="Murder ¶1" %}>
 
 <mark>On the night of October 6, 1998, Shepard was approached by Aaron McKinney and Russell Henderson at the Fireside Lounge in Laramie;</mark> all three men were in their early 20s.<sup>[11][9]</sup> <mark>McKinney and Henderson offered to give Shepard a ride home.<sup>[12][13]</sup> They subsequently drove to a remote rural area and proceeded to rob, pistol-whip, and torture Shepard,</mark> tying him to a barbed-wire fence and leaving him to die. <mark>Many media reports contained the graphic account of the pistol-whipping and his fractured skull. Reports described how Shepard was beaten so brutally that his face was completely covered in blood, except where it had been partially cleansed by his tears.<sup>[10][14][15]</sup></mark>
 
 </from>
+<clip mark=cont {% include citation for=page.cite.clips.shepard_interview1 %}>
+
+<u>[More audio from that interrogation.]</u>
+
+> McKinney: I hit him like three more  
+> Times after he was tied up.
+> 
+> Lt. DeBree: Right after he has already  
+> Begged for you guys to stop?
+> 
+> McKinney: He wasn't really saying nothing.
+
+</clip>
+<james mark=cont {% include timecode %}>
+
+<mark>Many media reports contained the graphic account of the pistol-whipping and his fractured skull. Matthew was beaten so brutally that his face was completely covered in blood, except for white streaks from his tears.</mark>
+
+</james>
 </compare>
 
 {% assign timecode = "00:45:02" %}
@@ -1770,12 +1832,11 @@ In December 1998, Pasley pleaded guilty to being an accessory after the fact to 
 In the opening remarks of the trial of Aaron McKinney in the fall of 1999, McKinney's defense launched an all-out offense on the myth of Saint Matthew. In a familiar pattern of the gay panic defense, they attacked Shepard's conduct, his lifestyle, his sexual experiences, his morals and everything else that might sway a jury. The judge refused to even entertain the notion of gay panic. And so the defense team changed strategies - <mark fc=false>they would instead argue that Matthew's murder was justified, publicly announcing that he was HIV positive and therefore a danger to the entire community, that he was a sexual predator.</mark> But their smears weren't sticking. For McKinney's lawyers, the greatest threat to their defense was an emerging memory of Matthew Shepard as a valued, respected and likable person.
 
 </james>
-<comment {% include commenter for=tobi %}>
+<comment id="murder_justified" {% include commenter for=tobi %}>
 
 I am certain that Somerton made up the part about "Matthew's murder was justified" - I found no record of such a "defense" being used, and I'm sure it would have been a big deal if it had been used. The Westboro protesters were saying those things, not the defense attorneys. I'm not sure if most of the earlier attacks on Shepard (minus accusing Shepard of propositioning McKinney) actually happened either; from what I read of the trial, the defense mostly focused on explaining how McKinney's drug and alcohol use and trauma from sexual abuse led to him "snapping" when Shepard supposedly propositioned him, and that he hadn't intended to kill him when he beat him. It is true, though, that a gay panic defense was made and the judge refused to consider it. (https://www.washingtonpost.com/wp-srv/national/daily/nov99/shepard110199.htm) (https://www.washingtonpost.com/wp-srv/national/longterm/hatecrimes/stories/shepard102699.htm) 
 
 </comment>
-<from></from>
 </compare>
 
 {% assign timecode = "00:47:09" %}
@@ -1827,7 +1888,6 @@ McKinney's trial took place in October and November 1999. Prosecutor Cal Rerucha
 The death of Matthew did not fade from public memory. *The Laramie Project*, a play chronicling the murder and trial, premiered in 2000. A film adaptation of the play was released in 2002, as well as a TV movie, *The Matthew Shepard Story*. Multiple books have been written about the event, and countless documentaries and TV specials have told the story of Matthew's death. But it wasn't until his mother, Judy, published the book *The Meaning of Matthew* in 2010 that we really got to learn about his life. 
 
 </james>
-<from></from>
 <comment {% include commenter for=tobi %}>
 
 [*The Laramie Project* focuses on the impact that Shepard's murder had on the residents of Laramie, not the murder and trial itself, which are not portrayed in the play.](http://www.curtainup.com/laramieproject.html)
@@ -1840,7 +1900,9 @@ The death of Matthew did not fade from public memory. *The Laramie Project*, a p
 <compare>
 <james {% include timecode %}>
 
-Multiple allegations against Matthew have risen in recent years, with many police officers working on the case early on, saying that it was not a hate crime but a drug murder, that Matthew was a meth dealer, though other officers vehemently disagree with this attack. In 2013, a book entitled *The Book of Matt* was released that claimed Matthew to be a meth-dealing, heroin-addicted prostitute that had multiple sexual encounters with his killers. The author, Steven Jimenez, has been decried by LGBT rights organizations, politicians, media figures and everyone who knew Matt. In an interview, Jimenez said, <q>"This does not make the perfect poster boy for the gay-rights movement. Which is a big part of the reason my book has been so trashed."</q>
+Multiple allegations against Matthew have risen in recent years, with many police officers working on the case early on, saying that it was not a hate crime but a drug murder, that Matthew was a meth dealer, though other officers vehemently disagree with this attack. In 2013, a book entitled *The Book of Matt* was released that claimed Matthew to be a meth-dealing, heroin-addicted prostitute that had multiple sexual encounters with his killers. The author, Steven Jimenez, has been decried by LGBT rights organizations, politicians, media figures and everyone who knew Matt. In an interview, Jimenez said, <u>[James reads the following quote with utter contempt]</u>
+
+> "This does not make the perfect poster boy for the gay-rights movement. Which is a big part of the reason my book has been so trashed."
 
 </james>
 <from></from>
@@ -1872,12 +1934,13 @@ There was hope after Matthew's murder that the country would wake up, that the L
 <from></from>
 </compare>
 
+<h2 id="billy-jack-gaither">Billy Jack Gaither <span style="font-size: small">(1999)</span></h2>
 {% assign timecode = "00:50:47" %}
 
 <compare>
 <james {% include timecode %}>
 
-<q>Billy Jack Gaither.</q> <mark>Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there.</mark> <mark>Only around 100 gay people lived there, but most weren't open. Most would travel to bars in Birmingham to meet other gay people.</mark> 
+<mark>Sylacauga, Alabama, had less than 13,000 residents with seven churches when Billy Jack lived there.</mark> <mark>Only around 100 gay people lived there, but most weren't open. Most would travel to bars in Birmingham to meet other gay people.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.southern_podcast at="5:55-6:32" %}>
@@ -1903,9 +1966,9 @@ The town of <mark>Sylacauga, Alabama had less than 13,000 residents and seventy 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark>In school, he was often bullied.</mark> <mark>He dropped out of high school in the 11th grade, later getting his GED.</mark> He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else. <mark>He enlisted in the Marines</mark> <mark>after getting his GED,</mark> <mark>but was honorably discharged soon after due to high blood pressure.</mark>
+<mark>In school, he was often bullied.</mark> <mark>He dropped out of high school in the 11th grade, later getting his GED.</mark> <mark fc=false>He acted as a sort of local anti bully fighting against racist, sexist whites and anyone who thought they could beat up on someone else.</mark> <mark>He enlisted in the Marines</mark> <mark>after getting his GED,</mark> <mark>but was honorably discharged soon after due to high blood pressure.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.southern_podcast at="7:40-8:23" %}>
@@ -1913,9 +1976,9 @@ The town of <mark>Sylacauga, Alabama had less than 13,000 residents and seventy 
 <mark>In school, Billy was often bullied</mark> - he was called a fag and a queer. His brother Ricky said the name calling was difficult for Billy to deal with in such a small town. <mark>Billy Jack dropped out of high school in the 11th grade and later got his GED.</mark> but he stood up for himself and his siblings. He didn't like bullies and he would also put his brothers in check if he thought they were bullying someone else. According to Billy's brother Ricky, if you triggered his button, you better be ready. Billy's parents told the New York Times that <mark>after he got his GED</mark> <mark>he enlisted in the Marines</mark> <mark>but was honorably discharged a year later due to high blood pressure</mark>
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="superhero" {% include commenter for=tobi %}>
 
-James makes this truly bizarre exagerration where Billy is portrayed as some sort of local folk hero fighting against racism and sexism? What?
+James makes this truly bizarre exaggeration where Billy is portrayed as some sort of local folk hero fighting against racism and sexism? What?
 
 </comment>
 </compare>
@@ -1927,6 +1990,7 @@ James makes this truly bizarre exagerration where Billy is portrayed as some sor
 
 <mark>When he was 19, his brother sat him down to talk to him about him being gay. He denied it even though they were fine with it.</mark> When his brother pressed that it was fine and that they'd stand up for him, <mark>he said, Well, maybe I'm bisexual.</mark> 
 
+</james>
 <from {% include citation for=page.cite.plagiarized.southern_podcast at="8:24-8:53" %}>
 
 <mark>When Billy was 19, Ricky had a discussion with him about his sexuality. Billy denied being gay and Ricky assured him that it was okay if he was.</mark> <mark>Billy Jack reportedly said, "Well, I'm not gay, but maybe bisexual."</mark> His sister Kathy also confronted Billy around this age. He also tried to deny it to her, but Kathy was also gay, and she told him in no uncertain words that he *was* gay and he needed to figure it out.
@@ -1937,38 +2001,37 @@ James makes this truly bizarre exagerration where Billy is portrayed as some sor
 {% assign timecode = "00:51:56" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 As he grew into his sexuality, <mark>he kept it hidden from his parents,</mark> <mark>who were both disabled and who he acted as caretaker for</mark> <mark>taking them to doctors appointments, buying the groceries, cooking the meals, cleaning their house, all while holding down a full time job.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.southern_podcast at="10:00-10:15, 10:51-11:16" %}>
+<from {% include citation for=page.cite.plagiarized.southern_podcast at="10:00-10:15" %}>
 
 But at 39 years old, he seemed to have accepted himself and his place in Sylacauga. <mark>He was not out to his parents,</mark> and friends say he never flaunted his sexuality. But if you asked him, he would tell the truth.
 
-[...]
+</from>
+<from mark=cont {% include citation for=page.cite.plagiarized.southern_podcast at="10:51-11:16" %}>
 
 <mark>He lived with his disabled parents in their Sylacauga home. He took care of his parents</mark> and was devoted to them. Friends say that Billy Jack's parents were his whole life. He always put them first. <mark>He did all the shopping, he cooked all of their meals, and cleaned the house, mowed their lawn, took them to doctor's appointments, all while holding down a full-time job.</mark>
 
 </from>
-</compare>
+<james span=3 {% include timecode %}>
 
-<compare>
-<james {% include timecode %}>
-
-He wasn't a shut-in, though. He had gay friends in other parts of the state and in North Florida and <mark>had at least two <mark fc=false>long term relationships,</mark></mark> <mark>not including a woman he almost married, make his parents happy.</mark> When single he would go to gay or at least gay inclusive bars in more populated areas of the state. 
+He wasn't a shut-in, though. He had gay friends in other parts of the state and in North Florida and <mark>had at least two <mark fc=false stat:id="m-inverse">long term relationships,</mark></mark> <mark num=2>not including a woman he almost married, make his parents happy.</mark> When single he would go to gay or at least gay inclusive bars in more populated areas of the state. 
 
 </james>
-<from {% include citation for=page.cite.plagiarized.southern_podcast at="8:55-9:03, 12:37-12:46" %}>
+<from {% include citation for=page.cite.plagiarized.southern_podcast at="8:55-9:03" %}>
 
 According to his sibling, <mark>Billy really did try to be straight for the sake of his parents. He was even engaged to a girl once.</mark>
 
-[...]
+</from>
+<from mark=cont {% include citation for=page.cite.plagiarized.southern_podcast at="12:37-12:46" %}>
 
 Friends say Billy <mark>did have at least two short-term relationships with other men,</mark> but he would meet them out of town.
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="long_term" {% include commenter for=tobi %}>
 
 James changes "short-term" to "long-term."
 
@@ -1978,7 +2041,7 @@ James changes "short-term" to "long-term."
 {% assign timecode = "00:52:23" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 On February 19th, 1999, <mark>Billy Jack Gaither went to The Tavern, an Alabama nightclub where he had been friends with the owner, Marion Hammond,</mark> for 20 years. <mark>Gaither was a regular there.</mark> <mark>Another regular, Steve Mullins, also started hanging out at The Tavern.</mark> His presence, though, wasn't quite so benign. <mark>He sometimes showed up wearing racist T-shirts</mark> and <mark>harassing African American customers.</mark> <mark>He was known locally as a wannabe</mark> <mark>skinhead.</mark> <mark>People mentioned later that they saw Mullins and Gaither together at the bar a lot,</mark> assuming that Gaither was talking him out of his borderline white supremacist ways. <mark>Sometimes they would leave together, which made some people assume that they had a sexual relationship when in reality,</mark> <mark>Billy Jack was well known for driving his drunk friends home</mark> at the end of the night.
 
@@ -2000,16 +2063,17 @@ James calls Steven Mullins "Steve" instead of "Steven." Also, throughout the res
 {% assign timecode = "00:52:59" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
-<mark>Mullins had recently taken to hanging out with a man named Charles Butler</mark>. <mark>They'd known each other for years because Mullins had lived with Butler's <mark fc=false>cousin.</mark></mark> The two were hanging out at The Tavern one night when Billy Jack arrived a few hours later. No one was surprised when Billy Jack offered the pair drive home. What Billy Jack didn't know before he made the offer was that <mark>Mullins had told Butler that Billy Jack had propositioned him and that he was going to make sure it never happened again.</mark>
+<mark>Mullins had recently taken to hanging out with a man named Charles Butler</mark>. <mark>They'd known each other for years because Mullins had lived with Butler's <mark fc=false stat:id="m-inverse" id="brother_cousin">cousin.</mark></mark> The two were hanging out at The Tavern one night when Billy Jack arrived a few hours later. No one was surprised when Billy Jack offered the pair drive home. What Billy Jack didn't know before he made the offer was that <mark num=3>Mullins had told Butler that Billy Jack had propositioned him and that he was going to make sure it never happened again.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.southern_podcast at="15:42-15:57, 16:34-16:45" %}>
+<from {% include citation for=page.cite.plagiarized.southern_podcast at="15:42-15:57" %}>
 
 About a month before Billy was murdered, <mark>Steven started hanging around with a guy named Charles Butler</mark> Jr. His nickname was Charlie. <mark>They had known each other for a few years because Steven had lived with Charles's half-brother.</mark>
 
-[...]
+</from>
+<from {% include citation for=page.cite.plagiarized.southern_podcast at="16:34-16:45" %}>
 
 Steven and Charles didn't know Billy until the night of the murder. <mark>Steven had told Charles that Billy had propositioned him and Steven was quote "planning on doing something about it."</mark>
 
@@ -2026,7 +2090,7 @@ Also, why did he change "half-brother" to "cousin"? He clearly has the podcast t
 {% assign timecode = "00:53:27" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark><span stat:id="baa">From all accounts,</span></mark> <mark>the proposition never actually happened.</mark> <mark>Billy Jack never had encounters with men from Sylacauga</mark> for fear that word would get back to his parents. <mark>He only dated men from Birmingham</mark> <mark>and even admonished other gay men in local bars when they flirted too obviously.</mark> A friend said later that Billy was proud of being gay, but never expected anyone else to accept him.
 
@@ -2061,7 +2125,7 @@ When they were done discussing their plans, <mark>Charles came out and told Bill
 {% assign timecode = "00:54:10" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Though accounts for Mullins and Butler differ, we know that once they had arrived at the creek, the two began beating Billy, striking him over the head until he fell to the ground. Butler reportedly urinated on Billy once he was on the ground, and then Mullins cut his throat with a dull pocket knife. The dullness of the knife, though, meant Billy was bleeding, but not dead.
 
@@ -2128,7 +2192,7 @@ Steven grabbed Billy by his pants legs, and <mark>drug him away from the car and
 {% assign timecode = "00:55:47" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>When Billy didn't return home by the morning, his friends started searching for him</mark> and <mark>called the police.</mark> It wasn't long before they tied the missing person reports to the reports of black smoke that morning. <mark>When they arrived, they found teeth and hair on the ground,</mark> <mark>and then Billy's charred body.</mark> <mark>His skull was split open, his nose had been caved in,</mark> and his face was described as barely human. An autopsy came to the conclusion that, <mark>thankfully, Billy was dead before his body hit the flames.</mark>
 
@@ -2148,14 +2212,12 @@ I found no accounts of Billy's face being described as "barely human."
 {% assign timecode = "00:56:16" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Butler's father later said that when his son returned home the night of the murder, he said, <q>"I've got to tell you something. We killed somebody. We kicked a queer's ass." Butler said he'd turn himself in if his father went with him, but his father refused, saying he would never turn his own son in. But about a week later, Butler's father did tell a friend about what happened, and his friend went to the police.</mark> <mark>Butler confessed,</mark> <mark>saying God told him to do it.</mark> <mark>Later, Mullins said he did it because he did not trust homosexuals.</mark> <mark>Both men were arrested for murder.</mark> <mark>Neither men were charged with a hate crime because Alabama did not consider murdering a queer person a hate crime.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.southern_podcast at="27:31-28:58" %}>
-
-27:31-28:58
 
 <mark>According to Charles Butler Sr., his son came home around 3 A.M. the night of the murder. Charles Jr. told his dad he had something important to tell him. He started crying and said quote, "Daddy, we killed somebody" and said that they had quote, "kicked a queer's ass." Charles then said he would turn himself in if his dad would go with him, but Charles Sr. said he couldn't turn his own son in. But about a week later, Charles Sr. did tell his friend Joey about what happened. This Joey then went to the police</mark> a day later. On March 1, 1999, Charles Jr. went to the police and turned himself in. He said he couldn't sleep. <mark>He confessed</mark> to what he and Steven had done to Billy Jack. On March 3, Steven gave a statement to the Sylacauga police. <mark>He said God told him he needed to confess.</mark> At first, Steven told the police that he and Charles had planned on killing Billy a few weeks before they actually did. <mark>Steven said he killed Billy because he quote "did not trust homosexual people."</mark> <mark>Both Steven and Charles were arrested for murder</mark> and held on $500,000 bail. <mark>Steven and Charles were not charged with a hate crime because in Alabama, sexual orientation is not included in the hate crime statute.</mark> 
 
@@ -2172,10 +2234,11 @@ Charles Butler said that God told him to confess, not that God told him to murde
 <compare>
 <james {% include timecode %}>
 
-Butler claimed the gay panic defense, telling the police, <q>"Well, sir, he started talking, you know, queer stuff, you know, and I just didn't want no part of it."</q>
+Butler claimed the gay panic defense, telling the police, 
+
+> "Well, sir, he started talking, you know, queer stuff, you know, and I just didn't want no part of it."
 
 </james>
-<from></from>
 <comment {% include commenter for=tobi %}>
 
 The only places I could find this full quote online was at [murderpedia](https://murderpedia.org/male.B/b/butler-Charles.htm) and on page 79 of Cynthia Lee's *Murder and the Reasonable Man: Passion and Fear in the Criminal Courtroom* (2007). (They found the quote in the same place, a 1999 article at CourtTV by Bryan Robinson than seems to have been erased from the Internet.) Charles Butler actually withdrew his mental defect defense before the trial and instead argued that he had not killed Billy himself, Steven Mullins had done that alone, though "gay panic" was still featured in the trial. (Lee 2008, p. 493) 
@@ -2186,7 +2249,7 @@ The only places I could find this full quote online was at [murderpedia](https:/
 {% assign timecode = "00:57:06" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 The judge refused to accept it. Both men were sentenced to life in prison. And in 2019, twenty years after he beat Billy Jack Gaither to death, Steven Mullins was stabbed to death in prison. Charles Butler remains in prison. 
 
@@ -2212,7 +2275,7 @@ And I know I'm being a bit pedantic, but murdering a gay woman is not considered
 {% assign timecode = "00:57:44" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Weeks after Billy Jack's death, Terrence Hauser was murdered by his next door neighbor, Joseph Biederman, after he found out he was gay. In a now rare case of the gay panic defense working, Biederman was fully acquitted of the crime. The jury decided it was strictly self-defense. 
 
@@ -2232,9 +2295,9 @@ This could have been paraphrased from any number of sources, but I'm going to gu
 {% assign timecode = "00:58:01" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-As mentioned in my Monsters in the Closet video, <mark>James Miller of Austin, Texas, used the gay panic defense at his trial following the killing of his neighbor, Daniel Spencer, in September of 2015. The two were playing guitar together and drinking, and Miller testified he thought Spencer had propositioned him. The prosecution stated that Miller had stabbed Spencer in the back.</mark> <mark>In April 2018 a jury found Miller guilty of criminally negligent homicide, but not guilty of manslaughter or murder. Miller received a sentence of six months jail time, 10 years probation, and 100 hours of community service.</mark> 
+As mentioned in my [Monsters in the Closet video](4zPCM14-SCQ), <mark>James Miller of Austin, Texas, used the gay panic defense at his trial following the killing of his neighbor, Daniel Spencer, in September of 2015. The two were playing guitar together and drinking, and Miller testified he thought Spencer had propositioned him. The prosecution stated that Miller had stabbed Spencer in the back.</mark> <mark>In April 2018 a jury found Miller guilty of criminally negligent homicide, but not guilty of manslaughter or murder. Miller received a sentence of six months jail time, 10 years probation, and 100 hours of community service.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wikipedia_gaypanic at="Uses of the gay panic defense ¶25" %}>
@@ -2252,7 +2315,7 @@ The Wikipedia ID is from February 2021 because that was the last version before 
 {% assign timecode = "00:58:36" %}
 
 <compare>
-<james {% include timecode %}>
+<james id="my-conflict" {% include timecode %}>
 
 The gay men have not been the only victims of the queer panic defense. Often ignored by the media of the murders of trans women, especially trans women of color, though in many cases their killers are never caught and in some cases, never even really looked for. Sometimes these women's killers do end up in court, where queer panic becomes the backbone of their defense. 
 
@@ -2298,12 +2361,18 @@ I cannot begin to relate to the fear that these women live with every day - that
 <from></from>
 </compare>
 
+<h2 id="gwen-araujo">Gwen Araujo <span style="font-size: small">(2002)</span></h2>
 {% assign timecode = "01:00:41" %}
 
 <compare>
+<comment {% include commenter for=tustin %}>
+
+James's voice is very gravelly during this section, like he recorded it when he was sick or on the edge of crying the whole time.
+
+</comment>
 <james {% include timecode %}>
 
-<q>Gwen Araujo.</q> <mark>Gwen, often called a woman, was really just a 90-pound, 17 year old girl with no chance against the man who murdered her.</mark> 
+<mark>Gwen, often called a woman, was really just a 90-pound, 17 year old girl with no chance against the man who murdered her.</mark> 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.malaika_fraley at="¶2" %}>
@@ -2316,7 +2385,7 @@ I cannot begin to relate to the fear that these women live with every day - that
 {% assign timecode = "01:00:53" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Gwen grew up in Newark, California. <span stat:id="baa">By all accounts,</span> she was a happy and energetic child</mark> <mark>who expressed the desire to be female from a very early age.</mark> <mark>She came out as trans in 1999 at the age of 14 and began using the name Gwen after her favorite singer, Gwen Stefani.</mark> <mark>It was around this time that she began to be bullied at school. As the bullying intensified, she transferred out of public school and into alternative school.</mark> Her family didn't have the money for the hormone treatments and surgeries she required, so <mark>she began looking for work. But finding a job as a trans girl in the early 2000s wasn't easy.</mark> According to her family, her happy, bubbly demeanor started to fade, and <mark>she dropped out of school at the beginning of her senior year.</mark> 
 
@@ -2338,7 +2407,7 @@ Gwen Araujo was born on February 24, 1985, in Brawley, California, to Edward Ara
 {% assign timecode = "01:01:36" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>It was around this time that she met a circle of friends.</mark> The group of young adults was a mix of races and genders and <mark>enjoyed playing dominoes</mark> <mark>at the house they shared.</mark> Four men in the group - Michael Magidson, José Merél, Jaron Nabors, and Jason Cazares - took a particular shine to Gwen. <mark>A few weeks into the friendship, she was invited to a party they were planning.</mark>
 
@@ -2358,7 +2427,7 @@ James omits any mention of drugs, alcohol, and sexual intercourse, though the la
 {% assign timecode = "01:01:56" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>At the party on October 3, 2002 it was discovered, by forced inspection,</mark> <mark>that Gwen had a penis. Quickly, two of the men she befriended became extremely agitated.</mark> One of them, <mark>Magidson, began choking her in the hallway of the house. People began fleeing, but Jose Merel and Jaron Nabors remained.</mark> <mark>Jason Cazares claimed to go outside at this point, however, he didn't leave because Magidson had driven him there,</mark> and apparently he couldn't fathom walking home. Inside, <mark>the three assailants continued assaulting Gwen.</mark> She was brutally beaten for *five hours*. <mark>Jose Merel beat her over the head with a frying pan and then struck her again with a can of tomatoes.</mark> <mark>Mike Magidson kneed her in the head against the living room wall with such force that it left an indentation in the plaster.</mark>
 
@@ -2377,7 +2446,7 @@ I could not find an indication of how long the assault lasted. I don't think it 
 </comment>
 </compare>
 
-{% assign timecode = "01:02:46 %}
+{% assign timecode = "01:02:46" %}
 
 <compare>
 <james {% include timecode %}>
@@ -2387,7 +2456,7 @@ I could not find an indication of how long the assault lasted. I don't think it 
 </james>
 <from {% include citation for=page.cite.plagiarized.tvox_araujo at="Death ¶3" %}>
 
-<mark>After some time in the living room, Gwen was then taken to the garage of the home, where she was strangled by a rope</mark>(stories conflict as to whether Mike Magidson or Jaron Nabors strangled her). Most accounts have Jose Merel cleaning blood out of the carpet at the time she was strangled. <mark>She was then hog-tied, wrapped in a blanket and placed in the bed of a pick-up truck. The three assailants, plus Jason Cazares drove her body to parkland in El Dorado County, California, a wooded area in the foothills of the Sierra Nevada known as Silver Fork, where she was finally buried in a shallow grave. It is not clear at what point during this sequence of events Gwen’s death occurred. However the autopsy showed that Gwen died from strangulation associated with blunt force trauma to the head.</mark>
+<mark>After some time in the living room, Gwen was then taken to the garage of the home, where she was strangled by a rope</mark> (stories conflict as to whether Mike Magidson or Jaron Nabors strangled her). Most accounts have Jose Merel cleaning blood out of the carpet at the time she was strangled. <mark>She was then hog-tied, wrapped in a blanket and placed in the bed of a pick-up truck. The three assailants, plus Jason Cazares drove her body to parkland in El Dorado County, California, a wooded area in the foothills of the Sierra Nevada known as Silver Fork, where she was finally buried in a shallow grave. It is not clear at what point during this sequence of events Gwen’s death occurred. However the autopsy showed that Gwen died from strangulation associated with blunt force trauma to the head.</mark>
 
 </from>
 </compare>
@@ -2425,7 +2494,7 @@ I could not find an indication of how long the assault lasted. I don't think it 
 {% assign timecode = "01:04:27" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>In their first trial, some of the defendants used a variant of the gay panic defense: the trans panic defense. Magidson's defense involved an implicit acknowledgment of his role in Gwen's death, but argued that he acted in the heat of passion,</mark> that discovering that Gwen was transgender caused him to spiral into a fit of uncontrollable rage, <mark>and therefore, he should be found guilty of manslaughter, not murder, under California law. Merel's attorney denied any involvement by Merel in the killing. Cazares, the only defendant to actually testify at the first trial,</mark> <mark>denied involvement in the murder but admitted to helping bury her.</mark> <mark>All three attacked Nabors' as credibility, arguing that he minimized his own role in Gwen's death and had the most to gain by lying. The jury deadlocked on all three defendants, with the case ending in a mistrial.</mark> They were free.
 
@@ -2451,8 +2520,6 @@ However, they were tried a second time. <mark>In contrast to the first trial, wh
 
 </james>
 <from {% include citation for=page.cite.plagiarized.tvox_araujo at="Second Trial ¶1" %}>
-
-https://t-vox.org/history/people/gwen-araujo Second Trial
 
 <mark>In contrast to the first trial, where only Cazares testified, all three defendants testified in this trial — and blamed each other as well as Nabors.</mark> However, Jose Merel conceded (like the prosecution witnesses) that Cazares intervened on behalf of Araujo during the beating. Magidson claimed to have blacked out during the beating and was unable to recall whether Cazares intervened. Cazares again claimed to be only involved in burying Araujo. No witnesses ever testified to seeing Cazares strike the victim in any manner. Jose Merél blamed Nabors as the main killer, and indicated that Magidson helped Nabors strangle Araujo to death; Merél acknowledged hitting Araujo over the head with a pan, but claimed he never wanted to kill her. Magidson also largely blamed Nabors, but also claimed to be heavily intoxicated the night of Araujo’s death. Jose Merel and Mike Magidson said that Jaron Nabors struck Gwen in the head with a barbell weight, which had not previously been disclosed. A weight from the house was brought into court and did show a presumptively positive test for blood. Nabors denied that anyone used a weight to strike Gwen. Nabors’ girlfriend also testified about the letter she received from Nabors while she was in custody. She testified that the letter contained a number of factual accounts that were lies, and that Nabors often lied to her.
 
@@ -2494,7 +2561,7 @@ On August 24, 2005, closing argument commenced. <mark>Prosecutor Chris Lamiero a
 {% assign timecode = "01:06:25" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Later on, a juror went on the record saying that members of the jury did not believe a hate crime had been committed because it was just a bunch of boys being boys.
 
@@ -2521,8 +2588,6 @@ The jury did not think it was "just a bunch of boys being boys.” According to 
 </james>
 <from {% include citation for=page.cite.plagiarized.tvox_araujo at="Remembrance ¶2-3" %}>
 
-https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
-
 <mark>Those who knew Gwen were joined by hundreds of sympathizers for her funeral located at St. Edward’s Catholic Church in Newark. Following the ceremonies, there was a march through main streets leading to the community’s mall attended by community dignitaries and leaders.</mark> Gwen was remembered again during the "Remembering Our Dead” vigils that took place in several major cities to commemorate the deaths of 27 transgender people during the 12 month period that contained Gwen Araujo’s own death. A few days after the funeral, members of the Westboro Baptist Church (followers of Fred Phelps) picketed the church proclaiming that "cross-dressing teen pervert Eddie Araujo (a.k.a. Gwen or Lida) has joined Matthew Shepard in hell.” The clan also picketed many places around the Newark area including Newark Memorial High School where drama students performed The Laramie Project.
 
 <mark>At Gwen’s mother request, a judge posthumously changed Gwen’s legal name to Gwen on June 23, 2004.</mark>
@@ -2530,12 +2595,13 @@ https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
 </from>
 </compare>
 
+<h2 id="angie-zapata">Angie Zapata <span style="font-size: small;">(2008)</span></h2>
 {% assign timecode = "01:07:08" %}
 
 <compare>
 <james {% include timecode %}>
 
-<q>Angie Zapata.</q> <mark>Those who followed the murder trial of eighteen-year-old Angie Zapata in 2009 found out a lot about her life in the days directly surrounding her murder.</mark> <mark>How two of her sisters found her on July 17, lying on the living room floor of her one-bedroom apartment, her stiff body covered with a bloodstained blanket. How three days earlier, she'd borrowed her mother's car to pick up a man in Thornton. How she hadn't told friends or family who he was.</mark>
+<mark>Those who followed the murder trial of eighteen-year-old Angie Zapata in 2009 found out a lot about her life in the days directly surrounding her murder.</mark> <mark>How two of her sisters found her on July 17, lying on the living room floor of her one-bedroom apartment, her stiff body covered with a bloodstained blanket. How three days earlier, she'd borrowed her mother's car to pick up a man in Thornton. How she hadn't told friends or family who he was.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.melanie_asmar at="¶1-2" %}>
@@ -2569,6 +2635,7 @@ https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
 
 <mark>Andrade had spent the day alone in Angie's apartment and later told police that he'd begun to grow suspicious of Angie's gender after looking at the photographs that decorated her neat living room. That night,</mark> <mark>Andrade demanded Angie prove she was a woman. She refused. So he did it himself, grabbing her crotch.</mark> She froze as <mark>he began beating her until she fell down. Then he grabbed a fire extinguisher from the kitchen wall and hit her twice in the head. After that, he covered her with a blanket and began cleaning up.</mark> 
 
+</james>
 <from {% include citation for=page.cite.plagiarized.melanie_asmar at="¶4-6" %}>
 
 <mark>Andrade had spent the day alone in Angie's apartment and later told police that he'd begun to grow suspicious of Angie's gender after looking at the photographs that decorated her neat living room. That night,</mark> he said, he confronted her about it.
@@ -2643,7 +2710,7 @@ https://t-vox.org/history/people/gwen-araujo Remembrance para 2-3
 {% assign timecode = "01:09:38" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>According to Angie's sister Monica, Angie had dreams of moving to Denver to work as a cosmetologist.</mark> <mark>She was looking for the love of someone who could be proud of who she was.</mark> When that became all too hard to find, <mark>she began hanging around with a rough crowd and dating dangerous men</mark>.
 
@@ -2716,15 +2783,16 @@ But she'll always be remembered, not just as the sweet soul that she was in life
 <from></from>
 </compare>
 
+<h2 id="islan-nettles">Islan Nettles <span style="font-size: small;">(2013)</span></h2>
 {% assign timecode = "01:11:45" %}
 
 <compare>
 <james {% include timecode %}>
 
-<q>Islan Nettles.</q> Finally, I would like to take a moment to talk about Islan Nettles. On August 17th, 2013, she was walking home from work when she was spotted by James Dixon and his friends on Frederick Douglass Boulevard in Harlem. <mark>Dixon crossed the street and began talking to her,</mark> <mark>asking her for her name and where she was from.</mark> <mark>His friends began mocking him for flirting with Nettles, saying, "that's a guy."</mark>
+Finally, I would like to take a moment to talk about Islan Nettles. On August 17th, 2013, she was walking home from work when she was spotted by James Dixon and his friends on Frederick Douglass Boulevard in Harlem. <mark>Dixon crossed the street and began talking to her,</mark> <mark>asking her for her name and where she was from.</mark> <mark>His friends began mocking him for flirting with Nettles, saying, "that's a guy."</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶12=13" %}>
+<from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶12-13" %}>
 
 Though he initially gave a different account of his encounter with Ms. Nettles, Mr. Dixon admitted while being questioned by a homicide detective that he had seen some of his friends talking to her and a second transgender woman, who was more heavy set and wore a white top and sandals. <mark>He crossed the street and began chatting with Ms. Nettles,</mark> whom he did not realize was transgender. "I remember <mark>asking her what is her name, where are you from,”</mark> he said. "That’s how I roll up.”
 
@@ -2736,11 +2804,9 @@ Then, he said, <mark>he heard one of his friends mocking him, saying, "That’s 
 {% assign timecode = "01:12:12" %}
 
 <compare>
-<clip {% include citation for=page.cite.clips. %}>
+<clip {% include citation for=page.cite.clips.nettles_interview1 at="1:15"%}>
 
-https://www.youtube.com/watch?v=XrbDpePgYkM 1:15
-
-<q>James Dixon: I happened to cross the street thinking that Two other people were female, which they weren't. And we engaged in conversation I guess a friend of mine must have realized, You know, that was a guy instead of a girl and he Yelled out, you know, what it was. And as I pushed away, You know, trying to leave, I guess he - he must have Pushed back. You know, I was drunk so I got enraged, You know. And then I attacked.</q>
+> James Dixon: I happened to cross the street thinking that Two other people were female, which they weren't. And we engaged in conversation I guess a friend of mine must have realized, You know, that was a guy instead of a girl and he  Yelled out, you know, what it was. And as I pushed away, You know, trying to leave, I guess he - he must have Pushed back. You know, I was drunk so I got enraged, You know. And then I attacked.
 
 </clip>
 </compare>
@@ -2748,18 +2814,17 @@ https://www.youtube.com/watch?v=XrbDpePgYkM 1:15
 {% assign timecode = "01:12:41" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Dixon's attack left her comatose, her face battered beyond recognition. She died five days later in hospital.</mark> <mark>Three days after the assault, Dixon turned himself in to the police and confessed, telling a detective that he had flown into a blind fury when he discovered that he was talking to a transgender person. The next morning, he was videotaped repeating the story for prosecutors.</mark>
 
 </james>
-<from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶7,9" %}>
-
-para 7, 9
+<from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶7" %}>
 
 Ms. Nettles died of head injuries she sustained when her head rammed into the pavement as Mr. Dixon hit her, prosecutors say. <mark>Battered beyond recognition, she was taken off life support after a week in a coma.</mark>
 
-[...]
+</from>
+<from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶9" %}>
 
 <mark>Three days after the assault, Mr. Dixon, of Classon Avenue in Brooklyn, turned himself in to the police and confessed, telling a detective he had flown into "a blind fury” when he discovered he was talking to a transgender woman. The next morning, he was videotaped repeating the story for prosecutors.</mark>
 
@@ -2769,9 +2834,11 @@ Ms. Nettles died of head injuries she sustained when her head rammed into the pa
 {% assign timecode = "01:13:05" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
-<mark>Confession notwithstanding, he was not indicted until March of 2015,</mark> a year and a half after the murder. Despite public outcry and a personal plea from Islan's mother, Dolores, the state of New York refused to charge Dixon with a hate crime. Nearly three years after the murder, Dixon was finally sentenced - twelve years with the possibility of parole. When the media announced the verdict, most headlines simply read, "Transgender Woman's Killer Sentenced to 12 Years." *The New York Times*, *NBC News*, *The New York Post*, *The Cut.com*, *The New York Daily News* -  none of them put Islan's name in the headline. Transgender woman, that's all she was. Just another dead trans woman of color whose life had been stolen, not for anything she had done, but because of who she was. 
+<mark>Confession notwithstanding, he was not indicted until March of 2015,</mark> a year and a half after the murder. Despite public outcry and a personal plea from Islan's mother, Dolores, the state of New York refused to charge Dixon with a hate crime. Nearly three years after the murder, Dixon was finally sentenced - twelve years with the possibility of parole. 
+
+When the media announced the verdict, most headlines simply read, "Transgender Woman's Killer Sentenced to 12 Years." *The New York Times*, *NBC News*, *The New York Post*, *The Cut.com*, *The New York Daily News* -  none of them put Islan's name in the headline. Transgender woman, that's all she was. Just another dead trans woman of color whose life had been stolen, not for anything she had done, but because of who she was. 
 
 </james>
 <from {% include citation for=page.cite.plagiarized.james_mckinley at= "¶10" %}>
@@ -2815,11 +2882,13 @@ Dozens of trans people are murdered every year in the United States, and these a
 {% assign timecode = "01:14:40" %}
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>In 2013, the American Bar Association unanimously passed a resolution imploring states to ban the use of the queer panic defense.</mark> But as of December 2021, only <mark fc=false>eleven states</mark> have done so. 
 
 Though I've only discussed the queer panic defense within America. It is by no means a uniquely American problem. Australia, New Zealand, the Philippines and the UK also have their own versions of the defense with varying rates of success and legality.
+
+Many judges today reject the defense immediately, and many juries will hold it against the defense for trying to use it. There's a stigma against the defense now, even if it is still perfectly legal in <mark fc=false>39 states.</mark> But just because jurors and judges may dismiss the use of queer panic, it's not a sure thing. The only way to ensure that justice is achieved in the murder of queer people is to enact a legislative ban on the gay and trans panic defenses, something <mark fc=false>11 states</mark> have done. But what of the <mark fc=false>other 39</mark>?
 
 </james>
 <from {% include citation for=page.cite.plagiarized.wikipedia_gaypanic at= "State laws ¶1" %}>
@@ -2827,22 +2896,11 @@ Though I've only discussed the queer panic defense within America. It is by no m
 In 2006, the California State Legislature amended the Penal Code to include jury instructions to ignore bias, sympathy, prejudice, or public opinion in making their decision, and a directive was made to educate district attorneys' offices about panic strategies and how to prevent bias from affecting trial outcomes.<sup>[50][51]</sup> <mark>The American Bar Association (ABA) unanimously passed a resolution in 2013 urging governments to follow California's lead in prescribing explicit juror instructions to ignore bias and to educate prosecutors about panic defenses.<sup>[52][53]</sup></mark>
 
 </from>
-<comment {% include commenter for=tobi %}>
+<comment id="outdated_info" {% include commenter for=tobi %}>
 
 James seems to be skimming the Wikipedia article for the rest of this section. He's not very good at it though, because in December 2021 there were more than 11 states that had banned some version of the gay panic defense. It's possible that, like before, he is still referring to an earlier version of the article despite having updated the date to December 2021, or he just read "In July 2020, Colorado became the 11th US state to abolish the gay panic defense" and just didn't look any closer. Anyway, in December 2021, according to the Wikipedia article, 15 states had banned the gay/trans panic defense, plus the District of Columbia. [As of June 2024, it's now 19 states.](https://www.lgbtmap.org/equality-maps/panic_defense_bans), with Minnesota being the most recent state to pass such a law.
 
 </comment>
-</compare>
-
-{% assign timecode = "01:15:10" %}
-
-<compare>
-<james {% include timecode %}>
-
-Many judges today reject the defense immediately, and many juries will hold it against the defense for trying to use it. There's a stigma against the defense now, even if it is still perfectly legal in <mark fc=false>39 states.</mark> But just because jurors and judges may dismiss the use of queer panic, it's not a sure thing. The only way to ensure that justice is achieved in the murder of queer people is to enact a legislative ban on the gay and trans panic defenses, something <mark fc=false>11 states</mark> have done. But what of the <mark fc=false>other 39</mark>?
-
-</james>
-<from></from>
 </compare>
 
 {% assign timecode = "01:15:43" %}
@@ -2883,57 +2941,38 @@ So mourn their deaths and celebrate their lives, and most importantly, remember 
 <compare>
 <credits class="closing" >
 
-> Iressistible Impulse
+> ### IRRESISTIBLE IMPULSE
 
-> The Queer Panic Defense In America
+> #### The Queer Panic Defense In America
 
-> based on the reporting of:
+> based on the reporting of:  
+Graham Brunk  
+James Polchin  
+Reggie  
+Lauren Kranc  
+Jeremy Gray  
+Malaika Fraley  
+Melanie Asmar  
+Yanan Wang  
 
-> Graham Brunk
+> Footage taken from:  
+Staging A Response to Hate  
+Dangerous Stranger (1950)  
+A Girl Like Me  
+The Matthew Shepard Story  
+The Laramie Project  
+"How Florida Legally Terrorized Gay Students" (VOX)  
+American Justice - The Murder of Matthew Shepard  
+Billy Ineffable  
+The Unusual Case of Scott Amedure and Jonathan Schmitz  
+Trial By Media  
+Valentine Road  
+Kill Your Darlings  
 
-> James Polchin
+> Thank you to all of my amazing patrons  
+for making this video possible!
 
-> Reggie
-
-> Lauren Kranc
-
-> Jeremy Gray
-
-> Malaika Fraley
-
-> Melanie Asmar
-
-> Yanan Wang
-
-> Footage taken from:
-
-> Staging A Response to Hate
-
-> Dangerous Stranger (1950)
-
-> A Girl Like Me
-
-> The Matthew Shepard Story
-
-> The Laramie Project
-
-> "How Florida Legally Terrorized Gay Students" (VOX)
-
-> American Justice - The Murder of Matthew Shepard
-
-> Billy Ineffable
-
-> The Unusual Case of Scott Amedure and Jonathan Schmitz
-
-> Trial By Media
-
-> Valentine Road
-
-> Kill Your Darlings
-
-> Thank you to all of my amazing patrons for making this video possible!
-
-Patron names scroll as somber piano music plays.
+<u>[Patron names scroll as somber piano music plays.]</u>
 
 </credits>
 </compare>
