@@ -15,6 +15,7 @@ links: !!seq
 # description: "a video essay on...?"
 notes:
   - behind-scenes
+  - w-nick-james
 
 history:
   2020-09-23: 'Teased on Patron as "Extra Lives: Gays, Games, and Toxic Masculinity".'
