@@ -276,7 +276,7 @@ The queer panic, or better known as gay or trans panic, defense has been a legal
 <compare>
 <james {% include timecode %}>
 
-We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all. I wish Larry was the only example of this. I wish queer panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark histoy to this rationalization of hate masquerading as a legal defense.
+We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all. I wish Larry was the only example of this. I wish queer panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark history to this rationalization of hate masquerading as a legal defense.
 
 </james>
 <from></from>

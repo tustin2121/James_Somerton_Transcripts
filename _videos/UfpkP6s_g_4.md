@@ -24,11 +24,19 @@ history:
 
 # https://archive.org/details/biggerthanlifehi0000esco
 
+contributors:
+  downloaded: $cite$TerraJRiley
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vTtqwCALurU9Jqw78TdMnpZ4t4N7B0wRzZ5dGUkvzdkWSytNh886kHihuupHC09FA0igKW5N-hLfAlV/pub
+
 cite:
   clips: !!map
   yikes: !!map
   misinformation: !!map
   plagiarized: !!map
+    bigger: { color: 1, short: "(Escoffier, 2009)", full: "Escoffier, J. (2009). <em>Bigger than life The History of Gay Porn Cinema from Beefcake to Hardcore</em> [Book]. Running Press Adult.", url: "https://books.google.com/books?hl=en&lr=&id=yRsYON5rFiYC&oi=fnd&pg=PR7&ots=11OwZ5ri6C&sig=LU24bRJEdb5mfSzxvtnxiTdVX9o#v=onepage&q&f=false" }
+    philly: { color: 3, short: "(Baker, 2013)", full: "Baker, B. (2013, Jun 11). <em>The Tragic Story of Local Porn Star Joey Stefano</em> [Article]. Philadelphia Magazine. Retrieved Apr 13, 2024, from", url: "https://www.phillymag.com/news/2013/06/11/porn-star-nexxxt-door-tragic-story-joey-stefano/" }
+    psych: { color: 5, short: "(Castleman, 2016)", full: "Castleman, M. (2016, Nov 3). <em>Dueling Statistics: How Much of the Internet Is Porn?</em> [Article]. Psychology Today. Retrieved Apr 13, 2024, from", url: "https://www.psychologytoday.com/intl/blog/all-about-sex/201611/dueling-statistics-how-much-the-internet-is-porn" }
+    rollingstone: { color: 7, short: "(Wilkinson, 2007)", full: "Wilkinson, P. (2007, Sep 20). <em>Death of a Porn King</em> [Article]. RollingStone. Retrieved Apr 13, 2024, from", url: "https://www.rollingstone.com/culture/culture-news/death-of-a-porn-king-71027/" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
 
