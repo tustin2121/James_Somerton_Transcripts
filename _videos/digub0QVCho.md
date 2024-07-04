@@ -32,6 +32,7 @@ contributors:
   formatting:
     - $cite$tobicat
     - $cite$tustin2121
+  citation-plus: $ref$lvence$../Archive/Gay_Panic_JS.pdf
 
 cite:
   clips: !!map
@@ -80,6 +81,7 @@ cite:
     kathy_craig: { color: 17, short: "(Craig, 2017)", full: "Craig, K. (2017). <em>Allen Andrade's Horrific Hate Crime: The Murder of Angie Zapata</em>. The Swamp. Retrieved June 20, 2024, from", url: "https://vocal.media/theSwamp/allen-andrade-s-horrific-hate-crime" }
     james_mckinley: { color: 18, short: "(McKinley, 2016)", full: "McKinley, J.C., Jr. (2016, April 2). <em>Man’s Confession in Transgender Woman’s Death Is Admissible, Judge Rules</em>. The New York Times. Retrieved June 20, 2024, from", url: "https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html" }
     hrc_violence: { color: 19, short: "(HRC, 2021)", full: "HRC Foundation (2021). <em>Fatal Violence Against the Transgender and Gender-Expansive Community in 2021</em>. The Human Rights Campaign. Retrieved June 20, 2024, from", url: "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-expansive-community-in-2021" }
+    vice_video: { color: 20, short: "(VICE News, 2019)", full: "VICE News. (2019, Jul 21). <em>Trans Woman's Killer Used the \"Gay Panic Defense.\" It's Still Legal in 42 States.</em> [Video].", url: "https://www.youtube.com/watch?v=XrbDpePgYkM" }
 
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -2804,11 +2806,27 @@ Then, he said, <mark>he heard one of his friends mocking him, saying, "That’s 
 {% assign timecode = "01:12:12" %}
 
 <compare>
-<clip {% include citation for=page.cite.clips.nettles_interview1 at="1:15"%}>
+<visual {% include citation for=page.cite.plagiarized.vice_video at="(1:15)" %}>
+{% assign vid = page.cite.plagiarized.vice_video.color %}
+
+James lifted the interview from VICE News's video on the case and the panic defense and just blacked out the video.
+
+</visual>
+<visual-line></visual-line>
+<clip visual={{vid}} on="1:15" off="1:45" {% include citation for=page.cite.clips.nettles_interview1%}>
 
 > James Dixon: I happened to cross the street thinking that Two other people were female, which they weren't. And we engaged in conversation I guess a friend of mine must have realized, You know, that was a guy instead of a girl and he  Yelled out, you know, what it was. And as I pushed away, You know, trying to leave, I guess he - he must have Pushed back. You know, I was drunk so I got enraged, You know. And then I attacked.
 
 </clip>
+<from {% include citation for=page.cite.plagiarized.vice_video at="1:15" %}>
+
+Narrator: "...He said he'd be drinking that night, and had just met her for the first time."
+
+<u>[Showing a video of the police interview conducted on Aug 21, 2023 at 9am (according to the on-screen timestamp):]</u>
+
+Dixon: "I happened to cross the street thinking that two other people were female, which they weren't. And we engaged in conversation I guess a friend of mine must have realized, You know, that was a guy instead of a girl and he yelled out, you know, what it was. And as I pushed away, you know, trying to leave, I guess he - he must have pushed back. You know, I was drunk so I got enraged, you know. And then I attacked."
+
+</from>
 </compare>
 
 {% assign timecode = "01:12:41" %}
