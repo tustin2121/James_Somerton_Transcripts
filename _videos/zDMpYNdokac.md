@@ -58,6 +58,7 @@ cite:
 {% assign lvence = site.data.cite.lvence %}
 {% assign anon = site.data.cite.anon %}
 {% assign lvence_link = "https://www.reddit.com/r/hbomberguy/comments/18caidv/comment/kc9birt/" %}
+{% assign tobi = site.data.cite.tobicat %}
 
 <compare>
 {% include meta-history video=page %}
@@ -216,7 +217,7 @@ This is just not what happened. It *was* Gaiman’s concept originally, but it s
 <compare>
 <james {% include timecode %}>
 
-Insofar as the authors developed this cosmos, neither angels nor demons have sex organs, nor do they actively seek out sexual intercourse. And by all accounts, gender is more or less described based on how an observer might categorize them. Regardless, even at that, this he-they angel-demon duo are so incredibly married, it was basically a joke even at the time of *Good Omens*’ publication. 
+Insofar as the authors developed this cosmos, neither angels nor demons have sex organs, nor do they actively seek out sexual intercourse. And <span stat:id="baa">by all accounts</span>, gender is more or less described based on how an observer might categorize them. Regardless, even at that, this he-they angel-demon duo are so incredibly married, it was basically a joke even at the time of *Good Omens*’ publication. 
 
 While many fans of the show, and even of the book, were quick to describe Aziraphale (which is a fictional name approved by spell check believe or not) and Crowley as a gay couple. It was indeed exasperated by Gaiman’s description of the tale as a love story. And yet both God, the narrator of the story, and Gaiman are hesitant to use the term "gay" to describe them. But unlike your average network executive press conference, or corporate social media account, this explanation is queerer than the typical "just friends" copout. 
 
@@ -224,14 +225,19 @@ The narrator describes that most people who encounter Aziraphale may describe hi
 
 </james>
 <from></from>
+<comment {% include commenter for=tobi %}>
+
+James consistently pronounces Crowley's name incorrectly. He pronounces with it a short o sound (as in "crown"), when it is actually pronounced with a long o sound (as in "crow"). I pronounced it like this myself until I actually saw the show, which makes me wonder if he actually watched it.
+
+</comment>
 </compare>
 
 <compare>
 <clip {% include citation for=page.cite.clips.good_omens_tv %}>
 
-Woman: You're a good lad.
+Mrs. Sandwich: You're a good lad.
 
-Crowley: Not actually. Either.
+Crowley: I'm not, actually. Either.
 
 </clip>
 </compare>
@@ -252,9 +258,9 @@ Factor in that both Aziraphale and Crowley have a very ambiguous set of gender m
 <compare>
 <clip {% include citation for=page.cite.clips.good_omens_tv %}>
 
-Angel 1: Humans are weird and that's how it works.
+Uriel: Humans are weird and that's how it works.
 
-Angel 2: I knew that.
+Michael: I knew that.
 
 </clip>
 </compare>
@@ -273,9 +279,9 @@ But again in terms of gender nonconformity, the gender of one person is not rele
 <compare>
 <clip {% include citation for=page.cite.clips.good_omens_tv %}>
 
-Angel 1: You know how God likes sevens.
+Michael: You know how God likes sevens.
 
-Angel 2: <u>[laughs]</u>
+Gabriel: <u>[laughs]</u>
 
 </clip>
 </compare>
@@ -285,7 +291,7 @@ Angel 2: <u>[laughs]</u>
 
 However, instead of engaging in a debate about how we identify cosmic beings trying their best to humanely live their best eternities, Gaiman simply avoids the discussion altogether. Not that he excludes queerness from a reading of these characters, they are certainly not straight, but their place in queerness is not worth categorizing beyond "queer". Not even "LGBT", because they fit *none* of those categories.
 
-The first season of Good Omen was a show that had a couple, our angel and demon of some renown, at the center of it. Though no confirmation came in season one, anyone with a brain can see it. In season 2, it became a queer show. 
+The first season of Good Omen was a show that had a couple, our angel and demon of some renown, at the center of it. Though no confirmation came in season one, anyone with a brain can see it. In season two, it became a queer show. 
 
 </james>
 <from></from>
