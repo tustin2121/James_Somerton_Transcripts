@@ -40,6 +40,7 @@ cite:
     hannibal: { short: "", full: "" }
   yikes: !!map
     love_simon: "James continues to show his dislike of <em>Love, Simon</em> by positing that queer people don't engage with dream-like love stories."
+    no_women: "James carefully removes any mention of lesbians, women, and other minority groups being oppressed while copying a passage in its entirety."
   misinformation: !!map
     fan-fiction: "James takes an anecdote about Anne Rice and presents it as fact."
   plagiarized: !!map 
@@ -48,6 +49,7 @@ cite:
     ranking_video: { color: 3, short: "(Hansen, 2020)", full: "Hansen, E. (2020, Nov 30). <em>Anne Rice's Vampire Chronicles RANKED</em> [Video]. YouTube.", url: "https://www.youtube.com/watch?v=F_PPB31wJjo&t=3179s" }
 --- 
 {% assign tustin = site.data.cite.tustin2121 %}
+{% assign tobi = site.data.cite.tobicat %}
 
 <compare>
 {% include meta-history video=page %}
@@ -69,7 +71,7 @@ PATRON: [link]
 </credits>
 <comment {% include commenter for=tustin %}>
 
-James in the infamous "Well today's been fun!" live stream where the accusations of plagerism started. After vaguely mentioning about stealing from [AreTheyGay in Unrequited](m8DRQ9-sCSI), and getting "permission" for [Evil Queens](Qvu84kjtGvE), he says this: 
+James in the infamous "Well today's been fun!" live stream where the accusations of plagiarism started. After vaguely mentioning about stealing from [AreTheyGay in Unrequited](m8DRQ9-sCSI), and getting "permission" for [Evil Queens](Qvu84kjtGvE), he says this: 
 
 > And then there was the silly one about the Hannibal video, <u>[laughing]</u> um... which I talked about before, but it's, um... it was, uh.... a younger YouTuber. She made a mistake. It was, you know, she and I... She and I spoke to each other and... you know, she apologized and everything and there's nothing... there, no kind of drama or anything there.
 
@@ -755,12 +757,21 @@ If you want more on Dracula’s queer coding, my video [Monsters in the Closet](
 <compare>
 <james {% include timecode %}>
 
-The pre-Stonewall era for gay men in American society was mostly a time of repression, fear, and the darkness of the closet. It was a time of conformity not just for gay people, but everyone, who were expected to play their role in order to keep America safe from “Godless Communists.” 
+<mark>The pre-Stonewall era for <span stat:id="y-persecution">gay</span> <span stat:id="y-misogyny">men</span></mark> <mark>in American society</mark> <mark>was mostly a time of repression, fear, and the darkness of the closet. It was a time of conformity not just for gay people, but</mark> <span stat:id="y-exclusion">everyone</span>, <mark>who were expected to play their role in order to keep America safe from “Godless Communists.”</mark> 
 
-Senator Joseph McCarthy and his notoriously closeted right hand man Roy Cohn (and others of their ilk) were hunting not just communists but gays as well. There were congressional hearings aimed at rooting “sexual perverts” out of government jobs, and surveillance of the American postal service for gay magazines continued until 1966. The Lavender Menace knew no bounds. 
+<mark>Senator Joseph McCarthy and his notoriously closeted righthand man Roy Cohn, and others of their ilk were hunting not just communists but gays as well. There were congressional hearings aimed at rooting “sexual perverts” out of government jobs, and surveillance of the American postal service for gay magazines continued until 1966.</mark> The Lavender Menace knew no bounds. 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.vampires_r_us at="¶ 11" %}>
+
+<mark>The pre-Stonewall era for gays</mark> and lesbians <mark>in American society</mark>, lasting from the end of World War II to the late 1960s, <mark>was mostly a time of repression, fear, and the closet. It was a time of conformity not just for gay people, but</mark> for women and other minorities as well, <mark>who were expected to play their role in order to keep America safe from “Godless Communism.”</mark> In her book Homeward Bound, historian Elaine Tyler May (1999) argues for a similarity between “domestic containment” and Cold War containment policies. She points out that homosexuals had it especially tough and that many “used marriage as a cover during these years to escape stigma and persecution.” <mark>Senator Joseph McCarthy, his notorious (and closeted) righthand man Roy Cohn, and others of their ilk were hunting not just communists but homosexuals as well. There were congressional hearings aimed at rooting “sexual perverts” out of government jobs, and postal surveillance of magazines geared toward gay men continued until 1966.</mark>
+
+</from>
+<comment id="no-women" {% include commenter for= tobi %}>
+
+James carefully omits any mention of women, lesbians, and "other minorities" as he plagiarizes literally everything else from this passage.
+
+</comment>
 </compare>
 
 <compare>
