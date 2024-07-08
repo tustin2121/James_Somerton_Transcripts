@@ -32,7 +32,7 @@ contributors:
   formatting:
     - $cite$tobicat
     - $cite$tustin2121
-  citation-plus: $ref$lvence$../Archive/Gay_Panic_JS.pdf
+  citation-plus: $ref$lvence$https://docs.google.com/document/d/e/2PACX-1vRD7-4mlfENtNakf1o59U_3bWPrDPonSPmbaKfOCqf0oAG4prAz8gs9UjHe468ZePzs8nUmQp3iKTQB/pub
 
 cite:
   clips: !!map
@@ -82,6 +82,7 @@ cite:
     james_mckinley: { color: 18, short: "(McKinley, 2016)", full: "McKinley, J.C., Jr. (2016, April 2). <em>Man’s Confession in Transgender Woman’s Death Is Admissible, Judge Rules</em>. The New York Times. Retrieved June 20, 2024, from", url: "https://web.archive.org/web/20230808081712/http://www.nytimes.com/2016/04/02/nyregion/mans-confession-in-transgender-womans-death-is-admissible-judge-rules.html" }
     hrc_violence: { color: 19, short: "(HRC, 2021)", full: "HRC Foundation (2021). <em>Fatal Violence Against the Transgender and Gender-Expansive Community in 2021</em>. The Human Rights Campaign. Retrieved June 20, 2024, from", url: "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-expansive-community-in-2021" }
     vice_video: { color: 20, short: "(VICE News, 2019)", full: "VICE News. (2019, Jul 21). <em>Trans Woman's Killer Used the \"Gay Panic Defense.\" It's Still Legal in 42 States.</em> [Video].", url: "https://www.youtube.com/watch?v=XrbDpePgYkM" }
+    valentine_road: { color: 21, short: "(Cunningham, 2013)", full: "Cunningham, M. (2013). <em>Valentine Road</em> [Movie]. HBO.", url: "https://www.youtube.com/watch?v=hMk0FYcHiWk" }
 
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -211,9 +212,26 @@ So thank you guys for watching. Thank you guys for being patrons. I really, real
 <h4 id="introduction">(Introduction)</h4>
 
 <compare>
+<visual {% include citation for=page.cite.plagiarized.valentine_road %}>
+{% assign vid = page.cite.plagiarized.valentine_road.color %}
+
+James seems to have lifted clips from a [documentary called "Valentine Road"](https://en.wikipedia.org/wiki/Valentine_Road).
+
+</visual>
+<visual-line></visual-line>
 <james span=2 {% include timecode %}>
 
-In early February 2008, in Oxnard, California, a 15 year old named Larry asked a fellow eighth grader named Brandon to be their valentine. Somehow, our society had given Brandon the impression that this innocent request was tantamount to a criminal offense. And so on February 12th, Brandon murdered Larry, shooting them twice in the back of the head. The first trial ended in a mistrial with several members of the jury agreeing with the defense's use of queer panic, stating that by Larry coming on to Brandon, they were essentially bullying him, leaving him with no choice but to kill the 15 year old.
+<span visual={{vid}} on="9:28" off="9:31">In early February 2008, in Oxnard, California, a 15 year old named Larry asked a fellow eighth grader named Brandon to be their valentine.</span> Somehow, our society had given <span visual={{vid}} on="19:14" off="19:19">Brandon the impression that this innocent request was tantamount to a criminal offense.</span>
+
+<span visual={{vid}} on="3:56" off="3:58">And so on February 12th,</span>
+
+<span visual={{vid}} on="5:37" off="5:39">Brandon murdered Larry,</span>
+
+<span visual={{vid}} on="5:44" off="5:46">shooting them twice in the back of the head.</span>
+
+<span visual={{vid}} on="1:09:13" off="1:09:21">The first trial ended in a mistrial with several members of the jury agreeing with the defense's use of queer panic,</span>
+
+<span visual={{vid}} on="57:19" off="57:23">stating that by Larry coming on to Brandon, they were essentially bullying him,</span> leaving him with no choice but to kill the 15 year old.
 
 </james>
 <from {% include citation for=page.cite.plagiarized.cynthia_lee at="p.473" %}>
@@ -233,52 +251,44 @@ Ellen DeGeneres (Feb. 29, 2008)<sup>1</sup>
 James chooses to use they/them pronouns for Larry King.
 
 </comment>
-</compare>
 
 {% assign timecode = "00:04:16" %}
-
-<compare>
 <james {% include timecode %}>
 
-A second trial saw Brandon sentenced to 21 years in prison for voluntary manslaughter, not murder. And the case was not prosecuted as a hate crime.
+<span visual={{vid}} on="1:17:17" off="1:17:21">A second trial saw Brandon sentenced to 21 years in prison for voluntary manslaughter, not murder.</span> And the case was not prosecuted as a hate crime.
 
 </james>
 <from></from>
-</compare>
-
-<compare>
 <clip {% include citation for=page.clips.news_clip1 %}>
 
-Newscaster 1: There was a surprise plea deal tonight in the case of a gay junior high student shot to death by a classmate. 
+<span visual={{vid}} on="1:17:10" off="1:17:17">Newscaster 1: There was a surprise plea deal tonight in the case of a gay junior high student shot to death by a classmate.</span>
 
-Newcaster 2: But he is going to spend the next 21 years of his life in prison. 
+<span visual={{vid}} on="1:17:25" off="1:17:29">Newcaster 2: But he is going to spend the next 21 years of his life in prison. </span>
+
+<div visual={{vid}} on="1:17:41" off="1:17:55">
 
 Newscaster 3: Some of the jurors in the first trial were here to support McInerney. 
 
 Interviewee: And I was really kind of shocked, like 21 years, really? No chance of parole, really? It seems an awful long time for a kid who had no prior record.
 
+</div>
 </clip>
 </compare>
-
 {% assign timecode = "00:04:49" %}
-
 <compare>
 <james {% include timecode %}>
 
-The queer panic, or better known as gay or trans panic, defense has been a legal defense tactic for three quarters of a century in the United States and abroad. The murder of Larry in 2008 is just a recent and particularly venomous example and may actually fall under both gay and trans panic. Though Larry presented as a boy, many people who knew them stated after their death that they wanted to change their name to Latisha and possibly transition.
+The queer panic, or better known as gay or trans panic, defense has been a legal defense tactic for three quarters of a century in the United States and abroad. <span visual={{vid}} on="38:56" off="39:05">The murder of Larry in 2008 is just a recent and particularly venomous example and may actually fall under both gay and trans panic.</span> Though Larry presented as a boy, many people who knew them stated after their death that they wanted to change their name to Latisha and possibly transition.
 
 </james>
 <from></from>
-</compare>
-
-{% assign timecode = "00:05:18" %}
-
 <!-- LVence: Oh I should probably remind you of this. The first clip James play of news report at like 5 minutes for the gay panic video looks cropped. I can't find the report online so I didn't include it in my highlight. -->
-
-<compare>
+{% assign timecode = "00:05:18" %}
 <james {% include timecode %}>
 
-We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all. I wish Larry was the only example of this. I wish queer panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark history to this rationalization of hate masquerading as a legal defense.
+<span visual={{vid}} on="1:24:04" off="1:24:12">We won't know if Larry would have ever done that, though, because they only spent 15 years on this earth before rabid hatred took them from us all.</span> 
+
+I wish Larry was the only example of this. I wish queer panic was an obscure mention in a dusty legal book somewhere. But there's a sad, dark history to this rationalization of hate masquerading as a legal defense.
 
 </james>
 <from></from>
