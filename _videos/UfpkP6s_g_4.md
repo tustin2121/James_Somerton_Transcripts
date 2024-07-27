@@ -11,7 +11,7 @@ aka: !!seq
 topics: !!seq
   - "Gay Porn"
 links: !!seq
-  - "https://archive.org/details/james-somerton-youtube-2023-12-03"
+  - "https://archive.org/details/james-somerton-youtube-2023-12-03/20200830+UfpkP6s_g_4+Making+It+Big%EF%BC%9A+The+History+of+Gay+Adult+Film+(Documentary).webm"
 # description: "a video essay on...?"
 notes:
   - hbomb
@@ -105,7 +105,7 @@ This video contains copyrighted material. The use of which has not always been s
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 <mark>Within a year, *Deep Throat*, a straight porno, opened to rave reviews and a huge box office exceeding that of many mainstream Hollywood films,</mark> though we can't know exactly how much it made because it was financed by the mafia. <mark>Within two years, we saw *The Devil in Miss Jones* and *Behind the Green Door* hit theaters.</mark> <mark fc=false><mark>These four movies made more money per screen than</mark> even <mark>*The Godfather*</mark>, which was released around the same time.</mark>
 
@@ -183,7 +183,7 @@ Making It Big
 ## Part 1: Beefcake
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 It's the 1950s, and you're walking down a busy New York street. You stop at a news stand, and hidden amongst the news, cooking, and culture magazines sits one or two issues of a physique magazine. You buy it, the clerk stuffs it into a nondescript brown paper bag, and you rush home. <mark>It started as an underground phenomenon, with small magazines containing photographs of almost nude men being sold by mail and on newsstands in larger cities. These physique magazines and the mail-order business that grew up around them were the primary source of erotic male images for gay men,</mark> receiving the iconic nickname “Beefcake.” 
 
@@ -376,7 +376,7 @@ In early 1969, <mark>Tom DeSimone, a young film professional</mark> in his early
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>His first film to receive a wide release,</mark> or as wide as gay porn could go back then, <mark>was the story of a gay man who kidnaps young men and keeps them locked up in cages for his sexual pleasure. While there was nudity, the sex remained simulated, and no erections were shown on screen. Nevertheless, the film</mark> drew the attention of S&M lovers, but also <mark fc=false>the FBI</mark>, <mark>who harassed any theater</mark> promoting a showing of the film. <mark>It was eventually cited by the</mark> <mark>U.S. Commission on Obscenity and Pornography</mark> <mark>as <q>an unhealthy example of pornographic film.</q></mark> 
 
@@ -394,7 +394,7 @@ Source says the police harassed theaters, not the FBI. I expect the FBI has bett
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 DeSimone's no-erection S&M wasn't flying with the majority of patrons at gay-porn theaters, either. They were seeing more and more 8mm shorts involving actual sex coming from unnamed parties, and so, simulated sex, kinky or not, wasn't going to cut it.
 
@@ -451,7 +451,7 @@ Seems to be the closest match, since both describe 8mm hardcore shorts, but the 
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 But not everyone felt that way. <mark>Late one night in 1970, after a rehearsal for his new Broadway show, director and choreographer Wakefield Poole, his boyfriend Peter, and some friends decided to go to the Park Miller theater to see one of DeSimone's films.</mark>
 
@@ -804,7 +804,7 @@ Ray Todd appeared in Jaguar's epic dramatic feature film *The Light from the Sec
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>From the beginning, Holmes clearly envisioned the Falcon brand of sexual content to be <span stat:id="changed-quote"><q>“fast, urgent, desperate sexual contact between two or more persons, as desperate as we can capture on film or video.</mark> <mark>The basic formula at Falcon has not changed, and I do not foresee it</mark> <mark>changing,”</q></span></mark> he said decades later. <mark fc=false>More <mark>important</mark> than picture [or] sound quality for Holmes was <mark>grooming</mark>.</mark> 
 
@@ -956,7 +956,7 @@ Very quickly <mark>the Falcon team decided</mark> that Al Parker, who had been a
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>*The Other Side of Aspen* had started out as a series of loops, but once Holmes decided to create a framework linking the scenes, it quickly morphed into Falcon's first feature film.</mark> The production was probably the smoothest porn shoot to date. Having been cast with industry pros and a strong directorial voice behind the camera, it ran like a well-oiled machine.
 
@@ -987,7 +987,7 @@ Once filming had wrapped, <mark>Falcon ramped up its marketing strategy by sendi
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 <mark>*The Other Side of Aspen* was Falcon's first blockbuster, and like all blockbusters, it accounted for the lion's share of Falcon's earnings. Its explosive impact marked a turning point for a company selling its films only through mail-order transactions, unwittingly preparing it for the coming age of the VCR.</mark> 
 
@@ -1880,7 +1880,7 @@ The gay community had reached a breaking point. <mark>Joey Yale, who appeared in
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Jerry Douglas saw many of his friends in the industry die of AIDS, drug overdoses, and suicide, but he lived long enough to see them memorialized in a class on the history of gay erotica taught at his alma mater, Yale University.
 
@@ -1939,7 +1939,7 @@ Evidence of a class specifically on erotica does not exist in either Yale. Archi
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The success of *Fratrimony* inspired Douglas to make another film. Almost immediately, the germ of a new idea began to grow. While at the annual AVN Awards show in Las Vegas, Douglas has seen Chi Chi LaRue, the drag persona of up-and-coming porn director Larry Pasciotti, perform and was stunned by her flamboyant presence and style. LaRue was a lavish personality who frequently emceed and sang at industry events. Though they had long had a telephone relationship while Douglas was a magazine editor and LaRue the marketing and promotions manager at Catalina Video, Douglas had never seen LaRue perform. She had recently left Catalina to direct videos for In Hand Productions. After seeing her performance in Las Vegas, Douglas wanted to build a movie around LaRue, but he asked himself, <span stat:id="changed-quote">“How do I build a gay-porn movie around a</mark> full-figured <mark>drag queen?”</span></mark>
 
@@ -2050,7 +2050,7 @@ After leaving rehab, <mark>Nick put together a modeling portfolio with a photogr
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark fc=false>He created a hit clothing line</mark> and was featured in multiple Madonna projects. <mark fc=false>The singer was so smitten with Joey that she was apparently devastated when she found out that he was actually gay and not gay for pay.</mark>
 
@@ -2068,7 +2068,7 @@ The Philly article suggests that a clothing line used him on commemorative sweat
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 Talent agent David Del Valle, who represented multiple Hollywood actors and some of the biggest stars on Broadway, was thoroughly convinced that he could turn Joey into a leading man and <mark fc=false>began shopping him around to casting directors. Shockingly, they were pretty open to having him read for upcoming parts, gay porn history or not.</mark> He was a talented actor, oozed charisma, and had the type of movie star good looks that are rare. <mark>Like Tom Cruise with prettier eyes.</mark> 
 
@@ -2108,7 +2108,7 @@ p27 <mark>In the summer of 1994,</mark> Nick splurged on a big family vacation t
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>Before leaving Linda's house that summer, he told her</mark> <mark>that he had some unfinished business in LA.</mark> <mark fc=false>It was in LA that he received the news that he was HIV positive.</mark> There was still no effective treatment for the disease, and he felt hopeless. <mark>Joey Stefano was found nearly lifeless in a Hollywood motel room, his ashen body spread across sweat-soaked sheets, garbed in only a red hoodie. He was pronounced dead later that day at Cedars-Sinai Medical Center. The cause of death was an overdose of cocaine, morphine, and heroin,</mark> a lethal combination <mark fc=false>that everyone who knew him said was obviously suicide.</mark> 
 
@@ -2169,7 +2169,7 @@ The closest match I can find is the [Meese Report](https://en.wikipedia.org/wiki
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And under the guise of stopping sex trafficking, <mark fc=false>the Clinton administration advised the US Postal Service to stop transporting pornographic material.</mark> It wasn't illegal to sell porn in your stores or for shipping companies to deliver it, but at the time, some people in the industry felt like they were just waiting for the other shoe to drop.<sup cn></sup> 
 
@@ -2187,7 +2187,7 @@ Clinton-era legislation around porn was centered around the Internet, not physic
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Bill Clinton's re-election campaign in 1996 turned shockingly conservative across the board, and with the recent underage porn scandals surrounding Traci Lords, <mark fc=false>many directors, producers, and performers felt that porn's time in America might have come to an end.</mark> But then…
 
@@ -2233,7 +2233,7 @@ I could not find a source for the industry's worth in 1996, but it sounds plausi
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 By 2010, pornography was estimated to make up 10% of the entire Internet. <mark fc=false>In 2020, that estimate has changed to 30%.</mark>
 
@@ -2657,7 +2657,7 @@ Kocis invited him to come visit. <mark>The next evening, as Kocis was speaking o
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=4 {% include timecode %}>
 
 <mark>The next day, Cuadra called Lockhart. <q>“Go to the WNEP web site,”</q> Cuadra said, referring to the ABC affiliate in nearby Scranton, which was reporting on the murder of Bryan Kocis.</mark> Sean changed the channel, dropped the phone, and threw up. <mark>It didn't take long for police to zero in on Cuadra, finding pictures of him on Kocis’ hard drive,</mark> but they needed more than just pictures and some chat history.
 
@@ -2876,7 +2876,7 @@ But things were about to get a lot more uneasy. Over the next decade, MindGeek w
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark fc=false>Today, MindGeek is the third top consumer of internet bandwidth in the entire world, behind only Google and Facebook.</mark>
 
@@ -2894,7 +2894,7 @@ I can’t find a source for this. Several sources claim that MindGeek is one of 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark fc=false>With <q>115 million daily users</q>, they dwarf YouTube's average of <q>30 million daily users.</q></mark>
 
@@ -2912,7 +2912,7 @@ The 115 million figure is accurate, though just for PornHub, not MindGeek as a w
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark fc=false>It's also estimated that MindGeek has the world's third-largest pool of monetized user data, with only Facebook and Amazon beating them out.</mark> 
 
@@ -3030,7 +3030,7 @@ Again, *Boys in the Sand* was not "a bigger hit than anything Hollywood put out"
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 And yet, many gay men won't admit that they watch porn. <mark fc=false>In a 2019 poll, <q>66%</q> of gay men <q>said they were embarrassed to talk about porn with friends.</q></mark> They were afraid people would think they were perverts. While 50 years ago, we stood in line to see porn in a movie theater. 
 
@@ -3064,45 +3064,35 @@ I don't know man, this probably isn't the most pressing issue facing the gay com
 <credits class = "closing">
 
 > Thank you to my patrons!
-
+> 
 > <u>[A list of Patron names.]</u>
 
-> Editing Assistant 
-
+> Editing Assistant  
 > Nick Herrgott
 
 > Including commentary from:
-
-> Terry Legrand
-
-> Chi Chi Larue (Larry Paciotti)
-
-> Sabin
-
-> John Karr
-
-> Sean Lockhart
+> 
+> Terry Legrand  
+> Chi Chi Larue (Larry Paciotti)  
+> Sabin  
+> John Karr  
+> Sean Lockhart  
 
 > Including footage from: 
-
-> Seed Money
-
+>
+> Seed Money  
 > Directed by: Michael Stabile 
-
-> I Always Said Yes
-
+> 
+> I Always Said Yes  
 > Directed by: Jim Tushinski 
-
-> How to Survive a Plague
-
+> 
+> How to Survive a Plague  
 > Directed by: David France 
-
-> King Cobra
-
+> 
+> King Cobra  
 > Directed by: Justin Kelly 
-
-> The Age of AIDS
-
+> 
+> The Age of AIDS  
 > Produced by: Renata Simone 
 
 > The Bob Mizer Foundation
