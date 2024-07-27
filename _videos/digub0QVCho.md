@@ -2226,7 +2226,7 @@ I found no accounts of Billy's face being described as "barely human."
 <compare>
 <james span=2 {% include timecode %}>
 
-<mark>Butler's father later said that when his son returned home the night of the murder, he said, <q>"I've got to tell you something. We killed somebody. We kicked a queer's ass." Butler said he'd turn himself in if his father went with him, but his father refused, saying he would never turn his own son in. But about a week later, Butler's father did tell a friend about what happened, and his friend went to the police.</mark> <mark>Butler confessed,</mark> <mark>saying God told him to do it.</mark> <mark>Later, Mullins said he did it because he did not trust homosexuals.</mark> <mark>Both men were arrested for murder.</mark> <mark>Neither men were charged with a hate crime because Alabama did not consider murdering a queer person a hate crime.</mark>
+<mark>Butler's father later said that when his son returned home the night of the murder, he said, <q>"I've got to tell you something. We killed somebody. We kicked a queer's ass."</q> Butler said he'd turn himself in if his father went with him, but his father refused, saying he would never turn his own son in. But about a week later, Butler's father did tell a friend about what happened, and his friend went to the police.</mark> <mark>Butler confessed,</mark> <mark>saying God told him to do it.</mark> <mark>Later, Mullins said he did it because he did not trust homosexuals.</mark> <mark>Both men were arrested for murder.</mark> <mark>Neither men were charged with a hate crime because Alabama did not consider murdering a queer person a hate crime.</mark>
 
 </james>
 <from {% include citation for=page.cite.plagiarized.southern_podcast at="27:31-28:58" %}>
