@@ -2149,8 +2149,7 @@ Most. <u>[Over black, to emphasize the point.]</u>
 
 </footer>
 </from>
-<comment id="para175">
-{% include header for=tobi %}
+<comment id="para175" {% include commenter for= tobi %} >
 
 Some other Nazi era laws remained on the books, [even up until as recently as 2021](https://www.france24.com/en/live-news/20210122-germany-moves-to-eradicate-lingering-nazi-laws). The linked article was published after the video's release, but there was no proof that Paragraph 175 was the only remaining Nazi law, even if it was likely the most significant.
 
@@ -2310,7 +2309,7 @@ Conclusion
 <compare>
 <james>
 
-In many ways, the spectres of the Third Reich still haunt us. The spectres begin to come to life whenever fanatics of any sect try to take over a nation and call for a war against its most vulnerable and vilified minorities. Since the end of World War II and the discovery of the Nazi death machine, every modern nation across the globe has spoken the same mantras: 
+<mark>In many ways, the spectres of the Third Reich still haunt us.</mark> <mark>The spectres begin to come to life whenever fanatics of any sect</mark> try to <mark>take over a nation and call for a war against its most vulnerable and vilified minorities.</mark> Since the end of World War II and the discovery of the Nazi death machine, every modern nation across the globe has spoken the same mantras: 
 
 > "It could never happen here." 
 
@@ -2319,7 +2318,11 @@ In many ways, the spectres of the Third Reich still haunt us. The spectres begin
 > "Never again." 
 
 </james>
-<from></from>
+<from {% include citation for=page.cite.plagiarized.pink_triangle at="p.187" %}>
+
+Thus the fate of the gays under the Third Reich may serve as a touchstone for all those victims swept away by the hurricane of hatred. To this day, the extent and impact of this catastrophe has not been fully understood. At the end of hostilities, when Allied soldiers first entered the concentration camps, they did not really comprehend what they saw. And despite the overwhelming flood of information about the Nazis’ infernal machine, we still have not understood what it may foreshadow. <mark>In many ways, the spectres of the Third Reich still haunt us</mark> - not because a few elderly Nazis may be hiding in South America and not because groups of younger neo-Nazis demand attention with recycled swastika ideologies and emblems. <mark>The spectres begin to come to life whenever fanatical fundamentalists of any sect</mark>- religious or secular- <mark>take over a nation and call for a holy war against its most vulnerable and vilified minorities.</mark>
+
+</from>
 <james span=2 {% include timecode %}> 
 
 <mark yikes stat:id="y-persecution">Western Nations have decried countries as backwards when they begin murdering giant portions of their own populations - Jewish people, Muslims, racial minorities and ethnic groups. But when gay people are being arrested, hung, shot, drowned, and decapitated in countries like Iran, Saudi Arabia, Somalia, Chechnya, Russia, Syria, Uganda... Our political leaders, our representatives, feign offense but do nothing about it.</mark> <mark fc=false>They may threaten sanctions, but no one will go to war to save the gays.</mark> And so we have to save ourselves.

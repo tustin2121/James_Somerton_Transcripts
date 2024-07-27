@@ -35,7 +35,7 @@ contributors:
   formatting: $cite$tustin2121
   factcheck: 
     - "[Council of Geeks](https://www.youtube.com/watch?v=q1RLUSVWnoQ)"
-    - "[Dan Olsen](https://www.patreon.com/posts/djs0-99390338)"
+    - "[Dan Olson](https://www.patreon.com/posts/djs0-99390338)"
     - "[MATRIARCHETYPE](https://www.youtube.com/watch?v=M5TKdYLUHIw)"
     - "[Rebochan](https://docs.google.com/document/d/1sXaYLIzcf12X5yZFbRydCBhRKdponJMn-LpQFAGkUdA/edit) from the Hbomb discord"
 
@@ -51,7 +51,7 @@ cite:
       url: "https://www.youtube.com/watch?v=M5TKdYLUHIw"
     folding_ideas:
       color: 3
-      name: "Dan Olsen"
+      name: "Dan Olson"
       link: "https://www.patreon.com/posts/djs0-99390338"
     rebo:
       color: 18
@@ -139,6 +139,8 @@ David Demchuk (the [Hannibal video](ZDgWHNDdwoU) and not-quite-mentioned in [Jam
 Alexander Avila (his videos used in [Unrequited](m8DRQ9-sCSI)) confirmed that [James never reached out to him](https://twitter.com/aretheygay/status/1762301894431490514) to apologize, and that he was still blocked by him. {% include twitter-mirror link="https://twitter.com/aretheygay/status/1762301894431490514" %}
 
 Katelyn Burns (plagiarized in [the JKR Bad video](xLuNGhQPDHM)) also [implied she never was contacted by James](https://twitter.com/transscribe/status/1762369114696220973). {% include twitter-mirror link="https://twitter.com/transscribe/status/1762369114696220973" %}
+
+Gita Jackson (plagiarized in [the Attack on Titan video](VoHYZUj43K4)) [never received an email from James](https://www.tumblr.com/its-gita-time/743436971571134464/i-searched-my-email-and-james-somerton-hasnt).
 
 </comment>
 {% assign timecode = "1:33" %}
@@ -374,7 +376,7 @@ This led to a lot of... copy and pasting... blocks of text into scripts. <mark n
 <compare>
 <james span=2 {% include timecode %}>
 
-But &mdash; and <mark num=1 fc>here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child.</mark> Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a excuse anyway.
+But &mdash; and <mark num=1 fc>here's something... I'm sure a lot of people will call a bullshit excuse &mdash; I have memory issues... because of a head injury from when I was a child.</mark> Uh, they're actually getting worse. I've talked about it on streams and in videos, so yes, it *is* real, but... some people will call it a bullshit excuse anyway.
 
 The head injury is actually what led to me having epilepsy, which is why I can't work in any job that involves physical labor. Employers can't get insurance for me to, like, lift things or operate vehicles and stuff like that. I actually did marketing for a restaurant group for a little while, but got let go when they found out that I was epileptic because, at least according to *them*, <mark num=2 fc>I couldn't be insured to be in the kitchens...</mark> where I needed to be to film videos and take photos and stuff like that. But anyway.
 
@@ -463,7 +465,7 @@ He has now moved entirely past the plagiarism. He's clearly convinced he's got y
 </comment>
 <james span=2 {% include timecode %}>
 
-When we launched the campaign in February of 2022, we hoped to raise $3,000 to produce a short film that we hoped that we would then use as a sort of proof of concept to attract investors, either private, public, or through Canada's telefilm program, to produce a feature. Some people online have stated that $3,000 *never* would have covered the cost of a short film, <mark fc=false>but these were not going to be unionized movies, and we were very clear about that upfront. We wanted to be able to pay actors as best that we *could*, but we never expected to be able to reach typical union wages.</mark> 
+When we launched the campaign in February of 2022, we hoped to raise $3,000 to produce a short film that we hoped that we would then use as a sort of proof of concept to attract investors, either private, public, or through Canada's Telefilm program, to produce a feature. Some people online have stated that $3,000 *never* would have covered the cost of a short film, <mark fc=false>but these were not going to be unionized movies, and we were very clear about that upfront. We wanted to be able to pay actors as best that we *could*, but we never expected to be able to reach typical union wages.</mark> 
 
 The crew was going to be made up of people that I had gone to film school with. Everyone (including Nick and myself; we were roommates at the time, living on the East Coast) were more than happy to work behind the scenes for free. We planned on writing a movie with a small cast and only one or two locations, ideally ones that we could get access to for free. Again, we assumed all the money would go to the actors. Uh, we kind of looked at this is a sort of Community Theater troop, but for filmmaking.
 
@@ -519,7 +521,7 @@ Look this is a really long tangent that doesn't mean much. It includes his 4th b
 </comment>
 <james {% include timecode %}>
 
-After Nick and I moved to the Toronto area, he decided that he actually wanted to move home to Ottawa... uh, to the Ottawa area, about 5 hours away. At least for a little while. In the meantime he would take a train to the GTA (the Greater Toronto Area) once a month... uh, to work on YouTube videos for a few days and then head back. 
+After Nick and I moved to the Toronto area, he decided that he actually wanted to move home to Ottawa... uh, to the Ottawa area, about five hours away. At least for a little while. In the meantime he would take a train to the GTA (the Greater Toronto Area) once a month... uh, to work on YouTube videos for a few days and then head back. 
 
 This went on for... <u>[Doing mental math]</u> ...a little less than a year. So, I began brainstorming new movies that we could film in Ontario. This is where the multiple posters and teaser trailers came from. I was trying to create something *tangible* to show that work was still being done with Telos. I wrote multiple treatments for movies over the next few months. And Nick and I eventually landed on one called "Antisocial", a murder mystery about a former social media clique, who had gone their separate ways on very bad terms and they were coming together for a reunion at a sort of VidCon event. Um, they were all sharing a house and then some of them were going to start showing up dead.
 
@@ -594,7 +596,7 @@ During our work on Telos is also when the YouTube channel started getting sponso
 </james>
 <james {% include timecode %}>
 
-We tried to take the summer off from YouTube in 2023 to work on Telos exclusively, but even that went up in smoke because my housing situation... just... I won't go into it here. I've talked about it ad nauseum on streams and stuff. If you followed me on social media, you know the cluster I ended up in... that led to me moving twice in two months. 
+We tried to take the summer off from YouTube in 2023 to work on Telos exclusively, but even that went up in smoke because my housing situation... just... I won't go into it here. I've talked about it ad nauseam on streams and stuff. If you followed me on social media, you know the cluster I ended up in... that led to me moving twice in two months. 
 
 In the last couple of months, I've received a lot of emails, as you can imagine. Uh... many from people who were rightfully let down. Some from people threatening everything from doxing to violence, because the internet. Some with the kindest words of support I've ever heard, and others simply asking why I made it so difficult to contact me and if I was okay. They wanted to know why, as they put it, I "nuked" my social media presence.
 
@@ -675,14 +677,14 @@ James's claim that the misinformation was simply misremembered or repeated from 
 </comment>
 <james {% include timecode %}>
 
-As for my Patreon. everyone can stop worrying about me relaunching it right in time for a billing cycle. That will not be happening. I don't want anyone who... either doesn't know about the plagiarism or simply forgot to unsubscribe to get billed. So... I'm going to start from zero. I have put together a new patreon account.
+As for my Patreon. everyone can stop worrying about me relaunching it right in time for a billing cycle. That will not be happening. I don't want anyone who... either doesn't know about the plagiarism or simply forgot to unsubscribe to get billed. So... I'm going to start from zero. I have put together a new Patreon account.
 
 So if you want to support my documentaries about gay history... fantastic. Honestly, your faith in me after everything... means *the world* to me. If not, I completely understand. Like I said... I've lost your trust... I'm going to work my ass off to earn it back, though. 
 
 </james>
 <james {% include timecode %}>
 
-And I know for some of you, I'll *never* be able to do that, but I'm going to try anyway. You know, there's a link in the description to the patreon if you want to join it, where you'll be able to see the two yet-to-be-released videos right now, as well as, you know... take part in other stuff that will be on there, like a book club, podcasts, uh... voting on upcoming videos, all the usual Patreon stuff. 
+And I know for some of you, I'll *never* be able to do that, but I'm going to try anyway. You know, there's a link in the description to the Patreon if you want to join it, where you'll be able to see the two yet-to-be-released videos right now, as well as, you know... take part in other stuff that will be on there, like a book club, podcasts, uh... voting on upcoming videos, all the usual Patreon stuff. 
 
 </james>
 <james {% include timecode %}>

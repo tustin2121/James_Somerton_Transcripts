@@ -110,6 +110,11 @@ Overall, *Cabaret* serves as a powerful warning about the dangers of fascism and
 
 </james>
 <from></from>
+<comment {% include commenter for= enoDRtiG %}>
+
+Todd noted this at 1:27:20 of his video along with a lot of other minor claims he didn't feel like debunking (probably because they're semi-subjective), but Somerton claims in this video that in Cabaret the Emcee "[uses] his position to spread Nazi propaganda and sow the seeds of hatred and intolerance." While I haven't actually watched Cabaret on stage or screen, this is fairly dubious, I could see how Somerton would think this because he does invoke Nazism in his act more often as it becomes more and more dominant in Germany (he has a famous song where he talks about how much he loves this woman in a gorilla suit, says "if you could see her through my eyes" you'd love her too, then at the end says "she wouldn't look Jewish at all!" showing how normalized that attitude has become), in many productions he is straight-up depicted as a victim of the Nazis, sometimes with a yellow star and/or pink triangle on his uniform. So his evocations of Nazism are probably ironic, although many people had missed that so I feel like it's more of Somerton misinterpreting things, I don't know if this is straight-up wrong but it's definitely worth noting.
+
+</comment>
 </compare>
 
 <compare>

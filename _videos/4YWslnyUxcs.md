@@ -261,6 +261,11 @@ So now that we've got some context, let me get to the reason why I call this the
 
 </james>
 <from></from>
+<comment {% include commenter for= tobi %}>
+
+The studio system did not put faith in *Stonewall*, because *Stonewall* was an independent film, so not part of the studio system at all.
+
+</comment>
 </compare>
 
 <compare>
@@ -271,7 +276,7 @@ So now that we've got some context, let me get to the reason why I call this the
 </james>
 <comment id="stonewall_domestic" {% include commenter for=tobi %}>
 
-*Stonewall* made $187,000 *domestically*; it made $293,000 worldwide. Not that the difference is particularly meaningful. Honestly, it seems like it was just a bad movie; the reviews were abysmal. But yes, there was backlash and boycotts too.
+*Stonewall* made $187,000 *domestically*; it made $293,000 worldwide. Not that the difference is particularly meaningful. Also, it was never going to be a blockbuster - it was a small independent film, with a small budget and no relation to Hollywood.
 
 </comment>
 </compare>

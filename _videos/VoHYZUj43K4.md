@@ -885,7 +885,7 @@ Sounds deep, right? For a very brief time, Ern Malley's poems were the *toast* o
 <compare>
 <james {% include timecode %}>
 
-Enter Australian writers James McAuley and Harold Stewart, who set out to prove that all this new poetry was much ado about nothing. They edited a couple of existing poems and wrote a couple of new ones to be what they consider to be bad writing. And developed a tragic backstory for the late Ern Mali, and mailed off the poems.
+Enter Australian writers James McAuley and Harold Stewart, who set out to prove that all this new poetry was much ado about nothing. They edited a couple of existing poems and wrote a couple of new ones to be what they consider to be bad writing. And developed a tragic backstory for the late Ern Malley, and mailed off the poems.
 
 But even after they were revealed to be a hoax, Ern Malley remained a celebrity poet, even though people knew he was fake. Poets, especially in America and England, believe that Stuart and McAuley had outsmarted themselves. And that in the process of trying to create nonsense, they somehow managed to reach down and tap into true genius. Genius that they never could reach in their *own* poetry. In other words, imagine your head is so far up your ass that you would literally rather claim that your pranker is too stupid to write bad poetry then admit that you suck at analyzing it.
 
