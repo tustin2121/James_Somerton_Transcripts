@@ -755,7 +755,7 @@ If you want more on Dracula’s queer coding, my video [Monsters in the Closet](
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The pre-Stonewall era for <span stat:id="y-persecution">gay</span> <span stat:id="y-misogyny">men</span></mark> <mark>in American society</mark> <mark>was mostly a time of repression, fear, and the darkness of the closet. It was a time of conformity not just for gay people, but</mark> <span stat:id="y-exclusion">everyone</span>, <mark>who were expected to play their role in order to keep America safe from “Godless Communists.”</mark> 
 

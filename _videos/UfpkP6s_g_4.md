@@ -5,7 +5,7 @@ redirect_from:
 
 date: 2020-08-30
 title: Making It Big：The History of Gay Adult Film (Documentary)
-status: Auto
+status: Finished
 aka: !!seq
   - "Making It Big：The History of Gay Adult Cinema"
 topics: !!seq

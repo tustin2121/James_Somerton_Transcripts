@@ -260,7 +260,6 @@ So now that we've got some context, let me get to the reason why I call this the
 <span visual="stonewall" on="?" off="?">Directed by Roland Emmerich, the movie did what every historical movie has done and whitewashed the story. It wasn't drag queens, gay, and transgender people of color who started the fight for gay rights,</span> it was a pretty blonde boy from Kansas! Or Nebraska...! One of the flat states!
 
 </james>
-<from></from>
 <comment {% include commenter for= tobi %}>
 
 The studio system did not put faith in *Stonewall*, because *Stonewall* was an independent film, so not part of the studio system at all.

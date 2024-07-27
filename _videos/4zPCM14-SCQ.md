@@ -5,7 +5,7 @@ redirect_from:
 date: 2018-10-22
 title: Monsters in the Closet #- A History of LGBT Representation in Horror Cinema (Video essay)
 runtime: 56:35
-status: Auto
+status: Finished
 aka: !!seq
   - "A History of LGBT Representation in Horror Cinema"
 topics: !!seq
@@ -38,17 +38,17 @@ cite:
   misinformation: !!map
   plagiarized: !!map
     wiki_lit: { color: 1, short: "Gay Literature (Wikipedia, 2018)", full: "Wikipedia. (2018, Oct 10). <em>Gay literature</em> [Article]. Retrieved Apr 21, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Gay_literature&oldid=863434426" }
-    homo_codes: { color: 2, short: "", full: "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University. Retrieved Apr 21, 2024, from", url: "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", type: "student" }
-    gothic_studies: { color: 3, short: "Gothic Studies (Eberle-Sinatra, 2005)", full: "Eberle-Sinatra, M. (2005, Nov). Readings of Homosexuality in Mary Shelley's Frankenstein and Four Film Adaptions [Chapter]. In <em>Gothic Studies</em> (Vol 7, Iss 2, pp185-202). ISSN 1362-7937. <a href='https://doi.org/10.7227/GS.7.2.7'>https://doi.org/10.7227/GS.7.2.7</a>. Retrieved Apr 21, 2024, from", url: "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/13519/homosexuality-frankenstein_Sinatra-ROC.pdf?sequence=3&isAllowed=y" }
+    homo_codes: { color: 2, short: "(Muriqi, 2007)", full: "Muriqi, L. (2007). <em>Homoerotic codes in The Picture of Dorian Gray</em> [Academic paper]. A60 Literary Seminar. Department of English, Lund University. Retrieved Apr 21, 2024, from", url: "https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=1366551&fileOId=1366552", type: "student" }
+    gothic_studies: { color: 3, short: "(Eberle-Sinatra, 2005)", full: "Eberle-Sinatra, M. (2005, Nov). Readings of Homosexuality in Mary Shelley's Frankenstein and Four Film Adaptions [Chapter]. In <em>Gothic Studies</em> (Vol 7, Iss 2, pp185-202). ISSN 1362-7937. <a href='https://doi.org/10.7227/GS.7.2.7'>https://doi.org/10.7227/GS.7.2.7</a>. Retrieved Apr 21, 2024, from", url: "https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/13519/homosexuality-frankenstein_Sinatra-ROC.pdf?sequence=3&isAllowed=y" }
     the_take: { color: 4, short: "(Saporito, 2015)", full: "Saporito, J. (2015, Dec 1). <em>Why Is “Bride Of Frankenstein” Often Analyzed As A Gay Parable?</em> The Take.", url: "https://the-take.com/read/why-is-abride-of-frankensteina-often-analyzed-as-a-gay-parable" }
-    wiki_dracula: { color: 5, short: "Dracula's Daughter" (Wikipedia, 2018)", full: "Wikipedia. (2018, Oct 8). <em>Dracula's Daughter</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications" }
+    wiki_dracula: { color: 5, short: "Dracula's Daughter (Wikipedia, 2018)", full: "Wikipedia. (2018, Oct 8). <em>Dracula's Daughter</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications" }
     wiki_nightmare: { color: 6, short: "Freddy's Revenge (Wikipedia, 2018)", full: "Wikipedia. (2018, Oct 1). <em>A Nightmare on Elm Street 2: Freddy's Revenge</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge&oldid=862007103#Homoerotic_subtext" }
-    wiki_gaypanic: { color: 7, short: "Gay panic defense (Wikipedia, 2018)", full: "Wikipedia. (2018, May 2)." <em>Gay panic defense</em>. Retrieved July 4, 2024, from" , url: "https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=839228741" }
+    wiki_gaypanic: { color: 7, short: "Gay panic defense (Wikipedia, 2018)", full: "Wikipedia. (2018, May 2). <em>Gay panic defense</em>. Retrieved July 4, 2024, from" , url: "https://en.wikipedia.org/w/index.php?title=Gay_panic_defense&oldid=839228741" }
     wiki_cruising: { color: 8, short: "Cruising (Wikipedia, 2018)", full: "Wikipedia. (2018, Oct 11). <em>Cruising</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Cruising_(film)&oldid=863495842" }
     wiki_aids: { color: 9, short: "History of HIV/AIDS (Wikipedia, 2018)", full: "Wikipedia. (2018, Sep 23). <em>History of HIV/AIDS</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=History_of_HIV/AIDS&oldid=860848254#History_of_spread"}
-    wiki_rope: { color: 10, short "Rope (Wikipedia, 2018", full: "Wikipedia. (2018, Sep 28). <em>Rope</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Rope_(film)&oldid=861633195#Plot" }
+    wiki_rope: { color: 10, short: "Rope (Wikipedia, 2018)", full: "Wikipedia. (2018, Sep 28). <em>Rope</em>. Retrieved July 4, 2024, from", url: "https://en.wikipedia.org/w/index.php?title=Rope_(film)&oldid=861633195#Plot" }
     sociological_cinema: { color: 11, short: "(Staubs, 2014)", full: "Staubs, S. (2014, Aug 25). <em>The Not-So-Hidden Transphobia in Silence of the Lambs</em>. The Sociological Cinema. Retrieved July 4, 2024, from", url: "https://www.thesociologicalcinema.com/blog/the-not-so-hidden-transphobia-in-silence-of-the-lambs" }
-    cracked_coville: { color: 12, short: "Cracked article (Coville, 2009)", full: "Coville, C. (2009, Feb 27). <em>The 5 Most Unintentionally Gay Horror Movies</em>. Cracked. Retrieved July 4, 2024, from", url: "https://www.cracked.com/article_17097_the-5-most-unintentionally-gay-horror-movies.html" }
+    cracked_coville: { color: 12, short: "(Coville, 2009)", full: "Coville, C. (2009, Feb 27). <em>The 5 Most Unintentionally Gay Horror Movies</em>. Cracked. Retrieved July 4, 2024, from", url: "https://www.cracked.com/article_17097_the-5-most-unintentionally-gay-horror-movies.html" }
     brightlights_poole: { color: 13, short: "(Poole, 2008)", full: "Poole, J. (2008, July 31). <em>Psycho: Queering Hitchcock’s Classic</em>. Bright Lights Film Journal. Retrieved July 4, 2024, from", url: "https://brightlightsfilm.com/psychoqueering-hitchcocks-classic-queering-hitchcocks-classic/#footnote_16_17237" }
 ---
 {% assign tustin = site.data.cite.tustin2121 %}
@@ -256,13 +256,11 @@ Now, instead of pulling quotes from novels and intellectual articles for the res
 
 </james>
 <from></from>
-<compare>
 <clip {% include citation for=page.cite.clips.frankenstein %}>
 
 Frankenstein: "IT'S ALIVE!!" *Grabbed by two people* "In the name of god! Now I know what it feels like to be God!"
 
 </clip>
-</compare>
 <james {% include timecode %}>
 
 Mary Shelley's *Frankenstein: Or, the Modern Prometheus*. Victor Frankenstein, the titular mad scientist, shows little to no interest in his  wife-to-be and is determined to create life on his own: his own perfect man. (Something explored without subtlety in *The Rocky Horror Picture Show*.) But when digging up the body parts that he'll eventually use to compile the monster, he makes sure to pick the... *sexiest* body parts he can find. He wants an Adonis, just like Frank-N-Furter. 
@@ -400,8 +398,6 @@ Lilli: Please don't come any closer!
 </james>
 <from {% include citation for=page.cite.wiki_dracula at="Lesbian implications ¶ 1-2" %}>
 
-https://en.wikipedia.org/w/index.php?title=Dracula%27s_Daughter&oldid=863095938#Lesbian_implications
-
 [...] <mark>PCA head Breen</mark> took special notice of the scene between the Countess and her model, Lili, writing, <mark>"This will need very careful handling to avoid any questionable flavor."<sup>[35]</sup></mark> The day before the scene was to be shot, Universal's Harry Zehner asked Breen to read a draft of the scene. In response, Breen wrote:
 
 > The present suggestion that ... Lili poses in the nude will be changed. She will be posing her neck and shoulders, and there will be no suggestion that she undresses, and there will be no exposure of her person. It was also stated that the present incomplete sequence will be followed by a scene in which Lili is taken to a hospital and there it will be definitely established that she has been attacked by a vampire. <mark>The whole sequence will be treated in such a way as to avoid any suggestion of perverse sexual desire on the part of Marya or of an attempted sexual attack by her upon Lili.<sup>[35]</sup></mark>
@@ -438,12 +434,11 @@ But we wouldn't be the monsters forever. In a time when the gay community was be
 ## Part Two: America's New Nightmare
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 American horror movies went through a revolution of sorts during the 1950s, 60s and 70s, shifting to more sci-fi than horror. Aliens from other worlds and creatures born of nuclear fallout peppered cinemas across the country. Movies about the horrors of the nuclear bombs, such as *Godzilla*, were easy enough to figure out. <mark fc=false>There wasn't a whole lot of subtext to Godzilla being a byproduct of the atomic attacks on Hiroshima and Nagasaki.</mark> The sci-fi and alien movies were a bit more cleverly coded though. Although never clearly stated, aliens were communists. They were the Russians, the Chinese, the Cubans or Vietnamese. They were infiltrating the wholesomeness of America and preparing to destroy it from within. They represented the other, the un-American, which for conservatives at the time meant a whole lot more than just communists. It also meant civil rights leaders, women's rights activists, and homosexuals. *Invasion of the Body Snatchers*, *The Thing from the Other World*<sup class="add">[sic: *The Thing from Another World*]</sup>, and even *Plan 9 from Outer Space* directed by the infamously queer Ed Wood are just some examples of such films. 
 
 </james>
-<from></from>
 <comment {% include commenter for= sf1 %}>
 
 This is false. Per the Wikipedia article on the original Godzilla film and the Overly Sarcastic Productions video on kaiju, Godzilla was canonically a byproduct of nuclear testing, not the US bombing Japan.
@@ -467,7 +462,6 @@ To clarify, Ed Wood was only attracted to women, but regularly crossdressed and 
 After the Vietnam War, horror began to take a more inward look at America. Movies like *Psycho*, which I'll talk more about in Part 3, *Night of the Living Dead*, and *The Texas Chain Saw Massacre* looked at the horror that already existed in America, the homegrown evils. *Night of the Living Dead* for instance was a barely veiled allegory for the burgeoning American right wing - the racists and bigots refusing to pass on, even returning from the dead. The introspection of horror and the 60s and 70s made a lot of people in America very uncomfortable. The horror was no longer coming from without, but from within. Tobe Hooper's *Texas Chain Saw* and Wes Craven's *The Hills Have Eyes* and *The Last House on the Left*, all showing how "normal" Americans can turn, how they could easily become corrupted, evil, willing to kill their own countrymen. 
 
 </james>
-<from></from>
 <comment {% include commenter for= tobi %}>
 
 *Psycho*, *Night of the Living Dead*, and *The Texas Chain Saw Massacre* were all released during the Vietnam War, not after.
@@ -476,7 +470,7 @@ After the Vietnam War, horror began to take a more inward look at America. Movie
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Then in the late 70s and early 80s, a new form of horror arrived in America, one that, at least at first, seemed to leave good Christian Americans alone: <q>Acquired Immunodeficiency Syndrome</q> - AIDS. <mark>On June 5, 1981, the Center for Disease Control and Prevention</mark> <mark>reported clusters of pneumonia</mark> <mark>among gay men in</mark> New York and <mark>Los Angeles.</mark> <mark>Over the next 18 months, otherwise healthy men of a certain sexual persuasion began dropping dead in every major city in the country.</mark> The CDC <mark>initially called this <q>GRID - Gay Related Immune Deficiency</q>.</mark> <mark>It wasn't until August of 1982 that it was officially named AIDS.</mark> It would be another two years before the cause of the syndrome, a retrovirus called the Human Immunodeficiency Virus, was discovered. 
 
@@ -507,7 +501,6 @@ As far as I can tell, the CDC never used the name GRID. [According to Wikipedia]
 In the meantime, political pundits across the country on both the right and left declared that AIDS was a moral punishment. Since the vast majority of people affected at first were gay men, they proclaimed that the disease was God's way of punishing the sinners, that only the truly righteous would escape the plague. <mark fc=false>Believe it or not, a lot of priests, mostly televangelists, would actually charge parishioners a fee to guarantee that they wouldn't get the disease. Their reasoning for it was that "well, you might have come in contact with someone with it and even just being a near one of those sinners was enough for God to kill you."</mark> <u>[sarcastically]</u> Because that's what Jesus would do. 
 
 </james>
-<from></from>
 <comment {% include commenter for= sf1 %}>
 
 This is an absolutely wild claim for which I can find no evidence.
@@ -658,7 +651,7 @@ Grady: And you want to sleep with me?
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 Remember, they had no idea that this was gay. 
 
@@ -852,7 +845,6 @@ To be fair, the obligatory girl-girl make-out scenes in modern slasher flicks de
 Now, before I bring this video to a close, I'd like to mention a movie that I watched, and you shouldn't. In doing my research for this, I was told over and over again to watch the movie *1313 Haunted Frat* from 2011, and I did. Basically, a frat house filled with boys walking around with their grandpa's white underwear is being haunted by a crazy woman who possesses them. That's it. There's no end of the story, there's no story, there's barely a plot, there's less acting talent than in a typical porn shoot, and I don't know what the hell this is, to be honest. This scene here, this goes on for 15 minutes. He walks around the house like this for 15 minutes! In this shower scene, 8 minutes! In this random-ass scene of proto-Zac Efron touching himself, 7 minutes! The bulk of the movie’s 1 hour and 15 minute runtime is made up of scenes like this. The other five or so minutes are made up of this guy trying to get his frat brothers to help him write a history of the frat and discovering that it was built on the site of a destroyed mental institution. I was convinced that I was watching a porno that had all the sex cut out, honestly. I mean, the acting, the directing, the blocking, they're all porno quality. No, no, that's mean. The blocking is actually much worse than it is in a porno. Now that you've been warned off of ever watching this disaster of a photo play, I'll do the actual ending to the video.
 
 </james>
-<from></from>
 <comment {% include commenter for= tobi %}>
 
 *1313 Haunted Frat* is part of a whole series of horror films beginning with "1313." They're all directed by [David DeCoteau](https://en.wikipedia.org/wiki/David_DeCoteau), who has a long, long history of making low budget, direct-to-video films. Since about the year 2000, he's made many, many extremely low budget homoerotic horror films, targeted at an audience of young women and gay men. In 2011, the year *1313 Haunted Frat* was released, he also made (as in, directed, wrote, and produced) five other *1313* films. In 2012, he made 8 *1313* films alongside several other movies. DeCoteau is also openly gay.
@@ -868,7 +860,6 @@ I am uncertain what kinds of sources may have recommended this movie to James.
 Throughout the 20th century and early into the 21st, gayness has remained coded in horror movies, with some minor, very nice exceptions. Jesse from *A Nightmare on Elm Street* isn't gay, but he's gay. The boys from *The Lost Boys* and *The Covenant* aren't gay, but they're gay. Actual gay characters did show up in some movies, like David in *The Bride of Chucky*, Luis in *American Psycho*, and Tom in *Scream 3* and Robbie in *Scream 4*, but they were all supporting characters with no real arc and not a whole lot to do in the story. Like every other genre in Hollywood, the LGBT community has mostly been left out of horror movies. Unless we're in a doomed love affair, a la *Brokeback Mountain*, or doomed to die in general, like in *Milk* or *Boys Don't Cry*, LGBT characters don't get a whole lot of attention. Considering how niche the horror genre is, it's kind of amazing that we've gotten as much mainstream attention as we have, even when it's as coded as it is. It's usually pretty hidden, but if we look hard enough, we can find ourselves in these movies. Sometimes, we don't have to look that hard at all. But there is one instance in which Hollywood has been more than happy to portray the LGBT community in both horror and mainstream movies. It's not a new trend; in fact, it's been around long before the gay-rights movement brought us into public light. We can always be the main draw for a movie if we're the killer.
 
 </james>
-<from></from>
 <comment {% include commenter for= tobi %}>
 
 Tom Prinze in *Scream 3* is not gay. [The original script has a scene where he asks out a female character and then a male character (both reject him), but the scene was not in the actual movie and may or may not have been filmed.](https://scream.fandom.com/wiki/Tom_Prinze) In *Scream 4*, Robbie Mercer isn't gay either. While discussing horror movie tropes with friends, it's said that the only way to be safe in a horror movie is to be gay; later, as the killer threatens him, Robbie desperately claims that he's gay, "if it helps." (It does not help.) The implication is that Robbie is lying in order to avoid being murdered.
@@ -877,7 +868,7 @@ Tom Prinze in *Scream 3* is not gay. [The original script has a scene where he a
 </compare>
 
 <compare>
-<clip {% include citation for=page.cite.clips. %}>
+<clip span=2 {% include citation for=page.cite.clips. %}>
 
 Male news anchor: James Miller will serve 10 years’ probation after killing his neighbor in East Austin. 
 
@@ -917,7 +908,7 @@ Additionally, the cuts makes it seem like Miller only received the probation (fr
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <mark>The first known use of this defense was in 1954, when a flight attendant named William Simpson was murdered by two men, Charles Lawrence and Richard Killen, in Miami, Florida. The two men had been posing as hitchhikers and robbing people who picked them up. They'd been doing this for months.</mark> But instead of robbing Simpson, they realized that he was gay and murdered him. <mark>The two men were convicted of manslaughter instead of first-degree murder after</mark> <mark>Simpson was characterized as a pervert during the trial.</mark> The gay panic defense has been used to successfully limit the sentences of or altogether acquit murderers of LGBT people in America ever since. Gay panic: because there is nothing scarier than a queer person. And for a long time, Hollywood agreed.
 
@@ -944,8 +935,6 @@ Members of the LGBTQ community have been used as villains by Hollywood since bef
 </james>
 <from {% include citation for=page.cite.wiki_rope at="Plot ¶ 1" %}>
 
-https://en.wikipedia.org/w/index.php?title=Rope_(film)&oldid=861633195#Plot
-
 Two brilliant young aesthetes, Brandon Shaw (Dall) and Phillip Morgan (Granger), strangle to death their former classmate from Harvard University, David Kentley (Dick Hogan), in their Manhattan penthouse apartment. <mark>They commit the crime as an intellectual exercise; they want to prove their superiority by committing the "perfect murder".</mark> 
 
 </from>
@@ -962,7 +951,7 @@ Brandon: I don’t know. Really, I don’t remember feeling very much anything u
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Hitchcock, in fact, wanted to see how far he could push the American rating system with the film. The couple's interaction is so intense at times that it’s been compared to watching a sex scene.<sup cn></sup> <mark fc=false>To maintain that, Hitchcock actually shot the film so that it appears to be one long 80-minute take. He did this so that once the film was put before the Hays Code, the then ratings board, they wouldn't be able to really force him to edit any of the movie out, sexual tension or not, without destroying the artistic value of the film.</mark> It's a pretty clever move, really. 
 
@@ -971,7 +960,6 @@ Jimmy Stewart plays Rupert in the movie, the couple’s professor, and joins the
 *Rope* is one of Hitchcock's least successful films at the box office, its financial failure being attributed to the gay undertones. It also perpetuated two damaging stereotypes of gay men: that of the dangerous, if not psychotic, homosexual and that of the gay man who thinks he's better than everyone else, the superior. Brandon and Phillip’s assumption that they could get away with murder, even with the victim’s corpse in the same room as a dinner party, shows their belief that homosexuals are superior to heterosexuals. This was a belief amongst straight people at the time. It was a sort of, “Ooh, those gays think they're better than us!” It was especially prevalent in England. I guess they were still sore over the whole Oscar Wilde thing. *Rope* wouldn't be the last time Hitchcock dealt with the LGBT community, though. He did so again in possibly his most famous film.
 
 </james>
-<from></from>
 <comment {% include commenter for= sf1 %}>
 
 This is false. I can find no source corroborating this claim.
@@ -1015,7 +1003,7 @@ The horrors of World War 2 and the upheaval of the 1960s and 70s seemed a world 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Marion meets Norman when escaping from her boring, unhappy life. <mark>A thin but attractive man, Norman is courteous and kind to Marion as he checks her into the motel,</mark> although he shows some odd tendencies, such as his connection with his domineering mother. 
 
@@ -1037,7 +1025,7 @@ So, when it's revealed at the end of the movie that Norman is not only the kille
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 But Hollywood's fearmongering of the LGBT community would soon turn deadly with the 1980 release of *Cruising*. <mark>In the sweltering heat of a New York summer, severed body parts of murdered gay men are appearing in the Hudson River.</mark> <mark>Because of his resemblance to the victims, the NYPD puts Officer Steve Burns, played by Al Pacino, on the case.</mark> So, Al Pacino moves to the gay area of town, goes to a few leather bars, makes friends with a gay guy, and spends most of the movie ignoring his wife while hunting down the mystery killer, who spends the movie killing gay men. Eventually, it's revealed that the killer is himself a gay man with schizophrenia. He's arrested, but then the gay guy Al Pacino had become friends with turns up dead, and the movie ends with a not-so-subtle hint that Al Pacino may have been the killer all along.  
 
@@ -1070,7 +1058,7 @@ Throughout the summer of 1979, members of New York's gay community protested aga
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Once production wrapped, <mark>the MPAA saddled the film with an NC-17 rating,</mark> forcing director William Friedkin, who also directed 1970s’ very gay *The Boys in the Band*, to <mark>cut 40 minutes from the film in order to secure an R rating.</mark> 
 
@@ -1142,7 +1130,7 @@ Released on Valentine's Day, *Silence of the Lambs*, adapted from the novel by T
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 <u>[Clip: “We interrupt this program to bring you a special report.”]</u> 
 
@@ -1151,7 +1139,6 @@ Released on Valentine's Day, *Silence of the Lambs*, adapted from the novel by T
 <u>[Clip: “We now return to your regularly scheduled program.”]</u>
 
 </james>
-<from></from>
 <comment {% include commenter for= sf1 %}>
 
 This is false. [The Wikipedia article for Rope](https://en.wikipedia.org/w/index.php?title=Rope_(film)&oldid=861633195#cite_note-19) quotes a contemporaneous review that calls the film a psychological thriller.
@@ -1184,7 +1171,7 @@ Hannibal: Billy is not a real transsexual, but he thinks he is. He tries to be. 
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Gumb is certainly a deranged character and is, in the very least, bisexual, having been in a relationship with one of Hannibal's male patients as well as women in the past, but his identity as a transgender character is far more questionable. He has a self-loathing that is well beyond anything typical. His own self-hatred drives him to want to be something else, anything else, than what he actually is. Although he's likely more gay than bisexual, he has an obsession with women stemming from his mother abandoning him as a child. He would eventually find out that she was an alcoholic prostitute but went on to create a beauty queen image of his mother in his head, the perfect woman, a woman that anyone would want to be, including him. Buffalo Bill was not a transgender individual but, as Lecter said, he wanted to be. He applied for gender reassignment surgery at multiple hospitals but was universally declined because of his mental state. Despite what Republicans think, you can't just get a sex change. There's a massive amount of psychological testing before doctors will move forward with the procedure, <mark>especially in the case of male-to-female gender confirmation.</mark> So, when Bill was denied this procedure, he decided to make himself into a woman any way he could.
 
@@ -1198,7 +1185,7 @@ Transgender men have to go through just as much psychological testing as transge
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 There was massive backlash against the film upon release, as the LGBT community accused the movie of both transphobia and homophobia. The director, Jonathan Demme, did his best to defend the film, but most people still look at it as a piece of overtly anti-LGBT cinema. Although it was stated very clearly that from a psychological perspective, Buffalo Bill is not a transgender person, it's still a thorny situation. Bill's gender identity is only commented on by cisgender people in the book and film, and so cisgender people are in essence deciding whether or not a person is transgender. Trans activists argued that if Buffalo Bill thinks he is transgender, then he is, and it's not the place of the cisgender characters to decide. Which would mean that Bill is a terrible representation of transgender women, who, for the most part, are very passive and nonviolent. In fact, trans women are infinitely more likely to be the victim of a violent crime than the perpetrator of one, and therefore, the argument that *Silence of the Lambs* is a transphobic film holds some weight. 
 
@@ -1216,7 +1203,7 @@ In addition to crazed killers, *Silence of the Lambs* portrays transgender women
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Regarding this type of transgender character in fiction, LGBT activist Savannah Stobbs said, <q>“Transgender women are often represented as psychotic killers as a lazy method of responding to mainstream society's fear of gender nonconforming people. This popular trope in film reinforces the idea that being transgender is unnatural and perverted, and pathologizes gender fluidity." 
 
@@ -1236,7 +1223,7 @@ Transgender people are frequently demeaned, misgendered, and denied healthcare b
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 In the book, it is noted by a specialist who saw Bill about the gender confirmation surgery that he did not present any of the characteristics of a transgender woman, furthering the argument, in the fiction at least, that he is not transgender. And of course, Buffalo Bill is not a real person. He is a character created by an author and then interpreted by filmmakers. Thomas Harris did not write a transgender character but an extremely psychologically disturbed one, a character with a horrifying childhood, lifelong emotional instability, and violent tendencies. A psychopathic character that hates himself so much that he's willing to torture, kill, and fillet women to be someone else. There could be a debate to be had whether or not Buffalo Bill is a transgender character, but the most important thing might be how his character was perceived by audiences, and many audiences did see him as a transgender character. Buffalo Bill’s presence can still be felt today in bathroom laws across the United States and in the fearmongering of right-wing conservatives. Buffalo Bill has even been mentioned by Fox News commentators when trying to defend the discriminatory bathroom laws, <mark fc=false>with some Republicans even nicknaming North Carolina's bathroom law HB 2 “the Buffalo Bill.”</mark> So, even though Thomas Harris and Jonathan Demme did not intend for Bill to be a trans character, he is now ingrained in the public consciousness as the worst possible example of the transgender community. A highly unrealistic one.
 
@@ -1250,7 +1237,7 @@ I can find no contemporaneous evidence of this nickname. This claim is likely fa
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 LGBT villains would remain a staple in Hollywood films for years to come. The bisexual Catherine Tramell in 1992’s *Basic Instinct* drew the ire of lesbian and bisexual groups especially, pointing out how bisexuals had minimal, if any, representation in mainstream media and how the biggest bisexual character was a murderous, narcissistic psychopath. But where *Cruising*, which did portray some LGBT characters as human and sympathetic, failed at the box office, *Basic Instinct* portrayed a murderous bisexual woman and was box office gold, taking in three hundred and fifty million dollars in 1992. That's over half a billion dollars when you adjust it for inflation. Hollywood brought out the bisexual villains several more times in the 1990s, most notably in *The Talented Mr. Ripley* in 1999, but none of them had quite as much success as *Basic Instinct*.
 
@@ -1264,12 +1251,11 @@ LGBT villains would remain a staple in Hollywood films for years to come. The bi
 </compare> 
 
 <compare>
-<james {% include timecode %}>
+<james span=3 {% include timecode %}>
 
 So, as you can see, the LGBT community has been fodder for Hollywood's villain machine for almost a century. We can be portrayed as the terrifying other, the corrupted city dwellers that the suburbanites have fled from. But Hollywood itself has strayed away from portraying gay characters as villains in more recent years. You'd be hard-pressed to find a Buffalo Bill in a cinema near you in 2018. In fact, there's another remake of *Psycho* in the works, and they've already said that Norman will not be dressing as his mother in this version. So, things have gotten better. Mainstream media no longer portrays us as monsters. Teenage girls and their moms were the biggest audience for this year's *Love, Simon*. But with GLAAD’s 2018 survey of LGBT representation in cinema showing that our percentage of representation on the big screen is lower now than it has been in over a decade, maybe we need to ask the question, is no representation better than bad representation? 
 
 </james>
-<from></from>
 <comment {% include commenter for= sf1 %}>
 
 I can’t find any evidence of this movie existing. The only reference I can find to a 2018 Psycho remake is [Psycho (2018) | Fanon Wiki | Fandom](https://fanon.fandom.com/wiki/Psycho_(2018)), which is explicitly a fan idea for a remake. The TV show “Bates Motel” did have Norman act as his mother without switching clothes, but that series ended in 2017.

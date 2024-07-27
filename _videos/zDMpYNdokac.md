@@ -215,7 +215,7 @@ This is just not what happened. It *was* Gaiman’s concept originally, but it s
 </compare>
 
 <compare>
-<james {% include timecode %}>
+<james span=2 {% include timecode %}>
 
 Insofar as the authors developed this cosmos, neither angels nor demons have sex organs, nor do they actively seek out sexual intercourse. And <span stat:id="baa">by all accounts</span>, gender is more or less described based on how an observer might categorize them. Regardless, even at that, this he-they angel-demon duo are so incredibly married, it was basically a joke even at the time of *Good Omens*’ publication. 
 
