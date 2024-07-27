@@ -49,6 +49,7 @@ contributors:
 recs:
   - { title: "Anime is GREAT. Eren&nbsp;Yeager is NOT...", author: "F.D Signifier", url: "https://www.youtube.com/watch?v=8T8JX5b2IMo", desc: "Discusses cultures created by anime." }
   - { title: "Attack on Titan and the Road to Fascism", author: "Lost Futures", url: "https://www.youtube.com/watch?v=a8B-p2ke9uU", desc: "Analyzes the details of the manga.", by: ["The Ace Couple"] }
+  - { title: "Ern Malley: The Greatest Poet Who Never Was", author: "Roughest Drafts", url: "https://www.youtube.com/watch?v=9m3bytB5ULw", desc: "", by: ["LVence"] }
 
 cite:
   clips: !!map
