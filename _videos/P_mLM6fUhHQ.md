@@ -156,11 +156,7 @@ cite:
 {% assign hbomb = site.data.cite.hbomb.video %}
 
 <compare>
-<credits header="Video Thumbnail:">
-
-![Alt text](../media/thumbs/P_mLM6fUhHQ.jpg)
-
-</credits>
+{% include meta-history video=page %}
 <from {% include citation for=page.cite.plagiarized.thumbnail %}>
 
 ![Alt text](../media/stormpilot_by_ewasarts_dbh8l9b-414w-2x.jpg)
@@ -168,9 +164,6 @@ cite:
 This thumbnail is [uncredited, stolen artwork](https://www.deviantart.com/ewasarts/art/Stormpilot-694082207) of Poe and Finn by ewasarts.
 
 </from>
-</compare>
-<compare>
-{% include meta-history video=page %}
 <credits class="desc">
 
 A look into what Film Theory is... what Queer Theory is... and why it does matter, actually.
